@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "reviewer": "author_le01_le02",
+  "visuallyInspectedPages": 14,
+  "inputs": {
+    "quiz/year-4/english/ac9e4ly01/worksheet/index.html": "147a7657a889fdbe1fcf892668a41f7a84243a91d0b0ddd2928060994e9cf5b9",
+    "quiz/year-4/english/ac9e4ly01/worksheet/worksheet-questions.js": "3931c90d31b169f839b5848f8534617c44db890ea7d3ab8233027f9a4adc9c21",
+    "quiz/assets/worksheet-pdf.js": "cbd7e0c97f0a212a400d8ca4c1b2d3c88db4f7916ef886e732b3eb5185dc580d",
+    "scripts/validate_year4_english_la01_pdf.mjs": "75ac44d9164732dac5d48e7fcc8be5f346ec19f53f0fb3442201a246c24b7d6f"
+  },
+  "outputs": [
+    {
+      "file": "/workspace/scratch/687de93465e2/engineering-ly01-final-reviewed-pdf/1-comparing-texts-from-different-times-worksheet.pdf",
+      "pages": 7,
+      "images": [],
+      "responseLines": {
+        "ac9e4ly01-w-003": 6,
+        "ac9e4ly01-w-002": 5,
+        "ac9e4ly01-w-007": 8,
+        "ac9e4ly01-w-006": 7,
+        "ac9e4ly01-w-001": 5,
+        "ac9e4ly01-w-008": 7,
+        "ac9e4ly01-w-005": 5,
+        "ac9e4ly01-w-004": 6
+      },
+      "sha256": "1e49291ff7ce22270cc2360897bc2e4c78c41066bb4ab54e4dd9944ff221572a"
+    },
+    {
+      "file": "/workspace/scratch/687de93465e2/engineering-ly01-final-reviewed-pdf/2-comparing-texts-from-different-times-worksheet.pdf",
+      "pages": 7,
+      "images": [],
+      "responseLines": {
+        "ac9e4ly01-w-007": 8,
+        "ac9e4ly01-w-005": 5,
+        "ac9e4ly01-w-006": 7,
+        "ac9e4ly01-w-002": 5,
+        "ac9e4ly01-w-003": 6,
+        "ac9e4ly01-w-001": 5,
+        "ac9e4ly01-w-008": 7,
+        "ac9e4ly01-w-004": 6
+      },
+      "sha256": "71f46de87542f8fd864df4f8832593dd81a8e3bac7b2e4535ac929aeef98fa0c"
+    }
+  ],
+  "renderedPageHashes": {
+    "variant1-1.png": "9af453ecbc65ef754fc4685733afea8b8189f375e0889004c83373c1638218d9",
+    "variant1-2.png": "43ce25c1aa3ff5cd3b7711a7f2914ccd4ad9e8cdd5ca08482916d5c8df7bbbc0",
+    "variant1-3.png": "feef10a0740254622e569a776564c96fc286fb8d26d68258dc3a0bda31aabe90",
+    "variant1-4.png": "7fedd3ed7dcefd71a989caef9878703e931c7637f9fa32a5908314763c64c5ab",
+    "variant1-5.png": "4093cb211f2bdb78152ba70ddebb0c732db05f602540e2ae6ec6bb75035f4cff",
+    "variant1-6.png": "495e1b1cd4203763489b5b7e9815b368bc1c250dc1062ec60eacc8a4068c18db",
+    "variant1-7.png": "c4b34c9350faa83658203c6146505e51800ad56427427540546100a0b25efa0a",
+    "variant2-1.png": "0a8adc659cc44c1c2f70ca87e7c2e0172f9f5e4458b5f7eaf41c83f813bb3c11",
+    "variant2-2.png": "1c5e0558a849c08f68a49e6f5431f143d3cc2f6812ddb137efc1adae6f4175ed",
+    "variant2-3.png": "b690c30f00e8222d27d1c055486bfe7c0c1fa3b0374ff94201f3480d89be7ae8",
+    "variant2-4.png": "d6bea46d78ded08c9b27d8c99938cf78849eed05d5d256d3400eea2e9af58961",
+    "variant2-5.png": "4093cb211f2bdb78152ba70ddebb0c732db05f602540e2ae6ec6bb75035f4cff",
+    "variant2-6.png": "89cb8d3ecd59e846d8bace67bde28674101844ccae08c0974dbe0c64cf612541",
+    "variant2-7.png": "8b7462df5abc9c5b8f5ec8a7acea32750365a19a5aa70c909da4fcb96149efe0"
+  }
+}

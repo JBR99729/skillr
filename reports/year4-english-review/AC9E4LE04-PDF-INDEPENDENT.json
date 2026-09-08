@@ -1,0 +1,61 @@
+{
+  "status": "PASS",
+  "reviewer": "author_le01_le02",
+  "visuallyInspectedPages": 14,
+  "inputs": {
+    "quiz/year-4/english/ac9e4le04/worksheet/index.html": "293b9efeea2ac105d03f926d9bed94356d34951cbb02426ab717311350ebf628",
+    "quiz/year-4/english/ac9e4le04/worksheet/worksheet-questions.js": "3a6954bc6e76e187ac582cdccb29e1ff128ee37c7eef3ae71db2131f29ec721b",
+    "quiz/assets/worksheet-pdf.js": "cbd7e0c97f0a212a400d8ca4c1b2d3c88db4f7916ef886e732b3eb5185dc580d",
+    "scripts/validate_year4_english_la01_pdf.mjs": "8bb87b1d6a59bfdb1e9c3072471fac1279d63b814e0e68b90477246539b4f292"
+  },
+  "outputs": [
+    {
+      "file": "/workspace/scratch/687de93465e2/engineering-le04-reviewed-pdf/1-literary-devices-and-deliberate-word-play-worksheet-worksheet.pdf",
+      "pages": 7,
+      "images": [],
+      "responseLines": {
+        "ac9e4le04-w-006": 8,
+        "ac9e4le04-w-003": 6,
+        "ac9e4le04-w-005": 6,
+        "ac9e4le04-w-007": 8,
+        "ac9e4le04-w-001": 6,
+        "ac9e4le04-w-008": 10,
+        "ac9e4le04-w-004": 8,
+        "ac9e4le04-w-002": 8
+      },
+      "sha256": "1bc11abf1ca5cf45089a5f737322012074599544498118524ef862f05292b81a"
+    },
+    {
+      "file": "/workspace/scratch/687de93465e2/engineering-le04-reviewed-pdf/2-literary-devices-and-deliberate-word-play-worksheet-worksheet.pdf",
+      "pages": 7,
+      "images": [],
+      "responseLines": {
+        "ac9e4le04-w-008": 10,
+        "ac9e4le04-w-006": 8,
+        "ac9e4le04-w-004": 8,
+        "ac9e4le04-w-005": 6,
+        "ac9e4le04-w-007": 8,
+        "ac9e4le04-w-001": 6,
+        "ac9e4le04-w-003": 6,
+        "ac9e4le04-w-002": 8
+      },
+      "sha256": "bce8c314edaef6b175673203618393768e0a033b4488a0a59d019c0097440aa8"
+    }
+  ],
+  "renderedPageHashes": {
+    "variant1-1.png": "09437a1b4b236681d8da73253b6edbb7775a1b324d7b4bc104bc4865865f74d4",
+    "variant1-2.png": "2cbaec878a5bac92a79be186b430333fe25cf0882e676c5f086326d922792fc0",
+    "variant1-3.png": "c07172fc0a9b4855e39ad92c70c4838bf3e61ecf1940e9586ee0e7450cba6ead",
+    "variant1-4.png": "a5cc957dd48fb9d071743e460fa7dae6ae3401f37c19a12de0583cd0590531b4",
+    "variant1-5.png": "6b96c0efe244938d87a07970f4c28a8963bb6009bc99980e29c9e6e1df52f4eb",
+    "variant1-6.png": "6d7860730dfee28d60df326a3600375956b3683da7974e8140298dc596b6ad0c",
+    "variant1-7.png": "888e903ebd9639add5e32a3a5c93f4e5da997d244a9ecafc95cc1a4621c47ba5",
+    "variant2-1.png": "becc54530afde754e98ff8bb9d2693f1c34dcf99462602bd6e8a8f5dc5f03f41",
+    "variant2-2.png": "42336e02ed297249b96f3a88ee87fa876f12e1b03834adec8bfab738412022de",
+    "variant2-3.png": "f0f8f57528d225e6d8eae8d2511b54a082cfcf2f026b86fd6a78417e7901f689",
+    "variant2-4.png": "d521f2832529655c6e3bcacc6233cd4b2fb2468edca37990704fdbafeb3887e5",
+    "variant2-5.png": "6b96c0efe244938d87a07970f4c28a8963bb6009bc99980e29c9e6e1df52f4eb",
+    "variant2-6.png": "1bb0275614d8cd2473f3936985eeffd4fda96ab2d7da4fa83ef95fd7c499dabb",
+    "variant2-7.png": "96b587fd0730251be2afb2b7d10ae045bbf2d13f2147b3e281d6a8ceaf1347a5"
+  }
+}

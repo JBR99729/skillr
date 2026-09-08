@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Literature Across Times and Cultures",
-    "question": "In comparing two stories in which a child must leave home, which option best demonstrates the skill?",
-    "audio_prompt": "In comparing two stories in which a child must leave home, which option best demonstrates the skill?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: At the skate park, Liv noticed a newcomer sitting alone. She offered to practise a slow turn with him. B: On a long ship journey, Anika saw a new passenger standing apart. She invited him to join a quiet card game. What idea do both texts suggest?",
+    "audio_prompt": "A: At the skate park, Liv noticed a newcomer sitting alone. She offered to practise a slow turn with him. B: On a long ship journey, Anika saw a new passenger standing apart. She invited him to join a quiet card game. What idea do both texts suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+        "text": "A small invitation can help someone feel included",
         "is_correct": true
       },
       {
-        "text": "The stories are identical because both characters travel.",
+        "text": "Everyone enjoys the same activity",
         "is_correct": false
       },
       {
-        "text": "Only the publication date matters.",
+        "text": "Travelling always creates arguments",
+        "is_correct": false
+      },
+      {
+        "text": "Newcomers prefer being alone",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
-      "hint": "Compare what happens and why it matters in each story."
-    }
+      "summary": "Both characters notice someone alone and invite them into a shared activity.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LE01-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which choice fits comparing two stories in which a child must leave home most accurately?",
-    "audio_prompt": "Which choice fits comparing two stories in which a child must leave home most accurately?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: At the skate park, Liv noticed a newcomer sitting alone. She offered to practise a slow turn with him. B: On a long ship journey, Anika saw a new passenger standing apart. She invited him to join a quiet card game. Which comparison of the actions is accurate?",
+    "audio_prompt": "A: At the skate park, Liv noticed a newcomer sitting alone. She offered to practise a slow turn with him. B: On a long ship journey, Anika saw a new passenger standing apart. She invited him to join a quiet card game. Which comparison of the actions is accurate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The stories are identical because both characters travel.",
+        "text": "Both invite someone to skate",
         "is_correct": false
       },
       {
-        "text": "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+        "text": "Liv offers physical practice; Anika offers a game",
         "is_correct": true
       },
       {
-        "text": "Only the publication date matters.",
+        "text": "Liv leaves the newcomer alone; Anika does too",
+        "is_correct": false
+      },
+      {
+        "text": "Both characters are travelling on a ship",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
-      "hint": "Compare what happens and why it matters in each story."
-    }
+      "summary": "The settings and activities differ, while the welcoming action is shared.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LE01-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which choice fits comparing a traditional tale with a modern retelling most accurately?",
-    "audio_prompt": "Which choice fits comparing a traditional tale with a modern retelling most accurately?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: When a robot contest went wrong, Tom blamed his partner. Later he listened, apologised and helped rebuild. B: After a village cart broke, Mila blamed her friend. Hearing what happened, she apologised and helped mend the wheel. Which storyline pattern is shared?",
+    "audio_prompt": "A: When a robot contest went wrong, Tom blamed his partner. Later he listened, apologised and helped rebuild. B: After a village cart broke, Mila blamed her friend. Hearing what happened, she apologised and helped mend the wheel. Which storyline pattern is shared?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The retelling has no connection because the character names differ.",
+        "text": "A character continues blaming a friend after the repair",
         "is_correct": false
       },
       {
-        "text": "Every retelling must copy every event exactly.",
+        "text": "A shared task succeeds before either friend makes a mistake",
         "is_correct": false
       },
       {
-        "text": "The retelling keeps the journey pattern but changes the setting and the character’s choices.",
+        "text": "A mistake in judging a friend is followed by listening and repair",
         "is_correct": true
+      },
+      {
+        "text": "An argument ends with the friends choosing to work separately",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
-      "hint": "Look for underlying patterns as well as changed details."
-    }
+      "summary": "Both plots move from blame to listening, apology and cooperative repair.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LE01-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Look closely at comparing a traditional tale with a modern retelling. Which response or wording works best?",
-    "audio_prompt": "Look closely at comparing a traditional tale with a modern retelling. Which response or wording works best?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: When a robot contest went wrong, Tom blamed his partner. Later he listened, apologised and helped rebuild. B: After a village cart broke, Mila blamed her friend. Hearing what happened, she apologised and helped mend the wheel. Which difference matters to the contexts?",
+    "audio_prompt": "A: When a robot contest went wrong, Tom blamed his partner. Later he listened, apologised and helped rebuild. B: After a village cart broke, Mila blamed her friend. Hearing what happened, she apologised and helped mend the wheel. Which difference matters to the contexts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The retelling keeps the journey pattern but changes the setting and the character’s choices.",
+        "text": "Only one text includes an apology",
+        "is_correct": false
+      },
+      {
+        "text": "Only one pair helps repair something",
+        "is_correct": false
+      },
+      {
+        "text": "One story has friends and the other has none",
+        "is_correct": false
+      },
+      {
+        "text": "One pair repairs a contest robot; the other repairs a cart",
         "is_correct": true
-      },
-      {
-        "text": "The retelling has no connection because the character names differ.",
-        "is_correct": false
-      },
-      {
-        "text": "Every retelling must copy every event exactly.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
-      "hint": "Look for underlying patterns as well as changed details."
-    }
+      "summary": "The objects and situations change; both include friendship and an apology.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LE01-P-005",
@@ -126,28 +178,42 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Look closely at comparing family relationships in two Australian novels. Which response or wording works best?",
-    "audio_prompt": "Look closely at comparing family relationships in two Australian novels. Which response or wording works best?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Bea’s grandmother quietly placed a repaired scarf beside her bag before the cold walk. B: Omar’s uncle said, “Take my coat; I want you to stay warm,” before Omar left. What relationship idea do both texts show?",
+    "audio_prompt": "A: Bea’s grandmother quietly placed a repaired scarf beside her bag before the cold walk. B: Omar’s uncle said, “Take my coat; I want you to stay warm,” before Omar left. What relationship idea do both texts show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both are the same because each book has a grandparent.",
-        "is_correct": false
-      },
-      {
-        "text": "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.",
+        "text": "Care can be shown through practical help",
         "is_correct": true
       },
       {
-        "text": "Neither can be compared because the families live in different places.",
+        "text": "Relatives always avoid speaking",
+        "is_correct": false
+      },
+      {
+        "text": "The children ask their relatives to repair the same scarf",
+        "is_correct": false
+      },
+      {
+        "text": "Both adults express concern only through spoken instructions",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Relationships can be similar in purpose while being represented differently.",
-      "hint": "Use evidence about how characters act and speak."
-    }
+      "summary": "Both adults act to keep the child warm.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LE01-P-006",
@@ -156,28 +222,42 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Literature Across Times and Cultures",
-    "question": "For comparing family relationships in two Australian novels, which option is the strongest match?",
-    "audio_prompt": "For comparing family relationships in two Australian novels, which option is the strongest match?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Bea’s grandmother quietly placed a repaired scarf beside her bag before the cold walk. B: Omar’s uncle said, “Take my coat; I want you to stay warm,” before Omar left. How is care expressed differently?",
+    "audio_prompt": "A: Bea’s grandmother quietly placed a repaired scarf beside her bag before the cold walk. B: Omar’s uncle said, “Take my coat; I want you to stay warm,” before Omar left. How is care expressed differently?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both are the same because each book has a grandparent.",
+        "text": "A has no caring action; B does",
         "is_correct": false
       },
       {
-        "text": "Neither can be compared because the families live in different places.",
-        "is_correct": false
-      },
-      {
-        "text": "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.",
+        "text": "A emphasises a quiet action; B includes a spoken offer",
         "is_correct": true
+      },
+      {
+        "text": "A uses a direct speech offer; B is silent",
+        "is_correct": false
+      },
+      {
+        "text": "Both adults ask the children for coats",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Relationships can be similar in purpose while being represented differently.",
-      "hint": "Use evidence about how characters act and speak."
-    }
+      "summary": "The grandmother’s silent repair and uncle’s words are different expressions of care.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LE01-P-007",
@@ -186,28 +266,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Literature Across Times and Cultures",
-    "question": "For comparing a First Nations Australian story and another story about Country or place, which option is the strongest match?",
-    "audio_prompt": "For comparing a First Nations Australian story and another story about Country or place, which option is the strongest match?",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1890: Elsie carried water to the small orchard during a dry week, hoping the young trees would survive. B, set today: Theo saved rainwater in a barrel and watered the school’s new trees during a dry week. What shared idea about nature is supported?",
+    "audio_prompt": "Original fictional scenes. A, set in 1890: Elsie carried water to the small orchard during a dry week, hoping the young trees would survive. B, set today: Theo saved rainwater in a barrel and watered the school’s new trees during a dry week. What shared idea about nature is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+        "text": "The earlier child worries about the trees, while the modern child ignores them",
+        "is_correct": false
+      },
+      {
+        "text": "Only the school setting shows human care for young trees",
+        "is_correct": false
+      },
+      {
+        "text": "Young trees may need people’s care in dry weather",
         "is_correct": true
       },
       {
-        "text": "All stories about land mean exactly the same thing.",
-        "is_correct": false
-      },
-      {
-        "text": "Cultural context should be ignored during comparison.",
+        "text": "The orchard scene suggests giving up on vulnerable plants",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
-      "hint": "Notice similarities, then keep important cultural differences visible."
-    }
+      "summary": "Both children give water to young trees during dryness.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LE01-P-008",
@@ -216,28 +309,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which example should you choose for comparing a First Nations Australian story and another story about Country or place?",
-    "audio_prompt": "Which example should you choose for comparing a First Nations Australian story and another story about Country or place?",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1890: Elsie carried water to the small orchard during a dry week, hoping the young trees would survive. B, set today: Theo saved rainwater in a barrel and watered the school’s new trees during a dry week. Which claim goes beyond these two scenes?",
+    "audio_prompt": "Original fictional scenes. A, set in 1890: Elsie carried water to the small orchard during a dry week, hoping the young trees would survive. B, set today: Theo saved rainwater in a barrel and watered the school’s new trees during a dry week. Which claim goes beyond these two scenes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "All stories about land mean exactly the same thing.",
+        "text": "Both scenes involve watering trees",
         "is_correct": false
       },
       {
-        "text": "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+        "text": "One child waters an orchard; the other waters trees at school",
+        "is_correct": false
+      },
+      {
+        "text": "Both children respond to a dry week",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone in 1890 cared for nature in exactly the same way",
         "is_correct": true
-      },
-      {
-        "text": "Cultural context should be ignored during comparison.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
-      "hint": "Notice similarities, then keep important cultural differences visible."
-    }
+      "summary": "One invented scene cannot establish what everyone in a historical period believed or did.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LE01-P-009",
@@ -246,28 +352,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which example should you choose for comparing two quest stories from different countries?",
-    "audio_prompt": "Which example should you choose for comparing two quest stories from different countries?",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1910: After a storm, Asha watched new shoots rise beside a fallen branch and wrote about nature beginning again. B, set today: Kai photographed flowers growing through a crack after a flood and called them a sign of renewal. Which idea links the scenes?",
+    "audio_prompt": "Original fictional scenes. A, set in 1910: After a storm, Asha watched new shoots rise beside a fallen branch and wrote about nature beginning again. B, set today: Kai photographed flowers growing through a crack after a flood and called them a sign of renewal. Which idea links the scenes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The stories are identical because they both have a journey.",
-        "is_correct": false
-      },
-      {
-        "text": "Only the length of the books can be compared.",
-        "is_correct": false
-      },
-      {
-        "text": "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.",
+        "text": "New growth can suggest renewal after damage",
         "is_correct": true
+      },
+      {
+        "text": "Storms never damage living things",
+        "is_correct": false
+      },
+      {
+        "text": "Both scenes show people preventing all future damage",
+        "is_correct": false
+      },
+      {
+        "text": "Fallen branches stop all growth",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
-      "hint": "Move beyond surface features to what the events suggest."
-    }
+      "summary": "Shoots after a storm and flowers after a flood both suggest new beginnings.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LE01-P-010",
@@ -276,28 +395,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Literature Across Times and Cultures",
-    "question": "In comparing two quest stories from different countries, which option best demonstrates the skill?",
-    "audio_prompt": "In comparing two quest stories from different countries, which option best demonstrates the skill?",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1910: After a storm, Asha watched new shoots rise beside a fallen branch and wrote about nature beginning again. B, set today: Kai photographed flowers growing through a crack after a flood and called them a sign of renewal. Which detail changes how the characters record their response?",
+    "audio_prompt": "Original fictional scenes. A, set in 1910: After a storm, Asha watched new shoots rise beside a fallen branch and wrote about nature beginning again. B, set today: Kai photographed flowers growing through a crack after a flood and called them a sign of renewal. Which detail changes how the characters record their response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.",
+        "text": "Asha sees flowers; Kai sees no plants",
+        "is_correct": false
+      },
+      {
+        "text": "Asha writes; Kai photographs",
         "is_correct": true
       },
       {
-        "text": "The stories are identical because they both have a journey.",
+        "text": "Asha feels renewal; Kai feels only anger",
         "is_correct": false
       },
       {
-        "text": "Only the length of the books can be compared.",
+        "text": "Both make the same photograph",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
-      "hint": "Move beyond surface features to what the events suggest."
-    }
+      "summary": "The recording method differs while the response to new growth is similar.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LE01-P-011",
@@ -305,29 +437,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Why does “Both stories explore separation, but the reasons for leaving and the family expectations are different.” work well for comparing two stories in which a child must leave home?",
-    "audio_prompt": "Why does “Both stories explore separation, but the reasons for leaving and the family expectations are different.” work well for comparing two stories in which a child must leave home?",
+    "stage": "recognise",
+    "skill": "comparing_literary_contexts",
+    "question": "A: In the old farmhouse, the family passed a bowl of stew and left the largest serving for the aunt who had worked late. B: In a city flat, the family kept a plate of noodles warm for a brother finishing his evening class. What everyday relationship is shared?",
+    "audio_prompt": "A: In the old farmhouse, the family passed a bowl of stew and left the largest serving for the aunt who had worked late. B: In a city flat, the family kept a plate of noodles warm for a brother finishing his evening class. What everyday relationship is shared?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The stories are identical because both characters travel.” is always acceptable in this situation.",
+        "text": "Both families eat exactly the same food",
         "is_correct": false
       },
       {
-        "text": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
+        "text": "The late person is excluded from dinner",
+        "is_correct": false
+      },
+      {
+        "text": "Family members consider someone who arrives late",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Every family must eat at the same time",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
-      "hint": "Compare what happens and why it matters in each story."
-    }
+      "summary": "Both meals include a thoughtful action for a late family member.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LE01-P-012",
@@ -335,29 +480,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Literature Across Times and Cultures",
-    "question": "What makes “Both stories explore separation, but the reasons for leaving and the family expectations are different.” a better choice in comparing two stories in which a child must leave home?",
-    "audio_prompt": "What makes “Both stories explore separation, but the reasons for leaving and the family expectations are different.” a better choice in comparing two stories in which a child must leave home?",
+    "stage": "recognise",
+    "skill": "comparing_literary_contexts",
+    "question": "A: In the old farmhouse, the family passed a bowl of stew and left the largest serving for the aunt who had worked late. B: In a city flat, the family kept a plate of noodles warm for a brother finishing his evening class. What can the scenes tell us safely?",
+    "audio_prompt": "A: In the old farmhouse, the family passed a bowl of stew and left the largest serving for the aunt who had worked late. B: In a city flat, the family kept a plate of noodles warm for a brother finishing his evening class. What can the scenes tell us safely?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The stories are identical because both characters travel.” is always acceptable in this situation.",
+        "text": "Every city family eats noodles",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "All farmhouse families cook stew",
         "is_correct": false
       },
       {
-        "text": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
+        "text": "Late arrivals are always older people",
+        "is_correct": false
+      },
+      {
+        "text": "These particular families show care through a meal",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
-      "hint": "Compare what happens and why it matters in each story."
-    }
+      "summary": "Fictional particulars can support a comparison without representing every family or culture.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LE01-P-013",
@@ -366,28 +524,42 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Literature Across Times and Cultures",
-    "question": "What makes “The retelling keeps the journey pattern but changes the setting and the character’s choices.” a better choice in comparing a traditional tale with a modern retelling?",
-    "audio_prompt": "What makes “The retelling keeps the journey pattern but changes the setting and the character’s choices.” a better choice in comparing a traditional tale with a modern retelling?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: When the class play needed a backdrop, Zed drew the plan and Hana painted it. B: To prepare the community feast, Priya kneaded dough while Arun shaped the rolls. Which idea fits both relationships?",
+    "audio_prompt": "A: When the class play needed a backdrop, Zed drew the plan and Hana painted it. B: To prepare the community feast, Priya kneaded dough while Arun shaped the rolls. Which idea fits both relationships?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
+        "text": "Different contributions can help a shared task succeed",
         "is_correct": true
       },
       {
-        "text": "Because “The retelling has no connection because the character names differ.” is always acceptable in this situation.",
+        "text": "One person must do every part",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Each pair competes to finish the task before the other person",
+        "is_correct": false
+      },
+      {
+        "text": "Each pair divides the work into exactly the same actions",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
-      "hint": "Look for underlying patterns as well as changed details."
-    }
+      "summary": "Both pairs contribute different useful work.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LE01-P-014",
@@ -396,28 +568,42 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which explanation best justifies “The retelling keeps the journey pattern but changes the setting and the character’s choices.” for comparing a traditional tale with a modern retelling?",
-    "audio_prompt": "Which explanation best justifies “The retelling keeps the journey pattern but changes the setting and the character’s choices.” for comparing a traditional tale with a modern retelling?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: When the class play needed a backdrop, Zed drew the plan and Hana painted it. B: To prepare the community feast, Priya kneaded dough while Arun shaped the rolls. Which comparison uses evidence from both texts?",
+    "audio_prompt": "A: When the class play needed a backdrop, Zed drew the plan and Hana painted it. B: To prepare the community feast, Priya kneaded dough while Arun shaped the rolls. Which comparison uses evidence from both texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The retelling has no connection because the character names differ.” is always acceptable in this situation.",
+        "text": "Both stories are about painting a school stage",
         "is_correct": false
       },
       {
-        "text": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
+        "text": "Planning and painting work together in A; kneading and shaping work together in B",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Only A contains cooperation",
+        "is_correct": false
+      },
+      {
+        "text": "Neither story gives anyone a particular task",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
-      "hint": "Look for underlying patterns as well as changed details."
-    }
+      "summary": "The answer names each pair’s complementary tasks.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LE01-P-015",
@@ -426,28 +612,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which explanation best justifies “Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.” for comparing family relationships in two Australian novels?",
-    "audio_prompt": "Which explanation best justifies “Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.” for comparing family relationships in two Australian novels?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: In a snowy mountain village, Leon lent his last candle so his neighbour could finish sewing. B: During a city power cut, Faye shared her torch so her neighbour could find medicine. What shared action links the plots?",
+    "audio_prompt": "A: In a snowy mountain village, Leon lent his last candle so his neighbour could finish sewing. B: During a city power cut, Faye shared her torch so her neighbour could find medicine. What shared action links the plots?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Both are the same because each book has a grandparent.” is always acceptable in this situation.",
+        "text": "Someone hides a neighbour’s belongings",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "A character keeps a light source instead of sharing it",
         "is_correct": false
       },
       {
-        "text": "Relationships can be similar in purpose while being represented differently.",
+        "text": "Someone shares a limited source of light to help a neighbour",
         "is_correct": true
+      },
+      {
+        "text": "A neighbour offers light after the task is already finished",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Relationships can be similar in purpose while being represented differently.",
-      "hint": "Use evidence about how characters act and speak."
-    }
+      "summary": "The candle and torch provide practical help in different situations.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LE01-P-016",
@@ -456,28 +655,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Literature Across Times and Cultures",
-    "question": "What should you notice about “Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.” in comparing family relationships in two Australian novels?",
-    "audio_prompt": "What should you notice about “Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.” in comparing family relationships in two Australian novels?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: In a snowy mountain village, Leon lent his last candle so his neighbour could finish sewing. B: During a city power cut, Faye shared her torch so her neighbour could find medicine. How do the needs differ?",
+    "audio_prompt": "A: In a snowy mountain village, Leon lent his last candle so his neighbour could finish sewing. B: During a city power cut, Faye shared her torch so her neighbour could find medicine. How do the needs differ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Relationships can be similar in purpose while being represented differently.",
+        "text": "Both neighbours need to finish sewing",
+        "is_correct": false
+      },
+      {
+        "text": "Both neighbours are looking for medicine",
+        "is_correct": false
+      },
+      {
+        "text": "Neither neighbour needs light",
+        "is_correct": false
+      },
+      {
+        "text": "A neighbour wants to sew; B’s neighbour needs to find medicine",
         "is_correct": true
-      },
-      {
-        "text": "Because “Both are the same because each book has a grandparent.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Relationships can be similar in purpose while being represented differently.",
-      "hint": "Use evidence about how characters act and speak."
-    }
+      "summary": "The shared helpful action responds to two different purposes.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LE01-P-017",
@@ -486,28 +698,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Literature Across Times and Cultures",
-    "question": "What should you notice about “Both texts show that place carries meaning, but each text must be understood in its own cultural context.” in comparing a First Nations Australian story and another story about Country or place?",
-    "audio_prompt": "What should you notice about “Both texts show that place carries meaning, but each text must be understood in its own cultural context.” in comparing a First Nations Australian story and another story about Country or place?",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1880: Along the shore, May drew birds in her notebook and left the nesting place undisturbed. B, set today: At a wetland, Noah used binoculars and stayed behind the nest-protection rope. What idea about nature is common?",
+    "audio_prompt": "Original fictional scenes. A, set in 1880: Along the shore, May drew birds in her notebook and left the nesting place undisturbed. B, set today: At a wetland, Noah used binoculars and stayed behind the nest-protection rope. What idea about nature is common?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “All stories about land mean exactly the same thing.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
+        "text": "Watching birds can go together with protecting their space",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Drawing always disturbs nests",
+        "is_correct": false
+      },
+      {
+        "text": "Only the earlier child chooses not to disturb the nesting space",
+        "is_correct": false
+      },
+      {
+        "text": "Both children approach the nests to improve their view",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
-      "hint": "Notice similarities, then keep important cultural differences visible."
-    }
+      "summary": "Both children observe while avoiding disturbance.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LE01-P-018",
@@ -516,28 +741,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which reason explains why “Both texts show that place carries meaning, but each text must be understood in its own cultural context.” suits comparing a First Nations Australian story and another story about Country or place?",
-    "audio_prompt": "Which reason explains why “Both texts show that place carries meaning, but each text must be understood in its own cultural context.” suits comparing a First Nations Australian story and another story about Country or place?",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1880: Along the shore, May drew birds in her notebook and left the nesting place undisturbed. B, set today: At a wetland, Noah used binoculars and stayed behind the nest-protection rope. Which difference is actually supplied?",
+    "audio_prompt": "Original fictional scenes. A, set in 1880: Along the shore, May drew birds in her notebook and left the nesting place undisturbed. B, set today: At a wetland, Noah used binoculars and stayed behind the nest-protection rope. Which difference is actually supplied?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “All stories about land mean exactly the same thing.” is always acceptable in this situation.",
+        "text": "May collects eggs; Noah photographs eggs",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
+        "text": "One child sketches; the other uses binoculars",
         "is_correct": true
+      },
+      {
+        "text": "Only Noah notices birds",
+        "is_correct": false
+      },
+      {
+        "text": "May lives in a city; Noah lives on a ship",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
-      "hint": "Notice similarities, then keep important cultural differences visible."
-    }
+      "summary": "The text specifies observation methods, but not the other proposed details.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LE01-P-019",
@@ -546,28 +784,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which reason explains why “Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.” suits comparing two quest stories from different countries?",
-    "audio_prompt": "Which reason explains why “Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.” suits comparing two quest stories from different countries?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Leila’s family sat on a woven mat for supper. When the younger child spilled water, Leila quietly refilled the cup. B: Max’s family ate around a kitchen table. When his younger sister dropped her fork, he brought another. What similarity is strongest?",
+    "audio_prompt": "A: Leila’s family sat on a woven mat for supper. When the younger child spilled water, Leila quietly refilled the cup. B: Max’s family ate around a kitchen table. When his younger sister dropped her fork, he brought another. What similarity is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "A strong comparison links plot patterns to the different ideas or values they express.",
+        "text": "The families use identical furniture",
+        "is_correct": false
+      },
+      {
+        "text": "Both children spill a drink",
+        "is_correct": false
+      },
+      {
+        "text": "A child helps a younger family member during a meal",
         "is_correct": true
       },
       {
-        "text": "Because “The stories are identical because they both have a journey.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Everyone eats without helping anyone",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
-      "hint": "Move beyond surface features to what the events suggest."
-    }
+      "summary": "The helping relationship is shared despite different meal arrangements.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LE01-P-020",
@@ -576,28 +827,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Why does “Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.” work well for comparing two quest stories from different countries?",
-    "audio_prompt": "Why does “Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.” work well for comparing two quest stories from different countries?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Leila’s family sat on a woven mat for supper. When the younger child spilled water, Leila quietly refilled the cup. B: Max’s family ate around a kitchen table. When his younger sister dropped her fork, he brought another. Which difference is stated rather than guessed?",
+    "audio_prompt": "A: Leila’s family sat on a woven mat for supper. When the younger child spilled water, Leila quietly refilled the cup. B: Max’s family ate around a kitchen table. When his younger sister dropped her fork, he brought another. Which difference is stated rather than guessed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The stories are identical because they both have a journey.” is always acceptable in this situation.",
+        "text": "One family is happier than the other",
         "is_correct": false
       },
       {
-        "text": "A strong comparison links plot patterns to the different ideas or values they express.",
+        "text": "One family is richer than the other",
+        "is_correct": false
+      },
+      {
+        "text": "One family never uses forks",
+        "is_correct": false
+      },
+      {
+        "text": "One meal takes place on a mat; the other around a table",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
-      "hint": "Move beyond surface features to what the events suggest."
-    }
+      "summary": "The settings state where they sit, without proving wealth, happiness or all customs.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LE01-P-021",
@@ -605,29 +869,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which revision best fixes the problem in “The stories are identical because both characters travel.” for comparing two stories in which a child must leave home?",
-    "audio_prompt": "Which revision best fixes the problem in “The stories are identical because both characters travel.” for comparing two stories in which a child must leave home?",
+    "stage": "explain",
+    "skill": "comparing_literary_contexts",
+    "question": "A: At first, Mira refused help with the heavy box. When it tipped, she asked her friend to lift the other end. B: Ben tried to row alone, but the boat turned in circles. He asked his cousin to take an oar. Which shared storyline is supported?",
+    "audio_prompt": "A: At first, Mira refused help with the heavy box. When it tipped, she asked her friend to lift the other end. B: Ben tried to row alone, but the boat turned in circles. He asked his cousin to take an oar. Which shared storyline is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The stories are identical because both characters travel.",
-        "is_correct": false
-      },
-      {
-        "text": "Only the publication date matters.",
-        "is_correct": false
-      },
-      {
-        "text": "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+        "text": "A character moves from trying alone to accepting help",
         "is_correct": true
+      },
+      {
+        "text": "A helpful person is punished for sharing",
+        "is_correct": false
+      },
+      {
+        "text": "A journey is cancelled before it starts",
+        "is_correct": false
+      },
+      {
+        "text": "A cousin refuses every request",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Compare what happens and why it matters in each story."
-    }
+      "summary": "Both characters change from solo effort to cooperation.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LE01-P-022",
@@ -635,29 +912,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Compare the choices for comparing two stories in which a child must leave home. Which one avoids the mistake in “The stories are identical because both characters travel.”?",
-    "audio_prompt": "Compare the choices for comparing two stories in which a child must leave home. Which one avoids the mistake in “The stories are identical because both characters travel.”?",
+    "stage": "explain",
+    "skill": "comparing_literary_contexts",
+    "question": "A: At first, Mira refused help with the heavy box. When it tipped, she asked her friend to lift the other end. B: Ben tried to row alone, but the boat turned in circles. He asked his cousin to take an oar. Which comparison explains a shared idea rather than just retelling one event?",
+    "audio_prompt": "A: At first, Mira refused help with the heavy box. When it tipped, she asked her friend to lift the other end. B: Ben tried to row alone, but the boat turned in circles. He asked his cousin to take an oar. Which comparison explains a shared idea rather than just retelling one event?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+        "text": "Mira lifted a box",
+        "is_correct": false
+      },
+      {
+        "text": "Both scenes suggest accepting help can make a difficult task manageable",
         "is_correct": true
       },
       {
-        "text": "The stories are identical because both characters travel.",
+        "text": "Ben was in a boat",
         "is_correct": false
       },
       {
-        "text": "Only the publication date matters.",
+        "text": "There is an oar in B",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Compare what happens and why it matters in each story."
-    }
+      "summary": "The answer connects the two plots to a broader, supported idea.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LE01-P-023",
@@ -665,29 +955,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Compare the choices for comparing a traditional tale with a modern retelling. Which one avoids the mistake in “The retelling has no connection because the character names differ.”?",
-    "audio_prompt": "Compare the choices for comparing a traditional tale with a modern retelling. Which one avoids the mistake in “The retelling has no connection because the character names differ.”?",
+    "stage": "explain",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1925: Rosa listened to frogs after rain and felt reassured that the creek was alive again. B, set today: Jai heard frogs return to a restored pond and smiled at the sound. What similar response to nature appears?",
+    "audio_prompt": "Original fictional scenes. A, set in 1925: Rosa listened to frogs after rain and felt reassured that the creek was alive again. B, set today: Jai heard frogs return to a restored pond and smiled at the sound. What similar response to nature appears?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The retelling has no connection because the character names differ.",
+        "text": "Frogs make both characters frightened",
         "is_correct": false
       },
       {
-        "text": "The retelling keeps the journey pattern but changes the setting and the character’s choices.",
+        "text": "Both characters plan to drain the water",
+        "is_correct": false
+      },
+      {
+        "text": "The return of frogs brings pleasure or reassurance",
         "is_correct": true
       },
       {
-        "text": "Every retelling must copy every event exactly.",
+        "text": "The scenes show that ponds never change",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for underlying patterns as well as changed details."
-    }
+      "summary": "Both welcome frog sounds connected with renewed life.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LE01-P-024",
@@ -695,29 +998,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Literature Across Times and Cultures",
-    "question": "If “The retelling has no connection because the character names differ.” does not work in comparing a traditional tale with a modern retelling, what should replace it?",
-    "audio_prompt": "If “The retelling has no connection because the character names differ.” does not work in comparing a traditional tale with a modern retelling, what should replace it?",
+    "stage": "explain",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1925: Rosa listened to frogs after rain and felt reassured that the creek was alive again. B, set today: Jai heard frogs return to a restored pond and smiled at the sound. Which statement keeps time and context distinct?",
+    "audio_prompt": "Original fictional scenes. A, set in 1925: Rosa listened to frogs after rain and felt reassured that the creek was alive again. B, set today: Jai heard frogs return to a restored pond and smiled at the sound. Which statement keeps time and context distinct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The retelling has no connection because the character names differ.",
+        "text": "Both scenes happen in 1925",
         "is_correct": false
       },
       {
-        "text": "Every retelling must copy every event exactly.",
+        "text": "Both scenes describe the same pond",
         "is_correct": false
       },
       {
-        "text": "The retelling keeps the journey pattern but changes the setting and the character’s choices.",
+        "text": "Only one scene includes frogs",
+        "is_correct": false
+      },
+      {
+        "text": "Rosa responds to rain at a creek; Jai responds to a restored pond",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for underlying patterns as well as changed details."
-    }
+      "summary": "The natural settings and circumstances differ while the response is related.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LE01-P-025",
@@ -725,29 +1041,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Literature Across Times and Cultures",
-    "question": "If “Both are the same because each book has a grandparent.” does not work in comparing family relationships in two Australian novels, what should replace it?",
-    "audio_prompt": "If “Both are the same because each book has a grandparent.” does not work in comparing family relationships in two Australian novels, what should replace it?",
+    "stage": "explain",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Before their friend moved away, the group gave her a notebook filled with shared memories. B: Before a sailor left the island, his friends sang a song recalling their adventures. What similar purpose do the gifts and song serve?",
+    "audio_prompt": "A: Before their friend moved away, the group gave her a notebook filled with shared memories. B: Before a sailor left the island, his friends sang a song recalling their adventures. What similar purpose do the gifts and song serve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.",
+        "text": "They express friendship and remember shared experiences",
         "is_correct": true
       },
       {
-        "text": "Both are the same because each book has a grandparent.",
+        "text": "They prevent anyone from leaving",
         "is_correct": false
       },
       {
-        "text": "Neither can be compared because the families live in different places.",
+        "text": "They help the departing person forget earlier friendships",
+        "is_correct": false
+      },
+      {
+        "text": "They express disappointment by avoiding shared memories",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Relationships can be similar in purpose while being represented differently. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use evidence about how characters act and speak."
-    }
+      "summary": "Both acts mark a departure by recalling a relationship.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LE01-P-026",
@@ -755,29 +1084,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which option corrects the meaning or form needed for comparing family relationships in two Australian novels?",
-    "audio_prompt": "Which option corrects the meaning or form needed for comparing family relationships in two Australian novels?",
+    "stage": "explain",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Before their friend moved away, the group gave her a notebook filled with shared memories. B: Before a sailor left the island, his friends sang a song recalling their adventures. How do the forms of remembrance differ?",
+    "audio_prompt": "A: Before their friend moved away, the group gave her a notebook filled with shared memories. B: Before a sailor left the island, his friends sang a song recalling their adventures. How do the forms of remembrance differ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both are the same because each book has a grandparent.",
+        "text": "Both are recorded in notebooks",
         "is_correct": false
       },
       {
-        "text": "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.",
+        "text": "One is written in a notebook; one is sung",
         "is_correct": true
       },
       {
-        "text": "Neither can be compared because the families live in different places.",
+        "text": "Only the sailor has any friends",
+        "is_correct": false
+      },
+      {
+        "text": "Both groups give maps",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Relationships can be similar in purpose while being represented differently. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use evidence about how characters act and speak."
-    }
+      "summary": "The first uses writing, the second a song; both preserve memories.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LE01-P-027",
@@ -785,29 +1127,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which option corrects the meaning or form needed for comparing a First Nations Australian story and another story about Country or place?",
-    "audio_prompt": "Which option corrects the meaning or form needed for comparing a First Nations Australian story and another story about Country or place?",
+    "stage": "explain",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Every Sunday, a child and grandfather made soup while he told stories from his childhood. B: On holiday mornings, a child rolled bread with an aunt as she told stories about growing up. Which link between meals and relationships is shared?",
+    "audio_prompt": "A: Every Sunday, a child and grandfather made soup while he told stories from his childhood. B: On holiday mornings, a child rolled bread with an aunt as she told stories about growing up. Which link between meals and relationships is shared?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "All stories about land mean exactly the same thing.",
+        "text": "Both children cook alone in silence",
         "is_correct": false
       },
       {
-        "text": "Cultural context should be ignored during comparison.",
+        "text": "Every family tells the same childhood story",
         "is_correct": false
       },
       {
-        "text": "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+        "text": "Preparing food provides time to share family memories",
         "is_correct": true
+      },
+      {
+        "text": "Only grandfathers can pass on memories",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Notice similarities, then keep important cultural differences visible."
-    }
+      "summary": "In both scenes, cooking and storytelling bring generations together.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LE01-P-028",
@@ -815,29 +1170,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which choice is the clearest correction for comparing a First Nations Australian story and another story about Country or place?",
-    "audio_prompt": "Which choice is the clearest correction for comparing a First Nations Australian story and another story about Country or place?",
+    "stage": "explain",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Every Sunday, a child and grandfather made soup while he told stories from his childhood. B: On holiday mornings, a child rolled bread with an aunt as she told stories about growing up. Which difference is supported?",
+    "audio_prompt": "A: Every Sunday, a child and grandfather made soup while he told stories from his childhood. B: On holiday mornings, a child rolled bread with an aunt as she told stories about growing up. Which difference is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+        "text": "The aunt tells no stories",
+        "is_correct": false
+      },
+      {
+        "text": "The grandfather makes bread",
+        "is_correct": false
+      },
+      {
+        "text": "Both routines happen every Sunday",
+        "is_correct": false
+      },
+      {
+        "text": "Different relatives share memories during different cooking routines",
         "is_correct": true
-      },
-      {
-        "text": "All stories about land mean exactly the same thing.",
-        "is_correct": false
-      },
-      {
-        "text": "Cultural context should be ignored during comparison.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Notice similarities, then keep important cultural differences visible."
-    }
+      "summary": "The relatives, foods and timing differ, but the relationship activity is similar.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LE01-P-029",
@@ -845,29 +1213,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which choice is the clearest correction for comparing two quest stories from different countries?",
-    "audio_prompt": "Which choice is the clearest correction for comparing two quest stories from different countries?",
+    "stage": "apply",
+    "skill": "comparing_literary_contexts",
+    "question": "A: After losing a running race, Sam practised pacing and completed the next race without stopping. B: After a clay tower collapsed, Tia tested a wider base and built one that stood. What shared idea is supported?",
+    "audio_prompt": "A: After losing a running race, Sam practised pacing and completed the next race without stopping. B: After a clay tower collapsed, Tia tested a wider base and built one that stood. What shared idea is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The stories are identical because they both have a journey.",
-        "is_correct": false
-      },
-      {
-        "text": "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.",
+        "text": "Learning from a setback can help with a later attempt",
         "is_correct": true
       },
       {
-        "text": "Only the length of the books can be compared.",
+        "text": "Success means always winning first place",
+        "is_correct": false
+      },
+      {
+        "text": "Clay building and running require the same technique",
+        "is_correct": false
+      },
+      {
+        "text": "A first failure must end the activity",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A strong comparison links plot patterns to the different ideas or values they express. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Move beyond surface features to what the events suggest."
-    }
+      "summary": "Both adjust their approach after difficulty; Sam’s success is completion, not a stated win.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LE01-P-030",
@@ -875,29 +1256,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which revision best fixes the problem in “The stories are identical because they both have a journey.” for comparing two quest stories from different countries?",
-    "audio_prompt": "Which revision best fixes the problem in “The stories are identical because they both have a journey.” for comparing two quest stories from different countries?",
+    "stage": "apply",
+    "skill": "comparing_literary_contexts",
+    "question": "A: After losing a running race, Sam practised pacing and completed the next race without stopping. B: After a clay tower collapsed, Tia tested a wider base and built one that stood. Which important difference prevents an over-simple comparison?",
+    "audio_prompt": "A: After losing a running race, Sam practised pacing and completed the next race without stopping. B: After a clay tower collapsed, Tia tested a wider base and built one that stood. Which important difference prevents an over-simple comparison?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The stories are identical because they both have a journey.",
+        "text": "Both win a first prize",
         "is_correct": false
       },
       {
-        "text": "Only the length of the books can be compared.",
-        "is_correct": false
-      },
-      {
-        "text": "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.",
+        "text": "Sam improves endurance; Tia improves stability",
         "is_correct": true
+      },
+      {
+        "text": "Only Sam experiences a setback",
+        "is_correct": false
+      },
+      {
+        "text": "Only Tia makes another attempt",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A strong comparison links plot patterns to the different ideas or values they express. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Move beyond surface features to what the events suggest."
-    }
+      "summary": "The shared improvement occurs through different skills and measures of success.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LE01-P-031",
@@ -906,28 +1300,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "You now need to handle comparing two stories in which a child must leave home independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle comparing two stories in which a child must leave home independently. Which choice should you use?",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1900: At the farm, Isla listened to wind bending the wheat and felt small beside its power. B, set today: From an apartment window, Evan watched a storm sway tall trees and felt nature’s strength. What idea about nature links the scenes?",
+    "audio_prompt": "Original fictional scenes. A, set in 1900: At the farm, Isla listened to wind bending the wheat and felt small beside its power. B, set today: From an apartment window, Evan watched a storm sway tall trees and felt nature’s strength. What idea about nature links the scenes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+        "text": "The city scene focuses on people controlling the storm",
+        "is_correct": false
+      },
+      {
+        "text": "People control every storm",
+        "is_correct": false
+      },
+      {
+        "text": "Nature can seem powerful beside people",
         "is_correct": true
       },
       {
-        "text": "Only the publication date matters.",
-        "is_correct": false
-      },
-      {
-        "text": "The stories are identical because both characters travel.",
+        "text": "Nature seems powerful only in the earlier setting",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
-      "hint": "Compare what happens and why it matters in each story."
-    }
+      "summary": "Both characters notice wind’s force and respond to its power.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LE01-P-032",
@@ -936,28 +1343,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Apply the same idea to comparing two stories in which a child must leave home. Which option is best?",
-    "audio_prompt": "Apply the same idea to comparing two stories in which a child must leave home. Which option is best?",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1900: At the farm, Isla listened to wind bending the wheat and felt small beside its power. B, set today: From an apartment window, Evan watched a storm sway tall trees and felt nature’s strength. Which conclusion is supported without generalising about a whole period?",
+    "audio_prompt": "Original fictional scenes. A, set in 1900: At the farm, Isla listened to wind bending the wheat and felt small beside its power. B, set today: From an apartment window, Evan watched a storm sway tall trees and felt nature’s strength. Which conclusion is supported without generalising about a whole period?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Only the publication date matters.",
+        "text": "The earlier character fears every kind of weather",
         "is_correct": false
       },
       {
-        "text": "Both stories explore separation, but the reasons for leaving and the family expectations are different.",
+        "text": "Modern city residents all respond to storms in the same way",
+        "is_correct": false
+      },
+      {
+        "text": "The apartment setting shows that Evan is uninterested in nature",
+        "is_correct": false
+      },
+      {
+        "text": "These two characters notice nature’s strength in different settings",
         "is_correct": true
-      },
-      {
-        "text": "The stories are identical because both characters travel.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A useful comparison identifies a genuine similarity and a meaningful difference shaped by context.",
-      "hint": "Compare what happens and why it matters in each story."
-    }
+      "summary": "The evidence concerns these two fictional characters and settings.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LE01-P-033",
@@ -966,28 +1386,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Apply the same idea to comparing a traditional tale with a modern retelling. Which option is best?",
-    "audio_prompt": "Apply the same idea to comparing a traditional tale with a modern retelling. Which option is best?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Nina kept the last dumpling for a visiting cousin who had not tasted it. B: In another story, Leo offered the first ripe peach to a guest at the family table. Which relationship idea links these meal scenes?",
+    "audio_prompt": "A: Nina kept the last dumpling for a visiting cousin who had not tasted it. B: In another story, Leo offered the first ripe peach to a guest at the family table. Which relationship idea links these meal scenes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Every retelling must copy every event exactly.",
-        "is_correct": false
-      },
-      {
-        "text": "The retelling has no connection because the character names differ.",
-        "is_correct": false
-      },
-      {
-        "text": "The retelling keeps the journey pattern but changes the setting and the character’s choices.",
+        "text": "Offering food can make a guest feel welcome",
         "is_correct": true
+      },
+      {
+        "text": "Guests must always eat dumplings",
+        "is_correct": false
+      },
+      {
+        "text": "Both families grow peaches",
+        "is_correct": false
+      },
+      {
+        "text": "The cousins refuse to share",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
-      "hint": "Look for underlying patterns as well as changed details."
-    }
+      "summary": "Each host offers a valued food to a guest.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LE01-P-034",
@@ -996,28 +1429,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which decision would produce the clearest result in comparing a traditional tale with a modern retelling?",
-    "audio_prompt": "Which decision would produce the clearest result in comparing a traditional tale with a modern retelling?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Nina kept the last dumpling for a visiting cousin who had not tasted it. B: In another story, Leo offered the first ripe peach to a guest at the family table. Which difference is supplied?",
+    "audio_prompt": "A: Nina kept the last dumpling for a visiting cousin who had not tasted it. B: In another story, Leo offered the first ripe peach to a guest at the family table. Which difference is supplied?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The retelling keeps the journey pattern but changes the setting and the character’s choices.",
+        "text": "One welcomes a guest; the other excludes one",
+        "is_correct": false
+      },
+      {
+        "text": "One offers the last dumpling; the other the first ripe peach",
         "is_correct": true
       },
       {
-        "text": "Every retelling must copy every event exactly.",
+        "text": "Both offer the last item on a plate",
         "is_correct": false
       },
       {
-        "text": "The retelling has no connection because the character names differ.",
+        "text": "Both guests dislike the food",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Retellings can preserve a storyline pattern while adapting details for another audience or time.",
-      "hint": "Look for underlying patterns as well as changed details."
-    }
+      "summary": "The particular food and timing differ; the welcoming action is shared.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LE01-P-035",
@@ -1026,28 +1472,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which decision would produce the clearest result in comparing family relationships in two Australian novels?",
-    "audio_prompt": "Which decision would produce the clearest result in comparing family relationships in two Australian novels?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: A child finds a wallet on a bus and gives it to the driver. B: A child finds a pouch beside a village well and takes it to the owner named inside. Which storyline is shared?",
+    "audio_prompt": "A: A child finds a wallet on a bus and gives it to the driver. B: A child finds a pouch beside a village well and takes it to the owner named inside. Which storyline is shared?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Neither can be compared because the families live in different places.",
+        "text": "A finder secretly keeps a prize",
         "is_correct": false
       },
       {
-        "text": "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.",
+        "text": "A finder waits for the owner without taking any action",
+        "is_correct": false
+      },
+      {
+        "text": "A finder takes steps to return a lost belonging",
         "is_correct": true
       },
       {
-        "text": "Both are the same because each book has a grandparent.",
+        "text": "A finder lends someone else’s belonging to a friend",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Relationships can be similar in purpose while being represented differently.",
-      "hint": "Use evidence about how characters act and speak."
-    }
+      "summary": "Both children respond honestly to something lost.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LE01-P-036",
@@ -1056,28 +1515,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Choose the option that applies the skill correctly in comparing family relationships in two Australian novels.",
-    "audio_prompt": "Choose the option that applies the skill correctly in comparing family relationships in two Australian novels.",
+    "skill": "comparing_literary_contexts",
+    "question": "A: A child finds a wallet on a bus and gives it to the driver. B: A child finds a pouch beside a village well and takes it to the owner named inside. How do the routes back to the owner differ?",
+    "audio_prompt": "A: A child finds a wallet on a bus and gives it to the driver. B: A child finds a pouch beside a village well and takes it to the owner named inside. How do the routes back to the owner differ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Neither can be compared because the families live in different places.",
+        "text": "Both children hand the item to a driver",
         "is_correct": false
       },
       {
-        "text": "Both are the same because each book has a grandparent.",
+        "text": "Both know the owner personally",
         "is_correct": false
       },
       {
-        "text": "Both show care between generations, but one family expresses it through quiet actions and the other through direct conversation.",
+        "text": "Neither child tries to return the item",
+        "is_correct": false
+      },
+      {
+        "text": "A uses a responsible intermediary; B goes directly to a named owner",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Relationships can be similar in purpose while being represented differently.",
-      "hint": "Use evidence about how characters act and speak."
-    }
+      "summary": "One hands it to the driver; the other uses the name to reach the owner.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LE01-P-037",
@@ -1086,28 +1558,42 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Choose the option that applies the skill correctly in comparing a First Nations Australian story and another story about Country or place.",
-    "audio_prompt": "Choose the option that applies the skill correctly in comparing a First Nations Australian story and another story about Country or place.",
+    "skill": "comparing_literary_contexts",
+    "question": "A: At the picnic, the children argued over a single rug. They spread it flat and made room for everyone. B: In a winter cabin, siblings argued over the bench. They moved closer and let the youngest sit too. Which shared relationship change occurs?",
+    "audio_prompt": "A: At the picnic, the children argued over a single rug. They spread it flat and made room for everyone. B: In a winter cabin, siblings argued over the bench. They moved closer and let the youngest sit too. Which shared relationship change occurs?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+        "text": "An argument over space becomes a decision to include everyone",
         "is_correct": true
       },
       {
-        "text": "Cultural context should be ignored during comparison.",
+        "text": "The youngest is excluded from both gatherings",
         "is_correct": false
       },
       {
-        "text": "All stories about land mean exactly the same thing.",
+        "text": "Everyone leaves instead of sharing",
+        "is_correct": false
+      },
+      {
+        "text": "The groups solve the problem by buying furniture",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
-      "hint": "Notice similarities, then keep important cultural differences visible."
-    }
+      "summary": "Both plots resolve a space conflict through inclusion.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LE01-P-038",
@@ -1116,28 +1602,42 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "What would be the most effective choice for comparing a First Nations Australian story and another story about Country or place?",
-    "audio_prompt": "What would be the most effective choice for comparing a First Nations Australian story and another story about Country or place?",
+    "skill": "comparing_literary_contexts",
+    "question": "A: At the picnic, the children argued over a single rug. They spread it flat and made room for everyone. B: In a winter cabin, siblings argued over the bench. They moved closer and let the youngest sit too. Which contextual difference is stated?",
+    "audio_prompt": "A: At the picnic, the children argued over a single rug. They spread it flat and made room for everyone. B: In a winter cabin, siblings argued over the bench. They moved closer and let the youngest sit too. Which contextual difference is stated?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Cultural context should be ignored during comparison.",
+        "text": "One group never argues",
         "is_correct": false
       },
       {
-        "text": "Both texts show that place carries meaning, but each text must be understood in its own cultural context.",
+        "text": "One group is outdoors at a picnic; the other is in a winter cabin",
         "is_correct": true
       },
       {
-        "text": "All stories about land mean exactly the same thing.",
+        "text": "Both groups are beside the sea",
+        "is_correct": false
+      },
+      {
+        "text": "The cabin group has no younger child",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Respectful comparison recognises connections without flattening distinct cultural meanings.",
-      "hint": "Notice similarities, then keep important cultural differences visible."
-    }
+      "summary": "The place and season detail differ while the conflict pattern is similar.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LE01-P-039",
@@ -1146,28 +1646,41 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "What would be the most effective choice for comparing two quest stories from different countries?",
-    "audio_prompt": "What would be the most effective choice for comparing two quest stories from different countries?",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1875: Mina planted seeds beside her cottage and checked each morning for green shoots. B, set today: Louis planted seeds in a balcony pot and checked each morning for green shoots. Which shared idea is supported?",
+    "audio_prompt": "Original fictional scenes. A, set in 1875: Mina planted seeds beside her cottage and checked each morning for green shoots. B, set today: Louis planted seeds in a balcony pot and checked each morning for green shoots. Which shared idea is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Only the length of the books can be compared.",
+        "text": "Plants grow only beside cottages",
         "is_correct": false
       },
       {
-        "text": "The stories are identical because they both have a journey.",
+        "text": "Both characters have exactly the same growing space",
         "is_correct": false
       },
       {
-        "text": "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.",
+        "text": "Growing plants can involve hopeful waiting",
         "is_correct": true
+      },
+      {
+        "text": "Both characters see green shoots immediately after planting",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
-      "hint": "Move beyond surface features to what the events suggest."
-    }
+      "summary": "Both routines show repeated attention while waiting for growth.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LE01-P-040",
@@ -1176,28 +1689,294 @@
     "curriculum_code": "AC9E4LE01",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "You now need to handle comparing two quest stories from different countries independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle comparing two quest stories from different countries independently. Which choice should you use?",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1875: Mina planted seeds beside her cottage and checked each morning for green shoots. B, set today: Louis planted seeds in a balcony pot and checked each morning for green shoots. What is the clearest difference in the supplied settings?",
+    "audio_prompt": "Original fictional scenes. A, set in 1875: Mina planted seeds beside her cottage and checked each morning for green shoots. B, set today: Louis planted seeds in a balcony pot and checked each morning for green shoots. What is the clearest difference in the supplied settings?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both protagonists face tests on a journey, but the helpers and values celebrated in each story differ.",
+        "text": "Only A uses seeds",
+        "is_correct": false
+      },
+      {
+        "text": "Only B checks for shoots",
+        "is_correct": false
+      },
+      {
+        "text": "A hates waiting; B loves waiting",
+        "is_correct": false
+      },
+      {
+        "text": "A plants beside a cottage; B plants in a balcony pot",
         "is_correct": true
-      },
-      {
-        "text": "Only the length of the books can be compared.",
-        "is_correct": false
-      },
-      {
-        "text": "The stories are identical because they both have a journey.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A strong comparison links plot patterns to the different ideas or values they express.",
-      "hint": "Move beyond surface features to what the events suggest."
-    }
+      "summary": "The growing spaces differ; feelings beyond hopeful attention are not explicitly stated.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LE01-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_literary_contexts",
+    "question": "Read these original scenes. A: In a fishing village, Tali waited at the jetty with a repaired net for her tired father. B: At a city bus stop, Remy waited with a warm drink for his mother after her late shift. Write a comparison of the family relationships, using a detail from each scene.",
+    "audio_prompt": "Read these original scenes. A: In a fishing village, Tali waited at the jetty with a repaired net for her tired father. B: At a city bus stop, Remy waited with a warm drink for his mother after her late shift. Write a comparison of the family relationships, using a detail from each scene.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both children show care by preparing something useful for a working parent. Tali brings a repaired net at a jetty; Remy brings a warm drink at a bus stop.",
+    "acceptance_note": "Require shared caring relationship, one detail from each and contextual difference. Do not infer all village or city families act this way.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
+    "explanation": {
+      "summary": "Both children show care by preparing something useful for a working parent. Tali brings a repaired net at a jetty; Remy brings a warm drink at a bus stop.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LE01-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_literary_contexts",
+    "question": "Read these original fictional scenes. A, set in 1885: A girl sheltered a frost-bitten seedling near the cottage wall. B, set today: A boy moved a balcony seedling indoors before frost. Explain a shared idea about nature and a difference between these period settings.",
+    "audio_prompt": "Read these original fictional scenes. A, set in 1885: A girl sheltered a frost-bitten seedling near the cottage wall. B, set today: A boy moved a balcony seedling indoors before frost. Explain a shared idea about nature and a difference between these period settings.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both children protect vulnerable plants from cold. One uses shelter at a cottage wall in the earlier setting; the other moves a balcony plant indoors today.",
+    "acceptance_note": "Require supported shared care and stated difference. Historical dates mark fictional settings, not researched claims about all people in those periods.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
+    "explanation": {
+      "summary": "Both children protect vulnerable plants from cold. One uses shelter at a cottage wall in the earlier setting; the other moves a balcony plant indoors today.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LE01-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_literary_contexts",
+    "question": "Read A: Jo hid a mistake in the model, then admitted it and helped repair it. Read B: Ravi broke a bowl, told his uncle and helped make a replacement. Compare the storylines and suggest a shared idea, using both actions.",
+    "audio_prompt": "Read A: Jo hid a mistake in the model, then admitted it and helped repair it. Read B: Ravi broke a bowl, told his uncle and helped make a replacement. Compare the storylines and suggest a shared idea, using both actions.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both characters take responsibility after a mistake and help put things right. Jo first hides the mistake, while Ravi’s scene directly shows him telling his uncle.",
+    "acceptance_note": "Require shared pattern and idea plus evidence from both. Do not claim Ravi hid the break or that anyone was punished.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
+    "explanation": {
+      "summary": "Both characters take responsibility after a mistake and help put things right. Jo first hides the mistake, while Ravi’s scene directly shows him telling his uncle.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LE01-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_literary_contexts",
+    "question": "Read A: The family left a bowl by the stove for the cousin returning late. Read B: The family packed a lunchbox for the aunt catching the early train. Discuss a shared relationship and explain how the routines differ.",
+    "audio_prompt": "Read A: The family left a bowl by the stove for the cousin returning late. Read B: The family packed a lunchbox for the aunt catching the early train. Discuss a shared relationship and explain how the routines differ.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both families care for a relative through food. One keeps food for a late return; the other prepares it for an early departure.",
+    "acceptance_note": "Require both care and distinct timing/routine. Actual spoken or written comparison, not selecting a rubric.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
+    "explanation": {
+      "summary": "Both families care for a relative through food. One keeps food for a late return; the other prepares it for an early departure.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LE01-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_literary_contexts",
+    "question": "With an adult, read Kirli Saunders’s complete poems Mother and Wildflower on Red Room Poetry, linked in this Topic Guide. Compare one idea about people and nature. Identify a particular image in each poem and one difference in their messages.",
+    "audio_prompt": "With an adult, read Kirli Saunders’s complete poems Mother and Wildflower on Red Room Poetry, linked in this Topic Guide. Compare one idea about people and nature. Identify a particular image in each poem and one difference in their messages.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "A supported comparison may connect nature with human feelings in both poems: Mother links tides, land and ancestors with belonging, while Wildflower uses growth from difficult ground as encouragement. The messages differ: belonging and encouragement.",
+    "acceptance_note": "Adult must check actual reading and image evidence from both named poems. These are two works by one First Nations author, not summaries of all First Nations cultures. Accept other supported interpretations; do not award completion for these model statements copied without reading.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
+    "explanation": {
+      "summary": "A supported comparison may connect nature with human feelings in both poems: Mother links tides, land and ancestors with belonging, while Wildflower uses growth from difficult ground as encouragement. The messages differ: belonging and encouragement.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E2",
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LE01-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_literary_contexts",
+    "question": "Read the authorised Little Bird’s Day publisher preview by Sally Morgan, illustrated by Johnny Warrkatja Malibirr, and Kirli Saunders’s Mother poem, using the Topic Guide links. Compare the natural-world connection shown in these specific excerpts. State the limit of what you read.",
+    "audio_prompt": "Read the authorised Little Bird’s Day publisher preview by Sally Morgan, illustrated by Johnny Warrkatja Malibirr, and Kirli Saunders’s Mother poem, using the Topic Guide links. Compare the natural-world connection shown in these specific excerpts. State the limit of what you read.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both connect living figures with the natural world. The Little Bird’s Day landscape preview shows a rising sun and resting animals, including a snake, frog and lizard. Mother connects the human speaker with tidal water, land and ancestors. The landscape centres on animals at the beginning of a day, while the poem develops ancestral belonging. I viewed the preview and read the complete poem, not the whole picture book.",
+    "acceptance_note": "Require actual viewing/reading, one specific detail from each and a difference. Accept explicit preview-limited comparison. Do not treat one author’s Country or imagery as representing another’s; no invented cultural story or whole-book claims.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
+    "explanation": {
+      "summary": "Both connect living figures with the natural world. The Little Bird’s Day landscape preview shows a rising sun and resting animals, including a snake, frog and lizard. Mother connects the human speaker with tidal water, land and ancestors. The landscape centres on animals at the beginning of a day, while the poem develops ancestral belonging. I viewed the preview and read the complete poem, not the whole picture book.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LE01-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_literary_contexts",
+    "question": "Read the family-meal evidence for Bindi’s Rockmelon with Dinner in Magabala’s teacher notes and the breakfast-giving episode in Chapter 2 of Louisa May Alcott’s Little Women, linked in the Topic Guide. Compare food and caring relationships. Identify which source gives an excerpt or notes rather than the full work.",
+    "audio_prompt": "Read the family-meal evidence for Bindi’s Rockmelon with Dinner in Magabala’s teacher notes and the breakfast-giving episode in Chapter 2 of Louisa May Alcott’s Little Women, linked in the Topic Guide. Compare food and caring relationships. Identify which source gives an excerpt or notes rather than the full work.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The Bindi notes describe a family meal with laughter at home. In Little Women, the March family gives breakfast to a hungry neighbouring family. Food connects people in both, but one scene centres on a family evening and the other on Christmas help beyond the household. The Bindi source is teacher notes with a short extract.",
+    "acceptance_note": "Require actual named-source reading, accurate food/relationship detail in each, contextual difference and source-limit recognition. Do not claim all Australian or nineteenth-century families share these routines.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
+    "explanation": {
+      "summary": "The Bindi notes describe a family meal with laughter at home. In Little Women, the March family gives breakfast to a hungry neighbouring family. Food connects people in both, but one scene centres on a family evening and the other on Christmas help beyond the household. The Bindi source is teacher notes with a short extract.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LE01-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "comparing_literary_contexts",
+    "question": "With an adult, read Mem Fox’s author-supplied Time for Bed opening and view the authorised opening landscape preview of Sally Morgan’s Little Bird’s Day, both linked in this Topic Guide. Compare the daily cycle and the different animal situations, using one detail from each.",
+    "audio_prompt": "With an adult, read Mem Fox’s author-supplied Time for Bed opening and view the authorised opening landscape preview of Sally Morgan’s Little Bird’s Day, both linked in this Topic Guide. Compare the daily cycle and the different animal situations, using one detail from each.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both connect animal life with the cycle of day and night. Time for Bed addresses a little mouse as darkness falls over the house; Little Bird’s Day opens with rising sunlight and animals in the landscape. The supplied openings move towards rest and the start of a day respectively.",
+    "acceptance_note": "Require actual reading/viewing of specified lawful openings, relevant evidence and meaningful comparison. These openings do not establish full plots or every animal’s actions. Accept supported interpretations and explicit limits.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
+    "explanation": {
+      "summary": "Both connect animal life with the cycle of day and night. Time for Bed addresses a little mouse as darkness falls over the house; Little Bird’s Day opens with rising sunlight and animals in the landscape. The supplied openings move towards rest and the start of a day respectively.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2",
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LE01-T-001",
@@ -1205,29 +1984,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Literature Across Times and Cultures",
-    "question": "New context: comparing an older fairy tale with a recent graphic novel adaptation. Which option is correct?",
-    "audio_prompt": "New context: comparing an older fairy tale with a recent graphic novel adaptation. Which option is correct?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "A: During a school clean-up, Mei noticed Arlo struggling with a heavy bag and took one handle. B: On a forest track, a traveller noticed another’s heavy basket and offered to carry one side. What idea is shared?",
+    "audio_prompt": "A: During a school clean-up, Mei noticed Arlo struggling with a heavy bag and took one handle. B: On a forest track, a traveller noticed another’s heavy basket and offered to carry one side. What idea is shared?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The texts cannot be compared because one uses pictures.",
-        "is_correct": false
-      },
-      {
-        "text": "The adaptation keeps the central conflict but uses panels, modern dialogue and a changed ending.",
+        "text": "Offering practical help can ease another person’s task",
         "is_correct": true
       },
       {
-        "text": "The graphic novel must have exactly the same effect as the older tale.",
+        "text": "Helping means doing everything alone",
+        "is_correct": false
+      },
+      {
+        "text": "Forests are always harder than schools",
+        "is_correct": false
+      },
+      {
+        "text": "Only close friends can cooperate",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Form and time can change how a familiar storyline is presented and experienced.",
-      "hint": "Compare both the story pattern and the way it is told."
-    }
+      "summary": "Both offers share a heavy load, in different contexts.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LE01-T-002",
@@ -1235,29 +2027,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Literature Across Times and Cultures",
-    "question": "What is the best choice for comparing an older fairy tale with a recent graphic novel adaptation?",
-    "audio_prompt": "What is the best choice for comparing an older fairy tale with a recent graphic novel adaptation?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "A: In an old cottage, a child warmed soup for a tired neighbour. B: In a modern apartment, a child packed sandwiches for a neighbour recovering from illness. Which comparison is supported?",
+    "audio_prompt": "A: In an old cottage, a child warmed soup for a tired neighbour. B: In a modern apartment, a child packed sandwiches for a neighbour recovering from illness. Which comparison is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The texts cannot be compared because one uses pictures.",
+        "text": "Both neighbours are ill",
         "is_correct": false
       },
       {
-        "text": "The graphic novel must have exactly the same effect as the older tale.",
-        "is_correct": false
-      },
-      {
-        "text": "The adaptation keeps the central conflict but uses panels, modern dialogue and a changed ending.",
+        "text": "Both show care through food, but the needs and meals differ",
         "is_correct": true
+      },
+      {
+        "text": "Both scenes happen in the same kitchen",
+        "is_correct": false
+      },
+      {
+        "text": "Only the apartment scene contains kindness",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Form and time can change how a familiar storyline is presented and experienced.",
-      "hint": "Compare both the story pattern and the way it is told."
-    }
+      "summary": "The food and reasons differ; both actions care for a neighbour.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LE01-T-003",
@@ -1265,29 +2070,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which explanation best supports “The adaptation keeps the central conflict but uses panels, modern dialogue and a changed ending.” in comparing an older fairy tale with a recent graphic novel adaptation?",
-    "audio_prompt": "Which explanation best supports “The adaptation keeps the central conflict but uses panels, modern dialogue and a changed ending.” in comparing an older fairy tale with a recent graphic novel adaptation?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1860: A child listened to the river and wrote that its steady movement was soothing. B, set today: A child sat by a canal and found the slow water calming. Which idea links the texts?",
+    "audio_prompt": "Original fictional scenes. A, set in 1860: A child listened to the river and wrote that its steady movement was soothing. B, set today: A child sat by a canal and found the slow water calming. Which idea links the texts?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Form and time can change how a familiar storyline is presented and experienced.",
+        "text": "Only the earlier scene presents water as soothing",
+        "is_correct": false
+      },
+      {
+        "text": "Canals and rivers are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Moving water can feel calming to a person",
         "is_correct": true
       },
       {
-        "text": "Because “The texts cannot be compared because one uses pictures.” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "The modern setting changes the child’s response from calm to fear",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Form and time can change how a familiar storyline is presented and experienced.",
-      "hint": "Compare both the story pattern and the way it is told."
-    }
+      "summary": "Both characters respond calmly to water, without establishing beliefs of everyone in either time.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LE01-T-004",
@@ -1295,29 +2113,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which clue should guide your decision in comparing an older fairy tale with a recent graphic novel adaptation?",
-    "audio_prompt": "Which clue should guide your decision in comparing an older fairy tale with a recent graphic novel adaptation?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "A: A team misses a goal, talks about its passes and tries again. B: A choir loses its place, checks the music together and restarts. What shared storyline pattern appears?",
+    "audio_prompt": "A: A team misses a goal, talks about its passes and tries again. B: A choir loses its place, checks the music together and restarts. What shared storyline pattern appears?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "A group refuses to change after winning",
         "is_correct": false
       },
       {
-        "text": "Compare both the story pattern and the way it is told.",
+        "text": "One person secretly leaves every task",
+        "is_correct": false
+      },
+      {
+        "text": "The audience fixes the problem without help",
+        "is_correct": false
+      },
+      {
+        "text": "A group responds to difficulty by reviewing and trying again",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Form and time can change how a familiar storyline is presented and experienced.",
-      "hint": "Compare both the story pattern and the way it is told."
-    }
+      "summary": "Both groups review a setback and make a new attempt.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LE01-T-005",
@@ -1325,29 +2156,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which option would you reject first in comparing an older fairy tale with a recent graphic novel adaptation?",
-    "audio_prompt": "Which option would you reject first in comparing an older fairy tale with a recent graphic novel adaptation?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "A: At a long table, a family saves a seat for a visitor. B: Around a campfire, a group moves a blanket to make space for a newcomer. Which difference is actually stated?",
+    "audio_prompt": "A: At a long table, a family saves a seat for a visitor. B: Around a campfire, a group moves a blanket to make space for a newcomer. Which difference is actually stated?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The adaptation keeps the central conflict but uses panels, modern dialogue and a changed ending.",
-        "is_correct": false
-      },
-      {
-        "text": "The graphic novel must have exactly the same effect as the older tale.",
-        "is_correct": false
-      },
-      {
-        "text": "The texts cannot be compared because one uses pictures.",
+        "text": "One gathering uses a table; the other a campfire and blanket",
         "is_correct": true
+      },
+      {
+        "text": "One group is kind and the other unkind",
+        "is_correct": false
+      },
+      {
+        "text": "The visitor needs more space than the newcomer does",
+        "is_correct": false
+      },
+      {
+        "text": "The newcomer is less welcome than the visitor",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Form and time can change how a familiar storyline is presented and experienced.",
-      "hint": "Compare both the story pattern and the way it is told."
-    }
+      "summary": "The locations and objects differ while both make room.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LE01-T-006",
@@ -1355,29 +2200,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which correction should replace “The texts cannot be compared because one uses pictures.” in comparing an older fairy tale with a recent graphic novel adaptation?",
-    "audio_prompt": "Which correction should replace “The texts cannot be compared because one uses pictures.” in comparing an older fairy tale with a recent graphic novel adaptation?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1930: Alia planted flowers where rubbish had been cleared beside the hall. B, set today: Finn planted flowers in a cleaned-up lane. Which claim is too broad for this evidence?",
+    "audio_prompt": "Original fictional scenes. A, set in 1930: Alia planted flowers where rubbish had been cleared beside the hall. B, set today: Finn planted flowers in a cleaned-up lane. Which claim is too broad for this evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The adaptation keeps the central conflict but uses panels, modern dialogue and a changed ending.",
+        "text": "Both characters plant after rubbish is removed",
+        "is_correct": false
+      },
+      {
+        "text": "Everyone in both periods took equal care of every public space",
         "is_correct": true
       },
       {
-        "text": "The texts cannot be compared because one uses pictures.",
+        "text": "Both scenes connect cleaning with new growth",
         "is_correct": false
       },
       {
-        "text": "The graphic novel must have exactly the same effect as the older tale.",
+        "text": "The planting occurs in different places",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Form and time can change how a familiar storyline is presented and experienced.",
-      "hint": "Compare both the story pattern and the way it is told."
-    }
+      "summary": "Two scenes show particular actions, not everyone’s behaviour across two periods.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LE01-T-007",
@@ -1385,29 +2243,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Apply the skill to comparing an older fairy tale with a recent graphic novel adaptation: what should you choose?",
-    "audio_prompt": "Apply the skill to comparing an older fairy tale with a recent graphic novel adaptation: what should you choose?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "A: A girl returned a lost scarf to a market stallholder. B: A boy returned a lost glove to a train passenger. Which answer names a shared idea rather than one isolated event?",
+    "audio_prompt": "A: A girl returned a lost scarf to a market stallholder. B: A boy returned a lost glove to a train passenger. Which answer names a shared idea rather than one isolated event?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The texts cannot be compared because one uses pictures.",
+        "text": "A girl walked through a market",
         "is_correct": false
       },
       {
-        "text": "The adaptation keeps the central conflict but uses panels, modern dialogue and a changed ending.",
+        "text": "A glove was on a train",
+        "is_correct": false
+      },
+      {
+        "text": "Returning something lost can show honesty and care",
         "is_correct": true
       },
       {
-        "text": "The graphic novel must have exactly the same effect as the older tale.",
+        "text": "A scarf belonged to a stallholder",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Form and time can change how a familiar storyline is presented and experienced.",
-      "hint": "Compare both the story pattern and the way it is told."
-    }
+      "summary": "The shared idea is supported by both returns; the others retell only one detail.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LE01-T-008",
@@ -1415,29 +2286,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which final choice gives the clearest and most accurate result for comparing an older fairy tale with a recent graphic novel adaptation?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for comparing an older fairy tale with a recent graphic novel adaptation?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Grandad shows a child how to fold dumplings while telling a family story. B: An older cousin shows a child how to shape bread while recalling childhood meals. Which comparison is strongest?",
+    "audio_prompt": "A: Grandad shows a child how to fold dumplings while telling a family story. B: An older cousin shows a child how to shape bread while recalling childhood meals. Which comparison is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The texts cannot be compared because one uses pictures.",
+        "text": "Every family makes the same food",
         "is_correct": false
       },
       {
-        "text": "The graphic novel must have exactly the same effect as the older tale.",
+        "text": "Both teachers are grandfathers",
         "is_correct": false
       },
       {
-        "text": "The adaptation keeps the central conflict but uses panels, modern dialogue and a changed ending.",
+        "text": "Neither scene includes learning",
+        "is_correct": false
+      },
+      {
+        "text": "Preparing food creates an opportunity to pass on memories in both",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Form and time can change how a familiar storyline is presented and experienced.",
-      "hint": "Compare both the story pattern and the way it is told."
-    }
+      "summary": "Both food-making scenes include teaching and remembering across ages.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LE01-T-009",
@@ -1445,29 +2329,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Literature Across Times and Cultures",
-    "question": "New context: comparing friendship in two stories set in different eras. Which option is correct?",
-    "audio_prompt": "New context: comparing friendship in two stories set in different eras. Which option is correct?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "Original fictional scenes. A, set in 1905: A writer watches blossom return to a storm-damaged orchard and feels hopeful. B, set today: A writer watches seedlings grow after a fire and feels hopeful. Which difference is supplied?",
+    "audio_prompt": "Original fictional scenes. A, set in 1905: A writer watches blossom return to a storm-damaged orchard and feels hopeful. B, set today: A writer watches seedlings grow after a fire and feels hopeful. Which difference is supplied?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Both friendships depend on trust, although the characters communicate and solve problems in different ways.",
+        "text": "Different events caused the damage",
         "is_correct": true
       },
       {
-        "text": "The friendships are unrelated because the technology is different.",
+        "text": "Only one writer notices growth",
         "is_correct": false
       },
       {
-        "text": "The only important similarity is that both books have two characters.",
+        "text": "The earlier writer feels no hope",
+        "is_correct": false
+      },
+      {
+        "text": "The modern writer owns the orchard",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The comparison focuses on the relationship while recognising how context changes its expression.",
-      "hint": "Use a shared idea as the anchor, then examine differences."
-    }
+      "summary": "The shared hopeful response follows storm damage in A and fire in B.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LE01-T-010",
@@ -1475,29 +2372,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Literature Across Times and Cultures",
-    "question": "What is the best choice for comparing friendship in two stories set in different eras?",
-    "audio_prompt": "What is the best choice for comparing friendship in two stories set in different eras?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "A: At first, a young drummer refuses advice; later she listens and finds the rhythm. B: At first, a young gardener refuses advice; later he listens and gives the plant suitable water. What similarity is supported?",
+    "audio_prompt": "A: At first, a young drummer refuses advice; later she listens and finds the rhythm. B: At first, a young gardener refuses advice; later he listens and gives the plant suitable water. What similarity is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The friendships are unrelated because the technology is different.",
+        "text": "Both characters play music",
         "is_correct": false
       },
       {
-        "text": "Both friendships depend on trust, although the characters communicate and solve problems in different ways.",
+        "text": "Both characters become willing to learn from advice",
         "is_correct": true
       },
       {
-        "text": "The only important similarity is that both books have two characters.",
+        "text": "Both characters improve by following advice about music",
+        "is_correct": false
+      },
+      {
+        "text": "Both helpers force the children to stop",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The comparison focuses on the relationship while recognising how context changes its expression.",
-      "hint": "Use a shared idea as the anchor, then examine differences."
-    }
+      "summary": "Both plots show a change from refusal to listening.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LE01-T-011",
@@ -1505,29 +2415,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which explanation best supports “Both friendships depend on trust, although the characters communicate and solve problems in different ways.” in comparing friendship in two stories set in different eras?",
-    "audio_prompt": "Which explanation best supports “Both friendships depend on trust, although the characters communicate and solve problems in different ways.” in comparing friendship in two stories set in different eras?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "A: A sister mends a torn sleeve before her brother’s journey. B: A brother says he will phone each evening while his sister is away. How does care differ in its expression?",
+    "audio_prompt": "A: A sister mends a torn sleeve before her brother’s journey. B: A brother says he will phone each evening while his sister is away. How does care differ in its expression?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The friendships are unrelated because the technology is different.” is always a safe choice.",
+        "text": "A contains no care",
         "is_correct": false
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "B fixes clothing too",
         "is_correct": false
       },
       {
-        "text": "The comparison focuses on the relationship while recognising how context changes its expression.",
+        "text": "A uses a practical repair; B uses a promise of contact",
         "is_correct": true
+      },
+      {
+        "text": "Both characters remain silent",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The comparison focuses on the relationship while recognising how context changes its expression.",
-      "hint": "Use a shared idea as the anchor, then examine differences."
-    }
+      "summary": "The shared caring relationship appears through different acts and circumstances.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LE01-T-012",
@@ -1535,29 +2459,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which clue should guide your decision in comparing friendship in two stories set in different eras?",
-    "audio_prompt": "Which clue should guide your decision in comparing friendship in two stories set in different eras?",
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "A: Two friends argue over a kite, then agree to alternate turns. B: Two cousins argue over a storybook, then read aloud together. What is the most accurate comparison?",
+    "audio_prompt": "A: Two friends argue over a kite, then agree to alternate turns. B: Two cousins argue over a storybook, then read aloud together. What is the most accurate comparison?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use a shared idea as the anchor, then examine differences.",
+        "text": "Both settle it by taking alternate turns",
+        "is_correct": false
+      },
+      {
+        "text": "Only the cousins cooperate",
+        "is_correct": false
+      },
+      {
+        "text": "Both give the object away to a stranger",
+        "is_correct": false
+      },
+      {
+        "text": "Both settle a sharing conflict, using different solutions",
         "is_correct": true
-      },
-      {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The comparison focuses on the relationship while recognising how context changes its expression.",
-      "hint": "Use a shared idea as the anchor, then examine differences."
-    }
+      "summary": "Turn-taking and joint reading are distinct ways to resolve the shared conflict.",
+      "hint": "Use one detail from each text; separate the shared idea from its different setting or actions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LE01-T-013",
@@ -1565,29 +2502,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which option would you reject first in comparing friendship in two stories set in different eras?",
-    "audio_prompt": "Which option would you reject first in comparing friendship in two stories set in different eras?",
-    "answers": [
-      {
-        "text": "Both friendships depend on trust, although the characters communicate and solve problems in different ways.",
-        "is_correct": false
-      },
-      {
-        "text": "The friendships are unrelated because the technology is different.",
-        "is_correct": true
-      },
-      {
-        "text": "The only important similarity is that both books have two characters.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "Read these original fictional scenes. A, set in 1880: At dusk, a child listened to birds returning to an orchard and felt the day settling. B, set today: At dusk, a child watched birds settle in a street tree and felt calm. Compare the idea about nature and the contexts using both texts.",
+    "audio_prompt": "Read these original fictional scenes. A, set in 1880: At dusk, a child listened to birds returning to an orchard and felt the day settling. B, set today: At dusk, a child watched birds settle in a street tree and felt calm. Compare the idea about nature and the contexts using both texts.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both children find calm in birds settling at dusk. The earlier scene is in an orchard; the modern scene is beside a street tree.",
+    "acceptance_note": "Require both evidence details, shared response and stated contextual difference. Do not infer a whole society’s beliefs.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The comparison focuses on the relationship while recognising how context changes its expression.",
-      "hint": "Use a shared idea as the anchor, then examine differences."
-    }
+      "summary": "Both children find calm in birds settling at dusk. The earlier scene is in an orchard; the modern scene is beside a street tree.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LE01-T-014",
@@ -1595,29 +2533,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which correction should replace “The friendships are unrelated because the technology is different.” in comparing friendship in two stories set in different eras?",
-    "audio_prompt": "Which correction should replace “The friendships are unrelated because the technology is different.” in comparing friendship in two stories set in different eras?",
-    "answers": [
-      {
-        "text": "The friendships are unrelated because the technology is different.",
-        "is_correct": false
-      },
-      {
-        "text": "The only important similarity is that both books have two characters.",
-        "is_correct": false
-      },
-      {
-        "text": "Both friendships depend on trust, although the characters communicate and solve problems in different ways.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "Read A: When their neighbour was unwell, the family left a warm meal at the door. Read B: When their cousin arrived after a long trip, the family invited her to sit and share supper. Compare the relationships and the different purposes of the meals.",
+    "audio_prompt": "Read A: When their neighbour was unwell, the family left a warm meal at the door. Read B: When their cousin arrived after a long trip, the family invited her to sit and share supper. Compare the relationships and the different purposes of the meals.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Both use food to care for someone. One supports an unwell neighbour by delivering food; the other welcomes a travelling cousin into a shared meal.",
+    "acceptance_note": "Require shared care plus two accurate details and distinction between support and welcome. Actual written/oral comparison required.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
     "explanation": {
-      "summary": "The comparison focuses on the relationship while recognising how context changes its expression.",
-      "hint": "Use a shared idea as the anchor, then examine differences."
-    }
+      "summary": "Both use food to care for someone. One supports an unwell neighbour by delivering food; the other welcomes a travelling cousin into a shared meal.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LE01-T-015",
@@ -1625,29 +2564,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Apply the skill to comparing friendship in two stories set in different eras: what should you choose?",
-    "audio_prompt": "Apply the skill to comparing friendship in two stories set in different eras: what should you choose?",
-    "answers": [
-      {
-        "text": "Both friendships depend on trust, although the characters communicate and solve problems in different ways.",
-        "is_correct": true
-      },
-      {
-        "text": "The friendships are unrelated because the technology is different.",
-        "is_correct": false
-      },
-      {
-        "text": "The only important similarity is that both books have two characters.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "Using the free Topic Guide reading links, read Kirli Saunders’s Mother and Wildflower. Write your own comparison of how nature connects with a human idea in each. Use a different detail or explanation from any response you have already practised.",
+    "audio_prompt": "Using the free Topic Guide reading links, read Kirli Saunders’s Mother and Wildflower. Write your own comparison of how nature connects with a human idea in each. Use a different detail or explanation from any response you have already practised.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "A response can compare ancestral connection through the natural world in Mother with encouragement through a flower’s growth in Wildflower. Both use nature to express human meaning, but the ideas and images differ.",
+    "acceptance_note": "Adult checks actual reading and independent evidence from both works, one similarity and meaningful difference. Credit supported interpretations; these works by one author do not represent all First Nations people. Do not award a copied model without text evidence.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
     "explanation": {
-      "summary": "The comparison focuses on the relationship while recognising how context changes its expression.",
-      "hint": "Use a shared idea as the anchor, then examine differences."
-    }
+      "summary": "A response can compare ancestral connection through the natural world in Mother with encouragement through a flower’s growth in Wildflower. Both use nature to express human meaning, but the ideas and images differ.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E2",
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LE01-T-016",
@@ -1655,28 +2596,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE01",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Literature Across Times and Cultures",
-    "question": "Which final choice gives the clearest and most accurate result for comparing friendship in two stories set in different eras?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for comparing friendship in two stories set in different eras?",
-    "answers": [
-      {
-        "text": "The friendships are unrelated because the technology is different.",
-        "is_correct": false
-      },
-      {
-        "text": "Both friendships depend on trust, although the characters communicate and solve problems in different ways.",
-        "is_correct": true
-      },
-      {
-        "text": "The only important similarity is that both books have two characters.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "comparing_literary_contexts",
+    "question": "Read the authorised Time for Bed opening by Mem Fox and the breakfast-giving episode from Chapter 2 of Little Women by Louisa May Alcott through this Topic Guide’s links. Compare a caring relationship and the different everyday situations. Identify a detail from each source.",
+    "audio_prompt": "Read the authorised Time for Bed opening by Mem Fox and the breakfast-giving episode from Chapter 2 of Little Women by Louisa May Alcott through this Topic Guide’s links. Compare a caring relationship and the different everyday situations. Identify a detail from each source.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The direct address to the little mouse in Time for Bed is a caring bedtime voice as darkness falls. In Little Women, the March family shares its breakfast with hungry neighbours. Both show care, in a bedtime opening and a Christmas meal-giving scene.",
+    "acceptance_note": "Require actual source reading, a particular detail from each and a supported relationship/context comparison. Time for Bed evidence is an opening only; do not invent its full plot or assume universal cultural practices.",
+    "response_instructions": "Write, dictate or discuss your actual comparison, using a detail from each text. For a named reading task, open the free sources linked in this code’s Topic Guide with an adult and read the specified works before responding. An adult checks the completed work; do not invent missing text evidence.",
+    "completion_label": "My actual comparison is ready for an adult to check.",
     "explanation": {
-      "summary": "The comparison focuses on the relationship while recognising how context changes its expression.",
-      "hint": "Use a shared idea as the anchor, then examine differences."
-    }
+      "summary": "The direct address to the little mouse in Time for Bed is a caring bedtime voice as darkness falls. In Little Women, the March family shares its breakfast with hungry neighbours. Both show care, in a bedtime opening and a Christmas meal-giving scene.",
+      "hint": "Name both texts, find a supported similarity and explain a meaningful difference."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]

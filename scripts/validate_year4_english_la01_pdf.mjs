@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Production PDF QA, not a replacement renderer or a content-approval gate.
-// Usage: node scripts/validate_year4_english_la01_pdf.mjs <jspdf-umd> <linkedom-worker> <scratch-output-dir> [AC9E4LA01–AC9E4LA12]
+// Usage: node scripts/validate_year4_english_la01_pdf.mjs <jspdf-umd> <linkedom-worker> <scratch-output-dir> [AC9E4LA01–LA12 | AC9E4LE01–LE05 | AC9E4LY01]
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -12,7 +12,7 @@ import {resolveObjectURL} from 'node:buffer';
 
 const root = path.resolve(import.meta.dirname, '..');
 const [jspdfPath, domPath, outputDir, code = 'AC9E4LA01'] = process.argv.slice(2);
-assert(/^AC9E4LA(?:0[1-9]|1[0-2])$/.test(code), 'Only authored LA01–LA12 supported.');
+assert(/^AC9E4(?:LA(?:0[1-9]|1[0-2])|LE0[1-5]|LY01)$/.test(code), 'Only authored LA01–LA12, LE01–LE05 and LY01 supported.');
 const slug = code.toLowerCase();
 assert(jspdfPath && domPath && outputDir, 'Supply jsPDF, linkedom worker and scratch output directory.');
 const {DOMParser} = await import(pathToFileURL(path.resolve(domPath)));
@@ -118,12 +118,20 @@ const results = [];
 fs.mkdirSync(outputDir, {recursive: true});
 context.jspdf.jsPDF = function (options) {
   const doc = new NativePDF(options), drawn = [], images = [], responseLines = {};
-  let currentTask, answerGuide = false;
+  let currentTask, printedStem, answerGuide = false;
   const originalLine = doc.line.bind(doc);
   doc.line = (x1, y1, x2, y2, ...rest) => {
     // Production response rules are horizontal at the writing position;
     // continuation-header and page-footer rules have fixed excluded positions.
-    if (!answerGuide && currentTask && y1 === y2 && y1 !== 20 && y1 !== doc.internal.pageSize.getHeight() - 15) {
+    if (!answerGuide && printedStem && y1 === y2 && y1 !== 20 && y1 !== doc.internal.pageSize.getHeight() - 15) {
+      if (!currentTask) {
+        // Distinct tasks may share their first wrapped line. Identify the full
+        // actually printed prompt before attributing any response rules.
+        const printed = context.la01PdfQA.normaliseText(printedStem.join(' ')).replace(/\s+/g, ' ');
+        const matches = context.skillrWorksheetQuestions.filter(q => printed.startsWith(context.la01PdfQA.normaliseText(q.question).replace(/\s+/g, ' ')));
+        assert.equal(matches.length, 1, 'Complete printed task must uniquely match its authored worksheet prompt');
+        currentTask = matches[0].id;
+      }
       responseLines[currentTask] = (responseLines[currentTask] || 0) + 1;
     }
     return originalLine(x1, y1, x2, y2, ...rest);
@@ -138,12 +146,12 @@ context.jspdf.jsPDF = function (options) {
   };
   const originalText = doc.text.bind(doc);
   doc.text = (text, x, y, opts) => {
-    if (text === 'Answer guide') { answerGuide = true; currentTask = null; }
-    if (!answerGuide && /^\d+\. /.test(String(text))) {
-      const firstLine = String(text).replace(/^\d+\. /, '');
-      const task = context.skillrWorksheetQuestions.find(q => context.la01PdfQA.normaliseText(q.question).startsWith(firstLine));
-      assert(task, 'Printed task must match a canonical worksheet prompt');
-      currentTask = task.id;
+    if (text === 'Answer guide') { answerGuide = true; currentTask = null; printedStem = null; }
+    if (!answerGuide && /^\d+\. /.test(String(text)) && (!printedStem || currentTask)) {
+      printedStem = [String(text).replace(/^\d+\. /, '')];
+      currentTask = null;
+    } else if (!answerGuide && printedStem && !(y === 17 && String(text).startsWith('SkillrHub · '))) {
+      printedStem.push(String(text));
     }
     drawn.push({text, x, y, width: doc.getTextWidth(text), page: doc.internal.getCurrentPageInfo().pageNumber, align: opts?.align});
     return originalText(text, x, y, opts);
@@ -158,7 +166,7 @@ context.jspdf.jsPDF = function (options) {
     }
     assert.equal(images.length, visualTasks.length, 'Every visual task must embed its actual rendered image');
     for (const task of context.skillrWorksheetQuestions) {
-      const count = /^AC9E4LA(?:0[7-9]|1[0-2])$/.test(code) && Number.isInteger(task.responseLines) && task.responseLines >= 4 && task.responseLines <= 12 ? task.responseLines : 4;
+      const count = /^AC9E4(?:LA(?:0[7-9]|1[0-2])|LE0[1-5]|LY01)$/.test(code) && Number.isInteger(task.responseLines) && task.responseLines >= 4 && task.responseLines <= 12 ? task.responseLines : 4;
       assert.equal(responseLines[task.id], count, `Actual production response-line count: ${task.id}`);
     }
     results.push({file: output, pages: doc.getNumberOfPages(), images, responseLines, sha256: crypto.createHash('sha256').update(bytes).digest('hex'), drawn});
@@ -192,6 +200,10 @@ if (rasterBackend) {
 await context.la01PdfQA.downloadWorksheet();
 assert.deepEqual(failures, []);
 assert.equal(results.length, 1);
+if (code === 'AC9E4LE05') {
+  assert.deepEqual(Object.keys(results[0].responseLines), Array.from({length: 8}, (_, i) => `ac9e4le05-w-${String(i + 1).padStart(3, '0')}`),
+    'Actual LE05 download must draw its linked plan-to-revision tasks in authored order');
+}
 // A second order explicitly challenges layout with the longest stems first.
 await context.la01PdfQA.createPdf([...context.skillrWorksheetQuestions].sort((a, b) => b.question.length - a.question.length));
 for (const record of results) {

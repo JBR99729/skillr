@@ -6,28 +6,42 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "In a character who returns a lost wallet even though they need money, which option best demonstrates the skill?",
-    "audio_prompt": "In a character who returns a lost wallet even though they need money, which option best demonstrates the skill?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Wallet\nMina counted the coins in her pocket. Still not enough for the fair. Beside the bus stop lay a wallet. Inside were banknotes and a card that read “Mr Ali”. Mina shut it and walked to the nearby help desk.\n\nWhat does Mina’s action most strongly suggest?",
+    "audio_prompt": "Original story: The Wallet\nMina counted the coins in her pocket. Still not enough for the fair. Beside the bus stop lay a wallet. Inside were banknotes and a card that read “Mr Ali”. Mina shut it and walked to the nearby help desk.\n\nWhat does Mina’s action most strongly suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choice reveals nothing about character.",
-        "is_correct": false
-      },
-      {
-        "text": "The wallet matters only because it is an object.",
-        "is_correct": false
-      },
-      {
-        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "text": "She values returning someone else’s property.",
         "is_correct": true
+      },
+      {
+        "text": "She thinks the wallet belongs to her.",
+        "is_correct": false
+      },
+      {
+        "text": "She has enough money for the fair.",
+        "is_correct": false
+      },
+      {
+        "text": "She wants to avoid the help desk.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
-      "hint": "Ask what the action shows about the person."
-    }
+      "summary": "Closing the named wallet and taking it to help, despite needing money, supports honesty.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LE03-P-002",
@@ -36,28 +50,42 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which choice fits a character who returns a lost wallet even though they need money most accurately?",
-    "audio_prompt": "Which choice fits a character who returns a lost wallet even though they need money most accurately?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Wallet\nMina counted the coins in her pocket. Still not enough for the fair. Beside the bus stop lay a wallet. Inside were banknotes and a card that read “Mr Ali”. Mina shut it and walked to the nearby help desk.\n\nWhy does the author tell us Mina lacks money first?",
+    "audio_prompt": "Original story: The Wallet\nMina counted the coins in her pocket. Still not enough for the fair. Beside the bus stop lay a wallet. Inside were banknotes and a card that read “Mr Ali”. Mina shut it and walked to the nearby help desk.\n\nWhy does the author tell us Mina lacks money first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "text": "It tells us she will buy a ticket.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives her decision a personal cost.",
         "is_correct": true
       },
       {
-        "text": "The choice reveals nothing about character.",
+        "text": "It proves Mr Ali is poor.",
         "is_correct": false
       },
       {
-        "text": "The wallet matters only because it is an object.",
+        "text": "It explains why the bus is late.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
-      "hint": "Ask what the action shows about the person."
-    }
+      "summary": "The fair matters to Mina, so returning money she could use makes her choice more meaningful.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LE03-P-003",
@@ -66,28 +94,42 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which choice fits a storm approaching while two characters are stranded on a jetty most accurately?",
-    "audio_prompt": "Which choice fits a storm approaching while two characters are stranded on a jetty most accurately?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Wallet\nMina counted the coins in her pocket. Still not enough for the fair. Beside the bus stop lay a wallet. Inside were banknotes and a card that read “Mr Ali”. Mina shut it and walked to the nearby help desk.\n\nWhich addition would best show her hesitation before she chooses?",
+    "audio_prompt": "Original story: The Wallet\nMina counted the coins in her pocket. Still not enough for the fair. Beside the bus stop lay a wallet. Inside were banknotes and a card that read “Mr Ali”. Mina shut it and walked to the nearby help desk.\n\nWhich addition would best show her hesitation before she chooses?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The setting cannot affect the plot.",
+        "text": "She described every item displayed at the fair.",
         "is_correct": false
       },
       {
-        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "text": "She remembered that the help desk opened early.",
+        "is_correct": false
+      },
+      {
+        "text": "She touched the fair flyer in her pocket, then looked at the name again.",
         "is_correct": true
       },
       {
-        "text": "Storms always make stories funny.",
+        "text": "She counted the bus-stop windows while waiting.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Setting can create pressure that shapes what characters must do next.",
-      "hint": "Connect the place or conditions to the problem."
-    }
+      "summary": "The flyer and name draw attention to the competing choices without changing the outcome.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LE03-P-004",
@@ -96,28 +138,42 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Look closely at a storm approaching while two characters are stranded on a jetty. Which response or wording works best?",
-    "audio_prompt": "Look closely at a storm approaching while two characters are stranded on a jetty. Which response or wording works best?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: Backstage\nLeo’s silver cape shook as he gripped the curtain. “Could you stand where I can see you?” he whispered to his sister. When his name was called, he stepped into the light.\n\nWhich detail is strongest evidence that Leo feels nervous?",
+    "audio_prompt": "Original story: Backstage\nLeo’s silver cape shook as he gripped the curtain. “Could you stand where I can see you?” he whispered to his sister. When his name was called, he stepped into the light.\n\nWhich detail is strongest evidence that Leo feels nervous?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The setting cannot affect the plot.",
+        "text": "His cape is silver.",
         "is_correct": false
       },
       {
-        "text": "Storms always make stories funny.",
+        "text": "The light is bright.",
         "is_correct": false
       },
       {
-        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "text": "His sister knows his name.",
+        "is_correct": false
+      },
+      {
+        "text": "He grips the curtain and asks for his sister to be visible.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Setting can create pressure that shapes what characters must do next.",
-      "hint": "Connect the place or conditions to the problem."
-    }
+      "summary": "Actions and the request support nervousness; a cape’s colour alone does not.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LE03-P-005",
@@ -126,28 +182,42 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Look closely at two friends arguing in dialogue before a difficult decision. Which response or wording works best?",
-    "audio_prompt": "Look closely at two friends arguing in dialogue before a difficult decision. Which response or wording works best?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: Backstage\nLeo’s silver cape shook as he gripped the curtain. “Could you stand where I can see you?” he whispered to his sister. When his name was called, he stepped into the light.\n\nWhat makes his final step engaging?",
+    "audio_prompt": "Original story: Backstage\nLeo’s silver cape shook as he gripped the curtain. “Could you stand where I can see you?” he whispered to his sister. When his name was called, he stepped into the light.\n\nWhat makes his final step engaging?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "text": "He acts despite signs of fear.",
         "is_correct": true
       },
       {
-        "text": "Dialogue only tells readers who is speaking.",
+        "text": "He forgets why he came.",
         "is_correct": false
       },
       {
-        "text": "The argument removes all conflict.",
+        "text": "He changes into a new cape.",
+        "is_correct": false
+      },
+      {
+        "text": "He discovers the stage is empty.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Dialogue can expose character motives and increase tension in the plot.",
-      "hint": "Look at what the words reveal about each character."
-    }
+      "summary": "The earlier trembling and whisper make the step into the light a small act of courage.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LE03-P-006",
@@ -156,28 +226,42 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "For two friends arguing in dialogue before a difficult decision, which option is the strongest match?",
-    "audio_prompt": "For two friends arguing in dialogue before a difficult decision, which option is the strongest match?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: Backstage\nLeo’s silver cape shook as he gripped the curtain. “Could you stand where I can see you?” he whispered to his sister. When his name was called, he stepped into the light.\n\nWhat does “whispered” add to the dialogue?",
+    "audio_prompt": "Original story: Backstage\nLeo’s silver cape shook as he gripped the curtain. “Could you stand where I can see you?” he whispered to his sister. When his name was called, he stepped into the light.\n\nWhat does “whispered” add to the dialogue?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Dialogue only tells readers who is speaking.",
+        "text": "It proves he has lost his voice.",
         "is_correct": false
       },
       {
-        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "text": "It suggests his request is quiet and perhaps uncertain.",
         "is_correct": true
       },
       {
-        "text": "The argument removes all conflict.",
+        "text": "It proves he is angry with his sister.",
+        "is_correct": false
+      },
+      {
+        "text": "It means the audience cannot hear any sounds.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Dialogue can expose character motives and increase tension in the plot.",
-      "hint": "Look at what the words reveal about each character."
-    }
+      "summary": "Whispering is quiet speech; with the surrounding actions it can suggest uncertainty.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LE03-P-007",
@@ -186,28 +270,41 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "For an illustration showing a tiny character beneath a huge cliff, which option is the strongest match?",
-    "audio_prompt": "For an illustration showing a tiny character beneath a huge cliff, which option is the strongest match?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original dialogue: The Shared Model\n“I want the wings to move,” said Zara. “Let’s try another hinge.”\n“We have tried four,” said Eli. “Can we draw the problem first, so we don’t waste the last piece?”\n\nWhat does Zara’s line suggest about her?",
+    "audio_prompt": "Original dialogue: The Shared Model\n“I want the wings to move,” said Zara. “Let’s try another hinge.”\n“We have tried four,” said Eli. “Can we draw the problem first, so we don’t waste the last piece?”\n\nWhat does Zara’s line suggest about her?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The picture proves the character will fail.",
+        "text": "She dislikes moving wings.",
         "is_correct": false
       },
       {
-        "text": "Illustrations never add to a written story.",
+        "text": "She believes the model is finished.",
         "is_correct": false
       },
       {
-        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "text": "She is keen to keep experimenting.",
         "is_correct": true
+      },
+      {
+        "text": "She wants to stop building.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
-      "hint": "Use details from both image and story."
-    }
+      "summary": "Asking to try another hinge shows persistence in experimenting.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LE03-P-008",
@@ -216,28 +313,41 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which example should you choose for an illustration showing a tiny character beneath a huge cliff?",
-    "audio_prompt": "Which example should you choose for an illustration showing a tiny character beneath a huge cliff?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original dialogue: The Shared Model\n“I want the wings to move,” said Zara. “Let’s try another hinge.”\n“We have tried four,” said Eli. “Can we draw the problem first, so we don’t waste the last piece?”\n\nWhich comparison fits both speakers?",
+    "audio_prompt": "Original dialogue: The Shared Model\n“I want the wings to move,” said Zara. “Let’s try another hinge.”\n“We have tried four,” said Eli. “Can we draw the problem first, so we don’t waste the last piece?”\n\nWhich comparison fits both speakers?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "text": "Zara wants to plan first; Eli wants to use every piece now.",
+        "is_correct": false
+      },
+      {
+        "text": "Both say the wings should stay still.",
+        "is_correct": false
+      },
+      {
+        "text": "Both refuse to work on the model again.",
+        "is_correct": false
+      },
+      {
+        "text": "Zara wants another trial; Eli wants to plan before using scarce material.",
         "is_correct": true
-      },
-      {
-        "text": "The picture proves the character will fail.",
-        "is_correct": false
-      },
-      {
-        "text": "Illustrations never add to a written story.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
-      "hint": "Use details from both image and story."
-    }
+      "summary": "Their words show different approaches to solving the same problem, not a total disagreement about the goal.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LE03-P-009",
@@ -246,28 +356,41 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which example should you choose for a character ignores a warning and later becomes lost?",
-    "audio_prompt": "Which example should you choose for a character ignores a warning and later becomes lost?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original dialogue: The Shared Model\n“I want the wings to move,” said Zara. “Let’s try another hinge.”\n“We have tried four,” said Eli. “Can we draw the problem first, so we don’t waste the last piece?”\n\nWhich claim about Eli goes beyond the dialogue?",
+    "audio_prompt": "Original dialogue: The Shared Model\n“I want the wings to move,” said Zara. “Let’s try another hinge.”\n“We have tried four,” said Eli. “Can we draw the problem first, so we don’t waste the last piece?”\n\nWhich claim about Eli goes beyond the dialogue?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The warning and getting lost are unrelated.",
-        "is_correct": false
-      },
-      {
-        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "text": "Eli never enjoys making things.",
         "is_correct": true
       },
       {
-        "text": "Consequences only happen at the end of stories.",
+        "text": "Eli notices the remaining material is limited.",
+        "is_correct": false
+      },
+      {
+        "text": "Eli suggests drawing the problem.",
+        "is_correct": false
+      },
+      {
+        "text": "Eli knows they have tried several hinges.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Engaging plots often develop because characters make choices that have effects.",
-      "hint": "Trace cause and effect through the character’s decision."
-    }
+      "summary": "One cautious suggestion cannot establish a lifelong dislike of making things.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LE03-P-010",
@@ -276,28 +399,41 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "In a character ignores a warning and later becomes lost, which option best demonstrates the skill?",
-    "audio_prompt": "In a character ignores a warning and later becomes lost, which option best demonstrates the skill?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Jetty\nThe ferry’s horn sounded beyond the fog. A loose plank rocked under Noor’s shoe. Her little brother waited behind the safety gate. Noor stopped, raised her arm and called to the ferry worker.\n\nHow does the setting affect Noor’s choice?",
+    "audio_prompt": "Original story: The Jetty\nThe ferry’s horn sounded beyond the fog. A loose plank rocked under Noor’s shoe. Her little brother waited behind the safety gate. Noor stopped, raised her arm and called to the ferry worker.\n\nHow does the setting affect Noor’s choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The warning and getting lost are unrelated.",
+        "text": "The high tide means the gate is already under water.",
         "is_correct": false
       },
       {
-        "text": "Consequences only happen at the end of stories.",
-        "is_correct": false
-      },
-      {
-        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "text": "Fog and an unstable plank make continuing unsafe, so she calls for help.",
         "is_correct": true
+      },
+      {
+        "text": "The sunny weather makes her hurry across.",
+        "is_correct": false
+      },
+      {
+        "text": "The empty beach lets her ignore her brother.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Engaging plots often develop because characters make choices that have effects.",
-      "hint": "Trace cause and effect through the character’s decision."
-    }
+      "summary": "The text supplies poor visibility and a loose plank; it does not supply the extra conditions in the other choices.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LE03-P-011",
@@ -305,29 +441,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Why does “The choice shows honesty and creates interest because doing the right thing costs the character something.” work well for a character who returns a lost wallet even though they need money?",
-    "audio_prompt": "Why does “The choice shows honesty and creates interest because doing the right thing costs the character something.” work well for a character who returns a lost wallet even though they need money?",
+    "stage": "recognise",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Jetty\nThe ferry’s horn sounded beyond the fog. A loose plank rocked under Noor’s shoe. Her little brother waited behind the safety gate. Noor stopped, raised her arm and called to the ferry worker.\n\nWhich question creates tension at this moment?",
+    "audio_prompt": "Original story: The Jetty\nThe ferry’s horn sounded beyond the fog. A loose plank rocked under Noor’s shoe. Her little brother waited behind the safety gate. Noor stopped, raised her arm and called to the ferry worker.\n\nWhich question creates tension at this moment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+        "text": "Why did Noor choose this ferry company?",
+        "is_correct": false
+      },
+      {
+        "text": "What happened on Noor’s previous ferry trip?",
+        "is_correct": false
+      },
+      {
+        "text": "Will the ferry worker notice Noor’s call?",
         "is_correct": true
       },
       {
-        "text": "Because “The choice reveals nothing about character.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "How does the worker prepare the ferry each morning?",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
-      "hint": "Ask what the action shows about the person."
-    }
+      "summary": "The worker noticing matters to the unresolved need for help.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LE03-P-012",
@@ -335,29 +484,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "What makes “The choice shows honesty and creates interest because doing the right thing costs the character something.” a better choice in a character who returns a lost wallet even though they need money?",
-    "audio_prompt": "What makes “The choice shows honesty and creates interest because doing the right thing costs the character something.” a better choice in a character who returns a lost wallet even though they need money?",
+    "stage": "recognise",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Jetty\nThe ferry’s horn sounded beyond the fog. A loose plank rocked under Noor’s shoe. Her little brother waited behind the safety gate. Noor stopped, raised her arm and called to the ferry worker.\n\nWhich change would most reduce this scene’s immediate danger?",
+    "audio_prompt": "Original story: The Jetty\nThe ferry’s horn sounded beyond the fog. A loose plank rocked under Noor’s shoe. Her little brother waited behind the safety gate. Noor stopped, raised her arm and called to the ferry worker.\n\nWhich change would most reduce this scene’s immediate danger?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The choice reveals nothing about character.” is always acceptable in this situation.",
+        "text": "Have the ferry sound its horn twice instead of once.",
         "is_correct": false
       },
       {
-        "text": "Character is often revealed through choices, especially when there is a consequence or conflict.",
+        "text": "Have Noor’s brother wait farther behind the gate.",
+        "is_correct": false
+      },
+      {
+        "text": "Have the ferry arrive a few minutes earlier in the same fog.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the loose plank with a secure walkway and clear visibility.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
-      "hint": "Ask what the action shows about the person."
-    }
+      "summary": "A secure walkway and visibility directly change the obstacles shaping the decision.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LE03-P-013",
@@ -365,29 +527,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "What makes “The threatening setting increases tension because the danger is getting closer.” a better choice in a storm approaching while two characters are stranded on a jetty?",
-    "audio_prompt": "What makes “The threatening setting increases tension because the danger is getting closer.” a better choice in a storm approaching while two characters are stranded on a jetty?",
+    "stage": "recognise",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Library Key\nThe librarian had trusted Arun with the display key. As he reached the door, a small clink came from the drain. His hand found a hole in his pocket. The reading group would arrive in five minutes.\n\nWhich two details work together to raise the stakes?",
+    "audio_prompt": "Original story: The Library Key\nThe librarian had trusted Arun with the display key. As he reached the door, a small clink came from the drain. His hand found a hole in his pocket. The reading group would arrive in five minutes.\n\nWhich two details work together to raise the stakes?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The setting cannot affect the plot.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Setting can create pressure that shapes what characters must do next.",
+        "text": "Arun was trusted with the key, and the group will arrive soon.",
         "is_correct": true
+      },
+      {
+        "text": "The library has a display, and Arun knows where the door is.",
+        "is_correct": false
+      },
+      {
+        "text": "The drain is outside, and Arun walks toward the door.",
+        "is_correct": false
+      },
+      {
+        "text": "A pocket holds small objects, and the group enjoys books.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Setting can create pressure that shapes what characters must do next.",
-      "hint": "Connect the place or conditions to the problem."
-    }
+      "summary": "Trust makes the loss matter personally; the short time limit increases urgency.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LE03-P-014",
@@ -395,29 +571,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which explanation best justifies “The threatening setting increases tension because the danger is getting closer.” for a storm approaching while two characters are stranded on a jetty?",
-    "audio_prompt": "Which explanation best justifies “The threatening setting increases tension because the danger is getting closer.” for a storm approaching while two characters are stranded on a jetty?",
+    "stage": "recognise",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Library Key\nThe librarian had trusted Arun with the display key. As he reached the door, a small clink came from the drain. His hand found a hole in his pocket. The reading group would arrive in five minutes.\n\nWhat is the most likely explanation of the clink?",
+    "audio_prompt": "Original story: The Library Key\nThe librarian had trusted Arun with the display key. As he reached the door, a small clink came from the drain. His hand found a hole in his pocket. The reading group would arrive in five minutes.\n\nWhat is the most likely explanation of the clink?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Setting can create pressure that shapes what characters must do next.",
+        "text": "The drain has been covered for repairs.",
+        "is_correct": false
+      },
+      {
+        "text": "The key may have fallen through the pocket into the drain.",
         "is_correct": true
       },
       {
-        "text": "Because “The setting cannot affect the plot.” is always acceptable in this situation.",
+        "text": "The group has unlocked the display already.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The librarian has put a new key in Arun’s hand.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Setting can create pressure that shapes what characters must do next.",
-      "hint": "Connect the place or conditions to the problem."
-    }
+      "summary": "Clink, drain and hole form clues; “may” keeps the inference appropriately cautious.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LE03-P-015",
@@ -425,29 +615,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which explanation best justifies “The dialogue reveals their different views and makes the decision more uncertain.” for two friends arguing in dialogue before a difficult decision?",
-    "audio_prompt": "Which explanation best justifies “The dialogue reveals their different views and makes the decision more uncertain.” for two friends arguing in dialogue before a difficult decision?",
+    "stage": "recognise",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Library Key\nThe librarian had trusted Arun with the display key. As he reached the door, a small clink came from the drain. His hand found a hole in his pocket. The reading group would arrive in five minutes.\n\nWhich next action would develop Arun as responsible?",
+    "audio_prompt": "Original story: The Library Key\nThe librarian had trusted Arun with the display key. As he reached the door, a small clink came from the drain. His hand found a hole in his pocket. The reading group would arrive in five minutes.\n\nWhich next action would develop Arun as responsible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Dialogue only tells readers who is speaking.” is always acceptable in this situation.",
+        "text": "He leaves without explaining what happened.",
         "is_correct": false
       },
       {
-        "text": "Dialogue can expose character motives and increase tension in the plot.",
+        "text": "He says the key never existed.",
+        "is_correct": false
+      },
+      {
+        "text": "He tells the librarian promptly and asks how to help.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "He tells the group the librarian lost it.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Dialogue can expose character motives and increase tension in the plot.",
-      "hint": "Look at what the words reveal about each character."
-    }
+      "summary": "Admitting the problem and helping would show responsibility through action.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LE03-P-016",
@@ -455,29 +659,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "What should you notice about “The dialogue reveals their different views and makes the decision more uncertain.” in two friends arguing in dialogue before a difficult decision?",
-    "audio_prompt": "What should you notice about “The dialogue reveals their different views and makes the decision more uncertain.” in two friends arguing in dialogue before a difficult decision?",
+    "stage": "recognise",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Meeting\nLast week, Tess folded her suggestion into a tiny square and said nothing. Today she unfolded the same paper. “Could we leave a quiet table for people who need one?” Her voice shook, but she finished.\n\nWhat change does the author show?",
+    "audio_prompt": "Original story: The Meeting\nLast week, Tess folded her suggestion into a tiny square and said nothing. Today she unfolded the same paper. “Could we leave a quiet table for people who need one?” Her voice shook, but she finished.\n\nWhat change does the author show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Dialogue only tells readers who is speaking.” is always acceptable in this situation.",
+        "text": "Tess no longer cares about the table.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Tess has become completely fearless.",
         "is_correct": false
       },
       {
-        "text": "Dialogue can expose character motives and increase tension in the plot.",
+        "text": "Tess has forgotten her suggestion.",
+        "is_correct": false
+      },
+      {
+        "text": "Tess now shares an idea she previously kept to herself.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Dialogue can expose character motives and increase tension in the plot.",
-      "hint": "Look at what the words reveal about each character."
-    }
+      "summary": "The same paper links the two scenes; speaking now shows change without proving fear has vanished.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LE03-P-017",
@@ -486,28 +705,43 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "What should you notice about “The scale makes the challenge look difficult and the character seem vulnerable.” in an illustration showing a tiny character beneath a huge cliff?",
-    "audio_prompt": "What should you notice about “The scale makes the challenge look difficult and the character seem vulnerable.” in an illustration showing a tiny character beneath a huge cliff?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Meeting\nLast week, Tess folded her suggestion into a tiny square and said nothing. Today she unfolded the same paper. “Could we leave a quiet table for people who need one?” Her voice shook, but she finished.\n\nWhy keep “Her voice shook” in the ending?",
+    "audio_prompt": "Original story: The Meeting\nLast week, Tess folded her suggestion into a tiny square and said nothing. Today she unfolded the same paper. “Could we leave a quiet table for people who need one?” Her voice shook, but she finished.\n\nWhy keep “Her voice shook” in the ending?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+        "text": "It shows the change takes effort even though she speaks.",
         "is_correct": true
       },
       {
-        "text": "Because “The picture proves the character will fail.” is always acceptable in this situation.",
+        "text": "It suggests Tess’s quiet voice prevents anyone knowing she spoke.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "It shows the suggestion has become less important to Tess.",
+        "is_correct": false
+      },
+      {
+        "text": "It signals that Tess plans to leave before finishing.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
-      "hint": "Use details from both image and story."
-    }
+      "summary": "The physical sign of nerves prevents an oversimplified claim that she is suddenly fearless.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LE03-P-018",
@@ -516,28 +750,43 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which reason explains why “The scale makes the challenge look difficult and the character seem vulnerable.” suits an illustration showing a tiny character beneath a huge cliff?",
-    "audio_prompt": "Which reason explains why “The scale makes the challenge look difficult and the character seem vulnerable.” suits an illustration showing a tiny character beneath a huge cliff?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Meeting\nLast week, Tess folded her suggestion into a tiny square and said nothing. Today she unfolded the same paper. “Could we leave a quiet table for people who need one?” Her voice shook, but she finished.\n\nWhich response uses the details to make the best-supported interpretation?",
+    "audio_prompt": "Original story: The Meeting\nLast week, Tess folded her suggestion into a tiny square and said nothing. Today she unfolded the same paper. “Could we leave a quiet table for people who need one?” Her voice shook, but she finished.\n\nWhich response uses the details to make the best-supported interpretation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The picture proves the character will fail.” is always acceptable in this situation.",
+        "text": "Tess’s confidence is shown mainly by the paper’s folded shape.",
         "is_correct": false
       },
       {
-        "text": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
+        "text": "Unfolding the paper and finishing her request show growing confidence.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Tess must have been confident last week because she had already written an idea.",
+        "is_correct": false
+      },
+      {
+        "text": "Finishing the request proves Tess now enjoys every public speech.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
-      "hint": "Use details from both image and story."
-    }
+      "summary": "The response connects exact actions in this story to a supported interpretation.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LE03-P-019",
@@ -546,28 +795,41 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which reason explains why “The consequence grows from the earlier choice, linking character action to plot development.” suits a character ignores a warning and later becomes lost?",
-    "audio_prompt": "Which reason explains why “The consequence grows from the earlier choice, linking character action to plot development.” suits a character ignores a warning and later becomes lost?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Shortcut\n“Stay beside the marked track,” Dad said. Finn spotted a bright feather past the trees. He stepped away to collect it. When he turned back, the track was hidden by thick ferns. “Dad?” he called.\n\nWhich choice leads to Finn’s problem?",
+    "audio_prompt": "Original story: The Shortcut\n“Stay beside the marked track,” Dad said. Finn spotted a bright feather past the trees. He stepped away to collect it. When he turned back, the track was hidden by thick ferns. “Dad?” he called.\n\nWhich choice leads to Finn’s problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The warning and getting lost are unrelated.” is always acceptable in this situation.",
+        "text": "He puts the feather on the track.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "He calls before leaving Dad.",
         "is_correct": false
       },
       {
-        "text": "Engaging plots often develop because characters make choices that have effects.",
+        "text": "He leaves the marked track to collect the feather.",
         "is_correct": true
+      },
+      {
+        "text": "He listens without moving.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Engaging plots often develop because characters make choices that have effects.",
-      "hint": "Trace cause and effect through the character’s decision."
-    }
+      "summary": "The sequence connects leaving the track with losing sight of it.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LE03-P-020",
@@ -576,28 +838,41 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Why does “The consequence grows from the earlier choice, linking character action to plot development.” work well for a character ignores a warning and later becomes lost?",
-    "audio_prompt": "Why does “The consequence grows from the earlier choice, linking character action to plot development.” work well for a character ignores a warning and later becomes lost?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Shortcut\n“Stay beside the marked track,” Dad said. Finn spotted a bright feather past the trees. He stepped away to collect it. When he turned back, the track was hidden by thick ferns. “Dad?” he called.\n\nHow does the last line engage the reader?",
+    "audio_prompt": "Original story: The Shortcut\n“Stay beside the marked track,” Dad said. Finn spotted a bright feather past the trees. He stepped away to collect it. When he turned back, the track was hidden by thick ferns. “Dad?” he called.\n\nHow does the last line engage the reader?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Engaging plots often develop because characters make choices that have effects.",
+        "text": "It resolves the problem by showing Dad beside him.",
+        "is_correct": false
+      },
+      {
+        "text": "It explains how the feather was made.",
+        "is_correct": false
+      },
+      {
+        "text": "It reveals that Finn planned to be lost.",
+        "is_correct": false
+      },
+      {
+        "text": "The unanswered call leaves Finn’s next moment uncertain.",
         "is_correct": true
-      },
-      {
-        "text": "Because “The warning and getting lost are unrelated.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Engaging plots often develop because characters make choices that have effects.",
-      "hint": "Trace cause and effect through the character’s decision."
-    }
+      "summary": "The call has no response yet, so the reader may worry and want to continue.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LE03-P-021",
@@ -605,29 +880,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which revision best fixes the problem in “The choice reveals nothing about character.” for a character who returns a lost wallet even though they need money?",
-    "audio_prompt": "Which revision best fixes the problem in “The choice reveals nothing about character.” for a character who returns a lost wallet even though they need money?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Shortcut\n“Stay beside the marked track,” Dad said. Finn spotted a bright feather past the trees. He stepped away to collect it. When he turned back, the track was hidden by thick ferns. “Dad?” he called.\n\nWhat role do the thick ferns play?",
+    "audio_prompt": "Original story: The Shortcut\n“Stay beside the marked track,” Dad said. Finn spotted a bright feather past the trees. He stepped away to collect it. When he turned back, the track was hidden by thick ferns. “Dad?” he called.\n\nWhat role do the thick ferns play?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choice reveals nothing about character.",
-        "is_correct": false
-      },
-      {
-        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "text": "They hide the route back and help create the problem.",
         "is_correct": true
       },
       {
-        "text": "The wallet matters only because it is an object.",
+        "text": "They prove every forest is dangerous.",
+        "is_correct": false
+      },
+      {
+        "text": "They show Finn dislikes birds.",
+        "is_correct": false
+      },
+      {
+        "text": "They solve the problem without help.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what the action shows about the person."
-    }
+      "summary": "The ferns have a specific effect in this setting; the text makes no claim about all forests.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LE03-P-022",
@@ -635,29 +923,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Compare the choices for a character who returns a lost wallet even though they need money. Which one avoids the mistake in “The choice reveals nothing about character.”?",
-    "audio_prompt": "Compare the choices for a character who returns a lost wallet even though they need money. Which one avoids the mistake in “The choice reveals nothing about character.”?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original dialogue: At the Shelter\n“I don’t like the barking,” said Jo, stepping back.\n“We can watch from here,” said May. “I’ll ask the worker which dog needs quiet company.”\n\nWhat does May’s response suggest?",
+    "audio_prompt": "Original dialogue: At the Shelter\n“I don’t like the barking,” said Jo, stepping back.\n“We can watch from here,” said May. “I’ll ask the worker which dog needs quiet company.”\n\nWhat does May’s response suggest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The choice reveals nothing about character.",
+        "text": "She ignores the worker’s knowledge.",
         "is_correct": false
       },
       {
-        "text": "The wallet matters only because it is an object.",
-        "is_correct": false
-      },
-      {
-        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "text": "She considers Jo’s comfort and the dogs’ needs.",
         "is_correct": true
+      },
+      {
+        "text": "She wants Jo to enter immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "She dislikes every dog at the shelter.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what the action shows about the person."
-    }
+      "summary": "She offers distance for Jo and asks a worker about a suitable dog.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LE03-P-023",
@@ -665,29 +967,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Compare the choices for a storm approaching while two characters are stranded on a jetty. Which one avoids the mistake in “The setting cannot affect the plot.”?",
-    "audio_prompt": "Compare the choices for a storm approaching while two characters are stranded on a jetty. Which one avoids the mistake in “The setting cannot affect the plot.”?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original dialogue: At the Shelter\n“I don’t like the barking,” said Jo, stepping back.\n“We can watch from here,” said May. “I’ll ask the worker which dog needs quiet company.”\n\nWhich detail reveals Jo’s feeling most clearly?",
+    "audio_prompt": "Original dialogue: At the Shelter\n“I don’t like the barking,” said Jo, stepping back.\n“We can watch from here,” said May. “I’ll ask the worker which dog needs quiet company.”\n\nWhich detail reveals Jo’s feeling most clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "text": "May uses the word company.",
+        "is_correct": false
+      },
+      {
+        "text": "There is more than one speaker.",
+        "is_correct": false
+      },
+      {
+        "text": "Jo names the barking and steps back.",
         "is_correct": true
       },
       {
-        "text": "The setting cannot affect the plot.",
-        "is_correct": false
-      },
-      {
-        "text": "Storms always make stories funny.",
+        "text": "The shelter has a worker.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Setting can create pressure that shapes what characters must do next. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Connect the place or conditions to the problem."
-    }
+      "summary": "Words and movement agree, making Jo’s discomfort clear.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LE03-P-024",
@@ -695,29 +1011,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "If “The setting cannot affect the plot.” does not work in a storm approaching while two characters are stranded on a jetty, what should replace it?",
-    "audio_prompt": "If “The setting cannot affect the plot.” does not work in a storm approaching while two characters are stranded on a jetty, what should replace it?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original dialogue: At the Shelter\n“I don’t like the barking,” said Jo, stepping back.\n“We can watch from here,” said May. “I’ll ask the worker which dog needs quiet company.”\n\nWhich new line would fit May’s considerate behaviour?",
+    "audio_prompt": "Original dialogue: At the Shelter\n“I don’t like the barking,” said Jo, stepping back.\n“We can watch from here,” said May. “I’ll ask the worker which dog needs quiet company.”\n\nWhich new line would fit May’s considerate behaviour?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The setting cannot affect the plot.",
+        "text": "“You must go closer even if you are scared.”",
         "is_correct": false
       },
       {
-        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "text": "“There is no point asking anyone.”",
+        "is_correct": false
+      },
+      {
+        "text": "“I will choose for you without asking.”",
+        "is_correct": false
+      },
+      {
+        "text": "“We can leave if it feels too noisy.”",
         "is_correct": true
-      },
-      {
-        "text": "Storms always make stories funny.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Setting can create pressure that shapes what characters must do next. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Connect the place or conditions to the problem."
-    }
+      "summary": "Offering a choice continues the attention to Jo’s comfort.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LE03-P-025",
@@ -725,29 +1055,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "If “Dialogue only tells readers who is speaking.” does not work in two friends arguing in dialogue before a difficult decision, what should replace it?",
-    "audio_prompt": "If “Dialogue only tells readers who is speaking.” does not work in two friends arguing in dialogue before a difficult decision, what should replace it?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Empty Seat\nAsha set two cups on the porch. At sunset she put one away. Then the gate clicked. She lifted the cup again before she could see who was there.\n\nWhat can we reasonably infer?",
+    "audio_prompt": "Original story: The Empty Seat\nAsha set two cups on the porch. At sunset she put one away. Then the gate clicked. She lifted the cup again before she could see who was there.\n\nWhat can we reasonably infer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Dialogue only tells readers who is speaking.",
-        "is_correct": false
-      },
-      {
-        "text": "The argument removes all conflict.",
-        "is_correct": false
-      },
-      {
-        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "text": "Asha has been waiting for someone and hopes they have arrived.",
         "is_correct": true
+      },
+      {
+        "text": "Asha knows exactly who opened the gate.",
+        "is_correct": false
+      },
+      {
+        "text": "Asha dislikes every visitor.",
+        "is_correct": false
+      },
+      {
+        "text": "The visitor has already entered the house.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Dialogue can expose character motives and increase tension in the plot. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look at what the words reveal about each character."
-    }
+      "summary": "Two cups and her quick response suggest waiting and hope, but the visitor is unseen.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LE03-P-026",
@@ -755,29 +1099,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which option corrects the meaning or form needed for two friends arguing in dialogue before a difficult decision?",
-    "audio_prompt": "Which option corrects the meaning or form needed for two friends arguing in dialogue before a difficult decision?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Empty Seat\nAsha set two cups on the porch. At sunset she put one away. Then the gate clicked. She lifted the cup again before she could see who was there.\n\nHow does the author keep us interested at the end?",
+    "audio_prompt": "Original story: The Empty Seat\nAsha set two cups on the porch. At sunset she put one away. Then the gate clicked. She lifted the cup again before she could see who was there.\n\nHow does the author keep us interested at the end?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "text": "Putting away the cup confirms Asha no longer expects any visitor.",
+        "is_correct": false
+      },
+      {
+        "text": "The sound suggests a possible arrival without revealing who or what caused it.",
         "is_correct": true
       },
       {
-        "text": "Dialogue only tells readers who is speaking.",
+        "text": "The click proves the expected visitor has certainly arrived.",
         "is_correct": false
       },
       {
-        "text": "The argument removes all conflict.",
+        "text": "The author names the visitor before Asha reacts.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Dialogue can expose character motives and increase tension in the plot. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look at what the words reveal about each character."
-    }
+      "summary": "The gate click raises the possibility of a visitor but leaves its cause uncertain, so we may share Asha’s curiosity.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LE03-P-027",
@@ -785,29 +1143,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which option corrects the meaning or form needed for an illustration showing a tiny character beneath a huge cliff?",
-    "audio_prompt": "Which option corrects the meaning or form needed for an illustration showing a tiny character beneath a huge cliff?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Empty Seat\nAsha set two cups on the porch. At sunset she put one away. Then the gate clicked. She lifted the cup again before she could see who was there.\n\nWhich detail would most change the mood to disappointment?",
+    "audio_prompt": "Original story: The Empty Seat\nAsha set two cups on the porch. At sunset she put one away. Then the gate clicked. She lifted the cup again before she could see who was there.\n\nWhich detail would most change the mood to disappointment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The picture proves the character will fail.",
+        "text": "Her friend stepped through carrying a cake.",
         "is_correct": false
       },
       {
-        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "text": "She heard the footsteps she had waited for.",
+        "is_correct": false
+      },
+      {
+        "text": "The gate swung in the wind; no one stood outside.",
         "is_correct": true
       },
       {
-        "text": "Illustrations never add to a written story.",
+        "text": "A familiar voice called her name from the gate.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use details from both image and story."
-    }
+      "summary": "An empty gate would answer her hopeful action with disappointment.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LE03-P-028",
@@ -815,29 +1187,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which choice is the clearest correction for an illustration showing a tiny character beneath a huge cliff?",
-    "audio_prompt": "Which choice is the clearest correction for an illustration showing a tiny character beneath a huge cliff?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Garden Argument\nSam’s neat labels lined the seed tray. “Please don’t swap them,” he said. “I need to know which plants grow fastest.” Bea paused with two labels in her hand. “I thought it would be a surprise. I’ll put them back.”\n\nWhat does the author reveal about Sam?",
+    "audio_prompt": "Original story: The Garden Argument\nSam’s neat labels lined the seed tray. “Please don’t swap them,” he said. “I need to know which plants grow fastest.” Bea paused with two labels in her hand. “I thought it would be a surprise. I’ll put them back.”\n\nWhat does the author reveal about Sam?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The picture proves the character will fail.",
+        "text": "He does not want any plants to grow.",
         "is_correct": false
       },
       {
-        "text": "Illustrations never add to a written story.",
+        "text": "He hopes Bea will hide the labels.",
         "is_correct": false
       },
       {
-        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "text": "He knows every plant will grow equally fast.",
+        "is_correct": false
+      },
+      {
+        "text": "He wants an organised comparison of the plants.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use details from both image and story."
-    }
+      "summary": "The neat labels and stated purpose show why organisation matters to him.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LE03-P-029",
@@ -845,29 +1232,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which choice is the clearest correction for a character ignores a warning and later becomes lost?",
-    "audio_prompt": "Which choice is the clearest correction for a character ignores a warning and later becomes lost?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Garden Argument\nSam’s neat labels lined the seed tray. “Please don’t swap them,” he said. “I need to know which plants grow fastest.” Bea paused with two labels in her hand. “I thought it would be a surprise. I’ll put them back.”\n\nWhat changes Bea’s action?",
+    "audio_prompt": "Original story: The Garden Argument\nSam’s neat labels lined the seed tray. “Please don’t swap them,” he said. “I need to know which plants grow fastest.” Bea paused with two labels in her hand. “I thought it would be a surprise. I’ll put them back.”\n\nWhat changes Bea’s action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "text": "She learns that swapping labels would spoil Sam’s comparison.",
         "is_correct": true
       },
       {
-        "text": "The warning and getting lost are unrelated.",
+        "text": "She learns the tray is empty.",
         "is_correct": false
       },
       {
-        "text": "Consequences only happen at the end of stories.",
+        "text": "She decides surprises must always be wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "She discovers Sam has already swapped them.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Engaging plots often develop because characters make choices that have effects. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Trace cause and effect through the character’s decision."
-    }
+      "summary": "Sam explains his reason and Bea agrees to restore the labels.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LE03-P-030",
@@ -875,29 +1277,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which revision best fixes the problem in “The warning and getting lost are unrelated.” for a character ignores a warning and later becomes lost?",
-    "audio_prompt": "Which revision best fixes the problem in “The warning and getting lost are unrelated.” for a character ignores a warning and later becomes lost?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Garden Argument\nSam’s neat labels lined the seed tray. “Please don’t swap them,” he said. “I need to know which plants grow fastest.” Bea paused with two labels in her hand. “I thought it would be a surprise. I’ll put them back.”\n\nWhich interpretation of Bea is fairest?",
+    "audio_prompt": "Original story: The Garden Argument\nSam’s neat labels lined the seed tray. “Please don’t swap them,” he said. “I need to know which plants grow fastest.” Bea paused with two labels in her hand. “I thought it would be a surprise. I’ll put them back.”\n\nWhich interpretation of Bea is fairest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The warning and getting lost are unrelated.",
+        "text": "She changes her plan mainly because the labels are difficult to move.",
         "is_correct": false
       },
       {
-        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "text": "She meant to be playful, then listens and changes her plan.",
         "is_correct": true
       },
       {
-        "text": "Consequences only happen at the end of stories.",
+        "text": "She agrees because she has stopped enjoying all surprises.",
+        "is_correct": false
+      },
+      {
+        "text": "She keeps the same plan but explains it more politely.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Engaging plots often develop because characters make choices that have effects. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Trace cause and effect through the character’s decision."
-    }
+      "summary": "Her own explanation and final promise support the more specific interpretation.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LE03-P-031",
@@ -905,29 +1322,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "You now need to handle a character who returns a lost wallet even though they need money independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle a character who returns a lost wallet even though they need money independently. Which choice should you use?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: The Ridge\n“I will wait here for the guide,” Amira said. Look at the illustration.\n\nHow does the illustrator make Amira seem small in this place?",
+    "audio_prompt": "Original illustrated scene: The Ridge\n“I will wait here for the guide,” Amira said. Look at the illustration.\n\nHow does the illustrator make Amira seem small in this place?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-cliff.svg#scene",
+      "alt_text": "A small figure with a backpack stands on a path below a tall cliff. Dark clouds hang above; the path curves toward the cliff."
+    },
     "answers": [
       {
-        "text": "The wallet matters only because it is an object.",
+        "text": "The backpack covers the whole cliff.",
         "is_correct": false
       },
       {
-        "text": "The choice reveals nothing about character.",
+        "text": "The path is drawn above the clouds.",
         "is_correct": false
       },
       {
-        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "text": "The cliff takes up much more space than the figure.",
         "is_correct": true
+      },
+      {
+        "text": "The figure fills most of the sky.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
-      "hint": "Ask what the action shows about the person."
-    }
+      "summary": "The strong size contrast emphasises the scale of the landscape.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LE03-P-032",
@@ -935,29 +1367,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Apply the same idea to a character who returns a lost wallet even though they need money. Which option is best?",
-    "audio_prompt": "Apply the same idea to a character who returns a lost wallet even though they need money. Which option is best?",
+    "stage": "explain",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: The Ridge\n“I will wait here for the guide,” Amira said. Look at the illustration.\n\nWhat do the words add that the picture alone does not establish?",
+    "audio_prompt": "Original illustrated scene: The Ridge\n“I will wait here for the guide,” Amira said. Look at the illustration.\n\nWhat do the words add that the picture alone does not establish?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-cliff.svg#scene",
+      "alt_text": "A small figure with a backpack stands on a path below a tall cliff. Dark clouds hang above; the path curves toward the cliff."
+    },
     "answers": [
       {
-        "text": "The choice shows honesty and creates interest because doing the right thing costs the character something.",
+        "text": "There is a tall cliff.",
+        "is_correct": false
+      },
+      {
+        "text": "Amira carries a backpack.",
+        "is_correct": false
+      },
+      {
+        "text": "Clouds are above the path.",
+        "is_correct": false
+      },
+      {
+        "text": "Amira plans to wait for a guide.",
         "is_correct": true
-      },
-      {
-        "text": "The wallet matters only because it is an object.",
-        "is_correct": false
-      },
-      {
-        "text": "The choice reveals nothing about character.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Character is often revealed through choices, especially when there is a consequence or conflict.",
-      "hint": "Ask what the action shows about the person."
-    }
+      "summary": "The spoken plan is verbal evidence; the drawing alone does not tell us her intention.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LE03-P-033",
@@ -966,28 +1413,43 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Apply the same idea to a storm approaching while two characters are stranded on a jetty. Which option is best?",
-    "audio_prompt": "Apply the same idea to a storm approaching while two characters are stranded on a jetty. Which option is best?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: The Ridge\n“I will wait here for the guide,” Amira said. Look at the illustration.\n\nWhich interpretation uses both words and picture?",
+    "audio_prompt": "Original illustrated scene: The Ridge\n“I will wait here for the guide,” Amira said. Look at the illustration.\n\nWhich interpretation uses both words and picture?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-cliff.svg#scene",
+      "alt_text": "A small figure with a backpack stands on a path below a tall cliff. Dark clouds hang above; the path curves toward the cliff."
+    },
     "answers": [
       {
-        "text": "Storms always make stories funny.",
-        "is_correct": false
-      },
-      {
-        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "text": "Waiting for a guide seems sensible beside the large cliff and curving path.",
         "is_correct": true
       },
       {
-        "text": "The setting cannot affect the plot.",
+        "text": "Amira has already climbed to the top alone.",
+        "is_correct": false
+      },
+      {
+        "text": "The guide is visibly standing behind her.",
+        "is_correct": false
+      },
+      {
+        "text": "Amira dislikes all outdoor places.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Setting can create pressure that shapes what characters must do next.",
-      "hint": "Connect the place or conditions to the problem."
-    }
+      "summary": "The visible setting helps us understand her stated choice without inventing events.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LE03-P-034",
@@ -996,28 +1458,43 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which decision would produce the clearest result in a storm approaching while two characters are stranded on a jetty?",
-    "audio_prompt": "Which decision would produce the clearest result in a storm approaching while two characters are stranded on a jetty?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: The Ridge\n“I will wait here for the guide,” Amira said. Look at the illustration.\n\nWhat would a close-up of only Amira’s face make harder to see?",
+    "audio_prompt": "Original illustrated scene: The Ridge\n“I will wait here for the guide,” Amira said. Look at the illustration.\n\nWhat would a close-up of only Amira’s face make harder to see?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-cliff.svg#scene",
+      "alt_text": "A small figure with a backpack stands on a path below a tall cliff. Dark clouds hang above; the path curves toward the cliff."
+    },
     "answers": [
       {
-        "text": "Storms always make stories funny.",
+        "text": "Small details of her expression.",
         "is_correct": false
       },
       {
-        "text": "The setting cannot affect the plot.",
-        "is_correct": false
-      },
-      {
-        "text": "The threatening setting increases tension because the danger is getting closer.",
+        "text": "The contrast between her size and the cliff.",
         "is_correct": true
+      },
+      {
+        "text": "Whether her eyes are open.",
+        "is_correct": false
+      },
+      {
+        "text": "The shape of her mouth.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Setting can create pressure that shapes what characters must do next.",
-      "hint": "Connect the place or conditions to the problem."
-    }
+      "summary": "A close-up could show expression but lose the broad scale of the setting.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LE03-P-035",
@@ -1026,28 +1503,43 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which decision would produce the clearest result in two friends arguing in dialogue before a difficult decision?",
-    "audio_prompt": "Which decision would produce the clearest result in two friends arguing in dialogue before a difficult decision?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: Behind the Door\nKai heard three soft taps. “Is that you?” Kai asked. No answer came. Look at the illustration.\n\nWhich visual detail draws attention to the space beyond the door?",
+    "audio_prompt": "Original illustrated scene: Behind the Door\nKai heard three soft taps. “Is that you?” Kai asked. No answer came. Look at the illustration.\n\nWhich visual detail draws attention to the space beyond the door?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-door.svg#scene",
+      "alt_text": "A child stands inside beside a closed door. A bright strip of light runs beneath the door. The child leans toward it with one hand raised toward the door."
+    },
     "answers": [
       {
-        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "text": "A large window reveals the whole garden.",
+        "is_correct": false
+      },
+      {
+        "text": "The child is shown asleep.",
+        "is_correct": false
+      },
+      {
+        "text": "A bright line of light appears underneath it.",
         "is_correct": true
       },
       {
-        "text": "The argument removes all conflict.",
-        "is_correct": false
-      },
-      {
-        "text": "Dialogue only tells readers who is speaking.",
+        "text": "A visitor is shown in the room.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Dialogue can expose character motives and increase tension in the plot.",
-      "hint": "Look at what the words reveal about each character."
-    }
+      "summary": "The light points toward a space that remains unseen.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LE03-P-036",
@@ -1056,28 +1548,43 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Choose the option that applies the skill correctly in two friends arguing in dialogue before a difficult decision.",
-    "audio_prompt": "Choose the option that applies the skill correctly in two friends arguing in dialogue before a difficult decision.",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: Behind the Door\nKai heard three soft taps. “Is that you?” Kai asked. No answer came. Look at the illustration.\n\nHow do picture and words create uncertainty together?",
+    "audio_prompt": "Original illustrated scene: Behind the Door\nKai heard three soft taps. “Is that you?” Kai asked. No answer came. Look at the illustration.\n\nHow do picture and words create uncertainty together?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-door.svg#scene",
+      "alt_text": "A child stands inside beside a closed door. A bright strip of light runs beneath the door. The child leans toward it with one hand raised toward the door."
+    },
     "answers": [
       {
-        "text": "The argument removes all conflict.",
+        "text": "The picture labels the visitor and the text repeats the name.",
         "is_correct": false
       },
       {
-        "text": "The dialogue reveals their different views and makes the decision more uncertain.",
+        "text": "The picture shows an open door and the text describes a greeting.",
+        "is_correct": false
+      },
+      {
+        "text": "The text says the visitor has already left with Kai.",
+        "is_correct": false
+      },
+      {
+        "text": "We hear taps and see light, but neither reveals who is outside.",
         "is_correct": true
-      },
-      {
-        "text": "Dialogue only tells readers who is speaking.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Dialogue can expose character motives and increase tension in the plot.",
-      "hint": "Look at what the words reveal about each character."
-    }
+      "summary": "Both modes give clues while withholding identity.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LE03-P-037",
@@ -1086,28 +1593,43 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Choose the option that applies the skill correctly in an illustration showing a tiny character beneath a huge cliff.",
-    "audio_prompt": "Choose the option that applies the skill correctly in an illustration showing a tiny character beneath a huge cliff.",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: Behind the Door\nKai heard three soft taps. “Is that you?” Kai asked. No answer came. Look at the illustration.\n\nWhich statement stays within the evidence?",
+    "audio_prompt": "Original illustrated scene: Behind the Door\nKai heard three soft taps. “Is that you?” Kai asked. No answer came. Look at the illustration.\n\nWhich statement stays within the evidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-door.svg#scene",
+      "alt_text": "A child stands inside beside a closed door. A bright strip of light runs beneath the door. The child leans toward it with one hand raised toward the door."
+    },
     "answers": [
       {
-        "text": "Illustrations never add to a written story.",
-        "is_correct": false
-      },
-      {
-        "text": "The picture proves the character will fail.",
-        "is_correct": false
-      },
-      {
-        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "text": "Kai appears to be paying attention to the closed door.",
         "is_correct": true
+      },
+      {
+        "text": "Kai is definitely frightened of every visitor.",
+        "is_correct": false
+      },
+      {
+        "text": "Kai knows exactly who is tapping.",
+        "is_correct": false
+      },
+      {
+        "text": "Kai has already opened the door.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
-      "hint": "Use details from both image and story."
-    }
+      "summary": "Leaning and asking indicate attention; stronger claims are not established.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LE03-P-038",
@@ -1116,28 +1638,43 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "What would be the most effective choice for an illustration showing a tiny character beneath a huge cliff?",
-    "audio_prompt": "What would be the most effective choice for an illustration showing a tiny character beneath a huge cliff?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: Behind the Door\nKai heard three soft taps. “Is that you?” Kai asked. No answer came. Look at the illustration.\n\nWhich picture change would answer the story’s main question?",
+    "audio_prompt": "Original illustrated scene: Behind the Door\nKai heard three soft taps. “Is that you?” Kai asked. No answer came. Look at the illustration.\n\nWhich picture change would answer the story’s main question?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-door.svg#scene",
+      "alt_text": "A child stands inside beside a closed door. A bright strip of light runs beneath the door. The child leans toward it with one hand raised toward the door."
+    },
     "answers": [
       {
-        "text": "The scale makes the challenge look difficult and the character seem vulnerable.",
+        "text": "Show Kai’s listening expression in closer detail.",
+        "is_correct": false
+      },
+      {
+        "text": "Open the door and show the visitor clearly.",
         "is_correct": true
       },
       {
-        "text": "Illustrations never add to a written story.",
+        "text": "Draw a larger patch of light while keeping the door closed.",
         "is_correct": false
       },
       {
-        "text": "The picture proves the character will fail.",
+        "text": "Show the closed door from the other side without showing a visitor.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Visual choices can reinforce setting and the difficulty of a challenge without deciding the outcome.",
-      "hint": "Use details from both image and story."
-    }
+      "summary": "Revealing the visitor resolves who is outside.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LE03-P-039",
@@ -1146,28 +1683,43 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "What would be the most effective choice for a character ignores a warning and later becomes lost?",
-    "audio_prompt": "What would be the most effective choice for a character ignores a warning and later becomes lost?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: First Performance\nBefore: “Could I practise behind the curtain?” Robin asked.\nAfter: “Welcome to our show!” Robin called. Look at both panels.\n\nWhich visual change supports Robin’s growing confidence?",
+    "audio_prompt": "Original illustrated scene: First Performance\nBefore: “Could I practise behind the curtain?” Robin asked.\nAfter: “Welcome to our show!” Robin called. Look at both panels.\n\nWhich visual change supports Robin’s growing confidence?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-stage.svg#scene",
+      "alt_text": "Two story panels show the same child. In Before, the child stands beside a curtain with arms close to the body. In After, the child stands facing the audience with one arm extended and mouth open."
+    },
     "answers": [
       {
-        "text": "Consequences only happen at the end of stories.",
+        "text": "The curtains are red in both panels.",
         "is_correct": false
       },
       {
-        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "text": "The panels are separated by a line.",
+        "is_correct": false
+      },
+      {
+        "text": "The later figure faces outward with an arm extended.",
         "is_correct": true
       },
       {
-        "text": "The warning and getting lost are unrelated.",
+        "text": "Both panels show Robin in a green outfit.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Engaging plots often develop because characters make choices that have effects.",
-      "hint": "Trace cause and effect through the character’s decision."
-    }
+      "summary": "Body position changes alongside the move from private practice to public greeting.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LE03-P-040",
@@ -1176,28 +1728,301 @@
     "curriculum_code": "AC9E4LE03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "You now need to handle a character ignores a warning and later becomes lost independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle a character ignores a warning and later becomes lost independently. Which choice should you use?",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: First Performance\nBefore: “Could I practise behind the curtain?” Robin asked.\nAfter: “Welcome to our show!” Robin called. Look at both panels.\n\nWhy should we read the dialogue as well as view the poses?",
+    "audio_prompt": "Original illustrated scene: First Performance\nBefore: “Could I practise behind the curtain?” Robin asked.\nAfter: “Welcome to our show!” Robin called. Look at both panels.\n\nWhy should we read the dialogue as well as view the poses?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-stage.svg#scene",
+      "alt_text": "Two story panels show the same child. In Before, the child stands beside a curtain with arms close to the body. In After, the child stands facing the audience with one arm extended and mouth open."
+    },
     "answers": [
       {
-        "text": "Consequences only happen at the end of stories.",
+        "text": "The pose alone proves exactly how Robin will feel during every future show.",
         "is_correct": false
       },
       {
-        "text": "The warning and getting lost are unrelated.",
+        "text": "The words simply repeat the outfit colours and add no situation.",
         "is_correct": false
       },
       {
-        "text": "The consequence grows from the earlier choice, linking character action to plot development.",
+        "text": "The later greeting shows that Robin did not actually want to practise earlier.",
+        "is_correct": false
+      },
+      {
+        "text": "The words tell us what Robin is doing and help interpret the poses.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Engaging plots often develop because characters make choices that have effects.",
-      "hint": "Trace cause and effect through the character’s decision."
-    }
+      "summary": "The same posture can have different meanings; the practice/show context supports this interpretation.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LE03-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: First Performance\nBefore: “Could I practise behind the curtain?” Robin asked.\nAfter: “Welcome to our show!” Robin called. Look at both panels.\n\nWrite one claim about Robin’s future feelings that would be too strong. Explain why the pictured change and dialogue do not prove it.",
+    "audio_prompt": "Original illustrated scene: First Performance\nBefore: “Could I practise behind the curtain?” Robin asked.\nAfter: “Welcome to our show!” Robin called. Look at both panels.\n\nWrite one claim about Robin’s future feelings that would be too strong. Explain why the pictured change and dialogue do not prove it.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-stage.svg#scene",
+      "alt_text": "Two story panels show the same child. In Before, the child stands beside a curtain with arms close to the body. In After, the child stands facing the audience with one arm extended and mouth open."
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "“Robin will never be nervous again” is too strong. The first scene shows Robin asking to practise behind the curtain, while the second shows an outward gesture and public greeting. They support a change in this performance, not every future feeling.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 41,
+    "grading_mode": "adult-review",
+    "model_answer": "“Robin will never be nervous again” is too strong. The first scene shows Robin asking to practise behind the curtain, while the second shows an outward gesture and public greeting. They support a change in this performance, not every future feeling.",
+    "acceptance_note": "Require a direct answer and precise evidence from the supplied original image or dialogue. Accept another interpretation only if it fits all supplied details; do not infer a permanent trait from one pose.",
+    "response_instructions": "Write or explain your answer and evidence. An adult checks the completed response.",
+    "completion_label": "My explanation is ready for an adult to check."
+  },
+  {
+    "id": "AC9E4LE03-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: First Performance\nBefore: “Could I practise behind the curtain?” Robin asked.\nAfter: “Welcome to our show!” Robin called. Look at both panels.\n\nWhat makes the two-panel sequence useful? Explain your answer with a visible or quoted detail.",
+    "audio_prompt": "Original illustrated scene: First Performance\nBefore: “Could I practise behind the curtain?” Robin asked.\nAfter: “Welcome to our show!” Robin called. Look at both panels.\n\nWhat makes the two-panel sequence useful? Explain your answer with a visible or quoted detail.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-stage.svg#scene",
+      "alt_text": "Two story panels show the same child. In Before, the child stands beside a curtain with arms close to the body. In After, the child stands facing the audience with one arm extended and mouth open."
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "The two panels let us compare earlier and later behaviour: Robin’s arms are close to the body beside the curtain before, then one arm extends toward an audience after. The dialogue moves from asking to practise to welcoming the audience, supporting development.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 42,
+    "grading_mode": "adult-review",
+    "model_answer": "The two panels let us compare earlier and later behaviour: Robin’s arms are close to the body beside the curtain before, then one arm extends toward an audience after. The dialogue moves from asking to practise to welcoming the audience, supporting development.",
+    "acceptance_note": "Require a direct answer and precise evidence from the supplied original image or dialogue. Accept another interpretation only if it fits all supplied details; do not infer a permanent trait from one pose.",
+    "response_instructions": "Write or explain your answer and evidence. An adult checks the completed response.",
+    "completion_label": "My explanation is ready for an adult to check."
+  },
+  {
+    "id": "AC9E4LE03-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: The Crossing\n“The hut is close,” said Niko. “But these boards do not look safe.” Look at the illustration.\n\nWhat gives Niko a reason to pause? Explain your answer with a visible or quoted detail.",
+    "audio_prompt": "Original illustrated scene: The Crossing\n“The hut is close,” said Niko. “But these boards do not look safe.” Look at the illustration.\n\nWhat gives Niko a reason to pause? Explain your answer with a visible or quoted detail.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-bridge.svg#scene",
+      "alt_text": "A child stands at the left end of a rope bridge over a deep gap. A wide gap separates boards near the middle. A hut is visible across the gap. The child has not stepped onto the bridge."
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "There are missing boards above a deep gap. The missing boards directly affect the safety of crossing.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 43,
+    "grading_mode": "adult-review",
+    "model_answer": "There are missing boards above a deep gap. The missing boards directly affect the safety of crossing.",
+    "acceptance_note": "Require a direct answer and precise evidence from the supplied original image or dialogue. Accept another interpretation only if it fits all supplied details; do not infer a permanent trait from one pose.",
+    "response_instructions": "Write or explain your answer and evidence. An adult checks the completed response.",
+    "completion_label": "My explanation is ready for an adult to check."
+  },
+  {
+    "id": "AC9E4LE03-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: The Crossing\n“The hut is close,” said Niko. “But these boards do not look safe.” Look at the illustration.\n\nHow do the hut and gap together make the choice engaging? Explain your answer with a visible or quoted detail.",
+    "audio_prompt": "Original illustrated scene: The Crossing\n“The hut is close,” said Niko. “But these boards do not look safe.” Look at the illustration.\n\nHow do the hut and gap together make the choice engaging? Explain your answer with a visible or quoted detail.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-bridge.svg#scene",
+      "alt_text": "A child stands at the left end of a rope bridge over a deep gap. A wide gap separates boards near the middle. A hut is visible across the gap. The child has not stepped onto the bridge."
+    },
+    "answers": [],
+    "correct_index": null,
+    "explanation": {
+      "summary": "The goal is visible, but reaching it has an obstacle. The drawing places a wanted destination beyond an uncertain crossing.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 44,
+    "grading_mode": "adult-review",
+    "model_answer": "The goal is visible, but reaching it has an obstacle. The drawing places a wanted destination beyond an uncertain crossing.",
+    "acceptance_note": "Require a direct answer and precise evidence from the supplied original image or dialogue. Accept another interpretation only if it fits all supplied details; do not infer a permanent trait from one pose.",
+    "response_instructions": "Write or explain your answer and evidence. An adult checks the completed response.",
+    "completion_label": "My explanation is ready for an adult to check."
+  },
+  {
+    "id": "AC9E4LE03-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Read: “We could pretend the vase was already cracked,” said Bo. Lin shook her head. “I knocked it. I’ll tell Gran.” Explain what Lin’s dialogue reveals and why a reader might care about the next scene.",
+    "audio_prompt": "Read: “We could pretend the vase was already cracked,” said Bo. Lin shook her head. “I knocked it. I’ll tell Gran.” Explain what Lin’s dialogue reveals and why a reader might care about the next scene.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Lin accepts responsibility by saying “I knocked it”. We may want to know how Gran responds because admitting the accident could have a consequence.",
+    "acceptance_note": "Require exact dialogue evidence, a supported quality or motive, and an unresolved consequence. Accept thoughtful alternative feelings; no fixed personality judgement.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "Lin accepts responsibility by saying “I knocked it”. We may want to know how Gran responds because admitting the accident could have a consequence.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LE03-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Read: The rain erased the chalk arrows. Ada stopped at the fork. “Which way did the group go?” Explain how the setting changes Ada’s choices. Then name one detail an illustrator could show to help the reader understand her problem.",
+    "audio_prompt": "Read: The rain erased the chalk arrows. Ada stopped at the fork. “Which way did the group go?” Explain how the setting changes Ada’s choices. Then name one detail an illustrator could show to help the reader understand her problem.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Rain removes the direction clues, so Ada cannot simply follow the arrows. An illustration could show fading chalk at a path fork.",
+    "acceptance_note": "Require cause linked to setting and an image detail that matches the supplied scene. Do not accept an invented visible guide as if already in the text.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "Rain removes the direction clues, so Ada cannot simply follow the arrows. An illustration could show fading chalk at a path fork.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LE03-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "View the original Ridge illustration. Explain how one visible size or position choice affects your response to the setting. Then say one thing the picture does not tell you.",
+    "audio_prompt": "View the original Ridge illustration. Explain how one visible size or position choice affects your response to the setting. Then say one thing the picture does not tell you.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-cliff.svg#scene",
+      "alt_text": "A small figure with a backpack stands on a path below a tall cliff. Dark clouds hang above; the path curves toward the cliff."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The small figure beside the tall cliff makes the place seem vast. The picture does not tell us the guide’s name or when the guide will arrive.",
+    "acceptance_note": "Require an actual visible feature and plausible contextual effect; distinguish inference from unavailable information.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "The small figure beside the tall cliff makes the place seem vast. The picture does not tell us the guide’s name or when the guide will arrive.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LE03-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE03",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "With an adult, open the linked publisher preview for Little Bird’s Day by Sally Morgan, illustrated by Johnny Warrkatja Malibirr (reading link in preparation). View the illustration with the rising sun, coiled snake, frog and lizard. Explain how two visible details help establish the time or activity in the story.",
+    "audio_prompt": "With an adult, open the linked publisher preview for Little Bird’s Day by Sally Morgan, illustrated by Johnny Warrkatja Malibirr (reading link in preparation). View the illustration with the rising sun, coiled snake, frog and lizard. Explain how two visible details help establish the time or activity in the story.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The sun rising behind the hill suggests the beginning of the day. The snake’s closed eye suggests it is resting. These image details help us imagine the animals’ morning.",
+    "acceptance_note": "Adult must inspect the actual publisher illustration with the learner. Require two visible details and plausible meaning; accept other supported observations. Do not infer sacred meanings from patterns. If the source is unavailable, leave this task pending rather than mark it completed. Author Sally Morgan is Palyku; illustrator Johnny Warrkatja Malibirr is Yolŋu/Ganalbingu; discuss this specific work, not all First Nations cultures.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
+    "explanation": {
+      "summary": "The sun rising behind the hill suggests the beginning of the day. The snake’s closed eye suggests it is resting. These image details help us imagine the animals’ morning.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LE03-T-001",
@@ -1205,29 +2030,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "New context: a mystery story slowly revealing footprints, a broken latch and a missing key. Which option is correct?",
-    "audio_prompt": "New context: a mystery story slowly revealing footprints, a broken latch and a missing key. Which option is correct?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Relay\nA whistle blew. Priya saw her teammate sitting beside the track, holding an ankle. The finish line lay ahead. She slowed, turned and called the nearest adult.\n\nWhich conflict makes Priya’s choice meaningful?",
+    "audio_prompt": "Original story: The Relay\nA whistle blew. Priya saw her teammate sitting beside the track, holding an ankle. The finish line lay ahead. She slowed, turned and called the nearest adult.\n\nWhich conflict makes Priya’s choice meaningful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "text": "She gives up racing straight to the finish to help a teammate.",
         "is_correct": true
       },
       {
-        "text": "The clues resolve the mystery immediately.",
+        "text": "She must choose between running slowly and trying to win another event.",
         "is_correct": false
       },
       {
-        "text": "Details cannot shape tension.",
+        "text": "She must choose whether to tell her teammate to finish alone or ask for a new race.",
+        "is_correct": false
+      },
+      {
+        "text": "She wants to win while keeping the teammate’s problem secret from the adult.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Gradual clues keep readers forming and revising predictions.",
-      "hint": "Ask what the reader knows now and what is still uncertain."
-    }
+      "summary": "The finish line and injured teammate create competing immediate priorities.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LE03-T-002",
@@ -1235,29 +2074,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "What is the best choice for a mystery story slowly revealing footprints, a broken latch and a missing key?",
-    "audio_prompt": "What is the best choice for a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Relay\nA whistle blew. Priya saw her teammate sitting beside the track, holding an ankle. The finish line lay ahead. She slowed, turned and called the nearest adult.\n\nWhat does calling the adult most strongly show?",
+    "audio_prompt": "Original story: The Relay\nA whistle blew. Priya saw her teammate sitting beside the track, holding an ankle. The finish line lay ahead. She slowed, turned and called the nearest adult.\n\nWhat does calling the adult most strongly show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The clues resolve the mystery immediately.",
+        "text": "She has already won the race.",
         "is_correct": false
       },
       {
-        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "text": "She responds to a teammate needing help.",
         "is_correct": true
       },
       {
-        "text": "Details cannot shape tension.",
+        "text": "She is certain the ankle is broken.",
+        "is_correct": false
+      },
+      {
+        "text": "She has no interest in the teammate.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Gradual clues keep readers forming and revising predictions.",
-      "hint": "Ask what the reader knows now and what is still uncertain."
-    }
+      "summary": "Her action shows concern; it does not establish a diagnosis or race result.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LE03-T-003",
@@ -1265,29 +2118,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which explanation best supports “The clues build curiosity because each detail narrows what might have happened.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
-    "audio_prompt": "Which explanation best supports “The clues build curiosity because each detail narrows what might have happened.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Relay\nA whistle blew. Priya saw her teammate sitting beside the track, holding an ankle. The finish line lay ahead. She slowed, turned and called the nearest adult.\n\nWhich ending would follow directly from the choice already shown?",
+    "audio_prompt": "Original story: The Relay\nA whistle blew. Priya saw her teammate sitting beside the track, holding an ankle. The finish line lay ahead. She slowed, turned and called the nearest adult.\n\nWhich ending would follow directly from the choice already shown?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The clues resolve the mystery immediately.” is always a safe choice.",
+        "text": "Priya finishes without turning or calling to anyone.",
         "is_correct": false
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "The adult explains that Priya chose to ignore the teammate’s need.",
         "is_correct": false
       },
       {
-        "text": "Gradual clues keep readers forming and revising predictions.",
+        "text": "The adult reaches the teammate while Priya waits nearby.",
         "is_correct": true
+      },
+      {
+        "text": "The teammate tells Priya that nobody has called for help.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Gradual clues keep readers forming and revising predictions.",
-      "hint": "Ask what the reader knows now and what is still uncertain."
-    }
+      "summary": "The adult arriving develops the stated call for help; it preserves the established scene.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LE03-T-004",
@@ -1295,29 +2162,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which clue should guide your decision in a mystery story slowly revealing footprints, a broken latch and a missing key?",
-    "audio_prompt": "Which clue should guide your decision in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original dialogue: The Last Page\n“I always read the ending first,” said Yasmin. “I like knowing nobody is left in danger.”\n“I keep it covered,” said Owen. “I enjoy trying to work it out.”\n\nWhat different reading preferences do their words reveal?",
+    "audio_prompt": "Original dialogue: The Last Page\n“I always read the ending first,” said Yasmin. “I like knowing nobody is left in danger.”\n“I keep it covered,” said Owen. “I enjoy trying to work it out.”\n\nWhat different reading preferences do their words reveal?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Ask what the reader knows now and what is still uncertain.",
+        "text": "Yasmin dislikes endings; Owen never predicts.",
+        "is_correct": false
+      },
+      {
+        "text": "Both say they only enjoy dangerous endings.",
+        "is_correct": false
+      },
+      {
+        "text": "Owen reads endings first to reassure Yasmin.",
+        "is_correct": false
+      },
+      {
+        "text": "Yasmin likes reassurance; Owen likes uncertainty while predicting.",
         "is_correct": true
-      },
-      {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Gradual clues keep readers forming and revising predictions.",
-      "hint": "Ask what the reader knows now and what is still uncertain."
-    }
+      "summary": "Each speaker explains the reason for a different reading choice.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LE03-T-005",
@@ -1325,29 +2205,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which option would you reject first in a mystery story slowly revealing footprints, a broken latch and a missing key?",
-    "audio_prompt": "Which option would you reject first in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original dialogue: The Last Page\n“I always read the ending first,” said Yasmin. “I like knowing nobody is left in danger.”\n“I keep it covered,” said Owen. “I enjoy trying to work it out.”\n\nWhich line would fit Owen’s stated preference?",
+    "audio_prompt": "Original dialogue: The Last Page\n“I always read the ending first,” said Yasmin. “I like knowing nobody is left in danger.”\n“I keep it covered,” said Owen. “I enjoy trying to work it out.”\n\nWhich line would fit Owen’s stated preference?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The clues build curiosity because each detail narrows what might have happened.",
-        "is_correct": false
-      },
-      {
-        "text": "The clues resolve the mystery immediately.",
+        "text": "“Don’t tell me yet; let me test my guess.”",
         "is_correct": true
       },
       {
-        "text": "Details cannot shape tension.",
+        "text": "“Please tell me the solution before I begin.”",
+        "is_correct": false
+      },
+      {
+        "text": "“I never want to guess what comes next.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Cover every page except the last one.”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Gradual clues keep readers forming and revising predictions.",
-      "hint": "Ask what the reader knows now and what is still uncertain."
-    }
+      "summary": "Wanting to test a guess follows his enjoyment of working out the ending.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LE03-T-006",
@@ -1355,29 +2248,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which correction should replace “The clues resolve the mystery immediately.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
-    "audio_prompt": "Which correction should replace “The clues resolve the mystery immediately.” in a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original dialogue: The Last Page\n“I always read the ending first,” said Yasmin. “I like knowing nobody is left in danger.”\n“I keep it covered,” said Owen. “I enjoy trying to work it out.”\n\nWhich claim is unsupported?",
+    "audio_prompt": "Original dialogue: The Last Page\n“I always read the ending first,” said Yasmin. “I like knowing nobody is left in danger.”\n“I keep it covered,” said Owen. “I enjoy trying to work it out.”\n\nWhich claim is unsupported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The clues resolve the mystery immediately.",
+        "text": "The speakers prefer different amounts of suspense.",
         "is_correct": false
       },
       {
-        "text": "Details cannot shape tension.",
-        "is_correct": false
-      },
-      {
-        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "text": "Yasmin is afraid of everything in daily life.",
         "is_correct": true
+      },
+      {
+        "text": "Yasmin sometimes reads the ending first.",
+        "is_correct": false
+      },
+      {
+        "text": "Owen enjoys predicting a story’s ending.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Gradual clues keep readers forming and revising predictions.",
-      "hint": "Ask what the reader knows now and what is still uncertain."
-    }
+      "summary": "A reading preference cannot establish a general judgement about a real-life personality.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LE03-T-007",
@@ -1385,29 +2291,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Apply the skill to a mystery story slowly revealing footprints, a broken latch and a missing key: what should you choose?",
-    "audio_prompt": "Apply the skill to a mystery story slowly revealing footprints, a broken latch and a missing key: what should you choose?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Bell Tower\nThe tower clock had stopped. At noon, Lila climbed to its small window with a handbell. Below, people waited to begin the festival. She had never rung the opening signal before.\n\nHow does the stopped clock affect the plot?",
+    "audio_prompt": "Original story: The Bell Tower\nThe tower clock had stopped. At noon, Lila climbed to its small window with a handbell. Below, people waited to begin the festival. She had never rung the opening signal before.\n\nHow does the stopped clock affect the plot?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "text": "It resolves the festival’s timing problem before Lila acts.",
+        "is_correct": false
+      },
+      {
+        "text": "It means the crowd no longer needs any signal to begin.",
+        "is_correct": false
+      },
+      {
+        "text": "It creates a need for Lila to give a different signal.",
         "is_correct": true
       },
       {
-        "text": "The clues resolve the mystery immediately.",
-        "is_correct": false
-      },
-      {
-        "text": "Details cannot shape tension.",
+        "text": "It mainly tells us Lila is late rather than creating a new responsibility.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Gradual clues keep readers forming and revising predictions.",
-      "hint": "Ask what the reader knows now and what is still uncertain."
-    }
+      "summary": "The handbell offers a substitute for the failed clock at the expected time.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LE03-T-008",
@@ -1415,29 +2335,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which final choice gives the clearest and most accurate result for a mystery story slowly revealing footprints, a broken latch and a missing key?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for a mystery story slowly revealing footprints, a broken latch and a missing key?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Bell Tower\nThe tower clock had stopped. At noon, Lila climbed to its small window with a handbell. Below, people waited to begin the festival. She had never rung the opening signal before.\n\nWhy mention that Lila has never done this before?",
+    "audio_prompt": "Original story: The Bell Tower\nThe tower clock had stopped. At noon, Lila climbed to its small window with a handbell. Below, people waited to begin the festival. She had never rung the opening signal before.\n\nWhy mention that Lila has never done this before?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The clues resolve the mystery immediately.",
+        "text": "It proves she cannot lift the bell.",
         "is_correct": false
       },
       {
-        "text": "The clues build curiosity because each detail narrows what might have happened.",
+        "text": "It tells us the festival has been cancelled.",
+        "is_correct": false
+      },
+      {
+        "text": "It establishes that she dislikes every festival.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the responsibility feel new and uncertain.",
         "is_correct": true
-      },
-      {
-        "text": "Details cannot shape tension.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Gradual clues keep readers forming and revising predictions.",
-      "hint": "Ask what the reader knows now and what is still uncertain."
-    }
+      "summary": "A first attempt adds uncertainty while people are depending on her.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LE03-T-009",
@@ -1445,29 +2379,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "New context: a shy character finally speaks at a community meeting. Which option is correct?",
-    "audio_prompt": "New context: a shy character finally speaks at a community meeting. Which option is correct?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original story: The Bell Tower\nThe tower clock had stopped. At noon, Lila climbed to its small window with a handbell. Below, people waited to begin the festival. She had never rung the opening signal before.\n\nWhich detail best connects setting with the people waiting?",
+    "audio_prompt": "Original story: The Bell Tower\nThe tower clock had stopped. At noon, Lila climbed to its small window with a handbell. Below, people waited to begin the festival. She had never rung the opening signal before.\n\nWhich detail best connects setting with the people waiting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The scene is important only because it has speech marks.",
-        "is_correct": false
-      },
-      {
-        "text": "Character growth cannot affect reader response.",
-        "is_correct": false
-      },
-      {
-        "text": "The moment is engaging because it completes a change the story has been building toward.",
+        "text": "The small tower window is above the festival crowd.",
         "is_correct": true
+      },
+      {
+        "text": "Lila has never given the opening signal before.",
+        "is_correct": false
+      },
+      {
+        "text": "The stopped clock needs to be repaired.",
+        "is_correct": false
+      },
+      {
+        "text": "The people are preparing to begin a festival.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A significant action can show development and provide a satisfying turning point.",
-      "hint": "Connect the final action to earlier behaviour."
-    }
+      "summary": "The height and crowd position establish where the signal will come from and who needs it.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LE03-T-010",
@@ -1475,29 +2423,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "What is the best choice for a shy character finally speaks at a community meeting?",
-    "audio_prompt": "What is the best choice for a shy character finally speaks at a community meeting?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: A Safer Plan\nRavi stopped at the edge. “We need another way to the hut,” he said. Use the Crossing illustration for this new story.\n\nWhich visible evidence supports Ravi’s decision?",
+    "audio_prompt": "Original illustrated scene: A Safer Plan\nRavi stopped at the edge. “We need another way to the hut,” he said. Use the Crossing illustration for this new story.\n\nWhich visible evidence supports Ravi’s decision?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-bridge.svg#scene",
+      "alt_text": "A child stands at the left end of a rope bridge over a deep gap. A wide gap separates boards near the middle. A hut is visible across the gap. The child has not stepped onto the bridge."
+    },
     "answers": [
       {
-        "text": "The moment is engaging because it completes a change the story has been building toward.",
+        "text": "The hut is shown beside the child.",
+        "is_correct": false
+      },
+      {
+        "text": "The bridge has missing boards over a gap.",
         "is_correct": true
       },
       {
-        "text": "The scene is important only because it has speech marks.",
+        "text": "There is a clear pavement across the gap.",
         "is_correct": false
       },
       {
-        "text": "Character growth cannot affect reader response.",
+        "text": "The child is already crossing the final board.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A significant action can show development and provide a satisfying turning point.",
-      "hint": "Connect the final action to earlier behaviour."
-    }
+      "summary": "The gap in the boards makes an alternative route a sensible choice.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LE03-T-011",
@@ -1505,29 +2468,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which explanation best supports “The moment is engaging because it completes a change the story has been building toward.” in a shy character finally speaks at a community meeting?",
-    "audio_prompt": "Which explanation best supports “The moment is engaging because it completes a change the story has been building toward.” in a shy character finally speaks at a community meeting?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: A Safer Plan\nRavi stopped at the edge. “We need another way to the hut,” he said. Use the Crossing illustration for this new story.\n\nWhat do Ravi’s words add to the illustration?",
+    "audio_prompt": "Original illustrated scene: A Safer Plan\nRavi stopped at the edge. “We need another way to the hut,” he said. Use the Crossing illustration for this new story.\n\nWhat do Ravi’s words add to the illustration?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-bridge.svg#scene",
+      "alt_text": "A child stands at the left end of a rope bridge over a deep gap. A wide gap separates boards near the middle. A hut is visible across the gap. The child has not stepped onto the bridge."
+    },
     "answers": [
       {
-        "text": "Because “The scene is important only because it has speech marks.” is always a safe choice.",
+        "text": "Ropes stretch between the sides.",
         "is_correct": false
       },
       {
-        "text": "A significant action can show development and provide a satisfying turning point.",
+        "text": "Some bridge boards are missing.",
+        "is_correct": false
+      },
+      {
+        "text": "He intends to look for another route.",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "The hut stands across the gap.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A significant action can show development and provide a satisfying turning point.",
-      "hint": "Connect the final action to earlier behaviour."
-    }
+      "summary": "The picture shows the obstacle; dialogue supplies the plan.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LE03-T-012",
@@ -1535,29 +2513,44 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which clue should guide your decision in a shy character finally speaks at a community meeting?",
-    "audio_prompt": "Which clue should guide your decision in a shy character finally speaks at a community meeting?",
+    "stage": "independent",
+    "skill": "character_setting_plot_illustration",
+    "question": "Original illustrated scene: A Safer Plan\nRavi stopped at the edge. “We need another way to the hut,” he said. Use the Crossing illustration for this new story.\n\nWhich question remains unanswered by both text and image?",
+    "audio_prompt": "Original illustrated scene: A Safer Plan\nRavi stopped at the edge. “We need another way to the hut,” he said. Use the Crossing illustration for this new story.\n\nWhich question remains unanswered by both text and image?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-bridge.svg#scene",
+      "alt_text": "A child stands at the left end of a rope bridge over a deep gap. A wide gap separates boards near the middle. A hut is visible across the gap. The child has not stepped onto the bridge."
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "Is there a hut across the gap?",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "Are some boards missing?",
         "is_correct": false
       },
       {
-        "text": "Connect the final action to earlier behaviour.",
+        "text": "Has Ravi paused at the edge?",
+        "is_correct": false
+      },
+      {
+        "text": "Will Ravi find another way to the hut?",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A significant action can show development and provide a satisfying turning point.",
-      "hint": "Connect the final action to earlier behaviour."
-    }
+      "summary": "No alternative route or outcome is supplied, leaving the next event uncertain.",
+      "hint": "Point to the exact detail and explain what it suggests in this context."
+    },
+    "curriculum_coverage": [
+      "E2",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LE03-T-013",
@@ -1565,29 +2558,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which option would you reject first in a shy character finally speaks at a community meeting?",
-    "audio_prompt": "Which option would you reject first in a shy character finally speaks at a community meeting?",
-    "answers": [
-      {
-        "text": "The scene is important only because it has speech marks.",
-        "is_correct": true
-      },
-      {
-        "text": "The moment is engaging because it completes a change the story has been building toward.",
-        "is_correct": false
-      },
-      {
-        "text": "Character growth cannot affect reader response.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Read: At the start, Dev hid his drawings whenever someone passed. At the end, he pinned one beside the library door: “Please tell me which colours you notice first.” Explain the character change using one detail from each moment.",
+    "audio_prompt": "Read: At the start, Dev hid his drawings whenever someone passed. At the end, he pinned one beside the library door: “Please tell me which colours you notice first.” Explain the character change using one detail from each moment.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Dev changes from hiding his drawings to inviting people to look and respond. Hiding them suggests reluctance; the displayed picture and request show greater willingness to share.",
+    "acceptance_note": "Require comparison of both moments and exact behavioural/dialogue evidence. Do not require a claim that Dev has become entirely fearless.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A significant action can show development and provide a satisfying turning point.",
-      "hint": "Connect the final action to earlier behaviour."
-    }
+      "summary": "Dev changes from hiding his drawings to inviting people to look and respond. Hiding them suggests reluctance; the displayed picture and request show greater willingness to share.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LE03-T-014",
@@ -1595,29 +2590,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which correction should replace “The scene is important only because it has speech marks.” in a shy character finally speaks at a community meeting?",
-    "audio_prompt": "Which correction should replace “The scene is important only because it has speech marks.” in a shy character finally speaks at a community meeting?",
-    "answers": [
-      {
-        "text": "The scene is important only because it has speech marks.",
-        "is_correct": false
-      },
-      {
-        "text": "The moment is engaging because it completes a change the story has been building toward.",
-        "is_correct": true
-      },
-      {
-        "text": "Character growth cannot affect reader response.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Read: Water slid beneath the shed door. Mara lifted the cardboard model onto a shelf. A second model still stood on the floor. She heard an adult call from outside. Explain how setting and an unfinished choice make this moment engaging.",
+    "audio_prompt": "Read: Water slid beneath the shed door. Mara lifted the cardboard model onto a shelf. A second model still stood on the floor. She heard an adult call from outside. Explain how setting and an unfinished choice make this moment engaging.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Incoming water threatens the models. Mara has saved one, but we do not know what she will do about the second while an adult calls.",
+    "acceptance_note": "Require water’s effect and a supported unresolved choice; do not credit invented injury or completed rescue. Accept sensible inference about seeking adult help.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
     "explanation": {
-      "summary": "A significant action can show development and provide a satisfying turning point.",
-      "hint": "Connect the final action to earlier behaviour."
-    }
+      "summary": "Incoming water threatens the models. Mara has saved one, but we do not know what she will do about the second while an adult calls.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LE03-T-015",
@@ -1625,29 +2621,33 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Apply the skill to a shy character finally speaks at a community meeting: what should you choose?",
-    "audio_prompt": "Apply the skill to a shy character finally speaks at a community meeting: what should you choose?",
-    "answers": [
-      {
-        "text": "The scene is important only because it has speech marks.",
-        "is_correct": false
-      },
-      {
-        "text": "Character growth cannot affect reader response.",
-        "is_correct": false
-      },
-      {
-        "text": "The moment is engaging because it completes a change the story has been building toward.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "View the original Door illustration. Invent one short line of dialogue that fits the picture, then explain how the light and the closed door could make a reader curious.",
+    "audio_prompt": "View the original Door illustration. Invent one short line of dialogue that fits the picture, then explain how the light and the closed door could make a reader curious.",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/illustrations/year4-english/ac9e4le03-door.svg#scene",
+      "alt_text": "A child stands inside beside a closed door. A bright strip of light runs beneath the door. The child leans toward it with one hand raised toward the door."
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "“Who is there?” Light shows something beyond the closed door, but the visitor or source is hidden, so a reader may want to find out.",
+    "acceptance_note": "Require fitting original dialogue and two visible features connected to curiosity. Different plausible stories are acceptable; invented content must be identified as the student’s addition.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
     "explanation": {
-      "summary": "A significant action can show development and provide a satisfying turning point.",
-      "hint": "Connect the final action to earlier behaviour."
-    }
+      "summary": "“Who is there?” Light shows something beyond the closed door, but the visitor or source is hidden, so a reader may want to find out.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2",
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LE03-T-016",
@@ -1655,28 +2655,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Engaging Stories: Character, Setting and Plot",
-    "question": "Which final choice gives the clearest and most accurate result for a shy character finally speaks at a community meeting?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for a shy character finally speaks at a community meeting?",
-    "answers": [
-      {
-        "text": "The moment is engaging because it completes a change the story has been building toward.",
-        "is_correct": true
-      },
-      {
-        "text": "The scene is important only because it has speech marks.",
-        "is_correct": false
-      },
-      {
-        "text": "Character growth cannot affect reader response.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "evidence_based_literary_response",
+    "question": "Reopen the official Little Bird’s Day illustration by Johnny Warrkatja Malibirr for Sally Morgan’s story, using the link in preparation. State one observation and one inference about the beginning of the day, explaining the difference. Then name something about the animals’ next actions that the picture alone cannot establish.",
+    "audio_prompt": "Reopen the official Little Bird’s Day illustration by Johnny Warrkatja Malibirr for Sally Morgan’s story, using the link in preparation. State one observation and one inference about the beginning of the day, explaining the difference. Then name something about the animals’ next actions that the picture alone cannot establish.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Observation: the yellow sun appears behind the hill and the coiled snake’s eye is closed. Inference: it may be early morning while an animal rests. The picture does not tell us which animal will move first or exactly what it will do next.",
+    "acceptance_note": "Require actual publisher image viewing; correctly distinguish a visible detail from its interpretation, support the inference and name a genuinely unavailable next action. Accept supported alternatives and cautious language. No sacred-pattern interpretation or generalised cultural claim. Keep pending if source unavailable; named shared source, fresh independent observation/inference task.",
+    "response_instructions": "Write your response on screen or paper, or explain it aloud using your usual support. An adult checks the actual response against the guidance.",
+    "completion_label": "My explanation is ready for an adult to check.",
     "explanation": {
-      "summary": "A significant action can show development and provide a satisfying turning point.",
-      "hint": "Connect the final action to earlier behaviour."
-    }
+      "summary": "Observation: the yellow sun appears behind the hill and the coiled snake’s eye is closed. Inference: it may be early morning while an animal rests. The picture does not tell us which animal will move first or exactly what it will do next.",
+      "hint": "Name a precise word or visible detail and connect it to meaning."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]

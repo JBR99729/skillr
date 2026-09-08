@@ -1,0 +1,26 @@
+# AC9E4LY01 author draft — independent review required
+
+48 Practice (36MCQ/12adult actual comparisons),16Test (12MCQ/4adult actual comparisons),8 distinct homework tasks (six self-contained written pairs, two explicit adult-led authentic viewing activities). Eighteen distinct MCQ pairs across modes and sixteen additional adult-response pairs. All supplied assessment accounts are explicitly labelled original fictional teaching texts; dates are invented account dates, never purported archival evidence. No publisher/ledger executed.
+
+Exact ACARA descriptor and E1/E2 verified in preservation audit. Topic now teaches matched purposes/audiences, text-versus-event dates, comparing same dimensions, selected detail/order/effect and media affordance limits. Original family pair and report pair are supplied in full; substantive teacher-led authentic news/documentary viewing addresses E1. The bank assesses comparison of self-contained texts; its described media/transcripts are not falsely claimed as actual footage viewing. Actual viewing evidence is requested in Topic/HW7/HW8 and recorded separately.
+
+Primary IXL: root observed D.2/8FS full help/table model, one correct live comparison and one wrong answer/full correction,2answered13score. Source https://au.ixl.com/english/year-4/compare-and-contrast-in-informational-texts . Model implication: compare the same dimension; check both-versus-exclusive evidence; use signal words grounded in details. This within-text benchmark does not directly cover historical text purposes/audiences, which remain explicitly recorded gaps and independently authored ACARA coverage.
+
+Authentic sources: full official BTN transcripts read by author via web; root owns actual browser/video observations. Same-child-audience core pair: Nathan Bazley, Olympic Preparations,24July2012 https://www.abc.net.au/btn/classroom/olympic-preparations/10532274 and Jack Evans, Paris Olympics,23July2024 https://www.abc.net.au/btn/classroom/paris-olympics/104128230 . Both pre-Games explanatory news for children. Original short model contrasts logistics/party-planning presentation and environmental ambitions. Teaching restricts the selected comparison to planning portions located with actual transcript cues; no fabricated clip cut times. Root observed actual2012 moving frame at118.666s showing airport immigration-delay sign; this is sampled evidence, not a claimed full-range review. Root observed2024 moving cycling frame; author did not watch original footage. NFSA Nearing the Melbourne Olympics1956 https://www.nfsa.gov.au/collection/item/nearing-melbourne-olympics is documentary extension, with broad-public-versus-child audience difference explicitly acknowledged. Root inspected broadcasting-preparation/cable-installation footage. Main matched pair remains BTN2012/2024.
+
+Preservation: canonical paths/meta/resource/optional-video/related blocks maintained. Replaced generic curriculum restatements with13 substantive static sections, copied verbatim into native Classroom; restored id=curriculum-mapping and source-linked current Topic map; actual guided step labelled We do. No architecture/validator change. Six written HWtasks self-contained under randomorder; actual viewing tasks explicitly require adult source access and are not counted complete from transcript-only work.
+
+Every MCQ distractor was refined to same-scene near-misses and all64 hints are skill-specific. Counts and author checks are not approval; separate reviewer must inspect all questions/options/answers/explanations, source sufficiency, all surfaces and actual PDF rendering.
+
+Artifact hashes:
+- `assets/assessment-banks/year4/english/ac9e4ly01.json` SHA256 `49f356cccfd323f320090cefa5c8424bec1f6ba5ea40905425879d7631f2f3a5`
+- `year4/english/ac9e4ly01-texts-from-different-times-with-similar-purposes-and-audiences/index.html` SHA256 `04bab8c241aa41f65debb567a1898c34decc8716c435e114738aa65e1a134496`
+- `year4/english/ac9e4ly01-texts-from-different-times-with-similar-purposes-and-audiences/teacher-slides/index.html` SHA256 `ee49b1843d8386e731418cd07d83f05ce9c45e7b569734c419532d1db1197fd2`
+- `quiz/year-4/english/ac9e4ly01/worksheet/worksheet-questions.js` SHA256 `3931c90d31b169f839b5848f8534617c44db890ea7d3ab8233027f9a4adc9c21`
+- `reports/year4-english-review/AC9E4LY01-WORKSHEET-CONTENT.html` SHA256 `a8229369ad2bcd722ff1844c6de38584d959cca3704ab6414ef50c4aa76f68cf`
+- `reports/year4-english-review/AC9E4LY01-PREPARATION-PRACTICE.html` SHA256 `ea301951014264b7a451b072844dffe35aefa4f9f1ea8367c3e1f2844eb10fd7`
+- `reports/year4-english-review/AC9E4LY01-PREPARATION-HUB.html` SHA256 `567df2cdb5c84dd0b7d01be1b3ef83b48d1dbf16280e5b604a951054ca9fbd62`
+- `reports/year4-english-review/AC9E4LY01-PREPARATION-TEST.html` SHA256 `b9e698e67c190cefa93d2977b851e0f8d588814bcc70cbb0a899716337ea1063`
+
+## Independent review corrections
+Made reported opening order explicit in all repeated P010–12, P016–18 and P022–24 stimuli; P028–30 explicitly link rain to the indoor move; P042 now specifies tree types. Normalised homework date/count spacing and regenerated exact static task copy. Test preparation now contains procedure/source status only. Corrected artifacts frozen for the independent reviewer’s final recheck; no author approval claimed.

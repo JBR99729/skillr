@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "reviewer": "author_le03_le04 (independent of LE01 author)",
+  "scope": "All14 rendered pages of two actual production homework PDFs; source/input identities rechecked after visual inspection",
+  "inputs": {
+    "quiz/year-4/english/ac9e4le01/worksheet/index.html": "3498b241772aca32f5fdb10c34cbcdc1184c35f2d00f75f66beeb9b1092fc9d0",
+    "quiz/year-4/english/ac9e4le01/worksheet/worksheet-questions.js": "f291d76eb7d4f59f37430dce2a1ebeb1f0a1a7568fae20f1c24b54d65f3c256c",
+    "quiz/assets/worksheet-pdf.js": "cbd7e0c97f0a212a400d8ca4c1b2d3c88db4f7916ef886e732b3eb5185dc580d",
+    "scripts/validate_year4_english_la01_pdf.mjs": "75ac44d9164732dac5d48e7fcc8be5f346ec19f53f0fb3442201a246c24b7d6f"
+  },
+  "outputs": [
+    {
+      "file": "/workspace/scratch/687de93465e2/engineering-le01-reviewed-pdf/1-similar-storylines-and-ideas-across-contexts-worksheet.pdf",
+      "pages": 7,
+      "sha256": "b265c20f229e4c221a978c0e0898aaa0c9ee6e3a16d7a2ef1bda6ce12dfb9520"
+    },
+    {
+      "file": "/workspace/scratch/687de93465e2/engineering-le01-reviewed-pdf/2-similar-storylines-and-ideas-across-contexts-worksheet.pdf",
+      "pages": 7,
+      "sha256": "9c712c7e9e03d8e8e47a3f498d575fd4abc7793c9ae018ab1fe44fc577f36e12"
+    }
+  ],
+  "rendered_pages": {
+    "variant1-1.png": "99a9dedb57b1b2626cc0d994ded8d53f9aaffbd6bed7b4a85ba645d030d5ab86",
+    "variant1-2.png": "5c2015f9d898d40243aeb853245c2a84cb9bc337f7b4d5df4af04c0106a37ce7",
+    "variant1-3.png": "acb0834273457db4c26343d11013c7d8b90409f8321feb5d074c98b7ec3658ea",
+    "variant1-4.png": "cffc7c99096996613ea438a7efeee7f5b37114884ccd86289cf6b1a11e958f18",
+    "variant1-5.png": "c817139b536b18d1173b6811a21f6e6bfc7a6e81d9369b7b5a4aa43e3624e487",
+    "variant1-6.png": "2f0828fa567a19c72c234dc8a9b3f3916baadce9eda9f2eba3bfb73382e499be",
+    "variant1-7.png": "06cffb7f3ddd767623260d973bbfb7d420a55a16c47cfbafaf826e2edac74386",
+    "variant2-1.png": "99a9dedb57b1b2626cc0d994ded8d53f9aaffbd6bed7b4a85ba645d030d5ab86",
+    "variant2-2.png": "2cbead085b3e239d3026f77e5880e933a238ffc14f3d3d9e7ae7fab9d7cb6fc8",
+    "variant2-3.png": "cc9c83aa953621025ec8840bc8aa9fa4cf68cebe19d0fb45abe015b1bda476d2",
+    "variant2-4.png": "82f154c1b8f3179762a5d769b19c46d9a0c3ed33c636cd64c297de864348aa96",
+    "variant2-5.png": "f03d7846f6ef6ab5b0ba28276903867aa3e7836687a6fefae39ce373e7634225",
+    "variant2-6.png": "03a6d5d0613c3ecd0b3216d4f9910f017f80a94576211d8a3b2d152c4e9b863f",
+    "variant2-7.png": "3745f88056f61e4706733f8e83a67952e10f0e00508b713a9895ebf608d48b75"
+  }
+}

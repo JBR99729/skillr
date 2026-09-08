@@ -256,6 +256,19 @@
     const printablePool = uniqueQuestions(getWorksheetQuestionBank())
       .filter(isPaperFriendly);
 
+    // These eight linked writing tasks need their authored plan-to-revision order.
+    // Keep every other worksheet's existing shuffled selection unchanged.
+    if (getSkillCode() === "AC9E4LE05"
+      && window.quizConfig?.skillCode === "AC9E4LE05"
+      && document.body?.getAttribute("data-skillr-authored-worksheet") === "true"
+      && WORKSHEET_LIMIT === 8 && printablePool.length === 8
+      && window.skillrWorksheetQuestions?.length === 8
+      && printablePool.every((question, index) => question === window.skillrWorksheetQuestions[index]
+        && question.curriculumCode === "AC9E4LE05" && question.type === "self-check"
+        && question.id === `ac9e4le05-w-${String(index + 1).padStart(3, "0")}`)) {
+      return printablePool.slice();
+    }
+
     return shuffleArray(printablePool).slice(0, WORKSHEET_LIMIT);
   }
 
@@ -504,14 +517,14 @@
       font(12,true);
       const stemHeight = wrap(doc,stem,width).length * 5.93;
       // Keep authored Year 4 writing space beside its prompt, even when
-      // shuffled. Only marked LA07–LA12 may request 4–12 response lines.
+      // shuffled. Only marked LA07–LA12, LE01–LE05 and LY01 may request 4–12 response lines.
       const keepWrittenWorkspace = question.type === "self-check"
-        && /^(?:AC9M4(?:N0[6-9]|A0[12]|M0[1-4]|SP0[1-3]|ST0[1-3]|P0[12])|AC9S4(?:U0[1-4]|H0[12]|I0[1-6])|AC9E4LA(?:0[1-9]|1[0-2]))$/.test(getSkillCode())
-        && (!/^AC9E4LA(?:0[1-9]|1[0-2])$/.test(getSkillCode()) || document.body?.getAttribute("data-skillr-authored-worksheet") === "true")
+        && /^(?:AC9M4(?:N0[6-9]|A0[12]|M0[1-4]|SP0[1-3]|ST0[1-3]|P0[12])|AC9S4(?:U0[1-4]|H0[12]|I0[1-6])|AC9E4(?:LA(?:0[1-9]|1[0-2])|LE0[1-5]|LY01))$/.test(getSkillCode())
+        && (!/^AC9E4(?:LA(?:0[1-9]|1[0-2])|LE0[1-5]|LY01)$/.test(getSkillCode()) || document.body?.getAttribute("data-skillr-authored-worksheet") === "true")
         && question.curriculumCode === getSkillCode()
         && new RegExp(`^${getSkillCode().toLowerCase()}-w-\\d{3}$`).test(question.id || "");
       const responseLineCount = keepWrittenWorkspace
-        && /^AC9E4LA(?:0[7-9]|1[0-2])$/.test(getSkillCode())
+        && /^AC9E4(?:LA(?:0[7-9]|1[0-2])|LE0[1-5]|LY01)$/.test(getSkillCode())
         && Number.isInteger(question.responseLines)
         && question.responseLines >= 4 && question.responseLines <= 12
         ? question.responseLines : 4;

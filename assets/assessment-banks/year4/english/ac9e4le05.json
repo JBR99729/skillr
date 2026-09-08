@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Literary Texts",
-    "question": "In opening a story about a child lost at the Royal Easter Show, which option best demonstrates the skill?",
-    "audio_prompt": "In opening a story about a child lost at the Royal Easter Show, which option best demonstrates the skill?",
+    "skill": "opening",
+    "question": "Draft: Mina arrived at the fair. She wanted to find her brother before the parade. Which opening best establishes that goal and the busy setting?",
+    "audio_prompt": "Draft: Mina arrived at the fair. She wanted to find her brother before the parade. Which opening best establishes that goal and the busy setting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Mina was at a show. It was a show.",
-        "is_correct": false
-      },
-      {
-        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "text": "Mina unfolded her map as the crowd streamed towards the parade. Where was her brother?",
         "is_correct": true
       },
       {
-        "text": "This story will have a complication later because stories do.",
+        "text": "Mina unfolded a map. It was printed on shiny paper with three blue borders.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina enjoyed fairs and remembered several enjoyable visits from earlier years.",
+        "is_correct": false
+      },
+      {
+        "text": "Mina and her brother were already home after watching the parade together.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The opening establishes a character, setting and immediate problem through action.",
-      "hint": "Begin with concrete story details rather than explaining the plan for the story."
-    }
+      "summary": "The map, moving crowd and question place Mina at the fair with a clear search goal. The alternatives distract from or remove that goal.",
+      "hint": "Look for a character goal and a place or event that makes the opening understandable."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LE05-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Literary Texts",
-    "question": "Which choice fits opening a story about a child lost at the Royal Easter Show most accurately?",
-    "audio_prompt": "Which choice fits opening a story about a child lost at the Royal Easter Show most accurately?",
+    "skill": "character_action",
+    "question": "Leo is nervous backstage but wants to perform. Which action shows both feelings?",
+    "audio_prompt": "Leo is nervous backstage but wants to perform. Which action shows both feelings?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Mina was at a show. It was a show.",
+        "text": "Leo waved confidently to the audience without a pause.",
         "is_correct": false
       },
       {
-        "text": "This story will have a complication later because stories do.",
-        "is_correct": false
-      },
-      {
-        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "text": "Leo rubbed his damp palms, then stepped towards the curtain.",
         "is_correct": true
+      },
+      {
+        "text": "Leo ran away from the theatre without looking back.",
+        "is_correct": false
+      },
+      {
+        "text": "Leo stretched out on a sofa and immediately fell asleep.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The opening establishes a character, setting and immediate problem through action.",
-      "hint": "Begin with concrete story details rather than explaining the plan for the story."
-    }
+      "summary": "Damp palms suggest nerves; stepping forward shows that Leo still intends to perform.",
+      "hint": "Check that the action conveys every feeling or intention named in the question."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LE05-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Literary Texts",
-    "question": "Which choice fits developing a nervous character before a school performance most accurately?",
-    "audio_prompt": "Which choice fits developing a nervous character before a school performance most accurately?",
+    "skill": "setting",
+    "question": "A character is trying to hear a faint call in the bush. Which setting detail creates a useful obstacle?",
+    "audio_prompt": "A character is trying to hear a faint call in the bush. Which setting detail creates a useful obstacle?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "text": "A distant hill curved gently against the blue sky.",
+        "is_correct": false
+      },
+      {
+        "text": "Her walking hat had a neatly stitched yellow band.",
+        "is_correct": false
+      },
+      {
+        "text": "Cicadas rattled so loudly that she stopped and listened again.",
         "is_correct": true
       },
       {
-        "text": "Leo was nervous nervous nervous.",
-        "is_correct": false
-      },
-      {
-        "text": "Leo is a character in this story.",
+        "text": "The gum leaves were a beautiful shade of green.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
-      "hint": "Show the emotion through what the character does or notices."
-    }
+      "summary": "The loud insects interfere with hearing, so the setting changes what the character does.",
+      "hint": "Ask how the place, weather or sound changes what the character can do."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LE05-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Literary Texts",
-    "question": "Look closely at developing a nervous character before a school performance. Which response or wording works best?",
-    "audio_prompt": "Look closely at developing a nervous character before a school performance. Which response or wording works best?",
+    "skill": "dialogue",
+    "question": "Amira hears a scratching sound in the shed and wants her friend to help investigate safely. Which line moves the scene forward?",
+    "audio_prompt": "Amira hears a scratching sound in the shed and wants her friend to help investigate safely. Which line moves the scene forward?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Leo was nervous nervous nervous.",
+        "text": "“We should wait until tomorrow before telling anyone,” Amira said.",
         "is_correct": false
       },
       {
-        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "text": "“You open it alone while I watch from here,” Amira said.",
+        "is_correct": false
+      },
+      {
+        "text": "“That scratching sounds interesting,” Amira said, but she made no plan.",
+        "is_correct": false
+      },
+      {
+        "text": "“Wait here while I ask Dad to open the shed with us,” Amira said.",
         "is_correct": true
-      },
-      {
-        "text": "Leo is a character in this story.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
-      "hint": "Show the emotion through what the character does or notices."
-    }
+      "summary": "Amira responds to the sound with a specific safe next action and includes her friend.",
+      "hint": "Look for spoken words that respond to the immediate problem and lead to a useful next action."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LE05-P-005",
@@ -126,28 +178,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Literary Texts",
-    "question": "Look closely at creating a vivid bush setting. Which response or wording works best?",
-    "audio_prompt": "Look closely at creating a vivid bush setting. Which response or wording works best?",
+    "skill": "linked_events",
+    "question": "A creek rises across the path. The characters decide to return to the ranger station. Which sentence best links problem and decision?",
+    "audio_prompt": "A creek rises across the path. The characters decide to return to the ranger station. Which sentence best links problem and decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bush was nice and there were trees.",
-        "is_correct": false
-      },
-      {
-        "text": "There was a setting in the bush.",
-        "is_correct": false
-      },
-      {
-        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "text": "The stepping stones vanished under brown water, so they turned back.",
         "is_correct": true
+      },
+      {
+        "text": "They admired the smooth stepping stones but did not explain why they changed their plan.",
+        "is_correct": false
+      },
+      {
+        "text": "They returned to the station while the writer described their wet boots instead of the blocked crossing.",
+        "is_correct": false
+      },
+      {
+        "text": "They announced that they would turn back without connecting that decision to the rising creek.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Specific sensory details help the reader picture and hear the setting.",
-      "hint": "Choose concrete nouns and precise verbs."
-    }
+      "summary": "The submerged stones explain why the characters abandon that route.",
+      "hint": "Find the event that explains why the character makes the next decision."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LE05-P-006",
@@ -156,28 +221,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Literary Texts",
-    "question": "For creating a vivid bush setting, which option is the strongest match?",
-    "audio_prompt": "For creating a vivid bush setting, which option is the strongest match?",
+    "skill": "resolution",
+    "question": "Noor spends a story looking for her lost dog. Which ending resolves that search and shows her reaction?",
+    "audio_prompt": "Noor spends a story looking for her lost dog. Which ending resolves that search and shows her reaction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "text": "Noor returned to the street still searching, without a clue to the dog’s location.",
+        "is_correct": false
+      },
+      {
+        "text": "The dog wriggled out from behind the gate; Noor knelt and hugged him.",
         "is_correct": true
       },
       {
-        "text": "The bush was nice and there were trees.",
+        "text": "Noor looked at the gate, but the ending never revealed whether the dog was there.",
         "is_correct": false
       },
       {
-        "text": "There was a setting in the bush.",
+        "text": "Noor remembered several walks with her dog, while the present search remained unresolved.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Specific sensory details help the reader picture and hear the setting.",
-      "hint": "Choose concrete nouns and precise verbs."
-    }
+      "summary": "Finding and hugging the dog answers the central problem and conveys relief.",
+      "hint": "Check whether the central problem is answered and a character responds to that outcome."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LE05-P-007",
@@ -186,28 +264,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Literary Texts",
-    "question": "For using dialogue to increase tension, which option is the strongest match?",
-    "audio_prompt": "For using dialogue to increase tension, which option is the strongest match?",
+    "skill": "motivation",
+    "question": "Ari notices a classmate sitting alone. Ari remembers feeling lonely on his first day. Which next action develops that motivation?",
+    "audio_prompt": "Ari notices a classmate sitting alone. Ari remembers feeling lonely on his first day. Which next action develops that motivation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Amira said hello and then nothing changed.",
+        "text": "Ari waved from his own table but decided not to invite the classmate over.",
         "is_correct": false
       },
       {
-        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "text": "Ari remembered being lonely, then waited for someone else to welcome the classmate.",
+        "is_correct": false
+      },
+      {
+        "text": "Ari carries his lunch over and asks whether they can sit together.",
         "is_correct": true
       },
       {
-        "text": "“I am increasing the tension now,” Amira explained.",
+        "text": "Ari sat nearby but put his bag on the only spare chair.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
-      "hint": "Let the characters’ words move the story forward."
-    }
+      "summary": "His memory gives a reason for including the classmate; the action develops his caring choice.",
+      "hint": "Connect the character’s memory or wish to the action they choose."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LE05-P-008",
@@ -216,28 +307,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Literary Texts",
-    "question": "Which example should you choose for using dialogue to increase tension?",
-    "audio_prompt": "Which example should you choose for using dialogue to increase tension?",
+    "skill": "dialogue_character",
+    "question": "Mila likes careful plans; Finn likes trying ideas quickly. Which exchange shows this difference during a model-building scene?",
+    "audio_prompt": "Mila likes careful plans; Finn likes trying ideas quickly. Which exchange shows this difference during a model-building scene?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Amira said hello and then nothing changed.",
+        "text": "“Let us measure first,” said Mila. “Yes, let us measure first,” said Finn.",
         "is_correct": false
       },
       {
-        "text": "“I am increasing the tension now,” Amira explained.",
+        "text": "“I want to try the piece now,” said Mila. “Let us measure first,” said Finn.",
         "is_correct": false
       },
       {
-        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "text": "“The model is almost finished,” said Mila. “We both worked hard,” said Finn.",
+        "is_correct": false
+      },
+      {
+        "text": "“Let us measure first,” said Mila. “I want to try this piece now,” said Finn.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
-      "hint": "Let the characters’ words move the story forward."
-    }
+      "summary": "Their different approaches to the same task reveal character, rather than an unrelated preference.",
+      "hint": "Compare how the speakers approach the same task, rather than unrelated preferences."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LE05-P-009",
@@ -246,28 +350,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Literary Texts",
-    "question": "Which example should you choose for revising a flat complication?",
-    "audio_prompt": "Which example should you choose for revising a flat complication?",
+    "skill": "sensory_detail",
+    "question": "You want a quiet, chilly opening at a jetty. Which detail fits?",
+    "audio_prompt": "You want a quiet, chilly opening at a jetty. Which detail fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "text": "Cold air stung Ella’s cheeks; a rope tapped softly against a pole.",
         "is_correct": true
       },
       {
-        "text": "There was a problem.",
+        "text": "A warm breeze brushed Ella’s cheeks as holiday music filled the jetty.",
         "is_correct": false
       },
       {
-        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "text": "Crowds shouted over one another while Ella walked along the jetty.",
+        "is_correct": false
+      },
+      {
+        "text": "Bright sunlight warmed the rail and Ella loosened her thick scarf.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
-      "hint": "Make the problem concrete and connected to the setting."
-    }
+      "summary": "Touch and sound establish chill and quiet in this particular place.",
+      "hint": "Check the exact temperature, sound and mood requested for this place."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LE05-P-010",
@@ -276,28 +393,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Literary Texts",
-    "question": "In revising a flat complication, which option best demonstrates the skill?",
-    "audio_prompt": "In revising a flat complication, which option best demonstrates the skill?",
+    "skill": "sentence_effect",
+    "question": "Draft: The door creaked open. A shape moved behind it. Which next sentence gives a brief pause of uncertainty?",
+    "audio_prompt": "Draft: The door creaked open. A shape moved behind it. Which next sentence gives a brief pause of uncertainty?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "There was a problem.",
+        "text": "Kai immediately explained that the shape was a coat and continued without a pause.",
         "is_correct": false
       },
       {
-        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "text": "Kai waited.",
         "is_correct": true
       },
       {
-        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "text": "Kai pushed through the doorway at once and hurried into the next room.",
+        "is_correct": false
+      },
+      {
+        "text": "Kai began describing the cupboard beside the door in a long paragraph.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
-      "hint": "Make the problem concrete and connected to the setting."
-    }
+      "summary": "The brief action holds Kai at the uncertain moment. A short sentence serves this scene; short sentences do not always create suspense.",
+      "hint": "Consider whether the sentence holds the uncertain moment or moves straight past it."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LE05-P-011",
@@ -305,29 +435,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Literary Texts",
-    "question": "Why does “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” work well for opening a story about a child lost at the Royal Easter Show?",
-    "audio_prompt": "Why does “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” work well for opening a story about a child lost at the Royal Easter Show?",
+    "stage": "recognise",
+    "skill": "simile",
+    "question": "A tiny boat bobs on gentle ripples. Which comparison keeps that small, gentle movement?",
+    "audio_prompt": "A tiny boat bobs on gentle ripples. Which comparison keeps that small, gentle movement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Mina was at a show. It was a show.” is always acceptable in this situation.",
+        "text": "The boat stood as still as a statue fixed in stone.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The boat roared like a racing car on a straight track.",
         "is_correct": false
       },
       {
-        "text": "The opening establishes a character, setting and immediate problem through action.",
+        "text": "The boat rocked like a leaf in a puddle.",
         "is_correct": true
+      },
+      {
+        "text": "The boat crashed like a mountain falling into the sea.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The opening establishes a character, setting and immediate problem through action.",
-      "hint": "Begin with concrete story details rather than explaining the plan for the story."
-    }
+      "summary": "A floating leaf gives an image of small, soft movement that matches the scene.",
+      "hint": "Match the comparison’s size, movement and mood to the scene."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LE05-P-012",
@@ -335,29 +478,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Literary Texts",
-    "question": "What makes “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” a better choice in opening a story about a child lost at the Royal Easter Show?",
-    "audio_prompt": "What makes “Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.” a better choice in opening a story about a child lost at the Royal Easter Show?",
+    "stage": "recognise",
+    "skill": "peer_feedback",
+    "question": "Peer draft: Zara heard a noise. She opened a box. The story ends. Which feedback names a gap and a useful revision?",
+    "audio_prompt": "Peer draft: Zara heard a noise. She opened a box. The story ends. Which feedback names a gap and a useful revision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The opening establishes a character, setting and immediate problem through action.",
+        "text": "Your story has a clear box, so just add its colour and leave the contents unknown.",
+        "is_correct": false
+      },
+      {
+        "text": "Write more about how Zara arrived, but keep the ending exactly as it is.",
+        "is_correct": false
+      },
+      {
+        "text": "The sentences are short; join them all together without adding the missing discovery.",
+        "is_correct": false
+      },
+      {
+        "text": "I want to know what was in the box; add Zara’s discovery and reaction.",
         "is_correct": true
-      },
-      {
-        "text": "Because “Mina was at a show. It was a show.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The opening establishes a character, setting and immediate problem through action.",
-      "hint": "Begin with concrete story details rather than explaining the plan for the story."
-    }
+      "summary": "The missing discovery leaves the scene unresolved; the comment proposes a change to that exact gap.",
+      "hint": "Locate a specific unanswered story question and the change that would address it."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LE05-P-013",
@@ -365,29 +521,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Literary Texts",
-    "question": "What makes “Backstage, Leo rubbed his palms on his costume and counted each breath.” a better choice in developing a nervous character before a school performance?",
-    "audio_prompt": "What makes “Backstage, Leo rubbed his palms on his costume and counted each breath.” a better choice in developing a nervous character before a school performance?",
+    "stage": "apply",
+    "skill": "story_order",
+    "question": "Draft: Jo planted a seed. A sprout appeared. Jo watered the soil each day before it sprouted. Which order makes the growth easiest to follow?",
+    "audio_prompt": "Draft: Jo planted a seed. A sprout appeared. Jo watered the soil each day before it sprouted. Which order makes the growth easiest to follow?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Leo was nervous nervous nervous.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Actions and physical details show the feeling instead of simply labelling it.",
+        "text": "Plant seed → water each day → sprout appears.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Sprout appears → plant seed → water each day.",
+        "is_correct": false
+      },
+      {
+        "text": "Water each day → sprout appears → plant seed.",
+        "is_correct": false
+      },
+      {
+        "text": "Plant seed → sprout appears → first begin watering before it sprouts.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
-      "hint": "Show the emotion through what the character does or notices."
-    }
+      "summary": "The revised order puts the care before the result and removes the confusing jump back.",
+      "hint": "Put preparation and causes before the results they explain."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LE05-P-014",
@@ -395,29 +564,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Literary Texts",
-    "question": "Which explanation best justifies “Backstage, Leo rubbed his palms on his costume and counted each breath.” for developing a nervous character before a school performance?",
-    "audio_prompt": "Which explanation best justifies “Backstage, Leo rubbed his palms on his costume and counted each breath.” for developing a nervous character before a school performance?",
+    "stage": "apply",
+    "skill": "continuity",
+    "question": "At the start, Sam leaves the only torch at home. Later, Sam switches that torch on in a tent with no explanation. Which edit repairs the gap?",
+    "audio_prompt": "At the start, Sam leaves the only torch at home. Later, Sam switches that torch on in a tent with no explanation. Which edit repairs the gap?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Leo was nervous nervous nervous.” is always acceptable in this situation.",
+        "text": "Add a description of the stars after Sam turns the torch on.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Actions and physical details show the feeling instead of simply labelling it.",
+        "text": "Add an earlier sentence showing Sam returning home to collect the torch.",
         "is_correct": true
+      },
+      {
+        "text": "Make the tent larger but keep the unexplained torch.",
+        "is_correct": false
+      },
+      {
+        "text": "Change every speech tag from said to shouted.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
-      "hint": "Show the emotion through what the character does or notices."
-    }
+      "summary": "The added collection explains how the same torch reaches the tent.",
+      "hint": "Track where important objects or characters were before the unexplained event."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LE05-P-015",
@@ -425,29 +607,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Literary Texts",
-    "question": "Which explanation best justifies “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” for creating a vivid bush setting?",
-    "audio_prompt": "Which explanation best justifies “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” for creating a vivid bush setting?",
+    "stage": "apply",
+    "skill": "revision_goal",
+    "question": "Draft: Liv was angry when the team ignored her idea. You want to reveal anger through an action without making Liv hurt anyone. Which revision fits?",
+    "audio_prompt": "Draft: Liv was angry when the team ignored her idea. You want to reveal anger through an action without making Liv hurt anyone. Which revision fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Specific sensory details help the reader picture and hear the setting.",
+        "text": "Liv smiled at her teammates and unfolded the plan for them again.",
+        "is_correct": false
+      },
+      {
+        "text": "Liv clapped warmly and nodded at the choice they had made.",
+        "is_correct": false
+      },
+      {
+        "text": "Liv pressed her lips together and folded her plan into a tight square.",
         "is_correct": true
       },
       {
-        "text": "Because “The bush was nice and there were trees.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Liv was angry, very angry, and continued to be angry.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Specific sensory details help the reader picture and hear the setting.",
-      "hint": "Choose concrete nouns and precise verbs."
-    }
+      "summary": "The controlled physical actions suggest frustration without an unsafe attack or repeated telling.",
+      "hint": "Check which revision keeps the stated feeling and intended type of action."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LE05-P-016",
@@ -455,29 +650,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Literary Texts",
-    "question": "What should you notice about “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” in creating a vivid bush setting?",
-    "audio_prompt": "What should you notice about “Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.” in creating a vivid bush setting?",
+    "stage": "apply",
+    "skill": "setting_choice",
+    "question": "A story takes place in a library where a character must speak quietly. Which next action uses that setting?",
+    "audio_prompt": "A story takes place in a library where a character must speak quietly. Which next action uses that setting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The bush was nice and there were trees.” is always acceptable in this situation.",
+        "text": "Tess called across the shelves instead of changing her voice or approach.",
         "is_correct": false
       },
       {
-        "text": "Specific sensory details help the reader picture and hear the setting.",
+        "text": "Tess explained how quiet the library was but then shouted her message.",
+        "is_correct": false
+      },
+      {
+        "text": "Tess began a loud conversation from the opposite end of the room.",
+        "is_correct": false
+      },
+      {
+        "text": "Tess slid a note to her friend instead of calling across the room.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Specific sensory details help the reader picture and hear the setting.",
-      "hint": "Choose concrete nouns and precise verbs."
-    }
+      "summary": "Passing a note is a choice shaped by the quiet library setting.",
+      "hint": "Link the setting’s conditions to a character’s suitable response."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LE05-P-017",
@@ -485,29 +693,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Literary Texts",
-    "question": "What should you notice about ““Did you hear that?” Amira whispered. “It came from inside the shed.”” in using dialogue to increase tension?",
-    "audio_prompt": "What should you notice about ““Did you hear that?” Amira whispered. “It came from inside the shed.”” in using dialogue to increase tension?",
+    "stage": "apply",
+    "skill": "dialogue_purpose",
+    "question": "Draft: “Hello.” “Hello.” “Hello again.” The characters must choose how to save a rain-soaked poster. Which replacement helps the storyline?",
+    "audio_prompt": "Draft: “Hello.” “Hello.” “Hello again.” The characters must choose how to save a rain-soaked poster. Which replacement helps the storyline?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Amira said hello and then nothing changed.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+        "text": "“Let us move it under the veranda before the colours run,” said Omar.",
         "is_correct": true
+      },
+      {
+        "text": "“The poster is very wet now,” said Omar, looking at it without offering a plan.",
+        "is_correct": false
+      },
+      {
+        "text": "“I like the blue letters better than the red ones,” said Omar.",
+        "is_correct": false
+      },
+      {
+        "text": "“We should leave it here until after the rain stops,” said Omar.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
-      "hint": "Let the characters’ words move the story forward."
-    }
+      "summary": "The line responds to the poster problem and introduces an action.",
+      "hint": "Which line helps the characters deal with the current problem?"
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LE05-P-018",
@@ -515,29 +736,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Literary Texts",
-    "question": "Which reason explains why ““Did you hear that?” Amira whispered. “It came from inside the shed.”” suits using dialogue to increase tension?",
-    "audio_prompt": "Which reason explains why ““Did you hear that?” Amira whispered. “It came from inside the shed.”” suits using dialogue to increase tension?",
+    "stage": "apply",
+    "skill": "telling_pace",
+    "question": "A story’s important scene is the arrival at a lighthouse. Which sentence efficiently passes over an uneventful journey before that scene?",
+    "audio_prompt": "A story’s important scene is the arrival at a lighthouse. Which sentence efficiently passes over an uneventful journey before that scene?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
+        "text": "They walked past one pale stone and then another pale stone, placing a foot down before lifting the other for the next step.",
+        "is_correct": false
+      },
+      {
+        "text": "For an hour, they followed the empty coastal road.",
         "is_correct": true
       },
       {
-        "text": "Because “Amira said hello and then nothing changed.” is always acceptable in this situation.",
+        "text": "The left foot moved forwards, the right foot followed it, and the left foot moved forwards again along the same empty road.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "They watched one ordinary patch of gravel, then the next ordinary patch of gravel, then another ordinary patch of gravel as they walked.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
-      "hint": "Let the characters’ words move the story forward."
-    }
+      "summary": "A brief summary moves through unimportant time so the arrival can receive detail. Telling can be useful.",
+      "hint": "Summarise uneventful time so there is room to develop the important scene."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LE05-P-019",
@@ -545,29 +779,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Literary Texts",
-    "question": "Which reason explains why “The creek rose over the stepping stones just as the group realised the bridge was behind them.” suits revising a flat complication?",
-    "audio_prompt": "Which reason explains why “The creek rose over the stepping stones just as the group realised the bridge was behind them.” suits revising a flat complication?",
+    "stage": "apply",
+    "skill": "peer_response",
+    "question": "A partner says: “I cannot tell why Dan gives away his prize.” Which revision directly responds?",
+    "audio_prompt": "A partner says: “I cannot tell why Dan gives away his prize.” Which revision directly responds?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “There was a problem.” is always acceptable in this situation.",
+        "text": "Dan’s prize had a silver edge, so he turned it round before handing it over.",
         "is_correct": false
       },
       {
-        "text": "A complication creates a specific obstacle that requires the characters to respond.",
+        "text": "Dan handed over the prize without saying or remembering why he had chosen to do it.",
+        "is_correct": false
+      },
+      {
+        "text": "Dan remembered that his little sister had practised with him, so he placed the prize in her hands.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Dan described how he had won the prize, then gave it away without explaining that decision.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
-      "hint": "Make the problem concrete and connected to the setting."
-    }
+      "summary": "Remembering his sister’s help gives a reason for the gift; appearance alone does not explain his decision.",
+      "hint": "Identify exactly what the reader does not understand, then look for an edit that explains it."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LE05-P-020",
@@ -575,29 +822,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Literary Texts",
-    "question": "Why does “The creek rose over the stepping stones just as the group realised the bridge was behind them.” work well for revising a flat complication?",
-    "audio_prompt": "Why does “The creek rose over the stepping stones just as the group realised the bridge was behind them.” work well for revising a flat complication?",
+    "stage": "apply",
+    "skill": "sentence_variety",
+    "question": "Draft: The wind rose. The tent shook. We held the ropes. Which revision joins a cause and response while keeping a short follow-up?",
+    "audio_prompt": "Draft: The wind rose. The tent shook. We held the ropes. Which revision joins a cause and response while keeping a short follow-up?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “There was a problem.” is always acceptable in this situation.",
+        "text": "The wind rose the tent shook we held the ropes nobody let go.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The wind rose. The wind rose. The wind rose.",
         "is_correct": false
       },
       {
-        "text": "A complication creates a specific obstacle that requires the characters to respond.",
+        "text": "When the wind shook the tent. While we held the ropes.",
+        "is_correct": false
+      },
+      {
+        "text": "When the wind shook the tent, we held the ropes. Nobody let go.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
-      "hint": "Make the problem concrete and connected to the setting."
-    }
+      "summary": "The first sentence links the wind and response; the complete short follow-up emphasises their effort.",
+      "hint": "Look for complete sentences, a clear relationship and a brief follow-up."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LE05-P-021",
@@ -605,29 +865,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Literary Texts",
-    "question": "Which revision best fixes the problem in “Mina was at a show. It was a show.” for opening a story about a child lost at the Royal Easter Show?",
-    "audio_prompt": "Which revision best fixes the problem in “Mina was at a show. It was a show.” for opening a story about a child lost at the Royal Easter Show?",
+    "stage": "apply",
+    "skill": "character_change",
+    "question": "At first, Bea refuses to share her tools. By the end she has learned to cooperate. Which final action shows that change?",
+    "audio_prompt": "At first, Bea refuses to share her tools. By the end she has learned to cooperate. Which final action shows that change?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "text": "Bea offered Jin her ruler and asked which part they should build together.",
         "is_correct": true
       },
       {
-        "text": "Mina was at a show. It was a show.",
+        "text": "Bea put her ruler away before Jin could ask to use it.",
         "is_correct": false
       },
       {
-        "text": "This story will have a complication later because stories do.",
+        "text": "Bea let Jin watch while she kept all the tools and did every job herself.",
+        "is_correct": false
+      },
+      {
+        "text": "Bea told Jin where the ruler was but still refused to share it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The opening establishes a character, setting and immediate problem through action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Begin with concrete story details rather than explaining the plan for the story."
-    }
+      "summary": "Sharing a useful tool and making a joint plan contrasts with Bea’s earlier refusal.",
+      "hint": "Compare the final action with the character’s earlier behaviour."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LE05-P-022",
@@ -635,29 +908,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Literary Texts",
-    "question": "Compare the choices for opening a story about a child lost at the Royal Easter Show. Which one avoids the mistake in “Mina was at a show. It was a show.”?",
-    "audio_prompt": "Compare the choices for opening a story about a child lost at the Royal Easter Show. Which one avoids the mistake in “Mina was at a show. It was a show.”?",
+    "stage": "apply",
+    "skill": "dialogue_edit",
+    "question": "Draft: “I think we can fix it,” Nia said. Nia picked up the loose wheel. You want the dialogue to show her hopeful plan more precisely. Which edit fits?",
+    "audio_prompt": "Draft: “I think we can fix it,” Nia said. Nia picked up the loose wheel. You want the dialogue to show her hopeful plan more precisely. Which edit fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Mina was at a show. It was a show.",
+        "text": "“I think we can fix it,” Nia said very, very, very hopefully.",
         "is_correct": false
       },
       {
-        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "text": "“If we tighten this wheel, the cart might roll again,” Nia said.",
         "is_correct": true
       },
       {
-        "text": "This story will have a complication later because stories do.",
+        "text": "“The wheel is something that belongs to the cart,” Nia said.",
+        "is_correct": false
+      },
+      {
+        "text": "“Nothing can be fixed, and I will never try,” Nia said.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The opening establishes a character, setting and immediate problem through action. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Begin with concrete story details rather than explaining the plan for the story."
-    }
+      "summary": "The line names a repair and possible outcome, showing hope through a purposeful plan.",
+      "hint": "Choose dialogue that names the character’s plan while preserving the intended feeling."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LE05-P-023",
@@ -665,29 +951,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Literary Texts",
-    "question": "Compare the choices for developing a nervous character before a school performance. Which one avoids the mistake in “Leo was nervous nervous nervous.”?",
-    "audio_prompt": "Compare the choices for developing a nervous character before a school performance. Which one avoids the mistake in “Leo was nervous nervous nervous.”?",
+    "stage": "apply",
+    "skill": "setting_consistency",
+    "question": "The scene takes place outdoors at midday in bright sunshine. Which detail needs an explanation or edit to fit that setting?",
+    "audio_prompt": "The scene takes place outdoors at midday in bright sunshine. Which detail needs an explanation or edit to fit that setting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Leo was nervous nervous nervous.",
+        "text": "Heat rose from the pale pavement.",
         "is_correct": false
       },
       {
-        "text": "Leo is a character in this story.",
+        "text": "The metal gate felt hot under Rosa’s fingers.",
         "is_correct": false
       },
       {
-        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "text": "Without entering any shade, Rosa needed a torch to see the path.",
         "is_correct": true
+      },
+      {
+        "text": "Rosa shaded her eyes with her hand.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Actions and physical details show the feeling instead of simply labelling it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Show the emotion through what the character does or notices."
-    }
+      "summary": "Needing a torch conflicts with the stated bright setting unless the writer adds a reason.",
+      "hint": "Compare each detail with the established time, place and conditions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LE05-P-024",
@@ -695,29 +994,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Literary Texts",
-    "question": "If “Leo was nervous nervous nervous.” does not work in developing a nervous character before a school performance, what should replace it?",
-    "audio_prompt": "If “Leo was nervous nervous nervous.” does not work in developing a nervous character before a school performance, what should replace it?",
+    "stage": "apply",
+    "skill": "feedback_specificity",
+    "question": "Peer draft: Ben reaches a locked gate, then suddenly appears inside the garden. Which comment is most useful?",
+    "audio_prompt": "Peer draft: Ben reaches a locked gate, then suddenly appears inside the garden. Which comment is most useful?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "text": "Could you describe the flowers beyond the gate more clearly?",
+        "is_correct": false
+      },
+      {
+        "text": "Could you tell us how Ben feels once he is already inside?",
+        "is_correct": false
+      },
+      {
+        "text": "Could you describe the gate’s paint colour before Ben reaches it?",
+        "is_correct": false
+      },
+      {
+        "text": "How did Ben get past the gate? Add the action that gets him inside.",
         "is_correct": true
-      },
-      {
-        "text": "Leo was nervous nervous nervous.",
-        "is_correct": false
-      },
-      {
-        "text": "Leo is a character in this story.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Actions and physical details show the feeling instead of simply labelling it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Show the emotion through what the character does or notices."
-    }
+      "summary": "The feedback identifies a missing event and asks for the causal link.",
+      "hint": "Ask which comment addresses the missing step between the two events."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LE05-P-025",
@@ -725,29 +1037,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Literary Texts",
-    "question": "If “The bush was nice and there were trees.” does not work in creating a vivid bush setting, what should replace it?",
-    "audio_prompt": "If “The bush was nice and there were trees.” does not work in creating a vivid bush setting, what should replace it?",
+    "stage": "apply",
+    "skill": "ending_setup",
+    "question": "A story ends when a child uses a whistle to attract a ranger. Which earlier detail makes that solution feel prepared?",
+    "audio_prompt": "A story ends when a child uses a whistle to attract a ranger. Which earlier detail makes that solution feel prepared?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bush was nice and there were trees.",
-        "is_correct": false
-      },
-      {
-        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "text": "At the start, her parent clips a whistle to her backpack and explains its purpose.",
         "is_correct": true
       },
       {
-        "text": "There was a setting in the bush.",
+        "text": "At the start, her backpack contains a snack, but no whistle is mentioned until the rescue.",
+        "is_correct": false
+      },
+      {
+        "text": "At the start, she leaves her whistle on the kitchen table and never returns for it.",
+        "is_correct": false
+      },
+      {
+        "text": "At the start, the writer describes the whistle’s colour only after it has already summoned help.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Specific sensory details help the reader picture and hear the setting. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose concrete nouns and precise verbs."
-    }
+      "summary": "Introducing the whistle earlier makes its later use understandable instead of an unexplained rescue object.",
+      "hint": "Look for earlier information that makes the later solution possible."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LE05-P-026",
@@ -755,29 +1080,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Literary Texts",
-    "question": "Which option corrects the meaning or form needed for creating a vivid bush setting?",
-    "audio_prompt": "Which option corrects the meaning or form needed for creating a vivid bush setting?",
+    "stage": "apply",
+    "skill": "focus_edit",
+    "question": "A tense scene follows Uma trying to catch a runaway trolley. Which sentence is least useful at that moment and could be moved elsewhere?",
+    "audio_prompt": "A tense scene follows Uma trying to catch a runaway trolley. Which sentence is least useful at that moment and could be moved elsewhere?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The bush was nice and there were trees.",
+        "text": "“Close the gate!” Uma called to her uncle.",
         "is_correct": false
       },
       {
-        "text": "There was a setting in the bush.",
-        "is_correct": false
-      },
-      {
-        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "text": "Uma had owned six different lunchboxes since her first year at school.",
         "is_correct": true
+      },
+      {
+        "text": "The trolley rattled faster towards the open gate.",
+        "is_correct": false
+      },
+      {
+        "text": "Uma reached for the handle and missed.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Specific sensory details help the reader picture and hear the setting. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose concrete nouns and precise verbs."
-    }
+      "summary": "Lunchbox history interrupts the immediate trolley action without helping the problem.",
+      "hint": "Keep details that help the reader follow the immediate problem and action."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LE05-P-027",
@@ -785,29 +1123,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Literary Texts",
-    "question": "Which option corrects the meaning or form needed for using dialogue to increase tension?",
-    "audio_prompt": "Which option corrects the meaning or form needed for using dialogue to increase tension?",
+    "stage": "apply",
+    "skill": "character_inference",
+    "question": "Draft: Peta wanted to help, but she was unsure what to do. Which action keeps both parts of her character in this moment?",
+    "audio_prompt": "Draft: Peta wanted to help, but she was unsure what to do. Which action keeps both parts of her character in this moment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "text": "Peta walked away because she did not care.",
+        "is_correct": false
+      },
+      {
+        "text": "Peta explained that she had never wanted to help anyone.",
+        "is_correct": false
+      },
+      {
+        "text": "Peta moved closer and quietly asked, “Could I hold that for you?”",
         "is_correct": true
       },
       {
-        "text": "Amira said hello and then nothing changed.",
-        "is_correct": false
-      },
-      {
-        "text": "“I am increasing the tension now,” Amira explained.",
+        "text": "Peta confidently took over every job without asking.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Let the characters’ words move the story forward."
-    }
+      "summary": "Approaching and offering a small task shows helpfulness alongside hesitation.",
+      "hint": "Find an action that combines the character’s helpful intention with uncertainty."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LE05-P-028",
@@ -815,29 +1166,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Literary Texts",
-    "question": "Which choice is the clearest correction for using dialogue to increase tension?",
-    "audio_prompt": "Which choice is the clearest correction for using dialogue to increase tension?",
+    "stage": "apply",
+    "skill": "literary_device",
+    "question": "A child feels welcomed by a familiar house. Which personification supports that warm feeling?",
+    "audio_prompt": "A child feels welcomed by a familiar house. Which personification supports that warm feeling?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Amira said hello and then nothing changed.",
+        "text": "The old house growled a warning through its locked door.",
         "is_correct": false
       },
       {
-        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
+        "text": "The old house watched with icy eyes and refused to welcome anyone.",
+        "is_correct": false
+      },
+      {
+        "text": "The old house had exactly seven windows on its front wall.",
+        "is_correct": false
+      },
+      {
+        "text": "The old house seemed to open its arms as the door swung wide.",
         "is_correct": true
-      },
-      {
-        "text": "“I am increasing the tension now,” Amira explained.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Let the characters’ words move the story forward."
-    }
+      "summary": "Opening arms is a human welcoming gesture transferred to the house. The other figurative choices feel threatening.",
+      "hint": "Match the imagined human action or comparison to the intended feeling."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LE05-P-029",
@@ -845,29 +1209,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Literary Texts",
-    "question": "Which choice is the clearest correction for revising a flat complication?",
-    "audio_prompt": "Which choice is the clearest correction for revising a flat complication?",
+    "stage": "apply",
+    "skill": "peer_collaboration",
+    "question": "You told a partner their rescue scene needed a reason for changing route. They ask, “Would a fallen branch work?” Which reply continues useful collaboration?",
+    "audio_prompt": "You told a partner their rescue scene needed a reason for changing route. They ask, “Would a fallen branch work?” Which reply continues useful collaboration?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "There was a problem.",
-        "is_correct": false
-      },
-      {
-        "text": "Everything went perfectly, so the complication was finished before it began.",
-        "is_correct": false
-      },
-      {
-        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "text": "Yes, if you show it blocking the path; then explain the safe route the characters choose.",
         "is_correct": true
+      },
+      {
+        "text": "Yes, add its colour and shape, but leave how it affects the route unexplained.",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, describe the branch only after the characters have arrived by the new route.",
+        "is_correct": false
+      },
+      {
+        "text": "No, keep the route change unexplained and add a longer description of the destination instead.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A complication creates a specific obstacle that requires the characters to respond. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Make the problem concrete and connected to the setting."
-    }
+      "summary": "The reply connects their proposed detail to the exact plot gap and a workable revision.",
+      "hint": "Respond to the writer’s idea by connecting it to the identified story gap."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LE05-P-030",
@@ -875,29 +1252,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Literary Texts",
-    "question": "Which revision best fixes the problem in “There was a problem.” for revising a flat complication?",
-    "audio_prompt": "Which revision best fixes the problem in “There was a problem.” for revising a flat complication?",
+    "stage": "apply",
+    "skill": "feedback_choice",
+    "question": "Two comments on your story say: A: “I cannot tell where the footsteps come from.” B: “Make every sentence twice as long.” Which revision best addresses a specific reader need?",
+    "audio_prompt": "Two comments on your story say: A: “I cannot tell where the footsteps come from.” B: “Make every sentence twice as long.” Which revision best addresses a specific reader need?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
+        "text": "Describe the colour of the footsteps’ owner’s shoes but still leave their location unclear.",
+        "is_correct": false
+      },
+      {
+        "text": "Add that the footsteps echo from the stairs behind the character.",
         "is_correct": true
       },
       {
-        "text": "There was a problem.",
+        "text": "Double every sentence’s length while keeping the footsteps’ source unexplained.",
         "is_correct": false
       },
       {
-        "text": "Everything went perfectly, so the complication was finished before it began.",
+        "text": "Add more sounds from several unnamed places without locating these footsteps.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A complication creates a specific obstacle that requires the characters to respond. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Make the problem concrete and connected to the setting."
-    }
+      "summary": "Locating the footsteps addresses A’s clear confusion; length alone does not guarantee useful detail.",
+      "hint": "Choose the edit that addresses the reader’s exact confusion."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LE05-P-031",
@@ -906,28 +1296,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "You now need to handle opening a story about a child lost at the Royal Easter Show independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle opening a story about a child lost at the Royal Easter Show independently. Which choice should you use?",
+    "skill": "plot_plausibility",
+    "question": "A realistic school story has a broken kite string. Which solution stays realistic and grows from a character’s action?",
+    "audio_prompt": "A realistic school story has a broken kite string. Which solution stays realistic and grows from a character’s action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "This story will have a complication later because stories do.",
+        "text": "The kite explains in spoken words how to make itself invisible.",
         "is_correct": false
       },
       {
-        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "text": "The writer says the string was never broken, without changing the earlier scene.",
+        "is_correct": false
+      },
+      {
+        "text": "Jai asks an adult to help retrieve the kite, then replaces the string.",
         "is_correct": true
       },
       {
-        "text": "Mina was at a show. It was a show.",
+        "text": "A previously unmentioned magic spell instantly repairs everything.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The opening establishes a character, setting and immediate problem through action.",
-      "hint": "Begin with concrete story details rather than explaining the plan for the story."
-    }
+      "summary": "A request for help and a repair fit the realistic setting and answer the existing problem.",
+      "hint": "Keep the solution consistent with the story’s realistic setting and earlier events."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LE05-P-032",
@@ -936,28 +1339,42 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Apply the same idea to opening a story about a child lost at the Royal Easter Show. Which option is best?",
-    "audio_prompt": "Apply the same idea to opening a story about a child lost at the Royal Easter Show. Which option is best?",
+    "skill": "revision_explanation",
+    "question": "Before: “The path was hard.” After: “Loose gravel slid under Keira’s shoes, so she took shorter steps.” Which explanation matches the edit?",
+    "audio_prompt": "Before: “The path was hard.” After: “Loose gravel slid under Keira’s shoes, so she took shorter steps.” Which explanation matches the edit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "This story will have a complication later because stories do.",
+        "text": "The revision proves that long sentences always improve a story.",
         "is_correct": false
       },
       {
-        "text": "Mina was at a show. It was a show.",
+        "text": "The revision changes Keira into a completely different character.",
         "is_correct": false
       },
       {
-        "text": "Mina checked the map again, but the bright crowd had already swallowed the path to Gate 3.",
+        "text": "The revision removes the setting so the reader cannot picture it.",
+        "is_correct": false
+      },
+      {
+        "text": "The revision shows what makes walking difficult and how Keira responds.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The opening establishes a character, setting and immediate problem through action.",
-      "hint": "Begin with concrete story details rather than explaining the plan for the story."
-    }
+      "summary": "Gravel gives a precise obstacle; shorter steps show its effect on action.",
+      "hint": "Name the new detail and how it changes the reader’s understanding."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LE05-P-033",
@@ -966,28 +1383,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Apply the same idea to developing a nervous character before a school performance. Which option is best?",
-    "audio_prompt": "Apply the same idea to developing a nervous character before a school performance. Which option is best?",
+    "skill": "dialogue_motivation",
+    "question": "A character wants to apologise but feels embarrassed. Which line with an action best develops that moment?",
+    "audio_prompt": "A character wants to apologise but feels embarrassed. Which line with an action best develops that moment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "text": "“I should have asked first,” Eli murmured, looking at his shoes.",
         "is_correct": true
       },
       {
-        "text": "Leo is a character in this story.",
+        "text": "“I still think I was right,” Eli said, looking firmly at his friend.",
         "is_correct": false
       },
       {
-        "text": "Leo was nervous nervous nervous.",
+        "text": "“I will put it back later,” Eli said, without admitting why his friend was upset.",
+        "is_correct": false
+      },
+      {
+        "text": "“That belongs on the shelf,” Eli said, turning away from the disagreement.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
-      "hint": "Show the emotion through what the character does or notices."
-    }
+      "summary": "The admission starts an apology and the lowered gaze suggests embarrassment.",
+      "hint": "Check that the words begin an apology and the action suggests embarrassment."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LE05-P-034",
@@ -996,28 +1426,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Which decision would produce the clearest result in developing a nervous character before a school performance?",
-    "audio_prompt": "Which decision would produce the clearest result in developing a nervous character before a school performance?",
+    "skill": "peer_priority",
+    "question": "Peer draft: “I found the puppy. I gave it water. Then I started looking for the puppy for the first time.” Which feedback should come first to make events clear?",
+    "audio_prompt": "Peer draft: “I found the puppy. I gave it water. Then I started looking for the puppy for the first time.” Which feedback should come first to make events clear?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Leo is a character in this story.",
+        "text": "Describe the puppy’s fur in more detail before checking the event order.",
         "is_correct": false
       },
       {
-        "text": "Backstage, Leo rubbed his palms on his costume and counted each breath.",
+        "text": "Put the first search before finding the puppy, or explain that it gets lost again.",
         "is_correct": true
       },
       {
-        "text": "Leo was nervous nervous nervous.",
+        "text": "Add a colour for the water bowl but keep the search after the first discovery.",
+        "is_correct": false
+      },
+      {
+        "text": "Write more about how excited the writer felt, leaving the repeated first search unexplained.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Actions and physical details show the feeling instead of simply labelling it.",
-      "hint": "Show the emotion through what the character does or notices."
-    }
+      "summary": "The order creates an unexplained contradiction; repairing it helps the reader follow the storyline.",
+      "hint": "Repair the confusing event relationship before adding decorative details."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LE05-P-035",
@@ -1026,28 +1469,42 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Which decision would produce the clearest result in creating a vivid bush setting?",
-    "audio_prompt": "Which decision would produce the clearest result in creating a vivid bush setting?",
+    "skill": "revision_compare",
+    "question": "Draft: Inez was frightened by a noise. Revision A names the noise as a branch tapping the window. Revision B adds five unrelated outfit details. Which revision helps explain her reaction?",
+    "audio_prompt": "Draft: Inez was frightened by a noise. Revision A names the noise as a branch tapping the window. Revision B adds five unrelated outfit details. Which revision helps explain her reaction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "There was a setting in the bush.",
+        "text": "Both equally, because any new words improve a scene in the same way.",
         "is_correct": false
       },
       {
-        "text": "The bush was nice and there were trees.",
+        "text": "Neither, because settings cannot influence characters.",
         "is_correct": false
       },
       {
-        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "text": "A, because it gives the frightening sound a source in the setting.",
         "is_correct": true
+      },
+      {
+        "text": "B, because extra clothing details always explain any feeling.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Specific sensory details help the reader picture and hear the setting.",
-      "hint": "Choose concrete nouns and precise verbs."
-    }
+      "summary": "A links a specific sound and location to Inez’s fear; B does not address that moment.",
+      "hint": "Ask which added information explains the reaction described in the original."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LE05-P-036",
@@ -1056,28 +1513,41 @@
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Choose the option that applies the skill correctly in creating a vivid bush setting.",
-    "audio_prompt": "Choose the option that applies the skill correctly in creating a vivid bush setting.",
+    "skill": "editing_process",
+    "question": "Your partner liked the garden scene but could not understand why the character left. What should your next draft demonstrate?",
+    "audio_prompt": "Your partner liked the garden scene but could not understand why the character left. What should your next draft demonstrate?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Dry leaves crackled underfoot while cockatoos screeched above the pale trunks.",
+        "text": "A completely different story so you do not need to consider the comment.",
+        "is_correct": false
+      },
+      {
+        "text": "Identical wording plus a note saying the reader should already understand.",
+        "is_correct": false
+      },
+      {
+        "text": "Only corrected spelling, even though the reason is still missing.",
+        "is_correct": false
+      },
+      {
+        "text": "A clear reason for leaving, while keeping useful garden details.",
         "is_correct": true
-      },
-      {
-        "text": "There was a setting in the bush.",
-        "is_correct": false
-      },
-      {
-        "text": "The bush was nice and there were trees.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Specific sensory details help the reader picture and hear the setting.",
-      "hint": "Choose concrete nouns and precise verbs."
-    }
+      "summary": "Editing can preserve strengths while repairing the reader’s identified gap in motivation.",
+      "hint": "Preserve useful details and repair the specific gap named by the peer."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LE05-P-037",
@@ -1085,29 +1555,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Choose the option that applies the skill correctly in using dialogue to increase tension.",
-    "audio_prompt": "Choose the option that applies the skill correctly in using dialogue to increase tension.",
-    "answers": [
-      {
-        "text": "“I am increasing the tension now,” Amira explained.",
-        "is_correct": false
-      },
-      {
-        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
-        "is_correct": true
-      },
-      {
-        "text": "Amira said hello and then nothing changed.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "create_opening",
+    "question": "Create a 3–4 sentence opening about a child who must deliver a fragile model to school. Establish the child, a place and a clear goal.",
+    "audio_prompt": "Create a 3–4 sentence opening about a child who must deliver a fragile model to school. Establish the child, a place and a clear goal.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: Asha held the model bridge in both hands. The crowded bus jolted at every stop. She needed to get the bridge to school with every paper beam intact.",
+    "acceptance_note": "Accept an original opening with an identifiable character, setting and goal; details should connect rather than form a disconnected list.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
-      "hint": "Let the characters’ words move the story forward."
-    }
+      "summary": "Example: Asha held the model bridge in both hands. The crowded bus jolted at every stop. She needed to get the bridge to school with every paper beam intact.",
+      "hint": "Give your character a goal and choose setting details that affect reaching it."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LE05-P-038",
@@ -1115,29 +1586,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "What would be the most effective choice for using dialogue to increase tension?",
-    "audio_prompt": "What would be the most effective choice for using dialogue to increase tension?",
-    "answers": [
-      {
-        "text": "“I am increasing the tension now,” Amira explained.",
-        "is_correct": false
-      },
-      {
-        "text": "Amira said hello and then nothing changed.",
-        "is_correct": false
-      },
-      {
-        "text": "“Did you hear that?” Amira whispered. “It came from inside the shed.”",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "create_character",
+    "question": "Write 3–4 sentences in which a usually shy character volunteers for one small job. Show hesitation and a decision through action or dialogue.",
+    "audio_prompt": "Write 3–4 sentences in which a usually shy character volunteers for one small job. Show hesitation and a decision through action or dialogue.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: Jun twisted his sleeve while the others talked. “I could hold the sign,” he said quietly. He took a step towards the group.",
+    "acceptance_note": "Require an actual connected scene showing both hesitation and willingness; accept many actions and voices. Do not demand a named emotion.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Dialogue can reveal fear and introduce new information without telling the reader what effect to feel.",
-      "hint": "Let the characters’ words move the story forward."
-    }
+      "summary": "Example: Jun twisted his sleeve while the others talked. “I could hold the sign,” he said quietly. He took a step towards the group.",
+      "hint": "Use actions or words to show both hesitation and willingness in a connected scene."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LE05-P-039",
@@ -1145,29 +1617,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "What would be the most effective choice for revising a flat complication?",
-    "audio_prompt": "What would be the most effective choice for revising a flat complication?",
-    "answers": [
-      {
-        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
-        "is_correct": true
-      },
-      {
-        "text": "Everything went perfectly, so the complication was finished before it began.",
-        "is_correct": false
-      },
-      {
-        "text": "There was a problem.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "edit_setting",
+    "question": "Edit this draft into 3–4 sentences so the setting changes the action: “Lina went across the playground. She carried a painting. It rained.” Explain one change.",
+    "audio_prompt": "Edit this draft into 3–4 sentences so the setting changes the action: “Lina went across the playground. She carried a painting. It rained.” Explain one change.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example scene: Rain splashed across Lina’s painting as she crossed the playground. She tucked it under her coat and hurried beneath the veranda. There, she checked whether the colours had run. Explanation: The rain now makes Lina protect and check her painting.",
+    "acceptance_note": "Require rain affecting a purposeful action and a matching explanation; accept safe plausible alternatives.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
-      "hint": "Make the problem concrete and connected to the setting."
-    }
+      "summary": "Example scene: Rain splashed across Lina’s painting as she crossed the playground. She tucked it under her coat and hurried beneath the veranda. There, she checked whether the colours had run. Explanation: The rain now makes Lina protect and check her painting.",
+      "hint": "Show how the weather changes the character’s action; keep the required sentence count."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LE05-P-040",
@@ -1175,29 +1648,280 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "You now need to handle revising a flat complication independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle revising a flat complication independently. Which choice should you use?",
-    "answers": [
-      {
-        "text": "Everything went perfectly, so the complication was finished before it began.",
-        "is_correct": false
-      },
-      {
-        "text": "The creek rose over the stepping stones just as the group realised the bridge was behind them.",
-        "is_correct": true
-      },
-      {
-        "text": "There was a problem.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "create_dialogue",
+    "question": "Write a two-turn conversation between characters who disagree about how to repair a cardboard tower. Add an action that moves their attempt forward.",
+    "audio_prompt": "Write a two-turn conversation between characters who disagree about how to repair a cardboard tower. Add an action that moves their attempt forward.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: “Shall we widen the base?” Ren asked.\n“Let us test another layer first,” Bo replied. Ren held the tower while Bo added a folded strip.",
+    "acceptance_note": "Require connected contrasting ideas, identifiable speakers and a related action. Check understandable dialogue punctuation without making punctuation the only criterion.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "A complication creates a specific obstacle that requires the characters to respond.",
-      "hint": "Make the problem concrete and connected to the setting."
-    }
+      "summary": "Example: “Shall we widen the base?” Ren asked.\n“Let us test another layer first,” Bo replied. Ren held the tower while Bo added a folded strip.",
+      "hint": "Give the speakers connected but different suggestions and show what they do next."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LE05-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "edit_sentence_variety",
+    "question": "Rewrite this into a connected scene using at least one joined sentence and one short complete sentence: “The bell rang. Ali dropped a bead. It rolled under the stage. Ali needed it for a costume.”",
+    "audio_prompt": "Rewrite this into a connected scene using at least one joined sentence and one short complete sentence: “The bell rang. Ali dropped a bead. It rolled under the stage. Ali needed it for a costume.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: When the bell rang, Ali dropped a bead that he needed for his costume. It rolled under the stage. He crouched down.",
+    "acceptance_note": "Accept different causal/time joins and clear short sentences; retain the main event and costume purpose without fragments.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Example: When the bell rang, Ali dropped a bead that he needed for his costume. It rolled under the stage. He crouched down.",
+      "hint": "Keep the main events, join a relevant time or cause and retain a complete short sentence."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LE05-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "create_device",
+    "question": "Write a 3-sentence scene set in a windy garden. Include one suitable simile or personification. Underline the device and explain the picture or feeling you intended.",
+    "audio_prompt": "Write a 3-sentence scene set in a windy garden. Include one suitable simile or personification. Underline the device and explain the picture or feeling you intended.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: The washing danced on the line. Ada pinned the last sheet before the basket tipped over. She caught it with her foot. “Danced” imagines the washing moving like a dancer.",
+    "acceptance_note": "Require an apt nonliteral device in a connected scene and accurate intended effect; do not require the sample or an identical reader response.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Example: The washing danced on the line. Ada pinned the last sheet before the basket tipped over. She caught it with her foot. “Danced” imagines the washing moving like a dancer.",
+      "hint": "Choose a comparison or human-like action that suits the wind and explain its effect."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LE05-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "develop_plot",
+    "question": "Continue this scene with 3–5 sentences, including an attempt and its result: “Kobi promised to return the library book today. At the bus stop, he found that it was still on the kitchen table.”",
+    "audio_prompt": "Continue this scene with 3–5 sentences, including an attempt and its result: “Kobi promised to return the library book today. At the bus stop, he found that it was still on the kitchen table.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: Kobi called home and asked whether his older brother could bring it. His brother was already walking towards the stop. Kobi thanked him and tucked the book safely into his bag.",
+    "acceptance_note": "Require a cause-linked realistic attempt and outcome; a setback is acceptable if the continuation makes its result clear.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Example: Kobi called home and asked whether his older brother could bring it. His brother was already walking towards the stop. Kobi thanked him and tucked the book safely into his bag.",
+      "hint": "Write an attempt that follows the problem, then show what results from it."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LE05-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "edit_resolution",
+    "question": "Improve this ending in 3–4 sentences: “The class could not find its time capsule. Then everything was fine.” Show how it is found and one character’s reaction.",
+    "audio_prompt": "Improve this ending in 3–4 sentences: “The class could not find its time capsule. Then everything was fine.” Show how it is found and one character’s reaction.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: Mae checked the old garden sketch. A cross marked the bed beside the fence. With their teacher’s help, the class uncovered the capsule. Mae grinned when she recognised her folded note.",
+    "acceptance_note": "Require a prepared or explained discovery, resolution of the search and response. Accept many sensible discoveries; not merely saying everything was fine.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Example: Mae checked the old garden sketch. A cross marked the bed beside the fence. With their teacher’s help, the class uncovered the capsule. Mae grinned when she recognised her folded note.",
+      "hint": "Show an understandable discovery and a character’s response, rather than just naming a happy ending."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LE05-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "give_peer_feedback",
+    "question": "Exchange a short story scene with a peer. Read it, quote one useful choice and give one specific suggestion about storyline, character or setting. Ask the writer a question and record their reply.",
+    "audio_prompt": "Exchange a short story scene with a peer. Read it, quote one useful choice and give one specific suggestion about storyline, character or setting. Ask the writer a question and record their reply.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example evidence: “Your rattling gate made the wind clear. I could not tell why Ada left the garden. Could you add her reason?” Writer: “She goes to find stronger pegs.”",
+    "acceptance_note": "Adult must see the actual peer scene, specific praise/suggestion, question and reply. A model copied alone does not demonstrate collaboration.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Example evidence: “Your rattling gate made the wind clear. I could not tell why Ada left the garden. Could you add her reason?” Writer: “She goes to find stronger pegs.”",
+      "hint": "Refer to your peer’s actual words and ask a question about one unclear story choice."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LE05-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "use_peer_feedback",
+    "question": "Give a peer your own short scene. Record one comment about a character’s choice. Revise 2–4 sentences to address it and explain how the revision helps the reader.",
+    "audio_prompt": "Give a peer your own short scene. Record one comment about a character’s choice. Revise 2–4 sentences to address it and explain how the revision helps the reader.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example evidence: Peer: “Why does Nuri give away the ticket?” Revision: “Nuri remembered that Tess had missed last year’s show. He held out the ticket. ‘You take my place this time.’” The memory explains the gift.",
+    "acceptance_note": "Require actual original scene, genuine peer comment, relevant revised passage and explanation. Adult feedback alone can rehearse the skill but is not peer evidence.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Example evidence: Peer: “Why does Nuri give away the ticket?” Revision: “Nuri remembered that Tess had missed last year’s show. He held out the ticket. ‘You take my place this time.’” The memory explains the gift.",
+      "hint": "Keep the real comment and show exactly which sentences you changed to answer it."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LE05-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "evaluate_feedback",
+    "question": "Draft: “Dev heard a clink in the garden and ran indoors.” Peer feedback: “Explain why the sound makes Dev leave.” Write a revised 3-sentence version and a brief response to the peer.",
+    "audio_prompt": "Draft: “Dev heard a clink in the garden and ran indoors.” Peer feedback: “Explain why the sound makes Dev leave.” Write a revised 3-sentence version and a brief response to the peer.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: Dev heard a clink in the garden. A plant pot had fallen, scattering sharp pieces across the path. He ran indoors to ask an adult to help. Response: I added the broken pot so his decision makes sense.",
+    "acceptance_note": "Require a cause of the sound, linked reason for leaving and a reply explaining the revision; this supplied-comment exercise rehearses feedback use but does not itself prove peer collaboration.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Example: Dev heard a clink in the garden. A plant pot had fallen, scattering sharp pieces across the path. He ran indoors to ask an adult to help. Response: I added the broken pot so his decision makes sense.",
+      "hint": "Add the missing cause of the reaction and explain your change to the reader."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LE05-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LE05",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "create_and_edit",
+    "question": "Write a 5–7 sentence story about a missing piece in a group project. Include a character goal, setting, problem, action and outcome. Then revise two sentences to improve a character or setting detail and explain the change.",
+    "audio_prompt": "Write a 5–7 sentence story about a missing piece in a group project. Include a character goal, setting, problem, action and outcome. Then revise two sentences to improve a character or setting detail and explain the change.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example outline: A group needs its last model wheel; a cluttered table hides it; a child sorts the scraps, finds it and helps finish. Revision can show frustration through action and use the clutter to explain the difficulty.",
+    "acceptance_note": "Require an actual original connected story plus visible before/after sentences and a meaningful explanation. The outline is guidance, not a complete answer; accept varied outcomes and structures.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Example outline: A group needs its last model wheel; a cluttered table hides it; a child sorts the scraps, finds it and helps finish. Revision can show frustration through action and use the clutter to explain the difficulty.",
+      "hint": "Draft connected events first, then display before-and-after sentences and a reason for changing them."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LE05-T-001",
@@ -1205,29 +1929,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Literary Texts",
-    "question": "New context: ending a story after a lost dog is found. Which option is correct?",
-    "audio_prompt": "New context: ending a story after a lost dog is found. Which option is correct?",
+    "stage": "independent",
+    "skill": "opening",
+    "question": "A realistic story follows Freya trying to keep a birthday surprise secret from her brother. Which opening establishes the goal?",
+    "audio_prompt": "A realistic story follows Freya trying to keep a birthday surprise secret from her brother. Which opening establishes the goal?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The dog was found. The end.",
-        "is_correct": false
-      },
-      {
-        "text": "Suddenly a spaceship arrived for no reason.",
-        "is_correct": false
-      },
-      {
-        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "text": "Freya hid the wrapped parcel as her brother’s footsteps reached the hallway.",
         "is_correct": true
+      },
+      {
+        "text": "Freya admired the parcel’s ribbon while her brother already read the gift label beside her.",
+        "is_correct": false
+      },
+      {
+        "text": "Freya described several earlier birthdays before mentioning any hidden gift or approaching brother.",
+        "is_correct": false
+      },
+      {
+        "text": "Freya told her brother what was in the parcel, then hid only the empty wrapping paper.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
-      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
-    }
+      "summary": "The hidden parcel and approaching footsteps introduce both secrecy and an immediate challenge.",
+      "hint": "Look for a character goal and a place or event that makes the opening understandable."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LE05-T-002",
@@ -1235,29 +1972,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Literary Texts",
-    "question": "What is the best choice for ending a story after a lost dog is found?",
-    "audio_prompt": "What is the best choice for ending a story after a lost dog is found?",
+    "stage": "independent",
+    "skill": "character_action",
+    "question": "Ravi is disappointed about losing a race but chooses to be fair. Which action shows both?",
+    "audio_prompt": "Ravi is disappointed about losing a race but chooses to be fair. Which action shows both?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "text": "Ravi read the race date aloud without reacting.",
+        "is_correct": false
+      },
+      {
+        "text": "Ravi blinked back tears, then congratulated the winner.",
         "is_correct": true
       },
       {
-        "text": "The dog was found. The end.",
+        "text": "Ravi cheered because losing was his only goal.",
         "is_correct": false
       },
       {
-        "text": "Suddenly a spaceship arrived for no reason.",
+        "text": "Ravi hid the winner’s medal so nobody else could celebrate.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
-      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
-    }
+      "summary": "Tears suggest disappointment; congratulation shows a fair response despite it.",
+      "hint": "Check that the action conveys every feeling or intention named in the question."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LE05-T-003",
@@ -1265,29 +2015,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Literary Texts",
-    "question": "Which explanation best supports “When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.” in ending a story after a lost dog is found?",
-    "audio_prompt": "Which explanation best supports “When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.” in ending a story after a lost dog is found?",
+    "stage": "independent",
+    "skill": "setting",
+    "question": "A story’s market is so crowded that the characters cannot see the stall they need. Which action is shaped by that setting?",
+    "audio_prompt": "A story’s market is so crowded that the characters cannot see the stall they need. Which action is shaped by that setting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The dog was found. The end.” is always a safe choice.",
+        "text": "They discuss what they want to buy without finding a way to locate the hidden stall.",
         "is_correct": false
       },
       {
-        "text": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
+        "text": "They stand still admiring the nearest display instead of seeking the stall they need.",
+        "is_correct": false
+      },
+      {
+        "text": "They ask a stallholder for directions and move carefully along the edge.",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "They follow the largest group without checking whether it is heading towards their stall.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
-      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
-    }
+      "summary": "Asking directions and using the edge responds to poor visibility and crowded space.",
+      "hint": "Ask how the place, weather or sound changes what the character can do."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LE05-T-004",
@@ -1295,29 +2058,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Literary Texts",
-    "question": "Which clue should guide your decision in ending a story after a lost dog is found?",
-    "audio_prompt": "Which clue should guide your decision in ending a story after a lost dog is found?",
+    "stage": "independent",
+    "skill": "plot_link",
+    "question": "Draft: “The banner tore. The class carried it onto the stage, neatly repaired.” Which missing event should be added?",
+    "audio_prompt": "Draft: “The banner tore. The class carried it onto the stage, neatly repaired.” Which missing event should be added?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "The class looked at the torn banner and discussed which paint colour they preferred.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "The class practised its entrance while leaving the banner’s tear unexplained.",
         "is_correct": false
       },
       {
-        "text": "Resolve what the story has been building, rather than adding an unrelated event.",
+        "text": "The class described the stage curtains before carrying the still-unexplained repaired banner on.",
+        "is_correct": false
+      },
+      {
+        "text": "The class taped a matching strip across the tear before the performance.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
-      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
-    }
+      "summary": "The repair connects the tear to the banner’s later repaired state.",
+      "hint": "Find the missing action between the problem and its repaired state."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LE05-T-005",
@@ -1325,29 +2101,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Which option would you reject first in ending a story after a lost dog is found?",
-    "audio_prompt": "Which option would you reject first in ending a story after a lost dog is found?",
+    "stage": "independent",
+    "skill": "dialogue",
+    "question": "Elsie suspects a stray kitten is beneath a parked car and wants safe help. Which dialogue moves the rescue forward?",
+    "audio_prompt": "Elsie suspects a stray kitten is beneath a parked car and wants safe help. Which dialogue moves the rescue forward?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The dog was found. The end.",
+        "text": "“Please ask an adult to help us check before anyone moves the car,” Elsie said.",
         "is_correct": true
       },
       {
-        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "text": "“I wonder whether that kitten has an owner,” Elsie said without asking for help.",
         "is_correct": false
       },
       {
-        "text": "Suddenly a spaceship arrived for no reason.",
+        "text": "“Let us crawl beneath it ourselves,” Elsie said, moving towards the car.",
+        "is_correct": false
+      },
+      {
+        "text": "“Maybe the kitten will come out later,” Elsie said, walking away without telling anyone.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The ending resolves the main problem and gives a final emotional moment tied to the story.",
-      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
-    }
+      "summary": "The line responds to the suspected kitten and plans a safe next action.",
+      "hint": "Look for spoken words that respond to the immediate problem and lead to a useful next action."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LE05-T-006",
@@ -1355,29 +2144,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Which correction should replace “The dog was found. The end.” in ending a story after a lost dog is found?",
-    "audio_prompt": "Which correction should replace “The dog was found. The end.” in ending a story after a lost dog is found?",
+    "stage": "independent",
+    "skill": "sentence_purpose",
+    "question": "You want to summarise a calm afternoon before an important discovery. Which choice controls the pace best?",
+    "audio_prompt": "You want to summarise a calm afternoon before an important discovery. Which choice controls the pace best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The dog was found. The end.",
+        "text": "Join every event into one sentence with no punctuation.",
         "is_correct": false
       },
       {
-        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "text": "They spent the afternoon sorting shells. Near sunset, Pia noticed a carved box.",
         "is_correct": true
       },
       {
-        "text": "Suddenly a spaceship arrived for no reason.",
+        "text": "Describe every shell for several pages before mentioning any discovery.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the discovery and repeat that the afternoon was calm.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
-      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
-    }
+      "summary": "A concise time summary leaves room to focus on the discovery.",
+      "hint": "Spend fewer words on calm, uneventful time and more on the discovery."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LE05-T-007",
@@ -1385,29 +2187,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Apply the skill to ending a story after a lost dog is found: what should you choose?",
-    "audio_prompt": "Apply the skill to ending a story after a lost dog is found: what should you choose?",
+    "stage": "independent",
+    "skill": "device",
+    "question": "A scene presents frost glittering gently on a fence. Which comparison fits?",
+    "audio_prompt": "A scene presents frost glittering gently on a fence. Which comparison fits?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The dog was found. The end.",
+        "text": "The frost was as dark as a closed cupboard.",
         "is_correct": false
       },
       {
-        "text": "Suddenly a spaceship arrived for no reason.",
+        "text": "The frost crashed like heavy machinery.",
         "is_correct": false
       },
       {
-        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "text": "The frost shone like a row of tiny glass beads.",
         "is_correct": true
+      },
+      {
+        "text": "The frost charged like a roaring bull.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
-      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
-    }
+      "summary": "The small shining beads match the frost’s visible sparkle and gentle mood.",
+      "hint": "Match the comparison to the scene’s gentle sparkle."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LE05-T-008",
@@ -1415,29 +2230,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Which final choice gives the clearest and most accurate result for ending a story after a lost dog is found?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for ending a story after a lost dog is found?",
+    "stage": "independent",
+    "skill": "peer_feedback",
+    "question": "Peer draft: “The astronaut chose a new route. Soon the crew arrived.” Which feedback most directly develops the storyline?",
+    "audio_prompt": "Peer draft: “The astronaut chose a new route. Soon the crew arrived.” Which feedback most directly develops the storyline?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "When Tilly heard the familiar collar jingle, she dropped to her knees and hugged Rusty while the whole street cheered.",
+        "text": "Could you describe the astronaut’s helmet more clearly?",
+        "is_correct": false
+      },
+      {
+        "text": "Could you add a celebration after the crew arrives?",
+        "is_correct": false
+      },
+      {
+        "text": "Could you tell us the colour of the destination planet?",
+        "is_correct": false
+      },
+      {
+        "text": "What blocked the first route, and how did the new one help?",
         "is_correct": true
-      },
-      {
-        "text": "The dog was found. The end.",
-        "is_correct": false
-      },
-      {
-        "text": "Suddenly a spaceship arrived for no reason.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The ending resolves the main problem and gives a final emotional moment tied to the story.",
-      "hint": "Resolve what the story has been building, rather than adding an unrelated event."
-    }
+      "summary": "The comment asks for the cause of the decision and the role of the new route.",
+      "hint": "Locate a specific unanswered story question and the change that would address it."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LE05-T-009",
@@ -1445,29 +2273,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Literary Texts",
-    "question": "New context: giving useful feedback on a classmate’s story. Which option is correct?",
-    "audio_prompt": "New context: giving useful feedback on a classmate’s story. Which option is correct?",
+    "stage": "independent",
+    "skill": "ending",
+    "question": "A story centres on neighbours trying to restore a storm-damaged garden. Which ending resolves that problem through their work?",
+    "audio_prompt": "A story centres on neighbours trying to restore a storm-damaged garden. Which ending resolves that problem through their work?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "It is bad.",
-        "is_correct": false
-      },
-      {
-        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
+        "text": "They planted the last seedling, stood the fence upright and admired the garden together.",
         "is_correct": true
       },
       {
-        "text": "Make every sentence longer.",
+        "text": "They admired their new tools while the damaged garden remained untouched.",
+        "is_correct": false
+      },
+      {
+        "text": "They promised to repair the garden next week, leaving the central work unattempted.",
+        "is_correct": false
+      },
+      {
+        "text": "They listed the broken fence and damaged plants again without showing a repair.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
-      "hint": "Be specific about the effect of the suggested revision."
-    }
+      "summary": "Completed repairs and shared response resolve the established garden task.",
+      "hint": "Check whether the characters’ work answers the original garden problem."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LE05-T-010",
@@ -1475,29 +2316,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Literary Texts",
-    "question": "What is the best choice for giving useful feedback on a classmate’s story?",
-    "audio_prompt": "What is the best choice for giving useful feedback on a classmate’s story?",
+    "stage": "independent",
+    "skill": "continuity",
+    "question": "A realistic story says the sports hall is locked and no character has a key. The next paragraph puts everyone inside without explanation. Which revision fixes the gap?",
+    "audio_prompt": "A realistic story says the sports hall is locked and no character has a key. The next paragraph puts everyone inside without explanation. Which revision fixes the gap?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "It is bad.",
+        "text": "Add a description of the hall’s seats after the unexplained entry.",
         "is_correct": false
       },
       {
-        "text": "Make every sentence longer.",
-        "is_correct": false
-      },
-      {
-        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
+        "text": "Add that they contact the caretaker, who arrives with a key and opens the door.",
         "is_correct": true
+      },
+      {
+        "text": "Change the characters’ names but leave how they enter unexplained.",
+        "is_correct": false
+      },
+      {
+        "text": "Add that they are pleased to be inside without showing how the locked door opened.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
-      "hint": "Be specific about the effect of the suggested revision."
-    }
+      "summary": "The caretaker’s action explains access and preserves the realistic setting.",
+      "hint": "Track where important objects or characters were before the unexplained event."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LE05-T-011",
@@ -1505,29 +2359,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Literary Texts",
-    "question": "Which explanation best supports “The setting is clear; adding what the character hears at the station could make the tense scene even stronger.” in giving useful feedback on a classmate’s story?",
-    "audio_prompt": "Which explanation best supports “The setting is clear; adding what the character hears at the station could make the tense scene even stronger.” in giving useful feedback on a classmate’s story?",
+    "stage": "independent",
+    "skill": "feedback_use",
+    "question": "Peer comment: “The cave sounds safe, but Mei suddenly becomes afraid. What changed?” Which revision addresses the comment?",
+    "audio_prompt": "Peer comment: “The cave sounds safe, but Mei suddenly becomes afraid. What changed?” Which revision addresses the comment?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
+        "text": "Mei examined the cave wall’s smooth pattern, but no event explained her sudden fear.",
+        "is_correct": false
+      },
+      {
+        "text": "Mei adjusted her backpack while the cave remained exactly as calm as before.",
+        "is_correct": false
+      },
+      {
+        "text": "A rumble shook dust from the ceiling; Mei stepped towards the guide.",
         "is_correct": true
       },
       {
-        "text": "Because “It is bad.” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "The guide described the cave’s shape without anything happening to explain Mei’s reaction.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
-      "hint": "Be specific about the effect of the suggested revision."
-    }
+      "summary": "The rumble gives a new event explaining fear, with a related response.",
+      "hint": "Explain what newly happens before the character’s sudden reaction."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LE05-T-012",
@@ -1535,29 +2402,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Literary Texts",
-    "question": "Which clue should guide your decision in giving useful feedback on a classmate’s story?",
-    "audio_prompt": "Which clue should guide your decision in giving useful feedback on a classmate’s story?",
+    "stage": "independent",
+    "skill": "revision_reason",
+    "question": "Before: “Hana was kind.” After: “Hana gave the new student her spare pen and showed him where to sit.” What does the revision add?",
+    "audio_prompt": "Before: “Hana was kind.” After: “Hana gave the new student her spare pen and showed him where to sit.” What does the revision add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "A rule that no story may ever directly describe a character’s qualities.",
         "is_correct": false
       },
       {
-        "text": "Be specific about the effect of the suggested revision.",
+        "text": "An explanation of why Hana dislikes the new student.",
+        "is_correct": false
+      },
+      {
+        "text": "Details of the pen’s appearance without showing any helpful behaviour.",
+        "is_correct": false
+      },
+      {
+        "text": "Specific actions that let readers understand Hana’s kindness.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
-      "hint": "Be specific about the effect of the suggested revision."
-    }
+      "summary": "The actions demonstrate helpfulness in context; direct description can still be useful elsewhere.",
+      "hint": "Identify the specific behaviour that replaces the general description."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LE05-T-013",
@@ -1565,29 +2445,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Which option would you reject first in giving useful feedback on a classmate’s story?",
-    "audio_prompt": "Which option would you reject first in giving useful feedback on a classmate’s story?",
-    "answers": [
-      {
-        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
-        "is_correct": false
-      },
-      {
-        "text": "Make every sentence longer.",
-        "is_correct": false
-      },
-      {
-        "text": "It is bad.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "create_scene",
+    "question": "Write a 5–7 sentence realistic scene about a child preparing for a performance when something needed goes missing. Develop the setting, a character decision and an outcome. Include dialogue and a short complete sentence.",
+    "audio_prompt": "Write a 5–7 sentence realistic scene about a child preparing for a performance when something needed goes missing. Develop the setting, a character decision and an outcome. Include dialogue and a short complete sentence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Possible outline: A child cannot find a music folder in a busy rehearsal room, asks a friend to help, checks where they last practised and finds it beneath a coat. Dialogue can organise the search; a short sentence can mark a discovery.",
+    "acceptance_note": "Require actual original literary scene with clear linked events, a developed decision, setting affecting the scene, dialogue and a complete short sentence. Accept different solutions and endings.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
-      "hint": "Be specific about the effect of the suggested revision."
-    }
+      "summary": "Possible outline: A child cannot find a music folder in a busy rehearsal room, asks a friend to help, checks where they last practised and finds it beneath a coat. Dialogue can organise the search; a short sentence can mark a discovery.",
+      "hint": "Connect the missing-object problem to a character decision, dialogue and an understandable outcome."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LE05-T-014",
@@ -1595,29 +2476,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Which correction should replace “It is bad.” in giving useful feedback on a classmate’s story?",
-    "audio_prompt": "Which correction should replace “It is bad.” in giving useful feedback on a classmate’s story?",
-    "answers": [
-      {
-        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
-        "is_correct": true
-      },
-      {
-        "text": "It is bad.",
-        "is_correct": false
-      },
-      {
-        "text": "Make every sentence longer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "edit_scene",
+    "question": "Draft: “The campsite was windy. The paper instructions blew away. We made the model. It was fine.” Rewrite it in 4–6 sentences so the setting causes a problem and the characters solve it. Explain two edits.",
+    "audio_prompt": "Draft: “The campsite was windy. The paper instructions blew away. We made the model. It was fine.” Rewrite it in 4–6 sentences so the setting causes a problem and the characters solve it. Explain two edits.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: Wind snatched the instructions from our table. They caught against the fence. “I will hold the pieces while you fetch them,” said Ana. We moved into the shelter and finished the model there. The fence explains recovery; moving explains how they prevent a repeat.",
+    "acceptance_note": "Require wind-linked problem, explained actions/result and two accurate edit explanations. Keep actions safe and understandable.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
-      "hint": "Be specific about the effect of the suggested revision."
-    }
+      "summary": "Example: Wind snatched the instructions from our table. They caught against the fence. “I will hold the pieces while you fetch them,” said Ana. We moved into the shelter and finished the model there. The fence explains recovery; moving explains how they prevent a repeat.",
+      "hint": "Make the wind matter, connect problem to solution and explain two concrete revisions."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LE05-T-015",
@@ -1625,29 +2508,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Apply the skill to giving useful feedback on a classmate’s story: what should you choose?",
-    "audio_prompt": "Apply the skill to giving useful feedback on a classmate’s story: what should you choose?",
-    "answers": [
-      {
-        "text": "It is bad.",
-        "is_correct": false
-      },
-      {
-        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
-        "is_correct": true
-      },
-      {
-        "text": "Make every sentence longer.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "revise_feedback",
+    "question": "Draft: “Sal put a small parcel under the seat. When Nessa found it, she smiled.” Feedback: “Help me understand their relationship and why the gift matters.” Revise the scene in 3–5 sentences and explain how you used the comment.",
+    "audio_prompt": "Draft: “Sal put a small parcel under the seat. When Nessa found it, she smiled.” Feedback: “Help me understand their relationship and why the gift matters.” Revise the scene in 3–5 sentences and explain how you used the comment.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Example: Sal remembered how Nessa had helped him learn to skate. He slipped a thank-you card and a new wheel key under her seat. When she read the card, Nessa smiled. The shared memory and thank-you message explain the gift and their helpful relationship.",
+    "acceptance_note": "Require text establishing a relationship/reason and matching explanation. This is independent response to supplied feedback, not observation of peer collaboration.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
-      "hint": "Be specific about the effect of the suggested revision."
-    }
+      "summary": "Example: Sal remembered how Nessa had helped him learn to skate. He slipped a thank-you card and a new wheel key under her seat. When she read the card, Nessa smiled. The shared memory and thank-you message explain the gift and their helpful relationship.",
+      "hint": "Develop the relationship and reason for the gift, then identify how your edit helps."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LE05-T-016",
@@ -1655,28 +2540,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LE05",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Literary Texts",
-    "question": "Which final choice gives the clearest and most accurate result for giving useful feedback on a classmate’s story?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for giving useful feedback on a classmate’s story?",
-    "answers": [
-      {
-        "text": "It is bad.",
-        "is_correct": false
-      },
-      {
-        "text": "Make every sentence longer.",
-        "is_correct": false
-      },
-      {
-        "text": "The setting is clear; adding what the character hears at the station could make the tense scene even stronger.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "peer_edit",
+    "question": "Exchange a completed short scene with a peer. Each give one evidence-based suggestion about storyline, character or setting. Record your partner’s comment, your actual revision and one sentence explaining the choice you made.",
+    "audio_prompt": "Exchange a completed short scene with a peer. Each give one evidence-based suggestion about storyline, character or setting. Record your partner’s comment, your actual revision and one sentence explaining the choice you made.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Expected evidence: Both scenes or clear extracts; each writer’s actual comment; a changed passage in your scene; explanation linking the change to a reader need. Different suggestions and responses are valid.",
+    "acceptance_note": "Adult checks an actual two-way exchange and revised writing. No fixed story is required. If no peer is available, leave collaboration unassessed and complete an adult-supported rehearsal separately.",
+    "response_instructions": "Write or dictate your actual response, using your usual support. An adult checks the completed work against the task. For peer-feedback tasks, keep the actual peer comment and revision; an adult-only rehearsal does not show peer collaboration.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Useful feedback names what works and suggests one specific change that supports the writer’s purpose.",
-      "hint": "Be specific about the effect of the suggested revision."
-    }
+      "summary": "Expected evidence: Both scenes or clear extracts; each writer’s actual comment; a changed passage in your scene; explanation linking the change to a reader need. Different suggestions and responses are valid.",
+      "hint": "Keep evidence of both peers’ comments and your actual revision with its explanation."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]
