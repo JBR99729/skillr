@@ -15,7 +15,7 @@ import sys
 from collections import defaultdict
 from html.parser import HTMLParser
 from pathlib import Path
-from urllib.parse import parse_qs, urlsplit
+from urllib.parse import parse_qs, quote, urlencode, urlsplit
 
 ROOT = Path(__file__).resolve().parents[1]
 START = "<!-- skillr-topic-videos:start -->"
@@ -104,6 +104,13 @@ def section(code, videos):
         frame_name = f"skillr-video-{code.lower()}-{video['id']}"
         embed = (f"https://www.youtube-nocookie.com/embed/{video['id']}"
                  "?playsinline=1&rel=0&cc_load_policy=1&cc_lang_pref=en")
+        report = "mailto:skillrhublearning@gmail.com?" + urlencode({
+            "subject": f"SkillrHub video issue: {code}",
+            "body": (f"Lesson code: {code}\n"
+                     f"Video: https://www.youtube.com/watch?v={video['id']}\n\n"
+                     "Please describe the problem (for example, unavailable, incorrect or unsuitable):\n\n"
+                     "Please do not include personal student information."),
+        }, quote_via=quote)
         # The parent page's ordinary link targets this named frame. This sends
         # the site's Referer, which YouTube requires, without a player API or JS.
         # The local placeholder makes no third-party request. The official
@@ -130,8 +137,9 @@ def section(code, videos):
             ' referrerpolicy="strict-origin-when-cross-origin"'
             ' allow="encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>'
             f'<p><strong>Try it:</strong> {esc(video["after_watching"])}</p>'
-            f'<p><a href="https://www.youtube.com/watch?v={video["id"]}" target="_blank" rel="noopener noreferrer">'
-            'Open this video on YouTube</a> if the embedded player is unavailable.</p></details>'
+            '<p>Video unavailable, inaccurate or unsuitable for this year? '
+            f'<a href="{esc(report, quote=True)}">Report a video problem to SkillrHub</a> by email. '
+            'You can continue with the written lesson and practice resources.</p></details>'
         )
     return (START + '\n<details class="curriculum-topic-section skillr-topic-videos" id="topic-videos">'
             '<summary><strong>Watch an explanation</strong></summary><div class="curriculum-detail-body">'

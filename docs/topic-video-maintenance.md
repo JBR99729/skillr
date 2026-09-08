@@ -6,7 +6,7 @@ The video supplement has one editable list, `data/topic-videos.csv`, and one sha
 
 Give your maintainer or assistant the curriculum code and the requested change. For example: “Replace the video for AC9MFN01 with this official YouTube link” or “Remove this unsuitable video from every lesson.” You do not need to edit individual lesson pages.
 
-A removed or blocked video cannot remove the written lesson, Classroom View, worksheet, Practice or Test. Every video also has a normal YouTube watch link. Removing a row from the list removes that recommendation when the supplement is rebuilt. If a code has no recommendations, its video section is omitted.
+A removed or blocked video cannot remove the written lesson, Classroom View, worksheet, Practice or Test. Every video has a visible email reporting link that includes its curriculum code and original video URL. Removing a row from the list removes that recommendation when the supplement is rebuilt. If a code has no recommendations, its video section is omitted.
 
 ## Selection rules
 
@@ -51,6 +51,8 @@ The builder validates every input and proposed output before writing. It rejects
 
 The video section uses native HTML disclosure controls. An ordinary link loads YouTube's privacy-enhanced player into a named frame, then the learner uses YouTube's Play control. It does not autoplay or load YouTube thumbnails/player resources before that link is selected. No custom player script runs on SkillrHub.
 
+The main video control targets the embedded frame inside the lesson. Do not add a separate YouTube watch link: the owner requested playback within SkillrHub. YouTube's own player still contains its branding and external links; do not hide these or promise that all navigation outside SkillrHub can be prevented.
+
 Keep `referrerpolicy="strict-origin-when-cross-origin"` on the load link and frame. YouTube requires a site Referer; suppressing it can cause error 153. Do not hide or cover the player's controls, branding, advertising or links. `rel=0` limits related videos to the same channel; it does not remove recommendations.
 
 The shared “About these videos” notice gives attribution, explains third-party terms and availability, and provides a reporting contact. The Privacy Policy separately explains what happens when the player is loaded. A disclaimer does not grant rights or remove legal duties.
@@ -59,7 +61,7 @@ Before enabling embedded videos on children's pages, the owner must confirm the 
 
 ## Release and later replacements
 
-Inspect an updated page on desktop and phone, including keyboard access, the loaded player and the normal watch link. Check the original lesson and its same-code resource links. Confirm the video is playable in the official embed; a successful metadata response alone is insufficient.
+Inspect an updated page on desktop and phone, including keyboard access, the loaded player and the reporting link. Confirm that selecting the main video control leaves the topic page URL unchanged and loads the named iframe. Check the original lesson and its same-code resource links. Confirm the video is playable in the official embed; a successful metadata response alone is insufficient.
 
 Follow `AGENTS.md` for the full Git-tree release checks. Preserve every existing path and `CNAME`, use the latest remote main as the complete base, and use a non-forced update. The video builder is not permission to rebuild teaching pages or question banks. After release, check Pages deployment and the live homepage and affected lesson/Practice route.
 

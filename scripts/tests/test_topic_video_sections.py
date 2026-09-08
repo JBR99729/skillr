@@ -4,6 +4,7 @@ import importlib.util
 import json
 from html.parser import HTMLParser
 from pathlib import Path
+from urllib.parse import parse_qs, urlsplit
 import tempfile
 import unittest
 from unittest.mock import patch
@@ -108,6 +109,15 @@ class VideoSections(unittest.TestCase):
         self.assertTrue(loaders[0]["href"].startswith("https://www.youtube-nocookie.com/embed/"))
         self.assertNotIn("autoplay=1", block)
         self.assertEqual(loaders[0]["referrerpolicy"], "strict-origin-when-cross-origin")
+        watch_links = [attrs for tag, attrs in parsed
+                       if tag == "a" and attrs.get("href", "").startswith("https://www.youtube.com/watch")]
+        self.assertEqual(watch_links, [])
+        report = next(attrs["href"] for tag, attrs in parsed if tag == "a"
+                      and attrs.get("href", "").startswith("mailto:")
+                      and "body=" in attrs["href"])
+        message = parse_qs(urlsplit(report).query)
+        self.assertIn("AC9MFN01", message["subject"][0])
+        self.assertIn("https://www.youtube.com/watch?v=OinudV2LWlo", message["body"][0])
 
 
 if __name__ == "__main__":

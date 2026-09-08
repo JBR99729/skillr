@@ -13,6 +13,17 @@ On 2026-09-06, a changed-files-only Git tree replaced main and removed the site 
 
 ## Current operating mode: stability / QA freeze
 
+### Ongoing curriculum-code review standard
+
+The owner confirmed this full-resource review standard on 2026-09-08. Apply it to each curriculum code being reviewed, while keeping work scoped to the requested code batch:
+
+- Retrieve `svgSkillrHub-IXL-Research-Log.md` before research and check the latest repository review status. Reuse observed evidence and distinguish it from proposed teaching ideas or unverified source matches.
+- Verify the exact official ACARA v9 descriptor and map every assessable component. Compare the actual relevant IXL skill pages, opened worked examples/help and representative questions across the observed progression. A catalogue listing is not a completed comparison. Use relevant Khan Academy lessons as supplementary conceptual evidence, within the Australian year-level boundary. Record inspected sources and any access or progression limits honestly.
+- Substantively review every question, answer choice, correct answer, explanation and visual. Check meaningful variety, unambiguous answers, age suitability and complete curriculum coverage. Year 3 and above require at least 48 Practice and 16 Test questions per code; counts and structural validators do not establish content quality.
+- Review and strengthen the same code's Topic Guide, Classroom View and worksheet/homework alongside its Practice and Test banks. Correct gaps and weak explanations, provide useful worked examples and mathematical/scientific/language models, and keep the resources consistent. Preserve strong existing content, current design, functionality, free access, no-login access and the existing resource flow. Do not use this instruction as permission for a broad rebuild or an architecture change.
+- Use parallel research/authoring with separate independent reviewers when running the owner's delegated review workflow. The independent reviewer must inspect the final authored content, identify corrections by question/resource, recheck fixes and record the reviewed artifact identity before publication. An author cannot independently approve their own work.
+- Publish only reviewed content through the review-aware publisher and ledger below. Preserve the complete latest main tree, unrelated changes and all existing paths; perform non-forced updates and verify release checks, GitHub Actions, Pages and live activities. A year-and-subject Content Verified badge remains off until every code in that group is reviewed.
+
 ### Content verification badge release condition
 
 When publishing a reviewed production bank, use the review-aware publisher:

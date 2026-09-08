@@ -4,28 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-001",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "multiply by powers of ten",
+    "skill": "internal zero multiply",
     "printable": true,
     "type": "single",
-    "question": "At a coastal station, what is 53 × 1000?",
-    "audioPrompt": "At a coastal station, what is 53 × 1000?",
-    "visual": "At a coastal station: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-001\"></use></svg>",
+    "question": "Calculate 702 × 100.",
+    "audioPrompt": "Calculate 702 × 100.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-001",
-      "alt_text": "At a coastal station: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "1053",
-      "53000",
-      "5300"
+      "7200",
+      "70002",
+      "7020",
+      "70200"
     ],
-    "correct": 1,
-    "explanation": "Multiplying by a power of ten makes each digit worth more.\nHint: Shift every digit the same number of places.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "The 7 hundreds become 7 ten-thousands and the 2 ones become 2 hundreds. The product is 70000 + 200 = 70200.\nHint: Scale each digit’s value by 100.",
     "structuredExplanation": {
-      "summary": "Multiplying by a power of ten makes each digit worth more.",
-      "hint": "Shift every digit the same number of places."
+      "summary": "The 7 hundreds become 7 ten-thousands and the 2 ones become 2 hundreds. The product is 70000 + 200 = 70200.",
+      "hint": "Scale each digit’s value by 100."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-002",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "divide by powers of ten",
+    "skill": "divide by thousand",
     "printable": true,
     "type": "single",
-    "question": "During a museum challenge, what is 540 ÷ 10?",
-    "audioPrompt": "During a museum challenge, what is 540 ÷ 10?",
-    "visual": "During a museum challenge: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-002\"></use></svg>",
+    "question": "Calculate 86000 ÷ 1000.",
+    "audioPrompt": "Calculate 86000 ÷ 1000.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-002",
-      "alt_text": "During a museum challenge: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "540",
-      "64",
-      "54"
+      "86",
+      "8600",
+      "85000",
+      "860"
     ],
-    "correct": 2,
-    "explanation": "Division reverses the place-value shift.\nHint: Use multiplication to check.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "86000 contains 86 thousands, so dividing it into groups of 1000 gives 86. Check: 86 × 1000 = 86000.\nHint: Think of the number of thousands in the total.",
     "structuredExplanation": {
-      "summary": "Division reverses the place-value shift.",
-      "hint": "Use multiplication to check."
+      "summary": "86000 contains 86 thousands, so dividing it into groups of 1000 gives 86. Check: 86 × 1000 = 86000.",
+      "hint": "Think of the number of thousands in the total."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-003",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "multiply by powers of ten",
+    "skill": "digit value divide",
     "printable": true,
     "type": "single",
-    "question": "At a charity event, what is 55 × 100?",
-    "audioPrompt": "At a charity event, what is 55 × 100?",
-    "visual": "At a charity event: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-003\"></use></svg>",
+    "question": "The number 4700 is divided by 10. What is the value of the digit 7 in the quotient?",
+    "audioPrompt": "The number 4700 is divided by 10. What is the value of the digit 7 in the quotient?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-003",
-      "alt_text": "At a charity event: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "5500",
-      "155",
-      "550"
+      "7",
+      "7000",
+      "700",
+      "70"
     ],
-    "correct": 0,
-    "explanation": "Multiplying by a power of ten makes each digit worth more.\nHint: Shift every digit the same number of places.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "In 4700, the 7 is worth 700. After division by 10, it is worth 70 in the number 470.\nHint: Divide the digit’s original value by 10.",
     "structuredExplanation": {
-      "summary": "Multiplying by a power of ten makes each digit worth more.",
-      "hint": "Shift every digit the same number of places."
+      "summary": "In 4700, the 7 is worth 700. After division by 10, it is worth 70 in the number 470.",
+      "hint": "Divide the digit’s original value by 10."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-004",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "divide by powers of ten",
+    "skill": "multiply multiple ten",
     "printable": true,
     "type": "single",
-    "question": "In an engineering workshop, what is 56000 ÷ 1000?",
-    "audioPrompt": "In an engineering workshop, what is 56000 ÷ 1000?",
-    "visual": "In an engineering workshop: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-004\"></use></svg>",
+    "question": "Calculate 36 × 80.",
+    "audioPrompt": "Calculate 36 × 80.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "560",
-      "56",
-      "1056"
+      "28800",
+      "2880",
+      "360",
+      "288"
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 4,
     "correct": 1,
-    "explanation": "Division reverses the place-value shift.\nHint: Use multiplication to check.",
+    "explanation": "80 is 8 tens. 36 × 8 = 288, so 36 × 80 = 288 tens = 2880.\nHint: Separate 80 into 8 × 10.",
     "structuredExplanation": {
-      "summary": "Division reverses the place-value shift.",
-      "hint": "Use multiplication to check."
+      "summary": "80 is 8 tens. 36 × 8 = 288, so 36 × 80 = 288 tens = 2880.",
+      "hint": "Separate 80 into 8 × 10."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-005",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "multiply by powers of ten",
+    "skill": "multiple hundred times ten",
     "printable": true,
     "type": "single",
-    "question": "At a regional carnival, what is 57 × 10?",
-    "audioPrompt": "At a regional carnival, what is 57 × 10?",
-    "visual": "At a regional carnival: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-005\"></use></svg>",
+    "question": "Calculate 900 × 40.",
+    "audioPrompt": "Calculate 900 × 40.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-005",
-      "alt_text": "At a regional carnival: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "67",
-      "57",
-      "570"
+      "3600",
+      "36000",
+      "360",
+      "360000"
     ],
-    "correct": 2,
-    "explanation": "Multiplying by a power of ten makes each digit worth more.\nHint: Shift every digit the same number of places.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 5,
+    "correct": 1,
+    "explanation": "900 is 9 hundreds and 40 is 4 tens. 9 × 4 = 36 and 100 × 10 = 1000, giving 36 thousands = 36000.\nHint: Account for the hundred and the ten as well as 9 × 4.",
     "structuredExplanation": {
-      "summary": "Multiplying by a power of ten makes each digit worth more.",
-      "hint": "Shift every digit the same number of places."
+      "summary": "900 is 9 hundreds and 40 is 4 tens. 9 × 4 = 36 and 100 × 10 = 1000, giving 36 thousands = 36000.",
+      "hint": "Account for the hundred and the ten as well as 9 × 4."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-006",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "divide by powers of ten",
+    "skill": "divide multiple hundred",
     "printable": true,
     "type": "single",
-    "question": "During a farm study, what is 5800 ÷ 100?",
-    "audioPrompt": "During a farm study, what is 5800 ÷ 100?",
-    "visual": "During a farm study: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-006\"></use></svg>",
+    "question": "Calculate 9600 ÷ 300.",
+    "audioPrompt": "Calculate 9600 ÷ 300.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-006",
-      "alt_text": "During a farm study: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "58",
-      "580",
-      "158"
+      "3200",
+      "9300",
+      "32",
+      "320"
     ],
-    "correct": 0,
-    "explanation": "Division reverses the place-value shift.\nHint: Use multiplication to check.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 6,
+    "correct": 2,
+    "explanation": "9600 is 96 hundreds. Groups of 300 each use 3 hundreds, so the number of groups is 96 ÷ 3 = 32.\nHint: Use hundreds as a common unit.",
     "structuredExplanation": {
-      "summary": "Division reverses the place-value shift.",
-      "hint": "Use multiplication to check."
+      "summary": "9600 is 96 hundreds. Groups of 300 each use 3 hundreds, so the number of groups is 96 ÷ 3 = 32.",
+      "hint": "Use hundreds as a common unit."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-007",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "multiply by powers of ten",
+    "skill": "scaling diagram context",
     "printable": true,
     "type": "single",
-    "question": "While reading a trail guide, what is 59 × 1000?",
-    "audioPrompt": "While reading a trail guide, what is 59 × 1000?",
-    "visual": "While reading a trail guide: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-007\"></use></svg>",
+    "question": "The diagram compares two print runs. How many cards are in the special print run?",
+    "audioPrompt": "The diagram compares two print runs. How many cards are in the special print run?",
+    "visual": "An ordinary print run has 320 cards. An arrow labelled times 100 points to a special print run with an unknown number of cards.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"An ordinary print run has 320 cards. An arrow labelled times 100 points to a special print run with an unknown number of cards.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05/t007-print.svg#t007-print\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05/t007-print.svg#t007-print",
+      "alt_text": "An ordinary print run has 320 cards. An arrow labelled times 100 points to a special print run with an unknown number of cards."
     },
     "answers": [
-      "1059",
-      "59000",
-      "5900"
+      "420",
+      "32000",
+      "3200",
+      "320000"
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 7,
     "correct": 1,
-    "explanation": "Multiplying by a power of ten makes each digit worth more.\nHint: Shift every digit the same number of places.",
+    "explanation": "The special run has 100 times 320 cards. Three hundreds become three ten-thousands and two tens become two thousands, giving 32000 cards.\nHint: Use the multiplication shown by the arrow.",
     "structuredExplanation": {
-      "summary": "Multiplying by a power of ten makes each digit worth more.",
-      "hint": "Shift every digit the same number of places."
+      "summary": "The special run has 100 times 320 cards. Three hundreds become three ten-thousands and two tens become two thousands, giving 32000 cards.",
+      "hint": "Use the multiplication shown by the arrow."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +223,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-008",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "divide by powers of ten",
+    "skill": "money grouping transfer",
     "printable": true,
     "type": "single",
-    "question": "In an architecture studio, what is 600 ÷ 10?",
-    "audioPrompt": "In an architecture studio, what is 600 ÷ 10?",
-    "visual": "In an architecture studio: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-008\"></use></svg>",
+    "question": "Entry tickets cost $20 each. The organiser collects $1800 from ticket sales. A room holds 80 people. How many ticket holders are above the room’s capacity?",
+    "audioPrompt": "Entry tickets cost $20 each. The organiser collects $1800 from ticket sales. A room holds 80 people. How many ticket holders are above the room’s capacity?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-008",
-      "alt_text": "In an architecture studio: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "600",
-      "70",
-      "60"
+      "10",
+      "100",
+      "20",
+      "90"
     ],
-    "correct": 2,
-    "explanation": "Division reverses the place-value shift.\nHint: Use multiplication to check.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 8,
+    "correct": 0,
+    "explanation": "The number of tickets is 1800 ÷ 20 = 180 tens ÷ 2 tens = 90. There are 90 − 80 = 10 more ticket holders than places.\nHint: Find the number of tickets sold before comparing with the capacity.",
     "structuredExplanation": {
-      "summary": "Division reverses the place-value shift.",
-      "hint": "Use multiplication to check."
+      "summary": "The number of tickets is 1800 ÷ 20 = 180 tens ÷ 2 tens = 90. There are 90 − 80 = 10 more ticket holders than places.",
+      "hint": "Find the number of tickets sold before comparing with the capacity."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +254,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-009",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "multiply by powers of ten",
+    "skill": "reverse scaling",
     "printable": true,
     "type": "single",
-    "question": "During a food-truck project, what is 61 × 100?",
-    "audioPrompt": "During a food-truck project, what is 61 × 100?",
-    "visual": "During a food-truck project: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-009\"></use></svg>",
+    "question": "A calculation gives 600. Its starting number was either multiplied by 10 or divided by 10. What are the two possible starting numbers?",
+    "audioPrompt": "A calculation gives 600. Its starting number was either multiplied by 10 or divided by 10. What are the two possible starting numbers?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-009",
-      "alt_text": "During a food-truck project: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "6100",
-      "161",
-      "610"
+      "60 and 6000",
+      "600 and 6000",
+      "6 and 60",
+      "60 and 600"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 9,
     "correct": 0,
-    "explanation": "Multiplying by a power of ten makes each digit worth more.\nHint: Shift every digit the same number of places.",
+    "explanation": "For multiplication, 60 × 10 = 600. For division, 6000 ÷ 10 = 600. The starting number depends on which operation was used.\nHint: Reverse each possible operation separately.",
     "structuredExplanation": {
-      "summary": "Multiplying by a power of ten makes each digit worth more.",
-      "hint": "Shift every digit the same number of places."
+      "summary": "For multiplication, 60 × 10 = 600. For division, 6000 ÷ 10 = 600. The starting number depends on which operation was used.",
+      "hint": "Reverse each possible operation separately."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +285,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-010",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "divide by powers of ten",
+    "skill": "two stage number machine",
     "printable": true,
     "type": "single",
-    "question": "At a festival, what is 62000 ÷ 1000?",
-    "audioPrompt": "At a festival, what is 62000 ÷ 1000?",
-    "visual": "At a festival: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-010\"></use></svg>",
+    "question": "A number machine divides 420 by 20, then multiplies the answer by 100. What is its final output?",
+    "audioPrompt": "A number machine divides 420 by 20, then multiplies the answer by 100. What is its final output?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-010",
-      "alt_text": "At a festival: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "620",
-      "62",
-      "1062"
+      "210",
+      "21000",
+      "2100",
+      "21"
     ],
-    "correct": 1,
-    "explanation": "Division reverses the place-value shift.\nHint: Use multiplication to check.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 10,
+    "correct": 2,
+    "explanation": "420 ÷ 20 = 42 tens ÷ 2 tens = 21. Then 21 × 100 = 2100.\nHint: Complete the division before the multiplication.",
     "structuredExplanation": {
-      "summary": "Division reverses the place-value shift.",
-      "hint": "Use multiplication to check."
+      "summary": "420 ÷ 20 = 42 tens ÷ 2 tens = 21. Then 21 × 100 = 2100.",
+      "hint": "Complete the division before the multiplication."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +316,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-011",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "multiply by powers of ten",
+    "skill": "hundreds error analysis",
     "printable": true,
     "type": "single",
-    "question": "While organising a collection, what is 63 × 10?",
-    "audioPrompt": "While organising a collection, what is 63 × 10?",
-    "visual": "While organising a collection: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-011\"></use></svg>",
+    "question": "A card reads 26 × 400 = 1040. Which change makes the calculation correct?",
+    "audioPrompt": "A card reads 26 × 400 = 1040. Which change makes the calculation correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-011",
-      "alt_text": "While organising a collection: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "73",
-      "63",
-      "630"
+      "Change 1040 to 104000 because 400 is 4 thousands.",
+      "Change 1040 to 10400 because 26 groups of 4 hundreds make 104 hundreds.",
+      "Keep 1040 because multiplying by 400 is the same as multiplying by 40.",
+      "Change 1040 to 104 because 26 × 4 gives 104 ones."
     ],
-    "correct": 2,
-    "explanation": "Multiplying by a power of ten makes each digit worth more.\nHint: Shift every digit the same number of places.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "400 is 4 hundreds. 26 × 4 = 104, and 104 hundreds is 10400. The card’s answer is ten times too small.\nHint: Name the place-value unit carried by the 4 in 400.",
     "structuredExplanation": {
-      "summary": "Multiplying by a power of ten makes each digit worth more.",
-      "hint": "Shift every digit the same number of places."
+      "summary": "400 is 4 hundreds. 26 × 4 = 104, and 104 hundreds is 10400. The card’s answer is ten times too small.",
+      "hint": "Name the place-value unit carried by the 4 in 400."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +347,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-012",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "divide by powers of ten",
+    "skill": "same unit division",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, what is 6400 ÷ 100?",
-    "audioPrompt": "In an environmental study, what is 6400 ÷ 100?",
-    "visual": "In an environmental study: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-012\"></use></svg>",
+    "question": "Why can 14400 ÷ 600 be calculated using 144 ÷ 6?",
+    "audioPrompt": "Why can 14400 ÷ 600 be calculated using 144 ÷ 6?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-012",
-      "alt_text": "In an environmental study: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "64",
-      "640",
-      "164"
+      "Both numbers are made 100 less, so the number of groups is unchanged.",
+      "Only 14400 is made one hundredth as large, so the number of groups is unchanged.",
+      "Both original numbers are expressed in hundreds, so the number of groups is unchanged.",
+      "The two zeros mean that both original numbers are expressed in tens."
     ],
-    "correct": 0,
-    "explanation": "Division reverses the place-value shift.\nHint: Use multiplication to check.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 12,
+    "correct": 2,
+    "explanation": "14400 is 144 hundreds and 600 is 6 hundreds. There are 144 ÷ 6 = 24 groups of 6 hundreds in 144 hundreds.\nHint: Use the same unit to describe the total and each group.",
     "structuredExplanation": {
-      "summary": "Division reverses the place-value shift.",
-      "hint": "Use multiplication to check."
+      "summary": "14400 is 144 hundreds and 600 is 6 hundreds. There are 144 ÷ 6 = 24 groups of 6 hundreds in 144 hundreds.",
+      "hint": "Use the same unit to describe the total and each group."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +378,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-013",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "multiply by powers of ten",
+    "skill": "two step garden transfer",
     "printable": true,
     "type": "single",
-    "question": "During a transport survey, what is 65 × 1000?",
-    "audioPrompt": "During a transport survey, what is 65 × 1000?",
-    "visual": "During a transport survey: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-013\"></use></svg>",
+    "question": "A garden has 40 beds. Each bed needs 18 seedlings. Seedlings come in trays of 60. How many full trays supply exactly enough seedlings?",
+    "audioPrompt": "A garden has 40 beds. Each bed needs 18 seedlings. Seedlings come in trays of 60. How many full trays supply exactly enough seedlings?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-013",
-      "alt_text": "During a transport survey: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "1065",
-      "65000",
-      "6500"
+      "120",
+      "720",
+      "12",
+      "24"
     ],
-    "correct": 1,
-    "explanation": "Multiplying by a power of ten makes each digit worth more.\nHint: Shift every digit the same number of places.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "The garden needs 18 × 40 = 720 seedlings. Each tray has 60, so 720 ÷ 60 = 72 tens ÷ 6 tens = 12 trays.\nHint: Find the total seedlings, then the number of trays.",
     "structuredExplanation": {
-      "summary": "Multiplying by a power of ten makes each digit worth more.",
-      "hint": "Shift every digit the same number of places."
+      "summary": "The garden needs 18 × 40 = 720 seedlings. Each tray has 60, so 720 ÷ 60 = 72 tens ÷ 6 tens = 12 trays.",
+      "hint": "Find the total seedlings, then the number of trays."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +409,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-014",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "divide by powers of ten",
+    "skill": "compare group sizes",
     "printable": true,
     "type": "single",
-    "question": "At a strategy tournament, what is 660 ÷ 10?",
-    "audioPrompt": "At a strategy tournament, what is 660 ÷ 10?",
-    "visual": "At a strategy tournament: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-014\"></use></svg>",
+    "question": "A club has 1200 stickers. It can make packs of 30 or packs of 60. How many more packs can it make when using 30 per pack?",
+    "audioPrompt": "A club has 1200 stickers. It can make packs of 30 or packs of 60. How many more packs can it make when using 30 per pack?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "660",
-      "76",
-      "66"
+      "10",
+      "60",
+      "40",
+      "20"
     ],
-    "correct": 2,
-    "explanation": "Division reverses the place-value shift.\nHint: Use multiplication to check.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 14,
+    "correct": 3,
+    "explanation": "Packs of 30 give 1200 ÷ 30 = 40 packs. Packs of 60 give 1200 ÷ 60 = 20 packs. The difference is 20 packs.\nHint: Calculate both numbers of packs and subtract.",
     "structuredExplanation": {
-      "summary": "Division reverses the place-value shift.",
-      "hint": "Use multiplication to check."
+      "summary": "Packs of 30 give 1200 ÷ 30 = 40 packs. Packs of 60 give 1200 ÷ 60 = 20 packs. The difference is 20 packs.",
+      "hint": "Calculate both numbers of packs and subtract."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +440,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-015",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "multiply by powers of ten",
+    "skill": "scale group total",
     "printable": true,
     "type": "single",
-    "question": "While planning a community garden, what is 67 × 100?",
-    "audioPrompt": "While planning a community garden, what is 67 × 100?",
-    "visual": "While planning a community garden: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-015\"></use></svg>",
+    "question": "A workshop puts 4800 counters into 60 equal bags. It keeps 60 bags but puts 10 times as many counters in each bag. How many counters are needed in total?",
+    "audioPrompt": "A workshop puts 4800 counters into 60 equal bags. It keeps 60 bags but puts 10 times as many counters in each bag. How many counters are needed in total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-015",
-      "alt_text": "While planning a community garden: a Year 4 multiply by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "6700",
-      "167",
-      "670"
+      "4800",
+      "480",
+      "480000",
+      "48000"
     ],
-    "correct": 0,
-    "explanation": "Multiplying by a power of ten makes each digit worth more.\nHint: Shift every digit the same number of places.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 15,
+    "correct": 3,
+    "explanation": "The number of bags stays fixed, so making each bag’s amount 10 times as large makes the total 10 times as large: 4800 × 10 = 48000 counters.\nHint: Scale the total by the same factor as the amount in each bag.",
     "structuredExplanation": {
-      "summary": "Multiplying by a power of ten makes each digit worth more.",
-      "hint": "Shift every digit the same number of places."
+      "summary": "The number of bags stays fixed, so making each bag’s amount 10 times as large makes the total 10 times as large: 4800 × 10 = 48000 counters.",
+      "hint": "Scale the total by the same factor as the amount in each bag."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +471,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n05-t-016",
     "curriculumCode": "AC9M4N05",
     "bank": "test",
-    "skill": "divide by powers of ten",
+    "skill": "missing digit factor",
     "printable": true,
     "type": "single",
-    "question": "In a design exhibition, what is 68000 ÷ 1000?",
-    "audioPrompt": "In a design exhibition, what is 68000 ÷ 1000?",
-    "visual": "In a design exhibition: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-016\"></use></svg>",
+    "question": "The two-digit number 4□ is multiplied by 30 to give 1260. Which digit belongs in the box?",
+    "audioPrompt": "The two-digit number 4□ is multiplied by 30 to give 1260. Which digit belongs in the box?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n05.svg#ac9m4n05-t-016",
-      "alt_text": "In a design exhibition: a Year 4 divide by powers of ten reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "680",
-      "68",
-      "1068"
+      "2",
+      "3",
+      "0",
+      "6"
     ],
-    "correct": 1,
-    "explanation": "Division reverses the place-value shift.\nHint: Use multiplication to check.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "1260 ÷ 30 = 126 tens ÷ 3 tens = 42. The missing ones digit in 42 is 2. Check: 42 × 30 = 1260.\nHint: Find the starting number using the inverse operation.",
     "structuredExplanation": {
-      "summary": "Division reverses the place-value shift.",
-      "hint": "Use multiplication to check."
+      "summary": "1260 ÷ 30 = 126 tens ÷ 3 tens = 42. The missing ones digit in 42 is 2. Check: 42 × 30 = 1260.",
+      "hint": "Find the starting number using the inverse operation."
     },
     "qualitySchema": "production-v1"
   }

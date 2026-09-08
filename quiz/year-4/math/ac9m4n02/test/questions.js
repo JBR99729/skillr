@@ -4,28 +4,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-001",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "odd and even numbers",
+    "skill": "pairing",
     "printable": true,
     "type": "single",
-    "question": "At a coastal station, is 223 odd or even?",
-    "audioPrompt": "At a coastal station, is 223 odd or even?",
-    "visual": "At a coastal station: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-001\"></use></svg>",
+    "question": "A model has 16 counters in complete pairs. Which conclusion is supported?",
+    "audioPrompt": "A model has 16 counters in complete pairs. Which conclusion is supported?",
+    "visual": "Sixteen counters arranged as eight boxed pairs with none left over.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Sixteen counters arranged as eight boxed pairs with none left over.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02/pairs-16.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-001",
-      "alt_text": "At a coastal station: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02/pairs-16.svg#model",
+      "alt_text": "Sixteen counters arranged as eight boxed pairs with none left over."
     },
     "answers": [
-      "even",
-      "odd",
-      "both"
+      "16 is odd because the pairs are separate.",
+      "16 is even because no counter is left without a partner.",
+      "16 is odd because there are eight pairs.",
+      "16 is even because every number above 10 is even."
     ],
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 1,
     "correct": 1,
-    "explanation": "The ones digit determines parity.\nHint: Check whether all objects can be paired.",
+    "explanation": "Eight complete pairs use all 16 counters. No unpaired counter remains, so 16 is even.\nHint: The number of leftover counters decides.",
     "structuredExplanation": {
-      "summary": "The ones digit determines parity.",
-      "hint": "Check whether all objects can be paired."
+      "summary": "Eight complete pairs use all 16 counters. No unpaired counter remains, so 16 is even.",
+      "hint": "The number of leftover counters decides."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +37,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-002",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "parity rules",
+    "skill": "equal sharing",
     "printable": true,
     "type": "single",
-    "question": "During a museum challenge, which result must be even?",
-    "audioPrompt": "During a museum challenge, which result must be even?",
-    "visual": "During a museum challenge: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-002\"></use></svg>",
+    "question": "Which number cannot be shared as whole counters into two equal groups with none left over?",
+    "audioPrompt": "Which number cannot be shared as whole counters into two equal groups with none left over?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-002",
-      "alt_text": "During a museum challenge: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd + even",
-      "odd − even",
-      "odd + odd"
+      "8 056",
+      "8 650",
+      "8 506",
+      "8 065"
     ],
-    "correct": 2,
-    "explanation": "The two unpaired ones form a new pair.\nHint: Model each number as pairs and leftovers.",
+    "difficulty": 1,
+    "difficultyTier": "confidence",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "8 065 ends in 5, so it is odd and leaves one whole counter over. Each other number is even.\nHint: Check the ones digit.",
     "structuredExplanation": {
-      "summary": "The two unpaired ones form a new pair.",
-      "hint": "Model each number as pairs and leftovers."
+      "summary": "8 065 ends in 5, so it is odd and leaves one whole counter over. Each other number is even.",
+      "hint": "Check the ones digit."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +70,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-003",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "parity of products",
+    "skill": "ones digit reasoning",
     "printable": true,
     "type": "single",
-    "question": "At a charity event, which product must be odd?",
-    "audioPrompt": "At a charity event, which product must be odd?",
-    "visual": "At a charity event: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-003\"></use></svg>",
+    "question": "Why is 902 even even though its hundreds digit is odd?",
+    "audioPrompt": "Why is 902 even even though its hundreds digit is odd?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-003",
-      "alt_text": "At a charity event: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd × odd",
-      "even × odd",
-      "even × even"
+      "Any three-digit number is even.",
+      "A zero anywhere makes every number even.",
+      "The hundreds digit decides, so 902 is odd.",
+      "The 900 forms complete pairs, and the 2 ones form another pair."
     ],
-    "correct": 0,
-    "explanation": "Only odd multiplied by odd stays odd.\nHint: An even factor guarantees an even product.",
+    "difficulty": 2,
+    "difficultyTier": "understanding",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "Every hundred is divisible into complete pairs. The two remaining ones also pair, so all of 902 can be paired.\nHint: Separate the hundreds from the ones.",
     "structuredExplanation": {
-      "summary": "Only odd multiplied by odd stays odd.",
-      "hint": "An even factor guarantees an even product."
+      "summary": "Every hundred is divisible into complete pairs. The two remaining ones also pair, so all of 902 can be paired.",
+      "hint": "Separate the hundreds from the ones."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +103,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-004",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "odd and even numbers",
+    "skill": "odd plus odd reasoning",
     "printable": true,
     "type": "single",
-    "question": "In an engineering workshop, is 232 odd or even?",
-    "audioPrompt": "In an engineering workshop, is 232 odd or even?",
-    "visual": "In an engineering workshop: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-004\"></use></svg>",
+    "question": "Two collections have 39 and 57 counters. What explains why their total is even?",
+    "audioPrompt": "Two collections have 39 and 57 counters. What explains why their total is even?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd",
-      "even",
-      "both"
+      "Odd numbers disappear when added.",
+      "Both collections have the same number of counters.",
+      "Their two unpaired counters form one more pair.",
+      "Every sum is even."
     ],
-    "correct": 1,
-    "explanation": "The ones digit determines parity.\nHint: Check whether all objects can be paired.",
+    "difficulty": 2,
+    "difficultyTier": "understanding",
+    "sequencePriority": 4,
+    "correct": 2,
+    "explanation": "Each odd collection has one unpaired counter. Combining those two leftovers completes a pair, so the total is even.\nHint: Reason from the leftovers rather than only calculating the sum.",
     "structuredExplanation": {
-      "summary": "The ones digit determines parity.",
-      "hint": "Check whether all objects can be paired."
+      "summary": "Each odd collection has one unpaired counter. Combining those two leftovers completes a pair, so the total is even.",
+      "hint": "Reason from the leftovers rather than only calculating the sum."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +136,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-005",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "parity rules",
+    "skill": "select sum",
     "printable": true,
     "type": "single",
-    "question": "At a regional carnival, which result must be even?",
-    "audioPrompt": "At a regional carnival, which result must be even?",
-    "visual": "At a regional carnival: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-005\"></use></svg>",
+    "question": "Which addition has an odd total?",
+    "audioPrompt": "Which addition has an odd total?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-005",
-      "alt_text": "At a regional carnival: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd + even",
-      "odd − even",
-      "odd + odd"
+      "162 + 236",
+      "163 + 237",
+      "164 + 237",
+      "164 + 238"
     ],
+    "difficulty": 2,
+    "difficultyTier": "understanding",
+    "sequencePriority": 5,
     "correct": 2,
-    "explanation": "The two unpaired ones form a new pair.\nHint: Model each number as pairs and leftovers.",
+    "explanation": "164 is even and 237 is odd. Even + odd is odd. Each other choice adds two numbers of the same kind.\nHint: An odd total needs different kinds of addend.",
     "structuredExplanation": {
-      "summary": "The two unpaired ones form a new pair.",
-      "hint": "Model each number as pairs and leftovers."
+      "summary": "164 is even and 237 is odd. Even + odd is odd. Each other choice adds two numbers of the same kind.",
+      "hint": "An odd total needs different kinds of addend."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +169,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-006",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "parity of products",
+    "skill": "even minus odd",
     "printable": true,
     "type": "single",
-    "question": "During a farm study, which product must be odd?",
-    "audioPrompt": "During a farm study, which product must be odd?",
-    "visual": "During a farm study: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-006\"></use></svg>",
+    "question": "Predict the kind of answer to 506 − 183.",
+    "audioPrompt": "Predict the kind of answer to 506 − 183.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-006",
-      "alt_text": "During a farm study: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd × odd",
-      "even × odd",
-      "even × even"
+      "Odd, because even − odd is odd",
+      "Even, because the starting number is even",
+      "Odd, because all subtraction answers are odd",
+      "Even, because subtraction removes pairs only"
     ],
+    "difficulty": 2,
+    "difficultyTier": "understanding",
+    "sequencePriority": 6,
     "correct": 0,
-    "explanation": "Only odd multiplied by odd stays odd.\nHint: An even factor guarantees an even product.",
+    "explanation": "506 is even and 183 is odd. Removing an odd number from an even total leaves an odd number.\nHint: Identify both numbers before applying the subtraction rule.",
     "structuredExplanation": {
-      "summary": "Only odd multiplied by odd stays odd.",
-      "hint": "An even factor guarantees an even product."
+      "summary": "506 is even and 183 is odd. Removing an odd number from an even total leaves an odd number.",
+      "hint": "Identify both numbers before applying the subtraction rule."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +202,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-007",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "odd and even numbers",
+    "skill": "select difference",
     "printable": true,
     "type": "single",
-    "question": "While reading a trail guide, is 241 odd or even?",
-    "audioPrompt": "While reading a trail guide, is 241 odd or even?",
-    "visual": "While reading a trail guide: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-007\"></use></svg>",
+    "question": "Which difference must be even?",
+    "audioPrompt": "Which difference must be even?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "even",
-      "odd",
-      "both"
+      "716 − 291",
+      "715 − 292",
+      "715 − 293",
+      "714 − 293"
     ],
-    "correct": 1,
-    "explanation": "The ones digit determines parity.\nHint: Check whether all objects can be paired.",
+    "difficulty": 2,
+    "difficultyTier": "understanding",
+    "sequencePriority": 7,
+    "correct": 2,
+    "explanation": "715 and 293 are both odd, so their difference is even. The other differences mix odd and even, giving odd results.\nHint: A difference is even when the two numbers are the same kind.",
     "structuredExplanation": {
-      "summary": "The ones digit determines parity.",
-      "hint": "Check whether all objects can be paired."
+      "summary": "715 and 293 are both odd, so their difference is even. The other differences mix odd and even, giving odd results.",
+      "hint": "A difference is even when the two numbers are the same kind."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +235,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-008",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "parity rules",
+    "skill": "even factor",
     "printable": true,
     "type": "single",
-    "question": "In an architecture studio, which result must be even?",
-    "audioPrompt": "In an architecture studio, which result must be even?",
-    "visual": "In an architecture studio: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-008\"></use></svg>",
+    "question": "Without multiplying fully, what can be said about 24 × 13?",
+    "audioPrompt": "Without multiplying fully, what can be said about 24 × 13?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-008",
-      "alt_text": "In an architecture studio: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd + even",
-      "odd − even",
-      "odd + odd"
+      "Its kind cannot be predicted.",
+      "It is even because 24 is even.",
+      "It is odd because 13 is odd.",
+      "It is odd because the factors differ."
     ],
-    "correct": 2,
-    "explanation": "The two unpaired ones form a new pair.\nHint: Model each number as pairs and leftovers.",
+    "difficulty": 2,
+    "difficultyTier": "understanding",
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "One even factor is enough to make a product of whole numbers even. The 24 counters in each group can all be paired.\nHint: You do not need both factors to be even.",
     "structuredExplanation": {
-      "summary": "The two unpaired ones form a new pair.",
-      "hint": "Model each number as pairs and leftovers."
+      "summary": "One even factor is enough to make a product of whole numbers even. The 24 counters in each group can all be paired.",
+      "hint": "You do not need both factors to be even."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +268,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-009",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "parity of products",
+    "skill": "product counterexample",
     "printable": true,
     "type": "single",
-    "question": "During a food-truck project, which product must be odd?",
-    "audioPrompt": "During a food-truck project, which product must be odd?",
-    "visual": "During a food-truck project: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-009\"></use></svg>",
+    "question": "Luca claims that odd × odd is even. Which example disproves the claim?",
+    "audioPrompt": "Luca claims that odd × odd is even. Which example disproves the claim?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-009",
-      "alt_text": "During a food-truck project: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd × odd",
-      "even × odd",
-      "even × even"
+      "6 × 9 = 54",
+      "6 × 8 = 48",
+      "7 × 8 = 56",
+      "7 × 9 = 63"
     ],
-    "correct": 0,
-    "explanation": "Only odd multiplied by odd stays odd.\nHint: An even factor guarantees an even product.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 9,
+    "correct": 3,
+    "explanation": "7 and 9 are both odd, and 63 is odd. This directly contradicts Luca’s claim.\nHint: The example must use two odd factors.",
     "structuredExplanation": {
-      "summary": "Only odd multiplied by odd stays odd.",
-      "hint": "An even factor guarantees an even product."
+      "summary": "7 and 9 are both odd, and 63 is odd. This directly contradicts Luca’s claim.",
+      "hint": "The example must use two odd factors."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +301,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-010",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "odd and even numbers",
+    "skill": "check calculation",
     "printable": true,
     "type": "single",
-    "question": "At a festival, is 250 odd or even?",
-    "audioPrompt": "At a festival, is 250 odd or even?",
-    "visual": "At a festival: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-010\"></use></svg>",
+    "question": "A student records 482 + 156 = 637. What does odd/even reasoning establish?",
+    "audioPrompt": "A student records 482 + 156 = 637. What does odd/even reasoning establish?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-010",
-      "alt_text": "At a festival: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd",
-      "even",
-      "both"
+      "Even + even has no predictable kind of answer.",
+      "637 cannot be correct because the sum must be even.",
+      "637 must be correct because it is odd.",
+      "The correct sum must be 636."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 10,
     "correct": 1,
-    "explanation": "The ones digit determines parity.\nHint: Check whether all objects can be paired.",
+    "explanation": "482 and 156 are even, so the sum must be even. This rejects 637, but parity alone does not identify the exact correct sum.\nHint: Distinguish rejecting an answer from calculating the exact answer.",
     "structuredExplanation": {
-      "summary": "The ones digit determines parity.",
-      "hint": "Check whether all objects can be paired."
+      "summary": "482 and 156 are even, so the sum must be even. This rejects 637, but parity alone does not identify the exact correct sum.",
+      "hint": "Distinguish rejecting an answer from calculating the exact answer."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +334,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-011",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "parity rules",
+    "skill": "unknown addend",
     "printable": true,
     "type": "single",
-    "question": "While organising a collection, which result must be even?",
-    "audioPrompt": "While organising a collection, which result must be even?",
-    "visual": "While organising a collection: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-011\"></use></svg>",
+    "question": "An unknown whole number is added to 58. The sum is odd. What is the unknown number’s kind?",
+    "audioPrompt": "An unknown whole number is added to 58. The sum is odd. What is the unknown number’s kind?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-011",
-      "alt_text": "While organising a collection: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd + even",
-      "odd − even",
-      "odd + odd"
+      "Zero only",
+      "Odd",
+      "A multiple of 10 only",
+      "Even"
     ],
-    "correct": 2,
-    "explanation": "The two unpaired ones form a new pair.\nHint: Model each number as pairs and leftovers.",
+    "difficulty": 2,
+    "difficultyTier": "understanding",
+    "sequencePriority": 11,
+    "correct": 1,
+    "explanation": "58 is even. It needs an odd addend to produce an odd total.\nHint: Use the even + odd rule.",
     "structuredExplanation": {
-      "summary": "The two unpaired ones form a new pair.",
-      "hint": "Model each number as pairs and leftovers."
+      "summary": "58 is even. It needs an odd addend to produce an odd total.",
+      "hint": "Use the even + odd rule."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +367,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-012",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "parity of products",
+    "skill": "flowchart trace",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, which product must be odd?",
-    "audioPrompt": "In an environmental study, which product must be odd?",
-    "visual": "In an environmental study: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-012\"></use></svg>",
+    "question": "Use the flowchart for 6 905. Where does it finish?",
+    "audioPrompt": "Use the flowchart for 6 905. Where does it finish?",
+    "visual": "Flowchart: start with a whole number. Is the ones digit 0, 2, 4, 6 or 8? Yes leads to Even; No leads to Odd.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Flowchart: start with a whole number. Is the ones digit 0, 2, 4, 6 or 8? Yes leads to Even; No leads to Odd.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02/parity-flow.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-012",
-      "alt_text": "In an environmental study: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02/parity-flow.svg#model",
+      "alt_text": "Flowchart: start with a whole number. Is the ones digit 0, 2, 4, 6 or 8? Yes leads to Even; No leads to Odd."
     },
     "answers": [
-      "odd × odd",
-      "even × odd",
-      "even × even"
+      "Odd, after the No branch",
+      "Odd, after the Yes branch",
+      "Even, after the Yes branch",
+      "Even, after the No branch"
     ],
+    "difficulty": 2,
+    "difficultyTier": "understanding",
+    "sequencePriority": 12,
     "correct": 0,
-    "explanation": "Only odd multiplied by odd stays odd.\nHint: An even factor guarantees an even product.",
+    "explanation": "The ones digit is 5, which is absent from the even-digit list. Follow No to Odd.\nHint: The thousands digit does not decide the branch.",
     "structuredExplanation": {
-      "summary": "Only odd multiplied by odd stays odd.",
-      "hint": "An even factor guarantees an even product."
+      "summary": "The ones digit is 5, which is absent from the even-digit list. Follow No to Odd.",
+      "hint": "The thousands digit does not decide the branch."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +400,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-013",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "odd and even numbers",
+    "skill": "algorithm filter zero",
     "printable": true,
     "type": "single",
-    "question": "During a transport survey, is 259 odd or even?",
-    "audioPrompt": "During a transport survey, is 259 odd or even?",
-    "visual": "During a transport survey: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-013\"></use></svg>",
+    "question": "A program keeps numbers divisible by 2. Which complete list does it keep from 0, 73, 94, 107 and 120?",
+    "audioPrompt": "A program keeps numbers divisible by 2. Which complete list does it keep from 0, 73, 94, 107 and 120?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-013",
-      "alt_text": "During a transport survey: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "even",
-      "odd",
-      "both"
+      "0, 94, 120",
+      "0, 73, 107",
+      "73, 107",
+      "94, 120"
     ],
-    "correct": 1,
-    "explanation": "The ones digit determines parity.\nHint: Check whether all objects can be paired.",
+    "difficulty": 2,
+    "difficultyTier": "understanding",
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "0, 94 and 120 can all be divided by 2 with no remainder. Zero is included because 0 ÷ 2 = 0.\nHint: Do not leave zero out of the even numbers.",
     "structuredExplanation": {
-      "summary": "The ones digit determines parity.",
-      "hint": "Check whether all objects can be paired."
+      "summary": "0, 94 and 120 can all be divided by 2 with no remainder. Zero is included because 0 ÷ 2 = 0.",
+      "hint": "Do not leave zero out of the even numbers."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +433,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-014",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "parity rules",
+    "skill": "algorithm sequence",
     "printable": true,
     "type": "single",
-    "question": "At a strategy tournament, which result must be even?",
-    "audioPrompt": "At a strategy tournament, which result must be even?",
-    "visual": "At a strategy tournament: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-014\"></use></svg>",
+    "question": "Which sequence correctly follows “remove 2 until 0 or 1 remains” starting with 11?",
+    "audioPrompt": "Which sequence correctly follows “remove 2 until 0 or 1 remains” starting with 11?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 parity rules reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd + even",
-      "odd − even",
-      "odd + odd"
+      "11, 9, 7, 5, 3, 0",
+      "11, 10, 9, 8, 7, 6",
+      "11, 9, 7, 5, 3",
+      "11, 9, 7, 5, 3, 1"
     ],
-    "correct": 2,
-    "explanation": "The two unpaired ones form a new pair.\nHint: Model each number as pairs and leftovers.",
+    "difficulty": 2,
+    "difficultyTier": "understanding",
+    "sequencePriority": 14,
+    "correct": 3,
+    "explanation": "Each step removes one pair. The sequence ends at 1, proving that the original 11 counters were odd.\nHint: Stop only once fewer than two counters remain.",
     "structuredExplanation": {
-      "summary": "The two unpaired ones form a new pair.",
-      "hint": "Model each number as pairs and leftovers."
+      "summary": "Each step removes one pair. The sequence ends at 1, proving that the original 11 counters were odd.",
+      "hint": "Stop only once fewer than two counters remain."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +466,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-015",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "parity of products",
+    "skill": "several addends",
     "printable": true,
     "type": "single",
-    "question": "While planning a community garden, which product must be odd?",
-    "audioPrompt": "While planning a community garden, which product must be odd?",
-    "visual": "While planning a community garden: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-015\"></use></svg>",
+    "question": "Five odd numbers are added. What kind of total must result?",
+    "audioPrompt": "Five odd numbers are added. What kind of total must result?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-015",
-      "alt_text": "While planning a community garden: a Year 4 parity of products reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd × odd",
-      "even × odd",
-      "even × even"
+      "Even: all sums of odd numbers are even.",
+      "Even: five is a whole number.",
+      "Odd: two pairs of odd addends give even sums, with one odd addend left.",
+      "Either kind: the values must be calculated."
     ],
-    "correct": 0,
-    "explanation": "Only odd multiplied by odd stays odd.\nHint: An even factor guarantees an even product.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Pair four of the odd addends into two even sums. Their total is even; adding the fifth odd number makes the total odd.\nHint: Group as many of the odd addends into pairs as possible.",
     "structuredExplanation": {
-      "summary": "Only odd multiplied by odd stays odd.",
-      "hint": "An even factor guarantees an even product."
+      "summary": "Pair four of the odd addends into two even sums. Their total is even; adding the fifth odd number makes the total odd.",
+      "hint": "Group as many of the odd addends into pairs as possible."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +499,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n02-t-016",
     "curriculumCode": "AC9M4N02",
     "bank": "test",
-    "skill": "odd and even numbers",
+    "skill": "limits of parity check",
     "printable": true,
     "type": "single",
-    "question": "In a design exhibition, is 268 odd or even?",
-    "audioPrompt": "In a design exhibition, is 268 odd or even?",
-    "visual": "In a design exhibition: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-016\"></use></svg>",
+    "question": "A proposed answer to 42 + 36 is 80. The answer is even. What can that check tell you?",
+    "audioPrompt": "A proposed answer to 42 + 36 is 80. The answer is even. What can that check tell you?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n02.svg#ac9m4n02-t-016",
-      "alt_text": "In a design exhibition: a Year 4 odd and even numbers reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none",
+      "asset_path": "",
+      "alt_text": ""
     },
     "answers": [
-      "odd",
-      "even",
-      "both"
+      "80 has the required kind of number, but the exact calculation is still needed.",
+      "80 must be wrong because an even answer must end in 2.",
+      "80 is certainly correct.",
+      "80 must be wrong because even + even is odd."
     ],
-    "correct": 1,
-    "explanation": "The ones digit determines parity.\nHint: Check whether all objects can be paired.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 16,
+    "correct": 0,
+    "explanation": "The expected sum is even, but many even numbers could pass that check. Calculating gives 78, so the proposed even answer 80 is still wrong.\nHint: Matching odd or even is necessary here, but is not proof of the exact value.",
     "structuredExplanation": {
-      "summary": "The ones digit determines parity.",
-      "hint": "Check whether all objects can be paired."
+      "summary": "The expected sum is even, but many even numbers could pass that check. Calculating gives 78, so the proposed even answer 80 is still wrong.",
+      "hint": "Matching odd or even is necessary here, but is not proof of the exact value."
     },
     "qualitySchema": "production-v1"
   }

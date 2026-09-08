@@ -4,28 +4,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-001",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction number line",
+    "skill": "read quarter mixed",
     "printable": true,
     "type": "single",
-    "question": "At a coastal station, which number is at 7 quarter-steps from zero?",
-    "audioPrompt": "At a coastal station, which number is at 7 quarter-steps from zero?",
-    "visual": "At a coastal station: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a coastal station: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-001\"></use></svg>",
+    "question": "What mixed numeral is at A?",
+    "audioPrompt": "What mixed numeral is at A?",
+    "visual": "A number line from 2 to 3 in quarters. A is the third tick after 2.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number line from 2 to 3 in quarters. A is the third tick after 2.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04/t-001.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-001",
-      "alt_text": "At a coastal station: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04/t-001.svg#model",
+      "alt_text": "A number line from 2 to 3 in quarters. A is the third tick after 2."
     },
     "answers": [
+      "2 1/4",
       "1 3/4",
-      "7/2",
-      "1 3/2"
+      "3 1/4",
+      "2 3/4"
     ],
-    "correct": 0,
-    "explanation": "Each step adds one quarter.\nHint: Count four quarter-steps for each whole.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "A is three quarter-intervals after 2, so it is 2 3/4.\nHint: Use 2 as the starting value.",
     "structuredExplanation": {
-      "summary": "Each step adds one quarter.",
-      "hint": "Count four quarter-steps for each whole."
+      "summary": "A is three quarter-intervals after 2, so it is 2 3/4.",
+      "hint": "Use 2 as the starting value."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +37,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-002",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction sequences",
+    "skill": "count thirds across whole",
     "printable": true,
     "type": "single",
-    "question": "During a museum challenge, what comes next: 1/4, 2/4, 3/4?",
-    "audioPrompt": "During a museum challenge, what comes next: 1/4, 2/4, 3/4?",
-    "visual": "During a museum challenge: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a museum challenge: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-002\"></use></svg>",
+    "question": "Complete the count by thirds: 2 1/3, 2 2/3, __, 3 1/3.",
+    "audioPrompt": "Complete the count by thirds: 2 1/3, 2 2/3, __, 3 1/3.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-002",
-      "alt_text": "During a museum challenge: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "4/8",
-      "4/4",
-      "5/4"
+      "3",
+      "2 3/4",
+      "3 2/3",
+      "4"
     ],
-    "correct": 1,
-    "explanation": "The sequence increases by one quarter.\nHint: Keep the denominator and add one to the numerator.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "A third after 2 2/3 completes the third whole.\nHint: Three thirds make one whole.",
     "structuredExplanation": {
-      "summary": "The sequence increases by one quarter.",
-      "hint": "Keep the denominator and add one to the numerator."
+      "summary": "A third after 2 2/3 completes the third whole.",
+      "hint": "Three thirds make one whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +68,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-003",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction number line",
+    "skill": "count back halves",
     "printable": true,
     "type": "single",
-    "question": "At a charity event, which number is at 2 quarter-steps from zero?",
-    "audioPrompt": "At a charity event, which number is at 2 quarter-steps from zero?",
-    "visual": "At a charity event: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a charity event: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-003\"></use></svg>",
+    "question": "Count backwards by halves: 4, 3 1/2, 3, __.",
+    "audioPrompt": "Count backwards by halves: 4, 3 1/2, 3, __.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-003",
-      "alt_text": "At a charity event: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "2/2",
-      "2/8",
-      "2/4"
+      "2",
+      "2 1/2",
+      "3 1/4",
+      "1 1/2"
     ],
-    "correct": 2,
-    "explanation": "Each step adds one quarter.\nHint: Count four quarter-steps for each whole.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "One half-step left from 3 reaches 2 1/2.\nHint: Rename 3 as 2 wholes and 2 halves.",
     "structuredExplanation": {
-      "summary": "Each step adds one quarter.",
-      "hint": "Count four quarter-steps for each whole."
+      "summary": "One half-step left from 3 reaches 2 1/2.",
+      "hint": "Rename 3 as 2 wholes and 2 halves."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +99,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-004",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction sequences",
+    "skill": "interval not tickmarks",
     "printable": true,
     "type": "single",
-    "question": "In an engineering workshop, what comes next: 3/4, 4/4, 5/4?",
-    "audioPrompt": "In an engineering workshop, what comes next: 3/4, 4/4, 5/4?",
-    "visual": "In an engineering workshop: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an engineering workshop: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-004\"></use></svg>",
+    "question": "What is the size of one equal interval on this line?",
+    "audioPrompt": "What is the size of one equal interval on this line?",
+    "visual": "A number line from 1 to 3 with six equal intervals and labelled whole numbers 1, 2 and 3.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A number line from 1 to 3 with six equal intervals and labelled whole numbers 1, 2 and 3.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04/t-004.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-004",
-      "alt_text": "In an engineering workshop: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04/t-004.svg#model",
+      "alt_text": "A number line from 1 to 3 with six equal intervals and labelled whole numbers 1, 2 and 3."
     },
     "answers": [
-      "6/4",
-      "6/8",
-      "7/4"
+      "1/6",
+      "1/3",
+      "1/2",
+      "1/7"
     ],
-    "correct": 0,
-    "explanation": "The sequence increases by one quarter.\nHint: Keep the denominator and add one to the numerator.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "There are six equal intervals over two whole units, or three per whole. Each interval is 1/3.\nHint: Find how many equal intervals fit from 1 to 2.",
     "structuredExplanation": {
-      "summary": "The sequence increases by one quarter.",
-      "hint": "Keep the denominator and add one to the numerator."
+      "summary": "There are six equal intervals over two whole units, or three per whole. Each interval is 1/3.",
+      "hint": "Find how many equal intervals fit from 1 to 2."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +132,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-005",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction number line",
+    "skill": "mixed to improper",
     "printable": true,
     "type": "single",
-    "question": "At a regional carnival, which number is at 4 quarter-steps from zero?",
-    "audioPrompt": "At a regional carnival, which number is at 4 quarter-steps from zero?",
-    "visual": "At a regional carnival: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a regional carnival: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-005\"></use></svg>",
+    "question": "Which fraction names the same number as 2 3/5?",
+    "audioPrompt": "Which fraction names the same number as 2 3/5?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-005",
-      "alt_text": "At a regional carnival: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "4/2",
-      "1",
-      "1 0/2"
+      "7/5",
+      "13/5",
+      "11/5",
+      "15/5"
     ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "Each step adds one quarter.\nHint: Count four quarter-steps for each whole.",
+    "explanation": "Two wholes contain ten fifths. Three more fifths make 13/5.\nHint: Count the fifths in the wholes before adding the extra fifths.",
     "structuredExplanation": {
-      "summary": "Each step adds one quarter.",
-      "hint": "Count four quarter-steps for each whole."
+      "summary": "Two wholes contain ten fifths. Three more fifths make 13/5.",
+      "hint": "Count the fifths in the wholes before adding the extra fifths."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +163,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-006",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction sequences",
+    "skill": "improper to mixed",
     "printable": true,
     "type": "single",
-    "question": "During a farm study, what comes next: 5/4, 6/4, 7/4?",
-    "audioPrompt": "During a farm study, what comes next: 5/4, 6/4, 7/4?",
-    "visual": "During a farm study: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a farm study: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-006\"></use></svg>",
+    "question": "What mixed numeral is 9/2?",
+    "audioPrompt": "What mixed numeral is 9/2?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-006",
-      "alt_text": "During a farm study: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "8/8",
-      "9/4",
-      "8/4"
+      "3 1/2",
+      "2 1/4",
+      "4 1/2",
+      "4 1/4"
     ],
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 6,
     "correct": 2,
-    "explanation": "The sequence increases by one quarter.\nHint: Keep the denominator and add one to the numerator.",
+    "explanation": "Eight halves make four wholes. The ninth half is another half, so the number is 4 1/2.\nHint: Make pairs of halves.",
     "structuredExplanation": {
-      "summary": "The sequence increases by one quarter.",
-      "hint": "Keep the denominator and add one to the numerator."
+      "summary": "Eight halves make four wholes. The ninth half is another half, so the number is 4 1/2.",
+      "hint": "Make pairs of halves."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +194,32 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-007",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction number line",
+    "skill": "locate thirds",
     "printable": true,
     "type": "single",
-    "question": "While reading a trail guide, which number is at 6 quarter-steps from zero?",
-    "audioPrompt": "While reading a trail guide, which number is at 6 quarter-steps from zero?",
-    "visual": "While reading a trail guide: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While reading a trail guide: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-007\"></use></svg>",
+    "question": "Which point is at 7/3?",
+    "audioPrompt": "Which point is at 7/3?",
+    "visual": "A line from 1 to 3 in thirds. A is one tick before 2, B one tick after 2, C two ticks after 2 and D at 3.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A line from 1 to 3 in thirds. A is one tick before 2, B one tick after 2, C two ticks after 2 and D at 3.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04/t-007.svg#model\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-007",
-      "alt_text": "While reading a trail guide: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04/t-007.svg#model",
+      "alt_text": "A line from 1 to 3 in thirds. A is one tick before 2, B one tick after 2, C two ticks after 2 and D at 3."
     },
     "answers": [
-      "1 2/4",
-      "6/2",
-      "1 2/2"
+      "A",
+      "C",
+      "B",
+      "D"
     ],
-    "correct": 0,
-    "explanation": "Each step adds one quarter.\nHint: Count four quarter-steps for each whole.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 7,
+    "correct": 2,
+    "explanation": "Six thirds make 2. Point B is one third after 2, so it represents 7/3.\nHint: Rename 7/3 as two wholes and one third.",
     "structuredExplanation": {
-      "summary": "Each step adds one quarter.",
-      "hint": "Count four quarter-steps for each whole."
+      "summary": "Six thirds make 2. Point B is one third after 2, so it represents 7/3.",
+      "hint": "Rename 7/3 as two wholes and one third."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +227,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-008",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction sequences",
+    "skill": "nonunit half steps",
     "printable": true,
     "type": "single",
-    "question": "In an architecture studio, what comes next: 7/4, 8/4, 9/4?",
-    "audioPrompt": "In an architecture studio, what comes next: 7/4, 8/4, 9/4?",
-    "visual": "In an architecture studio: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an architecture studio: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-008\"></use></svg>",
+    "question": "A count rises by 3/4 each time: 1/4, 1, 1 3/4, __.",
+    "audioPrompt": "A count rises by 3/4 each time: 1/4, 1, 1 3/4, __.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-008",
-      "alt_text": "In an architecture studio: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "10/8",
-      "10/4",
-      "11/4"
+      "2 1/2",
+      "2",
+      "2 1/4",
+      "3"
     ],
-    "correct": 1,
-    "explanation": "The sequence increases by one quarter.\nHint: Keep the denominator and add one to the numerator.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 8,
+    "correct": 0,
+    "explanation": "Seven quarters plus three quarters are ten quarters, or 2 1/2.\nHint: Continue with a jump of three quarters, not one quarter.",
     "structuredExplanation": {
-      "summary": "The sequence increases by one quarter.",
-      "hint": "Keep the denominator and add one to the numerator."
+      "summary": "Seven quarters plus three quarters are ten quarters, or 2 1/2.",
+      "hint": "Continue with a jump of three quarters, not one quarter."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +258,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-009",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction number line",
+    "skill": "tenths backwards",
     "printable": true,
     "type": "single",
-    "question": "During a food-truck project, which number is at 1 quarter-steps from zero?",
-    "audioPrompt": "During a food-truck project, which number is at 1 quarter-steps from zero?",
-    "visual": "During a food-truck project: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a food-truck project: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-009\"></use></svg>",
+    "question": "What comes next going backwards by 1/10: 2 1/10, 2, __?",
+    "audioPrompt": "What comes next going backwards by 1/10: 2 1/10, 2, __?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-009",
-      "alt_text": "During a food-truck project: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "1/2",
-      "1/8",
-      "1/4"
+      "1 9/10",
+      "1 1/10",
+      "2 9/10",
+      "1 8/10"
     ],
-    "correct": 2,
-    "explanation": "Each step adds one quarter.\nHint: Count four quarter-steps for each whole.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "Two wholes are 1 whole and 10 tenths. One tenth less is 1 9/10.\nHint: Keep counting by tenths when crossing 2.",
     "structuredExplanation": {
-      "summary": "Each step adds one quarter.",
-      "hint": "Count four quarter-steps for each whole."
+      "summary": "Two wholes are 1 whole and 10 tenths. One tenth less is 1 9/10.",
+      "hint": "Keep counting by tenths when crossing 2."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +289,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-010",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction sequences",
+    "skill": "fraction steps context",
     "printable": true,
     "type": "single",
-    "question": "At a festival, what comes next: 2/4, 3/4, 4/4?",
-    "audioPrompt": "At a festival, what comes next: 2/4, 3/4, 4/4?",
-    "visual": "At a festival: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a festival: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-010\"></use></svg>",
+    "question": "A marker starts at 1 1/2. It moves three half-steps right. Where does it land?",
+    "audioPrompt": "A marker starts at 1 1/2. It moves three half-steps right. Where does it land?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-010",
-      "alt_text": "At a festival: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "5/4",
-      "5/8",
-      "6/4"
+      "2",
+      "2 1/2",
+      "3 1/2",
+      "3"
     ],
-    "correct": 0,
-    "explanation": "The sequence increases by one quarter.\nHint: Keep the denominator and add one to the numerator.",
+    "difficulty": 2,
+    "difficultyTier": "application",
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "The landings are 2, 2 1/2 and 3. Three half-steps add 1 1/2 to the start.\nHint: List each landing in order.",
     "structuredExplanation": {
-      "summary": "The sequence increases by one quarter.",
-      "hint": "Keep the denominator and add one to the numerator."
+      "summary": "The landings are 2, 2 1/2 and 3. Three half-steps add 1 1/2 to the start.",
+      "hint": "List each landing in order."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +320,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-011",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction number line",
+    "skill": "whole interval reasoning",
     "printable": true,
     "type": "single",
-    "question": "While organising a collection, which number is at 3 quarter-steps from zero?",
-    "audioPrompt": "While organising a collection, which number is at 3 quarter-steps from zero?",
-    "visual": "While organising a collection: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a collection: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-011\"></use></svg>",
+    "question": "A line from 0 to 3 has 12 equal intervals. What fraction of one whole unit is each interval?",
+    "audioPrompt": "A line from 0 to 3 has 12 equal intervals. What fraction of one whole unit is each interval?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-011",
-      "alt_text": "While organising a collection: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "3/2",
-      "3/4",
-      "3/8"
+      "1/12",
+      "1/3",
+      "1/9",
+      "1/4"
     ],
-    "correct": 1,
-    "explanation": "Each step adds one quarter.\nHint: Count four quarter-steps for each whole.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 11,
+    "correct": 3,
+    "explanation": "Twelve intervals across three wholes give four intervals per whole. Each interval is a quarter-unit.\nHint: Share the twelve intervals equally among the three whole units.",
     "structuredExplanation": {
-      "summary": "Each step adds one quarter.",
-      "hint": "Count four quarter-steps for each whole."
+      "summary": "Twelve intervals across three wholes give four intervals per whole. Each interval is a quarter-unit.",
+      "hint": "Share the twelve intervals equally among the three whole units."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +351,30 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-012",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction sequences",
+    "skill": "mixed point error",
     "printable": true,
     "type": "single",
-    "question": "In an environmental study, what comes next: 4/4, 5/4, 6/4?",
-    "audioPrompt": "In an environmental study, what comes next: 4/4, 5/4, 6/4?",
-    "visual": "In an environmental study: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In an environmental study: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-012\"></use></svg>",
+    "question": "Ben labels the midpoint between 2 and 3 as 2/2. Which label belongs there?",
+    "audioPrompt": "Ben labels the midpoint between 2 and 3 as 2/2. Which label belongs there?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-012",
-      "alt_text": "In an environmental study: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
     "answers": [
-      "7/8",
-      "8/4",
-      "7/4"
+      "1 1/2",
+      "3/4",
+      "2 1/2",
+      "2 1/3"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "The sequence increases by one quarter.\nHint: Keep the denominator and add one to the numerator.",
+    "explanation": "The midpoint is two wholes plus a half, which is 2 1/2. The fraction 2/2 equals 1 and belongs at a different point.\nHint: Use the whole-number labels on either side.",
     "structuredExplanation": {
-      "summary": "The sequence increases by one quarter.",
-      "hint": "Keep the denominator and add one to the numerator."
+      "summary": "The midpoint is two wholes plus a half, which is 2 1/2. The fraction 2/2 equals 1 and belongs at a different point.",
+      "hint": "Use the whole-number labels on either side."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +382,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-013",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction number line",
+    "skill": "draw thirds and rename",
     "printable": true,
-    "type": "single",
-    "question": "During a transport survey, which number is at 5 quarter-steps from zero?",
-    "audioPrompt": "During a transport survey, which number is at 5 quarter-steps from zero?",
-    "visual": "During a transport survey: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a transport survey: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-013\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Five thirds are 1 2/3; eight thirds are 2 2/3. Each whole contains three thirds. Regrouping the thirds changes the name, not the location.",
+    "acceptanceNote": "Require nine equal intervals from 0 to 3, correctly positioned 5/3 = 1 2/3 and 8/3 = 2 2/3, and an explanation that whole groups of three thirds are regrouped without changing the amount.",
+    "responseInstructions": "Show your work on paper. Ask an adult to check the actual drawing, labels and explanation against the model answer.",
+    "completionLabel": "My written work and drawing are ready for an adult to check.",
+    "question": "Draw a line from 0 to 3 in thirds. Mark 5/3 and 8/3. Label each point with its mixed numeral and explain why each pair of names shares a point.",
+    "audioPrompt": "Draw a line from 0 to 3 in thirds. Mark 5/3 and 8/3. Label each point with its mixed numeral and explain why each pair of names shares a point.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-013",
-      "alt_text": "During a transport survey: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "1 1/4",
-      "5/2",
-      "1 1/2"
-    ],
-    "correct": 0,
-    "explanation": "Each step adds one quarter.\nHint: Count four quarter-steps for each whole.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 13,
+    "correct": "Five thirds are 1 2/3; eight thirds are 2 2/3. Each whole contains three thirds. Regrouping the thirds changes the name, not the location.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Each step adds one quarter.",
-      "hint": "Count four quarter-steps for each whole."
+      "summary": "Five thirds are 1 2/3; eight thirds are 2 2/3. Each whole contains three thirds. Regrouping the thirds changes the name, not the location.",
+      "hint": "First mark the whole numbers at three-third intervals."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +414,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-014",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction sequences",
+    "skill": "draw quarter backward count",
     "printable": true,
-    "type": "single",
-    "question": "At a strategy tournament, what comes next: 6/4, 7/4, 8/4?",
-    "audioPrompt": "At a strategy tournament, what comes next: 6/4, 7/4, 8/4?",
-    "visual": "At a strategy tournament: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At a strategy tournament: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-014\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The five landings are 1 3/4, 1 1/2, 1 1/4, 1 and 3/4. Each jump is still one quarter when the count passes a whole number.",
+    "acceptanceNote": "Inspect five equal quarter-sized leftward jumps and landings 1 3/4, 1 1/2, 1 1/4, 1, 3/4. The final point must appear left of 1. Accept 1 2/4 for 1 1/2.",
+    "responseInstructions": "Show your work on paper. Ask an adult to check the actual drawing, labels and explanation against the model answer.",
+    "completionLabel": "My written work and drawing are ready for an adult to check.",
+    "question": "Draw a line showing quarters from 1 to 2. Start at 2 and draw five quarter-jumps left, extending the line as needed. Label each landing.",
+    "audioPrompt": "Draw a line showing quarters from 1 to 2. Start at 2 and draw five quarter-jumps left, extending the line as needed. Label each landing.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-014",
-      "alt_text": "At a strategy tournament: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "9/8",
-      "9/4",
-      "10/4"
-    ],
-    "correct": 1,
-    "explanation": "The sequence increases by one quarter.\nHint: Keep the denominator and add one to the numerator.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 14,
+    "correct": "The five landings are 1 3/4, 1 1/2, 1 1/4, 1 and 3/4. Each jump is still one quarter when the count passes a whole number.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The sequence increases by one quarter.",
-      "hint": "Keep the denominator and add one to the numerator."
+      "summary": "The five landings are 1 3/4, 1 1/2, 1 1/4, 1 and 3/4. Each jump is still one quarter when the count passes a whole number.",
+      "hint": "Do not count 2 as a landing; it is the starting point."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +446,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-015",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction number line",
+    "skill": "construct fifths nonzero",
     "printable": true,
-    "type": "single",
-    "question": "While planning a community garden, which number is at 7 quarter-steps from zero?",
-    "audioPrompt": "While planning a community garden, which number is at 7 quarter-steps from zero?",
-    "visual": "While planning a community garden: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a community garden: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-015\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "Two wholes are ten fifths. Thus 2 1/5 = 11/5 and 2 4/5 = 14/5. They are one and four fifth-steps after 2.",
+    "acceptanceNote": "Require five equal intervals in the one-unit span, the requested points at the first and fourth interior ticks, and labels 11/5 and 14/5.",
+    "responseInstructions": "Show your work on paper. Ask an adult to check the actual drawing, labels and explanation against the model answer.",
+    "completionLabel": "My written work and drawing are ready for an adult to check.",
+    "question": "Draw a number line from 2 to 3. Divide it into fifths and label 2 1/5 and 2 4/5. Write the improper fraction for each point.",
+    "audioPrompt": "Draw a number line from 2 to 3. Divide it into fifths and label 2 1/5 and 2 4/5. Write the improper fraction for each point.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-015",
-      "alt_text": "While planning a community garden: a Year 4 fraction number line reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "7/2",
-      "1 3/2",
-      "1 3/4"
-    ],
-    "correct": 2,
-    "explanation": "Each step adds one quarter.\nHint: Count four quarter-steps for each whole.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 15,
+    "correct": "Two wholes are ten fifths. Thus 2 1/5 = 11/5 and 2 4/5 = 14/5. They are one and four fifth-steps after 2.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "Each step adds one quarter.",
-      "hint": "Count four quarter-steps for each whole."
+      "summary": "Two wholes are ten fifths. Thus 2 1/5 = 11/5 and 2 4/5 = 14/5. They are one and four fifth-steps after 2.",
+      "hint": "Include the ten fifths already contained in 2."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +478,31 @@ window.skillrTestQuestions = [
     "id": "ac9m4n04-t-016",
     "curriculumCode": "AC9M4N04",
     "bank": "test",
-    "skill": "fraction sequences",
+    "skill": "represent two thirds jumps",
     "printable": true,
-    "type": "single",
-    "question": "In a design exhibition, what comes next: 1/4, 2/4, 3/4?",
-    "audioPrompt": "In a design exhibition, what comes next: 1/4, 2/4, 3/4?",
-    "visual": "In a design exhibition: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a design exhibition: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer.\"><use href=\"/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-016\"></use></svg>",
+    "type": "self-check",
+    "gradingMode": "adult-review",
+    "responseType": "short_answer",
+    "modelAnswer": "The landings are 2/3, 4/3 = 1 1/3, 6/3 = 2 and 8/3 = 2 2/3. Each jump passes two third-intervals.",
+    "acceptanceNote": "Require nine equal third-intervals, each jump spanning two intervals, and landings 2/3, 4/3 = 1 1/3, 6/3 = 2, 8/3 = 2 2/3. Check the drawing as well as written labels.",
+    "responseInstructions": "Show your work on paper. Ask an adult to check the actual drawing, labels and explanation against the model answer.",
+    "completionLabel": "My written work and drawing are ready for an adult to check.",
+    "question": "Draw a line from 0 to 3 in thirds. Starting at 0, show four jumps of 2/3. Label the landings with fractions and mixed numerals where needed.",
+    "audioPrompt": "Draw a line from 0 to 3 in thirds. Starting at 0, show four jumps of 2/3. Label the landings with fractions and mixed numerals where needed.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year4/math/ac9m4n04.svg#ac9m4n04-t-016",
-      "alt_text": "In a design exhibition: a Year 4 fraction sequences reasoning pathway from representation through reasoning to a checked answer."
+      "type": "none"
     },
-    "answers": [
-      "4/4",
-      "4/8",
-      "5/4"
-    ],
-    "correct": 0,
-    "explanation": "The sequence increases by one quarter.\nHint: Keep the denominator and add one to the numerator.",
+    "answers": [],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 16,
+    "correct": "The landings are 2/3, 4/3 = 1 1/3, 6/3 = 2 and 8/3 = 2 2/3. Each jump passes two third-intervals.",
+    "explanation": "Check the completed work against this guidance before marking the response.",
     "structuredExplanation": {
-      "summary": "The sequence increases by one quarter.",
-      "hint": "Keep the denominator and add one to the numerator."
+      "summary": "The landings are 2/3, 4/3 = 1 1/3, 6/3 = 2 and 8/3 = 2 2/3. Each jump passes two third-intervals.",
+      "hint": "Count two third-intervals for every jump."
     },
     "qualitySchema": "production-v1"
   }
