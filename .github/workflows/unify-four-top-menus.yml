@@ -1,0 +1,44 @@
+name: Unify four top menus
+on: push
+permissions:
+  contents: write
+jobs:
+  fix:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Normalize headers
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          canonical_desktop='<a href="/learn/">Learn</a><a href="/teach/">Teach</a><a href="/products/">Products</a><a href="/homeschooling-australia/">Homeschool</a><a href="/worksheets/">Worksheets &amp; Homework</a><a href="/dashboard/">Dashboard</a><a href="/print-and-go.html">Print &amp; Go</a><a href="/teach-and-explain.html">Teach &amp; Explain</a><a class="updates-link" href="/updates.html">Updates <span class="updates-link__badge">New</span></a>'
+          canonical_mobile='<a href="/learn/">Learn</a><a href="/teach/">Teach</a><a href="/products/">Products</a><a href="/homeschooling-australia/">Homeschool</a><a href="/worksheets/">Worksheets &amp; Homework</a><a href="/dashboard/">Dashboard</a><a href="/print-and-go.html">Print &amp; Go</a><a href="/teach-and-explain.html">Teach &amp; Explain</a><a href="/updates.html">Updates</a><a href="/why-skillrhub.html">Features</a><a href="/about.html">About</a><a href="/contact.html">Contact</a>'
+          for path,active in [('teach/index.html','/teach/'),('products/index.html','/products/')]:
+              p=Path(path); s=p.read_text()
+              import re
+              d=canonical_desktop.replace(f'href="{active}"',f'href="{active}" aria-current="page"',1)
+              m=canonical_mobile.replace(f'href="{active}"',f'href="{active}" aria-current="page"',1)
+              s,n=re.subn(r'<div class="site-header__links">.*?</div>',f'<div class="site-header__links">{d}</div>',s,count=1)
+              assert n==1
+              s,n=re.subn(r'(<details class="site-header__menu"><summary>Menu</summary><div class="site-header__menu-panel">).*?(</div></details>)',r'\1'+m+r'\2',s,count=1)
+              assert n==1
+              p.write_text(s)
+          for path,active in [('print-and-go.html','/print-and-go.html'),('teach-and-explain.html','/teach-and-explain.html')]:
+              p=Path(path); s=p.read_text()
+              import re
+              links=canonical_desktop.replace(' class="updates-link"','').replace('<span class="updates-link__badge">New</span>','').replace(f'href="{active}"',f'href="{active}" aria-current="page"',1)
+              s,n=re.subn(r'(<div class="nav-links">).*?(</div></nav>)',r'\1'+links+r'\2',s,count=1)
+              assert n==1
+              p.write_text(s)
+          PY
+      - name: Commit and clean workflow
+        run: |
+          rm .github/workflows/unify-four-top-menus.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add teach/index.html products/index.html print-and-go.html teach-and-explain.html .github/workflows/unify-four-top-menus.yml
+          git commit -m 'fix: unify top menu on teaching and product pages'
+          git push origin HEAD:${{ github.ref_name }}
