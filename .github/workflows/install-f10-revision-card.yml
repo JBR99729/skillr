@@ -1,0 +1,39 @@
+name: Install F-10 revision card loader
+on: push
+permissions:
+  contents: write
+jobs:
+  install:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Wire revision card and validate
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('pwa-register.js')
+          s=p.read_text()
+          marker='''  legacy.async = false;\n  document.head.appendChild(legacy);\n})();'''
+          insert='''  legacy.async = false;\n  document.head.appendChild(legacy);\n\n  // Teacher-style F-10 Practice/Test revision card.\n  if (/^\\/quiz\\/(?:grade-k|year-(?:[1-9]|10))\\/(?:math|maths|science|english)\\/ac9[a-z0-9]+\\/(?:practice|test)\\/?$/i.test(path)) {\n    const revision = document.createElement("script");\n    revision.src = "/assets/f10-revision-card.js?v=20260909-2";\n    revision.defer = true;\n    document.head.appendChild(revision);\n  }\n})();'''
+          assert marker in s, 'pwa marker not found'
+          assert 'f10-revision-card.js' not in s, 'revision loader already present'
+          p.write_text(s.replace(marker,insert,1))
+          PY
+          node --check assets/f10-revision-card.js
+          node --check pwa-register.js
+          grep -q 'Quick test cheat sheet' assets/f10-revision-card.js
+          grep -q '60-second revision' assets/f10-revision-card.js
+          grep -q 'Don’t lose marks here' assets/f10-revision-card.js
+          grep -q 'skillr-revision-card__visual' assets/f10-revision-card.js
+          grep -q 'f10-revision-card.js' pwa-register.js
+      - name: Commit installation
+        run: |
+          rm .github/workflows/install-f10-revision-card.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add pwa-register.js .github/workflows/install-f10-revision-card.yml
+          git commit -m 'content: wire F-10 Practice and Test revision cards'
+          git push origin HEAD:${{ github.ref_name }}
