@@ -39,6 +39,7 @@ body.skillr-shared-navigation { padding-top: 0; }
 }
 .skillr-site-header .site-header__brand {
   display: flex;
+  width: auto;
   align-items: center;
   flex: 0 0 auto;
   gap: 8px;
