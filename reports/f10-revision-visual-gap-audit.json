@@ -1,0 +1,3482 @@
+[
+  {
+    "code": "AC9M10A01",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Expanding, Factorising, Simplifying and Solving Algebra — AC9M10A01",
+    "topicPath": "/year10/maths/ac9m10a01-expand-factorise-and-simplify-expressions-and-solve-equations/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M10A02",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Linear Inequalities and Simultaneous Equations — AC9M10A02",
+    "topicPath": "/year10/maths/ac9m10a02-solve-linear-inequalities-and-simultaneous-linear-equations-in/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10A03",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Exponential Relations, Graphs and Equations — AC9M10A03",
+    "topicPath": "/year10/maths/ac9m10a03-the-connection-between-algebraic-and-graphical-representations/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10A04",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Growth, Decay and Mathematical Modelling — AC9M10A04",
+    "topicPath": "/year10/maths/ac9m10a04-mathematical-modelling-to-solve-applied-problems-involving/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10A05",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Functions, Relations and Digital Conjectures — AC9M10A05",
+    "topicPath": "/year10/maths/ac9m10a05-experiment-with-functions-and-relations-using-digital-tools/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10M01",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Composite Surface Area and Volume — AC9M10M01",
+    "topicPath": "/year10/maths/ac9m10m01-solve-problems-involving-the-surface-area-and-volume-of/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10M02",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Logarithmic Scales and Orders of Magnitude — AC9M10M02",
+    "topicPath": "/year10/maths/ac9m10m02-interpret-and-use-logarithmic-scales-in-applied-contexts/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10M04",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Measurement Error, Accuracy and Uncertainty — AC9M10M04",
+    "topicPath": "/year10/maths/ac9m10m04-the-impact-of-measurement-errors-on-the-accuracy-of-results/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10M05",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Scale, Proportion and Practical Modelling — AC9M10M05",
+    "topicPath": "/year10/maths/ac9m10m05-mathematical-modelling-to-solve-practical-problems-involving/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M10N01",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Exact Values, Approximation and Rounding Error — AC9M10N01",
+    "topicPath": "/year10/maths/ac9m10n01-the-effect-of-using-approximations-of-real-numbers-in-repeated/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10P01",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Conditional Probability Language — AC9M10P01",
+    "topicPath": "/year10/maths/ac9m10p01-the-language-of-if-then-given-of-knowing-that/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10P02",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Conditional Probability Experiments and Simulations — AC9M10P02",
+    "topicPath": "/year10/maths/ac9m10p02-design-and-conduct-repeated-chance-experiments-and-simulations/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10SP01",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Geometric Proof and Deductive Reasoning — AC9M10SP01",
+    "topicPath": "/year10/maths/ac9m10sp01-apply-deductive-reasoning-to-proofs-involving-shapes-in-the/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10SP02",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Networks and Connectedness — AC9M10SP02",
+    "topicPath": "/year10/maths/ac9m10sp02-interpret-networks-and-network-diagrams-used-to-represent/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M10SP03",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Spatial Algorithms and Design — AC9M10SP03",
+    "topicPath": "/year10/maths/ac9m10sp03-design-test-and-refine-solutions-to-spatial-problems-using/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M10ST01",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Statistical Reports, Bias and Misleading Claims — AC9M10ST01",
+    "topicPath": "/year10/maths/ac9m10st01-analyse-claims-inferences-and-conclusions-of-statistical/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10ST03",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Scatterplots and Bivariate Association — AC9M10ST03",
+    "topicPath": "/year10/maths/ac9m10st03-construct-scatterplots-and-comment-on-the-association-between/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M10ST04",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Two-Way Tables and Categorical Relationships — AC9M10ST04",
+    "topicPath": "/year10/maths/ac9m10st04-construct-two-way-tables-and-discuss-possible-relationship/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M10ST05",
+    "year": "Year 10",
+    "subject": "maths",
+    "title": "Planning Bivariate Statistical Investigations — AC9M10ST05",
+    "topicPath": "/year10/maths/ac9m10st05-plan-and-conduct-statistical-investigations-of-situations-that/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M1A01",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Skip Counting Pattern Sequences",
+    "topicPath": "/year1/maths/ac9m1a01-skip-counting-pattern-sequences/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M1A02",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Repeating Patterns",
+    "topicPath": "/year1/maths/ac9m1a02-repeating-patterns/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M1M01",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Comparing Length, Mass, Capacity and Duration",
+    "topicPath": "/year1/maths/ac9m1m01-comparing-length-mass-capacity-and-duration/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M1M02",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Measuring Length with Informal Units",
+    "topicPath": "/year1/maths/ac9m1m02-measuring-length-with-informal-units/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M1M03",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Time: Years, Months, Weeks, Days and Hours",
+    "topicPath": "/year1/maths/ac9m1m03-time-years-months-weeks-days-and-hours/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M1N01",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Numbers to 120",
+    "topicPath": "/year1/maths/ac9m1n01-numbers-to-120/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M1N02",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Partitioning Tens and Ones",
+    "topicPath": "/year1/maths/ac9m1n02-partitioning-tens-and-ones/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M1N03",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Skip Counting and Equal Groups",
+    "topicPath": "/year1/maths/ac9m1n03-skip-counting-and-equal-groups/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M1N04",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Addition and Subtraction within 20",
+    "topicPath": "/year1/maths/ac9m1n04-addition-and-subtraction-within-20/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M1N05",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Additive Problem Solving and Money",
+    "topicPath": "/year1/maths/ac9m1n05-additive-problem-solving-and-money/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M1N06",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Equal Sharing and Grouping",
+    "topicPath": "/year1/maths/ac9m1n06-equal-sharing-and-grouping/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M1SP02",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Directions and Location",
+    "topicPath": "/year1/maths/ac9m1sp02-directions-and-location/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M1ST01",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Collecting Categorical Data",
+    "topicPath": "/year1/maths/ac9m1st01-collecting-categorical-data/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M1ST02",
+    "year": "Year 1",
+    "subject": "maths",
+    "title": "Representing and Comparing Data",
+    "topicPath": "/year1/maths/ac9m1st02-representing-and-comparing-data/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2A01",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "AC9M2A01: Additive patterns that grow and decrease",
+    "topicPath": "/year2/maths/ac9m2a01-recognise-describe-and-create-additive-patterns-that-increase/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2A02",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "AC9M2A02: Recall and demonstrate proficiency with addition facts to 20; extend and apply facts to develop related subtraction facts",
+    "topicPath": "/year2/maths/ac9m2a02-recall-and-demonstrate-proficiency-with-addition-facts-to-20/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2A03",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "AC9M2A03: Recall and demonstrate proficiency with multiplication facts for twos; extend and apply facts to develop the related division…",
+    "topicPath": "/year2/maths/ac9m2a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2M01",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "Measure and compare length, capacity and mass",
+    "topicPath": "/year2/maths/ac9m2m01-measure-and-compare-objects-based-on-length-capacity-and-mass/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M2M02",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "Halves, quarters and eighths",
+    "topicPath": "/year2/maths/ac9m2m02-common-uses-and-represent-halves-quarters-and-eighths-in/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2M03",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "Dates and days between events",
+    "topicPath": "/year2/maths/ac9m2m03-the-date-and-determine-the-number-of-days-between-events/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M2M04",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "Read analog clocks to the hour, half-hour and quarter-hour",
+    "topicPath": "/year2/maths/ac9m2m04-and-read-the-time-represented-on-an-analog-clock-to/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M2M05",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "Quarter, half, three-quarter and full turns",
+    "topicPath": "/year2/maths/ac9m2m05-identify-describe-and-demonstrate-quarter-half-three-quarter/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M2N01",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "Year 2 Numbers to 1000: Read, Represent and Order",
+    "topicPath": "/year2/maths/ac9m2n01-recognise-represent-and-order-numbers-to-at-least-1000-using/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2N02",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "Year 2 Place Value: Partition, Regroup and Rename Numbers",
+    "topicPath": "/year2/maths/ac9m2n02-partition-rearrange-regroup-and-rename-two-and-three-digit/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2N03",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "Year 2 Fractions: Halves, Quarters and Eighths",
+    "topicPath": "/year2/maths/ac9m2n03-and-describe-one-half-as-one-of-2-equal-parts-of/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2N04",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "AC9M2N04: Addition and subtraction strategies",
+    "topicPath": "/year2/maths/ac9m2n04-add-and-subtract-one-and-two-digit-numbers-representing/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2N05",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "AC9M2N05: Multiplication and division with equal groups and arrays",
+    "topicPath": "/year2/maths/ac9m2n05-multiply-and-divide-by-one-digit-numbers-using-repeated/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2N06",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "AC9M2N06: Mathematical modelling for practical problems",
+    "topicPath": "/year2/maths/ac9m2n06-mathematical-modelling-to-solve-practical-problems-involving/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M2SP01",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "AC9M2SP01: Recognise, compare and classify shapes, referencing the number of sides and using spatial terms such as “opposite”, “parallel”,…",
+    "topicPath": "/year2/maths/ac9m2sp01-recognise-compare-and-classify-shapes-referencing-the-number-of/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2SP02",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "AC9M2SP02: Locate positions in two-dimensional representations of a familiar space; move positions by following directions and pathways",
+    "topicPath": "/year2/maths/ac9m2sp02-locate-positions-in-two-dimensional-representations-of-a/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2ST01",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "AC9M2ST01: Acquire data for categorical variables through surveys, observation, experiment and using digital tools; sort data into…",
+    "topicPath": "/year2/maths/ac9m2st01-acquire-data-for-categorical-variables-through-surveys/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M2ST02",
+    "year": "Year 2",
+    "subject": "maths",
+    "title": "AC9M2ST02: Create different graphical representations of data using software where appropriate; compare the different representations,…",
+    "topicPath": "/year2/maths/ac9m2st02-different-graphical-representations-of-data-using-software/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3A01",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3A01: Recognise and explain the connection between addition and subtraction as inverse operations, apply to partition numbers and find…",
+    "topicPath": "/year3/maths/ac9m3a01-and-explain-the-connection-between-addition-and-subtraction-as/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M3A02",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3A02: Extend and apply knowledge of addition and subtraction facts to 20 to develop efficient mental strategies for computation with…",
+    "topicPath": "/year3/maths/ac9m3a02-extend-and-apply-knowledge-of-addition-and-subtraction-facts-to/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3A03",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3A03: Recall and demonstrate proficiency with multiplication facts for 3, 4, 5 and 10; extend and apply facts to develop the related…",
+    "topicPath": "/year3/maths/ac9m3a03-recall-and-demonstrate-proficiency-with-multiplication-facts/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3M01",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3M01: Identify which metric units are used to measure everyday items; use measurements of familiar items and known units to make…",
+    "topicPath": "/year3/maths/ac9m3m01-which-metric-units-are-used-to-measure-everyday-items-use/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3M02",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3M02: Measure and compare objects using familiar metric units of length, mass and capacity, and instruments with labelled markings",
+    "topicPath": "/year3/maths/ac9m3m02-measure-and-compare-objects-using-familiar-metric-units-of/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3M03",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "Units of Time, Estimation and Duration",
+    "topicPath": "/year3/maths/ac9m3m03-and-use-the-relationship-between-formal-units-of-time-including/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M3M04",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3M04: Telling Time on Analogue and Digital Clocks",
+    "topicPath": "/year3/maths/ac9m3m04-the-relationship-between-the-hours-and-minutes-on-analog-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M3M05",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3M05: Identify angles as measures of turn and compare angles with right angles in everyday situations",
+    "topicPath": "/year3/maths/ac9m3m05-angles-as-measures-of-turn-and-compare-angles-with-right/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3M06",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3M06: Recognise the relationships between dollars and cents and represent money values in different ways",
+    "topicPath": "/year3/maths/ac9m3m06-the-relationships-between-dollars-and-cents-and-represent-money/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M3N01",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3N01: Recognise, represent and order natural numbers using naming and writing conventions for numerals beyond 10 000",
+    "topicPath": "/year3/maths/ac9m3n01-recognise-represent-and-order-natural-numbers-using-naming-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3N02",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3N02: Recognise and represent unit fractions including \\frac12, \\frac13, \\frac14, \\frac15 and \\frac1{10} and their multiples in…",
+    "topicPath": "/year3/maths/ac9m3n02-and-represent-unit-fractions-including-frac12-frac13-frac14/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3N03",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3N03: Add and subtract two- and three-digit numbers using place value to partition, rearrange and regroup numbers to assist in…",
+    "topicPath": "/year3/maths/ac9m3n03-add-and-subtract-two-and-three-digit-numbers-using-place-value/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3N04",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3N04: Multiply and divide one- and two-digit numbers, representing problems using number sentences, diagrams and arrays, and using a…",
+    "topicPath": "/year3/maths/ac9m3n04-multiply-and-divide-one-and-two-digit-numbers-representing/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3N05",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3N05: Estimate the quantity of objects in collections and make estimates when solving problems to determine the reasonableness of…",
+    "topicPath": "/year3/maths/ac9m3n05-estimate-the-quantity-of-objects-in-collections-and-make/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M3N06",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3N06: Use mathematical modelling to solve practical problems involving additive and multiplicative situations including financial…",
+    "topicPath": "/year3/maths/ac9m3n06-mathematical-modelling-to-solve-practical-problems-involving/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3N07",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3N07: Follow and create algorithms involving a sequence of steps and decisions to investigate numbers; describe any emerging patterns",
+    "topicPath": "/year3/maths/ac9m3n07-follow-and-create-algorithms-involving-a-sequence-of-steps-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3P01",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3P01: Identify practical activities and everyday events involving chance; describe possible outcomes and events as ‘likely’ or…",
+    "topicPath": "/year3/maths/ac9m3p01-practical-activities-and-everyday-events-involving-chance/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M3P02",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3P02: Conduct repeated chance experiments; identify and describe possible outcomes, record the results, recognise and discuss the…",
+    "topicPath": "/year3/maths/ac9m3p02-conduct-repeated-chance-experiments-identify-and-describe/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3SP01",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3SP01: Make, compare and classify objects, identifying key features and explaining why these features make them suited to their uses",
+    "topicPath": "/year3/maths/ac9m3sp01-make-compare-and-classify-objects-identifying-key-features-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M3SP02",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3SP02: Interpret and create two-dimensional representations of familiar environments, locating key landmarks and objects relative to…",
+    "topicPath": "/year3/maths/ac9m3sp02-interpret-and-create-two-dimensional-representations-of/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M3ST01",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3ST01: Acquire data for categorical and discrete numerical variables to address a question of interest or purpose by observing,…",
+    "topicPath": "/year3/maths/ac9m3st01-acquire-data-for-categorical-and-discrete-numerical-variables/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3ST02",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3ST02: Create and compare different graphical representations of data sets including using software where appropriate; interpret the…",
+    "topicPath": "/year3/maths/ac9m3st02-and-compare-different-graphical-representations-of-data-sets/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M3ST03",
+    "year": "Year 3",
+    "subject": "maths",
+    "title": "AC9M3ST03: Conduct guided statistical investigations involving the collection, representation and interpretation of data for categorical…",
+    "topicPath": "/year3/maths/ac9m3st03-conduct-guided-statistical-investigations-involving-the/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M4N05",
+    "year": "Year 4",
+    "subject": "maths",
+    "title": "AC9M4N05: Multiply and divide by multiples and powers of 10",
+    "topicPath": "/year4/maths/ac9m4n05-solve-problems-involving-multiplying-or-dividing-natural/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 3
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M5A01",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5A01: Recognise and explain the connection between multiplication and division as inverse operations and use this to develop families…",
+    "topicPath": "/year5/maths/ac9m5a01-and-explain-the-connection-between-multiplication-and-division/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5A02",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5A02: Find unknown values in numerical equations involving multiplication and division using the properties of numbers and operations",
+    "topicPath": "/year5/maths/ac9m5a02-find-unknown-values-in-numerical-equations-involving/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5M01",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5M01: Choose appropriate metric units when measuring the length, mass and capacity of objects; use smaller units or a combination of…",
+    "topicPath": "/year5/maths/ac9m5m01-choose-appropriate-metric-units-when-measuring-the-length-mass/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M5M02",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5M02: Solve practical problems involving the perimeter and area of regular and irregular shapes using appropriate metric units",
+    "topicPath": "/year5/maths/ac9m5m02-solve-practical-problems-involving-the-perimeter-and-area-of/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5M03",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5M03: Compare 12- and 24-hour time systems and solve practical problems involving the conversion between them",
+    "topicPath": "/year5/maths/ac9m5m03-12-and-24-hour-time-systems-and-solve-practical-problems/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5M04",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5M04: Estimate, construct and measure angles in degrees, using appropriate tools including a protractor, and relate these measures to…",
+    "topicPath": "/year5/maths/ac9m5m04-estimate-construct-and-measure-angles-in-degrees-using/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5N01",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5N01: Interpret, compare and order numbers with more than 2 decimal places, including numbers greater than one, using place value…",
+    "topicPath": "/year5/maths/ac9m5n01-interpret-compare-and-order-numbers-with-more-than-2-decimal/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5N02",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5N02: Express natural numbers as products of their factors, recognise multiples and determine if one number is divisible by another",
+    "topicPath": "/year5/maths/ac9m5n02-express-natural-numbers-as-products-of-their-factors-recognise/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5N03",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5N03: Compare and order fractions with the same and related denominators including mixed numerals, applying knowledge of factors and…",
+    "topicPath": "/year5/maths/ac9m5n03-and-order-fractions-with-the-same-and-related-denominators/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5N04",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5N04: Recognise that 100% represents the complete whole and use percentages to describe, represent and compare relative size; connect…",
+    "topicPath": "/year5/maths/ac9m5n04-that-100-represents-the-complete-whole-and-use-percentages-to/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5N05",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5N05: Solve problems involving addition and subtraction of fractions with the same or related denominators, using different strategies",
+    "topicPath": "/year5/maths/ac9m5n05-solve-problems-involving-addition-and-subtraction-of-fractions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5N06",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5N06: Solve problems involving multiplication of larger numbers by one- or two-digit numbers, choosing efficient calculation…",
+    "topicPath": "/year5/maths/ac9m5n06-solve-problems-involving-multiplication-of-larger-numbers-by/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5N07",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5N07: Solve problems involving division, choosing efficient strategies and using digital tools where appropriate; interpret any…",
+    "topicPath": "/year5/maths/ac9m5n07-solve-problems-involving-division-choosing-efficient-strategies/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5N08",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5N08: Check and explain the reasonableness of solutions to problems including financial contexts using estimation strategies…",
+    "topicPath": "/year5/maths/ac9m5n08-check-and-explain-the-reasonableness-of-solutions-to-problems/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M5N09",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5N09: Use mathematical modelling to solve practical problems involving additive and multiplicative situations including financial…",
+    "topicPath": "/year5/maths/ac9m5n09-mathematical-modelling-to-solve-practical-problems-involving/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5N10",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5N10: Create and use algorithms involving a sequence of steps and decisions and digital tools to experiment with factors, multiples…",
+    "topicPath": "/year5/maths/ac9m5n10-and-use-algorithms-involving-a-sequence-of-steps-and-decisions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5P01",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5P01: List the possible outcomes of chance experiments involving equally likely outcomes and compare to those which are not equally…",
+    "topicPath": "/year5/maths/ac9m5p01-list-the-possible-outcomes-of-chance-experiments-involving/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5P02",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5P02: Conduct repeated chance experiments including those with and without equally likely outcomes, observe and record the results;…",
+    "topicPath": "/year5/maths/ac9m5p02-conduct-repeated-chance-experiments-including-those-with-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5SP01",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5SP01: Connect objects to their nets and build objects from their nets using spatial and geometric reasoning",
+    "topicPath": "/year5/maths/ac9m5sp01-connect-objects-to-their-nets-and-build-objects-from-their/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M5SP02",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5SP02: Construct a grid coordinate system that uses coordinates to locate positions within a space; use coordinates and directional…",
+    "topicPath": "/year5/maths/ac9m5sp02-construct-a-grid-coordinate-system-that-uses-coordinates-to/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5SP03",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5SP03: Describe and perform translations, reflections and rotations of shapes, using dynamic geometric software where appropriate;…",
+    "topicPath": "/year5/maths/ac9m5sp03-and-perform-translations-reflections-and-rotations-of-shapes/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5ST01",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5ST01: Acquire, validate and represent data for nominal and ordinal categorical and discrete numerical variables, to address a…",
+    "topicPath": "/year5/maths/ac9m5st01-acquire-validate-and-represent-data-for-nominal-and-ordinal/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5ST02",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5ST02: Interpret line graphs representing change over time; discuss the relationships that are represented and conclusions that can be…",
+    "topicPath": "/year5/maths/ac9m5st02-interpret-line-graphs-representing-change-over-time-discuss-the/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M5ST03",
+    "year": "Year 5",
+    "subject": "maths",
+    "title": "AC9M5ST03: Plan and conduct statistical investigations by posing questions or identifying a problem and collecting relevant data; choose…",
+    "topicPath": "/year5/maths/ac9m5st03-plan-and-conduct-statistical-investigations-by-posing-questions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6A01",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Growing Patterns and Rational-number Rules",
+    "topicPath": "/year6/maths/ac9m6a01-and-use-rules-that-generate-visually-growing-patterns-and-number/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6A02",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Unknown Values with Brackets and Mixed Operations",
+    "topicPath": "/year6/maths/ac9m6a02-find-unknown-values-in-numerical-equations-involving-brackets/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M6A03",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Algorithms, Decisions and Emerging Patterns",
+    "topicPath": "/year6/maths/ac9m6a03-and-use-algorithms-involving-a-sequence-of-steps-and-decisions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6M01",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Metric Conversions with Decimal Measurements",
+    "topicPath": "/year6/maths/ac9m6m01-convert-between-common-metric-units-of-length-mass-and-capacity/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6M02",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Establishing and Applying the Rectangle Area Formula",
+    "topicPath": "/year6/maths/ac9m6m02-establish-the-formula-for-the-area-of-a-rectangle-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6M03",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Timetables, Itineraries and Journey Duration",
+    "topicPath": "/year6/maths/ac9m6m03-interpret-and-use-timetables-and-itineraries-to-plan-activities/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M6M04",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Angle Relationships on Lines and at Points",
+    "topicPath": "/year6/maths/ac9m6m04-the-relationships-between-angles-on-a-straight-line-angles-at/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6N01",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Integers on Number Lines and the Cartesian Plane",
+    "topicPath": "/year6/maths/ac9m6n01-situations-including-financial-contexts-that-use-integers/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6N02",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Prime, Composite and Square Numbers",
+    "topicPath": "/year6/maths/ac9m6n02-and-describe-the-properties-of-prime-composite-and-square/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M6N03",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Equivalent Fractions on a Common Number Line",
+    "topicPath": "/year6/maths/ac9m6n03-apply-knowledge-of-equivalence-to-compare-order-and-represent/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6N04",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Adding and Subtracting Decimals",
+    "topicPath": "/year6/maths/ac9m6n04-apply-knowledge-of-place-value-to-add-and-subtract-decimals/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M6N05",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Adding and Subtracting Fractions",
+    "topicPath": "/year6/maths/ac9m6n05-solve-problems-involving-addition-and-subtraction-of-fractions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6N06",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Multiplying and Dividing Decimals by Powers of 10",
+    "topicPath": "/year6/maths/ac9m6n06-multiply-and-divide-decimals-by-multiples-of-powers-of-10/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M6N07",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Fractions, Decimals and Percentages of Quantities",
+    "topicPath": "/year6/maths/ac9m6n07-solve-problems-that-require-finding-a-familiar-fraction-decimal/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6N08",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Estimating with Rational Numbers and Percentages",
+    "topicPath": "/year6/maths/ac9m6n08-approximate-numerical-solutions-to-problems-involving-rational/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M6N09",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Mathematical Modelling with Rational Numbers and Percentages",
+    "topicPath": "/year6/maths/ac9m6n09-mathematical-modelling-to-solve-practical-problems-involving/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M6P01",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Probability on a Scale from 0 to 1",
+    "topicPath": "/year6/maths/ac9m6p01-that-probabilities-lie-on-numerical-scales-of-0-1/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6P02",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Repeated Chance Experiments and Simulations",
+    "topicPath": "/year6/maths/ac9m6p02-conduct-repeated-chance-experiments-and-run-simulations-with-an/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M6SP01",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Parallel Cross-sections of Three-dimensional Objects",
+    "topicPath": "/year6/maths/ac9m6sp01-the-parallel-cross-sections-of-objects-and-recognise-their/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M6SP02",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Coordinates in Four Quadrants",
+    "topicPath": "/year6/maths/ac9m6sp02-locate-points-in-the-4-quadrants-of-a-cartesian-plane/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6SP03",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Transformations and Tessellations",
+    "topicPath": "/year6/maths/ac9m6sp03-and-use-combinations-of-transformations-to-create-tessellations/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6ST01",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Comparing Categorical and Numerical Data Sets",
+    "topicPath": "/year6/maths/ac9m6st01-interpret-and-compare-data-sets-for-ordinal-and-nominal/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M6ST02",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Evaluating Statistically Informed Arguments",
+    "topicPath": "/year6/maths/ac9m6st02-statistically-informed-arguments-presented-in-traditional-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M6ST03",
+    "year": "Year 6",
+    "subject": "maths",
+    "title": "Planning and Conducting Statistical Investigations",
+    "topicPath": "/year6/maths/ac9m6st03-plan-and-conduct-statistical-investigations-by-posing-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M9A01",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Exponent Laws with Integer Exponents — AC9M9A01",
+    "topicPath": "/year9/maths/ac9m9a01-apply-the-exponent-laws-to-numerical-expressions-with-integer/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M9A05",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Linear and Quadratic Mathematical Modelling — AC9M9A05",
+    "topicPath": "/year9/maths/ac9m9a05-mathematical-modelling-to-solve-applied-problems-involving/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M9M02",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Scientific Notation for Very Large and Very Small Measurements — AC9M9M02",
+    "topicPath": "/year9/maths/ac9m9m02-solve-problems-involving-very-small-and-very-large-measurements/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M9M04",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Absolute, Relative and Percentage Measurement Error — AC9M9M04",
+    "topicPath": "/year9/maths/ac9m9m04-calculate-and-interpret-absolute-relative-and-percentage-errors/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M9M05",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Direct Proportion, Rates, Ratio and Scale Modelling — AC9M9M05",
+    "topicPath": "/year9/maths/ac9m9m05-mathematical-modelling-to-solve-practical-problems-involving/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M9P02",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Relative Frequency and AND/OR Events — AC9M9P02",
+    "topicPath": "/year9/maths/ac9m9p02-calculate-relative-frequencies-from-given-or-collected-data-to/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M9P03",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Repeated Chance Experiments and Probability Simulation — AC9M9P03",
+    "topicPath": "/year9/maths/ac9m9p03-design-and-conduct-repeated-chance-experiments-and-simulations/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M9SP03",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Geometric Algorithms, Constructions and Theorems — AC9M9SP03",
+    "topicPath": "/year9/maths/ac9m9sp03-design-test-and-refine-algorithms-involving-a-sequence-of-steps/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M9ST01",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Analysing Survey Reports and Population Estimates — AC9M9ST01",
+    "topicPath": "/year9/maths/ac9m9st01-analyse-reports-of-surveys-in-digital-media-and-elsewhere-for/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M9ST02",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Sampling Methods, Sample Variation and Misleading Displays — AC9M9ST02",
+    "topicPath": "/year9/maths/ac9m9st02-analyse-how-different-sampling-methods-can-affect-the-results-of/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9M9ST04",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Choosing and Interpreting Data Displays — AC9M9ST04",
+    "topicPath": "/year9/maths/ac9m9st04-choose-appropriate-forms-of-display-or-visualisation-for-a-given/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9M9ST05",
+    "year": "Year 9",
+    "subject": "maths",
+    "title": "Planning and Conducting Statistical Investigations — AC9M9ST05",
+    "topicPath": "/year9/maths/ac9m9st05-plan-and-conduct-statistical-investigations-involving-the/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9MFA01",
+    "year": "Foundation",
+    "subject": "maths",
+    "title": "AC9MFA01: Recognise, copy and continue repeating patterns represented in different ways",
+    "topicPath": "/foundation/maths/ac9mfa01-recognise-copy-and-continue-repeating-patterns-represented-in/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 4
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9MFM01",
+    "year": "Foundation",
+    "subject": "maths",
+    "title": "AC9MFM01: Identify and compare length, capacity, mass and duration",
+    "topicPath": "/foundation/maths/ac9mfm01-and-compare-attributes-of-objects-and-events-including-length/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 2
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9MFM02",
+    "year": "Foundation",
+    "subject": "maths",
+    "title": "AC9MFM02: Sequence days of the week and times of the day...",
+    "topicPath": "/foundation/maths/ac9mfm02-sequence-days-of-the-week-and-times-of-the-day/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 4
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9MFN02",
+    "year": "Foundation",
+    "subject": "maths",
+    "title": "AC9MFN02: Recognise and name the number of objects within a collection up to 5 using subitising",
+    "topicPath": "/foundation/maths/ac9mfn02-and-name-the-number-of-objects-within-a-collection-up/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9MFN04",
+    "year": "Foundation",
+    "subject": "maths",
+    "title": "AC9MFN04: Partition and combine collections up to 10 using part-part-whole relationships...",
+    "topicPath": "/foundation/maths/ac9mfn04-partition-and-combine-collections-up-to-10-using-part-part/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 4
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9MFN05",
+    "year": "Foundation",
+    "subject": "maths",
+    "title": "AC9MFN05: Represent practical situations involving addition, subtraction and quantification with physical...",
+    "topicPath": "/foundation/maths/ac9mfn05-represent-practical-situations-involving-addition-subtraction/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 3
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9MFN06",
+    "year": "Foundation",
+    "subject": "maths",
+    "title": "AC9MFN06: Represent practical situations that involve equal sharing and grouping with...",
+    "topicPath": "/foundation/maths/ac9mfn06-represent-practical-situations-that-involve-equal-sharing-and/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 3
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9MFSP01",
+    "year": "Foundation",
+    "subject": "maths",
+    "title": "AC9MFSP01: Sort, name and create familiar shapes; recognise and describe familiar...",
+    "topicPath": "/foundation/maths/ac9mfsp01-sort-name-and-create-familiar-shapes-recognise-and-describe/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 1
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9MFSP02",
+    "year": "Foundation",
+    "subject": "maths",
+    "title": "AC9MFSP02: Describe position and location in familiar spaces",
+    "topicPath": "/foundation/maths/ac9mfsp02-the-position-and-location-of-themselves-and-objects-in-relation/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 4
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9MFST01",
+    "year": "Foundation",
+    "subject": "maths",
+    "title": "AC9MFST01: Collect, sort and compare data represented by objects and images...",
+    "topicPath": "/foundation/maths/ac9mfst01-collect-sort-and-compare-data-represented-by-objects-and-images/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 2
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10H01",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10H01: How Scientific Knowledge Is Validated and Refined",
+    "topicPath": "/year10/science/ac9s10h01-scientific-validation-peer-review-evidence/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10H02",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10H02: How Science and Technology Advance Together",
+    "topicPath": "/year10/science/ac9s10h02-science-technology-engineering-advances/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10H03",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10H03: Why Society Adopts Scientific Knowledge and Practices",
+    "topicPath": "/year10/science/ac9s10h03-science-adoption-evidence-trust-values/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10H04",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10H04: How Society Shapes Scientific Research Priorities",
+    "topicPath": "/year10/science/ac9s10h04-society-values-scientific-research-priorities/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10I01",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10I01: Develop Investigable Questions, Hypotheses and Predictions",
+    "topicPath": "/year10/science/ac9s10i01-investigable-questions-hypotheses-predictions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10I02",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10I02: Design Valid, Reproducible Investigations",
+    "topicPath": "/year10/science/ac9s10i02-valid-reproducible-investigations/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10I03",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10I03: Collect Precise, Replicable Data",
+    "topicPath": "/year10/science/ac9s10i03-precise-replicable-data/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10I04",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10I04: Represent Data Without Distortion",
+    "topicPath": "/year10/science/ac9s10i04-data-representations-models-statistics/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10I05",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10I05: Analyse Patterns and Relationships in Evidence",
+    "topicPath": "/year10/science/ac9s10i05-analyse-patterns-relationships-evidence/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10I06",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10I06: Evaluate Validity, Reproducibility and Evidence Quality",
+    "topicPath": "/year10/science/ac9s10i06-validity-reproducibility-evidence-quality/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S10I07",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10I07: Construct Evidence-Based Scientific Arguments",
+    "topicPath": "/year10/science/ac9s10i07-evidence-based-scientific-arguments/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10I08",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10I08: Communicate Scientific Ideas, Findings and Arguments",
+    "topicPath": "/year10/science/ac9s10i08-scientific-communication-audience-purpose/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S10U02",
+    "year": "Year 10",
+    "subject": "science",
+    "title": "AC9S10U02: Evolution by Natural Selection",
+    "topicPath": "/year10/science/ac9s10u02-evolution-natural-selection-evidence/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S1H01",
+    "year": "Year 1",
+    "subject": "science",
+    "title": "Science in Daily Life",
+    "topicPath": "/year1/science/ac9s1h01-science-in-daily-life/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S1I01",
+    "year": "Year 1",
+    "subject": "science",
+    "title": "Questions, Patterns and Predictions",
+    "topicPath": "/year1/science/ac9s1i01-questions-patterns-and-predictions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S1I02",
+    "year": "Year 1",
+    "subject": "science",
+    "title": "Safe Investigation Procedures",
+    "topicPath": "/year1/science/ac9s1i02-safe-investigation-procedures/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S1I03",
+    "year": "Year 1",
+    "subject": "science",
+    "title": "Making and Recording Observations",
+    "topicPath": "/year1/science/ac9s1i03-making-and-recording-observations/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S1I04",
+    "year": "Year 1",
+    "subject": "science",
+    "title": "Sorting Data and Representing Patterns",
+    "topicPath": "/year1/science/ac9s1i04-sorting-data-and-representing-patterns/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S1I05",
+    "year": "Year 1",
+    "subject": "science",
+    "title": "Comparing Observations and Predictions",
+    "topicPath": "/year1/science/ac9s1i05-comparing-observations-and-predictions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S1I06",
+    "year": "Year 1",
+    "subject": "science",
+    "title": "Communicating Scientific Ideas",
+    "topicPath": "/year1/science/ac9s1i06-communicating-scientific-ideas/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S1U01",
+    "year": "Year 1",
+    "subject": "science",
+    "title": "Needs of Plants and Animals",
+    "topicPath": "/year1/science/ac9s1u01-needs-of-plants-and-animals/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S1U02",
+    "year": "Year 1",
+    "subject": "science",
+    "title": "Daily and Seasonal Changes",
+    "topicPath": "/year1/science/ac9s1u02-daily-and-seasonal-changes/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S1U03",
+    "year": "Year 1",
+    "subject": "science",
+    "title": "Pushes and Pulls",
+    "topicPath": "/year1/science/ac9s1u03-pushes-and-pulls/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S2H01",
+    "year": "Year 2",
+    "subject": "science",
+    "title": "AC9S2H01: Describe how people use science in their daily lives, including using patterns to make scientific predictions",
+    "topicPath": "/year2/science/ac9s2h01-how-people-use-science-in-their-daily-lives-including-using/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S2I01",
+    "year": "Year 2",
+    "subject": "science",
+    "title": "AC9S2I01: Pose questions to explore observed simple patterns and relationships and make predictions based on experiences",
+    "topicPath": "/year2/science/ac9s2i01-questions-to-explore-observed-simple-patterns-and-relationships/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S2I02",
+    "year": "Year 2",
+    "subject": "science",
+    "title": "AC9S2I02: Suggest and follow safe procedures to investigate questions and test predictions",
+    "topicPath": "/year2/science/ac9s2i02-and-follow-safe-procedures-to-investigate-questions-and-test/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S2I03",
+    "year": "Year 2",
+    "subject": "science",
+    "title": "AC9S2I03: Make and record observations, including informal measurements, using digital tools as appropriate",
+    "topicPath": "/year2/science/ac9s2i03-and-record-observations-including-informal-measurements-using/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S2I04",
+    "year": "Year 2",
+    "subject": "science",
+    "title": "AC9S2I04: Sort and order data and information and represent patterns, including with provided tables and visual or physical models",
+    "topicPath": "/year2/science/ac9s2i04-and-order-data-and-information-and-represent-patterns-including/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S2I05",
+    "year": "Year 2",
+    "subject": "science",
+    "title": "AC9S2I05: Compare observations with predictions and others’ observations, consider if investigations are fair and identify further…",
+    "topicPath": "/year2/science/ac9s2i05-observations-with-predictions-and-others-observations-consider/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S2I06",
+    "year": "Year 2",
+    "subject": "science",
+    "title": "AC9S2I06: Write and create texts to communicate observations, findings and ideas, using everyday and scientific vocabulary",
+    "topicPath": "/year2/science/ac9s2i06-and-create-texts-to-communicate-observations-findings-and-ideas/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S2U01",
+    "year": "Year 2",
+    "subject": "science",
+    "title": "Earth in the Solar System & Patterns in the Sky",
+    "topicPath": "/year2/science/ac9s2u01-earth-is-a-planet-in-the-solar-system-and-identify/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 4
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S2U02",
+    "year": "Year 2",
+    "subject": "science",
+    "title": "Sound is made by vibrations",
+    "topicPath": "/year2/science/ac9s2u02-different-actions-to-make-sounds-and-how-to-make-a/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S2U03",
+    "year": "Year 2",
+    "subject": "science",
+    "title": "AC9S2U03: Recognise that materials can be changed physically without changing their material composition and explore the effect of…",
+    "topicPath": "/year2/science/ac9s2u03-that-materials-can-be-changed-physically-without-changing-their/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S3H01",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3H01: Examine how people use data to develop scientific explanations",
+    "topicPath": "/year3/science/ac9s3h01-examine-how-people-use-data-to-develop-scientific-explanations/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S3H02",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3H02: Consider how people use scientific explanations to meet a need or solve a problem",
+    "topicPath": "/year3/science/ac9s3h02-consider-how-people-use-scientific-explanations-to-meet-a-need/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S3I01",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3I01: Pose questions to explore observed patterns and relationships and make predictions based on observations",
+    "topicPath": "/year3/science/ac9s3i01-questions-to-explore-observed-patterns-and-relationships-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S3I02",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3I02: Use provided scaffolds to plan and conduct investigations to answer questions or test predictions, including identifying the…",
+    "topicPath": "/year3/science/ac9s3i02-provided-scaffolds-to-plan-and-conduct-investigations-to-answer/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S3I03",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3I03: Follow procedures to make and record observations, including making formal measurements using familiar scaled instruments and…",
+    "topicPath": "/year3/science/ac9s3i03-follow-procedures-to-make-and-record-observations-including/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S3I04",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3I04: Construct and use representations, including tables, simple column graphs and visual or physical models, to organise data and…",
+    "topicPath": "/year3/science/ac9s3i04-construct-and-use-representations-including-tables-simple/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S3I05",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3I05: Compare findings with those of others, consider if investigations were fair, identify questions for further investigation and…",
+    "topicPath": "/year3/science/ac9s3i05-findings-with-those-of-others-consider-if-investigations-were/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S3I06",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3I06: Write and create texts to communicate findings and ideas for identified purposes and audiences, using scientific vocabulary and…",
+    "topicPath": "/year3/science/ac9s3i06-and-create-texts-to-communicate-findings-and-ideas-for/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S3U01",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3U01: Compare characteristics of living and non-living things and examine the differences between the life cycles of plants and animals",
+    "topicPath": "/year3/science/ac9s3u01-characteristics-of-living-and-non-living-things-and-examine-the/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S3U02",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3U02: Compare the observable properties of soils, rocks and minerals and investigate why they are important Earth resources",
+    "topicPath": "/year3/science/ac9s3u02-the-observable-properties-of-soils-rocks-and-minerals-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S3U03",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3U03: Identify sources of heat energy and examine how temperature changes when heat energy is transferred from one object to another",
+    "topicPath": "/year3/science/ac9s3u03-sources-of-heat-energy-and-examine-how-temperature-changes-when/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S3U04",
+    "year": "Year 3",
+    "subject": "science",
+    "title": "AC9S3U04: Investigate the observable properties of solids and liquids and how adding or removing heat energy leads to a change of state",
+    "topicPath": "/year3/science/ac9s3u04-investigate-the-observable-properties-of-solids-and-liquids-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S5H01",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5H01: Examine why advances in science are often the result of collaboration or build on the work of others",
+    "topicPath": "/year5/science/ac9s5h01-examine-why-advances-in-science-are-often-the-result-of/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S5H02",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5H02: Investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make…",
+    "topicPath": "/year5/science/ac9s5h02-investigate-how-scientific-knowledge-is-used-by-individuals-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S5I01",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5I01: Pose investigable questions to identify patterns and test relationships and make reasoned predictions",
+    "topicPath": "/year5/science/ac9s5i01-investigable-questions-to-identify-patterns-and-test/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S5I02",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5I02: Plan and conduct repeatable investigations to answer questions, including, as appropriate, deciding the variables to be changed,…",
+    "topicPath": "/year5/science/ac9s5i02-plan-and-conduct-repeatable-investigations-to-answer-questions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S5I03",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5I03: Use equipment to observe, measure and record data with reasonable precision, using digital tools as appropriate",
+    "topicPath": "/year5/science/ac9s5i03-equipment-to-observe-measure-and-record-data-with-reasonable/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S5I04",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5I04: Construct and use appropriate representations, including tables, graphs and visual or physical models, to organise and process…",
+    "topicPath": "/year5/science/ac9s5i04-construct-and-use-appropriate-representations-including-tables/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S5I05",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5I05: Compare methods and findings with those of others, recognise possible sources of error, pose questions for further investigation…",
+    "topicPath": "/year5/science/ac9s5i05-methods-and-findings-with-those-of-others-recognise-possible/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S5I06",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5I06: Write and create texts to communicate ideas and findings for specific purposes and audiences, including selection of language…",
+    "topicPath": "/year5/science/ac9s5i06-and-create-texts-to-communicate-ideas-and-findings-for-specific/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S5U01",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5U01: Examine how particular structural features and behaviours of living things enable their survival in specific habitats",
+    "topicPath": "/year5/science/ac9s5u01-examine-how-particular-structural-features-and-behaviours-of/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S5U02",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5U02: Describe how weathering, erosion, transportation and deposition cause slow or rapid change to Earth’s surface",
+    "topicPath": "/year5/science/ac9s5u02-how-weathering-erosion-transportation-and-deposition-cause-slow/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S5U03",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5U03: Identify sources of light, recognise that light travels in a straight path and describe how shadows are formed and light can be…",
+    "topicPath": "/year5/science/ac9s5u03-sources-of-light-recognise-that-light-travels-in-a-straight/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S5U04",
+    "year": "Year 5",
+    "subject": "science",
+    "title": "AC9S5U04: Explain observable properties of solids, liquids and gases by modelling the motion and arrangement of particles",
+    "topicPath": "/year5/science/ac9s5u04-explain-observable-properties-of-solids-liquids-and-gases-by/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6H01",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6H01: Examine why advances in science are often the result of collaboration or build on the work of others",
+    "topicPath": "/year6/science/ac9s6h01-examine-why-advances-in-science-are-often-the-result-of/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6H02",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6H02: Investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make…",
+    "topicPath": "/year6/science/ac9s6h02-investigate-how-scientific-knowledge-is-used-by-individuals-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6I01",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6I01: Pose investigable questions to identify patterns and test relationships and make reasoned predictions",
+    "topicPath": "/year6/science/ac9s6i01-investigable-questions-to-identify-patterns-and-test/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6I02",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6I02: Plan and conduct repeatable investigations to answer questions including, as appropriate, deciding the variables to be changed,…",
+    "topicPath": "/year6/science/ac9s6i02-plan-and-conduct-repeatable-investigations-to-answer-questions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6I03",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6I03: Use equipment to observe, measure and record data with reasonable precision, using digital tools as appropriate",
+    "topicPath": "/year6/science/ac9s6i03-equipment-to-observe-measure-and-record-data-with-reasonable/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6I04",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6I04: Construct and use appropriate representations, including tables, graphs and visual or physical models, to organise and process…",
+    "topicPath": "/year6/science/ac9s6i04-construct-and-use-appropriate-representations-including-tables/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6I05",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6I05: Compare methods and findings with those of others, recognise possible sources of error, pose questions for further investigation…",
+    "topicPath": "/year6/science/ac9s6i05-methods-and-findings-with-those-of-others-recognise-possible/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6I06",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6I06: Write and create texts to communicate ideas and findings for specific purposes and audiences, including selection of language…",
+    "topicPath": "/year6/science/ac9s6i06-and-create-texts-to-communicate-ideas-and-findings-for-specific/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6U01",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6U01: Investigate the physical conditions of a habitat and analyse how the growth and survival of living things is affected by…",
+    "topicPath": "/year6/science/ac9s6u01-investigate-the-physical-conditions-of-a-habitat-and-analyse-how/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6U02",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6U02: Describe the movement of Earth and other planets relative to the sun and model how Earth’s tilt, rotation on its axis and…",
+    "topicPath": "/year6/science/ac9s6u02-the-movement-of-earth-and-other-planets-relative-to-the/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6U03",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6U03: Investigate the transfer and transformation of energy in electrical circuits, including the role of circuit components,…",
+    "topicPath": "/year6/science/ac9s6u03-investigate-the-transfer-and-transformation-of-energy-in/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S6U04",
+    "year": "Year 6",
+    "subject": "science",
+    "title": "AC9S6U04: Compare reversible changes, including dissolving and changes of state, and irreversible changes, including cooking and rusting…",
+    "topicPath": "/year6/science/ac9s6u04-reversible-changes-including-dissolving-and-changes-of-state/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S7H01",
+    "year": "Year 7",
+    "subject": "science",
+    "title": "How new evidence and different perspectives change scientific knowledge",
+    "topicPath": "/year7/science/ac9s7h01-explain-how-new-evidence-or-different-perspectives-can-lead-to/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S7H02",
+    "year": "Year 7",
+    "subject": "science",
+    "title": "How cultural perspectives and world views influence scientific knowledge",
+    "topicPath": "/year7/science/ac9s7h02-investigate-how-cultural-perspectives-and-world-views-influence/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S7H03",
+    "year": "Year 7",
+    "subject": "science",
+    "title": "Scientific responses to contemporary issues: benefits, risks and trade-offs",
+    "topicPath": "/year7/science/ac9s7h03-examine-how-proposed-scientific-responses-to-contemporary/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S7H04",
+    "year": "Year 7",
+    "subject": "science",
+    "title": "Science communication: viewpoints, policies and regulations",
+    "topicPath": "/year7/science/ac9s7h04-the-role-of-science-communication-in-informing-individual/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S7I01",
+    "year": "Year 7",
+    "subject": "science",
+    "title": "Investigable Questions, Reasoned Predictions and Hypotheses",
+    "topicPath": "/year7/science/ac9s7i01-develop-investigable-questions-reasoned-predictions-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S7I02",
+    "year": "Year 7",
+    "subject": "science",
+    "title": "Plan and conduct reproducible investigations",
+    "topicPath": "/year7/science/ac9s7i02-plan-and-conduct-reproducible-investigations-to-answer/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S7I03",
+    "year": "Year 7",
+    "subject": "science",
+    "title": "AC9S7I03: Select and use equipment to generate and record data with precision, using digital tools as appropriate",
+    "topicPath": "/year7/science/ac9s7i03-select-and-use-equipment-to-generate-and-record-data-with/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S7I04",
+    "year": "Year 7",
+    "subject": "science",
+    "title": "Select and construct appropriate representations to organise and process data and information",
+    "topicPath": "/year7/science/ac9s7i04-select-and-construct-appropriate-representations-including/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S7I05",
+    "year": "Year 7",
+    "subject": "science",
+    "title": "AC9S7I05: Analyse data and information to describe patterns, trends and relationships and identify anomalies",
+    "topicPath": "/year7/science/ac9s7i05-analyse-data-and-information-to-describe-patterns-trends-and/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S9H01",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Scientific validation, publication and peer review — AC9S9H01",
+    "topicPath": "/year9/science/ac9s9h01-scientific-validation-peer-review-evidence/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S9H02",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Technology enables scientific and engineering advances — AC9S9H02",
+    "topicPath": "/year9/science/ac9s9h02-technology-enables-scientific-advances/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S9H03",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Science adoption: evidence, trust, access and values — AC9S9H03",
+    "topicPath": "/year9/science/ac9s9h03-science-adoption-evidence-trust-values/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S9H04",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Society, values and scientific research priorities — AC9S9H04",
+    "topicPath": "/year9/science/ac9s9h04-society-values-scientific-research-priorities/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9S9I01",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Investigable questions, hypotheses and predictions — AC9S9I01",
+    "topicPath": "/year9/science/ac9s9i01-investigable-questions-hypotheses-predictions/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S9I02",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Plan and conduct valid, reproducible investigations — AC9S9I02",
+    "topicPath": "/year9/science/ac9s9i02-plan-and-conduct-valid-reproducible-investigations-to-answer/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S9I03",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Equipment, precision and replicable data — AC9S9I03",
+    "topicPath": "/year9/science/ac9s9i03-select-and-use-equipment-to-generate-and-record-data-with/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S9I04",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Representing and processing scientific data — AC9S9I04",
+    "topicPath": "/year9/science/ac9s9i04-select-and-construct-appropriate-representations-including/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S9I05",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Analyse patterns, trends, relationships and anomalies — AC9S9I05",
+    "topicPath": "/year9/science/ac9s9i05-analyse-and-connect-a-variety-of-data-and-information-to/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S9I06",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Validity, reproducibility and evidence quality — AC9S9I06",
+    "topicPath": "/year9/science/ac9s9i06-assess-the-validity-and-reproducibility-of-methods-and-evaluate/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S9I07",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Construct evidence-based scientific arguments — AC9S9I07",
+    "topicPath": "/year9/science/ac9s9i07-construct-arguments-based-on-analysis-of-a-variety-of-evidence/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S9I08",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Scientific communication for purpose and audience — AC9S9I08",
+    "topicPath": "/year9/science/ac9s9i08-and-create-texts-to-communicate-ideas-findings-and-arguments/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9S9U02",
+    "year": "Year 9",
+    "subject": "science",
+    "title": "Reproductive cells, organs and species survival — AC9S9U02",
+    "topicPath": "/year9/science/ac9s9u02-reproductive-cells-organs-plants-animals/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 2
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9SFH01",
+    "year": "Foundation",
+    "subject": "science",
+    "title": "AC9SFH01: Explore the ways people make and use observations and questions to learn about the natural world",
+    "topicPath": "/foundation/science/ac9sfh01-the-ways-people-make-and-use-observations-and-questions-to/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 2
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9SFI01",
+    "year": "Foundation",
+    "subject": "science",
+    "title": "AC9SFI01: Pose questions and make predictions based on experiences",
+    "topicPath": "/foundation/science/ac9sfi01-questions-and-make-predictions-based-on-experiences/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 1
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9SFI02",
+    "year": "Foundation",
+    "subject": "science",
+    "title": "AC9SFI02: Engage in investigations safely and make observations using their senses",
+    "topicPath": "/foundation/science/ac9sfi02-engage-in-investigations-safely-and-make-observations-using/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 1
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9SFI03",
+    "year": "Foundation",
+    "subject": "science",
+    "title": "AC9SFI03: Record Observations and Find Patterns",
+    "topicPath": "/foundation/science/ac9sfi03-represent-observations-in-provided-templates-and-identify/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 1
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  },
+  {
+    "code": "AC9SFI04",
+    "year": "Foundation",
+    "subject": "science",
+    "title": "AC9SFI04: Compare Predictions and Observations",
+    "topicPath": "/foundation/science/ac9sfi04-observations-with-predictions-with-guidance/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 1
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9SFI05",
+    "year": "Foundation",
+    "subject": "science",
+    "title": "AC9SFI05: Share Science Ideas and Evidence",
+    "topicPath": "/foundation/science/ac9sfi05-share-questions-predictions-observations-and-ideas-with-others/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 1
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9SFU01",
+    "year": "Foundation",
+    "subject": "science",
+    "title": "Living Things and External Features",
+    "topicPath": "/foundation/science/ac9sfu01-observe-external-features-of-plants-and-animals-and-describe/",
+    "existingCandidates": [
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": false
+  },
+  {
+    "code": "AC9SFU02",
+    "year": "Foundation",
+    "subject": "science",
+    "title": "AC9SFU02: How Objects Move",
+    "topicPath": "/foundation/science/ac9sfu02-how-objects-move-and-how-factors-including-their-size-shape/",
+    "existingCandidates": [
+      {
+        "selector": ".model",
+        "count": 2
+      },
+      {
+        "selector": "table",
+        "count": 1
+      }
+    ],
+    "highValue": true
+  }
+]
