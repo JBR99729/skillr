@@ -1,0 +1,22 @@
+{
+  "code": "AC9S4H02",
+  "descriptor": "consider how people use scientific explanations to meet a need or solve a problem",
+  "elaborations": [
+    "investigating how knowledge of the role of decomposers has helped people design industrial composting systems to manage plant and animal waste",
+    "investigating how First Nations Australians of arid regions of Australia use scientific knowledge to manage precious water resources",
+    "considering how knowledges of plant biology enable First Nations Australians to sustainably harvest and use plants to make tools and weapons, musical instruments, clothing, cosmetics and artworks",
+    "exploring how knowledge of the properties of plastic has influenced people to change how they purchase, use and dispose of plastic products",
+    "examining how people use knowledge of friction to improve car or bicycle safety on slippery surfaces such as wet or icy roads",
+    "investigating how knowledge of magnetic force is used to sort metals in recycling, mining and food processing"
+  ],
+  "jsonld_sha256": "50c24e93a6b099111d058cf296022f6575dc4d92592b3406440e5831bf56bd53",
+  "sources": [
+    "https://www.scootle.edu.au/ec/search?q=AC9S4H02",
+    "https://www.australiancurriculum.edu.au/support-resources/background-information/science_teacher_background_information_AC9S4H02_E2",
+    "https://www.australiancurriculum.edu.au/support-resources/background-information/science_teacher_background_information_AC9S4H02_E3"
+  ],
+  "limits": [
+    "IXL/Khan comparison owned by root, not claimed by author.",
+    "ACARA community examples treated as documented accounts, not verification of current project status."
+  ]
+}

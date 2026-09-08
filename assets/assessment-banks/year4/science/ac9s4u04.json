@@ -200,7 +200,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Hardness only",
+        "text": "Hardness",
         "is_correct": false
       },
       {
@@ -212,15 +212,15 @@
         "is_correct": false
       },
       {
-        "text": "Magnetism",
+        "text": "Flexibility",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Hardness only",
+      "Hardness",
       "Absorbency",
       "Transparency",
-      "Magnetism"
+      "Flexibility"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -330,7 +330,7 @@
         "is_correct": false
       },
       {
-        "text": "Smell",
+        "text": "Flexibility",
         "is_correct": false
       },
       {
@@ -341,7 +341,7 @@
     "answer_texts": [
       "Absorbency",
       "Brittleness",
-      "Smell",
+      "Flexibility",
       "Transparency"
     ],
     "correct_index": 3,
@@ -373,9 +373,9 @@
     "curriculumCode": "AC9S4U04",
     "bank": "practice",
     "skill": "natural_and_made_materials_properties_and_uses",
-    "question": "Which word means how well a material matches a job?",
-    "audio_prompt": "Which word means how well a material matches a job?",
-    "audioPrompt": "Which word means how well a material matches a job?",
+    "question": "A designer says a material is suitable for a job. What does suitable mean?",
+    "audio_prompt": "A designer says a material is suitable for a job. What does suitable mean?",
+    "audioPrompt": "A designer says a material is suitable for a job. What does suitable mean?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -383,27 +383,27 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Decomposition",
+        "text": "It always comes from a plant",
         "is_correct": false
       },
       {
-        "text": "Evaporation",
+        "text": "It has only one property",
         "is_correct": false
       },
       {
-        "text": "Suitability",
+        "text": "Its properties meet the needs of that job",
         "is_correct": true
       },
       {
-        "text": "Precipitation",
+        "text": "It is the newest available material",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Decomposition",
-      "Evaporation",
-      "Suitability",
-      "Precipitation"
+      "It always comes from a plant",
+      "It has only one property",
+      "Its properties meet the needs of that job",
+      "It is the newest available material"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -517,7 +517,7 @@
         "is_correct": false
       },
       {
-        "text": "Melting point only",
+        "text": "Hardness",
         "is_correct": false
       }
     ],
@@ -525,7 +525,7 @@
       "Flexibility",
       "Transparency",
       "Absorbency",
-      "Melting point only"
+      "Hardness"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -566,36 +566,36 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use a bigger sample for the favourite material",
+        "text": "Use a larger piece of one material and equal water",
         "is_correct": false
       },
       {
-        "text": "Pour until one looks best",
+        "text": "Use equal pieces but different water volumes",
         "is_correct": false
       },
       {
-        "text": "Use different times for each sample",
+        "text": "Use equal pieces and water but different soaking times",
         "is_correct": false
       },
       {
-        "text": "Use equal-sized samples and the same water volume",
+        "text": "Use equal-sized samples, equal water volumes and equal soaking times",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Use a bigger sample for the favourite material",
-      "Pour until one looks best",
-      "Use different times for each sample",
-      "Use equal-sized samples and the same water volume"
+      "Use a larger piece of one material and equal water",
+      "Use equal pieces but different water volumes",
+      "Use equal pieces and water but different soaking times",
+      "Use equal-sized samples, equal water volumes and equal soaking times"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A fair absorbency test controls sample size, water amount and time.",
+      "summary": "Control sample dimensions, number of layers, water volume and soaking time. Repeat the comparison to check the result.",
       "hint": "Keep the test conditions same."
     },
     "structuredExplanation": {
-      "summary": "A fair absorbency test controls sample size, water amount and time.",
+      "summary": "Control sample dimensions, number of layers, water volume and soaking time. Repeat the comparison to check the result.",
       "hint": "Keep the test conditions same."
     },
     "stage": "recognise",
@@ -627,11 +627,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It absorbs too much water",
+        "text": "It is transparent and soft under impact",
         "is_correct": false
       },
       {
-        "text": "It is a natural fibre",
+        "text": "It is rigid and stretches far before breaking",
         "is_correct": false
       },
       {
@@ -639,15 +639,15 @@
         "is_correct": true
       },
       {
-        "text": "It is always stretchy",
+        "text": "It is absorbent and flexible like fabric",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It absorbs too much water",
-      "It is a natural fibre",
+      "It is transparent and soft under impact",
+      "It is rigid and stretches far before breaking",
       "It is transparent but brittle and can break sharply",
-      "It is always stretchy"
+      "It is absorbent and flexible like fabric"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -688,7 +688,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Source tells every property",
+        "text": "Its source identifies every safety property",
         "is_correct": false
       },
       {
@@ -696,19 +696,19 @@
         "is_correct": true
       },
       {
-        "text": "Natural materials cannot hurt anyone",
+        "text": "A plant source guarantees that a material is safe to touch",
         "is_correct": false
       },
       {
-        "text": "Made materials are always poisonous",
+        "text": "A manufactured source always makes a material unsafe",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Source tells every property",
+      "Its source identifies every safety property",
       "Safety depends on properties, use and treatment, not source alone",
-      "Natural materials cannot hurt anyone",
-      "Made materials are always poisonous"
+      "A plant source guarantees that a material is safe to touch",
+      "A manufactured source always makes a material unsafe"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -810,15 +810,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "One property decides every job",
+        "text": "One useful property guarantees every requirement",
         "is_correct": false
       },
       {
-        "text": "Colour is the only useful property",
+        "text": "Colour always predicts strength and water resistance",
         "is_correct": false
       },
       {
-        "text": "Testing more than one property makes evidence weaker",
+        "text": "Testing several properties prevents a fair decision",
         "is_correct": false
       },
       {
@@ -827,9 +827,9 @@
       }
     ],
     "answer_texts": [
-      "One property decides every job",
-      "Colour is the only useful property",
-      "Testing more than one property makes evidence weaker",
+      "One useful property guarantees every requirement",
+      "Colour always predicts strength and water resistance",
+      "Testing several properties prevents a fair decision",
       "A product often needs several features such as strength, weight, water resistance and safety"
     ],
     "correct_index": 3,
@@ -871,11 +871,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It is strongly magnetic",
+        "text": "Its fibres let you see clearly through it",
         "is_correct": false
       },
       {
-        "text": "It cannot bend",
+        "text": "Its fibres stay rigid under every load",
         "is_correct": false
       },
       {
@@ -883,15 +883,15 @@
         "is_correct": true
       },
       {
-        "text": "It is transparent like glass",
+        "text": "Its fibres always prevent water from entering",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It is strongly magnetic",
-      "It cannot bend",
+      "Its fibres let you see clearly through it",
+      "Its fibres stay rigid under every load",
       "Its fibres can absorb water and feel flexible",
-      "It is transparent like glass"
+      "Its fibres always prevent water from entering"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -932,7 +932,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Steel is not a material",
+        "text": "Strength automatically makes a material comfortable",
         "is_correct": false
       },
       {
@@ -940,19 +940,19 @@
         "is_correct": true
       },
       {
-        "text": "Strong materials are always suitable",
+        "text": "The heaviest material is always the most comfortable",
         "is_correct": false
       },
       {
-        "text": "Steel absorbs all rain instantly",
+        "text": "Its metal origin proves that it cannot keep rain out",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Steel is not a material",
+      "Strength automatically makes a material comfortable",
       "Its weight and stiffness may make it uncomfortable",
-      "Strong materials are always suitable",
-      "Steel absorbs all rain instantly"
+      "The heaviest material is always the most comfortable",
+      "Its metal origin proves that it cannot keep rain out"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -997,23 +997,23 @@
         "is_correct": true
       },
       {
-        "text": "Different sizes make the test automatically fair",
+        "text": "Larger samples always give the fairest comparison",
         "is_correct": false
       },
       {
-        "text": "The biggest sample is always weakest",
+        "text": "Using different lengths removes every other difference",
         "is_correct": false
       },
       {
-        "text": "Size has no possible effect",
+        "text": "Dimensions cannot affect bending or breaking",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Different sizes could change results for reasons other than the material",
-      "Different sizes make the test automatically fair",
-      "The biggest sample is always weakest",
-      "Size has no possible effect"
+      "Larger samples always give the fairest comparison",
+      "Using different lengths removes every other difference",
+      "Dimensions cannot affect bending or breaking"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -1054,15 +1054,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It is always the strongest material on Earth",
+        "text": "Every plastic has the same strength and heat resistance",
         "is_correct": false
       },
       {
-        "text": "It is a natural fibre",
+        "text": "Its name alone proves it is suitable for food",
         "is_correct": false
       },
       {
-        "text": "It dissolves in food",
+        "text": "Its flexibility means it must absorb water",
         "is_correct": false
       },
       {
@@ -1071,9 +1071,9 @@
       }
     ],
     "answer_texts": [
-      "It is always the strongest material on Earth",
-      "It is a natural fibre",
-      "It dissolves in food",
+      "Every plastic has the same strength and heat resistance",
+      "Its name alone proves it is suitable for food",
+      "Its flexibility means it must absorb water",
       "It can be light, mouldable and water-resistant"
     ],
     "correct_index": 3,
@@ -1115,11 +1115,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Bridge materials do not need evidence",
+        "text": "Colour directly measures the load a bridge can hold",
         "is_correct": false
       },
       {
-        "text": "All favourite materials are strongest",
+        "text": "A favourite colour proves the material is safe",
         "is_correct": false
       },
       {
@@ -1127,15 +1127,15 @@
         "is_correct": true
       },
       {
-        "text": "Colour always proves strength",
+        "text": "Matching the paint removes the need for load evidence",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Bridge materials do not need evidence",
-      "All favourite materials are strongest",
+      "Colour directly measures the load a bridge can hold",
+      "A favourite colour proves the material is safe",
       "Preference does not show strength, durability or safety",
-      "Colour always proves strength"
+      "Matching the paint removes the need for load evidence"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -1176,7 +1176,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It becomes a soft fibre",
+        "text": "It always returns to its shape after impact",
         "is_correct": false
       },
       {
@@ -1184,19 +1184,19 @@
         "is_correct": true
       },
       {
-        "text": "It will always stretch safely",
+        "text": "Its hardness guarantees that it cannot crack",
         "is_correct": false
       },
       {
-        "text": "It absorbs every impact without damage",
+        "text": "It must bend smoothly around every impact",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It becomes a soft fibre",
+      "It always returns to its shape after impact",
       "It may crack or break suddenly when hit",
-      "It will always stretch safely",
-      "It absorbs every impact without damage"
+      "Its hardness guarantees that it cannot crack",
+      "It must bend smoothly around every impact"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -1288,9 +1288,9 @@
     "curriculumCode": "AC9S4U04",
     "bank": "practice",
     "skill": "natural_and_made_materials_properties_and_uses",
-    "question": "Which test best compares water resistance?",
-    "audio_prompt": "Which test best compares water resistance?",
-    "audioPrompt": "Which test best compares water resistance?",
+    "question": "Which test best compares whether water passes through two fabric samples?",
+    "audio_prompt": "Which test best compares whether water passes through two fabric samples?",
+    "audioPrompt": "Which test best compares whether water passes through two fabric samples?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1298,36 +1298,36 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Pour more water on the preferred sample",
+        "text": "Use a double layer of one fabric and a single layer of the other",
         "is_correct": false
       },
       {
-        "text": "Use cloth for one test and metal for another with no controls",
+        "text": "Use different amounts of water on each fabric",
         "is_correct": false
       },
       {
-        "text": "Judge only by colour after one second",
+        "text": "Wait longer before checking one fabric",
         "is_correct": false
       },
       {
-        "text": "Place equal water drops on equal-sized samples for the same time",
+        "text": "Place equal water drops on equal-sized, single-layer samples for the same time",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Pour more water on the preferred sample",
-      "Use cloth for one test and metal for another with no controls",
-      "Judge only by colour after one second",
-      "Place equal water drops on equal-sized samples for the same time"
+      "Use a double layer of one fabric and a single layer of the other",
+      "Use different amounts of water on each fabric",
+      "Wait longer before checking one fabric",
+      "Place equal water drops on equal-sized, single-layer samples for the same time"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Fair water-resistance comparisons keep important conditions the same.",
+      "summary": "Use the same conditions and check underneath each sample for water. This tests resistance to water passing through, which differs from simply soaking water up.",
       "hint": "Same water, size and time."
     },
     "structuredExplanation": {
-      "summary": "Fair water-resistance comparisons keep important conditions the same.",
+      "summary": "Use the same conditions and check underneath each sample for water. This tests resistance to water passing through, which differs from simply soaking water up.",
       "hint": "Same water, size and time."
     },
     "stage": "discriminate",
@@ -1349,9 +1349,9 @@
     "curriculumCode": "AC9S4U04",
     "bank": "practice",
     "skill": "natural_and_made_materials_properties_and_uses",
-    "question": "Which property is most relevant for choosing window glass?",
-    "audio_prompt": "Which property is most relevant for choosing window glass?",
-    "audioPrompt": "Which property is most relevant for choosing window glass?",
+    "question": "A sheet lets light through, but you cannot see shapes clearly through it. Which description best fits?",
+    "audio_prompt": "A sheet lets light through, but you cannot see shapes clearly through it. Which description best fits?",
+    "audioPrompt": "A sheet lets light through, but you cannot see shapes clearly through it. Which description best fits?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1359,37 +1359,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Stretchiness",
+        "text": "Opaque: no light passes through",
         "is_correct": false
       },
       {
-        "text": "Flavour",
+        "text": "Transparent: objects are seen clearly",
         "is_correct": false
       },
       {
-        "text": "Transparency",
+        "text": "Translucent: light passes through but details are unclear",
         "is_correct": true
       },
       {
-        "text": "Absorbency",
+        "text": "Absorbent: it takes in water",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Stretchiness",
-      "Flavour",
-      "Transparency",
-      "Absorbency"
+      "Opaque: no light passes through",
+      "Transparent: objects are seen clearly",
+      "Translucent: light passes through but details are unclear",
+      "Absorbent: it takes in water"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Windows need to let light pass through clearly.",
-      "hint": "See through."
+      "summary": "A translucent material transmits light without a clear view. Transparent means you can see objects clearly through it.",
+      "hint": "Distinguish letting light through from a clear view."
     },
     "structuredExplanation": {
-      "summary": "Windows need to let light pass through clearly.",
-      "hint": "See through."
+      "summary": "A translucent material transmits light without a clear view. Transparent means you can see objects clearly through it.",
+      "hint": "Distinguish letting light through from a clear view."
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -1410,47 +1410,48 @@
     "curriculumCode": "AC9S4U04",
     "bank": "practice",
     "skill": "natural_and_made_materials_properties_and_uses",
-    "question": "Which pair best matches material and useful property?",
-    "audio_prompt": "Which pair best matches material and useful property?",
-    "audioPrompt": "Which pair best matches material and useful property?",
+    "question": "A shoe has a tough rubber sole and a soft fabric lining. Why use these different materials?",
+    "audio_prompt": "A shoe has a tough rubber sole and a soft fabric lining. Why use these different materials?",
+    "audioPrompt": "A shoe has a tough rubber sole and a soft fabric lining. Why use these different materials?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04/shoe-materials.svg#model",
+      "alt_text": "A shoe with fabric upper, soft lining and rubber sole."
     },
-    "visualHtml": "",
+    "visualHtml": "<figure><img src=\"/assets/assessment-visuals/year4/science/ac9s4u04/shoe-materials.svg\" alt=\"A shoe with fabric upper, soft lining and rubber sole.\" width=\"640\" height=\"300\" style=\"display:block;max-width:100%;height:auto\"><figcaption>A shoe with fabric upper, soft lining and rubber sole.</figcaption></figure>",
     "answers": [
       {
-        "text": "Plastic lid — absorbency as main need",
+        "text": "Every part of a shoe has exactly the same job",
         "is_correct": false
       },
       {
-        "text": "Steel cable — strength",
+        "text": "The sole resists wear while the lining feels comfortable",
         "is_correct": true
       },
       {
-        "text": "Glass jar — stretchiness",
+        "text": "The lining must be as rigid as the sole",
         "is_correct": false
       },
       {
-        "text": "Cotton towel — magnetism",
+        "text": "Using two materials removes all need for testing",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Plastic lid — absorbency as main need",
-      "Steel cable — strength",
-      "Glass jar — stretchiness",
-      "Cotton towel — magnetism"
+      "Every part of a shoe has exactly the same job",
+      "The sole resists wear while the lining feels comfortable",
+      "The lining must be as rigid as the sole",
+      "Using two materials removes all need for testing"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Steel is often used in cables where strength is required.",
-      "hint": "Material to function."
+      "summary": "Different parts do different jobs. A sole needs grip and wear resistance; a lining needs flexibility and comfort.",
+      "hint": "Match each material to the job of its part."
     },
     "structuredExplanation": {
-      "summary": "Steel is often used in cables where strength is required.",
-      "hint": "Material to function."
+      "summary": "Different parts do different jobs. A sole needs grip and wear resistance; a lining needs flexibility and comfort.",
+      "hint": "Match each material to the job of its part."
     },
     "stage": "discriminate",
     "difficulty": 2,
@@ -1542,15 +1543,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The brighter colour must be waterproof",
+        "text": "A brighter colour proves better water resistance",
         "is_correct": false
       },
       {
-        "text": "All fabrics have identical properties",
+        "text": "All fabrics resist water to the same extent",
         "is_correct": false
       },
       {
-        "text": "Testing removes the need to choose",
+        "text": "The first sample tested must be the best",
         "is_correct": false
       },
       {
@@ -1559,9 +1560,9 @@
       }
     ],
     "answer_texts": [
-      "The brighter colour must be waterproof",
-      "All fabrics have identical properties",
-      "Testing removes the need to choose",
+      "A brighter colour proves better water resistance",
+      "All fabrics resist water to the same extent",
+      "The first sample tested must be the best",
       "One may be more water-resistant while the other may be more breathable or flexible"
     ],
     "correct_index": 3,
@@ -1603,11 +1604,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Made materials can never be useful",
+        "text": "All made materials have identical properties",
         "is_correct": false
       },
       {
-        "text": "Made materials have no properties",
+        "text": "Made materials cannot contain natural ingredients",
         "is_correct": false
       },
       {
@@ -1615,15 +1616,15 @@
         "is_correct": true
       },
       {
-        "text": "Made materials are only plastic bags",
+        "text": "Only plastics are made or processed by people",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Made materials can never be useful",
-      "Made materials have no properties",
+      "All made materials have identical properties",
+      "Made materials cannot contain natural ingredients",
       "Made materials can include glass, alloys, paper and plastics",
-      "Made materials are only plastic bags"
+      "Only plastics are made or processed by people"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -1729,23 +1730,23 @@
         "is_correct": true
       },
       {
-        "text": "Sample A was the favourite colour",
+        "text": "Sample A was tested using twice the area",
         "is_correct": false
       },
       {
-        "text": "Sample B had a shorter name",
+        "text": "Sample A soaked for longer than Sample B",
         "is_correct": false
       },
       {
-        "text": "Sample A looked newer",
+        "text": "Sample A was supplied with more water than Sample B",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Sample A took in more millilitres of water under the same conditions",
-      "Sample A was the favourite colour",
-      "Sample B had a shorter name",
-      "Sample A looked newer"
+      "Sample A was tested using twice the area",
+      "Sample A soaked for longer than Sample B",
+      "Sample A was supplied with more water than Sample B"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -1786,15 +1787,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A material is called blue",
+        "text": "A bottle is light and easy to carry",
         "is_correct": false
       },
       {
-        "text": "A ruler is longer than a pencil",
+        "text": "A material is rigid and holds its shape",
         "is_correct": false
       },
       {
-        "text": "A desk has four legs",
+        "text": "A fabric is absorbent and useful for drying",
         "is_correct": false
       },
       {
@@ -1803,9 +1804,9 @@
       }
     ],
     "answer_texts": [
-      "A material is called blue",
-      "A ruler is longer than a pencil",
-      "A desk has four legs",
+      "A bottle is light and easy to carry",
+      "A material is rigid and holds its shape",
+      "A fabric is absorbent and useful for drying",
       "A bottle material is light but scratches more easily"
     ],
     "correct_index": 3,
@@ -1837,9 +1838,9 @@
     "curriculumCode": "AC9S4U04",
     "bank": "practice",
     "skill": "natural_and_made_materials_properties_and_uses",
-    "question": "You need a lunchbox that will not leak in a school bag. Which property matters most?",
-    "audio_prompt": "You need a lunchbox that will not leak in a school bag. Which property matters most?",
-    "audioPrompt": "You need a lunchbox that will not leak in a school bag. Which property matters most?",
+    "question": "The walls of a lunchbox must stop liquid passing through them. Which property matters most?",
+    "audio_prompt": "The walls of a lunchbox must stop liquid passing through them. Which property matters most?",
+    "audioPrompt": "The walls of a lunchbox must stop liquid passing through them. Which property matters most?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1872,11 +1873,11 @@
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "A non-leaking lunchbox needs material that resists water or liquid passing through.",
+      "summary": "Water resistance matters for the walls. A complete non-leaking lunchbox also needs sound joins and a well-fitting lid; material choice alone does not prove the whole box will not leak.",
       "hint": "Stop liquid getting out."
     },
     "structuredExplanation": {
-      "summary": "A non-leaking lunchbox needs material that resists water or liquid passing through.",
+      "summary": "Water resistance matters for the walls. A complete non-leaking lunchbox also needs sound joins and a well-fitting lid; material choice alone does not prove the whole box will not leak.",
       "hint": "Stop liquid getting out."
     },
     "stage": "apply",
@@ -1908,7 +1909,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "So no measurement is needed",
+        "text": "So size becomes the changing variable",
         "is_correct": false
       },
       {
@@ -1916,19 +1917,19 @@
         "is_correct": true
       },
       {
-        "text": "So the biggest piece always wins",
+        "text": "So the larger piece can take in more water",
         "is_correct": false
       },
       {
-        "text": "So water changes into glass",
+        "text": "So the water amount no longer needs to be controlled",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "So no measurement is needed",
+      "So size becomes the changing variable",
       "So material performance is compared fairly",
-      "So the biggest piece always wins",
-      "So water changes into glass"
+      "So the larger piece can take in more water",
+      "So the water amount no longer needs to be controlled"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -1973,23 +1974,23 @@
         "is_correct": true
       },
       {
-        "text": "It is always more transparent than glass",
+        "text": "It must be more transparent than every glass",
         "is_correct": false
       },
       {
-        "text": "It is a natural material",
+        "text": "Its plastic source guarantees that it is always reusable",
         "is_correct": false
       },
       {
-        "text": "It absorbs water best",
+        "text": "Its ability to absorb water keeps drinks inside",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "It is lighter and less likely to shatter if dropped",
-      "It is always more transparent than glass",
-      "It is a natural material",
-      "It absorbs water best"
+      "It must be more transparent than every glass",
+      "Its plastic source guarantees that it is always reusable",
+      "Its ability to absorb water keeps drinks inside"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -2030,15 +2031,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Whether it has a nice logo",
+        "text": "Whether it comes in the widest colour range",
         "is_correct": false
       },
       {
-        "text": "Whether it is called cardboard",
+        "text": "Whether its name matches the design name",
         "is_correct": false
       },
       {
-        "text": "Whether it can be folded once",
+        "text": "Whether the dry sheet has the nicest pattern",
         "is_correct": false
       },
       {
@@ -2047,9 +2048,9 @@
       }
     ],
     "answer_texts": [
-      "Whether it has a nice logo",
-      "Whether it is called cardboard",
-      "Whether it can be folded once",
+      "Whether it comes in the widest colour range",
+      "Whether its name matches the design name",
+      "Whether the dry sheet has the nicest pattern",
       "Whether it stays strong and resists water when wet"
     ],
     "correct_index": 3,
@@ -2091,11 +2092,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Taste after washing",
+        "text": "Transparency in bright light",
         "is_correct": false
       },
       {
-        "text": "Magnetism beside a fridge",
+        "text": "Ability to dissolve in water",
         "is_correct": false
       },
       {
@@ -2103,15 +2104,15 @@
         "is_correct": true
       },
       {
-        "text": "Transparency in sunlight",
+        "text": "Absorbency after soaking",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Taste after washing",
-      "Magnetism beside a fridge",
+      "Transparency in bright light",
+      "Ability to dissolve in water",
       "Strength under load",
-      "Transparency in sunlight"
+      "Absorbency after soaking"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -2152,7 +2153,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Drying time is not a material property",
+        "text": "The shirt cannot absorb water if it is natural",
         "is_correct": false
       },
       {
@@ -2160,19 +2161,19 @@
         "is_correct": true
       },
       {
-        "text": "Natural fibres are never useful",
+        "text": "Every natural fibre dries at the same speed",
         "is_correct": false
       },
       {
-        "text": "Made fibres are always unsafe",
+        "text": "A made fibre must be unsuitable for clothing",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Drying time is not a material property",
+      "The shirt cannot absorb water if it is natural",
       "A natural source does not guarantee every useful property",
-      "Natural fibres are never useful",
-      "Made fibres are always unsafe"
+      "Every natural fibre dries at the same speed",
+      "A made fibre must be unsuitable for clothing"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -2274,15 +2275,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Only colour matters for bottles",
+        "text": "The brightest colour guarantees all three needs",
         "is_correct": false
       },
       {
-        "text": "All materials have identical properties",
+        "text": "Every material has exactly the same performance",
         "is_correct": false
       },
       {
-        "text": "Strong materials cannot be safe",
+        "text": "The lightest material is always strongest",
         "is_correct": false
       },
       {
@@ -2291,9 +2292,9 @@
       }
     ],
     "answer_texts": [
-      "Only colour matters for bottles",
-      "All materials have identical properties",
-      "Strong materials cannot be safe",
+      "The brightest colour guarantees all three needs",
+      "Every material has exactly the same performance",
+      "The lightest material is always strongest",
       "No material may be best for every criterion at once"
     ],
     "correct_index": 3,
@@ -2396,7 +2397,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Every product should be heavy",
+        "text": "Every product needs the greatest possible mass",
         "is_correct": false
       },
       {
@@ -2404,19 +2405,19 @@
         "is_correct": true
       },
       {
-        "text": "Strength is never useful",
+        "text": "The strongest material is automatically transparent",
         "is_correct": false
       },
       {
-        "text": "Steel is not a made material",
+        "text": "Natural source and strength mean the same thing",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Every product should be heavy",
+      "Every product needs the greatest possible mass",
       "Different products need different combinations of properties",
-      "Strength is never useful",
-      "Steel is not a made material"
+      "The strongest material is automatically transparent",
+      "Natural source and strength mean the same thing"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -2434,6 +2435,495 @@
     "difficultyTier": "apply",
     "sequence_priority": 40,
     "sequencePriority": 40,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U04-P-041",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U04",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "identify_combinations",
+    "question": "A classroom chair has a steel frame and a plastic seat. Which grouping correctly records its materials?",
+    "audio_prompt": "A classroom chair has a steel frame and a plastic seat. Which grouping correctly records its materials?",
+    "audioPrompt": "A classroom chair has a steel frame and a plastic seat. Which grouping correctly records its materials?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "A combination of metal and plastic",
+        "is_correct": true
+      },
+      {
+        "text": "Only a fibre because people sit on it",
+        "is_correct": false
+      },
+      {
+        "text": "Only steel because it is the strongest part",
+        "is_correct": false
+      },
+      {
+        "text": "A natural material because it is useful",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "A combination of metal and plastic",
+      "Only a fibre because people sit on it",
+      "Only steel because it is the strongest part",
+      "A natural material because it is useful"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "One object can combine materials. Record both the steel frame and plastic seat rather than classify only one part.",
+      "hint": "Name the substances, not the object’s job."
+    },
+    "structuredExplanation": {
+      "summary": "One object can combine materials. Record both the steel frame and plastic seat rather than classify only one part.",
+      "hint": "Name the substances, not the object’s job."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U04-P-042",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U04",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "combination_purpose",
+    "question": "A schoolbag has woven fabric, a metal zip slider and foam padding. Why is the padding a different material?",
+    "audio_prompt": "A schoolbag has woven fabric, a metal zip slider and foam padding. Why is the padding a different material?",
+    "audioPrompt": "A schoolbag has woven fabric, a metal zip slider and foam padding. Why is the padding a different material?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "It makes every part transparent",
+        "is_correct": false
+      },
+      {
+        "text": "It cushions the shoulders while other parts carry or fasten the load",
+        "is_correct": true
+      },
+      {
+        "text": "It replaces the need for strong fabric",
+        "is_correct": false
+      },
+      {
+        "text": "It proves every material has identical properties",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "It makes every part transparent",
+      "It cushions the shoulders while other parts carry or fasten the load",
+      "It replaces the need for strong fabric",
+      "It proves every material has identical properties"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Foam provides cushioning; fabric carries the contents and the zip fastens the opening. Different properties suit different parts.",
+      "hint": "Consider the job of each part."
+    },
+    "structuredExplanation": {
+      "summary": "Foam provides cushioning; fabric carries the contents and the zip fastens the opening. Different properties suit different parts.",
+      "hint": "Consider the job of each part."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U04-P-043",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U04",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "first_nations_properties",
+    "question": "ACARA describes Yir Yoront Peoples using strong, flexible lawyer cane to tie shelter roofing. Which properties help it do this job?",
+    "audio_prompt": "ACARA describes Yir Yoront Peoples using strong, flexible lawyer cane to tie shelter roofing. Which properties help it do this job?",
+    "audioPrompt": "ACARA describes Yir Yoront Peoples using strong, flexible lawyer cane to tie shelter roofing. Which properties help it do this job?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Transparency and brittleness",
+        "is_correct": false
+      },
+      {
+        "text": "High absorbency and a sharp edge",
+        "is_correct": false
+      },
+      {
+        "text": "Strength to hold and flexibility to bend around parts",
+        "is_correct": true
+      },
+      {
+        "text": "Rigidity that prevents any bending",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Transparency and brittleness",
+      "High absorbency and a sharp edge",
+      "Strength to hold and flexibility to bend around parts",
+      "Rigidity that prevents any bending"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "The named example connects material properties to a particular use: a tie needs to bend around parts and hold them together.",
+      "hint": "Link the given properties to the purpose."
+    },
+    "structuredExplanation": {
+      "summary": "The named example connects material properties to a particular use: a tie needs to bend around parts and hold them together.",
+      "hint": "Link the given properties to the purpose."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U04-P-044",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U04",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "design_test_evidence",
+    "question": "A class designs a model shelter to keep a paper figure dry. Which result best tests the design requirement?",
+    "audio_prompt": "A class designs a model shelter to keep a paper figure dry. Which result best tests the design requirement?",
+    "audioPrompt": "A class designs a model shelter to keep a paper figure dry. Which result best tests the design requirement?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "The roof supports a small weight without bending",
+        "is_correct": false
+      },
+      {
+        "text": "The model remains upright on the tray",
+        "is_correct": false
+      },
+      {
+        "text": "The materials can be reused for another model",
+        "is_correct": false
+      },
+      {
+        "text": "The paper figure stays dry during the agreed equal-water test",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "The roof supports a small weight without bending",
+      "The model remains upright on the tray",
+      "The materials can be reused for another model",
+      "The paper figure stays dry during the agreed equal-water test"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "A design test must check the stated need. Keeping the figure dry is direct evidence for this model shelter requirement.",
+      "hint": "What must the model achieve?"
+    },
+    "structuredExplanation": {
+      "summary": "A design test must check the stated need. Keeping the figure dry is direct evidence for this model shelter requirement.",
+      "hint": "What must the model achieve?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U04-P-045",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U04",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "test_and_improve",
+    "question": "A model roof leaks at a join even though its sheet material resists water. What is the best next step?",
+    "audio_prompt": "A model roof leaks at a join even though its sheet material resists water. What is the best next step?",
+    "audioPrompt": "A model roof leaks at a join even though its sheet material resists water. What is the best next step?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Improve the join and repeat the same water test",
+        "is_correct": true
+      },
+      {
+        "text": "Decide that every water-resistant sheet absorbs water",
+        "is_correct": false
+      },
+      {
+        "text": "Change every part and skip another test",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a new colour and assume the leak is fixed",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Improve the join and repeat the same water test",
+      "Decide that every water-resistant sheet absorbs water",
+      "Change every part and skip another test",
+      "Choose a new colour and assume the leak is fixed"
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "The whole structure includes joins as well as materials. Improve the observed weak point, then retest under the same conditions.",
+      "hint": "Where did water pass through?"
+    },
+    "structuredExplanation": {
+      "summary": "The whole structure includes joins as well as materials. Improve the observed weak point, then retest under the same conditions.",
+      "hint": "Where did water pass through?"
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U04-P-046",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U04",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "recycling_evidence",
+    "question": "A plastic package has a material identification number. What should you do before putting it in a recycling bin?",
+    "audio_prompt": "A plastic package has a material identification number. What should you do before putting it in a recycling bin?",
+    "audioPrompt": "A plastic package has a material identification number. What should you do before putting it in a recycling bin?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Assume every numbered plastic is accepted everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "Check the current local collection instructions for that item",
+        "is_correct": true
+      },
+      {
+        "text": "Put it in any recycling bin because it is light",
+        "is_correct": false
+      },
+      {
+        "text": "Mix it with food scraps to help the sorting",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Assume every numbered plastic is accepted everywhere",
+      "Check the current local collection instructions for that item",
+      "Put it in any recycling bin because it is light",
+      "Mix it with food scraps to help the sorting"
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "Material identity alone does not establish local recyclability. Check the packaging guidance and current local collection rules.",
+      "hint": "Local collection accepts particular items."
+    },
+    "structuredExplanation": {
+      "summary": "Material identity alone does not establish local recyclability. Check the packaging guidance and current local collection rules.",
+      "hint": "Local collection accepts particular items."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U04-P-047",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U04",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "reuse_alternative",
+    "question": "A class replaces daily single-use plastic cups with durable cups washed and used many times. What is the main intended benefit?",
+    "audio_prompt": "A class replaces daily single-use plastic cups with durable cups washed and used many times. What is the main intended benefit?",
+    "audioPrompt": "A class replaces daily single-use plastic cups with durable cups washed and used many times. What is the main intended benefit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "No water or energy will ever be needed",
+        "is_correct": false
+      },
+      {
+        "text": "Every durable cup can be recycled in every bin",
+        "is_correct": false
+      },
+      {
+        "text": "Fewer cups need to be discarded after one drink",
+        "is_correct": true
+      },
+      {
+        "text": "The reusable cup has no environmental impacts",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "No water or energy will ever be needed",
+      "Every durable cup can be recycled in every bin",
+      "Fewer cups need to be discarded after one drink",
+      "The reusable cup has no environmental impacts"
+    ],
+    "correct_index": 2,
+    "correct": 2,
+    "explanation": {
+      "summary": "Repeated reuse can avoid many one-use cups. Washing and eventual disposal still matter, so the design has benefits and costs.",
+      "hint": "Compare the number discarded after use."
+    },
+    "structuredExplanation": {
+      "summary": "Repeated reuse can avoid many one-use cups. Washing and eventual disposal still matter, so the design has benefits and costs.",
+      "hint": "Compare the number discarded after use."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4U04-P-048",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4U04",
+    "curriculumCode": "AC9S4U04",
+    "bank": "practice",
+    "skill": "interpret_property_data",
+    "question": "Equal samples absorb these amounts under the same test: A 3 mL, B 8 mL and C 1 mL. Which sample best meets an absorbent wiping-cloth requirement?",
+    "audio_prompt": "Equal samples absorb these amounts under the same test: A 3 mL, B 8 mL and C 1 mL. Which sample best meets an absorbent wiping-cloth requirement?",
+    "audioPrompt": "Equal samples absorb these amounts under the same test: A 3 mL, B 8 mL and C 1 mL. Which sample best meets an absorbent wiping-cloth requirement?",
+    "visual": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04/absorbency-data.svg#model",
+      "alt_text": "Equal-sample model results: A 3 mL, B 8 mL, C 1 mL."
+    },
+    "visualHtml": "<figure><img src=\"/assets/assessment-visuals/year4/science/ac9s4u04/absorbency-data.svg\" alt=\"Equal-sample model results: A 3 mL, B 8 mL, C 1 mL.\" width=\"640\" height=\"300\" style=\"display:block;max-width:100%;height:auto\"><figcaption>Equal-sample model results: A 3 mL, B 8 mL, C 1 mL.</figcaption></figure>",
+    "answers": [
+      {
+        "text": "A, because it absorbs less than B",
+        "is_correct": false
+      },
+      {
+        "text": "C, because it absorbs the least",
+        "is_correct": false
+      },
+      {
+        "text": "All three, because the samples are equal sized",
+        "is_correct": false
+      },
+      {
+        "text": "B, because it absorbs the greatest amount in this comparison",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "A, because it absorbs less than B",
+      "C, because it absorbs the least",
+      "All three, because the samples are equal sized",
+      "B, because it absorbs the greatest amount in this comparison"
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "B takes in 8 mL, more than A or C. This evidence supports absorbency for these samples, while strength and comfort could need separate tests.",
+      "hint": "Use the measured property named in the requirement."
+    },
+    "structuredExplanation": {
+      "summary": "B takes in 8 mL, more than A or C. This evidence supports absorbency for these samples, while strength and comfort could need separate tests.",
+      "hint": "Use the measured property named in the requirement."
+    },
+    "stage": "apply",
+    "difficulty": 3,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
     "quality_schema": "skillr-actual-v6",
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
@@ -2517,7 +3007,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Transparency and hardness only",
+        "text": "Transparency and hardness",
         "is_correct": false
       },
       {
@@ -2529,15 +3019,15 @@
         "is_correct": false
       },
       {
-        "text": "Magnetism and flavour",
+        "text": "Rigidity and transparency",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Transparency and hardness only",
+      "Transparency and hardness",
       "Water resistance and flexibility",
       "Brittleness and absorbency",
-      "Magnetism and flavour"
+      "Rigidity and transparency"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -2581,23 +3071,23 @@
         "is_correct": true
       },
       {
-        "text": "It is always stretchy",
+        "text": "It is flexible enough to rebound like a ball",
         "is_correct": false
       },
       {
-        "text": "It is a natural fibre",
+        "text": "Its ability to hold liquid proves impact resistance",
         "is_correct": false
       },
       {
-        "text": "It becomes magnetic when kicked",
+        "text": "It must absorb the drink because it is ceramic",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "It can hold liquid but may break if hit hard",
-      "It is always stretchy",
-      "It is a natural fibre",
-      "It becomes magnetic when kicked"
+      "It is flexible enough to rebound like a ball",
+      "Its ability to hold liquid proves impact resistance",
+      "It must absorb the drink because it is ceramic"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -2637,36 +3127,36 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Use wider strips for the favourite fabric",
+        "text": "Use different strip lengths for each fabric",
         "is_correct": false
       },
       {
-        "text": "Pull one fabric gently and one sharply",
+        "text": "Add the same weights at different speeds",
         "is_correct": false
       },
       {
-        "text": "Stop when the colour looks strong",
+        "text": "Use two layers of one fabric and one of the other",
         "is_correct": false
       },
       {
-        "text": "Use equal-width strips and add weight the same way",
+        "text": "Use strips with the same dimensions and layers; add weights in the same way",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Use wider strips for the favourite fabric",
-      "Pull one fabric gently and one sharply",
-      "Stop when the colour looks strong",
-      "Use equal-width strips and add weight the same way"
+      "Use different strip lengths for each fabric",
+      "Add the same weights at different speeds",
+      "Use two layers of one fabric and one of the other",
+      "Use strips with the same dimensions and layers; add weights in the same way"
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A fair strength test controls sample dimensions and method.",
+      "summary": "Control dimensions, number of layers, support spacing and load method when comparing fabrics. Keep loads small and use adult supervision.",
       "hint": "Same size and method."
     },
     "structuredExplanation": {
-      "summary": "A fair strength test controls sample dimensions and method.",
+      "summary": "Control dimensions, number of layers, support spacing and load method when comparing fabrics. Keep loads small and use adult supervision.",
       "hint": "Same size and method."
     },
     "difficulty": 3,
@@ -2697,11 +3187,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "They always last forever",
+        "text": "Their source proves they have no environmental impact",
         "is_correct": false
       },
       {
-        "text": "They never need processing",
+        "text": "They never need processing before use",
         "is_correct": false
       },
       {
@@ -2709,15 +3199,15 @@
         "is_correct": true
       },
       {
-        "text": "They are always harmless",
+        "text": "Natural origin guarantees the best choice for every product",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "They always last forever",
-      "They never need processing",
+      "Their source proves they have no environmental impact",
+      "They never need processing before use",
       "They still need evidence before judging safety or sustainability",
-      "They are always harmless"
+      "Natural origin guarantees the best choice for every product"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -2747,9 +3237,9 @@
     "curriculumCode": "AC9S4U04",
     "bank": "test",
     "skill": "natural_and_made_materials_properties_and_uses",
-    "question": "Which made material is not plastic?",
-    "audio_prompt": "Which made material is not plastic?",
-    "audioPrompt": "Which made material is not plastic?",
+    "question": "A local collection guide says clean metal cans are accepted but drinking glasses are not. Which action follows that evidence?",
+    "audio_prompt": "A local collection guide says clean metal cans are accepted but drinking glasses are not. Which action follows that evidence?",
+    "audioPrompt": "A local collection guide says clean metal cans are accepted but drinking glasses are not. Which action follows that evidence?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2757,37 +3247,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Plastic bottle cap",
+        "text": "Put both in that recycling bin because both feel hard",
         "is_correct": false
       },
       {
-        "text": "Glass window pane",
+        "text": "Put the clean can in that recycling bin and follow the guide for the glass",
         "is_correct": true
       },
       {
-        "text": "Plastic straw",
+        "text": "Put only the glass in because it is transparent",
         "is_correct": false
       },
       {
-        "text": "Plastic lunch wrap",
+        "text": "Ignore the guide because all made materials are accepted",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Plastic bottle cap",
-      "Glass window pane",
-      "Plastic straw",
-      "Plastic lunch wrap"
+      "Put both in that recycling bin because both feel hard",
+      "Put the clean can in that recycling bin and follow the guide for the glass",
+      "Put only the glass in because it is transparent",
+      "Ignore the guide because all made materials are accepted"
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Glass is a made or processed material, but it is not plastic.",
-      "hint": "Made can mean more than plastic."
+      "summary": "Follow the supplied collection evidence for each item. Being made from glass or metal does not by itself decide local collection.",
+      "hint": "Use the specific guide, not a general guess."
     },
     "structuredExplanation": {
-      "summary": "Glass is a made or processed material, but it is not plastic.",
-      "hint": "Made can mean more than plastic."
+      "summary": "Follow the supplied collection evidence for each item. Being made from glass or metal does not by itself decide local collection.",
+      "hint": "Use the specific guide, not a general guess."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2821,23 +3311,23 @@
         "is_correct": true
       },
       {
-        "text": "Which bottle has the coolest sticker",
+        "text": "The most popular colour among older students",
         "is_correct": false
       },
       {
-        "text": "Which student guesses first",
+        "text": "The container with the largest label",
         "is_correct": false
       },
       {
-        "text": "Whether the bottle name is longest",
+        "text": "The material name that sounds most familiar",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "Results for leak resistance, strength, mass and safety",
-      "Which bottle has the coolest sticker",
-      "Which student guesses first",
-      "Whether the bottle name is longest"
+      "The most popular colour among older students",
+      "The container with the largest label",
+      "The material name that sounds most familiar"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -2927,9 +3417,9 @@
     "curriculumCode": "AC9S4U04",
     "bank": "test",
     "skill": "natural_and_made_materials_properties_and_uses",
-    "question": "Why might cotton be chosen for a tea towel?",
-    "audio_prompt": "Why might cotton be chosen for a tea towel?",
-    "audioPrompt": "Why might cotton be chosen for a tea towel?",
+    "question": "Two cleaning pads absorb the same amount of water. In repeated wet-use tests, Pad A falls apart but Pad B stays together. Which choice best fits a reusable wiping-pad requirement?",
+    "audio_prompt": "Two cleaning pads absorb the same amount of water. In repeated wet-use tests, Pad A falls apart but Pad B stays together. Which choice best fits a reusable wiping-pad requirement?",
+    "audioPrompt": "Two cleaning pads absorb the same amount of water. In repeated wet-use tests, Pad A falls apart but Pad B stays together. Which choice best fits a reusable wiping-pad requirement?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2937,37 +3427,37 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It repels all water forever",
+        "text": "Pad A, because falling apart shows durability",
         "is_correct": false
       },
       {
-        "text": "It is strongly attracted to magnets",
+        "text": "Either pad, because absorbency is the only property that matters",
         "is_correct": false
       },
       {
-        "text": "It can absorb water and bend easily",
+        "text": "Pad B, because it absorbs water and stays together when wet",
         "is_correct": true
       },
       {
-        "text": "It is transparent and brittle",
+        "text": "Neither pad, because reusable pads must never absorb water",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It repels all water forever",
-      "It is strongly attracted to magnets",
-      "It can absorb water and bend easily",
-      "It is transparent and brittle"
+      "Pad A, because falling apart shows durability",
+      "Either pad, because absorbency is the only property that matters",
+      "Pad B, because it absorbs water and stays together when wet",
+      "Neither pad, because reusable pads must never absorb water"
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Cotton fibres can soak up water and are flexible.",
-      "hint": "Absorbent fabric."
+      "summary": "Both pads meet the tested absorbency need, but Pad B also remains intact during wet use. A reusable wiping pad needs more than one useful property.",
+      "hint": "Match both absorbing and staying intact to the job."
     },
     "structuredExplanation": {
-      "summary": "Cotton fibres can soak up water and are flexible.",
-      "hint": "Absorbent fabric."
+      "summary": "Both pads meet the tested absorbency need, but Pad B also remains intact during wet use. A reusable wiping pad needs more than one useful property.",
+      "hint": "Match both absorbing and staying intact to the job."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -2997,7 +3487,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Scratches make it transparent",
+        "text": "A useful property removes every limitation",
         "is_correct": false
       },
       {
@@ -3005,19 +3495,19 @@
         "is_correct": true
       },
       {
-        "text": "Plastic has no useful properties",
+        "text": "Scratching proves that the material has no useful properties",
         "is_correct": false
       },
       {
-        "text": "Flexibility proves it is natural",
+        "text": "Flexibility proves that the material came directly from a plant",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Scratches make it transparent",
+      "A useful property removes every limitation",
       "A trade-off between useful and limiting properties",
-      "Plastic has no useful properties",
-      "Flexibility proves it is natural"
+      "Scratching proves that the material has no useful properties",
+      "Flexibility proves that the material came directly from a plant"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -3051,33 +3541,34 @@
     "audio_prompt": "Which test result best supports water resistance?",
     "audioPrompt": "Which test result best supports water resistance?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4u04/water-resistance.svg#model",
+      "alt_text": "Same five-minute water test: Sample A dry underneath; Sample B wet underneath."
     },
-    "visualHtml": "",
+    "visualHtml": "<figure><img src=\"/assets/assessment-visuals/year4/science/ac9s4u04/water-resistance.svg\" alt=\"Same five-minute water test: Sample A dry underneath; Sample B wet underneath.\" width=\"640\" height=\"300\" style=\"display:block;max-width:100%;height:auto\"><figcaption>Same five-minute water test: Sample A dry underneath; Sample B wet underneath.</figcaption></figure>",
     "answers": [
       {
         "text": "After equal water drops for five minutes, Sample A stayed dry underneath",
         "is_correct": true
       },
       {
-        "text": "Sample A was blue",
+        "text": "Sample A was tested with less water",
         "is_correct": false
       },
       {
-        "text": "Sample A had the smoothest label",
+        "text": "Sample A used three layers instead of one",
         "is_correct": false
       },
       {
-        "text": "Sample A was tested for half the time",
+        "text": "Sample A was checked after half the time",
         "is_correct": false
       }
     ],
     "answer_texts": [
       "After equal water drops for five minutes, Sample A stayed dry underneath",
-      "Sample A was blue",
-      "Sample A had the smoothest label",
-      "Sample A was tested for half the time"
+      "Sample A was tested with less water",
+      "Sample A used three layers instead of one",
+      "Sample A was checked after half the time"
     ],
     "correct_index": 0,
     "correct": 0,
@@ -3117,15 +3608,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It is always magnetic",
+        "text": "Being metal guarantees enough stiffness for any structure",
         "is_correct": false
       },
       {
-        "text": "It is a natural fibre",
+        "text": "Its thinness makes it stronger than every thick material",
         "is_correct": false
       },
       {
-        "text": "It absorbs all food",
+        "text": "Food wrapping requires a material that absorbs the food",
         "is_correct": false
       },
       {
@@ -3134,9 +3625,9 @@
       }
     ],
     "answer_texts": [
-      "It is always magnetic",
-      "It is a natural fibre",
-      "It absorbs all food",
+      "Being metal guarantees enough stiffness for any structure",
+      "Its thinness makes it stronger than every thick material",
+      "Food wrapping requires a material that absorbs the food",
       "It is light and bends easily but lacks enough strength for the frame"
     ],
     "correct_index": 3,
@@ -3177,11 +3668,11 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Does it absorb the most water?",
+        "text": "Does it absorb water quickly enough?",
         "is_correct": false
       },
       {
-        "text": "Can it be torn like tissue?",
+        "text": "Can it tear easily when stretched?",
         "is_correct": false
       },
       {
@@ -3189,15 +3680,15 @@
         "is_correct": true
       },
       {
-        "text": "Is it the teacher’s favourite colour?",
+        "text": "Does it block the view completely?",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Does it absorb the most water?",
-      "Can it be torn like tissue?",
+      "Does it absorb water quickly enough?",
+      "Can it tear easily when stretched?",
       "Is it transparent, impact-resistant and safe near the eyes?",
-      "Is it the teacher’s favourite colour?"
+      "Does it block the view completely?"
     ],
     "correct_index": 2,
     "correct": 2,
@@ -3237,7 +3728,7 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Absorbency cannot be tested",
+        "text": "Absorbency must be guessed without observations",
         "is_correct": false
       },
       {
@@ -3245,19 +3736,19 @@
         "is_correct": true
       },
       {
-        "text": "The test has too many repeats",
+        "text": "The two samples must be the same colour",
         "is_correct": false
       },
       {
-        "text": "Water cannot be measured",
+        "text": "Water volume cannot be compared",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Absorbency cannot be tested",
+      "Absorbency must be guessed without observations",
       "Sample size is not controlled",
-      "The test has too many repeats",
-      "Water cannot be measured"
+      "The two samples must be the same colour",
+      "Water volume cannot be compared"
     ],
     "correct_index": 1,
     "correct": 1,
@@ -3287,9 +3778,9 @@
     "curriculumCode": "AC9S4U04",
     "bank": "test",
     "skill": "natural_and_made_materials_properties_and_uses",
-    "question": "Which material would be poor for a transparent greenhouse roof?",
-    "audio_prompt": "Which material would be poor for a transparent greenhouse roof?",
-    "audioPrompt": "Which material would be poor for a transparent greenhouse roof?",
+    "question": "Which material would fail the requirement for a clear, see-through greenhouse roof?",
+    "audio_prompt": "Which material would fail the requirement for a clear, see-through greenhouse roof?",
+    "audioPrompt": "Which material would fail the requirement for a clear, see-through greenhouse roof?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3322,12 +3813,12 @@
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "An opaque material blocks the light needed for a see-through roof.",
-      "hint": "Greenhouse needs light."
+      "summary": "An opaque tarpaulin blocks a clear view and light. The specified roof needs transparency; some other greenhouse designs use translucent materials.",
+      "hint": "Use the stated clear-view requirement."
     },
     "structuredExplanation": {
-      "summary": "An opaque material blocks the light needed for a see-through roof.",
-      "hint": "Greenhouse needs light."
+      "summary": "An opaque tarpaulin blocks a clear view and light. The specified roof needs transparency; some other greenhouse designs use translucent materials.",
+      "hint": "Use the stated clear-view requirement."
     },
     "difficulty": 3,
     "difficulty_tier": "independent",
@@ -3357,15 +3848,15 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Choose steel because one property always decides",
+        "text": "Choose steel because strength decides every requirement",
         "is_correct": false
       },
       {
-        "text": "Choose plastic because made materials are all the same",
+        "text": "Choose plastic because all plastics perform identically",
         "is_correct": false
       },
       {
-        "text": "Choose by preference only",
+        "text": "Choose the first material without comparing results",
         "is_correct": false
       },
       {
@@ -3374,9 +3865,9 @@
       }
     ],
     "answer_texts": [
-      "Choose steel because one property always decides",
-      "Choose plastic because made materials are all the same",
-      "Choose by preference only",
+      "Choose steel because strength decides every requirement",
+      "Choose plastic because all plastics perform identically",
+      "Choose the first material without comparing results",
       "Choose using evidence against the criteria, including benefits and limitations"
     ],
     "correct_index": 3,

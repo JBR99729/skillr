@@ -3,7 +3,7 @@
 // Keep the authored science models visible when a learner revisits an answer.
 // This adapter is loaded only by reviewed Year 4 Science activity pages.
 document.addEventListener("DOMContentLoaded", () => {
-  const code = location.pathname.match(/\/science\/(ac9s4u0[123])\//)?.[1];
+  const code = location.pathname.match(/\/science\/(ac9s4(?:u0[1-4]|h0[12]))\//)?.[1];
   const bank = window.quizQuestions;
   if (!code || !Array.isArray(bank)) return;
   let result;

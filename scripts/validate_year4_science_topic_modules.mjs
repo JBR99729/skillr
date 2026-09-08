@@ -80,7 +80,7 @@ for (const code of codes) {
   const teacherPage = path.join(ROOT, "year4", "science", unit.slug, "teacher-slides", "index.html");
   const topicHtml = fs.existsSync(topic) ? fs.readFileSync(topic, "utf8") : "";
   const worksheetHtml = fs.existsSync(worksheet) ? fs.readFileSync(worksheet, "utf8") : "";
-  if (["AC9S4U01", "AC9S4U02", "AC9S4U03"].includes(code)) {
+  if (["AC9S4U01", "AC9S4U02", "AC9S4U03", "AC9S4U04", "AC9S4H01", "AC9S4H02"].includes(code)) {
     const classroomHtml = fs.readFileSync(teacherPage, "utf8");
     for (const [label, html] of [["topic", topicHtml], ["classroom", classroomHtml]]) {
       expect(!/<script[^>]+src=["'][^"']*year4-science-(?:data|topic-modules|topic-render|slide)\.js/.test(html), `${code}: ${label} must own static teaching content`);
@@ -137,4 +137,4 @@ expect(typeof pwa === "string" && pwa.length > 0, "Progressive loader missing");
 const liveSlide = fs.readFileSync(path.join(ROOT, "worksheets/year4/science/teacher-slides/live.html"), "utf8");
 expect(liveSlide.includes("teacherDisplayPages") && liveSlide.includes("location.replace(target)"), "Live teacher slide route must redirect to static teacher display pages");
 if (errors.length) { console.error(errors.join("\n")); process.exit(1); }
-console.log(`PASS: Year 4 Science ${codes.length}/12: first three static topic/Classroom sources and eight authored worksheet tasks each; other nine legacy routes; retained legacy exports with 108 unique prompts.`);
+console.log(`PASS: Year 4 Science ${codes.length}/12: six reviewed static topic/Classroom sources and eight authored worksheet tasks each; other six legacy routes; retained legacy exports with 108 unique prompts.`);

@@ -6,10 +6,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which is a measurable criterion for an insulated lunch bottle?",
-    "audio_prompt": "Which is a measurable criterion for an insulated lunch bottle?",
-    "audioPrompt": "Which is a measurable criterion for an insulated lunch bottle?",
+    "skill": "compost",
+    "question": "Why does a composting facility provide suitable moisture and air for many decomposers?",
+    "audio_prompt": "Why does a composting facility provide suitable moisture and air for many decomposers?",
+    "audioPrompt": "Why does a composting facility provide suitable moisture and air for many decomposers?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -17,42 +17,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Water stays below 12°C after 2 hours",
+        "text": "To help them break down suitable organic waste.",
         "is_correct": true
       },
       {
-        "text": "It looks awesome",
+        "text": "To turn every plastic into soil.",
         "is_correct": false
       },
       {
-        "text": "Everyone likes the colour",
+        "text": "To stop all living things growing.",
         "is_correct": false
       },
       {
-        "text": "It is definitely the best",
+        "text": "To replace the need to check the waste.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Water stays below 12°C after 2 hours",
-      "It looks awesome",
-      "Everyone likes the colour",
-      "It is definitely the best"
+      "To help them break down suitable organic waste.",
+      "To turn every plastic into soil.",
+      "To stop all living things growing.",
+      "To replace the need to check the waste."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A measurable criterion can be tested with evidence such as temperature after a set time.",
-      "hint": "Can it be measured?"
+      "summary": "Many decomposers need suitable conditions to break down plant and animal material. Managing those conditions helps process organic waste.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
     "structuredExplanation": {
-      "summary": "A measurable criterion can be tested with evidence such as temperature after a set time.",
-      "hint": "Can it be measured?"
+      "summary": "Many decomposers need suitable conditions to break down plant and animal material. Managing those conditions helps process organic waste.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 1,
     "sequencePriority": 1,
     "quality_schema": "skillr-actual-v6",
@@ -67,10 +67,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which statement describes a constraint?",
-    "audio_prompt": "Which statement describes a constraint?",
-    "audioPrompt": "Which statement describes a constraint?",
+    "skill": "compost",
+    "question": "A council collects food scraps separately from plastic wrappers. What science supports this choice?",
+    "audio_prompt": "A council collects food scraps separately from plastic wrappers. What science supports this choice?",
+    "audioPrompt": "A council collects food scraps separately from plastic wrappers. What science supports this choice?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -78,42 +78,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The bottle kept water at 10°C",
+        "text": "A wrapper breaks down whenever it touches food.",
         "is_correct": false
       },
       {
-        "text": "The group measured temperature",
+        "text": "All waste breaks down at the same rate.",
         "is_correct": false
       },
       {
-        "text": "The lid reduced leaks",
+        "text": "Separating scraps stops decomposition.",
         "is_correct": false
       },
       {
-        "text": "The design must cost less than $20",
+        "text": "Decomposers break down suitable organic scraps; ordinary plastic wrappers do not compost in the same way.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "The bottle kept water at 10°C",
-      "The group measured temperature",
-      "The lid reduced leaks",
-      "The design must cost less than $20"
+      "A wrapper breaks down whenever it touches food.",
+      "All waste breaks down at the same rate.",
+      "Separating scraps stops decomposition.",
+      "Decomposers break down suitable organic scraps; ordinary plastic wrappers do not compost in the same way."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A constraint is a limit such as cost, time, safety or available materials.",
-      "hint": "Limit on the design."
+      "summary": "Separating unsuitable materials helps produce useful compost rather than contaminating it. Follow the facility’s accepted-material list.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
     "structuredExplanation": {
-      "summary": "A constraint is a limit such as cost, time, safety or available materials.",
-      "hint": "Limit on the design."
+      "summary": "Separating unsuitable materials helps produce useful compost rather than contaminating it. Follow the facility’s accepted-material list.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 2,
     "sequencePriority": 2,
     "quality_schema": "skillr-actual-v6",
@@ -128,10 +128,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "What is a prototype?",
-    "audio_prompt": "What is a prototype?",
-    "audioPrompt": "What is a prototype?",
+    "skill": "compost",
+    "question": "Workers turn a compost pile when it lacks air. Which explanation links this action to the need?",
+    "audio_prompt": "Workers turn a compost pile when it lacks air. Which explanation links this action to the need?",
+    "audioPrompt": "Workers turn a compost pile when it lacks air. Which explanation links this action to the need?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -139,42 +139,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A random opinion",
+        "text": "Turning changes plastic into food scraps.",
         "is_correct": false
       },
       {
-        "text": "A safety rule only",
+        "text": "Turning removes the need for moisture.",
         "is_correct": false
       },
       {
-        "text": "An early model used for testing",
+        "text": "Turning can supply air to decomposers that need oxygen.",
         "is_correct": true
       },
       {
-        "text": "A final answer with no evidence",
+        "text": "Turning makes the waste stop changing.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A random opinion",
-      "A safety rule only",
-      "An early model used for testing",
-      "A final answer with no evidence"
+      "Turning changes plastic into food scraps.",
+      "Turning removes the need for moisture.",
+      "Turning can supply air to decomposers that need oxygen.",
+      "Turning makes the waste stop changing."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "A prototype is an early version that can be tested and improved.",
-      "hint": "Test model."
+      "summary": "Many composting decomposers need air; controlled turning or ventilation can support their activity.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
     "structuredExplanation": {
-      "summary": "A prototype is an early version that can be tested and improved.",
-      "hint": "Test model."
+      "summary": "Many composting decomposers need air; controlled turning or ventilation can support their activity.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 3,
     "sequencePriority": 3,
     "quality_schema": "skillr-actual-v6",
@@ -189,10 +189,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which step should come after testing a design?",
-    "audio_prompt": "Which step should come after testing a design?",
-    "audioPrompt": "Which step should come after testing a design?",
+    "skill": "compost",
+    "question": "A facility finds intact plastic forks in finished compost. What should it change?",
+    "audio_prompt": "A facility finds intact plastic forks in finished compost. What should it change?",
+    "audioPrompt": "A facility finds intact plastic forks in finished compost. What should it change?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -200,42 +200,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Stop because testing ruins designs",
+        "text": "Add more ordinary plastic forks.",
         "is_correct": false
       },
       {
-        "text": "Use evidence to improve it",
+        "text": "Improve sorting and check which items the facility can process.",
         "is_correct": true
       },
       {
-        "text": "Ignore all results",
+        "text": "Assume every fork will disappear next time.",
         "is_correct": false
       },
       {
-        "text": "Choose by colour only",
+        "text": "Call the forks compost because they were in the pile.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Stop because testing ruins designs",
-      "Use evidence to improve it",
-      "Ignore all results",
-      "Choose by colour only"
+      "Add more ordinary plastic forks.",
+      "Improve sorting and check which items the facility can process.",
+      "Assume every fork will disappear next time.",
+      "Call the forks compost because they were in the pile."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Test results help decide what to improve.",
-      "hint": "Evidence guides changes."
+      "summary": "The evidence shows unsuitable material remaining; sorting and accepted-material checks address the problem.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
     "structuredExplanation": {
-      "summary": "Test results help decide what to improve.",
-      "hint": "Evidence guides changes."
+      "summary": "The evidence shows unsuitable material remaining; sorting and accepted-material checks address the problem.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 4,
     "sequencePriority": 4,
     "quality_schema": "skillr-actual-v6",
@@ -250,10 +250,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which is a trade-off?",
-    "audio_prompt": "Which is a trade-off?",
-    "audioPrompt": "Which is a trade-off?",
+    "skill": "compost",
+    "question": "Why might an industrial composting process accept an item that a home compost heap does not?",
+    "audio_prompt": "Why might an industrial composting process accept an item that a home compost heap does not?",
+    "audioPrompt": "Why might an industrial composting process accept an item that a home compost heap does not?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -261,42 +261,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A lunchbox is light but cracks more easily",
+        "text": "The industrial process can maintain different controlled conditions.",
         "is_correct": true
       },
       {
-        "text": "A cup is blue",
+        "text": "Industrial composting means all materials disappear.",
         "is_correct": false
       },
       {
-        "text": "A bag has a label",
+        "text": "Home composting has no decomposers.",
         "is_correct": false
       },
       {
-        "text": "A ruler is longer than a pencil",
+        "text": "An item’s colour determines which pile accepts it.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A lunchbox is light but cracks more easily",
-      "A cup is blue",
-      "A bag has a label",
-      "A ruler is longer than a pencil"
+      "The industrial process can maintain different controlled conditions.",
+      "Industrial composting means all materials disappear.",
+      "Home composting has no decomposers.",
+      "An item’s colour determines which pile accepts it."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A trade-off is a benefit paired with a limitation.",
-      "hint": "Gain plus drawback."
+      "summary": "Some materials need specific temperatures and processing conditions. A compostable label does not establish suitability for every facility or home heap.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
     "structuredExplanation": {
-      "summary": "A trade-off is a benefit paired with a limitation.",
-      "hint": "Gain plus drawback."
+      "summary": "Some materials need specific temperatures and processing conditions. A compostable label does not establish suitability for every facility or home heap.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 5,
     "sequencePriority": 5,
     "quality_schema": "skillr-actual-v6",
@@ -311,10 +311,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which need could science help solve?",
-    "audio_prompt": "Which need could science help solve?",
-    "audioPrompt": "Which need could science help solve?",
+    "skill": "water",
+    "question": "A community has bore water containing dissolved salts. Why might simple cloth filtering not solve the problem?",
+    "audio_prompt": "A community has bore water containing dissolved salts. Why might simple cloth filtering not solve the problem?",
+    "audioPrompt": "A community has bore water containing dissolved salts. Why might simple cloth filtering not solve the problem?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -322,42 +322,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Choosing the funniest sticker",
+        "text": "All clear water is automatically safe.",
         "is_correct": false
       },
       {
-        "text": "Naming a pet rock",
+        "text": "Cloth changes salt into fresh water.",
         "is_correct": false
       },
       {
-        "text": "Picking a favourite song",
+        "text": "Cloth creates more groundwater.",
         "is_correct": false
       },
       {
-        "text": "Keeping a drink cool during sport",
+        "text": "Dissolved salts can pass through the cloth with the water.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Choosing the funniest sticker",
-      "Naming a pet rock",
-      "Picking a favourite song",
-      "Keeping a drink cool during sport"
+      "All clear water is automatically safe.",
+      "Cloth changes salt into fresh water.",
+      "Cloth creates more groundwater.",
+      "Dissolved salts can pass through the cloth with the water."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Science can guide practical designs such as reducing heat transfer.",
-      "hint": "Practical problem."
+      "summary": "Removing visible particles is different from removing dissolved substances. Treatment must match the identified water-quality problem.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
     "structuredExplanation": {
-      "summary": "Science can guide practical designs such as reducing heat transfer.",
-      "hint": "Practical problem."
+      "summary": "Removing visible particles is different from removing dissolved substances. Treatment must match the identified water-quality problem.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 6,
     "sequencePriority": 6,
     "quality_schema": "skillr-actual-v6",
@@ -372,10 +372,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which design feature could reduce heat transfer?",
-    "audio_prompt": "Which design feature could reduce heat transfer?",
-    "audioPrompt": "Which design feature could reduce heat transfer?",
+    "skill": "water",
+    "question": "ACARA describes Arrernte Elders investigating solar-powered water treatment. Which need does this address?",
+    "audio_prompt": "ACARA describes Arrernte Elders investigating solar-powered water treatment. Which need does this address?",
+    "audioPrompt": "ACARA describes Arrernte Elders investigating solar-powered water treatment. Which need does this address?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -383,42 +383,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A brighter sticker",
+        "text": "Making every water source identical.",
         "is_correct": false
       },
       {
-        "text": "A different name tag",
+        "text": "Replacing community knowledge with guesswork.",
         "is_correct": false
       },
       {
-        "text": "An insulating layer around a container",
+        "text": "Access to suitable water in their communities.",
         "is_correct": true
       },
       {
-        "text": "A larger logo on the lid",
+        "text": "Using sunlight to avoid testing water quality.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A brighter sticker",
-      "A different name tag",
-      "An insulating layer around a container",
-      "A larger logo on the lid"
+      "Making every water source identical.",
+      "Replacing community knowledge with guesswork.",
+      "Access to suitable water in their communities.",
+      "Using sunlight to avoid testing water quality."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Insulating layers can slow heat transfer.",
-      "hint": "Keep heat moving slowly."
+      "summary": "The account connects community-led decisions and water-treatment science to a water-supply need; it does not remove the need for monitoring.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
     "structuredExplanation": {
-      "summary": "Insulating layers can slow heat transfer.",
-      "hint": "Keep heat moving slowly."
+      "summary": "The account connects community-led decisions and water-treatment science to a water-supply need; it does not remove the need for monitoring.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 7,
     "sequencePriority": 7,
     "quality_schema": "skillr-actual-v6",
@@ -433,10 +433,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which evidence best judges a cooling design?",
-    "audio_prompt": "Which evidence best judges a cooling design?",
-    "audioPrompt": "Which evidence best judges a cooling design?",
+    "skill": "water",
+    "question": "Why should a water-treatment project test the source water before choosing equipment?",
+    "audio_prompt": "Why should a water-treatment project test the source water before choosing equipment?",
+    "audioPrompt": "Why should a water-treatment project test the source water before choosing equipment?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -444,42 +444,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The length of the product name",
+        "text": "Testing guarantees that no maintenance will be needed.",
         "is_correct": false
       },
       {
-        "text": "Temperature readings taken over time",
+        "text": "Different unwanted substances may need different treatment methods.",
         "is_correct": true
       },
       {
-        "text": "The designer’s favourite colour",
+        "text": "All treatment methods remove everything equally.",
         "is_correct": false
       },
       {
-        "text": "How neat the poster is",
+        "text": "Clear appearance reveals every dissolved substance.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The length of the product name",
-      "Temperature readings taken over time",
-      "The designer’s favourite colour",
-      "How neat the poster is"
+      "Testing guarantees that no maintenance will be needed.",
+      "Different unwanted substances may need different treatment methods.",
+      "All treatment methods remove everything equally.",
+      "Clear appearance reveals every dissolved substance."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Temperature readings show how well the design keeps a drink cool.",
-      "hint": "Use relevant data."
+      "summary": "Knowing the water-quality problem helps select and assess an appropriate treatment rather than assuming one method solves every issue.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
     "structuredExplanation": {
-      "summary": "Temperature readings show how well the design keeps a drink cool.",
-      "hint": "Use relevant data."
+      "summary": "Knowing the water-quality problem helps select and assess an appropriate treatment rather than assuming one method solves every issue.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 8,
     "sequencePriority": 8,
     "quality_schema": "skillr-actual-v6",
@@ -494,10 +494,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which is a safety constraint for a classroom design?",
-    "audio_prompt": "Which is a safety constraint for a classroom design?",
-    "audioPrompt": "Which is a safety constraint for a classroom design?",
+    "skill": "water",
+    "question": "Why is local training useful when a community manages a water-treatment system?",
+    "audio_prompt": "Why is local training useful when a community manages a water-treatment system?",
+    "audioPrompt": "Why is local training useful when a community manages a water-treatment system?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -505,42 +505,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Edges must not be sharp",
+        "text": "People can maintain the system and monitor whether it keeps meeting local needs.",
         "is_correct": true
       },
       {
-        "text": "The graph must be blue",
+        "text": "Training means water quality never needs checking.",
         "is_correct": false
       },
       {
-        "text": "The design must have a nickname",
+        "text": "Local needs cannot affect a scientific solution.",
         "is_correct": false
       },
       {
-        "text": "The test must be guessed",
+        "text": "Equipment works forever after installation.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Edges must not be sharp",
-      "The graph must be blue",
-      "The design must have a nickname",
-      "The test must be guessed"
+      "People can maintain the system and monitor whether it keeps meeting local needs.",
+      "Training means water quality never needs checking.",
+      "Local needs cannot affect a scientific solution.",
+      "Equipment works forever after installation."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Safety constraints limit designs to reduce risk.",
-      "hint": "Avoid harm."
+      "summary": "A lasting solution combines appropriate science, community decisions, maintenance and evidence that it continues to work.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
     "structuredExplanation": {
-      "summary": "Safety constraints limit designs to reduce risk.",
-      "hint": "Avoid harm."
+      "summary": "A lasting solution combines appropriate science, community decisions, maintenance and evidence that it continues to work.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 9,
     "sequencePriority": 9,
     "quality_schema": "skillr-actual-v6",
@@ -555,10 +555,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which word means a practical problem or requirement to address?",
-    "audio_prompt": "Which word means a practical problem or requirement to address?",
-    "audioPrompt": "Which word means a practical problem or requirement to address?",
+    "skill": "water",
+    "question": "A rainwater tank is nearly empty after a long dry period. What is the relevant limitation?",
+    "audio_prompt": "A rainwater tank is nearly empty after a long dry period. What is the relevant limitation?",
+    "audioPrompt": "A rainwater tank is nearly empty after a long dry period. What is the relevant limitation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -566,42 +566,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Opinion",
+        "text": "Stored water produces its own rain.",
         "is_correct": false
       },
       {
-        "text": "Decoration",
+        "text": "A larger label increases the water supply.",
         "is_correct": false
       },
       {
-        "text": "Guess",
+        "text": "Water tanks prevent all evaporation everywhere.",
         "is_correct": false
       },
       {
-        "text": "Need",
+        "text": "A tank stores collected water but does not create rainfall.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Opinion",
-      "Decoration",
-      "Guess",
-      "Need"
+      "Stored water produces its own rain.",
+      "A larger label increases the water supply.",
+      "Water tanks prevent all evaporation everywhere.",
+      "A tank stores collected water but does not create rainfall."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A need is the requirement or problem a solution is meant to address.",
-      "hint": "What problem is being solved?"
+      "summary": "Storage depends on the available supply. Planning needs rainfall and use information as well as tank capacity.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
     "structuredExplanation": {
-      "summary": "A need is the requirement or problem a solution is meant to address.",
-      "hint": "What problem is being solved?"
+      "summary": "Storage depends on the available supply. Planning needs rainfall and use information as well as tank capacity.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficulty_tier": "recognise",
-    "difficultyTier": "recognise",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 10,
     "sequencePriority": 10,
     "quality_schema": "skillr-actual-v6",
@@ -616,10 +616,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why does a science explanation not guarantee a design will work?",
-    "audio_prompt": "Why does a science explanation not guarantee a design will work?",
-    "audioPrompt": "Why does a science explanation not guarantee a design will work?",
+    "skill": "plants",
+    "question": "Why does knowledge of plant growth matter when harvesting material for useful objects?",
+    "audio_prompt": "Why does knowledge of plant growth matter when harvesting material for useful objects?",
+    "audioPrompt": "Why does knowledge of plant growth matter when harvesting material for useful objects?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -627,42 +627,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Testing makes all designs fail",
+        "text": "Any amount can be removed if the plant is large.",
         "is_correct": false
       },
       {
-        "text": "Criteria are only decorations",
+        "text": "Harvesting automatically makes plants regrow faster.",
         "is_correct": false
       },
       {
-        "text": "The design still needs to meet criteria and be tested under real conditions",
+        "text": "It helps people collect material while protecting future growth and supply.",
         "is_correct": true
       },
       {
-        "text": "Scientific explanations are never useful",
+        "text": "Plant survival is unrelated to material supply.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Testing makes all designs fail",
-      "Criteria are only decorations",
-      "The design still needs to meet criteria and be tested under real conditions",
-      "Scientific explanations are never useful"
+      "Any amount can be removed if the plant is large.",
+      "Harvesting automatically makes plants regrow faster.",
+      "It helps people collect material while protecting future growth and supply.",
+      "Plant survival is unrelated to material supply."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Science guides design choices, but evidence is needed to judge performance.",
-      "hint": "Guide then test."
+      "summary": "Sustainable harvesting connects knowledge of living plants to continued access to useful resources.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
     "structuredExplanation": {
-      "summary": "Science guides design choices, but evidence is needed to judge performance.",
-      "hint": "Guide then test."
+      "summary": "Sustainable harvesting connects knowledge of living plants to continued access to useful resources.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 11,
     "sequencePriority": 11,
     "quality_schema": "skillr-actual-v6",
@@ -677,10 +677,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why should criteria be defined before testing prototypes?",
-    "audio_prompt": "Why should criteria be defined before testing prototypes?",
-    "audioPrompt": "Why should criteria be defined before testing prototypes?",
+    "skill": "plants",
+    "question": "ACARA describes Yolŋu Peoples at Yirrkala obtaining stringybark for painting. Which scientific understanding is relevant?",
+    "audio_prompt": "ACARA describes Yolŋu Peoples at Yirrkala obtaining stringybark for painting. Which scientific understanding is relevant?",
+    "audioPrompt": "ACARA describes Yolŋu Peoples at Yirrkala obtaining stringybark for painting. Which scientific understanding is relevant?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -688,42 +688,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "They stop constraints mattering",
+        "text": "All bark can be stripped from every tree safely.",
         "is_correct": false
       },
       {
-        "text": "They show what counts as success and what evidence to collect",
+        "text": "How suitable bark can be obtained while protecting the tree’s survival.",
         "is_correct": true
       },
       {
-        "text": "They make results unnecessary",
+        "text": "Painting surfaces must come from dead trees only.",
         "is_correct": false
       },
       {
-        "text": "They ensure the first idea wins",
+        "text": "Every community uses identical plants and methods.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "They stop constraints mattering",
-      "They show what counts as success and what evidence to collect",
-      "They make results unnecessary",
-      "They ensure the first idea wins"
+      "All bark can be stripped from every tree safely.",
+      "How suitable bark can be obtained while protecting the tree’s survival.",
+      "Painting surfaces must come from dead trees only.",
+      "Every community uses identical plants and methods."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Criteria help teams judge designs fairly and consistently.",
-      "hint": "Success measure."
+      "summary": "The specific account links knowledge of the tree and season to obtaining an art surface while retaining the living resource.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
     "structuredExplanation": {
-      "summary": "Criteria help teams judge designs fairly and consistently.",
-      "hint": "Success measure."
+      "summary": "The specific account links knowledge of the tree and season to obtaining an art surface while retaining the living resource.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
@@ -738,10 +738,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why might a heavier cooler not be best for a bushwalk even if it keeps water colder?",
-    "audio_prompt": "Why might a heavier cooler not be best for a bushwalk even if it keeps water colder?",
-    "audioPrompt": "Why might a heavier cooler not be best for a bushwalk even if it keeps water colder?",
+    "skill": "plants",
+    "question": "A class wants to learn about bark used for artworks. Which activity respects the living resource?",
+    "audio_prompt": "A class wants to learn about bark used for artworks. Which activity respects the living resource?",
+    "audioPrompt": "A class wants to learn about bark used for artworks. Which activity respects the living resource?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -749,42 +749,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Mass is a constraint, so performance must be balanced with carrying comfort",
+        "text": "Study an approved account and draw a labelled explanation without removing bark.",
         "is_correct": true
       },
       {
-        "text": "Colder is always best for every user",
+        "text": "Strip bark from an unidentified tree.",
         "is_correct": false
       },
       {
-        "text": "Heavy designs have no limitations",
+        "text": "Copy harvesting steps without guidance.",
         "is_correct": false
       },
       {
-        "text": "Bushwalkers never need constraints",
+        "text": "Assume every tree can lose its bark safely.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Mass is a constraint, so performance must be balanced with carrying comfort",
-      "Colder is always best for every user",
-      "Heavy designs have no limitations",
-      "Bushwalkers never need constraints"
+      "Study an approved account and draw a labelled explanation without removing bark.",
+      "Strip bark from an unidentified tree.",
+      "Copy harvesting steps without guidance.",
+      "Assume every tree can lose its bark safely."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Different users value criteria and constraints differently.",
-      "hint": "User and trade-off."
+      "summary": "Learning does not require damaging a tree or copying cultural harvesting practices without permission and expertise.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
     "structuredExplanation": {
-      "summary": "Different users value criteria and constraints differently.",
-      "hint": "User and trade-off."
+      "summary": "Learning does not require damaging a tree or copying cultural harvesting practices without permission and expertise.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 13,
     "sequencePriority": 13,
     "quality_schema": "skillr-actual-v6",
@@ -799,10 +799,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why is “the first idea is the solution” a weak design approach?",
-    "audio_prompt": "Why is “the first idea is the solution” a weak design approach?",
-    "audioPrompt": "Why is “the first idea is the solution” a weak design approach?",
+    "skill": "plants",
+    "question": "Why is “natural materials can never run out” unreliable?",
+    "audio_prompt": "Why is “natural materials can never run out” unreliable?",
+    "audioPrompt": "Why is “natural materials can never run out” unreliable?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -810,42 +810,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "First ideas always meet every criterion",
+        "text": "Every plant grows back immediately.",
         "is_correct": false
       },
       {
-        "text": "Testing is only for finished products",
+        "text": "Natural materials do not come from living things.",
         "is_correct": false
       },
       {
-        "text": "Evidence makes designs less useful",
+        "text": "Using natural materials always increases plant numbers.",
         "is_correct": false
       },
       {
-        "text": "Ideas should be compared, tested and improved using evidence",
+        "text": "Harvesting faster than plants recover can reduce future supplies.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "First ideas always meet every criterion",
-      "Testing is only for finished products",
-      "Evidence makes designs less useful",
-      "Ideas should be compared, tested and improved using evidence"
+      "Every plant grows back immediately.",
+      "Natural materials do not come from living things.",
+      "Using natural materials always increases plant numbers.",
+      "Harvesting faster than plants recover can reduce future supplies."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Design work improves by testing alternatives and using evidence.",
-      "hint": "Compare before deciding."
+      "summary": "Renewal depends on growth, survival and harvesting rate; natural does not mean unlimited.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
     "structuredExplanation": {
-      "summary": "Design work improves by testing alternatives and using evidence.",
-      "hint": "Compare before deciding."
+      "summary": "Renewal depends on growth, survival and harvesting rate; natural does not mean unlimited.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 14,
     "sequencePriority": 14,
     "quality_schema": "skillr-actual-v6",
@@ -860,10 +860,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why is cost a constraint rather than a criterion about performance?",
-    "audio_prompt": "Why is cost a constraint rather than a criterion about performance?",
-    "audioPrompt": "Why is cost a constraint rather than a criterion about performance?",
+    "skill": "plants",
+    "question": "Which explanation best connects plant fibres to making a useful woven object?",
+    "audio_prompt": "Which explanation best connects plant fibres to making a useful woven object?",
+    "audioPrompt": "Which explanation best connects plant fibres to making a useful woven object?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -871,42 +871,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Cost measures temperature",
+        "text": "Any leaf has identical strength and flexibility.",
         "is_correct": false
       },
       {
-        "text": "Expensive always means best",
+        "text": "The colour alone proves the fibres will hold a load.",
         "is_correct": false
       },
       {
-        "text": "It limits what can be used but does not directly show how well the design works",
+        "text": "Suitable fibres can bend and hold together; knowing the plant helps obtain them responsibly.",
         "is_correct": true
       },
       {
-        "text": "Cost is never important",
+        "text": "Removing all plants improves the future fibre supply.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Cost measures temperature",
-      "Expensive always means best",
-      "It limits what can be used but does not directly show how well the design works",
-      "Cost is never important"
+      "Any leaf has identical strength and flexibility.",
+      "The colour alone proves the fibres will hold a load.",
+      "Suitable fibres can bend and hold together; knowing the plant helps obtain them responsibly.",
+      "Removing all plants improves the future fibre supply."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Cost sets a boundary for the design choice, while performance criteria judge success.",
-      "hint": "Limit versus performance."
+      "summary": "Useful material properties and sustainable sourcing both matter when meeting a need.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
     "structuredExplanation": {
-      "summary": "Cost sets a boundary for the design choice, while performance criteria judge success.",
-      "hint": "Limit versus performance."
+      "summary": "Useful material properties and sustainable sourcing both matter when meeting a need.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 15,
     "sequencePriority": 15,
     "quality_schema": "skillr-actual-v6",
@@ -921,10 +921,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why should an insulated container test use the same starting water temperature?",
-    "audio_prompt": "Why should an insulated container test use the same starting water temperature?",
-    "audioPrompt": "Why should an insulated container test use the same starting water temperature?",
+    "skill": "plastic",
+    "question": "Why is a durable plastic container useful for repeated use but a problem if littered?",
+    "audio_prompt": "Why is a durable plastic container useful for repeated use but a problem if littered?",
+    "audioPrompt": "Why is a durable plastic container useful for repeated use but a problem if littered?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -932,42 +932,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It removes the need for a timer",
+        "text": "Durable plastic disappears immediately outdoors.",
         "is_correct": false
       },
       {
-        "text": "Different starting temperatures would make the comparison unfair",
+        "text": "The same resistance to breaking down can keep it useful and make litter persist.",
         "is_correct": true
       },
       {
-        "text": "Starting temperature is only an opinion",
+        "text": "Reusable means it can never become waste.",
         "is_correct": false
       },
       {
-        "text": "It changes water into plastic",
+        "text": "Litter changes all plastic into harmless soil.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "It removes the need for a timer",
-      "Different starting temperatures would make the comparison unfair",
-      "Starting temperature is only an opinion",
-      "It changes water into plastic"
+      "Durable plastic disappears immediately outdoors.",
+      "The same resistance to breaking down can keep it useful and make litter persist.",
+      "Reusable means it can never become waste.",
+      "Litter changes all plastic into harmless soil."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Fair testing controls starting conditions so design differences can be compared.",
-      "hint": "Same start."
+      "summary": "A material property can bring both benefits and environmental limitations, influencing purchase, reuse and disposal decisions.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
     "structuredExplanation": {
-      "summary": "Fair testing controls starting conditions so design differences can be compared.",
-      "hint": "Same start."
+      "summary": "A material property can bring both benefits and environmental limitations, influencing purchase, reuse and disposal decisions.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 16,
     "sequencePriority": 16,
     "quality_schema": "skillr-actual-v6",
@@ -982,10 +982,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why can the preferred design change for a school canteen and a hiker?",
-    "audio_prompt": "Why can the preferred design change for a school canteen and a hiker?",
-    "audioPrompt": "Why can the preferred design change for a school canteen and a hiker?",
+    "skill": "plastic",
+    "question": "A family already owns a sturdy reusable plastic bottle. Which action uses its durability?",
+    "audio_prompt": "A family already owns a sturdy reusable plastic bottle. Which action uses its durability?",
+    "audioPrompt": "A family already owns a sturdy reusable plastic bottle. Which action uses its durability?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -993,42 +993,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "They may rank criteria and constraints differently",
+        "text": "Keep using and caring for it while it remains suitable.",
         "is_correct": true
       },
       {
-        "text": "The science changes completely for each person",
+        "text": "Discard it after one drink because it is plastic.",
         "is_correct": false
       },
       {
-        "text": "Evidence cannot be reused",
+        "text": "Litter it because durable materials are harmless.",
         "is_correct": false
       },
       {
-        "text": "All users need the same product",
+        "text": "Assume it cannot ever crack or need replacement.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "They may rank criteria and constraints differently",
-      "The science changes completely for each person",
-      "Evidence cannot be reused",
-      "All users need the same product"
+      "Keep using and caring for it while it remains suitable.",
+      "Discard it after one drink because it is plastic.",
+      "Litter it because durable materials are harmless.",
+      "Assume it cannot ever crack or need replacement."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Different users may value cost, mass, durability or performance differently.",
-      "hint": "Needs differ."
+      "summary": "Continued appropriate reuse makes use of durability and can reduce demand for new single-use items.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
     "structuredExplanation": {
-      "summary": "Different users may value cost, mass, durability or performance differently.",
-      "hint": "Needs differ."
+      "summary": "Continued appropriate reuse makes use of durability and can reduce demand for new single-use items.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 17,
     "sequencePriority": 17,
     "quality_schema": "skillr-actual-v6",
@@ -1043,10 +1043,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why does testing a prototype help improve it?",
-    "audio_prompt": "Why does testing a prototype help improve it?",
-    "audioPrompt": "Why does testing a prototype help improve it?",
+    "skill": "plastic",
+    "question": "Why should a plastic item’s local recycling instructions be checked?",
+    "audio_prompt": "Why should a plastic item’s local recycling instructions be checked?",
+    "audioPrompt": "Why should a plastic item’s local recycling instructions be checked?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1054,42 +1054,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Testing makes all materials perfect",
+        "text": "Every plastic is accepted in every recycling bin.",
         "is_correct": false
       },
       {
-        "text": "A prototype cannot be changed",
+        "text": "A recycling symbol guarantees local collection.",
         "is_correct": false
       },
       {
-        "text": "Evidence prevents improvement",
+        "text": "Transparent plastic never needs sorting.",
         "is_correct": false
       },
       {
-        "text": "Results show which features work and which need changing",
+        "text": "Different plastics and product forms may need different processing.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Testing makes all materials perfect",
-      "A prototype cannot be changed",
-      "Evidence prevents improvement",
-      "Results show which features work and which need changing"
+      "Every plastic is accepted in every recycling bin.",
+      "A recycling symbol guarantees local collection.",
+      "Transparent plastic never needs sorting.",
+      "Different plastics and product forms may need different processing."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "Prototype tests provide evidence for redesign.",
-      "hint": "Find what to improve."
+      "summary": "Material properties and available processing systems affect acceptance; the symbol alone is not a promise of local recycling.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
     "structuredExplanation": {
-      "summary": "Prototype tests provide evidence for redesign.",
-      "hint": "Find what to improve."
+      "summary": "Material properties and available processing systems affect acceptance; the symbol alone is not a promise of local recycling.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 18,
     "sequencePriority": 18,
     "quality_schema": "skillr-actual-v6",
@@ -1104,10 +1104,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why is “best” unclear unless criteria are stated?",
-    "audio_prompt": "Why is “best” unclear unless criteria are stated?",
-    "audioPrompt": "Why is “best” unclear unless criteria are stated?",
+    "skill": "plastic",
+    "question": "A plastic bag breaks into tiny pieces outdoors. Which claim is justified?",
+    "audio_prompt": "A plastic bag breaks into tiny pieces outdoors. Which claim is justified?",
+    "audioPrompt": "A plastic bag breaks into tiny pieces outdoors. Which claim is justified?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1115,42 +1115,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Best has no connection to evidence",
+        "text": "All pieces have turned into soil immediately.",
         "is_correct": false
       },
       {
-        "text": "Best means cheapest every time",
+        "text": "The plastic has vanished because it is harder to see.",
         "is_correct": false
       },
       {
-        "text": "Best depends on what features are being judged",
+        "text": "Smaller pieces do not necessarily mean it has become harmless.",
         "is_correct": true
       },
       {
-        "text": "Best always means brightest colour",
+        "text": "Breaking into pieces proves the bag was compostable.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Best has no connection to evidence",
-      "Best means cheapest every time",
-      "Best depends on what features are being judged",
-      "Best always means brightest colour"
+      "All pieces have turned into soil immediately.",
+      "The plastic has vanished because it is harder to see.",
+      "Smaller pieces do not necessarily mean it has become harmless.",
+      "Breaking into pieces proves the bag was compostable."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Without criteria, people may judge different features.",
-      "hint": "Best for what?"
+      "summary": "Fragmentation can leave plastic in the environment; small size is not evidence of safe decomposition.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
     "structuredExplanation": {
-      "summary": "Without criteria, people may judge different features.",
-      "hint": "Best for what?"
+      "summary": "Fragmentation can leave plastic in the environment; small size is not evidence of safe decomposition.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 19,
     "sequencePriority": 19,
     "quality_schema": "skillr-actual-v6",
@@ -1165,10 +1165,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why might a reusable container need more than one science idea?",
-    "audio_prompt": "Why might a reusable container need more than one science idea?",
-    "audioPrompt": "Why might a reusable container need more than one science idea?",
+    "skill": "plastic",
+    "question": "Which choice links a product decision to knowledge of plastic properties?",
+    "audio_prompt": "Which choice links a product decision to knowledge of plastic properties?",
+    "audioPrompt": "Which choice links a product decision to knowledge of plastic properties?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1176,42 +1176,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Cleaning is not a real requirement",
+        "text": "Buy a new item whenever its colour is less fashionable.",
         "is_correct": false
       },
       {
-        "text": "It may involve heat transfer, material properties, strength, safety and cleaning",
+        "text": "Choose a repairable, durable item for repeated use and plan suitable disposal.",
         "is_correct": true
       },
       {
-        "text": "Only one property ever matters",
+        "text": "Assume all plastic products have identical properties.",
         "is_correct": false
       },
       {
-        "text": "Science cannot guide containers",
+        "text": "Choose disposal only by the product’s name.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Cleaning is not a real requirement",
-      "It may involve heat transfer, material properties, strength, safety and cleaning",
-      "Only one property ever matters",
-      "Science cannot guide containers"
+      "Buy a new item whenever its colour is less fashionable.",
+      "Choose a repairable, durable item for repeated use and plan suitable disposal.",
+      "Assume all plastic products have identical properties.",
+      "Choose disposal only by the product’s name."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Practical designs often combine several science ideas and constraints.",
-      "hint": "Many requirements."
+      "summary": "Considering useful lifetime and end-of-use options connects material knowledge to responsible decisions.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
     "structuredExplanation": {
-      "summary": "Practical designs often combine several science ideas and constraints.",
-      "hint": "Many requirements."
+      "summary": "Considering useful lifetime and end-of-use options connects material knowledge to responsible decisions.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
-    "difficultyTier": "explain",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 20,
     "sequencePriority": 20,
     "quality_schema": "skillr-actual-v6",
@@ -1226,10 +1226,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which statement is a misconception?",
-    "audio_prompt": "Which statement is a misconception?",
-    "audioPrompt": "Which statement is a misconception?",
+    "skill": "friction",
+    "question": "Why do bicycle brakes need friction?",
+    "audio_prompt": "Why do bicycle brakes need friction?",
+    "audioPrompt": "Why do bicycle brakes need friction?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1237,42 +1237,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A scientific explanation guarantees the first design will succeed",
+        "text": "Contact between braking surfaces can slow the wheel.",
         "is_correct": true
       },
       {
-        "text": "Science can guide design choices",
+        "text": "Friction makes the bicycle speed up during braking.",
         "is_correct": false
       },
       {
-        "text": "Testing checks whether criteria are met",
+        "text": "Brakes work by removing gravity.",
         "is_correct": false
       },
       {
-        "text": "Evidence can suggest improvements",
+        "text": "Friction acts only across an air gap.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A scientific explanation guarantees the first design will succeed",
-      "Science can guide design choices",
-      "Testing checks whether criteria are met",
-      "Evidence can suggest improvements"
+      "Contact between braking surfaces can slow the wheel.",
+      "Friction makes the bicycle speed up during braking.",
+      "Brakes work by removing gravity.",
+      "Friction acts only across an air gap."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A science explanation helps design, but prototypes still need testing.",
-      "hint": "Guide is not guarantee."
+      "summary": "The brake applies contact forces that resist motion, helping meet the need to slow or stop.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
     "structuredExplanation": {
-      "summary": "A science explanation helps design, but prototypes still need testing.",
-      "hint": "Guide is not guarantee."
+      "summary": "The brake applies contact forces that resist motion, helping meet the need to slow or stop.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 21,
     "sequencePriority": 21,
     "quality_schema": "skillr-actual-v6",
@@ -1287,10 +1287,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which is the clearest criterion for a reusable ice pack?",
-    "audio_prompt": "Which is the clearest criterion for a reusable ice pack?",
-    "audioPrompt": "Which is the clearest criterion for a reusable ice pack?",
+    "skill": "friction",
+    "question": "Why can wet or icy road conditions require greater care when stopping?",
+    "audio_prompt": "Why can wet or icy road conditions require greater care when stopping?",
+    "audioPrompt": "Why can wet or icy road conditions require greater care when stopping?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1298,42 +1298,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "It feels coolish",
+        "text": "Water guarantees stronger grip for every tyre.",
         "is_correct": false
       },
       {
-        "text": "It looks professional",
+        "text": "Ice increases braking grip in every situation.",
         "is_correct": false
       },
       {
-        "text": "It is the one I like",
+        "text": "Brakes can stop any vehicle instantly.",
         "is_correct": false
       },
       {
-        "text": "Keeps lunchbox temperature below 8°C for 4 hours",
+        "text": "Grip may be reduced, so a vehicle can take longer to stop.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "It feels coolish",
-      "It looks professional",
-      "It is the one I like",
-      "Keeps lunchbox temperature below 8°C for 4 hours"
+      "Water guarantees stronger grip for every tyre.",
+      "Ice increases braking grip in every situation.",
+      "Brakes can stop any vehicle instantly.",
+      "Grip may be reduced, so a vehicle can take longer to stop."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "A clear criterion states a measurable performance target.",
-      "hint": "Number and time."
+      "summary": "Reduced tyre-road friction can limit braking and steering. A safety response must consider conditions, not assume identical stopping distances.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
     "structuredExplanation": {
-      "summary": "A clear criterion states a measurable performance target.",
-      "hint": "Number and time."
+      "summary": "Reduced tyre-road friction can limit braking and steering. A safety response must consider conditions, not assume identical stopping distances.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 22,
     "sequencePriority": 22,
     "quality_schema": "skillr-actual-v6",
@@ -1348,10 +1348,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which is a constraint for building a bird shelter at school?",
-    "audio_prompt": "Which is a constraint for building a bird shelter at school?",
-    "audioPrompt": "Which is a constraint for building a bird shelter at school?",
+    "skill": "friction",
+    "question": "Which evidence would help compare two tyres for grip?",
+    "audio_prompt": "Which evidence would help compare two tyres for grip?",
+    "audioPrompt": "Which evidence would help compare two tyres for grip?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1359,42 +1359,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The roof angle was tested",
+        "text": "Compare one tyre on dry road with the other on ice.",
         "is_correct": false
       },
       {
-        "text": "The class measured mass",
+        "text": "Choose the tyre with the brightest sidewall.",
         "is_correct": false
       },
       {
-        "text": "Only recycled cardboard and string may be used",
+        "text": "Controlled grip tests on the same surface under the same conditions.",
         "is_correct": true
       },
       {
-        "text": "The shelter stayed dry in rain",
+        "text": "Use only the longest product name.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The roof angle was tested",
-      "The class measured mass",
-      "Only recycled cardboard and string may be used",
-      "The shelter stayed dry in rain"
+      "Compare one tyre on dry road with the other on ice.",
+      "Choose the tyre with the brightest sidewall.",
+      "Controlled grip tests on the same surface under the same conditions.",
+      "Use only the longest product name."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "Available materials are a design constraint.",
-      "hint": "A limit."
+      "summary": "A fair comparison helps connect tyre properties and surface conditions to the grip needed for safe movement.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
     "structuredExplanation": {
-      "summary": "Available materials are a design constraint.",
-      "hint": "A limit."
+      "summary": "A fair comparison helps connect tyre properties and surface conditions to the grip needed for safe movement.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 23,
     "sequencePriority": 23,
     "quality_schema": "skillr-actual-v6",
@@ -1409,10 +1409,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which evidence best supports improving a lid seal?",
-    "audio_prompt": "Which evidence best supports improving a lid seal?",
-    "audioPrompt": "Which evidence best supports improving a lid seal?",
+    "skill": "friction",
+    "question": "Why does a claim that one tyre is safest everywhere need more evidence?",
+    "audio_prompt": "Why does a claim that one tyre is safest everywhere need more evidence?",
+    "audioPrompt": "Why does a claim that one tyre is safest everywhere need more evidence?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1420,42 +1420,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The class liked the font",
+        "text": "All tyres behave identically on every surface.",
         "is_correct": false
       },
       {
-        "text": "Water leaked from the lid in three shake tests",
+        "text": "Grip depends on the tyre, surface and conditions.",
         "is_correct": true
       },
       {
-        "text": "The lid was green",
+        "text": "A single dry-road test proves performance on ice.",
         "is_correct": false
       },
       {
-        "text": "The bottle was on a bench",
+        "text": "The newest tyre name guarantees all safety needs.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The class liked the font",
-      "Water leaked from the lid in three shake tests",
-      "The lid was green",
-      "The bottle was on a bench"
+      "All tyres behave identically on every surface.",
+      "Grip depends on the tyre, surface and conditions.",
+      "A single dry-road test proves performance on ice.",
+      "The newest tyre name guarantees all safety needs."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "Repeated leak evidence points to a seal problem.",
-      "hint": "Evidence about leak."
+      "summary": "Testing in one situation does not establish performance under every relevant condition.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
     "structuredExplanation": {
-      "summary": "Repeated leak evidence points to a seal problem.",
-      "hint": "Evidence about leak."
+      "summary": "Testing in one situation does not establish performance under every relevant condition.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 24,
     "sequencePriority": 24,
     "quality_schema": "skillr-actual-v6",
@@ -1470,10 +1470,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which choice shows a prototype?",
-    "audio_prompt": "Which choice shows a prototype?",
-    "audioPrompt": "Which choice shows a prototype?",
+    "skill": "friction",
+    "question": "A model wheel slides farther on a wet board than a dry board with the same starting conditions. What practical connection is supported?",
+    "audio_prompt": "A model wheel slides farther on a wet board than a dry board with the same starting conditions. What practical connection is supported?",
+    "audioPrompt": "A model wheel slides farther on a wet board than a dry board with the same starting conditions. What practical connection is supported?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1481,42 +1481,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A cardboard model of a shade cover tested before making the final version",
+        "text": "Reduced grip can make stopping harder on some wet surfaces.",
         "is_correct": true
       },
       {
-        "text": "A final product never tested",
+        "text": "Wet surfaces always stop objects sooner.",
         "is_correct": false
       },
       {
-        "text": "A graph with no design",
+        "text": "Water switched gravity off.",
         "is_correct": false
       },
       {
-        "text": "A list of favourite colours",
+        "text": "The result proves every road has the same stopping distance.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "A cardboard model of a shade cover tested before making the final version",
-      "A final product never tested",
-      "A graph with no design",
-      "A list of favourite colours"
+      "Reduced grip can make stopping harder on some wet surfaces.",
+      "Wet surfaces always stop objects sooner.",
+      "Water switched gravity off.",
+      "The result proves every road has the same stopping distance."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "A prototype is a testable early model.",
-      "hint": "Early model."
+      "summary": "The model supports a limited friction explanation; it is not a complete road-safety test.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
     "structuredExplanation": {
-      "summary": "A prototype is a testable early model.",
-      "hint": "Early model."
+      "summary": "The model supports a limited friction explanation; it is not a complete road-safety test.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 25,
     "sequencePriority": 25,
     "quality_schema": "skillr-actual-v6",
@@ -1531,10 +1531,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which recommendation best uses criteria and constraints?",
-    "audio_prompt": "Which recommendation best uses criteria and constraints?",
-    "audioPrompt": "Which recommendation best uses criteria and constraints?",
+    "skill": "magnetism",
+    "question": "Why can a magnet help separate steel cans from some other recycling materials?",
+    "audio_prompt": "Why can a magnet help separate steel cans from some other recycling materials?",
+    "audioPrompt": "Why can a magnet help separate steel cans from some other recycling materials?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1542,42 +1542,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Choose B because it looks cool",
+        "text": "All metals are equally attracted by common magnets.",
         "is_correct": false
       },
       {
-        "text": "Choose A because it was first",
+        "text": "Magnets attract only objects that are shiny.",
         "is_correct": false
       },
       {
-        "text": "Choose neither because testing gives data",
+        "text": "A magnet changes plastic into steel.",
         "is_correct": false
       },
       {
-        "text": "Choose Design B because it met the cooling target and stayed under the mass limit",
+        "text": "Many steels are attracted while materials such as plastic are not.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Choose B because it looks cool",
-      "Choose A because it was first",
-      "Choose neither because testing gives data",
-      "Choose Design B because it met the cooling target and stayed under the mass limit"
+      "All metals are equally attracted by common magnets.",
+      "Magnets attract only objects that are shiny.",
+      "A magnet changes plastic into steel.",
+      "Many steels are attracted while materials such as plastic are not."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "The recommendation uses measured performance and a constraint.",
-      "hint": "Evidence plus limits."
+      "summary": "Different magnetic responses allow suitable materials to be separated; this does not sort every type of metal.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
     "structuredExplanation": {
-      "summary": "The recommendation uses measured performance and a constraint.",
-      "hint": "Evidence plus limits."
+      "summary": "Different magnetic responses allow suitable materials to be separated; this does not sort every type of metal.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 26,
     "sequencePriority": 26,
     "quality_schema": "skillr-actual-v6",
@@ -1592,10 +1592,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which question best connects science to a design need?",
-    "audio_prompt": "Which question best connects science to a design need?",
-    "audioPrompt": "Which question best connects science to a design need?",
+    "skill": "magnetism",
+    "question": "A magnet removes steel pieces but leaves aluminium pieces. What is the best conclusion?",
+    "audio_prompt": "A magnet removes steel pieces but leaves aluminium pieces. What is the best conclusion?",
+    "audioPrompt": "A magnet removes steel pieces but leaves aluminium pieces. What is the best conclusion?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1603,42 +1603,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "What name should the team use?",
+        "text": "The remaining pieces cannot be metal.",
         "is_correct": false
       },
       {
-        "text": "Which colour is lucky?",
+        "text": "The magnet has removed every possible contaminant.",
         "is_correct": false
       },
       {
-        "text": "How can insulation reduce heat transfer from a cold drink bottle?",
+        "text": "Another method is needed if aluminium must also be separated.",
         "is_correct": true
       },
       {
-        "text": "Which bottle has the funniest sticker?",
+        "text": "Aluminium must be plastic because it remains.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "What name should the team use?",
-      "Which colour is lucky?",
-      "How can insulation reduce heat transfer from a cold drink bottle?",
-      "Which bottle has the funniest sticker?"
+      "The remaining pieces cannot be metal.",
+      "The magnet has removed every possible contaminant.",
+      "Another method is needed if aluminium must also be separated.",
+      "Aluminium must be plastic because it remains."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "The question uses a science idea to address a practical need.",
-      "hint": "Science to solution."
+      "summary": "Common magnets do not strongly attract aluminium. Magnetic separation is useful but limited.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
     "structuredExplanation": {
-      "summary": "The question uses a science idea to address a practical need.",
-      "hint": "Science to solution."
+      "summary": "Common magnets do not strongly attract aluminium. Magnetic separation is useful but limited.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 27,
     "sequencePriority": 27,
     "quality_schema": "skillr-actual-v6",
@@ -1653,10 +1653,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which result shows a trade-off between two designs?",
-    "audio_prompt": "Which result shows a trade-off between two designs?",
-    "audioPrompt": "Which result shows a trade-off between two designs?",
+    "skill": "magnetism",
+    "question": "Why might a food-processing line use a magnetic separator?",
+    "audio_prompt": "Why might a food-processing line use a magnetic separator?",
+    "audioPrompt": "Why might a food-processing line use a magnetic separator?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1664,42 +1664,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The poster for A was larger",
+        "text": "To remove every possible harmful substance.",
         "is_correct": false
       },
       {
-        "text": "A is lighter but warms faster; B is heavier but keeps water cooler",
+        "text": "To remove certain unwanted iron or steel fragments from the product stream.",
         "is_correct": true
       },
       {
-        "text": "A and B have the same colour",
+        "text": "To make all food magnetic.",
         "is_correct": false
       },
       {
-        "text": "Both were tested on Tuesday",
+        "text": "To replace all other quality checks.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "The poster for A was larger",
-      "A is lighter but warms faster; B is heavier but keeps water cooler",
-      "A and B have the same colour",
-      "Both were tested on Tuesday"
+      "To remove every possible harmful substance.",
+      "To remove certain unwanted iron or steel fragments from the product stream.",
+      "To make all food magnetic.",
+      "To replace all other quality checks."
     ],
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "The designs differ in a benefit and limitation.",
-      "hint": "Compare gains and drawbacks."
+      "summary": "Magnetic attraction can remove suitable magnetic metal fragments, but other hazards and non-magnetic materials require other controls.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
     "structuredExplanation": {
-      "summary": "The designs differ in a benefit and limitation.",
-      "hint": "Compare gains and drawbacks."
+      "summary": "Magnetic attraction can remove suitable magnetic metal fragments, but other hazards and non-magnetic materials require other controls.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 28,
     "sequencePriority": 28,
     "quality_schema": "skillr-actual-v6",
@@ -1714,10 +1714,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which is a poor criterion for a safety glove?",
-    "audio_prompt": "Which is a poor criterion for a safety glove?",
-    "audioPrompt": "Which is a poor criterion for a safety glove?",
+    "skill": "magnetism",
+    "question": "In a mine, one mineral sample is strongly attracted to a magnet and another is not. What could workers investigate?",
+    "audio_prompt": "In a mine, one mineral sample is strongly attracted to a magnet and another is not. What could workers investigate?",
+    "audioPrompt": "In a mine, one mineral sample is strongly attracted to a magnet and another is not. What could workers investigate?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1725,42 +1725,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Looks the most heroic",
+        "text": "Whether magnetic separation can help sort the mixture.",
         "is_correct": true
       },
       {
-        "text": "Prevents heat transfer for 30 seconds",
+        "text": "Whether the magnet can make all minerals identical.",
         "is_correct": false
       },
       {
-        "text": "Allows fingers to bend",
+        "text": "Whether non-attracted samples are not matter.",
         "is_correct": false
       },
       {
-        "text": "Does not tear during use",
+        "text": "Whether colour alone can replace the test.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Looks the most heroic",
-      "Prevents heat transfer for 30 seconds",
-      "Allows fingers to bend",
-      "Does not tear during use"
+      "Whether magnetic separation can help sort the mixture.",
+      "Whether the magnet can make all minerals identical.",
+      "Whether non-attracted samples are not matter.",
+      "Whether colour alone can replace the test."
     ],
     "correct_index": 0,
     "correct": 0,
     "explanation": {
-      "summary": "Looks heroic is a preference, not a useful performance criterion.",
-      "hint": "Measurable or practical."
+      "summary": "The observed difference suggests a possible sorting method, which still needs testing on the actual mixture.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
     "structuredExplanation": {
-      "summary": "Looks heroic is a preference, not a useful performance criterion.",
-      "hint": "Measurable or practical."
+      "summary": "The observed difference suggests a possible sorting method, which still needs testing on the actual mixture.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 29,
     "sequencePriority": 29,
     "quality_schema": "skillr-actual-v6",
@@ -1775,10 +1775,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which improvement is based on evidence?",
-    "audio_prompt": "Which improvement is based on evidence?",
-    "audioPrompt": "Which improvement is based on evidence?",
+    "skill": "magnetism",
+    "question": "A recycling magnet leaves plastic bottle caps behind. Does this show failure?",
+    "audio_prompt": "A recycling magnet leaves plastic bottle caps behind. Does this show failure?",
+    "audioPrompt": "A recycling magnet leaves plastic bottle caps behind. Does this show failure?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -1786,42 +1786,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Add glitter because it is fun",
+        "text": "Yes, every magnet should attract every material.",
         "is_correct": false
       },
       {
-        "text": "Choose the tallest student’s idea",
+        "text": "Yes, plastic is always more magnetic than steel.",
         "is_correct": false
       },
       {
-        "text": "Use the same design despite leaks",
+        "text": "No checking is ever needed after installing a magnet.",
         "is_correct": false
       },
       {
-        "text": "Add a second insulating layer because the single-layer cup warmed too quickly",
+        "text": "Not necessarily; its job may be to lift magnetic metal rather than plastic.",
         "is_correct": true
       }
     ],
     "answer_texts": [
-      "Add glitter because it is fun",
-      "Choose the tallest student’s idea",
-      "Use the same design despite leaks",
-      "Add a second insulating layer because the single-layer cup warmed too quickly"
+      "Yes, every magnet should attract every material.",
+      "Yes, plastic is always more magnetic than steel.",
+      "No checking is ever needed after installing a magnet.",
+      "Not necessarily; its job may be to lift magnetic metal rather than plastic."
     ],
     "correct_index": 3,
     "correct": 3,
     "explanation": {
-      "summary": "The change responds to measured performance evidence.",
-      "hint": "Fix the tested weakness."
+      "summary": "Success depends on the task. A magnetic separator can meet a steel-removal need while other materials continue to another process.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
     "structuredExplanation": {
-      "summary": "The change responds to measured performance evidence.",
-      "hint": "Fix the tested weakness."
+      "summary": "Success depends on the task. A magnetic separator can meet a steel-removal need while other materials continue to another process.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
-    "stage": "discriminate",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
-    "difficultyTier": "discriminate",
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 30,
     "sequencePriority": 30,
     "quality_schema": "skillr-actual-v6",
@@ -2142,9 +2142,9 @@
     "curriculumCode": "AC9S4H02",
     "bank": "practice",
     "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "After testing, a water filter prototype lets water through quickly but leaves visible dirt. What should the team do?",
-    "audio_prompt": "After testing, a water filter prototype lets water through quickly but leaves visible dirt. What should the team do?",
-    "audioPrompt": "After testing, a water filter prototype lets water through quickly but leaves visible dirt. What should the team do?",
+    "question": "After testing, a water filter prototype lets water through quickly but leaves visible dirt. What should the team do? Do not drink the test water.",
+    "audio_prompt": "After testing, a water filter prototype lets water through quickly but leaves visible dirt. What should the team do? Do not drink the test water.",
+    "audioPrompt": "After testing, a water filter prototype lets water through quickly but leaves visible dirt. What should the team do? Do not drink the test water.",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2177,11 +2177,11 @@
     "correct_index": 1,
     "correct": 1,
     "explanation": {
-      "summary": "The prototype fails a cleaning criterion and needs evidence-based improvement.",
+      "summary": "Improve removal of the visible dirt, then retest. Clear-looking filtered water is not proof that it is safe to drink.",
       "hint": "Meet all key criteria."
     },
     "structuredExplanation": {
-      "summary": "The prototype fails a cleaning criterion and needs evidence-based improvement.",
+      "summary": "Improve removal of the visible dirt, then retest. Clear-looking filtered water is not proof that it is safe to drink.",
       "hint": "Meet all key criteria."
     },
     "stage": "apply",
@@ -2440,16 +2440,16 @@
     "type": "single"
   },
   {
-    "id": "AC9S4H02-T-001",
+    "id": "AC9S4H02-P-041",
     "subject": "science",
     "year_level": "Year 4",
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
-    "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which is the best measurable criterion for a solar oven?",
-    "audio_prompt": "Which is the best measurable criterion for a solar oven?",
-    "audioPrompt": "Which is the best measurable criterion for a solar oven?",
+    "bank": "practice",
+    "skill": "compost",
+    "question": "Two compost systems receive the same suitable scraps. One stays too dry and breaks scraps down slowly. Which response uses an explanation?",
+    "audio_prompt": "Two compost systems receive the same suitable scraps. One stays too dry and breaks scraps down slowly. Which response uses an explanation?",
+    "audioPrompt": "Two compost systems receive the same suitable scraps. One stays too dry and breaks scraps down slowly. Which response uses an explanation?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2457,41 +2457,462 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Has a fun name",
-        "is_correct": false
-      },
-      {
-        "text": "Everyone thinks it is clever",
-        "is_correct": false
-      },
-      {
-        "text": "Raises water temperature by at least 15°C in 30 minutes",
+        "text": "Adjust moisture within suitable conditions and compare the results.",
         "is_correct": true
       },
       {
-        "text": "Looks like a real oven",
+        "text": "Add ordinary plastic to make more compost.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore moisture because decomposers are not living.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume the dry system needs no testing.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Has a fun name",
-      "Everyone thinks it is clever",
-      "Raises water temperature by at least 15°C in 30 minutes",
-      "Looks like a real oven"
+      "Adjust moisture within suitable conditions and compare the results.",
+      "Add ordinary plastic to make more compost.",
+      "Ignore moisture because decomposers are not living.",
+      "Assume the dry system needs no testing."
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Decomposer activity depends on conditions, so a targeted change and observation links science to improved processing.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
+    },
+    "structuredExplanation": {
+      "summary": "Decomposer activity depends on conditions, so a targeted change and observation links science to improved processing.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 41,
+    "sequencePriority": 41,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H02-P-042",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H02",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "skill": "water",
+    "question": "Why should a water solution be planned with the community using it?",
+    "audio_prompt": "Why should a water solution be planned with the community using it?",
+    "audioPrompt": "Why should a water solution be planned with the community using it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Local people cannot contribute scientific observations.",
+        "is_correct": false
+      },
+      {
+        "text": "Equipment cost is the only possible need.",
+        "is_correct": false
+      },
+      {
+        "text": "A system proven elsewhere always fits unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "Local needs, knowledge and maintenance conditions affect whether it is useful.",
+        "is_correct": true
+      }
+    ],
+    "answer_texts": [
+      "Local people cannot contribute scientific observations.",
+      "Equipment cost is the only possible need.",
+      "A system proven elsewhere always fits unchanged.",
+      "Local needs, knowledge and maintenance conditions affect whether it is useful."
+    ],
+    "correct_index": 3,
+    "correct": 3,
+    "explanation": {
+      "summary": "Scientific performance and community needs must be considered together for a workable solution.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
+    },
+    "structuredExplanation": {
+      "summary": "Scientific performance and community needs must be considered together for a workable solution.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 42,
+    "sequencePriority": 42,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H02-P-043",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H02",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "skill": "plastic",
+    "question": "A product is labelled compostable. What should you check before placing it in a compost collection?",
+    "audio_prompt": "A product is labelled compostable. What should you check before placing it in a compost collection?",
+    "audioPrompt": "A product is labelled compostable. What should you check before placing it in a compost collection?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Whether it is the same colour as a leaf.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether it fits inside the bin, regardless of material.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether that collection accepts it and provides the required processing conditions.",
+        "is_correct": true
+      },
+      {
+        "text": "Whether its label is larger than other labels.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Whether it is the same colour as a leaf.",
+      "Whether it fits inside the bin, regardless of material.",
+      "Whether that collection accepts it and provides the required processing conditions.",
+      "Whether its label is larger than other labels."
     ],
     "correct_index": 2,
     "correct": 2,
     "explanation": {
-      "summary": "A measurable criterion states what success looks like using evidence.",
-      "hint": "Number and time."
+      "summary": "Labels can describe a particular process; they do not establish suitability for every collection or home heap.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
     "structuredExplanation": {
-      "summary": "A measurable criterion states what success looks like using evidence.",
-      "hint": "Number and time."
+      "summary": "Labels can describe a particular process; they do not establish suitability for every collection or home heap.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 43,
+    "sequencePriority": 43,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H02-P-044",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H02",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "skill": "magnetism",
+    "question": "A magnetic separator removes 18 of 20 steel pieces during a test. What is the useful next step?",
+    "audio_prompt": "A magnetic separator removes 18 of 20 steel pieces during a test. What is the useful next step?",
+    "audioPrompt": "A magnetic separator removes 18 of 20 steel pieces during a test. What is the useful next step?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Declare that it removes every piece in every situation.",
+        "is_correct": false
+      },
+      {
+        "text": "Investigate why two pieces remained and test an improvement.",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the remaining pieces because most were removed.",
+        "is_correct": false
+      },
+      {
+        "text": "Conclude no steel is magnetic.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Declare that it removes every piece in every situation.",
+      "Investigate why two pieces remained and test an improvement.",
+      "Ignore the remaining pieces because most were removed.",
+      "Conclude no steel is magnetic."
+    ],
+    "correct_index": 1,
+    "correct": 1,
+    "explanation": {
+      "summary": "The evidence shows useful separation with an unresolved limitation. Improvements must be checked rather than assumed.",
+      "hint": "Check which materials respond to a common magnet and which remain."
+    },
+    "structuredExplanation": {
+      "summary": "The evidence shows useful separation with an unresolved limitation. Improvements must be checked rather than assumed.",
+      "hint": "Check which materials respond to a common magnet and which remain."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
+    "sequence_priority": 44,
+    "sequencePriority": 44,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "single"
+  },
+  {
+    "id": "AC9S4H02-P-045",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H02",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "skill": "science_application",
+    "question": "Choose a familiar waste problem at school. Draw a plan linking the need, one correct scientific explanation, a proposed action and evidence that would show whether it works.",
+    "audio_prompt": "Choose a familiar waste problem at school. Draw a plan linking the need, one correct scientific explanation, a proposed action and evidence that would show whether it works.",
+    "audioPrompt": "Choose a familiar waste problem at school. Draw a plan linking the need, one correct scientific explanation, a proposed action and evidence that would show whether it works.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "For suitable scraps, decomposers can break down organic material; separate accepted scraps and monitor contamination and processing. Other correctly explained examples are acceptable.",
+      "hint": "Keep your actual notes, plan or observations for adult review."
+    },
+    "structuredExplanation": {
+      "summary": "For suitable scraps, decomposers can break down organic material; separate accepted scraps and monitor contamination and processing. Other correctly explained examples are acceptable.",
+      "hint": "Keep your actual notes, plan or observations for adult review."
+    },
+    "stage": "recognise",
     "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 45,
+    "sequencePriority": 45,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "For suitable scraps, decomposers can break down organic material; separate accepted scraps and monitor contamination and processing. Other correctly explained examples are acceptable.",
+    "acceptance_note": "Inspect an actual four-part plan with a causal scientific explanation and relevant evidence, not just a product name.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4H02-P-046",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H02",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "skill": "water",
+    "question": "Read the linked ACARA account of community-led water treatment. Make a three-column note: the stated community need, the scientific solution being investigated and one continuing check needed. Identify the community named in your example.",
+    "audio_prompt": "Read the linked ACARA account of community-led water treatment. Make a three-column note: the stated community need, the scientific solution being investigated and one continuing check needed. Identify the community named in your example.",
+    "audioPrompt": "Read the linked ACARA account of community-led water treatment. Make a three-column note: the stated community need, the scientific solution being investigated and one continuing check needed. Identify the community named in your example.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "The ACARA account describes Arrernte Elders investigating solar-powered treatment for water-quality needs. Continued water-quality monitoring and maintenance are important.",
+      "hint": "Keep your actual notes, plan or observations for adult review."
+    },
+    "structuredExplanation": {
+      "summary": "The ACARA account describes Arrernte Elders investigating solar-powered treatment for water-quality needs. Continued water-quality monitoring and maintenance are important.",
+      "hint": "Keep your actual notes, plan or observations for adult review."
+    },
+    "stage": "recognise",
+    "difficulty": 3,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 46,
+    "sequencePriority": 46,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "The ACARA account describes Arrernte Elders investigating solar-powered treatment for water-quality needs. Continued water-quality monitoring and maintenance are important.",
+    "acceptance_note": "Inspect source-attributed notes identifying the need, treatment connection and continuing check. Do not infer that the described project is a verified current operating service.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4H02-P-047",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H02",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "skill": "magnetism",
+    "question": "With an adult, test a large classroom magnet on a clean steel paperclip, aluminium foil, a plastic lid and a wooden craft stick. Record the actual results and explain one recycling job a magnet could help with and one limit.",
+    "audio_prompt": "With an adult, test a large classroom magnet on a clean steel paperclip, aluminium foil, a plastic lid and a wooden craft stick. Record the actual results and explain one recycling job a magnet could help with and one limit.",
+    "audioPrompt": "With an adult, test a large classroom magnet on a clean steel paperclip, aluminium foil, a plastic lid and a wooden craft stick. Record the actual results and explain one recycling job a magnet could help with and one limit.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "The steel clip should be attracted strongly; the other listed materials should not. A magnet can help remove suitable steel but does not separate all materials or all metals.",
+      "hint": "Keep your actual notes, plan or observations for adult review."
+    },
+    "structuredExplanation": {
+      "summary": "The steel clip should be attracted strongly; the other listed materials should not. A magnet can help remove suitable steel but does not separate all materials or all metals.",
+      "hint": "Keep your actual notes, plan or observations for adult review."
+    },
+    "stage": "recognise",
+    "difficulty": 3,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 47,
+    "sequencePriority": 47,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "The steel clip should be attracted strongly; the other listed materials should not. A magnet can help remove suitable steel but does not separate all materials or all metals.",
+    "acceptance_note": "Inspect four real observations, a useful sorting application and a limitation. Use large magnets and keep all items away from mouths; do not handle industrial waste.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4H02-P-048",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H02",
+    "curriculumCode": "AC9S4H02",
+    "bank": "practice",
+    "skill": "plastic",
+    "question": "Study two clean plastic products at home with an adult. Record a useful property of each, whether it can be reused for its intended purpose and how to check its local disposal instructions. Explain one choice using a property.",
+    "audio_prompt": "Study two clean plastic products at home with an adult. Record a useful property of each, whether it can be reused for its intended purpose and how to check its local disposal instructions. Explain one choice using a property.",
+    "audioPrompt": "Study two clean plastic products at home with an adult. Record a useful property of each, whether it can be reused for its intended purpose and how to check its local disposal instructions. Explain one choice using a property.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [],
+    "answer_texts": [],
+    "correct_index": null,
+    "correct": null,
+    "explanation": {
+      "summary": "Answers vary: a durable storage box can be reused while suitable; a flexible film may have different collection requirements. Check the relevant local instructions rather than assuming all plastic is accepted.",
+      "hint": "Keep your actual notes, plan or observations for adult review."
+    },
+    "structuredExplanation": {
+      "summary": "Answers vary: a durable storage box can be reused while suitable; a flexible film may have different collection requirements. Check the relevant local instructions rather than assuming all plastic is accepted.",
+      "hint": "Keep your actual notes, plan or observations for adult review."
+    },
+    "stage": "recognise",
+    "difficulty": 3,
+    "difficulty_tier": "recognise",
+    "difficultyTier": "recognise",
+    "sequence_priority": 48,
+    "sequencePriority": 48,
+    "quality_schema": "skillr-actual-v6",
+    "qualitySchema": "skillr-actual-v6",
+    "printable": true,
+    "type": "self-check",
+    "grading_mode": "adult-review",
+    "model_answer": "Answers vary: a durable storage box can be reused while suitable; a flexible film may have different collection requirements. Check the relevant local instructions rather than assuming all plastic is accepted.",
+    "acceptance_note": "Inspect two actual examples, properties linked to decisions and a specific method for checking local disposal. No unsupported universal recycling claim.",
+    "response_instructions": "Complete the actual written or practical work and ask an adult to check the evidence.",
+    "completion_label": "My work is ready for an adult to check."
+  },
+  {
+    "id": "AC9S4H02-T-001",
+    "subject": "science",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9S4H02",
+    "curriculumCode": "AC9S4H02",
+    "bank": "test",
+    "skill": "compost",
+    "question": "A compost facility mixes air into suitable organic waste. Which explanation supports this action?",
+    "audio_prompt": "A compost facility mixes air into suitable organic waste. Which explanation supports this action?",
+    "audioPrompt": "A compost facility mixes air into suitable organic waste. Which explanation supports this action?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "visualHtml": "",
+    "answers": [
+      {
+        "text": "Many decomposers need air to break the material down.",
+        "is_correct": true
+      },
+      {
+        "text": "Air makes all plastic compostable.",
+        "is_correct": false
+      },
+      {
+        "text": "Air removes every need for moisture.",
+        "is_correct": false
+      },
+      {
+        "text": "Decomposers are not involved in composting.",
+        "is_correct": false
+      }
+    ],
+    "answer_texts": [
+      "Many decomposers need air to break the material down.",
+      "Air makes all plastic compostable.",
+      "Air removes every need for moisture.",
+      "Decomposers are not involved in composting."
+    ],
+    "correct_index": 0,
+    "correct": 0,
+    "explanation": {
+      "summary": "Managing living decomposers’ conditions helps process suitable waste.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
+    },
+    "structuredExplanation": {
+      "summary": "Managing living decomposers’ conditions helps process suitable waste.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
+    },
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 1,
     "sequencePriority": 1,
     "quality_schema": "skillr-actual-v6",
@@ -2506,10 +2927,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "A design brief says only classroom scrap materials can be used. What is this?",
-    "audio_prompt": "A design brief says only classroom scrap materials can be used. What is this?",
-    "audioPrompt": "A design brief says only classroom scrap materials can be used. What is this?",
+    "skill": "compost",
+    "question": "A “compostable” cup remains intact in a home heap. Which explanation should be checked?",
+    "audio_prompt": "A “compostable” cup remains intact in a home heap. Which explanation should be checked?",
+    "audioPrompt": "A “compostable” cup remains intact in a home heap. Which explanation should be checked?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2517,41 +2938,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A claim only",
+        "text": "All cups break down at the same rate.",
         "is_correct": false
       },
       {
-        "text": "A constraint",
+        "text": "The cup must have become metal.",
+        "is_correct": false
+      },
+      {
+        "text": "Home heaps contain no living organisms.",
+        "is_correct": false
+      },
+      {
+        "text": "It may require processing conditions the home heap does not provide.",
         "is_correct": true
-      },
-      {
-        "text": "A result",
-        "is_correct": false
-      },
-      {
-        "text": "A prototype",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A claim only",
-      "A constraint",
-      "A result",
-      "A prototype"
+      "All cups break down at the same rate.",
+      "The cup must have become metal.",
+      "Home heaps contain no living organisms.",
+      "It may require processing conditions the home heap does not provide."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "A limit on materials is a constraint.",
-      "hint": "Design limit."
+      "summary": "Some products need specific composting conditions; check the stated requirements and accepted materials.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
     "structuredExplanation": {
-      "summary": "A limit on materials is a constraint.",
-      "hint": "Design limit."
+      "summary": "Some products need specific composting conditions; check the stated requirements and accepted materials.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 2,
     "sequencePriority": 2,
     "quality_schema": "skillr-actual-v6",
@@ -2566,10 +2988,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why should two cooling-box prototypes be tested with the same starting temperature?",
-    "audio_prompt": "Why should two cooling-box prototypes be tested with the same starting temperature?",
-    "audioPrompt": "Why should two cooling-box prototypes be tested with the same starting temperature?",
+    "skill": "water",
+    "question": "A bore-water sample looks clear but contains an unwanted dissolved substance. What follows?",
+    "audio_prompt": "A bore-water sample looks clear but contains an unwanted dissolved substance. What follows?",
+    "audioPrompt": "A bore-water sample looks clear but contains an unwanted dissolved substance. What follows?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2577,41 +2999,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "So differences are more likely due to the prototype design",
+        "text": "Clear water proves every unwanted substance is absent.",
+        "is_correct": false
+      },
+      {
+        "text": "Cloth filtering always removes dissolved substances.",
+        "is_correct": false
+      },
+      {
+        "text": "Appearance alone cannot establish whether treatment has worked.",
         "is_correct": true
       },
       {
-        "text": "So one design automatically wins",
-        "is_correct": false
-      },
-      {
-        "text": "So no thermometer is needed",
-        "is_correct": false
-      },
-      {
-        "text": "So cost becomes a temperature",
+        "text": "The substance disappears when the container is labelled clean.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "So differences are more likely due to the prototype design",
-      "So one design automatically wins",
-      "So no thermometer is needed",
-      "So cost becomes a temperature"
+      "Clear water proves every unwanted substance is absent.",
+      "Cloth filtering always removes dissolved substances.",
+      "Appearance alone cannot establish whether treatment has worked.",
+      "The substance disappears when the container is labelled clean."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "Controlling starting temperature makes the comparison fairer.",
-      "hint": "Same starting condition."
+      "summary": "Water quality requires appropriate tests, not appearance alone.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
     "structuredExplanation": {
-      "summary": "Controlling starting temperature makes the comparison fairer.",
-      "hint": "Same starting condition."
+      "summary": "Water quality requires appropriate tests, not appearance alone.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 3,
     "sequencePriority": 3,
     "quality_schema": "skillr-actual-v6",
@@ -2626,10 +3049,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "A rainwater collector catches lots of water but tips over easily. What does this show?",
-    "audio_prompt": "A rainwater collector catches lots of water but tips over easily. What does this show?",
-    "audioPrompt": "A rainwater collector catches lots of water but tips over easily. What does this show?",
+    "skill": "water",
+    "question": "Why can a solar-powered treatment unit still need trained local operators?",
+    "audio_prompt": "Why can a solar-powered treatment unit still need trained local operators?",
+    "audioPrompt": "Why can a solar-powered treatment unit still need trained local operators?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2637,41 +3060,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "A perfect solution",
+        "text": "Sunlight guarantees permanent success.",
         "is_correct": false
       },
       {
-        "text": "A result that should be hidden",
-        "is_correct": false
-      },
-      {
-        "text": "A criterion that cannot be measured",
-        "is_correct": false
-      },
-      {
-        "text": "A trade-off or weakness that needs redesign",
+        "text": "Its operation, maintenance and water quality need checking.",
         "is_correct": true
+      },
+      {
+        "text": "Training replaces every water test.",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific equipment can never develop faults.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "A perfect solution",
-      "A result that should be hidden",
-      "A criterion that cannot be measured",
-      "A trade-off or weakness that needs redesign"
+      "Sunlight guarantees permanent success.",
+      "Its operation, maintenance and water quality need checking.",
+      "Training replaces every water test.",
+      "Scientific equipment can never develop faults."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The collector meets one goal but has a stability problem.",
-      "hint": "Benefit plus limitation."
+      "summary": "A useful solution must continue meeting the community’s needs over time.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
     "structuredExplanation": {
-      "summary": "The collector meets one goal but has a stability problem.",
-      "hint": "Benefit plus limitation."
+      "summary": "A useful solution must continue meeting the community’s needs over time.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 4,
     "sequencePriority": 4,
     "quality_schema": "skillr-actual-v6",
@@ -2686,10 +3110,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which recommendation is best supported?",
-    "audio_prompt": "Which recommendation is best supported?",
-    "audioPrompt": "Which recommendation is best supported?",
+    "skill": "plants",
+    "question": "Why can knowledge of a tree’s survival help people obtain bark sustainably?",
+    "audio_prompt": "Why can knowledge of a tree’s survival help people obtain bark sustainably?",
+    "audioPrompt": "Why can knowledge of a tree’s survival help people obtain bark sustainably?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2697,41 +3121,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Choose the first idea",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the one not tested",
-        "is_correct": false
-      },
-      {
-        "text": "Choose the sleeve that kept water coolest and still fit the cost limit",
+        "text": "It can guide choices that protect the living source of future material.",
         "is_correct": true
       },
       {
-        "text": "Choose the prettiest sleeve",
+        "text": "A tree can lose any amount of bark without harm.",
+        "is_correct": false
+      },
+      {
+        "text": "Harvesting always makes trees grow faster.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the finished object matters.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Choose the first idea",
-      "Choose the one not tested",
-      "Choose the sleeve that kept water coolest and still fit the cost limit",
-      "Choose the prettiest sleeve"
+      "It can guide choices that protect the living source of future material.",
+      "A tree can lose any amount of bark without harm.",
+      "Harvesting always makes trees grow faster.",
+      "Only the finished object matters."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "The recommendation uses performance evidence and a constraint.",
-      "hint": "Evidence and limit."
+      "summary": "The scientific link is between plant needs, harvesting decisions and continued resource supply.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
     "structuredExplanation": {
-      "summary": "The recommendation uses performance evidence and a constraint.",
-      "hint": "Evidence and limit."
+      "summary": "The scientific link is between plant needs, harvesting decisions and continued resource supply.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 5,
     "sequencePriority": 5,
     "quality_schema": "skillr-actual-v6",
@@ -2746,10 +3171,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "A prototype is tested before the final product because:",
-    "audio_prompt": "A prototype is tested before the final product because:",
-    "audioPrompt": "A prototype is tested before the final product because:",
+    "skill": "plants",
+    "question": "A learner says every First Nations community uses the same plant for artwork. What is the best correction?",
+    "audio_prompt": "A learner says every First Nations community uses the same plant for artwork. What is the best correction?",
+    "audioPrompt": "A learner says every First Nations community uses the same plant for artwork. What is the best correction?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2757,41 +3182,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Criteria should be guessed later",
+        "text": "One example proves all communities use it.",
         "is_correct": false
       },
       {
-        "text": "Early evidence can guide improvements",
+        "text": "Plant knowledge has no relationship to place.",
+        "is_correct": false
+      },
+      {
+        "text": "A generic label is always more accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the specific community and plant identified by a reliable source.",
         "is_correct": true
-      },
-      {
-        "text": "Testing only works after selling it",
-        "is_correct": false
-      },
-      {
-        "text": "Models cannot be changed",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Criteria should be guessed later",
-      "Early evidence can guide improvements",
-      "Testing only works after selling it",
-      "Models cannot be changed"
+      "One example proves all communities use it.",
+      "Plant knowledge has no relationship to place.",
+      "A generic label is always more accurate.",
+      "Use the specific community and plant identified by a reliable source."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Prototype testing helps teams improve designs before final decisions.",
-      "hint": "Test early."
+      "summary": "First Nations knowledges are diverse and connected with particular communities and environments.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
     "structuredExplanation": {
-      "summary": "Prototype testing helps teams improve designs before final decisions.",
-      "hint": "Test early."
+      "summary": "First Nations knowledges are diverse and connected with particular communities and environments.",
+      "hint": "Link the useful plant material to plant survival and future growth."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 6,
     "sequencePriority": 6,
     "quality_schema": "skillr-actual-v6",
@@ -2806,10 +3232,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which is the best science link for an insulated cup design?",
-    "audio_prompt": "Which is the best science link for an insulated cup design?",
-    "audioPrompt": "Which is the best science link for an insulated cup design?",
+    "skill": "plastic",
+    "question": "A plastic item fragments outdoors but the pieces remain. What decision does this evidence support?",
+    "audio_prompt": "A plastic item fragments outdoors but the pieces remain. What decision does this evidence support?",
+    "audioPrompt": "A plastic item fragments outdoors but the pieces remain. What decision does this evidence support?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2817,41 +3243,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Reducing heat transfer helps keep the drink temperature more stable",
+        "text": "Small pieces prove there is no plastic left.",
+        "is_correct": false
+      },
+      {
+        "text": "Fragmenting is the same as safe composting.",
+        "is_correct": false
+      },
+      {
+        "text": "Prevent litter and use suitable collection rather than assuming it disappears.",
         "is_correct": true
       },
       {
-        "text": "Adding a bigger sticker cools the drink",
-        "is_correct": false
-      },
-      {
-        "text": "The cup name changes heat",
-        "is_correct": false
-      },
-      {
-        "text": "Colour preference proves insulation",
+        "text": "Littering improves its useful lifetime.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Reducing heat transfer helps keep the drink temperature more stable",
-      "Adding a bigger sticker cools the drink",
-      "The cup name changes heat",
-      "Colour preference proves insulation"
+      "Small pieces prove there is no plastic left.",
+      "Fragmenting is the same as safe composting.",
+      "Prevent litter and use suitable collection rather than assuming it disappears.",
+      "Littering improves its useful lifetime."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The science explanation connects insulation to heat transfer.",
-      "hint": "Science behind feature."
+      "summary": "Persistence and fragmentation help explain why disposal matters.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
     "structuredExplanation": {
-      "summary": "The science explanation connects insulation to heat transfer.",
-      "hint": "Science behind feature."
+      "summary": "Persistence and fragmentation help explain why disposal matters.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 7,
     "sequencePriority": 7,
     "quality_schema": "skillr-actual-v6",
@@ -2866,10 +3293,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which design claim wrongly overgeneralises?",
-    "audio_prompt": "Which design claim wrongly overgeneralises?",
-    "audioPrompt": "Which design claim wrongly overgeneralises?",
+    "skill": "plastic",
+    "question": "Which statement uses a property to justify reusing a container?",
+    "audio_prompt": "Which statement uses a property to justify reusing a container?",
+    "audioPrompt": "Which statement uses a property to justify reusing a container?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2877,41 +3304,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Criteria help judge success",
+        "text": "A bright colour guarantees it is safe forever.",
         "is_correct": false
       },
       {
-        "text": "Constraints limit choices",
-        "is_correct": false
-      },
-      {
-        "text": "Evidence can improve designs",
-        "is_correct": false
-      },
-      {
-        "text": "Best means best for every user and every situation",
+        "text": "Its durability allows repeated suitable use, reducing replacement.",
         "is_correct": true
+      },
+      {
+        "text": "All plastic lasts identically under all conditions.",
+        "is_correct": false
+      },
+      {
+        "text": "Reuse means disposal instructions never matter.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Criteria help judge success",
-      "Constraints limit choices",
-      "Evidence can improve designs",
-      "Best means best for every user and every situation"
+      "A bright colour guarantees it is safe forever.",
+      "Its durability allows repeated suitable use, reducing replacement.",
+      "All plastic lasts identically under all conditions.",
+      "Reuse means disposal instructions never matter."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The best design depends on the user, criteria and constraints.",
-      "hint": "Best for whom?"
+      "summary": "Durability can support reuse while the container remains fit for its purpose.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
     "structuredExplanation": {
-      "summary": "The best design depends on the user, criteria and constraints.",
-      "hint": "Best for whom?"
+      "summary": "Durability can support reuse while the container remains fit for its purpose.",
+      "hint": "Compare the useful property with what happens after use; fragmentation is not disappearance."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 8,
     "sequencePriority": 8,
     "quality_schema": "skillr-actual-v6",
@@ -2926,10 +3354,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "A team chooses a heavier material because it survives all drop tests. What should they also consider?",
-    "audio_prompt": "A team chooses a heavier material because it survives all drop tests. What should they also consider?",
-    "audioPrompt": "A team chooses a heavier material because it survives all drop tests. What should they also consider?",
+    "skill": "friction",
+    "question": "A bicycle needs to stop on a slippery surface. Which scientific idea is relevant?",
+    "audio_prompt": "A bicycle needs to stop on a slippery surface. Which scientific idea is relevant?",
+    "audioPrompt": "A bicycle needs to stop on a slippery surface. Which scientific idea is relevant?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2937,41 +3365,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Whether testing should stop forever",
-        "is_correct": false
-      },
-      {
-        "text": "Whether evidence is unnecessary",
-        "is_correct": false
-      },
-      {
-        "text": "Whether the mass still meets the user’s needs",
+        "text": "Tyre-road grip and braking depend on friction.",
         "is_correct": true
       },
       {
-        "text": "Whether it has the longest name",
+        "text": "Stopping requires gravity to switch off.",
+        "is_correct": false
+      },
+      {
+        "text": "Friction occurs only without contact.",
+        "is_correct": false
+      },
+      {
+        "text": "Every surface supplies identical grip.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Whether testing should stop forever",
-      "Whether evidence is unnecessary",
-      "Whether the mass still meets the user’s needs",
-      "Whether it has the longest name"
+      "Tyre-road grip and braking depend on friction.",
+      "Stopping requires gravity to switch off.",
+      "Friction occurs only without contact.",
+      "Every surface supplies identical grip."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "A strong material may still be unsuitable if it is too heavy.",
-      "hint": "Check constraints."
+      "summary": "Contact friction helps braking and grip; slippery conditions can limit them.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
     "structuredExplanation": {
-      "summary": "A strong material may still be unsuitable if it is too heavy.",
-      "hint": "Check constraints."
+      "summary": "Contact friction helps braking and grip; slippery conditions can limit them.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 9,
     "sequencePriority": 9,
     "quality_schema": "skillr-actual-v6",
@@ -2986,10 +3415,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which evidence would improve a claim about a bike helmet liner?",
-    "audio_prompt": "Which evidence would improve a claim about a bike helmet liner?",
-    "audioPrompt": "Which evidence would improve a claim about a bike helmet liner?",
+    "skill": "friction",
+    "question": "Two brake-pad designs are compared on different wetness levels. Why is the conclusion weak?",
+    "audio_prompt": "Two brake-pad designs are compared on different wetness levels. Why is the conclusion weak?",
+    "audioPrompt": "Two brake-pad designs are compared on different wetness levels. Why is the conclusion weak?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -2997,41 +3426,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "The price with no safety test",
+        "text": "Water can never affect friction.",
         "is_correct": false
       },
       {
-        "text": "Impact-test results under the same drop conditions",
+        "text": "The best design needs no comparison.",
+        "is_correct": false
+      },
+      {
+        "text": "A wetter surface guarantees the same grip.",
+        "is_correct": false
+      },
+      {
+        "text": "Both pad design and surface condition changed.",
         "is_correct": true
-      },
-      {
-        "text": "The student’s favourite colour",
-        "is_correct": false
-      },
-      {
-        "text": "A drawing without data",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "The price with no safety test",
-      "Impact-test results under the same drop conditions",
-      "The student’s favourite colour",
-      "A drawing without data"
+      "Water can never affect friction.",
+      "The best design needs no comparison.",
+      "A wetter surface guarantees the same grip.",
+      "Both pad design and surface condition changed."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Safety design claims need relevant test evidence.",
-      "hint": "Impact evidence."
+      "summary": "Controlling relevant conditions helps identify the effect of the design.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
     "structuredExplanation": {
-      "summary": "Safety design claims need relevant test evidence.",
-      "hint": "Impact evidence."
+      "summary": "Controlling relevant conditions helps identify the effect of the design.",
+      "hint": "Identify the contacting surfaces and how their grip affects stopping."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 10,
     "sequencePriority": 10,
     "quality_schema": "skillr-actual-v6",
@@ -3046,10 +3476,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "A first prototype leaks at the corner. What is the most evidence-based next step?",
-    "audio_prompt": "A first prototype leaks at the corner. What is the most evidence-based next step?",
-    "audioPrompt": "A first prototype leaks at the corner. What is the most evidence-based next step?",
+    "skill": "magnetism",
+    "question": "A magnet lifts iron pieces from a mixture but leaves copper. What limit does this show?",
+    "audio_prompt": "A magnet lifts iron pieces from a mixture but leaves copper. What limit does this show?",
+    "audioPrompt": "A magnet lifts iron pieces from a mixture but leaves copper. What limit does this show?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3057,41 +3487,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Change the corner seal and retest for leaks",
+        "text": "Copper must not be metal.",
+        "is_correct": false
+      },
+      {
+        "text": "All metal has been removed.",
+        "is_correct": false
+      },
+      {
+        "text": "Magnetic separation does not remove every metal.",
         "is_correct": true
       },
       {
-        "text": "Ignore the leak because the idea was first",
-        "is_correct": false
-      },
-      {
-        "text": "Choose by decoration",
-        "is_correct": false
-      },
-      {
-        "text": "Stop recording water",
+        "text": "Iron is attracted because of its colour only.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Change the corner seal and retest for leaks",
-      "Ignore the leak because the idea was first",
-      "Choose by decoration",
-      "Stop recording water"
+      "Copper must not be metal.",
+      "All metal has been removed.",
+      "Magnetic separation does not remove every metal.",
+      "Iron is attracted because of its colour only."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "The redesign targets the observed weakness.",
-      "hint": "Fix what failed."
+      "summary": "Common magnets strongly attract iron but not copper. Other sorting methods may be needed.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
     "structuredExplanation": {
-      "summary": "The redesign targets the observed weakness.",
-      "hint": "Fix what failed."
+      "summary": "Common magnets strongly attract iron but not copper. Other sorting methods may be needed.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 11,
     "sequencePriority": 11,
     "quality_schema": "skillr-actual-v6",
@@ -3106,10 +3537,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which pair is criterion and constraint?",
-    "audio_prompt": "Which pair is criterion and constraint?",
-    "audioPrompt": "Which pair is criterion and constraint?",
+    "skill": "magnetism",
+    "question": "A food processor uses a magnet to remove suitable steel fragments. Which claim is too broad?",
+    "audio_prompt": "A food processor uses a magnet to remove suitable steel fragments. Which claim is too broad?",
+    "audioPrompt": "A food processor uses a magnet to remove suitable steel fragments. Which claim is too broad?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3117,41 +3548,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Blue colour; funny team name",
+        "text": "It can attract suitable steel fragments.",
         "is_correct": false
       },
       {
-        "text": "Favourite material; neat poster",
-        "is_correct": false
-      },
-      {
-        "text": "Graph title; class vote",
-        "is_correct": false
-      },
-      {
-        "text": "Keeps ice frozen for 3 hours; costs under $10",
+        "text": "The magnet removes every type of contamination.",
         "is_correct": true
+      },
+      {
+        "text": "Other checks can still be needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Its effectiveness should be tested.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Blue colour; funny team name",
-      "Favourite material; neat poster",
-      "Graph title; class vote",
-      "Keeps ice frozen for 3 hours; costs under $10"
+      "It can attract suitable steel fragments.",
+      "The magnet removes every type of contamination.",
+      "Other checks can still be needed.",
+      "Its effectiveness should be tested."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "The first is measurable performance and the second is a limit.",
-      "hint": "Performance plus limit."
+      "summary": "Magnetic removal targets particular materials; it is not a universal safety check.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
     "structuredExplanation": {
-      "summary": "The first is measurable performance and the second is a limit.",
-      "hint": "Performance plus limit."
+      "summary": "Magnetic removal targets particular materials; it is not a universal safety check.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 12,
     "sequencePriority": 12,
     "quality_schema": "skillr-actual-v6",
@@ -3166,10 +3598,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Why can a design that works in one test still need more testing?",
-    "audio_prompt": "Why can a design that works in one test still need more testing?",
-    "audioPrompt": "Why can a design that works in one test still need more testing?",
+    "skill": "water",
+    "question": "A water-storage plan is successful during rainy months but runs short in the dry season. What should be considered?",
+    "audio_prompt": "A water-storage plan is successful during rainy months but runs short in the dry season. What should be considered?",
+    "audioPrompt": "A water-storage plan is successful during rainy months but runs short in the dry season. What should be considered?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3177,41 +3609,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "More evidence always weakens claims",
-        "is_correct": false
-      },
-      {
-        "text": "Working once means criteria do not matter",
-        "is_correct": false
-      },
-      {
-        "text": "Different conditions may reveal new limitations",
+        "text": "Supply and demand across different seasons.",
         "is_correct": true
       },
       {
-        "text": "One test proves every future use",
+        "text": "Only the wettest month proves year-round success.",
+        "is_correct": false
+      },
+      {
+        "text": "A tank creates rain whenever needed.",
+        "is_correct": false
+      },
+      {
+        "text": "A scientific explanation removes seasonal changes.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "More evidence always weakens claims",
-      "Working once means criteria do not matter",
-      "Different conditions may reveal new limitations",
-      "One test proves every future use"
+      "Supply and demand across different seasons.",
+      "Only the wettest month proves year-round success.",
+      "A tank creates rain whenever needed.",
+      "A scientific explanation removes seasonal changes."
     ],
-    "correct_index": 2,
-    "correct": 2,
+    "correct_index": 0,
+    "correct": 0,
     "explanation": {
-      "summary": "Testing under varied relevant conditions checks reliability and limitations.",
-      "hint": "Conditions vary."
+      "summary": "A solution must be judged against the conditions and needs it is meant to meet.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
     "structuredExplanation": {
-      "summary": "Testing under varied relevant conditions checks reliability and limitations.",
-      "hint": "Conditions vary."
+      "summary": "A solution must be judged against the conditions and needs it is meant to meet.",
+      "hint": "Separate water quantity from quality; visible clarity does not reveal dissolved substances."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 13,
     "sequencePriority": 13,
     "quality_schema": "skillr-actual-v6",
@@ -3226,52 +3659,54 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "A school shade design must cool seats and let teachers see students. What does this show?",
-    "audio_prompt": "A school shade design must cool seats and let teachers see students. What does this show?",
-    "audioPrompt": "A school shade design must cool seats and let teachers see students. What does this show?",
+    "skill": "compost",
+    "question": "A facility’s sorting change reduces plastic contamination in compost from 12 pieces to 2 in equal-sized samples. Which conclusion fits?",
+    "audio_prompt": "A facility’s sorting change reduces plastic contamination in compost from 12 pieces to 2 in equal-sized samples. Which conclusion fits?",
+    "audioPrompt": "A facility’s sorting change reduces plastic contamination in compost from 12 pieces to 2 in equal-sized samples. Which conclusion fits?",
     "visual": {
-      "type": "none",
-      "alt_text": ""
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year4/science/ac9s4h02/sorting-evidence.svg#model",
+      "alt_text": "Equal-sized samples: twelve visible plastic pieces before the sorting change, two after."
     },
-    "visualHtml": "",
+    "visualHtml": "<img src=\"/assets/assessment-visuals/year4/science/ac9s4h02/sorting-evidence.svg#model\" alt=\"Equal-sized samples: twelve visible plastic pieces before the sorting change, two after.\" style=\"width:100%;height:auto\">",
     "answers": [
       {
-        "text": "Criteria are opinions only",
+        "text": "The process now removes all plastic forever.",
         "is_correct": false
       },
       {
-        "text": "A solution may need to meet several criteria at once",
+        "text": "The change had no effect because two remained.",
+        "is_correct": false
+      },
+      {
+        "text": "The samples prove every facility behaves identically.",
+        "is_correct": false
+      },
+      {
+        "text": "The change helped in these samples, but some contamination remains.",
         "is_correct": true
-      },
-      {
-        "text": "Only cooling matters",
-        "is_correct": false
-      },
-      {
-        "text": "Visibility cannot be a requirement",
-        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Criteria are opinions only",
-      "A solution may need to meet several criteria at once",
-      "Only cooling matters",
-      "Visibility cannot be a requirement"
+      "The process now removes all plastic forever.",
+      "The change had no effect because two remained.",
+      "The samples prove every facility behaves identically.",
+      "The change helped in these samples, but some contamination remains."
     ],
-    "correct_index": 1,
-    "correct": 1,
+    "correct_index": 3,
+    "correct": 3,
     "explanation": {
-      "summary": "Real designs often need to satisfy multiple requirements.",
-      "hint": "Several needs."
+      "summary": "The evidence supports improvement with a remaining limitation, not a universal guarantee.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
     "structuredExplanation": {
-      "summary": "Real designs often need to satisfy multiple requirements.",
-      "hint": "Several needs."
+      "summary": "The evidence supports improvement with a remaining limitation, not a universal guarantee.",
+      "hint": "Think about living decomposers, suitable conditions and what remains in the output."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 14,
     "sequencePriority": 14,
     "quality_schema": "skillr-actual-v6",
@@ -3286,10 +3721,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "Which statement best evaluates an advertisement saying “science says this bottle is best”?",
-    "audio_prompt": "Which statement best evaluates an advertisement saying “science says this bottle is best”?",
-    "audioPrompt": "Which statement best evaluates an advertisement saying “science says this bottle is best”?",
+    "skill": "science_application",
+    "question": "A reusable bag is strong but too difficult for its user to carry. What should the designers do?",
+    "audio_prompt": "A reusable bag is strong but too difficult for its user to carry. What should the designers do?",
+    "audioPrompt": "A reusable bag is strong but too difficult for its user to carry. What should the designers do?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3297,41 +3732,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Ask what tests, criteria, comparisons and limits support the claim",
+        "text": "Choose by strength alone regardless of the user.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the scientific test because needs differ.",
+        "is_correct": false
+      },
+      {
+        "text": "Consider strength and the user’s carrying needs together.",
         "is_correct": true
       },
       {
-        "text": "Accept it without evidence",
-        "is_correct": false
-      },
-      {
-        "text": "Reject all science in products",
-        "is_correct": false
-      },
-      {
-        "text": "Choose it for the label",
+        "text": "Assume every user needs the same bag.",
         "is_correct": false
       }
     ],
     "answer_texts": [
-      "Ask what tests, criteria, comparisons and limits support the claim",
-      "Accept it without evidence",
-      "Reject all science in products",
-      "Choose it for the label"
+      "Choose by strength alone regardless of the user.",
+      "Ignore the scientific test because needs differ.",
+      "Consider strength and the user’s carrying needs together.",
+      "Assume every user needs the same bag."
     ],
-    "correct_index": 0,
-    "correct": 0,
+    "correct_index": 2,
+    "correct": 2,
     "explanation": {
-      "summary": "A scientific product claim should be backed by transparent evidence.",
-      "hint": "Check evidence."
+      "summary": "Science helps explain performance, but a solution must meet the actual need.",
+      "hint": "Name the user’s need, the property that helps and the remaining limitation."
     },
     "structuredExplanation": {
-      "summary": "A scientific product claim should be backed by transparent evidence.",
-      "hint": "Check evidence."
+      "summary": "Science helps explain performance, but a solution must meet the actual need.",
+      "hint": "Name the user’s need, the property that helps and the remaining limitation."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 15,
     "sequencePriority": 15,
     "quality_schema": "skillr-actual-v6",
@@ -3346,10 +3782,10 @@
     "curriculum_code": "AC9S4H02",
     "curriculumCode": "AC9S4H02",
     "bank": "test",
-    "skill": "using_science_to_meet_needs_and_solve_problems",
-    "question": "A group improves a bridge after measuring where it bent. What process is being used?",
-    "audio_prompt": "A group improves a bridge after measuring where it bent. What process is being used?",
-    "audioPrompt": "A group improves a bridge after measuring where it bent. What process is being used?",
+    "skill": "magnetism",
+    "question": "Which explanation best connects a recycling action to science?",
+    "audio_prompt": "Which explanation best connects a recycling action to science?",
+    "audioPrompt": "Which explanation best connects a recycling action to science?",
     "visual": {
       "type": "none",
       "alt_text": ""
@@ -3357,41 +3793,42 @@
     "visualHtml": "",
     "answers": [
       {
-        "text": "Precipitation",
+        "text": "The separator works because its name sounds scientific.",
         "is_correct": false
       },
       {
-        "text": "Food-chain modelling",
-        "is_correct": false
-      },
-      {
-        "text": "Preference voting",
-        "is_correct": false
-      },
-      {
-        "text": "Evidence-based redesign",
+        "text": "Magnetic attraction lets a separator lift suitable iron pieces from other materials.",
         "is_correct": true
+      },
+      {
+        "text": "All shiny objects must be attracted.",
+        "is_correct": false
+      },
+      {
+        "text": "Any machine automatically solves every sorting problem.",
+        "is_correct": false
       }
     ],
     "answer_texts": [
-      "Precipitation",
-      "Food-chain modelling",
-      "Preference voting",
-      "Evidence-based redesign"
+      "The separator works because its name sounds scientific.",
+      "Magnetic attraction lets a separator lift suitable iron pieces from other materials.",
+      "All shiny objects must be attracted.",
+      "Any machine automatically solves every sorting problem."
     ],
-    "correct_index": 3,
-    "correct": 3,
+    "correct_index": 1,
+    "correct": 1,
     "explanation": {
-      "summary": "They used test evidence to guide an improvement.",
-      "hint": "Data to redesign."
+      "summary": "The explanation identifies the property, action and useful result.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
     "structuredExplanation": {
-      "summary": "They used test evidence to guide an improvement.",
-      "hint": "Data to redesign."
+      "summary": "The explanation identifies the property, action and useful result.",
+      "hint": "Check which materials respond to a common magnet and which remain."
     },
-    "difficulty": 3,
-    "difficulty_tier": "independent",
-    "difficultyTier": "independent",
+    "stage": "apply",
+    "difficulty": 2,
+    "difficulty_tier": "apply",
+    "difficultyTier": "apply",
     "sequence_priority": 16,
     "sequencePriority": 16,
     "quality_schema": "skillr-actual-v6",
