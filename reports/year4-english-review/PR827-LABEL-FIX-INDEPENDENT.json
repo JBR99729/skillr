@@ -1,0 +1,954 @@
+{
+  "date": "2026-09-08",
+  "reviewer": "english_la02_la04_audit",
+  "base": "6a8b6957edf38f60efcb4a54a3a982382c6361f0",
+  "status": "PASS",
+  "scope": "Exactly one same-code worksheet anchor label changed Homework to Worksheet; no other page bytes changed",
+  "count": 118,
+  "rows": [
+    {
+      "code": "AC9E6LA01",
+      "year": 6,
+      "path": "year6/english/ac9e6la01-that-language-varies-as-levels-of-formality-and-social-distance/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6la01/worksheet/",
+      "oldBlob": "3910a1ce9f2525546a63232235646744aff4d42d",
+      "sha256": "4243f7d7852e39baeb80eecfe7f6aa991d100971468946c072ca028d5f85c23d"
+    },
+    {
+      "code": "AC9E6LA02",
+      "year": 6,
+      "path": "year6/english/ac9e6la02-the-uses-of-objective-and-subjective-language-and-identify-bias/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6la02/worksheet/",
+      "oldBlob": "2c2796626d40b34075609d6c8167df4c8c3e4b97",
+      "sha256": "497bf3b72bffcd0a8889cd03b77e7f37a6c1f0d8db67f8ba882b74f8569549e0"
+    },
+    {
+      "code": "AC9E6LA03",
+      "year": 6,
+      "path": "year6/english/ac9e6la03-explain-how-texts-across-the-curriculum-are-typically-organised/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6la03/worksheet/",
+      "oldBlob": "154f4b0b2d4fe43f3840c85fa56520a3bff7fb87",
+      "sha256": "39659bb3bdc1a3e6ad27412548ba724a5ba6e5edb436b9c4c2b2053a28112774"
+    },
+    {
+      "code": "AC9E6LA04",
+      "year": 6,
+      "path": "year6/english/ac9e6la04-that-cohesion-can-be-created-by-the-intentional-use-of/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6la04/worksheet/",
+      "oldBlob": "9f576b1e836c0f32b124cf5ae5f49a1fcb6c73ac",
+      "sha256": "72e536f6c88bdd61308450d9498eaea4cb12734f4c1ea9fe319d8f29149c0187"
+    },
+    {
+      "code": "AC9E6LA05",
+      "year": 6,
+      "path": "year6/english/ac9e6la05-how-embedded-clauses-can-expand-the-variety-of-complex-sentences/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6la05/worksheet/",
+      "oldBlob": "20e7ac4523bf4e12160de9ce6035080d71e50a72",
+      "sha256": "91c92658b5d908515f9105ddfe86c23d3119f12b5ed2c83fa015bdf60529c66d"
+    },
+    {
+      "code": "AC9E6LA06",
+      "year": 6,
+      "path": "year6/english/ac9e6la06-how-ideas-can-be-expanded-and-sharpened-through-careful-choice/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6la06/worksheet/",
+      "oldBlob": "4fd858eea165551b1b00067b179ed0ed322e1bb9",
+      "sha256": "eb4a53b990ac3c636e60e37017afc0e207ff90fd34d5dd7c684cf5b59ee0fb0b"
+    },
+    {
+      "code": "AC9E6LA07",
+      "year": 6,
+      "path": "year6/english/ac9e6la07-and-explain-how-images-figures-tables-diagrams-maps-and-graphs/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6la07/worksheet/",
+      "oldBlob": "ff3352d048419f6779cb732370e0410cb7f37e36",
+      "sha256": "eca2a0fe23d73fa3454345de21c9a2171c0002623465438baf4b5c1788df26bf"
+    },
+    {
+      "code": "AC9E6LA08",
+      "year": 6,
+      "path": "year6/english/ac9e6la08-authors-use-of-vivid-emotive-vocabulary-such-as-metaphors/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6la08/worksheet/",
+      "oldBlob": "81c99d5ee876b66b6266fe52bc9c2b8b8e3f7d1f",
+      "sha256": "c63b2fad5ebb40e4b0127e043761e7dc552fb4491a0f3249809ba344ca4bb431"
+    },
+    {
+      "code": "AC9E6LA09",
+      "year": 6,
+      "path": "year6/english/ac9e6la09-how-to-use-the-comma-for-lists-to-separate-a/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6la09/worksheet/",
+      "oldBlob": "21b35129766f318e580e51c3482fee7ad144a042",
+      "sha256": "c9e72dc4340a4e847f41164a9195b318c6036342262255f66ce66714df784928"
+    },
+    {
+      "code": "AC9E6LE01",
+      "year": 6,
+      "path": "year6/english/ac9e6le01-responses-to-characters-and-events-in-literary-texts-drawn-from/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6le01/worksheet/",
+      "oldBlob": "b1e25f0aeada96b6f3c3c3fd22d85cacb80f61c3",
+      "sha256": "f6f1a26942587e1d94a22ac8f0e9b62642531de19bcd49a0ea22569254e9ad22"
+    },
+    {
+      "code": "AC9E6LE02",
+      "year": 6,
+      "path": "year6/english/ac9e6le02-similarities-and-differences-in-literary-texts-on-similar/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6le02/worksheet/",
+      "oldBlob": "141b6aa44ac6ae7d351686a79ef6ceab4ee66585",
+      "sha256": "fe9112e1d93c6a68a6bb1a83ba92750305bf1894019d5e3e97e3b06296d79bf3"
+    },
+    {
+      "code": "AC9E6LE03",
+      "year": 6,
+      "path": "year6/english/ac9e6le03-and-explain-characteristics-that-define-an-author-s-individual/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6le03/worksheet/",
+      "oldBlob": "e89d82869471d45fe8a106abf5190637e5db9556",
+      "sha256": "3236c96d893971c7ebc5c0e315377178b2a42b25da99ee6dd63885068c19f3f3"
+    },
+    {
+      "code": "AC9E6LE04",
+      "year": 6,
+      "path": "year6/english/ac9e6le04-explain-the-way-authors-use-sound-and-imagery-to-create/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6le04/worksheet/",
+      "oldBlob": "237febeb9bff33c03429fa332c66761f292af6fb",
+      "sha256": "dbc0555daafc96b45e3e2bd64963c0d81bc06aea1fc0597f4d689c2a2a348b72"
+    },
+    {
+      "code": "AC9E6LE05",
+      "year": 6,
+      "path": "year6/english/ac9e6le05-and-edit-literary-texts-that-adapt-plot-structure-characters/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6le05/worksheet/",
+      "oldBlob": "5bf3fc2cf639af1e8b1771b9cc3787eacffe875b",
+      "sha256": "18609a4320771e55c0a8485abdc67bbf17f45110ab5155c04fce5f5d7fd1b467"
+    },
+    {
+      "code": "AC9E6LY01",
+      "year": 6,
+      "path": "year6/english/ac9e6ly01-examine-texts-including-media-texts-that-represent-ideas-and/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6ly01/worksheet/",
+      "oldBlob": "cce4d841a73309338de58b34551326657d5cf958",
+      "sha256": "cbc218b1900ff942fc5f3593e12dd9de574860524fb873181874a487e64ad207"
+    },
+    {
+      "code": "AC9E6LY02",
+      "year": 6,
+      "path": "year6/english/ac9e6ly02-interaction-skills-and-awareness-of-formality-when-paraphrasing/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6ly02/worksheet/",
+      "oldBlob": "aec77a332c1c1ee95a2eba55a3d9f8b1c9cec063",
+      "sha256": "b9e363d6fbed3efbc7599caeab68dbd653ea1ffca67453e6219bcb4e7ba49517"
+    },
+    {
+      "code": "AC9E6LY03",
+      "year": 6,
+      "path": "year6/english/ac9e6ly03-analyse-how-text-structures-and-language-features-work-together/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6ly03/worksheet/",
+      "oldBlob": "01f36e2f0ce3f8ecc4b46a94c4763dffe7772c59",
+      "sha256": "cb3e5f1c88df154348b5ea6a1222fcfffd079c2ef982ef116c1a7cbcd9fd55dc"
+    },
+    {
+      "code": "AC9E6LY04",
+      "year": 6,
+      "path": "year6/english/ac9e6ly04-select-navigate-and-read-texts-for-a-range-of-purposes/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6ly04/worksheet/",
+      "oldBlob": "6f2fb3bfe4ae4fd1f021ff4fc26ad485682c3312",
+      "sha256": "97f27d288c1edb94147bad551f1d87b9763628b968280eddd6169d1f1d1707e7"
+    },
+    {
+      "code": "AC9E6LY05",
+      "year": 6,
+      "path": "year6/english/ac9e6ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6ly05/worksheet/",
+      "oldBlob": "bac2b2a15823663979bdb1b2cf30dcf24de38eb6",
+      "sha256": "66415bd54a6d19835023dd84a28218c6dd4e0daea06ff1541c8a59eb89c0f4af"
+    },
+    {
+      "code": "AC9E6LY06",
+      "year": 6,
+      "path": "year6/english/ac9e6ly06-plan-create-edit-and-publish-written-and-multimodal-texts-whose/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6ly06/worksheet/",
+      "oldBlob": "a789967c0ed1b0a0c734cbedb910c22d2652f1a5",
+      "sha256": "ef47b27c7b97b3ac750726520fcd07f4cf37ed5a5ba38fe67d3011ebf8514844"
+    },
+    {
+      "code": "AC9E6LY07",
+      "year": 6,
+      "path": "year6/english/ac9e6ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6ly07/worksheet/",
+      "oldBlob": "959cdc649f4b983562e8866de597c1101756b9bc",
+      "sha256": "68e3e12c65c842f652fe5908f368496878601ec56d66721cc1b4ec581944f99b"
+    },
+    {
+      "code": "AC9E6LY08",
+      "year": 6,
+      "path": "year6/english/ac9e6ly08-phonic-knowledge-of-common-and-less-common-grapheme-phoneme/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6ly08/worksheet/",
+      "oldBlob": "3a0fafbc30379392e8b65c3006d57560db9cbe82",
+      "sha256": "bd97100dd8cc3772be3742646b67b3857619488b3952d09501301d465bd5cb30"
+    },
+    {
+      "code": "AC9E6LY09",
+      "year": 6,
+      "path": "year6/english/ac9e6ly09-knowledge-of-known-words-word-origins-including-some-latin-and/index.html",
+      "worksheetUrl": "/quiz/year-6/english/ac9e6ly09/worksheet/",
+      "oldBlob": "2b2cbfd152a7a38a84c6d0444fc5eefd55cf1c54",
+      "sha256": "d632438dfb7a8e65659ba5b3da580848bd082a55672b3e237c734b8080ce6b2d"
+    },
+    {
+      "code": "AC9E7LA01",
+      "year": 7,
+      "path": "year7/english/ac9e7la01-how-language-expresses-and-creates-personal-and-social/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7la01/worksheet/",
+      "oldBlob": "1e80bd9f87a7e87e35b3ef3c7e143ff4b2e3dc30",
+      "sha256": "9adc2de6406dd92fe2585fca78943a7e1d69f2d07641662bf0c27698ae3c3d6e"
+    },
+    {
+      "code": "AC9E7LA02",
+      "year": 7,
+      "path": "year7/english/ac9e7la02-language-used-to-evaluate-texts-including-visual-and-multimodal/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7la02/worksheet/",
+      "oldBlob": "824ef12d321a270f156b8c8b06c522b0738f5609",
+      "sha256": "9c733d28677a80a7334281ace079aa384bee58d52d73a0a880c815eee0676a88"
+    },
+    {
+      "code": "AC9E7LA03",
+      "year": 7,
+      "path": "year7/english/ac9e7la03-and-describe-how-texts-are-structured-differently-depending-on/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7la03/worksheet/",
+      "oldBlob": "478d6ef69497eefe851c84c2f1e78d76593e0851",
+      "sha256": "9083644346aa8b908080bfaab8cd6296ab17816bcc89b003f623a530ad802f2d"
+    },
+    {
+      "code": "AC9E7LA04",
+      "year": 7,
+      "path": "year7/english/ac9e7la04-that-the-cohesion-of-texts-relies-on-devices-that-signal/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7la04/worksheet/",
+      "oldBlob": "e9c160190929c2c4a4283151776bb344c4d6f5b9",
+      "sha256": "d5298f60c8a2e66e9a65d6298cbda05d98ff26d3571ad3fa4af3bf3a4c2fecff"
+    },
+    {
+      "code": "AC9E7LA05",
+      "year": 7,
+      "path": "year7/english/ac9e7la05-how-complex-and-compound-complex-sentences-can-be-used-to/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7la05/worksheet/",
+      "oldBlob": "7ea32cf7afc5321bc04c682ccccc282288c4f2c2",
+      "sha256": "6928b60aff2d791d5b10d096230bdcc215f5094604a86ac50c02e4f2a7ce10f1"
+    },
+    {
+      "code": "AC9E7LA06",
+      "year": 7,
+      "path": "year7/english/ac9e7la06-how-consistency-of-tense-through-verbs-and-verb-groups-achieves/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7la06/worksheet/",
+      "oldBlob": "255fb057a1a3402b2a405169f5348e162a5028a6",
+      "sha256": "fb6b571bddfbd6f8768c675280f4b1f74bd1ef893a0599f11de017d0cd095e51"
+    },
+    {
+      "code": "AC9E7LA07",
+      "year": 7,
+      "path": "year7/english/ac9e7la07-analyse-how-techniques-such-as-vectors-angle-and-or-social/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7la07/worksheet/",
+      "oldBlob": "e9366facaf197a92a3330a7b2f7f6d8769a25f89",
+      "sha256": "9e172ffb400a6a6ad7b680004e53cca591f1d642c889017c26ab0b72d050d5a8"
+    },
+    {
+      "code": "AC9E7LA08",
+      "year": 7,
+      "path": "year7/english/ac9e7la08-investigate-the-role-of-vocabulary-in-building-specialist-and/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7la08/worksheet/",
+      "oldBlob": "a4f3dcc2fedf8f6ac26e25076f3d0ed29854db89",
+      "sha256": "2388b4fd83c0526a52dabd9300898daa3296f75e9e5be5b0794a2aa3205f85fa"
+    },
+    {
+      "code": "AC9E7LA09",
+      "year": 7,
+      "path": "year7/english/ac9e7la09-the-use-of-punctuation-including-colons-and-brackets-to-support/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7la09/worksheet/",
+      "oldBlob": "2b0e6597d50382a9f1913206e7afe90ff6759127",
+      "sha256": "53b2f8cd7735324408425781c3bc4dbe294fae246ebb2439328946170fa9d4d8"
+    },
+    {
+      "code": "AC9E7LE01",
+      "year": 7,
+      "path": "year7/english/ac9e7le01-and-explore-ideas-points-of-view-characters-events-and-or-issues/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7le01/worksheet/",
+      "oldBlob": "dc92178bb88ae0daaab062d6bc1f729ea31c1fde",
+      "sha256": "08e027324644627676b21474e4ba7eb6d4ce91af3d31315816ade04269f62220"
+    },
+    {
+      "code": "AC9E7LE02",
+      "year": 7,
+      "path": "year7/english/ac9e7le02-form-an-opinion-about-characters-settings-and-events-in-texts/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7le02/worksheet/",
+      "oldBlob": "990fe2c9e86437e7c96bfe3b9e0809213abc1727",
+      "sha256": "d6fabb0734ef9380f56ea8411227cf06c1e85e597fa10a246abda2cc81d40595"
+    },
+    {
+      "code": "AC9E7LE03",
+      "year": 7,
+      "path": "year7/english/ac9e7le03-explain-the-ways-that-literary-devices-and-language-features/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7le03/worksheet/",
+      "oldBlob": "387b2badc7ecc9b262c6ae2a3ac03b74d81cd76c",
+      "sha256": "9641f9b607692f75ebcc0d08e3e683c339570cf8fdd359ad9f8deb2d5b4ae27a"
+    },
+    {
+      "code": "AC9E7LE04",
+      "year": 7,
+      "path": "year7/english/ac9e7le04-the-aesthetic-and-social-value-of-literary-texts-using-relevant/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7le04/worksheet/",
+      "oldBlob": "2cee4e4163712eada2b17845b61a722e7e47e8b9",
+      "sha256": "9fa02bf76aaf6d09f43a7964d9f064eacc7f0ce4c4700f1eaf97e59f39a5677d"
+    },
+    {
+      "code": "AC9E7LE05",
+      "year": 7,
+      "path": "year7/english/ac9e7le05-and-explain-the-ways-that-characters-settings-and-events-combine/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7le05/worksheet/",
+      "oldBlob": "878091a49cbf3f42c1e72bd1da8bcd81eaf373e4",
+      "sha256": "7812d42bc3ebccdc492fcbb7d4361c71876345e7966b92649a82cb57d27e1afc"
+    },
+    {
+      "code": "AC9E7LE06",
+      "year": 7,
+      "path": "year7/english/ac9e7le06-and-explain-how-literary-devices-create-layers-of-meaning-in/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7le06/worksheet/",
+      "oldBlob": "08c3d8d94332eb9da02d3a8045b01ec14172d0fa",
+      "sha256": "a7eaa07fb9f693873b66085d7522cc6edd4e0822d7195f747779042fd4a2bb1a"
+    },
+    {
+      "code": "AC9E7LE07",
+      "year": 7,
+      "path": "year7/english/ac9e7le07-and-edit-literary-texts-that-experiment-with-language-features/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7le07/worksheet/",
+      "oldBlob": "ce2d6a9de8a7e19ed96c1332dc4ace7867cfeefb",
+      "sha256": "79e6a393129e64d54bbb7eb52b6e2f935db79df86655962bf43de276c0dde54c"
+    },
+    {
+      "code": "AC9E7LY01",
+      "year": 7,
+      "path": "year7/english/ac9e7ly01-explain-the-effect-of-current-technology-on-reading-creating-and/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7ly01/worksheet/",
+      "oldBlob": "d8a16587420b11bd971a651d9708905c4538d6d8",
+      "sha256": "505d3b51e31da291354a615dd6043e39409a2ec3401cc28ced06ffc909d517de"
+    },
+    {
+      "code": "AC9E7LY02",
+      "year": 7,
+      "path": "year7/english/ac9e7ly02-interaction-skills-when-discussing-and-presenting-ideas-and/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7ly02/worksheet/",
+      "oldBlob": "2c700dc5b6c8e2ef923f8005eef6a837fd80c6e8",
+      "sha256": "c6820dd44fb503423b2f05c42611dc7da46eb2776102ecf9739126ea376e90e5"
+    },
+    {
+      "code": "AC9E7LY03",
+      "year": 7,
+      "path": "year7/english/ac9e7ly03-analyse-the-ways-in-which-language-features-shape-meaning-and/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7ly03/worksheet/",
+      "oldBlob": "032f2fa6ffabc190629c028f466d27f6ab927410",
+      "sha256": "7cc1885389134b68d42d26181a4c28a0687bd2be7ab8f380476c0c00896893a7"
+    },
+    {
+      "code": "AC9E7LY04",
+      "year": 7,
+      "path": "year7/english/ac9e7ly04-explain-the-structure-of-ideas-such-as-the-use-of/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7ly04/worksheet/",
+      "oldBlob": "e00720a63e2eae9e6d3aea25d316b6f67f792758",
+      "sha256": "b97c8462b8728a192cb92b69461e683ecc0f1d806f5bda2d5301b65dc051f498"
+    },
+    {
+      "code": "AC9E7LY05",
+      "year": 7,
+      "path": "year7/english/ac9e7ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7ly05/worksheet/",
+      "oldBlob": "55c660e61ad0e227d4a7ce41cef95aa4d88b815b",
+      "sha256": "bead8573e6c1d3c3cc709dd8d52433ee7da75481a25c0ac4977ede6b450a3b14"
+    },
+    {
+      "code": "AC9E7LY06",
+      "year": 7,
+      "path": "year7/english/ac9e7ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7ly06/worksheet/",
+      "oldBlob": "c4364914885de619a05af5ac2a7686c1a50f0284",
+      "sha256": "4847d8e66dc686c47a1c01400f75d6163fb40e69e4158893be6157e92071f90e"
+    },
+    {
+      "code": "AC9E7LY07",
+      "year": 7,
+      "path": "year7/english/ac9e7ly07-plan-create-rehearse-and-deliver-presentations-for-purposes-and/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7ly07/worksheet/",
+      "oldBlob": "6e1822f6b323180dd95e5d0a7ab2911649fe9288",
+      "sha256": "305725966147f28165e29ab55e42592fc3d17dbb1787f8e76e8ed162ccaea173"
+    },
+    {
+      "code": "AC9E7LY08",
+      "year": 7,
+      "path": "year7/english/ac9e7ly08-how-to-use-spelling-rules-and-word-origins-for-example/index.html",
+      "worksheetUrl": "/quiz/year-7/english/ac9e7ly08/worksheet/",
+      "oldBlob": "327cf4ddb7ecdf97bd05f6ac3e40ad098379d3a5",
+      "sha256": "7079daea90de2c1aa78391b3ac6ba3bc81a0e98c6d0c02cf1a945b8de591a30f"
+    },
+    {
+      "code": "AC9E8LA01",
+      "year": 8,
+      "path": "year8/english/ac9e8la01-how-language-shapes-relationships-and-roles/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8la01/worksheet/",
+      "oldBlob": "43e19e192fa82644e97b5dc5cc1a19b5ecfa054a",
+      "sha256": "c2862a63002ca3e7e7598f05ec87661c43a0238db89f5313b9c0ef258f957a63"
+    },
+    {
+      "code": "AC9E8LA02",
+      "year": 8,
+      "path": "year8/english/ac9e8la02-how-layers-of-meaning-can-be-created-when-evaluating-by/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8la02/worksheet/",
+      "oldBlob": "9a33e01163e76adfde8ed63de013efeac324491c",
+      "sha256": "033863f4b71e95eccc0ccb90ee5186552c40912316bfe88631a751b504d5c5c7"
+    },
+    {
+      "code": "AC9E8LA03",
+      "year": 8,
+      "path": "year8/english/ac9e8la03-explain-how-texts-are-structured-depending-on-their-purpose-and/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8la03/worksheet/",
+      "oldBlob": "faae90d96216d36e8d01caf4c64b3c89e7858120",
+      "sha256": "ac0a442c1131616b518d16cb7f6e6c5346849bc884ec8103d56baf72b844af62"
+    },
+    {
+      "code": "AC9E8LA04",
+      "year": 8,
+      "path": "year8/english/ac9e8la04-how-cohesion-in-texts-is-improved-by-strengthening-the-internal/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8la04/worksheet/",
+      "oldBlob": "3f7a5358c050daa914b39d2034d4bd18abdefdce",
+      "sha256": "dc938cd23b494e32d6d9a68762dd72e98e6e97d2f78e9526e4af3f5a4d94f9e4"
+    },
+    {
+      "code": "AC9E8LA05",
+      "year": 8,
+      "path": "year8/english/ac9e8la05-examine-a-variety-of-clause-structures-including-embedded/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8la05/worksheet/",
+      "oldBlob": "46c0836100399114385a78852a15297dc936fbfd",
+      "sha256": "9a0cb3ca99c3b05eb04efe57f267dc65d2c34d80fea62b5b5ef34ac2dc54eb97"
+    },
+    {
+      "code": "AC9E8LA06",
+      "year": 8,
+      "path": "year8/english/ac9e8la06-the-effect-of-nominalisation-in-texts/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8la06/worksheet/",
+      "oldBlob": "b681c046bffb6be47deb6b8814e0debadc166aaa",
+      "sha256": "6c7d603bd9fdc59dd6617003dfe517a6130ec148954272a993dc87a683356273"
+    },
+    {
+      "code": "AC9E8LA07",
+      "year": 8,
+      "path": "year8/english/ac9e8la07-investigate-how-visual-texts-use-intertextual-references-to/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8la07/worksheet/",
+      "oldBlob": "42bd258f717d14db620e5ffd28c40a78eddd10d8",
+      "sha256": "10479c5010c0f756d7fb7b52fb03807eb2f29fabb3901ee73fc4816b1734a964"
+    },
+    {
+      "code": "AC9E8LA08",
+      "year": 8,
+      "path": "year8/english/ac9e8la08-and-use-vocabulary-typical-of-academic-texts/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8la08/worksheet/",
+      "oldBlob": "51e0d6c14fae818e7a19a8906703b31e78b36393",
+      "sha256": "d0267456e7ed687997168d7806293f805269bfe4134fcec50ffd837e2216c4f1"
+    },
+    {
+      "code": "AC9E8LA09",
+      "year": 8,
+      "path": "year8/english/ac9e8la09-and-use-punctuation-conventions-including-semicolons-and-dashes/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8la09/worksheet/",
+      "oldBlob": "49a6c4f9f84b4fe801eccd79e82b10d68540bfb4",
+      "sha256": "c3271f6c422cede9608e77b018f53899c1551f9a43f9149e68212600e700c9ec"
+    },
+    {
+      "code": "AC9E8LE01",
+      "year": 8,
+      "path": "year8/english/ac9e8le01-explain-the-ways-that-ideas-and-points-of-view-may/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8le01/worksheet/",
+      "oldBlob": "7dc3c574553cb7ba81f46016826e032b84fbcd07",
+      "sha256": "b3aeb109495bfa46d30308bb18d8d1468cdca7a53c6fb6f8dd70e43337248f2c"
+    },
+    {
+      "code": "AC9E8LE02",
+      "year": 8,
+      "path": "year8/english/ac9e8le02-share-opinions-about-the-language-features-literary-devices-and/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8le02/worksheet/",
+      "oldBlob": "cedb97190d8629d095d0a41cddea997d22bc7448",
+      "sha256": "5f936c138f542b7ace0cb8919e97ee800ca79526dd0e27cf3de1390f5517c668"
+    },
+    {
+      "code": "AC9E8LE03",
+      "year": 8,
+      "path": "year8/english/ac9e8le03-explain-how-language-and-or-images-in-texts-position-readers-to/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8le03/worksheet/",
+      "oldBlob": "6d98d862e1a099b84fc454dc82dd0fd2c0eafce1",
+      "sha256": "d742583579eb34f71ff639f17b69f82cf4e4dfefd1074b77184be64e9bb4c250"
+    },
+    {
+      "code": "AC9E8LE04",
+      "year": 8,
+      "path": "year8/english/ac9e8le04-intertextual-references-in-literary-texts-and-explain-how-the/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8le04/worksheet/",
+      "oldBlob": "36beda8df21a938edb05b1d9585acab97fcb2c7c",
+      "sha256": "f73e4e2d50816575cd524d62bad67f848de5d420343baafb47264dbc3a8d5203"
+    },
+    {
+      "code": "AC9E8LE05",
+      "year": 8,
+      "path": "year8/english/ac9e8le05-analyse-how-language-features-such-as-sentence-patterns-create/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8le05/worksheet/",
+      "oldBlob": "bd7208c59f166f95f81f60ec808e62e78bf44bb6",
+      "sha256": "d0e834bfe8b654c374777b2f7ada1058d27f4651e6f144a2e270565d4837632f"
+    },
+    {
+      "code": "AC9E8LE06",
+      "year": 8,
+      "path": "year8/english/ac9e8le06-and-edit-literary-texts-that-experiment-with-language-features/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8le06/worksheet/",
+      "oldBlob": "bfc330310249776abb627e3f61e36bb62831cba3",
+      "sha256": "c5f04928e3d961c2e28befadc47135743021e050295d8217acbaf4ac60ea09df"
+    },
+    {
+      "code": "AC9E8LY01",
+      "year": 8,
+      "path": "year8/english/ac9e8ly01-how-texts-reflect-contexts/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8ly01/worksheet/",
+      "oldBlob": "f8b346c771307ce260bf23569ec61eac1eeb6a26",
+      "sha256": "8972fa4ddcd2618008726f9ca03705bdc62c5f16fbc9b8d35496bc68d9bf8261"
+    },
+    {
+      "code": "AC9E8LY02",
+      "year": 8,
+      "path": "year8/english/ac9e8ly02-interaction-skills-for-identified-purposes-and-situations/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8ly02/worksheet/",
+      "oldBlob": "91c9ecbfd5b78a62f808b028661842e6fc7ec219",
+      "sha256": "0e46c374bd8968fc117d06881bec1b866caf3c9c24c5f9b2b4365c6fc4c38d60"
+    },
+    {
+      "code": "AC9E8LY03",
+      "year": 8,
+      "path": "year8/english/ac9e8ly03-analyse-and-evaluate-the-ways-that-language-features-vary/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8ly03/worksheet/",
+      "oldBlob": "52913268f009c76c6527e305fb7fd39c22a0b2a1",
+      "sha256": "74f2f6337770acb75b8c4ad8be177cd926da56f044f04844249fd8ac956f5f3a"
+    },
+    {
+      "code": "AC9E8LY04",
+      "year": 8,
+      "path": "year8/english/ac9e8ly04-analyse-how-authors-organise-ideas-to-develop-and-shape-meaning/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8ly04/worksheet/",
+      "oldBlob": "b5bd3a8f6aabf02aa51d4b83884fad4de463610e",
+      "sha256": "ba7504a5d370947b18291a0db74715d715e23afe960dec574ba796ba4b7149a3"
+    },
+    {
+      "code": "AC9E8LY05",
+      "year": 8,
+      "path": "year8/english/ac9e8ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8ly05/worksheet/",
+      "oldBlob": "5e8b721d9b6013ddaa5e3058e00430f882752cc0",
+      "sha256": "e83db28ae4023630917a377b258ffafddccc3b61e90181160568f49d783083d3"
+    },
+    {
+      "code": "AC9E8LY06",
+      "year": 8,
+      "path": "year8/english/ac9e8ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8ly06/worksheet/",
+      "oldBlob": "c9c627fc6ebbf63996cd2cb2afc06822dd12435b",
+      "sha256": "5e96cc5c03b9bc8af20e1c5d356673af873a5f2d79c994023ff064fa9e5c7d7b"
+    },
+    {
+      "code": "AC9E8LY07",
+      "year": 8,
+      "path": "year8/english/ac9e8ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8ly07/worksheet/",
+      "oldBlob": "b20c826c5397e30f8e9917a17bf6ee6397dc991b",
+      "sha256": "6ed5dfd4f169a7d84957b4d1031449da67f62293ad311ad92540a52b4e80c389"
+    },
+    {
+      "code": "AC9E8LY08",
+      "year": 8,
+      "path": "year8/english/ac9e8ly08-apply-learnt-knowledge-to-spell-accurately-and-to-learn-new/index.html",
+      "worksheetUrl": "/quiz/year-8/english/ac9e8ly08/worksheet/",
+      "oldBlob": "5da6005cdc30426a9ba519a10f26e82d4f0b0e6c",
+      "sha256": "e30b3c9e5598e0121c2e2c8773bb96530b7737bb8f1928b14d0a91433363c64f"
+    },
+    {
+      "code": "AC9E9LA01",
+      "year": 9,
+      "path": "year9/english/ac9e9la01-how-language-empowers-relationships-and-roles/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9la01/worksheet/",
+      "oldBlob": "d994fe078ff6202eec4432996daa51e75effe7d8",
+      "sha256": "0723e6ff6474f97998a490d5f9cad89529c829cee0242277526dca83866e4766"
+    },
+    {
+      "code": "AC9E9LA02",
+      "year": 9,
+      "path": "year9/english/ac9e9la02-how-evaluation-can-be-expressed-directly-and-indirectly-using/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9la02/worksheet/",
+      "oldBlob": "4809f062e64dbe048f99d409d4500ff6ce630c9c",
+      "sha256": "9fc63cdc83185831ded8feeef6fb5a34ef1952f279297ac653cc2cb84f17776c"
+    },
+    {
+      "code": "AC9E9LA03",
+      "year": 9,
+      "path": "year9/english/ac9e9la03-examine-how-authors-adapt-and-subvert-text-structures-and/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9la03/worksheet/",
+      "oldBlob": "f6bfffa12466b43898178d47c57a53cfdcaf8401",
+      "sha256": "a2e7119c913255d7afee0d08f4962498aca54162d388be39fa6db52aa4ffb1ad"
+    },
+    {
+      "code": "AC9E9LA04",
+      "year": 9,
+      "path": "year9/english/ac9e9la04-investigate-a-range-of-cohesive-devices-that-condense/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9la04/worksheet/",
+      "oldBlob": "412ad5cb9fb22d594aa6a9c88a8e64f84dc4ce21",
+      "sha256": "01c87a89fe4de4c23d4390f6a392001ba92e32ff3dad2915848f5a307330e1d9"
+    },
+    {
+      "code": "AC9E9LA05",
+      "year": 9,
+      "path": "year9/english/ac9e9la05-how-authors-vary-sentence-structures-creatively-for-effects/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9la05/worksheet/",
+      "oldBlob": "2ebc2c4f610ddd79b8c8a53e3976684cc4b447e7",
+      "sha256": "9bd6fe7a4fb3f7b2f84d2105cf632f762dd190bc680bb744e13bcb5fe675899b"
+    },
+    {
+      "code": "AC9E9LA06",
+      "year": 9,
+      "path": "year9/english/ac9e9la06-how-abstract-nouns-and-nominalisation-can-be-used-to-summarise/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9la06/worksheet/",
+      "oldBlob": "51ee88e12ed5676cfd8d58800ccff3a1102dac74",
+      "sha256": "154998adbd53f203bdad519f96b26f7646a76a5b56fe17c7c11279bd88a390b1"
+    },
+    {
+      "code": "AC9E9LA07",
+      "year": 9,
+      "path": "year9/english/ac9e9la07-analyse-how-symbols-in-still-and-moving-images-augment-meaning/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9la07/worksheet/",
+      "oldBlob": "1da8edd570344052db7982c037bbff56fa46a386",
+      "sha256": "fc3473186ebf8f1984fa97a8ddbaca486b9490cfc7ad5f9f341da0a27b236927"
+    },
+    {
+      "code": "AC9E9LA08",
+      "year": 9,
+      "path": "year9/english/ac9e9la08-analyse-how-vocabulary-choices-contribute-to-style-mood-and-tone/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9la08/worksheet/",
+      "oldBlob": "a5745798f21d5bd14580aead908eaa592248c78e",
+      "sha256": "7dfd3db79e585f6d55372e683a540627ace0867f6e696edf20b972e4c0f55a2f"
+    },
+    {
+      "code": "AC9E9LA09",
+      "year": 9,
+      "path": "year9/english/ac9e9la09-punctuation-conventions-for-referencing-and-citing-others-for/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9la09/worksheet/",
+      "oldBlob": "0ece54514d72d6c43e5b08b85dffa65127762ea5",
+      "sha256": "20e4e072ab3912dfc13d8676d26c21fb6cfa622fd93b8c4f1d91a2b4c6488c7e"
+    },
+    {
+      "code": "AC9E9LE01",
+      "year": 9,
+      "path": "year9/english/ac9e9le01-analyse-the-representations-of-people-and-places-in-literary/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9le01/worksheet/",
+      "oldBlob": "2e4e37b426625db3fec865d5723d23b635e4ecac",
+      "sha256": "00b8d9cf1c02f5bffb3bb99d6168f7704591865e32483a715edd2ac52a9a0e77"
+    },
+    {
+      "code": "AC9E9LE02",
+      "year": 9,
+      "path": "year9/english/ac9e9le02-present-a-personal-response-to-a-literary-text-comparing-initial/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9le02/worksheet/",
+      "oldBlob": "cef81029ef23b29d632e55616f1a29bad2a71066",
+      "sha256": "47254d170fc853acae22b0e60ad9076da95e1de617377ce4b9838139ffe10942"
+    },
+    {
+      "code": "AC9E9LE03",
+      "year": 9,
+      "path": "year9/english/ac9e9le03-analyse-how-features-of-literary-texts-influence-readers/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9le03/worksheet/",
+      "oldBlob": "6c0345e304515dd1234285760a1cafc911fc8d44",
+      "sha256": "0e78e9ed8ddf9afa5f192aac411009c7ea21cedaa2d305faf3fd1d5a23b6d734"
+    },
+    {
+      "code": "AC9E9LE04",
+      "year": 9,
+      "path": "year9/english/ac9e9le04-analyse-texts-and-evaluate-the-aesthetic-qualities-and-appeal-of/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9le04/worksheet/",
+      "oldBlob": "302df2e491061f86553cec932cafe780b8549460",
+      "sha256": "56ccf0044f5ff359b210fe7f8156514f30e57a145f33ecbe72bc87203fa6789a"
+    },
+    {
+      "code": "AC9E9LE05",
+      "year": 9,
+      "path": "year9/english/ac9e9le05-analyse-the-effect-of-text-structures-language-features-and/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9le05/worksheet/",
+      "oldBlob": "609c4aa3dcc117be9158c22cd3edcbeac6a3512e",
+      "sha256": "775dc22743ee632fa24c855dce0710ab702a30432935b4445b999d5ddf9e6986"
+    },
+    {
+      "code": "AC9E9LE06",
+      "year": 9,
+      "path": "year9/english/ac9e9le06-and-edit-literary-texts-that-may-be-a-hybrid-that/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9le06/worksheet/",
+      "oldBlob": "5c8fb21fb34f4ddfe7816236fa9fc04d4779f052",
+      "sha256": "79444f898e2fb31769d87d44118248bdb5110b131e37b308dfddfb288579d35e"
+    },
+    {
+      "code": "AC9E9LY01",
+      "year": 9,
+      "path": "year9/english/ac9e9ly01-analyse-how-representations-of-people-places-events-and/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9ly01/worksheet/",
+      "oldBlob": "db1bf9d5cc64e581c8254938d94d468627adea72",
+      "sha256": "ab947836b7913b40ca647db9db7aadd6111281e090e6c7805ccb2405f4acd25d"
+    },
+    {
+      "code": "AC9E9LY02",
+      "year": 9,
+      "path": "year9/english/ac9e9ly02-listen-to-spoken-texts-that-have-different-purposes-and/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9ly02/worksheet/",
+      "oldBlob": "9be4c0e1ab7fba59b8b91a750006b5f848384120",
+      "sha256": "3912c068d601b8fc7548ac7566d9aae142a07afcb1c276262b246ef26c7139bb"
+    },
+    {
+      "code": "AC9E9LY03",
+      "year": 9,
+      "path": "year9/english/ac9e9ly03-analyse-and-evaluate-how-language-features-are-used-to-represent/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9ly03/worksheet/",
+      "oldBlob": "0d853b5479e98c328fbde74c328c9356c11384ba",
+      "sha256": "4f89d1ee3fca119177e893e01bd748e5fe76256d445a2dc4a48d929a7530a5ec"
+    },
+    {
+      "code": "AC9E9LY04",
+      "year": 9,
+      "path": "year9/english/ac9e9ly04-analyse-the-organisation-of-ideas-in-paragraphs-and-extended/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9ly04/worksheet/",
+      "oldBlob": "e5929058b0c982777dbcf7eba2247f0b310afd0a",
+      "sha256": "520643a537d3ab557010d6d40263899c53c60091af42867e8e13d4b612fc7d8d"
+    },
+    {
+      "code": "AC9E9LY05",
+      "year": 9,
+      "path": "year9/english/ac9e9ly05-comprehension-strategies-such-as-visualising-predicting/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9ly05/worksheet/",
+      "oldBlob": "734bd9183a4ce6617174126efb2230d8ef219509",
+      "sha256": "19b5281226914b2c19220c9f34b8bccdd00cd60a0178c73d7b1206aaa8d4943e"
+    },
+    {
+      "code": "AC9E9LY06",
+      "year": 9,
+      "path": "year9/english/ac9e9ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9ly06/worksheet/",
+      "oldBlob": "f70338351fc1729e41f501ff7cede94560c462a7",
+      "sha256": "f8c121060ad47b15a761f83324706b9e5fcd8cb161d2707ea4696be2ddaf9549"
+    },
+    {
+      "code": "AC9E9LY07",
+      "year": 9,
+      "path": "year9/english/ac9e9ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9ly07/worksheet/",
+      "oldBlob": "dcb7be3fe7e1e04088f9298cbddc8ee65e9ef309",
+      "sha256": "bfdf462b60505d5372c467e9e0a9bea9aba8e6e17b74f8b516dbc75918022125"
+    },
+    {
+      "code": "AC9E9LY08",
+      "year": 9,
+      "path": "year9/english/ac9e9ly08-how-spelling-is-used-in-texts-for-particular-effects-for/index.html",
+      "worksheetUrl": "/quiz/year-9/english/ac9e9ly08/worksheet/",
+      "oldBlob": "8936e9101004b0dd356ea1d39edfba3823847e6f",
+      "sha256": "b2f605b3a57a5eb1a8b6c3a4acc71f3a47ffd80317f5106c0f0626414da0f12c"
+    },
+    {
+      "code": "AC9E10LA01",
+      "year": 10,
+      "path": "year10/english/ac9e10la01-how-language-can-have-inclusive-and-exclusive-social-effects-and/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10la01/worksheet/",
+      "oldBlob": "f09456be4435140988147518819868b06d20ba57",
+      "sha256": "9acdde42659f223771f1678451859706cc606bd8c0304d5fe890ba3eb8281701"
+    },
+    {
+      "code": "AC9E10LA02",
+      "year": 10,
+      "path": "year10/english/ac9e10la02-that-language-used-to-evaluate-implicitly-or-explicitly-reveals/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10la02/worksheet/",
+      "oldBlob": "d866fc1cbcf478f2510f62bd4b9d48487a5e1a55",
+      "sha256": "7f2ed50bbb0e5af3d7702f7f0e779283ffacc76011f1f48c4954245988214497"
+    },
+    {
+      "code": "AC9E10LA03",
+      "year": 10,
+      "path": "year10/english/ac9e10la03-analyse-text-structures-and-language-features-and-evaluate/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10la03/worksheet/",
+      "oldBlob": "179fc140c091f9894d6cd0f88d15a737cc65a0a7",
+      "sha256": "0b2b61c17e33435be52ab9a5330839e773685067dfca851c7a65293e5606d63c"
+    },
+    {
+      "code": "AC9E10LA04",
+      "year": 10,
+      "path": "year10/english/ac9e10la04-how-paragraph-structure-can-be-varied-to-create-cohesion-and/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10la04/worksheet/",
+      "oldBlob": "6c2a40ec87b0a56ed8f4c6c85c2ea3768ea6507f",
+      "sha256": "a60393c01ebdf0dc3209365628def5de8db86aa6a1e2e145b169deedae9d15e3"
+    },
+    {
+      "code": "AC9E10LA05",
+      "year": 10,
+      "path": "year10/english/ac9e10la05-analyse-and-evaluate-the-effectiveness-of-particular-sentence/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10la05/worksheet/",
+      "oldBlob": "a56f01d5284c9ba5be0161d160fd0e3ccad76e24",
+      "sha256": "a8f58fba09a894d796eb609a30bfd4bfc05af7f0b00c1793b2933116077f1659"
+    },
+    {
+      "code": "AC9E10LA06",
+      "year": 10,
+      "path": "year10/english/ac9e10la06-analyse-how-meaning-and-style-are-achieved-through-syntax/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10la06/worksheet/",
+      "oldBlob": "ecc3ed33ecf7bf67ec30c7acd8bf4d4a65ad8355",
+      "sha256": "2e2950765808cb924d5721c99b74317325d2b462b511f210d161efc8f48b19b2"
+    },
+    {
+      "code": "AC9E10LA07",
+      "year": 10,
+      "path": "year10/english/ac9e10la07-evaluate-the-features-of-still-and-moving-images-and-the/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10la07/worksheet/",
+      "oldBlob": "0e5d4b81931dc2612805f268756b38159c75b46d",
+      "sha256": "2cb3dab031fc14475900e3ba434176ae814b5424550c02678faabc1d3d9a88bd"
+    },
+    {
+      "code": "AC9E10LA08",
+      "year": 10,
+      "path": "year10/english/ac9e10la08-an-expanded-technical-and-academic-vocabulary-for-precision/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10la08/worksheet/",
+      "oldBlob": "28e0ed8386938f3e328cbae1b68eeacb12a4d5e5",
+      "sha256": "81be1d72057fb56332eb38c408f5d0822702cceb49e6bea65b5fd643d9a94575"
+    },
+    {
+      "code": "AC9E10LA09",
+      "year": 10,
+      "path": "year10/english/ac9e10la09-how-authors-use-and-experiment-with-punctuation/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10la09/worksheet/",
+      "oldBlob": "53f7454fc653d38b2bfcf5b469ee1b0aed2e0682",
+      "sha256": "de1ac5470ca4156f775214b76aecb617b84e3f3f7ad39a3ecb67d2918be77c93"
+    },
+    {
+      "code": "AC9E10LE01",
+      "year": 10,
+      "path": "year10/english/ac9e10le01-analyse-representations-of-individuals-groups-and-places-and/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10le01/worksheet/",
+      "oldBlob": "95a6a52edeadbd15ed4b6ad4990c094f33d8d654",
+      "sha256": "6980939b98358cbd98ccd6085c9b96eda8f8f137d86a29f51d6822b6b41889c6"
+    },
+    {
+      "code": "AC9E10LE02",
+      "year": 10,
+      "path": "year10/english/ac9e10le02-reflect-on-and-extend-others-interpretations-of-and-responses-to/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10le02/worksheet/",
+      "oldBlob": "cd4693f165645aef0660b34ec7c4658dafae5116",
+      "sha256": "6b67ad34c9cec8fb0fb25f4ff210166e143867e9afb1c952f17f9cd0a9aeb0d2"
+    },
+    {
+      "code": "AC9E10LE03",
+      "year": 10,
+      "path": "year10/english/ac9e10le03-analyse-how-the-aesthetic-qualities-associated-with-text/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10le03/worksheet/",
+      "oldBlob": "0fc8ca4b1c9df33582a8bb32023d46458e0a5c63",
+      "sha256": "52b868a8ad3bbd43e64cd738b9f0590204652c2fbc76c65da2f73bee7943d547"
+    },
+    {
+      "code": "AC9E10LE04",
+      "year": 10,
+      "path": "year10/english/ac9e10le04-evaluate-the-social-moral-or-ethical-positions-represented-in/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10le04/worksheet/",
+      "oldBlob": "b867547c7d67eeb6c3e6eace470161ed51f64f97",
+      "sha256": "6656133d297e00812acac79be4563e13191d3cb03672b28ffb3207ed525c4ebe"
+    },
+    {
+      "code": "AC9E10LE05",
+      "year": 10,
+      "path": "year10/english/ac9e10le05-analyse-how-text-structure-language-features-literary-devices/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10le05/worksheet/",
+      "oldBlob": "c89abdb7a28be6d88a6c63c9e17b1b96039f3638",
+      "sha256": "7c7fea184a35d8e673598de16d096753ddef528addaa44ecbbd981e64fd3f1e9"
+    },
+    {
+      "code": "AC9E10LE06",
+      "year": 10,
+      "path": "year10/english/ac9e10le06-and-evaluate-how-voice-as-a-literary-device-is-used/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10le06/worksheet/",
+      "oldBlob": "1186ce243fa65de9e8b197b7f6c5d948024326f1",
+      "sha256": "0366b8f410decc8db9fc969f4dcbd190188e290658413ec87e0cbd94bb8d7576"
+    },
+    {
+      "code": "AC9E10LE07",
+      "year": 10,
+      "path": "year10/english/ac9e10le07-analyse-and-evaluate-the-aesthetic-qualities-of-texts/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10le07/worksheet/",
+      "oldBlob": "981492c11222bcbf7f4c601bdb9d44d6144ecacd",
+      "sha256": "d9881deae751213b33cfdd13a041f1fff3a5f4dcc04c7757d149048649ee072d"
+    },
+    {
+      "code": "AC9E10LE08",
+      "year": 10,
+      "path": "year10/english/ac9e10le08-and-edit-literary-texts-with-a-sustained-voice-selecting-and/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10le08/worksheet/",
+      "oldBlob": "d2694516d42fb84973ede8584e124231ac4c48bc",
+      "sha256": "2c418d7e1f6de2c98a74359071f388bcdba5826889deddd2fbb7d91152057fb7"
+    },
+    {
+      "code": "AC9E10LY01",
+      "year": 10,
+      "path": "year10/english/ac9e10ly01-analyse-and-evaluate-how-people-places-events-and-concepts-are/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10ly01/worksheet/",
+      "oldBlob": "7a5d6edf592996d4e6f3a0606c1a8f3764d655bb",
+      "sha256": "b9fb8580cf780eaae821ce1a10730263062b24f6287c1d0d5aad16d9a1f7f7b9"
+    },
+    {
+      "code": "AC9E10LY02",
+      "year": 10,
+      "path": "year10/english/ac9e10ly02-listen-to-spoken-texts-and-explain-the-purposes-and-effects/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10ly02/worksheet/",
+      "oldBlob": "6b08f5439ff0136f3c2989a06ddf2cc8b9cee33a",
+      "sha256": "6532405fe7a819ef8da8f14098fe401b4ecc33be56539b7c1b156dc39d7bf55f"
+    },
+    {
+      "code": "AC9E10LY03",
+      "year": 10,
+      "path": "year10/english/ac9e10ly03-analyse-and-evaluate-how-language-features-are-used-to/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10ly03/worksheet/",
+      "oldBlob": "f89cd882b3ec0d3db85c0d9dcfcc2fc39ed53cc6",
+      "sha256": "3d058c654df384c754da41520c7c2d196e0621b03015bc3408ff1ca83ae74195"
+    },
+    {
+      "code": "AC9E10LY04",
+      "year": 10,
+      "path": "year10/english/ac9e10ly04-analyse-and-evaluate-how-authors-organise-ideas-in-texts-to/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10ly04/worksheet/",
+      "oldBlob": "420b4de151fc348becf3342e22e2d0414e176aec",
+      "sha256": "ca2df3d49c66b474d3b4e522e2ac57e9a7681969d5724face93c7f38165d6aa6"
+    },
+    {
+      "code": "AC9E10LY05",
+      "year": 10,
+      "path": "year10/english/ac9e10ly05-integrate-comprehension-strategies-such-as-visualising/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10ly05/worksheet/",
+      "oldBlob": "297cb204b894be6330e5bb63914543197a3c1cfc",
+      "sha256": "74a0ef0cab78dbb0bcbcc109f83b11731b0677afbe82649332cc427bfaaa5051"
+    },
+    {
+      "code": "AC9E10LY06",
+      "year": 10,
+      "path": "year10/english/ac9e10ly06-plan-create-edit-and-publish-written-and-multimodal-texts/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10ly06/worksheet/",
+      "oldBlob": "28d204687e85813058ad7883ed074e6125e4025d",
+      "sha256": "23d48e5674d45e834fbb5f622f57624caaa0b000f964ff720b51b0344760a96c"
+    },
+    {
+      "code": "AC9E10LY07",
+      "year": 10,
+      "path": "year10/english/ac9e10ly07-plan-create-rehearse-and-deliver-spoken-and-multimodal/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10ly07/worksheet/",
+      "oldBlob": "34c01369af721d0823910c185e302f90150cdc0f",
+      "sha256": "1fe9bdffc66ba4e40f50b88ff164cdbc264931393f65bce4556e4989dcf48e5b"
+    },
+    {
+      "code": "AC9E10LY08",
+      "year": 10,
+      "path": "year10/english/ac9e10ly08-knowledge-of-the-spelling-system-to-spell-words-and-to/index.html",
+      "worksheetUrl": "/quiz/year-10/english/ac9e10ly08/worksheet/",
+      "oldBlob": "ddc43a995b9c9fa1f02acd7357ee50c008879b8d",
+      "sha256": "40b85a3850c89aa26ff4a2e2845938129700f873b2b687cd203159721e33c376"
+    }
+  ]
+}

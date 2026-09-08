@@ -19,7 +19,7 @@ All status columns describe this new full-resource review programme. “Pending�
 
 | Order | Code | Topic slug under `/year4/english/` | Existing Practice / Test | Repo elaborations | Research | Authoring | Independent review | Release |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | AC9E4LA01 | [ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal](/year4/english/ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal/) | 48 / 16 final draft | 4 | Bounded primary + supplements recorded, log v19 | Topic/Classroom + 8 homework + 64 bank items frozen | Content, all 10 PDF pages, local integration PASS | PR827 open; blocked by existing Year6–10 CI failures |
+| 1 | AC9E4LA01 | [ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal](/year4/english/ac9e4la01-language-used-to-develop-relationships-in-formal-and-informal/) | 48 / 16 final draft | 4 | Bounded primary + supplements recorded, log v19 | Topic/Classroom + 8 homework + 64 bank items frozen | Content, all10 PDF pages, local integration PASS | PR827 open; label fix approved, fresh CI pending |
 | 2 | AC9E4LA02 | [ac9e4la02-the-subjective-language-of-opinion-and-feeling-and-the-objective](/year4/english/ac9e4la02-the-subjective-language-of-opinion-and-feeling-and-the-objective/) | 40 / 16 | 2 | Pending | Pending | Pending | Pending |
 | 3 | AC9E4LA03 | [ac9e4la03-how-texts-across-the-curriculum-have-different-language](/year4/english/ac9e4la03-how-texts-across-the-curriculum-have-different-language/) | 40 / 16 | 4 | Pending | Pending | Pending | Pending |
 | 4 | AC9E4LA04 | [ac9e4la04-how-text-connectives-including-temporal-and-conditional-words](/year4/english/ac9e4la04-how-text-connectives-including-temporal-and-conditional-words/) | 40 / 16 | 3 | Pending | Pending | Pending | Pending |
@@ -70,6 +70,8 @@ Maintain this table as the durable continuation record. A completed row must poi
 ## Current release checkpoint — 2026-09-08
 
 ### Retry checkpoint — final artifacts frozen
+
+**New direct instruction: Continue.** Foreground root has resumed ownership in the same workspace and branch. Repair only the118 failing resource labels, preserving every lesson byte outside those anchors, obtain independent diff review, rerun unchanged CI and complete PR827 release. Scheduled continuation is re-enabled but must not duplicate this active foreground run. Root remains the sole operator of the existing IXL tab64; LA02 research has not started. This instruction supersedes the temporary pause below.
 
 **Latest retry outcome:** complete reviewed resources and evidence are saved in [PR827](https://github.com/JBR99729/skillr/pull/827), not merged. Seven of nine initial PR checks pass; the global English static validator fails on 118 unchanged Year6–10 `Homework` labels. A second video check identified one stale LA01 Quick Learning href; the scoped one-link correction is saved and independently rechecked separately. Do not weaken the validator, waive checks or modify 118 out-of-batch topic pages without owner direction. LA01 remains the first unfinished release step; do not repeat its completed primary-source work or start a duplicate IXL tab. Main English remains 0/28 published under this review; draft ledger is1/28, badge OFF. Foreground ownership is released after this checkpoint is committed; no IXL researcher remains active. Await direction on the out-of-scope CI blocker before continuing the sequential release queue.
 
