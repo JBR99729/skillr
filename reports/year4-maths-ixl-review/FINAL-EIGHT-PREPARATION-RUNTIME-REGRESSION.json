@@ -1,0 +1,313 @@
+{
+  "checked_at": "2026-09-08T10:38:11.076084+00:00",
+  "status": "PASS after reproduced live-discovered defect",
+  "original_defect": "Old runtime removed first .pre-read-notes unconditionally on Practice. Single authored final-eight preparation was removed after quick-read helper had applied. Prior80 marking tests did not assert guide survival.",
+  "timing": "Actual script.js bootstrap, actual runtime listener registered, actual quick-read helper applied against complete static HTML, then DOMContentLoaded dispatched. Before/after guide count and exact innerHTML compared.",
+  "old_runtime_sha256": "cec2900af4c21d950dd97b7b21e981abc95f3c2375ba69e15397b07ef32d33a5",
+  "final_sha256": {
+    "quiz/assets/script-runtime-v115.js": "b8636ab672da507e9e6ea49f1ad4c7693176c1ec1e4d6936ff03e3bd01a3fa66",
+    "quiz/assets/script.js": "915ca947f9101709ffe110f54f1025e6e1fa6e8c79ece119046c2f78e17479f8",
+    "assets/year4-maths-practice-quick-read.js": "def0e5688ec295216a1efc668a1f3281574d3a18ef63737a6c9fa8eaab328087",
+    "quiz/year-4/math/ac9m4sp01/practice/index.html": "ab18cc171600d3aa7359169a72d47affde3eecfa057f190f2b92a732155d652a",
+    "quiz/year-4/math/ac9m4sp01/test/index.html": "9baf4a3dd41b2c893ed7e330b43d44f1f20886bd35c095596bc5eab1c7d76a3a",
+    "quiz/year-4/math/ac9m4sp02/practice/index.html": "ddea49b5b024c56b1611079e7113a5fc00a807e8b8c5765bbf4b7d1e3da6ff12",
+    "quiz/year-4/math/ac9m4sp02/test/index.html": "994ebaadc15ec38324f183fa4489bf14ce9aafc70f8cbf7f346ee72e10cfd790",
+    "quiz/year-4/math/ac9m4sp03/practice/index.html": "d11f2e6b5938f04edadd423e3ea08b9e350ac63fce92b6e9e2e04cbca46372b5",
+    "quiz/year-4/math/ac9m4sp03/test/index.html": "b9c6f90df61a0dfa9291bbbbf35368d8025bc81cfa3572a7dfc20ef0a028027b",
+    "quiz/year-4/math/ac9m4st01/practice/index.html": "0825aab9f6a5cb74592787987dadbde1e88a63cba9b851cfa2ddc62b97576264",
+    "quiz/year-4/math/ac9m4st01/test/index.html": "f43d402a13571d904368d91c0e01fe42c4e4e6fe7ef0a9ebda61062bd8647165",
+    "quiz/year-4/math/ac9m4st02/practice/index.html": "a74b987d124a8c742b54e54439470311d8e04a64b655f041f9afaf03686ba063",
+    "quiz/year-4/math/ac9m4st02/test/index.html": "47dbe6cb01b79fda4d2c013ede91099f7b606c93a06ef78fc4a6d2e167a6cb07",
+    "quiz/year-4/math/ac9m4st03/practice/index.html": "e925989821d03f2354a40298898b2fcafa7d50e254b0cb8150bb8f569c31a170",
+    "quiz/year-4/math/ac9m4st03/test/index.html": "ff48e66c52795b747f128be9d132156a30367ac95cca08096aeda064a0d564ff",
+    "quiz/year-4/math/ac9m4p01/practice/index.html": "604ab311edf8d9c0fc4a601645814dd9c8767bdc0bb2fb0123c78ea1426c7c88",
+    "quiz/year-4/math/ac9m4p01/test/index.html": "81b8630b1a01853ce1a49ba64351c27a26d60f890655ce53f9972960b5ab37fb",
+    "quiz/year-4/math/ac9m4p02/practice/index.html": "795162b2eb153d21bffee8c0141ce7f80038f710cd47c1040d18f6f5d5ade416",
+    "quiz/year-4/math/ac9m4p02/test/index.html": "dd9ba88c1a08cc05629a297ca22fa641fa588de1c48923a5d383959425d86f27"
+  },
+  "results": [
+    {
+      "c": "ac9m4sp01",
+      "mode": "practice",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 0,
+      "preserved": false
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "practice",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "test",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "test",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "practice",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 0,
+      "preserved": false
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "practice",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "test",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4sp02",
+      "mode": "test",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "practice",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 0,
+      "preserved": false
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "practice",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "test",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4sp03",
+      "mode": "test",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "practice",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 0,
+      "preserved": false
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "practice",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "test",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4st01",
+      "mode": "test",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "practice",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 0,
+      "preserved": false
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "practice",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "test",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4st02",
+      "mode": "test",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "practice",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 0,
+      "preserved": false
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "practice",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "test",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4st03",
+      "mode": "test",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "practice",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 0,
+      "preserved": false
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "practice",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "test",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "test",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "practice",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 0,
+      "preserved": false
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "practice",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "test",
+      "oldRuntime": true,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4p02",
+      "mode": "test",
+      "oldRuntime": false,
+      "before": 1,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "ac9m4p01",
+      "mode": "legacy-unmarked",
+      "before": 1,
+      "after": 0
+    },
+    {
+      "c": "ac9m4sp01",
+      "mode": "legacy-unmarked",
+      "before": 1,
+      "after": 0
+    },
+    {
+      "c": "ac9m4m03",
+      "mode": "previous-two-sections",
+      "before": 2,
+      "after": 1,
+      "preserved": true
+    },
+    {
+      "c": "out-of-scope-year3",
+      "mode": "marked-but-other-year",
+      "before": 1,
+      "after": 0
+    }
+  ],
+  "marking_regression": "Re-ran previous80 actualruntime marking/savedreview/helperfailure cases against finalpatched runtime:80PASS.",
+  "limitations": "Offline VM/linkedom, audio/network/real layout/navigation stubbed. Root live browser evidence is separate. No new sourcebank or teaching content edits by reviewer."
+}

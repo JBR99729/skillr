@@ -585,5 +585,13 @@
       "item": "ac9m4p02-t-013",
       "status": "PASS"
     }
-  ]
+  ],
+  "preparationRegressionCorrection": {
+    "at": "2026-09-08T10:38:11.076084+00:00",
+    "priorOmission": "Original80cases did not assert preparation survival; live discovery revealed a real Practice defect.",
+    "report": "FINAL-EIGHT-PREPARATION-RUNTIME-REGRESSION.json",
+    "markingRerun": "80/80 PASS against final corrected runtime",
+    "runtimeSha256": "b8636ab672da507e9e6ea49f1ad4c7693176c1ec1e4d6936ff03e3bd01a3fa66",
+    "bootstrapSha256": "915ca947f9101709ffe110f54f1025e6e1fa6e8c79ece119046c2f78e17479f8"
+  }
 }

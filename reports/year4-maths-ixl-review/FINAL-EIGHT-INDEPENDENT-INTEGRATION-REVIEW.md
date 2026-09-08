@@ -24,3 +24,7 @@ Reviewer: sweep_curriculum_sources, independent of root integration author. Date
 ## Artifact identities
 
 Exact candidate integration files are enumerated in FINAL-EIGHT-INDEPENDENT-INTEGRATION-HASHES.json. Full 23 source/published counts and resource/ledger status are recorded in YEAR4-ALL-23-INDEPENDENT-INVENTORY.json. No browser, remote write or publication was performed by this reviewer. Any subsequent content/integration mutation requires comparison against these hashes and a focused recheck.
+
+## Subsequent live-discovered correction
+
+The original static integration checks did not catch runtime deletion of the authored Practice preparation. See FINAL-EIGHT-PREPARATION-RUNTIME-REGRESSION.md for independent reproduction, exact timing, scoped correction and passing reruns. The integration hash manifest now includes the corrected runtime/bootstrap and refreshed16activitywrapper hashes. Sourcebankcontent is unchanged.
