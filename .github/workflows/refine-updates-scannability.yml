@@ -1,0 +1,36 @@
+name: Refine Updates page scannability
+on: push
+permissions:
+  contents: write
+jobs:
+  refine:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - name: Add monthly summary and tighten latest release
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('updates.html')
+          s=p.read_text()
+          marker='''      <section class="info-section" aria-labelledby="latest-update">'''
+          summary='''      <section class="info-section" aria-labelledby="month-summary">\n        <div class="info-section-head"><p class="info-eyebrow">September 2026</p><h2 id="month-summary">What’s new this month</h2><p>A quick view of the biggest learning-content improvements before the full release history.</p></div>\n        <div class="info-grid">\n          <article class="info-card"><span class="info-icon" aria-hidden="true">▶️</span><h3>More ways to learn</h3><p>Optional topic videos now support the written lessons, worked examples, worksheets, Practice and Tests.</p></article>\n          <article class="info-card"><span class="info-icon" aria-hidden="true">🏠</span><h3>Homeschool planning</h3><p>New Foundation–Year 2 planner packs help families organise curriculum learning into a practical sequence.</p></article>\n          <article class="info-card"><span class="info-icon" aria-hidden="true">✅</span><h3>Content Verified through Year 3</h3><p>Maths, Science and English are now Content Verified from Foundation through Year 3; Year 4 Maths is also complete and verified.</p></article>\n          <article class="info-card"><span class="info-icon" aria-hidden="true">📚</span><h3>Stronger topic content</h3><p>Topic teaching, question banks, worked models, diagrams and homework support continue to be strengthened across the curriculum.</p></article>\n        </div>\n      </section>\n\n'''
+          assert marker in s and 'id="month-summary"' not in s
+          s=s.replace(marker,summary+marker,1)
+          old='''<article class="info-update"><div class="info-date"><time datetime="2026-09-08" title="8 Sep 2026">Release 12.0</time></div><div><h2>Video learning, homeschool planners and reviewed curriculum content</h2><ul><li><strong>Optional video explanations</strong> have been added to topic learning across SkillrHub, giving students and home educators another way to understand a concept while keeping the written lesson, examples and practice at the centre of the learning pathway.</li><li>New <strong>homeschool planner packs</strong> are available for <a href="/homeschooling-australia/foundation/">Foundation</a>, <a href="/homeschooling-australia/year-1/">Year 1</a> and <a href="/homeschooling-australia/year-2/">Year 2</a>, helping families organise curriculum learning and use SkillrHub resources in a practical sequence.</li><li><strong>Topic pages have been enhanced</strong> with stronger quick-learning support, clearer teaching content and examples, and optional video help so learners can get into a topic more easily before moving to worksheets, Practice and Tests.</li><li><strong>Content verification is now complete across Foundation, Year 1, Year 2 and Year 3</strong> for Mathematics, Science and English. These learning areas now display the Content Verified status after their curriculum question banks completed the documented review process.</li><li><strong>Year 3 English and Science</strong> received substantial reviewed content upgrades, including more authentic literacy tasks, composing and editing work, oral-reading and interaction tasks, curriculum-specific diagrams, and strengthened Practice and Test banks.</li><li><strong>Year 4 Mathematics is now complete and Content Verified</strong> across all 23 curriculum codes. Every code has 48 Practice and 16 Test questions, alongside strengthened teaching resources, worked models and homework support.</li><li><strong>Year 4 Science review has also progressed</strong>, with AC9S4U01–AC9S4U03 receiving reviewed full resource sets and 48 Practice + 16 Test assessment banks.</li></ul></div></article>'''
+          new='''<article class="info-update"><div class="info-date"><time datetime="2026-09-08" title="8 Sep 2026">Release 12.0</time></div><div><h2>More learning support for students, families and teachers</h2><ul><li><strong>Learn a topic in more than one way:</strong> optional video explanations now sit alongside written lessons, worked examples, worksheets, Practice and Tests.</li><li><strong>Plan homeschool learning more easily:</strong> new planner packs for <a href="/homeschooling-australia/foundation/">Foundation</a>, <a href="/homeschooling-australia/year-1/">Year 1</a> and <a href="/homeschooling-australia/year-2/">Year 2</a> organise curriculum resources into a practical sequence.</li><li><strong>See clearer, stronger topic teaching:</strong> topic pages continue to gain improved explanations, examples, quick-learning support, diagrams and worked models.</li><li><strong>Use reviewed early-years content with greater confidence:</strong> Maths, Science and English are now Content Verified from Foundation through Year 3.</li><li><strong>Year 4 Maths is complete and Content Verified:</strong> all 23 curriculum codes now have 48 Practice and 16 Test questions, with strengthened teaching and homework support.</li><li><strong>More Year 3–4 content has been strengthened:</strong> Year 3 English and Science received major reviewed upgrades, while Year 4 Science AC9S4U01–U03 now have reviewed full resource sets and 48 Practice + 16 Test banks.</li></ul></div></article>'''
+          assert old in s
+          s=s.replace(old,new,1)
+          p.write_text(s)
+          PY
+      - name: Commit refinement and remove temporary workflow
+        run: |
+          rm .github/workflows/refine-updates-scannability.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add updates.html .github/workflows/refine-updates-scannability.yml
+          git commit -m 'content: make Updates page easier to scan'
+          git push origin HEAD:${{ github.ref_name }}
