@@ -2,6 +2,13 @@
 
 Effective: 2026-08-17
 
+2026-09-08 scoped unlock: the owner explicitly approved Phase 1 Topic Page UX:
+shared static Quick Learning navigation, optional video teaser, section wording,
+active-learning prompts and video notice. Apply through the shared supplement
+builder, preserving all HTML outside its owned blocks. No curriculum rewrite,
+teacher-slide change, runtime lesson renderer or future-phase features are authorised.
+All remaining v2 protections stay in force.
+
 Latest explicit unlock: 2026-08-30 — the owner approved a site-wide shared UI rollout for curriculum skill cards and Classroom Views. This changes the presentation shell only; canonical topic and Classroom View lesson content remains code-specific and protected by the preservation rules below.
 
 This document supersedes the live-renderer architecture in Topic Guide + Teacher Slide v1.1. It applies to Foundation-Year 10 Maths, English and Science.
