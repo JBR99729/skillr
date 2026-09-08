@@ -60,7 +60,8 @@ Allow: /
 
 # AI and search discovery
 # Crawl maintenance note (2026-09-09): SkillrHub has changed substantially
-# since 2026-08-22, including curriculum resources, site navigation,
+# since 2026-08-22. Updates include Print & Go, practice resources, learning
+# notes, Classroom View, video lessons, curriculum resources, site navigation,
 # internal links and Ben and Vani learning guidance. Sitemaps are refreshed.
 # A fresh crawl of all canonical pages listed in sitemap.xml is requested.
 # This comment is informational; crawlers choose their own crawl schedule.
