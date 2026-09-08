@@ -282,27 +282,95 @@
   };
 
   function normalizeSharedChrome() {
-    const mainNav = document.querySelector(".main-nav");
     const currentPath = path.replace(/index\.html$/, "");
-    if (mainNav) {
-      mainNav.replaceChildren(...[
-        ["Home", "/"], ["Dashboard", "/dashboard/"], ["Blogs", "/blogs/"],
-        ["Features", "/why-skillrhub.html"], ["About", "/about.html"], ["Contact", "/contact.html"]
-      ].map(([label, href]) => {
+    // One site-wide menu. Breadcrumbs and lesson/activity controls remain local.
+    if (!document.querySelector(".skillr-site-header")) {
+      const css = document.createElement("link");
+      css.rel = "stylesheet";
+      css.href = "/assets/site-navigation.css?v=20260908-1";
+      document.head.appendChild(css);
+
+      const items = [
+        ["Learn", "/learn/"], ["Teach", "/teach/"], ["Products", "/products/"],
+        ["Homeschool", "/homeschooling-australia/"],
+        ["Worksheets & Homework", "/worksheets/"], ["Dashboard", "/dashboard/"],
+        ["Print & Go", "/print-and-go.html"], ["Teach & Explain", "/teach-and-explain.html"],
+        ["Updates", "/updates.html"]
+      ];
+      const makeLink = ([label, href]) => {
         const link = document.createElement("a");
         link.textContent = label;
         link.href = href;
-        if (currentPath === href || (href.endsWith("/") && currentPath.startsWith(href) && href !== "/")) {
+        if (currentPath === href) {
           link.setAttribute("aria-current", "page");
         }
+        if (href === "/updates.html") {
+          link.className = "updates-link";
+          const badge = document.createElement("span");
+          badge.className = "updates-link__badge";
+          badge.textContent = "New";
+          link.appendChild(badge);
+        }
         return link;
-      }));
+      };
+      const header = document.createElement("header");
+      header.className = "site-header skillr-site-header";
+      const nav = document.createElement("nav");
+      nav.className = "site-header__nav";
+      nav.setAttribute("aria-label", "Main navigation");
       const brand = document.createElement("a");
-      brand.className = "skillr-nav-brand";
+      brand.className = "site-header__brand";
       brand.href = "/";
-      brand.setAttribute("aria-label", "SkillrHub home");
-      brand.innerHTML = '<img src="/icons/skillrhub-mark.svg" alt="" width="30" height="30"><span>SkillrHub</span>';
-      mainNav.prepend(brand);
+      brand.setAttribute("aria-label", "SkillrHub F–10 home");
+      brand.innerHTML = '<img src="/icons/skillrhub-mark.svg" alt="" width="38" height="38"><strong>SkillrHub</strong> <span>F–10</span>';
+      const links = document.createElement("div");
+      links.className = "site-header__links";
+      links.append(...items.map(makeLink));
+      const menu = document.createElement("details");
+      menu.className = "site-header__menu";
+      const summary = document.createElement("summary");
+      summary.textContent = "Menu";
+      const panel = document.createElement("div");
+      panel.className = "site-header__menu-panel";
+      panel.append(...items.map(makeLink));
+      menu.append(summary, panel);
+      nav.append(brand, links, menu);
+      // Preserve any already-bound utility buttons when the helper runs again.
+      const existingTools = document.querySelector(".skillr-header-tools");
+      if (existingTools) nav.appendChild(existingTools);
+      header.appendChild(nav);
+      document.querySelectorAll("header.site-header, nav.main-nav, nav.dashboard-nav").forEach((old) => old.remove());
+      document.body.prepend(header);
+      document.body.classList.add("skillr-shared-navigation");
+      // Keep the authored breadcrumb and its links, immediately below the menu.
+      const breadcrumb = document.querySelector('nav.breadcrumb, nav.quiz-breadcrumb, nav[aria-label="Breadcrumb"]');
+      if (breadcrumb) {
+        breadcrumb.classList.add("skillr-site-breadcrumb");
+        header.after(breadcrumb);
+      } else if (currentPath !== "/") {
+        const trail = document.createElement("nav");
+        trail.className = "skillr-site-breadcrumb";
+        trail.setAttribute("aria-label", "Breadcrumb");
+        const list = document.createElement("ol");
+        const home = document.createElement("li");
+        home.appendChild(makeLink(["Home", "/"]));
+        const current = document.createElement("li");
+        current.setAttribute("aria-current", "page");
+        current.textContent = items.find(([, href]) => href === currentPath)?.[0]
+          || document.querySelector("h1")?.textContent.trim() || "Current page";
+        list.append(home, current);
+        trail.appendChild(list);
+        header.after(trail);
+      }
+      document.addEventListener("keydown", (event) => {
+        if (event.key === "Escape" && menu.open) {
+          menu.open = false;
+          summary.focus();
+        }
+      });
+      document.addEventListener("click", (event) => {
+        if (menu.open && !menu.contains(event.target)) menu.open = false;
+      });
     }
 
     const footer = document.querySelector("footer");
@@ -530,11 +598,11 @@
     // Remove the retired Projector Mode state from devices that previously used it.
     document.documentElement.classList.remove("skillr-projector-mode");
     try { localStorage.removeItem("skillrProjectorModeV1"); } catch (_) {}
-    const headerHost = document.querySelector(".site-header__links, .main-nav, .dashboard-nav");
+    const headerHost = document.querySelector(".skillr-site-header .site-header__nav, .site-header__links, .main-nav, .dashboard-nav");
     if (headerHost && !headerHost.querySelector(".skillr-header-tools")) {
       const tools = document.createElement("div");
       tools.className = "skillr-header-tools";
-      if (!document.getElementById("installButton")) tools.appendChild(makeUtilityButton("install", "App", "install"));
+      tools.appendChild(makeUtilityButton("install", "App", "install"));
       tools.append(makeUtilityButton("timer", "Timer", "timer"));
       headerHost.appendChild(tools);
     }
