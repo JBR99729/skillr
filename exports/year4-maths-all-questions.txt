@@ -1,0 +1,1660 @@
+SKILLRHUB YEAR 4 MATHS - ALL PRODUCTION ASSESSMENT QUESTIONS
+Source: assets/assessment-banks/year4/math/*.json
+Includes Practice and Test questions only; answers/explanations omitted.
+Total questions: 1472
+
+==============================================================================
+AC9M4A01
+==============================================================================
+
+--- PRACTICE ---
+AC9M4A01-P-001	Why is 18 + 7 = 20 + 5 a true equation?
+AC9M4A01-P-002	What number makes 18 + 27 = □ true?
+AC9M4A01-P-003	What number makes □ = 73 − 28 true?
+AC9M4A01-P-004	What number makes 36 + □ = 61 true?
+AC9M4A01-P-005	What number makes □ + 48 = 80 true?
+AC9M4A01-P-006	What number makes □ − 26 = 47 true?
+AC9M4A01-P-007	What number makes 90 − □ = 38 true?
+AC9M4A01-P-008	What number makes 64 = □ + 29 true?
+AC9M4A01-P-009	What number makes 42 = 75 − □ true?
+AC9M4A01-P-010	What number makes 0 + □ = 56 true?
+AC9M4A01-P-011	What number makes 83 − □ = 83 true?
+AC9M4A01-P-012	What number makes □ − 18 = 0 true?
+AC9M4A01-P-013	Use the order of the addends to complete 28 + 17 = 17 + □.
+AC9M4A01-P-014	What number makes 14 + 9 + 6 = 6 + 14 + □ true?
+AC9M4A01-P-015	Use a friendly pair to find the box in 38 + □ + 62 = 146.
+AC9M4A01-P-016	Both journeys start at 0 and finish at 11. What is the length of the missing jump in the second journey?
+AC9M4A01-P-017	Which arrangement lets you find 67 + 8 + 33 by making 100 with the first two addends?
+AC9M4A01-P-018	Why does changing 31 + 19 to 30 + 20 preserve the sum?
+AC9M4A01-P-019	Mia says, “I can swap the numbers in 52 − 17 because addition can be done in either order.” Which response explains the problem?
+AC9M4A01-P-020	Which expression has the same sum as 48 + 26?
+AC9M4A01-P-021	All counters have equal mass. How many counters belong in the covered group to keep the scale balanced?
+AC9M4A01-P-022	What number makes 47 + 26 = 50 + □ true?
+AC9M4A01-P-023	What number makes □ + 38 = 61 + 24 true?
+AC9M4A01-P-024	What number makes 125 + □ = 80 + 90 true?
+AC9M4A01-P-025	What number makes 68 − 21 = 70 − □ true?
+AC9M4A01-P-026	What number makes 95 − □ = 85 − 27 true?
+AC9M4A01-P-027	What number makes □ − 36 = 72 − 18 true?
+AC9M4A01-P-028	What number makes 53 + 17 = 94 − □ true?
+AC9M4A01-P-029	What number makes 120 − 45 = □ + 28 true?
+AC9M4A01-P-030	What number makes 26 + □ = 83 − 19 true?
+AC9M4A01-P-031	What number makes 215 + 178 = 225 + □ true?
+AC9M4A01-P-032	Why do the two highlighted intervals have the same length?
+AC9M4A01-P-033	Is 64 − 29 = 60 − 25 true? Choose the correct explanation.
+AC9M4A01-P-034	What number makes 83 − 47 = 83 − 40 − □ true?
+AC9M4A01-P-035	Which equation is true?
+AC9M4A01-P-036	Why can 74 − 38 be calculated as 76 − 40?
+AC9M4A01-P-037	The bar shows a whole of 92 and one part of 37. Which equation directly finds the missing part?
+AC9M4A01-P-038	Use the jumps to find the box in 46 + □ = 103.
+AC9M4A01-P-039	A student proposes 124 for the box in □ − 48 = 76. Which check uses the original equation?
+AC9M4A01-P-040	To solve □ − 35 = 62, Leo calculates 62 − 35 = 27. What should he do instead?
+AC9M4A01-P-041	A student chooses 92 for □ + 27 = 65. Which correction is right?
+AC9M4A01-P-042	After 58 books are taken from a box, 147 books remain. How many books were in the box at the start?
+AC9M4A01-P-043	Amira has saved $68 towards a $125 bicycle. In 68 + □ = 125, how much more money does the box represent?
+AC9M4A01-P-044	Team A has 156 points. Team B has 37 more points than Team A. What value makes □ − 156 = 37 true for Team B’s score?
+AC9M4A01-P-045	A class starts with 84 seedlings and gives some away. There are 29 left. What number makes 84 − □ = 29 true?
+AC9M4A01-P-046	A ribbon is made from pieces of 28 cm and 37 cm. Another ribbon of equal total length has pieces of 40 cm and □ cm. What is the missing length?
+AC9M4A01-P-047	Which pair of equations describes the missing part of this bar?
+AC9M4A01-P-048	For 46 + □ = 80, a student says, “I will add 80 and 46.” Which explanation repairs the method?
+
+--- TEST ---
+AC9M4A01-T-001	What number makes 95 = □ + 37 true?
+AC9M4A01-T-002	What number makes □ − 48 = 86 true?
+AC9M4A01-T-003	What number makes 140 − □ = 75 true?
+AC9M4A01-T-004	What number makes 26 + □ + 74 = 163 true?
+AC9M4A01-T-005	What number makes 29 + 18 = □ + 29 true?
+AC9M4A01-T-006	All counters have equal mass. How many counters are in the covered group on this balanced scale?
+AC9M4A01-T-007	What number makes 86 − 32 = 90 − □ true?
+AC9M4A01-T-008	What number makes □ + 47 = 120 − 28 true?
+AC9M4A01-T-009	What number makes 137 + 89 = 147 + □ true?
+AC9M4A01-T-010	Which explanation shows that 71 − 26 = 66 − 21 is true?
+AC9M4A01-T-011	What is the unknown part in the bar?
+AC9M4A01-T-012	Which check shows that 62 makes 108 − □ = 46 true?
+AC9M4A01-T-013	A player gains 38 points and now has 97 points. How many points did the player have before the gain?
+AC9M4A01-T-014	Two teams finish with equal scores. One team has 88 points before gaining an unknown number. The other has 105 points before gaining 23. How many points did the first team gain?
+AC9M4A01-T-015	The two boxes represent the same whole number in □ + 18 = 18 + □. Which statement is true?
+AC9M4A01-T-016	A student adds 83 and 29 to solve 83 − □ = 29. Which correction is right?
+
+==============================================================================
+AC9M4A02
+==============================================================================
+
+--- PRACTICE ---
+AC9M4A02-P-001	What is 2 × 7?
+AC9M4A02-P-002	What is 3 × 8?
+AC9M4A02-P-003	What is 5 × 9?
+AC9M4A02-P-004	What is 10 × 10?
+AC9M4A02-P-005	Eight bags each hold 1 shell. How many shells are there?
+AC9M4A02-P-006	What is 4 × 6?
+AC9M4A02-P-007	What is 6 × 7?
+AC9M4A02-P-008	What is 8 × 8?
+AC9M4A02-P-009	What is 9 × 9?
+AC9M4A02-P-010	What is 7 × 8?
+AC9M4A02-P-011	What is 6 × 9?
+AC9M4A02-P-012	Seven trays each hold 10 cups. How many cups are there?
+AC9M4A02-P-013	How many counters are in this 4-row array?
+AC9M4A02-P-014	The first array is turned to make the second. Which equation records what stays equal?
+AC9M4A02-P-015	Which calculation matches the blue and gold parts of this array?
+AC9M4A02-P-016	Three rows of 8 contain 24 counters. Add another identical 3-row array. What is 6 × 8?
+AC9M4A02-P-017	The 10-row array has 60 counters. How many are in its 5 blue rows?
+AC9M4A02-P-018	Nia knows 2 × 9 = 18. How can she use this to find 4 × 9?
+AC9M4A02-P-019	Use 4 × 7 = 28 to work out 8 × 7.
+AC9M4A02-P-020	Which strategy finds 9 × 6 from 10 × 6?
+AC9M4A02-P-021	Use 6 × 6 = 36 to find 7 × 6.
+AC9M4A02-P-022	Which mental calculation finds 8 × 4 from 10 × 4?
+AC9M4A02-P-023	Sam finds 3 × 5 = 15, then 3 × 15 = 45. Which fact has Sam found?
+AC9M4A02-P-024	A student says 6 × 7 = 13 because 6 + 7 = 13. How does an array show the mistake?
+AC9M4A02-P-025	What is 63 ÷ 7?
+AC9M4A02-P-026	What is 72 ÷ 8?
+AC9M4A02-P-027	Share 42 counters equally among 6 children. How many does each child receive?
+AC9M4A02-P-028	There are 56 counters. Put 7 in each bag. How many bags are filled?
+AC9M4A02-P-029	Find the missing factor: 8 × □ = 40.
+AC9M4A02-P-030	What is 100 ÷ 10?
+AC9M4A02-P-031	What is 7 ÷ 7?
+AC9M4A02-P-032	Which division fact belongs with 6 × 4 = 24?
+AC9M4A02-P-033	Use 6 × 8 = 48 to find 60 × 8 mentally.
+AC9M4A02-P-034	Use 3 × 7 = 21 to find 300 × 7 mentally.
+AC9M4A02-P-035	Use 7 × 8 = 56 to find 560 ÷ 7.
+AC9M4A02-P-036	What is 23 × 4 without a calculator?
+AC9M4A02-P-037	Use 20 × 6 = 120 to find 19 × 6.
+AC9M4A02-P-038	Which keeps the product equal to 25 × 8?
+AC9M4A02-P-039	Use 10 × 34 = 340 to find 9 × 34 mentally.
+AC9M4A02-P-040	Find 168 ÷ 7 mentally using 140 and 28.
+AC9M4A02-P-041	Which complete mental calculation finds 48 × 5?
+AC9M4A02-P-042	A student writes 240 ÷ 6 = 4. Which check exposes the error?
+AC9M4A02-P-043	In a fact game, a player matches 7 × 8 with 56. Which explanation earns the explanation point?
+AC9M4A02-P-044	This array has 40 counters. Which pair of division facts describes its rows and columns?
+AC9M4A02-P-045	On grid paper or with counters, make 6 rows of 7. Draw or record your array, split every row into 2 and 5, label the two part totals and whole total, and write both related division facts. Explain how the split helps.
+AC9M4A02-P-046	Draw a 3-row array with 9 counters per row. Copy it to make 6 rows. Label both totals, write the two multiplication facts, and explain why the second total is double the first.
+AC9M4A02-P-047	Make and play a fact-card game with a partner or adult. Choose three multiplication facts with different products and factors from 1 to 10. For each fact make one multiplication card, its product card and two related division cards. Write rules that require recalling, matching and explaining a strategy. Play three turns and record the cards, spoken strategy and division check for each turn.
+AC9M4A02-P-048	Without a calculator, solve 16 × 7 and 112 ÷ 7. Write each mental step, name the smaller facts used, and explain how the answers check each other.
+
+--- TEST ---
+AC9M4A02-T-001	What is 9 × 8?
+AC9M4A02-T-002	What is 54 ÷ 6?
+AC9M4A02-T-003	How many counters are in 7 rows of 9?
+AC9M4A02-T-004	This array represents 9 × 7. What do its coloured parts give?
+AC9M4A02-T-005	Use 10 × 8 = 80 to find 5 × 8.
+AC9M4A02-T-006	Luca knows 8 × 6 = 48. Which fact follows by turning an 8-by-6 array?
+AC9M4A02-T-007	Use 4 × 9 = 36 to find 8 × 9.
+AC9M4A02-T-008	If 5 × 8 = 40, what is 6 × 8?
+AC9M4A02-T-009	Find the box: 7 × □ = 70.
+AC9M4A02-T-010	Which division equation belongs to 9 × 4 = 36?
+AC9M4A02-T-011	Find 32 × 6 mentally.
+AC9M4A02-T-012	Use 30 × 7 = 210 to find 29 × 7.
+AC9M4A02-T-013	Use 8 × 9 = 72 to find 720 ÷ 9.
+AC9M4A02-T-014	Which calculation has the same product as 50 × 6?
+AC9M4A02-T-015	Draw an array for 8 × 7. Show and label two different useful splits or groupings. Use each to write a complete mental calculation, then write the two related division facts.
+AC9M4A02-T-016	Design and make a mini card game for two players using two multiplication facts with different products and factors 2 to 10. Make a multiplication card, product card and two division cards for each fact. Write rules requiring a match, a mental strategy and an inverse check. Play two turns with a partner or adult and record all three parts of each turn.
+
+==============================================================================
+AC9M4M01
+==============================================================================
+
+--- PRACTICE ---
+AC9M4M01-P-001	What mass does one interval on this scale represent?
+AC9M4M01-P-002	Read the mass shown by the pointer.
+AC9M4M01-P-003	What mass is shown on the analog kitchen scale?
+AC9M4M01-P-004	Which record matches this digital scale?
+AC9M4M01-P-005	The analog scale shows one parcel. Another parcel has mass 675 g. Which is heavier?
+AC9M4M01-P-006	Read the pointer on this part of a mass scale.
+AC9M4M01-P-007	Which unit and instrument suit measuring the mass of a paperclip accurately?
+AC9M4M01-P-008	A bowl alone reads 200 g. After flour is added, the scale reads 650 g. What is the mass of the flour?
+AC9M4M01-P-009	How long is the strip?
+AC9M4M01-P-010	How long is the pencil on this centimetre scale?
+AC9M4M01-P-011	The strip begins at 2 cm and ends at 9 cm. What is its length?
+AC9M4M01-P-012	What reading is shown on the tape?
+AC9M4M01-P-013	What reading is shown on the millimetre scale?
+AC9M4M01-P-014	A toy car travels about 2 metres across a floor. Which instrument and unit suit comparing its travel distances?
+AC9M4M01-P-015	Two seedlings are 34 mm and 38 mm tall. Why are millimetres useful here?
+AC9M4M01-P-016	Which is longer: 56 cm or 560 mm?
+AC9M4M01-P-017	This jug has four equal intervals from 0 to 1 L. What is one interval?
+AC9M4M01-P-018	How much liquid is in the jug?
+AC9M4M01-P-019	Read the liquid level in this jug.
+AC9M4M01-P-020	The liquid is halfway between two adjacent 100 mL marks. About how much is there?
+AC9M4M01-P-021	A jug holds 1.25 L of water and a bottle holds 1180 mL. Which contains more?
+AC9M4M01-P-022	You want to measure how much water a cup holds. Which instrument and unit fit?
+AC9M4M01-P-023	What temperature does this thermometer show?
+AC9M4M01-P-024	Read this partial-degree temperature.
+AC9M4M01-P-025	How should this digital temperature be read?
+AC9M4M01-P-026	Room A is 28.5 °C and room B is 26 °C. How much warmer is room A?
+AC9M4M01-P-027	Which instrument and unit can compare shade and sunshine temperatures?
+AC9M4M01-P-028	Estimate the time to the nearest minute.
+AC9M4M01-P-029	Estimate the time shown to the nearest minute.
+AC9M4M01-P-030	Which time is the best estimate for this clock?
+AC9M4M01-P-031	A game starts at about the time on this clock and ends at 3:32. About how long does it last?
+AC9M4M01-P-032	How long has this elapsed-time timer run?
+AC9M4M01-P-033	Read the duration shown on this analog timer scale.
+AC9M4M01-P-034	A stretch should last 45 seconds. Which timer setting fits a minutes : seconds display?
+AC9M4M01-P-035	An activity begins at 10:20 and lasts 15 minutes. At what time should its finishing alarm ring?
+AC9M4M01-P-036	A minutes : seconds countdown begins at 03:00. It now shows 01:00. How long has elapsed?
+AC9M4M01-P-037	A paper ruler has 0 cm and 10 cm marked correctly. You want ten equal centimetre intervals. How many interior marks are needed?
+AC9M4M01-P-038	A cup widens towards the top. How can you make reliable 100 mL marks?
+AC9M4M01-P-039	A paper ruler has uneven spaces labelled 1 cm each. What is the best repair?
+AC9M4M01-P-040	JCU TropWATER describes First Nations Land and Sea Rangers helping deploy temperature loggers in seagrass habitats. Which classroom measurement models that attribute?
+AC9M4M01-P-041	In a classroom model of temperature monitoring, two invented readings are 27.5 °C and 28.5 °C. What change do they show?
+AC9M4M01-P-042	A student records “the bottle is 500”. What information is missing for a useful measurement?
+AC9M4M01-P-043	Make a 10 cm paper ruler by copying an accurate ruler. Mark 0 and every centimetre, then add the half-centimetre marks. Use it to measure a small object. Record its length with a unit and check against the original ruler. Show both rulers and your record to an adult.
+AC9M4M01-P-044	Measure the length of two pencils using a real ruler. Record each length to the nearest millimetre, show where you aligned zero, and state which is longer and by how much.
+AC9M4M01-P-045	Use kitchen scales to measure the mass of two safe objects. Check the empty scale reads zero. Record each display or pointer reading with its unit, explain a scale interval if it is analog, and compare the masses.
+AC9M4M01-P-046	With an adult, make a measuring cup using a clear container, water and a marked measuring jug. Add 100 mL at a time up to 400 mL and mark each level. Measure a fresh amount with your cup, record it, and check it with the jug.
+AC9M4M01-P-047	Use a real timer to run a 30-second activity followed by a 20-second rest. Record both timer settings and observe each alert. Record the total planned duration and explain the minutes : seconds notation.
+AC9M4M01-P-048	Use a safe classroom thermometer to measure the temperature in two places chosen by an adult. Record both readings in °C, identify the smallest marked interval or digital unit, and compare the readings. Label these as classroom measurements.
+
+--- TEST ---
+AC9M4M01-T-001	What mass does the analog kitchen scale show?
+AC9M4M01-T-002	The digital scale shows one object. Another has a mass of 0.8 kg. Which is heavier?
+AC9M4M01-T-003	A strip lies from 2 cm to 9 cm on a ruler. Which calculation finds its length?
+AC9M4M01-T-004	The tape is labelled in metres. What is its pointer reading?
+AC9M4M01-T-005	You must compare two leaves whose lengths differ by only a few millimetres. Which choice is suitable?
+AC9M4M01-T-006	Read this jug to the nearest 50 mL.
+AC9M4M01-T-007	How much liquid does each equal space on this jug represent?
+AC9M4M01-T-008	What is the temperature shown?
+AC9M4M01-T-009	One thermometer reads 28.5 °C. Another reads 29 °C. What is true?
+AC9M4M01-T-010	Estimate this clock reading to the nearest minute.
+AC9M4M01-T-011	An event begins at the time shown and finishes at 2:10. Approximately how long is it?
+AC9M4M01-T-012	A timer is set for 2 minutes 30 seconds. Which minutes : seconds setting is correct?
+AC9M4M01-T-013	A class models the temperature logging described by JCU TropWATER with First Nations Land and Sea Rangers. Why should the class record °C beside every invented reading?
+AC9M4M01-T-014	Make a paper measuring strip from 0 to 8 cm, using an accurate ruler to mark centimetres and halfway points. Measure an object with it and the original ruler. Record both lengths and explain how you checked the scale.
+AC9M4M01-T-015	Choose two safe objects and compare either their lengths with a ruler or their masses with kitchen scales. Record the attribute, instrument, units, two actual measurements and which is greater. Explain how you read a partial unit or a small scale interval.
+AC9M4M01-T-016	Set and run a 40-second timer for a quiet activity. Record the minutes : seconds setting, observe the alert, and explain how you know the intended duration elapsed.
+
+==============================================================================
+AC9M4M02
+==============================================================================
+
+--- PRACTICE ---
+AC9M4M02-P-001	A gardener wants edging all the way around a garden bed. Which measurement is needed?
+AC9M4M02-P-002	A classroom floor will be covered with square carpet tiles. Which measurement is needed?
+AC9M4M02-P-003	Which is a suitable formal unit for the perimeter of a small picture frame?
+AC9M4M02-P-004	Which formal unit suits recording the area of a classroom floor?
+AC9M4M02-P-005	What is the perimeter of the orange boundary?
+AC9M4M02-P-006	What is the area of the blue rectangle?
+AC9M4M02-P-007	Why are the internal grid lines excluded when measuring perimeter?
+AC9M4M02-P-008	A bed’s boundary measures 24 short sticks or 12 long sticks with no gaps. What follows if all sticks of each type are equal?
+AC9M4M02-P-009	How long is the boundary of this 5 cm by 3 cm rectangle?
+AC9M4M02-P-010	A rectangular paddock is 7 m long and 2 m wide. What fence length surrounds it with no gate opening?
+AC9M4M02-P-011	Which is an efficient correct way to find the perimeter of a 12 m by 8 m rectangle?
+AC9M4M02-P-012	What is the perimeter of this square?
+AC9M4M02-P-013	Which rectangle has the longer perimeter?
+AC9M4M02-P-014	A 5 cm by 3 cm rectangle and a 6 cm by 2 cm rectangle both have perimeter 16 cm. Which has greater area?
+AC9M4M02-P-015	What is the perimeter of this L-shaped region?
+AC9M4M02-P-016	What area does this L-shaped region cover?
+AC9M4M02-P-017	What is the area of the step-shaped region?
+AC9M4M02-P-018	Which method best measures the perimeter of this curved shape?
+AC9M4M02-P-019	A string fitted once around a shape is straightened as shown. What is the estimated perimeter?
+AC9M4M02-P-020	Two careful string measurements of the same curved edge give 81 cm and 83 cm. Which report is sensible?
+AC9M4M02-P-021	Which informal length unit is most practical for comparing the boundaries of two large garden beds?
+AC9M4M02-P-022	What is the area of the triangular blue region?
+AC9M4M02-P-023	What area does the blue shape cover?
+AC9M4M02-P-024	What is the area of the blue region?
+AC9M4M02-P-025	A region covers 5 whole square tiles and 6 half tiles of the same unit. What is its area?
+AC9M4M02-P-026	Region A covers 7 whole squares and 2 halves. Region B covers 6 whole squares and 4 halves of the same unit. How do their areas compare?
+AC9M4M02-P-027	Why should small pieces at an edge be included when estimating area?
+AC9M4M02-P-028	A shape covers 3 whole square units and one half of another. Which record is correct?
+AC9M4M02-P-029	You have one paper square to measure a rectangle’s area. What should you do?
+AC9M4M02-P-030	Why is counting the six tiles not a complete area measurement here?
+AC9M4M02-P-031	What is wrong with counting these overlapping placements as three full units of covered area?
+AC9M4M02-P-032	One student uses 2 cm by 2 cm paper squares; another uses 1 cm by 1 cm squares. Why can their tile counts not be compared directly?
+AC9M4M02-P-033	A tabletop takes 24 small equal tiles to cover. One large tile covers exactly 4 small tiles. How many large tiles cover the same area?
+AC9M4M02-P-034	A paper square fits 9 full times in a region, with two half-unit gaps left at the edge. What total should be recorded?
+AC9M4M02-P-035	An outline covers 12 whole grid squares and parts of 7 other squares. Which statement must be true?
+AC9M4M02-P-036	A curved region covers 10 whole squares. Its edge pieces can be grouped into about 4 more whole squares. What is a suitable area estimate?
+AC9M4M02-P-037	Why might a smaller square grid improve an estimate of a leaf’s area?
+AC9M4M02-P-038	A string around a pond measures 46 m. Can that number alone give its area?
+AC9M4M02-P-039	ALFA’s public 2020 report describes Mimal Rangers using mapped patches of land in wildfire planning. To compare how much land patches cover, which attribute is needed?
+AC9M4M02-P-040	This invented classroom map models comparing land areas. How much greater is region A than region B?
+AC9M4M02-P-041	What can the invented grid map tell a class on its own?
+AC9M4M02-P-042	A student writes “area = 18 squares” after using identical paper squares. What detail makes the record more reproducible?
+AC9M4M02-P-043	On square grid paper, draw two rectangles with different side-length pairs that each cover 12 squares. Label all side lengths in grid units. Trace each boundary, calculate each perimeter by adding its sides, and compare the results. Use separate paper.
+AC9M4M02-P-044	Draw a closed shape with at least one curved section on separate paper. Fit string once around its entire boundary, mark the meeting point, straighten it and measure it with a ruler. Repeat, record both lengths and give an approximate perimeter with a unit.
+AC9M4M02-P-045	Use one paper square repeatedly to measure the area of a rectangle you draw. Trace each adjacent placement, number the placements and include any partial units at the edge. Record the unit’s size, total area and how you avoided gaps or overlaps. Use separate paper.
+AC9M4M02-P-046	Draw a triangle on square grid paper. Use one matching paper square repeatedly to trace or mark whole-square and partial-square coverage inside the triangle. Record the full-square count and combined part count, and use these to estimate its area. Explain why ignoring parts would be inaccurate. Use separate paper.
+AC9M4M02-P-047	Measure the perimeter of a rectangular book using the same paper strip longer than 1 cm repeatedly, then using a ruler. Record the strip’s length, number of strip units (including any part), all four side lengths in centimetres, and both perimeter records. Explain why the numerical counts differ.
+AC9M4M02-P-048	Draw an invented land-area map on grid paper with two enclosed patches, one including partial squares. Estimate each area using the same square unit. Record full squares, combined parts and whether A, B or neither is larger. Explain why this class model alone cannot choose a real fire-burn location. Use separate paper.
+
+--- TEST ---
+AC9M4M02-T-001	A ribbon goes once around a card’s edge. Which unit fits the measurement needed?
+AC9M4M02-T-002	A rectangle has sides 8 m and 3 m. How much fence encloses it with no opening?
+AC9M4M02-T-003	Find the perimeter of this step-shaped region.
+AC9M4M02-T-004	What area is covered by the blue L-shaped region?
+AC9M4M02-T-005	Why is string useful for estimating this shape’s perimeter?
+AC9M4M02-T-006	What is the area of this triangle?
+AC9M4M02-T-007	A shape covers 4 whole square units, 1 quarter and 3 quarters. What is its area?
+AC9M4M02-T-008	Which statement about these two tiled rectangles is correct?
+AC9M4M02-T-009	What correction is needed before these tiles can measure the rectangle’s whole area?
+AC9M4M02-T-010	A leaf outline contains 9 whole squares and parts of 5 more. Which range contains its area?
+AC9M4M02-T-011	The same surface is covered by 24 small square tiles or 6 large square tiles. What is true?
+AC9M4M02-T-012	On the invented map, which record compares the covered areas correctly?
+AC9M4M02-T-013	A child says “a shape’s perimeter is 20 cm, so its area is 20 cm²”. What is the best response?
+AC9M4M02-T-014	Draw two rectangles with different side-length pairs on square grid paper, each with perimeter 20 grid units. Label all four side lengths, show each boundary sum, count each area and compare. Use separate paper.
+AC9M4M02-T-015	Choose a flat object with a curved edge, or draw a closed curved shape. Use string to measure its whole perimeter twice. Record the two measurements with units, give a reasonable estimate and explain one possible source of variation, or why the readings agree.
+AC9M4M02-T-016	Use one paper square repeatedly to measure a shape with a sloping edge. Trace or mark each placement, record full and part units, combine the parts and give its area or a justified estimate. Explain how you prevented gaps and overlaps. Use separate paper.
+
+==============================================================================
+AC9M4M03
+==============================================================================
+
+--- PRACTICE ---
+AC9M4M03-P-001	A child eats breakfast at 7:30 in the morning on Monday. Which label fits?
+AC9M4M03-P-002	Which time is noon on Thursday?
+AC9M4M03-P-003	Which label means midnight at the start of Wednesday?
+AC9M4M03-P-004	On Saturday, a film starts at 7:45 pm and finishes at 8:10 pm. How long is it?
+AC9M4M03-P-005	Reading begins at 8:10 am Tuesday and ends at 8:45 am the same day. What is the duration?
+AC9M4M03-P-006	A lesson runs from 2:15 pm to 3:05 pm on Tuesday. How long does it last?
+AC9M4M03-P-007	A bus leaves at 8:35 am Tuesday and arrives at 10:10 am the same day. How long is the journey?
+AC9M4M03-P-008	On Friday, a show starts at 11:45 am and ends at 12:25 pm. What is its duration?
+AC9M4M03-P-009	On Saturday a train leaves at 11:30 am and arrives at 1:05 pm. Both places use the same local time. How long is the trip?
+AC9M4M03-P-010	A film starts at 10:50 pm Friday and ends at 12:35 am Saturday, the next day. How long is it?
+AC9M4M03-P-011	A coach leaves at 9:40 pm Saturday and arrives at 1:10 am Sunday, the next day. Both places use the same local time. How long is the journey?
+AC9M4M03-P-012	On Sunday an event runs from 12:15 am to 1:00 am. What is its duration?
+AC9M4M03-P-013	How long is 6:00 am to 6:00 pm on Monday?
+AC9M4M03-P-014	How long is 6:00 pm Monday to 6:00 am Tuesday, the next day?
+AC9M4M03-P-015	On Tuesday a workshop starts at 9:20 am and lasts 55 minutes. When does it finish?
+AC9M4M03-P-016	On Wednesday a game starts at 11:50 am and lasts 35 minutes. When does it finish?
+AC9M4M03-P-017	A journey starts at 11:40 pm Friday and lasts 50 minutes. When does it finish?
+AC9M4M03-P-018	A Saturday activity starts at 1:45 pm and lasts 2 hours 30 minutes. When does it finish?
+AC9M4M03-P-019	A lesson ends at 4:20 pm Monday after 55 minutes. When did it start?
+AC9M4M03-P-020	A show ends at 12:10 pm Wednesday and lasts 45 minutes. When did it start?
+AC9M4M03-P-021	An event ends at 12:20 am Tuesday after 50 minutes. When did it start?
+AC9M4M03-P-022	Using the Tuesday timetable, choose the bus with the latest departure that still arrives by 9:45 am.
+AC9M4M03-P-023	On Thursday you reach a bus stop at 11:50 am. The next bus comes at 12:05 pm. How long do you wait?
+AC9M4M03-P-024	On Monday a train arrives at 12:20 pm. A bus leaves at 12:35 pm the same day. Walking to the bus takes 10 minutes. How much time remains after the walk?
+AC9M4M03-P-025	How many minutes are in 3 hours?
+AC9M4M03-P-026	A film lasts 2 hours 15 minutes. How many minutes is that?
+AC9M4M03-P-027	Write 150 minutes in hours and minutes.
+AC9M4M03-P-028	A game lasts 75 minutes. Which duration is equal?
+AC9M4M03-P-029	How many seconds are in 4 minutes?
+AC9M4M03-P-030	A routine lasts 2 minutes 20 seconds. How many seconds is that?
+AC9M4M03-P-031	How long is 90 seconds in minutes and seconds?
+AC9M4M03-P-032	Write 185 seconds in minutes and seconds.
+AC9M4M03-P-033	Which comparison is correct: 145 minutes or 2 hours 20 minutes?
+AC9M4M03-P-034	Compare 2 minutes 5 seconds with 125 seconds.
+AC9M4M03-P-035	Two stages last 75 seconds and 50 seconds. What is their total in minutes and seconds?
+AC9M4M03-P-036	A 3-minute timer has counted down for 1 minute 40 seconds. How much time remains?
+AC9M4M03-P-037	A practice routine has three 40-second activities and two 20-second rests. What is the total duration?
+AC9M4M03-P-038	How long is the Friday carnival programme from the start of the relay to the end of long jump, including the break?
+AC9M4M03-P-039	In the Friday carnival timetable, how many minutes is the break?
+AC9M4M03-P-040	A student says 1 hour 40 minutes equals 140 minutes. Which correction explains the error?
+AC9M4M03-P-041	ACARA describes Nyangumarta use of the Sun for days and Moon phases for months. Which feature of these observations helps mark passing time?
+AC9M4M03-P-042	At the National Museum, Wiradjuri astrophysicist Kirsten Banks links the Emu in the sky’s position with egg-gathering season. What time scale does this account identify?
+AC9M4M03-P-043	A general daily cycle is drawn: dawn, day, dusk, night, then dawn again. Where should the next arrow go after night?
+AC9M4M03-P-044	A Saturday match begins at 10:55 am and ends at 11:10 am. Why is its duration 15 minutes?
+AC9M4M03-P-045	On Monday a museum visit begins at 11:35 am and ends at 1:20 pm. Draw a labelled timeline through noon, label each elapsed jump, and give the total duration in hours/minutes and in minutes.
+AC9M4M03-P-046	A journey begins at 11:25 pm Tuesday and ends at 1:05 am Wednesday, the next day, using the same local time. Draw a labelled timeline through midnight, show each jump, and give the total in hours/minutes and in minutes.
+AC9M4M03-P-047	Create a Wednesday athletics timetable starting at 10:45 am. Include a 20-minute warm-up, a 35-minute relay, a 10-minute rest and a 25-minute long jump, in that order without gaps. Write every start and finish time with am/pm, then write the total-duration calculation and give the total in minutes and hours/minutes.
+AC9M4M03-P-048	The supplied ACARA account says Nyangumarta used the Sun for days and Moon phases for months. On paper, label a repeating daily pattern and a repeating lunar pattern in words, explain how each marks time, and name the People and source. Then explain why these patterns alone do not tell you a bus journey’s exact duration in minutes.
+
+--- TEST ---
+AC9M4M03-T-001	On Friday a session runs from 3:18 pm to 3:52 pm. How long is it?
+AC9M4M03-T-002	A Thursday visit runs from 11:20 am to 1:05 pm. How long is it?
+AC9M4M03-T-003	A film starts at 11:15 pm Saturday and ends at 12:50 am Sunday, the next day. What is its duration?
+AC9M4M03-T-004	A Monday activity starts at 11:35 am and lasts 55 minutes. When does it end?
+AC9M4M03-T-005	An event ends at 12:15 am Friday after 40 minutes. When did it start?
+AC9M4M03-T-006	Convert 3 hours 5 minutes to minutes.
+AC9M4M03-T-007	Write 205 seconds in minutes and seconds.
+AC9M4M03-T-008	Which lasts longer: 95 minutes or 1 hour 40 minutes?
+AC9M4M03-T-009	A routine has four 30-second activities and three 20-second rests. What is its total duration?
+AC9M4M03-T-010	Using the Monday museum timetable, how long is the gap between the Red group finishing and the Blue group starting?
+AC9M4M03-T-011	How long is the Green group’s Monday visit?
+AC9M4M03-T-012	Which label means the start of Sunday at midnight?
+AC9M4M03-T-013	The public ACARA account links Nyangumarta observation of Moon phases with months. Why can a repeating lunar pattern help mark time?
+AC9M4M03-T-014	Kirsten Banks, Wiradjuri, describes the Emu in the sky as a seasonal indicator in the National Museum’s Sky stories. Which conclusion stays within that account?
+AC9M4M03-T-015	Create a Tuesday exercise timetable beginning at 9:00 am. Include three activities of 45 seconds each, with a 15-second rest between activities and no rest at the end. Name the activities, write every start and finish time to the second, and write the total-duration calculation and give the total in seconds and minutes/seconds.
+AC9M4M03-T-016	A coach leaves at 10:40 pm Thursday and arrives at 12:25 am Friday, the next day, using the same local time. Draw a timeline through midnight and label each elapsed jump. Find the duration in hours/minutes and in minutes, and explain why subtracting 40 from 25 does not solve the problem.
+
+==============================================================================
+AC9M4M04
+==============================================================================
+
+--- PRACTICE ---
+AC9M4M04-P-001	Name the orange-marked angle. Compare its opening with the right-angle benchmark.
+AC9M4M04-P-002	The whole diagram is tilted. What is the name of the orange-marked angle?
+AC9M4M04-P-003	Which name fits the orange-marked angle?
+AC9M4M04-P-004	Two arms point in opposite directions. Name the marked half-turn angle.
+AC9M4M04-P-005	Follow the larger orange arc. What kind of angle does it mark?
+AC9M4M04-P-006	The orange arrow makes one complete turn back to its starting arm. What is this turn called?
+AC9M4M04-P-007	Which orange-marked angle has the larger opening?
+AC9M4M04-P-008	Both marked angles are obtuse. Which one is smaller?
+AC9M4M04-P-009	Angle B is a turned copy of A with longer arms. Compare the marked angles.
+AC9M4M04-P-010	Which estimate best describes the orange-marked opening?
+AC9M4M04-P-011	Estimate the marked angle using right-angle turns.
+AC9M4M04-P-012	How many right-angle turns are shown by the orange arrow?
+AC9M4M04-P-013	The marked opening is a little greater than the right-angle benchmark. It is still less than a straight angle. Name it.
+AC9M4M04-P-014	Which range contains the larger orange-marked turn?
+AC9M4M04-P-015	Name the orange-marked angle inside the triangle.
+AC9M4M04-P-016	This rectangle has been rotated. Name its marked interior angle.
+AC9M4M04-P-017	What name fits the marked interior angle of this sloping quadrilateral?
+AC9M4M04-P-018	At the inward corner, name the orange-marked angle inside the shaded shape.
+AC9M4M04-P-019	Which labelled interior angle is a right angle?
+AC9M4M04-P-020	Compare the marked interior angles A and B.
+AC9M4M04-P-021	The orange arc marks the opening between the scissors blades. Name the angle.
+AC9M4M04-P-022	The diagram shows an open door from above. Name the marked turn from its closed position.
+AC9M4M04-P-023	A robot follows the orange arrow at a path junction. It turns left through three right angles. Name that marked turn.
+AC9M4M04-P-024	Name the marked inside corner of the rectangular book cover.
+AC9M4M04-P-025	An open laptop lid makes an angle greater than a right angle but smaller than a straight angle with its base. What name fits that opening?
+AC9M4M04-P-026	The green template is aligned with the vertex and lower arm. Compare the orange angle with its square corner.
+AC9M4M04-P-027	You made a cardboard right-angle template. How should you place it to compare an angle?
+AC9M4M04-P-028	You fold paper once to make a straight folded edge. To create a right-angle corner, how should you make the second fold?
+AC9M4M04-P-029	The template’s corner and lower edge are aligned. How does the orange-marked opening compare with a right angle?
+AC9M4M04-P-030	You turn your paper template to match a tilted corner. Both edges fit the corner exactly. What can you conclude?
+AC9M4M04-P-031	An angle is greater than two right angles and less than four right angles. Which name must fit it?
+AC9M4M04-P-032	How many right-angle turns together make one straight angle?
+AC9M4M04-P-033	Leah turns through three right angles in the same direction. How many more right-angle turns complete one revolution?
+AC9M4M04-P-034	A pointer turns through two right angles in the same direction. Which description matches the whole turn?
+AC9M4M04-P-035	Ari wants to check whether two drawn lines meet at a right angle. Which tool and action suit the job?
+AC9M4M04-P-036	The spirit level rests correctly on the shelf, with the bubble centred in its horizontal vial. What does this reading show?
+AC9M4M04-P-037	A pencil line might have a bend. How can you check whether the drawn part is straight?
+AC9M4M04-P-038	Both edges at the set square’s square corner fit the blue lines. How are the blue lines related?
+AC9M4M04-P-039	One set-square edge fits a blue line. Its other square-corner edge misses the second line. What does the diagram show?
+AC9M4M04-P-040	A shelf is level. Its side support has not been checked. Noor says they must meet at a right angle. What check is still needed?
+AC9M4M04-P-041	Which list orders these angle types from smallest to largest?
+AC9M4M04-P-042	A and B use the same two arms. Which statement matches the marked arcs?
+AC9M4M04-P-043	Make a paper right-angle template: fold once, then fold so the first folded edge lies exactly on itself. Mark the corner where the folds meet. Use your template on two safe, flat angles in your surroundings. For each, draw and mark the intended angle, record an estimate before checking, show how the template fitted, then write smaller than, equal to or greater than a right angle. Name each angle if you can.
+AC9M4M04-P-044	On separate paper, use a right-angle template to help draw one acute angle and one obtuse angle. Mark the intended opening of each with an arc. Trace the template’s square corner beside each drawing, label both angles, and explain how each compares with one and two right angles.
+AC9M4M04-P-045	Draw a closed straight-sided shape with an inward corner, such as an L-shaped outline. Shade its inside. At one inward corner, mark the interior reflex angle with a long arc and label it. Explain its size using right angles. Use separate paper for a large drawing.
+AC9M4M04-P-046	Use a set square to draw two perpendicular lines on separate paper. Show the set square placed at their meeting point so both edges at its square corner fit. Mark the right angle. Rotate the paper, check again and explain whether the angle changed.
+AC9M4M04-P-047	With an adult and a spirit level, check a safe reachable shelf or tabletop along one chosen direction. Place the tool’s measuring face on the surface and read the horizontal vial. Draw the setup, sketch where the bubble sits and write level or not level in the direction checked. Explain why this reading alone cannot show whether a side support meets it at a right angle, and describe how to check that join.
+AC9M4M04-P-048	Create six labelled angle cards on separate paper: acute, right, obtuse, straight, reflex and revolution. On each, draw arms or a rotating arrow, clearly mark the intended angle or turn and write its relationship to a right angle. Use at least two different orientations.
+
+--- TEST ---
+AC9M4M04-T-001	Name the orange-marked angle in this tilted diagram.
+AC9M4M04-T-002	The orange arc joins opposite arms through a half turn. Name the angle.
+AC9M4M04-T-003	Name the larger turn followed by the orange arrow.
+AC9M4M04-T-004	Name the marked interior angle at the leftmost corner of this pentagon.
+AC9M4M04-T-005	This square is tilted. What is the marked interior angle called?
+AC9M4M04-T-006	B was made by tracing A, rotating the trace and extending its arms. Compare the marked openings.
+AC9M4M04-T-007	Which marked angle is larger?
+AC9M4M04-T-008	Which estimate is closest to the orange-marked angle?
+AC9M4M04-T-009	From above, a small gate has turned from closed through the marked opening. What kind of angle is shown?
+AC9M4M04-T-010	Sam holds a template near a corner but leaves a gap between the template’s square corner and the angle’s vertex. How should Sam fix the check?
+AC9M4M04-T-011	Which pair of checks suits these jobs: (1) is a shelf level, and (2) do two lines meet at a right angle?
+AC9M4M04-T-012	How many right-angle turns are in a half revolution and a full revolution, in that order?
+AC9M4M04-T-013	At the inward corner, why is the orange-marked interior angle reflex?
+AC9M4M04-T-014	Make a right-angle template from cardboard by tracing a checked square corner, or from paper folded once and then folded so its first folded edge lies exactly on itself. Use it to check one safe flat angle in your surroundings. On separate paper, draw and mark the angle, record your estimate before checking, show how you placed the template, and write the checked comparison with a right angle.
+AC9M4M04-T-015	On separate paper draw four angles: acute, right, obtuse and reflex. Use a right-angle template to help compare them. Mark each intended angle with an arc, label it and write its relationship to one, two or four right angles as appropriate.
+AC9M4M04-T-016	Draw a first line on separate paper. Use a set square to draw a second line perpendicular to it, show both adjacent tool edges fitting, and mark the right angle. Then draw a third line meeting the first at an acute angle and mark that opening. Explain why the second line is perpendicular to the first and the third is not.
+
+==============================================================================
+AC9M4N01
+==============================================================================
+
+--- PRACTICE ---
+AC9M4N01-P-001	What decimal is represented by the shaded part of the whole bar?
+AC9M4N01-P-002	What decimal is represented by the shaded squares?
+AC9M4N01-P-003	Which description matches the shaded part of this grid?
+AC9M4N01-P-004	What decimal amount is shaded across the two bars?
+AC9M4N01-P-005	What decimal belongs in the place-value chart?
+AC9M4N01-P-006	The interval from 0 to 1 is divided into 10 equal parts. What decimal does point P represent?
+AC9M4N01-P-007	In 4.72, which digit is in the tenths place?
+AC9M4N01-P-008	What is the value of the digit 5 in 8.35?
+AC9M4N01-P-009	Which decimal is “three and forty-six hundredths”?
+AC9M4N01-P-010	How is 0.09 read using place-value language?
+AC9M4N01-P-011	Which decimal means “six point zero four”?
+AC9M4N01-P-012	Which name matches 2.8?
+AC9M4N01-P-013	How many hundredths have the same value as 1 tenth?
+AC9M4N01-P-014	How many tenths make one whole?
+AC9M4N01-P-015	How many hundredths make one whole?
+AC9M4N01-P-016	Which amount has the same value as 0.48?
+AC9M4N01-P-017	How many hundredths are in 0.7?
+AC9M4N01-P-018	Why do 0.6 and 0.60 represent the same amount?
+AC9M4N01-P-019	One bundle of 10 equal straws represents one whole. What does 1 straw represent?
+AC9M4N01-P-020	In the model, one tenth is enlarged and divided into 10 equal smaller pieces. What fraction of the original whole is one smaller piece?
+AC9M4N01-P-021	One whole is represented by 100 equal tiles. A student puts 3 rows of 10 tiles and 6 more tiles aside. What decimal of the whole is set aside?
+AC9M4N01-P-022	What is 13 tenths written as a decimal?
+AC9M4N01-P-023	What is 125 hundredths written as a decimal?
+AC9M4N01-P-024	Which amount is another way to make 0.52?
+AC9M4N01-P-025	What length does the shaded ribbon show?
+AC9M4N01-P-026	A ribbon is 2 metres and 35 hundredths of a metre long. How is this written?
+AC9M4N01-P-027	One metre is 100 centimetres. What decimal of a metre is 7 centimetres?
+AC9M4N01-P-028	A jug has 1 litre and 8 tenths of the next litre. What reading shows this amount?
+AC9M4N01-P-029	A scale reads 3.06 kg. What does the digit 6 represent?
+AC9M4N01-P-030	How should 4.25 metres be read aloud using “point”?
+AC9M4N01-P-031	A collection has one $10 note, one $5 note, two $2 coins, one 50c coin and one 20c coin. What is the total?
+AC9M4N01-P-032	What is the total value of the notes and coins in the count record?
+AC9M4N01-P-033	A fundraiser counts two $50 notes, three $10 notes, two $2 coins and three 20c coins. How is the total written?
+AC9M4N01-P-034	How should 8 dollars and 5 cents be written?
+AC9M4N01-P-035	What amount in dollars is 45 cents?
+AC9M4N01-P-036	A collection has one $20 note, two $5 notes, three 50c coins and two 20c coins. What is its value?
+AC9M4N01-P-037	Which spoken amount matches $12.75?
+AC9M4N01-P-038	Compare $3.45 and 3.45 metres. What does the digit 4 mean in both?
+AC9M4N01-P-039	How do the usual readings of $6.20 and 6.20 metres differ?
+AC9M4N01-P-040	Which collection has a total of $25.35?
+AC9M4N01-P-041	Leah writes 0.4 for four hundredths. What is the correction?
+AC9M4N01-P-042	Which numeral has a 3 worth ten times as much as the 3 in 0.03?
+AC9M4N01-P-043	A place-value chart shows 2 ones, 13 tenths and 4 hundredths. After regrouping, what decimal does it represent?
+AC9M4N01-P-044	What is 2.07 written as a total number of hundredths?
+AC9M4N01-P-045	Which explanation shows why 1.8 metres is longer than 1.71 metres?
+AC9M4N01-P-046	A model shows 9 tenths and 9 hundredths. One more hundredth is added. What does the complete amount become?
+AC9M4N01-P-047	Which decimal represents 5 wholes, no tenths and 2 hundredths?
+AC9M4N01-P-048	A student shades 6 full rows and 2 more squares on the hundred grid. Which two names both describe the amount?
+
+--- TEST ---
+AC9M4N01-T-001	What decimal is shown by the shaded part of the hundred grid?
+AC9M4N01-T-002	What is the value of the digit 8 in 7.83?
+AC9M4N01-T-003	Which decimal is “nine and five hundredths”?
+AC9M4N01-T-004	How many hundredths equal 8 tenths?
+AC9M4N01-T-005	A whole is split into ten equal strips. Each strip is then split into ten equal pieces. What does one final piece represent?
+AC9M4N01-T-006	What is 27 tenths in decimal notation?
+AC9M4N01-T-007	Which amount equals 0.64?
+AC9M4N01-T-008	A length is 1 whole metre and 62 hundredths of the next metre. How is it recorded?
+AC9M4N01-T-009	A scale reads 2.09 kg. Which reading uses “point” correctly?
+AC9M4N01-T-010	A collection has two $20 notes, one $5 note, three $2 coins, one 50c coin and three 5c coins. What is the total?
+AC9M4N01-T-011	There are three $10 notes, one $5 note, two 50c coins and one 20c coin. What amount is recorded?
+AC9M4N01-T-012	What is 14 dollars and 5 cents in standard money notation?
+AC9M4N01-T-013	Compare $8.37 with 8.37 metres. What does the 7 represent in each?
+AC9M4N01-T-014	Which pair gives appropriate spoken readings for $4.85 and 4.85 metres?
+AC9M4N01-T-015	Why does 0.90 equal 0.9?
+AC9M4N01-T-016	A model contains 4 ones, 2 tenths and 15 hundredths. What decimal does it represent after regrouping?
+
+==============================================================================
+AC9M4N02
+==============================================================================
+
+--- PRACTICE ---
+AC9M4N02-P-001	What does the counter model show about 13?
+AC9M4N02-P-002	The model contains 16 counters. How can all 16 be shared equally between two children, with none left over?
+AC9M4N02-P-003	Why is 136 even?
+AC9M4N02-P-004	Which number is odd?
+AC9M4N02-P-005	Which group of numbers contains only even numbers?
+AC9M4N02-P-006	Why is zero an even number?
+AC9M4N02-P-007	There are 21 whole apples. Two children each take 10. What explains the result?
+AC9M4N02-P-008	A box has 18 counters. Which change makes the number of counters odd?
+AC9M4N02-P-009	Combine the two collections in the model. Why will the total be even?
+AC9M4N02-P-010	Without finding the exact sum, what can you say about 248 + 136?
+AC9M4N02-P-011	Two teams collect 157 and 263 bottle tops. Is their combined total odd or even?
+AC9M4N02-P-012	A class has 24 paintbrushes and receives 15 more. What kind of total will it have?
+AC9M4N02-P-013	Which sum has an odd answer?
+AC9M4N02-P-014	Ari says, “Adding two odd numbers gives an odd number.” Which example proves the claim is wrong?
+AC9M4N02-P-015	Four odd numbers are added together. Why must their total be even?
+AC9M4N02-P-016	Three odd numbers are added. What kind of total is produced?
+AC9M4N02-P-017	Without calculating the difference, classify 604 − 218.
+AC9M4N02-P-018	What can you predict about 351 − 127?
+AC9M4N02-P-019	The library has 420 books and lends 137. What can be said about the number remaining?
+AC9M4N02-P-020	There are 325 seats. An even number, 104, is removed. What kind of number remains?
+AC9M4N02-P-021	What does the two-row model explain about 2 × 7?
+AC9M4N02-P-022	Why must 6 × 8 be even?
+AC9M4N02-P-023	The model shows 3 groups of 5 counters. What explains the kind of total?
+AC9M4N02-P-024	Which product must be odd?
+AC9M4N02-P-025	Zoe writes 246 + 178 = 423. How can odd and even properties show there is an error?
+AC9M4N02-P-026	Noah writes 83 − 27 = 55. What reveals an error without calculating the exact difference?
+AC9M4N02-P-027	Someone calculates 18 × 7 = 127. Why can 127 be rejected immediately?
+AC9M4N02-P-028	Mia knows 36 + 28 must be even. She says this proves her answer, 62, is correct. Is that enough?
+AC9M4N02-P-029	A whole number is added to 37 and the total is even. What must the added number be?
+AC9M4N02-P-030	An odd whole number is multiplied by a hidden whole number. The product is even. What must the hidden factor be?
+AC9M4N02-P-031	An even total is reduced by a smaller whole number. The result is odd. What kind of number was removed?
+AC9M4N02-P-032	Two consecutive whole numbers, such as 38 and 39, are multiplied. Why is the product always even?
+AC9M4N02-P-033	Follow the flowchart for 582. Which route is taken?
+AC9M4N02-P-034	Follow the flowchart for 741. Which route is taken?
+AC9M4N02-P-035	The flowchart is used to keep only even numbers from 209, 340, 515 and 682. Which numbers are kept?
+AC9M4N02-P-036	A flowchart asks, “Is the ones digit 0, 2, 4, 6 or 8?” Its Yes arrow leads to Odd. How should it be repaired?
+AC9M4N02-P-037	An algorithm repeatedly removes pairs of counters. It stops when 0 or 1 counter remains. Which stopping result means the starting total was odd?
+AC9M4N02-P-038	Apply “remove 2 until fewer than 2 remain” to 8 counters. Which list follows the rule to the stopping point?
+AC9M4N02-P-039	Which number will a correct odd/even flowchart classify as even?
+AC9M4N02-P-040	A sorting rule keeps numbers that can be shared equally as whole objects between 2 people, with none left over. Which set will all be kept?
+AC9M4N02-P-041	All the digits of 3 579 are odd. If only the thousands digit changes from 3 to 4, what happens?
+AC9M4N02-P-042	Two odd-sized groups of children join. What is guaranteed?
+AC9M4N02-P-043	Which example disproves “Any whole number multiplied by 5 is odd”?
+AC9M4N02-P-044	A row of lockers is numbered 101 to 110. Which list contains all the even-numbered lockers?
+AC9M4N02-P-045	Seven bags each contain an even number of marbles. What can you conclude about the total?
+AC9M4N02-P-046	A positive even number of counters is on a table. One counter is removed, then one counter is added. How does its kind change?
+AC9M4N02-P-047	Sam says, “Dividing an even number by 2 always gives an even answer.” Which pair of examples shows why that is wrong?
+AC9M4N02-P-048	For which calculation can odd/even reasoning rule out 75 as the answer?
+
+--- TEST ---
+AC9M4N02-T-001	A model has 16 counters in complete pairs. Which conclusion is supported?
+AC9M4N02-T-002	Which number cannot be shared as whole counters into two equal groups with none left over?
+AC9M4N02-T-003	Why is 902 even even though its hundreds digit is odd?
+AC9M4N02-T-004	Two collections have 39 and 57 counters. What explains why their total is even?
+AC9M4N02-T-005	Which addition has an odd total?
+AC9M4N02-T-006	Predict the kind of answer to 506 − 183.
+AC9M4N02-T-007	Which difference must be even?
+AC9M4N02-T-008	Without multiplying fully, what can be said about 24 × 13?
+AC9M4N02-T-009	Luca claims that odd × odd is even. Which example disproves the claim?
+AC9M4N02-T-010	A student records 482 + 156 = 637. What does odd/even reasoning establish?
+AC9M4N02-T-011	An unknown whole number is added to 58. The sum is odd. What is the unknown number’s kind?
+AC9M4N02-T-012	Use the flowchart for 6 905. Where does it finish?
+AC9M4N02-T-013	A program keeps numbers divisible by 2. Which complete list does it keep from 0, 73, 94, 107 and 120?
+AC9M4N02-T-014	Which sequence correctly follows “remove 2 until 0 or 1 remains” starting with 11?
+AC9M4N02-T-015	Five odd numbers are added. What kind of total must result?
+AC9M4N02-T-016	A proposed answer to 42 + 36 is 80. The answer is even. What can that check tell you?
+
+==============================================================================
+AC9M4N03
+==============================================================================
+
+--- PRACTICE ---
+AC9M4N03-P-001	The equal-sized bars show the same coloured amount. Complete: 1/2 = __/8.
+AC9M4N03-P-002	Which fraction in sixths matches the coloured two thirds?
+AC9M4N03-P-003	A bar has 3/4 coloured. Each quarter is split into two equal pieces. What fraction is coloured now?
+AC9M4N03-P-004	What fraction in tenths is equal to the coloured 3/5?
+AC9M4N03-P-005	Which two bars show equivalent fractions?
+AC9M4N03-P-006	Eight of these 12 counters are coloured. What fraction in thirds is coloured?
+AC9M4N03-P-007	Fifteen of the 20 counters are coloured. What fraction in quarters is coloured?
+AC9M4N03-P-008	A box has 15 equal-sized tiles. Six are green. Which fraction in fifths describes the green tiles?
+AC9M4N03-P-009	Which fraction is equivalent to 3/6?
+AC9M4N03-P-010	Complete the equality: 3/4 = __/12.
+AC9M4N03-P-011	Complete: 2/3 = 8/__.
+AC9M4N03-P-012	Complete: 6/8 = __/4.
+AC9M4N03-P-013	Which fraction in quarters equals 9/12?
+AC9M4N03-P-014	Complete this family: 1/3 = 2/6 = 3/9 = __/12.
+AC9M4N03-P-015	Mila writes 2/5 = 4/5 after doubling only the numerator. Which equality keeps the original value?
+AC9M4N03-P-016	A strip has 12 of 20 equal parts coloured. Which calculation finds an equivalent fraction?
+AC9M4N03-P-017	Which whole number is equal to 8/4?
+AC9M4N03-P-018	A tray is divided into five equal spaces and all are empty. It is then divided into ten equal spaces, still empty. Complete: 0/5 = __/10.
+AC9M4N03-P-019	The blue points align on these two number lines. Which equality do they show?
+AC9M4N03-P-020	The upper point is 3/4. What fraction in eighths labels the aligned lower point?
+AC9M4N03-P-021	A jug holds 1/2 litre. How many 1/8-litre portions make the same amount?
+AC9M4N03-P-022	A bottle is 3/4 full. Which fraction in twelfths describes the same filled portion of that bottle?
+AC9M4N03-P-023	A ribbon is 1/4 metre long. Which row gives the same length?
+AC9M4N03-P-024	A 1-metre strip is split into 5 equal pieces. Three pieces together are how many centimetres and metres?
+AC9M4N03-P-025	What decimal represents the coloured fraction of this whole bar?
+AC9M4N03-P-026	Which fraction and decimal both name the coloured part?
+AC9M4N03-P-027	Complete: 4/10 = __/100.
+AC9M4N03-P-028	Which fraction equals 0.08?
+AC9M4N03-P-029	Write 9/100 as a decimal.
+AC9M4N03-P-030	Which fraction equals 0.6?
+AC9M4N03-P-031	What decimal equals 35/100?
+AC9M4N03-P-032	Which fraction in tenths equals 0.70?
+AC9M4N03-P-033	Which decimal is equal to 1/2?
+AC9M4N03-P-034	Which decimal is equivalent to 1/4?
+AC9M4N03-P-035	Write 3/4 as a decimal.
+AC9M4N03-P-036	What decimal is equal to 4/5?
+AC9M4N03-P-037	Which decimal equals 3/20?
+AC9M4N03-P-038	Which fraction in fifths is equal to 0.60?
+AC9M4N03-P-039	A rope is 1 3/10 metres long. What is its length in decimal notation?
+AC9M4N03-P-040	A container holds 1 1/4 litres. Which decimal shows the same amount?
+AC9M4N03-P-041	One row of this array is coloured. Which calculation and fraction describe the four coloured counters?
+AC9M4N03-P-042	Kai writes 4/10 = 0.04. Which correction is right?
+AC9M4N03-P-043	Mia colours half an 80 cm strip. Arlo colours half a 100 cm strip. What can they conclude?
+AC9M4N03-P-044	A strip is folded into fifths and 2 parts are coloured. Each fifth is then halved to make tenths. Which row describes the unchanged coloured region?
+AC9M4N03-P-045	Draw three equal rectangles. Divide them into halves, quarters and eighths. Colour one half of each rectangle and label the coloured fractions. Explain why the fractions are equivalent.
+AC9M4N03-P-046	Draw two equal strips. Divide the first into fifths and the second into tenths. Colour 3/5 of the first and the same amount of the second. Write an equality that includes a decimal.
+AC9M4N03-P-047	Draw 18 counters in 3 equal rows. Colour two complete rows. Write two equivalent fractions for the coloured counters and a division fact that explains the size of one row.
+AC9M4N03-P-048	Draw a 10 by 10 grid and colour 60 squares. Use your drawing to explain why 6/10, 60/100, 0.6 and 0.60 name the same fraction of the whole.
+
+--- TEST ---
+AC9M4N03-T-001	Which fraction in twelfths equals the coloured one third?
+AC9M4N03-T-002	Complete: 3/4 = 12/__.
+AC9M4N03-T-003	A collection contains 24 counters, 18 blue. What fraction in quarters is blue?
+AC9M4N03-T-004	A jug contains 3/5 litre. How many 1/10-litre portions make the same amount?
+AC9M4N03-T-005	What fills the gap: 8/10 = __/100?
+AC9M4N03-T-006	Which decimal names the coloured part of the grid?
+AC9M4N03-T-007	Which fraction equals 0.09?
+AC9M4N03-T-008	A cord is 75 cm long. Which pair names that same length in metres?
+AC9M4N03-T-009	What decimal equals 9/50?
+AC9M4N03-T-010	Which mixed numeral equals 2.75?
+AC9M4N03-T-011	The points align. Which equality is shown?
+AC9M4N03-T-012	Arun writes 3/5 = 6/10 = 6/100. Which final fraction fixes the chain?
+AC9M4N03-T-013	Draw two equal bars. Divide one into thirds and the other into sixths. Colour 2/3 of the first and the same amount of the second. Label both fractions and explain the equivalence.
+AC9M4N03-T-014	Sketch a strip representing 1 metre, divided into four equal parts. Mark the length of 3/4 metre from one end. Label that length in centimetres and decimal metres, and explain your labels.
+AC9M4N03-T-015	Draw aligned number lines from 0 to 1, one in fifths and one in tenths. Mark 4/5 on the first and the same point on the second. Label that point as tenths and as a decimal.
+AC9M4N03-T-016	Draw 20 counters in 5 equal rows. Colour 3 full rows. Write the coloured fraction in twentieths and fifths, then as a decimal. Include a multiplication fact for the coloured count.
+
+==============================================================================
+AC9M4N04
+==============================================================================
+
+--- PRACTICE ---
+AC9M4N04-P-001	What number is at A?
+AC9M4N04-P-002	Count forward in halves: 0, 1/2, 1, 1 1/2, __.
+AC9M4N04-P-003	Which point represents 2/3?
+AC9M4N04-P-004	Each tick is equally spaced. What is the size of one interval?
+AC9M4N04-P-005	What comes after 2/3 when you count forward by 1/3?
+AC9M4N04-P-006	What mixed numeral is shown by the coloured parts?
+AC9M4N04-P-007	What number is at M?
+AC9M4N04-P-008	Complete the count in tenths: 7/10, 8/10, 9/10, __, 1 1/10.
+AC9M4N04-P-009	Which mixed numeral is at P?
+AC9M4N04-P-010	Count forward by 1/4: 1 1/2, 1 3/4, __, 2 1/4.
+AC9M4N04-P-011	What fraction is at Q? Give the answer in thirds.
+AC9M4N04-P-012	Eight quarter-steps from 0 land on which whole number?
+AC9M4N04-P-013	The line starts at 2. What number is at R?
+AC9M4N04-P-014	Count backwards by 1/2: 3, 2 1/2, __, 1 1/2.
+AC9M4N04-P-015	What comes next when counting backwards by 1/4: 1 1/4, 1, 3/4, __?
+AC9M4N04-P-016	Complete the backward count in thirds: 2 1/3, 2, __, 1 1/3.
+AC9M4N04-P-017	Which improper fraction names the same point as 1 3/4?
+AC9M4N04-P-018	Which mixed numeral names the same number as 8/3?
+AC9M4N04-P-019	Which point represents 1 3/5?
+AC9M4N04-P-020	Fill the gap: 4/5, 1, 1 1/5, __, 1 3/5.
+AC9M4N04-P-021	Which fraction is at T?
+AC9M4N04-P-022	Each jump is 2/3. Count from 0: 0, 2/3, 1 1/3, __.
+AC9M4N04-P-023	What fraction is at E?
+AC9M4N04-P-024	Count backwards by 1/10: 1 2/10, 1 1/10, 1, __.
+AC9M4N04-P-025	The equal spaces run from 0 to 2. What is the size of each space?
+AC9M4N04-P-026	A dot is 7 quarter-steps from zero. Which pair of labels could both go at that dot?
+AC9M4N04-P-027	A toy starts at 1 on a number line and moves four half-steps right. Where does it stop?
+AC9M4N04-P-028	A counter starts at 2 and moves three quarter-steps left. Where does it stop?
+AC9M4N04-P-029	Fill both gaps in this count by thirds: 1, __, 1 2/3, 2, __.
+AC9M4N04-P-030	Nora counts quarters: 1/4, 2/4, 3/4, 4/4, 5/5. What should replace 5/5?
+AC9M4N04-P-031	Leo sees 5 tick marks from 0 to 1 and calls each space 1/5. What is the size of each space?
+AC9M4N04-P-032	A marker is at 2 1/4. How far is it from 0?
+AC9M4N04-P-033	A line has equal intervals. The labelled points are 1 and 2. What number is at U?
+AC9M4N04-P-034	What fraction in fifths names point V?
+AC9M4N04-P-035	Which numbers are one half-step before and one half-step after 3?
+AC9M4N04-P-036	Starting at 0, take three jumps of 3/4. At which mixed numeral do you land?
+AC9M4N04-P-037	The coloured parts show how many halves?
+AC9M4N04-P-038	Continue backwards in fifths: 2, 1 4/5, 1 3/5, __, __.
+AC9M4N04-P-039	A count is 1/2, 1, 1 1/2, 2, 2 1/2. What is the step size?
+AC9M4N04-P-040	Between which consecutive whole numbers does 11/4 lie?
+AC9M4N04-P-041	Sami draws equally spaced whole numbers 0, 1 and 2. Where should 1 1/3 be marked?
+AC9M4N04-P-042	Count forward by 2/5: 1/5, 3/5, 1, __.
+AC9M4N04-P-043	Which mixed numeral is one tenth before 3?
+AC9M4N04-P-044	Asha puts 4/3 at the first third-tick after 0. Where should she move it?
+AC9M4N04-P-045	Draw a number line from 0 to 2. Divide each whole into quarters. Label 3/4, 5/4 and 1 3/4. Write a second name for 5/4.
+AC9M4N04-P-046	Draw a number line from 1 to 3 in thirds. Mark 1 2/3, 2 and 2 1/3. Write the count by thirds from 1 2/3 to 2 1/3.
+AC9M4N04-P-047	Draw two aligned number lines from 0 to 2. Divide one into halves and the other into quarters. Mark 1 1/2 on both, then label the same points as fractions.
+AC9M4N04-P-048	Draw the part of a number line from 1 to 2 in tenths. Start at 1 3/10 and show four jumps of 1/10 to the left, extending your line below 1 if needed. Label every landing.
+
+--- TEST ---
+AC9M4N04-T-001	What mixed numeral is at A?
+AC9M4N04-T-002	Complete the count by thirds: 2 1/3, 2 2/3, __, 3 1/3.
+AC9M4N04-T-003	Count backwards by halves: 4, 3 1/2, 3, __.
+AC9M4N04-T-004	What is the size of one equal interval on this line?
+AC9M4N04-T-005	Which fraction names the same number as 2 3/5?
+AC9M4N04-T-006	What mixed numeral is 9/2?
+AC9M4N04-T-007	Which point is at 7/3?
+AC9M4N04-T-008	A count rises by 3/4 each time: 1/4, 1, 1 3/4, __.
+AC9M4N04-T-009	What comes next going backwards by 1/10: 2 1/10, 2, __?
+AC9M4N04-T-010	A marker starts at 1 1/2. It moves three half-steps right. Where does it land?
+AC9M4N04-T-011	A line from 0 to 3 has 12 equal intervals. What fraction of one whole unit is each interval?
+AC9M4N04-T-012	Ben labels the midpoint between 2 and 3 as 2/2. Which label belongs there?
+AC9M4N04-T-013	Draw a line from 0 to 3 in thirds. Mark 5/3 and 8/3. Label each point with its mixed numeral and explain why each pair of names shares a point.
+AC9M4N04-T-014	Draw a line showing quarters from 1 to 2. Start at 2 and draw five quarter-jumps left, extending the line as needed. Label each landing.
+AC9M4N04-T-015	Draw a number line from 2 to 3. Divide it into fifths and label 2 1/5 and 2 4/5. Write the improper fraction for each point.
+AC9M4N04-T-016	Draw a line from 0 to 3 in thirds. Starting at 0, show four jumps of 2/3. Label the landings with fractions and mixed numerals where needed.
+
+==============================================================================
+AC9M4N05
+==============================================================================
+
+--- PRACTICE ---
+AC9M4N05-P-001	Ten groups each contain 7 counters. How many counters are there altogether?
+AC9M4N05-P-002	Calculate 46 × 10.
+AC9M4N05-P-003	The chart shows 406 before it is multiplied by 10. What will the digit 4 be worth in the answer?
+AC9M4N05-P-004	Calculate 73 × 100.
+AC9M4N05-P-005	A box holds 1000 paper clips. How many paper clips are in 9 full boxes?
+AC9M4N05-P-006	Calculate 120 × 100.
+AC9M4N05-P-007	Calculate 508 × 10.
+AC9M4N05-P-008	A printer makes 10 copies of a 204-page booklet. How many pages does it print?
+AC9M4N05-P-009	62 × □ = 6200. Which number belongs in the box?
+AC9M4N05-P-010	How many times as large as 234 is 23400?
+AC9M4N05-P-011	Starting with 18, multiply by 10 and then multiply by 10 again. Which answer and single multiplication give the same result?
+AC9M4N05-P-012	In 305 × 100 = 30500, how does the value of the digit 3 change?
+AC9M4N05-P-013	Calculate 840 ÷ 10.
+AC9M4N05-P-014	Calculate 5600 ÷ 100.
+AC9M4N05-P-015	Calculate 47000 ÷ 1000.
+AC9M4N05-P-016	The chart shows 5800 before division by 100. What will the digit 8 be worth in the answer?
+AC9M4N05-P-017	Calculate 6030 ÷ 10.
+AC9M4N05-P-018	Noah writes 9200 ÷ 100 = 920. Which correction explains the mistake?
+AC9M4N05-P-019	A school packs 1800 sheets of paper into bundles of 100. How many full bundles does it make?
+AC9M4N05-P-020	There are 730 balloons, with 10 balloons in each packet. How many packets are there?
+AC9M4N05-P-021	□ ÷ 100 = 28. Which number belongs in the box?
+AC9M4N05-P-022	Compare 6400 ÷ 10 with 6400 ÷ 100. How are the answers related?
+AC9M4N05-P-023	Which multiplication checks that 35000 ÷ 1000 = 35?
+AC9M4N05-P-024	In the table, what is the missing answer when 36000 is divided by 1000?
+AC9M4N05-P-025	Complete the place-value chain: 7 × 30 = 7 × 3 tens = 21 tens = □.
+AC9M4N05-P-026	Calculate 14 × 20.
+AC9M4N05-P-027	Calculate 32 × 40.
+AC9M4N05-P-028	Calculate 18 × 300.
+AC9M4N05-P-029	Calculate 60 × 50.
+AC9M4N05-P-030	Calculate 240 × 30.
+AC9M4N05-P-031	Six crates each contain 4000 tiles. How many tiles are there altogether?
+AC9M4N05-P-032	The bar shows seven equal lengths, each 40 cm. What is the total length?
+AC9M4N05-P-033	Which calculation is equal to 26 × 70?
+AC9M4N05-P-034	Mia uses 24 × 3 = 72 to work out 24 × 30. Why must she then multiply 72 by 10?
+AC9M4N05-P-035	A craft club buys 16 boxes containing 200 beads each. How many beads does it buy?
+AC9M4N05-P-036	Hall A has 15 rows of 40 seats. Hall B has 20 rows of 20 seats. How many more seats does Hall A have?
+AC9M4N05-P-037	Calculate 360 ÷ 30.
+AC9M4N05-P-038	Calculate 840 ÷ 40.
+AC9M4N05-P-039	Calculate 5600 ÷ 70.
+AC9M4N05-P-040	Calculate 7200 ÷ 300.
+AC9M4N05-P-041	Calculate 42000 ÷ 7000.
+AC9M4N05-P-042	Calculate 4500 ÷ 50.
+AC9M4N05-P-043	The total ribbon length is 960 cm. It is cut into equal 30 cm pieces. How many pieces are made?
+AC9M4N05-P-044	Which calculation has the same answer as 4800 ÷ 60?
+AC9M4N05-P-045	For the same total of 3600, compare groups of 30 with groups of 300. How does the number of groups change?
+AC9M4N05-P-046	A student says 2400 ÷ 40 = 600 because 24 ÷ 4 = 6. Which answer and check fix the place-value error?
+AC9M4N05-P-047	A supplier has 16000 g of seed. It fills packets with 200 g each. How many packets can it fill?
+AC9M4N05-P-048	Twelve boxes each contain 50 screws. All the screws are repacked into bags of 20. How many full bags are made?
+
+--- TEST ---
+AC9M4N05-T-001	Calculate 702 × 100.
+AC9M4N05-T-002	Calculate 86000 ÷ 1000.
+AC9M4N05-T-003	The number 4700 is divided by 10. What is the value of the digit 7 in the quotient?
+AC9M4N05-T-004	Calculate 36 × 80.
+AC9M4N05-T-005	Calculate 900 × 40.
+AC9M4N05-T-006	Calculate 9600 ÷ 300.
+AC9M4N05-T-007	The diagram compares two print runs. How many cards are in the special print run?
+AC9M4N05-T-008	Entry tickets cost $20 each. The organiser collects $1800 from ticket sales. A room holds 80 people. How many ticket holders are above the room’s capacity?
+AC9M4N05-T-009	A calculation gives 600. Its starting number was either multiplied by 10 or divided by 10. What are the two possible starting numbers?
+AC9M4N05-T-010	A number machine divides 420 by 20, then multiplies the answer by 100. What is its final output?
+AC9M4N05-T-011	A card reads 26 × 400 = 1040. Which change makes the calculation correct?
+AC9M4N05-T-012	Why can 14400 ÷ 600 be calculated using 144 ÷ 6?
+AC9M4N05-T-013	A garden has 40 beds. Each bed needs 18 seedlings. Seedlings come in trays of 60. How many full trays supply exactly enough seedlings?
+AC9M4N05-T-014	A club has 1200 stickers. It can make packs of 30 or packs of 60. How many more packs can it make when using 30 per pack?
+AC9M4N05-T-015	A workshop puts 4800 counters into 60 equal bags. It keeps 60 bags but puts 10 times as many counters in each bag. How many counters are needed in total?
+AC9M4N05-T-016	The two-digit number 4□ is multiplied by 30 to give 1260. Which digit belongs in the box?
+
+==============================================================================
+AC9M4N06
+==============================================================================
+
+--- PRACTICE ---
+AC9M4N06-P-001	To solve 2 998 + 467, Noah changes 2 998 to 3 000. Which working keeps the sum unchanged?
+AC9M4N06-P-002	The jumps show 384 + 257. What is the final total?
+AC9M4N06-P-003	A collection has 597 stamps and gains 86 more. Split 86 to reach 600 first. How many stamps are there now?
+AC9M4N06-P-004	What is 4 786 + 2 357?
+AC9M4N06-P-005	Which working pairs compatible numbers to solve 1 250 + 375 + 750?
+AC9M4N06-P-006	A school has raised $1 785 toward a $3 000 target. How much more is needed?
+AC9M4N06-P-007	Which working correctly subtracts 1 996 from 4 872 by first subtracting 2 000?
+AC9M4N06-P-008	Which friendlier subtraction has exactly the same difference as 803 − 397?
+AC9M4N06-P-009	The number line counts up from 986 to 1 003. What is 1 003 − 986?
+AC9M4N06-P-010	Find 5 374 − 2 123 by subtracting thousands, hundreds, tens and ones.
+AC9M4N06-P-011	A warehouse has 4 002 boxes and sends out 1 758. How many boxes remain?
+AC9M4N06-P-012	Mia says 624 − 178 = 554 because she subtracted the smaller digit from the larger digit in each column. Which correction is valid?
+AC9M4N06-P-013	Write the number of rows first. Which multiplication sentence describes the counter array?
+AC9M4N06-P-014	There are 36 beads. Each bracelet uses 6 beads. Which answer identifies the number of bracelets?
+AC9M4N06-P-015	Forty-eight cards are shared equally into 4 piles. What does 48 ÷ 4 = 12 tell us?
+AC9M4N06-P-016	A baker fills 9 trays with 8 buns on each tray. How many buns are on all the trays?
+AC9M4N06-P-017	A 65-metre rope is cut into the five equal lengths shown. How long is each length?
+AC9M4N06-P-018	Twenty-seven apples are shared equally among 3 baskets. In 27 ÷ 3 = 9, what does the 3 represent?
+AC9M4N06-P-019	The two arrays rearrange the same unit squares. Which equality describes the rearrangement?
+AC9M4N06-P-020	Use doubling and halving to solve 25 × 16. Which answer is correct?
+AC9M4N06-P-021	Four equal teams each collect 38 cans. Double 38 twice to find the total.
+AC9M4N06-P-022	If 10 × 34 = 340, how can you find 5 × 34?
+AC9M4N06-P-023	A student changes 7 × 12 into 14 × 24 and says the product stays the same. What is wrong?
+AC9M4N06-P-024	Eighteen packs contain 5 pencils each, making 90 pencils. Which inverse calculation checks the number of packs?
+AC9M4N06-P-025	Use the region model to find 23 × 4.
+AC9M4N06-P-026	Which working correctly partitions 46 × 6?
+AC9M4N06-P-027	To find 9 × 34, use ten groups of 34 and remove one group. What is the answer?
+AC9M4N06-P-028	Which grouping makes 4 × 7 × 25 easy while preserving all three factors?
+AC9M4N06-P-029	There are 12 rows of 18 seats. Split 12 into 10 and 2. How many seats are there?
+AC9M4N06-P-030	Sam writes 32 × 3 = 90 + 2 = 92. What must be corrected?
+AC9M4N06-P-031	The model shares 96 equally into 3 groups by splitting 96 into 90 and 6. How many are in each group?
+AC9M4N06-P-032	Use 120 + 36 to solve 156 ÷ 6.
+AC9M4N06-P-033	A library puts 168 books equally on 8 shelves. Which multiplication fact checks the number on each shelf?
+AC9M4N06-P-034	To solve 96 ÷ 8, halve 96 three times. What result do you get?
+AC9M4N06-P-035	A maker uses 7 beads for every necklace. How many complete necklaces use all 84 beads?
+AC9M4N06-P-036	Which calculation correctly splits 216 ÷ 9 into two exact divisions?
+AC9M4N06-P-037	Zero counters are shared equally among 6 empty trays. How many counters are in each tray?
+AC9M4N06-P-038	A calculator shows 532 ÷ 7 = 76. Which exact check uses the inverse operation?
+AC9M4N06-P-039	A club has 288 tickets. It keeps 48 aside and shares the rest equally among 6 teams. How many tickets does each team receive?
+AC9M4N06-P-040	Column B contains the four weekly collections shown. A spreadsheet calculates SUM(B2:B5). What total should it display?
+AC9M4N06-P-041	A teacher records daily collections for a month and corrects entries when needed. Which plan uses a digital tool appropriately?
+AC9M4N06-P-042	A calculator entry for 3 478 + 2 659 gives 61 370. What should you do?
+AC9M4N06-P-043	A spreadsheet has B2 = 124, B3 = 237 and B4 = 139. Which formula adds all three values exactly once?
+AC9M4N06-P-044	A calculator shows 936 ÷ 8 = 117 for 936 seedlings shared equally among 8 garden beds. What does 117 mean?
+AC9M4N06-P-045	Which compensation method uses 4 000 to solve 3 999 + 1 256 exactly?
+AC9M4N06-P-046	A school orders 24 boxes with 36 pencils in each. Which calculator entry finds the total number of pencils?
+AC9M4N06-P-047	Luca changes 18 × 14 to 9 × 28. Why is the product still 252?
+AC9M4N06-P-048	Which sequence correctly solves 144 ÷ 6 using 6 = 3 × 2?
+
+--- TEST ---
+AC9M4N06-T-001	Use 5 000 as a friendly number to calculate 4 998 + 176.
+AC9M4N06-T-002	What is 2 375 + 1 686?
+AC9M4N06-T-003	Use a compatible pair to solve 125 + 680 + 875.
+AC9M4N06-T-004	A counter reads 7 001 before 2 998 is subtracted. What is the new reading?
+AC9M4N06-T-005	To find 903 − 887, count from 887 to 900 and then to 903. What is the difference?
+AC9M4N06-T-006	What is 604 − 278?
+AC9M4N06-T-007	A picture has 6 rows with 9 stars in every row. In 6 × 9 = 54, what does 54 represent?
+AC9M4N06-T-008	Which equivalent multiplication helps solve 5 × 46 using doubling and halving?
+AC9M4N06-T-009	A rectangle represents 32 × 7. Split 32 into 30 and 2. What is the total?
+AC9M4N06-T-010	Which working correctly finds 14 × 12?
+AC9M4N06-T-011	Use 60 + 24 to share 84 counters equally into 3 groups. How many counters are in each group?
+AC9M4N06-T-012	A printer places 144 cards into packs of 12. How many packs use all the cards?
+AC9M4N06-T-013	Which split correctly solves 504 ÷ 7?
+AC9M4N06-T-014	Cells B2, B3, B4 and B5 contain 18, 27, 35 and 20. Which formula and result add these four values once each?
+AC9M4N06-T-015	A calculator gives 27 × 16 = 432. Which exact mental check supports that result?
+AC9M4N06-T-016	A centre has 360 art sheets and uses 72. The remaining sheets are shared equally among 8 classes. How many does each class receive?
+
+==============================================================================
+AC9M4N07
+==============================================================================
+
+--- PRACTICE ---
+AC9M4N07-P-001	The counter shows 473 visitors. Use the number line to round this to the nearest hundred.
+AC9M4N07-P-002	Estimate 386 + 217 by rounding each addend to the nearest hundred.
+AC9M4N07-P-003	Estimate 782 − 319 by rounding each number to the nearest hundred.
+AC9M4N07-P-004	Six boxes hold 48 pencils each. Round 48 to the nearest ten to estimate the total.
+AC9M4N07-P-005	Estimate 238 ÷ 6 using the nearby compatible number 240.
+AC9M4N07-P-006	A book costs $12.65. What is this price rounded to the nearest dollar?
+AC9M4N07-P-007	Round $18.50 to the nearest dollar, rounding halfway amounts upward.
+AC9M4N07-P-008	Four packets cost $2.40 each. Which two basic-fact totals put their full cost strictly between them?
+AC9M4N07-P-009	Seven lunches cost $3.80 each. Which interval must contain their total cost?
+AC9M4N07-P-010	Each of 8 cartons holds 63 balls. Use 60 and 70 to bound the total. Which statement is correct?
+AC9M4N07-P-011	One item costs $4.20 and another costs $7.60. Using the neighbouring whole dollars for each price, which bounds contain their sum?
+AC9M4N07-P-012	318 counters are shared equally among 6 groups. Use 300 ÷ 6 and 360 ÷ 6 to bound the number in each group.
+AC9M4N07-P-013	Use the upward rounded prices in the table. What estimated budget covers all three listed items?
+AC9M4N07-P-014	Eight tickets cost $7.35 each. To allow enough for all tickets, round each price upward to $8 and keep the ticket count exact. What is the estimate?
+AC9M4N07-P-015	An excursion has three costs: $187, $214 and $68. Round each upward to the next multiple of $10. What budget estimate results?
+AC9M4N07-P-016	Three items cost $8.10, $10.20 and $9.30. Rounding each upward gives a $30 estimate, but the shopper has $29. Which conclusion is justified?
+AC9M4N07-P-017	A shopper rounds every listed item price upward and gets a total estimate of $23. The listed items are the only costs. Which statement must be true?
+AC9M4N07-P-018	Four drinks cost $6.20 each. Which pair distinguishes a nearest-dollar estimate from an upward budget estimate?
+AC9M4N07-P-019	The model rounds both 374 and 263 upward to the next hundred. How does the resulting sum compare with the exact sum?
+AC9M4N07-P-020	478 and 351 are each rounded downward to the previous hundred. What can you say about the estimate 400 + 300 = 700?
+AC9M4N07-P-021	Round 244 and 356 to the nearest hundred. The estimate is 200 + 400 = 600. The exact sum is also 600. Why?
+AC9M4N07-P-022	347 + 462 is estimated as 300 + 500 = 800. Which statement correctly checks the estimate?
+AC9M4N07-P-023	267 + 351 is estimated as 270 + 350 = 620. Why is this estimate 2 above the exact sum?
+AC9M4N07-P-024	The exact sum 538 + 261 is 799. Which of these hundreds-based estimates is closest?
+AC9M4N07-P-025	Estimate 18 × 27 by rounding both factors upward to the next ten: 20 × 30 = 600. How does this compare with the exact positive product?
+AC9M4N07-P-026	24 × 36 is estimated as 20 × 30 = 600 by rounding both factors downward. Which statement is true?
+AC9M4N07-P-027	The grids compare 19 × 21 with the mixed-rounding estimate 20 × 20. What does the model show?
+AC9M4N07-P-028	The exact product 11 × 21 is 231. Compare these estimates: both down, 10 × 20 = 200; mixed, 20 × 20 = 400; both up, 20 × 30 = 600. Which is closest?
+AC9M4N07-P-029	The exact product 26 × 34 is 884. Which estimate is closest?
+AC9M4N07-P-030	14 × 37 is larger than 10 × 30 and smaller than 20 × 40. Which interval follows?
+AC9M4N07-P-031	A calculator shows 187 + 214 = 391. A hundreds estimate is 200 + 200 = 400. Does being close to 400 prove that 391 is correct?
+AC9M4N07-P-032	Check the receipt for three $4.95 craft packs. Which estimate reveals the problem?
+AC9M4N07-P-033	A shopper pays $50 for items costing $18.70 and $9.20. Round each price to the nearest dollar. Which change amount is consistent with the resulting estimate of about $22?
+AC9M4N07-P-034	Four items cost $19.80 each. A bill of $79.20 is checked with 4 × $20 = $80. What is the correct conclusion?
+AC9M4N07-P-035	A shopper pays $100 for a $47.85 item. Using $48 as the estimated cost, what is the estimated change?
+AC9M4N07-P-036	A student writes 396 ÷ 4 = 990. Which estimate checks the size of this answer?
+AC9M4N07-P-037	Round both numbers to the nearest hundred to estimate 3 728 + 1 981. Which estimate follows that instruction?
+AC9M4N07-P-038	To estimate 278 ÷ 7, which nearby multiple of 7 gives the closest easy calculation among these choices?
+AC9M4N07-P-039	Four prices are $13.20, $7.40, $8.90 and $4.10. Which upward whole-dollar budget covers every item?
+AC9M4N07-P-040	Twenty-three entry tickets cost $8.60 each. Which estimate guarantees enough for these tickets alone?
+AC9M4N07-P-041	You have $2. Two items cost $0.95 and $1.10. Rounding both to the nearest dollar gives $2. Does that prove you have enough?
+AC9M4N07-P-042	A total cost is more than $17 and less than $18. A shopper pays $20. Which bounds must contain the change?
+AC9M4N07-P-043	582 − 247 is estimated as 600 − 200 = 400. Why is this estimate above the exact difference 335?
+AC9M4N07-P-044	Estimate 4 806 − 2 119 by rounding both numbers to the nearest hundred.
+AC9M4N07-P-045	609 − 198 is estimated as 600 − 200 = 400. A calculator shows 401. Which check settles whether 401 is exactly correct?
+AC9M4N07-P-046	Six groups of 48 are estimated using six groups of 50. Why is the estimate 300 exactly 12 too high?
+AC9M4N07-P-047	There are 49 excursion tickets at $21.50 each. These tickets are the only cost. Which product is an upper budget estimate obtained by rounding both factors upward?
+AC9M4N07-P-048	Compare two methods for 24 + 24. Rounding each addend to tens gives 20 + 20 = 40. Adding exactly first gives 48, which rounds to 50. What does this show?
+
+--- TEST ---
+AC9M4N07-T-001	Round each addend to the nearest hundred to estimate 642 + 279.
+AC9M4N07-T-002	Estimate 1 908 − 1 187 by rounding both numbers to the nearest hundred.
+AC9M4N07-T-003	Seven trays each hold 62 beads. Round 62 to the nearest ten to estimate the total.
+AC9M4N07-T-004	Use 360 ÷ 9 to estimate 356 ÷ 9.
+AC9M4N07-T-005	Round a $23.45 price to the nearest dollar.
+AC9M4N07-T-006	Six meals cost $4.30 each. Which bounds follow from using $4 and $5 per meal?
+AC9M4N07-T-007	Prices are $8.20, $6.10 and $4.65. Round each upward to a whole dollar. What is the estimated budget?
+AC9M4N07-T-008	Thirteen tickets cost $6.40 each. Keep all 13 tickets and round the price upward to $7. What budget estimate results?
+AC9M4N07-T-009	228 + 341 is estimated by rounding both numbers upward to the next hundred: 300 + 400 = 700. What follows?
+AC9M4N07-T-010	246 + 354 is 600. Rounding the addends to the nearest hundred also gives 200 + 400 = 600. Why?
+AC9M4N07-T-011	32 × 47 is estimated as 30 × 40 = 1 200. Is the estimate above or below the exact product 1 504?
+AC9M4N07-T-012	The exact product 12 × 21 is 252. Compare 10 × 20 = 200, 20 × 20 = 400 and 20 × 30 = 600. Which is closest?
+AC9M4N07-T-013	Six bags cost $9.95 each. A displayed total is $597. Which estimate checks this result?
+AC9M4N07-T-014	A shopper pays $50 for items costing $12.60 and $15.20. Round each price to the nearest dollar. What is the estimated change?
+AC9M4N07-T-015	A shopper has $44. Rounding all planned prices upward gives a $45 total estimate. No exact total has been calculated yet. Which conclusion is valid?
+AC9M4N07-T-016	726 + 198 is estimated as 700 + 200 = 900. A calculator displays 914. Which conclusion is correct?
+
+==============================================================================
+AC9M4N08
+==============================================================================
+
+--- PRACTICE ---
+AC9M4N08-P-001	A club collected 120 blue lids and 85 red lids. How many lids does the whole bar represent?
+AC9M4N08-P-002	There are 72 seedlings altogether. Forty-five are tomato seedlings; the rest are beans. How many are bean seedlings?
+AC9M4N08-P-003	A library adds 45 donated books to its display, which then has 112 books. How many were on the display before the donation?
+AC9M4N08-P-004	Room A collected 168 cans and Room B collected 135 cans. How many more did Room A collect?
+AC9M4N08-P-005	A teacher writes 63 + 27 = 90 for 63 children and 27 adults visiting a museum. What does 27 measure?
+AC9M4N08-P-006	An art shelf holds 86 paint pots. Twenty-nine are used in a lesson; the others stay on the shelf. Which number sentence models the number still on the shelf?
+AC9M4N08-P-007	There are 48 seeds. Each packet must hold 6 seeds. How many full packets can be made?
+AC9M4N08-P-008	Forty-eight seeds are shared equally among 8 pots. In 48 ÷ 8 = 6, what does the divisor 8 represent?
+AC9M4N08-P-009	Each row in the model is one box holding 6 apples. How many boxes are shown?
+AC9M4N08-P-010	Seventy-two badges are shared equally among 6 teams. Which working correctly finds the badges per team?
+AC9M4N08-P-011	Seven tables each need 6 name cards. Which equation models the total cards needed?
+AC9M4N08-P-012	Noor read 18 pages. Ari read 3 times as many. How many pages did Ari read?
+AC9M4N08-P-013	Luca has 14 stickers. Bo has 4 more than Luca. Priya has 4 times as many as Luca. How many stickers does each of Bo and Priya have?
+AC9M4N08-P-014	Maya has 56 shells, which is 4 times the number Sam has. Which calculation finds Sam’s number of shells?
+AC9M4N08-P-015	A trip includes 38 children and 4 adults. Which listed bus has enough seats and the lowest total hire cost?
+AC9M4N08-P-016	Eight teams share a $96 equipment bill equally. How much does each team pay?
+AC9M4N08-P-017	Tahlia pays with $20 for a book costing $7.60 and a pen set costing $5.40. What change should she receive?
+AC9M4N08-P-018	A customer pays $20 and receives $6.75 change for one item. What was the item’s price?
+AC9M4N08-P-019	A meal costs $12.80. The cashier gives $7.20 change. How much money was handed to the cashier?
+AC9M4N08-P-020	A card costs $2.35 and an envelope pack costs $1.45. How much money is needed to buy both?
+AC9M4N08-P-021	A notebook costs $2.40, a pencil set $1.85 and a ruler $1.20. Elle buys only the notebook and pencil set with $5. How much remains?
+AC9M4N08-P-022	A class orders 12 sandwiches for $4 each and one fruit tray for $18. What is the total cost?
+AC9M4N08-P-023	A play sells 27 tickets for $4 each. Its only expense is $36 for materials. How much ticket money is left after paying this expense?
+AC9M4N08-P-024	Six clubs share a hall bill of $150 and a materials bill of $54 equally. What does each club pay?
+AC9M4N08-P-025	Thirty-five drink bottles are packed into boxes of 7. Each bottle holds 500 mL. Which information is needed to find the number of boxes?
+AC9M4N08-P-026	A family buys 3 identical entry tickets and waits 14 minutes in a queue. What extra information is needed to calculate the ticket cost?
+AC9M4N08-P-027	A pack of 6 paintbrushes costs $18. A single brush costs $4. A club needs exactly 12 brushes. How much cheaper are two packs than 12 single brushes?
+AC9M4N08-P-028	Four helmets cost $98 each. Which compensation calculation gives the exact total?
+AC9M4N08-P-029	Four lamps cost $47 each. The model splits each price into $40 and $7. What total does it show?
+AC9M4N08-P-030	To price 5 books at $19 each, Raj calculates 5 × $20 − $5. Why does he subtract $5?
+AC9M4N08-P-031	A fundraiser compares 20 orders with different quantities and prices. Which plan uses a spreadsheet appropriately?
+AC9M4N08-P-032	A spreadsheet shows 3 rolls at $8.50 each and 4 rolls at $6.00 each. What is the combined cost of both rows?
+AC9M4N08-P-033	A librarian puts 63 books on shelves with 7 books on each shelf. She calculates 63 ÷ 7 = 9. Which conclusion answers her question about shelves needed?
+AC9M4N08-P-034	Forty-six children need seats in vans. Each van has 8 passenger seats, all available for the children. What is the fewest vans needed?
+AC9M4N08-P-035	A club has $70. It buys 6 tickets at $9 each and a book for $12. Which conclusion is correct?
+AC9M4N08-P-036	Pia has $100. She buys 3 games at $18 each and one bag for $12. Which number sentence finds the money left?
+AC9M4N08-P-037	Which story uses 48 ÷ 6 to find the NUMBER of groups?
+AC9M4N08-P-038	A team has 4 times as many flags as a group with 13 flags. Lee writes 13 + 4 = 17. What repair matches the situation?
+AC9M4N08-P-039	Five identical bags cost $75 altogether. Which equation models the price of one bag?
+AC9M4N08-P-040	A lunch budget is $80. Six platters cost $11 each and drinks cost $14 altogether. Does the plan fit the budget?
+AC9M4N08-P-041	Six bags cost $98 each. What is the exact cost using a near-hundred strategy?
+AC9M4N08-P-042	A school needs $160 for materials and has already collected $125. How much more must it collect?
+AC9M4N08-P-043	A shop sends 3 paint sets at $7 each. Delivery is a single $5 charge for the whole order. Which calculation finds the total?
+AC9M4N08-P-044	Fifty-four cupcakes are shared equally among 6 tables. Eli calculates 54 ÷ 6 = 9 and says, “There are 9 cupcakes altogether.” What should he say?
+AC9M4N08-P-045	A museum has 245 visitors: 158 adults and some children. Draw a labelled part-part-whole or bar model. Write a number sentence, solve it efficiently and state how many children are visiting.
+AC9M4N08-P-046	Use 36 counters or draw dots. First share them equally among 6 bags. Then arrange them in bags holding 4 counters each. Draw or label both arrangements, write each number sentence and explain what each answer counts.
+AC9M4N08-P-047	A gardening club has $180. It plans to buy 4 pots at $28 each, compost for $35 and labels for $13. Make a cost model or table, write number sentences, choose an efficient strategy and explain whether the plan fits the budget.
+AC9M4N08-P-048	Jo read 17 books. Mia read 3 times as many. Draw a comparison bar or array, write a number sentence and use partitioning to calculate Mia’s books. Explain how your model shows “3 times as many”.
+
+--- TEST ---
+AC9M4N08-T-001	A collection has 169 shells, including 72 white shells. All the others are brown. How many brown shells are there?
+AC9M4N08-T-002	Ninety-six flowers are tied into bunches with 8 flowers in each. How many bunches are made?
+AC9M4N08-T-003	Omar pays $50 for 4 tickets at $9.50 each and one programme costing $6. What change does he receive?
+AC9M4N08-T-004	Tess collected 23 pine cones. Jin collected 4 times as many. Which calculation correctly models Jin’s collection?
+AC9M4N08-T-005	A club has $250. Hall hire costs $90 and 5 activity tables cost $24 each. How much money is left?
+AC9M4N08-T-006	A school buys 8 identical rolls of ribbon, each 10 metres long. What extra information is needed to find the total purchase cost?
+AC9M4N08-T-007	Seven headsets cost $49 each. Which exact total follows from rounding each price to $50 and adjusting?
+AC9M4N08-T-008	A venue needs 72 chairs. Each trolley carries exactly 36 chairs. Which conclusion follows from 72 ÷ 36 = 2?
+AC9M4N08-T-009	A spreadsheet row lists 7 boxes in its quantity cell and $16 in its price-per-box cell. Which formula relationship should calculate that row’s total cost?
+AC9M4N08-T-010	Nine players share a $135 team fee equally. How much does each player pay?
+AC9M4N08-T-011	A group of 46 people has a $400 bus budget. Which listed bus fits everyone and stays within budget?
+AC9M4N08-T-012	A class read 132 books in Term 2 and 98 books in Term 1. How many more books did it read in Term 2?
+AC9M4N08-T-013	A school orders 168 red badges and 192 blue badges. Draw a part-part-whole or bar model, write a number sentence and solve efficiently. State what the total counts.
+AC9M4N08-T-014	A class sells 35 tickets for $6 each. Its only costs are $86 for equipment and $29 for printing. Model the income and costs, write number sentences, calculate the money left and give a checked conclusion.
+AC9M4N08-T-015	A school has $500 for 5 stools costing $97 each. Model the purchase and use compensation from $100 to find the cost. Explain whether the budget is enough and how much remains.
+AC9M4N08-T-016	Write two different practical stories for 54 ÷ 6 = 9. In one, 9 must count the number of groups. In the other, 9 must give the amount in each group. Draw or label a model for each and state both answers with units.
+
+==============================================================================
+AC9M4N09
+==============================================================================
+
+--- PRACTICE ---
+AC9M4N09-P-001	Start with 5. Add 3, then multiply the result by 2. What is the output?
+AC9M4N09-P-002	An input of 8 is multiplied by 3, then 4 is added. What is the output?
+AC9M4N09-P-003	The rule is “multiply the input by 5, then add 2”. What output belongs with input 4?
+AC9M4N09-P-004	Use the flowchart once for each input. What are the outputs for input 6 and input 7, in that order?
+AC9M4N09-P-005	Start with 3 and add 2. If the NEW number is even, multiply it by 3; otherwise add 4. What is the output?
+AC9M4N09-P-006	For each input: if it is at least 5, double it; otherwise add 3. What are the outputs for inputs 4 and 5?
+AC9M4N09-P-007	For inputs 1, 2, 3 and 4, double each even input and add 4 to each odd input. Which output list keeps the same input order?
+AC9M4N09-P-008	Inputs 1, 2, 3, 4 produce outputs 4, 4, 6, 8. Which stated rule matches every pair?
+AC9M4N09-P-009	A rule says, “If the input is even, double it. Record the answer.” Which addition explicitly gives an operation for odd inputs?
+AC9M4N09-P-010	A rule says: if the input is less than 10, add 5; otherwise multiply by 2. With input 7, Zara adds 5 and then doubles. What should the output be?
+AC9M4N09-P-011	Start at 10. Record the number, then add 10. Keep recording while the current number is at most 50. Stop before recording a larger number. Which list is produced?
+AC9M4N09-P-012	Follow the flowchart. Which numbers are recorded?
+AC9M4N09-P-013	Follow the flowchart. What is the last recorded number?
+AC9M4N09-P-014	Start with 2. Add 5, then record the result. Repeat those two steps until THREE results have been recorded. What is the list?
+AC9M4N09-P-015	Start at 1, record it, then repeatedly add 4 and record. Stop only if the number is exactly 10. What happens?
+AC9M4N09-P-016	Start at 2 and record it. Multiply the current number by 2 and record again, stopping after FOUR numbers in total. What is the fourth number?
+AC9M4N09-P-017	Follow the flowchart. Which output list is correct?
+AC9M4N09-P-018	A rule starts at 2 and multiplies the previous number by 4 each time: 2, 8, 32, 128, __. What is next?
+AC9M4N09-P-019	Both rules start by recording 4. Rule A repeatedly adds 4. Rule B repeatedly doubles. What is the THIRD output of each?
+AC9M4N09-P-020	Start at 12. If the number is less than 10, record it and add 2, then test again. Otherwise stop. Which numbers are recorded?
+AC9M4N09-P-021	Which algorithm records exactly the positive multiples of 7 below 30?
+AC9M4N09-P-022	Multiply each input from 1 to 6 by 9. The outputs are 9, 18, 27, 36, 45, 54. What happens to the ones digit across THESE six outputs?
+AC9M4N09-P-023	Multiply inputs 1, 2, 3, 4, 5 and 6 by 5. What ones-digit pattern do the outputs follow?
+AC9M4N09-P-024	A rule starts at 2 and keeps adding 4. Why is every output even?
+AC9M4N09-P-025	The outputs from inputs 1, 2, 3, 4, 5 under “multiply by 3” are 3, 6, 9, 12, 15. Why do odd and even outputs alternate?
+AC9M4N09-P-026	A rule multiplies inputs 1, 2, 3, 4 by 6. Which statement is true of all four outputs?
+AC9M4N09-P-027	A learner writes the first six positive multiples of 4. Why does the mathematical pattern have no last number?
+AC9M4N09-P-028	A list begins 2, 4, 8, but no generating rule is given. Max says the next value must be 16. Which response is best?
+AC9M4N09-P-029	The instruction is “start at 8 and keep adding 8”. A learner records 8, 16, 24, 31, 40. Which replacement repairs the incorrect entry?
+AC9M4N09-P-030	The rule starts at 2 and triples the previous number. A learner records 2, 6, 18, 56, 162. Which entry should replace 56?
+AC9M4N09-P-031	The wanted list is 3, 6, 12. A learner starts at 3, doubles, then records, so the first output is 6. Which repair includes the wanted first output?
+AC9M4N09-P-032	Start at 2. Test a condition before each record; if true, record and add 2, then test again. Which condition produces 2, 4, 6, 8, 10 and then stops?
+AC9M4N09-P-033	Which list results from multiplying EACH input 1, 2, 3, 4 by 4?
+AC9M4N09-P-034	A1 contains 1. A2 contains =A1+1, and that formula is filled down through A5 with changing row references. What value is in A5?
+AC9M4N09-P-035	A1:A4 contain 1, 2, 3, 4. B1 contains =A1*4. When filled down normally, which formula belongs in B3?
+AC9M4N09-P-036	Column A contains the integers 1 to 100 in rows 1 to 100. Column B multiplies the input in the same row by 4. What is B100?
+AC9M4N09-P-037	A learner copies the value 1 into EVERY cell A1:A100. The formula =A1*4 is then filled down column B. Why is every result 4?
+AC9M4N09-P-038	A1:A3 contain 1, 2, 3. B1 is =A1*4, giving 4. B2 is incorrectly set to =B1*4, giving 16. Which replacement restores the rule that multiplies the input in the same row by 4?
+AC9M4N09-P-039	A calculator is used to check “start at 4, then multiply the previous value by 3”. Which recorded list agrees with the rule?
+AC9M4N09-P-040	Which way of using a calculator best checks a multiplication algorithm?
+AC9M4N09-P-041	For inputs 1, 2, 3, 4: double even inputs and add 3 to odd inputs. The output list is 4, 4, 6, 8. Which set lists the DIFFERENT output values once each?
+AC9M4N09-P-042	Inputs 1, 2, 3, 4 are each multiplied by 1. What are the outputs?
+AC9M4N09-P-043	For consecutive whole-number inputs, a rule multiplies each input by 8. Why are consecutive outputs 8 apart?
+AC9M4N09-P-044	Which algorithm records exactly 5, 10, 15, 20, 25 and stops?
+AC9M4N09-P-045	Create a written algorithm or flowchart that records the positive multiples of 6 from 6 to 36 inclusive, then stops. Follow it and record every output. Describe a pattern and explain why it happens.
+AC9M4N09-P-046	Draw a flowchart starting at 2 that records each value, then multiplies it by 3, and stops before recording a value greater than 100. Include a yes/no decision. Use a calculator to follow your chart, record the outputs and check one product another way.
+AC9M4N09-P-047	Create a flowchart or precise written algorithm for inputs 1 through 6 in order. If the input is even, double it; otherwise add 5. Record each output and then move to the next input, stopping after input 6. Explain a pattern in the outputs.
+AC9M4N09-P-048	Use an available spreadsheet with your parent or teacher. Put 1 in A1 and =A1+1 in A2; fill A2’s formula down through A100. Put =A1*7 in B1 and fill it down through B100. Record B1, B2, B10 and B100, then explain the pattern and check one formula in a later row.
+
+--- TEST ---
+AC9M4N09-T-001	Start at 6. Add 4, then multiply the result by 3. What is recorded?
+AC9M4N09-T-002	Follow the flowchart for input 5. What is the output?
+AC9M4N09-T-003	Follow the flowchart. Which list is recorded?
+AC9M4N09-T-004	Start at 1 and record it. Repeatedly multiply the current number by 5 and record, stopping after four numbers total. What is the fourth number?
+AC9M4N09-T-005	Start with 4 and add 1. If the new number is even, double it; otherwise add 3. What output follows?
+AC9M4N09-T-006	Start at 3. Multiply by 2 and then record. Repeat these two steps until three outputs have been recorded. Which list results?
+AC9M4N09-T-007	Cells A1 through A100 contain inputs 1 through 100 in order. Each B cell multiplies the A input in the same row by 8. What is B25?
+AC9M4N09-T-008	B1 contains =A1*9. It is filled down with relative references. Which formula should appear in B5?
+AC9M4N09-T-009	A rule starts at 5 and doubles the previous value. A learner records 5, 10, 20, 41, 80. Which correction is needed?
+AC9M4N09-T-010	Each input is multiplied by 3 and then 1 is added. What describes the change between consecutive outputs for inputs 1, 2, 3, 4, 5?
+AC9M4N09-T-011	Start at 5 and repeatedly multiply the PREVIOUS value by 1. What pattern is recorded?
+AC9M4N09-T-012	Start at 3. Test before recording; if the test passes, record, double and return to the test. Which condition records exactly 3, 6, 12, 24?
+AC9M4N09-T-013	Create an algorithm that records exactly the positive multiples of 8 from 8 to 48 inclusive. Include a clear continue/stop decision, follow it, and explain one pattern using the generating rule.
+AC9M4N09-T-014	For inputs 2, 3, 4 and 5 in order, create a flowchart or written algorithm: if the input is less than 4, add 6; otherwise multiply it by 3. Include recording and a stop after the last input. Trace all outputs and describe how outputs change within each branch.
+AC9M4N09-T-015	Draw a flowchart that starts at 1, multiplies the current value by 4 after each record, and stops before recording a value greater than 100. Include both decision paths. Use a calculator to follow it and check one product by another strategy.
+AC9M4N09-T-016	Use an available spreadsheet to put the inputs 1 to 100 in column A. In B1 enter =A1*3+2 and fill it down through B100. Record B1, B2, B10 and B100, inspect the formula in B10 and explain the change between consecutive outputs.
+
+==============================================================================
+AC9M4P01
+==============================================================================
+
+--- PRACTICE ---
+AC9M4P01-P-001	A fair die has faces 1 to 6. Which is the complete list of possible numbers?
+AC9M4P01-P-002	A bag holds 3 red and 7 blue identical counters. One is drawn without looking. Which is more likely?
+AC9M4P01-P-003	Which result is impossible on a die labelled 1 to 6?
+AC9M4P01-P-004	Every counter in a bag is green. What is certain when one is drawn?
+AC9M4P01-P-005	A fair spinner has four equal sectors labelled A, B, C and D. Which statement is correct?
+AC9M4P01-P-006	A bag has 6 red, 3 blue and 1 yellow identical counter. Order colours from least to most likely.
+AC9M4P01-P-007	A bag has 9 red and 1 white identical counter. Which statement is correct?
+AC9M4P01-P-008	Sam lives near school; Jo travels a long distance. Why might their likelihood of walking to school differ?
+AC9M4P01-P-009	A fair coin has landed heads five times in a row. What is true of the next toss?
+AC9M4P01-P-010	A fair die rolled a 6. What happens to the chance of 6 on the next independent roll?
+AC9M4P01-P-011	A red counter is drawn, returned and mixed into the same bag. What changes for the next draw?
+AC9M4P01-P-012	A bag has 1 red and 2 blue counters. Red is drawn and kept out. What is certain next?
+AC9M4P01-P-013	A bag has 3 red and 2 blue counters. One red is removed. How do the remaining colour counts compare?
+AC9M4P01-P-014	A single standard playing card is red. Which suit can it not be?
+AC9M4P01-P-015	One fair die is rolled once. Which two events cannot both happen on that roll?
+AC9M4P01-P-016	A school cancels beach planting if a storm arrives. A storm is now very likely. What follows?
+AC9M4P01-P-017	Which pair is independent when ordinary fair objects are used separately?
+AC9M4P01-P-018	Bag A has 10 red and 5 white balls; B has 20 of each; C has 25 red and 20 white. Least to most likely to draw red?
+AC9M4P01-P-019	Which bag gives a greater chance of red: A with 2 red and 1 white, or B with 4 red and 8 white?
+AC9M4P01-P-020	A warning system ranks heavy rain more likely than light rain using observations. What does this mean?
+AC9M4P01-P-021	The phrase is 'Please put on your ...'. The next word begins with c. Which offered word fits best?
+AC9M4P01-P-022	Why can revealing the first letter change a predictive text suggestion?
+AC9M4P01-P-023	A spinner has sectors labelled cat, dog, cat and fish. Which list gives all different label outcomes?
+AC9M4P01-P-024	A fair spinner has four equal sectors: red, red, blue, green. Which colour is most likely?
+AC9M4P01-P-025	Order these events on a fair die: roll 8; roll 1; roll a number from 1 to 6.
+AC9M4P01-P-026	A bag has 5 orange and 5 purple identical counters. What is true?
+AC9M4P01-P-027	Why should counters be mixed after replacement in a draw without looking?
+AC9M4P01-P-028	A traffic signal shows exactly one colour at a time. Which pair cannot occur together?
+AC9M4P01-P-029	Two children draw names without replacement to choose a captain. Why are the draws dependent?
+AC9M4P01-P-030	After four tails on a fair coin, Pat predicts tails because it is 'on a run'. Best reply?
+AC9M4P01-P-031	Which sentence uses 'likely' correctly?
+AC9M4P01-P-032	A child expects to see a bus near a busy bus station rather than on an isolated walking trail. Best reason?
+AC9M4P01-P-033	A flood warning is issued because flooding is judged likely. What is a sensible interpretation?
+AC9M4P01-P-034	In 'The bird built a ...', a tool suggests nest. Which statement is justified?
+AC9M4P01-P-035	Bag A has 3 red and 3 blue; bag B has 6 red and 6 blue. Which gives a greater chance of red?
+AC9M4P01-P-036	An ordinary fair coin is tossed, then tossed again in the same way. What should an outcome list allow?
+AC9M4P01-P-037	A box contains 1 star card and 3 circle cards. The star is removed permanently. What becomes impossible?
+AC9M4P01-P-038	Which information best helps compare the chance of a picnic going ahead under a no-rain rule?
+AC9M4P01-P-039	A fair spinner has six equal sectors: four A, one B, one C. Which is correct?
+AC9M4P01-P-040	A single standard card is a heart. Which is also true?
+AC9M4P01-P-041	Write three everyday events for tomorrow. Order them from least to most likely for you. Ask another person to order the same events and explain one agreement or difference.
+AC9M4P01-P-042	Write a reply to: A fair coin has shown five heads, so tails is now owed. Include the possible next outcomes and explain why the earlier results do not force either one.
+AC9M4P01-P-043	Draw bags A with 10 red and 5 white balls, B with 20 of each, and C with 25 red and 20 white. Order the chance of red and explain using grouping rather than red counts alone.
+AC9M4P01-P-044	Use 2 red and 2 blue counters. Draw one without looking, record it, keep it out and list what remains. Replace it, mix, and explain how replacement changes the comparison with the original bag.
+AC9M4P01-P-045	Draw a table of the four standard card suits and their colours. Explain why one red card cannot also be a spade, but a heart can be red.
+AC9M4P01-P-046	Make a pretend warning card for an outdoor class event: give a weather prediction, a cancellation rule and a preparation decision. Explain why likely is different from certain.
+AC9M4P01-P-047	Write an unfinished sentence with two plausible next words. Reveal a first letter that fits only one of them. Explain how that clue changes the prediction.
+AC9M4P01-P-048	Draw a spinner with four equal sectors so red is more likely than blue and green but not certain. Label every sector and explain your design.
+
+--- TEST ---
+AC9M4P01-T-001	A bag contains 2 white, 8 black and 5 red identical counters. Least to most likely colour?
+AC9M4P01-T-002	A fair coin shows H, H, H, H, H. A learner says tails is now more likely. What corrects this?
+AC9M4P01-T-003	A bag has 2 yellow and 1 green counter. Green is drawn and not replaced. What remains possible?
+AC9M4P01-T-004	A bag has 4 red and 2 white balls. Another has 8 red and 8 white. Which gives more chance of red?
+AC9M4P01-T-005	One standard card is a diamond. Which event cannot also happen?
+AC9M4P01-T-006	An outdoor event goes ahead only in dry weather. Rain becomes more likely. What changes?
+AC9M4P01-T-007	A warning tool raises the estimated likelihood of a storm after new observations. What is justified?
+AC9M4P01-T-008	For 'Brush your ...', the next word starts with t. Which fits both clues best?
+AC9M4P01-T-009	A fair spinner has equal sectors labelled X, X, Y, Z. What is true?
+AC9M4P01-T-010	A drawn counter is replaced and the bag mixed before another random draw. Why can the draws be independent?
+AC9M4P01-T-011	Two students order 'see snow tomorrow' differently because they live in different climates. Best response?
+AC9M4P01-T-012	A fair die is rolled once. Compare getting an odd and an even number.
+AC9M4P01-T-013	A picnic requires dry weather. Invent a forecast and three possible events for picnic day. Order their likelihood and explain which event depends on the weather.
+AC9M4P01-T-014	Draw bag D with 6 red and 3 white balls and bag E with 9 red and 9 white. Explain which gives more chance of red. Then remove one red from D and record its new contents.
+AC9M4P01-T-015	Design two successive random selections using three labelled cards so the second selection is independent of the first. Write the procedure and explain why a repeated label remains possible.
+AC9M4P01-T-016	Write an example showing how an extra clue changes a next-word prediction. Explain how this resembles updating a weather warning and why neither guarantees the eventual outcome.
+
+==============================================================================
+AC9M4P02
+==============================================================================
+
+--- PRACTICE ---
+AC9M4P02-P-001	A coin record is H, T, H, H, T. How many heads occurred?
+AC9M4P02-P-002	A tally table shows 7 heads and 5 tails. How many tosses were recorded?
+AC9M4P02-P-003	Two groups each toss a fair coin 20 times and get 8 and 12 heads. Best explanation?
+AC9M4P02-P-004	Which plan fairly compares two sets of coin results?
+AC9M4P02-P-005	Why record each result immediately after a toss?
+AC9M4P02-P-006	Two labelled coins A and B are tossed. Which is a complete outcome list?
+AC9M4P02-P-007	Why does 'one head and one tail' have two arrangements?
+AC9M4P02-P-008	Two-coin results are HH, HT, TT, TH, HT. How many trials had one head and one tail?
+AC9M4P02-P-009	A fair coin gives 6 heads in 10 tosses. What can we conclude?
+AC9M4P02-P-010	A card is drawn, recorded, returned and the deck shuffled each trial. Why return it?
+AC9M4P02-P-011	A card table has spades 4, clubs 6, diamonds 3, hearts 7. Which suit occurred most often?
+AC9M4P02-P-012	A suit table records 5 spades, 4 clubs, 6 diamonds and 5 hearts. How many draws?
+AC9M4P02-P-013	Which is a random generator suitable for a chance experiment?
+AC9M4P02-P-014	A virtual fair die gives 2, 2, 2. What is justified?
+AC9M4P02-P-015	Coin set A has 9 heads; set B has 13 heads, both in 20 tosses. Difference in heads?
+AC9M4P02-P-016	Why keep both an ordered results list and a tally table?
+AC9M4P02-P-017	In Noughts and Crosses, why is a coin experiment an incomplete model of winning?
+AC9M4P02-P-018	How can a class investigate whether going first matters in a game?
+AC9M4P02-P-019	In First to 20, players add 1 or 2 to a running total; reaching 20 wins. At 18, what wins immediately?
+AC9M4P02-P-020	In First to 20, players add 1 or 2 to a running total and win by reaching 20 exactly. At 17, what can a player do to prevent an immediate win for the opponent?
+AC9M4P02-P-021	How can random examples help when training an AI system?
+AC9M4P02-P-022	A spinner gives A 3 times, B 8 times and C 4 times. Order from least to most observed.
+AC9M4P02-P-023	A fair four-colour equal-sector spinner is spun 12 times. Must each colour occur 3 times?
+AC9M4P02-P-024	A coin was tossed 18 times. Eleven results were heads. How many were tails?
+AC9M4P02-P-025	A learner reports 20 coin tosses but tallies 9 heads and 8 tails. What should be checked?
+AC9M4P02-P-026	In a deck without jokers, which cards are picture cards for this experiment?
+AC9M4P02-P-027	A drawn queen of clubs belongs in which records?
+AC9M4P02-P-028	Four sets of 10 fair-coin tosses have 4, 7, 5 and 3 heads. Which statement fits?
+AC9M4P02-P-029	Two groups use different spinners and get different results. What else is needed before blaming chance variation alone?
+AC9M4P02-P-030	Which stopping rule avoids choosing results to fit a prediction?
+AC9M4P02-P-031	A two-coin table has HH 4, HT 7, TH 5, TT 4. How many trials gave mixed outcomes?
+AC9M4P02-P-032	The same table has HH 4, HT 7, TH 5, TT 4. How many trials had matching coins?
+AC9M4P02-P-033	Which is the strongest report of a 15-roll die experiment?
+AC9M4P02-P-034	A class compares a physical and virtual fair coin using 30 trials each. Must their sequences match?
+AC9M4P02-P-035	Why specify whether cards are returned between draws?
+AC9M4P02-P-036	A child wins one game after going first. What can we say?
+AC9M4P02-P-037	For 10 rolls, a die tally has counts 1, 2, 0, 3, 1, 3 for faces 1 to 6. Which face did not occur?
+AC9M4P02-P-038	In 10 die rolls, the counts for faces 1 to 6 are 1, 2, 0, 3, 1, 3. Which faces tied for most observed?
+AC9M4P02-P-039	A randomly generated training example is incorrect. What should a person do?
+AC9M4P02-P-040	A coin falls off the table during an experiment. Best preparation?
+AC9M4P02-P-041	Toss a coin 10 times, recording each result in order. Repeat for a second set of 10. Make a heads/tails table for each set and compare the actual results.
+AC9M4P02-P-042	Roll a die 18 times. Record all outcomes and make a table for faces 1 to 6, including any zero counts. Order the faces by observed frequency, keeping ties together.
+AC9M4P02-P-043	Label two coins A and B. Toss both 16 times. Record HH, HT, TH or TT each trial. Compare the total of HT and TH with HH and TT and explain what happened in your set.
+AC9M4P02-P-044	Use a standard deck without jokers. Shuffle, draw, record suit and card type, return and shuffle; repeat 12 times. Use picture (J, Q, K), numbered (2–10) and ace as separate types. Summarise results.
+AC9M4P02-P-045	Play six games of Noughts and Crosses with a partner, alternating who starts. Record starter, winner or draw and one strategy used. Discuss whether your results settle who should start.
+AC9M4P02-P-046	Play First to 20: start at 0, alternate adding 1 or 2, and win by reaching 20 exactly. Play four games, alternating starters. Record moves and results; identify one helpful decision near 20.
+AC9M4P02-P-047	With an adult, use a virtual coin or die for 20 trials. Record the tool and results. Repeat 20 trials with the matching physical object. Compare counts and discuss how random examples might supply varied AI training cases.
+AC9M4P02-P-048	Make a fair four-equal-sector spinner labelled A, A, B, C. Spin 20 times using the same method, recording each outcome. Compare observed counts with your expectation and explain any variation.
+
+--- TEST ---
+AC9M4P02-T-001	A coin gives T, H, T, T, H, H, T, H. How many heads?
+AC9M4P02-T-002	Two fair-coin sets of 12 tosses give 4 and 9 heads. What is true?
+AC9M4P02-T-003	A table records HH 3, HT 4, TH 6, TT 3. Mixed outcomes total?
+AC9M4P02-T-004	A drawn jack of hearts belongs to which categories?
+AC9M4P02-T-005	Which procedure keeps a card experiment's contents unchanged each trial?
+AC9M4P02-T-006	To explore starting-player effects, which plan is strongest?
+AC9M4P02-T-007	First to 20 allows adding 1 or 2. At 19, what legal move wins?
+AC9M4P02-T-008	A group says it rolled 16 times but its six face tallies sum to 15. What next?
+AC9M4P02-T-009	Why check results produced using random generators in AI training?
+AC9M4P02-T-010	A spinner gives green 11 times in 20 spins. Best report?
+AC9M4P02-T-011	Why label the two coins A and B in a record?
+AC9M4P02-T-012	Why discuss strategy when investigating Noughts and Crosses?
+AC9M4P02-T-013	Conduct three sets of 8 coin tosses. Keep ordered records, count heads and tails in each set, and describe similarities or differences.
+AC9M4P02-T-014	Toss two labelled coins 12 times. Make a four-category tally, then combine mixed outcomes. Write one sentence comparing mixed with matching outcomes in your results.
+AC9M4P02-T-015	Use a fair two-equal-sector spinner labelled sun and moon. Conduct two sets of 15 spins. Record and compare results and explain why equal sectors need not give equal counts.
+AC9M4P02-T-016	Draw from a shuffled standard deck without jokers 10 times, returning and shuffling each time. Record each suit and whether the card is J, Q, K; 2–10; or ace. Compare the actual suit totals and explain your replacement rule.
+
+==============================================================================
+AC9M4SP01
+==============================================================================
+
+--- PRACTICE ---
+AC9M4SP01-P-001	Look at the front-view house. Which shape forms the roof?
+AC9M4SP01-P-002	In the house drawing, which statement names the door and both windows?
+AC9M4SP01-P-003	Cut the pictured square along its diagonal. What pieces can rebuild it exactly?
+AC9M4SP01-P-004	Which set matches the pictured fish?
+AC9M4SP01-P-005	Two equal squares meet along a whole side without overlap. What outline do they form?
+AC9M4SP01-P-006	A flat arrow is made from a rectangular shaft and a triangular head. Where should the triangle go?
+AC9M4SP01-P-007	A simple snowman picture uses three circles. Which arrangement best represents a standing snowman?
+AC9M4SP01-P-008	A flat flower symbol uses a circle surrounded by six ovals. What do the ovals represent?
+AC9M4SP01-P-009	Which model best approximates a long, round pencil with a pointed tip?
+AC9M4SP01-P-010	Which solids best model a straight-sided tin with a round lid?
+AC9M4SP01-P-011	A block model of a chair has a seat, legs and back. Which feature is most important to retain?
+AC9M4SP01-P-012	Why can a cube model approximate a curved animal even though it is not exact?
+AC9M4SP01-P-013	A model bench uses six interlocking cubes connected in a row for its seat. Which addition represents two supports?
+AC9M4SP01-P-014	A staircase model will use adjacent columns of cubes. The diagram shows its first three column heights separately: one, two and three cubes. What should happen next to make a fourth rising step?
+AC9M4SP01-P-015	In a cube-model building, the tower should look taller than the entrance. Which change helps?
+AC9M4SP01-P-016	Why is a circle a better flat approximation than a triangle for a round clock face?
+AC9M4SP01-P-017	A rectangular bus picture has two circular wheels. Why attach the wheels near the bottom?
+AC9M4SP01-P-018	A toy castle uses a central prism and two cylinders with cones on top. What do the cylinders and cones represent?
+AC9M4SP01-P-019	A student names a sphere in a flat face drawing. Which correction is precise?
+AC9M4SP01-P-020	Two different animal drawings both use circles and triangles. Why might only one resemble a cat?
+AC9M4SP01-P-021	A flat fish has an oval body and triangle tail. Which arrangement recreates a fish pointing right?
+AC9M4SP01-P-022	A flat tent drawing uses a large triangle and a smaller doorway triangle. Which detail can a simple approximation omit?
+AC9M4SP01-P-023	A logo for a sailing club uses a triangle above a narrow curved hull. What does the triangle most likely represent?
+AC9M4SP01-P-024	Which set can represent a simple ice-cream symbol?
+AC9M4SP01-P-025	A drawing program lets you copy a small circle for wheels. What must you also decide?
+AC9M4SP01-P-026	A bird logo has an oval body and triangular beak. The beak is detached far above it. What improves the representation?
+AC9M4SP01-P-027	Which comparison best evaluates two playground models?
+AC9M4SP01-P-028	A model of a bridge uses two tall blocks supporting a long block. Which feature is missing if all three blocks lie flat in one row?
+AC9M4SP01-P-029	A rectangular picture frame surrounds an opening. Which recreation preserves the opening?
+AC9M4SP01-P-030	A composite L outline can be made from two rectangles. What must their placement achieve?
+AC9M4SP01-P-031	A student says every house must be modelled by one rectangular prism and one triangular prism. What is the best response?
+AC9M4SP01-P-032	A flat panda face uses a large circle, two smaller ear circles and two eye ovals. What would oversized ears change?
+AC9M4SP01-P-033	Why might more small cubes make a block model’s outline closer to a curved object?
+AC9M4SP01-P-034	Which description clearly distinguishes a model from its object?
+AC9M4SP01-P-035	A student draws a car using a rectangle and two circles, then labels the parts. What evidence best shows understanding?
+AC9M4SP01-P-036	Which step should come first when recreating a complex logo with familiar shapes?
+AC9M4SP01-P-037	A flat arch is made from a semicircle above a rectangle of the same width. Which join preserves the outer arch outline?
+AC9M4SP01-P-038	Four equal squares form a larger square. Which arrangement works?
+AC9M4SP01-P-039	A simple kite-shaped picture is made from two isosceles triangles joined along equal bases. Which arrangement preserves the outer kite outline?
+AC9M4SP01-P-040	A cylinder lies horizontally as a model log. A student replaces it with one cube. What is lost most clearly?
+AC9M4SP01-P-041	Cut two equal paper squares into triangles along their diagonals. Arrange all four triangles to make a larger square. Trace your result and mark every join. Label all four triangle pieces.
+AC9M4SP01-P-042	Use at least eight cubes to build a recognisable chair. Sketch front and side views, label seat, back and legs, and explain one simplification.
+AC9M4SP01-P-043	Build a tiny environment from cubes with a low building, a taller tower and an open path between them. Draw a labelled plan and explain how you kept the buildings different.
+AC9M4SP01-P-044	Draw a cartoon rabbit using at least three kinds of familiar flat shapes. Outline and label the components and explain how size and position suggest a rabbit.
+AC9M4SP01-P-045	Sketch a real object nearby in two different combinations of familiar shapes. Label every main component, then explain which approximation communicates its form better.
+AC9M4SP01-P-046	Using a drawing program with an adult if needed, create an original garden-club logo from circles, ovals and rectangles. Save or print it, label the components and explain their roles.
+AC9M4SP01-P-047	Draw a simple house front, then recreate it with cut-out shapes. Include a roof, wall, door and two windows. Compare the drawing with your arrangement.
+AC9M4SP01-P-048	Build a long vehicle from blocks. Ask someone which feature makes it recognisable. Change one component’s shape, size or position to improve it; record before and after.
+
+--- TEST ---
+AC9M4SP01-T-001	A flat lighthouse logo uses a tall rectangle, a triangle above it and three small squares inside. What do the squares most likely represent?
+AC9M4SP01-T-002	A toy train engine has a block body and round wheels. Which pair names the solid body and flat wheel outlines correctly?
+AC9M4SP01-T-003	A model of a tree uses a cylinder below a sphere. Why is this a useful approximation?
+AC9M4SP01-T-004	Three cubes form one horizontal row. To represent a taller post at the right end, where should two more cubes go?
+AC9M4SP01-T-005	A logo’s triangle ear is behind its circular head and partly hidden. What does this show?
+AC9M4SP01-T-006	A student makes a tower model wide and low although the real tower is tall and narrow. What needs improvement?
+AC9M4SP01-T-007	A composite square picture is split into two rectangles. Which statement must hold for an exact recreation?
+AC9M4SP01-T-008	Why should a cube model of a tunnel leave a space through its middle?
+AC9M4SP01-T-009	A digital tree logo uses a rectangle for the trunk and three circles for foliage. Which change makes the crown wider without making the trunk wider?
+AC9M4SP01-T-010	A flat penguin picture uses ovals for body and wings and a triangle for a beak. Which change best shows wings on both sides?
+AC9M4SP01-T-011	Two models use different numbers of blocks. Which is the soundest judgement?
+AC9M4SP01-T-012	A student adds small door handles to a model before choosing the building shape. What is a better approach?
+AC9M4SP01-T-013	Recreate a flat boat picture using a trapezium hull, a narrow rectangular mast and two triangular sails. Make or draw actual pieces, label them and explain their positions.
+AC9M4SP01-T-014	Build a model from interlocking cubes of a bridge with two supports and a raised span, leaving an opening. Sketch it and explain what is approximated and what is omitted.
+AC9M4SP01-T-015	Create an original turtle drawing from familiar flat shapes. Label at least three different kinds of shape and explain how two size or position choices help it resemble a turtle.
+AC9M4SP01-T-016	Use graphics software to create an original reading-club logo by combining familiar shapes. Save the design, label its components and describe one revision that made it clearer.
+
+==============================================================================
+AC9M4SP02
+==============================================================================
+
+--- PRACTICE ---
+AC9M4SP02-P-001	What is the cafe’s grid reference?
+AC9M4SP02-P-002	Which landmark is in C5?
+AC9M4SP02-P-003	Which landmark is farthest east?
+AC9M4SP02-P-004	Which two landmarks share a row?
+AC9M4SP02-P-005	From the gate, move three cells east. Where do you arrive?
+AC9M4SP02-P-006	Which route takes you from the cafe to the tree?
+AC9M4SP02-P-007	From the hall, move two cells west and one north. Where are you?
+AC9M4SP02-P-008	A friend says the pond is in A4. What has gone wrong?
+AC9M4SP02-P-009	Which direction is the gate from the pond?
+AC9M4SP02-P-010	A robot starts at B3 and moves one south, then three east. What is its finish cell?
+AC9M4SP02-P-011	A robot at D1 turns to face north but does not move. What is its position?
+AC9M4SP02-P-012	Which instruction would leave this grid immediately from E4?
+AC9M4SP02-P-013	From the tree, travel south to row 2, then west to column A. Where do you finish?
+AC9M4SP02-P-014	Which route from gate to cafe uses the fewest single-cell horizontal or vertical moves?
+AC9M4SP02-P-015	A route from Pond D1 to Hall E4 says one east, two north. What correction reaches the hall?
+AC9M4SP02-P-016	If a path cell at C3 is blocked, which route from B3 to D3 avoids it?
+AC9M4SP02-P-017	What does reference E4 identify here?
+AC9M4SP02-P-018	A friend starts at the gate facing north. They turn right and move one cell. Where are they?
+AC9M4SP02-P-019	Starting at C5 facing south, a robot turns left and moves two cells. Where is it?
+AC9M4SP02-P-020	Which information is needed before following an instruction to turn left?
+AC9M4SP02-P-021	In a spreadsheet, column letters run left to right and row numbers run top to bottom. Which cell is column C, row 7?
+AC9M4SP02-P-022	A spreadsheet has labels in A1 and B1. To enter 12 under B1 in the next row, which cell do you select?
+AC9M4SP02-P-023	Bird counts are stored in B2, B3 and B4. Which cells keep all three observations in the same column?
+AC9M4SP02-P-024	In a spreadsheet, what happens to the reference when you move from D4 one cell up?
+AC9M4SP02-P-025	A learner means to enter a result in C6 but types it in C5. What correction is needed?
+AC9M4SP02-P-026	Why must you check the grid labels before assuming row numbers increase northwards?
+AC9M4SP02-P-027	A bird’s-eye park picture has three benches. Which extra information best distinguishes one using an overlaid grid?
+AC9M4SP02-P-028	Two trees lie inside the same cell B2. Which instruction pinpoints one more clearly?
+AC9M4SP02-P-029	Why does a transparent grid overlay help compare a scene with its picture?
+AC9M4SP02-P-030	A drawing fills a 3 by 3 grid. To enlarge it, each old cell is copied to the matching cell of a new 3 by 3 grid with larger squares. What stays the same?
+AC9M4SP02-P-031	A1 cm grid is replaced by a 2 cm grid with the same rows and columns. A line crosses three full cells horizontally. How long is the enlarged line?
+AC9M4SP02-P-032	When enlarging an image by grid, a dot halfway across a cell should be placed where in the new matching cell?
+AC9M4SP02-P-033	A shape occupies cells A1, A2 and B1. Which copied arrangement preserves its shape on larger grid squares?
+AC9M4SP02-P-034	A copied picture becomes too wide but keeps its old height. What caused the distortion?
+AC9M4SP02-P-035	A grid map uses cell references rather than point coordinates. What does B4 mean?
+AC9M4SP02-P-036	A warehouse robot must go from A1 to A3 on a north-up grid with rows increasing upward. Which program works?
+AC9M4SP02-P-037	A robot starts facing east. It turns right but stays in the same cell. Which way is it now facing?
+AC9M4SP02-P-038	Which route information lets a partner reproduce a path reliably?
+AC9M4SP02-P-039	A map is turned so its north arrow points to the left of the page. Which way is north on that page?
+AC9M4SP02-P-040	A student records observed insect counts in a spreadsheet. What makes the data understandable later?
+AC9M4SP02-P-041	Draw a 5-column,4-row map of an imaginary park. Label columns A–E and rows 1–4 increasing upward, mark north up and put four named landmarks in different cells. Write directions between two landmarks and trace the route.
+AC9M4SP02-P-042	In a spreadsheet, put Object in A1 and Count in B1. Count three kinds of object nearby and enter names in A2–A4 and counts in B2–B4. Save a screenshot and list the six data-cell references.
+AC9M4SP02-P-043	Draw a bird’s-eye scene containing two benches and a tree. Ask a partner to locate one bench from your words before adding a grid. Overlay labelled cells, give a new reference-based description and compare how clear the two descriptions are.
+AC9M4SP02-P-044	Draw an original picture in a 3 by 3 grid of 1 cm squares. Copy it cell by cell into a 3 by 3 grid of 2 cm squares. Mark two matching points and explain how you kept their positions.
+AC9M4SP02-P-045	Make a 5 by 5 north-up floor or paper grid with columns A–E and rows 1–5 increasing upward. Start a toy robot at A2 facing east. Write and act out a route to D4, recording each visited cell and every turn.
+AC9M4SP02-P-046	On a north-up A–E,1–5 grid with rows increasing upward, start at B2. A program says north 2, east 2, south 1 and claims to finish D4. Draw and trace it, identify the actual finish and repair one instruction.
+AC9M4SP02-P-047	Draw a small map grid with row 1 at the bottom and a spreadsheet grid with row 1 at the top, both columns A–C. Mark B2 in each. Describe what one cell north on the map and one cell up in the spreadsheet do to the row number.
+AC9M4SP02-P-048	Draw an A–E,1–5 north-up grid with rows increasing upward. Mark B3 blocked. Plan and trace two different routes from A3 to C3 that avoid B3. Describe both with compass directions.
+
+--- TEST ---
+AC9M4SP02-T-001	A north-up map labels columns A–F left to right and rows 1–6 bottom to top. Which reference is column E, row 2?
+AC9M4SP02-T-002	On that north-up A–F,1–6 grid, a walker goes from B4 two east and one south. Where do they finish?
+AC9M4SP02-T-003	On a north-up grid with rows increasing upward, which direction takes C2 directly to C5?
+AC9M4SP02-T-004	A spreadsheet uses letters across the top and numbers down its left. Which cell is directly below D8?
+AC9M4SP02-T-005	Observation names are in A2–A5. Their matching counts belong alongside in column C. Where should the count for the item in A4 go?
+AC9M4SP02-T-006	On a north-up grid, a robot at C3 faces north, turns right, then moves two cells. Where does it finish?
+AC9M4SP02-T-007	A map north arrow points right. Which page direction is south?
+AC9M4SP02-T-008	Why might a grid reference alone not identify one of two flowers?
+AC9M4SP02-T-009	A4 by 4 picture grid has 1 cm cells. It is copied to a 4 by 4 grid with 3 cm cells. What is the new overall width?
+AC9M4SP02-T-010	In grid enlargement, a curve enters halfway down the left edge of cell B2. Where should it enter in the enlarged drawing?
+AC9M4SP02-T-011	A robot turns left at A2 without moving. Which statement is true?
+AC9M4SP02-T-012	A route from A1 to C3 on a north-up grid says east 2, north 1. What is missing?
+AC9M4SP02-T-013	Make an A–D,1–4 map of a small festival, with north up and rows increasing upward. Place an entrance at A1, food at C2 and a stage at D4. Draw and write a route from entrance via food to stage.
+AC9M4SP02-T-014	Observe four turns of a coin landing heads or tails. In a spreadsheet use A1=Turn and B1=Result, then enter turn numbers 1–4 in A2–A5 and outcomes in B2–B5. Identify the cell holding the third result.
+AC9M4SP02-T-015	Make a grid with two rows and four columns of 1 cm squares and draw an original arrow across it. Copy into a grid with two rows and four columns of 2 cm squares. Mark corresponding corners and explain one check for distortion.
+AC9M4SP02-T-016	On an A–E,1–5 north-up grid with rows increasing upward, start at E2 facing north. Act out forward 2, turn left, forward 3. Record the visited cells and finish. Then write a reverse route to E2.
+
+==============================================================================
+AC9M4SP03
+==============================================================================
+
+--- PRACTICE ---
+AC9M4SP03-P-001	Does folding the rectangle along the dashed line make its two halves coincide?
+AC9M4SP03-P-002	How many lines of symmetry does this plain non-square rectangle have?
+AC9M4SP03-P-003	Which turn about the rectangle’s centre first makes it coincide with its starting outline?
+AC9M4SP03-P-004	Does the slanted parallelogram have a line of symmetry?
+AC9M4SP03-P-005	Which movement makes the pictured parallelogram coincide with itself?
+AC9M4SP03-P-006	What happens to the four-petal design after a quarter-turn about its centre?
+AC9M4SP03-P-007	How many reflection lines does the complete four-petal design have?
+AC9M4SP03-P-008	If only the top petal is coloured red, does the whole coloured design still match after a quarter-turn?
+AC9M4SP03-P-009	Where should the square’s reflected copy go across the vertical dashed line?
+AC9M4SP03-P-010	If a point lies on the mirror line, where does its reflected point lie?
+AC9M4SP03-P-011	Which test establishes a line of symmetry for a paper shape?
+AC9M4SP03-P-012	A plain square is folded on a diagonal. What happens?
+AC9M4SP03-P-013	A non-square rectangle is folded on a diagonal. Why does it fail the symmetry test?
+AC9M4SP03-P-014	How many lines of symmetry does a plain equilateral triangle have?
+AC9M4SP03-P-015	A plain isosceles triangle has exactly two equal sides. How many reflection lines does it have?
+AC9M4SP03-P-016	A scalene triangle has three unequal sides. How many reflection lines does it have?
+AC9M4SP03-P-017	Which shape has a half-turn match but no line symmetry when it is neither a rectangle nor a rhombus?
+AC9M4SP03-P-018	A plain square is turned about its centre through one full turn. How many matching positions are reached after starting, including the final full-turn position once?
+AC9M4SP03-P-019	A plain non-square rectangle is traced, then turned by a quarter-turn about its centre. What should you observe?
+AC9M4SP03-P-020	What must remain fixed when testing rotational symmetry by turning a tracing?
+AC9M4SP03-P-021	A shape matches its outline at a half-turn and a full-turn but no other smaller turn. How many matching positions occur in one full turn after starting?
+AC9M4SP03-P-022	An equilateral triangle matches its tracing after one-third of a turn. Which other turn less than a full turn also matches?
+AC9M4SP03-P-023	Which observation shows a pattern has line symmetry?
+AC9M4SP03-P-024	A picture has a vertical reflection line. A dot is 3 cm left of the line. Where is its partner?
+AC9M4SP03-P-025	A picture has a horizontal reflection line. A point is two grid spaces above it. Where is its partner?
+AC9M4SP03-P-026	A learner slides a shape without turning it to match another copy. What transformation did they use?
+AC9M4SP03-P-027	A pattern repeats across a tiled floor. Does repetition alone prove a mirror line exists?
+AC9M4SP03-P-028	A digital tool reports that a generated pattern is symmetrical. What is the best mathematical check?
+AC9M4SP03-P-029	A square grid is coloured in a repeated two-colour checkerboard. Why must you include colour when checking a proposed symmetry?
+AC9M4SP03-P-030	A rectangle’s outline has two mirror lines, but one off-centre dot is added. What can happen?
+AC9M4SP03-P-031	In a cultural artwork image, why identify the particular motif before making a symmetry claim?
+AC9M4SP03-P-032	Which statement about a real leaf is most careful?
+AC9M4SP03-P-033	A flower has five evenly spaced identical petals in an ideal drawing. Which turn takes one petal to the next?
+AC9M4SP03-P-034	A landscape photograph shows a mountain above water and a reflection below. Which line would you test for approximate mirror symmetry?
+AC9M4SP03-P-035	Two equal-area parts lie on opposite sides of a proposed mirror line but do not coincide when folded. Is it a symmetry line?
+AC9M4SP03-P-036	A student creates only the left half of a digital butterfly. Which operation makes a matching right half?
+AC9M4SP03-P-037	A design matches after a quarter-turn. Must it also match after a half-turn about the same centre?
+AC9M4SP03-P-038	A learner tests a paper shape by rotating both it and its background tracing together. Why is that inconclusive?
+AC9M4SP03-P-039	On Country/Place, which activity gathers evidence of natural symmetry respectfully?
+AC9M4SP03-P-040	A digital repeated design contains one misplaced tile. What should the learner do before claiming symmetry?
+AC9M4SP03-P-041	Trace a non-square rectangular card. Mark its centre, keep the tracing fixed and turn the card about that centre by quarter, half, three-quarter and full turns. Record which match.
+AC9M4SP03-P-042	Draw an original half-picture on squared paper beside a vertical line. Reflect it to complete the picture. Mark three corresponding point pairs and explain their distances from the line.
+AC9M4SP03-P-043	Use a drawing or dynamic geometry tool to create a pattern from repeated squares and triangles. Test and mark at least one mirror line or a non-full turn that reproduces your complete design. Save the design and record the test.
+AC9M4SP03-P-044	With a teacher or adult, select a permitted, attributed image of a Central Asian textile, Tibetan artefact, Indian lotus design or Islamic artwork. Identify its source and a specific motif. Trace that motif and test one possible line and one possible turn; record matches and mismatches.
+AC9M4SP03-P-045	On Country/Place, observe or photograph a permitted leaf or flower without damaging it. Sketch it, mark a possible mirror line or centre of rotation and compare at least three corresponding features. State whether the symmetry is exact or approximate.
+AC9M4SP03-P-046	Draw a design of four identical arrow shapes equally spaced around a centre, each obtained by a quarter-turn of the previous arrow. Trace and turn the design to test a quarter-turn match.
+AC9M4SP03-P-047	Draw a non-square rectangle, mark a diagonal and test it as a fold line. Explain why equal-area halves do not make that diagonal a symmetry line.
+AC9M4SP03-P-048	Create a symmetrical coloured pattern, deliberately change one small part so a symmetry fails, then repair it. Keep before, error and repaired versions and mark the test used.
+
+--- TEST ---
+AC9M4SP03-T-001	A plain non-square rhombus has two symmetry lines along its diagonals. Does it also match after a half-turn about its centre?
+AC9M4SP03-T-002	A square outline contains one dot near just one corner. Which statement is justified?
+AC9M4SP03-T-003	A shape matches after a half-turn and a full-turn, and no other turn less than a full-turn. How many matches occur after starting in one full turn?
+AC9M4SP03-T-004	A point is four grid spaces below a horizontal mirror line. Where is its partner?
+AC9M4SP03-T-005	Which is enough evidence to accept a proposed reflection line?
+AC9M4SP03-T-006	A traced equilateral triangle is turned about its centre by one-third of a full turn. What happens?
+AC9M4SP03-T-007	A pattern is generated by software and labelled fourfold symmetry. One coloured tile differs from its partner. What should you conclude?
+AC9M4SP03-T-008	A flower sketch has unequal petals despite looking roughly balanced. Which description is best?
+AC9M4SP03-T-009	Which comparison respects an artwork’s actual geometry?
+AC9M4SP03-T-010	A shape is slid along a table without turning. Does that establish its rotational symmetry?
+AC9M4SP03-T-011	A plain square matches at quarter, half, three-quarter and full turns. Why is its starting position not added as a fifth match?
+AC9M4SP03-T-012	When creating a mirrored half-picture digitally, which check detects a mistaken slide instead of reflection?
+AC9M4SP03-T-013	Choose a plain square and a plain non-square rectangle. Trace each, test quarter and half turns about its centre and test all proposed fold lines. Record the differences.
+AC9M4SP03-T-014	Create an original symmetrical tiled picture using a digital drawing or geometry tool. Save it, mark a reflection line or rotation centre, then demonstrate the complete picture matches under that transformation.
+AC9M4SP03-T-015	Choose an attributed, permitted image of one motif from a textile or artwork studied in class. Trace it and test a proposed mirror line and a non-full turn. Record evidence for each result, including a mismatch if a test fails.
+AC9M4SP03-T-016	Observe a permitted natural object on Country/Place, sketch it and record whether it is approximately line-symmetric, rotationally symmetric or neither. Then create an ideal symmetrical picture inspired by its shapes and demonstrate one exact symmetry of your picture.
+
+==============================================================================
+AC9M4ST01
+==============================================================================
+
+--- PRACTICE ---
+AC9M4ST01-P-001	Which variable is categorical?
+AC9M4ST01-P-002	Which variable is discrete numerical data?
+AC9M4ST01-P-003	To answer “How many books did each student borrow today?”, what should be recorded?
+AC9M4ST01-P-004	A poll asks each of 20 students to choose one activity. Frequencies total 23. What should you do?
+AC9M4ST01-P-005	The raw list is walk, bus, walk, bike, bus, walk. What is the walk frequency?
+AC9M4ST01-P-006	Six students report pet counts 0, 1, 1, 2, 0, 1. How many students have one pet?
+AC9M4ST01-P-007	A spreadsheet lists Bus, bus and BUS for the same travel category. What is appropriate?
+AC9M4ST01-P-008	A digital chart shows 9 blue votes, but the checked table has 6. Which is correct?
+AC9M4ST01-P-009	A word cloud makes “football” largest. What should you check before stating an exact count?
+AC9M4ST01-P-010	An AI-assisted poll tool suggests “Everyone loves football, right?” What should the class do?
+AC9M4ST01-P-011	Why compare an AI-generated graph with the original poll responses?
+AC9M4ST01-P-012	In a science test, 4 bean seeds and 7 pea seeds sprout. Which statement reports only these observations?
+AC9M4ST01-P-013	A spinner is spun 12 times: red 5, blue 4, yellow 3. Which total checks the recording?
+AC9M4ST01-P-014	A class observes birds for ten minutes on Monday and an hour on Tuesday. Why is a simple count comparison limited?
+AC9M4ST01-P-015	A class graphs last year’s burn-event counts from an official agency’s published table. Which source note accurately tells readers where the data came from?
+AC9M4ST01-P-016	A fire-burn dataset gives hectares. What must the graph’s vertical-axis label show?
+AC9M4ST01-P-017	A practice table has three burns in Area A and five in Area B. Can it tell which fire-management plan is best?
+AC9M4ST01-P-018	A poll records 10 responses and 2 blanks. What should its report say?
+AC9M4ST01-P-019	Read the class fruit poll display. How many responses or observations are in Pear?
+AC9M4ST01-P-020	In the class fruit poll display, which category has the greatest count?
+AC9M4ST01-P-021	What is the total count in the class fruit poll display?
+AC9M4ST01-P-022	In the class fruit poll display, how much greater is the largest count than the smallest?
+AC9M4ST01-P-023	For the class fruit poll data, a new pictograph uses one symbol for 2. How many full symbols show Apple?
+AC9M4ST01-P-024	Which statement about the class fruit poll display is supported?
+AC9M4ST01-P-025	A science table records TrayA 4, B8, C10, D6 sprouted seeds. Which zero-based scale represents all values clearly?
+AC9M4ST01-P-026	For sprouted-seed counts 4,8,10,6, a pictograph uses one symbol for 4. How many symbols show 10?
+AC9M4ST01-P-027	An additional tray has zero sprouted seeds at the observation time. What should the graph include?
+AC9M4ST01-P-028	A digital seed graph shows TrayB 10, but the checked observation record says 8. What is required?
+AC9M4ST01-P-029	A raw science list is sprouted, not sprouted, sprouted, sprouted, not sprouted, sprouted. Which frequencies are correct?
+AC9M4ST01-P-030	TrayC has 10 sprouted seeds and TrayA has 4 at the same observation time. Which conclusion is supported?
+AC9M4ST01-P-031	Read the twenty-four spinner results display. How many responses or observations are in Blue?
+AC9M4ST01-P-032	In the twenty-four spinner results display, which category has the greatest count?
+AC9M4ST01-P-033	What is the total count in the twenty-four spinner results display?
+AC9M4ST01-P-034	In the twenty-four spinner results display, how much greater is the largest count than the smallest?
+AC9M4ST01-P-035	For the twenty-four spinner results data, a new pictograph uses one symbol for 2. How many full symbols show Red?
+AC9M4ST01-P-036	Which statement about the twenty-four spinner results display is supported?
+AC9M4ST01-P-037	Read the library genre choices display. How many responses or observations are in Animal?
+AC9M4ST01-P-038	In the library genre choices display, which category has the greatest count?
+AC9M4ST01-P-039	What is the total count in the library genre choices display?
+AC9M4ST01-P-040	In the library genre choices display, how much greater is the largest count than the smallest?
+AC9M4ST01-P-041	For the library genre choices data, a new pictograph uses one symbol for 2. How many full symbols show Mystery?
+AC9M4ST01-P-042	Which statement about the library genre choices display is supported?
+AC9M4ST01-P-043	Ask at least six willing people one neutral favourite-fruit question. Record one response each in a digital table. Make a frequency table and check its total. Show the raw responses and table to an adult.
+AC9M4ST01-P-044	Using a real one-choice fruit survey of at least six willing people (collect one if you have not already done so), create a digital column graph with a title, category labels, a zero baseline and equal scale intervals. Write a comparison and a limitation.
+AC9M4ST01-P-045	Represent counts Red 8, Blue 6, Green 10 with a digital many-to-one pictograph using one symbol for 2. Add a title and key. Explain the largest category and the total.
+AC9M4ST01-P-046	With an adult, observe an ongoing safe seed-growing science activity. Record how many seeds have sprouted in each of at least three labelled trays at the same observation time. Enter the counts digitally, graph them and discuss one result. Do not invent observations.
+AC9M4ST01-P-047	With your teacher, co-create a neutral online class poll. Use a school-approved tool to produce a graph or word cloud; if AI-assisted options are available, inspect one. Compare its categories and counts with the responses and record any correction. Do not enter names or private information.
+AC9M4ST01-P-048	Spin a three-colour paper spinner 18 times. Tally the results as they occur, enter the frequencies in a digital table and make a column graph. Compare two colours and state why another set of spins may differ.
+
+--- TEST ---
+AC9M4ST01-T-001	Read the club display. How many chose Music?
+AC9M4ST01-T-002	Read the club display. How many responses were recorded altogether?
+AC9M4ST01-T-003	How many more chose Art than Garden?
+AC9M4ST01-T-004	A pictograph of these club data uses one symbol for 2 responses. How many symbols show Games?
+AC9M4ST01-T-005	Which two club categories together have 14 responses?
+AC9M4ST01-T-006	Which conclusion stays within the club data?
+AC9M4ST01-T-007	Six students report 0, 2, 1, 2, 0, 2 books borrowed. What is the frequency of 2?
+AC9M4ST01-T-008	A poll asks for favourite season. What kind of variable is this?
+AC9M4ST01-T-009	One symbol means 4 seeds. What does one and a half symbols mean?
+AC9M4ST01-T-010	A digital graph omits a category with zero responses. What helps readers see that it was offered?
+AC9M4ST01-T-011	Observed insects total 18, but a graph totals 16. What should be checked?
+AC9M4ST01-T-012	A generated word cloud spells the same answer in two ways. What should students check?
+AC9M4ST01-T-013	A secondary fire-burn table covers one region in one year. Which title is appropriate?
+AC9M4ST01-T-014	Why should a class retain raw responses after making a graph?
+AC9M4ST01-T-015	With an adult, obtain a published fire-burn dataset from a named First Nations Ranger organisation or an official agency. Record source, place, period and units. Select at least three comparable records, create a digital display and write two statements it supports. Do not substitute invented data or recommend a burn plan.
+AC9M4ST01-T-016	Collect the number of books borrowed today by at least six willing classmates, including any zeros. Enter the individual counts digitally, make a frequency table and a labelled graph. Explain how this numerical variable differs from favourite book genre.
+
+==============================================================================
+AC9M4ST02
+==============================================================================
+
+--- PRACTICE ---
+AC9M4ST02-P-001	A dot plot shows students’ counts of books read. What does each dot represent?
+AC9M4ST02-P-002	A column graph shows fruit votes. Which question can it answer?
+AC9M4ST02-P-003	Two graphs use the same data but different colours. What must remain unchanged?
+AC9M4ST02-P-004	A graph has equally spaced ticks labelled 0, 2, 4, 8. What is wrong?
+AC9M4ST02-P-005	A column chart starts at 8 and makes counts 9 and 10 look very different. What helps a fair comparison?
+AC9M4ST02-P-006	One picture represents 4 tickets. A half picture represents how many tickets?
+AC9M4ST02-P-007	A news pictograph uses one symbol for 10 trees. Three full symbols and a half mean how many trees?
+AC9M4ST02-P-008	A symbol key is missing. Why is an exact count uncertain?
+AC9M4ST02-P-009	For finding exact frequencies, why might a table help more than an unlabelled word cloud?
+AC9M4ST02-P-010	For comparing category sizes quickly, which display is useful?
+AC9M4ST02-P-011	A dataset is 1, 1, 2, 2, 2, 3, 7. Which description is accurate?
+AC9M4ST02-P-012	Class A has counts 3, 3, 4, 4, 5. Class B has 1, 2, 4, 6, 7. Which is more spread out?
+AC9M4ST02-P-013	A dot plot has no dots above 4 or 5. What does that mean?
+AC9M4ST02-P-014	A developer sees 30 dog images and 2 cat images in training data. What does a graph reveal?
+AC9M4ST02-P-015	A data plot has one entry of 90 pets when most entries are 0 to 3. What should an AI developer do first?
+AC9M4ST02-P-016	Why inspect distributions before developing AI?
+AC9M4ST02-P-017	Two surveys have different numbers of responses. What must a comparison mention?
+AC9M4ST02-P-018	A student doubles the width and height of a picture to show twice as many votes. Why is this confusing?
+AC9M4ST02-P-019	Which class has book counts spread across a wider interval?
+AC9M4ST02-P-020	How many students are represented in each class dot plot?
+AC9M4ST02-P-021	In the displayed Class A dot plot, the six book counts are 2, 3, 3, 4, 4 and 5. A report must describe where these values are concentrated. Which sentence matches all six observations?
+AC9M4ST02-P-022	Which value occurs in Class B but not Class A?
+AC9M4ST02-P-023	Which description of gaps in Class B is accurate?
+AC9M4ST02-P-024	Why use the same horizontal scale for the two plots?
+AC9M4ST02-P-025	Which question can these dot plots answer?
+AC9M4ST02-P-026	Which is an accurate comparison of repeated values?
+AC9M4ST02-P-027	What would a table of Class A need to preserve?
+AC9M4ST02-P-028	Why is a dot plot useful here compared with just a total of books?
+AC9M4ST02-P-029	A student says Class B has more students because its plot reaches 9. What is the correction?
+AC9M4ST02-P-030	What should a report avoid claiming from these plots alone?
+AC9M4ST02-P-031	Read the student display: twenty-four spinner results display. How many responses or observations are in Blue?
+AC9M4ST02-P-032	In the student display: twenty-four spinner results display, which category has the greatest count?
+AC9M4ST02-P-033	What is the total count in the student display: twenty-four spinner results display?
+AC9M4ST02-P-034	In the student display: twenty-four spinner results display, how much greater is the largest count than the smallest?
+AC9M4ST02-P-035	A second display lists book counts 0, 1, 1, 2, 5, 5, 6. Which description fits?
+AC9M4ST02-P-036	Which statement about the student display: twenty-four spinner results display is supported?
+AC9M4ST02-P-037	Read the student display: library genre choices display. How many responses or observations are in Animal?
+AC9M4ST02-P-038	In the student display: library genre choices display, which category has the greatest count?
+AC9M4ST02-P-039	What is the total count in the student display: library genre choices display?
+AC9M4ST02-P-040	In the student display: library genre choices display, how much greater is the largest count than the smallest?
+AC9M4ST02-P-041	A second display lists book counts 3, 4, 4, 5, 5, 6. Which description fits?
+AC9M4ST02-P-042	Which statement about the student display: library genre choices display is supported?
+AC9M4ST02-P-043	Make both a frequency table and dot plot for counts 1, 2, 2, 3, 3, 3, 6. Write one question each display can answer and answer it. Explain which better shows the gap.
+AC9M4ST02-P-044	Draw two dot plots on the same scale: A = 3, 3, 4, 4, 5, 5; B = 1, 2, 4, 4, 7, 8. Describe concentration and which group varies more.
+AC9M4ST02-P-045	Create a pictograph for 10, 15 and 20 tickets using one symbol for 10. Include partial symbols and a key. Explain why counting pictures as single tickets gives the wrong answer.
+AC9M4ST02-P-046	Represent votes A12, B8, C4 in a table and a column graph. Compare which helps find an exact count and which helps compare categories quickly. State one question neither answers.
+AC9M4ST02-P-047	Draw a misleading column graph for counts 9 and 10 using a vertical axis beginning at 8. Then redraw fairly from 0 using equal intervals. Label both and explain the difference.
+AC9M4ST02-P-048	An AI developer’s example-data counts are dogs 20, cats 3, birds 0. Make a labelled display. Write what it reveals and two checks the developer should make before claiming the data covers all three groups.
+
+--- TEST ---
+AC9M4ST02-T-001	A graph of the club data uses equal intervals labelled 0,4,8,12,16. Why is this scale suitable?
+AC9M4ST02-T-002	For the club data, why might a table be useful alongside the graph?
+AC9M4ST02-T-003	A pictograph shows Art with 7 symbols and Music with 4, but no key. What is missing for exact counts?
+AC9M4ST02-T-004	Two displays of club data show totals 38 and 40. What must happen?
+AC9M4ST02-T-005	Which two club categories together have 14 responses?
+AC9M4ST02-T-006	Which conclusion stays within the club data?
+AC9M4ST02-T-007	Counts are 2, 2, 3, 3, 3, 4, 9. Which description fits?
+AC9M4ST02-T-008	Group A: 4, 4, 5, 5. Group B: 1, 3, 6, 8. Which varies more?
+AC9M4ST02-T-009	A media graph uses one picture for 6 bicycles. A half picture means how many?
+AC9M4ST02-T-010	Which display best shows repeated individual whole-number counts and gaps?
+AC9M4ST02-T-011	Two graphs of the same data show different totals. What follows?
+AC9M4ST02-T-012	An AI dataset graph shows no examples of one required category. What has it revealed?
+AC9M4ST02-T-013	A graph of favourite pets cannot answer which question?
+AC9M4ST02-T-014	Why use the same numerical scale in two comparable column graphs?
+AC9M4ST02-T-015	Collect whole-number counts of books read last week from at least six willing people. Create your own table and dot plot. Describe a concentration, gap or absence of gaps and compare the usefulness of both displays.
+AC9M4ST02-T-016	A media-style pictograph uses one circle for 8 visitors. Draw rows for 12 and 20 visitors. Write an accurate comparison, explain the partial symbols and identify information needed before comparing these with another event.
+
+==============================================================================
+AC9M4ST03
+==============================================================================
+
+--- PRACTICE ---
+AC9M4ST03-P-001	Which question is suitable for a class statistical investigation?
+AC9M4ST03-P-002	Which wording is neutral?
+AC9M4ST03-P-003	A survey asks “Do you like swimming and cycling?” Why improve it?
+AC9M4ST03-P-004	A class movie survey allows one genre choice per student. Why state this?
+AC9M4ST03-P-005	Which record is needed when collecting data from an online weather database?
+AC9M4ST03-P-006	Two weather tables use different months. What should you do before comparing locations?
+AC9M4ST03-P-007	An online table has missing rainfall data for Tuesday. How should it be recorded?
+AC9M4ST03-P-008	A class investigates cereal shelf position and sugar. Which records answer its question?
+AC9M4ST03-P-009	Why compare cereal sugar per 100 g rather than per box?
+AC9M4ST03-P-010	A cereal is counted twice because it appears on two shelves. What should the investigation plan clarify?
+AC9M4ST03-P-011	A spreadsheet has “Comedy”, “comedy” and “Comedy ”. What cleaning is appropriate?
+AC9M4ST03-P-012	One response is accidentally copied twice. What should happen?
+AC9M4ST03-P-013	Twelve classmates answer a lunch survey. Which report is accurate?
+AC9M4ST03-P-014	A survey has 8 comedy, 6 adventure and 6 animation votes. What conclusion is supported?
+AC9M4ST03-P-015	A report says 5 students chose blue and 9 chose green. Which comparison is correct?
+AC9M4ST03-P-016	A graph suggests more high-sugar cereals are at eye level in one shop. What should the report avoid?
+AC9M4ST03-P-017	What should come with a graph in a final investigation report?
+AC9M4ST03-P-018	Two online sources disagree about a value. What is the sensible next step?
+AC9M4ST03-P-019	An invented movie survey has Comedy 7, Adventure 5, Animation 4. What total should the digital table show?
+AC9M4ST03-P-020	An invented movie survey has Comedy 7, Adventure 5, Animation 4, for 16 responses. Which report is precise?
+AC9M4ST03-P-021	Movie responses are comedy, adventure, Comedy, animation, comedy. What is the checked comedy count?
+AC9M4ST03-P-022	An invented survey has 8 blue and 4 green votes, then one genuine green response is discovered missing. What is the corrected total?
+AC9M4ST03-P-023	A pupil surveyed only six friends about a movie. Which report wording is appropriate?
+AC9M4ST03-P-024	An invented weather table gives TownA rainfall 30 mm and TownB45 mm for the same month. What can be reported?
+AC9M4ST03-P-025	An online source gives monthly rainfall in millimetres and another gives daily temperature. Can their numbers answer a direct rainfall comparison?
+AC9M4ST03-P-026	A weather record marks one day “missing”. Which spreadsheet entry preserves its meaning?
+AC9M4ST03-P-027	An invented cereal sample has four positions at the defined eye-level band: sugar 8,12,18,22 g per 100 g. The agreed higher-sugar rule is above 15 g per 100 g. How many meet it?
+AC9M4ST03-P-028	Two cereals list sugar 9 g per 30 g and 10 g per 50 g serving. Why seek their per 100 g labels?
+AC9M4ST03-P-029	The same cereal occupies two shelf positions. The investigation counts positions. How should it be recorded?
+AC9M4ST03-P-030	An invented shop sample has three higher-sugar positions at eye level and one outside. Which conclusion is justified?
+AC9M4ST03-P-031	Read the investigation: twenty-four spinner results display. How many responses or observations are in Blue?
+AC9M4ST03-P-032	In the investigation: twenty-four spinner results display, which category has the greatest count?
+AC9M4ST03-P-033	What is the total count in the investigation: twenty-four spinner results display?
+AC9M4ST03-P-034	In the investigation: twenty-four spinner results display, how much greater is the largest count than the smallest?
+AC9M4ST03-P-035	For the investigation: twenty-four spinner results data, a new pictograph uses one symbol for 2. How many full symbols show Red?
+AC9M4ST03-P-036	Which statement about the investigation: twenty-four spinner results display is supported?
+AC9M4ST03-P-037	Read the investigation: library genre choices display. How many responses or observations are in Animal?
+AC9M4ST03-P-038	In the investigation: library genre choices display, which category has the greatest count?
+AC9M4ST03-P-039	What is the total count in the investigation: library genre choices display?
+AC9M4ST03-P-040	In the investigation: library genre choices display, how much greater is the largest count than the smallest?
+AC9M4ST03-P-041	For the investigation: library genre choices data, a new pictograph uses one symbol for 2. How many full symbols show Mystery?
+AC9M4ST03-P-042	Which statement about the investigation: library genre choices display is supported?
+AC9M4ST03-P-043	Design and conduct a one-choice movie-genre survey with at least six willing classmates or family members. State the question and who responded. Enter anonymous responses into a spreadsheet and make a frequency table.
+AC9M4ST03-P-044	Use an actual one-choice movie-genre survey of at least six willing people (conduct one if needed) to create a digital column graph. Present the findings to another person, giving two numerical statements and one limitation. Record the listener’s question and your response.
+AC9M4ST03-P-045	Observe passing toy cars down a ramp ten times and record whether each stops before or at/beyond a marked line. Keep the setup the same and use safe toys. Enter results digitally, display them and report what this particular trial showed.
+AC9M4ST03-P-046	With an adult, retrieve rainfall records for two places over the same period from official online sources. Save the source, dates, places and units; select comparable values, enter them digitally and display them. Report one comparison and any missing records.
+AC9M4ST03-P-047	Plan a cereal shelf-position investigation: write a question, define children’s eye-level as an agreed height band, state how products or positions will be counted, and design a table for shelf height and sugar per 100 g. Explain why both variables are needed.
+AC9M4ST03-P-048	Use adult-provided photographs or permission-based observations of at least six cereal positions with readable nutrition labels. Apply your shelf-height rule and record sugar per 100 g. Make a digital table and a display relevant to your question; report the observed result and one limitation.
+
+--- TEST ---
+AC9M4ST03-T-001	A one-response-per-student club survey has 38 genuine responses from a class of 40 students. What should the report clarify?
+AC9M4ST03-T-002	Which question connects directly to a one-choice club survey?
+AC9M4ST03-T-003	After making the club graph, how should results be communicated?
+AC9M4ST03-T-004	A digital form allowed several club choices per person. Why can its vote total exceed the number of people?
+AC9M4ST03-T-005	Which two club categories together have 14 responses?
+AC9M4ST03-T-006	Which conclusion stays within the club data?
+AC9M4ST03-T-007	A pupil reports results before collecting responses. What is missing?
+AC9M4ST03-T-008	Which online weather query supports comparing two towns in July?
+AC9M4ST03-T-009	A cereal investigation compares sugar per 30 g serving with sugar per 50 g serving. What is needed?
+AC9M4ST03-T-010	A class survey has 19 genuine responses and one accidental duplicate. How many should the cleaned table contain?
+AC9M4ST03-T-011	What should a report say when only volunteers responded?
+AC9M4ST03-T-012	Why record a source and retrieval date for online data?
+AC9M4ST03-T-013	An investigation finds 7 observed cereals at eye level and 5 elsewhere. What can it state?
+AC9M4ST03-T-014	What makes an investigation conclusion convincing?
+AC9M4ST03-T-015	Carry out a new small investigation about the number of pencils in at least six pencil cases, with owners’ permission. State the question, collect counts, record and graph digitally, then communicate two findings and a limitation.
+AC9M4ST03-T-016	Using actual online records from two sources about the same weather variable, compare the definitions, place, period and units. Record whether a direct comparison is valid. Display comparable values if available and communicate your conclusion with the source details.
