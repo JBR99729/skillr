@@ -6,6 +6,7 @@ const source = [
   fs.readFileSync(new URL("../quiz/assets/script.js", import.meta.url), "utf8"),
   fs.readFileSync(new URL("../quiz/assets/script-runtime-v115.js", import.meta.url), "utf8")
 ].join("\n");
+const utilityScripts = [];
 const context = vm.createContext({
   Audio: class Audio {
     pause() {}
@@ -16,7 +17,14 @@ const context = vm.createContext({
   console,
   document: {
     addEventListener() {},
-    write() {}
+    write() {},
+    // The quiz entrypoint also boots optional shared UI. Model script insertion
+    // without executing it so speech assertions still run against the real engine.
+    createElement(tag) {
+      assert.equal(tag, 'script');
+      return { src: '', defer: false };
+    },
+    head: { appendChild(script) { utilityScripts.push(script); } }
   },
   window: {
     location: { pathname: "/" },
@@ -28,6 +36,10 @@ vm.runInContext(
   `${source}\n;globalThis.readAloudTestApi = { isQuestionReadAloudPath, normaliseSpeechText, getQuestionSpeechText };`,
   context
 );
+
+assert.equal(utilityScripts.length, 1, 'one shared companion bootstrap');
+assert.equal(utilityScripts[0].src, '/assets/companions/loader.js?v=20260909-1');
+assert.equal(utilityScripts[0].defer, true, 'optional UI is deferred');
 
 const {
   isQuestionReadAloudPath,
