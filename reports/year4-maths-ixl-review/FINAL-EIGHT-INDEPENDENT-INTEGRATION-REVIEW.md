@@ -27,4 +27,12 @@ Exact candidate integration files are enumerated in FINAL-EIGHT-INDEPENDENT-INTE
 
 ## Subsequent live-discovered correction
 
-The original static integration checks did not catch runtime deletion of the authored Practice preparation. See FINAL-EIGHT-PREPARATION-RUNTIME-REGRESSION.md for independent reproduction, exact timing, scoped correction and passing reruns. The integration hash manifest now includes the corrected runtime/bootstrap and refreshed16activitywrapper hashes. Sourcebankcontent is unchanged.
+Static integration checks missed runtime removal of authored preparation. FINAL-EIGHT-PREPARATION-RUNTIME-REGRESSION.md records the reproduced defect and final Year4-local helper correction. The initial shared-runtime patch is superseded; final runtime/bootstrap bytes equal commit48990. The final helper restores the identical authored DOM node after shared cleanup, preserving one unchanged guide on all16activities. The integration hash manifest includes final helper/wrapper hashes and unchanged runtime/bootstrap identities. No canonical bank content changed.
+
+## Subsequent authored worksheet correction
+
+Live inspection revealed a late legacy renderer overwriting worksheet bodies, missed by earlier static/PDF checks. YEAR4-AUTHORED-WORKSHEET-RUNTIME-REGRESSION.md documents reproduction and25passingcases for the final23pageguard/explicitload fix. The integration hash manifest now contains all23finalworksheet wrappers and the guardedrenderer.
+
+## Subsequent generic visual-layer correction
+
+Live inspection exposed a late generic-clock injection, missed by earlier static checks. YEAR4-AUTHORED-VISUAL-LAYER-REGRESSION.md records72passingcases for the final69resource guard/load fix and combined earlierregression reruns. The wrapper stillappendscachedv1, but its executionreturns through the loadedflag. The finalintegrationmanifest includes all69resource wrappers and the guardedhelper.

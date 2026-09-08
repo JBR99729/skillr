@@ -1,29 +1,29 @@
 {
-  "checked_at": "2026-09-08T10:38:11.076084+00:00",
-  "status": "PASS after reproduced live-discovered defect",
+  "checked_at": "2026-09-08T10:44:03.145553+00:00",
+  "status": "PASS \u2014 final Year4-local helper restoration, shared runtime unchanged",
   "original_defect": "Old runtime removed first .pre-read-notes unconditionally on Practice. Single authored final-eight preparation was removed after quick-read helper had applied. Prior80 marking tests did not assert guide survival.",
-  "timing": "Actual script.js bootstrap, actual runtime listener registered, actual quick-read helper applied against complete static HTML, then DOMContentLoaded dispatched. Before/after guide count and exact innerHTML compared.",
+  "timing": "Actual unchanged script.js/bootstrap and shared runtime loaded; document.readyState=loading; actual Year4 quick-read helper captures authored node, registers DOMContentLoaded handler, applies immediately. document.readyState becomes interactive; DOMContentLoaded dispatch runs shared cleanup then helper restoration. Node identity, exact innerHTML and section counts are checked.",
   "old_runtime_sha256": "cec2900af4c21d950dd97b7b21e981abc95f3c2375ba69e15397b07ef32d33a5",
   "final_sha256": {
-    "quiz/assets/script-runtime-v115.js": "b8636ab672da507e9e6ea49f1ad4c7693176c1ec1e4d6936ff03e3bd01a3fa66",
-    "quiz/assets/script.js": "915ca947f9101709ffe110f54f1025e6e1fa6e8c79ece119046c2f78e17479f8",
-    "assets/year4-maths-practice-quick-read.js": "def0e5688ec295216a1efc668a1f3281574d3a18ef63737a6c9fa8eaab328087",
-    "quiz/year-4/math/ac9m4sp01/practice/index.html": "ab18cc171600d3aa7359169a72d47affde3eecfa057f190f2b92a732155d652a",
-    "quiz/year-4/math/ac9m4sp01/test/index.html": "9baf4a3dd41b2c893ed7e330b43d44f1f20886bd35c095596bc5eab1c7d76a3a",
-    "quiz/year-4/math/ac9m4sp02/practice/index.html": "ddea49b5b024c56b1611079e7113a5fc00a807e8b8c5765bbf4b7d1e3da6ff12",
-    "quiz/year-4/math/ac9m4sp02/test/index.html": "994ebaadc15ec38324f183fa4489bf14ce9aafc70f8cbf7f346ee72e10cfd790",
-    "quiz/year-4/math/ac9m4sp03/practice/index.html": "d11f2e6b5938f04edadd423e3ea08b9e350ac63fce92b6e9e2e04cbca46372b5",
-    "quiz/year-4/math/ac9m4sp03/test/index.html": "b9c6f90df61a0dfa9291bbbbf35368d8025bc81cfa3572a7dfc20ef0a028027b",
-    "quiz/year-4/math/ac9m4st01/practice/index.html": "0825aab9f6a5cb74592787987dadbde1e88a63cba9b851cfa2ddc62b97576264",
-    "quiz/year-4/math/ac9m4st01/test/index.html": "f43d402a13571d904368d91c0e01fe42c4e4e6fe7ef0a9ebda61062bd8647165",
-    "quiz/year-4/math/ac9m4st02/practice/index.html": "a74b987d124a8c742b54e54439470311d8e04a64b655f041f9afaf03686ba063",
-    "quiz/year-4/math/ac9m4st02/test/index.html": "47dbe6cb01b79fda4d2c013ede91099f7b606c93a06ef78fc4a6d2e167a6cb07",
-    "quiz/year-4/math/ac9m4st03/practice/index.html": "e925989821d03f2354a40298898b2fcafa7d50e254b0cb8150bb8f569c31a170",
-    "quiz/year-4/math/ac9m4st03/test/index.html": "ff48e66c52795b747f128be9d132156a30367ac95cca08096aeda064a0d564ff",
-    "quiz/year-4/math/ac9m4p01/practice/index.html": "604ab311edf8d9c0fc4a601645814dd9c8767bdc0bb2fb0123c78ea1426c7c88",
-    "quiz/year-4/math/ac9m4p01/test/index.html": "81b8630b1a01853ce1a49ba64351c27a26d60f890655ce53f9972960b5ab37fb",
-    "quiz/year-4/math/ac9m4p02/practice/index.html": "795162b2eb153d21bffee8c0141ce7f80038f710cd47c1040d18f6f5d5ade416",
-    "quiz/year-4/math/ac9m4p02/test/index.html": "dd9ba88c1a08cc05629a297ca22fa641fa588de1c48923a5d383959425d86f27"
+    "assets/year4-maths-practice-quick-read.js": "4a5f210d429804531d0d25297c3ce456accf9768a63f64d906283dc9a9fef6e3",
+    "quiz/assets/script.js": "d4b3615c1cba96dbd326c1c24b055e8293ef71a6f7a16b38c9285b1906ab78a6",
+    "quiz/assets/script-runtime-v115.js": "cec2900af4c21d950dd97b7b21e981abc95f3c2375ba69e15397b07ef32d33a5",
+    "quiz/year-4/math/ac9m4sp01/practice/index.html": "50442f97b70df4358446a9959d4306b822a80868eb208764298b91adf68535a8",
+    "quiz/year-4/math/ac9m4sp01/test/index.html": "6917d5547ccdb453716f0aecd7571e2cd2a5db8d90b69f35738ee996cf45ce24",
+    "quiz/year-4/math/ac9m4sp02/practice/index.html": "e00f5d91e4674f03c3f1b8bc0ea11fa19e990b33afd33fe12a8322f34b06ca92",
+    "quiz/year-4/math/ac9m4sp02/test/index.html": "ef12f8bbbd926587238a76bcf31ba63c8f9a697ebcf699153dbb3ecf68a60ea6",
+    "quiz/year-4/math/ac9m4sp03/practice/index.html": "6784c76427f424a091d23f637f2c1119ed0a1958654da01efa86de8efbda8bd6",
+    "quiz/year-4/math/ac9m4sp03/test/index.html": "87396cd9f8c9fdf045f4c7780a77cd7c47356f0eee9bc9134ace6329d939feed",
+    "quiz/year-4/math/ac9m4st01/practice/index.html": "4b59cb906373cd5d99b1ed2fc8ca17e1c0227272e8204f6f377b13848da9f566",
+    "quiz/year-4/math/ac9m4st01/test/index.html": "bad1621dfacc11879b732ebc00a57e600c521674ddf4fb6b2287bb14237a95ba",
+    "quiz/year-4/math/ac9m4st02/practice/index.html": "547b00005f2a51af3cbbcd3137e18b79ff0a2c427a9d23ffea8b07efe77378e4",
+    "quiz/year-4/math/ac9m4st02/test/index.html": "b472ca2cbe9c3dd694d1fa0eb43c1f0d32d2f0931c8ee719b59493813caec3f6",
+    "quiz/year-4/math/ac9m4st03/practice/index.html": "d127496d21bbc0c2529e1768d4b5eca67136c903f1433886bea2482740217105",
+    "quiz/year-4/math/ac9m4st03/test/index.html": "2bae693863df268c129a1f6812ee17d2c88db379b8da0a0dc4339eb89b0133ce",
+    "quiz/year-4/math/ac9m4p01/practice/index.html": "da8197dda6a99f11ae65004088ae3de91cba1bce666be41fa7d3491c4d7cb6e4",
+    "quiz/year-4/math/ac9m4p01/test/index.html": "5190cf9ad278a708b3f787fe036a69d17aba3226b7d37e5e47a623f72483e6c7",
+    "quiz/year-4/math/ac9m4p02/practice/index.html": "bf129409be2b642dbb9ffb59667b61dbd5f4ec56cdaec34de61fc34e4a5882a4",
+    "quiz/year-4/math/ac9m4p02/test/index.html": "bf983cdc48af867facaafc8a8ddedee5c643e13c95fdb6f2a75f94d9084fd53c"
   },
   "results": [
     {
@@ -32,6 +32,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 0,
+      "sameNode": false,
       "preserved": false
     },
     {
@@ -40,6 +41,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -48,6 +50,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -56,6 +59,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -64,6 +68,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 0,
+      "sameNode": false,
       "preserved": false
     },
     {
@@ -72,6 +77,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -80,6 +86,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -88,6 +95,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -96,6 +104,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 0,
+      "sameNode": false,
       "preserved": false
     },
     {
@@ -104,6 +113,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -112,6 +122,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -120,6 +131,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -128,6 +140,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 0,
+      "sameNode": false,
       "preserved": false
     },
     {
@@ -136,6 +149,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -144,6 +158,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -152,6 +167,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -160,6 +176,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 0,
+      "sameNode": false,
       "preserved": false
     },
     {
@@ -168,6 +185,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -176,6 +194,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -184,6 +203,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -192,6 +212,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 0,
+      "sameNode": false,
       "preserved": false
     },
     {
@@ -200,6 +221,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -208,6 +230,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -216,6 +239,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -224,6 +248,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 0,
+      "sameNode": false,
       "preserved": false
     },
     {
@@ -232,6 +257,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -240,6 +266,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -248,6 +275,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -256,6 +284,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 0,
+      "sameNode": false,
       "preserved": false
     },
     {
@@ -264,6 +293,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -272,6 +302,7 @@
       "oldRuntime": true,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -280,6 +311,7 @@
       "oldRuntime": false,
       "before": 1,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -299,6 +331,7 @@
       "mode": "previous-two-sections",
       "before": 2,
       "after": 1,
+      "sameNode": true,
       "preserved": true
     },
     {
@@ -308,6 +341,13 @@
       "after": 0
     }
   ],
-  "marking_regression": "Re-ran previous80 actualruntime marking/savedreview/helperfailure cases against finalpatched runtime:80PASS.",
-  "limitations": "Offline VM/linkedom, audio/network/real layout/navigation stubbed. Root live browser evidence is separate. No new sourcebank or teaching content edits by reviewer."
+  "marking_regression": "80/80 prior actual-runtime marking/savedreview/helperfailure cases rerun PASS against restored unmodified shared runtime; preparation harness separately executes final local helper.",
+  "limitations": "Offline VM/linkedom, audio/network/real layout/navigation stubbed. Root live browser evidence is separate. No new sourcebank or teaching content edits by reviewer.",
+  "finalApproach": "The Year4 helper reattaches its captured authored DOM node if the legacy shared cleanup removed it, then retains existing text/markup. It does not recreate teaching content. Existing exact-code/version/authored-marker guards remain. All16 activity wrappers update only the helper query; script.js stays v117.",
+  "supersededApproach": "An earlier candidate changed the shared runtime cleanup and its bootstrap cache. It was independently tested but is superseded. Final runtime/bootstrap bytes match commit48990 exactly.",
+  "reportedCILimits": "Root reported four baseline failures surfaced by touching the shared runtime: Foundation8/12 versus current5 attempts, Year4Science8/cycle expectations, missing Year1drill bankCount80, and Year3mobile overflow. These were not repaired or tests weakened by this scoped correction. This reviewer did not independently reproduce those unrelated failures.",
+  "visualGuardRerun": {
+    "report": "YEAR4-AUTHORED-VISUAL-LAYER-REGRESSION.json",
+    "status": "PASS after final explicitvisualhelper loads; sourcebank/teachingcontent unchanged."
+  }
 }

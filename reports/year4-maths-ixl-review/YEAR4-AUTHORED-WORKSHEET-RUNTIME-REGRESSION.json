@@ -1,0 +1,267 @@
+{
+  "checked_at": "2026-09-08T10:49:00.300082+00:00",
+  "status": "PASS",
+  "defect": "Old worksheet renderer replaced authored body from legacydata and removed DownloadPDF button. Reproduced with actualSP01 legacydata and oldrenderer.",
+  "finalFix": "Explicit authoredworksheet bodymarker and fresh guardedrenderer script load afterauthoredbank/beforePWA onall23. Guard returns beforelegacyrendering. ActualPWAloadScript dedupes oldv5request bybasepath.",
+  "method": "Offline NodeVM/linkedom. Load actualauthoredworksheetJS, thenall10actualYear4 legacydataJS and assertbankobject/contentremainunchanged. Execute actualfinalrenderer; compare exactbodyHTML,samebankobject/content,sameDownloadPDFbuttonDOMnode. Execute extracted unmodified PWAloadScript function using actualscript.src attributes and request oldv5; assertnoappendedduplicate in both loaded and timerfallback cases.",
+  "cases": [
+    {
+      "code": "ac9m4a01",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4a02",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4m01",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4m02",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4m03",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4m04",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4n01",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4n02",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4n03",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4n04",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4n05",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4n06",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4n07",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4n08",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4n09",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4p01",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4p02",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4sp01",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4sp02",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4sp03",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4st01",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4st02",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "code": "ac9m4st03",
+      "status": "PASS",
+      "authoredCount": 8,
+      "bodyIdentical": true,
+      "sameBankObject": true,
+      "sameDownloadButton": true,
+      "pwaOldV5DuplicateAppended": false
+    },
+    {
+      "kind": "old-renderer-marked",
+      "status": "PASS",
+      "legacyBodyRendered": true,
+      "downloadButtonRemoved": true
+    },
+    {
+      "kind": "new-renderer-unmarked",
+      "status": "PASS",
+      "legacyBodyRendered": true,
+      "downloadButtonRemoved": true
+    }
+  ],
+  "sha256": {
+    "assets/year4-maths-worksheet-page.js": "f9dd33eecb4e1466d4bbb7eaf3d01f555cf6e707981b84e4a35fd01100435c25",
+    "assets/pwa-register-legacy.js": "1e26301bd7f9515edcdcbd4bfea2848f2e4aaeed7007d9c9949430008221c8f0",
+    "quiz/year-4/math/ac9m4a01/worksheet/index.html": "eee13cbf487fa5bc4a557882f18691eaba3f6f8ea303e41950cf5c29fec09687",
+    "quiz/year-4/math/ac9m4a02/worksheet/index.html": "ad38e33ef3828f7d3d4f8d5c534d763e66fcd241a5e46b6d7ad2dce750b0d449",
+    "quiz/year-4/math/ac9m4m01/worksheet/index.html": "ffe08b2279a3f8a64c4e68ce89b31cadb6814ce8c448bf8c5c4a35453b6c5f39",
+    "quiz/year-4/math/ac9m4m02/worksheet/index.html": "bb42e778ce0c83fd801a075da4204b49799491c3fea05922edd4b01de81bad78",
+    "quiz/year-4/math/ac9m4m03/worksheet/index.html": "4d57d4239afcec6c8af81216a43f7996fb53246a8bbbe472db7b3f433ac26b26",
+    "quiz/year-4/math/ac9m4m04/worksheet/index.html": "8434c2f32036a9b048d78023524cfa17b30d384a3d1d3f0458d791262449d0d1",
+    "quiz/year-4/math/ac9m4n01/worksheet/index.html": "007ed681115b255a5892a6b02c2089ae4035333bf619c6df1d2d46202dd4fcd7",
+    "quiz/year-4/math/ac9m4n02/worksheet/index.html": "535ef48136c055f1e78f8e9228578956af487569bb6c7c78ab297d9c6772f1c0",
+    "quiz/year-4/math/ac9m4n03/worksheet/index.html": "e07b83d1056d225498c47d61fefde7feba436a325d7958751697aec54dedf4f9",
+    "quiz/year-4/math/ac9m4n04/worksheet/index.html": "643cc254342c2527d44d200ecc0912c0cef16b5570827070a0e2cd641e48ce28",
+    "quiz/year-4/math/ac9m4n05/worksheet/index.html": "32b9b896b51438dd559150ab9a6f7f8cd7c89250821f3be799f21d9ea5902773",
+    "quiz/year-4/math/ac9m4n06/worksheet/index.html": "8771a821b8c6066a8d3731f9343ecdd1dcb5f0f09fab5ba9a718168e3602b127",
+    "quiz/year-4/math/ac9m4n07/worksheet/index.html": "5626bbb4c4e517a6a396faeab34e18e20554b6d25ac48221f8d99469a290ebaa",
+    "quiz/year-4/math/ac9m4n08/worksheet/index.html": "e99cacd33aec973fa936883e0469f3f16cc8c1a111da7eb38296845370ecf24f",
+    "quiz/year-4/math/ac9m4n09/worksheet/index.html": "a902b851f8dddb93cced979e368d0e21a43ca0330d20e2e83dad9c656a0e049b",
+    "quiz/year-4/math/ac9m4p01/worksheet/index.html": "141723a4f5a291321bb54090f6b5f16a196c8edb9a9920d86521d86a68674436",
+    "quiz/year-4/math/ac9m4p02/worksheet/index.html": "a8ff84d076028ff1b77065fac8c946122140acb91f44a52cb8f68f1811f6f119",
+    "quiz/year-4/math/ac9m4sp01/worksheet/index.html": "051a5c707d5ac66086002e8d391e720d70c4075c3e70de9837a7c3f19fee627d",
+    "quiz/year-4/math/ac9m4sp02/worksheet/index.html": "3186fb3c09d0b79254d9216fd0335d96d3167a227449c854f497cd42a1e81494",
+    "quiz/year-4/math/ac9m4sp03/worksheet/index.html": "e06e2149a2e11e56d9eee3864f0978f5d1ca3c868778bd190e0219973236c39e",
+    "quiz/year-4/math/ac9m4st01/worksheet/index.html": "a3352c98c56f2f4e81ae0f3138f1c4fd49db1954908f1faa9c410c613bb0719b",
+    "quiz/year-4/math/ac9m4st02/worksheet/index.html": "240573b60f1ecf65aaa3d04f06181c2b251da41e0a192dfbc3fa1b807b482e72",
+    "quiz/year-4/math/ac9m4st03/worksheet/index.html": "705b3f805576c40a629389f69ce729f87467bfe2056171253892351e271806b3"
+  },
+  "old_renderer_sha256": "1e63117e393d9ad92eaeacf2dbcc341866b11df07c321fa37b01ecc07393c237",
+  "harness_sha256": "8f11c9375a2ba41dcb4c10d1464697e4a8679e59b79d086c8c931e0111604c3a",
+  "limits": [
+    "Full PWA top-navigation/serviceworker flow was not executed; only its actualscript-loading deduplication function. PWA source unchanged bythisfix.",
+    "PDFexport itself previously independentlyinspected; thisregression checksbuttonidentity/preservation, notanotherPDFexport.",
+    "Network loading/250msfallbacktimer simulated; no browser orproductionstate changed."
+  ],
+  "independentReviewQualification": "Earlierstaticworksheet/PDFchecks didnotexecutelatelegacyPWAworksheetreplacement; livebrowserfoundthisrealdefect. ThisreportqualifiesearlierintegrationPASS.",
+  "visualGuardRerun": {
+    "report": "YEAR4-AUTHORED-VISUAL-LAYER-REGRESSION.json",
+    "status": "PASS after final explicitvisualhelper loads; sourcebank/teachingcontent unchanged."
+  }
+}

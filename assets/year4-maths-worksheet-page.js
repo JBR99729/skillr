@@ -3,6 +3,8 @@
 
   const match = location.pathname.match(/^\/quiz\/year-4\/math\/(ac9m4[a-z0-9]+)\/worksheet\/?$/i);
   if (!match) return;
+  // Reviewed homework is already complete HTML with its own PDF question bank.
+  if (document.body?.getAttribute("data-skillr-authored-worksheet") === "true") return;
   const code = match[1].toUpperCase();
   const unit = window.SkillrYear4MathsData?.[code];
   const worksheet = window.SkillrYear4MathsWorksheetData?.[code];

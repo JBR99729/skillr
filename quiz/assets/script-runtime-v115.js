@@ -387,11 +387,7 @@ document.addEventListener("DOMContentLoaded", () => {
         teacherSlideSummary.textContent;
     }
 
-    // Keep the reviewed Year 4 worked model; only legacy preparation is removed.
-    const keepAuthoredYear4Preparation =
-      /^\/quiz\/year-4\/math\/ac9m4[a-z0-9]+\/practice\/(?:index\.html)?$/i.test(window.location.pathname) &&
-      preparationNotes?.getAttribute("data-skillr-authored-preparation") === "true";
-    if (!keepAuthoredYear4Preparation) preparationNotes?.remove();
+    preparationNotes?.remove();
   }
 
   const passMarkLabel =
