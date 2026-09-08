@@ -1,0 +1,7 @@
+# AC9E4LA07 primary matching gap and supplementary handoff
+
+Observed8 September2026UTC/9SeptemberSydney. Root alone actual AU v9Year4 IXL plan in tab64; codeLA07 has no linked skill. Targeted public IXL direct/indirect-speech search returned no suitableAU candidate. This establishes a directplan/matching gap only, not globalabsence; no direct/reported IXL exercise/help/progression reviewed. No access/CAPTCHA blocker exists. Do NOT call catalogue absence a completed exercise review. Proceed transparently under repository no-suitable-match rule; IXL remains required first benchmark, not silently replaced.
+
+Officialdescriptor/sole E1 exactverifiedOFFICIAL-FIRST-TEN; preserveNEXT-SIX-AUDIT currentusefulspeaker/reportingmodels. Supplement actuallyread BritishCouncilTeens Reportedspeech transcript+explanation and NESAglossary, scopedinLA07-LA12-SUPPLEMENTS.md. These teacherbackgroundsourcesmodel exactquotationvsmeaning report, contextdependentpronoun/time/tense changes. No newKhanreview, no video/audio/exerciseplayback.
+
+Draftactualfictionalutterances with speaker/listener/reportingmoment, preservecertainty and attribution, comparewhyexactwordingorconcisesummarysuitspurpose. No universalbackshift/tomorrowchange; providedcontextmust determineany singlekey. Requireoriginalspoken/written direct/reportedforms plusreason. Detailed punctuationLA12supports butmustnotreplaceLA07function/context. Independent all64/all8HW/TopicClassroom/PDF/runtime gates remain mandatory; benchmarkgap explicitinfinalreport.

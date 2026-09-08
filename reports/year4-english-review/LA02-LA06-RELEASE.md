@@ -1,0 +1,9 @@
+# LA02–LA06 approved candidate release record
+
+9 September2026Sydney. Fivecodes each48Practice+16Test, eightdistinctHW, staticTopic/Classroom andauthoredactivitysupport. All320finalquestions/40HW/allteaching/threeLA05SVGs independentlyreviewed with corrections/rechecks. EachactualproductionPDF pair5+5pages independentlyvisualPASS (50pages acrossfivecodes), exacthashes incodePDFreports. Currentmain-compatible239assessmentcases+341guardchecks andcompanion-loaded239cases/10observerflows PASS independently recorded LATEST-MAIN-COMPATIBILITY.md. Noauthor selfapproval.
+
+Main005304 wasmergedpreservingcompanions/crawlchanges; nextmain5ae66bf18b4339a0e9e53882a81f7638bdc12fa4 mergedpreservingbothllmstext additions. Complete localintegrity18710→18748passed beforelatestnotes. Remote draftdf7fd15c06095e88434a58ff383140ce7f82db32 based oncomplete5ae66tree ae7a8f5149ae0b246550375bf53a0f6fffdd2484; fullrecursiveAPIcomparison (nottruncated)18710→18750, zero deletedfiles,130intendedpaths only, CNAMEunchanged. This draftcheckpoint preservesallresources; it isnotmainpublication.
+
+Review-awarepublisher --reviewed runforLA02–06 only, ledger6/28English, badgeOFF; --checkCURRENT. Approvedcanonical/published/HTML bytesunchanged bythisfinalpublisher; onlyledger fivecodeentries added. Latestindependentreporthashes remainauthority. Root must publishcompletecandidate againstfreshmain, checkCI, expected-headnonforcedmerge, Pages, livehomepageandaffectedpractice/resourceflow. None ofthosependingreleasegates isclaimedcompletedhere.
+
+LA07–12 newuserpriority ispreparation/draftingseparately. DoNOTincludeunapprovednextsix resourcefiles or recordtheirledgerentries. Theirreports/sourcebriefs maytravelascheckpointdocumentation. LA01freshlivewrittenresponsependingflowalreadyobserved; actualbrowserPDFdownloadeventtimeoutremainsunconfirmed, SciencePDFissuealsoseparatelyunresolved.

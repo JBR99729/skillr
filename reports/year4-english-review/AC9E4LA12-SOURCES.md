@@ -1,0 +1,7 @@
+# AC9E4LA12 primary matching gap and supplementary handoff
+
+Observed8 September2026UTC/9SeptemberSydney. Root aloneactual AU v9Year4 IXLplan tab64; LA12 has no linkedskill. TargetedpublicAU IXLpunctuatingdialogue search supplied no suitablecandidate. This is a directmapping/matchinggap notproofglobalabsence. No quotation-punctuation IXL exercise/help/progression reviewed. Noaccess/CAPTCHAblocker. ProceedunderAGENTS no-suitable-match rule with explicitlimitation, neverclaimcompletedIXLlesson.
+
+Exact officialdescriptor+bothE1/E2 independentlyverifiedNEXT-SIX-AUDIT.md fromhashmatchingACARAv9JSONLD. ActualsupplementStyleManualQuotationmarks (19March2025) explanations/workedforms scopeinLA07-LA12-SUPPLEMENTS.md. KhanCommasindialogue readerDisabledError, notinspected. Government singlequotes house style isnotuniversalgrammar; preserveconsistentcurrentSkillrHubmodel and specifyconvention where neededforkeys.
+
+PreserveMina model and recoverlegacytag-before/after/splitdialogue table. Actualread/edit/composeoriginaldialogue with quotationpairs, capitals, commas, fullstop/question/exclamation boundaries andnew-speakerparagraphs. Actionbeat isdifferentfromspeech tag; no extracommaafterquestion/exclamation. Screenlinewrapnotnewspeaker. Do notofferbothvalidsingle/doublequotescompetingasonecorrectanswer. Realownwriting E2mandatoryadultreview notselectedrecognitiononly. No newrenderer; all64/eightHW/teaching andactualPDFpages needindependentreview/runtime/release gates. Sourcegapmustremainexplicit.
