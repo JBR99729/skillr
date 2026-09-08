@@ -1,0 +1,7 @@
+# AC9E4LA09 actual source brief
+
+Observed8 September2026 UTC /9 SeptemberSydney. Root alone AU IXL tab64, Parent results not recorded. Exact official descriptor/both elaborations reused OFFICIAL-FIRST-TEN.md; preservation NEXT-SIX-AUDIT.md. Sources are not final resource approval.
+
+Primary https://au.ixl.com/english/year-4/is-the-sentence-in-the-past-present-or-future-tense II.11/QFW: actual AU v9 plan link, full opened worked help with past/present/future table and will+verb solution. Read regular/irregular past and be/have present discussion. Actual three-radio future-growth sentence correct1/SmartScore10; present learns sentence deliberately wrongpast2/9, full correction identified actual verb ending and current/general meaning. No complete adaptive progression/mastery/audio playback or text-type activity observed.
+
+Do NOT inherit help's blanket 'all future-tense verbs use will' as a rule about expressing future time. Preserve existing future arrangement model when time context is explicit; present also expresses habits/general facts, not only happening right now. Inflection alone is insufficient where full verb group/context matters. Official E1 text-type tense tendencies and E2 actual reading require original short reports/recounts/plans, real verb annotation/editing/composition, not only labelling isolated sentences. Support common irregularpast and justifiedtimechanges; no forced singletense in alltexts. Relevant actual BritishCouncil/NSW supplementary evidence in LA07-LA12-SUPPLEMENTS.md; Khan attemptedpages unavailable and not reviewed.

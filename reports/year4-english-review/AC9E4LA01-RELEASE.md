@@ -30,3 +30,12 @@ The existing scheduled continuation was paused after this non-transient scope bl
 Latest-main refresh: `cec61bbafcfa350fa3ca629033bf61eea408be36`, complete tree `82123dccdfb3692a6e8cd123eeff551833c81d1b`, is now merged and its later revision-card map changes preserved. Independent final six-case compatibility PASS is appended to `LA01-RUNTIME-INDEPENDENT.md`; unrelated map contents are not claimed as reviewed by this English release. The final candidate includes this release report, so its file count is 18,696 against latest-main 18,675, with zero deletions.
 
 Save the complete candidate tree to the existing non-forced branch, verify expected head and latest main, pass required CI, merge through the normal PR workflow, verify Pages, then exercise live homepage and LA01 Topic → Classroom → Worksheet → Practice → Test journey. Record actual live observations, including any download-event limitation without treating a timeout as success. Only then mark release complete and advance to LA02's first unreviewed primary-source interaction in the existing single IXL tab.
+
+
+## Fresh release evidence — 9 September2026 Sydney
+
+PR827 was merged at f3446910b7bf48504d803a080543ed289c92599b after9PRchecks; all10 observed main workflows and Pages34245632128 succeeded (recorded priorrelease evidence). Historical openPR statements above are superseded.
+
+Root fresh live verification in separate SkillrHub tab69: homepage; authored LA01 Topic; linked static Classroom with same lesson goal; linked Worksheet showing all8 tasks/adult guidance; Openpractice preparation retained; Startpractice showed genuine written comparison task. Save was disabled until actual typed response and completion selection, then saving showed pendingadult/model and score0, Next enabled. New unrelated main mascot changes were present and preserved. Local independent55case runtime covers full save/mark/revise/results flows; this fresh browser observation did not finish a full5question attempt/Test.
+
+Worksheet DownloadPDF button clicked and awaited actual download event15seconds; timedout. This is not confirmed download success. A preceding transport error did not execute the first attempt; only one subsequent event wait ran. Science separate livePDF issue also remains open. No false full live certification.

@@ -41,9 +41,12 @@ for (const file of [worksheet, quick, visual]) {
   const modes = file === worksheet ? ['worksheet'] : file === quick ? ['practice', 'test'] : ['practice', 'test', 'worksheet'];
   for (const mode of modes) {
     for (const trailing of ['', '/']) {
-      guardCase(file, `/quiz/year-4/english/ac9e4la01/${mode}${trailing}`, true, true);
+      for (const code of ['ac9e4la01','ac9e4la02','ac9e4la03','ac9e4la04','ac9e4la05','ac9e4la06']) {
+        guardCase(file, `/quiz/year-4/english/${code}/${mode}${trailing}`, true, true);
+        guardCase(file, `/quiz/year-4/english/${code}/${mode}${trailing}`, false, false);
+      }
       guardCase(file, `/quiz/year-4/english/ac9e4la01/${mode}${trailing}`, false, false);
-      guardCase(file, `/quiz/year-4/english/ac9e4la02/${mode}${trailing}`, true, false);
+      guardCase(file, `/quiz/year-4/english/ac9e4la07/${mode}${trailing}`, true, false);
       guardCase(file, `/quiz/year-4/english/ac9e4la10/${mode}${trailing}`, true, false);
       guardCase(file, `/quiz/year-4/english/ac9e4le01/${mode}${trailing}`, true, false);
       guardCase(file, `/quiz/year-4/science/ac9s4i01/${mode}${trailing}`, true, true);
@@ -60,7 +63,7 @@ guardCase(visual, '/quiz/year-4/math/ac9m4n06/practice/', false, false);
 const runtime = read('quiz/assets/script-runtime-v115.js');
 const cleanup = runtime.match(/const preparationNotes\s*=\s*document\.querySelector\("\.pre-read-notes"\);[\s\S]*?preparationNotes\?\.remove\(\);/)?.[0];
 assert(cleanup, 'Production Practice cleanup block must be explicitly retested if changed.');
-for (const mode of ['practice', 'test']) {
+for (const code of ['ac9e4la01','ac9e4la02','ac9e4la03','ac9e4la04','ac9e4la05','ac9e4la06']) for (const mode of ['practice', 'test']) {
   for (const suffix of ['', '/', '/index.html']) for (const withSummary of [true, false]) {
     const listeners = [];
     const summary = {kind: 'summary'};
@@ -85,7 +88,7 @@ for (const mode of ['practice', 'test']) {
         listeners.push(callback);
       }
     };
-    const context = vm.createContext({document, location: {pathname: `/quiz/year-4/english/ac9e4la01/${mode}${suffix}`}, config: {bankVersion: 'qa'}});
+    const context = vm.createContext({document, location: {pathname: `/quiz/year-4/english/${code}/${mode}${suffix}`}, config: {bankVersion: 'qa'}});
     if (mode === 'practice') listeners.push(() => vm.runInContext(cleanup, context));
     vm.runInContext(read(retention), context);
     // A duplicate utility inclusion must still preserve the same node once.
@@ -100,11 +103,11 @@ for (const mode of ['practice', 'test']) {
   }
 }
 for (const route of [
-  '/quiz/year-4/english/ac9e4la02/practice/',
+  '/quiz/year-4/english/ac9e4la07/practice/',
   '/quiz/year-4/english/ac9e4la01/worksheet/',
   '/quiz/year-4/science/ac9s4i01/practice/',
-  '/quiz/year-4/english/ac9e4la02/practice/index.html',
-  '/quiz/year-4/english/ac9e4la02/test/index.html',
+  '/quiz/year-4/english/ac9e4la07/practice/index.html',
+  '/quiz/year-4/english/ac9e4la07/test/index.html',
   '/quiz/year-4/english/ac9e4la01/worksheet/index.html',
   '/quiz/year-4/science/ac9s4i01/practice/index.html',
   '/quiz/year-4/english/ac9e4la01/practice/review/index.html',
@@ -134,16 +137,20 @@ function allowance(code, {marked = true, itemCode = code, id = `${code.toLowerCa
   });
   checks++; return result;
 }
-assert.equal(allowance('AC9E4LA01'), 46);
+for (const code of ['AC9E4LA01','AC9E4LA02','AC9E4LA03','AC9E4LA04','AC9E4LA05','AC9E4LA06']) {
+  assert.equal(allowance(code), 46);
+  assert.equal(allowance(code, {marked: false}), 28);
+  assert.equal(allowance(code, {id: `${code.toLowerCase()}-p-001`}), 28);
+}
 assert.equal(allowance('AC9E4LA01', {marked: false}), 28);
 assert.equal(allowance('AC9E4LA01', {itemCode: 'AC9E4LA02'}), 28);
 assert.equal(allowance('AC9E4LA01', {id: 'ac9e4la01-p-001'}), 28);
 assert.equal(allowance('AC9E4LA01', {id: 'ac9e4la01-w-1'}), 28);
 assert.equal(allowance('AC9E4LA01', {type: 'single'}), 28);
-for (const code of ['AC9E4LA02', 'AC9E4LA10', 'AC9E4LE01', 'AC9E4LY01']) assert.equal(allowance(code), 28);
+for (const code of ['AC9E4LA07', 'AC9E4LA10', 'AC9E4LE01', 'AC9E4LY01']) assert.equal(allowance(code), 28);
 for (const code of ['AC9S4U01', 'AC9S4H02', 'AC9S4I01', 'AC9S4I06', 'AC9M4N06', 'AC9M4P02']) {
   assert.equal(allowance(code), 46);
   assert.equal(allowance(code, {marked: false}), 46);
 }
 
-console.log(JSON.stringify({status: 'PASS', checks, scope: 'LA01-only authored guards, legacy control paths, actual runtime cleanup/node retention, production PDF workspace allocation; no browser or PDF render claim'}, null, 2));
+console.log(JSON.stringify({status: 'PASS', checks, scope: 'LA01–LA06 marked authored guards, legacy control paths, actual runtime cleanup/node retention, production PDF workspace allocation; no browser or PDF render claim'}, null, 2));

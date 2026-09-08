@@ -22,9 +22,9 @@
       (document.querySelector('[data-skillr-authored-preparation="true"]') ||
        document.body?.getAttribute("data-skillr-authored-worksheet") === "true")) return;
 
-  // Only the authored AC9E4LA01 activity resources replace their legacy models.
+  // Only the authored AC9E4LA01–LA06 activity resources replace their legacy models.
   if (quizMatch?.[1]?.toLowerCase() === "year-4" && quizMatch[2].toLowerCase() === "english" &&
-      /^ac9e4la01$/i.test(quizMatch[3]) &&
+      /^ac9e4la0[1-6]$/i.test(quizMatch[3]) &&
       (document.querySelector('[data-skillr-authored-preparation="true"]') ||
        document.body?.getAttribute("data-skillr-authored-worksheet") === "true")) return;
 

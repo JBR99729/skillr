@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "In explaining why the class stayed inside at lunch, which option best demonstrates the skill?",
-    "audio_prompt": "In explaining why the class stayed inside at lunch, which option best demonstrates the skill?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “Because the grass was wet, we used the hall.” Which is the independent clause?",
+    "audio_prompt": "Read: “Because the grass was wet, we used the hall.” Which is the independent clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the rain was heavy.",
-        "is_correct": false
-      },
-      {
-        "text": "The class stayed inside and the rain.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the rain was heavy, the class stayed inside.",
+        "text": "we used the hall",
         "is_correct": true
+      },
+      {
+        "text": "Because the grass was wet",
+        "is_correct": false
+      },
+      {
+        "text": "the grass",
+        "is_correct": false
+      },
+      {
+        "text": "Because the grass was wet, we",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Because the rain was heavy cannot stand alone here, so it depends on the complete clause the class stayed inside.",
-      "hint": "Find the part that can stand alone as a complete message."
-    }
+      "summary": "“We used the hall” expresses a complete main idea. The because-clause gives its reason.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA06-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which choice fits explaining why the class stayed inside at lunch most accurately?",
-    "audio_prompt": "Which choice fits explaining why the class stayed inside at lunch most accurately?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “We packed the telescope before the clouds arrived.” Which is the whole dependent clause?",
+    "audio_prompt": "Read: “We packed the telescope before the clouds arrived.” Which is the whole dependent clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the rain was heavy, the class stayed inside.",
+        "text": "We packed the telescope",
+        "is_correct": false
+      },
+      {
+        "text": "before the clouds arrived",
         "is_correct": true
       },
       {
-        "text": "Because the rain was heavy.",
+        "text": "before the clouds",
         "is_correct": false
       },
       {
-        "text": "The class stayed inside and the rain.",
+        "text": "the telescope before",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Because the rain was heavy cannot stand alone here, so it depends on the complete clause the class stayed inside.",
-      "hint": "Find the part that can stand alone as a complete message."
-    }
+      "summary": "“Before the clouds arrived” has a verb and tells when, but depends on the main clause.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA06-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which choice fits showing time in a sentence about a kookaburra most accurately?",
-    "audio_prompt": "Which choice fits showing time in a sentence about a kookaburra most accurately?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which group could stand as a complete sentence without adding words?",
+    "audio_prompt": "Which group could stand as a complete sentence without adding words?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "When the sun rose.",
+        "text": "Although the bell rang.",
         "is_correct": false
       },
       {
-        "text": "When the sun rose, the kookaburra called from the fence.",
+        "text": "When the bell rang.",
+        "is_correct": false
+      },
+      {
+        "text": "The bell rang.",
         "is_correct": true
       },
       {
-        "text": "The kookaburra called and when.",
+        "text": "Because the bell rang.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "When introduces a dependent time clause that tells when the main event happened.",
-      "hint": "Ask what relationship the joining word creates."
-    }
+      "summary": "The other groups introduce a relationship but leave the main idea unfinished.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA06-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Look closely at showing time in a sentence about a kookaburra. Which response or wording works best?",
-    "audio_prompt": "Look closely at showing time in a sentence about a kookaburra. Which response or wording works best?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which sentence is complex?",
+    "audio_prompt": "Which sentence is complex?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "When the sun rose.",
+        "text": "The excited children waved from the long wooden jetty.",
         "is_correct": false
       },
       {
-        "text": "The kookaburra called and when.",
+        "text": "The children waved and the captain smiled.",
         "is_correct": false
       },
       {
-        "text": "When the sun rose, the kookaburra called from the fence.",
+        "text": "When the ferry left.",
+        "is_correct": false
+      },
+      {
+        "text": "The children waved when the ferry left.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "When introduces a dependent time clause that tells when the main event happened.",
-      "hint": "Ask what relationship the joining word creates."
-    }
+      "summary": "“The children waved” is independent; “when the ferry left” is dependent. Length alone does not decide sentence type.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA06-P-005",
@@ -126,28 +178,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Look closely at showing a condition for going to the beach. Which response or wording works best?",
-    "audio_prompt": "Look closely at showing a condition for going to the beach. Which response or wording works best?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The blue kite with its long silver tail rose above the oval.” Why is this still a simple sentence?",
+    "audio_prompt": "Read: “The blue kite with its long silver tail rose above the oval.” Why is this still a simple sentence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We will swim if the flags show it is safe.",
+        "text": "It has one clause; the added description does not add another clause.",
         "is_correct": true
       },
       {
-        "text": "We will swim because the flags show it is safe, even when they do not.",
+        "text": "It has several describing words, so it must have several clauses.",
         "is_correct": false
       },
       {
-        "text": "If the flags show it is safe.",
+        "text": "It has a subject, so it cannot contain a dependent clause.",
+        "is_correct": false
+      },
+      {
+        "text": "The words “with its long silver tail” contain a second verb.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "If introduces the condition that must be met for the swimming plan.",
-      "hint": "Look for a condition rather than a cause or time."
-    }
+      "summary": "There is one main verb group, “rose”. The tail description is a phrase, not a second clause.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA06-P-006",
@@ -156,28 +221,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "For showing a condition for going to the beach, which option is the strongest match?",
-    "audio_prompt": "For showing a condition for going to the beach, which option is the strongest match?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “Although the puzzle was tricky, Anika finished it.” What does although connect?",
+    "audio_prompt": "Read: “Although the puzzle was tricky, Anika finished it.” What does although connect?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We will swim because the flags show it is safe, even when they do not.",
+        "text": "A cause and its expected result.",
         "is_correct": false
       },
       {
-        "text": "We will swim if the flags show it is safe.",
+        "text": "A difficulty and a result that happened despite it.",
         "is_correct": true
       },
       {
-        "text": "If the flags show it is safe.",
+        "text": "Two events that must happen in time order.",
+        "is_correct": false
+      },
+      {
+        "text": "A condition that has not happened yet.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "If introduces the condition that must be met for the swimming plan.",
-      "hint": "Look for a condition rather than a cause or time."
-    }
+      "summary": "Finishing happened despite the difficulty; although signals this contrast.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA06-P-007",
@@ -186,28 +264,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "For showing cause in a sentence about a cancelled game, which option is the strongest match?",
-    "audio_prompt": "For showing cause in a sentence about a cancelled game, which option is the strongest match?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "The lights failed, so the performance stopped. Which complex sentence keeps that cause and result?",
+    "audio_prompt": "The lights failed, so the performance stopped. Which complex sentence keeps that cause and result?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The match was cancelled although lightning caused the danger.",
+        "text": "The lights failed because the performance stopped.",
         "is_correct": false
       },
       {
-        "text": "Because lightning was nearby.",
+        "text": "The performance stopped before the lights failed.",
         "is_correct": false
       },
       {
-        "text": "The match was cancelled because lightning was nearby.",
+        "text": "The performance stopped because the lights failed.",
         "is_correct": true
+      },
+      {
+        "text": "Although the lights failed, the performance continued.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Because connects the result to its cause while the independent clause can stand alone.",
-      "hint": "Identify which idea explains why the other happened."
-    }
+      "summary": "The failed lights are the reason; stopping is the result. Reversing them changes the explanation.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA06-P-008",
@@ -216,28 +307,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which example should you choose for showing cause in a sentence about a cancelled game?",
-    "audio_prompt": "Which example should you choose for showing cause in a sentence about a cancelled game?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “If the court is dry, we can play netball.” What does the dependent clause give?",
+    "audio_prompt": "Read: “If the court is dry, we can play netball.” What does the dependent clause give?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The match was cancelled because lightning was nearby.",
+        "text": "Proof that the court is already dry.",
+        "is_correct": false
+      },
+      {
+        "text": "The reason the court became dry.",
+        "is_correct": false
+      },
+      {
+        "text": "The time when netball ended.",
+        "is_correct": false
+      },
+      {
+        "text": "A condition for playing.",
         "is_correct": true
-      },
-      {
-        "text": "The match was cancelled although lightning caused the danger.",
-        "is_correct": false
-      },
-      {
-        "text": "Because lightning was nearby.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Because connects the result to its cause while the independent clause can stand alone.",
-      "hint": "Identify which idea explains why the other happened."
-    }
+      "summary": "If gives a condition; the sentence does not say that the condition has already been met.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA06-P-009",
@@ -246,28 +350,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which example should you choose for adding contrast to a sentence about a bushwalk?",
-    "audio_prompt": "Which example should you choose for adding contrast to a sentence about a bushwalk?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which is a dependent clause, rather than a phrase?",
+    "audio_prompt": "Which is a dependent clause, rather than a phrase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the track was steep, the group reached the lookout.",
-        "is_correct": false
-      },
-      {
-        "text": "Although the track was steep, the group reached the lookout.",
+        "text": "after the teacher arrived",
         "is_correct": true
       },
       {
-        "text": "Although the track was steep.",
+        "text": "after lunch",
+        "is_correct": false
+      },
+      {
+        "text": "beside the teacher",
+        "is_correct": false
+      },
+      {
+        "text": "the late teacher",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Although shows an unexpected contrast between the steep track and the successful climb.",
-      "hint": "Test whether the ideas show cause, time, condition or contrast."
-    }
+      "summary": "“The teacher arrived” contains a subject and verb; after makes this a dependent time clause. “After lunch” has no verb.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA06-P-010",
@@ -276,28 +393,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "In adding contrast to a sentence about a bushwalk, which option best demonstrates the skill?",
-    "audio_prompt": "In adding contrast to a sentence about a bushwalk, which option best demonstrates the skill?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The puppy that has a white paw is asleep.” What does “that has a white paw” describe?",
+    "audio_prompt": "Read: “The puppy that has a white paw is asleep.” What does “that has a white paw” describe?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the track was steep, the group reached the lookout.",
+        "text": "the paw",
         "is_correct": false
       },
       {
-        "text": "Although the track was steep.",
-        "is_correct": false
-      },
-      {
-        "text": "Although the track was steep, the group reached the lookout.",
+        "text": "the puppy",
         "is_correct": true
+      },
+      {
+        "text": "sleep",
+        "is_correct": false
+      },
+      {
+        "text": "the colour white",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Although shows an unexpected contrast between the steep track and the successful climb.",
-      "hint": "Test whether the ideas show cause, time, condition or contrast."
-    }
+      "summary": "The adjectival clause tells which puppy. The main clause is “The puppy is asleep”.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA06-P-011",
@@ -305,29 +435,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Why does “Because the rain was heavy, the class stayed inside.” work well for explaining why the class stayed inside at lunch?",
-    "audio_prompt": "Why does “Because the rain was heavy, the class stayed inside.” work well for explaining why the class stayed inside at lunch?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The librarian who runs the book club knows our names.” Which words form the adjectival clause?",
+    "audio_prompt": "Read: “The librarian who runs the book club knows our names.” Which words form the adjectival clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the rain was heavy cannot stand alone here, so it depends on the complete clause the class stayed inside.",
+        "text": "The librarian",
+        "is_correct": false
+      },
+      {
+        "text": "knows our names",
+        "is_correct": false
+      },
+      {
+        "text": "who runs the book club",
         "is_correct": true
       },
       {
-        "text": "Because “Because the rain was heavy.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "the book club knows",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Because the rain was heavy cannot stand alone here, so it depends on the complete clause the class stayed inside.",
-      "hint": "Find the part that can stand alone as a complete message."
-    }
+      "summary": "The who-clause describes the librarian; it is not a complete stand-alone sentence.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA06-P-012",
@@ -335,29 +478,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "What makes “Because the rain was heavy, the class stayed inside.” a better choice in explaining why the class stayed inside at lunch?",
-    "audio_prompt": "What makes “Because the rain was heavy, the class stayed inside.” a better choice in explaining why the class stayed inside at lunch?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which sentence describes the basket using a dependent clause?",
+    "audio_prompt": "Which sentence describes the basket using a dependent clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Because the rain was heavy.” is always acceptable in this situation.",
+        "text": "The heavy paint basket is under the table.",
         "is_correct": false
       },
       {
-        "text": "Because the rain was heavy cannot stand alone here, so it depends on the complete clause the class stayed inside.",
+        "text": "Our paints are in a basket under the table.",
+        "is_correct": false
+      },
+      {
+        "text": "The basket is heavy and it holds our paints.",
+        "is_correct": false
+      },
+      {
+        "text": "The basket that holds our paints is under the table.",
         "is_correct": true
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Because the rain was heavy cannot stand alone here, so it depends on the complete clause the class stayed inside.",
-      "hint": "Find the part that can stand alone as a complete message."
-    }
+      "summary": "“That holds our paints” is a clause describing basket. Adjectives and phrases can describe too, but they are not adjectival clauses.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA06-P-013",
@@ -365,29 +521,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "What makes “When the sun rose, the kookaburra called from the fence.” a better choice in showing time in a sentence about a kookaburra?",
-    "audio_prompt": "What makes “When the sun rose, the kookaburra called from the fence.” a better choice in showing time in a sentence about a kookaburra?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Two ideas: “The bridge is closed. The bridge crosses the creek.” Which sentence combines them with an adjectival clause?",
+    "audio_prompt": "Two ideas: “The bridge is closed. The bridge crosses the creek.” Which sentence combines them with an adjectival clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “When the sun rose.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "When introduces a dependent time clause that tells when the main event happened.",
+        "text": "The bridge that crosses the creek is closed.",
         "is_correct": true
+      },
+      {
+        "text": "The creek that crosses the bridge is closed.",
+        "is_correct": false
+      },
+      {
+        "text": "The bridge is closed because the creek is closed.",
+        "is_correct": false
+      },
+      {
+        "text": "The bridge crosses the creek and the bridge is closed.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "When introduces a dependent time clause that tells when the main event happened.",
-      "hint": "Ask what relationship the joining word creates."
-    }
+      "summary": "The that-clause describes bridge and keeps both supplied ideas. The and-version combines two independent clauses instead.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA06-P-014",
@@ -395,29 +564,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which explanation best justifies “When the sun rose, the kookaburra called from the fence.” for showing time in a sentence about a kookaburra?",
-    "audio_prompt": "Which explanation best justifies “When the sun rose, the kookaburra called from the fence.” for showing time in a sentence about a kookaburra?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The actor who wore the green hat bowed.” Which main clause remains if the describing clause is removed?",
+    "audio_prompt": "Read: “The actor who wore the green hat bowed.” Which main clause remains if the describing clause is removed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "When introduces a dependent time clause that tells when the main event happened.",
+        "text": "The actor wore the green hat.",
+        "is_correct": false
+      },
+      {
+        "text": "The actor bowed.",
         "is_correct": true
       },
       {
-        "text": "Because “When the sun rose.” is always acceptable in this situation.",
+        "text": "Who wore the green hat.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The green hat bowed.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "When introduces a dependent time clause that tells when the main event happened.",
-      "hint": "Ask what relationship the joining word creates."
-    }
+      "summary": "Remove only “who wore the green hat”; actor remains the subject of bowed.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA06-P-015",
@@ -425,29 +607,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which explanation best justifies “We will swim if the flags show it is safe.” for showing a condition for going to the beach?",
-    "audio_prompt": "Which explanation best justifies “We will swim if the flags show it is safe.” for showing a condition for going to the beach?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The tent which has a torn door belongs to our club.” What information does the adjectival clause add?",
+    "audio_prompt": "Read: “The tent which has a torn door belongs to our club.” What information does the adjectival clause add?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “We will swim because the flags show it is safe, even when they do not.” is always acceptable in this situation.",
+        "text": "It explains why the club formed.",
         "is_correct": false
       },
       {
-        "text": "If introduces the condition that must be met for the swimming plan.",
+        "text": "It tells when the tent was bought.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the tent by describing its door.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "It says that every club tent is torn.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "If introduces the condition that must be met for the swimming plan.",
-      "hint": "Look for a condition rather than a cause or time."
-    }
+      "summary": "The which-clause describes the tent; it does not give a date or explain the club.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA06-P-016",
@@ -455,29 +650,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "What should you notice about “We will swim if the flags show it is safe.” in showing a condition for going to the beach?",
-    "audio_prompt": "What should you notice about “We will swim if the flags show it is safe.” in showing a condition for going to the beach?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "You need to identify one of several maps. Which description uses a clause to pick out the map?",
+    "audio_prompt": "You need to identify one of several maps. Which description uses a clause to pick out the map?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “We will swim because the flags show it is safe, even when they do not.” is always acceptable in this situation.",
+        "text": "the large colourful map",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "the map on the desk",
         "is_correct": false
       },
       {
-        "text": "If introduces the condition that must be met for the swimming plan.",
+        "text": "the folded paper map",
+        "is_correct": false
+      },
+      {
+        "text": "the map that shows the walking track",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "If introduces the condition that must be met for the swimming plan.",
-      "hint": "Look for a condition rather than a cause or time."
-    }
+      "summary": "“That shows the walking track” is a describing clause with a verb, shows. The others describe using words or phrases.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LA06-P-017",
@@ -485,29 +693,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "What should you notice about “The match was cancelled because lightning was nearby.” in showing cause in a sentence about a cancelled game?",
-    "audio_prompt": "What should you notice about “The match was cancelled because lightning was nearby.” in showing cause in a sentence about a cancelled game?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The child who found the key handed it to an adult.” Which statement is correct?",
+    "audio_prompt": "Read: “The child who found the key handed it to an adult.” Which statement is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because connects the result to its cause while the independent clause can stand alone.",
+        "text": "The child found the key and handed it to an adult.",
         "is_correct": true
       },
       {
-        "text": "Because “The match was cancelled although lightning caused the danger.” is always acceptable in this situation.",
+        "text": "The adult found the key.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The child and the adult each found a key.",
+        "is_correct": false
+      },
+      {
+        "text": "The child saw the adult find the key.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Because connects the result to its cause while the independent clause can stand alone.",
-      "hint": "Identify which idea explains why the other happened."
-    }
+      "summary": "The relative clause describes child, the person who found the key; the main clause tells what the child did next.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LA06-P-018",
@@ -515,29 +736,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which reason explains why “The match was cancelled because lightning was nearby.” suits showing cause in a sentence about a cancelled game?",
-    "audio_prompt": "Which reason explains why “The match was cancelled because lightning was nearby.” suits showing cause in a sentence about a cancelled game?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "“The bird that built a nest.” is being used as a whole sentence. Which revision completes the main idea while keeping that description?",
+    "audio_prompt": "“The bird that built a nest.” is being used as a whole sentence. Which revision completes the main idea while keeping that description?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The match was cancelled although lightning caused the danger.” is always acceptable in this situation.",
+        "text": "The bird that built a large nest.",
         "is_correct": false
       },
       {
-        "text": "Because connects the result to its cause while the independent clause can stand alone.",
+        "text": "The bird that built a nest returned.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The little bird that built a nest.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the bird that built a nest.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Because connects the result to its cause while the independent clause can stand alone.",
-      "hint": "Identify which idea explains why the other happened."
-    }
+      "summary": "Returned supplies the main-clause verb. Adding more description leaves the original fragment unfinished.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LA06-P-019",
@@ -545,29 +779,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which reason explains why “Although the track was steep, the group reached the lookout.” suits adding contrast to a sentence about a bushwalk?",
-    "audio_prompt": "Which reason explains why “Although the track was steep, the group reached the lookout.” suits adding contrast to a sentence about a bushwalk?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which complete complex sentence gives a reason?",
+    "audio_prompt": "Which complete complex sentence gives a reason?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Because the track was steep, the group reached the lookout.” is always acceptable in this situation.",
+        "text": "We watered the seedlings before lunch.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The soil was dry and we watered the seedlings.",
         "is_correct": false
       },
       {
-        "text": "Although shows an unexpected contrast between the steep track and the successful climb.",
+        "text": "We watered the seedlings because the soil was dry.",
         "is_correct": true
+      },
+      {
+        "text": "Because the soil beside the seedlings was dry.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Although shows an unexpected contrast between the steep track and the successful climb.",
-      "hint": "Test whether the ideas show cause, time, condition or contrast."
-    }
+      "summary": "The because-clause gives a reason and is joined to the complete main clause. Before lunch is only a phrase.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LA06-P-020",
@@ -575,29 +822,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Why does “Although the track was steep, the group reached the lookout.” work well for adding contrast to a sentence about a bushwalk?",
-    "audio_prompt": "Why does “Although the track was steep, the group reached the lookout.” work well for adding contrast to a sentence about a bushwalk?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "The guide spoke first; then the group entered the cave. Which sentence keeps that order?",
+    "audio_prompt": "The guide spoke first; then the group entered the cave. Which sentence keeps that order?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Although shows an unexpected contrast between the steep track and the successful climb.",
+        "text": "Before the guide spoke, the group entered the cave.",
+        "is_correct": false
+      },
+      {
+        "text": "The guide spoke after the group entered the cave.",
+        "is_correct": false
+      },
+      {
+        "text": "While the guide spoke, the group entered the cave.",
+        "is_correct": false
+      },
+      {
+        "text": "After the guide spoke, the group entered the cave.",
         "is_correct": true
-      },
-      {
-        "text": "Because “Because the track was steep, the group reached the lookout.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Although shows an unexpected contrast between the steep track and the successful climb.",
-      "hint": "Test whether the ideas show cause, time, condition or contrast."
-    }
+      "summary": "After places the group’s entry later than the guide’s speaking.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LA06-P-021",
@@ -605,29 +865,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which revision best fixes the problem in “Because the rain was heavy.” for explaining why the class stayed inside at lunch?",
-    "audio_prompt": "Which revision best fixes the problem in “Because the rain was heavy.” for explaining why the class stayed inside at lunch?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “We stayed in the shelter until the storm passed.” What does until tell you?",
+    "audio_prompt": "Read: “We stayed in the shelter until the storm passed.” What does until tell you?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the rain was heavy.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the rain was heavy, the class stayed inside.",
+        "text": "Passing of the storm marked the end of the stay.",
         "is_correct": true
       },
       {
-        "text": "The class stayed inside and the rain.",
+        "text": "The storm began after everyone left the shelter.",
+        "is_correct": false
+      },
+      {
+        "text": "The shelter caused the storm to pass.",
+        "is_correct": false
+      },
+      {
+        "text": "They stayed only before the storm began.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Because the rain was heavy cannot stand alone here, so it depends on the complete clause the class stayed inside. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Find the part that can stand alone as a complete message."
-    }
+      "summary": "Until sets the point up to which the action continued.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LA06-P-022",
@@ -635,29 +908,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Compare the choices for explaining why the class stayed inside at lunch. Which one avoids the mistake in “Because the rain was heavy.”?",
-    "audio_prompt": "Compare the choices for explaining why the class stayed inside at lunch. Which one avoids the mistake in “Because the rain was heavy.”?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "In this sentence, which word signals that the two actions happened at the same time? “Ravi hummed while Jo painted.”",
+    "audio_prompt": "In this sentence, which word signals that the two actions happened at the same time? “Ravi hummed while Jo painted.”",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the rain was heavy.",
+        "text": "Ravi",
         "is_correct": false
       },
       {
-        "text": "The class stayed inside and the rain.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the rain was heavy, the class stayed inside.",
+        "text": "while",
         "is_correct": true
+      },
+      {
+        "text": "hummed",
+        "is_correct": false
+      },
+      {
+        "text": "painted",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Because the rain was heavy cannot stand alone here, so it depends on the complete clause the class stayed inside. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Find the part that can stand alone as a complete message."
-    }
+      "summary": "While links humming and painting as simultaneous actions here.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LA06-P-023",
@@ -665,29 +951,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Compare the choices for showing time in a sentence about a kookaburra. Which one avoids the mistake in “When the sun rose.”?",
-    "audio_prompt": "Compare the choices for showing time in a sentence about a kookaburra. Which one avoids the mistake in “When the sun rose.”?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which revision keeps the meaning of “We will walk to the library if the rain stops”?",
+    "audio_prompt": "Which revision keeps the meaning of “We will walk to the library if the rain stops”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "When the sun rose, the kookaburra called from the fence.",
+        "text": "Because the rain stopped, we walked to the library.",
+        "is_correct": false
+      },
+      {
+        "text": "If we walk to the library, the rain will stop.",
+        "is_correct": false
+      },
+      {
+        "text": "If the rain stops, we will walk to the library.",
         "is_correct": true
       },
       {
-        "text": "When the sun rose.",
-        "is_correct": false
-      },
-      {
-        "text": "The kookaburra called and when.",
+        "text": "Although the rain will stop, we will not walk.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "When introduces a dependent time clause that tells when the main event happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what relationship the joining word creates."
-    }
+      "summary": "Moving the if-clause changes the order of the wording, not the condition or planned action.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LA06-P-024",
@@ -695,29 +994,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "If “When the sun rose.” does not work in showing time in a sentence about a kookaburra, what should replace it?",
-    "audio_prompt": "If “When the sun rose.” does not work in showing time in a sentence about a kookaburra, what should replace it?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which punctuation makes the introductory dependent clause clear?",
+    "audio_prompt": "Which punctuation makes the introductory dependent clause clear?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "When the sun rose.",
+        "text": "Before, we planted the seeds we loosened the soil.",
         "is_correct": false
       },
       {
-        "text": "When the sun rose, the kookaburra called from the fence.",
+        "text": "Before we planted, the seeds we loosened the soil.",
+        "is_correct": false
+      },
+      {
+        "text": "Before we planted the seeds we, loosened the soil.",
+        "is_correct": false
+      },
+      {
+        "text": "Before we planted the seeds, we loosened the soil.",
         "is_correct": true
-      },
-      {
-        "text": "The kookaburra called and when.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "When introduces a dependent time clause that tells when the main event happened. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what relationship the joining word creates."
-    }
+      "summary": "The comma comes after the whole introductory clause, “Before we planted the seeds”.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LA06-P-025",
@@ -725,29 +1037,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "If “We will swim because the flags show it is safe, even when they do not.” does not work in showing a condition for going to the beach, what should replace it?",
-    "audio_prompt": "If “We will swim because the flags show it is safe, even when they do not.” does not work in showing a condition for going to the beach, what should replace it?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The notebook that contains my sketches is missing.” Which question does the describing clause answer?",
+    "audio_prompt": "Read: “The notebook that contains my sketches is missing.” Which question does the describing clause answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We will swim because the flags show it is safe, even when they do not.",
-        "is_correct": false
-      },
-      {
-        "text": "If the flags show it is safe.",
-        "is_correct": false
-      },
-      {
-        "text": "We will swim if the flags show it is safe.",
+        "text": "Which notebook is missing?",
         "is_correct": true
+      },
+      {
+        "text": "Why are the sketches missing?",
+        "is_correct": false
+      },
+      {
+        "text": "When did I start drawing?",
+        "is_correct": false
+      },
+      {
+        "text": "Where did the notebook go?",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "If introduces the condition that must be met for the swimming plan. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for a condition rather than a cause or time."
-    }
+      "summary": "The clause identifies the notebook by its contents. It does not explain the loss.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LA06-P-026",
@@ -755,29 +1080,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which option corrects the meaning or form needed for showing a condition for going to the beach?",
-    "audio_prompt": "Which option corrects the meaning or form needed for showing a condition for going to the beach?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "You mean that a robot has flashing eyes, not that a table has them. Which sentence attaches the description clearly?",
+    "audio_prompt": "You mean that a robot has flashing eyes, not that a table has them. Which sentence attaches the description clearly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We will swim if the flags show it is safe.",
+        "text": "The robot sits on the table that has flashing eyes.",
+        "is_correct": false
+      },
+      {
+        "text": "The robot that has flashing eyes sits on the table.",
         "is_correct": true
       },
       {
-        "text": "We will swim because the flags show it is safe, even when they do not.",
+        "text": "The table that has flashing eyes holds the robot.",
         "is_correct": false
       },
       {
-        "text": "If the flags show it is safe.",
+        "text": "The robot sits on a flashing table.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "If introduces the condition that must be met for the swimming plan. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Look for a condition rather than a cause or time."
-    }
+      "summary": "Place the describing clause beside robot, the noun it is meant to describe.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LA06-P-027",
@@ -785,29 +1123,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which option corrects the meaning or form needed for showing cause in a sentence about a cancelled game?",
-    "audio_prompt": "Which option corrects the meaning or form needed for showing cause in a sentence about a cancelled game?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The cyclist who repaired the tyre thanked the helper.” Who repaired the tyre?",
+    "audio_prompt": "Read: “The cyclist who repaired the tyre thanked the helper.” Who repaired the tyre?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The match was cancelled although lightning caused the danger.",
+        "text": "the helper",
         "is_correct": false
       },
       {
-        "text": "The match was cancelled because lightning was nearby.",
+        "text": "both people, according to the sentence",
+        "is_correct": false
+      },
+      {
+        "text": "the cyclist",
         "is_correct": true
       },
       {
-        "text": "Because lightning was nearby.",
+        "text": "an unnamed mechanic",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Because connects the result to its cause while the independent clause can stand alone. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Identify which idea explains why the other happened."
-    }
+      "summary": "“Who repaired the tyre” describes cyclist. The sentence does not say the helper did the repair.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LA06-P-028",
@@ -815,29 +1166,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which choice is the clearest correction for showing cause in a sentence about a cancelled game?",
-    "audio_prompt": "Which choice is the clearest correction for showing cause in a sentence about a cancelled game?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which sentence uses a clause to describe a place without changing these ideas: “The room is quiet. The room overlooks the garden”?",
+    "audio_prompt": "Which sentence uses a clause to describe a place without changing these ideas: “The room is quiet. The room overlooks the garden”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The match was cancelled although lightning caused the danger.",
+        "text": "The garden that overlooks the room is quiet.",
         "is_correct": false
       },
       {
-        "text": "Because lightning was nearby.",
+        "text": "The room overlooks the garden because it is quiet.",
         "is_correct": false
       },
       {
-        "text": "The match was cancelled because lightning was nearby.",
+        "text": "The quiet room beside the garden.",
+        "is_correct": false
+      },
+      {
+        "text": "The room that overlooks the garden is quiet.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Because connects the result to its cause while the independent clause can stand alone. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Identify which idea explains why the other happened."
-    }
+      "summary": "The describing clause belongs to room; the main clause remains “The room is quiet”.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LA06-P-029",
@@ -845,29 +1209,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which choice is the clearest correction for adding contrast to a sentence about a bushwalk?",
-    "audio_prompt": "Which choice is the clearest correction for adding contrast to a sentence about a bushwalk?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "“Because my boot was loose. I stopped to tie it.” Which edit joins the reason to the main idea and keeps the intended meaning?",
+    "audio_prompt": "“Because my boot was loose. I stopped to tie it.” Which edit joins the reason to the main idea and keeps the intended meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Although the track was steep, the group reached the lookout.",
+        "text": "Because my boot was loose, I stopped to tie it.",
         "is_correct": true
       },
       {
-        "text": "Because the track was steep, the group reached the lookout.",
+        "text": "Because my boot was loose. I stopped to tie it.",
         "is_correct": false
       },
       {
-        "text": "Although the track was steep.",
+        "text": "My boot was loose because I stopped to tie it.",
+        "is_correct": false
+      },
+      {
+        "text": "Because my boot was loose and I stopped to tie it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Although shows an unexpected contrast between the steep track and the successful climb. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Test whether the ideas show cause, time, condition or contrast."
-    }
+      "summary": "The because-clause is a fragment on its own. Joining it to the independent clause makes a complete complex sentence.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LA06-P-030",
@@ -875,29 +1252,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which revision best fixes the problem in “Because the track was steep, the group reached the lookout.” for adding contrast to a sentence about a bushwalk?",
-    "audio_prompt": "Which revision best fixes the problem in “Because the track was steep, the group reached the lookout.” for adding contrast to a sentence about a bushwalk?",
+    "stage": "apply",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "The path was muddy, but the walkers carried on. Which sentence keeps the contrast using a dependent clause?",
+    "audio_prompt": "The path was muddy, but the walkers carried on. Which sentence keeps the contrast using a dependent clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the track was steep, the group reached the lookout.",
+        "text": "Because the path was dry, the walkers carried on.",
         "is_correct": false
       },
       {
-        "text": "Although the track was steep, the group reached the lookout.",
+        "text": "Although the path was muddy, the walkers carried on.",
         "is_correct": true
       },
       {
-        "text": "Although the track was steep.",
+        "text": "If the walkers carried on, the path would be muddy.",
+        "is_correct": false
+      },
+      {
+        "text": "The walkers stopped because the path was muddy.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Although shows an unexpected contrast between the steep track and the successful climb. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Test whether the ideas show cause, time, condition or contrast."
-    }
+      "summary": "Although keeps both facts and the unexpected contrast: they continued despite the mud.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LA06-P-031",
@@ -906,28 +1296,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "You now need to handle explaining why the class stayed inside at lunch independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle explaining why the class stayed inside at lunch independently. Which choice should you use?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The teacher waited because the last group was still packing.” Which question does the dependent clause answer?",
+    "audio_prompt": "Read: “The teacher waited because the last group was still packing.” Which question does the dependent clause answer?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The class stayed inside and the rain.",
+        "text": "Which teacher was waiting?",
         "is_correct": false
       },
       {
-        "text": "Because the rain was heavy.",
+        "text": "Where was the first group?",
         "is_correct": false
       },
       {
-        "text": "Because the rain was heavy, the class stayed inside.",
+        "text": "Why did the teacher wait?",
         "is_correct": true
+      },
+      {
+        "text": "What happened after the teacher left?",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Because the rain was heavy cannot stand alone here, so it depends on the complete clause the class stayed inside.",
-      "hint": "Find the part that can stand alone as a complete message."
-    }
+      "summary": "The because-clause explains the waiting; it gives a cause, not a description of which teacher.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LA06-P-032",
@@ -936,28 +1339,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Apply the same idea to explaining why the class stayed inside at lunch. Which option is best?",
-    "audio_prompt": "Apply the same idea to explaining why the class stayed inside at lunch. Which option is best?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The artist who designed the mural visited us.” What makes this sentence complex?",
+    "audio_prompt": "Read: “The artist who designed the mural visited us.” What makes this sentence complex?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the rain was heavy, the class stayed inside.",
+        "text": "It uses a long word, designed.",
+        "is_correct": false
+      },
+      {
+        "text": "It mentions two people in two independent clauses.",
+        "is_correct": false
+      },
+      {
+        "text": "It has more than ten words.",
+        "is_correct": false
+      },
+      {
+        "text": "A dependent describing clause sits inside a complete main clause.",
         "is_correct": true
-      },
-      {
-        "text": "The class stayed inside and the rain.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the rain was heavy.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Because the rain was heavy cannot stand alone here, so it depends on the complete clause the class stayed inside.",
-      "hint": "Find the part that can stand alone as a complete message."
-    }
+      "summary": "“Who designed the mural” describes artist. “The artist visited us” is the main clause; complexity is about clauses, not length.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LA06-P-033",
@@ -966,28 +1382,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Apply the same idea to showing time in a sentence about a kookaburra. Which option is best?",
-    "audio_prompt": "Apply the same idea to showing time in a sentence about a kookaburra. Which option is best?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which choice repairs “The box which contains the medals” into a complete sentence without removing its describing clause?",
+    "audio_prompt": "Which choice repairs “The box which contains the medals” into a complete sentence without removing its describing clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The kookaburra called and when.",
-        "is_correct": false
-      },
-      {
-        "text": "When the sun rose, the kookaburra called from the fence.",
+        "text": "The box which contains the medals is locked.",
         "is_correct": true
       },
       {
-        "text": "When the sun rose.",
+        "text": "The wooden box which contains the medals.",
+        "is_correct": false
+      },
+      {
+        "text": "The box which contains the shiny medals.",
+        "is_correct": false
+      },
+      {
+        "text": "Which contains the medals in the box.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "When introduces a dependent time clause that tells when the main event happened.",
-      "hint": "Ask what relationship the joining word creates."
-    }
+      "summary": "“Is locked” supplies the main-clause verb; the describing clause still identifies the box.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LA06-P-034",
@@ -996,28 +1425,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which decision would produce the clearest result in showing time in a sentence about a kookaburra?",
-    "audio_prompt": "Which decision would produce the clearest result in showing time in a sentence about a kookaburra?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "“Nora opened the window because the room was warm.” Which rewrite changes the cause rather than merely changing clause order?",
+    "audio_prompt": "“Nora opened the window because the room was warm.” Which rewrite changes the cause rather than merely changing clause order?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The kookaburra called and when.",
+        "text": "Because the room was warm, Nora opened the window.",
         "is_correct": false
       },
       {
-        "text": "When the sun rose.",
-        "is_correct": false
-      },
-      {
-        "text": "When the sun rose, the kookaburra called from the fence.",
+        "text": "Because Nora opened the window, the room was warm.",
         "is_correct": true
+      },
+      {
+        "text": "Nora opened the window since the room was warm.",
+        "is_correct": false
+      },
+      {
+        "text": "Since the room was warm, Nora opened the window.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "When introduces a dependent time clause that tells when the main event happened.",
-      "hint": "Ask what relationship the joining word creates."
-    }
+      "summary": "The changed version makes opening the window the cause of warmth. The original says warmth caused Nora to open it.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LA06-P-035",
@@ -1026,28 +1468,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which decision would produce the clearest result in showing a condition for going to the beach?",
-    "audio_prompt": "Which decision would produce the clearest result in showing a condition for going to the beach?",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Choose the sentence whose describing clause tells which flowers attracted bees.",
+    "audio_prompt": "Choose the sentence whose describing clause tells which flowers attracted bees.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We will swim if the flags show it is safe.",
+        "text": "Bees came because the flowers opened.",
+        "is_correct": false
+      },
+      {
+        "text": "After the flowers opened, bees came.",
+        "is_correct": false
+      },
+      {
+        "text": "The flowers that grew beside the fence attracted bees.",
         "is_correct": true
       },
       {
-        "text": "If the flags show it is safe.",
-        "is_correct": false
-      },
-      {
-        "text": "We will swim because the flags show it is safe, even when they do not.",
+        "text": "The flowers attracted bees while we watched.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "If introduces the condition that must be met for the swimming plan.",
-      "hint": "Look for a condition rather than a cause or time."
-    }
+      "summary": "“That grew beside the fence” describes flowers. The other dependent clauses add reason or time.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LA06-P-036",
@@ -1056,28 +1511,41 @@
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Choose the option that applies the skill correctly in showing a condition for going to the beach.",
-    "audio_prompt": "Choose the option that applies the skill correctly in showing a condition for going to the beach.",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "A student says, “Any two groups joined by and make a complex sentence.” Which example shows why that rule fails?",
+    "audio_prompt": "A student says, “Any two groups joined by and make a complex sentence.” Which example shows why that rule fails?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "If the flags show it is safe.",
+        "text": "“Because we drew circles” is a complete main clause.",
         "is_correct": false
       },
       {
-        "text": "We will swim if the flags show it is safe.",
+        "text": "“The stars that we drew” has no describing clause.",
+        "is_correct": false
+      },
+      {
+        "text": "“When we drew circles” has no verb.",
+        "is_correct": false
+      },
+      {
+        "text": "“We drew circles and stars” joins two nouns, not two clauses.",
         "is_correct": true
-      },
-      {
-        "text": "We will swim because the flags show it is safe, even when they do not.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "If introduces the condition that must be met for the swimming plan.",
-      "hint": "Look for a condition rather than a cause or time."
-    }
+      "summary": "And can join words as well as clauses. Complex sentences require an independent clause and at least one dependent clause.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LA06-P-037",
@@ -1085,29 +1553,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Choose the option that applies the skill correctly in showing cause in a sentence about a cancelled game.",
-    "audio_prompt": "Choose the option that applies the skill correctly in showing cause in a sentence about a cancelled game.",
-    "answers": [
-      {
-        "text": "Because lightning was nearby.",
-        "is_correct": false
-      },
-      {
-        "text": "The match was cancelled although lightning caused the danger.",
-        "is_correct": false
-      },
-      {
-        "text": "The match was cancelled because lightning was nearby.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Combine “The gardener won a prize” and “The gardener grows native plants” into one sentence with a who-clause. Name the noun your clause describes.",
+    "audio_prompt": "Combine “The gardener won a prize” and “The gardener grows native plants” into one sentence with a who-clause. Name the noun your clause describes.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The gardener who grows native plants won a prize. The clause describes gardener.",
+    "acceptance_note": "Require a complete main clause, a who-clause describing gardener, both supplied ideas and the named noun. Do not require this exact clause placement if meaning remains clear.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Because connects the result to its cause while the independent clause can stand alone.",
-      "hint": "Identify which idea explains why the other happened."
-    }
+      "summary": "The gardener who grows native plants won a prize. The clause describes gardener.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LA06-P-038",
@@ -1115,29 +1584,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "What would be the most effective choice for showing cause in a sentence about a cancelled game?",
-    "audio_prompt": "What would be the most effective choice for showing cause in a sentence about a cancelled game?",
-    "answers": [
-      {
-        "text": "The match was cancelled because lightning was nearby.",
-        "is_correct": true
-      },
-      {
-        "text": "Because lightning was nearby.",
-        "is_correct": false
-      },
-      {
-        "text": "The match was cancelled although lightning caused the danger.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Describe a made-up backpack with a that-clause. Write a complete sentence and explain what detail the clause adds.",
+    "audio_prompt": "Describe a made-up backpack with a that-clause. Write a complete sentence and explain what detail the clause adds.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The backpack that has a striped pocket belongs to Sam. The clause describes which backpack.",
+    "acceptance_note": "Check an actual complete sentence, a dependent describing clause beside backpack, and an explanation of its added detail. Invented details are welcome.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Because connects the result to its cause while the independent clause can stand alone.",
-      "hint": "Identify which idea explains why the other happened."
-    }
+      "summary": "The backpack that has a striped pocket belongs to Sam. The clause describes which backpack.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LA06-P-039",
@@ -1145,29 +1615,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "What would be the most effective choice for adding contrast to a sentence about a bushwalk?",
-    "audio_prompt": "What would be the most effective choice for adding contrast to a sentence about a bushwalk?",
-    "answers": [
-      {
-        "text": "Although the track was steep.",
-        "is_correct": false
-      },
-      {
-        "text": "Although the track was steep, the group reached the lookout.",
-        "is_correct": true
-      },
-      {
-        "text": "Because the track was steep, the group reached the lookout.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Rewrite “The visitors who arrived early” as a complete sentence. Keep the describing clause and label the main clause.",
+    "audio_prompt": "Rewrite “The visitors who arrived early” as a complete sentence. Keep the describing clause and label the main clause.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The visitors who arrived early chose seats. Main clause: The visitors chose seats.",
+    "acceptance_note": "Keep who arrived early describing visitors; add a meaningful main verb and identify the main clause, which surrounds the relative clause.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Although shows an unexpected contrast between the steep track and the successful climb.",
-      "hint": "Test whether the ideas show cause, time, condition or contrast."
-    }
+      "summary": "The visitors who arrived early chose seats. Main clause: The visitors chose seats.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LA06-P-040",
@@ -1175,29 +1646,280 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "You now need to handle adding contrast to a sentence about a bushwalk independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle adding contrast to a sentence about a bushwalk independently. Which choice should you use?",
-    "answers": [
-      {
-        "text": "Although the track was steep.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the track was steep, the group reached the lookout.",
-        "is_correct": false
-      },
-      {
-        "text": "Although the track was steep, the group reached the lookout.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Combine these ideas with because, keeping the reason correct: “The sand was too hot. We wore shoes.” Then say which clause depends on the other.",
+    "audio_prompt": "Combine these ideas with because, keeping the reason correct: “The sand was too hot. We wore shoes.” Then say which clause depends on the other.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "We wore shoes because the sand was too hot. The dependent clause is because the sand was too hot.",
+    "acceptance_note": "Require the hot sand as reason for wearing shoes, a complete sentence and the whole because-clause identified. Accept reason-first order with a comma.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Although shows an unexpected contrast between the steep track and the successful climb.",
-      "hint": "Test whether the ideas show cause, time, condition or contrast."
-    }
+      "summary": "We wore shoes because the sand was too hot. The dependent clause is because the sand was too hot.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LA06-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA06",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Write “We checked our tickets before the train arrived” with the before-clause first. Explain the order of the two events.",
+    "audio_prompt": "Write “We checked our tickets before the train arrived” with the before-clause first. Explain the order of the two events.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Before the train arrived, we checked our tickets. We checked first; the train arrived later.",
+    "acceptance_note": "Require the same two events and order, a comma after the introductory clause, and the correct event-order explanation.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Before the train arrived, we checked our tickets. We checked first; the train arrived later.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LA06-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA06",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "A picnic can go ahead only if an adult approves the weather conditions. Write one complex sentence using if to express this plan. Explain why your wording does not promise the picnic will happen.",
+    "audio_prompt": "A picnic can go ahead only if an adult approves the weather conditions. Write one complex sentence using if to express this plan. Explain why your wording does not promise the picnic will happen.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The picnic can go ahead only if an adult approves the weather conditions. Only if states a required condition; approval has not yet been confirmed.",
+    "acceptance_note": "Require adult approval of the weather as a necessary condition, a possible picnic and an explanation that approval is not confirmed. Preserve only if or an equivalent necessary-condition expression; approval is required, not a promise that the picnic will happen.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The picnic can go ahead only if an adult approves the weather conditions. Only if states a required condition; approval has not yet been confirmed.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LA06-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA06",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Write a sentence beginning with Although about a character who keeps practising a difficult tune. Explain the contrast.",
+    "audio_prompt": "Write a sentence beginning with Although about a character who keeps practising a difficult tune. Explain the contrast.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Although the tune was difficult, Nia kept practising. The difficulty might make her stop, but she continued.",
+    "acceptance_note": "Require a complete main clause, an although-clause about difficulty, continuing practice and an explanation of contrast rather than cause.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "Although the tune was difficult, Nia kept practising. The difficulty might make her stop, but she continued.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LA06-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA06",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Combine “The cup has a chip” and “The cup is on the shelf” using which or that. Identify the noun described by your clause.",
+    "audio_prompt": "Combine “The cup has a chip” and “The cup is on the shelf” using which or that. Identify the noun described by your clause.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The cup that has a chip is on the shelf. The clause describes cup.",
+    "acceptance_note": "Accept “The cup which has a chip is on the shelf” or “The cup that is on the shelf has a chip”. Both supplied facts and a clear noun-description relationship must remain.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The cup that has a chip is on the shelf. The clause describes cup.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LA06-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA06",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Repair this unclear description. You mean the dog has a red collar: “The dog followed the child who had a red collar.” Use a describing clause beside the correct noun.",
+    "audio_prompt": "Repair this unclear description. You mean the dog has a red collar: “The dog followed the child who had a red collar.” Use a describing clause beside the correct noun.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The dog that had a red collar followed the child.",
+    "acceptance_note": "Require the collar clause to describe dog, not child, while keeping the following event. Accept which in an appropriate grammatical version.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The dog that had a red collar followed the child.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LA06-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA06",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Compare “After the rehearsal” and “After the rehearsal ended”. Explain which is a dependent clause, then use it in a complete sentence.",
+    "audio_prompt": "Compare “After the rehearsal” and “After the rehearsal ended”. Explain which is a dependent clause, then use it in a complete sentence.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "After the rehearsal ended is a dependent clause because it contains rehearsal and the verb ended. After the rehearsal ended, we put away the chairs.",
+    "acceptance_note": "Require identification of the second group, mention of its verb or complete subject–verb relationship, and a complete complex sentence. The first group is a phrase, not a sentence.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "After the rehearsal ended is a dependent clause because it contains rehearsal and the verb ended. After the rehearsal ended, we put away the chairs.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LA06-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA06",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Create two sentences about an invented treehouse. In one, add a clause that describes the treehouse. In the other, use a time clause. Identify both dependent clauses.",
+    "audio_prompt": "Create two sentences about an invented treehouse. In one, add a clause that describes the treehouse. In the other, use a time clause. Identify both dependent clauses.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The treehouse that has a round window is cosy. We close the hatch before the rain begins. Dependent clauses: that has a round window; before the rain begins.",
+    "acceptance_note": "Require two complete sentences, one adjectival clause clearly describing treehouse and one time clause, with both correctly identified. Accept original details and different time conjunctions.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "The treehouse that has a round window is cosy. We close the hatch before the rain begins. Dependent clauses: that has a round window; before the rain begins.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LA06-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LA06",
+    "bank": "practice",
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Rewrite this into a short, clearer description using one adjectival and one reason clause across two sentences: “I chose a book. The book shows sea animals. I like ocean stories.” Explain your choices.",
+    "audio_prompt": "Rewrite this into a short, clearer description using one adjectival and one reason clause across two sentences: “I chose a book. The book shows sea animals. I like ocean stories.” Explain your choices.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "I chose a book that shows sea animals. I chose it because I like ocean stories. The that-clause describes book; the because-clause explains my choice.",
+    "acceptance_note": "Require all supplied information, two complete complex sentences, the description attached to book and reason correctly directed. Accept other grammatical choices preserving both functions.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
+    "explanation": {
+      "summary": "I chose a book that shows sea animals. I chose it because I like ocean stories. The that-clause describes book; the because-clause explains my choice.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LA06-T-001",
@@ -1205,29 +1927,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "New context: combining ideas about a science experiment. Which option is correct?",
-    "audio_prompt": "New context: combining ideas about a science experiment. Which option is correct?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “Unless the gate is unlocked, we must use the other entrance.” Which is the whole dependent clause?",
+    "audio_prompt": "Read: “Unless the gate is unlocked, we must use the other entrance.” Which is the whole dependent clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "After the ice melted, we measured the water.",
+        "text": "Unless the gate is unlocked",
         "is_correct": true
       },
       {
-        "text": "After the ice melted.",
+        "text": "we must use the other entrance",
         "is_correct": false
       },
       {
-        "text": "We measured because after the ice.",
+        "text": "the gate is unlocked",
+        "is_correct": false
+      },
+      {
+        "text": "the other entrance",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
-      "hint": "Check that the sentence has one complete clause plus the added time detail."
-    }
+      "summary": "Unless marks the condition in which using the other entrance is required; include it in the dependent clause.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LA06-T-002",
@@ -1235,29 +1970,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "What is the best choice for combining ideas about a science experiment?",
-    "audio_prompt": "What is the best choice for combining ideas about a science experiment?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The dancer who leads the group carries a ribbon.” Which noun does the relative clause describe?",
+    "audio_prompt": "Read: “The dancer who leads the group carries a ribbon.” Which noun does the relative clause describe?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "After the ice melted.",
+        "text": "group",
         "is_correct": false
       },
       {
-        "text": "After the ice melted, we measured the water.",
+        "text": "dancer",
         "is_correct": true
       },
       {
-        "text": "We measured because after the ice.",
+        "text": "ribbon",
+        "is_correct": false
+      },
+      {
+        "text": "the action of carrying",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
-      "hint": "Check that the sentence has one complete clause plus the added time detail."
-    }
+      "summary": "Who leads the group describes dancer, the person who carries the ribbon.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LA06-T-003",
@@ -1265,29 +2013,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which explanation best supports “After the ice melted, we measured the water.” in combining ideas about a science experiment?",
-    "audio_prompt": "Which explanation best supports “After the ice melted, we measured the water.” in combining ideas about a science experiment?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which sentence is complex, rather than long but simple or compound?",
+    "audio_prompt": "Which sentence is complex, rather than long but simple or compound?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “After the ice melted.” is always a safe choice.",
+        "text": "The bright paper lantern glowed above the crowded square.",
         "is_correct": false
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "The lantern glowed and the children sang.",
         "is_correct": false
       },
       {
-        "text": "After introduces a dependent time clause and the main clause completes the sentence.",
+        "text": "The lantern glowed while the children sang.",
         "is_correct": true
+      },
+      {
+        "text": "The lantern with the red paper sides glowed.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
-      "hint": "Check that the sentence has one complete clause plus the added time detail."
-    }
+      "summary": "While the children sang is a dependent clause joined to The lantern glowed.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LA06-T-004",
@@ -1295,29 +2056,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which clue should guide your decision in combining ideas about a science experiment?",
-    "audio_prompt": "Which clue should guide your decision in combining ideas about a science experiment?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "The museum opened at ten. Our class entered afterwards. Which sentence preserves this sequence?",
+    "audio_prompt": "The museum opened at ten. Our class entered afterwards. Which sentence preserves this sequence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Check that the sentence has one complete clause plus the added time detail.",
+        "text": "Our class entered before the museum opened.",
+        "is_correct": false
+      },
+      {
+        "text": "The museum opened after our class entered.",
+        "is_correct": false
+      },
+      {
+        "text": "While our class entered, the museum was still closed.",
+        "is_correct": false
+      },
+      {
+        "text": "Our class entered after the museum opened.",
         "is_correct": true
-      },
-      {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
-      "hint": "Check that the sentence has one complete clause plus the added time detail."
-    }
+      "summary": "After keeps opening before entering.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LA06-T-005",
@@ -1325,29 +2099,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which option would you reject first in combining ideas about a science experiment?",
-    "audio_prompt": "Which option would you reject first in combining ideas about a science experiment?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “The jacket that has a silver zip belongs to Eleni.” Which main clause remains without the describing clause?",
+    "audio_prompt": "Read: “The jacket that has a silver zip belongs to Eleni.” Which main clause remains without the describing clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "After the ice melted, we measured the water.",
-        "is_correct": false
-      },
-      {
-        "text": "After the ice melted.",
+        "text": "The jacket belongs to Eleni.",
         "is_correct": true
       },
       {
-        "text": "We measured because after the ice.",
+        "text": "The jacket has a silver zip.",
+        "is_correct": false
+      },
+      {
+        "text": "That has a silver zip.",
+        "is_correct": false
+      },
+      {
+        "text": "The silver zip belongs to Eleni.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. After introduces a dependent time clause and the main clause completes the sentence.",
-      "hint": "Check that the sentence has one complete clause plus the added time detail."
-    }
+      "summary": "Remove that has a silver zip; the subject jacket remains linked to belongs.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LA06-T-006",
@@ -1355,29 +2142,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which correction should replace “After the ice melted.” in combining ideas about a science experiment?",
-    "audio_prompt": "Which correction should replace “After the ice melted.” in combining ideas about a science experiment?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which rewrite keeps the reason in “We moved the game indoors because strong winds were forecast”?",
+    "audio_prompt": "Which rewrite keeps the reason in “We moved the game indoors because strong winds were forecast”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "After the ice melted.",
+        "text": "Because we moved the game indoors, strong winds were forecast.",
         "is_correct": false
       },
       {
-        "text": "We measured because after the ice.",
-        "is_correct": false
-      },
-      {
-        "text": "After the ice melted, we measured the water.",
+        "text": "Because strong winds were forecast, we moved the game indoors.",
         "is_correct": true
+      },
+      {
+        "text": "Although no winds were forecast, we moved the game indoors.",
+        "is_correct": false
+      },
+      {
+        "text": "We moved the game indoors before anyone forecast any wind.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
-      "hint": "Check that the sentence has one complete clause plus the added time detail."
-    }
+      "summary": "The forecast remains the reason for moving the game; the clause order can change without reversing cause.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LA06-T-007",
@@ -1385,29 +2185,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Apply the skill to combining ideas about a science experiment: what should you choose?",
-    "audio_prompt": "Apply the skill to combining ideas about a science experiment: what should you choose?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which revision completes “The singer who wrote the song” without removing its describing clause?",
+    "audio_prompt": "Which revision completes “The singer who wrote the song” without removing its describing clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "After the ice melted, we measured the water.",
+        "text": "The young singer who wrote the song.",
+        "is_correct": false
+      },
+      {
+        "text": "The singer who wrote the joyful song.",
+        "is_correct": false
+      },
+      {
+        "text": "The singer who wrote the song smiled.",
         "is_correct": true
       },
       {
-        "text": "After the ice melted.",
-        "is_correct": false
-      },
-      {
-        "text": "We measured because after the ice.",
+        "text": "Because the singer who wrote the song.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
-      "hint": "Check that the sentence has one complete clause plus the added time detail."
-    }
+      "summary": "Smiled supplies the main-clause verb; the who-clause remains a description.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LA06-T-008",
@@ -1415,29 +2228,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which final choice gives the clearest and most accurate result for combining ideas about a science experiment?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for combining ideas about a science experiment?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Two ideas: “The tunnel is narrow. The tunnel passes under the railway.” Which sentence combines them with a describing clause?",
+    "audio_prompt": "Two ideas: “The tunnel is narrow. The tunnel passes under the railway.” Which sentence combines them with a describing clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "After the ice melted.",
+        "text": "The railway that passes under the tunnel is narrow.",
         "is_correct": false
       },
       {
-        "text": "After the ice melted, we measured the water.",
+        "text": "The tunnel passes under the railway and it is narrow.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the railway is narrow, the tunnel passes under it.",
+        "is_correct": false
+      },
+      {
+        "text": "The tunnel that passes under the railway is narrow.",
         "is_correct": true
-      },
-      {
-        "text": "We measured because after the ice.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "After introduces a dependent time clause and the main clause completes the sentence.",
-      "hint": "Check that the sentence has one complete clause plus the added time detail."
-    }
+      "summary": "The that-clause describes tunnel and retains both ideas. The and-version is not the requested describing-clause structure.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LA06-T-009",
@@ -1445,29 +2271,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "New context: writing a safety instruction for a storm. Which option is correct?",
-    "audio_prompt": "New context: writing a safety instruction for a storm. Which option is correct?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Read: “Although the boat rocked, the artist finished the sketch.” Which meaning matches although here?",
+    "audio_prompt": "Read: “Although the boat rocked, the artist finished the sketch.” Which meaning matches although here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Until the thunderstorm has passed.",
-        "is_correct": false
-      },
-      {
-        "text": "Stay indoors and until thunderstorm.",
-        "is_correct": false
-      },
-      {
-        "text": "Stay indoors until the thunderstorm has passed.",
+        "text": "The artist finished despite the rocking.",
         "is_correct": true
+      },
+      {
+        "text": "The rocking caused the artist to finish.",
+        "is_correct": false
+      },
+      {
+        "text": "Finishing caused the boat to rock.",
+        "is_correct": false
+      },
+      {
+        "text": "The boat rocked only after the sketch was finished.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
-      "hint": "A dependent clause adds detail but usually cannot stand alone."
-    }
+      "summary": "Although introduces a contrast between a difficulty and successful completion.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LA06-T-010",
@@ -1475,29 +2314,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "What is the best choice for writing a safety instruction for a storm?",
-    "audio_prompt": "What is the best choice for writing a safety instruction for a storm?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which option contains a dependent clause rather than a phrase?",
+    "audio_prompt": "Which option contains a dependent clause rather than a phrase?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Stay indoors until the thunderstorm has passed.",
+        "text": "during the film",
+        "is_correct": false
+      },
+      {
+        "text": "when the screen went dark",
         "is_correct": true
       },
       {
-        "text": "Until the thunderstorm has passed.",
+        "text": "beside the screen",
         "is_correct": false
       },
       {
-        "text": "Stay indoors and until thunderstorm.",
+        "text": "after the final scene",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
-      "hint": "A dependent clause adds detail but usually cannot stand alone."
-    }
+      "summary": "The screen went dark contains a subject and verb; when introduces dependent time wording.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LA06-T-011",
@@ -1505,29 +2357,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which explanation best supports “Stay indoors until the thunderstorm has passed.” in writing a safety instruction for a storm?",
-    "audio_prompt": "Which explanation best supports “Stay indoors until the thunderstorm has passed.” in writing a safety instruction for a storm?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "You mean that a shelf, not a clock, is cracked. Which sentence makes this clear with an adjectival clause?",
+    "audio_prompt": "You mean that a shelf, not a clock, is cracked. Which sentence makes this clear with an adjectival clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Until the thunderstorm has passed.” is always a safe choice.",
+        "text": "The shelf holds the clock that is cracked.",
         "is_correct": false
       },
       {
-        "text": "Until creates a time relationship and depends on the independent command stay indoors.",
+        "text": "The cracked clock is on the shelf.",
+        "is_correct": false
+      },
+      {
+        "text": "The shelf that is cracked holds the clock.",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "The clock that is cracked rests on the shelf.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
-      "hint": "A dependent clause adds detail but usually cannot stand alone."
-    }
+      "summary": "That is cracked is placed beside shelf, the noun it describes.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LA06-T-012",
@@ -1535,29 +2400,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which clue should guide your decision in writing a safety instruction for a storm?",
-    "audio_prompt": "Which clue should guide your decision in writing a safety instruction for a storm?",
+    "stage": "recognise",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Which sentence correctly marks the end of its introductory dependent clause?",
+    "audio_prompt": "Which sentence correctly marks the end of its introductory dependent clause?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "If, the paint is dry we can hang the sign.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "If the paint, is dry we can hang the sign.",
         "is_correct": false
       },
       {
-        "text": "A dependent clause adds detail but usually cannot stand alone.",
+        "text": "If the paint is dry we can, hang the sign.",
+        "is_correct": false
+      },
+      {
+        "text": "If the paint is dry, we can hang the sign.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
-      "hint": "A dependent clause adds detail but usually cannot stand alone."
-    }
+      "summary": "The full introductory clause is If the paint is dry; put the comma after dry.",
+      "hint": "Read the whole sentence and check how its clauses relate."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LA06-T-013",
@@ -1565,29 +2443,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which option would you reject first in writing a safety instruction for a storm?",
-    "audio_prompt": "Which option would you reject first in writing a safety instruction for a storm?",
-    "answers": [
-      {
-        "text": "Until the thunderstorm has passed.",
-        "is_correct": true
-      },
-      {
-        "text": "Stay indoors until the thunderstorm has passed.",
-        "is_correct": false
-      },
-      {
-        "text": "Stay indoors and until thunderstorm.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Combine these ideas into one complete sentence with a describing clause: “The volunteer repaired our toys. The volunteer lives nearby.” Name the noun described.",
+    "audio_prompt": "Combine these ideas into one complete sentence with a describing clause: “The volunteer repaired our toys. The volunteer lives nearby.” Name the noun described.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The volunteer who lives nearby repaired our toys. The clause describes volunteer.",
+    "acceptance_note": "Require both facts, a grammatical relative clause describing volunteer and a complete main clause. Accept who or that, and a different valid arrangement.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Until creates a time relationship and depends on the independent command stay indoors.",
-      "hint": "A dependent clause adds detail but usually cannot stand alone."
-    }
+      "summary": "The volunteer who lives nearby repaired our toys. The clause describes volunteer.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LA06-T-014",
@@ -1595,29 +2474,30 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which correction should replace “Until the thunderstorm has passed.” in writing a safety instruction for a storm?",
-    "audio_prompt": "Which correction should replace “Until the thunderstorm has passed.” in writing a safety instruction for a storm?",
-    "answers": [
-      {
-        "text": "Until the thunderstorm has passed.",
-        "is_correct": false
-      },
-      {
-        "text": "Stay indoors until the thunderstorm has passed.",
-        "is_correct": true
-      },
-      {
-        "text": "Stay indoors and until thunderstorm.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Repair “Because the footbridge was closed.” by adding a main clause about taking another route. Then explain which idea gives the reason.",
+    "audio_prompt": "Repair “Because the footbridge was closed.” by adding a main clause about taking another route. Then explain which idea gives the reason.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "Because the footbridge was closed, we took the longer path. The closure is the reason for taking another route.",
+    "acceptance_note": "Require a complete sentence, reason-first comma and another-route main clause. Correctly identify the closure as reason. Accept an invented route.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
-      "hint": "A dependent clause adds detail but usually cannot stand alone."
-    }
+      "summary": "Because the footbridge was closed, we took the longer path. The closure is the reason for taking another route.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LA06-T-015",
@@ -1625,29 +2505,31 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Apply the skill to writing a safety instruction for a storm: what should you choose?",
-    "audio_prompt": "Apply the skill to writing a safety instruction for a storm: what should you choose?",
-    "answers": [
-      {
-        "text": "Until the thunderstorm has passed.",
-        "is_correct": false
-      },
-      {
-        "text": "Stay indoors and until thunderstorm.",
-        "is_correct": false
-      },
-      {
-        "text": "Stay indoors until the thunderstorm has passed.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "Write two complete sentences about a made-up kite. Use a clause to describe the kite in one sentence. Use although to describe a difficulty and what happened despite it in the other. Identify each dependent clause.",
+    "audio_prompt": "Write two complete sentences about a made-up kite. Use a clause to describe the kite in one sentence. Use although to describe a difficulty and what happened despite it in the other. Identify each dependent clause.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "The kite that has orange stripes belongs to Max. Although the wind was light, the kite rose. Clauses: that has orange stripes; although the wind was light.",
+    "acceptance_note": "Require a describing clause attached to kite, a clear difficulty/contrast although-clause in the second sentence, two complete main clauses and both dependent clauses identified. Different plausible outcomes are accepted.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
-      "hint": "A dependent clause adds detail but usually cannot stand alone."
-    }
+      "summary": "The kite that has orange stripes belongs to Max. Although the wind was light, the kite rose. Clauses: that has orange stripes; although the wind was light.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E1",
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LA06-T-016",
@@ -1655,28 +2537,29 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LA06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Complex Sentences: Independent and Dependent Clauses",
-    "question": "Which final choice gives the clearest and most accurate result for writing a safety instruction for a storm?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for writing a safety instruction for a storm?",
-    "answers": [
-      {
-        "text": "Stay indoors until the thunderstorm has passed.",
-        "is_correct": true
-      },
-      {
-        "text": "Until the thunderstorm has passed.",
-        "is_correct": false
-      },
-      {
-        "text": "Stay indoors and until thunderstorm.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
+    "stage": "independent",
+    "skill": "complex_sentences_and_clause_relationships",
+    "question": "The poster was printed first and displayed later. Write a complex sentence beginning with After to express this order. Then rewrite it with the main clause first.",
+    "audio_prompt": "The poster was printed first and displayed later. Write a complex sentence beginning with After to express this order. Then rewrite it with the main clause first.",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [],
+    "correct_index": null,
+    "grading_mode": "adult-review",
+    "model_answer": "After the poster was printed, it was displayed. It was displayed after the poster was printed.",
+    "acceptance_note": "Require both grammatical sentences preserving printing before displaying. Check the introductory-clause comma in the first version; no comma is needed before the final after-clause.",
+    "response_instructions": "Write or dictate the actual sentences and explanations, or use your usual communication support. An adult checks your completed work against the guidance.",
+    "completion_label": "My completed work is ready for an adult to check.",
     "explanation": {
-      "summary": "Until creates a time relationship and depends on the independent command stay indoors.",
-      "hint": "A dependent clause adds detail but usually cannot stand alone."
-    }
+      "summary": "After the poster was printed, it was displayed. It was displayed after the poster was printed.",
+      "hint": "Keep the intended meaning and check that the sentence is complete."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]
