@@ -1,0 +1,138 @@
+name: Rebuild F-10 revision cards from canonical topics
+on: push
+permissions:
+  contents: write
+jobs:
+  build:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+      - run: pip install beautifulsoup4
+      - name: Build unique canonical code map
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from bs4 import BeautifulSoup
+          from urllib.parse import urlparse
+          import json,re
+
+          roots=[('foundation','Foundation')]+[(f'year{i}',f'Year {i}') for i in range(1,11)]
+          subjects=['maths','science','english']
+
+          def clean(s): return re.sub(r'\s+',' ',s or '').strip()
+          def clip(s,n):
+              s=clean(s)
+              return s if len(s)<=n else re.sub(r'\s+\S*$','',s[:n-1])+'…'
+          def text(el): return clean(el.get_text(' ',strip=True)) if el else ''
+          def first_text(soup, selectors):
+              for sel in selectors:
+                  try: el=soup.select_one(sel)
+                  except Exception: el=None
+                  if text(el): return text(el)
+              return ''
+          def local_target(soup):
+              refresh=soup.find('meta',attrs={'http-equiv':lambda v: v and v.lower()=='refresh'})
+              if refresh:
+                  m=re.search(r'url\s*=\s*([^;]+)$',refresh.get('content',''),re.I)
+                  if m:
+                      u=m.group(1).strip().strip('"\'')
+                      if u.startswith('/'): return u
+              canon=soup.find('link',rel=lambda v: v and ('canonical' in v if isinstance(v,list) else v=='canonical'))
+              if canon and canon.get('href'):
+                  u=urlparse(canon['href'])
+                  if u.netloc in ('skillrhub.com','www.skillrhub.com') and u.path: return u.path
+              return ''
+          def path_from_url(u):
+              return Path(u.strip('/'))/'index.html'
+          def resolve(p):
+              seen=set(); cur=p
+              for _ in range(4):
+                  if not cur.exists() or cur in seen: break
+                  seen.add(cur)
+                  soup=BeautifulSoup(cur.read_text(errors='ignore'),'html.parser')
+                  target=local_target(soup)
+                  if target:
+                      nxt=path_from_url(target)
+                      if nxt.exists() and nxt != cur:
+                          cur=nxt; continue
+                  return cur,soup
+              soup=BeautifulSoup(cur.read_text(errors='ignore'),'html.parser') if cur.exists() else BeautifulSoup('','html.parser')
+              return cur,soup
+          def by_heading(soup, terms):
+              terms=[t.lower() for t in terms]
+              for h in soup.find_all(['summary','h2','h3','h4','strong']):
+                  ht=text(h).lower()
+                  if not ht or not any(t in ht for t in terms): continue
+                  container=h.find_parent(['details','section','article','div']) or h.parent
+                  if not container: continue
+                  for sel in ['.curriculum-worked-example','.worked-example','.example-card','.teacher-model','.model-card','article','li','p']:
+                      el=container.select_one(sel)
+                      if el and el is not h and text(el) and text(el)!=text(h): return text(el)
+              return ''
+          def pick_remember(soup,title):
+              return first_text(soup,['#teaching .curriculum-detail-body p','#key-concept .curriculum-detail-body p','#learn .curriculum-detail-body li','#teaching-lesson .lesson-part p','.combined-lesson-content .lesson-part p','.curriculum-hero__lead','#prerequisites .curriculum-detail-body p','.learning-goal','.lesson-focus']) or by_heading(soup,['key concept','remember','learning goal','learn','focus','big idea','what you need to know','key idea']) or title
+          def pick_example(soup):
+              direct=first_text(soup,['#examples .curriculum-worked-example','#examples .worked-example','#examples .curriculum-detail-body article','#worked-examples article','.curriculum-worked-example','.worked-example','.example-card','.teacher-model','.model-card','[class*="worked-example"]','[class*="teacher-model"]'])
+              if direct: return direct
+              headed=by_heading(soup,['worked example','solved example','teacher model','model it','example','guided practice','try it','apply it','questions and answers','practice and review','worked response'])
+              if headed: return headed
+              return first_text(soup,['#examples li','#guided-practice li','#assessment li','#independent-practice li','#important-questions li','.guided-practice li','.practice li','.curriculum-detail-body ol li','.curriculum-detail-body ul li'])
+          def pick_mistake(soup):
+              direct=first_text(soup,['#misconceptions .curriculum-detail-body li','#common-mistakes li','.misconceptions li','.common-mistakes li','.review-hint','#assessment .review-hint','[class*="mistake"] li','[class*="misconception"] li'])
+              return direct or by_heading(soup,['common mistake','common misconception','mix-up','watch out','trap','don’t forget','dont forget']) or 'Check the exact wording, notation, units or evidence before choosing your final answer.'
+          def visual_selector(soup,subject):
+              if subject not in ('maths','science'): return ''
+              for sel in ['#examples figure','#teaching figure','.math-concept-diagram','.science-diagram','.concept-diagram','.lesson-visual','figure','svg']:
+                  try:
+                      if soup.select_one(sel): return sel
+                  except Exception: pass
+              return ''
+
+          # Gather all aliases but keep one strongest resolved canonical page per curriculum code.
+          candidates={}
+          for root,label in roots:
+              for subject in subjects:
+                  base=Path(root)/subject
+                  if not base.exists(): continue
+                  for p in sorted(base.glob('ac9*/index.html')):
+                      code=p.parent.name.split('-',1)[0].upper()
+                      if not re.fullmatch(r'AC9[A-Z0-9]+',code): continue
+                      rp,soup=resolve(p)
+                      body_text=clean(soup.get_text(' ',strip=True))
+                      score=(0 if local_target(soup) else 100000)+len(body_text)
+                      old=candidates.get(code)
+                      if not old or score>old['score']:
+                          candidates[code]={'code':code,'year':label,'subject':subject,'path':rp,'soup':soup,'score':score}
+
+          data={}; rows=[]
+          for code,c in sorted(candidates.items()):
+              soup=c['soup']; p=c['path']; subject=c['subject']
+              title=first_text(soup,['h1','.curriculum-hero h1']) or code
+              remember=pick_remember(soup,title)
+              example=pick_example(soup)
+              mistake=pick_mistake(soup)
+              vsel=visual_selector(soup,subject)
+              data[code]={'code':code,'year':c['year'],'subject':subject,'title':clip(title,140),'topicPath':'/'+p.parent.as_posix()+'/','remember':clip(remember,380),'example':clip(example,500),'mistake':clip(mistake,300),'visualSelector':vsel}
+              rows.append({'code':code,'year':c['year'],'subject':subject,'example':bool(example),'visual':bool(vsel),'topicPath':'/'+p.parent.as_posix()+'/'})
+
+          missing=[r for r in rows if not r['example']]
+          maths_science=[r for r in rows if r['subject'] in ('maths','science')]
+          summary={'totalUniqueCodes':len(rows),'withExamples':len(rows)-len(missing),'missingExamples':len(missing),'mathsScienceCodes':len(maths_science),'mathsScienceWithVisual':sum(r['visual'] for r in maths_science),'missingExampleRows':missing,'rows':rows}
+          print(json.dumps({k:v for k,v in summary.items() if k not in ('rows','missingExampleRows')},indent=2))
+          print('MISSING',json.dumps(missing,ensure_ascii=False))
+          Path('assets/f10-revision-cards-data.js').write_text('window.SkillrF10RevisionCards='+json.dumps(data,ensure_ascii=False,separators=(',',':'))+';\n')
+          Path('reports/f10-revision-card-coverage.json').write_text(json.dumps(summary,indent=2,ensure_ascii=False))
+          assert len(rows)>=670, f'Unexpected unique-code count: {len(rows)}'
+          assert not missing, f'Missing worked examples for {len(missing)} canonical codes'
+          PY
+      - name: Commit canonical map
+        run: |
+          rm .github/workflows/rebuild-f10-revision-card-map-canonical.yml
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/f10-revision-cards-data.js reports/f10-revision-card-coverage.json .github/workflows/rebuild-f10-revision-card-map-canonical.yml
+          git commit -m 'content: rebuild revision cards from canonical F-10 topics'
+          git push origin HEAD:${{ github.ref_name }}
