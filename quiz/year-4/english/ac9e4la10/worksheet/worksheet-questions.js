@@ -73,7 +73,8 @@ window.skillrWorksheetQuestions = [
     "printable": true,
     "question": "Plan an original silent clip about finding a small leaf on a large plant. Draw three labelled frames: opening, middle and ending. Choose whether the whole plant or the leaf is revealed first. Explain how that order guides attention. This is a storyboard task, not a claim that you filmed or watched a new clip.",
     "correct": "A plan could open wide on the plant, move closer to one branch, then end on the leaf. The viewer gets the setting first and then inspects a small detail. Another valid plan reveals the whole plant after a leaf close-up.",
-    "explanation": "Require three actual ordered drawings or an accessible layout plan and a coherent attention/information explanation. Accept either justified order. The plan must not be recorded as completed actual moving-image viewing."
+    "explanation": "Require three actual ordered drawings or an accessible layout plan and a coherent attention/information explanation. Accept either justified order. The plan must not be recorded as completed actual moving-image viewing.",
+    "responseLines": 8
   },
   {
     "id": "ac9e4la10-w-008",
@@ -82,6 +83,7 @@ window.skillrWorksheetQuestions = [
     "printable": true,
     "question": "Make two different still-picture plans for the sentence “Two people read a map together”. Keep both people and the map in both. Change placement or relative size, label the change, then explain how each plan might influence a viewer.",
     "correct": "One plan places both people close to a large map near the middle, emphasising the shared object. Another shows a wider setting with the people beside the map, helping a viewer locate their activity. Both retain all three required elements.",
-    "explanation": "Inspect two actual original plans and labels. Require both people and map in each, a meaningful changed placement/size choice and two supported possible responses. Accept different effective designs and supported communication methods."
+    "explanation": "Inspect two actual original plans and labels. Require both people and map in each, a meaningful changed placement/size choice and two supported possible responses. Accept different effective designs and supported communication methods.",
+    "responseLines": 8
   }
 ];

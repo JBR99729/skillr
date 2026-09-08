@@ -1,0 +1,193 @@
+{
+  "status": "PASS",
+  "scope": "Actual production UI/runtime in simulated DOM, five genuine staged selected items per mode with actual shuffled question order; same media node outside hidden screens through start, submit and next; actual source bytes hashed. Not a browser playback/CSS layout/network assertion.",
+  "cases": 26,
+  "rows": [
+    {
+      "mode": "practice",
+      "phase": "ready",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "start",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "submit-1",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "next-1",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "submit-2",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "next-2",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "submit-3",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "next-3",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "submit-4",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "next-4",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "submit-5",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "next-5",
+      "pass": true
+    },
+    {
+      "mode": "practice",
+      "phase": "five-question-result",
+      "pass": true,
+      "source": "/assets/videos/year4/english/ac9e4la10-football.mp4",
+      "sha256": "c75a18e4e14a7946126486d43431e02266dd0bd2f8a0be8ae82ba35c2adc06de",
+      "questionIds": [
+        "ac9e4la10-p-030",
+        "ac9e4la10-p-031",
+        "ac9e4la10-p-032",
+        "ac9e4la10-p-001",
+        "ac9e4la10-p-002"
+      ]
+    },
+    {
+      "mode": "test",
+      "phase": "ready",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "start",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "submit-1",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "next-1",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "submit-2",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "next-2",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "submit-3",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "next-3",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "submit-4",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "next-4",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "submit-5",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "next-5",
+      "pass": true
+    },
+    {
+      "mode": "test",
+      "phase": "five-question-result",
+      "pass": true,
+      "source": "/assets/videos/year4/english/ac9e4la10-kite.mp4",
+      "sha256": "ae4e073b5039f6433238d8d4b6d409f7475b1d1c51cb1a847b68dd8d251a1e25",
+      "questionIds": [
+        "ac9e4la10-t-010",
+        "ac9e4la10-t-011",
+        "ac9e4la10-t-012",
+        "ac9e4la10-t-001",
+        "ac9e4la10-t-002"
+      ]
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "assets/year4-english-authored-preparation.js",
+      "sha256": "cbfa439229830f7347faa033c621be4351f1f263edd3420cd7579b614bef16a4"
+    },
+    {
+      "path": "quiz/assets/production-question-ui.js",
+      "sha256": "2015730b0045ee57f10ad32171020673e14e7d5cf1e7eb5beea24c4aaa94ef8e"
+    },
+    {
+      "path": "quiz/assets/script-runtime-v115.js",
+      "sha256": "cec2900af4c21d950dd97b7b21e981abc95f3c2375ba69e15397b07ef32d33a5"
+    },
+    {
+      "path": "quiz/assets/script.js",
+      "sha256": "415a8003c33096076ad29020cadce2d6dd8ce7b4d59847f31f9c3911c4e925f4"
+    },
+    {
+      "path": "quiz/assets/year1-maths-support.js",
+      "sha256": "220bc7a4b8b4fa82b01771f3ca0fc60649705e0097a96a9cef5616d289663803"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la10/practice/index.html",
+      "sha256": "4f3578ed784d30f671efd771dd7ebdd213f9b4ae60286892d81701391ec185ab"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la10/practice/questions.js",
+      "sha256": "558dda89cb7838b95b29da8f045e4893f6389d39bf69cb670c7253456a1ff8d2"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la10/test/index.html",
+      "sha256": "f4f45c88691e125ce53396d27f395d5f1cfd5712f718e67f36adb01c32fd1ecc"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la10/test/questions.js",
+      "sha256": "721c18555d021a4939deb1a61f4dd97d6f36ec18e53f676a280424204f6b9266"
+    }
+  ]
+}

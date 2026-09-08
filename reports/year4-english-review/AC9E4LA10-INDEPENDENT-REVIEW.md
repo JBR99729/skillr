@@ -1,6 +1,6 @@
 # AC9E4LA10 independent content and original-media review
 
-Reviewer: /root/la05_author, independent of author /root/la03_author. Status: corrections pending; no runtime/PDF/publication approval.
+Reviewer: /root/la05_author, independent of author /root/la03_author. Status: PASS for final content and original media; no runtime/PDF/publication approval.
 
 Read all 64 canonical questions: every stem, all 192 selected-response choices, every key, explanation, hint, all 16 adult-review models and acceptance criteria. Reviewed all nine Topic Guide teaching bodies and confirmed their complete DOM-normalised equality with Classroom View. Read all eight dedicated homework prompts, model responses and adult criteria and verified the exact static worksheet text mirrors. The worksheet authored-content marker is present. All 64 audio prompts equal their stems; these are text metadata checks, not recorded audio playback.
 
@@ -28,3 +28,15 @@ Reviewer media renders: /tmp/la10-independent/{beach,turtles,signs,football,benc
 - `assets/assessment-visuals/year4/english/la10/turtles.svg` — `6cdc8a07c21bfbbc8a0a645b24b25338ffdc05eeee0fb1c6f3e091ac1506474c`
 - `assets/videos/year4/english/ac9e4la10-football.mp4` — `c75a18e4e14a7946126486d43431e02266dd0bd2f8a0be8ae82ba35c2adc06de`
 - `assets/videos/year4/english/ac9e4la10-kite.mp4` — `ae4e073b5039f6433238d8d4b6d409f7475b1d1c51cb1a847b68dd8d251a1e25`
+
+## Final correction recheck and content freeze
+
+Independently re-read every changed distractor and matching explanation across all 16 requested groups, plus P042 prompt/audio. Each retains one unique best key and credible same-skill near misses; all64 keys are unchanged. P042 now explicitly requests the assessed purpose explanation. Compared against the complete pre-correction files: all other bank fields are preserved. W007/W008 now have eight production response lines and 320px static response areas; all eight homework wordings, models and criteria are unchanged. Final production PDF inspection remains pending for the updated inputs.
+
+- `assets/assessment-banks/year4/english/ac9e4la10.json` — `6d142e50f8ae72fabb0a1097931a3f8de7be3f95f91348bd0f695c7a207704cf`
+- `year4/english/ac9e4la10-the-effect-of-choices-when-framing-an-image-placement-of/index.html` — `cf229d6ad00acfb8ed083f6a765a311c468dcbf921b382ff064b8b54aebf0f1f`
+- `year4/english/ac9e4la10-the-effect-of-choices-when-framing-an-image-placement-of/teacher-slides/index.html` — `75a003ee10cfcd23f76f896eea693f89d8ee5ffbc01a480f9fc9db1c14a61148`
+- `quiz/year-4/english/ac9e4la10/worksheet/index.html` — `7c4b3d16177b4f91e90425a0c9d9775bf82ba5d1a39d596031d796eb67503497`
+- `quiz/year-4/english/ac9e4la10/worksheet/worksheet-questions.js` — `2c93947e5af319e5b190568c3f3412b5bdc41aaa462142fcc9c587848103b5eb`
+
+Final production PDF gate now separately PASS: all20 corrected pages reviewed; see `AC9E4LA10-PDF-INDEPENDENT.md` for exact inputs/output hashes. Runtime and main/live publication are still outside this content review.

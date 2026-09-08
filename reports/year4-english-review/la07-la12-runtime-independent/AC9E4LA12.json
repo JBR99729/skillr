@@ -1,0 +1,415 @@
+{
+  "date": "2026-09-08T17:24:19.006Z",
+  "code": "AC9E4LA12",
+  "scope": "64 canonical/published items and all authored adult items through actual shared runtime, result and review scripts in linkedom. DOM/browser APIs are simulated; no browser, network, PWA or PDF visual review is claimed.",
+  "cases": 55,
+  "pass": 55,
+  "fail": 0,
+  "rows": [
+    {
+      "mode": "all",
+      "kind": "64-items-authentic-adult-inventory",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "canonical-published-full-field-parity",
+      "status": "PASS",
+      "questions": 48,
+      "adultItems": 12
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-037",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-037",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-037",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-038",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-038",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-038",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-039",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-039",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-039",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-040",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-040",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-040",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-041",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-041",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-041",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-042",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-042",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-042",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-043",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-043",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-043",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-044",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-044",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-044",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-045",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-045",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-045",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-046",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-046",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-046",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-047",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-047",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-047",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-p-048",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-p-048",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-p-048",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "selected-correct",
+      "item": "ac9e4la12-p-001",
+      "status": "PASS"
+    },
+    {
+      "mode": "practice",
+      "kind": "selected-incorrect",
+      "item": "ac9e4la12-p-001",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "canonical-published-full-field-parity",
+      "status": "PASS",
+      "questions": 16,
+      "adultItems": 4
+    },
+    {
+      "mode": "test",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-t-013",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-t-013",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-t-013",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-t-014",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-t-014",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-t-014",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-t-015",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-t-015",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-t-015",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "adult-typed-pending-mark-revise-result",
+      "item": "ac9e4la12-t-016",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "adult-paper-pending-mark-revise-result",
+      "item": "ac9e4la12-t-016",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "missing-helper-fails-closed",
+      "item": "ac9e4la12-t-016",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "selected-correct",
+      "item": "ac9e4la12-t-001",
+      "status": "PASS"
+    },
+    {
+      "mode": "test",
+      "kind": "selected-incorrect",
+      "item": "ac9e4la12-t-001",
+      "status": "PASS"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "assets/assessment-banks/year4/english/ac9e4la12.json",
+      "sha256": "d61064b16457543700ef249c1e0ba1837cfdb86a2a6bc7cd19c31eea5b054c40"
+    },
+    {
+      "path": "assets/year4-english-authored-preparation.js",
+      "sha256": "cbfa439229830f7347faa033c621be4351f1f263edd3420cd7579b614bef16a4"
+    },
+    {
+      "path": "quiz/assets/production-question-ui.js",
+      "sha256": "2015730b0045ee57f10ad32171020673e14e7d5cf1e7eb5beea24c4aaa94ef8e"
+    },
+    {
+      "path": "quiz/assets/script-runtime-v115.js",
+      "sha256": "cec2900af4c21d950dd97b7b21e981abc95f3c2375ba69e15397b07ef32d33a5"
+    },
+    {
+      "path": "quiz/assets/script.js",
+      "sha256": "415a8003c33096076ad29020cadce2d6dd8ce7b4d59847f31f9c3911c4e925f4"
+    },
+    {
+      "path": "quiz/assets/separate-result.js",
+      "sha256": "3fa8e54b019fa8f80c6d78a1c11c0d6830f1879ec7771df47967896197a7cad9"
+    },
+    {
+      "path": "quiz/assets/separate-review.js",
+      "sha256": "4d90930eb071ba6fbb63ac6ee3c1d9d2b2ca9df1f90c9ead3543163e9d0acb53"
+    },
+    {
+      "path": "quiz/assets/year1-maths-support.js",
+      "sha256": "220bc7a4b8b4fa82b01771f3ca0fc60649705e0097a96a9cef5616d289663803"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la12/practice/index.html",
+      "sha256": "5491210a1be6322a98da07764f8c9647396eab25a89af3502701454ecf5a0dce"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la12/practice/practice-questions.js",
+      "sha256": "a6369c5b0c14b4b0d562b9cd90931c70f192a75a0a9a9819aeb18e16ad33e09c"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la12/practice/questions.js",
+      "sha256": "a6369c5b0c14b4b0d562b9cd90931c70f192a75a0a9a9819aeb18e16ad33e09c"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la12/practice/result/index.html",
+      "sha256": "7dc1f5b20e2a2aca89406acfa6bba4b1b34eff259c393e89b35746a2f188b2a1"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la12/practice/review/index.html",
+      "sha256": "1dd39fed61308118069e2a4c1e6a48d0d2f857d920cb12110ea4837fca3384a7"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la12/test/index.html",
+      "sha256": "9952e5ea517962f43c2d2eb1e5f27c89e7d6ed5a2f59b0880be0886071987d1a"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la12/test/questions.js",
+      "sha256": "abcc58192c60e8b205d097e639ca2c93b289be4769442e356d20ddf802e7d637"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la12/test/result/index.html",
+      "sha256": "6c598dc272efd299588d48851441ebbba76f5010633c5f53583a85e4309da46d"
+    },
+    {
+      "path": "quiz/year-4/english/ac9e4la12/test/review/index.html",
+      "sha256": "a140ddbbcfc8b7152e519b756e8aa3dd9ef17db86246e7af9d42f4fa3bae75a7"
+    },
+    {
+      "path": "scripts/validate_year4_english_la01_assessment.cjs",
+      "sha256": "04bb6080be58a06603126bee637c85ae5861324b85fd6782bf0ec9df0a7030fe"
+    }
+  ]
+}

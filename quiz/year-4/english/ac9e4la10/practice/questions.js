@@ -146,9 +146,9 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "Use B, where the bucket and its handle appear larger.",
-      "Use A, because every object is equally easy to inspect at any size.",
-      "Remove the bucket and keep the other three people.",
-      "Use A and cover the bucket with a heading."
+      "Use A, because seeing more people explains the shape of the handle.",
+      "Use A, because the wider stretch of sea provides more handle detail.",
+      "Use A, because the smaller bucket leaves more room for its surroundings."
     ],
     "difficulty": 1,
     "sequencePriority": 5,
@@ -177,17 +177,17 @@ window.skillrPracticeQuestions = [
       "alt_text": "Two beach illustrations. A shows four people, sea and sand; the child in a red shirt stands beside a red bucket. B enlarges that child and bucket, with the other people outside the frame."
     },
     "answers": [
-      "Why must the largest object be the oldest?",
+      "How does the bucket’s shape help viewers recognise it?",
       "What people or places might lie outside this frame?",
-      "Which colour proves the time of day?",
-      "How many visitors must be behind the camera?"
+      "How does the red shirt contrast with the sand?",
+      "Where could a caption fit without covering the child?"
     ],
     "difficulty": 1,
     "sequencePriority": 6,
     "correct": 1,
-    "explanation": "Considering excluded context is useful. The image cannot supply a definite count behind the camera or make size prove age.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
+    "explanation": "To judge how busy a place is, check whether the selected frame excludes relevant people or surroundings. Questions about colour, object shape or caption space serve other purposes.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Considering excluded context is useful. The image cannot supply a definite count behind the camera or make size prove age.",
+      "summary": "To judge how busy a place is, check whether the selected frame excludes relevant people or surroundings. Questions about colour, object shape or caption space serve other purposes.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
@@ -337,10 +337,10 @@ window.skillrPracticeQuestions = [
       "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
     },
     "answers": [
-      "B, because its largest fish has a turtle shell.",
-      "B, because the turtle is completely absent.",
+      "B, because the larger fish gives the turtle’s shell more picture space.",
+      "B, because placing the turtle at the edge makes its small shell lines easier to inspect.",
       "A, because the turtle and the lines on its shell are easier to inspect.",
-      "A, because a central position always proves the subject of a text."
+      "A, because a central position alone establishes the subject of any text."
     ],
     "difficulty": 1,
     "sequencePriority": 11,
@@ -402,16 +402,16 @@ window.skillrPracticeQuestions = [
     },
     "answers": [
       "It occupies a large area near the middle of B.",
-      "Every grey object is always noticed before every green object.",
-      "It is the only animal with an outline.",
-      "The picture states that every viewer must look at the fish first."
+      "Grey fill makes an animal stand out regardless of the sizes around it.",
+      "It stands apart because none of the other animals has a dark outline.",
+      "Its body takes up less space than the animals around it."
     ],
     "difficulty": 2,
     "sequencePriority": 13,
     "correct": 0,
-    "explanation": "A specific size-and-placement observation supports this response. Colour rules and universal claims are too strong.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
+    "explanation": "The fish’s large area and near-middle placement are specific visible support. The other animals also have outlines, and grey is not automatically more salient.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "A specific size-and-placement observation supports this response. Colour rules and universal claims are too strong.",
+      "summary": "The fish’s large area and near-middle placement are specific visible support. The other animals also have outlines, and grey is not automatically more salient.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
@@ -465,17 +465,17 @@ window.skillrPracticeQuestions = [
       "alt_text": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish."
     },
     "answers": [
-      "Salience means the animal is scientifically the most important species.",
-      "Salience means every object must be placed at the exact centre.",
+      "Salience is the boundary deciding which parts of the scene are included.",
+      "Salience is just an object’s position, without considering what stands out.",
       "The turtle has visual salience: its size and arrangement help it stand out.",
-      "Salience means the illustration is a photograph rather than a drawing."
+      "Salience is the order in which separate frames appear in a sequence."
     ],
     "difficulty": 2,
     "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Salience concerns what stands out visually in a particular composition. It does not rank species or require a photograph or exact central position.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
+    "explanation": "Salience concerns what stands out within a composition. Framing chooses the included view; placement contributes to salience but is not its complete meaning, and sequence concerns order over time.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Salience concerns what stands out visually in a particular composition. It does not rank species or require a photograph or exact central position.",
+      "summary": "Salience concerns what stands out within a composition. Framing chooses the included view; placement contributes to salience but is not its complete meaning, and sequence concerns order over time.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
@@ -721,17 +721,17 @@ window.skillrPracticeQuestions = [
       "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
     },
     "answers": [
-      "A, because its enlarged face reveals the unseen player’s position.",
-      "A, because a close frame includes every part of the field.",
+      "A, because a clearer view of one face explains the distance between both players.",
+      "A, because keeping only part of the goal provides the fullest spatial context.",
       "B, because it includes both players and the goal in a wider frame.",
-      "B, because raised arms prove the score."
+      "B, because the players’ shirt colours explain their distances from the goal."
     ],
     "difficulty": 2,
     "sequencePriority": 23,
     "correct": 2,
-    "explanation": "B provides the relevant spatial context. Neither view supplies a score or an unseen player’s position through a facial close-up.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
+    "explanation": "B includes both players and the goal, allowing a direct comparison of their positions. Facial detail or shirt colour alone does not show those spatial relationships.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "B provides the relevant spatial context. Neither view supplies a score or an unseen player’s position through a facial close-up.",
+      "summary": "B includes both players and the goal, allowing a direct comparison of their positions. Facial detail or shirt colour alone does not show those spatial relationships.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
@@ -945,10 +945,10 @@ window.skillrPracticeQuestions = [
       "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
     },
     "answers": [
-      "It cuts suddenly between two unrelated rooms.",
+      "It cuts immediately from a wide field view to the player’s face.",
       "It gradually widens from the red-shirted player to more of the field.",
-      "It steadily narrows until only the ball fills the frame.",
-      "It stays identical while only the players run across it."
+      "It gradually narrows from both players to the red-shirted player.",
+      "It keeps the same view size and slides sideways across the field."
     ],
     "difficulty": 2,
     "sequencePriority": 30,
@@ -977,17 +977,17 @@ window.skillrPracticeQuestions = [
       "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
     },
     "answers": [
-      "A change from a red shirt to a yellow shirt.",
-      "A scoreboard showing the final result.",
+      "The red-shirted player’s face, which was outside the opening frame.",
+      "The ball beside the red-shirted player, which was hidden at the start.",
       "The blue-shirted player on the right.",
-      "A ball changing into a different object."
+      "The red-shirted player’s feet, which the opening crop completely excluded."
     ],
     "difficulty": 2,
     "sequencePriority": 31,
     "correct": 2,
-    "explanation": "The widening frame reveals the second player. No shirt change, scoreboard or object transformation appears.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
+    "explanation": "The second player enters the widening frame later. The red-shirted player’s face, feet and ball were already visible in the opening.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "The widening frame reveals the second player. No shirt change, scoreboard or object transformation appears.",
+      "summary": "The second player enters the widening frame later. The red-shirted player’s face, feet and ball were already visible in the opening.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
@@ -1009,9 +1009,9 @@ window.skillrPracticeQuestions = [
       "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
     },
     "answers": [
-      "The player visibly shrinks into a younger child.",
-      "The player runs far away during the clip.",
-      "The player changes clothing behind the goal.",
+      "The player walks farther from the viewer while the view stays fixed.",
+      "The picture cuts to a new drawing of the player at a smaller scale.",
+      "The view moves sideways without changing how much of the scene fits inside it.",
       "The view pulls back to include more surroundings."
     ],
     "difficulty": 2,
@@ -1105,17 +1105,17 @@ window.skillrPracticeQuestions = [
       "alt_text": "Two views of a football scene. A enlarges the red-shirted player and shows the ball near the bottom edge. B shows that player, the whole ball, another player with raised arms on the right, and a goal."
     },
     "answers": [
-      "It would prove that the match happened backwards in real life.",
-      "It would add a third player to the drawing.",
+      "It would keep the close opening but reveal the other player sooner.",
+      "It would reveal the same details at the same points in the clip.",
       "It would begin with shared field context and end with emphasis on one player.",
-      "It would change the ball’s colour."
+      "It would end with both players equally visible after opening close to one."
     ],
     "difficulty": 2,
     "sequencePriority": 35,
     "correct": 2,
-    "explanation": "Reversing the framing progression changes when context is available and where attention ends. It does not reverse real events or create objects.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
+    "explanation": "Reversing this close-to-wide progression makes the wide shared context the opening and the closer emphasis on one player the ending. The order of available information changes.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Reversing the framing progression changes when context is available and where attention ends. It does not reverse real events or create objects.",
+      "summary": "Reversing this close-to-wide progression makes the wide shared context the opening and the closer emphasis on one player the ending. The order of available information changes.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
@@ -1330,8 +1330,8 @@ window.skillrPracticeQuestions = [
     "acceptanceNote": "Require an actual new sketch or accessible composition plan, turtle plus another sea animal, two deliberate labelled choices and an explanation tied to the protection purpose. Accept varied placements and styles.",
     "responseInstructions": "Write, draw and label, speak, or use your usual communication support as requested. An adult must inspect the actual work and its visual evidence.",
     "completionLabel": "My adult has checked the completed work.",
-    "question": "Create a small original turtle-protection poster sketch. Use two visual choices to give the turtle emphasis while keeping another sea animal visible. Label both choices.",
-    "audioPrompt": "Create a small original turtle-protection poster sketch. Use two visual choices to give the turtle emphasis while keeping another sea animal visible. Label both choices.",
+    "question": "Create a small original turtle-protection poster sketch. Use two visual choices to give the turtle emphasis while keeping another sea animal visible. Label both choices. Explain how the two choices support the turtle-protection message.",
+    "audioPrompt": "Create a small original turtle-protection poster sketch. Use two visual choices to give the turtle emphasis while keeping another sea animal visible. Label both choices. Explain how the two choices support the turtle-protection message.",
     "visual": "Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"Two sea illustrations. A has a large green turtle near the middle and three small grey fish. B has a small green turtle at the bottom left and a large grey fish near the middle, with two smaller fish.\"><use href=\"/assets/assessment-visuals/year4/english/la10/turtles.svg#model\"></use></svg>",
     "visualMeta": {

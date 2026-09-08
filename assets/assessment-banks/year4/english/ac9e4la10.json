@@ -196,15 +196,15 @@
         "is_correct": true
       },
       {
-        "text": "Use A, because every object is equally easy to inspect at any size.",
+        "text": "Use A, because seeing more people explains the shape of the handle.",
         "is_correct": false
       },
       {
-        "text": "Remove the bucket and keep the other three people.",
+        "text": "Use A, because the wider stretch of sea provides more handle detail.",
         "is_correct": false
       },
       {
-        "text": "Use A and cover the bucket with a heading.",
+        "text": "Use A, because the smaller bucket leaves more room for its surroundings.",
         "is_correct": false
       }
     ],
@@ -236,7 +236,7 @@
     },
     "answers": [
       {
-        "text": "Why must the largest object be the oldest?",
+        "text": "How does the bucket’s shape help viewers recognise it?",
         "is_correct": false
       },
       {
@@ -244,17 +244,17 @@
         "is_correct": true
       },
       {
-        "text": "Which colour proves the time of day?",
+        "text": "How does the red shirt contrast with the sand?",
         "is_correct": false
       },
       {
-        "text": "How many visitors must be behind the camera?",
+        "text": "Where could a caption fit without covering the child?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Considering excluded context is useful. The image cannot supply a definite count behind the camera or make size prove age.",
+      "summary": "To judge how busy a place is, check whether the selected frame excludes relevant people or surroundings. Questions about colour, object shape or caption space serve other purposes.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "curriculum_coverage": [
@@ -456,11 +456,11 @@
     },
     "answers": [
       {
-        "text": "B, because its largest fish has a turtle shell.",
+        "text": "B, because the larger fish gives the turtle’s shell more picture space.",
         "is_correct": false
       },
       {
-        "text": "B, because the turtle is completely absent.",
+        "text": "B, because placing the turtle at the edge makes its small shell lines easier to inspect.",
         "is_correct": false
       },
       {
@@ -468,7 +468,7 @@
         "is_correct": true
       },
       {
-        "text": "A, because a central position always proves the subject of a text.",
+        "text": "A, because a central position alone establishes the subject of any text.",
         "is_correct": false
       }
     ],
@@ -548,21 +548,21 @@
         "is_correct": true
       },
       {
-        "text": "Every grey object is always noticed before every green object.",
+        "text": "Grey fill makes an animal stand out regardless of the sizes around it.",
         "is_correct": false
       },
       {
-        "text": "It is the only animal with an outline.",
+        "text": "It stands apart because none of the other animals has a dark outline.",
         "is_correct": false
       },
       {
-        "text": "The picture states that every viewer must look at the fish first.",
+        "text": "Its body takes up less space than the animals around it.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A specific size-and-placement observation supports this response. Colour rules and universal claims are too strong.",
+      "summary": "The fish’s large area and near-middle placement are specific visible support. The other animals also have outlines, and grey is not automatically more salient.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "curriculum_coverage": [
@@ -632,11 +632,11 @@
     },
     "answers": [
       {
-        "text": "Salience means the animal is scientifically the most important species.",
+        "text": "Salience is the boundary deciding which parts of the scene are included.",
         "is_correct": false
       },
       {
-        "text": "Salience means every object must be placed at the exact centre.",
+        "text": "Salience is just an object’s position, without considering what stands out.",
         "is_correct": false
       },
       {
@@ -644,13 +644,13 @@
         "is_correct": true
       },
       {
-        "text": "Salience means the illustration is a photograph rather than a drawing.",
+        "text": "Salience is the order in which separate frames appear in a sequence.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Salience concerns what stands out visually in a particular composition. It does not rank species or require a photograph or exact central position.",
+      "summary": "Salience concerns what stands out within a composition. Framing chooses the included view; placement contributes to salience but is not its complete meaning, and sequence concerns order over time.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "curriculum_coverage": [
@@ -984,11 +984,11 @@
     },
     "answers": [
       {
-        "text": "A, because its enlarged face reveals the unseen player’s position.",
+        "text": "A, because a clearer view of one face explains the distance between both players.",
         "is_correct": false
       },
       {
-        "text": "A, because a close frame includes every part of the field.",
+        "text": "A, because keeping only part of the goal provides the fullest spatial context.",
         "is_correct": false
       },
       {
@@ -996,13 +996,13 @@
         "is_correct": true
       },
       {
-        "text": "B, because raised arms prove the score.",
+        "text": "B, because the players’ shirt colours explain their distances from the goal.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "B provides the relevant spatial context. Neither view supplies a score or an unseen player’s position through a facial close-up.",
+      "summary": "B includes both players and the goal, allowing a direct comparison of their positions. Facial detail or shirt colour alone does not show those spatial relationships.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "curriculum_coverage": [
@@ -1292,7 +1292,7 @@
     },
     "answers": [
       {
-        "text": "It cuts suddenly between two unrelated rooms.",
+        "text": "It cuts immediately from a wide field view to the player’s face.",
         "is_correct": false
       },
       {
@@ -1300,11 +1300,11 @@
         "is_correct": true
       },
       {
-        "text": "It steadily narrows until only the ball fills the frame.",
+        "text": "It gradually narrows from both players to the red-shirted player.",
         "is_correct": false
       },
       {
-        "text": "It stays identical while only the players run across it.",
+        "text": "It keeps the same view size and slides sideways across the field.",
         "is_correct": false
       }
     ],
@@ -1336,11 +1336,11 @@
     },
     "answers": [
       {
-        "text": "A change from a red shirt to a yellow shirt.",
+        "text": "The red-shirted player’s face, which was outside the opening frame.",
         "is_correct": false
       },
       {
-        "text": "A scoreboard showing the final result.",
+        "text": "The ball beside the red-shirted player, which was hidden at the start.",
         "is_correct": false
       },
       {
@@ -1348,13 +1348,13 @@
         "is_correct": true
       },
       {
-        "text": "A ball changing into a different object.",
+        "text": "The red-shirted player’s feet, which the opening crop completely excluded.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The widening frame reveals the second player. No shirt change, scoreboard or object transformation appears.",
+      "summary": "The second player enters the widening frame later. The red-shirted player’s face, feet and ball were already visible in the opening.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "curriculum_coverage": [
@@ -1380,15 +1380,15 @@
     },
     "answers": [
       {
-        "text": "The player visibly shrinks into a younger child.",
+        "text": "The player walks farther from the viewer while the view stays fixed.",
         "is_correct": false
       },
       {
-        "text": "The player runs far away during the clip.",
+        "text": "The picture cuts to a new drawing of the player at a smaller scale.",
         "is_correct": false
       },
       {
-        "text": "The player changes clothing behind the goal.",
+        "text": "The view moves sideways without changing how much of the scene fits inside it.",
         "is_correct": false
       },
       {
@@ -1512,11 +1512,11 @@
     },
     "answers": [
       {
-        "text": "It would prove that the match happened backwards in real life.",
+        "text": "It would keep the close opening but reveal the other player sooner.",
         "is_correct": false
       },
       {
-        "text": "It would add a third player to the drawing.",
+        "text": "It would reveal the same details at the same points in the clip.",
         "is_correct": false
       },
       {
@@ -1524,13 +1524,13 @@
         "is_correct": true
       },
       {
-        "text": "It would change the ball’s colour.",
+        "text": "It would end with both players equally visible after opening close to one.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Reversing the framing progression changes when context is available and where attention ends. It does not reverse real events or create objects.",
+      "summary": "Reversing this close-to-wide progression makes the wide shared context the opening and the closer emphasis on one player the ending. The order of available information changes.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "curriculum_coverage": [
@@ -1751,8 +1751,8 @@
     "bank": "practice",
     "stage": "independent",
     "skill": "Framing, placement and salience in still and moving images",
-    "question": "Create a small original turtle-protection poster sketch. Use two visual choices to give the turtle emphasis while keeping another sea animal visible. Label both choices.",
-    "audio_prompt": "Create a small original turtle-protection poster sketch. Use two visual choices to give the turtle emphasis while keeping another sea animal visible. Label both choices.",
+    "question": "Create a small original turtle-protection poster sketch. Use two visual choices to give the turtle emphasis while keeping another sea animal visible. Label both choices. Explain how the two choices support the turtle-protection message.",
+    "audio_prompt": "Create a small original turtle-protection poster sketch. Use two visual choices to give the turtle emphasis while keeping another sea animal visible. Label both choices. Explain how the two choices support the turtle-protection message.",
     "visual": {
       "type": "svg",
       "asset_path": "/assets/assessment-visuals/year4/english/la10/turtles.svg#model",
@@ -2072,11 +2072,11 @@
     },
     "answers": [
       {
-        "text": "The children have certainly been best friends since infancy.",
+        "text": "The children’s spacing establishes that they have already agreed to play together.",
         "is_correct": false
       },
       {
-        "text": "The bench proves they are both unhappy.",
+        "text": "The faces show a change from sadness in A to happiness in B.",
         "is_correct": false
       },
       {
@@ -2084,13 +2084,13 @@
         "is_correct": true
       },
       {
-        "text": "The orange-shirted child is definitely older because of the placement.",
+        "text": "The larger gap in B may make the children seem more separated.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Closer placement can support a possible reading of shared space. It does not establish friendship history, age or certain feelings.",
+      "summary": "The children are closer together in B, which can support a possible reading of shared space. Their neutral expressions are unchanged, and spacing does not establish an agreement.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "curriculum_coverage": [
@@ -2124,7 +2124,7 @@
         "is_correct": false
       },
       {
-        "text": "Keep the same layout and only rename the file.",
+        "text": "Keep both children visible and place the bench between them.",
         "is_correct": false
       },
       {
@@ -2204,7 +2204,7 @@
     },
     "answers": [
       {
-        "text": "Only the fact that their shirts have different colours.",
+        "text": "A tighter crop that enlarges the same neutral faces.",
         "is_correct": false
       },
       {
@@ -2212,17 +2212,17 @@
         "is_correct": true
       },
       {
-        "text": "Only the fact that the bench is in the middle.",
+        "text": "A second drawing showing a wider gap between the children.",
         "is_correct": false
       },
       {
-        "text": "Only the letter A printed above the picture.",
+        "text": "A viewer’s impression that the children seem distant.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Spacing can suggest possibilities, but the drawing does not establish an argument. A factual caption needs evidence of the interaction.",
+      "summary": "A crop, greater depicted gap or viewer impression may influence interpretation, but does not establish an argument. A factual caption needs reliable information about the interaction.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "curriculum_coverage": [
@@ -2340,15 +2340,15 @@
         "is_correct": true
       },
       {
-        "text": "A, because a larger face shows the kite’s location.",
+        "text": "A, because the enlarged child supplies more information about the kite’s position.",
         "is_correct": false
       },
       {
-        "text": "A, because everything outside its frame is known to be absent.",
+        "text": "A, because showing only part of the string identifies where its unseen end lies.",
         "is_correct": false
       },
       {
-        "text": "B, because yellow always means an object is safe to reach.",
+        "text": "B, because the kite’s yellow fill alone shows its relationship to the child.",
         "is_correct": false
       }
     ],
@@ -2424,11 +2424,11 @@
     },
     "answers": [
       {
-        "text": "The viewer would see a rescue that is absent from the original drawing.",
+        "text": "The viewer would first see only the child and learn about the tree later.",
         "is_correct": false
       },
       {
-        "text": "The string would disappear from every later view.",
+        "text": "The kite’s location would be withheld until the end, as before.",
         "is_correct": false
       },
       {
@@ -2436,13 +2436,13 @@
         "is_correct": true
       },
       {
-        "text": "The child’s shirt would change colour at the opening.",
+        "text": "The order of learning about the surroundings would stay the same.",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Starting wide changes when the setting and kite location are revealed. It does not add an action or alter the drawn objects.",
+      "summary": "Starting with the final wide view supplies the kite and tree immediately. It changes the order of information rather than preserving the original delayed reveal.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "curriculum_coverage": [
@@ -2468,15 +2468,15 @@
     },
     "answers": [
       {
-        "text": "The child walks towards the tree while the frame stays fixed.",
+        "text": "The child walks away from the viewer while the frame remains fixed.",
         "is_correct": false
       },
       {
-        "text": "The kite repeatedly flaps its tail while the child climbs.",
+        "text": "The frame slides sideways at a fixed size to follow the string.",
         "is_correct": false
       },
       {
-        "text": "The tree falls towards the child during a sudden cut.",
+        "text": "The clip cuts abruptly between a close view and a separate wide view.",
         "is_correct": false
       },
       {

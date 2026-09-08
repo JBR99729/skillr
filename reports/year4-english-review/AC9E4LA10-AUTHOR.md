@@ -65,11 +65,11 @@ Independent content reviewer must inspect all64 final items, nine teaching bodie
 
 | Final resource | SHA-256 |
 |---|---|
-| `assets/assessment-banks/year4/english/ac9e4la10.json` | `3cf65b4dcb0b95e62a84a16490ee35bd91661604d3042442e3dce439bbc0c932` |
+| `assets/assessment-banks/year4/english/ac9e4la10.json` | `6d142e50f8ae72fabb0a1097931a3f8de7be3f95f91348bd0f695c7a207704cf` |
 | `year4/english/ac9e4la10-the-effect-of-choices-when-framing-an-image-placement-of/index.html` | `cf229d6ad00acfb8ed083f6a765a311c468dcbf921b382ff064b8b54aebf0f1f` |
 | `year4/english/ac9e4la10-the-effect-of-choices-when-framing-an-image-placement-of/teacher-slides/index.html` | `75a003ee10cfcd23f76f896eea693f89d8ee5ffbc01a480f9fc9db1c14a61148` |
-| `quiz/year-4/english/ac9e4la10/worksheet/index.html` | `1a86253f98fb8e38587dbc333fdf8f3bbc709c2e996e32ba24001c286c68ae13` |
-| `quiz/year-4/english/ac9e4la10/worksheet/worksheet-questions.js` | `579e30bc2a7563428dd112ce35ffabd5b4f6f9683c1a134c2fc57c564cd2c578` |
+| `quiz/year-4/english/ac9e4la10/worksheet/index.html` | `7c4b3d16177b4f91e90425a0c9d9775bf82ba5d1a39d596031d796eb67503497` |
+| `quiz/year-4/english/ac9e4la10/worksheet/worksheet-questions.js` | `2c93947e5af319e5b190568c3f3412b5bdc41aaa462142fcc9c587848103b5eb` |
 | `assets/assessment-visuals/year4/english/la10/beach.svg` | `17ea47f811c67f31dbc668b937aa70bf750f8d520f4237c6d7726c75a048e7da` |
 | `assets/assessment-visuals/year4/english/la10/turtles.svg` | `6cdc8a07c21bfbbc8a0a645b24b25338ffdc05eeee0fb1c6f3e091ac1506474c` |
 | `assets/assessment-visuals/year4/english/la10/signs.svg` | `71620006caa64e132065685badd346f9e678668cf7b45159fd04a1fa68ca9393` |
@@ -78,3 +78,9 @@ Independent content reviewer must inspect all64 final items, nine teaching bodie
 | `assets/assessment-visuals/year4/english/la10/kite.svg` | `d07fee06fc83a5371d50a038d307f56d2ad7423bf2dc9f3872b85f07b4b3f4d0` |
 | `assets/videos/year4/english/ac9e4la10-football.mp4` | `c75a18e4e14a7946126486d43431e02266dd0bd2f8a0be8ae82ba35c2adc06de` |
 | `assets/videos/year4/english/ac9e4la10-kite.mp4` | `ae4e073b5039f6433238d8d4b6d409f7475b1d1c51cb1a847b68dd8d251a1e25` |
+
+## Independent-review corrections applied
+
+Reviewer `/root/la05_author` read all64 bank items, nine teaching bodies, all8HW, six SVGs and all144 encoded MP4 frames. Bounded corrections replaced implausible distractors in P005/P006/P011/P013/P015/P023/P030/P031/P032/P035 and T003/T004/T006/T009/T011/T012 with plausible framing, placement, sequence or evidence near misses, preserving every correct key. Matching explanation summaries were updated where needed. P042 now explicitly requests the purpose explanation already required by its adult rubric. All other canonical fields are unchanged.
+
+W007/W008 each now request8 PDF response lines and have320px static response space for their multi-frame drawings and explanations. No worksheet wording, answer, guidance or visual changed. Final production PDFs must be regenerated and independently inspected before approval. Pre-correction owned files are retained at `/tmp/la10-before-review-corrections/` for a bounded comparison. The SHA-256 inventory above is updated for the corrected bank and worksheet files; all media and Topic/Classroom hashes are unchanged. Independent recheck remains required.

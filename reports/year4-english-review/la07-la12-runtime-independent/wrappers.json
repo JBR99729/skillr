@@ -1,0 +1,996 @@
+{
+  "status": "PASS",
+  "scope": "All54 root-authored next-six wrappers; structure/config/script order/local resource links/neutral support and LA10 persistent static media placement. No content self-approval or live browser claim.",
+  "rows": [
+    {
+      "file": "quiz/year-4/english/ac9e4la07/index.html",
+      "sha256": "918f6c6b18e9756904ce8e21f7b633abc090d64e2c11c005d5e5833135cb8158",
+      "route": "/quiz/year-4/english/ac9e4la07/",
+      "mode": "practice",
+      "preparation": "Before you beginRead the supplied speaker, message and reporting context. Preserve people, meaning and important limits. For written tasks, create the actual response and have an adult check it; saving work alone does not award credit.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la07/practice/index.html",
+      "sha256": "5abcd8bd776df12b8bf6ace24057a095052ab86df88637aaf1d4c623e1a66f6a",
+      "route": "/quiz/year-4/english/ac9e4la07/practice/",
+      "mode": "practice",
+      "preparation": "Before you beginPreparation model: Mina said, “I need a ruler.” A faithful report is: Mina said that she needed a ruler. I becomes she because another person is reporting Mina’s need; the person and the needed object stay the same.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA07PracticeBest",
+        "skillCode": "AC9E4LA07",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": false,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA07PracticeResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la07/practice/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la07/practice/result/index.html",
+      "sha256": "e6dadec3b7921164c76e2f428dfe6148513a231c925e08fd15c40232d43038f5",
+      "route": "/quiz/year-4/english/ac9e4la07/practice/result/",
+      "mode": "practice",
+      "preparation": "Before you beginPreparation model: Mina said, “I need a ruler.” A faithful report is: Mina said that she needed a ruler. I becomes she because another person is reporting Mina’s need; the person and the needed object stay the same.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la07/practice/retake/index.html",
+      "sha256": "7e013aa68fff2575a094824f9ded59c68b7fd3a38b2eeb83468484bdeb88e1cf",
+      "route": "/quiz/year-4/english/ac9e4la07/practice/retake/",
+      "mode": "practice",
+      "preparation": "Before you beginPreparation model: Mina said, “I need a ruler.” A faithful report is: Mina said that she needed a ruler. I becomes she because another person is reporting Mina’s need; the person and the needed object stay the same.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la07/practice/review/index.html",
+      "sha256": "443158675b6b0b681f61694bfcd9f688beb527ac79ab3a174f265ca001ee8068",
+      "route": "/quiz/year-4/english/ac9e4la07/practice/review/",
+      "mode": "practice",
+      "preparation": "Before you beginPreparation model: Mina said, “I need a ruler.” A faithful report is: Mina said that she needed a ruler. I becomes she because another person is reporting Mina’s need; the person and the needed object stay the same.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la07/test/index.html",
+      "sha256": "670f89185c39361a90882a1537b4ffde93a71ebccb66b9c7ced417e51360a030",
+      "route": "/quiz/year-4/english/ac9e4la07/test/",
+      "mode": "test",
+      "preparation": "Before you beginRead the supplied speaker, message and reporting context. Preserve people, meaning and important limits. For written tasks, create the actual response and have an adult check it; saving work alone does not award credit.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA07TestBest",
+        "skillCode": "AC9E4LA07",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": true,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA07TestResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la07/test/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la07/test/result/index.html",
+      "sha256": "2c1d2c5af0ad046be8b4392741f5a3f2ffcaeaaa0269d037d8980b92d8489670",
+      "route": "/quiz/year-4/english/ac9e4la07/test/result/",
+      "mode": "test",
+      "preparation": "Before you beginRead the supplied speaker, message and reporting context. Preserve people, meaning and important limits. For written tasks, create the actual response and have an adult check it; saving work alone does not award credit.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la07/test/retake/index.html",
+      "sha256": "0c55366b2bf5a2f4de62a6654ee12cf338d89862c2f424e11fc06d0753e1c3ca",
+      "route": "/quiz/year-4/english/ac9e4la07/test/retake/",
+      "mode": "test",
+      "preparation": "Before you beginRead the supplied speaker, message and reporting context. Preserve people, meaning and important limits. For written tasks, create the actual response and have an adult check it; saving work alone does not award credit.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la07/test/review/index.html",
+      "sha256": "27416833e8a2cfc692d090345a73b153c962c3be818e6e611b7e368b5e07a3d8",
+      "route": "/quiz/year-4/english/ac9e4la07/test/review/",
+      "mode": "test",
+      "preparation": "Before you beginRead the supplied speaker, message and reporting context. Preserve people, meaning and important limits. For written tasks, create the actual response and have an adult check it; saving work alone does not award credit.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la08/index.html",
+      "sha256": "f921c5ad4671c7944499a6f44a2e63ca2e863ddc71489312cfee97cf9c978e46",
+      "route": "/quiz/year-4/english/ac9e4la08/",
+      "mode": "practice",
+      "preparation": "Before you beginRead the complete sentence. Use its actual words to answer. For a writing task, complete your own sentence and explanation so an adult can check the work.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la08/practice/index.html",
+      "sha256": "26686db5ab950a20a4162c226db042be1f6daec44a1a930dba42669f19ac6f36",
+      "route": "/quiz/year-4/english/ac9e4la08/practice/",
+      "mode": "practice",
+      "preparation": "Before you beginRead: “Before sunrise, the fox waited beside the fallen log.” “Before sunrise” is a prepositional phrase giving time; “beside the fallen log” is another giving place. Form tells how a group is built; circumstance tells the detail it adds.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA08PracticeBest",
+        "skillCode": "AC9E4LA08",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": false,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA08PracticeResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la08/practice/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la08/practice/result/index.html",
+      "sha256": "3a1afc1e43bb1cac65e7f2e69fda46023fb8aca269a94dac41199cc147a98d8b",
+      "route": "/quiz/year-4/english/ac9e4la08/practice/result/",
+      "mode": "practice",
+      "preparation": "Before you beginRead: “Before sunrise, the fox waited beside the fallen log.” “Before sunrise” is a prepositional phrase giving time; “beside the fallen log” is another giving place. Form tells how a group is built; circumstance tells the detail it adds.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la08/practice/retake/index.html",
+      "sha256": "9deb12d9c07af7c7728f991d02c28d7a439b39ca67d1d3fc5c190f3a78caf764",
+      "route": "/quiz/year-4/english/ac9e4la08/practice/retake/",
+      "mode": "practice",
+      "preparation": "Before you beginRead: “Before sunrise, the fox waited beside the fallen log.” “Before sunrise” is a prepositional phrase giving time; “beside the fallen log” is another giving place. Form tells how a group is built; circumstance tells the detail it adds.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la08/practice/review/index.html",
+      "sha256": "7307493f482e3ca42cd0217e31fa92d8b5de86df69cd30612129a7cd9a1eed67",
+      "route": "/quiz/year-4/english/ac9e4la08/practice/review/",
+      "mode": "practice",
+      "preparation": "Before you beginRead: “Before sunrise, the fox waited beside the fallen log.” “Before sunrise” is a prepositional phrase giving time; “beside the fallen log” is another giving place. Form tells how a group is built; circumstance tells the detail it adds.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la08/test/index.html",
+      "sha256": "9bc8c3c771c2efcae0997ecc4372b905f0045d37a5a42b1ea026afa96cae0274",
+      "route": "/quiz/year-4/english/ac9e4la08/test/",
+      "mode": "test",
+      "preparation": "Before you beginRead the complete sentence. Use its actual words to answer. For a writing task, complete your own sentence and explanation so an adult can check the work.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA08TestBest",
+        "skillCode": "AC9E4LA08",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": true,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA08TestResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la08/test/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la08/test/result/index.html",
+      "sha256": "18863f037ddb15976e784cbf4ef7509acd119d58a90e3f90708974d0a9126705",
+      "route": "/quiz/year-4/english/ac9e4la08/test/result/",
+      "mode": "test",
+      "preparation": "Before you beginRead the complete sentence. Use its actual words to answer. For a writing task, complete your own sentence and explanation so an adult can check the work.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la08/test/retake/index.html",
+      "sha256": "f123892a72a5470cc4b78579eea1691b6b75405efe8f43cc39d5d2006ec141f4",
+      "route": "/quiz/year-4/english/ac9e4la08/test/retake/",
+      "mode": "test",
+      "preparation": "Before you beginRead the complete sentence. Use its actual words to answer. For a writing task, complete your own sentence and explanation so an adult can check the work.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la08/test/review/index.html",
+      "sha256": "f92ed968aefbe1b6e2340446b6e2b9e11d04b569df81a60b56297a747dd20d71",
+      "route": "/quiz/year-4/english/ac9e4la08/test/review/",
+      "mode": "test",
+      "preparation": "Before you beginRead the complete sentence. Use its actual words to answer. For a writing task, complete your own sentence and explanation so an adult can check the work.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la09/index.html",
+      "sha256": "07ea0796194f158dd2324cc957b0fab47d245a9fdf1a9c9191e65b965d540461",
+      "route": "/quiz/year-4/english/ac9e4la09/",
+      "mode": "practice",
+      "preparation": "Before you beginRead the whole text and each complete verb group. Check the intended time before changing a form. In writing tasks, explain your own choices; an adult checks the actual work.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la09/practice/index.html",
+      "sha256": "6de23eb5e422074f6f77c03771c078d59aeaa9863e05e90c087cbaae13358781",
+      "route": "/quiz/year-4/english/ac9e4la09/practice/",
+      "mode": "practice",
+      "preparation": "Before you beginPast eventYesterday, I walked to school.“Walked” presents the walk as a past event.Current routineI walk to school on most school days.“Walk” describes a current habit. It does not mean I must be walking at this exact moment.Future planTomorrow, I will walk to school.“Will walk” presents the walk as a future action. Use the base verb after “will”: will walk, not will walked.All three sentences keep the walker and destination. The verb groups and time context change how the reader places the event in time. You can write about an imagined journey; no journey is required.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA09PracticeBest",
+        "skillCode": "AC9E4LA09",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": false,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA09PracticeResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la09/practice/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la09/practice/result/index.html",
+      "sha256": "93fc4bd5782e49f069d30164b871eb776b4bf2a5fd53d0df37d50d4e58672d0f",
+      "route": "/quiz/year-4/english/ac9e4la09/practice/result/",
+      "mode": "practice",
+      "preparation": "Before you beginPast eventYesterday, I walked to school.“Walked” presents the walk as a past event.Current routineI walk to school on most school days.“Walk” describes a current habit. It does not mean I must be walking at this exact moment.Future planTomorrow, I will walk to school.“Will walk” presents the walk as a future action. Use the base verb after “will”: will walk, not will walked.All three sentences keep the walker and destination. The verb groups and time context change how the reader places the event in time. You can write about an imagined journey; no journey is required.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la09/practice/retake/index.html",
+      "sha256": "7b16174cdf6b9076d95dcf62c52f88cdfa4d3333c54765e43c4da93c906325bb",
+      "route": "/quiz/year-4/english/ac9e4la09/practice/retake/",
+      "mode": "practice",
+      "preparation": "Before you beginPast eventYesterday, I walked to school.“Walked” presents the walk as a past event.Current routineI walk to school on most school days.“Walk” describes a current habit. It does not mean I must be walking at this exact moment.Future planTomorrow, I will walk to school.“Will walk” presents the walk as a future action. Use the base verb after “will”: will walk, not will walked.All three sentences keep the walker and destination. The verb groups and time context change how the reader places the event in time. You can write about an imagined journey; no journey is required.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la09/practice/review/index.html",
+      "sha256": "2dc710d2d553650929f47b497336a178f5ef5800cd3961c650cc276cfcd3c8d5",
+      "route": "/quiz/year-4/english/ac9e4la09/practice/review/",
+      "mode": "practice",
+      "preparation": "Before you beginPast eventYesterday, I walked to school.“Walked” presents the walk as a past event.Current routineI walk to school on most school days.“Walk” describes a current habit. It does not mean I must be walking at this exact moment.Future planTomorrow, I will walk to school.“Will walk” presents the walk as a future action. Use the base verb after “will”: will walk, not will walked.All three sentences keep the walker and destination. The verb groups and time context change how the reader places the event in time. You can write about an imagined journey; no journey is required.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la09/test/index.html",
+      "sha256": "09adee72345e4896141a114208c03e99835ad75efe1b4466d33111089425d8b2",
+      "route": "/quiz/year-4/english/ac9e4la09/test/",
+      "mode": "test",
+      "preparation": "Before you beginRead the whole text and each complete verb group. Check the intended time before changing a form. In writing tasks, explain your own choices; an adult checks the actual work.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA09TestBest",
+        "skillCode": "AC9E4LA09",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": true,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA09TestResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la09/test/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la09/test/result/index.html",
+      "sha256": "342820e73325a028a3da648fe8223489c9a9f326027d7cebbeb966ab51ba6a1e",
+      "route": "/quiz/year-4/english/ac9e4la09/test/result/",
+      "mode": "test",
+      "preparation": "Before you beginRead the whole text and each complete verb group. Check the intended time before changing a form. In writing tasks, explain your own choices; an adult checks the actual work.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la09/test/retake/index.html",
+      "sha256": "a3081a4ceeeed8ab6e9607241daf679f027439acbe149eb94f8d067a4a5b2458",
+      "route": "/quiz/year-4/english/ac9e4la09/test/retake/",
+      "mode": "test",
+      "preparation": "Before you beginRead the whole text and each complete verb group. Check the intended time before changing a form. In writing tasks, explain your own choices; an adult checks the actual work.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la09/test/review/index.html",
+      "sha256": "b0089374683cd72c2048b0c5db420278bae5f63434ec85a1039a2e0a4f5910a4",
+      "route": "/quiz/year-4/english/ac9e4la09/test/review/",
+      "mode": "test",
+      "preparation": "Before you beginRead the whole text and each complete verb group. Check the intended time before changing a form. In writing tasks, explain your own choices; an adult checks the actual work.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la10/index.html",
+      "sha256": "d5c6509b5ad023692bde49f81426ff2a67e63a5176e369a40819af808667cbc3",
+      "route": "/quiz/year-4/english/ac9e4la10/",
+      "mode": "practice",
+      "preparation": "Before you beginA close frame can enlarge a subject; a wider frame can show its surroundings. Explain the particular visible choice and a possible effect on attention, rather than assuming one feeling for every viewer.Your browser does not support this video. Use the download link below.Practice football clip · Original silent six-second clip. Play, pause and replay as needed. Download the clip.Text description of the Practice clipThe opening enlarges the red-shirted player and ball. The frame gradually widens to include a second player on the right and more of the goal. It holds the wide view at the end. The drawn people and ball do not move, and there is no sound.Moving-image tasks require the actual clip. If it cannot play here, try the download; if playback remains unavailable, leave viewing tasks pending with an adult.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 1
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la10/practice/index.html",
+      "sha256": "4f3578ed784d30f671efd771dd7ebdd213f9b4ae60286892d81701391ec185ab",
+      "route": "/quiz/year-4/english/ac9e4la10/practice/",
+      "mode": "practice",
+      "preparation": "Before you beginA close frame can enlarge a subject; a wider frame can show its surroundings. Explain the particular visible choice and a possible effect on attention, rather than assuming one feeling for every viewer.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA10PracticeBest",
+        "skillCode": "AC9E4LA10",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": false,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA10PracticeResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la10/practice/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 1
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la10/practice/result/index.html",
+      "sha256": "6a5608e8e2fdc30273d38924eeaa78861fe5a3610d992cae906e9233a83a75eb",
+      "route": "/quiz/year-4/english/ac9e4la10/practice/result/",
+      "mode": "practice",
+      "preparation": "Before you beginA close frame can enlarge a subject; a wider frame can show its surroundings. Explain the particular visible choice and a possible effect on attention, rather than assuming one feeling for every viewer.Your browser does not support this video. Use the download link below.Practice football clip · Original silent six-second clip. Play, pause and replay as needed. Download the clip.Text description of the Practice clipThe opening enlarges the red-shirted player and ball. The frame gradually widens to include a second player on the right and more of the goal. It holds the wide view at the end. The drawn people and ball do not move, and there is no sound.Moving-image tasks require the actual clip. If it cannot play here, try the download; if playback remains unavailable, leave viewing tasks pending with an adult.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 1
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la10/practice/retake/index.html",
+      "sha256": "f3904e6eaaf5520735229ef03c8bd9fb5dcd9e23b38ff6e9f7449223c6401cd4",
+      "route": "/quiz/year-4/english/ac9e4la10/practice/retake/",
+      "mode": "practice",
+      "preparation": "Before you beginA close frame can enlarge a subject; a wider frame can show its surroundings. Explain the particular visible choice and a possible effect on attention, rather than assuming one feeling for every viewer.Your browser does not support this video. Use the download link below.Practice football clip · Original silent six-second clip. Play, pause and replay as needed. Download the clip.Text description of the Practice clipThe opening enlarges the red-shirted player and ball. The frame gradually widens to include a second player on the right and more of the goal. It holds the wide view at the end. The drawn people and ball do not move, and there is no sound.Moving-image tasks require the actual clip. If it cannot play here, try the download; if playback remains unavailable, leave viewing tasks pending with an adult.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 1
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la10/practice/review/index.html",
+      "sha256": "ca5e3dcf6092feef4a300a4a656401b88cfbf7ebb3776fd3544e74bd0d5492a1",
+      "route": "/quiz/year-4/english/ac9e4la10/practice/review/",
+      "mode": "practice",
+      "preparation": "Before you beginA close frame can enlarge a subject; a wider frame can show its surroundings. Explain the particular visible choice and a possible effect on attention, rather than assuming one feeling for every viewer.Your browser does not support this video. Use the download link below.Practice football clip · Original silent six-second clip. Play, pause and replay as needed. Download the clip.Text description of the Practice clipThe opening enlarges the red-shirted player and ball. The frame gradually widens to include a second player on the right and more of the goal. It holds the wide view at the end. The drawn people and ball do not move, and there is no sound.Moving-image tasks require the actual clip. If it cannot play here, try the download; if playback remains unavailable, leave viewing tasks pending with an adult.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 1
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la10/test/index.html",
+      "sha256": "f4f45c88691e125ce53396d27f395d5f1cfd5712f718e67f36adb01c32fd1ecc",
+      "route": "/quiz/year-4/english/ac9e4la10/test/",
+      "mode": "test",
+      "preparation": "Before you beginInspect the supplied still images and play the Test clip when a question asks you to watch it. Use visible details to support your response. Complete drawing, planning and explanation tasks so an adult can check your actual work.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA10TestBest",
+        "skillCode": "AC9E4LA10",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": true,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA10TestResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la10/test/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 1
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la10/test/result/index.html",
+      "sha256": "ad81572245d3e99d0d56a346a17da59df17874b1577b7fb125acbcdb8cfb2432",
+      "route": "/quiz/year-4/english/ac9e4la10/test/result/",
+      "mode": "test",
+      "preparation": "Before you beginInspect the supplied still images and play the Test clip when a question asks you to watch it. Use visible details to support your response. Complete drawing, planning and explanation tasks so an adult can check your actual work.Your browser does not support this video. Use the download link below.Test kite clip · Original silent six-second clip. Play, pause and replay as needed. Download the clip.Text description of the Test clipThe opening enlarges a blue-shirted child holding part of a string. The frame gradually widens to show a tree on the right and a yellow kite overlapping a branch, connected to the child by the string. It holds that wide view at the end. The drawn child, kite and tree do not animate. There is no sound.If the clip cannot play here, try the download. Leave moving-image viewing tasks pending with an adult if playback remains unavailable.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 1
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la10/test/retake/index.html",
+      "sha256": "13a2e9d12671c5062ff588d47159b8a6ba18984f5499caad6dacd25468468393",
+      "route": "/quiz/year-4/english/ac9e4la10/test/retake/",
+      "mode": "test",
+      "preparation": "Before you beginInspect the supplied still images and play the Test clip when a question asks you to watch it. Use visible details to support your response. Complete drawing, planning and explanation tasks so an adult can check your actual work.Your browser does not support this video. Use the download link below.Test kite clip · Original silent six-second clip. Play, pause and replay as needed. Download the clip.Text description of the Test clipThe opening enlarges a blue-shirted child holding part of a string. The frame gradually widens to show a tree on the right and a yellow kite overlapping a branch, connected to the child by the string. It holds that wide view at the end. The drawn child, kite and tree do not animate. There is no sound.If the clip cannot play here, try the download. Leave moving-image viewing tasks pending with an adult if playback remains unavailable.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 1
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la10/test/review/index.html",
+      "sha256": "56fb0c37a3b8fc49731793a31a35af1436d8bdb32afa7c176610aa8aa999af26",
+      "route": "/quiz/year-4/english/ac9e4la10/test/review/",
+      "mode": "test",
+      "preparation": "Before you beginInspect the supplied still images and play the Test clip when a question asks you to watch it. Use visible details to support your response. Complete drawing, planning and explanation tasks so an adult can check your actual work.Your browser does not support this video. Use the download link below.Test kite clip · Original silent six-second clip. Play, pause and replay as needed. Download the clip.Text description of the Test clipThe opening enlarges a blue-shirted child holding part of a string. The frame gradually widens to show a tree on the right and a yellow kite overlapping a branch, connected to the child by the string. It holds that wide view at the end. The drawn child, kite and tree do not animate. There is no sound.If the clip cannot play here, try the download. Leave moving-image viewing tasks pending with an adult if playback remains unavailable.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 1
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la11/index.html",
+      "sha256": "b3740df5e7c5c53f5cb57bc97524d92d0e49126117954286c597f75b495ad288",
+      "route": "/quiz/year-4/english/ac9e4la11/",
+      "mode": "practice",
+      "preparation": "Before you beginRead the surrounding words and the supplied source card. Use the meaning that fits this context, then explain your own choice. An adult checks actual written work, not a completion tick alone.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la11/practice/index.html",
+      "sha256": "9fd768191f6370bf03648b6320bd99d93ee0789e778372ce3fb76700d89d8b97",
+      "route": "/quiz/year-4/english/ac9e4la11/practice/",
+      "mode": "practice",
+      "preparation": "Before you begin“The exhausted hikers walked slowly to camp.” Replace walked with trudged to suggest heavy, effortful steps. Strolled suggests a more relaxed walk; skipped adds bouncy movement. Each choice changes the picture.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA11PracticeBest",
+        "skillCode": "AC9E4LA11",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": false,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA11PracticeResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la11/practice/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la11/practice/result/index.html",
+      "sha256": "ab5cd33a2acf72459d3753901a63f0bf7abdf8bf8fae46cdc2ff36b7e55ba3ea",
+      "route": "/quiz/year-4/english/ac9e4la11/practice/result/",
+      "mode": "practice",
+      "preparation": "Before you begin“The exhausted hikers walked slowly to camp.” Replace walked with trudged to suggest heavy, effortful steps. Strolled suggests a more relaxed walk; skipped adds bouncy movement. Each choice changes the picture.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la11/practice/retake/index.html",
+      "sha256": "ae23808b80f2b0d84e8675dbb169899e75bd568ae246a3da0fce785f945a37b6",
+      "route": "/quiz/year-4/english/ac9e4la11/practice/retake/",
+      "mode": "practice",
+      "preparation": "Before you begin“The exhausted hikers walked slowly to camp.” Replace walked with trudged to suggest heavy, effortful steps. Strolled suggests a more relaxed walk; skipped adds bouncy movement. Each choice changes the picture.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la11/practice/review/index.html",
+      "sha256": "a43d699ebd922409ac234d3a0623bee2b683bd446ae1f47e37f7706102168ea2",
+      "route": "/quiz/year-4/english/ac9e4la11/practice/review/",
+      "mode": "practice",
+      "preparation": "Before you begin“The exhausted hikers walked slowly to camp.” Replace walked with trudged to suggest heavy, effortful steps. Strolled suggests a more relaxed walk; skipped adds bouncy movement. Each choice changes the picture.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la11/test/index.html",
+      "sha256": "2bdbf5f6a917caac829048f37f558aa6a4e3857a6fce98c565f86d6f16e551fb",
+      "route": "/quiz/year-4/english/ac9e4la11/test/",
+      "mode": "test",
+      "preparation": "Before you beginRead the surrounding words and the supplied source card. Use the meaning that fits this context, then explain your own choice. An adult checks actual written work, not a completion tick alone.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA11TestBest",
+        "skillCode": "AC9E4LA11",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": true,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA11TestResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la11/test/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la11/test/result/index.html",
+      "sha256": "40572baf28f676920f406ef0d0c05ffceae8a6c32d14cec0f22efbf8377f07c3",
+      "route": "/quiz/year-4/english/ac9e4la11/test/result/",
+      "mode": "test",
+      "preparation": "Before you beginRead the surrounding words and the supplied source card. Use the meaning that fits this context, then explain your own choice. An adult checks actual written work, not a completion tick alone.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la11/test/retake/index.html",
+      "sha256": "876d6f2a31db19042c7986d918be8ac93a7b436e190ee6bf7fe1aff6189114c9",
+      "route": "/quiz/year-4/english/ac9e4la11/test/retake/",
+      "mode": "test",
+      "preparation": "Before you beginRead the surrounding words and the supplied source card. Use the meaning that fits this context, then explain your own choice. An adult checks actual written work, not a completion tick alone.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la11/test/review/index.html",
+      "sha256": "faa09445746b947f4025b4347ca720012819a014c2012a2ae33f87cbc721831c",
+      "route": "/quiz/year-4/english/ac9e4la11/test/review/",
+      "mode": "test",
+      "preparation": "Before you beginRead the surrounding words and the supplied source card. Use the meaning that fits this context, then explain your own choice. An adult checks actual written work, not a completion tick alone.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la12/index.html",
+      "sha256": "facb4acb094bb1aa180fbb1fa0f9383140e7f837b78ae02f2a5974ce4441786c",
+      "route": "/quiz/year-4/english/ac9e4la12/",
+      "mode": "practice",
+      "preparation": "Before you beginInspect the written punctuation carefully. For dialogue-writing tasks, produce the actual words, marks and speaker paragraphs using your usual support. An adult checks the completed work; saving a response alone does not award credit.When using audio support, inspect the written options too or ask an adult to name their punctuation marks exactly.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la12/practice/index.html",
+      "sha256": "5491210a1be6322a98da07764f8c9647396eab25a89af3502701454ecf5a0dce",
+      "route": "/quiz/year-4/english/ac9e4la12/practice/",
+      "mode": "practice",
+      "preparation": "Before you beginAva said, “We should leave now.” The speech tag comes first, followed by a comma. With the tag last, write: “We should leave now,” Ava said. The comma goes inside the closing quotation mark; the full stop ends the sentence after said.Use paper or your usual writing support. If listening to a question, also inspect the written options or ask an adult to name the punctuation marks exactly: a spoken reading alone may not reveal which marks are printed. A student can dictate punctuation and paragraph breaks; the adult checks the actual recorded writing.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA12PracticeBest",
+        "skillCode": "AC9E4LA12",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": false,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA12PracticeResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la12/practice/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la12/practice/result/index.html",
+      "sha256": "7dc1f5b20e2a2aca89406acfa6bba4b1b34eff259c393e89b35746a2f188b2a1",
+      "route": "/quiz/year-4/english/ac9e4la12/practice/result/",
+      "mode": "practice",
+      "preparation": "Before you beginAva said, “We should leave now.” The speech tag comes first, followed by a comma. With the tag last, write: “We should leave now,” Ava said. The comma goes inside the closing quotation mark; the full stop ends the sentence after said.Use paper or your usual writing support. If listening to a question, also inspect the written options or ask an adult to name the punctuation marks exactly: a spoken reading alone may not reveal which marks are printed. A student can dictate punctuation and paragraph breaks; the adult checks the actual recorded writing.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la12/practice/retake/index.html",
+      "sha256": "bcd8faf321d59edda297303f282f759318c813d51c324a56609a80f6e5fd3ec6",
+      "route": "/quiz/year-4/english/ac9e4la12/practice/retake/",
+      "mode": "practice",
+      "preparation": "Before you beginAva said, “We should leave now.” The speech tag comes first, followed by a comma. With the tag last, write: “We should leave now,” Ava said. The comma goes inside the closing quotation mark; the full stop ends the sentence after said.Use paper or your usual writing support. If listening to a question, also inspect the written options or ask an adult to name the punctuation marks exactly: a spoken reading alone may not reveal which marks are printed. A student can dictate punctuation and paragraph breaks; the adult checks the actual recorded writing.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la12/practice/review/index.html",
+      "sha256": "1dd39fed61308118069e2a4c1e6a48d0d2f857d920cb12110ea4837fca3384a7",
+      "route": "/quiz/year-4/english/ac9e4la12/practice/review/",
+      "mode": "practice",
+      "preparation": "Before you beginAva said, “We should leave now.” The speech tag comes first, followed by a comma. With the tag last, write: “We should leave now,” Ava said. The comma goes inside the closing quotation mark; the full stop ends the sentence after said.Use paper or your usual writing support. If listening to a question, also inspect the written options or ask an adult to name the punctuation marks exactly: a spoken reading alone may not reveal which marks are printed. A student can dictate punctuation and paragraph breaks; the adult checks the actual recorded writing.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la12/test/index.html",
+      "sha256": "9952e5ea517962f43c2d2eb1e5f27c89e7d6ed5a2f59b0880be0886071987d1a",
+      "route": "/quiz/year-4/english/ac9e4la12/test/",
+      "mode": "test",
+      "preparation": "Before you beginInspect the written punctuation carefully. For dialogue-writing tasks, produce the actual words, marks and speaker paragraphs using your usual support. An adult checks the completed work; saving a response alone does not award credit.When using audio support, inspect the written options too or ask an adult to name their punctuation marks exactly.Read the Topic Guide · Open Classroom View",
+      "config": {
+        "storageKey": "AC9E4LA12TestBest",
+        "skillCode": "AC9E4LA12",
+        "maxQuestions": 5,
+        "shuffleQuestions": true,
+        "shuffleAnswers": true,
+        "questionCycle": false,
+        "preReadSeconds": 0,
+        "requireStudentName": true,
+        "passingPercent": 75,
+        "resultStorageKey": "skillrAC9E4LA12TestResult",
+        "resultUrl": "result/",
+        "reviewUrl": "../review/",
+        "retakeUrl": "../retake/",
+        "bankVersion": "20260909-year4-english-la07-la12-v1",
+        "requireAdultReviewSupport": true
+      },
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/year-4/english/ac9e4la12/test/questions.js?v=20260909-year4-english-la07-la12-v1",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/production-question-ui.js?v=1",
+        "/quiz/assets/script.js?v=117",
+        "/assets/year4-english-authored-preparation.js?v=20260909-year4-english-la07-la12-v1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la12/test/result/index.html",
+      "sha256": "6c598dc272efd299588d48851441ebbba76f5010633c5f53583a85e4309da46d",
+      "route": "/quiz/year-4/english/ac9e4la12/test/result/",
+      "mode": "test",
+      "preparation": "Before you beginInspect the written punctuation carefully. For dialogue-writing tasks, produce the actual words, marks and speaker paragraphs using your usual support. An adult checks the completed work; saving a response alone does not award credit.When using audio support, inspect the written options too or ask an adult to name their punctuation marks exactly.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/separate-result.js?v=1",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la12/test/retake/index.html",
+      "sha256": "30ea252e7c7bf6e66eae7ed231ecd85ef097fd3853c34368507366fca1e933b9",
+      "route": "/quiz/year-4/english/ac9e4la12/test/retake/",
+      "mode": "test",
+      "preparation": "Before you beginInspect the written punctuation carefully. For dialogue-writing tasks, produce the actual words, marks and speaker paragraphs using your usual support. An adult checks the completed work; saving a response alone does not award credit.When using audio support, inspect the written options too or ask an adult to name their punctuation marks exactly.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    },
+    {
+      "file": "quiz/year-4/english/ac9e4la12/test/review/index.html",
+      "sha256": "a140ddbbcfc8b7152e519b756e8aa3dd9ef17db86246e7af9d42f4fa3bae75a7",
+      "route": "/quiz/year-4/english/ac9e4la12/test/review/",
+      "mode": "test",
+      "preparation": "Before you beginInspect the written punctuation carefully. For dialogue-writing tasks, produce the actual words, marks and speaker paragraphs using your usual support. An adult checks the completed work; saving a response alone does not award credit.When using audio support, inspect the written options too or ask an adult to name their punctuation marks exactly.Read the Topic Guide · Open Classroom View",
+      "config": null,
+      "scripts": [
+        "https://www.googletagmanager.com/gtag/js?id=G-8P22BET45N",
+        "/quiz/assets/year1-maths-support.js?v=20260906-y1-original-v1",
+        "/quiz/assets/separate-review.js?v=2",
+        "/pwa-register.js"
+      ],
+      "mediaCount": 0
+    }
+  ]
+}

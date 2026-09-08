@@ -58,3 +58,9 @@ Neutral Test reminder — copied verbatim from canonical Topic:
 - `year4/english/ac9e4la08-how-adverb-groups-phrases-and-prepositional-phrases-work-in/teacher-slides/index.html`: `0a7583988cb9244c90ec738e4388bf6887427ee9ad38b684c047b12add7a9d69`
 - `quiz/year-4/english/ac9e4la08/worksheet/index.html`: `46197a2cad3049228ae16b236b510add2597cd8ae7124e2be9111d1543cdea2e`
 - `quiz/year-4/english/ac9e4la08/worksheet/worksheet-questions.js`: `8c22b1fcf208b95cab6f994956fb47de0dfc4fb52e803375c4222cdf4b2ddbe4`
+
+## Bounded CI wording revision — candidate 2
+
+P037 question and matching audio now read: Read: “The group left shortly after lunch.” How are the words in the time phrase “after lunch” used? The four choices, key, explanation and every other item field remain unchanged. This preserves the preposition/object identification task while removing the generic phrasing flagged by the question-quality gate. Independent bounded recheck and publisher restaging are required before release.
+
+Current canonical SHA-256: `7faf94576595f7f633a58523f372f0bc94ed7b69a2133e2fc066dc922c710877`. All other owned artifact hashes remain as recorded, subject to separately recorded root integration changes.

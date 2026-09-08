@@ -1123,8 +1123,8 @@ window.skillrPracticeQuestions = [
     "skill": "adverb groups and prepositional phrases",
     "printable": true,
     "type": "single",
-    "question": "Read: “The group left shortly after lunch.” Which statement correctly identifies the whole “after lunch” phrase within the sentence?",
-    "audioPrompt": "Read: “The group left shortly after lunch.” Which statement correctly identifies the whole “after lunch” phrase within the sentence?",
+    "question": "Read: “The group left shortly after lunch.” How are the words in the time phrase “after lunch” used?",
+    "audioPrompt": "Read: “The group left shortly after lunch.” How are the words in the time phrase “after lunch” used?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {

@@ -31,3 +31,9 @@ No corresponding production PDF was supplied or inspected in this review. Root m
 - `year4/english/ac9e4la08-how-adverb-groups-phrases-and-prepositional-phrases-work-in/teacher-slides/index.html`: `0a7583988cb9244c90ec738e4388bf6887427ee9ad38b684c047b12add7a9d69`
 - `quiz/year-4/english/ac9e4la08/worksheet/worksheet-questions.js`: `8c22b1fcf208b95cab6f994956fb47de0dfc4fb52e803375c4222cdf4b2ddbe4`
 - `quiz/year-4/english/ac9e4la08/worksheet/index.html`: `46197a2cad3049228ae16b236b510add2597cd8ae7124e2be9111d1543cdea2e`
+
+## Final P037 wording recheck — approved
+
+Root's CI wording refinement was independently rechecked after author freeze. P037 now asks: “Read: ‘The group left shortly after lunch.’ How are the words in the time phrase ‘after lunch’ used?” The audio prompt exactly matches. I read all four choices, correct index 0, summary, hint and remaining metadata. The keyed choice correctly identifies after as the preposition and lunch as its object; the other choices incorrectly identify lunch as an adverb, after as a place noun, or the phrase as manner. The unchanged explanation distinguishes the time phrase and shortly's added precision. The revised question remains aligned and unambiguous.
+
+A full 64-item object comparison against the previously reviewed HEAD bank confirms that only P037 question and audio_prompt changed. Every other field and all 63 other items remain identical. **PASS. Final canonical bank SHA-256: `7faf94576595f7f633a58523f372f0bc94ed7b69a2133e2fc066dc922c710877`**, superseding the earlier bank hash in this report. No teaching or homework content changed; the existing PDF approval remains applicable. Publisher restaging/parity checks remain root's next step.

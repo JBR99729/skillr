@@ -81,17 +81,17 @@ window.skillrTestQuestions = [
       "alt_text": "Two park pictures with a bench in the middle. The same purple-shirted and orange-shirted children have the same neutral faces and sizes. In A they stand near opposite edges; in B they stand closer to the bench and to each other."
     },
     "answers": [
-      "The children have certainly been best friends since infancy.",
-      "The bench proves they are both unhappy.",
+      "The children’s spacing establishes that they have already agreed to play together.",
+      "The faces show a change from sadness in A to happiness in B.",
       "The closer placement may suggest the children are sharing a space.",
-      "The orange-shirted child is definitely older because of the placement."
+      "The larger gap in B may make the children seem more separated."
     ],
     "difficulty": 2,
     "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Closer placement can support a possible reading of shared space. It does not establish friendship history, age or certain feelings.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
+    "explanation": "The children are closer together in B, which can support a possible reading of shared space. Their neutral expressions are unchanged, and spacing does not establish an agreement.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Closer placement can support a possible reading of shared space. It does not establish friendship history, age or certain feelings.",
+      "summary": "The children are closer together in B, which can support a possible reading of shared space. Their neutral expressions are unchanged, and spacing does not establish an agreement.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
@@ -115,7 +115,7 @@ window.skillrTestQuestions = [
     "answers": [
       "Keep both children close together beside the bench.",
       "Widen the frame further on both sides while retaining both children.",
-      "Keep the same layout and only rename the file.",
+      "Keep both children visible and place the bench between them.",
       "Crop around that child so the other child is outside the frame."
     ],
     "difficulty": 2,
@@ -177,17 +177,17 @@ window.skillrTestQuestions = [
       "alt_text": "Two park pictures with a bench in the middle. The same purple-shirted and orange-shirted children have the same neutral faces and sizes. In A they stand near opposite edges; in B they stand closer to the bench and to each other."
     },
     "answers": [
-      "Only the fact that their shirts have different colours.",
+      "A tighter crop that enlarges the same neutral faces.",
       "Reliable information about their interaction, beyond the spacing in this drawing.",
-      "Only the fact that the bench is in the middle.",
-      "Only the letter A printed above the picture."
+      "A second drawing showing a wider gap between the children.",
+      "A viewer’s impression that the children seem distant."
     ],
     "difficulty": 2,
     "sequencePriority": 6,
     "correct": 1,
-    "explanation": "Spacing can suggest possibilities, but the drawing does not establish an argument. A factual caption needs evidence of the interaction.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
+    "explanation": "A crop, greater depicted gap or viewer impression may influence interpretation, but does not establish an argument. A factual caption needs reliable information about the interaction.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Spacing can suggest possibilities, but the drawing does not establish an argument. A factual caption needs evidence of the interaction.",
+      "summary": "A crop, greater depicted gap or viewer impression may influence interpretation, but does not establish an argument. A factual caption needs reliable information about the interaction.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
@@ -274,9 +274,9 @@ window.skillrTestQuestions = [
     },
     "answers": [
       "B, because it includes the kite, tree and connection to the child.",
-      "A, because a larger face shows the kite’s location.",
-      "A, because everything outside its frame is known to be absent.",
-      "B, because yellow always means an object is safe to reach."
+      "A, because the enlarged child supplies more information about the kite’s position.",
+      "A, because showing only part of the string identifies where its unseen end lies.",
+      "B, because the kite’s yellow fill alone shows its relationship to the child."
     ],
     "difficulty": 2,
     "sequencePriority": 9,
@@ -337,17 +337,17 @@ window.skillrTestQuestions = [
       "alt_text": "Two views of a child holding a kite string. A enlarges the child and part of the string. B also shows a tree to the right, a yellow kite overlapping a branch, and the string joining the child to the kite."
     },
     "answers": [
-      "The viewer would see a rescue that is absent from the original drawing.",
-      "The string would disappear from every later view.",
+      "The viewer would first see only the child and learn about the tree later.",
+      "The kite’s location would be withheld until the end, as before.",
       "The viewer would see the kite and tree immediately instead of discovering them later.",
-      "The child’s shirt would change colour at the opening."
+      "The order of learning about the surroundings would stay the same."
     ],
     "difficulty": 2,
     "sequencePriority": 11,
     "correct": 2,
-    "explanation": "Starting wide changes when the setting and kite location are revealed. It does not add an action or alter the drawn objects.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
+    "explanation": "Starting with the final wide view supplies the kite and tree immediately. It changes the order of information rather than preserving the original delayed reveal.\nHint: Point to visible evidence, then connect that choice to what a viewer can notice.",
     "structuredExplanation": {
-      "summary": "Starting wide changes when the setting and kite location are revealed. It does not add an action or alter the drawn objects.",
+      "summary": "Starting with the final wide view supplies the kite and tree immediately. It changes the order of information rather than preserving the original delayed reveal.",
       "hint": "Point to visible evidence, then connect that choice to what a viewer can notice."
     },
     "qualitySchema": "production-v1"
@@ -369,9 +369,9 @@ window.skillrTestQuestions = [
       "alt_text": "Two views of a child holding a kite string. A enlarges the child and part of the string. B also shows a tree to the right, a yellow kite overlapping a branch, and the string joining the child to the kite."
     },
     "answers": [
-      "The child walks towards the tree while the frame stays fixed.",
-      "The kite repeatedly flaps its tail while the child climbs.",
-      "The tree falls towards the child during a sudden cut.",
+      "The child walks away from the viewer while the frame remains fixed.",
+      "The frame slides sideways at a fixed size to follow the string.",
+      "The clip cuts abruptly between a close view and a separate wide view.",
       "The frame pulls back; the child, kite and tree do not themselves animate."
     ],
     "difficulty": 2,
