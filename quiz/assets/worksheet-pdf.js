@@ -506,7 +506,8 @@
       // These authored Year 4 tasks need all four writing lines
       // beside their prompt, even when the worksheet order is shuffled.
       const keepWrittenWorkspace = question.type === "self-check"
-        && /^(?:AC9M4(?:N0[6-9]|A0[12]|M0[1-4]|SP0[1-3]|ST0[1-3]|P0[12])|AC9S4(?:U0[1-4]|H0[12]|I0[1-6]))$/.test(getSkillCode())
+        && /^(?:AC9M4(?:N0[6-9]|A0[12]|M0[1-4]|SP0[1-3]|ST0[1-3]|P0[12])|AC9S4(?:U0[1-4]|H0[12]|I0[1-6])|AC9E4LA01)$/.test(getSkillCode())
+        && (getSkillCode() !== "AC9E4LA01" || document.body?.getAttribute("data-skillr-authored-worksheet") === "true")
         && question.curriculumCode === getSkillCode()
         && new RegExp(`^${getSkillCode().toLowerCase()}-w-\\d{3}$`).test(question.id || "");
       const writingAllowance = keepWrittenWorkspace ? 46 : 28;
