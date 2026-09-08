@@ -1,0 +1,17 @@
+/* Optional video resources. No layout rules outside the video section. */
+.skillr-topic-videos { grid-column: 1 / -1; }
+.skillr-video-card { margin: 1rem 0; border: 1px solid #cddbe8; border-radius: .65rem; padding: .85rem; }
+.skillr-video-card > summary { cursor: pointer; font-weight: 650; }
+.skillr-video-card > summary:focus-visible,
+.skillr-video-notice > summary:focus-visible,
+.skillr-video-load:focus-visible { outline: 3px solid #0756a4; outline-offset: 4px; }
+.skillr-video-card p { line-height: 1.6; }
+.skillr-video-load { display: inline-block; padding: .65rem .85rem; border-radius: .4rem; background: #0756a4; color: #fff; font-weight: 650; text-decoration: none; }
+.skillr-video-load:hover { background: #064680; color: #fff; }
+.skillr-video-privacy { display: block; margin-top: .5rem; font-size: .9rem; }
+.skillr-video-frame { display: block; width: 100%; max-width: 720px; min-height: 200px; height: auto; aspect-ratio: 16 / 9; border: 0; border-radius: .5rem; background: #eef5fb; }
+.skillr-video-notice { border-top: 1px solid #cddbe8; margin-top: 1rem; padding-top: .85rem; font-size: .9rem; }
+.skillr-video-notice > summary { cursor: pointer; font-weight: 600; }
+@media print {
+  .skillr-topic-videos { display: none !important; }
+}
