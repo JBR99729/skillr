@@ -69,6 +69,18 @@ Maintain this table as the durable continuation record. A completed row must poi
 
 ## Current release checkpoint — 2026-09-08
 
+### Latest user direction and foreground ownership
+
+The user's subsequent direct instruction is **“Start English first 10 codes same framework”**, followed by **“Use ixl, khan and other supplimentary free resources learn from example and prepare skillrhub”**. This clears the earlier Science-first hold for the first ten English codes (AC9E4LA01–LA10). The Science PDF download confirmation remains separately unresolved; it is not falsely marked complete and does not block this newly authorised English work.
+
+Foreground owner: root, workspace `/workspace/scratch/1b8e561832f8`, existing repository `/workspace/scratch/c0dec7faa19d/year4-sweep`, branch `codex/year4-english-full-review`. Active code: **AC9E4LA01**, research/pre-authoring audit. Author role: `english_la01_author`; independent curriculum/reviewer role: `english_curriculum_reviewer`. Root alone operates existing IXL tab 64. A concurrent continuation run must not research, edit these files, or open another IXL tab while this owner is active.
+
+Latest source state: full source log version17 read and actual LA01 observations saved to the same log as version18. IXL's live Year4 v9 alignment plan has no LA01 link; Australian Year5 C.2 formality was inspected as a limited benchmark (worked help, correct response and deliberately incorrect Parent-mode response with corrective explanation). User restored login; Parent mode verified. Complete Khan formality transcript and relevant NSW oral-language guidance read. Exact first-ten ACARA descriptors and all 22 elaborations verified in OFFICIAL-FIRST-TEN.md. Source scope and limitations: AC9E4LA01-SOURCES.md.
+
+User additionally requested multiple threads. Preservation/gap audits for all ten are saved in AC9E4LA01-AUTHOR.md, LA02-LA04-AUDIT.md, LA05-LA07-AUDIT.md and LA08-LA10-AUDIT.md. These audits are not completed code reviews. LA01 author is drafting code-owned resources; english_runtime_audit is implementing narrowly scoped shared safeguards; english_curriculum_reviewer remains independent. No English code approved or published. Next: finish LA01 draft, review every final item/teaching/model and actual production PDF page, correct/recheck, validate runtime and publish only approved artifacts. Then proceed to LA02 without repeating verified source work.
+
+The historical checkpoint below records the previous release hold; the later direct user instruction above takes precedence.
+
 - Continuation branch: `codex/year4-english-full-review`. No English researcher is active at this saved checkpoint. Reuse the existing single IXL tab; do not start another researcher or create another IXL tab.
 - Science PR826 is merged to main at `c8391301be36838384da37f1117ed0ea48eb5aaf`, with complete tree `0f9d7ab5d60ac9b4b701abf745102e756f3b6e59`. All 14 final PR workflows and all 13 main workflows, including Pages, succeeded. The live Science hub shows the generated Content Verified badge; the published ledger covers all 12 Science codes.
 - All six live Topic Guides, Classroom Views and worksheet pages were checked. Representative live Practice/Test attempts, mandatory notes, five-question launch and answer feedback work. The six actual production PDFs (30 pages) were independently reviewed before publication.
