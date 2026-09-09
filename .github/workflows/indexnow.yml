@@ -8,9 +8,12 @@ on:
 permissions:
   contents: read
 
+# Do not cancel an older run when a new commit lands. Each push compares its
+# own before/after SHA pair; cancelling a run could otherwise skip changed URLs
+# that a later run will not include.
 concurrency:
   group: indexnow-main
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   notify:
@@ -39,5 +42,5 @@ jobs:
           key_file = Path(f"{key}.txt")
           assert key_file.read_text(encoding="utf-8").strip() == key
           print(f"IndexNow key file ready: https://skillrhub.com/{key}.txt")
-          print("Automatic submissions run on pushes to main.")
+          print("Automatic submissions run on every push to main without cancelling earlier URL notifications.")
           PY
