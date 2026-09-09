@@ -8,6 +8,9 @@ on:
   push:
     branches: [main]
     paths:
+      - '**/*.html'
+      - 'data/**'
+      - 'assets/assessment-banks/**'
       - 'scripts/generate_sitemap.py'
       - 'scripts/prepare_google_sitemap.py'
       - 'scripts/tidy_sitemap_html.py'
