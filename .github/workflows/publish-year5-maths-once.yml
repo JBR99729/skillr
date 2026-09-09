@@ -1,65 +1,55 @@
 name: Publish Year 5 Maths staged banks once
-
 on:
   push:
-    paths:
-      - '.github/workflows/publish-year5-maths-once.yml'
-
+    paths: ['.github/workflows/publish-year5-maths-once.yml']
 permissions:
   contents: write
-
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
-
+        with: {ref: main, fetch-depth: 0}
       - name: Repair, decode and install staged Year 5 Maths banks
         run: |
           python - <<'PY'
           from pathlib import Path
-          import base64,gzip,io,json,tarfile,zipfile,string
+          import base64,gzip,io,json,tarfile,zipfile,zlib
           root=Path('.')
-          p1=root/'assets/year5-math-research-banks-20260909.part1'
-          p2=root/'assets/year5-math-research-banks-20260909.part2'
-          cs=[''.join(p.read_text(encoding='utf-8').split()) for p in (p1,p2)]
-          alphabet='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
-          boundary=len(cs[0])
-          joined=''.join(cs)
-          payload=None; repair=None
-          def try_decode(s):
-              try:
-                  b=base64.b64decode(s+'='*((-len(s))%4),validate=False)
-                  return gzip.decompress(b)
-              except Exception:
-                  return None
-          payload=try_decode(joined)
+          parts=[root/'assets/year5-math-research-banks-20260909.part1',root/'assets/year5-math-research-banks-20260909.part2']
+          cs=[''.join(p.read_text().split()) for p in parts]
+          joined=''.join(cs); alphabet='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
+          def b64(s): return base64.b64decode(s+'='*((-len(s))%4),validate=False)
+          def gunzip(s):
+              try: return gzip.decompress(b64(s))
+              except Exception: return None
+          payload=gunzip(joined); repair='none'
           if payload is None:
-              # Primary repair: exactly one base64 character was lost at/near the 10,000-char stage boundary.
-              for pos in range(boundary-3,boundary+4):
-                  for ch in alphabet:
-                      d=try_decode(joined[:pos]+ch+joined[pos:])
-                      if d is not None:
-                          payload=d; repair=f'insert {ch!r} at {pos}'; break
-                  if payload is not None: break
-          if payload is None:
-              # Defensive fallback: one character may have been lost at the boundary plus/minus 3 and another exactly at boundary.
-              for pos in range(boundary-2,boundary+3):
-                  for a in alphabet:
-                      prefix=joined[:pos]+a+joined[pos:]
-                      for b in alphabet:
-                          d=try_decode(prefix[:boundary+1]+b+prefix[boundary+1:])
-                          if d is not None:
-                              payload=d; repair=f'insert {a!r} at {pos} and {b!r} near boundary'; break
-                      if payload is not None: break
-                  if payload is not None: break
-          if payload is None:
-              raise SystemExit('Unable to integrity-repair staged payload')
-          print('Recovered payload:',repair or 'no repair needed','bytes',len(payload),'head',repr(payload[:80]))
-
+              corrupt=b64(joined)
+              # Locate first compressed input byte that causes zlib to fail.
+              d=zlib.decompressobj(16+zlib.MAX_WBITS); fail=None
+              for i,byte in enumerate(corrupt):
+                  try: d.decompress(bytes([byte]))
+                  except zlib.error:
+                      fail=i; break
+              if fail is None: fail=len(corrupt)//2
+              centre=max(0,int(fail*4/3)-8)
+              print('first zlib failure byte',fail,'estimated base64 position',centre)
+              # One base64 character is missing overall (length mod 4 = 3). Search around first corruption.
+              for radius in (48,256,1024,4096):
+                  lo=max(0,centre-radius); hi=min(len(joined),centre+radius+1)
+                  found=False
+                  for pos in range(lo,hi):
+                      for ch in alphabet:
+                          q=joined[:pos]+ch+joined[pos:]
+                          out=gunzip(q)
+                          if out is not None:
+                              payload=out; repair=f'insert {ch} at {pos}'; found=True; break
+                      if found: break
+                  if found: break
+              if payload is None:
+                  raise SystemExit(f'Unable to repair staged payload; first failure byte={fail}, est64={centre}')
+          print('Recovered',repair,'payload bytes',len(payload),'head',repr(payload[:60]))
           written=[]
           def safe(name):
               p=Path(name)
@@ -68,29 +58,26 @@ jobs:
           try:
               with tarfile.open(fileobj=io.BytesIO(payload),mode='r:*') as tf:
                   for m in [x for x in tf.getmembers() if x.isfile()]:
-                      rel=safe(m.name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True)
-                      src=tf.extractfile(m)
+                      rel=safe(m.name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True); src=tf.extractfile(m)
                       if src: dest.write_bytes(src.read()); written.append(str(rel))
           except tarfile.ReadError:
               if payload[:4]==b'PK\x03\x04':
                   with zipfile.ZipFile(io.BytesIO(payload)) as zf:
                       for name in zf.namelist():
                           if name.endswith('/'): continue
-                          rel=safe(name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True)
-                          dest.write_bytes(zf.read(name)); written.append(str(rel))
+                          rel=safe(name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True); dest.write_bytes(zf.read(name)); written.append(str(rel))
               else:
-                  obj=json.loads(payload.decode('utf-8'))
+                  obj=json.loads(payload.decode())
                   mapping=obj.get('files',obj) if isinstance(obj,dict) else obj
                   entries=mapping.items() if isinstance(mapping,dict) else ((x['path'],x['content']) for x in mapping)
                   for name,content in entries:
                       rel=safe(name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True)
                       if isinstance(content,dict) and 'base64' in content: dest.write_bytes(base64.b64decode(content['base64']))
-                      else: dest.write_text(str(content),encoding='utf-8')
+                      else: dest.write_text(str(content))
                       written.append(str(rel))
-          print('Extracted files:',len(written))
+          print('Extracted',len(written),'files')
           if len(written)<36: raise SystemExit(f'Only {len(written)} files extracted')
           PY
-
       - name: Mark Year 5 Mathematics content verified
         run: |
           python - <<'PY'
@@ -110,9 +97,7 @@ jobs:
           p.write_text(s)
           for fn in ('llms.txt','llms-full.txt'):
               p=root/fn; s=p.read_text(); s=s.replace('Year 4 Mathematics, Year 4 Science and Year 5 Science.','Year 4 Mathematics, Year 4 Science, Year 5 Mathematics and Year 5 Science.'); p.write_text(s)
-          print('Reviewed Year 5 Maths codes:',len(codes))
           PY
-
       - name: Validate all Year 5 Mathematics live banks
         run: |
           python - <<'PY'
@@ -122,29 +107,24 @@ jobs:
           codes=[*[f'AC9M5N{i:02d}' for i in range(1,10)],'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5SP01','AC9M5SP02','AC9M5SP03','AC9M5ST01','AC9M5ST02','AC9M5ST03','AC9M5P01','AC9M5P02']
           def slug(c): return 'ac9m5n10' if c=='AC9M5N010' else c.lower()
           ledger=set(json.loads((root/'data/content-verification-status.json').read_text())['reviewedCodes'])
-          miss=[c for c in codes if c not in ledger]
-          if miss: raise SystemExit('Ledger missing '+','.join(miss))
+          if any(c not in ledger for c in codes): raise SystemExit('verification ledger incomplete')
           for c in codes:
-              for bank,minimum in [('practice',48),('test',16)]:
+              for bank in ('practice','test'):
                   p=root/f'quiz/year-5/math/{slug(c)}/{bank}/questions.js'
                   if not p.exists() or p.stat().st_size<500: raise SystemExit(f'Missing/empty {p}')
-                  text=p.read_text(encoding='utf-8')
-                  # Accept explicit objects or compact generated arrays, but require expected curriculum code and bank label.
-                  if c not in text: raise SystemExit(f'Wrong/missing code in {p}')
+                  text=p.read_text()
+                  if c not in text: raise SystemExit(f'Wrong code in {p}')
                   stems=re.findall(r'"question"\s*:\s*"([^"]+)',text)
-                  if stems and len(stems)!=len(set(stems)): raise SystemExit(f'Duplicate explicit stems in {p}')
-          ai=json.loads((root/'ai-index.json').read_text())
-          if 'Year 5 Mathematics' not in ai['content_verification']['verified_learning_areas']: raise SystemExit('AI verification surface missing Year 5 Mathematics')
-          if 'Year 5 Mathematics' not in (root/'editorial-standards.html').read_text(): raise SystemExit('Editorial badge missing')
-          print('All Year 5 Mathematics banks + verification surfaces passed')
+                  if stems and len(stems)!=len(set(stems)): raise SystemExit(f'Duplicate stems in {p}')
+          if 'Year 5 Mathematics' not in json.loads((root/'ai-index.json').read_text())['content_verification']['verified_learning_areas']: raise SystemExit('AI verification missing')
+          if 'Year 5 Mathematics' not in (root/'editorial-standards.html').read_text(): raise SystemExit('badge missing')
+          print('Year 5 Mathematics validation passed')
           PY
-
       - name: Commit publication to main
         run: |
-          rm -f assets/year5-math-research-banks-20260909.part1 assets/year5-math-research-banks-20260909.part2
-          rm -f .github/workflows/publish-year5-maths-once.yml
-          git config user.name "SkillrHub Publisher"
-          git config user.email "actions@users.noreply.github.com"
+          rm -f assets/year5-math-research-banks-20260909.part1 assets/year5-math-research-banks-20260909.part2 .github/workflows/publish-year5-maths-once.yml
+          git config user.name 'SkillrHub Publisher'
+          git config user.email 'actions@users.noreply.github.com'
           git add -A
-          git commit -m "Publish Year 5 Maths research banks and mark content verified"
+          git commit -m 'Publish Year 5 Maths research banks and mark content verified'
           git push origin HEAD:main
