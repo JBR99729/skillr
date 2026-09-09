@@ -8,7 +8,7 @@ const codes=['02','03','04','05','06','07'];
 let out=[];
 out.push('SKILLRHUB YEAR 4 ENGLISH — AC9E4LY02–AC9E4LY07');
 out.push('Candidate Practice and Test Question Banks');
-out.push('Source commit lineage: codex/year4-english-ly02-ly07');
+out.push('Extracted verbatim from the committed canonical candidate banks.');
 out.push('Total: 288 Practice + 96 Test = 384 questions');
 out.push('');
 for(const n of codes){
