@@ -6,6 +6,7 @@ on:
       - codex/year4-english-ly02-ly07
     paths:
       - 'scripts/materialize_year4_english_ly02_ly07.mjs'
+      - 'scripts/export_year4_english_ly02_ly07_txt.mjs'
       - 'scripts/year4-english-ly02-ly07/**'
       - '.github/workflows/materialize-year4-english-ly02-ly07.yml'
 
@@ -38,7 +39,9 @@ jobs:
             console.log(`${code}: ${p.length}/${t.length}`);
           }
           NODE
-      - name: Commit generated candidate banks
+      - name: Export readable text bank
+        run: node scripts/export_year4_english_ly02_ly07_txt.mjs
+      - name: Commit generated candidate banks and text export
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -46,9 +49,10 @@ jobs:
           git add quiz/year-4/english/ac9e4ly0{2,3,4,5,6,7}/practice/questions.js
           git add quiz/year-4/english/ac9e4ly0{2,3,4,5,6,7}/practice/practice-questions.js
           git add quiz/year-4/english/ac9e4ly0{2,3,4,5,6,7}/test/questions.js
+          git add reports/year4-english-review/AC9E4LY02-LY07-QUESTION-BANKS.txt
           if git diff --cached --quiet; then
             echo 'No generated changes to commit.'
             exit 0
           fi
-          git commit -m 'Materialize Year 4 English LY02-LY07 candidate question and test banks'
+          git commit -m 'Export Year 4 English LY02-LY07 question banks to text'
           git push origin HEAD:codex/year4-english-ly02-ly07
