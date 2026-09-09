@@ -5,9 +5,10 @@ Usage:
   python3 scripts/submit_indexnow.py <before_sha> <after_sha>
 
 The script maps changed HTML files to their public skillrhub.com URLs, skips
-internal/noindex pages, batches URLs, and POSTs them to the shared IndexNow
-endpoint. Deleted HTML pages are submitted too so engines can refresh removal
-state.
+internal/noindex pages, and notifies IndexNow. Normal-sized releases are sent
+one URL at a time so Bing can process fresh changes as a stream. Very large
+releases fall back to small batches to avoid hundreds of network requests.
+Deleted HTML pages are submitted too so engines can refresh removal state.
 """
 from __future__ import annotations
 
@@ -15,6 +16,7 @@ import json
 import re
 import subprocess
 import sys
+import time
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -25,7 +27,9 @@ HOST = "skillrhub.com"
 KEY = "7992061fa6bd152443061bdc0a2a1d27"
 KEY_LOCATION = f"{SITE}/{KEY}.txt"
 ENDPOINT = "https://api.indexnow.org/indexnow"
-BATCH_SIZE = 500
+STREAM_LIMIT = 100
+LARGE_RELEASE_BATCH_SIZE = 50
+MAX_RETRIES = 3
 
 EXCLUDED_PREFIXES = (
     ".git/",
@@ -80,29 +84,62 @@ def public_url(path: str) -> str | None:
     return f"{SITE}/{clean}"
 
 
-def submit(urls: list[str]) -> None:
-    for start in range(0, len(urls), BATCH_SIZE):
-        batch = urls[start : start + BATCH_SIZE]
-        payload = json.dumps(
-            {
-                "host": HOST,
-                "key": KEY,
-                "keyLocation": KEY_LOCATION,
-                "urlList": batch,
-            }
-        ).encode("utf-8")
-        request = urllib.request.Request(
-            ENDPOINT,
-            data=payload,
-            headers={"Content-Type": "application/json; charset=utf-8"},
-            method="POST",
-        )
+def post_urls(urls: list[str]) -> int:
+    payload = json.dumps(
+        {
+            "host": HOST,
+            "key": KEY,
+            "keyLocation": KEY_LOCATION,
+            "urlList": urls,
+        }
+    ).encode("utf-8")
+    request = urllib.request.Request(
+        ENDPOINT,
+        data=payload,
+        headers={
+            "Content-Type": "application/json; charset=utf-8",
+            "User-Agent": "SkillrHub-IndexNow/1.0 (+https://skillrhub.com/)",
+        },
+        method="POST",
+    )
+
+    for attempt in range(1, MAX_RETRIES + 1):
         try:
             with urllib.request.urlopen(request, timeout=30) as response:
-                status = response.status
+                return response.status
         except urllib.error.HTTPError as exc:
             body = exc.read().decode("utf-8", errors="replace")
-            raise SystemExit(f"IndexNow HTTP {exc.code}: {body}") from exc
+            retryable = exc.code == 429 or 500 <= exc.code < 600
+            if not retryable or attempt == MAX_RETRIES:
+                raise SystemExit(f"IndexNow HTTP {exc.code}: {body}") from exc
+            delay = 2 ** (attempt - 1)
+            print(f"IndexNow HTTP {exc.code}; retrying in {delay}s.")
+            time.sleep(delay)
+        except urllib.error.URLError as exc:
+            if attempt == MAX_RETRIES:
+                raise SystemExit(f"IndexNow network error: {exc}") from exc
+            delay = 2 ** (attempt - 1)
+            print(f"IndexNow network error; retrying in {delay}s.")
+            time.sleep(delay)
+
+    raise SystemExit("IndexNow submission failed unexpectedly.")
+
+
+def submit(urls: list[str]) -> None:
+    if len(urls) <= STREAM_LIMIT:
+        print("Using streaming IndexNow mode (one changed URL per notification).")
+        for position, url in enumerate(urls, start=1):
+            status = post_urls([url])
+            print(f"IndexNow {position}/{len(urls)}: HTTP {status} {url}")
+        return
+
+    print(
+        f"Large release detected ({len(urls)} URLs); using "
+        f"{LARGE_RELEASE_BATCH_SIZE}-URL fallback batches."
+    )
+    for start in range(0, len(urls), LARGE_RELEASE_BATCH_SIZE):
+        batch = urls[start : start + LARGE_RELEASE_BATCH_SIZE]
+        status = post_urls(batch)
         print(f"IndexNow submitted {len(batch)} URL(s): HTTP {status}")
 
 
