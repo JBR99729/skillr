@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "multiply larger numbers",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, 3 equal packs hold 190 items each. How many items are there?",
-    "audioPrompt": "During a class investigation, 3 equal packs hold 190 items each. How many items are there?",
+    "question": "A library orders 24 cartons containing 326 cards each. Use partial products or an area model to find the total, then give a rounded estimate to check it.",
+    "audioPrompt": "A library orders 24 cartons containing 326 cards each. Use partial products or an area model to find the total, then give a rounded estimate to check it.",
     "visual": "During a class investigation: a three-step reasoning pathway for multiply larger numbers, moving from evidence to a checked decision.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for multiply larger numbers, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n06.svg#ac9m5n06-p-001\"></use></svg>",
     "visualMeta": {
@@ -17,12 +17,12 @@ window.skillrPracticeQuestions = [
       "alt_text": "During a class investigation: a three-step reasoning pathway for multiply larger numbers, moving from evidence to a checked decision."
     },
     "answers": [
-      "570.",
-      "193.",
-      "380."
+      "7 824.",
+      "7 208.",
+      "782."
     ],
     "correct": 0,
-    "explanation": "3 groups of 190 make 570.\nHint: Estimate first, then multiply using place value.",
+    "explanation": "Split 24 into 20 and 4: 326 × 20 = 6520 and 326 × 4 = 1304; 6520 + 1304 = 7824. A check of 300 × 25 gives about 7500.\nHint: Keep each partial product attached to its place value.",
     "structuredExplanation": {
       "summary": "3 groups of 190 make 570.",
       "hint": "Estimate first, then multiply using place value."

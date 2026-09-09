@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "check reasonableness",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, which estimate is most useful for checking 297 × 4?",
-    "audioPrompt": "During a class investigation, which estimate is most useful for checking 297 × 4?",
+    "question": "A student says 297 × 4 = 11 880. Which estimate is most useful for checking the answer, and what does it show?",
+    "audioPrompt": "A student says 297 × 4 = 11 880. Which estimate is most useful for checking the answer, and what does it show?",
     "visual": "During a class investigation: a three-step reasoning pathway for check reasonableness, moving from evidence to a checked decision.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for check reasonableness, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n08.svg#ac9m5n08-p-001\"></use></svg>",
     "visualMeta": {

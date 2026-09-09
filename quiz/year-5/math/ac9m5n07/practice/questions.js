@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "solve a division problem",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, 81 items are shared equally among 3 groups. How many go in each group?",
-    "audioPrompt": "During a class investigation, 81 items are shared equally among 3 groups. How many go in each group?",
+    "question": "A museum has 587 tickets to place in packs of 6. Use partial quotients to find the number of complete packs and the remainder, then explain what the remainder means.",
+    "audioPrompt": "A museum has 587 tickets to place in packs of 6. Use partial quotients to find the number of complete packs and the remainder, then explain what the remainder means.",
     "visual": "During a class investigation: a three-step reasoning pathway for solve a division problem, moving from evidence to a checked decision.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for solve a division problem, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n07.svg#ac9m5n07-p-001\"></use></svg>",
     "visualMeta": {
@@ -17,12 +17,12 @@ window.skillrPracticeQuestions = [
       "alt_text": "During a class investigation: a three-step reasoning pathway for solve a division problem, moving from evidence to a checked decision."
     },
     "answers": [
-      "27.",
-      "30.",
-      "78."
+      "97 remainder 5.",
+      "98 remainder 5.",
+      "97 remainder 1."
     ],
     "correct": 0,
-    "explanation": "81 ÷ 3 = 27.\nHint: Use multiplication to check the quotient.",
+    "explanation": "587 = 6 × 97 + 5, so there are 97 complete packs and 5 tickets left. The remainder is less than the divisor.\nHint: Verify divisor × quotient + remainder = dividend.",
     "structuredExplanation": {
       "summary": "81 ÷ 3 = 27.",
       "hint": "Use multiplication to check the quotient."

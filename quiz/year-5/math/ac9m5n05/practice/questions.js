@@ -7,8 +7,8 @@ window.skillrPracticeQuestions = [
     "skill": "add fractions",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, one group uses 3/10 of a roll and another uses 5/10. How much is used altogether?",
-    "audioPrompt": "During a class investigation, one group uses 3/10 of a roll and another uses 5/10. How much is used altogether?",
+    "question": "A trail marker is 3/10 km from camp and a second section is 5/10 km. How far is the complete marked trail? Explain why the denominator stays the same.",
+    "audioPrompt": "A trail marker is 3/10 km from camp and a second section is 5/10 km. How far is the complete marked trail? Explain why the denominator stays the same.",
     "visual": "During a class investigation: a three-step reasoning pathway for add fractions, moving from evidence to a checked decision.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for add fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n05.svg#ac9m5n05-p-001\"></use></svg>",
     "visualMeta": {
