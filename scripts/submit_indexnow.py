@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
-"""Submit changed or sitemap-listed SkillrHub pages to IndexNow.
+"""Submit changed or authoritative sitemap-listed SkillrHub pages to IndexNow.
 
 Usage:
   python3 scripts/submit_indexnow.py <before_sha> <after_sha>
   python3 scripts/submit_indexnow.py --all
 
 Normal pushes submit only changed public URLs. Manual ``--all`` mode performs a
-one-time reconciliation from the site's sitemap files so important existing
-pages are not missed. A change to this script or the IndexNow workflow also
-triggers one reconciliation automatically, which safely backfills the new
-implementation after deployment.
+reconciliation from the root sitemap index only, so IndexNow receives the same
+canonical search inventory used by mainstream search engines. A change to this
+script or the IndexNow workflow also triggers one reconciliation automatically.
 """
 from __future__ import annotations
 
@@ -22,6 +21,7 @@ import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
+from urllib.parse import unquote, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 SITE = "https://skillrhub.com"
@@ -49,6 +49,10 @@ EXCLUDED_PREFIXES = (
 )
 NOINDEX_RE = re.compile(
     r'<meta\b[^>]*name=["\']robots["\'][^>]*content=["\'][^"\']*noindex',
+    re.IGNORECASE,
+)
+CANONICAL_RE = re.compile(
+    r'<link\b[^>]*rel=["\'][^"\']*canonical[^"\']*["\'][^>]*href=["\']([^"\']+)["\']',
     re.IGNORECASE,
 )
 QUIZ_DATA_RE = re.compile(
@@ -80,7 +84,7 @@ def is_indexable_html(path: str) -> bool:
     if not disk_file.exists():
         return True
     try:
-        head = disk_file.read_text(encoding="utf-8", errors="ignore")[:12000]
+        head = disk_file.read_text(encoding="utf-8", errors="ignore")[:20000]
     except OSError:
         return False
     return not NOINDEX_RE.search(head)
@@ -127,29 +131,84 @@ def public_urls(path: str) -> list[str]:
     return []
 
 
+def local_html_for_url(url: str) -> Path | None:
+    parsed = urlparse(url)
+    if parsed.scheme != "https" or parsed.netloc != HOST:
+        return None
+
+    path = unquote(parsed.path).lstrip("/")
+    if not path:
+        candidate = ROOT / "index.html"
+    elif parsed.path.endswith("/"):
+        candidate = ROOT / path / "index.html"
+    else:
+        candidate = ROOT / path
+
+    if candidate.suffix.lower() not in {".html", ".htm"}:
+        return None
+    return candidate if candidate.is_file() else None
+
+
+def is_search_indexable(url: str) -> bool:
+    page = local_html_for_url(url)
+    if page is None:
+        return False
+
+    try:
+        source = page.read_text(encoding="utf-8", errors="ignore")[:20000]
+    except OSError:
+        return False
+
+    if NOINDEX_RE.search(source):
+        return False
+
+    match = CANONICAL_RE.search(source)
+    if match:
+        canonical = match.group(1).strip().rstrip("/")
+        if canonical != url.rstrip("/"):
+            return False
+
+    return True
+
+
 def sitemap_urls() -> list[str]:
-    """Return every canonical site URL listed in local sitemap XML files."""
+    """Return indexable page URLs referenced by the authoritative root sitemap."""
+    root_index = ROOT / "sitemap.xml"
+    if not root_index.is_file():
+        raise SystemExit("Authoritative sitemap.xml was not found.")
+
+    try:
+        root = ET.parse(root_index).getroot()
+    except (ET.ParseError, OSError) as exc:
+        raise SystemExit(f"Could not parse sitemap.xml: {exc}") from exc
+
     urls: set[str] = set()
-    sitemap_files = sorted(ROOT.glob("sitemap*.xml"))
-    if not sitemap_files:
-        raise SystemExit("No sitemap XML files found for IndexNow reconciliation.")
+    sitemap_locs = root.findall(".//{*}sitemap/{*}loc")
+    if not sitemap_locs:
+        raise SystemExit("sitemap.xml does not contain child sitemap entries.")
 
-    for sitemap_file in sitemap_files:
+    for loc in sitemap_locs:
+        if not loc.text:
+            continue
+        sitemap_url = loc.text.strip()
+        parsed = urlparse(sitemap_url)
+        if parsed.scheme != "https" or parsed.netloc != HOST:
+            continue
+        child = ROOT / Path(parsed.path).name
+        if not child.is_file():
+            raise SystemExit(f"Missing sitemap child: {child.name}")
+
         try:
-            root = ET.parse(sitemap_file).getroot()
+            child_root = ET.parse(child).getroot()
         except (ET.ParseError, OSError) as exc:
-            raise SystemExit(f"Could not parse {sitemap_file.name}: {exc}") from exc
+            raise SystemExit(f"Could not parse {child.name}: {exc}") from exc
 
-        for loc in root.findall(".//{*}loc"):
-            if not loc.text:
+        for url_loc in child_root.findall(".//{*}url/{*}loc"):
+            if not url_loc.text:
                 continue
-            url = loc.text.strip()
-            if not url.startswith(f"{SITE}/") and url != f"{SITE}/":
-                continue
-            # Sitemap index entries point to XML inventories, not pages to index.
-            if url.lower().split("?", 1)[0].endswith(".xml"):
-                continue
-            urls.add(url)
+            url = url_loc.text.strip()
+            if is_search_indexable(url):
+                urls.add(url)
 
     return sorted(urls)
 
@@ -168,7 +227,7 @@ def post_urls(urls: list[str]) -> int:
         data=payload,
         headers={
             "Content-Type": "application/json; charset=utf-8",
-            "User-Agent": "SkillrHub-IndexNow/1.1 (+https://skillrhub.com/)",
+            "User-Agent": "SkillrHub-IndexNow/1.2 (+https://skillrhub.com/)",
         },
         method="POST",
     )
@@ -223,7 +282,7 @@ def submit(urls: list[str]) -> None:
 def main() -> None:
     if len(sys.argv) == 2 and sys.argv[1] == "--all":
         urls = sitemap_urls()
-        print(f"Reconciling {len(urls)} sitemap-listed page URL(s) with IndexNow.")
+        print(f"Reconciling {len(urls)} authoritative indexable page URL(s) with IndexNow.")
         submit(urls)
         return
 
@@ -236,12 +295,9 @@ def main() -> None:
     paths = changed_paths(before, after)
     urls = sorted({url for path in paths for url in public_urls(path)})
 
-    # Deploying an IndexNow fix should immediately backfill all canonical pages;
-    # otherwise the fix itself would submit zero public URLs and Bing could keep
-    # reporting historical gaps until those pages happened to change again.
     if INDEXNOW_MACHINERY.intersection(paths):
         urls = sorted(set(urls).union(sitemap_urls()))
-        print("IndexNow machinery changed; including a one-time sitemap backfill.")
+        print("IndexNow machinery changed; including one authoritative sitemap backfill.")
 
     if not urls:
         print("No changed indexable public URLs to submit to IndexNow.")
