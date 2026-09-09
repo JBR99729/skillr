@@ -7,26 +7,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A net has 6 rectangles arranged so that four form a strip and one rectangle is attached above and below the second rectangle. Which solid can it make?",
-    "audioPrompt": "A net has 6 rectangles arranged so that four form a strip and one rectangle is attached above and below the second rectangle. Which solid can it make?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a rectangular prism",
-      "a triangular prism",
-      "a square-based pyramid"
-    ],
+    "question": "A net has 2 congruent triangles and 3 rectangles. Which solid can it form?",
+    "audioPrompt": "A net has 2 congruent triangles and 3 rectangles. Which solid can it form?",
+    "answers": ["triangular prism", "square pyramid", "cube"],
     "correct": 0,
-    "explanation": "a rectangular prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a rectangular prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A triangular prism has two triangular bases and three rectangular side faces.",
+    "structuredExplanation": {"summary": "A triangular prism has two triangular bases and three rectangular side faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -36,26 +22,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A net has 2 congruent triangles and 3 rectangles. Which solid can it make?",
-    "audioPrompt": "A net has 2 congruent triangles and 3 rectangles. Which solid can it make?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a triangular prism",
-      "a rectangular prism",
-      "a triangular pyramid"
-    ],
+    "question": "A net has 1 square and 4 triangles joined around the square. Which solid can it form?",
+    "audioPrompt": "A net has 1 square and 4 triangles joined around the square. Which solid can it form?",
+    "answers": ["square-based pyramid", "triangular prism", "rectangular prism"],
     "correct": 0,
-    "explanation": "a triangular prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a triangular prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A square-based pyramid has one square base and four triangular faces.",
+    "structuredExplanation": {"summary": "A square-based pyramid has one square base and four triangular faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -65,26 +37,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A net has 1 square and 4 congruent triangles, each joined to a side of the square. Which solid can it make?",
-    "audioPrompt": "A net has 1 square and 4 congruent triangles, each joined to a side of the square. Which solid can it make?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a square-based pyramid",
-      "a cube",
-      "a triangular prism"
-    ],
+    "question": "Which face set matches a cube?",
+    "audioPrompt": "Which face set matches a cube?",
+    "answers": ["6 equal squares", "2 triangles and 3 rectangles", "1 square and 4 triangles"],
     "correct": 0,
-    "explanation": "a square-based pyramid is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a square-based pyramid is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A cube has six equal square faces.",
+    "structuredExplanation": {"summary": "A cube has six equal square faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -94,26 +52,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "Which feature must a net for a cube have?",
-    "audioPrompt": "Which feature must a net for a cube have?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "six equal square faces",
-      "two triangular faces",
-      "one circular face"
-    ],
+    "question": "A prism net has 2 congruent pentagons. How many rectangular side faces should it have?",
+    "audioPrompt": "A prism net has 2 congruent pentagons. How many rectangular side faces should it have?",
+    "answers": ["5", "2", "7"],
     "correct": 0,
-    "explanation": "six equal square faces is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "six equal square faces is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A pentagonal prism has one rectangular side face for each side of the pentagonal base.",
+    "structuredExplanation": {"summary": "A pentagonal prism has one rectangular side face for each side of the pentagonal base.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -123,26 +67,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A proposed cube net contains five squares. Why cannot it make a cube?",
-    "audioPrompt": "A proposed cube net contains five squares. Why cannot it make a cube?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "A cube needs six square faces.",
-      "The squares must be rectangles.",
-      "A cube has five vertices."
-    ],
+    "question": "A triangular prism net has 3 rectangles. What do these become?",
+    "audioPrompt": "A triangular prism net has 3 rectangles. What do these become?",
+    "answers": ["side faces", "triangular bases", "vertices"],
     "correct": 0,
-    "explanation": "A cube needs six square faces. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "A cube needs six square faces. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "The rectangles wrap around to form the side faces.",
+    "structuredExplanation": {"summary": "The rectangles wrap around to form the side faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -152,26 +82,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A net has 2 equal pentagons and 5 rectangles. Which prism is it designed to make?",
-    "audioPrompt": "A net has 2 equal pentagons and 5 rectangles. Which prism is it designed to make?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a pentagonal prism",
-      "a triangular prism",
-      "a square-based pyramid"
-    ],
+    "question": "Which solid has exactly one base and triangular faces meeting at an apex?",
+    "audioPrompt": "Which solid has exactly one base and triangular faces meeting at an apex?",
+    "answers": ["pyramid", "prism", "cube"],
     "correct": 0,
-    "explanation": "a pentagonal prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a pentagonal prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A pyramid has one base and triangular lateral faces meeting at an apex.",
+    "structuredExplanation": {"summary": "A pyramid has one base and triangular lateral faces meeting at an apex.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -181,26 +97,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A triangular prism net has three rectangles. What do the rectangles become after folding?",
-    "audioPrompt": "A triangular prism net has three rectangles. What do the rectangles become after folding?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "the side faces",
-      "the vertices",
-      "the triangular bases"
-    ],
+    "question": "Which solid has two congruent parallel bases?",
+    "audioPrompt": "Which solid has two congruent parallel bases?",
+    "answers": ["prism", "pyramid", "cube"],
     "correct": 0,
-    "explanation": "the side faces is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "the side faces is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Prisms are defined by two congruent parallel bases.",
+    "structuredExplanation": {"summary": "Prisms are defined by two congruent parallel bases.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -210,26 +112,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A student says any group of six squares makes a cube. What is the best response?",
-    "audioPrompt": "A student says any group of six squares makes a cube. What is the best response?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "No; the squares must be joined in a foldable arrangement.",
-      "Yes; only the number of squares matters.",
-      "No; cubes have eight square faces."
-    ],
+    "question": "A valid rectangular-prism net contains how many faces in total?",
+    "audioPrompt": "A valid rectangular-prism net contains how many faces in total?",
+    "answers": ["6", "5", "8"],
     "correct": 0,
-    "explanation": "No; the squares must be joined in a foldable arrangement. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "No; the squares must be joined in a foldable arrangement. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A rectangular prism has six rectangular faces.",
+    "structuredExplanation": {"summary": "A rectangular prism has six rectangular faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -239,26 +127,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "Which check helps decide whether a net will close without gaps?",
-    "audioPrompt": "Which check helps decide whether a net will close without gaps?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "Match the number and shape of faces to the solid.",
-      "Count only the corners.",
-      "Measure the page size."
-    ],
+    "question": "A valid triangular-pyramid net contains how many triangular faces?",
+    "audioPrompt": "A valid triangular-pyramid net contains how many triangular faces?",
+    "answers": ["4", "3", "5"],
     "correct": 0,
-    "explanation": "Match the number and shape of faces to the solid. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "Match the number and shape of faces to the solid. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A triangular pyramid has four triangular faces.",
+    "structuredExplanation": {"summary": "A triangular pyramid has four triangular faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -268,26 +142,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A net has a circle and one rectangle. Which solid can it make?",
-    "audioPrompt": "A net has a circle and one rectangle. Which solid can it make?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a cylinder",
-      "a cone",
-      "a rectangular prism"
-    ],
+    "question": "Which net could make a hexagonal prism?",
+    "audioPrompt": "Which net could make a hexagonal prism?",
+    "answers": ["2 hexagons and 6 rectangles", "1 hexagon and 6 triangles", "6 squares"],
     "correct": 0,
-    "explanation": "a cylinder is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a cylinder is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A hexagonal prism has two hexagonal bases and six rectangular side faces.",
+    "structuredExplanation": {"summary": "A hexagonal prism has two hexagonal bases and six rectangular side faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -297,26 +157,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A net has one circle and a sector. Which solid can it make?",
-    "audioPrompt": "A net has one circle and a sector. Which solid can it make?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a cone",
-      "a cylinder",
-      "a triangular pyramid"
-    ],
+    "question": "Which statement about a valid net is true?",
+    "audioPrompt": "Which statement about a valid net is true?",
+    "answers": ["Faces must be connected so they fold without overlap or gaps.", "Only the number of faces matters.", "The net must always look symmetrical."],
     "correct": 0,
-    "explanation": "a cone is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a cone is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A valid net requires the correct faces arranged so folding closes the solid without overlap or gaps.",
+    "structuredExplanation": {"summary": "A valid net requires the correct faces arranged so folding closes the solid without overlap or gaps.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -326,26 +172,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A model has two square faces and four rectangles. Which solid is described?",
-    "audioPrompt": "A model has two square faces and four rectangles. Which solid is described?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a square prism",
-      "a cube",
-      "a triangular pyramid"
-    ],
+    "question": "A net is rotated on the page. What happens to the solid it can make?",
+    "audioPrompt": "A net is rotated on the page. What happens to the solid it can make?",
+    "answers": ["Nothing; rotation of the drawing does not change the net structure.", "It becomes a different solid.", "It cannot be folded."],
     "correct": 0,
-    "explanation": "a square prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a square prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Orientation on the page is not a property of the net.",
+    "structuredExplanation": {"summary": "Orientation on the page is not a property of the net.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -355,26 +187,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A prism has identical parallel end faces. Which pair could be the ends of a triangular prism?",
-    "audioPrompt": "A prism has identical parallel end faces. Which pair could be the ends of a triangular prism?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "two congruent triangles",
-      "two congruent circles",
-      "two congruent squares"
-    ],
+    "question": "Which face is a base of a square-based pyramid?",
+    "audioPrompt": "Which face is a base of a square-based pyramid?",
+    "answers": ["the square", "any triangle", "an edge"],
     "correct": 0,
-    "explanation": "two congruent triangles is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "two congruent triangles is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "The square is the single base; the triangles meet at the apex.",
+    "structuredExplanation": {"summary": "The square is the single base; the triangles meet at the apex.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -384,26 +202,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "A net includes two triangles but one is much larger. Can they be the ends of a triangular prism?",
-    "audioPrompt": "A net includes two triangles but one is much larger. Can they be the ends of a triangular prism?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "No; the two end faces must be congruent.",
-      "Yes; any two triangles work.",
-      "Yes; the rectangles fix the difference."
-    ],
+    "question": "A prism has two triangular bases. What type of prism is it?",
+    "audioPrompt": "A prism has two triangular bases. What type of prism is it?",
+    "answers": ["triangular prism", "square prism", "triangular pyramid"],
     "correct": 0,
-    "explanation": "No; the two end faces must be congruent. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "No; the two end faces must be congruent. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Prisms are named by the shape of their bases.",
+    "structuredExplanation": {"summary": "Prisms are named by the shape of their bases.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -413,26 +217,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "When folding a rectangular-prism net, what happens to two rectangles attached to opposite sides of a central rectangle?",
-    "audioPrompt": "When folding a rectangular-prism net, what happens to two rectangles attached to opposite sides of a central rectangle?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "They become different side faces.",
-      "They disappear inside the solid.",
-      "They become the same face."
-    ],
+    "question": "A cube net has six squares. Is that alone enough to prove it is valid?",
+    "audioPrompt": "A cube net has six squares. Is that alone enough to prove it is valid?",
+    "answers": ["No, the arrangement must also fold correctly.", "Yes, any six squares form a cube.", "Only if the squares are different sizes."],
     "correct": 0,
-    "explanation": "They become different side faces. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "They become different side faces. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Correct face count is necessary but adjacency also matters.",
+    "structuredExplanation": {"summary": "Correct face count is necessary but adjacency also matters.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -442,26 +232,12 @@ window.skillrPracticeQuestions = [
     "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "Which statement about a net is true?",
-    "audioPrompt": "Which statement about a net is true?",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "It is a flat pattern that can fold to form a 3D object.",
-      "It is the shadow of a 3D object.",
-      "It is a list of edge lengths only."
-    ],
+    "question": "Which feature distinguishes a triangular prism from a triangular pyramid?",
+    "audioPrompt": "Which feature distinguishes a triangular prism from a triangular pyramid?",
+    "answers": ["The prism has two triangular bases and rectangular side faces.", "The prism has one triangular base only.", "The pyramid has rectangular side faces."],
     "correct": 0,
-    "explanation": "It is a flat pattern that can fold to form a 3D object. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "It is a flat pattern that can fold to form a 3D object. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A triangular prism has two triangular bases joined by rectangles.",
+    "structuredExplanation": {"summary": "A triangular prism has two triangular bases joined by rectangles.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -471,26 +247,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A net has 6 rectangles arranged so that four form a strip and one rectangle is attached above and below the second rectangle. Which solid can it make? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A net has 6 rectangles arranged so that four form a strip and one rectangle is attached above and below the second rectangle. Which solid can it make? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a rectangular prism",
-      "a triangular prism",
-      "a square-based pyramid"
-    ],
+    "question": "A proposed cube net has six squares, but two faces would fold onto the same position. Why is it invalid?",
+    "audioPrompt": "A proposed cube net has six squares, but two faces would fold onto the same position. Why is it invalid?",
+    "answers": ["Faces would overlap instead of forming six different cube faces.", "A cube needs only five faces.", "Squares cannot be adjacent."],
     "correct": 0,
-    "explanation": "a rectangular prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a rectangular prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A valid net must fold so each face occupies a different face of the solid.",
+    "structuredExplanation": {"summary": "A valid net must fold so each face occupies a different face of the solid.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -500,26 +262,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A net has 2 congruent triangles and 3 rectangles. Which solid can it make? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A net has 2 congruent triangles and 3 rectangles. Which solid can it make? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a triangular prism",
-      "a rectangular prism",
-      "a triangular pyramid"
-    ],
+    "question": "A net has 2 equal pentagons and only 4 rectangles. Why can it not form a pentagonal prism?",
+    "audioPrompt": "A net has 2 equal pentagons and only 4 rectangles. Why can it not form a pentagonal prism?",
+    "answers": ["It needs 5 rectangular side faces.", "It needs 3 pentagons.", "It has too many faces."],
     "correct": 0,
-    "explanation": "a triangular prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a triangular prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Each side of a pentagonal base needs one rectangular lateral face.",
+    "structuredExplanation": {"summary": "Each side of a pentagonal base needs one rectangular lateral face.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -529,26 +277,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A net has 1 square and 4 congruent triangles, each joined to a side of the square. Which solid can it make? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A net has 1 square and 4 congruent triangles, each joined to a side of the square. Which solid can it make? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a square-based pyramid",
-      "a cube",
-      "a triangular prism"
-    ],
+    "question": "A student chooses a square-pyramid net because it has five faces. What else must be checked?",
+    "audioPrompt": "A student chooses a square-pyramid net because it has five faces. What else must be checked?",
+    "answers": ["One face is a square and the four others are triangles arranged to meet at an apex.", "All five faces are squares.", "There are two equal square bases."],
     "correct": 0,
-    "explanation": "a square-based pyramid is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a square-based pyramid is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Face types and adjacency, not just count, determine the solid.",
+    "structuredExplanation": {"summary": "Face types and adjacency, not just count, determine the solid.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -558,26 +292,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which feature must a net for a cube have? Explain which face shapes provide the evidence.",
-    "audioPrompt": "Which feature must a net for a cube have? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "six equal square faces",
-      "two triangular faces",
-      "one circular face"
-    ],
+    "question": "Two nets have the same six square faces. One folds to a cube and one does not. What explains the difference?",
+    "audioPrompt": "Two nets have the same six square faces. One folds to a cube and one does not. What explains the difference?",
+    "answers": ["The way the squares are connected.", "The colour of the squares.", "The direction the page is held."],
     "correct": 0,
-    "explanation": "six equal square faces is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "six equal square faces is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Different adjacencies can make one arrangement valid and another invalid.",
+    "structuredExplanation": {"summary": "Different adjacencies can make one arrangement valid and another invalid.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -587,26 +307,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A proposed cube net contains five squares. Why cannot it make a cube? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A proposed cube net contains five squares. Why cannot it make a cube? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "A cube needs six square faces.",
-      "The squares must be rectangles.",
-      "A cube has five vertices."
-    ],
+    "question": "A triangular-prism net has its two triangles attached to opposite ends of a strip of three rectangles. What must be checked when folding?",
+    "audioPrompt": "A triangular-prism net has its two triangles attached to opposite ends of a strip of three rectangles. What must be checked when folding?",
+    "answers": ["The triangles close the two ends without overlapping side faces.", "The triangles become adjacent bases.", "The rectangles become triangles."],
     "correct": 0,
-    "explanation": "A cube needs six square faces. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "A cube needs six square faces. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "The two congruent triangles must cap the prism at opposite ends.",
+    "structuredExplanation": {"summary": "The two congruent triangles must cap the prism at opposite ends.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -616,26 +322,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A net has 2 equal pentagons and 5 rectangles. Which prism is it designed to make? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A net has 2 equal pentagons and 5 rectangles. Which prism is it designed to make? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a pentagonal prism",
-      "a triangular prism",
-      "a square-based pyramid"
-    ],
+    "question": "A net has one hexagon with six triangles around it. Which family is most likely?",
+    "audioPrompt": "A net has one hexagon with six triangles around it. Which family is most likely?",
+    "answers": ["hexagonal pyramid", "hexagonal prism", "cube"],
     "correct": 0,
-    "explanation": "a pentagonal prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a pentagonal prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "One polygonal base with triangles around it is a pyramid structure.",
+    "structuredExplanation": {"summary": "One polygonal base with triangles around it is a pyramid structure.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -645,26 +337,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A triangular prism net has three rectangles. What do the rectangles become after folding? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A triangular prism net has three rectangles. What do the rectangles become after folding? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "the side faces",
-      "the vertices",
-      "the triangular bases"
-    ],
+    "question": "A net has two congruent hexagons joined by a belt of rectangles. Which family is it?",
+    "audioPrompt": "A net has two congruent hexagons joined by a belt of rectangles. Which family is it?",
+    "answers": ["hexagonal prism", "hexagonal pyramid", "triangular prism"],
     "correct": 0,
-    "explanation": "the side faces is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "the side faces is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Two congruent polygonal bases with rectangular sides define a prism.",
+    "structuredExplanation": {"summary": "Two congruent polygonal bases with rectangular sides define a prism.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -674,26 +352,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A student says any group of six squares makes a cube. What is the best response? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A student says any group of six squares makes a cube. What is the best response? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "No; the squares must be joined in a foldable arrangement.",
-      "Yes; only the number of squares matters.",
-      "No; cubes have eight square faces."
-    ],
+    "question": "A student rejects a valid net because it is upside down compared with the textbook. What misconception is shown?",
+    "audioPrompt": "A student rejects a valid net because it is upside down compared with the textbook. What misconception is shown?",
+    "answers": ["Net orientation on the page does not affect foldability.", "Every net must have a top face at the top.", "Only symmetrical nets are valid."],
     "correct": 0,
-    "explanation": "No; the squares must be joined in a foldable arrangement. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "No; the squares must be joined in a foldable arrangement. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Rotating or reflecting the drawing does not change adjacency.",
+    "structuredExplanation": {"summary": "Rotating or reflecting the drawing does not change adjacency.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -703,26 +367,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which check helps decide whether a net will close without gaps? Explain which face shapes provide the evidence.",
-    "audioPrompt": "Which check helps decide whether a net will close without gaps? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "Match the number and shape of faces to the solid.",
-      "Count only the corners.",
-      "Measure the page size."
-    ],
+    "question": "A cube net has a row of four squares with one square attached above the second and one below the second. Why can it work?",
+    "audioPrompt": "A cube net has a row of four squares with one square attached above the second and one below the second. Why can it work?",
+    "answers": ["The attached squares can fold to opposite faces while the strip wraps around.", "The row stays flat.", "All six squares become one face."],
     "correct": 0,
-    "explanation": "Match the number and shape of faces to the solid. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "Match the number and shape of faces to the solid. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "The strip wraps around four side faces and the attachments close the remaining two.",
+    "structuredExplanation": {"summary": "The strip wraps around four side faces and the attachments close the remaining two.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -732,26 +382,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A net has a circle and one rectangle. Which solid can it make? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A net has a circle and one rectangle. Which solid can it make? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a cylinder",
-      "a cone",
-      "a rectangular prism"
-    ],
+    "question": "A net has the right face types for a triangular prism but one triangle is attached in a way that would overlap the other end. What should be concluded?",
+    "audioPrompt": "A net has the right face types for a triangular prism but one triangle is attached in a way that would overlap the other end. What should be concluded?",
+    "answers": ["The net is invalid because adjacency matters.", "It is valid because face inventory is enough.", "It forms a cube."],
     "correct": 0,
-    "explanation": "a cylinder is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a cylinder is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Correct faces are not sufficient if folding creates overlap.",
+    "structuredExplanation": {"summary": "Correct faces are not sufficient if folding creates overlap.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -761,26 +397,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A net has one circle and a sector. Which solid can it make? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A net has one circle and a sector. Which solid can it make? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a cone",
-      "a cylinder",
-      "a triangular pyramid"
-    ],
+    "question": "Which evidence best proves two faces of a cube net will be opposite after folding?",
+    "audioPrompt": "Which evidence best proves two faces of a cube net will be opposite after folding?",
+    "answers": ["Tracking their positions through the folds.", "They have the same colour.", "They are far apart on the page."],
     "correct": 0,
-    "explanation": "a cone is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a cone is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Opposite-face relationships come from the fold sequence, not page distance alone.",
+    "structuredExplanation": {"summary": "Opposite-face relationships come from the fold sequence, not page distance alone.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -790,26 +412,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A model has two square faces and four rectangles. Which solid is described? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A model has two square faces and four rectangles. Which solid is described? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a square prism",
-      "a cube",
-      "a triangular pyramid"
-    ],
+    "question": "Why can a rectangular-prism net include rectangles of different sizes?",
+    "audioPrompt": "Why can a rectangular-prism net include rectangles of different sizes?",
+    "answers": ["Different pairs of opposite faces can have different dimensions.", "All prism faces must be squares.", "Only the bases can be rectangles."],
     "correct": 0,
-    "explanation": "a square prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a square prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A rectangular prism generally has three pairs of congruent rectangles.",
+    "structuredExplanation": {"summary": "A rectangular prism generally has three pairs of congruent rectangles.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -819,26 +427,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A prism has identical parallel end faces. Which pair could be the ends of a triangular prism? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A prism has identical parallel end faces. Which pair could be the ends of a triangular prism? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "two congruent triangles",
-      "two congruent circles",
-      "two congruent squares"
-    ],
+    "question": "A pentagonal-prism net is shown with 2 pentagons and 5 rectangles. What additional check is needed?",
+    "audioPrompt": "A pentagonal-prism net is shown with 2 pentagons and 5 rectangles. What additional check is needed?",
+    "answers": ["The rectangles and bases must be connected in a foldable arrangement.", "Nothing; face count guarantees validity.", "The pentagons must touch each other directly."],
     "correct": 0,
-    "explanation": "two congruent triangles is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "two congruent triangles is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Adjacency must allow the strip to wrap and the bases to close the ends.",
+    "structuredExplanation": {"summary": "Adjacency must allow the strip to wrap and the bases to close the ends.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -848,26 +442,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "A net includes two triangles but one is much larger. Can they be the ends of a triangular prism? Explain which face shapes provide the evidence.",
-    "audioPrompt": "A net includes two triangles but one is much larger. Can they be the ends of a triangular prism? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "No; the two end faces must be congruent.",
-      "Yes; any two triangles work.",
-      "Yes; the rectangles fix the difference."
-    ],
+    "question": "A pyramid net has four triangular side faces. What determines whether it is square-based or another pyramid?",
+    "audioPrompt": "A pyramid net has four triangular side faces. What determines whether it is square-based or another pyramid?",
+    "answers": ["The shape of the base.", "The colour of the triangles.", "The length of the net on the page."],
     "correct": 0,
-    "explanation": "No; the two end faces must be congruent. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "No; the two end faces must be congruent. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Pyramids are named by their base shape.",
+    "structuredExplanation": {"summary": "Pyramids are named by their base shape.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -877,26 +457,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "When folding a rectangular-prism net, what happens to two rectangles attached to opposite sides of a central rectangle? Explain which face shapes provide the evidence.",
-    "audioPrompt": "When folding a rectangular-prism net, what happens to two rectangles attached to opposite sides of a central rectangle? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "They become different side faces.",
-      "They disappear inside the solid.",
-      "They become the same face."
-    ],
+    "question": "A student says a net with two congruent triangles must be a triangular prism. Why is that incomplete?",
+    "audioPrompt": "A student says a net with two congruent triangles must be a triangular prism. Why is that incomplete?",
+    "answers": ["The remaining faces and their connections also matter.", "Two triangles always make a prism.", "Prisms have only triangular faces."],
     "correct": 0,
-    "explanation": "They become different side faces. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "They become different side faces. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "The full face inventory and adjacency must match the target solid.",
+    "structuredExplanation": {"summary": "The full face inventory and adjacency must match the target solid.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -906,26 +472,12 @@ window.skillrPracticeQuestions = [
     "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which statement about a net is true? Explain which face shapes provide the evidence.",
-    "audioPrompt": "Which statement about a net is true? Explain which face shapes provide the evidence.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "It is a flat pattern that can fold to form a 3D object.",
-      "It is the shadow of a 3D object.",
-      "It is a list of edge lengths only."
-    ],
+    "question": "Which check is most useful after counting the correct faces in a net?",
+    "audioPrompt": "Which check is most useful after counting the correct faces in a net?",
+    "answers": ["Mentally fold and test which edges meet.", "Count the colours.", "Measure the page border."],
     "correct": 0,
-    "explanation": "It is a flat pattern that can fold to form a 3D object. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "It is a flat pattern that can fold to form a 3D object. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "After face inventory, folding/adjacency is the key validity check.",
+    "structuredExplanation": {"summary": "After face inventory, folding/adjacency is the key validity check.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -935,26 +487,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A net has 6 rectangles arranged so that four form a strip and one rectangle is attached above and below the second rectangle. Which solid can it make? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A net has 6 rectangles arranged so that four form a strip and one rectangle is attached above and below the second rectangle. Which solid can it make? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a rectangular prism",
-      "a triangular prism",
-      "a square-based pyramid"
-    ],
+    "question": "A box designer removes one square from a valid cube net. What is the minimum change needed to restore a possible cube net?",
+    "audioPrompt": "A box designer removes one square from a valid cube net. What is the minimum change needed to restore a possible cube net?",
+    "answers": ["Add one square in a position that folds to the missing face without overlap.", "Add a triangle anywhere.", "Stretch one existing square."],
     "correct": 0,
-    "explanation": "a rectangular prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a rectangular prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A cube needs six square faces arranged so all six positions close without overlap.",
+    "structuredExplanation": {"summary": "A cube needs six square faces arranged so all six positions close without overlap.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -964,26 +502,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A net has 2 congruent triangles and 3 rectangles. Which solid can it make? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A net has 2 congruent triangles and 3 rectangles. Which solid can it make? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a triangular prism",
-      "a rectangular prism",
-      "a triangular pyramid"
-    ],
+    "question": "A net for a triangular prism is missing one side face. It currently has 2 triangles and 2 rectangles. What must be added?",
+    "audioPrompt": "A net for a triangular prism is missing one side face. It currently has 2 triangles and 2 rectangles. What must be added?",
+    "answers": ["1 rectangle", "1 triangle", "2 squares"],
     "correct": 0,
-    "explanation": "a triangular prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a triangular prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A triangular prism needs three rectangular side faces.",
+    "structuredExplanation": {"summary": "A triangular prism needs three rectangular side faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -993,26 +517,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A net has 1 square and 4 congruent triangles, each joined to a side of the square. Which solid can it make? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A net has 1 square and 4 congruent triangles, each joined to a side of the square. Which solid can it make? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a square-based pyramid",
-      "a cube",
-      "a triangular prism"
-    ],
+    "question": "A net for a pentagonal prism is missing one base. It has 1 pentagon and 5 rectangles. What must be added?",
+    "audioPrompt": "A net for a pentagonal prism is missing one base. It has 1 pentagon and 5 rectangles. What must be added?",
+    "answers": ["1 congruent pentagon", "1 rectangle", "5 triangles"],
     "correct": 0,
-    "explanation": "a square-based pyramid is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a square-based pyramid is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A prism requires two congruent bases.",
+    "structuredExplanation": {"summary": "A prism requires two congruent bases.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1022,26 +532,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "Which feature must a net for a cube have? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "Which feature must a net for a cube have? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "six equal square faces",
-      "two triangular faces",
-      "one circular face"
-    ],
+    "question": "A labelled cube net has faces A and B known to fold onto opposite sides. Which statement must be true?",
+    "audioPrompt": "A labelled cube net has faces A and B known to fold onto opposite sides. Which statement must be true?",
+    "answers": ["A and B cannot share an edge on the finished cube.", "A and B must overlap.", "A and B become the same face."],
     "correct": 0,
-    "explanation": "six equal square faces is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "six equal square faces is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Opposite cube faces do not share an edge.",
+    "structuredExplanation": {"summary": "Opposite cube faces do not share an edge.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1051,26 +547,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A proposed cube net contains five squares. Why cannot it make a cube? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A proposed cube net contains five squares. Why cannot it make a cube? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "A cube needs six square faces.",
-      "The squares must be rectangles.",
-      "A cube has five vertices."
-    ],
+    "question": "A packaging net has one square and four triangles, but two triangles would overlap when folded. What is the best repair?",
+    "audioPrompt": "A packaging net has one square and four triangles, but two triangles would overlap when folded. What is the best repair?",
+    "answers": ["Change the attachment of a triangle so all four meet around the apex without overlap.", "Add a second square base.", "Replace the triangles with rectangles."],
     "correct": 0,
-    "explanation": "A cube needs six square faces. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "A cube needs six square faces. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "The face types are right for a square pyramid; the connections need repair.",
+    "structuredExplanation": {"summary": "The face types are right for a square pyramid; the connections need repair.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1080,26 +562,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A net has 2 equal pentagons and 5 rectangles. Which prism is it designed to make? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A net has 2 equal pentagons and 5 rectangles. Which prism is it designed to make? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a pentagonal prism",
-      "a triangular prism",
-      "a square-based pyramid"
-    ],
+    "question": "A prism has 8 faces in total and two congruent polygonal bases. How many sides does each base have?",
+    "audioPrompt": "A prism has 8 faces in total and two congruent polygonal bases. How many sides does each base have?",
+    "answers": ["6", "5", "4"],
     "correct": 0,
-    "explanation": "a pentagonal prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a pentagonal prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A prism with n-sided bases has n rectangular side faces plus 2 bases, so n + 2 = 8 gives n = 6.",
+    "structuredExplanation": {"summary": "A prism with n-sided bases has n rectangular side faces plus 2 bases, so n + 2 = 8 gives n = 6.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1109,26 +577,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A triangular prism net has three rectangles. What do the rectangles become after folding? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A triangular prism net has three rectangles. What do the rectangles become after folding? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "the side faces",
-      "the vertices",
-      "the triangular bases"
-    ],
+    "question": "A prism net has 2 congruent octagons. How many rectangular side faces are needed?",
+    "audioPrompt": "A prism net has 2 congruent octagons. How many rectangular side faces are needed?",
+    "answers": ["8", "6", "10"],
     "correct": 0,
-    "explanation": "the side faces is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "the side faces is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "One rectangle corresponds to each side of the octagonal base.",
+    "structuredExplanation": {"summary": "One rectangle corresponds to each side of the octagonal base.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1138,26 +592,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A student says any group of six squares makes a cube. What is the best response? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A student says any group of six squares makes a cube. What is the best response? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "No; the squares must be joined in a foldable arrangement.",
-      "Yes; only the number of squares matters.",
-      "No; cubes have eight square faces."
-    ],
+    "question": "A pyramid has one pentagonal base. How many triangular side faces should its net contain?",
+    "audioPrompt": "A pyramid has one pentagonal base. How many triangular side faces should its net contain?",
+    "answers": ["5", "2", "10"],
     "correct": 0,
-    "explanation": "No; the squares must be joined in a foldable arrangement. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "No; the squares must be joined in a foldable arrangement. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "One triangular face meets each side of the pentagonal base.",
+    "structuredExplanation": {"summary": "One triangular face meets each side of the pentagonal base.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1167,26 +607,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "Which check helps decide whether a net will close without gaps? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "Which check helps decide whether a net will close without gaps? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "Match the number and shape of faces to the solid.",
-      "Count only the corners.",
-      "Measure the page size."
-    ],
+    "question": "A net has 2 squares and 4 rectangles. Which solid could it make if the squares are congruent bases?",
+    "audioPrompt": "A net has 2 squares and 4 rectangles. Which solid could it make if the squares are congruent bases?",
+    "answers": ["square prism", "square pyramid", "cube only"],
     "correct": 0,
-    "explanation": "Match the number and shape of faces to the solid. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "Match the number and shape of faces to the solid. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Two square bases with four rectangular lateral faces form a square prism.",
+    "structuredExplanation": {"summary": "Two square bases with four rectangular lateral faces form a square prism.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1196,26 +622,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A net has a circle and one rectangle. Which solid can it make? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A net has a circle and one rectangle. Which solid can it make? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a cylinder",
-      "a cone",
-      "a rectangular prism"
-    ],
+    "question": "A net includes all correct faces for a cube. To decide whether two labelled faces become adjacent, what reasoning is required?",
+    "audioPrompt": "A net includes all correct faces for a cube. To decide whether two labelled faces become adjacent, what reasoning is required?",
+    "answers": ["Track shared edges through the fold sequence.", "Compare their colours.", "Count only the faces between them on the page."],
     "correct": 0,
-    "explanation": "a cylinder is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a cylinder is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Adjacency in the 3D object must be inferred from folding.",
+    "structuredExplanation": {"summary": "Adjacency in the 3D object must be inferred from folding.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1225,26 +637,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A net has one circle and a sector. Which solid can it make? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A net has one circle and a sector. Which solid can it make? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a cone",
-      "a cylinder",
-      "a triangular pyramid"
-    ],
+    "question": "A builder wants two marked faces to be opposite on a cube. Which design test is strongest?",
+    "audioPrompt": "A builder wants two marked faces to be opposite on a cube. Which design test is strongest?",
+    "answers": ["Fold mentally or with a model and check they never share an edge.", "Place them farthest apart in the flat drawing.", "Colour them differently."],
     "correct": 0,
-    "explanation": "a cone is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a cone is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Flat distance is unreliable; folding determines opposite faces.",
+    "structuredExplanation": {"summary": "Flat distance is unreliable; folding determines opposite faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1254,26 +652,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A model has two square faces and four rectangles. Which solid is described? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A model has two square faces and four rectangles. Which solid is described? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "a square prism",
-      "a cube",
-      "a triangular pyramid"
-    ],
+    "question": "A net is reflected like a mirror image on the page. If the original net was valid, what can usually be said about the reflected arrangement?",
+    "audioPrompt": "A net is reflected like a mirror image on the page. If the original net was valid, what can usually be said about the reflected arrangement?",
+    "answers": ["It remains a valid net with the same adjacency pattern mirrored.", "It must form a different solid.", "It loses one face."],
     "correct": 0,
-    "explanation": "a square prism is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "a square prism is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Mirroring the flat layout preserves the connectivity needed to fold the same solid.",
+    "structuredExplanation": {"summary": "Mirroring the flat layout preserves the connectivity needed to fold the same solid.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1283,26 +667,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A prism has identical parallel end faces. Which pair could be the ends of a triangular prism? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A prism has identical parallel end faces. Which pair could be the ends of a triangular prism? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "two congruent triangles",
-      "two congruent circles",
-      "two congruent squares"
-    ],
+    "question": "A student designs a net with two congruent triangles and three quadrilaterals, but one quadrilateral is not a rectangle. Can it still be a right triangular-prism net in this Year 5 model?",
+    "audioPrompt": "A student designs a net with two congruent triangles and three quadrilaterals, but one quadrilateral is not a rectangle. Can it still be a right triangular-prism net in this Year 5 model?",
+    "answers": ["No; the standard right-prism side faces should be rectangles.", "Yes; any quadrilateral works.", "Only the triangles matter."],
     "correct": 0,
-    "explanation": "two congruent triangles is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "two congruent triangles is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "The standard triangular-prism nets studied use rectangular side faces.",
+    "structuredExplanation": {"summary": "The standard triangular-prism nets studied use rectangular side faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1312,26 +682,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "A net includes two triangles but one is much larger. Can they be the ends of a triangular prism? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "A net includes two triangles but one is much larger. Can they be the ends of a triangular prism? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "No; the two end faces must be congruent.",
-      "Yes; any two triangles work.",
-      "Yes; the rectangles fix the difference."
-    ],
+    "question": "A solid has one hexagonal base and six triangular faces meeting at one vertex. What would its net look like?",
+    "audioPrompt": "A solid has one hexagonal base and six triangular faces meeting at one vertex. What would its net look like?",
+    "answers": ["one hexagon with six triangles attached around it", "two hexagons with six rectangles", "six squares in a strip"],
     "correct": 0,
-    "explanation": "No; the two end faces must be congruent. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "No; the two end faces must be congruent. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "That face structure is a hexagonal pyramid.",
+    "structuredExplanation": {"summary": "That face structure is a hexagonal pyramid.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1341,26 +697,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "When folding a rectangular-prism net, what happens to two rectangles attached to opposite sides of a central rectangle? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "When folding a rectangular-prism net, what happens to two rectangles attached to opposite sides of a central rectangle? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "They become different side faces.",
-      "They disappear inside the solid.",
-      "They become the same face."
-    ],
+    "question": "A net for a cube is cut into two disconnected pieces. Why is it not a single usable net?",
+    "audioPrompt": "A net for a cube is cut into two disconnected pieces. Why is it not a single usable net?",
+    "answers": ["A net must be connected so the faces fold together as one surface.", "Disconnected pieces always make two cubes.", "A cube cannot have square faces."],
     "correct": 0,
-    "explanation": "They become different side faces. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "They become different side faces. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "A net is one connected arrangement of all faces.",
+    "structuredExplanation": {"summary": "A net is one connected arrangement of all faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   },
   {
@@ -1370,26 +712,12 @@ window.skillrPracticeQuestions = [
     "skill": "transfer/challenge",
     "printable": true,
     "type": "single",
-    "question": "Which statement about a net is true? A classmate disagrees; choose the answer that would convince them.",
-    "audioPrompt": "Which statement about a net is true? A classmate disagrees; choose the answer that would convince them.",
-    "visual": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5sp01.svg#ac9m5sp01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for connect nets and objects, moving from evidence to a checked decision."
-    },
-    "answers": [
-      "It is a flat pattern that can fold to form a 3D object.",
-      "It is the shadow of a 3D object.",
-      "It is a list of edge lengths only."
-    ],
+    "question": "Which design challenge tests the highest spatial reasoning?",
+    "audioPrompt": "Which design challenge tests the highest spatial reasoning?",
+    "answers": ["Choose where to attach a missing face so the completed net folds without overlap and gives a required opposite-face relationship.", "Name a cube from six squares.", "Count the faces of a square pyramid."],
     "correct": 0,
-    "explanation": "It is a flat pattern that can fold to form a 3D object. is correct. Match the number, shape and arrangement of faces in the net to the 3D solid it will form.",
-    "structuredExplanation": {
-      "summary": "It is a flat pattern that can fold to form a 3D object. is correct.",
-      "hint": "Check each face shape and imagine folding along the shared edges."
-    },
+    "explanation": "Repairing a net under folding constraints requires tracking adjacency and opposite faces.",
+    "structuredExplanation": {"summary": "Repairing a net under folding constraints requires tracking adjacency and opposite faces.", "hint": "Use the defining features and check your reasoning before choosing."},
     "qualitySchema": "production-v1"
   }
 ];
