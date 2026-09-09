@@ -14,70 +14,88 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Build TXT export
+      - name: Build TXT export from live production banks
         shell: bash
         run: |
           node <<'NODE'
           const fs = require('fs');
           const path = require('path');
-          const dir = path.join(process.cwd(), 'assets', 'assessment-banks', 'year5', 'english');
-          const files = fs.readdirSync(dir).filter(f => /^ac9e5(?:la|le|ly)\d+\.json$/i.test(f)).sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));
-          if (files.length !== 24) throw new Error(`Expected 24 Year 5 English bank files, found ${files.length}`);
-          let out = '';
-          out += 'SKILLRHUB — YEAR 5 ENGLISH — ALL QUESTIONS\n';
-          out += 'Source: assets/assessment-banks/year5/english/*.json\n';
-          out += `Codes: ${files.length}\n`;
-          out += 'Expected unique assessment questions: 1,536 (48 practice + 16 test per code)\n';
-          out += 'Worksheet pages reuse questions from the practice banks and are not duplicated here.\n\n';
-          let total = 0, practiceTotal = 0, testTotal = 0;
-          for (const file of files) {
-            const items = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8'));
-            const code = (items[0] && (items[0].curriculum_code || items[0].curriculumCode)) || path.basename(file,'.json').toUpperCase();
-            const practice = items.filter(x => x.bank === 'practice');
-            const test = items.filter(x => x.bank === 'test');
-            if (practice.length !== 48 || test.length !== 16) throw new Error(`${code}: expected 48 practice/16 test, found ${practice.length}/${test.length}`);
-            total += items.length; practiceTotal += practice.length; testTotal += test.length;
-            out += '='.repeat(90) + '\n';
-            out += `${code} — ${items.length} QUESTIONS (${practice.length} PRACTICE + ${test.length} TEST)\n`;
-            out += '='.repeat(90) + '\n\n';
-            for (const bank of ['practice','test']) {
-              const bankItems = items.filter(x => x.bank === bank);
-              out += `--- ${bank.toUpperCase()} BANK — ${bankItems.length} QUESTIONS ---\n\n`;
-              bankItems.forEach((q, idx) => {
-                const id = q.id || `${code}-${bank}-${idx+1}`;
-                out += `${idx+1}. [${id}]\n`;
-                if (q.stage) out += `Stage: ${q.stage}\n`;
-                if (q.skill) out += `Skill: ${String(q.skill).replaceAll('_',' ')}\n`;
-                out += `Question: ${q.question}\n`;
-                if (Array.isArray(q.answers)) {
-                  q.answers.forEach((a, ai) => {
-                    const text = typeof a === 'string' ? a : a.text;
-                    const correct = typeof a === 'object' && a !== null ? !!a.is_correct : ai === q.correct_index;
-                    out += `  ${String.fromCharCode(65+ai)}. ${text}${correct ? '  [CORRECT]' : ''}\n`;
+          const vm = require('vm');
+          const root = path.join(process.cwd(), 'quiz', 'year-5', 'english');
+          const codes = fs.readdirSync(root,{withFileTypes:true})
+            .filter(d=>d.isDirectory() && /^ac9e5(?:la|le|ly)\d+$/i.test(d.name))
+            .map(d=>d.name)
+            .sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));
+          if (codes.length !== 24) throw new Error(`Expected 24 Year 5 English code folders, found ${codes.length}`);
+          function loadQuestions(file, bank){
+            if(!fs.existsSync(file)) throw new Error(`Missing ${file}`);
+            const sandbox={window:{},console};
+            vm.createContext(sandbox);
+            vm.runInContext(fs.readFileSync(file,'utf8'),sandbox,{filename:file});
+            const preferred=bank==='practice'?sandbox.window.skillrPracticeQuestions:sandbox.window.skillrTestQuestions;
+            const arr=Array.isArray(preferred)?preferred:(Array.isArray(sandbox.window.quizQuestions)?sandbox.window.quizQuestions:null);
+            if(!arr) throw new Error(`No ${bank} question array found in ${file}`);
+            return JSON.parse(JSON.stringify(arr));
+          }
+          let out='SKILLRHUB — YEAR 5 ENGLISH — ALL LIVE PRODUCTION QUESTIONS\n';
+          out+='Source: quiz/year-5/english/<code>/{practice,test}/questions.js\n';
+          out+=`Curriculum codes: ${codes.length}\n`;
+          out+='Worksheet pages reuse the practice banks; worksheet selections are not duplicated.\n\n';
+          let total=0, practiceTotal=0, testTotal=0;
+          const summary=[];
+          for(const lower of codes){
+            const p=loadQuestions(path.join(root,lower,'practice','questions.js'),'practice');
+            const t=loadQuestions(path.join(root,lower,'test','questions.js'),'test');
+            const first=p[0]||t[0]||{};
+            const code=String(first.curriculumCode||first.curriculum_code||lower).toUpperCase();
+            total+=p.length+t.length; practiceTotal+=p.length; testTotal+=t.length;
+            summary.push(`${code}: ${p.length} practice + ${t.length} test = ${p.length+t.length}`);
+            out+='='.repeat(94)+'\n';
+            out+=`${code} — ${p.length+t.length} QUESTIONS (${p.length} PRACTICE + ${t.length} TEST)\n`;
+            out+='='.repeat(94)+'\n\n';
+            for(const [bank,items] of [['practice',p],['test',t]]){
+              out+=`--- ${bank.toUpperCase()} BANK — ${items.length} QUESTIONS ---\n\n`;
+              items.forEach((q,idx)=>{
+                const id=q.id||`${code}-${bank}-${String(idx+1).padStart(3,'0')}`;
+                out+=`${idx+1}. [${id}]\n`;
+                if(q.stage) out+=`Stage: ${q.stage}\n`;
+                if(q.skill) out+=`Skill: ${String(q.skill).replaceAll('_',' ')}\n`;
+                out+=`Question: ${q.question??q.prompt??''}\n`;
+                const answers=q.answers||q.options||q.choices;
+                if(Array.isArray(answers)){
+                  answers.forEach((a,ai)=>{
+                    const text=typeof a==='string'?a:(a?.text??a?.label??String(a));
+                    let correct=false;
+                    if(typeof a==='object'&&a!==null&&'is_correct' in a) correct=!!a.is_correct;
+                    else if(Number.isInteger(q.correct)) correct=ai===q.correct;
+                    else if(Number.isInteger(q.correct_index)) correct=ai===q.correct_index;
+                    else if(Number.isInteger(q.correctIndex)) correct=ai===q.correctIndex;
+                    out+=`  ${String.fromCharCode(65+ai)}. ${text}${correct?'  [CORRECT]':''}\n`;
                   });
                 }
-                if (Number.isInteger(q.correct_index) && Array.isArray(q.answers) && !q.answers.some(a => typeof a === 'object' && a !== null && 'is_correct' in a)) out += `Correct answer: ${String.fromCharCode(65+q.correct_index)}\n`;
-                const exp = q.explanation;
-                if (typeof exp === 'string') out += `Explanation: ${exp}\n`;
-                else if (exp && typeof exp === 'object') {
-                  if (exp.summary) out += `Explanation: ${exp.summary}\n`;
-                  if (exp.hint) out += `Hint: ${exp.hint}\n`;
+                const exp=q.structuredExplanation||q.explanation;
+                if(typeof exp==='string') out+=`Explanation: ${exp}\n`;
+                else if(exp&&typeof exp==='object'){
+                  if(exp.summary) out+=`Explanation: ${exp.summary}\n`;
+                  if(exp.hint) out+=`Hint: ${exp.hint}\n`;
                 }
-                out += '\n';
+                out+='\n';
               });
             }
           }
-          out += '='.repeat(90) + '\n';
-          out += `TOTAL: ${total} QUESTIONS — ${practiceTotal} PRACTICE + ${testTotal} TEST\n`;
-          if (total !== 1536 || practiceTotal !== 1152 || testTotal !== 384) throw new Error(`Unexpected totals ${total}/${practiceTotal}/${testTotal}`);
-          fs.writeFileSync('SkillrHub_Year5_English_All_Questions.txt', out, 'utf8');
-          console.log(`Exported ${total} questions from ${files.length} codes.`);
+          out+='='.repeat(94)+'\n';
+          out+='BANK COUNTS\n'+summary.join('\n')+'\n\n';
+          out+=`TOTAL: ${total} QUESTIONS — ${practiceTotal} PRACTICE + ${testTotal} TEST\n`;
+          fs.writeFileSync('SkillrHub_Year5_English_All_Questions.txt',out,'utf8');
+          fs.writeFileSync('SkillrHub_Year5_English_Question_Counts.txt',summary.join('\n')+`\nTOTAL ${total} (${practiceTotal} practice + ${testTotal} test)\n`,'utf8');
+          console.log(`Exported ${total} live questions from ${codes.length} codes: ${practiceTotal} practice + ${testTotal} test.`);
           NODE
       - name: Upload TXT
         uses: actions/upload-artifact@v4
         with:
           name: SkillrHub-Year5-English-All-Questions
-          path: SkillrHub_Year5_English_All_Questions.txt
+          path: |
+            SkillrHub_Year5_English_All_Questions.txt
+            SkillrHub_Year5_English_Question_Counts.txt
           if-no-files-found: error
           retention-days: 7
-# trigger: 2026-09-09
