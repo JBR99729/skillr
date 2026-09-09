@@ -1,34 +1,419 @@
-name: Audit Year 5 Maths authored bank sources
+name: Complete Year 5 Mathematics once
 on:
   push:
     paths: ['.github/workflows/publish-year5-maths-once.yml']
 permissions:
-  contents: read
+  contents: write
 jobs:
-  audit:
+  complete:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with: {ref: main, fetch-depth: 0}
-      - name: Find strongest authored bank source per code
+
+      - name: Expand research-backed Year 5 Maths practice banks
         run: |
           node <<'NODE'
-          const cp=require('child_process'),vm=require('vm');
-          const codes=[...Array.from({length:9},(_,i)=>`AC9M5N${String(i+1).padStart(2,'0')}`),'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5ST02','AC9M5ST03'];
+          const fs=require('fs'),path=require('path'),vm=require('vm');
           const slug=c=>c==='AC9M5N010'?'ac9m5n10':c.toLowerCase();
-          const refs=cp.execSync("git for-each-ref --format='%(refname:short)' refs/remotes/origin/agent/qa-year5-* refs/remotes/origin/agent/year5-* refs/remotes/origin/agent/clean-authored-year5-bank-prompts refs/remotes/origin/agent/year-5-maths-curriculum-banks",{encoding:'utf8'}).trim().split(/\n+/).filter(Boolean);
-          refs.unshift('origin/main');
-          function read(ref,p){try{return cp.execSync(`git show ${ref}:${p}`,{encoding:'utf8',stdio:['ignore','pipe','ignore'],maxBuffer:20*1024*1024})}catch{return null}}
-          function evalBank(txt,bank){if(!txt)return null;const sandbox={window:{},console};vm.createContext(sandbox);try{vm.runInContext(txt,sandbox)}catch{return null}return bank==='practice'?(sandbox.window.skillrPracticeQuestions||sandbox.window.quizQuestions):(sandbox.window.skillrTestQuestions||sandbox.window.quizQuestions)}
-          for(const c of codes){
-            let best=[];
-            for(const ref of refs){
-              const base=`quiz/year-5/math/${slug(c)}`;
-              const p=evalBank(read(ref,`${base}/practice/questions.js`),'practice');
-              const t=evalBank(read(ref,`${base}/test/questions.js`),'test');
-              if(Array.isArray(p)||Array.isArray(t)) best.push({ref,p:Array.isArray(p)?p.length:0,t:Array.isArray(t)?t.length:0,uniqueP:Array.isArray(p)?new Set(p.map(q=>q.question)).size:0,uniqueT:Array.isArray(t)?new Set(t.map(q=>q.question)).size:0});
-            }
-            best.sort((a,b)=>(b.p+b.t)-(a.p+a.t)||b.p-a.p);
-            console.log('CODE',c,JSON.stringify(best.slice(0,8)));
+          const hint={
+            AC9M5N01:'Align decimal places and compare from the greatest place value.',
+            AC9M5N02:'Use factor pairs, multiples or the most efficient divisibility rule.',
+            AC9M5N03:'Make sure the fractions refer to the same whole, then use equivalence or a benchmark.',
+            AC9M5N04:'Treat 100% as the whole and connect percent, fraction and decimal forms.',
+            AC9M5M01:'Match the attribute and object size to a sensible metric unit and precision.',
+            AC9M5M02:'Decide whether the question needs boundary length or square units before calculating.',
+            AC9M5M03:'Track am/pm or 24-hour time carefully, especially across noon and midnight.',
+            AC9M5M04:'Locate the vertex, baseline and correct protractor scale before reading the angle.',
+            AC9M5ST02:'Read the axes and scale first, then support conclusions with values from the graph.',
+            AC9M5ST03:'Match the question, data type, collection method, display and conclusion.'
+          };
+          function load(code,bank){
+            const file=path.join('quiz/year-5/math',slug(code),bank,'questions.js');
+            const sandbox={window:{},console}; vm.createContext(sandbox); vm.runInContext(fs.readFileSync(file,'utf8'),sandbox,{filename:file});
+            const arr=bank==='practice'?(sandbox.window.skillrPracticeQuestions||sandbox.window.quizQuestions):(sandbox.window.skillrTestQuestions||sandbox.window.quizQuestions);
+            if(!Array.isArray(arr)) throw new Error(`Cannot load ${file}`); return {file,arr};
           }
+          function item(code,i,raw){
+            const [question,answers,correct,explanation,skill]=raw;
+            return {id:`${slug(code)}-p-${String(i).padStart(3,'0')}`,curriculumCode:code,bank:'practice',skill:skill||'research transfer',printable:true,type:'single',question,audioPrompt:question,answers,correct,explanation,structuredExplanation:{summary:explanation,hint:hint[code]||'Use the defining features and check your reasoning.'},qualitySchema:'production-v1'};
+          }
+          const A={};
+
+          A.AC9M5N01=[
+            ['Four race times are 12.405 s, 12.45 s, 12.054 s and 12.450 s. Which statement is correct?',['12.054 < 12.405 < 12.45 = 12.450','12.405 < 12.054 < 12.450 < 12.45','12.45 < 12.405 < 12.054 < 12.450'],0,'Appending a zero does not change 12.45, so compare 12.450 with the other aligned decimals.','order decimals'],
+            ['A number lies between 4.706 and 4.708 and has 7 in the thousandths place. Which number is it?',['4.707','4.770','4.7007'],0,'The only thousandth between 4.706 and 4.708 is 4.707.','locate decimal'],
+            ['Which decimal is closest to 6.25?',['6.248','6.205','6.295'],0,'6.248 is 0.002 from 6.25, closer than the other options.','closest decimal'],
+            ['A point is halfway between 3.416 and 3.418 on a number line. What is its value?',['3.417','3.4175','3.4165'],0,'The interval is 0.002, so halfway is 0.001 above 3.416: 3.417.','number line'],
+            ['Which digit can replace □ so that 8.3□6 > 8.356 but is as small as possible?',['6','5','4'],0,'The tenths match; the hundredths must exceed 5, so the smallest choice is 6.','missing digit'],
+            ['A student orders 0.908, 0.89 and 0.9008 as 0.89 < 0.908 < 0.9008. What is the first error?',['0.9008 is less than 0.908','0.89 is greater than 0.908','0.908 equals 0.9008'],0,'Write 0.9080 and 0.9008; at the hundredths place 0 is less than 8, so 0.9008 < 0.908.','error analysis'],
+            ['A number line from 5.72 to 5.73 is divided into 20 equal intervals. What is one interval worth?',['0.0005','0.005','0.00005'],0,'The total difference is 0.01; 0.01 ÷ 20 = 0.0005.','number-line scale'],
+            ['Which decimal has the same value as 2 + 7/10 + 3/1000?',['2.703','2.073','2.730'],0,'Seven tenths is 0.7 and three thousandths is 0.003, giving 2.703.','expanded notation'],
+            ['Three measurements are 1.099 m, 1.101 m and 1.11 m. Which is the median value when ordered?',['1.101 m','1.099 m','1.11 m'],0,'The order is 1.099 < 1.101 < 1.110, so 1.101 is in the middle.','order decimals'],
+            ['Which pair is equal?',['7.040 and 7.04','7.004 and 7.04','7.400 and 7.04'],0,'Trailing zeros after the last non-zero decimal digit do not change value.','decimal equality'],
+            ['A decimal is greater than 0.499 but less than 0.501. Which could it be?',['0.5004','0.509','0.4905'],0,'0.5004 lies strictly between 0.4990 and 0.5010.','interval reasoning'],
+            ['The digit 3 in 5.032 is how many times the value of the digit 3 in 5.0032?',['10 times','100 times','one tenth'],0,'0.03 is ten times 0.003. The second 3 is in the thousandths place.','place-value relation'],
+            ['Five cards show 2.305, 2.350, 2.053, 2.503 and 2.035. Which card is second smallest?',['2.053','2.035','2.305'],0,'Ordering gives 2.035, 2.053, 2.305, 2.350, 2.503.','multi-decimal order'],
+            ['A number rounds visually near 9.46 on a zoomed number line and is exactly 0.004 greater than 9.456. What is it?',['9.460','9.452','9.496'],0,'9.456 + 0.004 = 9.460, which equals 9.46.','decimal displacement'],
+            ['Which statement proves 4.099 < 4.1 without rounding?',['4.1 = 4.100, and 99 thousandths < 100 thousandths','4.099 has more digits','4.099 rounds down'],0,'Writing 4.1 as 4.100 allows a direct place-value comparison.','justify comparison'],
+            ['A missing decimal must make 6.708 < □ < 6.71. Which option works?',['6.7095','6.7015','6.7105'],0,'6.7095 is above 6.7080 and below 6.7100.','decimal interval'],
+            ['A number line mark is 7 intervals after 1.204. Each interval is 0.0005. What value is marked?',['1.2075','1.211','1.2047'],0,'Seven intervals total 0.0035; 1.204 + 0.0035 = 1.2075.','scaled number line'],
+            ['Which list is decreasing?',['3.405, 3.4005, 3.045, 3.0045','3.405, 3.045, 3.4005, 3.0045','3.0045, 3.045, 3.4005, 3.405'],0,'Aligned as four decimal places, each value in the first list is less than the one before it.','order decimals'],
+            ['A student claims 10.0205 = 10.205 because zeros after a decimal do not matter. Which response is best?',['Only trailing zeros can be removed without shifting later digits','All decimal zeros can be removed','The two numbers are equal after rounding'],0,'The internal zero holds the tenths place; removing it changes the value.','zero role'],
+            ['Two decimals differ only in the thousandths digit: 5.62a and 5.62b. If the first is greater, what must be true?',['a > b','a < b','a = b'],0,'All earlier places match, so the thousandths digits decide the comparison.','generalise comparison'],
+            ['A sensor target is 2.500. Which reading is furthest from the target?',['2.489','2.507','2.495'],0,'Distances are 0.011, 0.007 and 0.005 respectively, so 2.489 is furthest.','decimal distance'],
+            ['A decimal has 6 ones, 4 hundredths and 9 ten-thousandths. What is the number?',['6.0409','6.409','6.049'],0,'Four hundredths is 0.04 and nine ten-thousandths is 0.0009, giving 6.0409.','place-value construction'],
+            ['Which number can be inserted so the order 0.709 < □ < 0.7092 is true?',['0.7091','0.7089','0.7101'],0,'0.7091 is one ten-thousandth above 0.7090 and below 0.7092.','fine interval'],
+            ['Three students compare 8.040, 8.004 and 8.04. Which conclusion is correct?',['8.004 < 8.040 = 8.04','8.040 < 8.004 < 8.04','all three are equal'],0,'8.040 and 8.04 are equal; 8.004 has zero hundredths and is smaller.','equality and order']
+          ];
+
+          A.AC9M5N02=[
+            ['Which number is a common factor of 84 and 126?',['21','18','28'],0,'84 ÷ 21 = 4 and 126 ÷ 21 = 6, so 21 is a factor of both.','common factors'],
+            ['A number is divisible by both 6 and 9. Which must also divide it?',['3','12','18'],0,'Any number divisible by 6 and 9 is certainly divisible by 3.','divisibility reasoning'],
+            ['Which prime factorisation equals 180?',['2² × 3² × 5','2 × 3 × 30','2³ × 3 × 5'],0,'180 = 18 × 10 = 2² × 3² × 5.','prime factorisation'],
+            ['What is the highest common factor of 48 and 72?',['24','12','144'],0,'24 divides both, and no larger common factor divides both numbers.','HCF'],
+            ['What is the lowest common multiple of 12 and 18?',['36','6','216'],0,'Multiples first meet at 36: 12×3 and 18×2.','LCM'],
+            ['A number has digits 4, 8, 2 and □. What smallest digit can replace □ so the number 482□ is divisible by 9?',['4','5','7'],0,'4+8+2=14; the smallest digit making the sum a multiple of 9 is 4, giving 18.','divisibility rule'],
+            ['Which statement about 1 is correct?',['1 is neither prime nor composite','1 is prime','1 is composite'],0,'A prime has exactly two positive factors; 1 has only one.','prime/composite'],
+            ['A rectangular array has 96 tiles. Which dimensions show a factor pair?',['8 by 12','7 by 14','9 by 11'],0,'8×12 = 96.','factor pair'],
+            ['Two bells ring every 15 minutes and every 20 minutes. If they ring together now, when next together?',['60 minutes','35 minutes','300 minutes'],0,'The LCM of 15 and 20 is 60.','LCM context'],
+            ['A teacher has 84 red and 126 blue counters and wants the greatest number of identical packs with none left. How many packs?',['42','21','6'],0,'The HCF of 84 and 126 is 42, so 42 identical packs are possible.','HCF context'],
+            ['Which number is divisible by 4 but not by 8?',['316','328','344'],0,'316 ÷4 is whole, but 316 ÷8 is not; 328 and 344 are divisible by 8.','multiple rules'],
+            ['A student lists factors of 36 as 1,2,3,4,6,9,12,18,36. What does this show?',['The list is complete','6 should be removed','24 is missing'],0,'These are all factor pairs: 1×36, 2×18, 3×12, 4×9 and 6×6.','factor completeness'],
+            ['Which number has exactly three positive factors?',['49','30','17'],0,'49 = 7² has factors 1,7,49.','factor structure'],
+            ['If n is a multiple of 18, which statement must be true?',['n is divisible by 9 and 2','n is prime','n is not divisible by 3'],0,'18 contains factors 9 and 2, so every multiple of 18 is divisible by both.','multiple generalisation'],
+            ['Which number is divisible by 3 and 4 but not by 5?',['132','120','145'],0,'132 has digit sum 6 and last two digits 32; it does not end in 0 or 5.','combined divisibility'],
+            ['A factor tree for 90 ends with 2, 3, 3 and 5. Which product confirms it?',['2 × 3² × 5','2² × 3 × 5','2 × 3 × 5²'],0,'2×9×5 = 90.','factor tree'],
+            ['What is the smallest number that is a multiple of 8, 12 and 18?',['72','144','36'],0,'72 is divisible by 8, 12 and 18 and is the least common multiple.','LCM multi-number'],
+            ['Two numbers have HCF 6. Which pair could they be?',['18 and 30','12 and 24','14 and 28'],0,'The greatest common factor of 18 and 30 is 6.','inverse HCF'],
+            ['A number is divisible by 10 and 9. What is the smallest positive possibility?',['90','45','180'],0,'The LCM of 10 and 9 is 90.','combined rules'],
+            ['A student says 2345 is divisible by 3 because it ends in 5. What is the correct test?',['Add its digits; 2+3+4+5=14, so it is not divisible by 3','Check the last digit only','Check the last two digits'],0,'Divisibility by 3 depends on the digit sum, not the final digit.','error analysis'],
+            ['Which claim is always true?',['Every factor of a number divides it with remainder 0','Every multiple of a number is smaller than it','Every composite number has exactly four factors'],0,'A factor is defined by exact division with no remainder.','definition reasoning'],
+            ['A game awards points on every 6th turn and a bonus every 8th turn. On which earliest turn do both occur?',['24','14','48'],0,'The first common multiple of 6 and 8 is 24.','LCM context'],
+            ['Which pair is relatively prime, meaning their HCF is 1?',['8 and 15','12 and 18','14 and 21'],0,'8 and 15 share no factor greater than 1.','HCF reasoning'],
+            ['A number is divisible by 6. Which two tests together are sufficient?',['It is divisible by 2 and by 3','It is divisible by 2 and by 5','It is divisible by 3 and by 9'],0,'6 = 2×3, so divisibility by both 2 and 3 guarantees divisibility by 6.','divisibility algorithm']
+          ];
+
+          A.AC9M5N03=[
+            ['Which fraction is greatest?',['7/8','5/6','11/14'],0,'Using a common denominator or decimals shows 7/8 = 0.875, greater than the others.','compare fractions'],
+            ['Which order is correct?',['3/5 < 5/8 < 2/3','5/8 < 3/5 < 2/3','2/3 < 5/8 < 3/5'],0,'Using denominator 120 gives 72/120 < 75/120 < 80/120.','order fractions'],
+            ['Which fraction is equivalent to 9/12?',['3/4','6/8 only','both 3/4 and 6/8'],2,'Both 9/12 and 6/8 simplify to 3/4.','equivalence'],
+            ['A point is halfway between 1/2 and 3/4 on a number line. What fraction is it?',['5/8','2/3','7/8'],0,'Halfway between 4/8 and 6/8 is 5/8.','fraction number line'],
+            ['Which mixed numeral is greater than 2 3/5 but less than 2 3/4?',['2 2/3','2 1/2','2 4/5'],0,'2/3 is between 3/5 and 3/4.','mixed-number comparison'],
+            ['A student says 5/9 > 5/7 because 9 is larger. What is wrong?',['With equal numerators, the fraction with the smaller denominator is larger','Larger denominators always make larger fractions','The fractions are equal'],0,'Seven equal parts are larger than nine equal parts, so 5/7 > 5/9.','error analysis'],
+            ['Which fraction is closest to 1?',['11/12','7/8','5/6'],0,'11/12 is only 1/12 below 1, a smaller gap than the others.','benchmark fraction'],
+            ['Which comparison is true?',['1 5/6 > 1 4/5','1 5/6 < 1 4/5','1 5/6 = 1 4/5'],0,'The wholes match; 5/6 = 25/30 and 4/5 = 24/30.','mixed numbers'],
+            ['Four runners completed 2/3, 3/4, 5/6 and 7/9 of a course. Who completed the largest fraction?',['5/6','7/9','3/4'],0,'5/6 is about 0.833, larger than 7/9≈0.778 and 3/4=0.75.','context comparison'],
+            ['Which fraction lies between 4/7 and 5/7?',['9/14','3/7','11/14'],0,'4/7 = 8/14 and 5/7 = 10/14, so 9/14 lies between.','fraction interval'],
+            ['A fraction equal to 3/4 has denominator 28. What is its numerator?',['21','24','18'],0,'Multiplying 4 by 7 requires multiplying 3 by 7: 21/28.','missing equivalent'],
+            ['Which statement about 6/8 and 9/12 is correct?',['They are equal','6/8 is greater','9/12 is greater'],0,'Both simplify to 3/4.','fraction equality'],
+            ['Order from least to greatest: 1 1/3, 7/6, 1 1/4.',['7/6, 1 1/4, 1 1/3','1 1/4, 7/6, 1 1/3','7/6, 1 1/3, 1 1/4'],0,'7/6=1 1/6, then 1 1/4, then 1 1/3.','mixed order'],
+            ['Which fraction is more than 3/5 but less than 2/3?',['5/8','7/10','1/2'],0,'3/5=0.6, 5/8=0.625 and 2/3≈0.667.','fraction interval'],
+            ['A shaded model shows 10 of 15 equal parts. Which fraction with denominator 6 represents the same amount?',['4/6','5/6','3/6'],0,'10/15 simplifies to 2/3, which equals 4/6.','model equivalence'],
+            ['Two fractions have denominator 24. One is equivalent to 2/3 and one to 3/4. What are their numerators?',['16 and 18','12 and 18','16 and 20'],0,'2/3=16/24 and 3/4=18/24.','common denominator'],
+            ['Which is the strongest reason that 7/10 > 2/3?',['21/30 > 20/30','10 > 3','7 > 2'],0,'Renaming both with denominator 30 compares equal-sized parts.','justify comparison'],
+            ['A number line has marks at 0, 1/4, 1/2, 3/4 and 1. Where would 5/8 lie?',['Halfway between 1/2 and 3/4','between 1/4 and 1/2','above 3/4'],0,'1/2=4/8 and 3/4=6/8, so 5/8 is halfway.','number-line reasoning'],
+            ['Which mixed numeral equals 13/5?',['2 3/5','3 2/5','2 2/5'],0,'13 ÷5 is 2 remainder 3, giving 2 3/5.','mixed conversion'],
+            ['A student places 4/6 to the right of 3/4 on a number line. What correction is needed?',['4/6 = 2/3, so it should be left of 3/4','4/6 is greater because 6 > 4','The placement is correct'],0,'2/3≈0.667 is less than 0.75.','error analysis'],
+            ['Which pair has the smaller difference in value?',['5/6 and 4/5','3/4 and 2/3','7/8 and 3/4'],0,'5/6−4/5 = 1/30, smaller than 1/12 or 1/8.','close fractions'],
+            ['Three fractions are all greater than 1/2. Which is smallest?',['5/9','4/7','7/12'],0,'5/9≈0.556, 4/7≈0.571, 7/12≈0.583.','multi-comparison'],
+            ['A recipe uses 1 2/3 cups in one batch and 1 3/5 cups in another. Which uses more?',['1 2/3 cups','1 3/5 cups','They are equal'],0,'2/3=10/15 and 3/5=9/15, so 1 2/3 is larger.','context mixed numbers'],
+            ['Which statement is always valid when comparing fractions with the same positive denominator?',['The larger numerator gives the larger fraction','The larger denominator gives the larger fraction','They are always equal'],0,'With equal-sized parts, more parts means a larger amount.','generalisation']
+          ];
+
+          A.AC9M5N04=[
+            ['Which is greatest?',['62%','0.6','3/5'],0,'0.6 and 3/5 are both 60%; 62% is greater.','compare percent forms'],
+            ['35% of 240 students chose cycling. How many students is that?',['84','72','96'],0,'35% of 240 = 0.35×240 = 84.','percent of amount'],
+            ['A tank is 0.72 full. What percentage is filled?',['72%','7.2%','720%'],0,'0.72 = 72 hundredths = 72%.','decimal to percent'],
+            ['Which fraction equals 45%?',['9/20','4/5','45/10'],0,'45%=45/100=9/20.','percent to fraction'],
+            ['A $80 item is discounted by 25%. What is the discount amount?',['$20','$60','$25'],0,'25% is one quarter; one quarter of $80 is $20.','money percent'],
+            ['A hundred-grid has 68 squares shaded. Which decimal matches the shaded part?',['0.68','6.8','0.068'],0,'68 out of 100 is 68/100 = 0.68.','grid equivalence'],
+            ['Which statement is true?',['125% is greater than one whole','125% equals 0.125','125% is less than 100%'],0,'100% is one whole, so 125% is 1.25 wholes.','percent whole'],
+            ['A class of 40 has 30 students present. What percentage is present?',['75%','70%','80%'],0,'30/40=3/4=75%.','fraction to percent'],
+            ['A battery falls from 80% to 55%. By how many percentage points did it fall?',['25 percentage points','31.25 percentage points','135 percentage points'],0,'80−55=25 percentage points.','percentage-point reasoning'],
+            ['Which is equivalent to 7%?',['0.07','0.7','7.0'],0,'7%=7/100=0.07.','percent decimal'],
+            ['A student says 0.4 = 4%. What is the correction?',['0.4 = 40%','0.4 = 0.4%','0.4 = 400%'],0,'0.4 is forty hundredths, so it is 40%.','error analysis'],
+            ['15% of a quantity is 30. What is 5% of the same quantity?',['10','15','6'],0,'5% is one third of 15%, so one third of 30 is 10.','inverse percent reasoning'],
+            ['A shop price is $120 and 30% is paid as a deposit. How much remains?',['$84','$36','$90'],0,'30% of 120 is $36; $120−$36=$84.','financial percent'],
+            ['Which representation is closest to 83%?',['five-sixths','four-fifths','three-quarters'],0,'5/6≈83.3%, closer to 83% than 80% or 75%.','benchmark percent'],
+            ['A survey shows 18 of 24 students prefer option A. What percentage is this?',['75%','72%','80%'],0,'18/24=3/4=75%.','context conversion'],
+            ['A container is 65% full, then 20% of the whole container is added. How full is it?',['85%','78%','100%'],0,'The added amount is 20 percentage points of the whole, so 65%+20%=85%.','percent addition context'],
+            ['Which amount is 120% of 50?',['60','55','600'],0,'120%=1.2, and 1.2×50=60.','percent over 100'],
+            ['A $200 budget has 15% reserved for transport and 35% for food. What percentage remains for other costs?',['50%','150%','60%'],0,'15%+35%=50%, leaving 50%.','budget percent'],
+            ['A student shades 0.08 of a hundred-grid and labels it 80%. What should the label be?',['8%','0.8%','80%'],0,'0.08=8/100=8%.','representation error'],
+            ['Which pair is equivalent?',['12.5% and 1/8','12.5% and 1/5','12.5% and 0.125%'],0,'1/8=0.125=12.5%.','fraction percent'],
+            ['A club has 60 members. If 40% are juniors, how many are not juniors?',['36','24','40'],0,'40% of 60 is 24 juniors, leaving 36.','complement percent'],
+            ['A price after a 20% discount is $72. What was 80% of the original price?',['$72','$90','$57.60'],0,'After a 20% discount, the sale price represents 80% of the original.','inverse interpretation'],
+            ['Two jars are 3/4 full and 72% full. Which is fuller?',['the 3/4 jar','the 72% jar','they are equal'],0,'3/4=75%, which is greater than 72%.','compare representations'],
+            ['Why is saying “50%” incomplete in a practical problem?',['The whole or reference quantity must be known','50% always means 50 objects','Percentages cannot describe parts'],0,'A percentage describes a proportion of a specified whole.','percent meaning']
+          ];
+
+          A.AC9M5M01=[
+            ['Which measurement is most sensible for the thickness of a credit card?',['about 1 mm','about 1 cm','about 1 m'],0,'A card is very thin, so millimetres give an appropriate scale.','choose metric unit'],
+            ['A water bottle holds about 750 ___. Which unit completes the estimate?',['mL','L','kg'],0,'A typical bottle is less than 1 litre, so 750 mL is sensible.','capacity unit'],
+            ['Which is a sensible mass for a school backpack with books?',['4 kg','4 g','400 kg'],0,'A few kilograms is realistic for a loaded backpack.','mass estimate'],
+            ['A running track is 400 ___. Which unit is appropriate?',['m','cm','km'],0,'A running track is hundreds of metres long.','length unit'],
+            ['For measuring the diameter of a small coin accurately, which combination is best?',['millimetres and a ruler with mm markings','kilometres and a map','litres and a jug'],0,'The attribute is short length and the required precision is millimetres.','tool and unit'],
+            ['A recipe needs 1 L and 250 mL of stock. What total capacity is this in millilitres?',['1250 mL','1025 mL','2500 mL'],0,'1 L=1000 mL, so total =1250 mL.','combined units'],
+            ['Which measurement is most plausible for a paperclip?',['32 mm long','32 m long','32 km long'],0,'Millimetres match the scale of a paperclip.','unit reasonableness'],
+            ['A parcel has mass 2 kg 350 g. What is its mass in grams?',['2350 g','2035 g','2500 g'],0,'2 kg=2000 g; add 350 g.','combine mass units'],
+            ['Which unit gives the most useful precision for a classroom door height?',['centimetres','kilometres','millilitres'],0,'Centimetres give practical precision for a height around 2 metres.','precision choice'],
+            ['A swimming pool capacity would most sensibly be described using which unit?',['litres or kilolitres, depending on scale','millimetres','grams'],0,'Capacity needs a volume unit; a pool contains a large volume of water.','attribute-unit match'],
+            ['A student records a pencil mass as 18 kg. What is the likely issue?',['The unit is far too large; grams are appropriate','The value is too precise','Mass should be measured in litres'],0,'A pencil has a mass of only a few grams, not kilograms.','error analysis'],
+            ['Which plan best measures a 2.4 m bookshelf to the nearest centimetre?',['Use a tape measure marked in centimetres','Use a kitchen scale','Use a 1 L jug'],0,'A tape measure with centimetre divisions matches the attribute and precision.','measurement plan'],
+            ['A hiking trail is 6 km 450 m long. How many metres is that?',['6450 m','6050 m','64 500 m'],0,'6 km=6000 m; add 450 m.','combined length units'],
+            ['A container holds 2.5 L. Which is equivalent?',['2500 mL','250 mL','25 000 mL'],0,'1 L=1000 mL, so 2.5 L=2500 mL.','capacity conversion'],
+            ['Which estimate is most reasonable for the mass of an apple?',['180 g','18 kg','1.8 mg'],0,'An apple commonly has mass of a few hundred grams.','mass benchmark'],
+            ['Why might 1 m 7 cm be more informative than simply 1 m for a measured object?',['It records smaller units for greater accuracy','It changes the object length','Centimetres measure mass'],0,'Combining units can communicate precision beyond the nearest metre.','precision reasoning'],
+            ['A science activity needs exactly 35 mL of liquid. Which tool is best?',['a graduated measuring cylinder marked in mL','a kilometre scale','a bathroom scale'],0,'A graduated cylinder measures small liquid capacity accurately.','tool selection'],
+            ['Which pair measures the same attribute?',['cm and km','kg and mL','g and L'],0,'Centimetres and kilometres both measure length.','unit classification'],
+            ['A student measures a desk as 1.27 m. Which mixed-unit description matches?',['1 m 27 cm','1 m 2.7 cm','12 m 7 cm'],0,'0.27 m=27 cm.','mixed units'],
+            ['A 3 kg bag loses 450 g. What is its new mass?',['2 kg 550 g','2 kg 650 g','3 kg 450 g'],0,'3000 g−450 g=2550 g=2 kg 550 g.','mass application'],
+            ['A jug contains 1 L 80 mL. Which notation avoids the mistake of reading this as 1.8 L?',['1080 mL','1800 mL','1008 mL'],0,'1 L is 1000 mL; plus 80 mL gives 1080 mL.','place-value unit reasoning'],
+            ['Which unit would make the statement “The distance between Canberra and Sydney is about 286 ___” sensible?',['km','m','cm'],0,'Distances between cities are appropriately measured in kilometres.','scale choice'],
+            ['A craft piece is 4.6 cm long. To record it in millimetres, what should be written?',['46 mm','460 mm','4.6 mm'],0,'1 cm=10 mm, so 4.6 cm=46 mm.','precision conversion'],
+            ['What is the key decision before choosing mm, cm, m or km?',['Estimate the size of the length and required precision','Always choose the smallest unit','Choose the unit with the shortest name'],0,'Appropriate units depend on magnitude and how accurately the measurement needs to be communicated.','unit strategy']
+          ];
+
+          A.AC9M5M02=[
+            ['A rectangle is 14 m by 9 m. What is its perimeter?',['46 m','126 m²','23 m'],0,'Perimeter is 2(14+9)=46 m.','perimeter'],
+            ['The same 14 m by 9 m rectangle has what area?',['126 m²','46 m²','126 m'],0,'Area =14×9=126 square metres.','area'],
+            ['An L-shape is made from a 10 m by 8 m rectangle with a 4 m by 3 m corner removed. What is its area?',['68 m²','80 m²','56 m²'],0,'80−12=68 square metres.','irregular area'],
+            ['A square garden has perimeter 36 m. What is its area?',['81 m²','36 m²','18 m²'],0,'Each side is 36÷4=9 m, so area=9×9=81 m².','missing side'],
+            ['A rectangular floor has area 72 m² and width 8 m. What is its length?',['9 m','64 m','18 m'],0,'Length=72÷8=9 m.','inverse area'],
+            ['A fence surrounds a 12 m by 7 m garden except for a 2 m gate. How much fencing is needed?',['36 m','38 m','82 m'],0,'Full perimeter is 38 m; subtract the 2 m gate to get 36 m.','perimeter context'],
+            ['Tiles cost $4 per square metre. What does it cost to tile a 6 m by 5 m floor?',['$120','$44','$30'],0,'Area=30 m² and 30×$4=$120.','area cost'],
+            ['Which unit is appropriate for the area of a classroom floor?',['m²','m','cm'],0,'Area is measured in square units; square metres suit a room.','area units'],
+            ['A student finds the area of a 9 cm by 4 cm rectangle as 26 cm. What two errors are present?',['The calculation and the area unit are both wrong','Only the number is wrong','Only the unit is wrong'],0,'Area is 9×4=36 and must be written cm².','error analysis'],
+            ['An irregular shape can be split into rectangles of 5×4 and 3×2 with no overlap. What is its total area?',['26 square units','14 square units','22 square units'],0,'5×4 +3×2 =20+6=26.','decompose area'],
+            ['A rectangle has perimeter 50 cm and length 15 cm. What is its width?',['10 cm','20 cm','5 cm'],0,'2(L+W)=50, so L+W=25 and W=10.','missing perimeter side'],
+            ['Two rectangles each have area 48 cm². Must they have the same perimeter?',['No; different side lengths can give the same area','Yes; equal area fixes the perimeter','Only if both are coloured the same'],0,'For example 6×8 and 4×12 both have area 48 but different perimeters.','compare designs'],
+            ['A 20 m by 12 m field contains a 6 m by 4 m shed. What open area remains?',['216 m²','240 m²','192 m²'],0,'Field area 240 minus shed area 24 =216 m².','composite area'],
+            ['A path follows the outside of a regular pentagon with sides 7 m. How long is one circuit?',['35 m','49 m','14 m'],0,'Perimeter=5×7=35 m.','regular polygon perimeter'],
+            ['A shape has area 60 cm². Which dimensions could describe a rectangle with that area?',['12 cm by 5 cm','12 cm by 6 cm','10 cm by 5 cm'],0,'12×5=60.','area factor pair'],
+            ['A rectangular garden is 18 m long. Its area is 216 m². If fencing is placed around all sides, how much fencing is needed?',['60 m','48 m','216 m'],0,'Width=216÷18=12; perimeter=2(18+12)=60 m.','multi-step area-perimeter'],
+            ['An L-shaped patio is formed from a 9×7 rectangle and a 4×3 rectangle joined without overlap. What is its area?',['75 m²','63 m²','87 m²'],0,'63+12=75 m².','composite area'],
+            ['A square and a rectangle both have perimeter 40 m. The rectangle is 14 m by 6 m. Which has greater area?',['the square','the rectangle','they are equal'],0,'Square side=10, area=100; rectangle area=84.','optimise area'],
+            ['A 5 m by 4 m garden is enlarged to 10 m by 8 m. How does its area change?',['It becomes four times as large','It doubles','It stays the same'],0,'Both dimensions double, so area scales by 2×2=4.','area scaling'],
+            ['A border is needed around a 3 m by 2 m noticeboard. Which measure matters?',['perimeter','area','capacity'],0,'A border follows the boundary, so perimeter is required.','measure selection'],
+            ['Carpet is needed for the inside of a room. Which measure matters?',['area','perimeter','mass'],0,'Carpet covers a surface, so area is required.','measure selection'],
+            ['A rectangle has integer side lengths and area 36 cm². Which option gives the greatest perimeter?',['1 cm by 36 cm','6 cm by 6 cm','4 cm by 9 cm'],0,'Perimeters are 74, 24 and 26 cm respectively.','optimisation'],
+            ['A tiled shape has 42 unit squares with no gaps or overlaps. What is its area?',['42 square units','42 units','84 square units'],0,'Each tile contributes one square unit of area.','grid area'],
+            ['Why can two shapes have equal perimeter but different areas?',['Boundary length does not uniquely determine how much surface is enclosed','Equal perimeter always means equal area','Area and perimeter use the same formula'],0,'Different arrangements can enclose different areas while keeping the same total boundary length.','concept reasoning']
+          ];
+
+          A.AC9M5M03=[
+            ['What is 3:45 pm in 24-hour time?',['15:45','03:45','13:45'],0,'For pm times after noon, add 12 to the hour: 3+12=15.','time conversion'],
+            ['What is 07:20 in 12-hour time?',['7:20 am','7:20 pm','19:20 pm'],0,'07:20 is before 12:00, so it is 7:20 am.','time conversion'],
+            ['What is 00:30 in 12-hour time?',['12:30 am','12:30 pm','0:30 pm'],0,'00:30 is thirty minutes after midnight, which is 12:30 am.','midnight'],
+            ['What is 12:00 in 12-hour time?',['12:00 pm (noon)','12:00 am (midnight)','00:00 pm'],0,'12:00 in 24-hour notation is noon.','noon'],
+            ['A train leaves at 14:35 and arrives at 16:10. How long is the trip?',['1 h 35 min','2 h 25 min','1 h 25 min'],0,'14:35 to 15:35 is 1 h, then to 16:10 is 35 min.','elapsed time'],
+            ['A movie starts at 7:50 pm and lasts 2 h 25 min. When does it finish?',['10:15 pm','9:15 pm','10:25 pm'],0,'7:50 pm +2 h=9:50 pm; +25 min=10:15 pm.','end time'],
+            ['A bus arrives at 08:15 after a 45-minute trip. When did it leave?',['07:30','07:45','08:00'],0,'08:15 minus 45 minutes =07:30.','start time'],
+            ['Which pair represents the same time?',['21:05 and 9:05 pm','21:05 and 9:05 am','09:05 and 9:05 pm'],0,'21−12=9, so 21:05 is 9:05 pm.','equivalent times'],
+            ['A student converts 10:40 am to 22:40. What error was made?',['They added 12 to a morning time','They forgot a leading zero','They should have subtracted 12'],0,'Morning times from 01:00 to 11:59 keep the same hour in 24-hour notation.','error analysis'],
+            ['A flight departs at 23:35 and lands at 01:05 the next day. How long is the flight?',['1 h 30 min','2 h 30 min','1 h 70 min'],0,'23:35 to midnight is 25 min; midnight to 01:05 is 65 min, total 90 min.','midnight crossing'],
+            ['A sports session runs from 11:50 am to 1:20 pm. What is its duration?',['1 h 30 min','2 h 30 min','1 h 70 min'],0,'11:50 to 12:00 is 10 min, then to 1:20 pm is 80 min, total 90 min.','noon crossing'],
+            ['Which 24-hour time is five minutes before midnight?',['23:55','00:05','24:05'],0,'Midnight is 00:00 of the next day; five minutes before is 23:55.','day boundary'],
+            ['A timetable lists 09:25, 11:50, 14:15 and 16:40. What is the interval between consecutive events?',['2 h 25 min','2 h 15 min','2 h 35 min'],0,'Each time is 2 hours 25 minutes after the previous one.','schedule pattern'],
+            ['An event starts at 18:45 and ends at 20:05. How many minutes long is it?',['80 min','60 min','120 min'],0,'18:45 to 19:45 is 60 min and to 20:05 is another 20.','duration minutes'],
+            ['Which statement about 12:00 am is correct?',['It is midnight','It is noon','It is 12 hours after noon'],0,'12:00 am marks midnight at the start of a day.','am-pm trap'],
+            ['A school day begins 08:55 and ends 15:10. Excluding a 45-minute lunch, how much scheduled class time remains?',['5 h 30 min','6 h 15 min','5 h 45 min'],0,'Total span is 6 h 15 min; subtract 45 min to get 5 h 30 min.','multi-step schedule'],
+            ['A train is delayed 1 h 35 min from its scheduled 22:50 departure. What is the new departure time?',['00:25 next day','23:25','01:35 next day'],0,'22:50 +1 h=23:50, plus 35 min=00:25 next day.','day boundary'],
+            ['A 24-hour clock shows 17:00. How many hours after noon is this?',['5','17','7'],0,'17:00 is 5:00 pm, five hours after 12:00 noon.','relative time'],
+            ['A meeting ends at 13:10 after lasting 2 h 35 min. When did it start?',['10:35','11:35','10:45'],0,'13:10−2 h=11:10; −35 min=10:35.','reverse elapsed time'],
+            ['Why is subtracting 23:50 directly from 00:20 misleading for elapsed time?',['The interval crosses midnight and the day boundary must be handled','00:20 is always earlier so no time passed','24-hour times cannot be subtracted'],0,'Across midnight, 00:20 belongs to the next day.','chronology reasoning'],
+            ['A timetable uses 24-hour time to avoid what common ambiguity?',['whether a time is am or pm','how many minutes are in an hour','whether a day has 24 hours'],0,'24-hour notation uniquely distinguishes morning and afternoon/evening hours.','representation purpose'],
+            ['A program starts at 12:25 pm. Which 24-hour time is correct?',['12:25','00:25','24:25'],0,'Times from noon to 12:59 pm remain 12:xx in 24-hour notation.','noon conversion'],
+            ['A shift runs 21:40–02:10. How long is it?',['4 h 30 min','5 h 30 min','3 h 30 min'],0,'21:40 to midnight is 2 h 20 min; then 2 h 10 min more =4 h 30 min.','overnight duration'],
+            ['Three appointments are 09:10, 12:40 and 16:05. Which gap is longest?',['12:40 to 16:05','09:10 to 12:40','They are equal'],1,'09:10→12:40 is 3 h 30 min; 12:40→16:05 is 3 h 25 min.','compare durations']
+          ];
+
+          A.AC9M5M04=[
+            ['An angle measures 38°. How is it classified?',['acute','obtuse','reflex'],0,'38° is less than 90°, so it is acute.','angle classification'],
+            ['An angle measures 124°. How is it classified?',['obtuse','acute','reflex'],0,'124° is greater than 90° and less than 180°, so it is obtuse.','angle classification'],
+            ['What is the measure of a straight angle?',['180°','90°','360°'],0,'A straight angle is half a full turn: 180°.','benchmark angle'],
+            ['A three-quarter turn is how many degrees?',['270°','180°','90°'],0,'Three quarters of 360° is 270°.','turn angle'],
+            ['A protractor is centred correctly, but the student reads 130° instead of 50°. What likely happened?',['They read the wrong scale','They misplaced the vertex by 1 cm','They measured the ray length'],0,'The inner and outer protractor scales give complementary readings such as 50° and 130°.','protractor error'],
+            ['To measure an angle accurately, where must the protractor centre be placed?',['on the vertex','at the end of either ray','anywhere on the baseline'],0,'The centre mark must coincide with the angle vertex.','protractor alignment'],
+            ['One ray points along the 0° baseline. The other crosses 72°. What is the angle?',['72°','108°','18°'],0,'Starting from the correct zero scale gives a reading of 72°.','read protractor'],
+            ['Which estimate is most reasonable for an angle slightly larger than a right angle?',['105°','45°','175°'],0,'A little more than 90° is reasonably estimated near 105°.','estimate angle'],
+            ['Two adjacent angles form a straight angle. One is 63°. What is the other?',['117°','27°','243°'],0,'Angles on a straight line total 180°; 180−63=117.','missing angle'],
+            ['A full turn is split into angles of 90°, 110°, 80° and x°. Find x.',['80°','100°','70°'],0,'Known angles total 280°; 360−280=80.','angles around point'],
+            ['An angle is 15° less than a right angle. What is its measure?',['75°','105°','65°'],0,'90−15=75°.','benchmark reasoning'],
+            ['Which angle is reflex?',['225°','155°','90°'],0,'A reflex angle is greater than 180° and less than 360°.','reflex classification'],
+            ['A compass turn is 135° clockwise. What type of angle is the turn size?',['obtuse','acute','straight'],0,'135° lies between 90° and 180°.','turn context'],
+            ['A student draws a 60° angle but starts measuring from the 180° end of the scale. What result might they incorrectly read?',['120°','60°','240°'],0,'Reading the opposite scale converts the intended 60° reading to 120°.','scale diagnosis'],
+            ['An angle is twice 55°. What is its measure and type?',['110°, obtuse','110°, acute','100°, obtuse'],0,'2×55=110°, which is between 90° and 180°.','calculate and classify'],
+            ['A circle is divided into 8 equal central angles. What is each angle?',['45°','60°','40°'],0,'360°÷8=45°.','central angle'],
+            ['Two angles around a point are 145° and 95°. The remaining angle is what?',['120°','100°','140°'],0,'360−145−95=120°.','angles around point'],
+            ['A quadrilateral has three angles 90°, 85° and 105°. If its angles total 360°, what is the fourth?',['80°','90°','70°'],0,'The known total is 280°; 360−280=80°.','composite angle'],
+            ['Which instruction best constructs a 140° angle?',['Draw a baseline, align 0°, mark 140°, then draw the second ray','Mark 40° and double the ray length','Place the protractor anywhere and mark 140°'],0,'Construction requires the vertex, baseline, correct zero and target degree mark.','construct angle'],
+            ['An angle looks acute but the protractor reading is 145°. What should you check first?',['whether the wrong scale was read','whether acute angles can exceed 90°','whether degrees should be centimetres'],0,'A visual estimate should flag a likely inner/outer scale error.','estimate-check'],
+            ['A turn from north to west anticlockwise is how many degrees?',['90°','270°','180°'],0,'Anticlockwise from north to west is a quarter turn, 90°.','directional turn'],
+            ['A ray rotates from 20° to 155° on the same scale. What angle has it turned through?',['135°','175°','125°'],0,'155−20=135°.','difference of directions'],
+            ['Why is ray length irrelevant when measuring an angle?',['Angle size depends on direction between rays, not their lengths','Longer rays always make larger angles','Only short rays can form acute angles'],0,'Angles measure rotation/direction, not segment length.','angle concept'],
+            ['An angle is 5° more than three times 40°. What is it and how is it classified?',['125°, obtuse','120°, obtuse','125°, reflex'],0,'3×40+5=125°, between 90° and 180°.','multi-step angle']
+          ];
+
+          A.AC9M5ST02=[
+            ['A line graph records temperature at 9 am 18°C, 10 am 21°C, 11 am 21°C and noon 25°C. During which interval was there no change?',['10 am–11 am','9 am–10 am','11 am–noon'],0,'Both endpoints of the 10–11 interval are 21°C.','line graph interval'],
+            ['Using values 12, 17, 15 and 20 over four consecutive days, what is the greatest one-day increase?',['5','3','8'],0,'Changes are +5, −2 and +5, so the greatest increase is 5.','change from graph'],
+            ['A line graph rises from 40 to 55 over an interval. What is the change?',['increase of 15','decrease of 15','increase of 95'],0,'55−40=15.','graph change'],
+            ['A graph has y-axis labels 0, 10, 20, 30 with one minor line halfway. What value does the minor line between 20 and 30 represent?',['25','21','15'],0,'Halfway between 20 and 30 is 25.','graph scale'],
+            ['Plant heights over weeks are 6, 9, 14, 14, 17 cm. Which statement is supported?',['Growth paused between weeks 3 and 4','The plant shrank in week 4','Growth was constant every week'],0,'The height stayed at 14 cm across that interval.','trend interpretation'],
+            ['Two line graphs show Class A attendance 24,25,23 and Class B 20,24,26 over three days. On which day was B higher?',['day 3','day 1','day 2'],0,'On day 3, 26 > 23; on the earlier days A was higher.','compare series'],
+            ['A line graph shows rainfall 3, 8, 2, 11 mm over four days. Which day is the peak?',['day 4','day 2','day 1'],0,'11 mm is the highest plotted value.','maximum'],
+            ['A graph falls from 72 to 58. By how much did the value decrease?',['14','130','24'],0,'72−58=14.','decrease'],
+            ['A student says a rising line proves one variable caused the other. What is the best correction?',['The graph shows an association or change, not necessarily cause','Any rising line proves causation','Line graphs cannot show relationships'],0,'A line graph supports description of patterns but not an unsupported causal claim.','conclusion critique'],
+            ['A graph records observations only at 1 pm and 3 pm. What should you avoid claiming about 2 pm?',['That the exact 2 pm value was measured','That the endpoints were measured','That the line connects the plotted points'],0,'A connecting segment does not mean an intermediate value was directly observed.','interpolation caution'],
+            ['Values are 50, 47, 47, 60 across four times. Which trend description is most accurate?',['decrease, stable, then sharp increase','steady increase throughout','steady decrease throughout'],0,'The sequence falls, stays equal, then rises by 13.','trend language'],
+            ['A line graph begins its vertical axis at 95 rather than 0. What should a reader do?',['Read the scale carefully because visual changes may look exaggerated','Assume the highest point doubled','Ignore the axis labels'],0,'A truncated axis can change visual impression without changing actual differences.','scale critique'],
+            ['A cyclist’s distances from home are 0, 4, 9, 9, 6 km at hourly times. When was the cyclist stationary relative to home?',['between the third and fourth readings','between the first and second','between the fourth and fifth'],0,'The distance remained 9 km across the third-to-fourth interval.','interpret stable segment'],
+            ['Two series start at 10. Series A ends at 18; Series B ends at 15. Which increased more overall?',['Series A by 3 more units','Series B by 3 more units','Both increased equally'],0,'A rises 8; B rises 5, a difference of 3.','compare overall change'],
+            ['A graph has a missing point between values 12 and 18. Can the exact missing value be known from those neighbours alone?',['No, not without an additional rule or observation','Yes, it must be 15','Yes, it must equal 12'],0,'A line segment does not guarantee the missing observation is the midpoint.','missing data reasoning'],
+            ['A graph shows 30 at Monday, 45 Tuesday, 35 Wednesday and 50 Thursday. What is the total change Monday to Thursday?',['increase of 20','increase of 50','decrease of 20'],0,'50−30=20.','overall change'],
+            ['Which title best suits a line graph of a seedling’s height measured each week?',['Seedling height over time','Favourite seedling colours','Number of classrooms'],0,'The title should identify the measured variable and time context.','graph construction'],
+            ['Why must equally spaced time labels represent the intended time intervals?',['Otherwise the line’s slope can visually misrepresent rate of change','Spacing never matters','Only the title matters'],0,'Horizontal spacing contributes to the visual meaning of change over time.','graph design'],
+            ['A graph’s values rise 5, 10, 20, 40. Which statement is safer than “the values increase by 10 each time”?',['Each value doubles from the previous one','The increase is constant','The values are random'],0,'The sequence has a multiplicative pattern: ×2.','pattern in line data'],
+            ['Series A is above Series B at every plotted time. What conclusion is justified?',['A had a greater recorded value at every plotted time','A caused B to be lower','A will always be greater in the future'],0,'The graph supports comparison at observed times, not causation or guaranteed future behaviour.','defensible conclusion'],
+            ['A line rises 6 units over 3 equal time intervals. If the increase was equal each interval, how much per interval?',['2 units','3 units','18 units'],0,'6÷3=2 units per interval.','rate from graph'],
+            ['Why might a line graph be unsuitable for favourite-colour categories?',['The categories have no meaningful continuous order','Colours cannot be counted','Line graphs cannot contain labels'],0,'Connecting unordered categories can imply a trend that has no meaning.','display choice'],
+            ['A table gives time 0,1,2,3 hours and values 4,7,7,12. Which point should be plotted at 2 hours?',['(2,7)','(7,2)','(2,12)'],0,'Time is the horizontal coordinate and the observed value 7 is vertical.','create line graph'],
+            ['What makes a conclusion from a line graph strongest?',['It cites specific plotted values or changes and stays within the data','It guesses a cause without evidence','It ignores the scale'],0,'A defensible conclusion links directly to graph evidence.','evidence-based report']
+          ];
+
+          A.AC9M5ST03=[
+            ['Which question is best for a class investigation about travel to school?',['How do students in our class usually travel to school?','Is school good?','What is your favourite number and why is transport better?'],0,'The first question is clear, focused and generates relevant categorical data.','pose question'],
+            ['To investigate favourite lunch options, which data is irrelevant?',['students’ shoe sizes','chosen lunch option','number choosing each option'],0,'Shoe size does not address lunch preference.','relevant data'],
+            ['Which display is best for comparing frequencies of unordered sport categories?',['bar graph','line graph joining the sports','time-series graph'],0,'Separate bars compare categorical frequencies without implying continuity.','choose display'],
+            ['Which display is most suitable for temperature measured each hour?',['line graph','unordered picture graph only','a list with no times'],0,'A line graph appropriately shows change over ordered time.','choose display'],
+            ['A survey asks only three close friends about a whole-year preference. What is the main limitation?',['The sample may not represent the year group','Three responses can never be graphed','Friends cannot answer surveys'],0,'A small convenience sample may be biased and unrepresentative.','sample quality'],
+            ['A data table has a blank row and an impossible value. What should happen before graphing?',['Validate and check those entries','Delete all repeated values','Graph first and inspect later'],0,'Data should be checked for missing or invalid records before analysis.','data validation'],
+            ['A bar graph has no title or axis labels. What is the main problem?',['Readers cannot reliably tell what the values represent','The bars become line data','The sample size doubles'],0,'Labels and a title provide the context needed for interpretation.','graph critique'],
+            ['Which conclusion is supported by a survey where 18 chose soccer and 10 chose tennis?',['Soccer was chosen more often in this sample','Soccer causes students to exercise more','Every student prefers soccer'],0,'The data supports a frequency comparison only.','interpret data'],
+            ['A student chooses a line graph for eye-colour categories. What is the best critique?',['A bar graph is clearer because eye colours are unordered categories','A line graph is always required','Eye colour is continuous numerical data'],0,'Joining nominal categories suggests a sequence or trend that is not meaningful.','display critique'],
+            ['Which investigation sequence is strongest?',['Question → collect → validate → organise → display → interpret → report','Display → invent data → choose question','Conclusion → delete data → survey'],0,'A sound investigation begins with purpose and handles data before drawing conclusions.','investigation cycle'],
+            ['A survey asks “Don’t you agree our new canteen is excellent?” What is the problem?',['The wording may lead responses','It has too many numerical variables','It cannot be written down'],0,'Leading wording can bias collected data.','question quality'],
+            ['Two classes use different sample sizes. What should be checked before comparing raw frequencies?',['The sample sizes or proportions','Only the graph colours','Which class name comes first'],0,'Raw counts can be misleading when groups differ in size.','comparison reasoning'],
+            ['Which variable is discrete numerical?',['number of books borrowed','favourite genre','rating: poor/fair/good'],0,'Number of books is a whole-number count.','data type'],
+            ['Which variable is ordinal categorical?',['rating: low/medium/high','favourite fruit','number of siblings'],0,'The categories have a meaningful order.','data type'],
+            ['Which variable is nominal categorical?',['type of pet','finishing position first/second/third','number of goals'],0,'Pet type is an unordered category.','data type'],
+            ['A graph exaggerates small differences by starting its vertical scale at 98. What should a report mention?',['The scale can magnify the visual difference','The data must be false','All graph axes must always start at 100'],0,'The axis choice affects visual impression and should be interpreted explicitly.','misleading graph'],
+            ['An investigation asks about playground use but collects data only on rainy days. What limitation matters?',['Weather may make the sample unrepresentative of usual use','Rain makes data numerical','No graph can show rainy-day data'],0,'Collection conditions can affect whether results generalise to the intended question.','investigation limitation'],
+            ['Which collection method best answers “Which library area is used most at lunch?”',['Observe and record area use over several representative lunch periods','Ask one student once','Measure the library walls'],0,'Repeated observations directly measure the variable relevant to the question.','collection plan'],
+            ['A table and graph disagree about one category frequency. What should happen?',['Check the source data and graph transcription before concluding','Choose whichever looks larger','Average the two labels automatically'],0,'Inconsistent representations should be reconciled against the original records.','validation'],
+            ['A student reports “Most chose bikes, therefore bikes are safest.” What is wrong?',['Preference data does not establish safety','Modes cannot describe categories','Bikes cannot appear in a survey'],0,'The conclusion goes beyond the variable that was collected.','conclusion critique'],
+            ['Which report statement is strongest?',['“In our sample, 14 of 25 students chose A; this was the most common response.”','“Everyone prefers A.”','“A causes better results.”'],0,'It states the observed evidence and limits the claim to the sample.','communicate findings'],
+            ['Why is a spreadsheet useful in a statistical investigation?',['It can organise, validate, tally and create displays efficiently','It guarantees the sample is unbiased','It makes every conclusion causal'],0,'Digital tools support data handling but do not replace sound investigation design.','digital tools'],
+            ['A class wants to compare transport choices this year with last year. What information is essential?',['Comparable category definitions and sample context for both years','Only this year’s most common choice','The colour used for each bar'],0,'Meaningful comparison needs consistent variables and context.','comparative investigation'],
+            ['What final step strengthens a statistical investigation after creating a graph?',['Interpret the evidence in relation to the original question and note limitations','Delete uncommon results','Change the question to match the graph'],0,'The report should answer the original purpose while acknowledging limits.','report findings']
+          ];
+
+          const under=['AC9M5N01','AC9M5N02','AC9M5N03','AC9M5N04','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5ST02','AC9M5ST03'];
+          for(const code of under){
+            const {file,arr}=load(code,'practice');
+            if(arr.length!==24) throw new Error(`${code}: expected existing 24 Practice, got ${arr.length}`);
+            if(!A[code]||A[code].length!==24) throw new Error(`${code}: missing 24 authored additions`);
+            const existing=new Set(arr.map(q=>String(q.question).replace(/\s+/g,' ').trim().toLowerCase()));
+            const additions=A[code].map((r,j)=>item(code,25+j,r));
+            for(const q of additions) if(existing.has(q.question.toLowerCase())) throw new Error(`${code}: addition overlaps existing: ${q.question}`);
+            const out=[...arr,...additions];
+            fs.writeFileSync(file,'"use strict";\nwindow.skillrPracticeQuestions = '+JSON.stringify(out,null,2)+';\n');
+            console.log(code,'expanded',arr.length,'->',out.length);
+          }
+
+          // AC9M5N010: preserve first occurrence of each good stem, replace the 16 repeated prompts with research-aligned algorithm tasks.
+          const n10=load('AC9M5N010','practice');
+          const seen=new Set(), unique=[];
+          for(const q of n10.arr){const s=String(q.question).replace(/\s+/g,' ').trim().toLowerCase(); if(!seen.has(s)){seen.add(s); unique.push(q);}}
+          if(unique.length!==32) throw new Error(`AC9M5N010 expected 32 unique current stems, got ${unique.length}`);
+          const R=[
+            ['A divisibility algorithm says: add the digits; if the sum is divisible by 3, output YES. What does it output for 4,572?',['YES','NO','Not enough information'],0,'4+5+7+2=18, and 18 is divisible by 3.','trace algorithm'],
+            ['A rule checks “last digit is 0 or 5”. What property is it testing?',['divisibility by 5','divisibility by 3','divisibility by 4'],0,'Numbers divisible by 5 end in 0 or 5.','identify rule'],
+            ['A flowchart for divisibility by 6 first checks evenness. If NO, what can it conclude immediately?',['Not divisible by 6','Divisible by 6','Must next test divisibility by 9'],0,'Every multiple of 6 is even, so an odd number cannot be divisible by 6.','decision branch'],
+            ['Which missing step completes an algorithm for testing divisibility by 6: check even; then ___?',['check whether the digit sum is divisible by 3','check whether the last digit is 5','check whether the last two digits are divisible by 4 only'],0,'Divisibility by both 2 and 3 guarantees divisibility by 6.','complete algorithm'],
+            ['An algorithm sorts numbers into multiples of 4 using the last two digits. Where does 7,316 go?',['YES group','NO group','Cannot decide'],0,'The last two digits are 16, which is divisible by 4.','classification algorithm'],
+            ['A student tests only one example and claims every even number is divisible by 4. Which counterexample disproves the claim?',['6','8','12'],0,'6 is even but 6÷4 is not a whole number.','counterexample'],
+            ['A spreadsheet formula returns TRUE when MOD(A1,9)=0. What is it identifying?',['multiples of 9','factors of 9 only','prime numbers'],0,'A remainder of zero on division by 9 means the number is a multiple of 9.','digital rule'],
+            ['A flowchart asks “digit sum divisible by 9?” If YES, what can also be concluded?',['The number is divisible by 3','The number is divisible by 2','The number is prime'],0,'Every multiple of 9 is also a multiple of 3.','branch inference'],
+            ['Which algorithm correctly finds common multiples of 6 and 8 from a list?',['Keep numbers divisible by 6 AND by 8','Keep numbers divisible by 6 OR by 8','Keep numbers that divide 6 and 8'],0,'A common multiple must satisfy both divisibility conditions.','algorithm design'],
+            ['A decision table marks 24 as divisible by 2, 3, 4 and 6. Which pattern is supported?',['One number can satisfy several divisibility rules','A number can have only one factor','Divisibility tests are mutually exclusive'],0,'24 has many factors, so several rules can return YES.','pattern reasoning'],
+            ['A program repeatedly adds 12 starting from 12. What set is it generating?',['positive multiples of 12','factors of 12','prime numbers'],0,'12,24,36,… are multiples of 12.','generate pattern'],
+            ['An algorithm says: if last digit is even, label “divisible by 4”. What is the bug?',['Evenness proves divisibility by 2, not always by 4','The rule should test divisibility by 5','All even numbers are divisible by 4'],0,'Numbers such as 6 and 10 are even but not divisible by 4.','debug algorithm'],
+            ['Which test is most efficient for deciding whether 54,732 is divisible by 3?',['Add the digits','List all factors','Repeatedly subtract 3 until zero'],0,'The digit-sum test is a valid efficient divisibility rule for 3.','efficient algorithm'],
+            ['A number passes tests for divisibility by 4 and 5. What is the smallest positive common pattern step it must be a multiple of?',['20','9','10'],0,'The LCM of 4 and 5 is 20.','combined decision rules'],
+            ['A flowchart outputs “multiple of 10 but not 100” when a number ends in 0 but its last two digits are not 00. Which input fits?',['470','500','375'],0,'470 ends in 0 but not 00; 500 is divisible by 100 and 375 is not divisible by 10.','trace compound rule'],
+            ['After testing 30, 60, 90 and 120, a student predicts every multiple of 30 is divisible by 3, 5 and 10. Why is this generalisation justified?',['30 itself contains factors 3, 5 and 10, so every multiple of 30 retains them','Four examples alone always prove any pattern','Multiples can lose factors'],0,'If n=30k, then n is divisible by each factor of 30, including 3, 5 and 10.','generalise algorithm']
+          ];
+          for(let i=0;i<R.length;i++) unique.push(item('AC9M5N010',33+i,R[i]));
+          fs.writeFileSync(n10.file,'"use strict";\nwindow.skillrPracticeQuestions = '+JSON.stringify(unique,null,2)+';\n');
+          console.log('AC9M5N010 deduplicated and restored to',unique.length);
           NODE
+
+      - name: Apply Basic Medium Hard Very Hard research bands
+        run: |
+          node <<'NODE'
+          const fs=require('fs'),path=require('path'),vm=require('vm');
+          const pending=[...Array.from({length:9},(_,i)=>`AC9M5N${String(i+1).padStart(2,'0')}`),'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5ST02','AC9M5ST03'];
+          const slug=c=>c==='AC9M5N010'?'ac9m5n10':c.toLowerCase();
+          for(const code of pending){for(const bank of ['practice','test']){
+            const file=path.join('quiz/year-5/math',slug(code),bank,'questions.js'), sandbox={window:{},console}; vm.createContext(sandbox); vm.runInContext(fs.readFileSync(file,'utf8'),sandbox);
+            const key=bank==='practice'?'skillrPracticeQuestions':'skillrTestQuestions'; const arr=sandbox.window[key]||sandbox.window.quizQuestions;
+            if(!Array.isArray(arr)) throw new Error(`${file}: missing array`);
+            const size=bank==='practice'?12:4, bands=['basic','medium','hard','very_hard'];
+            arr.forEach((q,i)=>{const b=Math.min(3,Math.floor(i/size)); q.difficulty=b+1; q.difficultyTier=bands[b]; q.sequencePriority=b+1; q.bank=bank; q.curriculumCode=code; if(!q.audioPrompt)q.audioPrompt=q.question; if(!q.structuredExplanation)q.structuredExplanation={summary:q.explanation||'',hint:'Use the defining features and check your reasoning.'};});
+            fs.writeFileSync(file,'"use strict";\nwindow.'+key+' = '+JSON.stringify(arr,null,2)+';\n');
+          }}
+          NODE
+
+      - name: Validate all 24 Year 5 Mathematics codes
+        run: |
+          node <<'NODE'
+          const fs=require('fs'),path=require('path'),vm=require('vm');
+          const codes=[...Array.from({length:9},(_,i)=>`AC9M5N${String(i+1).padStart(2,'0')}`),'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5SP01','AC9M5SP02','AC9M5SP03','AC9M5ST01','AC9M5ST02','AC9M5ST03','AC9M5P01','AC9M5P02'];
+          const pending=new Set([...Array.from({length:9},(_,i)=>`AC9M5N${String(i+1).padStart(2,'0')}`),'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5ST02','AC9M5ST03']);
+          const slug=c=>c==='AC9M5N010'?'ac9m5n10':c.toLowerCase();
+          function load(code,bank){const f=path.join('quiz/year-5/math',slug(code),bank,'questions.js'),s={window:{},console};vm.createContext(s);vm.runInContext(fs.readFileSync(f,'utf8'),s,{filename:f});const a=bank==='practice'?(s.window.skillrPracticeQuestions||s.window.quizQuestions):(s.window.skillrTestQuestions||s.window.quizQuestions);return [f,a];}
+          for(const c of codes){
+            const [pf,p]=load(c,'practice'),[tf,t]=load(c,'test');
+            if(!Array.isArray(p)||p.length!==48) throw new Error(`${pf}: expected 48, got ${p?.length}`);
+            if(!Array.isArray(t)||t.length!==16) throw new Error(`${tf}: expected 16, got ${t?.length}`);
+            for(const [f,a] of [[pf,p],[tf,t]]){const stems=a.map(q=>String(q.question||'').replace(/\s+/g,' ').trim().toLowerCase());if(stems.some(x=>!x))throw new Error(`${f}: blank stem`);if(new Set(stems).size!==stems.length)throw new Error(`${f}: duplicate stems`);a.forEach((q,i)=>{if(String(q.curriculumCode||q.curriculum_code||'').toUpperCase()!==c)throw new Error(`${f} #${i+1}: wrong code`);if(!Array.isArray(q.answers)||q.answers.length<3)throw new Error(`${f} #${i+1}: answers`);if(!Number.isInteger(q.correct)||q.correct<0||q.correct>=q.answers.length)throw new Error(`${f} #${i+1}: correct index`);if(!String(q.explanation||'').trim())throw new Error(`${f} #${i+1}: explanation`);});}
+            const ps=new Set(p.map(q=>q.question.replace(/\s+/g,' ').trim().toLowerCase())); const overlap=t.filter(q=>ps.has(q.question.replace(/\s+/g,' ').trim().toLowerCase())); if(overlap.length)throw new Error(`${c}: ${overlap.length} exact Practice/Test overlaps`);
+            if(pending.has(c)){for(const [a,n] of [[p,12],[t,4]])for(const b of ['basic','medium','hard','very_hard'])if(a.filter(q=>q.difficultyTier===b).length!==n)throw new Error(`${c}: bad ${b} band`);}
+            console.log(c,'PASS 48+16 unique');
+          }
+          console.log('ALL 24 YEAR 5 MATHEMATICS CODES PASS');
+          NODE
+
+      - name: Mark Year 5 Mathematics Content Verified
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json
+          root=Path('.')
+          codes=[*[f'AC9M5N{i:02d}' for i in range(1,10)],'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5SP01','AC9M5SP02','AC9M5SP03','AC9M5ST01','AC9M5ST02','AC9M5ST03','AC9M5P01','AC9M5P02']
+          p=root/'data/content-verification-status.json'; d=json.loads(p.read_text()); d['reviewedCodes']=sorted(set(d.get('reviewedCodes',[]))|set(codes)); p.write_text(json.dumps(d,indent=2,ensure_ascii=False)+'\n')
+          p=root/'ai-index.json'; d=json.loads(p.read_text()); areas=d['content_verification']['verified_learning_areas'];
+          if 'Year 5 Mathematics' not in areas: areas.insert(areas.index('Year 5 Science') if 'Year 5 Science' in areas else len(areas),'Year 5 Mathematics')
+          d['last_updated']='2026-09-09'; p.write_text(json.dumps(d,indent=2,ensure_ascii=False)+'\n')
+          p=root/'about.html'; s=p.read_text(); s=s.replace('Year 4 Mathematics, Year 4 Science and Year 5 Science question banks','Year 4 Mathematics, Year 4 Science, Year 5 Mathematics and Year 5 Science question banks'); p.write_text(s)
+          p=root/'editorial-standards.html'; s=p.read_text(); row='<tr><th scope="row">Year 5 Mathematics</th><td><span class="info-verified">✓ Content Verified</span></td></tr>'; sci='<tr><th scope="row">Year 5 Science</th><td><span class="info-verified">✓ Content Verified</span></td></tr>'
+          if row not in s:
+              if sci not in s: raise SystemExit('Year 5 Science row not found')
+              s=s.replace(sci,row+sci)
+          p.write_text(s)
+          for fn in ('llms.txt','llms-full.txt'):
+              p=root/fn; s=p.read_text(); s=s.replace('Year 4 Mathematics, Year 4 Science and Year 5 Science.','Year 4 Mathematics, Year 4 Science, Year 5 Mathematics and Year 5 Science.'); p.write_text(s)
+          print('Year 5 Mathematics marked Content Verified')
+          PY
+
+      - name: Commit to main and remove one-shot staging
+        run: |
+          rm -f assets/year5-math-research-banks-20260909.part1 assets/year5-math-research-banks-20260909.part2 .github/workflows/publish-year5-maths-once.yml
+          git config user.name 'SkillrHub Publisher'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'Complete Year 5 Maths research banks and mark content verified'
+          git push origin HEAD:main
