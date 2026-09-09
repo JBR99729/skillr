@@ -1,0 +1,126 @@
+name: Export Year 5 Maths and Science questions once
+on:
+  push:
+    paths:
+      - '.github/workflows/export-year5-maths-science-questions-once.yml'
+permissions:
+  contents: write
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - name: Build TXT export
+        run: |
+          node <<'NODE'
+          const fs=require('fs'), path=require('path'), vm=require('vm');
+          const roots=[
+            {subject:'MATHEMATICS',dir:'quiz/year-5/math'},
+            {subject:'SCIENCE',dir:'quiz/year-5/science'}
+          ];
+          function load(file,bank){
+            const sandbox={window:{},console}; vm.createContext(sandbox);
+            vm.runInContext(fs.readFileSync(file,'utf8'),sandbox,{filename:file});
+            const w=sandbox.window;
+            let arr=bank==='practice' ? (w.skillrPracticeQuestions||w.quizQuestions||w.questions) : (w.skillrTestQuestions||w.quizQuestions||w.questions);
+            if(!Array.isArray(arr)) throw new Error('No question array in '+file);
+            return arr;
+          }
+          const lines=[];
+          const summary=[];
+          let grand=0;
+          lines.push('SKILLRHUB YEAR 5 MATHEMATICS + SCIENCE — ALL PUBLISHED QUESTIONS');
+          lines.push('Source: GitHub main branch');
+          lines.push('Generated: '+new Date().toISOString());
+          lines.push('');
+          for(const root of roots){
+            if(!fs.existsSync(root.dir)) throw new Error('Missing '+root.dir);
+            const codeDirs=fs.readdirSync(root.dir,{withFileTypes:true}).filter(d=>d.isDirectory()).map(d=>d.name).sort();
+            let subjectTotal=0;
+            const subjectRows=[];
+            for(const codeDir of codeDirs){
+              let codeTotal=0;
+              let codeName=null;
+              for(const bank of ['practice','test']){
+                const file=path.join(root.dir,codeDir,bank,'questions.js');
+                if(!fs.existsSync(file)) continue;
+                const arr=load(file,bank);
+                if(arr.length && !codeName) codeName=String(arr[0].curriculumCode||arr[0].curriculum_code||codeDir).toUpperCase();
+                codeTotal+=arr.length; subjectTotal+=arr.length; grand+=arr.length;
+              }
+              if(codeTotal) subjectRows.push([codeName||codeDir.toUpperCase(),codeTotal]);
+            }
+            summary.push({subject:root.subject,total:subjectTotal,codes:subjectRows});
+          }
+          lines.push('SUMMARY');
+          lines.push('=======');
+          for(const s of summary){
+            lines.push(`${s.subject}: ${s.codes.length} codes, ${s.total} questions`);
+            for(const [c,n] of s.codes) lines.push(`  ${c}: ${n}`);
+          }
+          lines.push(`TOTAL QUESTIONS: ${grand}`);
+          lines.push('');
+          lines.push('Each record includes question, answer options, correct answer, explanation, difficulty/tier, skill and visual description where available.');
+          lines.push('');
+          for(const root of roots){
+            lines.push('='.repeat(100));
+            lines.push(`YEAR 5 ${root.subject}`);
+            lines.push('='.repeat(100));
+            const codeDirs=fs.readdirSync(root.dir,{withFileTypes:true}).filter(d=>d.isDirectory()).map(d=>d.name).sort();
+            for(const codeDir of codeDirs){
+              const available=[];
+              for(const bank of ['practice','test']){
+                const file=path.join(root.dir,codeDir,bank,'questions.js');
+                if(fs.existsSync(file)) available.push([bank,file,load(file,bank)]);
+              }
+              if(!available.length) continue;
+              const first=available.find(x=>x[2].length)?.[2]?.[0]||{};
+              const code=String(first.curriculumCode||first.curriculum_code||codeDir).toUpperCase();
+              lines.push('');
+              lines.push('-'.repeat(100));
+              lines.push(`CODE: ${code}`);
+              lines.push('-'.repeat(100));
+              for(const [bank,file,arr] of available){
+                lines.push('');
+                lines.push(`${bank.toUpperCase()} BANK — ${arr.length} QUESTIONS`);
+                lines.push(`Source: ${file}`);
+                lines.push('');
+                arr.forEach((q,idx)=>{
+                  const id=q.id||`${code}-${bank}-${idx+1}`;
+                  const tier=q.difficultyTier||q.difficulty_tier||q.difficulty||'';
+                  const skill=q.skill||'';
+                  lines.push(`[${String(idx+1).padStart(2,'0')}] ${id}`);
+                  if(tier!=='') lines.push(`Difficulty: ${tier}`);
+                  if(skill) lines.push(`Skill: ${skill}`);
+                  lines.push(`Question: ${String(q.question||'').trim()}`);
+                  if(String(q.visual||'').trim()) lines.push(`Visual: ${String(q.visual).trim()}`);
+                  const answers=Array.isArray(q.answers)?q.answers:[];
+                  answers.forEach((a,i)=>lines.push(`  ${String.fromCharCode(65+i)}. ${String(a)}`));
+                  const ci=Number.isInteger(q.correct)?q.correct:null;
+                  if(ci!==null && ci>=0 && ci<answers.length) lines.push(`Correct answer: ${String.fromCharCode(65+ci)}. ${String(answers[ci])}`);
+                  else if(q.correctAnswer!==undefined) lines.push(`Correct answer: ${String(q.correctAnswer)}`);
+                  const exp=String(q.explanation||q.structuredExplanation?.summary||'').trim();
+                  if(exp) lines.push(`Explanation: ${exp}`);
+                  const hint=String(q.structuredExplanation?.hint||q.hint||'').trim();
+                  if(hint) lines.push(`Hint: ${hint}`);
+                  lines.push('');
+                });
+              }
+            }
+          }
+          fs.mkdirSync('exports',{recursive:true});
+          const out='exports/Year5_Maths_and_Science_All_Questions.txt';
+          fs.writeFileSync(out,lines.join('\n'),'utf8');
+          console.log('WROTE',out,'questions=',grand,'bytes=',fs.statSync(out).size);
+          NODE
+      - name: Commit export and remove one-shot workflow
+        run: |
+          rm -f .github/workflows/export-year5-maths-science-questions-once.yml
+          git config user.name 'SkillrHub Exporter'
+          git config user.email 'actions@users.noreply.github.com'
+          git add exports/Year5_Maths_and_Science_All_Questions.txt .github/workflows/export-year5-maths-science-questions-once.yml
+          git commit -m 'Export all Year 5 maths and science questions to TXT'
+          git push origin HEAD:main
