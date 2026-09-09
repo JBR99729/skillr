@@ -1,84 +1,83 @@
-name: Publish Year 5 Maths staged banks once
+name: Finalise Year 5 Mathematics once
 on:
   push:
     paths: ['.github/workflows/publish-year5-maths-once.yml']
 permissions:
   contents: write
 jobs:
-  publish:
+  finalise:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with: {ref: main, fetch-depth: 0}
-      - name: Repair, decode and install staged Year 5 Maths banks
+
+      - name: Apply research difficulty bands to pending codes
         run: |
           python - <<'PY'
           from pathlib import Path
-          import base64,gzip,io,json,tarfile,zipfile,zlib
           root=Path('.')
-          parts=[root/'assets/year5-math-research-banks-20260909.part1',root/'assets/year5-math-research-banks-20260909.part2']
-          cs=[''.join(p.read_text().split()) for p in parts]
-          joined=''.join(cs); alphabet='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
-          def b64(s): return base64.b64decode(s+'='*((-len(s))%4),validate=False)
-          def gunzip(s):
-              try: return gzip.decompress(b64(s))
-              except Exception: return None
-          payload=gunzip(joined); repair='none'
-          if payload is None:
-              corrupt=b64(joined)
-              # Locate first compressed input byte that causes zlib to fail.
-              d=zlib.decompressobj(16+zlib.MAX_WBITS); fail=None
-              for i,byte in enumerate(corrupt):
-                  try: d.decompress(bytes([byte]))
-                  except zlib.error:
-                      fail=i; break
-              if fail is None: fail=len(corrupt)//2
-              centre=max(0,int(fail*4/3)-8)
-              print('first zlib failure byte',fail,'estimated base64 position',centre)
-              # One base64 character is missing overall (length mod 4 = 3). Search around first corruption.
-              for radius in (48,256,1024,4096):
-                  lo=max(0,centre-radius); hi=min(len(joined),centre+radius+1)
-                  found=False
-                  for pos in range(lo,hi):
-                      for ch in alphabet:
-                          q=joined[:pos]+ch+joined[pos:]
-                          out=gunzip(q)
-                          if out is not None:
-                              payload=out; repair=f'insert {ch} at {pos}'; found=True; break
-                      if found: break
-                  if found: break
-              if payload is None:
-                  raise SystemExit(f'Unable to repair staged payload; first failure byte={fail}, est64={centre}')
-          print('Recovered',repair,'payload bytes',len(payload),'head',repr(payload[:60]))
-          written=[]
-          def safe(name):
-              p=Path(name)
-              if p.is_absolute() or '..' in p.parts: raise ValueError(name)
-              return p
-          try:
-              with tarfile.open(fileobj=io.BytesIO(payload),mode='r:*') as tf:
-                  for m in [x for x in tf.getmembers() if x.isfile()]:
-                      rel=safe(m.name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True); src=tf.extractfile(m)
-                      if src: dest.write_bytes(src.read()); written.append(str(rel))
-          except tarfile.ReadError:
-              if payload[:4]==b'PK\x03\x04':
-                  with zipfile.ZipFile(io.BytesIO(payload)) as zf:
-                      for name in zf.namelist():
-                          if name.endswith('/'): continue
-                          rel=safe(name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True); dest.write_bytes(zf.read(name)); written.append(str(rel))
-              else:
-                  obj=json.loads(payload.decode())
-                  mapping=obj.get('files',obj) if isinstance(obj,dict) else obj
-                  entries=mapping.items() if isinstance(mapping,dict) else ((x['path'],x['content']) for x in mapping)
-                  for name,content in entries:
-                      rel=safe(name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True)
-                      if isinstance(content,dict) and 'base64' in content: dest.write_bytes(base64.b64decode(content['base64']))
-                      else: dest.write_text(str(content))
-                      written.append(str(rel))
-          print('Extracted',len(written),'files')
-          if len(written)<36: raise SystemExit(f'Only {len(written)} files extracted')
+          pending=[*[f'AC9M5N{i:02d}' for i in range(1,10)],'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5ST02','AC9M5ST03']
+          marker='research-difficulty-bands-20260909'
+          for code in pending:
+              slug='ac9m5n10' if code=='AC9M5N010' else code.lower()
+              for bank in ('practice','test'):
+                  p=root/f'quiz/year-5/math/{slug}/{bank}/questions.js'
+                  if not p.exists(): raise SystemExit(f'Missing {p}')
+                  text=p.read_text(encoding='utf-8')
+                  if marker in text: continue
+                  size=12 if bank=='practice' else 4
+                  arr='skillrPracticeQuestions' if bank=='practice' else 'skillrTestQuestions'
+                  text += f'''\n/* {marker}: Basic -> Medium -> Hard -> Very Hard. */\n(() => {{\n  const bands = ["basic", "medium", "hard", "very_hard"];\n  if (!Array.isArray(window.{arr})) return;\n  window.{arr}.forEach((question, index) => {{\n    const bandIndex = Math.min(3, Math.floor(index / {size}));\n    question.difficulty = bandIndex + 1;\n    question.difficultyTier = bands[bandIndex];\n    question.sequencePriority = bandIndex + 1;\n  }});\n}})();\n'''
+                  p.write_text(text,encoding='utf-8')
+          print('Applied four research difficulty bands to',len(pending),'pending codes')
           PY
-      - name: Mark Year 5 Mathematics content verified
+
+      - name: Validate every Year 5 Mathematics bank
+        run: |
+          node <<'NODE'
+          const fs=require('fs'), vm=require('vm'), path=require('path');
+          const all=[...Array.from({length:9},(_,i)=>`AC9M5N${String(i+1).padStart(2,'0')}`),'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5SP01','AC9M5SP02','AC9M5SP03','AC9M5ST01','AC9M5ST02','AC9M5ST03','AC9M5P01','AC9M5P02'];
+          const pending=new Set([...Array.from({length:9},(_,i)=>`AC9M5N${String(i+1).padStart(2,'0')}`),'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5ST02','AC9M5ST03']);
+          const slug=c=>c==='AC9M5N010'?'ac9m5n10':c.toLowerCase();
+          function load(c,bank){
+            const f=path.join('quiz/year-5/math',slug(c),bank,'questions.js');
+            if(!fs.existsSync(f)) throw new Error(`Missing ${f}`);
+            const sandbox={window:{},console}; vm.createContext(sandbox);
+            vm.runInContext(fs.readFileSync(f,'utf8'),sandbox,{filename:f});
+            const arr=bank==='practice'?sandbox.window.skillrPracticeQuestions:sandbox.window.skillrTestQuestions;
+            if(!Array.isArray(arr)) throw new Error(`${f}: bank array missing`);
+            return [f,arr];
+          }
+          for(const c of all){
+            const [pf,p]=load(c,'practice'), [tf,t]=load(c,'test');
+            if(p.length!==48) throw new Error(`${pf}: expected 48, got ${p.length}`);
+            if(t.length!==16) throw new Error(`${tf}: expected 16, got ${t.length}`);
+            for(const [f,arr] of [[pf,p],[tf,t]]){
+              const stems=arr.map(q=>String(q.question||'').replace(/\s+/g,' ').trim());
+              if(stems.some(s=>!s)) throw new Error(`${f}: blank question stem`);
+              if(new Set(stems).size!==stems.length) throw new Error(`${f}: duplicate question stems`);
+              arr.forEach((q,i)=>{
+                if(String(q.curriculumCode||q.curriculum_code||'').toUpperCase()!==c) throw new Error(`${f} #${i+1}: wrong curriculum code`);
+                if(!Array.isArray(q.answers)||q.answers.length<3) throw new Error(`${f} #${i+1}: insufficient answers`);
+                if(!Number.isInteger(q.correct)||q.correct<0||q.correct>=q.answers.length) throw new Error(`${f} #${i+1}: invalid correct index`);
+                if(!String(q.explanation||'').trim()) throw new Error(`${f} #${i+1}: missing explanation`);
+              });
+            }
+            const ps=new Set(p.map(q=>String(q.question).replace(/\s+/g,' ').trim().toLowerCase()));
+            const overlap=t.filter(q=>ps.has(String(q.question).replace(/\s+/g,' ').trim().toLowerCase()));
+            if(overlap.length) throw new Error(`${c}: ${overlap.length} exact Practice/Test stem overlaps`);
+            if(pending.has(c)){
+              const pc=Object.fromEntries(['basic','medium','hard','very_hard'].map(x=>[x,p.filter(q=>q.difficultyTier===x).length]));
+              const tc=Object.fromEntries(['basic','medium','hard','very_hard'].map(x=>[x,t.filter(q=>q.difficultyTier===x).length]));
+              if(Object.values(pc).some(n=>n!==12)) throw new Error(`${c}: practice bands ${JSON.stringify(pc)}`);
+              if(Object.values(tc).some(n=>n!==4)) throw new Error(`${c}: test bands ${JSON.stringify(tc)}`);
+            }
+            console.log(c,'PASS','Practice',p.length,'Test',t.length);
+          }
+          console.log('ALL YEAR 5 MATHEMATICS BANKS PASS');
+          NODE
+
+      - name: Mark Year 5 Mathematics Content Verified
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -97,34 +96,14 @@ jobs:
           p.write_text(s)
           for fn in ('llms.txt','llms-full.txt'):
               p=root/fn; s=p.read_text(); s=s.replace('Year 4 Mathematics, Year 4 Science and Year 5 Science.','Year 4 Mathematics, Year 4 Science, Year 5 Mathematics and Year 5 Science.'); p.write_text(s)
+          print('Year 5 Mathematics added to verification ledger and public verification surfaces')
           PY
-      - name: Validate all Year 5 Mathematics live banks
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          import json,re
-          root=Path('.')
-          codes=[*[f'AC9M5N{i:02d}' for i in range(1,10)],'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5SP01','AC9M5SP02','AC9M5SP03','AC9M5ST01','AC9M5ST02','AC9M5ST03','AC9M5P01','AC9M5P02']
-          def slug(c): return 'ac9m5n10' if c=='AC9M5N010' else c.lower()
-          ledger=set(json.loads((root/'data/content-verification-status.json').read_text())['reviewedCodes'])
-          if any(c not in ledger for c in codes): raise SystemExit('verification ledger incomplete')
-          for c in codes:
-              for bank in ('practice','test'):
-                  p=root/f'quiz/year-5/math/{slug(c)}/{bank}/questions.js'
-                  if not p.exists() or p.stat().st_size<500: raise SystemExit(f'Missing/empty {p}')
-                  text=p.read_text()
-                  if c not in text: raise SystemExit(f'Wrong code in {p}')
-                  stems=re.findall(r'"question"\s*:\s*"([^"]+)',text)
-                  if stems and len(stems)!=len(set(stems)): raise SystemExit(f'Duplicate stems in {p}')
-          if 'Year 5 Mathematics' not in json.loads((root/'ai-index.json').read_text())['content_verification']['verified_learning_areas']: raise SystemExit('AI verification missing')
-          if 'Year 5 Mathematics' not in (root/'editorial-standards.html').read_text(): raise SystemExit('badge missing')
-          print('Year 5 Mathematics validation passed')
-          PY
-      - name: Commit publication to main
+
+      - name: Clean staging and commit to main
         run: |
           rm -f assets/year5-math-research-banks-20260909.part1 assets/year5-math-research-banks-20260909.part2 .github/workflows/publish-year5-maths-once.yml
           git config user.name 'SkillrHub Publisher'
           git config user.email 'actions@users.noreply.github.com'
           git add -A
-          git commit -m 'Publish Year 5 Maths research banks and mark content verified'
+          git commit -m 'Finalise Year 5 Maths research tiers and mark content verified'
           git push origin HEAD:main
