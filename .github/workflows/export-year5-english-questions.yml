@@ -56,9 +56,7 @@ jobs:
                     out += `  ${String.fromCharCode(65+ai)}. ${text}${correct ? '  [CORRECT]' : ''}\n`;
                   });
                 }
-                if (Number.isInteger(q.correct_index) && Array.isArray(q.answers) && !q.answers.some(a => typeof a === 'object' && a !== null && 'is_correct' in a)) {
-                  out += `Correct answer: ${String.fromCharCode(65+q.correct_index)}\n`;
-                }
+                if (Number.isInteger(q.correct_index) && Array.isArray(q.answers) && !q.answers.some(a => typeof a === 'object' && a !== null && 'is_correct' in a)) out += `Correct answer: ${String.fromCharCode(65+q.correct_index)}\n`;
                 const exp = q.explanation;
                 if (typeof exp === 'string') out += `Explanation: ${exp}\n`;
                 else if (exp && typeof exp === 'object') {
@@ -82,3 +80,4 @@ jobs:
           path: SkillrHub_Year5_English_All_Questions.txt
           if-no-files-found: error
           retention-days: 7
+# trigger: 2026-09-09
