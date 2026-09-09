@@ -58,24 +58,21 @@ Allow: /
 User-agent: PetalBot
 Allow: /
 
-# AI and search discovery
-# Crawl maintenance note (2026-09-09): SkillrHub has changed substantially
-# since 2026-08-22. Updates include Print & Go, practice resources, learning
-# notes, Classroom View, video lessons, curriculum resources, site navigation,
-# internal links and Ben and Vani learning guidance. Sitemaps are refreshed.
-# A fresh crawl of all canonical pages listed in sitemap.xml is requested.
-# This comment is informational; crawlers choose their own crawl schedule.
+# Search discovery
+# SkillrHub changed substantially after 2026-08-22. The root sitemap index is
+# the single authoritative mainstream-search inventory and references the
+# current child sitemaps for canonical, indexable pages.
 Sitemap: https://skillrhub.com/sitemap.xml
-Sitemap: https://skillrhub.com/sitemap-ai.xml
-Sitemap: https://skillrhub.com/sitemap-seo-pillars.xml
-Sitemap: https://skillrhub.com/sitemap-worksheets.xml
 
-# AI-readable maps
+# AI-readable maps remain publicly available for compatible tools, but are not
+# advertised as mainstream search-engine sitemaps.
 # https://skillrhub.com/ai-index.json
 # https://skillrhub.com/ai-site-map.md
 # https://skillrhub.com/llms.txt
 # https://skillrhub.com/llms-full.txt
 # https://skillrhub.com/ai-crawler-policy.html
+# https://skillrhub.com/sitemap-ai.xml
+# https://skillrhub.com/sitemap-seo-pillars.xml
 
 # International AI-readable maps
 # https://skillrhub.com/ai-international.json
@@ -89,4 +86,3 @@ Sitemap: https://skillrhub.com/sitemap-worksheets.xml
 # https://skillrhub.com/ai-site-map.south-asia.md
 # https://skillrhub.com/ai-site-map.id.md
 # https://skillrhub.com/ai-site-map.ar.md
-
