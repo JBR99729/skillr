@@ -695,6 +695,557 @@ window.skillrPracticeQuestions = [
       "hint": "Identify the number of groups and amount in each group."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-025",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 4 packs at $3 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 4 packs at $3 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(4 × 3) + 0",
+      "4 + 3 + 0",
+      "4 × (3 + 0)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 4 × 3; then add the fixed fee 0.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 4 × 3; then add the fixed fee 0.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-026",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 5 packs at $4 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 5 packs at $4 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(5 × 4) + 1",
+      "5 + 4 + 1",
+      "5 × (4 + 1)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 5 × 4; then add the fixed fee 1.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 5 × 4; then add the fixed fee 1.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-027",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 6 packs at $5 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 6 packs at $5 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(6 × 5) + 2",
+      "6 + 5 + 2",
+      "6 × (5 + 2)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 6 × 5; then add the fixed fee 2.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 6 × 5; then add the fixed fee 2.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-028",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 7 packs at $6 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 7 packs at $6 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(7 × 6) + 3",
+      "7 + 6 + 3",
+      "7 × (6 + 3)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 7 × 6; then add the fixed fee 3.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 7 × 6; then add the fixed fee 3.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-029",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 8 packs at $7 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 8 packs at $7 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(8 × 7) + 0",
+      "8 + 7 + 0",
+      "8 × (7 + 0)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 8 × 7; then add the fixed fee 0.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 8 × 7; then add the fixed fee 0.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-030",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 9 packs at $8 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 9 packs at $8 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(9 × 8) + 1",
+      "9 + 8 + 1",
+      "9 × (8 + 1)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 9 × 8; then add the fixed fee 1.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 9 × 8; then add the fixed fee 1.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-031",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 10 packs at $3 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 10 packs at $3 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(10 × 3) + 2",
+      "10 + 3 + 2",
+      "10 × (3 + 2)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 10 × 3; then add the fixed fee 2.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 10 × 3; then add the fixed fee 2.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-032",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 4 packs at $4 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 4 packs at $4 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(4 × 4) + 3",
+      "4 + 4 + 3",
+      "4 × (4 + 3)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 4 × 4; then add the fixed fee 3.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 4 × 4; then add the fixed fee 3.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-033",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 5 packs at $5 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 5 packs at $5 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(5 × 5) + 0",
+      "5 + 5 + 0",
+      "5 × (5 + 0)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 5 × 5; then add the fixed fee 0.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 5 × 5; then add the fixed fee 0.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-034",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 6 packs at $6 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 6 packs at $6 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(6 × 6) + 1",
+      "6 + 6 + 1",
+      "6 × (6 + 1)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 6 × 6; then add the fixed fee 1.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 6 × 6; then add the fixed fee 1.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-035",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 7 packs at $7 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 7 packs at $7 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(7 × 7) + 2",
+      "7 + 7 + 2",
+      "7 × (7 + 2)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 7 × 7; then add the fixed fee 2.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 7 × 7; then add the fixed fee 2.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-036",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 8 packs at $8 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 8 packs at $8 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(8 × 8) + 3",
+      "8 + 8 + 3",
+      "8 × (8 + 3)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 8 × 8; then add the fixed fee 3.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 8 × 8; then add the fixed fee 3.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-037",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 9 packs at $3 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 9 packs at $3 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(9 × 3) + 0",
+      "9 + 3 + 0",
+      "9 × (3 + 0)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 9 × 3; then add the fixed fee 0.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 9 × 3; then add the fixed fee 0.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-038",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 10 packs at $4 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 10 packs at $4 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(10 × 4) + 1",
+      "10 + 4 + 1",
+      "10 × (4 + 1)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 10 × 4; then add the fixed fee 1.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 10 × 4; then add the fixed fee 1.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-039",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 4 packs at $5 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 4 packs at $5 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(4 × 5) + 2",
+      "4 + 5 + 2",
+      "4 × (5 + 2)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 4 × 5; then add the fixed fee 2.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 4 × 5; then add the fixed fee 2.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-040",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 5 packs at $6 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 5 packs at $6 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(5 × 6) + 3",
+      "5 + 6 + 3",
+      "5 × (6 + 3)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 5 × 6; then add the fixed fee 3.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 5 × 6; then add the fixed fee 3.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-041",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 6 packs at $7 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 6 packs at $7 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(6 × 7) + 0",
+      "6 + 7 + 0",
+      "6 × (7 + 0)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 6 × 7; then add the fixed fee 0.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 6 × 7; then add the fixed fee 0.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-042",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 7 packs at $8 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 7 packs at $8 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(7 × 8) + 1",
+      "7 + 8 + 1",
+      "7 × (8 + 1)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 7 × 8; then add the fixed fee 1.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 7 × 8; then add the fixed fee 1.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-043",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 8 packs at $3 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 8 packs at $3 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(8 × 3) + 2",
+      "8 + 3 + 2",
+      "8 × (3 + 2)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 8 × 3; then add the fixed fee 2.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 8 × 3; then add the fixed fee 2.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-044",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 9 packs at $4 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 9 packs at $4 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(9 × 4) + 3",
+      "9 + 4 + 3",
+      "9 × (4 + 3)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 9 × 4; then add the fixed fee 3.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 9 × 4; then add the fixed fee 3.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-045",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 10 packs at $5 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 10 packs at $5 each and pays a $0 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(10 × 5) + 0",
+      "10 + 5 + 0",
+      "10 × (5 + 0)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 10 × 5; then add the fixed fee 0.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 10 × 5; then add the fixed fee 0.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-046",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 4 packs at $6 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 4 packs at $6 each and pays a $1 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(4 × 6) + 1",
+      "4 + 6 + 1",
+      "4 × (6 + 1)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 4 × 6; then add the fixed fee 1.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 4 × 6; then add the fixed fee 1.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-047",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 5 packs at $7 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 5 packs at $7 each and pays a $2 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(5 × 7) + 2",
+      "5 + 7 + 2",
+      "5 × (7 + 2)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 5 × 7; then add the fixed fee 2.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 5 × 7; then add the fixed fee 2.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n09-p-048",
+    "curriculumCode": "AC9M5N09",
+    "bank": "practice",
+    "skill": "mathematical modelling",
+    "printable": true,
+    "type": "single",
+    "question": "A club buys 6 packs at $8 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "audioPrompt": "A club buys 6 packs at $8 each and pays a $3 delivery fee. Which expression models the total cost?",
+    "answers": [
+      "(6 × 8) + 3",
+      "6 + 8 + 3",
+      "6 × (8 + 3)"
+    ],
+    "correct": 0,
+    "explanation": "Identify the repeated equal groups first: 6 × 8; then add the fixed fee 3.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Identify the repeated equal groups first: 6 × 8; then add the fixed fee 3.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

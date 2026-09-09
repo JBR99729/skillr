@@ -695,6 +695,557 @@ window.skillrPracticeQuestions = [
       "hint": "Use the product as the dividend."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-025",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 3 rows of 4 chairs, so there are 12 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 3 rows of 4 chairs, so there are 12 chairs. Which equation is an inverse check?",
+    "answers": [
+      "12 ÷ 3 = 4",
+      "12 + 3 = 4",
+      "3 ÷ 12 = 4"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 12 ÷ 3 = 4.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 12 ÷ 3 = 4.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-026",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 4 rows of 5 chairs, so there are 20 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 4 rows of 5 chairs, so there are 20 chairs. Which equation is an inverse check?",
+    "answers": [
+      "20 ÷ 4 = 5",
+      "20 + 4 = 5",
+      "4 ÷ 20 = 5"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 20 ÷ 4 = 5.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 20 ÷ 4 = 5.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-027",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 5 rows of 6 chairs, so there are 30 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 5 rows of 6 chairs, so there are 30 chairs. Which equation is an inverse check?",
+    "answers": [
+      "30 ÷ 5 = 6",
+      "30 + 5 = 6",
+      "5 ÷ 30 = 6"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 30 ÷ 5 = 6.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 30 ÷ 5 = 6.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-028",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 6 rows of 7 chairs, so there are 42 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 6 rows of 7 chairs, so there are 42 chairs. Which equation is an inverse check?",
+    "answers": [
+      "42 ÷ 6 = 7",
+      "42 + 6 = 7",
+      "6 ÷ 42 = 7"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 42 ÷ 6 = 7.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 42 ÷ 6 = 7.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-029",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 7 rows of 8 chairs, so there are 56 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 7 rows of 8 chairs, so there are 56 chairs. Which equation is an inverse check?",
+    "answers": [
+      "56 ÷ 7 = 8",
+      "56 + 7 = 8",
+      "7 ÷ 56 = 8"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 56 ÷ 7 = 8.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 56 ÷ 7 = 8.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-030",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 8 rows of 9 chairs, so there are 72 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 8 rows of 9 chairs, so there are 72 chairs. Which equation is an inverse check?",
+    "answers": [
+      "72 ÷ 8 = 9",
+      "72 + 8 = 9",
+      "8 ÷ 72 = 9"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 72 ÷ 8 = 9.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 72 ÷ 8 = 9.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-031",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 9 rows of 10 chairs, so there are 90 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 9 rows of 10 chairs, so there are 90 chairs. Which equation is an inverse check?",
+    "answers": [
+      "90 ÷ 9 = 10",
+      "90 + 9 = 10",
+      "9 ÷ 90 = 10"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 90 ÷ 9 = 10.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 90 ÷ 9 = 10.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-032",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 10 rows of 4 chairs, so there are 40 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 10 rows of 4 chairs, so there are 40 chairs. Which equation is an inverse check?",
+    "answers": [
+      "40 ÷ 10 = 4",
+      "40 + 10 = 4",
+      "10 ÷ 40 = 4"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 40 ÷ 10 = 4.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 40 ÷ 10 = 4.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-033",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 3 rows of 5 chairs, so there are 15 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 3 rows of 5 chairs, so there are 15 chairs. Which equation is an inverse check?",
+    "answers": [
+      "15 ÷ 3 = 5",
+      "15 + 3 = 5",
+      "3 ÷ 15 = 5"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 15 ÷ 3 = 5.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 15 ÷ 3 = 5.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-034",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 4 rows of 6 chairs, so there are 24 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 4 rows of 6 chairs, so there are 24 chairs. Which equation is an inverse check?",
+    "answers": [
+      "24 ÷ 4 = 6",
+      "24 + 4 = 6",
+      "4 ÷ 24 = 6"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 24 ÷ 4 = 6.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 24 ÷ 4 = 6.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-035",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 5 rows of 7 chairs, so there are 35 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 5 rows of 7 chairs, so there are 35 chairs. Which equation is an inverse check?",
+    "answers": [
+      "35 ÷ 5 = 7",
+      "35 + 5 = 7",
+      "5 ÷ 35 = 7"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 35 ÷ 5 = 7.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 35 ÷ 5 = 7.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-036",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 6 rows of 8 chairs, so there are 48 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 6 rows of 8 chairs, so there are 48 chairs. Which equation is an inverse check?",
+    "answers": [
+      "48 ÷ 6 = 8",
+      "48 + 6 = 8",
+      "6 ÷ 48 = 8"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 48 ÷ 6 = 8.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 48 ÷ 6 = 8.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-037",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 7 rows of 9 chairs, so there are 63 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 7 rows of 9 chairs, so there are 63 chairs. Which equation is an inverse check?",
+    "answers": [
+      "63 ÷ 7 = 9",
+      "63 + 7 = 9",
+      "7 ÷ 63 = 9"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 63 ÷ 7 = 9.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 63 ÷ 7 = 9.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-038",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 8 rows of 10 chairs, so there are 80 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 8 rows of 10 chairs, so there are 80 chairs. Which equation is an inverse check?",
+    "answers": [
+      "80 ÷ 8 = 10",
+      "80 + 8 = 10",
+      "8 ÷ 80 = 10"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 80 ÷ 8 = 10.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 80 ÷ 8 = 10.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-039",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 9 rows of 4 chairs, so there are 36 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 9 rows of 4 chairs, so there are 36 chairs. Which equation is an inverse check?",
+    "answers": [
+      "36 ÷ 9 = 4",
+      "36 + 9 = 4",
+      "9 ÷ 36 = 4"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 36 ÷ 9 = 4.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 36 ÷ 9 = 4.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-040",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 10 rows of 5 chairs, so there are 50 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 10 rows of 5 chairs, so there are 50 chairs. Which equation is an inverse check?",
+    "answers": [
+      "50 ÷ 10 = 5",
+      "50 + 10 = 5",
+      "10 ÷ 50 = 5"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 50 ÷ 10 = 5.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 50 ÷ 10 = 5.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-041",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 3 rows of 6 chairs, so there are 18 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 3 rows of 6 chairs, so there are 18 chairs. Which equation is an inverse check?",
+    "answers": [
+      "18 ÷ 3 = 6",
+      "18 + 3 = 6",
+      "3 ÷ 18 = 6"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 18 ÷ 3 = 6.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 18 ÷ 3 = 6.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-042",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 4 rows of 7 chairs, so there are 28 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 4 rows of 7 chairs, so there are 28 chairs. Which equation is an inverse check?",
+    "answers": [
+      "28 ÷ 4 = 7",
+      "28 + 4 = 7",
+      "4 ÷ 28 = 7"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 28 ÷ 4 = 7.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 28 ÷ 4 = 7.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-043",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 5 rows of 8 chairs, so there are 40 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 5 rows of 8 chairs, so there are 40 chairs. Which equation is an inverse check?",
+    "answers": [
+      "40 ÷ 5 = 8",
+      "40 + 5 = 8",
+      "5 ÷ 40 = 8"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 40 ÷ 5 = 8.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 40 ÷ 5 = 8.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-044",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 6 rows of 9 chairs, so there are 54 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 6 rows of 9 chairs, so there are 54 chairs. Which equation is an inverse check?",
+    "answers": [
+      "54 ÷ 6 = 9",
+      "54 + 6 = 9",
+      "6 ÷ 54 = 9"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 54 ÷ 6 = 9.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 54 ÷ 6 = 9.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-045",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 7 rows of 10 chairs, so there are 70 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 7 rows of 10 chairs, so there are 70 chairs. Which equation is an inverse check?",
+    "answers": [
+      "70 ÷ 7 = 10",
+      "70 + 7 = 10",
+      "7 ÷ 70 = 10"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 70 ÷ 7 = 10.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 70 ÷ 7 = 10.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-046",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 8 rows of 4 chairs, so there are 32 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 8 rows of 4 chairs, so there are 32 chairs. Which equation is an inverse check?",
+    "answers": [
+      "32 ÷ 8 = 4",
+      "32 + 8 = 4",
+      "8 ÷ 32 = 4"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 32 ÷ 8 = 4.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 32 ÷ 8 = 4.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-047",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 9 rows of 5 chairs, so there are 45 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 9 rows of 5 chairs, so there are 45 chairs. Which equation is an inverse check?",
+    "answers": [
+      "45 ÷ 9 = 5",
+      "45 + 9 = 5",
+      "9 ÷ 45 = 5"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 45 ÷ 9 = 5.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 45 ÷ 9 = 5.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a01-p-048",
+    "curriculumCode": "AC9M5A01",
+    "bank": "practice",
+    "skill": "multiplication and division inverse facts",
+    "printable": true,
+    "type": "single",
+    "question": "A hall has 10 rows of 6 chairs, so there are 60 chairs. Which equation is an inverse check?",
+    "audioPrompt": "A hall has 10 rows of 6 chairs, so there are 60 chairs. Which equation is an inverse check?",
+    "answers": [
+      "60 ÷ 10 = 6",
+      "60 + 10 = 6",
+      "10 ÷ 60 = 6"
+    ],
+    "correct": 0,
+    "explanation": "Multiplication and division are inverse operations: 60 ÷ 10 = 6.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Multiplication and division are inverse operations: 60 ÷ 10 = 6.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

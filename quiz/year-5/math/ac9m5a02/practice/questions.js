@@ -695,6 +695,557 @@ window.skillrPracticeQuestions = [
       "hint": "Multiply the divisor by the quotient."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-025",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 3 = 8.",
+    "audioPrompt": "Find the unknown: □ ÷ 3 = 8.",
+    "answers": [
+      "24",
+      "11",
+      "27"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 8 × 3 = 24.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 8 × 3 = 24.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-026",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 4 = 9.",
+    "audioPrompt": "Find the unknown: □ ÷ 4 = 9.",
+    "answers": [
+      "36",
+      "13",
+      "40"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 9 × 4 = 36.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 9 × 4 = 36.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-027",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 5 = 10.",
+    "audioPrompt": "Find the unknown: □ ÷ 5 = 10.",
+    "answers": [
+      "50",
+      "15",
+      "55"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 10 × 5 = 50.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 10 × 5 = 50.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-028",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 6 = 11.",
+    "audioPrompt": "Find the unknown: □ ÷ 6 = 11.",
+    "answers": [
+      "66",
+      "17",
+      "72"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 11 × 6 = 66.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 11 × 6 = 66.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-029",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 7 = 12.",
+    "audioPrompt": "Find the unknown: □ ÷ 7 = 12.",
+    "answers": [
+      "84",
+      "19",
+      "91"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 12 × 7 = 84.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 12 × 7 = 84.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-030",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 8 = 13.",
+    "audioPrompt": "Find the unknown: □ ÷ 8 = 13.",
+    "answers": [
+      "104",
+      "21",
+      "112"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 13 × 8 = 104.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 13 × 8 = 104.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-031",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 9 = 14.",
+    "audioPrompt": "Find the unknown: □ ÷ 9 = 14.",
+    "answers": [
+      "126",
+      "23",
+      "135"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 14 × 9 = 126.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 14 × 9 = 126.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-032",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 3 = 15.",
+    "audioPrompt": "Find the unknown: □ ÷ 3 = 15.",
+    "answers": [
+      "45",
+      "18",
+      "48"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 15 × 3 = 45.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 15 × 3 = 45.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-033",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 4 = 16.",
+    "audioPrompt": "Find the unknown: □ ÷ 4 = 16.",
+    "answers": [
+      "64",
+      "20",
+      "68"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 16 × 4 = 64.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 16 × 4 = 64.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-034",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 5 = 8.",
+    "audioPrompt": "Find the unknown: □ ÷ 5 = 8.",
+    "answers": [
+      "40",
+      "13",
+      "45"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 8 × 5 = 40.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 8 × 5 = 40.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-035",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 6 = 9.",
+    "audioPrompt": "Find the unknown: □ ÷ 6 = 9.",
+    "answers": [
+      "54",
+      "15",
+      "60"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 9 × 6 = 54.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 9 × 6 = 54.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-036",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 7 = 10.",
+    "audioPrompt": "Find the unknown: □ ÷ 7 = 10.",
+    "answers": [
+      "70",
+      "17",
+      "77"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 10 × 7 = 70.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 10 × 7 = 70.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-037",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 8 = 11.",
+    "audioPrompt": "Find the unknown: □ ÷ 8 = 11.",
+    "answers": [
+      "88",
+      "19",
+      "96"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 11 × 8 = 88.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 11 × 8 = 88.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-038",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 9 = 12.",
+    "audioPrompt": "Find the unknown: □ ÷ 9 = 12.",
+    "answers": [
+      "108",
+      "21",
+      "117"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 12 × 9 = 108.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 12 × 9 = 108.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-039",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 3 = 13.",
+    "audioPrompt": "Find the unknown: □ ÷ 3 = 13.",
+    "answers": [
+      "39",
+      "16",
+      "42"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 13 × 3 = 39.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 13 × 3 = 39.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-040",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 4 = 14.",
+    "audioPrompt": "Find the unknown: □ ÷ 4 = 14.",
+    "answers": [
+      "56",
+      "18",
+      "60"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 14 × 4 = 56.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 14 × 4 = 56.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-041",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 5 = 15.",
+    "audioPrompt": "Find the unknown: □ ÷ 5 = 15.",
+    "answers": [
+      "75",
+      "20",
+      "80"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 15 × 5 = 75.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 15 × 5 = 75.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-042",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 6 = 16.",
+    "audioPrompt": "Find the unknown: □ ÷ 6 = 16.",
+    "answers": [
+      "96",
+      "22",
+      "102"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 16 × 6 = 96.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 16 × 6 = 96.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-043",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 7 = 8.",
+    "audioPrompt": "Find the unknown: □ ÷ 7 = 8.",
+    "answers": [
+      "56",
+      "15",
+      "63"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 8 × 7 = 56.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 8 × 7 = 56.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-044",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 8 = 9.",
+    "audioPrompt": "Find the unknown: □ ÷ 8 = 9.",
+    "answers": [
+      "72",
+      "17",
+      "80"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 9 × 8 = 72.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 9 × 8 = 72.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-045",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 9 = 10.",
+    "audioPrompt": "Find the unknown: □ ÷ 9 = 10.",
+    "answers": [
+      "90",
+      "19",
+      "99"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 10 × 9 = 90.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 10 × 9 = 90.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-046",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 3 = 11.",
+    "audioPrompt": "Find the unknown: □ ÷ 3 = 11.",
+    "answers": [
+      "33",
+      "14",
+      "36"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 11 × 3 = 33.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 11 × 3 = 33.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-047",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 4 = 12.",
+    "audioPrompt": "Find the unknown: □ ÷ 4 = 12.",
+    "answers": [
+      "48",
+      "16",
+      "52"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 12 × 4 = 48.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 12 × 4 = 48.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5a02-p-048",
+    "curriculumCode": "AC9M5A02",
+    "bank": "practice",
+    "skill": "unknown values in equations",
+    "printable": true,
+    "type": "single",
+    "question": "Find the unknown: □ ÷ 5 = 13.",
+    "audioPrompt": "Find the unknown: □ ÷ 5 = 13.",
+    "answers": [
+      "65",
+      "18",
+      "70"
+    ],
+    "correct": 0,
+    "explanation": "Use the inverse operation: the unknown dividend is 13 × 5 = 65.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Use the inverse operation: the unknown dividend is 13 × 5 = 65.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

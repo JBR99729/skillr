@@ -695,6 +695,557 @@ window.skillrPracticeQuestions = [
       "hint": "Test the instruction with odd and even inputs."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-025",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 3, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 3, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "9",
+      "8",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 3 × 2 = 6, then 6 + 3 = 9.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 3 × 2 = 6, then 6 + 3 = 9.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-026",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 4, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 4, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "11",
+      "9",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 4 × 2 = 8, then 8 + 3 = 11.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 4 × 2 = 8, then 8 + 3 = 11.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-027",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 5, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 5, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "13",
+      "10",
+      "15"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 5 × 2 = 10, then 10 + 3 = 13.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 5 × 2 = 10, then 10 + 3 = 13.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-028",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 6, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 6, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "15",
+      "11",
+      "18"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 6 × 2 = 12, then 12 + 3 = 15.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 6 × 2 = 12, then 12 + 3 = 15.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-029",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 7, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 7, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "17",
+      "12",
+      "21"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 7 × 2 = 14, then 14 + 3 = 17.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 7 × 2 = 14, then 14 + 3 = 17.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-030",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 8, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 8, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "19",
+      "13",
+      "24"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 8 × 2 = 16, then 16 + 3 = 19.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 8 × 2 = 16, then 16 + 3 = 19.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-031",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 9, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 9, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "21",
+      "14",
+      "27"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 9 × 2 = 18, then 18 + 3 = 21.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 9 × 2 = 18, then 18 + 3 = 21.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-032",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 10, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 10, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "23",
+      "15",
+      "30"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 10 × 2 = 20, then 20 + 3 = 23.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 10 × 2 = 20, then 20 + 3 = 23.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-033",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 3, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 3, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "9",
+      "8",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 3 × 2 = 6, then 6 + 3 = 9.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 3 × 2 = 6, then 6 + 3 = 9.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-034",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 4, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 4, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "11",
+      "9",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 4 × 2 = 8, then 8 + 3 = 11.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 4 × 2 = 8, then 8 + 3 = 11.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-035",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 5, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 5, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "13",
+      "10",
+      "15"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 5 × 2 = 10, then 10 + 3 = 13.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 5 × 2 = 10, then 10 + 3 = 13.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-036",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 6, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 6, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "15",
+      "11",
+      "18"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 6 × 2 = 12, then 12 + 3 = 15.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 6 × 2 = 12, then 12 + 3 = 15.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-037",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 7, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 7, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "17",
+      "12",
+      "21"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 7 × 2 = 14, then 14 + 3 = 17.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 7 × 2 = 14, then 14 + 3 = 17.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-038",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 8, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 8, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "19",
+      "13",
+      "24"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 8 × 2 = 16, then 16 + 3 = 19.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 8 × 2 = 16, then 16 + 3 = 19.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-039",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 9, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 9, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "21",
+      "14",
+      "27"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 9 × 2 = 18, then 18 + 3 = 21.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 9 × 2 = 18, then 18 + 3 = 21.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-040",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 10, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 10, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "23",
+      "15",
+      "30"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 10 × 2 = 20, then 20 + 3 = 23.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 10 × 2 = 20, then 20 + 3 = 23.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-041",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 3, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 3, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "9",
+      "8",
+      "9"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 3 × 2 = 6, then 6 + 3 = 9.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 3 × 2 = 6, then 6 + 3 = 9.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-042",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 4, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 4, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "11",
+      "9",
+      "12"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 4 × 2 = 8, then 8 + 3 = 11.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 4 × 2 = 8, then 8 + 3 = 11.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-043",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 5, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 5, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "13",
+      "10",
+      "15"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 5 × 2 = 10, then 10 + 3 = 13.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 5 × 2 = 10, then 10 + 3 = 13.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-044",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 6, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 6, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "15",
+      "11",
+      "18"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 6 × 2 = 12, then 12 + 3 = 15.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 6 × 2 = 12, then 12 + 3 = 15.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-045",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 7, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 7, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "17",
+      "12",
+      "21"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 7 × 2 = 14, then 14 + 3 = 17.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 7 × 2 = 14, then 14 + 3 = 17.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-046",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 8, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 8, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "19",
+      "13",
+      "24"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 8 × 2 = 16, then 16 + 3 = 19.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 8 × 2 = 16, then 16 + 3 = 19.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-047",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 9, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 9, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "21",
+      "14",
+      "27"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 9 × 2 = 18, then 18 + 3 = 21.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 9 × 2 = 18, then 18 + 3 = 21.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n10-p-048",
+    "curriculumCode": "AC9M5N10",
+    "bank": "practice",
+    "skill": "algorithms, factors and multiples",
+    "printable": true,
+    "type": "single",
+    "question": "An algorithm starts at 10, doubles the value, then adds 3. What is the output?",
+    "audioPrompt": "An algorithm starts at 10, doubles the value, then adds 3. What is the output?",
+    "answers": [
+      "23",
+      "15",
+      "30"
+    ],
+    "correct": 0,
+    "explanation": "Follow the steps in order: 10 × 2 = 20, then 20 + 3 = 23.\nHint: explain the operation or decision before calculating.",
+    "structuredExplanation": {
+      "summary": "Follow the steps in order: 10 × 2 = 20, then 20 + 3 = 23.",
+      "hint": "Explain the operation or decision before calculating."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
