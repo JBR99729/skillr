@@ -17,7 +17,7 @@ Future continuation runs must skip codes marked **FINISHED — DO NOT REPROCESS*
 | Code | Status | Notes |
 |---|---|---|
 | AC9E5LA02 | **FINISHED — DO NOT REPROCESS** | Topic Page, Classroom View and Worksheet rewritten to the researched descriptor. Practice bank = 48 authored questions. Separate Test bank = 16 unseen questions. Research limitations around direct IXL authoritative-source/counterclaim tasks are disclosed in the Topic Page. |
-| AC9E5LA03 | PENDING | IXL-supported |
+| AC9E5LA03 | **FINISHED — DO NOT REPROCESS** | Topic Page, Classroom View and Worksheet completed. Practice bank = 48 authored questions; Test bank = 16 unseen questions. Purpose versus topic and whole-text versus local-relationship traps are explicitly taught. Spoken/multimodal evidence limitation is disclosed. |
 | AC9E5LA04 | PENDING | Partial IXL evidence; cohesion beyond conjunctions must be treated carefully |
 | AC9E5LA05 | PENDING | IXL-supported |
 | AC9E5LA06 | PENDING | Partial IXL evidence for expanded noun groups |
