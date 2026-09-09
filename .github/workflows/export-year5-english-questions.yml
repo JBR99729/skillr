@@ -1,0 +1,84 @@
+name: Export Year 5 English questions
+on:
+  push:
+    branches: [chatgpt-year5-english-export-20260909]
+    paths:
+      - '.github/workflows/export-year5-english-questions.yml'
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build TXT export
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+          const path = require('path');
+          const dir = path.join(process.cwd(), 'assets', 'assessment-banks', 'year5', 'english');
+          const files = fs.readdirSync(dir).filter(f => /^ac9e5(?:la|le|ly)\d+\.json$/i.test(f)).sort((a,b)=>a.localeCompare(b,undefined,{numeric:true}));
+          if (files.length !== 24) throw new Error(`Expected 24 Year 5 English bank files, found ${files.length}`);
+          let out = '';
+          out += 'SKILLRHUB — YEAR 5 ENGLISH — ALL QUESTIONS\n';
+          out += 'Source: assets/assessment-banks/year5/english/*.json\n';
+          out += `Codes: ${files.length}\n`;
+          out += 'Expected unique assessment questions: 1,536 (48 practice + 16 test per code)\n';
+          out += 'Worksheet pages reuse questions from the practice banks and are not duplicated here.\n\n';
+          let total = 0, practiceTotal = 0, testTotal = 0;
+          for (const file of files) {
+            const items = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8'));
+            const code = (items[0] && (items[0].curriculum_code || items[0].curriculumCode)) || path.basename(file,'.json').toUpperCase();
+            const practice = items.filter(x => x.bank === 'practice');
+            const test = items.filter(x => x.bank === 'test');
+            if (practice.length !== 48 || test.length !== 16) throw new Error(`${code}: expected 48 practice/16 test, found ${practice.length}/${test.length}`);
+            total += items.length; practiceTotal += practice.length; testTotal += test.length;
+            out += '='.repeat(90) + '\n';
+            out += `${code} — ${items.length} QUESTIONS (${practice.length} PRACTICE + ${test.length} TEST)\n`;
+            out += '='.repeat(90) + '\n\n';
+            for (const bank of ['practice','test']) {
+              const bankItems = items.filter(x => x.bank === bank);
+              out += `--- ${bank.toUpperCase()} BANK — ${bankItems.length} QUESTIONS ---\n\n`;
+              bankItems.forEach((q, idx) => {
+                const id = q.id || `${code}-${bank}-${idx+1}`;
+                out += `${idx+1}. [${id}]\n`;
+                if (q.stage) out += `Stage: ${q.stage}\n`;
+                if (q.skill) out += `Skill: ${String(q.skill).replaceAll('_',' ')}\n`;
+                out += `Question: ${q.question}\n`;
+                if (Array.isArray(q.answers)) {
+                  q.answers.forEach((a, ai) => {
+                    const text = typeof a === 'string' ? a : a.text;
+                    const correct = typeof a === 'object' && a !== null ? !!a.is_correct : ai === q.correct_index;
+                    out += `  ${String.fromCharCode(65+ai)}. ${text}${correct ? '  [CORRECT]' : ''}\n`;
+                  });
+                }
+                if (Number.isInteger(q.correct_index) && Array.isArray(q.answers) && !q.answers.some(a => typeof a === 'object' && a !== null && 'is_correct' in a)) {
+                  out += `Correct answer: ${String.fromCharCode(65+q.correct_index)}\n`;
+                }
+                const exp = q.explanation;
+                if (typeof exp === 'string') out += `Explanation: ${exp}\n`;
+                else if (exp && typeof exp === 'object') {
+                  if (exp.summary) out += `Explanation: ${exp.summary}\n`;
+                  if (exp.hint) out += `Hint: ${exp.hint}\n`;
+                }
+                out += '\n';
+              });
+            }
+          }
+          out += '='.repeat(90) + '\n';
+          out += `TOTAL: ${total} QUESTIONS — ${practiceTotal} PRACTICE + ${testTotal} TEST\n`;
+          if (total !== 1536 || practiceTotal !== 1152 || testTotal !== 384) throw new Error(`Unexpected totals ${total}/${practiceTotal}/${testTotal}`);
+          fs.writeFileSync('SkillrHub_Year5_English_All_Questions.txt', out, 'utf8');
+          console.log(`Exported ${total} questions from ${files.length} codes.`);
+          NODE
+      - name: Upload TXT
+        uses: actions/upload-artifact@v4
+        with:
+          name: SkillrHub-Year5-English-All-Questions
+          path: SkillrHub_Year5_English_All_Questions.txt
+          if-no-files-found: error
+          retention-days: 7
