@@ -27,7 +27,10 @@ window.skillrPracticeQuestions = [
       "summary": "10 multiplied by 9 equals 90.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-002",
@@ -56,7 +59,10 @@ window.skillrPracticeQuestions = [
       "summary": "33 divided by 3 equals 11.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-003",
@@ -85,7 +91,10 @@ window.skillrPracticeQuestions = [
       "summary": "4 multiplied by 4 equals 16.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-004",
@@ -114,7 +123,10 @@ window.skillrPracticeQuestions = [
       "summary": "30 divided by 5 equals 6.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-005",
@@ -143,7 +155,10 @@ window.skillrPracticeQuestions = [
       "summary": "6 multiplied by 8 equals 48.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-006",
@@ -172,7 +187,10 @@ window.skillrPracticeQuestions = [
       "summary": "70 divided by 7 equals 10.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-007",
@@ -201,7 +219,10 @@ window.skillrPracticeQuestions = [
       "summary": "8 multiplied by 12 equals 96.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-008",
@@ -230,7 +251,10 @@ window.skillrPracticeQuestions = [
       "summary": "45 divided by 9 equals 5.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-009",
@@ -259,7 +283,10 @@ window.skillrPracticeQuestions = [
       "summary": "10 multiplied by 7 equals 70.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-010",
@@ -288,7 +315,10 @@ window.skillrPracticeQuestions = [
       "summary": "27 divided by 3 equals 9.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-011",
@@ -317,7 +347,10 @@ window.skillrPracticeQuestions = [
       "summary": "4 multiplied by 11 equals 44.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-012",
@@ -346,7 +379,10 @@ window.skillrPracticeQuestions = [
       "summary": "20 divided by 5 equals 4.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-p-013",
@@ -375,7 +411,10 @@ window.skillrPracticeQuestions = [
       "summary": "6 multiplied by 6 equals 36.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-014",
@@ -404,7 +443,10 @@ window.skillrPracticeQuestions = [
       "summary": "56 divided by 7 equals 8.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-015",
@@ -433,7 +475,10 @@ window.skillrPracticeQuestions = [
       "summary": "8 multiplied by 10 equals 80.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-016",
@@ -462,7 +507,10 @@ window.skillrPracticeQuestions = [
       "summary": "108 divided by 9 equals 12.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-017",
@@ -491,7 +539,10 @@ window.skillrPracticeQuestions = [
       "summary": "10 multiplied by 5 equals 50.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-018",
@@ -520,7 +571,10 @@ window.skillrPracticeQuestions = [
       "summary": "21 divided by 3 equals 7.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-019",
@@ -549,7 +603,10 @@ window.skillrPracticeQuestions = [
       "summary": "4 multiplied by 9 equals 36.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-020",
@@ -578,7 +635,10 @@ window.skillrPracticeQuestions = [
       "summary": "55 divided by 5 equals 11.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-021",
@@ -607,7 +667,10 @@ window.skillrPracticeQuestions = [
       "summary": "6 multiplied by 4 equals 24.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-022",
@@ -636,7 +699,10 @@ window.skillrPracticeQuestions = [
       "summary": "42 divided by 7 equals 6.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-023",
@@ -665,7 +731,10 @@ window.skillrPracticeQuestions = [
       "summary": "8 multiplied by 8 equals 64.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-024",
@@ -694,7 +763,10 @@ window.skillrPracticeQuestions = [
       "summary": "90 divided by 9 equals 10.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-p-025",
@@ -717,7 +789,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-026",
@@ -740,7 +815,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-027",
@@ -763,7 +841,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-028",
@@ -786,7 +867,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-029",
@@ -809,7 +893,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-030",
@@ -832,7 +919,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-031",
@@ -855,7 +945,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-032",
@@ -878,7 +971,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-033",
@@ -901,7 +997,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-034",
@@ -924,7 +1023,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-035",
@@ -947,7 +1049,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-036",
@@ -970,7 +1075,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-p-037",
@@ -993,7 +1101,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-038",
@@ -1016,7 +1127,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-039",
@@ -1039,7 +1153,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-040",
@@ -1062,7 +1179,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-041",
@@ -1085,7 +1205,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-042",
@@ -1108,7 +1231,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-043",
@@ -1131,7 +1257,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-044",
@@ -1154,7 +1283,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-045",
@@ -1177,7 +1309,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-046",
@@ -1200,7 +1335,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-047",
@@ -1223,7 +1361,10 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-p-048",
@@ -1246,6 +1387,9 @@ window.skillrPracticeQuestions = [
       "hint": "Explain the operation or decision before calculating."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];

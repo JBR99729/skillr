@@ -26,7 +26,10 @@ window.skillrTestQuestions = [
       "summary": "The 8 is the second digit after the decimal point: 0.08 kg.",
       "hint": "Name the decimal places in order."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n01-t-002",
@@ -54,7 +57,10 @@ window.skillrTestQuestions = [
       "summary": "9.050 and 9.05 both mean 9 wholes and 5 hundredths.",
       "hint": "Check whether the extra zero changes any non-zero digit's place."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n01-t-003",
@@ -82,7 +88,10 @@ window.skillrTestQuestions = [
       "summary": "The span is 0.02; 0.02 ÷ 20 = 0.001.",
       "hint": "Divide the numerical span by the number of intervals."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n01-t-004",
@@ -110,7 +119,10 @@ window.skillrTestQuestions = [
       "summary": "Each hundredth contains 10 beads; three hundredths contains 30.",
       "hint": "Find one hundredth of the whole model."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n01-t-005",
@@ -138,7 +150,10 @@ window.skillrTestQuestions = [
       "summary": "In descending order: 6.900, 6.099, 6.090, 6.009 km.",
       "hint": "Write each distance to three decimal places."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n01-t-006",
@@ -166,7 +181,10 @@ window.skillrTestQuestions = [
       "summary": "0.7 L is 70 hundredths of a litre. Each bottle receives 7 hundredths.",
       "hint": "Rename before dividing into ten groups."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n01-t-007",
@@ -194,7 +212,10 @@ window.skillrTestQuestions = [
       "summary": "Comparing hundredths gives 0 < 6, so 8.406 belongs to the left.",
       "hint": "Position follows numerical value, not digit count."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n01-t-008",
@@ -222,7 +243,10 @@ window.skillrTestQuestions = [
       "summary": "At least and at most include the boundaries. Both 0.875 and 0.880 meet them.",
       "hint": "Check the meaning of each boundary phrase."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n01-t-009",
@@ -250,7 +274,10 @@ window.skillrTestQuestions = [
       "summary": "The plan has zero hundredths and seven thousandths; 1.370 is a different length.",
       "hint": "Match each digit with its column."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n01-t-010",
@@ -278,7 +305,10 @@ window.skillrTestQuestions = [
       "summary": "Tenths 4 would put the number above 7.4 because a positive later digit remains. Tenths 2 and hundredths 4 gives 7.240.",
       "hint": "Apply the upper bound before maximising the remaining digits."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n01-t-011",
@@ -306,7 +336,10 @@ window.skillrTestQuestions = [
       "summary": "The gap is 0.002; half is 0.001, giving 0.919.",
       "hint": "Check equal distances from the endpoints."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n01-t-012",
@@ -334,7 +367,10 @@ window.skillrTestQuestions = [
       "summary": "The digit values are 0.5 and 0.005; 0.5 = 500 thousandths = 100 × 5 thousandths.",
       "hint": "Compare the specified digit values, not the entire numbers."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n01-t-013",
@@ -362,7 +398,10 @@ window.skillrTestQuestions = [
       "summary": "3.059 is below 3.060 and greater than 3.006; equality does not satisfy below.",
       "hint": "Find all valid sizes before selecting the largest."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n01-t-014",
@@ -390,7 +429,10 @@ window.skillrTestQuestions = [
       "summary": "Two tenths is 20 hundredths; 20 + 14 = 34 hundredths = 0.34.",
       "hint": "Regroup everything into the same place-value unit."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n01-t-015",
@@ -418,7 +460,10 @@ window.skillrTestQuestions = [
       "summary": "0.9990 < 0.9996 < 1.0000.",
       "hint": "Write both endpoints to four decimal places."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n01-t-016",
@@ -446,8 +491,9 @@ window.skillrTestQuestions = [
       "summary": "After the equal whole part, 0 tenths is less than 1 tenth. Later digits cannot reverse that order.",
       "hint": "Start with the highest place that differs."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

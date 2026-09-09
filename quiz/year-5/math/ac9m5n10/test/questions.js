@@ -2,7 +2,7 @@
 window.skillrTestQuestions = [
   {
     "id": "ac9m5n10-t-001",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "follow an algorithm",
     "printable": true,
@@ -27,11 +27,14 @@ window.skillrTestQuestions = [
       "summary": "Follow the steps in the stated order.",
       "hint": "Record the result after each instruction."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n10-t-002",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "evaluate an algorithm",
     "printable": true,
@@ -56,11 +59,14 @@ window.skillrTestQuestions = [
       "summary": "Any whole number multiplied by 2 is even.",
       "hint": "Test the instruction with odd and even inputs."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n10-t-003",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "follow an algorithm",
     "printable": true,
@@ -85,11 +91,14 @@ window.skillrTestQuestions = [
       "summary": "Follow the steps in the stated order.",
       "hint": "Record the result after each instruction."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n10-t-004",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "evaluate an algorithm",
     "printable": true,
@@ -114,11 +123,14 @@ window.skillrTestQuestions = [
       "summary": "Any whole number multiplied by 2 is even.",
       "hint": "Test the instruction with odd and even inputs."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n10-t-005",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "follow an algorithm",
     "printable": true,
@@ -143,11 +155,14 @@ window.skillrTestQuestions = [
       "summary": "Follow the steps in the stated order.",
       "hint": "Record the result after each instruction."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n10-t-006",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "evaluate an algorithm",
     "printable": true,
@@ -172,11 +187,14 @@ window.skillrTestQuestions = [
       "summary": "Any whole number multiplied by 2 is even.",
       "hint": "Test the instruction with odd and even inputs."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n10-t-007",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "follow an algorithm",
     "printable": true,
@@ -201,11 +219,14 @@ window.skillrTestQuestions = [
       "summary": "Follow the steps in the stated order.",
       "hint": "Record the result after each instruction."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n10-t-008",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "evaluate an algorithm",
     "printable": true,
@@ -230,11 +251,14 @@ window.skillrTestQuestions = [
       "summary": "Any whole number multiplied by 2 is even.",
       "hint": "Test the instruction with odd and even inputs."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n10-t-009",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "follow an algorithm",
     "printable": true,
@@ -259,11 +283,14 @@ window.skillrTestQuestions = [
       "summary": "Follow the steps in the stated order.",
       "hint": "Record the result after each instruction."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n10-t-010",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "evaluate an algorithm",
     "printable": true,
@@ -288,11 +315,14 @@ window.skillrTestQuestions = [
       "summary": "Any whole number multiplied by 2 is even.",
       "hint": "Test the instruction with odd and even inputs."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n10-t-011",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "follow an algorithm",
     "printable": true,
@@ -317,11 +347,14 @@ window.skillrTestQuestions = [
       "summary": "Follow the steps in the stated order.",
       "hint": "Record the result after each instruction."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n10-t-012",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "evaluate an algorithm",
     "printable": true,
@@ -346,11 +379,14 @@ window.skillrTestQuestions = [
       "summary": "Any whole number multiplied by 2 is even.",
       "hint": "Test the instruction with odd and even inputs."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n10-t-013",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "follow an algorithm",
     "printable": true,
@@ -375,11 +411,14 @@ window.skillrTestQuestions = [
       "summary": "Follow the steps in the stated order.",
       "hint": "Record the result after each instruction."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n10-t-014",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "evaluate an algorithm",
     "printable": true,
@@ -404,11 +443,14 @@ window.skillrTestQuestions = [
       "summary": "Any whole number multiplied by 2 is even.",
       "hint": "Test the instruction with odd and even inputs."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n10-t-015",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "follow an algorithm",
     "printable": true,
@@ -433,11 +475,14 @@ window.skillrTestQuestions = [
       "summary": "Follow the steps in the stated order.",
       "hint": "Record the result after each instruction."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n10-t-016",
-    "curriculumCode": "AC9M5N10",
+    "curriculumCode": "AC9M5N010",
     "bank": "test",
     "skill": "evaluate an algorithm",
     "printable": true,
@@ -462,8 +507,9 @@ window.skillrTestQuestions = [
       "summary": "Any whole number multiplied by 2 is even.",
       "hint": "Test the instruction with odd and even inputs."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

@@ -27,7 +27,10 @@ window.skillrTestQuestions = [
       "summary": "10 multiplied by 12 equals 120.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-t-002",
@@ -56,7 +59,10 @@ window.skillrTestQuestions = [
       "summary": "15 divided by 3 equals 5.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-t-003",
@@ -85,7 +91,10 @@ window.skillrTestQuestions = [
       "summary": "4 multiplied by 7 equals 28.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-t-004",
@@ -114,7 +123,10 @@ window.skillrTestQuestions = [
       "summary": "45 divided by 5 equals 9.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5a02-t-005",
@@ -143,7 +155,10 @@ window.skillrTestQuestions = [
       "summary": "6 multiplied by 11 equals 66.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-t-006",
@@ -172,7 +187,10 @@ window.skillrTestQuestions = [
       "summary": "28 divided by 7 equals 4.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-t-007",
@@ -201,7 +219,10 @@ window.skillrTestQuestions = [
       "summary": "8 multiplied by 6 equals 48.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-t-008",
@@ -230,7 +251,10 @@ window.skillrTestQuestions = [
       "summary": "72 divided by 9 equals 8.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5a02-t-009",
@@ -259,7 +283,10 @@ window.skillrTestQuestions = [
       "summary": "10 multiplied by 10 equals 100.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-t-010",
@@ -288,7 +315,10 @@ window.skillrTestQuestions = [
       "summary": "36 divided by 3 equals 12.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-t-011",
@@ -317,7 +347,10 @@ window.skillrTestQuestions = [
       "summary": "4 multiplied by 5 equals 20.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-t-012",
@@ -346,7 +379,10 @@ window.skillrTestQuestions = [
       "summary": "35 divided by 5 equals 7.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5a02-t-013",
@@ -375,7 +411,10 @@ window.skillrTestQuestions = [
       "summary": "6 multiplied by 9 equals 54.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-t-014",
@@ -404,7 +443,10 @@ window.skillrTestQuestions = [
       "summary": "77 divided by 7 equals 11.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-t-015",
@@ -433,7 +475,10 @@ window.skillrTestQuestions = [
       "summary": "8 multiplied by 4 equals 32.",
       "hint": "Divide the product by the known factor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5a02-t-016",
@@ -462,8 +507,9 @@ window.skillrTestQuestions = [
       "summary": "54 divided by 9 equals 6.",
       "hint": "Multiply the divisor by the quotient."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

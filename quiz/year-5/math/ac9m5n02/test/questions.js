@@ -26,7 +26,10 @@ window.skillrTestQuestions = [
       "summary": "Five rows of seven use all 35 pegs.",
       "hint": "The product must equal the total."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n02-t-002",
@@ -54,7 +57,10 @@ window.skillrTestQuestions = [
       "summary": "The factor pairs are 1 × 20, 2 × 10 and 4 × 5.",
       "hint": "Include 1 and the number itself."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n02-t-003",
@@ -82,7 +88,10 @@ window.skillrTestQuestions = [
       "summary": "15 426 passes both divisibility tests for 6.",
       "hint": "Check both evenness and divisibility by 3."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n02-t-004",
@@ -110,7 +119,10 @@ window.skillrTestQuestions = [
       "summary": "The model represents 238. Each ten is five pairs and eight units is four pairs.",
       "hint": "Consider the value of each rod, not just the rod count."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n02-t-005",
@@ -138,7 +150,10 @@ window.skillrTestQuestions = [
       "summary": "48 = 6 × 8 and 48 = 8 × 6, so both lights flash then.",
       "hint": "Check divisibility by both intervals; the question does not ask for the first meeting."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n02-t-006",
@@ -166,7 +181,10 @@ window.skillrTestQuestions = [
       "summary": "25 is the partner of 2 in the pair 2 × 25.",
       "hint": "Read both members of every pair."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n02-t-007",
@@ -194,7 +212,10 @@ window.skillrTestQuestions = [
       "summary": "Nine groups of eight equal nine groups of three plus nine groups of five.",
       "hint": "Keep all nine groups in both parts."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n02-t-008",
@@ -222,7 +243,10 @@ window.skillrTestQuestions = [
       "summary": "The first digit sum is 18. The other sums are 19, 20 and 21, none a multiple of 9.",
       "hint": "A multiple of 3 is not necessarily a multiple of 9."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n02-t-009",
@@ -250,7 +274,10 @@ window.skillrTestQuestions = [
       "summary": "7 × 7 = 49, so the square has seven tiles per side.",
       "hint": "A square needs equal row and column counts."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n02-t-010",
@@ -278,7 +305,10 @@ window.skillrTestQuestions = [
       "summary": "Divisibility by 10 requires a final zero; 215 leaves a remainder of 5.",
       "hint": "Match the rule to the divisor."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n02-t-011",
@@ -306,7 +336,10 @@ window.skillrTestQuestions = [
       "summary": "522 is even and its digit sum is 9. The other choices give sums 7, 11 and 13.",
       "hint": "Check both tests for every choice."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n02-t-012",
@@ -334,7 +367,10 @@ window.skillrTestQuestions = [
       "summary": "5 × 8 = 40 and both dimensions are greater than 2.",
       "hint": "An exact product alone is not enough."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n02-t-013",
@@ -362,7 +398,10 @@ window.skillrTestQuestions = [
       "summary": "Combining complete groups of five still gives complete groups of five.",
       "hint": "Regroup the pencils in one box first."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n02-t-014",
@@ -390,7 +429,10 @@ window.skillrTestQuestions = [
       "summary": "Both products equal 36, but the side lengths differ and other factor pairs exist.",
       "hint": "Calculate each product and distinguish total from dimensions."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n02-t-015",
@@ -418,7 +460,10 @@ window.skillrTestQuestions = [
       "summary": "630 ends in zero and has digit sum 9.",
       "hint": "Use the ones-digit rule and the digit-sum rule."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n02-t-016",
@@ -446,8 +491,9 @@ window.skillrTestQuestions = [
       "summary": "Seventeen groups of ten and seventeen groups of two make seventeen groups of twelve.",
       "hint": "Multiply both parts by the number of bags."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

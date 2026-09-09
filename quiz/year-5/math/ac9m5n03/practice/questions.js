@@ -21,7 +21,7 @@ window.skillrPracticeQuestions = [
       "None of these choices."
     ],
     "difficulty": 1,
-    "difficultyTier": "recognise_apply",
+    "difficultyTier": "basic",
     "sequencePriority": 1,
     "correct": 0,
     "explanation": "3/6 < 4/6 < 6/6, and 6/6 is one whole. The other choices fall outside these limits.\nHint: Keep the denominator fixed and compare numerators.",
@@ -52,7 +52,7 @@ window.skillrPracticeQuestions = [
       "None of these choices."
     ],
     "difficulty": 1,
-    "difficultyTier": "recognise_apply",
+    "difficultyTier": "basic",
     "sequencePriority": 1,
     "correct": 1,
     "explanation": "19 eighths contains two wholes (16 eighths) and 3 eighths, giving 2 3/8.\nHint: Divide the numerator by the denominator.",
@@ -83,7 +83,7 @@ window.skillrPracticeQuestions = [
       "2/10"
     ],
     "difficulty": 1,
-    "difficultyTier": "recognise_apply",
+    "difficultyTier": "basic",
     "sequencePriority": 1,
     "correct": 2,
     "explanation": "Split each fifth into two equal parts: multiply numerator and denominator by 2.\nHint: Change both numerator and denominator by the same factor.",
@@ -114,7 +114,7 @@ window.skillrPracticeQuestions = [
       "5/6 > 3/6"
     ],
     "difficulty": 1,
-    "difficultyTier": "recognise_apply",
+    "difficultyTier": "basic",
     "sequencePriority": 1,
     "correct": 3,
     "explanation": "With equal sixths, five pieces is more than three. In the other comparisons the proposed signs are reversed.\nHint: Rename unlike parts before comparing.",
@@ -145,7 +145,7 @@ window.skillrPracticeQuestions = [
       "32/5"
     ],
     "difficulty": 1,
-    "difficultyTier": "recognise_apply",
+    "difficultyTier": "basic",
     "sequencePriority": 1,
     "correct": 0,
     "explanation": "Three wholes is 15 fifths; add two fifths to get 17/5.\nHint: Multiply the whole part by the denominator, then add the numerator.",
@@ -176,7 +176,7 @@ window.skillrPracticeQuestions = [
       "1 3/4"
     ],
     "difficulty": 1,
-    "difficultyTier": "recognise_apply",
+    "difficultyTier": "basic",
     "sequencePriority": 1,
     "correct": 1,
     "explanation": "Two quarter-length intervals after 1 give 1 2/4 = 1 1/2.\nHint: Count intervals, not endpoint marks.",
@@ -207,7 +207,7 @@ window.skillrPracticeQuestions = [
       "1/6"
     ],
     "difficulty": 1,
-    "difficultyTier": "recognise_apply",
+    "difficultyTier": "basic",
     "sequencePriority": 1,
     "correct": 2,
     "explanation": "Two of six equal pieces give 2/6 = 1/3.\nHint: Identify the whole before counting parts.",
@@ -238,7 +238,7 @@ window.skillrPracticeQuestions = [
       "1/4, 3/8, 1/2"
     ],
     "difficulty": 1,
-    "difficultyTier": "recognise_apply",
+    "difficultyTier": "basic",
     "sequencePriority": 1,
     "correct": 3,
     "explanation": "In eighths the fractions are 2/8, 3/8 and 4/8.\nHint: Choose a common denominator related to all three.",
@@ -268,9 +268,9 @@ window.skillrPracticeQuestions = [
       "The fractions are equal because their numerators agree.",
       "Four is always greater than eight in a fraction."
     ],
-    "difficulty": 3,
-    "difficultyTier": "reasoning",
-    "sequencePriority": 2,
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Each quarter is two eighths, so three quarters equals six eighths, more than three eighths.\nHint: Compare the size of one piece first.",
     "structuredExplanation": {
@@ -299,9 +299,9 @@ window.skillrPracticeQuestions = [
       "The wall shows 2/3 but a line cannot show fractions.",
       "The wall and line must use different numerical values."
     ],
-    "difficulty": 3,
-    "difficultyTier": "reasoning",
-    "sequencePriority": 2,
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "Both represent the same fraction, using a region or a position relative to the unit.\nHint: Distinguish a shaded region from a point's distance from zero.",
     "structuredExplanation": {
@@ -330,9 +330,9 @@ window.skillrPracticeQuestions = [
       "Each fifth has been split into two tenths without changing the distance.",
       "The numerator 6 is twice 3, so the second point is twice as far along."
     ],
-    "difficulty": 3,
-    "difficultyTier": "reasoning",
-    "sequencePriority": 2,
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "3/5 = 6/10, so both points are the same distance from zero on equally scaled lines.\nHint: Check both equal value and equal scale.",
     "structuredExplanation": {
@@ -361,9 +361,9 @@ window.skillrPracticeQuestions = [
       "The answer should be 21/4 because the digits join.",
       "Two wholes contain 8 quarters, so the total is 9 quarters."
     ],
-    "difficulty": 3,
-    "difficultyTier": "reasoning",
-    "sequencePriority": 2,
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1,
     "correct": 3,
     "explanation": "2 1/4 = 8/4 + 1/4 = 9/4.\nHint: Express the whole part in the denominator's unit.",
     "structuredExplanation": {
@@ -392,8 +392,8 @@ window.skillrPracticeQuestions = [
       "The values are equal because their denominators match.",
       "4 1/8 is smaller because eighths are small."
     ],
-    "difficulty": 3,
-    "difficultyTier": "reasoning",
+    "difficulty": 2,
+    "difficultyTier": "medium",
     "sequencePriority": 2,
     "correct": 0,
     "explanation": "The whole-number boundary of 4 settles the comparison without renaming the parts.\nHint: Compare whole-number parts before fractional parts.",
@@ -423,8 +423,8 @@ window.skillrPracticeQuestions = [
       "It stays 1/2 because the design did not change.",
       "It changes from 1/2 to 1."
     ],
-    "difficulty": 3,
-    "difficultyTier": "reasoning",
+    "difficulty": 2,
+    "difficultyTier": "medium",
     "sequencePriority": 2,
     "correct": 1,
     "explanation": "The physical design stays the same, but it is a smaller fraction of a larger whole: 3/6 versus 3/12.\nHint: Recount how many equal pieces now make one whole.",
@@ -454,8 +454,8 @@ window.skillrPracticeQuestions = [
       "The pieces were halved in size, but the number of pieces was not doubled.",
       "The numerator must always stay the same."
     ],
-    "difficulty": 3,
-    "difficultyTier": "reasoning",
+    "difficulty": 2,
+    "difficultyTier": "medium",
     "sequencePriority": 2,
     "correct": 2,
     "explanation": "2/3 equals 4/6. Keeping only two of the smaller pieces gives half the original amount.\nHint: Preserve the shaded amount when subdividing.",
@@ -485,8 +485,8 @@ window.skillrPracticeQuestions = [
       "Seven pieces must be less than two pieces.",
       "2/3 = 8/12, and 7/12 < 8/12."
     ],
-    "difficulty": 3,
-    "difficultyTier": "reasoning",
+    "difficulty": 2,
+    "difficultyTier": "medium",
     "sequencePriority": 2,
     "correct": 3,
     "explanation": "Renaming thirds as twelfths creates equal-sized parts for a valid comparison.\nHint: Multiply both parts of 2/3 by 4.",
@@ -516,9 +516,9 @@ window.skillrPracticeQuestions = [
       "6/8 cup",
       "7/8 cup"
     ],
-    "difficulty": 5,
-    "difficultyTier": "transfer_challenge",
-    "sequencePriority": 3,
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "The boundaries are 4/8 and 6/8. Only 5/8 lies strictly between them.\nHint: Rewrite the bounds using the cup's denominator.",
     "structuredExplanation": {
@@ -547,9 +547,9 @@ window.skillrPracticeQuestions = [
       "13/6 km",
       "7/6 km"
     ],
-    "difficulty": 5,
-    "difficultyTier": "transfer_challenge",
-    "sequencePriority": 3,
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Two kilometres is 12 sixths and one third is 2 sixths, totalling 14 sixths.\nHint: Convert both the whole part and fractional part to sixths.",
     "structuredExplanation": {
@@ -578,9 +578,9 @@ window.skillrPracticeQuestions = [
       "4/3",
       "3/4"
     ],
-    "difficulty": 5,
-    "difficultyTier": "transfer_challenge",
-    "sequencePriority": 3,
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "Each rhombus is one third of the chosen whole, so four make four thirds.\nHint: One whole need not be one physical piece.",
     "structuredExplanation": {
@@ -609,9 +609,9 @@ window.skillrPracticeQuestions = [
       "A half of any strip is always shorter than three quarters of any other.",
       "The shaded lengths depend on the different whole lengths."
     ],
-    "difficulty": 5,
-    "difficultyTier": "transfer_challenge",
-    "sequencePriority": 3,
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2,
     "correct": 3,
     "explanation": "For visual comparison of fraction values, use equally sized wholes; different physical wholes can reverse shaded-length order.\nHint: Check the unit before comparing the shaded parts.",
     "structuredExplanation": {
@@ -640,9 +640,9 @@ window.skillrPracticeQuestions = [
       "1 5/6 is largest; all three are different.",
       "All three are equal."
     ],
-    "difficulty": 5,
-    "difficultyTier": "transfer_challenge",
-    "sequencePriority": 3,
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2,
     "correct": 0,
     "explanation": "1 3/6 = 9/6 and 1 5/6 = 11/6.\nHint: Rename the mixed numerals into sixths.",
     "structuredExplanation": {
@@ -671,9 +671,9 @@ window.skillrPracticeQuestions = [
       "3/4",
       "1/8"
     ],
-    "difficulty": 5,
-    "difficultyTier": "transfer_challenge",
-    "sequencePriority": 3,
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "The span is 1/2; each interval is 1/8. Add 1/8 to 4/8.\nHint: The whole line segment shown need not be one whole unit.",
     "structuredExplanation": {
@@ -702,9 +702,9 @@ window.skillrPracticeQuestions = [
       "7/8 = 14/16, which is greater than 13/16.",
       "7/8 is greater than 3/4, so it must lie between."
     ],
-    "difficulty": 5,
-    "difficultyTier": "transfer_challenge",
-    "sequencePriority": 3,
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2,
     "correct": 2,
     "explanation": "The upper-bound check fails: 14/16 exceeds 13/16.\nHint: To be between, a fraction must satisfy both bounds.",
     "structuredExplanation": {
@@ -733,9 +733,9 @@ window.skillrPracticeQuestions = [
       "15/6",
       "15/18"
     ],
-    "difficulty": 5,
-    "difficultyTier": "transfer_challenge",
-    "sequencePriority": 3,
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2,
     "correct": 3,
     "explanation": "There are now 18 tiles per whole, with 15 covered; the covered area is unchanged.\nHint: Multiply covered parts and total parts by the same factor.",
     "structuredExplanation": {
@@ -743,6 +743,605 @@ window.skillrPracticeQuestions = [
       "hint": "Multiply covered parts and total parts by the same factor."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n03-p-025",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "compare fractions",
+    "printable": true,
+    "type": "single",
+    "question": "Which fraction is greatest?",
+    "audioPrompt": "Which fraction is greatest?",
+    "answers": [
+      "7/8",
+      "5/6",
+      "11/14"
+    ],
+    "correct": 0,
+    "explanation": "Using a common denominator or decimals shows 7/8 = 0.875, greater than the others.",
+    "structuredExplanation": {
+      "summary": "Using a common denominator or decimals shows 7/8 = 0.875, greater than the others.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-026",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "order fractions",
+    "printable": true,
+    "type": "single",
+    "question": "Which order is correct?",
+    "audioPrompt": "Which order is correct?",
+    "answers": [
+      "3/5 < 5/8 < 2/3",
+      "5/8 < 3/5 < 2/3",
+      "2/3 < 5/8 < 3/5"
+    ],
+    "correct": 0,
+    "explanation": "Using denominator 120 gives 72/120 < 75/120 < 80/120.",
+    "structuredExplanation": {
+      "summary": "Using denominator 120 gives 72/120 < 75/120 < 80/120.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-027",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "equivalence",
+    "printable": true,
+    "type": "single",
+    "question": "Which fraction is equivalent to 9/12?",
+    "audioPrompt": "Which fraction is equivalent to 9/12?",
+    "answers": [
+      "3/4",
+      "6/8 only",
+      "both 3/4 and 6/8"
+    ],
+    "correct": 2,
+    "explanation": "Both 9/12 and 6/8 simplify to 3/4.",
+    "structuredExplanation": {
+      "summary": "Both 9/12 and 6/8 simplify to 3/4.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-028",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "fraction number line",
+    "printable": true,
+    "type": "single",
+    "question": "A point is halfway between 1/2 and 3/4 on a number line. What fraction is it?",
+    "audioPrompt": "A point is halfway between 1/2 and 3/4 on a number line. What fraction is it?",
+    "answers": [
+      "5/8",
+      "2/3",
+      "7/8"
+    ],
+    "correct": 0,
+    "explanation": "Halfway between 4/8 and 6/8 is 5/8.",
+    "structuredExplanation": {
+      "summary": "Halfway between 4/8 and 6/8 is 5/8.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-029",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "mixed-number comparison",
+    "printable": true,
+    "type": "single",
+    "question": "Which mixed numeral is greater than 2 3/5 but less than 2 3/4?",
+    "audioPrompt": "Which mixed numeral is greater than 2 3/5 but less than 2 3/4?",
+    "answers": [
+      "2 2/3",
+      "2 1/2",
+      "2 4/5"
+    ],
+    "correct": 0,
+    "explanation": "2/3 is between 3/5 and 3/4.",
+    "structuredExplanation": {
+      "summary": "2/3 is between 3/5 and 3/4.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-030",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "error analysis",
+    "printable": true,
+    "type": "single",
+    "question": "A student says 5/9 > 5/7 because 9 is larger. What is wrong?",
+    "audioPrompt": "A student says 5/9 > 5/7 because 9 is larger. What is wrong?",
+    "answers": [
+      "With equal numerators, the fraction with the smaller denominator is larger",
+      "Larger denominators always make larger fractions",
+      "The fractions are equal"
+    ],
+    "correct": 0,
+    "explanation": "Seven equal parts are larger than nine equal parts, so 5/7 > 5/9.",
+    "structuredExplanation": {
+      "summary": "Seven equal parts are larger than nine equal parts, so 5/7 > 5/9.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-031",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "benchmark fraction",
+    "printable": true,
+    "type": "single",
+    "question": "Which fraction is closest to 1?",
+    "audioPrompt": "Which fraction is closest to 1?",
+    "answers": [
+      "11/12",
+      "7/8",
+      "5/6"
+    ],
+    "correct": 0,
+    "explanation": "11/12 is only 1/12 below 1, a smaller gap than the others.",
+    "structuredExplanation": {
+      "summary": "11/12 is only 1/12 below 1, a smaller gap than the others.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-032",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "mixed numbers",
+    "printable": true,
+    "type": "single",
+    "question": "Which comparison is true?",
+    "audioPrompt": "Which comparison is true?",
+    "answers": [
+      "1 5/6 > 1 4/5",
+      "1 5/6 < 1 4/5",
+      "1 5/6 = 1 4/5"
+    ],
+    "correct": 0,
+    "explanation": "The wholes match; 5/6 = 25/30 and 4/5 = 24/30.",
+    "structuredExplanation": {
+      "summary": "The wholes match; 5/6 = 25/30 and 4/5 = 24/30.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-033",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "context comparison",
+    "printable": true,
+    "type": "single",
+    "question": "Four runners completed 2/3, 3/4, 5/6 and 7/9 of a course. Who completed the largest fraction?",
+    "audioPrompt": "Four runners completed 2/3, 3/4, 5/6 and 7/9 of a course. Who completed the largest fraction?",
+    "answers": [
+      "5/6",
+      "7/9",
+      "3/4"
+    ],
+    "correct": 0,
+    "explanation": "5/6 is about 0.833, larger than 7/9≈0.778 and 3/4=0.75.",
+    "structuredExplanation": {
+      "summary": "5/6 is about 0.833, larger than 7/9≈0.778 and 3/4=0.75.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-034",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "fraction interval",
+    "printable": true,
+    "type": "single",
+    "question": "Which fraction lies between 4/7 and 5/7?",
+    "audioPrompt": "Which fraction lies between 4/7 and 5/7?",
+    "answers": [
+      "9/14",
+      "3/7",
+      "11/14"
+    ],
+    "correct": 0,
+    "explanation": "4/7 = 8/14 and 5/7 = 10/14, so 9/14 lies between.",
+    "structuredExplanation": {
+      "summary": "4/7 = 8/14 and 5/7 = 10/14, so 9/14 lies between.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-035",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "missing equivalent",
+    "printable": true,
+    "type": "single",
+    "question": "A fraction equal to 3/4 has denominator 28. What is its numerator?",
+    "audioPrompt": "A fraction equal to 3/4 has denominator 28. What is its numerator?",
+    "answers": [
+      "21",
+      "24",
+      "18"
+    ],
+    "correct": 0,
+    "explanation": "Multiplying 4 by 7 requires multiplying 3 by 7: 21/28.",
+    "structuredExplanation": {
+      "summary": "Multiplying 4 by 7 requires multiplying 3 by 7: 21/28.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-036",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "fraction equality",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement about 6/8 and 9/12 is correct?",
+    "audioPrompt": "Which statement about 6/8 and 9/12 is correct?",
+    "answers": [
+      "They are equal",
+      "6/8 is greater",
+      "9/12 is greater"
+    ],
+    "correct": 0,
+    "explanation": "Both simplify to 3/4.",
+    "structuredExplanation": {
+      "summary": "Both simplify to 3/4.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5n03-p-037",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "mixed order",
+    "printable": true,
+    "type": "single",
+    "question": "Order from least to greatest: 1 1/3, 7/6, 1 1/4.",
+    "audioPrompt": "Order from least to greatest: 1 1/3, 7/6, 1 1/4.",
+    "answers": [
+      "7/6, 1 1/4, 1 1/3",
+      "1 1/4, 7/6, 1 1/3",
+      "7/6, 1 1/3, 1 1/4"
+    ],
+    "correct": 0,
+    "explanation": "7/6=1 1/6, then 1 1/4, then 1 1/3.",
+    "structuredExplanation": {
+      "summary": "7/6=1 1/6, then 1 1/4, then 1 1/3.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-038",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "fraction interval",
+    "printable": true,
+    "type": "single",
+    "question": "Which fraction is more than 3/5 but less than 2/3?",
+    "audioPrompt": "Which fraction is more than 3/5 but less than 2/3?",
+    "answers": [
+      "5/8",
+      "7/10",
+      "1/2"
+    ],
+    "correct": 0,
+    "explanation": "3/5=0.6, 5/8=0.625 and 2/3≈0.667.",
+    "structuredExplanation": {
+      "summary": "3/5=0.6, 5/8=0.625 and 2/3≈0.667.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-039",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "model equivalence",
+    "printable": true,
+    "type": "single",
+    "question": "A shaded model shows 10 of 15 equal parts. Which fraction with denominator 6 represents the same amount?",
+    "audioPrompt": "A shaded model shows 10 of 15 equal parts. Which fraction with denominator 6 represents the same amount?",
+    "answers": [
+      "4/6",
+      "5/6",
+      "3/6"
+    ],
+    "correct": 0,
+    "explanation": "10/15 simplifies to 2/3, which equals 4/6.",
+    "structuredExplanation": {
+      "summary": "10/15 simplifies to 2/3, which equals 4/6.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-040",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "common denominator",
+    "printable": true,
+    "type": "single",
+    "question": "Two fractions have denominator 24. One is equivalent to 2/3 and one to 3/4. What are their numerators?",
+    "audioPrompt": "Two fractions have denominator 24. One is equivalent to 2/3 and one to 3/4. What are their numerators?",
+    "answers": [
+      "16 and 18",
+      "12 and 18",
+      "16 and 20"
+    ],
+    "correct": 0,
+    "explanation": "2/3=16/24 and 3/4=18/24.",
+    "structuredExplanation": {
+      "summary": "2/3=16/24 and 3/4=18/24.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-041",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "justify comparison",
+    "printable": true,
+    "type": "single",
+    "question": "Which is the strongest reason that 7/10 > 2/3?",
+    "audioPrompt": "Which is the strongest reason that 7/10 > 2/3?",
+    "answers": [
+      "21/30 > 20/30",
+      "10 > 3",
+      "7 > 2"
+    ],
+    "correct": 0,
+    "explanation": "Renaming both with denominator 30 compares equal-sized parts.",
+    "structuredExplanation": {
+      "summary": "Renaming both with denominator 30 compares equal-sized parts.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-042",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "number-line reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "A number line has marks at 0, 1/4, 1/2, 3/4 and 1. Where would 5/8 lie?",
+    "audioPrompt": "A number line has marks at 0, 1/4, 1/2, 3/4 and 1. Where would 5/8 lie?",
+    "answers": [
+      "Halfway between 1/2 and 3/4",
+      "between 1/4 and 1/2",
+      "above 3/4"
+    ],
+    "correct": 0,
+    "explanation": "1/2=4/8 and 3/4=6/8, so 5/8 is halfway.",
+    "structuredExplanation": {
+      "summary": "1/2=4/8 and 3/4=6/8, so 5/8 is halfway.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-043",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "mixed conversion",
+    "printable": true,
+    "type": "single",
+    "question": "Which mixed numeral equals 13/5?",
+    "audioPrompt": "Which mixed numeral equals 13/5?",
+    "answers": [
+      "2 3/5",
+      "3 2/5",
+      "2 2/5"
+    ],
+    "correct": 0,
+    "explanation": "13 ÷5 is 2 remainder 3, giving 2 3/5.",
+    "structuredExplanation": {
+      "summary": "13 ÷5 is 2 remainder 3, giving 2 3/5.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-044",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "error analysis",
+    "printable": true,
+    "type": "single",
+    "question": "A student places 4/6 to the right of 3/4 on a number line. What correction is needed?",
+    "audioPrompt": "A student places 4/6 to the right of 3/4 on a number line. What correction is needed?",
+    "answers": [
+      "4/6 = 2/3, so it should be left of 3/4",
+      "4/6 is greater because 6 > 4",
+      "The placement is correct"
+    ],
+    "correct": 0,
+    "explanation": "2/3≈0.667 is less than 0.75.",
+    "structuredExplanation": {
+      "summary": "2/3≈0.667 is less than 0.75.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-045",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "close fractions",
+    "printable": true,
+    "type": "single",
+    "question": "Which pair has the smaller difference in value?",
+    "audioPrompt": "Which pair has the smaller difference in value?",
+    "answers": [
+      "5/6 and 4/5",
+      "3/4 and 2/3",
+      "7/8 and 3/4"
+    ],
+    "correct": 0,
+    "explanation": "5/6−4/5 = 1/30, smaller than 1/12 or 1/8.",
+    "structuredExplanation": {
+      "summary": "5/6−4/5 = 1/30, smaller than 1/12 or 1/8.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-046",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "multi-comparison",
+    "printable": true,
+    "type": "single",
+    "question": "Three fractions are all greater than 1/2. Which is smallest?",
+    "audioPrompt": "Three fractions are all greater than 1/2. Which is smallest?",
+    "answers": [
+      "5/9",
+      "4/7",
+      "7/12"
+    ],
+    "correct": 0,
+    "explanation": "5/9≈0.556, 4/7≈0.571, 7/12≈0.583.",
+    "structuredExplanation": {
+      "summary": "5/9≈0.556, 4/7≈0.571, 7/12≈0.583.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-047",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "context mixed numbers",
+    "printable": true,
+    "type": "single",
+    "question": "A recipe uses 1 2/3 cups in one batch and 1 3/5 cups in another. Which uses more?",
+    "audioPrompt": "A recipe uses 1 2/3 cups in one batch and 1 3/5 cups in another. Which uses more?",
+    "answers": [
+      "1 2/3 cups",
+      "1 3/5 cups",
+      "They are equal"
+    ],
+    "correct": 0,
+    "explanation": "2/3=10/15 and 3/5=9/15, so 1 2/3 is larger.",
+    "structuredExplanation": {
+      "summary": "2/3=10/15 and 3/5=9/15, so 1 2/3 is larger.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5n03-p-048",
+    "curriculumCode": "AC9M5N03",
+    "bank": "practice",
+    "skill": "generalisation",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement is always valid when comparing fractions with the same positive denominator?",
+    "audioPrompt": "Which statement is always valid when comparing fractions with the same positive denominator?",
+    "answers": [
+      "The larger numerator gives the larger fraction",
+      "The larger denominator gives the larger fraction",
+      "They are always equal"
+    ],
+    "correct": 0,
+    "explanation": "With equal-sized parts, more parts means a larger amount.",
+    "structuredExplanation": {
+      "summary": "With equal-sized parts, more parts means a larger amount.",
+      "hint": "Make sure the fractions refer to the same whole, then use equivalence or a benchmark."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

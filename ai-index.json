@@ -29,6 +29,7 @@
       "Year 3 English",
       "Year 4 Mathematics",
       "Year 4 Science",
+      "Year 5 Mathematics",
       "Year 5 Science"
     ],
     "status_page": "https://skillrhub.com/editorial-standards.html#verified-status"
@@ -172,7 +173,7 @@
     "Use /sitemap.xml for exhaustive discovery.",
     "Use year/subject hubs and canonical topic guides for detailed curriculum pages."
   ],
-  "last_updated": "2026-09-07",
+  "last_updated": "2026-09-09",
   "international_ai_discovery": {
     "priority_markets": [
       "India",

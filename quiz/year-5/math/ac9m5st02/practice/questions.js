@@ -27,7 +27,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-002",
@@ -56,7 +59,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-003",
@@ -85,7 +91,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-004",
@@ -114,7 +123,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-005",
@@ -143,7 +155,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-006",
@@ -172,7 +187,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-007",
@@ -201,7 +219,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-008",
@@ -230,7 +251,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-009",
@@ -259,7 +283,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-010",
@@ -288,7 +315,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-011",
@@ -317,7 +347,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-012",
@@ -346,7 +379,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5st02-p-013",
@@ -375,7 +411,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-014",
@@ -404,7 +443,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-015",
@@ -433,7 +475,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-016",
@@ -462,7 +507,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-017",
@@ -491,7 +539,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-018",
@@ -520,7 +571,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-019",
@@ -549,7 +603,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-020",
@@ -578,7 +635,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-021",
@@ -607,7 +667,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-022",
@@ -636,7 +699,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-023",
@@ -665,7 +731,10 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5st02-p-024",
@@ -694,7 +763,609 @@ window.skillrPracticeQuestions = [
       "summary": "Change is found by comparing the final value with the starting value and keeping the direction.",
       "hint": "Read the scale, calculate the difference and state whether it rose or fell."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
+  },
+  {
+    "id": "ac9m5st02-p-025",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "line graph interval",
+    "printable": true,
+    "type": "single",
+    "question": "A line graph records temperature at 9 am 18°C, 10 am 21°C, 11 am 21°C and noon 25°C. During which interval was there no change?",
+    "audioPrompt": "A line graph records temperature at 9 am 18°C, 10 am 21°C, 11 am 21°C and noon 25°C. During which interval was there no change?",
+    "answers": [
+      "10 am–11 am",
+      "9 am–10 am",
+      "11 am–noon"
+    ],
+    "correct": 0,
+    "explanation": "Both endpoints of the 10–11 interval are 21°C.",
+    "structuredExplanation": {
+      "summary": "Both endpoints of the 10–11 interval are 21°C.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-026",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "change from graph",
+    "printable": true,
+    "type": "single",
+    "question": "Using values 12, 17, 15 and 20 over four consecutive days, what is the greatest one-day increase?",
+    "audioPrompt": "Using values 12, 17, 15 and 20 over four consecutive days, what is the greatest one-day increase?",
+    "answers": [
+      "5",
+      "3",
+      "8"
+    ],
+    "correct": 0,
+    "explanation": "Changes are +5, −2 and +5, so the greatest increase is 5.",
+    "structuredExplanation": {
+      "summary": "Changes are +5, −2 and +5, so the greatest increase is 5.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-027",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "graph change",
+    "printable": true,
+    "type": "single",
+    "question": "A line graph rises from 40 to 55 over an interval. What is the change?",
+    "audioPrompt": "A line graph rises from 40 to 55 over an interval. What is the change?",
+    "answers": [
+      "increase of 15",
+      "decrease of 15",
+      "increase of 95"
+    ],
+    "correct": 0,
+    "explanation": "55−40=15.",
+    "structuredExplanation": {
+      "summary": "55−40=15.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-028",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "graph scale",
+    "printable": true,
+    "type": "single",
+    "question": "A graph has y-axis labels 0, 10, 20, 30 with one minor line halfway. What value does the minor line between 20 and 30 represent?",
+    "audioPrompt": "A graph has y-axis labels 0, 10, 20, 30 with one minor line halfway. What value does the minor line between 20 and 30 represent?",
+    "answers": [
+      "25",
+      "21",
+      "15"
+    ],
+    "correct": 0,
+    "explanation": "Halfway between 20 and 30 is 25.",
+    "structuredExplanation": {
+      "summary": "Halfway between 20 and 30 is 25.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-029",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "trend interpretation",
+    "printable": true,
+    "type": "single",
+    "question": "Plant heights over weeks are 6, 9, 14, 14, 17 cm. Which statement is supported?",
+    "audioPrompt": "Plant heights over weeks are 6, 9, 14, 14, 17 cm. Which statement is supported?",
+    "answers": [
+      "Growth paused between weeks 3 and 4",
+      "The plant shrank in week 4",
+      "Growth was constant every week"
+    ],
+    "correct": 0,
+    "explanation": "The height stayed at 14 cm across that interval.",
+    "structuredExplanation": {
+      "summary": "The height stayed at 14 cm across that interval.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-030",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "compare series",
+    "printable": true,
+    "type": "single",
+    "question": "Two line graphs show Class A attendance 24,25,23 and Class B 20,24,26 over three days. On which day was B higher?",
+    "audioPrompt": "Two line graphs show Class A attendance 24,25,23 and Class B 20,24,26 over three days. On which day was B higher?",
+    "answers": [
+      "day 3",
+      "day 1",
+      "day 2"
+    ],
+    "correct": 0,
+    "explanation": "On day 3, 26 > 23; on the earlier days A was higher.",
+    "structuredExplanation": {
+      "summary": "On day 3, 26 > 23; on the earlier days A was higher.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-031",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "maximum",
+    "printable": true,
+    "type": "single",
+    "question": "A line graph shows rainfall 3, 8, 2, 11 mm over four days. Which day is the peak?",
+    "audioPrompt": "A line graph shows rainfall 3, 8, 2, 11 mm over four days. Which day is the peak?",
+    "answers": [
+      "day 4",
+      "day 2",
+      "day 1"
+    ],
+    "correct": 0,
+    "explanation": "11 mm is the highest plotted value.",
+    "structuredExplanation": {
+      "summary": "11 mm is the highest plotted value.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-032",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "decrease",
+    "printable": true,
+    "type": "single",
+    "question": "A graph falls from 72 to 58. By how much did the value decrease?",
+    "audioPrompt": "A graph falls from 72 to 58. By how much did the value decrease?",
+    "answers": [
+      "14",
+      "130",
+      "24"
+    ],
+    "correct": 0,
+    "explanation": "72−58=14.",
+    "structuredExplanation": {
+      "summary": "72−58=14.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-033",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "conclusion critique",
+    "printable": true,
+    "type": "single",
+    "question": "A student says a rising line proves one variable caused the other. What is the best correction?",
+    "audioPrompt": "A student says a rising line proves one variable caused the other. What is the best correction?",
+    "answers": [
+      "The graph shows an association or change, not necessarily cause",
+      "Any rising line proves causation",
+      "Line graphs cannot show relationships"
+    ],
+    "correct": 0,
+    "explanation": "A line graph supports description of patterns but not an unsupported causal claim.",
+    "structuredExplanation": {
+      "summary": "A line graph supports description of patterns but not an unsupported causal claim.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-034",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "interpolation caution",
+    "printable": true,
+    "type": "single",
+    "question": "A graph records observations only at 1 pm and 3 pm. What should you avoid claiming about 2 pm?",
+    "audioPrompt": "A graph records observations only at 1 pm and 3 pm. What should you avoid claiming about 2 pm?",
+    "answers": [
+      "That the exact 2 pm value was measured",
+      "That the endpoints were measured",
+      "That the line connects the plotted points"
+    ],
+    "correct": 0,
+    "explanation": "A connecting segment does not mean an intermediate value was directly observed.",
+    "structuredExplanation": {
+      "summary": "A connecting segment does not mean an intermediate value was directly observed.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-035",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "trend language",
+    "printable": true,
+    "type": "single",
+    "question": "Values are 50, 47, 47, 60 across four times. Which trend description is most accurate?",
+    "audioPrompt": "Values are 50, 47, 47, 60 across four times. Which trend description is most accurate?",
+    "answers": [
+      "decrease, stable, then sharp increase",
+      "steady increase throughout",
+      "steady decrease throughout"
+    ],
+    "correct": 0,
+    "explanation": "The sequence falls, stays equal, then rises by 13.",
+    "structuredExplanation": {
+      "summary": "The sequence falls, stays equal, then rises by 13.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-036",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "scale critique",
+    "printable": true,
+    "type": "single",
+    "question": "A line graph begins its vertical axis at 95 rather than 0. What should a reader do?",
+    "audioPrompt": "A line graph begins its vertical axis at 95 rather than 0. What should a reader do?",
+    "answers": [
+      "Read the scale carefully because visual changes may look exaggerated",
+      "Assume the highest point doubled",
+      "Ignore the axis labels"
+    ],
+    "correct": 0,
+    "explanation": "A truncated axis can change visual impression without changing actual differences.",
+    "structuredExplanation": {
+      "summary": "A truncated axis can change visual impression without changing actual differences.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
+  },
+  {
+    "id": "ac9m5st02-p-037",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "interpret stable segment",
+    "printable": true,
+    "type": "single",
+    "question": "A cyclist’s distances from home are 0, 4, 9, 9, 6 km at hourly times. When was the cyclist stationary relative to home?",
+    "audioPrompt": "A cyclist’s distances from home are 0, 4, 9, 9, 6 km at hourly times. When was the cyclist stationary relative to home?",
+    "answers": [
+      "between the third and fourth readings",
+      "between the first and second",
+      "between the fourth and fifth"
+    ],
+    "correct": 0,
+    "explanation": "The distance remained 9 km across the third-to-fourth interval.",
+    "structuredExplanation": {
+      "summary": "The distance remained 9 km across the third-to-fourth interval.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-038",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "compare overall change",
+    "printable": true,
+    "type": "single",
+    "question": "Two series start at 10. Series A ends at 18; Series B ends at 15. Which increased more overall?",
+    "audioPrompt": "Two series start at 10. Series A ends at 18; Series B ends at 15. Which increased more overall?",
+    "answers": [
+      "Series A by 3 more units",
+      "Series B by 3 more units",
+      "Both increased equally"
+    ],
+    "correct": 0,
+    "explanation": "A rises 8; B rises 5, a difference of 3.",
+    "structuredExplanation": {
+      "summary": "A rises 8; B rises 5, a difference of 3.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-039",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "missing data reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "A graph has a missing point between values 12 and 18. Can the exact missing value be known from those neighbours alone?",
+    "audioPrompt": "A graph has a missing point between values 12 and 18. Can the exact missing value be known from those neighbours alone?",
+    "answers": [
+      "No, not without an additional rule or observation",
+      "Yes, it must be 15",
+      "Yes, it must equal 12"
+    ],
+    "correct": 0,
+    "explanation": "A line segment does not guarantee the missing observation is the midpoint.",
+    "structuredExplanation": {
+      "summary": "A line segment does not guarantee the missing observation is the midpoint.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-040",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "overall change",
+    "printable": true,
+    "type": "single",
+    "question": "A graph shows 30 at Monday, 45 Tuesday, 35 Wednesday and 50 Thursday. What is the total change Monday to Thursday?",
+    "audioPrompt": "A graph shows 30 at Monday, 45 Tuesday, 35 Wednesday and 50 Thursday. What is the total change Monday to Thursday?",
+    "answers": [
+      "increase of 20",
+      "increase of 50",
+      "decrease of 20"
+    ],
+    "correct": 0,
+    "explanation": "50−30=20.",
+    "structuredExplanation": {
+      "summary": "50−30=20.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-041",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "graph construction",
+    "printable": true,
+    "type": "single",
+    "question": "Which title best suits a line graph of a seedling’s height measured each week?",
+    "audioPrompt": "Which title best suits a line graph of a seedling’s height measured each week?",
+    "answers": [
+      "Seedling height over time",
+      "Favourite seedling colours",
+      "Number of classrooms"
+    ],
+    "correct": 0,
+    "explanation": "The title should identify the measured variable and time context.",
+    "structuredExplanation": {
+      "summary": "The title should identify the measured variable and time context.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-042",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "graph design",
+    "printable": true,
+    "type": "single",
+    "question": "Why must equally spaced time labels represent the intended time intervals?",
+    "audioPrompt": "Why must equally spaced time labels represent the intended time intervals?",
+    "answers": [
+      "Otherwise the line’s slope can visually misrepresent rate of change",
+      "Spacing never matters",
+      "Only the title matters"
+    ],
+    "correct": 0,
+    "explanation": "Horizontal spacing contributes to the visual meaning of change over time.",
+    "structuredExplanation": {
+      "summary": "Horizontal spacing contributes to the visual meaning of change over time.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-043",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "pattern in line data",
+    "printable": true,
+    "type": "single",
+    "question": "A graph’s values rise 5, 10, 20, 40. Which statement is safer than “the values increase by 10 each time”?",
+    "audioPrompt": "A graph’s values rise 5, 10, 20, 40. Which statement is safer than “the values increase by 10 each time”?",
+    "answers": [
+      "Each value doubles from the previous one",
+      "The increase is constant",
+      "The values are random"
+    ],
+    "correct": 0,
+    "explanation": "The sequence has a multiplicative pattern: ×2.",
+    "structuredExplanation": {
+      "summary": "The sequence has a multiplicative pattern: ×2.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-044",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "defensible conclusion",
+    "printable": true,
+    "type": "single",
+    "question": "Series A is above Series B at every plotted time. What conclusion is justified?",
+    "audioPrompt": "Series A is above Series B at every plotted time. What conclusion is justified?",
+    "answers": [
+      "A had a greater recorded value at every plotted time",
+      "A caused B to be lower",
+      "A will always be greater in the future"
+    ],
+    "correct": 0,
+    "explanation": "The graph supports comparison at observed times, not causation or guaranteed future behaviour.",
+    "structuredExplanation": {
+      "summary": "The graph supports comparison at observed times, not causation or guaranteed future behaviour.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-045",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "rate from graph",
+    "printable": true,
+    "type": "single",
+    "question": "A line rises 6 units over 3 equal time intervals. If the increase was equal each interval, how much per interval?",
+    "audioPrompt": "A line rises 6 units over 3 equal time intervals. If the increase was equal each interval, how much per interval?",
+    "answers": [
+      "2 units",
+      "3 units",
+      "18 units"
+    ],
+    "correct": 0,
+    "explanation": "6÷3=2 units per interval.",
+    "structuredExplanation": {
+      "summary": "6÷3=2 units per interval.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-046",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "display choice",
+    "printable": true,
+    "type": "single",
+    "question": "Why might a line graph be unsuitable for favourite-colour categories?",
+    "audioPrompt": "Why might a line graph be unsuitable for favourite-colour categories?",
+    "answers": [
+      "The categories have no meaningful continuous order",
+      "Colours cannot be counted",
+      "Line graphs cannot contain labels"
+    ],
+    "correct": 0,
+    "explanation": "Connecting unordered categories can imply a trend that has no meaning.",
+    "structuredExplanation": {
+      "summary": "Connecting unordered categories can imply a trend that has no meaning.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-047",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "create line graph",
+    "printable": true,
+    "type": "single",
+    "question": "A table gives time 0,1,2,3 hours and values 4,7,7,12. Which point should be plotted at 2 hours?",
+    "audioPrompt": "A table gives time 0,1,2,3 hours and values 4,7,7,12. Which point should be plotted at 2 hours?",
+    "answers": [
+      "(2,7)",
+      "(7,2)",
+      "(2,12)"
+    ],
+    "correct": 0,
+    "explanation": "Time is the horizontal coordinate and the observed value 7 is vertical.",
+    "structuredExplanation": {
+      "summary": "Time is the horizontal coordinate and the observed value 7 is vertical.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
+  },
+  {
+    "id": "ac9m5st02-p-048",
+    "curriculumCode": "AC9M5ST02",
+    "bank": "practice",
+    "skill": "evidence-based report",
+    "printable": true,
+    "type": "single",
+    "question": "What makes a conclusion from a line graph strongest?",
+    "audioPrompt": "What makes a conclusion from a line graph strongest?",
+    "answers": [
+      "It cites specific plotted values or changes and stays within the data",
+      "It guesses a cause without evidence",
+      "It ignores the scale"
+    ],
+    "correct": 0,
+    "explanation": "A defensible conclusion links directly to graph evidence.",
+    "structuredExplanation": {
+      "summary": "A defensible conclusion links directly to graph evidence.",
+      "hint": "Read the axes and scale first, then support conclusions with values from the graph."
+    },
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

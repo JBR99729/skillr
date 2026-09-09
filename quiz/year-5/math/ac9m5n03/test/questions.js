@@ -26,7 +26,10 @@ window.skillrTestQuestions = [
       "summary": "3/5 = 6/10, so 7/10 is longer.",
       "hint": "Rename fifths as tenths."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n03-t-002",
@@ -54,7 +57,10 @@ window.skillrTestQuestions = [
       "summary": "23/4 = 5 3/4, between 5 and 6.",
       "hint": "Find how many groups of four fit into 23."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n03-t-003",
@@ -82,7 +88,10 @@ window.skillrTestQuestions = [
       "summary": "Six out of eight equal tiles gives 6/8 = 3/4.",
       "hint": "Count equal tiles relative to the chosen whole."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n03-t-004",
@@ -110,7 +119,10 @@ window.skillrTestQuestions = [
       "summary": "Four equal intervals make one whole unit, and the point lies three intervals from zero.",
       "hint": "The denominator names the subdivision of one unit."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n03-t-005",
@@ -138,7 +150,10 @@ window.skillrTestQuestions = [
       "summary": "4/6 = 8/12. Tank sizes matter for actual litres, not for comparing these fractional values.",
       "hint": "Separate fraction of capacity from volume in litres."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n03-t-006",
@@ -166,7 +181,10 @@ window.skillrTestQuestions = [
       "summary": "The fractional parts are 2/8, 5/8 and 4/8; 4/8 is between the other two.",
       "hint": "The whole parts agree, so compare eighths."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n03-t-007",
@@ -194,7 +212,10 @@ window.skillrTestQuestions = [
       "summary": "Three complete boxes equal 21 sevenths; four more sevenths gives 25.",
       "hint": "Count the denominator-sized parts in the whole boxes."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n03-t-008",
@@ -222,7 +243,10 @@ window.skillrTestQuestions = [
       "summary": "The selected whole contains twelve equal triangles.",
       "hint": "Count the pieces in the entire chosen whole."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n03-t-009",
@@ -250,7 +274,10 @@ window.skillrTestQuestions = [
       "summary": "3/4 is 6/8; increasing from 3/8 to 6/8 needs three more eighths.",
       "hint": "Rename the target before finding the missing pieces."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n03-t-010",
@@ -278,7 +305,10 @@ window.skillrTestQuestions = [
       "summary": "The first two gaps are 1/4 and the last is 1/2; equal numerical and spatial steps must agree.",
       "hint": "Compare differences between consecutive labels."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n03-t-011",
@@ -306,7 +336,10 @@ window.skillrTestQuestions = [
       "summary": "3 − 3/8 = 2 5/8.",
       "hint": "Count backward from the stated endpoint."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n03-t-012",
@@ -334,7 +367,10 @@ window.skillrTestQuestions = [
       "summary": "The limits are 8/12 and 10/12, so 9/12 is the only value strictly inside.",
       "hint": "Exclude values equal to the bounds."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n03-t-013",
@@ -362,7 +398,10 @@ window.skillrTestQuestions = [
       "summary": "Three pieces make the small whole and six make the large whole.",
       "hint": "Build each whole from copies of the same piece."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n03-t-014",
@@ -390,7 +429,10 @@ window.skillrTestQuestions = [
       "summary": "3/4 is 1/4 = 2/8 below 1; 7/8 is only 1/8 below.",
       "hint": "Compare the missing pieces up to one whole."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n03-t-015",
@@ -418,7 +460,10 @@ window.skillrTestQuestions = [
       "summary": "The lengths in sixths are 13/6, 15/6 and 14/6.",
       "hint": "Use sixths as a shared unit."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n03-t-016",
@@ -446,8 +491,9 @@ window.skillrTestQuestions = [
       "summary": "With matching units, 1/2 = 5/10 lies to the right of 3/10.",
       "hint": "A comparison model needs consistent scale and origin."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

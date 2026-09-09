@@ -27,7 +27,10 @@ window.skillrTestQuestions = [
       "summary": "Times after 12:00 use pm and subtract 12 from hours above 12.",
       "hint": "Decide whether the time is before or after midday."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5m03-t-002",
@@ -56,7 +59,10 @@ window.skillrTestQuestions = [
       "summary": "Adding the elapsed minutes gives the finishing time.",
       "hint": "Bridge to the next hour if helpful."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5m03-t-003",
@@ -85,7 +91,10 @@ window.skillrTestQuestions = [
       "summary": "Times after 12:00 use pm and subtract 12 from hours above 12.",
       "hint": "Decide whether the time is before or after midday."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5m03-t-004",
@@ -114,7 +123,10 @@ window.skillrTestQuestions = [
       "summary": "Adding the elapsed minutes gives the finishing time.",
       "hint": "Bridge to the next hour if helpful."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5m03-t-005",
@@ -143,7 +155,10 @@ window.skillrTestQuestions = [
       "summary": "Times after 12:00 use pm and subtract 12 from hours above 12.",
       "hint": "Decide whether the time is before or after midday."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5m03-t-006",
@@ -172,7 +187,10 @@ window.skillrTestQuestions = [
       "summary": "Adding the elapsed minutes gives the finishing time.",
       "hint": "Bridge to the next hour if helpful."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5m03-t-007",
@@ -201,7 +219,10 @@ window.skillrTestQuestions = [
       "summary": "Times after 12:00 use pm and subtract 12 from hours above 12.",
       "hint": "Decide whether the time is before or after midday."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5m03-t-008",
@@ -230,7 +251,10 @@ window.skillrTestQuestions = [
       "summary": "Adding the elapsed minutes gives the finishing time.",
       "hint": "Bridge to the next hour if helpful."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5m03-t-009",
@@ -259,7 +283,10 @@ window.skillrTestQuestions = [
       "summary": "Times after 12:00 use pm and subtract 12 from hours above 12.",
       "hint": "Decide whether the time is before or after midday."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5m03-t-010",
@@ -288,7 +315,10 @@ window.skillrTestQuestions = [
       "summary": "Adding the elapsed minutes gives the finishing time.",
       "hint": "Bridge to the next hour if helpful."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5m03-t-011",
@@ -317,7 +347,10 @@ window.skillrTestQuestions = [
       "summary": "Times after 12:00 use pm and subtract 12 from hours above 12.",
       "hint": "Decide whether the time is before or after midday."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5m03-t-012",
@@ -346,7 +379,10 @@ window.skillrTestQuestions = [
       "summary": "Adding the elapsed minutes gives the finishing time.",
       "hint": "Bridge to the next hour if helpful."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5m03-t-013",
@@ -375,7 +411,10 @@ window.skillrTestQuestions = [
       "summary": "Times after 12:00 use pm and subtract 12 from hours above 12.",
       "hint": "Decide whether the time is before or after midday."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5m03-t-014",
@@ -404,7 +443,10 @@ window.skillrTestQuestions = [
       "summary": "Adding the elapsed minutes gives the finishing time.",
       "hint": "Bridge to the next hour if helpful."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5m03-t-015",
@@ -433,7 +475,10 @@ window.skillrTestQuestions = [
       "summary": "Times after 12:00 use pm and subtract 12 from hours above 12.",
       "hint": "Decide whether the time is before or after midday."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5m03-t-016",
@@ -462,8 +507,9 @@ window.skillrTestQuestions = [
       "summary": "Adding the elapsed minutes gives the finishing time.",
       "hint": "Bridge to the next hour if helpful."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

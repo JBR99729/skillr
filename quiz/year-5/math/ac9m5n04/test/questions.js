@@ -26,7 +26,10 @@ window.skillrTestQuestions = [
       "summary": "Percent means out of 100.",
       "hint": "Use the definition of percent."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n04-t-002",
@@ -54,7 +57,10 @@ window.skillrTestQuestions = [
       "summary": "The two complementary parts total 100%.",
       "hint": "Check both parts add to the complete whole."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n04-t-003",
@@ -82,7 +88,10 @@ window.skillrTestQuestions = [
       "summary": "8/20 = 2/5 = 40/100.",
       "hint": "Scale the fraction to hundredths."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n04-t-004",
@@ -110,7 +119,10 @@ window.skillrTestQuestions = [
       "summary": "0.25 and 1/4 are equal; both are 25%, below 30%.",
       "hint": "Convert every amount to percent."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n04-t-005",
@@ -138,7 +150,10 @@ window.skillrTestQuestions = [
       "summary": "18/24 = 3/4 = 75%; 24 is the whole.",
       "hint": "Use wins divided by total matches."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n04-t-006",
@@ -166,7 +181,10 @@ window.skillrTestQuestions = [
       "summary": "Connect hundredths to the meaning of percent.",
       "hint": "Use place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n04-t-007",
@@ -194,7 +212,10 @@ window.skillrTestQuestions = [
       "summary": "100 − 72 = 28%, or 28/100.",
       "hint": "Subtract from the complete whole."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n04-t-008",
@@ -222,7 +243,10 @@ window.skillrTestQuestions = [
       "summary": "2/5 = 40%, which is less than 45%; the correct greater amount is 45%.",
       "hint": "Convert the fraction before comparing."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n04-t-009",
@@ -250,7 +274,10 @@ window.skillrTestQuestions = [
       "summary": "91 − 82 = 9 percentage points.",
       "hint": "Subtract percentages directly."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n04-t-010",
@@ -278,7 +305,10 @@ window.skillrTestQuestions = [
       "summary": "15/60 = 1/4 = 25%.",
       "hint": "Reduce the fraction to a familiar benchmark."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n04-t-011",
@@ -306,7 +336,10 @@ window.skillrTestQuestions = [
       "summary": "A 25% discount leaves 75%, which is 3/4.",
       "hint": "Find the complement of the discount."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n04-t-012",
@@ -334,7 +367,10 @@ window.skillrTestQuestions = [
       "summary": "0.2 = 20/100 = 1/5.",
       "hint": "Check all three forms, not just two."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n04-t-013",
@@ -362,7 +398,10 @@ window.skillrTestQuestions = [
       "summary": "There are 8 art choices out of 30 students; the whole changed.",
       "hint": "Recalculate both numerator and denominator."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n04-t-014",
@@ -390,7 +429,10 @@ window.skillrTestQuestions = [
       "summary": "100% is the target; an extra 10% gives 110%.",
       "hint": "Interpret values above the complete whole."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n04-t-015",
@@ -418,7 +460,10 @@ window.skillrTestQuestions = [
       "summary": "Three quarters of 100 mL is 75 mL, matching 75%.",
       "hint": "Use the percentage or fraction of the whole."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n04-t-016",
@@ -446,8 +491,9 @@ window.skillrTestQuestions = [
       "summary": "60% means 60 divided by 100.",
       "hint": "Move from percent to decimal by dividing by 100."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;

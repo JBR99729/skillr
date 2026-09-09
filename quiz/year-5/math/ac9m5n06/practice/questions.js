@@ -27,7 +27,10 @@ window.skillrPracticeQuestions = [
       "summary": "3 groups of 190 make 570.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-002",
@@ -56,7 +59,10 @@ window.skillrPracticeQuestions = [
       "summary": "4 groups of 200 make 800.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-003",
@@ -85,7 +91,10 @@ window.skillrPracticeQuestions = [
       "summary": "5 groups of 210 make 1050.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-004",
@@ -114,7 +123,10 @@ window.skillrPracticeQuestions = [
       "summary": "6 groups of 220 make 1320.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-005",
@@ -143,7 +155,10 @@ window.skillrPracticeQuestions = [
       "summary": "7 groups of 230 make 1610.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-006",
@@ -172,7 +187,10 @@ window.skillrPracticeQuestions = [
       "summary": "8 groups of 240 make 1920.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-007",
@@ -201,7 +219,10 @@ window.skillrPracticeQuestions = [
       "summary": "9 groups of 250 make 2250.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-008",
@@ -230,7 +251,10 @@ window.skillrPracticeQuestions = [
       "summary": "3 groups of 260 make 780.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-009",
@@ -259,7 +283,10 @@ window.skillrPracticeQuestions = [
       "summary": "4 groups of 270 make 1080.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-010",
@@ -288,7 +315,10 @@ window.skillrPracticeQuestions = [
       "summary": "5 groups of 280 make 1400.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-011",
@@ -317,7 +347,10 @@ window.skillrPracticeQuestions = [
       "summary": "6 groups of 290 make 1740.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-012",
@@ -346,7 +379,10 @@ window.skillrPracticeQuestions = [
       "summary": "7 groups of 300 make 2100.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-p-013",
@@ -375,7 +411,10 @@ window.skillrPracticeQuestions = [
       "summary": "8 groups of 310 make 2480.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-014",
@@ -404,7 +443,10 @@ window.skillrPracticeQuestions = [
       "summary": "9 groups of 120 make 1080.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-015",
@@ -433,7 +475,10 @@ window.skillrPracticeQuestions = [
       "summary": "3 groups of 130 make 390.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-016",
@@ -462,7 +507,10 @@ window.skillrPracticeQuestions = [
       "summary": "4 groups of 140 make 560.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-017",
@@ -491,7 +539,10 @@ window.skillrPracticeQuestions = [
       "summary": "5 groups of 150 make 750.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-018",
@@ -520,7 +571,10 @@ window.skillrPracticeQuestions = [
       "summary": "6 groups of 160 make 960.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-019",
@@ -549,7 +603,10 @@ window.skillrPracticeQuestions = [
       "summary": "7 groups of 170 make 1190.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-020",
@@ -578,7 +635,10 @@ window.skillrPracticeQuestions = [
       "summary": "8 groups of 180 make 1440.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-021",
@@ -607,7 +667,10 @@ window.skillrPracticeQuestions = [
       "summary": "9 groups of 190 make 1710.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-022",
@@ -636,7 +699,10 @@ window.skillrPracticeQuestions = [
       "summary": "3 groups of 200 make 600.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-023",
@@ -665,7 +731,10 @@ window.skillrPracticeQuestions = [
       "summary": "4 groups of 210 make 840.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-024",
@@ -694,7 +763,10 @@ window.skillrPracticeQuestions = [
       "summary": "5 groups of 220 make 1100.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-p-025",
@@ -717,7 +789,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-026",
@@ -740,7 +815,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-027",
@@ -763,7 +841,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-028",
@@ -786,7 +867,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-029",
@@ -809,7 +893,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-030",
@@ -832,7 +919,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-031",
@@ -855,7 +945,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-032",
@@ -878,7 +971,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "recognise-apply",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-033",
@@ -901,7 +997,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-034",
@@ -924,7 +1023,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-035",
@@ -947,7 +1049,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-036",
@@ -970,7 +1075,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-p-037",
@@ -993,7 +1101,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-038",
@@ -1016,7 +1127,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-039",
@@ -1039,7 +1153,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-040",
@@ -1062,7 +1179,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "reasoning",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-041",
@@ -1085,7 +1205,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-042",
@@ -1108,7 +1231,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-043",
@@ -1131,7 +1257,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-044",
@@ -1154,7 +1283,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-045",
@@ -1177,7 +1309,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-046",
@@ -1200,7 +1335,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-047",
@@ -1223,7 +1361,10 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-p-048",
@@ -1246,6 +1387,9 @@ window.skillrPracticeQuestions = [
       "hint": "Show the relationship or estimate before choosing."
     },
     "cognitiveDemand": "transfer-challenge",
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];

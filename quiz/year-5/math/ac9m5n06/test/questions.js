@@ -27,7 +27,10 @@ window.skillrTestQuestions = [
       "summary": "6 groups of 230 make 1380.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-t-002",
@@ -56,7 +59,10 @@ window.skillrTestQuestions = [
       "summary": "7 groups of 240 make 1680.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-t-003",
@@ -85,7 +91,10 @@ window.skillrTestQuestions = [
       "summary": "8 groups of 250 make 2000.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-t-004",
@@ -114,7 +123,10 @@ window.skillrTestQuestions = [
       "summary": "9 groups of 260 make 2340.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 1,
+    "difficultyTier": "basic",
+    "sequencePriority": 1
   },
   {
     "id": "ac9m5n06-t-005",
@@ -143,7 +155,10 @@ window.skillrTestQuestions = [
       "summary": "3 groups of 270 make 810.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-t-006",
@@ -172,7 +187,10 @@ window.skillrTestQuestions = [
       "summary": "4 groups of 280 make 1120.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-t-007",
@@ -201,7 +219,10 @@ window.skillrTestQuestions = [
       "summary": "5 groups of 290 make 1450.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-t-008",
@@ -230,7 +251,10 @@ window.skillrTestQuestions = [
       "summary": "6 groups of 300 make 1800.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 2
   },
   {
     "id": "ac9m5n06-t-009",
@@ -259,7 +283,10 @@ window.skillrTestQuestions = [
       "summary": "7 groups of 310 make 2170.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-t-010",
@@ -288,7 +315,10 @@ window.skillrTestQuestions = [
       "summary": "8 groups of 120 make 960.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-t-011",
@@ -317,7 +347,10 @@ window.skillrTestQuestions = [
       "summary": "9 groups of 130 make 1170.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-t-012",
@@ -346,7 +379,10 @@ window.skillrTestQuestions = [
       "summary": "3 groups of 140 make 420.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 3
   },
   {
     "id": "ac9m5n06-t-013",
@@ -375,7 +411,10 @@ window.skillrTestQuestions = [
       "summary": "4 groups of 150 make 600.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-t-014",
@@ -404,7 +443,10 @@ window.skillrTestQuestions = [
       "summary": "5 groups of 160 make 800.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-t-015",
@@ -433,7 +475,10 @@ window.skillrTestQuestions = [
       "summary": "6 groups of 170 make 1020.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   },
   {
     "id": "ac9m5n06-t-016",
@@ -462,8 +507,9 @@ window.skillrTestQuestions = [
       "summary": "7 groups of 180 make 1260.",
       "hint": "Estimate first, then multiply using place value."
     },
-    "qualitySchema": "production-v1"
+    "qualitySchema": "production-v1",
+    "difficulty": 4,
+    "difficultyTier": "very_hard",
+    "sequencePriority": 4
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
