@@ -4,23 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-001",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "morphology and context",
     "printable": true,
     "type": "single",
-    "question": "New context: reading dialogue between two characters. Which option is correct?",
-    "audioPrompt": "New context: reading dialogue between two characters. Which option is correct?",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat does relocated most likely mean?",
+    "audioPrompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat does relocated most likely mean?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
-      "Read quotation marks aloud as words.",
-      "Ignore who is speaking."
+      "Moved or placed somewhere again or elsewhere.",
+      "Packed before the hike.",
+      "Lost incorrectly.",
+      "Made lighter."
     ],
+    "difficulty": 2,
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Fluent phrasing reflects sentence structure and speaker changes.\nHint: Track quotation marks, speech tags and sentence boundaries.",
+    "explanation": "The prefix re- and the event support the meaning of moving/placing again.\nHint: Use word parts and context together.",
     "structuredExplanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
+      "summary": "The prefix re- and the event support the meaning of moving/placing again.",
+      "hint": "Use word parts and context together."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-002",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "morphology and context",
     "printable": true,
     "type": "single",
-    "question": "What is the best choice for reading dialogue between two characters?",
-    "audioPrompt": "What is the best choice for reading dialogue between two characters?",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich clue from the word helps most?",
+    "audioPrompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich clue from the word helps most?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read quotation marks aloud as words.",
-      "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
-      "Ignore who is speaking."
+      "re-",
+      "-ed",
+      "loc",
+      "the first letter r"
     ],
-    "correct": 1,
-    "explanation": "Fluent phrasing reflects sentence structure and speaker changes.\nHint: Track quotation marks, speech tags and sentence boundaries.",
+    "difficulty": 2,
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "re- is the meaningful prefix.\nHint: Identify the morpheme.",
     "structuredExplanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
+      "summary": "re- is the meaningful prefix.",
+      "hint": "Identify the morpheme."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-003",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "morphology and context",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best supports “Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.” in reading dialogue between two characters?",
-    "audioPrompt": "Which explanation best supports “Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.” in reading dialogue between two characters?",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich context detail best confirms the meaning?",
+    "audioPrompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich context detail best confirms the meaning?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Read quotation marks aloud as words.” is always a safe choice.",
-      "Because surface appearance matters more than meaning.",
-      "Fluent phrasing reflects sentence structure and speaker changes."
+      "the guide ... the missing pack beside the creek",
+      "The hikers were relieved",
+      "missing",
+      "creek"
     ],
-    "correct": 2,
-    "explanation": "Fluent phrasing reflects sentence structure and speaker changes.\nHint: Track quotation marks, speech tags and sentence boundaries.",
+    "difficulty": 2,
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "The sentence describes the pack being placed/found at a location.\nHint: Use the surrounding event.",
     "structuredExplanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
+      "summary": "The sentence describes the pack being placed/found at a location.",
+      "hint": "Use the surrounding event."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-004",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "morphology and context",
     "printable": true,
     "type": "single",
-    "question": "Which clue should guide your decision in reading dialogue between two characters?",
-    "audioPrompt": "Which clue should guide your decision in reading dialogue between two characters?",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat is the best overall strategy?",
+    "audioPrompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat is the best overall strategy?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Track quotation marks, speech tags and sentence boundaries.",
-      "Choose the option with the most words.",
-      "Ignore the context and use the first familiar form."
+      "Infer from re- + locate, then verify against the sentence.",
+      "Guess from the first letter.",
+      "Use context only and ignore print.",
+      "Choose the longest option."
     ],
+    "difficulty": 2,
+    "sequencePriority": 4,
     "correct": 0,
-    "explanation": "Fluent phrasing reflects sentence structure and speaker changes.\nHint: Track quotation marks, speech tags and sentence boundaries.",
+    "explanation": "Strong readers integrate morphology and context.\nHint: Cross-check more than one source of information.",
     "structuredExplanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
+      "summary": "Strong readers integrate morphology and context.",
+      "hint": "Cross-check more than one source of information."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-005",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "self-correction",
     "printable": true,
     "type": "single",
-    "question": "Which option would you reject first in reading dialogue between two characters?",
-    "audioPrompt": "Which option would you reject first in reading dialogue between two characters?",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nA reader says 'insected' for inspected. What is the best correction process?",
+    "audioPrompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nA reader says 'insected' for inspected. What is the best correction process?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
-      "Read quotation marks aloud as words.",
-      "Ignore who is speaking."
+      "Notice the mismatch, check print and meaning, correct to inspected, then reread smoothly.",
+      "Keep insected to avoid pausing.",
+      "Skip the word.",
+      "Replace it with looked without checking."
     ],
-    "correct": 1,
-    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. Fluent phrasing reflects sentence structure and speaker changes.\nHint: Track quotation marks, speech tags and sentence boundaries.",
+    "difficulty": 2,
+    "sequencePriority": 5,
+    "correct": 0,
+    "explanation": "Effective self-correction uses print and meaning, then restores fluency.\nHint: Accuracy comes before speed.",
     "structuredExplanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
+      "summary": "Effective self-correction uses print and meaning, then restores fluency.",
+      "hint": "Accuracy comes before speed."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-006",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "self-correction",
     "printable": true,
     "type": "single",
-    "question": "Which correction should replace “Read quotation marks aloud as words.” in reading dialogue between two characters?",
-    "audioPrompt": "Which correction should replace “Read quotation marks aloud as words.” in reading dialogue between two characters?",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat first signals a problem with 'insected'?",
+    "audioPrompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat first signals a problem with 'insected'?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read quotation marks aloud as words.",
-      "Ignore who is speaking.",
-      "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate."
+      "It does not make sense as an action an astronomer performs on a telescope.",
+      "It is too long.",
+      "It begins with in-.",
+      "It has two syllables."
     ],
-    "correct": 2,
-    "explanation": "Fluent phrasing reflects sentence structure and speaker changes.\nHint: Track quotation marks, speech tags and sentence boundaries.",
+    "difficulty": 2,
+    "sequencePriority": 6,
+    "correct": 0,
+    "explanation": "Semantic monitoring can alert the reader to a mismatch.\nHint: Ask whether the sentence makes sense.",
     "structuredExplanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
+      "summary": "Semantic monitoring can alert the reader to a mismatch.",
+      "hint": "Ask whether the sentence makes sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-007",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "self-correction",
     "printable": true,
     "type": "single",
-    "question": "Apply the skill to reading dialogue between two characters: what should you choose?",
-    "audioPrompt": "Apply the skill to reading dialogue between two characters: what should you choose?",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat print clue supports inspected?",
+    "audioPrompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat print clue supports inspected?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
-      "Read quotation marks aloud as words.",
-      "Ignore who is speaking."
+      "The word contains the letters inspect- rather than insect-.",
+      "Both words start with in-.",
+      "The last letter is d.",
+      "The word is longer than telescope."
     ],
+    "difficulty": 2,
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "Fluent phrasing reflects sentence structure and speaker changes.\nHint: Track quotation marks, speech tags and sentence boundaries.",
+    "explanation": "Looking through the whole word distinguishes similar-looking forms.\nHint: Check all the letters, not just the start.",
     "structuredExplanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
+      "summary": "Looking through the whole word distinguishes similar-looking forms.",
+      "hint": "Check all the letters, not just the start."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-008",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "self-correction",
     "printable": true,
     "type": "single",
-    "question": "Which final choice gives the clearest and most accurate result for reading dialogue between two characters?",
-    "audioPrompt": "Which final choice gives the clearest and most accurate result for reading dialogue between two characters?",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhy reread after correcting?",
+    "audioPrompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhy reread after correcting?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read quotation marks aloud as words.",
-      "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
-      "Ignore who is speaking."
+      "To reconnect the corrected word with the sentence's meaning and phrasing.",
+      "Because every sentence must be read twice.",
+      "To slow down.",
+      "To memorise the word."
     ],
-    "correct": 1,
-    "explanation": "Fluent phrasing reflects sentence structure and speaker changes.\nHint: Track quotation marks, speech tags and sentence boundaries.",
+    "difficulty": 2,
+    "sequencePriority": 8,
+    "correct": 0,
+    "explanation": "Rereading restores fluent comprehension.\nHint: Repair then reread.",
     "structuredExplanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
+      "summary": "Rereading restores fluent comprehension.",
+      "hint": "Repair then reread."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-009",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "semantic monitoring",
     "printable": true,
     "type": "single",
-    "question": "New context: reading a long sentence with a dependent clause first. Which option is correct?",
-    "audioPrompt": "New context: reading a long sentence with a dependent clause first. Which option is correct?",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nHow should the definition help a reader?",
+    "audioPrompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nHow should the definition help a reader?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Stop permanently after the dependent clause.",
-      "Treat every word as an unrelated unit.",
-      "Read the opening dependent clause as one phrase, then continue into the main clause."
+      "It confirms the technical word's meaning so the reader can reread with understanding.",
+      "It should be skipped.",
+      "It means evaporation can be replaced by vapour everywhere.",
+      "It only helps spelling."
     ],
-    "correct": 2,
-    "explanation": "Recognising clause structure helps readers group words into meaningful phrases.\nHint: Find the clause boundary before deciding where to pause.",
+    "difficulty": 3,
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "Nearby definitions support semantic knowledge and comprehension.\nHint: Use explanatory text around technical words.",
     "structuredExplanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
+      "summary": "Nearby definitions support semantic knowledge and comprehension.",
+      "hint": "Use explanatory text around technical words."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-010",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "semantic monitoring",
     "printable": true,
     "type": "single",
-    "question": "What is the best choice for reading a long sentence with a dependent clause first?",
-    "audioPrompt": "What is the best choice for reading a long sentence with a dependent clause first?",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich phrase defines evaporation?",
+    "audioPrompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich phrase defines evaporation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read the opening dependent clause as one phrase, then continue into the main clause.",
-      "Stop permanently after the dependent clause.",
-      "Treat every word as an unrelated unit."
+      "the process in which liquid water changes into water vapour",
+      "liquid water",
+      "water vapour",
+      "is the process"
     ],
+    "difficulty": 3,
+    "sequencePriority": 10,
     "correct": 0,
-    "explanation": "Recognising clause structure helps readers group words into meaningful phrases.\nHint: Find the clause boundary before deciding where to pause.",
+    "explanation": "The explanatory phrase gives the meaning of the term.\nHint: Find the direct definition.",
     "structuredExplanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
+      "summary": "The explanatory phrase gives the meaning of the term.",
+      "hint": "Find the direct definition."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-011",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "semantic monitoring",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best supports “Read the opening dependent clause as one phrase, then continue into the main clause.” in reading a long sentence with a dependent clause first?",
-    "audioPrompt": "Which explanation best supports “Read the opening dependent clause as one phrase, then continue into the main clause.” in reading a long sentence with a dependent clause first?",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhat should the reader do after working out the meaning?",
+    "audioPrompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhat should the reader do after working out the meaning?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Stop permanently after the dependent clause.” is always a safe choice.",
-      "Recognising clause structure helps readers group words into meaningful phrases.",
-      "Because surface appearance matters more than meaning."
+      "Reread the sentence smoothly with the meaning in mind.",
+      "Skip the term next time.",
+      "Read only the definition.",
+      "Replace the term with water."
     ],
-    "correct": 1,
-    "explanation": "Recognising clause structure helps readers group words into meaningful phrases.\nHint: Find the clause boundary before deciding where to pause.",
+    "difficulty": 3,
+    "sequencePriority": 11,
+    "correct": 0,
+    "explanation": "Rereading consolidates the word's meaning in context.\nHint: Return to the whole sentence.",
     "structuredExplanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
+      "summary": "Rereading consolidates the word's meaning in context.",
+      "hint": "Return to the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-012",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "semantic monitoring",
     "printable": true,
     "type": "single",
-    "question": "Which clue should guide your decision in reading a long sentence with a dependent clause first?",
-    "audioPrompt": "Which clue should guide your decision in reading a long sentence with a dependent clause first?",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich reading knowledge is doing most of the work here?",
+    "audioPrompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich reading knowledge is doing most of the work here?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Choose the option with the most words.",
-      "Ignore the context and use the first familiar form.",
-      "Find the clause boundary before deciding where to pause."
+      "Semantic knowledge from a direct definition.",
+      "Only phonics.",
+      "Only punctuation.",
+      "Only text speed."
     ],
-    "correct": 2,
-    "explanation": "Recognising clause structure helps readers group words into meaningful phrases.\nHint: Find the clause boundary before deciding where to pause.",
+    "difficulty": 3,
+    "sequencePriority": 12,
+    "correct": 0,
+    "explanation": "The sentence directly explains the meaning.\nHint: Identify the type of cue.",
     "structuredExplanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
+      "summary": "The sentence directly explains the meaning.",
+      "hint": "Identify the type of cue."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-013",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "fluent reading",
     "printable": true,
     "type": "single",
-    "question": "Which option would you reject first in reading a long sentence with a dependent clause first?",
-    "audioPrompt": "Which option would you reject first in reading a long sentence with a dependent clause first?",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich performance is most fluent?",
+    "audioPrompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich performance is most fluent?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Stop permanently after the dependent clause.",
-      "Read the opening dependent clause as one phrase, then continue into the main clause.",
-      "Treat every word as an unrelated unit."
+      "Accurate wording, phrases grouped by meaning, and expression that reflects urgency.",
+      "Maximum speed with omitted words.",
+      "Equal stress on every word.",
+      "Long pauses between every word."
     ],
+    "difficulty": 3,
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. Recognising clause structure helps readers group words into meaningful phrases.\nHint: Find the clause boundary before deciding where to pause.",
+    "explanation": "Fluency includes accuracy, phrasing, pace and expression.\nHint: Let punctuation and meaning shape the voice.",
     "structuredExplanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
+      "summary": "Fluency includes accuracy, phrasing, pace and expression.",
+      "hint": "Let punctuation and meaning shape the voice."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +407,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-014",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "fluent reading",
     "printable": true,
     "type": "single",
-    "question": "Which correction should replace “Stop permanently after the dependent clause.” in reading a long sentence with a dependent clause first?",
-    "audioPrompt": "Which correction should replace “Stop permanently after the dependent clause.” in reading a long sentence with a dependent clause first?",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nHow should the exclamation mark affect reading?",
+    "audioPrompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nHow should the exclamation mark affect reading?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Stop permanently after the dependent clause.",
-      "Read the opening dependent clause as one phrase, then continue into the main clause.",
-      "Treat every word as an unrelated unit."
+      "It should signal stronger expression or urgency.",
+      "It should make the sentence a question.",
+      "It means pause after every word.",
+      "It changes shouted to whispered."
     ],
-    "correct": 1,
-    "explanation": "Recognising clause structure helps readers group words into meaningful phrases.\nHint: Find the clause boundary before deciding where to pause.",
+    "difficulty": 3,
+    "sequencePriority": 14,
+    "correct": 0,
+    "explanation": "Punctuation contributes to expression and meaning.\nHint: Read punctuation as a cue.",
     "structuredExplanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
+      "summary": "Punctuation contributes to expression and meaning.",
+      "hint": "Read punctuation as a cue."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +438,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-015",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "fluent reading",
     "printable": true,
     "type": "single",
-    "question": "Apply the skill to reading a long sentence with a dependent clause first: what should you choose?",
-    "audioPrompt": "Apply the skill to reading a long sentence with a dependent clause first: what should you choose?",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich phrase should likely be read as one meaningful chunk?",
+    "audioPrompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich phrase should likely be read as one meaningful chunk?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Stop permanently after the dependent clause.",
-      "Treat every word as an unrelated unit.",
-      "Read the opening dependent clause as one phrase, then continue into the main clause."
+      "as the ball rolled towards the road",
+      "as / the / ball / rolled / towards / the / road",
+      "Watch / out",
+      "Mia / shouted / as"
     ],
-    "correct": 2,
-    "explanation": "Recognising clause structure helps readers group words into meaningful phrases.\nHint: Find the clause boundary before deciding where to pause.",
+    "difficulty": 3,
+    "sequencePriority": 15,
+    "correct": 0,
+    "explanation": "Fluent readers group words into meaningful phrases rather than word-by-word chunks.\nHint: Phrase by meaning.",
     "structuredExplanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
+      "summary": "Fluent readers group words into meaningful phrases rather than word-by-word chunks.",
+      "hint": "Phrase by meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,26 +469,32 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-016",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "Fluent Reading",
+    "skill": "fluent reading",
     "printable": true,
     "type": "single",
-    "question": "Which final choice gives the clearest and most accurate result for reading a long sentence with a dependent clause first?",
-    "audioPrompt": "Which final choice gives the clearest and most accurate result for reading a long sentence with a dependent clause first?",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nIf the reader says every word correctly but uses a flat monotone, what is missing?",
+    "audioPrompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nIf the reader says every word correctly but uses a flat monotone, what is missing?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read the opening dependent clause as one phrase, then continue into the main clause.",
-      "Stop permanently after the dependent clause.",
-      "Treat every word as an unrelated unit."
+      "Expression that reflects meaning and punctuation.",
+      "Accuracy.",
+      "Word recognition.",
+      "Spelling."
     ],
+    "difficulty": 3,
+    "sequencePriority": 16,
     "correct": 0,
-    "explanation": "Recognising clause structure helps readers group words into meaningful phrases.\nHint: Find the clause boundary before deciding where to pause.",
+    "explanation": "Fluency includes prosody as well as accuracy.\nHint: Think about how a listener hears the meaning.",
     "structuredExplanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
+      "summary": "Fluency includes prosody as well as accuracy.",
+      "hint": "Think about how a listener hears the meaning."
     },
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

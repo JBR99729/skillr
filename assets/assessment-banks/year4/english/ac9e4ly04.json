@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Fluent Reading",
-    "question": "In reading “The hikers cautiously crossed the suspension bridge”, which option best demonstrates the skill?",
-    "audio_prompt": "In reading “The hikers cautiously crossed the suspension bridge”, which option best demonstrates the skill?",
+    "skill": "context clues",
+    "question": "Read the text.\n\nAfter the storm, the creek was turbid. Mud and fine soil floated through the water, so the stones on the bottom could no longer be seen.\n\nWhat does turbid most likely mean?",
+    "audio_prompt": "Read the text.\n\nAfter the storm, the creek was turbid. Mud and fine soil floated through the water, so the stones on the bottom could no longer be seen.\n\nWhat does turbid most likely mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Read every letter as a separate sound and ignore the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace cautiously with quickly because it is shorter.",
-        "is_correct": false
-      },
-      {
-        "text": "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
+        "text": "Cloudy or muddy.",
         "is_correct": true
+      },
+      {
+        "text": "Very cold.",
+        "is_correct": false
+      },
+      {
+        "text": "Flowing quickly.",
+        "is_correct": false
+      },
+      {
+        "text": "Completely dry.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
-    }
+      "summary": "The nearby details explain that mud and soil make the water difficult to see through.",
+      "hint": "Use the consequence in the next sentence as a context clue."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY04-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Fluent Reading",
-    "question": "Which choice fits reading “The hikers cautiously crossed the suspension bridge” most accurately?",
-    "audio_prompt": "Which choice fits reading “The hikers cautiously crossed the suspension bridge” most accurately?",
+    "skill": "context clues",
+    "question": "Read the text.\n\nAfter the storm, the creek was turbid. Mud and fine soil floated through the water, so the stones on the bottom could no longer be seen.\n\nWhich words are the strongest evidence for the meaning of turbid?",
+    "audio_prompt": "Read the text.\n\nAfter the storm, the creek was turbid. Mud and fine soil floated through the water, so the stones on the bottom could no longer be seen.\n\nWhich words are the strongest evidence for the meaning of turbid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
+        "text": "Mud and fine soil floated through the water.",
         "is_correct": true
       },
       {
-        "text": "Read every letter as a separate sound and ignore the sentence.",
+        "text": "After the storm.",
         "is_correct": false
       },
       {
-        "text": "Replace cautiously with quickly because it is shorter.",
+        "text": "the creek was",
+        "is_correct": false
+      },
+      {
+        "text": "stones on the bottom",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
-    }
+      "summary": "The mud and soil explain why the water is not clear.",
+      "hint": "Find the detail that directly explains the unfamiliar word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-P-003",
@@ -66,28 +92,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Fluent Reading",
-    "question": "Which choice fits meeting the unfamiliar word “reusable” most accurately?",
-    "audio_prompt": "Which choice fits meeting the unfamiliar word “reusable” most accurately?",
+    "skill": "context clues",
+    "question": "Read the text.\n\nAfter the storm, the creek was turbid. Mud and fine soil floated through the water, so the stones on the bottom could no longer be seen.\n\nIf a reader first guessed that turbid meant 'fast-flowing', what should they do?",
+    "audio_prompt": "Read the text.\n\nAfter the storm, the creek was turbid. Mud and fine soil floated through the water, so the stones on the bottom could no longer be seen.\n\nIf a reader first guessed that turbid meant 'fast-flowing', what should they do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Guess from the first letter only.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
+        "text": "Reread and reject the guess because the passage explains cloudiness, not speed.",
         "is_correct": true
       },
       {
-        "text": "Skip the word and continue without checking meaning.",
+        "text": "Keep the guess because it sounds possible.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the word.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with 'stormy'.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
-    }
+      "summary": "Readers should test a guess against all nearby evidence and revise it when the meaning does not fit.",
+      "hint": "Check whether your guess explains the details that follow."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LY04-P-004",
@@ -96,28 +135,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Fluent Reading",
-    "question": "Look closely at meeting the unfamiliar word “reusable”. Which response or wording works best?",
-    "audio_prompt": "Look closely at meeting the unfamiliar word “reusable”. Which response or wording works best?",
+    "skill": "context clues",
+    "question": "Read the text.\n\nAfter the storm, the creek was turbid. Mud and fine soil floated through the water, so the stones on the bottom could no longer be seen.\n\nWhich strategy best helped with turbid?",
+    "audio_prompt": "Read the text.\n\nAfter the storm, the creek was turbid. Mud and fine soil floated through the water, so the stones on the bottom could no longer be seen.\n\nWhich strategy best helped with turbid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Guess from the first letter only.",
-        "is_correct": false
-      },
-      {
-        "text": "Skip the word and continue without checking meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
+        "text": "Use a nearby consequence and description to infer meaning.",
         "is_correct": true
+      },
+      {
+        "text": "Use only the first letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Count the syllables.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the most familiar answer.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
-    }
+      "summary": "Context clues can reveal meaning through consequences and descriptions.",
+      "hint": "Ask what surrounding information explains the unknown word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LY04-P-005",
@@ -126,28 +178,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Fluent Reading",
-    "question": "Look closely at reading a paragraph with commas around an extra detail. Which response or wording works best?",
-    "audio_prompt": "Look closely at reading a paragraph with commas around an extra detail. Which response or wording works best?",
+    "skill": "prefix meaning",
+    "question": "Read the text.\n\nDuring the clean-up, Mina rediscovered the missing badge behind a shelf.\n\nWhat does rediscovered mean?",
+    "audio_prompt": "Read the text.\n\nDuring the clean-up, Mina rediscovered the missing badge behind a shelf.\n\nWhat does rediscovered mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Pause lightly around the extra detail but keep the sentence flowing.",
+        "text": "Discovered again.",
         "is_correct": true
       },
       {
-        "text": "Stop for several seconds at every comma.",
+        "text": "Discovered before.",
         "is_correct": false
       },
       {
-        "text": "Ignore all punctuation and read in one flat rush.",
+        "text": "Discovered incorrectly.",
+        "is_correct": false
+      },
+      {
+        "text": "Discovered slowly.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
-    }
+      "summary": "The prefix re- means again.",
+      "hint": "Split the prefix from the base word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LY04-P-006",
@@ -156,28 +221,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Fluent Reading",
-    "question": "For reading a paragraph with commas around an extra detail, which option is the strongest match?",
-    "audio_prompt": "For reading a paragraph with commas around an extra detail, which option is the strongest match?",
+    "skill": "prefix meaning",
+    "question": "Read the text.\n\nDuring the clean-up, Mina rediscovered the missing badge behind a shelf.\n\nWhich part of rediscovered gives the meaning 'again'?",
+    "audio_prompt": "Read the text.\n\nDuring the clean-up, Mina rediscovered the missing badge behind a shelf.\n\nWhich part of rediscovered gives the meaning 'again'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Stop for several seconds at every comma.",
-        "is_correct": false
-      },
-      {
-        "text": "Pause lightly around the extra detail but keep the sentence flowing.",
+        "text": "re-",
         "is_correct": true
       },
       {
-        "text": "Ignore all punctuation and read in one flat rush.",
+        "text": "discover",
+        "is_correct": false
+      },
+      {
+        "text": "-ed",
+        "is_correct": false
+      },
+      {
+        "text": "red-",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
-    }
+      "summary": "The prefix re- changes discover to mean discover again.",
+      "hint": "Look at the beginning of the word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LY04-P-007",
@@ -186,28 +264,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Fluent Reading",
-    "question": "For realising a sentence no longer makes sense after reading a word incorrectly, which option is the strongest match?",
-    "audio_prompt": "For realising a sentence no longer makes sense after reading a word incorrectly, which option is the strongest match?",
+    "skill": "prefix meaning",
+    "question": "Read the text.\n\nDuring the clean-up, Mina rediscovered the missing badge behind a shelf.\n\nWhich reasoning is strongest?",
+    "audio_prompt": "Read the text.\n\nDuring the clean-up, Mina rediscovered the missing badge behind a shelf.\n\nWhich reasoning is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Keep going even though the sentence makes no sense.",
-        "is_correct": false
-      },
-      {
-        "text": "Change several other words to fit the mistake.",
-        "is_correct": false
-      },
-      {
-        "text": "Go back, reread the phrase and correct the word using letters and context.",
+        "text": "re- means again + discover = discover again, and the sentence fits that meaning.",
         "is_correct": true
+      },
+      {
+        "text": "re- means before + discover.",
+        "is_correct": false
+      },
+      {
+        "text": "The word looks long, so it must mean again.",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence topic alone is enough.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
-    }
+      "summary": "Strong readers combine morphology with sentence meaning.",
+      "hint": "Recombine the word parts, then test the result in context."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LY04-P-008",
@@ -216,28 +307,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Fluent Reading",
-    "question": "Which example should you choose for realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audio_prompt": "Which example should you choose for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "skill": "prefix meaning",
+    "question": "Read the text.\n\nDuring the clean-up, Mina rediscovered the missing badge behind a shelf.\n\nIf a student read rediscovered as 'discovered before', what should they check?",
+    "audio_prompt": "Read the text.\n\nDuring the clean-up, Mina rediscovered the missing badge behind a shelf.\n\nIf a student read rediscovered as 'discovered before', what should they check?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Go back, reread the phrase and correct the word using letters and context.",
+        "text": "The meaning of re- and whether 'again' fits the clean-up context.",
         "is_correct": true
       },
       {
-        "text": "Keep going even though the sentence makes no sense.",
+        "text": "Only the number of letters.",
         "is_correct": false
       },
       {
-        "text": "Change several other words to fit the mistake.",
+        "text": "Whether badge is a noun.",
+        "is_correct": false
+      },
+      {
+        "text": "The punctuation at the end.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
-    }
+      "summary": "Self-correction uses word-part knowledge and context together.",
+      "hint": "Check the prefix meaning and reread the sentence."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LY04-P-009",
@@ -246,28 +350,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Fluent Reading",
-    "question": "Which example should you choose for reading a factual paragraph about cyclones?",
-    "audio_prompt": "Which example should you choose for reading a factual paragraph about cyclones?",
+    "skill": "morphology in context",
+    "question": "Read the text.\n\nThe old path became unusable after the bridge washed away.\n\nWhat does unusable mean?",
+    "audio_prompt": "Read the text.\n\nThe old path became unusable after the bridge washed away.\n\nWhat does unusable mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Say any weather word that seems possible without looking closely.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
+        "text": "Not able to be used.",
         "is_correct": true
       },
       {
-        "text": "Ignore the heading and technical terms.",
+        "text": "Able to be used again.",
+        "is_correct": false
+      },
+      {
+        "text": "Used before.",
+        "is_correct": false
+      },
+      {
+        "text": "Used carelessly.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
-    }
+      "summary": "un- reverses the meaning and -able means able to be.",
+      "hint": "Break the word into meaningful parts."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LY04-P-010",
@@ -276,28 +393,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Fluent Reading",
-    "question": "In reading a factual paragraph about cyclones, which option best demonstrates the skill?",
-    "audio_prompt": "In reading a factual paragraph about cyclones, which option best demonstrates the skill?",
+    "skill": "morphology in context",
+    "question": "Read the text.\n\nThe old path became unusable after the bridge washed away.\n\nWhich two word parts are most useful for working out unusable?",
+    "audio_prompt": "Read the text.\n\nThe old path became unusable after the bridge washed away.\n\nWhich two word parts are most useful for working out unusable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Say any weather word that seems possible without looking closely.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the heading and technical terms.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
+        "text": "un- and -able",
         "is_correct": true
+      },
+      {
+        "text": "u and able",
+        "is_correct": false
+      },
+      {
+        "text": "use and old",
+        "is_correct": false
+      },
+      {
+        "text": "path and bridge",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
-    }
+      "summary": "The prefix and suffix both contribute to the whole meaning.",
+      "hint": "Look for meaningful affixes, not random letter chunks."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LY04-P-011",
@@ -305,29 +435,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Fluent Reading",
-    "question": "Why does “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” work well for reading “The hikers cautiously crossed the suspension bridge”?",
-    "audio_prompt": "Why does “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” work well for reading “The hikers cautiously crossed the suspension bridge”?",
+    "stage": "recognise",
+    "skill": "morphology in context",
+    "question": "Read the text.\n\nThe old path became unusable after the bridge washed away.\n\nWhy does 'not able to be used' fit the passage?",
+    "audio_prompt": "Read the text.\n\nThe old path became unusable after the bridge washed away.\n\nWhy does 'not able to be used' fit the passage?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Fluent reading coordinates word recognition with grammar and meaning.",
+        "text": "A washed-away bridge would make the path impossible to use.",
         "is_correct": true
       },
       {
-        "text": "Because “Read every letter as a separate sound and ignore the sentence.” is always acceptable in this situation.",
+        "text": "The path is described as old.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "The sentence contains the word bridge.",
+        "is_correct": false
+      },
+      {
+        "text": "All words ending in -able mean broken.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
-    }
+      "summary": "Context confirms the meaning predicted from the word parts.",
+      "hint": "Test the reconstructed meaning against the event."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LY04-P-012",
@@ -335,29 +478,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Fluent Reading",
-    "question": "What makes “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” a better choice in reading “The hikers cautiously crossed the suspension bridge”?",
-    "audio_prompt": "What makes “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” a better choice in reading “The hikers cautiously crossed the suspension bridge”?",
+    "stage": "recognise",
+    "skill": "morphology in context",
+    "question": "Read the text.\n\nThe old path became unusable after the bridge washed away.\n\nWhat is the best reading process for unusable?",
+    "audio_prompt": "Read the text.\n\nThe old path became unusable after the bridge washed away.\n\nWhat is the best reading process for unusable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Read every letter as a separate sound and ignore the sentence.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Fluent reading coordinates word recognition with grammar and meaning.",
+        "text": "Split it into parts, infer the meaning, then reread the whole sentence to confirm.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Guess from the first letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the suffix.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with a synonym without checking print.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
-    }
+      "summary": "Morphology should be checked against sentence meaning.",
+      "hint": "Use parts, recombine, and verify."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LY04-P-013",
@@ -365,29 +521,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Fluent Reading",
-    "question": "What makes “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” a better choice in meeting the unfamiliar word “reusable”?",
-    "audio_prompt": "What makes “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” a better choice in meeting the unfamiliar word “reusable”?",
+    "stage": "apply",
+    "skill": "self-correction",
+    "question": "Read the text.\n\nThe geologist inspected the layers of rock.\n\nA reader first says 'insected' for inspected. What should happen next?",
+    "audio_prompt": "Read the text.\n\nThe geologist inspected the layers of rock.\n\nA reader first says 'insected' for inspected. What should happen next?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Guess from the first letter only.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Morphology and context can work together to identify and understand a multisyllabic word.",
+        "text": "Stop, check the letters and meaning, correct to inspected, then reread smoothly.",
         "is_correct": true
+      },
+      {
+        "text": "Keep the first attempt to stay fast.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the word.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with 'looked' without checking.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
-    }
+      "summary": "Self-correction repairs a mismatch using print and meaning.",
+      "hint": "Ask whether the word looks right and makes sense."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LY04-P-014",
@@ -395,29 +564,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Fluent Reading",
-    "question": "Which explanation best justifies “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” for meeting the unfamiliar word “reusable”?",
-    "audio_prompt": "Which explanation best justifies “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” for meeting the unfamiliar word “reusable”?",
+    "stage": "apply",
+    "skill": "self-correction",
+    "question": "Read the text.\n\nThe geologist inspected the layers of rock.\n\nWhat should alert the reader that 'insected' is wrong?",
+    "audio_prompt": "Read the text.\n\nThe geologist inspected the layers of rock.\n\nWhat should alert the reader that 'insected' is wrong?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Morphology and context can work together to identify and understand a multisyllabic word.",
+        "text": "It does not match the printed word or the meaning of what a geologist does.",
         "is_correct": true
       },
       {
-        "text": "Because “Guess from the first letter only.” is always acceptable in this situation.",
+        "text": "It has too many syllables.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "It starts with the same letters.",
+        "is_correct": false
+      },
+      {
+        "text": "It is an uncommon word.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
-    }
+      "summary": "A strong monitor notices both visual and semantic mismatch.",
+      "hint": "Cross-check print and meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LY04-P-015",
@@ -425,29 +607,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Fluent Reading",
-    "question": "Which explanation best justifies “Pause lightly around the extra detail but keep the sentence flowing.” for reading a paragraph with commas around an extra detail?",
-    "audio_prompt": "Which explanation best justifies “Pause lightly around the extra detail but keep the sentence flowing.” for reading a paragraph with commas around an extra detail?",
+    "stage": "apply",
+    "skill": "self-correction",
+    "question": "Read the text.\n\nThe geologist inspected the layers of rock.\n\nWhy should the reader reread the whole sentence after correcting?",
+    "audio_prompt": "Read the text.\n\nThe geologist inspected the layers of rock.\n\nWhy should the reader reread the whole sentence after correcting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Stop for several seconds at every comma.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
+        "text": "To restore the sentence's meaning and fluent phrasing.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "To make the reading slower.",
+        "is_correct": false
+      },
+      {
+        "text": "To memorise the spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Because every sentence must be read twice.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
-    }
+      "summary": "Rereading after correction reconnects the repaired word to the sentence.",
+      "hint": "Think about meaning and flow."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LY04-P-016",
@@ -455,29 +650,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Fluent Reading",
-    "question": "What should you notice about “Pause lightly around the extra detail but keep the sentence flowing.” in reading a paragraph with commas around an extra detail?",
-    "audio_prompt": "What should you notice about “Pause lightly around the extra detail but keep the sentence flowing.” in reading a paragraph with commas around an extra detail?",
+    "stage": "apply",
+    "skill": "self-correction",
+    "question": "Read the text.\n\nThe geologist inspected the layers of rock.\n\nWhich describes successful self-correction?",
+    "audio_prompt": "Read the text.\n\nThe geologist inspected the layers of rock.\n\nWhich describes successful self-correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Stop for several seconds at every comma.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
+        "text": "Notice mismatch → check clues → correct → reread.",
         "is_correct": true
+      },
+      {
+        "text": "Guess → continue → never look back.",
+        "is_correct": false
+      },
+      {
+        "text": "Sound out only the first letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace any hard word with an easier one.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
-    }
+      "summary": "Effective readers monitor and repair their reading.",
+      "hint": "Use a four-step correction routine."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LY04-P-017",
@@ -485,29 +693,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Fluent Reading",
-    "question": "What should you notice about “Go back, reread the phrase and correct the word using letters and context.” in realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audio_prompt": "What should you notice about “Go back, reread the phrase and correct the word using letters and context.” in realising a sentence no longer makes sense after reading a word incorrectly?",
+    "stage": "apply",
+    "skill": "grammatical monitoring",
+    "question": "Read the text.\n\nNeither of the gates was open.\n\nA reader says 'were open'. Which clue best supports a correction?",
+    "audio_prompt": "Read the text.\n\nNeither of the gates was open.\n\nA reader says 'were open'. Which clue best supports a correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Monitoring meaning helps readers notice and repair decoding errors.",
+        "text": "The grammatical pattern 'Neither ... was' fits the sentence.",
         "is_correct": true
       },
       {
-        "text": "Because “Keep going even though the sentence makes no sense.” is always acceptable in this situation.",
+        "text": "The nearest noun is plural, so were must be right.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Grammar should be ignored.",
+        "is_correct": false
+      },
+      {
+        "text": "The longer verb is usually correct.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
-    }
+      "summary": "Grammatical knowledge helps verify the form that fits the sentence.",
+      "hint": "Check the whole sentence pattern."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LY04-P-018",
@@ -515,29 +736,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Fluent Reading",
-    "question": "Which reason explains why “Go back, reread the phrase and correct the word using letters and context.” suits realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audio_prompt": "Which reason explains why “Go back, reread the phrase and correct the word using letters and context.” suits realising a sentence no longer makes sense after reading a word incorrectly?",
+    "stage": "apply",
+    "skill": "grammatical monitoring",
+    "question": "Read the text.\n\nNeither of the gates was open.\n\nWhich word best completes 'Neither of the gates ___ open'?",
+    "audio_prompt": "Read the text.\n\nNeither of the gates was open.\n\nWhich word best completes 'Neither of the gates ___ open'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Keep going even though the sentence makes no sense.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Monitoring meaning helps readers notice and repair decoding errors.",
+        "text": "was",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "were",
+        "is_correct": false
+      },
+      {
+        "text": "be",
+        "is_correct": false
+      },
+      {
+        "text": "being",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
-    }
+      "summary": "In this sentence, 'Neither' takes the singular verb 'was'.",
+      "hint": "Use grammar to predict what form fits."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LY04-P-019",
@@ -545,29 +779,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Fluent Reading",
-    "question": "Which reason explains why “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” suits reading a factual paragraph about cyclones?",
-    "audio_prompt": "Which reason explains why “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” suits reading a factual paragraph about cyclones?",
+    "stage": "apply",
+    "skill": "grammatical monitoring",
+    "question": "Read the text.\n\nNeither of the gates was open.\n\nWhy can grammar help a reader self-correct?",
+    "audio_prompt": "Read the text.\n\nNeither of the gates was open.\n\nWhy can grammar help a reader self-correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Say any weather word that seems possible without looking closely.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
+        "text": "A word may sound plausible but still fail to fit the sentence structure.",
         "is_correct": true
+      },
+      {
+        "text": "Grammar only matters in writing.",
+        "is_correct": false
+      },
+      {
+        "text": "Grammar tells you every word's meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Grammar replaces the need to look at print.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
-    }
+      "summary": "Syntax provides an additional checking cue.",
+      "hint": "Ask whether the word fits grammatically as well as semantically."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LY04-P-020",
@@ -575,29 +822,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Fluent Reading",
-    "question": "Why does “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” work well for reading a factual paragraph about cyclones?",
-    "audio_prompt": "Why does “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” work well for reading a factual paragraph about cyclones?",
+    "stage": "apply",
+    "skill": "grammatical monitoring",
+    "question": "Read the text.\n\nNeither of the gates was open.\n\nIf a reader sees gates and automatically chooses were, what should they do?",
+    "audio_prompt": "Read the text.\n\nNeither of the gates was open.\n\nIf a reader sees gates and automatically chooses were, what should they do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
+        "text": "Reread from 'Neither' and check the full grammatical pattern.",
         "is_correct": true
       },
       {
-        "text": "Because “Say any weather word that seems possible without looking closely.” is always acceptable in this situation.",
+        "text": "Keep were because gates is plural.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Ignore the first word.",
+        "is_correct": false
+      },
+      {
+        "text": "Change gates to gate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
-    }
+      "summary": "Readers should use the whole phrase, not only the closest noun.",
+      "hint": "Read the sentence as a structure."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LY04-P-021",
@@ -605,29 +865,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Fluent Reading",
-    "question": "Which revision best fixes the problem in “Read every letter as a separate sound and ignore the sentence.” for reading “The hikers cautiously crossed the suspension bridge”?",
-    "audio_prompt": "Which revision best fixes the problem in “Read every letter as a separate sound and ignore the sentence.” for reading “The hikers cautiously crossed the suspension bridge”?",
+    "stage": "apply",
+    "skill": "text structure monitoring",
+    "question": "Read the text.\n\nFirst rinse the seeds. Next spread them on a tray. Finally place the tray near a sunny window.\n\nA reader accidentally says 'first' for finally. Why should they self-correct?",
+    "audio_prompt": "Read the text.\n\nFirst rinse the seeds. Next spread them on a tray. Finally place the tray near a sunny window.\n\nA reader accidentally says 'first' for finally. Why should they self-correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Read every letter as a separate sound and ignore the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
+        "text": "It breaks the sequence signalled by the procedure.",
         "is_correct": true
       },
       {
-        "text": "Replace cautiously with quickly because it is shorter.",
+        "text": "The words have different numbers of letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Procedures do not use sequence.",
+        "is_correct": false
+      },
+      {
+        "text": "Every final sentence should begin with first.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check whether the words you read make sense in the sentence."
-    }
+      "summary": "Text structure helps readers notice when a misread word makes the order illogical.",
+      "hint": "Use the organisational pattern as a checking cue."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LY04-P-022",
@@ -635,29 +908,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Fluent Reading",
-    "question": "Compare the choices for reading “The hikers cautiously crossed the suspension bridge”. Which one avoids the mistake in “Read every letter as a separate sound and ignore the sentence.”?",
-    "audio_prompt": "Compare the choices for reading “The hikers cautiously crossed the suspension bridge”. Which one avoids the mistake in “Read every letter as a separate sound and ignore the sentence.”?",
+    "stage": "apply",
+    "skill": "text structure monitoring",
+    "question": "Read the text.\n\nFirst rinse the seeds. Next spread them on a tray. Finally place the tray near a sunny window.\n\nWhich word signals the last step?",
+    "audio_prompt": "Read the text.\n\nFirst rinse the seeds. Next spread them on a tray. Finally place the tray near a sunny window.\n\nWhich word signals the last step?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Read every letter as a separate sound and ignore the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "Replace cautiously with quickly because it is shorter.",
-        "is_correct": false
-      },
-      {
-        "text": "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
+        "text": "Finally",
         "is_correct": true
+      },
+      {
+        "text": "First",
+        "is_correct": false
+      },
+      {
+        "text": "Next",
+        "is_correct": false
+      },
+      {
+        "text": "tray",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check whether the words you read make sense in the sentence."
-    }
+      "summary": "Finally marks the final action in a sequence.",
+      "hint": "Use sequence words."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LY04-P-023",
@@ -665,29 +951,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Fluent Reading",
-    "question": "Compare the choices for meeting the unfamiliar word “reusable”. Which one avoids the mistake in “Guess from the first letter only.”?",
-    "audio_prompt": "Compare the choices for meeting the unfamiliar word “reusable”. Which one avoids the mistake in “Guess from the first letter only.”?",
+    "stage": "apply",
+    "skill": "text structure monitoring",
+    "question": "Read the text.\n\nFirst rinse the seeds. Next spread them on a tray. Finally place the tray near a sunny window.\n\nHow does knowing this is a procedure help reading?",
+    "audio_prompt": "Read the text.\n\nFirst rinse the seeds. Next spread them on a tray. Finally place the tray near a sunny window.\n\nHow does knowing this is a procedure help reading?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
+        "text": "It creates an expectation that steps will follow a logical order.",
         "is_correct": true
       },
       {
-        "text": "Guess from the first letter only.",
+        "text": "It means all words should be read quickly.",
         "is_correct": false
       },
       {
-        "text": "Skip the word and continue without checking meaning.",
+        "text": "It means context clues are unnecessary.",
+        "is_correct": false
+      },
+      {
+        "text": "It tells you to ignore punctuation.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Break the word into meaningful parts."
-    }
+      "summary": "Knowledge of text type supports prediction and monitoring.",
+      "hint": "Think about how procedures are organised."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LY04-P-024",
@@ -695,29 +994,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Fluent Reading",
-    "question": "If “Guess from the first letter only.” does not work in meeting the unfamiliar word “reusable”, what should replace it?",
-    "audio_prompt": "If “Guess from the first letter only.” does not work in meeting the unfamiliar word “reusable”, what should replace it?",
+    "stage": "apply",
+    "skill": "text structure monitoring",
+    "question": "Read the text.\n\nFirst rinse the seeds. Next spread them on a tray. Finally place the tray near a sunny window.\n\nWhich self-check is most useful here?",
+    "audio_prompt": "Read the text.\n\nFirst rinse the seeds. Next spread them on a tray. Finally place the tray near a sunny window.\n\nWhich self-check is most useful here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Guess from the first letter only.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
+        "text": "Does my reading preserve the order of the steps?",
         "is_correct": true
       },
       {
-        "text": "Skip the word and continue without checking meaning.",
+        "text": "Did I read the longest word first?",
+        "is_correct": false
+      },
+      {
+        "text": "Did I pause after every word?",
+        "is_correct": false
+      },
+      {
+        "text": "Did I avoid rereading?",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Break the word into meaningful parts."
-    }
+      "summary": "Readers can use structure to verify that meaning remains coherent.",
+      "hint": "Check the sequence."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LY04-P-025",
@@ -725,29 +1037,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Fluent Reading",
-    "question": "If “Stop for several seconds at every comma.” does not work in reading a paragraph with commas around an extra detail, what should replace it?",
-    "audio_prompt": "If “Stop for several seconds at every comma.” does not work in reading a paragraph with commas around an extra detail, what should replace it?",
+    "stage": "apply",
+    "skill": "semantic knowledge",
+    "question": "Read the text.\n\nMigration is the seasonal movement of animals from one region to another.\n\nIf migration is unfamiliar, what should a reader do?",
+    "audio_prompt": "Read the text.\n\nMigration is the seasonal movement of animals from one region to another.\n\nIf migration is unfamiliar, what should a reader do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Stop for several seconds at every comma.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore all punctuation and read in one flat rush.",
-        "is_correct": false
-      },
-      {
-        "text": "Pause lightly around the extra detail but keep the sentence flowing.",
+        "text": "Use the definition to confirm the meaning, then reread the sentence.",
         "is_correct": true
+      },
+      {
+        "text": "Guess only from the first letter.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the definition.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with any animal word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
-    }
+      "summary": "Nearby definitions provide direct semantic support.",
+      "hint": "Look for an explanation of the term."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LY04-P-026",
@@ -755,29 +1080,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Fluent Reading",
-    "question": "Which option corrects the meaning or form needed for reading a paragraph with commas around an extra detail?",
-    "audio_prompt": "Which option corrects the meaning or form needed for reading a paragraph with commas around an extra detail?",
+    "stage": "apply",
+    "skill": "semantic knowledge",
+    "question": "Read the text.\n\nMigration is the seasonal movement of animals from one region to another.\n\nWhich words define migration?",
+    "audio_prompt": "Read the text.\n\nMigration is the seasonal movement of animals from one region to another.\n\nWhich words define migration?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Pause lightly around the extra detail but keep the sentence flowing.",
+        "text": "the seasonal movement of animals from one region to another",
         "is_correct": true
       },
       {
-        "text": "Stop for several seconds at every comma.",
+        "text": "Migration is",
         "is_correct": false
       },
       {
-        "text": "Ignore all punctuation and read in one flat rush.",
+        "text": "animals",
+        "is_correct": false
+      },
+      {
+        "text": "region",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
-    }
+      "summary": "The phrase following 'is' gives the meaning of the technical term.",
+      "hint": "Find the restatement that explains the term."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LY04-P-027",
@@ -785,29 +1123,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Fluent Reading",
-    "question": "Which option corrects the meaning or form needed for realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audio_prompt": "Which option corrects the meaning or form needed for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "stage": "apply",
+    "skill": "semantic knowledge",
+    "question": "Read the text.\n\nMigration is the seasonal movement of animals from one region to another.\n\nWhy is rereading useful after learning the definition?",
+    "audio_prompt": "Read the text.\n\nMigration is the seasonal movement of animals from one region to another.\n\nWhy is rereading useful after learning the definition?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Keep going even though the sentence makes no sense.",
-        "is_correct": false
-      },
-      {
-        "text": "Go back, reread the phrase and correct the word using letters and context.",
+        "text": "The reader can now connect the technical word to the whole sentence meaning.",
         "is_correct": true
       },
       {
-        "text": "Change several other words to fit the mistake.",
+        "text": "The word becomes shorter.",
+        "is_correct": false
+      },
+      {
+        "text": "The punctuation changes.",
+        "is_correct": false
+      },
+      {
+        "text": "The definition is no longer needed.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
-    }
+      "summary": "Rereading consolidates meaning and restores fluent comprehension.",
+      "hint": "Read again with the new meaning in mind."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LY04-P-028",
@@ -815,29 +1166,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Fluent Reading",
-    "question": "Which choice is the clearest correction for realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audio_prompt": "Which choice is the clearest correction for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "stage": "apply",
+    "skill": "semantic knowledge",
+    "question": "Read the text.\n\nMigration is the seasonal movement of animals from one region to another.\n\nWhich kind of context clue is used?",
+    "audio_prompt": "Read the text.\n\nMigration is the seasonal movement of animals from one region to another.\n\nWhich kind of context clue is used?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Keep going even though the sentence makes no sense.",
-        "is_correct": false
-      },
-      {
-        "text": "Change several other words to fit the mistake.",
-        "is_correct": false
-      },
-      {
-        "text": "Go back, reread the phrase and correct the word using letters and context.",
+        "text": "A direct definition.",
         "is_correct": true
+      },
+      {
+        "text": "A contrast.",
+        "is_correct": false
+      },
+      {
+        "text": "A joke.",
+        "is_correct": false
+      },
+      {
+        "text": "A sequence signal.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
-    }
+      "summary": "The sentence directly defines the technical word.",
+      "hint": "Identify how the surrounding text gives meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LY04-P-029",
@@ -845,29 +1209,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Fluent Reading",
-    "question": "Which choice is the clearest correction for reading a factual paragraph about cyclones?",
-    "audio_prompt": "Which choice is the clearest correction for reading a factual paragraph about cyclones?",
+    "stage": "apply",
+    "skill": "fluency",
+    "question": "Read the text.\n\nCould the storm reach the coast by evening?\n\nWhich reading is most fluent?",
+    "audio_prompt": "Read the text.\n\nCould the storm reach the coast by evening?\n\nWhich reading is most fluent?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
+        "text": "Accurate words, natural phrasing and intonation that signals a question.",
         "is_correct": true
       },
       {
-        "text": "Say any weather word that seems possible without looking closely.",
+        "text": "Very fast reading that drops small words.",
         "is_correct": false
       },
       {
-        "text": "Ignore the heading and technical terms.",
+        "text": "A one-second pause after every word.",
+        "is_correct": false
+      },
+      {
+        "text": "A flat monotone.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use knowledge to support, not replace, decoding."
-    }
+      "summary": "Fluency combines accuracy, pace, phrasing and expression.",
+      "hint": "Let punctuation and meaning guide your voice."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LY04-P-030",
@@ -875,29 +1252,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Fluent Reading",
-    "question": "Which revision best fixes the problem in “Say any weather word that seems possible without looking closely.” for reading a factual paragraph about cyclones?",
-    "audio_prompt": "Which revision best fixes the problem in “Say any weather word that seems possible without looking closely.” for reading a factual paragraph about cyclones?",
+    "stage": "apply",
+    "skill": "fluency",
+    "question": "Read the text.\n\nCould the storm reach the coast by evening?\n\nWhat should the question mark change most?",
+    "audio_prompt": "Read the text.\n\nCould the storm reach the coast by evening?\n\nWhat should the question mark change most?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Say any weather word that seems possible without looking closely.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
+        "text": "The intonation at the end of the sentence.",
         "is_correct": true
       },
       {
-        "text": "Ignore the heading and technical terms.",
+        "text": "The spelling of coast.",
+        "is_correct": false
+      },
+      {
+        "text": "The number of words.",
+        "is_correct": false
+      },
+      {
+        "text": "The meaning of storm.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use knowledge to support, not replace, decoding."
-    }
+      "summary": "Punctuation helps signal how a sentence should sound.",
+      "hint": "Read punctuation as part of meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LY04-P-031",
@@ -906,28 +1296,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "You now need to handle reading “The hikers cautiously crossed the suspension bridge” independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle reading “The hikers cautiously crossed the suspension bridge” independently. Which choice should you use?",
+    "skill": "fluency",
+    "question": "Read the text.\n\nCould the storm reach the coast by evening?\n\nWhich statement about fluency is correct?",
+    "audio_prompt": "Read the text.\n\nCould the storm reach the coast by evening?\n\nWhich statement about fluency is correct?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Replace cautiously with quickly because it is shorter.",
-        "is_correct": false
-      },
-      {
-        "text": "Read every letter as a separate sound and ignore the sentence.",
-        "is_correct": false
-      },
-      {
-        "text": "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
+        "text": "Fluency is accurate, meaningful reading—not simply maximum speed.",
         "is_correct": true
+      },
+      {
+        "text": "The fastest reader is always the most fluent.",
+        "is_correct": false
+      },
+      {
+        "text": "Fluent readers never pause.",
+        "is_correct": false
+      },
+      {
+        "text": "Expression matters more than accuracy.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
-    }
+      "summary": "Fluency depends on accuracy, pace, phrasing and expression together.",
+      "hint": "Do not confuse fluency with speed."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LY04-P-032",
@@ -936,28 +1339,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Apply the same idea to reading “The hikers cautiously crossed the suspension bridge”. Which option is best?",
-    "audio_prompt": "Apply the same idea to reading “The hikers cautiously crossed the suspension bridge”. Which option is best?",
+    "skill": "fluency",
+    "question": "Read the text.\n\nCould the storm reach the coast by evening?\n\nA reader drops the word 'the' to go faster. What should they do?",
+    "audio_prompt": "Read the text.\n\nCould the storm reach the coast by evening?\n\nA reader drops the word 'the' to go faster. What should they do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
+        "text": "Slow enough to read every printed word accurately, then keep a natural pace.",
         "is_correct": true
       },
       {
-        "text": "Replace cautiously with quickly because it is shorter.",
+        "text": "Keep dropping small words.",
         "is_correct": false
       },
       {
-        "text": "Read every letter as a separate sound and ignore the sentence.",
+        "text": "Pause after every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the sentence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
-    }
+      "summary": "Accuracy is a core part of fluency.",
+      "hint": "Speed should never cause omissions."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LY04-P-033",
@@ -966,28 +1382,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Apply the same idea to meeting the unfamiliar word “reusable”. Which option is best?",
-    "audio_prompt": "Apply the same idea to meeting the unfamiliar word “reusable”. Which option is best?",
+    "skill": "suffix and context",
+    "question": "Read the text.\n\nAfter sprinting up the hill, Leo arrived breathless.\n\nWhat does breathless mean?",
+    "audio_prompt": "Read the text.\n\nAfter sprinting up the hill, Leo arrived breathless.\n\nWhat does breathless mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Skip the word and continue without checking meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
+        "text": "Without breath or short of breath.",
         "is_correct": true
       },
       {
-        "text": "Guess from the first letter only.",
+        "text": "Full of breath.",
+        "is_correct": false
+      },
+      {
+        "text": "Breathing before.",
+        "is_correct": false
+      },
+      {
+        "text": "Breathing incorrectly.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
-    }
+      "summary": "The suffix -less means without, and the sprinting context supports being short of breath.",
+      "hint": "Use the suffix and the action together."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LY04-P-034",
@@ -996,28 +1425,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Which decision would produce the clearest result in meeting the unfamiliar word “reusable”?",
-    "audio_prompt": "Which decision would produce the clearest result in meeting the unfamiliar word “reusable”?",
+    "skill": "suffix and context",
+    "question": "Read the text.\n\nAfter sprinting up the hill, Leo arrived breathless.\n\nWhich part gives the meaning 'without'?",
+    "audio_prompt": "Read the text.\n\nAfter sprinting up the hill, Leo arrived breathless.\n\nWhich part gives the meaning 'without'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Skip the word and continue without checking meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Guess from the first letter only.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
+        "text": "-less",
         "is_correct": true
+      },
+      {
+        "text": "breath",
+        "is_correct": false
+      },
+      {
+        "text": "-th",
+        "is_correct": false
+      },
+      {
+        "text": "bre-",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
-    }
+      "summary": "-less is a suffix meaning without.",
+      "hint": "Identify the meaningful ending."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LY04-P-035",
@@ -1026,28 +1468,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Which decision would produce the clearest result in reading a paragraph with commas around an extra detail?",
-    "audio_prompt": "Which decision would produce the clearest result in reading a paragraph with commas around an extra detail?",
+    "skill": "suffix and context",
+    "question": "Read the text.\n\nAfter sprinting up the hill, Leo arrived breathless.\n\nWhich context clue confirms the meaning?",
+    "audio_prompt": "Read the text.\n\nAfter sprinting up the hill, Leo arrived breathless.\n\nWhich context clue confirms the meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Pause lightly around the extra detail but keep the sentence flowing.",
+        "text": "After sprinting up the hill",
         "is_correct": true
       },
       {
-        "text": "Ignore all punctuation and read in one flat rush.",
+        "text": "Leo",
         "is_correct": false
       },
       {
-        "text": "Stop for several seconds at every comma.",
+        "text": "arrived",
+        "is_correct": false
+      },
+      {
+        "text": "the comma",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
-    }
+      "summary": "Sprinting explains why Leo would be short of breath.",
+      "hint": "Find the event that supports the word-part meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LY04-P-036",
@@ -1056,28 +1511,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Choose the option that applies the skill correctly in reading a paragraph with commas around an extra detail.",
-    "audio_prompt": "Choose the option that applies the skill correctly in reading a paragraph with commas around an extra detail.",
+    "skill": "suffix and context",
+    "question": "Read the text.\n\nAfter sprinting up the hill, Leo arrived breathless.\n\nWhat should a reader do if they first read breathless as breathlessly?",
+    "audio_prompt": "Read the text.\n\nAfter sprinting up the hill, Leo arrived breathless.\n\nWhat should a reader do if they first read breathless as breathlessly?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Ignore all punctuation and read in one flat rush.",
-        "is_correct": false
-      },
-      {
-        "text": "Pause lightly around the extra detail but keep the sentence flowing.",
+        "text": "Check the printed ending and grammar, then correct and reread.",
         "is_correct": true
       },
       {
-        "text": "Stop for several seconds at every comma.",
+        "text": "Keep it because the meanings are similar.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the extra -ly.",
+        "is_correct": false
+      },
+      {
+        "text": "Change arrived to arrive.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
-    }
+      "summary": "The extra suffix changes both the printed word and grammatical form.",
+      "hint": "Check exact print and sentence grammar."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LY04-P-037",
@@ -1085,29 +1553,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Choose the option that applies the skill correctly in realising a sentence no longer makes sense after reading a word incorrectly.",
-    "audio_prompt": "Choose the option that applies the skill correctly in realising a sentence no longer makes sense after reading a word incorrectly.",
+    "stage": "analyse",
+    "skill": "cross-check cues",
+    "question": "Read the text.\n\nThe ranger cautiously approached the injured wallaby.\n\nA reader first says 'casually' for cautiously. What is the strongest reason to check?",
+    "audio_prompt": "Read the text.\n\nThe ranger cautiously approached the injured wallaby.\n\nA reader first says 'casually' for cautiously. What is the strongest reason to check?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Change several other words to fit the mistake.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep going even though the sentence makes no sense.",
-        "is_correct": false
-      },
-      {
-        "text": "Go back, reread the phrase and correct the word using letters and context.",
+        "text": "The printed letters and serious situation both point to cautiously, meaning carefully.",
         "is_correct": true
+      },
+      {
+        "text": "Both begin with c, so either is fine.",
+        "is_correct": false
+      },
+      {
+        "text": "Casually is shorter.",
+        "is_correct": false
+      },
+      {
+        "text": "Meaning should not influence reading.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
-    }
+      "summary": "Accurate reading cross-checks print and semantic context.",
+      "hint": "Use both visual and meaning cues."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LY04-P-038",
@@ -1115,29 +1596,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "What would be the most effective choice for realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audio_prompt": "What would be the most effective choice for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "stage": "analyse",
+    "skill": "cross-check cues",
+    "question": "Read the text.\n\nThe ranger cautiously approached the injured wallaby.\n\nWhat does cautiously most likely mean?",
+    "audio_prompt": "Read the text.\n\nThe ranger cautiously approached the injured wallaby.\n\nWhat does cautiously most likely mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Go back, reread the phrase and correct the word using letters and context.",
+        "text": "Carefully.",
         "is_correct": true
       },
       {
-        "text": "Change several other words to fit the mistake.",
+        "text": "Quickly.",
         "is_correct": false
       },
       {
-        "text": "Keep going even though the sentence makes no sense.",
+        "text": "Noisily.",
+        "is_correct": false
+      },
+      {
+        "text": "Again.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
-    }
+      "summary": "Approaching an injured animal suggests care, and the word form supports cautiously.",
+      "hint": "Use the situation and the whole word."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LY04-P-039",
@@ -1145,29 +1639,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "What would be the most effective choice for reading a factual paragraph about cyclones?",
-    "audio_prompt": "What would be the most effective choice for reading a factual paragraph about cyclones?",
+    "stage": "analyse",
+    "skill": "cross-check cues",
+    "question": "Read the text.\n\nThe ranger cautiously approached the injured wallaby.\n\nWhy is casually a poor fit?",
+    "audio_prompt": "Read the text.\n\nThe ranger cautiously approached the injured wallaby.\n\nWhy is casually a poor fit?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Ignore the heading and technical terms.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
+        "text": "It does not match the letters and suggests a relaxed manner that conflicts with the situation.",
         "is_correct": true
       },
       {
-        "text": "Say any weather word that seems possible without looking closely.",
+        "text": "It has fewer letters.",
+        "is_correct": false
+      },
+      {
+        "text": "It is an adverb.",
+        "is_correct": false
+      },
+      {
+        "text": "It ends in -ly.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
-    }
+      "summary": "A correction must fit both print and meaning.",
+      "hint": "Reject options that fail either cue."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LY04-P-040",
@@ -1175,29 +1682,386 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "You now need to handle reading a factual paragraph about cyclones independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle reading a factual paragraph about cyclones independently. Which choice should you use?",
+    "stage": "analyse",
+    "skill": "cross-check cues",
+    "question": "Read the text.\n\nThe ranger cautiously approached the injured wallaby.\n\nWhich strategy best describes the reader's job?",
+    "audio_prompt": "Read the text.\n\nThe ranger cautiously approached the injured wallaby.\n\nWhich strategy best describes the reader's job?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Ignore the heading and technical terms.",
-        "is_correct": false
-      },
-      {
-        "text": "Say any weather word that seems possible without looking closely.",
-        "is_correct": false
-      },
-      {
-        "text": "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
+        "text": "Cross-check how the word looks with what would make sense here.",
         "is_correct": true
+      },
+      {
+        "text": "Use meaning only.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the first letter only.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the shortest familiar word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
-    }
+      "summary": "Strong reading integrates multiple sources of information.",
+      "hint": "Use more than one cue."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LY04-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "suffix meaning",
+    "question": "Read the text.\n\nThe audience waited silently as the curtain rose.\n\nWhat does silently mean?",
+    "audio_prompt": "Read the text.\n\nThe audience waited silently as the curtain rose.\n\nWhat does silently mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "In a silent or quiet way.",
+        "is_correct": true
+      },
+      {
+        "text": "The state of being silent.",
+        "is_correct": false
+      },
+      {
+        "text": "Without silence.",
+        "is_correct": false
+      },
+      {
+        "text": "Able to be silent.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The suffix -ly often means 'in a certain way'.",
+      "hint": "Identify the base word and suffix."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LY04-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "suffix meaning",
+    "question": "Read the text.\n\nThe audience waited silently as the curtain rose.\n\nWhat does -ly contribute in silently?",
+    "audio_prompt": "Read the text.\n\nThe audience waited silently as the curtain rose.\n\nWhat does -ly contribute in silently?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It shows how the audience waited.",
+        "is_correct": true
+      },
+      {
+        "text": "It means without.",
+        "is_correct": false
+      },
+      {
+        "text": "It means before.",
+        "is_correct": false
+      },
+      {
+        "text": "It means the state of being.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The suffix changes silent into an adverb describing how the action happens.",
+      "hint": "Check the word's job in the sentence."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LY04-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "suffix meaning",
+    "question": "Read the text.\n\nThe audience waited silently as the curtain rose.\n\nWhich word does silently describe?",
+    "audio_prompt": "Read the text.\n\nThe audience waited silently as the curtain rose.\n\nWhich word does silently describe?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "waited",
+        "is_correct": true
+      },
+      {
+        "text": "audience",
+        "is_correct": false
+      },
+      {
+        "text": "curtain",
+        "is_correct": false
+      },
+      {
+        "text": "rose",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Silently tells how the audience waited.",
+      "hint": "Use grammar to see what the adverb modifies."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LY04-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "suffix meaning",
+    "question": "Read the text.\n\nThe audience waited silently as the curtain rose.\n\nWhy is 'the state of being silent' not the best meaning here?",
+    "audio_prompt": "Read the text.\n\nThe audience waited silently as the curtain rose.\n\nWhy is 'the state of being silent' not the best meaning here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "That meaning matches -ness, while -ly describes the manner of waiting.",
+        "is_correct": true
+      },
+      {
+        "text": "It is too long.",
+        "is_correct": false
+      },
+      {
+        "text": "Silent is a noun.",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence is a question.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Suffix knowledge and grammar distinguish related word forms.",
+      "hint": "Compare the functions of -ly and -ness."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LY04-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "prefix and topic knowledge",
+    "question": "Read the text.\n\nThe museum's collection includes several prehistoric tools.\n\nWhich strategy is most useful for prehistoric?",
+    "audio_prompt": "Read the text.\n\nThe museum's collection includes several prehistoric tools.\n\nWhich strategy is most useful for prehistoric?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use pre- meaning before and historic, then check that 'before recorded history' fits the topic.",
+        "is_correct": true
+      },
+      {
+        "text": "Read only the first three letters.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with historical.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the word.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Word parts and topic knowledge work together to identify and understand longer words.",
+      "hint": "Break the word into meaningful parts."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LY04-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "prefix and topic knowledge",
+    "question": "Read the text.\n\nThe museum's collection includes several prehistoric tools.\n\nWhat does pre- mean in prehistoric?",
+    "audio_prompt": "Read the text.\n\nThe museum's collection includes several prehistoric tools.\n\nWhat does pre- mean in prehistoric?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "before",
+        "is_correct": true
+      },
+      {
+        "text": "again",
+        "is_correct": false
+      },
+      {
+        "text": "incorrectly",
+        "is_correct": false
+      },
+      {
+        "text": "without",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The prefix pre- means before.",
+      "hint": "Recall the prefix meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LY04-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "prefix and topic knowledge",
+    "question": "Read the text.\n\nThe museum's collection includes several prehistoric tools.\n\nWhy should the reader still check the sentence after using pre-?",
+    "audio_prompt": "Read the text.\n\nThe museum's collection includes several prehistoric tools.\n\nWhy should the reader still check the sentence after using pre-?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Word-part reasoning should be confirmed by the topic and sentence meaning.",
+        "is_correct": true
+      },
+      {
+        "text": "Prefixes are never reliable.",
+        "is_correct": false
+      },
+      {
+        "text": "The sentence changes the prefix meaning completely.",
+        "is_correct": false
+      },
+      {
+        "text": "Context is only for spelling.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Morphology provides a prediction that context can confirm.",
+      "hint": "Recombine, then verify."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LY04-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "prefix and topic knowledge",
+    "question": "Read the text.\n\nThe museum's collection includes several prehistoric tools.\n\nWhat does prehistoric most likely mean here?",
+    "audio_prompt": "Read the text.\n\nThe museum's collection includes several prehistoric tools.\n\nWhat does prehistoric most likely mean here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "From a time before recorded history.",
+        "is_correct": true
+      },
+      {
+        "text": "Recorded again.",
+        "is_correct": false
+      },
+      {
+        "text": "Historically incorrect.",
+        "is_correct": false
+      },
+      {
+        "text": "Without history books in the museum.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The prefix and base word combine to indicate a time before recorded history.",
+      "hint": "Use morphology and topic knowledge together."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LY04-T-001",
@@ -1206,28 +2070,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
     "stage": "verify",
-    "skill": "Fluent Reading",
-    "question": "New context: reading dialogue between two characters. Which option is correct?",
-    "audio_prompt": "New context: reading dialogue between two characters. Which option is correct?",
+    "skill": "morphology and context",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat does relocated most likely mean?",
+    "audio_prompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat does relocated most likely mean?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
+        "text": "Moved or placed somewhere again or elsewhere.",
         "is_correct": true
       },
       {
-        "text": "Read quotation marks aloud as words.",
+        "text": "Packed before the hike.",
         "is_correct": false
       },
       {
-        "text": "Ignore who is speaking.",
+        "text": "Lost incorrectly.",
+        "is_correct": false
+      },
+      {
+        "text": "Made lighter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
-    }
+      "summary": "The prefix re- and the event support the meaning of moving/placing again.",
+      "hint": "Use word parts and context together."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY04-T-002",
@@ -1236,28 +2113,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
     "stage": "verify",
-    "skill": "Fluent Reading",
-    "question": "What is the best choice for reading dialogue between two characters?",
-    "audio_prompt": "What is the best choice for reading dialogue between two characters?",
+    "skill": "morphology and context",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich clue from the word helps most?",
+    "audio_prompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich clue from the word helps most?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Read quotation marks aloud as words.",
-        "is_correct": false
-      },
-      {
-        "text": "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
+        "text": "re-",
         "is_correct": true
       },
       {
-        "text": "Ignore who is speaking.",
+        "text": "-ed",
+        "is_correct": false
+      },
+      {
+        "text": "loc",
+        "is_correct": false
+      },
+      {
+        "text": "the first letter r",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
-    }
+      "summary": "re- is the meaningful prefix.",
+      "hint": "Identify the morpheme."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY04-T-003",
@@ -1266,28 +2156,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
     "stage": "verify",
-    "skill": "Fluent Reading",
-    "question": "Which explanation best supports “Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.” in reading dialogue between two characters?",
-    "audio_prompt": "Which explanation best supports “Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.” in reading dialogue between two characters?",
+    "skill": "morphology and context",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich context detail best confirms the meaning?",
+    "audio_prompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich context detail best confirms the meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Read quotation marks aloud as words.” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Because surface appearance matters more than meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Fluent phrasing reflects sentence structure and speaker changes.",
+        "text": "the guide ... the missing pack beside the creek",
         "is_correct": true
+      },
+      {
+        "text": "The hikers were relieved",
+        "is_correct": false
+      },
+      {
+        "text": "missing",
+        "is_correct": false
+      },
+      {
+        "text": "creek",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
-    }
+      "summary": "The sentence describes the pack being placed/found at a location.",
+      "hint": "Use the surrounding event."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LY04-T-004",
@@ -1296,28 +2199,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
     "stage": "verify",
-    "skill": "Fluent Reading",
-    "question": "Which clue should guide your decision in reading dialogue between two characters?",
-    "audio_prompt": "Which clue should guide your decision in reading dialogue between two characters?",
+    "skill": "morphology and context",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat is the best overall strategy?",
+    "audio_prompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat is the best overall strategy?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Track quotation marks, speech tags and sentence boundaries.",
+        "text": "Infer from re- + locate, then verify against the sentence.",
         "is_correct": true
       },
       {
-        "text": "Choose the option with the most words.",
+        "text": "Guess from the first letter.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "Use context only and ignore print.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the longest option.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
-    }
+      "summary": "Strong readers integrate morphology and context.",
+      "hint": "Cross-check more than one source of information."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LY04-T-005",
@@ -1325,29 +2241,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Which option would you reject first in reading dialogue between two characters?",
-    "audio_prompt": "Which option would you reject first in reading dialogue between two characters?",
+    "stage": "verify",
+    "skill": "self-correction",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nA reader says 'insected' for inspected. What is the best correction process?",
+    "audio_prompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nA reader says 'insected' for inspected. What is the best correction process?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
-        "is_correct": false
-      },
-      {
-        "text": "Read quotation marks aloud as words.",
+        "text": "Notice the mismatch, check print and meaning, correct to inspected, then reread smoothly.",
         "is_correct": true
       },
       {
-        "text": "Ignore who is speaking.",
+        "text": "Keep insected to avoid pausing.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the word.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with looked without checking.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
-    }
+      "summary": "Effective self-correction uses print and meaning, then restores fluency.",
+      "hint": "Accuracy comes before speed."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LY04-T-006",
@@ -1355,29 +2284,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Which correction should replace “Read quotation marks aloud as words.” in reading dialogue between two characters?",
-    "audio_prompt": "Which correction should replace “Read quotation marks aloud as words.” in reading dialogue between two characters?",
+    "stage": "verify",
+    "skill": "self-correction",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat first signals a problem with 'insected'?",
+    "audio_prompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat first signals a problem with 'insected'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Read quotation marks aloud as words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore who is speaking.",
-        "is_correct": false
-      },
-      {
-        "text": "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
+        "text": "It does not make sense as an action an astronomer performs on a telescope.",
         "is_correct": true
+      },
+      {
+        "text": "It is too long.",
+        "is_correct": false
+      },
+      {
+        "text": "It begins with in-.",
+        "is_correct": false
+      },
+      {
+        "text": "It has two syllables.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
-    }
+      "summary": "Semantic monitoring can alert the reader to a mismatch.",
+      "hint": "Ask whether the sentence makes sense."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LY04-T-007",
@@ -1385,29 +2327,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Apply the skill to reading dialogue between two characters: what should you choose?",
-    "audio_prompt": "Apply the skill to reading dialogue between two characters: what should you choose?",
+    "stage": "verify",
+    "skill": "self-correction",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat print clue supports inspected?",
+    "audio_prompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat print clue supports inspected?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
+        "text": "The word contains the letters inspect- rather than insect-.",
         "is_correct": true
       },
       {
-        "text": "Read quotation marks aloud as words.",
+        "text": "Both words start with in-.",
         "is_correct": false
       },
       {
-        "text": "Ignore who is speaking.",
+        "text": "The last letter is d.",
+        "is_correct": false
+      },
+      {
+        "text": "The word is longer than telescope.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
-    }
+      "summary": "Looking through the whole word distinguishes similar-looking forms.",
+      "hint": "Check all the letters, not just the start."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LY04-T-008",
@@ -1415,29 +2370,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Which final choice gives the clearest and most accurate result for reading dialogue between two characters?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for reading dialogue between two characters?",
+    "stage": "verify",
+    "skill": "self-correction",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhy reread after correcting?",
+    "audio_prompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhy reread after correcting?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Read quotation marks aloud as words.",
-        "is_correct": false
-      },
-      {
-        "text": "Use punctuation and reporting clauses to change phrasing slightly for each speaker while keeping the words accurate.",
+        "text": "To reconnect the corrected word with the sentence's meaning and phrasing.",
         "is_correct": true
       },
       {
-        "text": "Ignore who is speaking.",
+        "text": "Because every sentence must be read twice.",
+        "is_correct": false
+      },
+      {
+        "text": "To slow down.",
+        "is_correct": false
+      },
+      {
+        "text": "To memorise the word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Fluent phrasing reflects sentence structure and speaker changes.",
-      "hint": "Track quotation marks, speech tags and sentence boundaries."
-    }
+      "summary": "Rereading restores fluent comprehension.",
+      "hint": "Repair then reread."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LY04-T-009",
@@ -1445,29 +2413,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Fluent Reading",
-    "question": "New context: reading a long sentence with a dependent clause first. Which option is correct?",
-    "audio_prompt": "New context: reading a long sentence with a dependent clause first. Which option is correct?",
+    "stage": "apply",
+    "skill": "semantic monitoring",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nHow should the definition help a reader?",
+    "audio_prompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nHow should the definition help a reader?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Stop permanently after the dependent clause.",
-        "is_correct": false
-      },
-      {
-        "text": "Treat every word as an unrelated unit.",
-        "is_correct": false
-      },
-      {
-        "text": "Read the opening dependent clause as one phrase, then continue into the main clause.",
+        "text": "It confirms the technical word's meaning so the reader can reread with understanding.",
         "is_correct": true
+      },
+      {
+        "text": "It should be skipped.",
+        "is_correct": false
+      },
+      {
+        "text": "It means evaporation can be replaced by vapour everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "It only helps spelling.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
-    }
+      "summary": "Nearby definitions support semantic knowledge and comprehension.",
+      "hint": "Use explanatory text around technical words."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LY04-T-010",
@@ -1475,29 +2456,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Fluent Reading",
-    "question": "What is the best choice for reading a long sentence with a dependent clause first?",
-    "audio_prompt": "What is the best choice for reading a long sentence with a dependent clause first?",
+    "stage": "apply",
+    "skill": "semantic monitoring",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich phrase defines evaporation?",
+    "audio_prompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich phrase defines evaporation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Read the opening dependent clause as one phrase, then continue into the main clause.",
+        "text": "the process in which liquid water changes into water vapour",
         "is_correct": true
       },
       {
-        "text": "Stop permanently after the dependent clause.",
+        "text": "liquid water",
         "is_correct": false
       },
       {
-        "text": "Treat every word as an unrelated unit.",
+        "text": "water vapour",
+        "is_correct": false
+      },
+      {
+        "text": "is the process",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
-    }
+      "summary": "The explanatory phrase gives the meaning of the term.",
+      "hint": "Find the direct definition."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LY04-T-011",
@@ -1505,29 +2499,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Fluent Reading",
-    "question": "Which explanation best supports “Read the opening dependent clause as one phrase, then continue into the main clause.” in reading a long sentence with a dependent clause first?",
-    "audio_prompt": "Which explanation best supports “Read the opening dependent clause as one phrase, then continue into the main clause.” in reading a long sentence with a dependent clause first?",
+    "stage": "apply",
+    "skill": "semantic monitoring",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhat should the reader do after working out the meaning?",
+    "audio_prompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhat should the reader do after working out the meaning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Stop permanently after the dependent clause.” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Recognising clause structure helps readers group words into meaningful phrases.",
+        "text": "Reread the sentence smoothly with the meaning in mind.",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "Skip the term next time.",
+        "is_correct": false
+      },
+      {
+        "text": "Read only the definition.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the term with water.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
-    }
+      "summary": "Rereading consolidates the word's meaning in context.",
+      "hint": "Return to the whole sentence."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LY04-T-012",
@@ -1535,29 +2542,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Fluent Reading",
-    "question": "Which clue should guide your decision in reading a long sentence with a dependent clause first?",
-    "audio_prompt": "Which clue should guide your decision in reading a long sentence with a dependent clause first?",
+    "stage": "apply",
+    "skill": "semantic monitoring",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich reading knowledge is doing most of the work here?",
+    "audio_prompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich reading knowledge is doing most of the work here?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
-      },
-      {
-        "text": "Find the clause boundary before deciding where to pause.",
+        "text": "Semantic knowledge from a direct definition.",
         "is_correct": true
+      },
+      {
+        "text": "Only phonics.",
+        "is_correct": false
+      },
+      {
+        "text": "Only punctuation.",
+        "is_correct": false
+      },
+      {
+        "text": "Only text speed.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
-    }
+      "summary": "The sentence directly explains the meaning.",
+      "hint": "Identify the type of cue."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LY04-T-013",
@@ -1566,28 +2586,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
     "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Which option would you reject first in reading a long sentence with a dependent clause first?",
-    "audio_prompt": "Which option would you reject first in reading a long sentence with a dependent clause first?",
+    "skill": "fluent reading",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich performance is most fluent?",
+    "audio_prompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich performance is most fluent?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Stop permanently after the dependent clause.",
+        "text": "Accurate wording, phrases grouped by meaning, and expression that reflects urgency.",
         "is_correct": true
       },
       {
-        "text": "Read the opening dependent clause as one phrase, then continue into the main clause.",
+        "text": "Maximum speed with omitted words.",
         "is_correct": false
       },
       {
-        "text": "Treat every word as an unrelated unit.",
+        "text": "Equal stress on every word.",
+        "is_correct": false
+      },
+      {
+        "text": "Long pauses between every word.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
-    }
+      "summary": "Fluency includes accuracy, phrasing, pace and expression.",
+      "hint": "Let punctuation and meaning shape the voice."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LY04-T-014",
@@ -1596,28 +2629,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
     "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Which correction should replace “Stop permanently after the dependent clause.” in reading a long sentence with a dependent clause first?",
-    "audio_prompt": "Which correction should replace “Stop permanently after the dependent clause.” in reading a long sentence with a dependent clause first?",
+    "skill": "fluent reading",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nHow should the exclamation mark affect reading?",
+    "audio_prompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nHow should the exclamation mark affect reading?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Stop permanently after the dependent clause.",
-        "is_correct": false
-      },
-      {
-        "text": "Read the opening dependent clause as one phrase, then continue into the main clause.",
+        "text": "It should signal stronger expression or urgency.",
         "is_correct": true
       },
       {
-        "text": "Treat every word as an unrelated unit.",
+        "text": "It should make the sentence a question.",
+        "is_correct": false
+      },
+      {
+        "text": "It means pause after every word.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes shouted to whispered.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
-    }
+      "summary": "Punctuation contributes to expression and meaning.",
+      "hint": "Read punctuation as a cue."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LY04-T-015",
@@ -1626,28 +2672,41 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
     "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Apply the skill to reading a long sentence with a dependent clause first: what should you choose?",
-    "audio_prompt": "Apply the skill to reading a long sentence with a dependent clause first: what should you choose?",
+    "skill": "fluent reading",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich phrase should likely be read as one meaningful chunk?",
+    "audio_prompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich phrase should likely be read as one meaningful chunk?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Stop permanently after the dependent clause.",
-        "is_correct": false
-      },
-      {
-        "text": "Treat every word as an unrelated unit.",
-        "is_correct": false
-      },
-      {
-        "text": "Read the opening dependent clause as one phrase, then continue into the main clause.",
+        "text": "as the ball rolled towards the road",
         "is_correct": true
+      },
+      {
+        "text": "as / the / ball / rolled / towards / the / road",
+        "is_correct": false
+      },
+      {
+        "text": "Watch / out",
+        "is_correct": false
+      },
+      {
+        "text": "Mia / shouted / as",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
-    }
+      "summary": "Fluent readers group words into meaningful phrases rather than word-by-word chunks.",
+      "hint": "Phrase by meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LY04-T-016",
@@ -1656,27 +2715,40 @@
     "curriculum_code": "AC9E4LY04",
     "bank": "test",
     "stage": "apply",
-    "skill": "Fluent Reading",
-    "question": "Which final choice gives the clearest and most accurate result for reading a long sentence with a dependent clause first?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for reading a long sentence with a dependent clause first?",
+    "skill": "fluent reading",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nIf the reader says every word correctly but uses a flat monotone, what is missing?",
+    "audio_prompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nIf the reader says every word correctly but uses a flat monotone, what is missing?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Read the opening dependent clause as one phrase, then continue into the main clause.",
+        "text": "Expression that reflects meaning and punctuation.",
         "is_correct": true
       },
       {
-        "text": "Stop permanently after the dependent clause.",
+        "text": "Accuracy.",
         "is_correct": false
       },
       {
-        "text": "Treat every word as an unrelated unit.",
+        "text": "Word recognition.",
+        "is_correct": false
+      },
+      {
+        "text": "Spelling.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Recognising clause structure helps readers group words into meaningful phrases.",
-      "hint": "Find the clause boundary before deciding where to pause."
-    }
+      "summary": "Fluency includes prosody as well as accuracy.",
+      "hint": "Think about how a listener hears the meaning."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]
