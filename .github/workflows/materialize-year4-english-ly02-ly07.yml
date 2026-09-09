@@ -1,0 +1,54 @@
+name: Materialize Year 4 English LY02-LY07 banks
+
+on:
+  push:
+    branches:
+      - codex/year4-english-ly02-ly07
+    paths:
+      - 'scripts/materialize_year4_english_ly02_ly07.mjs'
+      - 'scripts/year4-english-ly02-ly07/**'
+      - '.github/workflows/materialize-year4-english-ly02-ly07.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  materialize:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: codex/year4-english-ly02-ly07
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Materialize candidate banks
+        run: node scripts/materialize_year4_english_ly02_ly07.mjs
+      - name: Check generated counts
+        run: |
+          node - <<'NODE'
+          const fs=require('fs');
+          for(const n of ['02','03','04','05','06','07']){
+            const code='AC9E4LY'+n;
+            const a=JSON.parse(fs.readFileSync(`assets/assessment-banks/year4/english/ac9e4ly${n}.json`,'utf8'));
+            const p=a.filter(x=>x.bank==='practice'), t=a.filter(x=>x.bank==='test');
+            if(p.length!==48||t.length!==16) throw new Error(`${code} ${p.length}/${t.length}`);
+            console.log(`${code}: ${p.length}/${t.length}`);
+          }
+          NODE
+      - name: Commit generated candidate banks
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/assessment-banks/year4/english/ac9e4ly0{2,3,4,5,6,7}.json
+          git add quiz/year-4/english/ac9e4ly0{2,3,4,5,6,7}/practice/questions.js
+          git add quiz/year-4/english/ac9e4ly0{2,3,4,5,6,7}/practice/practice-questions.js
+          git add quiz/year-4/english/ac9e4ly0{2,3,4,5,6,7}/test/questions.js
+          if git diff --cached --quiet; then
+            echo 'No generated changes to commit.'
+            exit 0
+          fi
+          git commit -m 'Materialize Year 4 English LY02-LY07 candidate question and test banks'
+          git push origin HEAD:codex/year4-english-ly02-ly07
