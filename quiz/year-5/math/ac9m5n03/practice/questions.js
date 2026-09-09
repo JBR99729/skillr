@@ -9,22 +9,24 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "During a class investigation, which fraction is greater than 3/6 but less than 1?",
     "audioPrompt": "During a class investigation, which fraction is greater than 3/6 but less than 1?",
-    "visual": "During a class investigation: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-001\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "4/6.",
       "2/6.",
-      "7/6."
+      "7/6.",
+      "None of these choices."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "explanation": "3/6 < 4/6 < 6/6, and 6/6 is one whole. The other choices fall outside these limits.\nHint: Keep the denominator fixed and compare numerators.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
+      "summary": "3/6 < 4/6 < 6/6, and 6/6 is one whole. The other choices fall outside these limits.",
       "hint": "Keep the denominator fixed and compare numerators."
     },
     "qualitySchema": "production-v1"
@@ -38,22 +40,24 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "At the school market, which mixed numeral equals 19/8?",
     "audioPrompt": "At the school market, which mixed numeral equals 19/8?",
-    "visual": "At the school market: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school market: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-002\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-002",
-      "alt_text": "At the school market: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "1 3/8.",
       "2 3/8.",
-      "2 5/8."
+      "2 5/8.",
+      "None of these choices."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 1,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "explanation": "19 eighths contains two wholes (16 eighths) and 3 eighths, giving 2 3/8.\nHint: Divide the numerator by the denominator.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
+      "summary": "19 eighths contains two wholes (16 eighths) and 3 eighths, giving 2 3/8.",
       "hint": "Divide the numerator by the denominator."
     },
     "qualitySchema": "production-v1"
@@ -62,28 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-003",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "related denominators",
     "printable": true,
     "type": "single",
-    "question": "While planning a garden, which fraction is greater than 2/4 but less than 1?",
-    "audioPrompt": "While planning a garden, which fraction is greater than 2/4 but less than 1?",
-    "visual": "While planning a garden: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a garden: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-003\"></use></svg>",
+    "question": "Which fraction equals 2/5 when written in tenths?",
+    "audioPrompt": "Which fraction equals 2/5 when written in tenths?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-003",
-      "alt_text": "While planning a garden: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1/4.",
-      "5/4.",
-      "3/4."
+      "5/10",
+      "7/10",
+      "4/10",
+      "2/10"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 2,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "explanation": "Split each fifth into two equal parts: multiply numerator and denominator by 2.\nHint: Change both numerator and denominator by the same factor.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "Split each fifth into two equal parts: multiply numerator and denominator by 2.",
+      "hint": "Change both numerator and denominator by the same factor."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +97,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-004",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "compare related",
     "printable": true,
     "type": "single",
-    "question": "In a robotics challenge, which mixed numeral equals 14/6?",
-    "audioPrompt": "In a robotics challenge, which mixed numeral equals 14/6?",
-    "visual": "In a robotics challenge: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a robotics challenge: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-004\"></use></svg>",
+    "question": "Which comparison is correct?",
+    "audioPrompt": "Which comparison is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-004",
-      "alt_text": "In a robotics challenge: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "2 2/6.",
-      "1 2/6.",
-      "2 4/6."
+      "1/2 > 5/8",
+      "2/3 < 3/6",
+      "3/4 < 5/8",
+      "5/6 > 3/6"
     ],
-    "correct": 0,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "With equal sixths, five pieces is more than three. In the other comparisons the proposed signs are reversed.\nHint: Rename unlike parts before comparing.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "With equal sixths, five pieces is more than three. In the other comparisons the proposed signs are reversed.",
+      "hint": "Rename unlike parts before comparing."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-005",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "mixed to improper",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, which fraction is greater than 4/8 but less than 1?",
-    "audioPrompt": "During sports-day planning, which fraction is greater than 4/8 but less than 1?",
-    "visual": "During sports-day planning: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During sports-day planning: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-005\"></use></svg>",
+    "question": "Write 3 2/5 as an improper fraction.",
+    "audioPrompt": "Write 3 2/5 as an improper fraction.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-005",
-      "alt_text": "During sports-day planning: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "3/8.",
-      "5/8.",
-      "9/8."
+      "17/5",
+      "11/5",
+      "5/5",
+      "32/5"
     ],
-    "correct": 1,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Three wholes is 15 fifths; add two fifths to get 17/5.\nHint: Multiply the whole part by the denominator, then add the numerator.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "Three wholes is 15 fifths; add two fifths to get 17/5.",
+      "hint": "Multiply the whole part by the denominator, then add the numerator."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-006",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "line location",
     "printable": true,
     "type": "single",
-    "question": "At the wildlife centre, which mixed numeral equals 9/4?",
-    "audioPrompt": "At the wildlife centre, which mixed numeral equals 9/4?",
-    "visual": "At the wildlife centre: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the wildlife centre: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-006\"></use></svg>",
+    "question": "A line from 1 to 2 has four equal intervals. What is the second marked point after 1?",
+    "audioPrompt": "A line from 1 to 2 has four equal intervals. What is the second marked point after 1?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-006",
-      "alt_text": "At the wildlife centre: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1 1/4.",
-      "2 3/4.",
-      "2 1/4."
+      "2 1/2",
+      "1 1/2",
+      "1 1/4",
+      "1 3/4"
     ],
-    "correct": 2,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "Two quarter-length intervals after 1 give 1 2/4 = 1 1/2.\nHint: Count intervals, not endpoint marks.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "Two quarter-length intervals after 1 give 1 2/4 = 1 1/2.",
+      "hint": "Count intervals, not endpoint marks."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-007",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "whole selection",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, which fraction is greater than 3/6 but less than 1?",
-    "audioPrompt": "While checking a map, which fraction is greater than 3/6 but less than 1?",
-    "visual": "While checking a map: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While checking a map: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-007\"></use></svg>",
+    "question": "One yellow hexagon is made from six equal green triangles. If the hexagon is the whole, what fraction is two green triangles?",
+    "audioPrompt": "One yellow hexagon is made from six equal green triangles. If the hexagon is the whole, what fraction is two green triangles?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-007",
-      "alt_text": "While checking a map: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "4/6.",
-      "2/6.",
-      "7/6."
+      "2/3",
+      "2",
+      "1/3",
+      "1/6"
     ],
-    "correct": 0,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "Two of six equal pieces give 2/6 = 1/3.\nHint: Identify the whole before counting parts.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "Two of six equal pieces give 2/6 = 1/3.",
+      "hint": "Identify the whole before counting parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-008",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "order fractions",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, which mixed numeral equals 19/8?",
-    "audioPrompt": "In the makerspace, which mixed numeral equals 19/8?",
-    "visual": "In the makerspace: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the makerspace: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-008\"></use></svg>",
+    "question": "Which list is in increasing order?",
+    "audioPrompt": "Which list is in increasing order?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-008",
-      "alt_text": "In the makerspace: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1 3/8.",
-      "2 3/8.",
-      "2 5/8."
+      "3/8, 1/4, 1/2",
+      "1/2, 3/8, 1/4",
+      "1/4, 1/2, 3/8",
+      "1/4, 3/8, 1/2"
     ],
-    "correct": 1,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "In eighths the fractions are 2/8, 3/8 and 4/8.\nHint: Choose a common denominator related to all three.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "In eighths the fractions are 2/8, 3/8 and 4/8.",
+      "hint": "Choose a common denominator related to all three."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-009",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "size of parts",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, which fraction is greater than 2/4 but less than 1?",
-    "audioPrompt": "During a cooking project, which fraction is greater than 2/4 but less than 1?",
-    "visual": "During a cooking project: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a cooking project: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-009\"></use></svg>",
+    "question": "Why is 3/4 greater than 3/8 for the same whole?",
+    "audioPrompt": "Why is 3/4 greater than 3/8 for the same whole?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-009",
-      "alt_text": "During a cooking project: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1/4.",
-      "5/4.",
-      "3/4."
+      "The same number of larger pieces makes a larger amount.",
+      "Eighths are larger because 8 is greater than 4.",
+      "The fractions are equal because their numerators agree.",
+      "Four is always greater than eight in a fraction."
     ],
-    "correct": 2,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Each quarter is two eighths, so three quarters equals six eighths, more than three eighths.\nHint: Compare the size of one piece first.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "Each quarter is two eighths, so three quarters equals six eighths, more than three eighths.",
+      "hint": "Compare the size of one piece first."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-010",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "wall and line",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, which mixed numeral equals 14/6?",
-    "audioPrompt": "At the community fair, which mixed numeral equals 14/6?",
-    "visual": "At the community fair: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the community fair: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-010\"></use></svg>",
+    "question": "How do a fraction wall and a number line show 2/3 differently?",
+    "audioPrompt": "How do a fraction wall and a number line show 2/3 differently?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-010",
-      "alt_text": "At the community fair: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "2 2/6.",
-      "1 2/6.",
-      "2 4/6."
+      "The line shows three wholes while the wall shows two.",
+      "The wall can show an area; the line marks a point two-thirds of the unit distance from zero.",
+      "The wall shows 2/3 but a line cannot show fractions.",
+      "The wall and line must use different numerical values."
     ],
-    "correct": 0,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Both represent the same fraction, using a region or a position relative to the unit.\nHint: Distinguish a shaded region from a point's distance from zero.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "Both represent the same fraction, using a region or a position relative to the unit.",
+      "hint": "Distinguish a shaded region from a point's distance from zero."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-011",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "parallel lines",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, which fraction is greater than 4/8 but less than 1?",
-    "audioPrompt": "While organising a library display, which fraction is greater than 4/8 but less than 1?",
-    "visual": "While organising a library display: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a library display: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-011\"></use></svg>",
+    "question": "On parallel lines with matching 0 and 1 endpoints, why do 3/5 and 6/10 line up?",
+    "audioPrompt": "On parallel lines with matching 0 and 1 endpoints, why do 3/5 and 6/10 line up?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-011",
-      "alt_text": "While organising a library display: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "3/8.",
-      "5/8.",
-      "9/8."
+      "Both denominators are odd.",
+      "All fractions with even numerators line up.",
+      "Each fifth has been split into two tenths without changing the distance.",
+      "The numerator 6 is twice 3, so the second point is twice as far along."
     ],
-    "correct": 1,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "3/5 = 6/10, so both points are the same distance from zero on equally scaled lines.\nHint: Check both equal value and equal scale.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "3/5 = 6/10, so both points are the same distance from zero on equally scaled lines.",
+      "hint": "Check both equal value and equal scale."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-012",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "conversion error",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, which mixed numeral equals 9/4?",
-    "audioPrompt": "In a science notebook, which mixed numeral equals 9/4?",
-    "visual": "In a science notebook: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a science notebook: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-012\"></use></svg>",
+    "question": "A learner writes 2 1/4 = 3/4 by adding 2 + 1. What was missed?",
+    "audioPrompt": "A learner writes 2 1/4 = 3/4 by adding 2 + 1. What was missed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-012",
-      "alt_text": "In a science notebook: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1 1/4.",
-      "2 3/4.",
-      "2 1/4."
+      "The denominator should also increase by 2.",
+      "Mixed numbers cannot be written as fractions.",
+      "The answer should be 21/4 because the digits join.",
+      "Two wholes contain 8 quarters, so the total is 9 quarters."
     ],
-    "correct": 2,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "2 1/4 = 8/4 + 1/4 = 9/4.\nHint: Express the whole part in the denominator's unit.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "2 1/4 = 8/4 + 1/4 = 9/4.",
+      "hint": "Express the whole part in the denominator's unit."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-013",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "whole first",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, which fraction is greater than 3/6 but less than 1?",
-    "audioPrompt": "During a design challenge, which fraction is greater than 3/6 but less than 1?",
-    "visual": "During a design challenge: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a design challenge: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-013\"></use></svg>",
+    "question": "Which reasoning correctly compares 4 1/8 and 3 7/8?",
+    "audioPrompt": "Which reasoning correctly compares 4 1/8 and 3 7/8?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-013",
-      "alt_text": "During a design challenge: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "4/6.",
-      "2/6.",
-      "7/6."
+      "4 1/8 is greater because it is above 4, while 3 7/8 is below 4.",
+      "3 7/8 is greater because 7 is greater than 1.",
+      "The values are equal because their denominators match.",
+      "4 1/8 is smaller because eighths are small."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
     "correct": 0,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "explanation": "The whole-number boundary of 4 settles the comparison without renaming the parts.\nHint: Compare whole-number parts before fractional parts.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "The whole-number boundary of 4 settles the comparison without renaming the parts.",
+      "hint": "Compare whole-number parts before fractional parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-014",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "change whole",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, which mixed numeral equals 19/8?",
-    "audioPrompt": "At the school canteen, which mixed numeral equals 19/8?",
-    "visual": "At the school canteen: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school canteen: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-014\"></use></svg>",
+    "question": "A design uses three equal triangles. The chosen whole changes from six triangles to twelve triangles. What happens to the fraction for the same design?",
+    "audioPrompt": "A design uses three equal triangles. The chosen whole changes from six triangles to twelve triangles. What happens to the fraction for the same design?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-014",
-      "alt_text": "At the school canteen: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1 3/8.",
-      "2 3/8.",
-      "2 5/8."
+      "It changes from 1/4 to 1/2.",
+      "It changes from 1/2 to 1/4.",
+      "It stays 1/2 because the design did not change.",
+      "It changes from 1/2 to 1."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "explanation": "The physical design stays the same, but it is a smaller fraction of a larger whole: 3/6 versus 3/12.\nHint: Recount how many equal pieces now make one whole.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "The physical design stays the same, but it is a smaller fraction of a larger whole: 3/6 versus 3/12.",
+      "hint": "Recount how many equal pieces now make one whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-015",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "false equivalence",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans, which fraction is greater than 2/4 but less than 1?",
-    "audioPrompt": "While comparing travel plans, which fraction is greater than 2/4 but less than 1?",
-    "visual": "While comparing travel plans: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While comparing travel plans: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-015\"></use></svg>",
+    "question": "A learner changes 2/3 to 2/6. Which statement identifies the error?",
+    "audioPrompt": "A learner changes 2/3 to 2/6. Which statement identifies the error?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-015",
-      "alt_text": "While comparing travel plans: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1/4.",
-      "5/4.",
-      "3/4."
+      "Sixths are twice as large as thirds.",
+      "Adding 3 to the denominator keeps every fraction equal.",
+      "The pieces were halved in size, but the number of pieces was not doubled.",
+      "The numerator must always stay the same."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
     "correct": 2,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "explanation": "2/3 equals 4/6. Keeping only two of the smaller pieces gives half the original amount.\nHint: Preserve the shaded amount when subdividing.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "2/3 equals 4/6. Keeping only two of the smaller pieces gives half the original amount.",
+      "hint": "Preserve the shaded amount when subdividing."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-016",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "related comparison",
     "printable": true,
     "type": "single",
-    "question": "In a data workshop, which mixed numeral equals 14/6?",
-    "audioPrompt": "In a data workshop, which mixed numeral equals 14/6?",
-    "visual": "In a data workshop: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a data workshop: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-016\"></use></svg>",
+    "question": "Why is 7/12 less than 2/3?",
+    "audioPrompt": "Why is 7/12 less than 2/3?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-016",
-      "alt_text": "In a data workshop: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "2 2/6.",
-      "1 2/6.",
-      "2 4/6."
+      "2/3 = 2/12, and 7 > 2.",
+      "12 is greater than 3, so every twelfth fraction is smaller.",
+      "Seven pieces must be less than two pieces.",
+      "2/3 = 8/12, and 7/12 < 8/12."
     ],
-    "correct": 0,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Renaming thirds as twelfths creates equal-sized parts for a valid comparison.\nHint: Multiply both parts of 2/3 by 4.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "Renaming thirds as twelfths creates equal-sized parts for a valid comparison.",
+      "hint": "Multiply both parts of 2/3 by 4."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-017",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "recipe transfer",
     "printable": true,
     "type": "single",
-    "question": "During a building project, which fraction is greater than 4/8 but less than 1?",
-    "audioPrompt": "During a building project, which fraction is greater than 4/8 but less than 1?",
-    "visual": "During a building project: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a building project: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-017\"></use></svg>",
+    "question": "A recipe needs more than 1/2 cup but less than 3/4 cup. Which measuring cup amount fits?",
+    "audioPrompt": "A recipe needs more than 1/2 cup but less than 3/4 cup. Which measuring cup amount fits?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-017",
-      "alt_text": "During a building project: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "3/8.",
-      "5/8.",
-      "9/8."
+      "5/8 cup",
+      "3/8 cup",
+      "6/8 cup",
+      "7/8 cup"
     ],
-    "correct": 1,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "The boundaries are 4/8 and 6/8. Only 5/8 lies strictly between them.\nHint: Rewrite the bounds using the cup's denominator.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "The boundaries are 4/8 and 6/8. Only 5/8 lies strictly between them.",
+      "hint": "Rewrite the bounds using the cup's denominator."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-018",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "route transfer",
     "printable": true,
     "type": "single",
-    "question": "At the local pool, which mixed numeral equals 9/4?",
-    "audioPrompt": "At the local pool, which mixed numeral equals 9/4?",
-    "visual": "At the local pool: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the local pool: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-018\"></use></svg>",
+    "question": "A path is marked in sixths of a kilometre. Which mark is at 2 1/3 km?",
+    "audioPrompt": "A path is marked in sixths of a kilometre. Which mark is at 2 1/3 km?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-018",
-      "alt_text": "At the local pool: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1 1/4.",
-      "2 3/4.",
-      "2 1/4."
+      "15/6 km",
+      "14/6 km",
+      "13/6 km",
+      "7/6 km"
     ],
-    "correct": 2,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "Two kilometres is 12 sixths and one third is 2 sixths, totalling 14 sixths.\nHint: Convert both the whole part and fractional part to sixths.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "Two kilometres is 12 sixths and one third is 2 sixths, totalling 14 sixths.",
+      "hint": "Convert both the whole part and fractional part to sixths."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-019",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "choose unit",
     "printable": true,
     "type": "single",
-    "question": "While preparing an excursion, which fraction is greater than 3/6 but less than 1?",
-    "audioPrompt": "While preparing an excursion, which fraction is greater than 3/6 but less than 1?",
-    "visual": "While preparing an excursion: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While preparing an excursion: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-019\"></use></svg>",
+    "question": "A pattern has four identical rhombuses. If three rhombuses represent one whole, what fraction of the whole is the pattern?",
+    "audioPrompt": "A pattern has four identical rhombuses. If three rhombuses represent one whole, what fraction of the whole is the pattern?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-019",
-      "alt_text": "While preparing an excursion: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "4/6.",
-      "2/6.",
-      "7/6."
+      "4/1",
+      "1/3",
+      "4/3",
+      "3/4"
     ],
-    "correct": 0,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Each rhombus is one third of the chosen whole, so four make four thirds.\nHint: One whole need not be one physical piece.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "Each rhombus is one third of the chosen whole, so four make four thirds.",
+      "hint": "One whole need not be one physical piece."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +593,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-020",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "wall scale",
     "printable": true,
     "type": "single",
-    "question": "In a games club, which mixed numeral equals 19/8?",
-    "audioPrompt": "In a games club, which mixed numeral equals 19/8?",
-    "visual": "In a games club: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a games club: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-020\"></use></svg>",
+    "question": "Two fraction strips have different whole lengths. Why is comparing shaded 1/2 of one with shaded 3/4 of the other by length unreliable?",
+    "audioPrompt": "Two fraction strips have different whole lengths. Why is comparing shaded 1/2 of one with shaded 3/4 of the other by length unreliable?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-020",
-      "alt_text": "In a games club: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1 3/8.",
-      "2 3/8.",
-      "2 5/8."
+      "1/2 and 3/4 are always equal.",
+      "Fractions cannot be compared with models.",
+      "A half of any strip is always shorter than three quarters of any other.",
+      "The shaded lengths depend on the different whole lengths."
     ],
-    "correct": 1,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "For visual comparison of fraction values, use equally sized wholes; different physical wholes can reverse shaded-length order.\nHint: Check the unit before comparing the shaded parts.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "For visual comparison of fraction values, use equally sized wholes; different physical wholes can reverse shaded-length order.",
+      "hint": "Check the unit before comparing the shaded parts."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-021",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "order mixed",
     "printable": true,
     "type": "single",
-    "question": "During an art project, which fraction is greater than 2/4 but less than 1?",
-    "audioPrompt": "During an art project, which fraction is greater than 2/4 but less than 1?",
-    "visual": "During an art project: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During an art project: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-021\"></use></svg>",
+    "question": "Sort 1 5/6, 11/6 and 1 3/6. Which description is correct?",
+    "audioPrompt": "Sort 1 5/6, 11/6 and 1 3/6. Which description is correct?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-021",
-      "alt_text": "During an art project: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1/4.",
-      "5/4.",
-      "3/4."
+      "1 3/6 is smallest; the other two are equal.",
+      "11/6 is smallest; the other two are equal.",
+      "1 5/6 is largest; all three are different.",
+      "All three are equal."
     ],
-    "correct": 2,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "1 3/6 = 9/6 and 1 5/6 = 11/6.\nHint: Rename the mixed numerals into sixths.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "1 3/6 = 9/6 and 1 5/6 = 11/6.",
+      "hint": "Rename the mixed numerals into sixths."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-022",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "interval transfer",
     "printable": true,
     "type": "single",
-    "question": "At the recycling station, which mixed numeral equals 14/6?",
-    "audioPrompt": "At the recycling station, which mixed numeral equals 14/6?",
-    "visual": "At the recycling station: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the recycling station: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-022\"></use></svg>",
+    "question": "A line runs from 1/2 to 1 in four equal intervals. What is the first marked point after 1/2?",
+    "audioPrompt": "A line runs from 1/2 to 1 in four equal intervals. What is the first marked point after 1/2?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-022",
-      "alt_text": "At the recycling station: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "2 2/6.",
-      "1 2/6.",
-      "2 4/6."
+      "3/8",
+      "5/8",
+      "3/4",
+      "1/8"
     ],
-    "correct": 0,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "The span is 1/2; each interval is 1/8. Add 1/8 to 4/8.\nHint: The whole line segment shown need not be one whole unit.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "The span is 1/2; each interval is 1/8. Add 1/8 to 4/8.",
+      "hint": "The whole line segment shown need not be one whole unit."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +686,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-023",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "compare fractions",
+    "skill": "justify bound",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey, which fraction is greater than 4/8 but less than 1?",
-    "audioPrompt": "While planning a class survey, which fraction is greater than 4/8 but less than 1?",
-    "visual": "While planning a class survey: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a class survey: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-023\"></use></svg>",
+    "question": "A child claims 7/8 lies between 3/4 and 13/16. Which check disproves the claim?",
+    "audioPrompt": "A child claims 7/8 lies between 3/4 and 13/16. Which check disproves the claim?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-023",
-      "alt_text": "While planning a class survey: a three-step reasoning pathway for compare fractions, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "3/8.",
-      "5/8.",
-      "9/8."
+      "The numerator 13 is greater than 7, so no conversion is needed.",
+      "Every proper fraction lies between any two other proper fractions.",
+      "7/8 = 14/16, which is greater than 13/16.",
+      "7/8 is greater than 3/4, so it must lie between."
     ],
-    "correct": 1,
-    "explanation": "With equal denominators, the larger numerator names the larger fraction.\nHint: Keep the denominator fixed and compare numerators.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "The upper-bound check fails: 14/16 exceeds 13/16.\nHint: To be between, a fraction must satisfy both bounds.",
     "structuredExplanation": {
-      "summary": "With equal denominators, the larger numerator names the larger fraction.",
-      "hint": "Keep the denominator fixed and compare numerators."
+      "summary": "The upper-bound check fails: 14/16 exceeds 13/16.",
+      "hint": "To be between, a fraction must satisfy both bounds."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +717,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n03-p-024",
     "curriculumCode": "AC9M5N03",
     "bank": "practice",
-    "skill": "rename an improper fraction",
+    "skill": "make equivalent",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson, which mixed numeral equals 9/4?",
-    "audioPrompt": "In a coding lesson, which mixed numeral equals 9/4?",
-    "visual": "In a coding lesson: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a coding lesson: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-024\"></use></svg>",
+    "question": "A tiled design covers 5/6 of one whole. Each sixth is split into three equal tiles. Which label still describes the design?",
+    "audioPrompt": "A tiled design covers 5/6 of one whole. Each sixth is split into three equal tiles. Which label still describes the design?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n03.svg#ac9m5n03-p-024",
-      "alt_text": "In a coding lesson: a three-step reasoning pathway for rename an improper fraction, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1 1/4.",
-      "2 3/4.",
-      "2 1/4."
+      "5/18",
+      "8/9",
+      "15/6",
+      "15/18"
     ],
-    "correct": 2,
-    "explanation": "The numerator contains two complete groups of the denominator plus the remainder.\nHint: Divide the numerator by the denominator.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "There are now 18 tiles per whole, with 15 covered; the covered area is unchanged.\nHint: Multiply covered parts and total parts by the same factor.",
     "structuredExplanation": {
-      "summary": "The numerator contains two complete groups of the denominator plus the remainder.",
-      "hint": "Divide the numerator by the denominator."
+      "summary": "There are now 18 tiles per whole, with 15 covered; the covered area is unchanged.",
+      "hint": "Multiply covered parts and total parts by the same factor."
     },
     "qualitySchema": "production-v1"
   }

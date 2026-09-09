@@ -9,9 +9,7 @@
     "question": "During a class investigation, two sensors read 1.02 m and 1.028 m. Which reading is greater?",
     "audio_prompt": "During a class investigation, two sensors read 1.02 m and 1.028 m. Which reading is greater?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
@@ -25,15 +23,19 @@
       {
         "text": "They are equal.",
         "is_correct": false
+      },
+      {
+        "text": "None of these choices.",
+        "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
+      "summary": "1.02 m = 1.020 m. The thousandths are 0 and 8, so 1.028 m is greater.",
       "hint": "Write placeholder zeros, then compare from tenths to thousandths."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty_tier": "recognise_apply",
     "sequence_priority": 1
   },
   {
@@ -46,9 +48,7 @@
     "question": "At the school market, which decimal lies between 1.13 and 1.14?",
     "audio_prompt": "At the school market, which decimal lies between 1.13 and 1.14?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-002",
-      "alt_text": "At the school market: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
@@ -62,15 +62,19 @@
       {
         "text": "1.145.",
         "is_correct": false
+      },
+      {
+        "text": "None of these choices.",
+        "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
+      "summary": "1.130 < 1.135 < 1.140, so 1.135 lies between the endpoints.",
       "hint": "Use the midpoint between the two hundredths."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty_tier": "recognise_apply",
     "sequence_priority": 1
   },
   {
@@ -83,9 +87,7 @@
     "question": "While planning a garden, which is 1.24 written to three decimal places?",
     "audio_prompt": "While planning a garden, which is 1.24 written to three decimal places?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-003",
-      "alt_text": "While planning a garden: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
@@ -99,15 +101,19 @@
       {
         "text": "1.240.",
         "is_correct": true
+      },
+      {
+        "text": "None of these choices.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
+      "summary": "1.24 = 1.240: the added zero means zero thousandths and leaves the value unchanged.",
       "hint": "Keep every existing place value and add zero thousandths."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty_tier": "recognise_apply",
     "sequence_priority": 1
   },
   {
@@ -116,35 +122,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "compare_decimal_readings",
-    "question": "In a robotics challenge, two sensors read 1.3 m and 1.308 m. Which reading is greater?",
-    "audio_prompt": "In a robotics challenge, two sensors read 1.3 m and 1.308 m. Which reading is greater?",
+    "skill": "place_value",
+    "coverage": [
+      "E1"
+    ],
+    "question": "What is the value of the digit 6 in 4.062?",
+    "audio_prompt": "What is the value of the digit 6 in 4.062?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-004",
-      "alt_text": "In a robotics challenge: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.308.",
+        "text": "0.6",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "0.006",
+        "is_correct": false
+      },
+      {
+        "text": "0.06",
         "is_correct": true
-      },
-      {
-        "text": "1.3.",
-        "is_correct": false
-      },
-      {
-        "text": "They are equal.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "The 6 is in the hundredths place, so its value is six hundredths.",
+      "hint": "Name each place after the decimal point."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty_tier": "recognise_apply",
     "sequence_priority": 1
   },
   {
@@ -153,35 +164,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "locate_a_decimal",
-    "question": "During sports-day planning, which decimal lies between 1.41 and 1.42?",
-    "audio_prompt": "During sports-day planning, which decimal lies between 1.41 and 1.42?",
+    "skill": "subdivide",
+    "coverage": [
+      "E1"
+    ],
+    "question": "One whole strip is split into 10 equal parts. Each part is split into 10, and each of those into 10 again. What fraction of the whole is one smallest part?",
+    "audio_prompt": "One whole strip is split into 10 equal parts. Each part is split into 10, and each of those into 10 again. What fraction of the whole is one smallest part?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-005",
-      "alt_text": "During sports-day planning: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.405.",
-        "is_correct": false
-      },
-      {
-        "text": "1.415.",
+        "text": "One thousandth",
         "is_correct": true
       },
       {
-        "text": "1.425.",
+        "text": "One hundredth",
+        "is_correct": false
+      },
+      {
+        "text": "One tenth",
+        "is_correct": false
+      },
+      {
+        "text": "One ten-thousandth",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "The whole has 10 × 10 × 10 = 1000 equal smallest parts.",
+      "hint": "Count how many equal parts the whole contains."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty_tier": "recognise_apply",
     "sequence_priority": 1
   },
   {
@@ -190,35 +206,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "decimal_place_value",
-    "question": "At the wildlife centre, which is 1.52 written to three decimal places?",
-    "audio_prompt": "At the wildlife centre, which is 1.52 written to three decimal places?",
+    "skill": "rename",
+    "coverage": [
+      "E2"
+    ],
+    "question": "Eight tenths shared equally among ten groups gives how much in each group?",
+    "audio_prompt": "Eight tenths shared equally among ten groups gives how much in each group?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-006",
-      "alt_text": "At the wildlife centre: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1520.",
+        "text": "8",
         "is_correct": false
       },
       {
-        "text": "1.610.",
-        "is_correct": false
-      },
-      {
-        "text": "1.520.",
+        "text": "0.08",
         "is_correct": true
+      },
+      {
+        "text": "0.8",
+        "is_correct": false
+      },
+      {
+        "text": "0.008",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "Eight tenths is 80 hundredths; 80 hundredths ÷ 10 = 8 hundredths.",
+      "hint": "Rename tenths as hundredths before sharing."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty_tier": "recognise_apply",
     "sequence_priority": 1
   },
   {
@@ -227,35 +248,41 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "compare_decimal_readings",
-    "question": "While checking a map, two sensors read 1.63 m and 1.638 m. Which reading is greater?",
-    "audio_prompt": "While checking a map, two sensors read 1.63 m and 1.638 m. Which reading is greater?",
+    "skill": "order",
+    "coverage": [
+      "E1",
+      "E3"
+    ],
+    "question": "Which list is in increasing order?",
+    "audio_prompt": "Which list is in increasing order?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-007",
-      "alt_text": "While checking a map: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.638.",
+        "text": "0.59, 0.509, 0.905",
+        "is_correct": false
+      },
+      {
+        "text": "0.905, 0.59, 0.509",
+        "is_correct": false
+      },
+      {
+        "text": "0.509, 0.59, 0.905",
         "is_correct": true
       },
       {
-        "text": "1.63.",
-        "is_correct": false
-      },
-      {
-        "text": "They are equal.",
+        "text": "0.509, 0.905, 0.59",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "Write 0.590 for 0.59. Comparing tenths, then hundredths, gives 0.509 < 0.590 < 0.905.",
+      "hint": "Compare like places from left to right."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty_tier": "recognise_apply",
     "sequence_priority": 1
   },
   {
@@ -264,35 +291,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "locate_a_decimal",
-    "question": "In the makerspace, which decimal lies between 1.04 and 1.05?",
-    "audio_prompt": "In the makerspace, which decimal lies between 1.04 and 1.05?",
+    "skill": "line_intervals",
+    "coverage": [
+      "E3"
+    ],
+    "question": "A number line runs from 2.40 to 2.41 in ten equal intervals. What is the value of one interval?",
+    "audio_prompt": "A number line runs from 2.40 to 2.41 in ten equal intervals. What is the value of one interval?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-008",
-      "alt_text": "In the makerspace: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.035.",
+        "text": "0.01",
         "is_correct": false
       },
       {
-        "text": "1.045.",
+        "text": "0.1",
+        "is_correct": false
+      },
+      {
+        "text": "0.0001",
+        "is_correct": false
+      },
+      {
+        "text": "0.001",
         "is_correct": true
-      },
-      {
-        "text": "1.055.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "The total difference is 0.01. Dividing it into 10 equal intervals gives 0.001.",
+      "hint": "Find the endpoint difference before dividing."
     },
     "difficulty": 1,
-    "difficulty_tier": "confidence",
+    "difficulty_tier": "recognise_apply",
     "sequence_priority": 1
   },
   {
@@ -301,34 +333,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "decimal_place_value",
-    "question": "During a cooking project, which is 1.1 written to three decimal places?",
-    "audio_prompt": "During a cooking project, which is 1.1 written to three decimal places?",
+    "skill": "error_analysis",
+    "coverage": [
+      "E1"
+    ],
+    "question": "A learner says 0.714 > 0.8 because 714 > 8. Which correction addresses the mistake?",
+    "audio_prompt": "A learner says 0.714 > 0.8 because 714 > 8. Which correction addresses the mistake?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-009",
-      "alt_text": "During a cooking project: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1100.",
-        "is_correct": false
-      },
-      {
-        "text": "1.190.",
-        "is_correct": false
-      },
-      {
-        "text": "1.100.",
+        "text": "0.8 is 0.800, so its tenths digit is greater.",
         "is_correct": true
+      },
+      {
+        "text": "0.714 is greater because it has more digits.",
+        "is_correct": false
+      },
+      {
+        "text": "0.8 is 0.008, so compare 714 with 8.",
+        "is_correct": false
+      },
+      {
+        "text": "The values are equal because both are less than 1.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "Seven tenths is less than eight tenths. Digits to the right cannot overturn that first difference.",
+      "hint": "Align decimal points, not the last digits."
     },
     "difficulty": 3,
+    "difficulty_tier": "reasoning",
     "sequence_priority": 2
   },
   {
@@ -337,34 +375,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "compare_decimal_readings",
-    "question": "At the community fair, two sensors read 1.21 m and 1.218 m. Which reading is greater?",
-    "audio_prompt": "At the community fair, two sensors read 1.21 m and 1.218 m. Which reading is greater?",
+    "skill": "zero_role",
+    "coverage": [
+      "E1"
+    ],
+    "question": "Why can the final zero in 6.230 be removed but the zero in 6.203 cannot?",
+    "audio_prompt": "Why can the final zero in 6.230 be removed but the zero in 6.203 cannot?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-010",
-      "alt_text": "At the community fair: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.218.",
+        "text": "The zero in 6.203 has a value of 10.",
+        "is_correct": false
+      },
+      {
+        "text": "Removing the internal zero changes the place of the 3.",
         "is_correct": true
       },
       {
-        "text": "1.21.",
+        "text": "All zeros after a decimal point can be removed.",
         "is_correct": false
       },
       {
-        "text": "They are equal.",
+        "text": "A final zero always multiplies a number by 10.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "6.230 = 6.23, but 6.203 is not 6.23: the 3 changes from thousandths to hundredths.",
+      "hint": "Check which place each non-zero digit occupies."
     },
     "difficulty": 3,
+    "difficulty_tier": "reasoning",
     "sequence_priority": 2
   },
   {
@@ -373,34 +417,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "locate_a_decimal",
-    "question": "While organising a library display, which decimal lies between 1.32 and 1.33?",
-    "audio_prompt": "While organising a library display, which decimal lies between 1.32 and 1.33?",
+    "skill": "relative_places",
+    "coverage": [
+      "E1"
+    ],
+    "question": "How does the value of the 4 in 0.04 compare with the 4 in 0.004?",
+    "audio_prompt": "How does the value of the 4 in 0.04 compare with the 4 in 0.004?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-011",
-      "alt_text": "While organising a library display: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.315.",
+        "text": "It is one hundred times as large.",
         "is_correct": false
       },
       {
-        "text": "1.325.",
+        "text": "The values are the same.",
+        "is_correct": false
+      },
+      {
+        "text": "It is ten times as large.",
         "is_correct": true
       },
       {
-        "text": "1.335.",
+        "text": "It is one tenth as large.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "Four hundredths is 40 thousandths, ten times 4 thousandths.",
+      "hint": "Rename both values in thousandths."
     },
     "difficulty": 3,
+    "difficulty_tier": "reasoning",
     "sequence_priority": 2
   },
   {
@@ -409,34 +459,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "decimal_place_value",
-    "question": "In a science notebook, which is 1.43 written to three decimal places?",
-    "audio_prompt": "In a science notebook, which is 1.43 written to three decimal places?",
+    "skill": "midpoint",
+    "coverage": [
+      "E3"
+    ],
+    "question": "A point is halfway between 7.26 and 7.27. Why is its value 7.265?",
+    "audio_prompt": "A point is halfway between 7.26 and 7.27. Why is its value 7.265?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-012",
-      "alt_text": "In a science notebook: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1430.",
+        "text": "Half of 0.01 is 0.05; add this to 7.26.",
         "is_correct": false
       },
       {
-        "text": "1.520.",
+        "text": "The midpoint is found by adding a 5 to any endpoint.",
         "is_correct": false
       },
       {
-        "text": "1.430.",
+        "text": "7.265 rounds down, so it must be halfway.",
+        "is_correct": false
+      },
+      {
+        "text": "Half of 0.01 is 0.005; add this to 7.260.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "7.260 + 0.005 = 7.265; it is also 0.005 below 7.270.",
+      "hint": "Check that the two endpoint distances are equal."
     },
     "difficulty": 3,
+    "difficulty_tier": "reasoning",
     "sequence_priority": 2
   },
   {
@@ -445,34 +501,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "compare_decimal_readings",
-    "question": "During a design challenge, two sensors read 1.54 m and 1.548 m. Which reading is greater?",
-    "audio_prompt": "During a design challenge, two sensors read 1.54 m and 1.548 m. Which reading is greater?",
+    "skill": "renaming_reason",
+    "coverage": [
+      "E2"
+    ],
+    "question": "A learner writes 0.9 ÷ 10 = 0.09. Which renaming explains this?",
+    "audio_prompt": "A learner writes 0.9 ÷ 10 = 0.09. Which renaming explains this?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-013",
-      "alt_text": "During a design challenge: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.548.",
+        "text": "90 hundredths ÷ 10 = 9 hundredths",
         "is_correct": true
       },
       {
-        "text": "1.54.",
+        "text": "9 hundredths ÷ 10 = 9 hundredths",
         "is_correct": false
       },
       {
-        "text": "They are equal.",
+        "text": "90 tenths ÷ 10 = 9 hundredths",
+        "is_correct": false
+      },
+      {
+        "text": "9 tenths ÷ 10 = 9 tenths",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "0.9 equals 90 hundredths. Sharing into ten equal groups gives 9 hundredths.",
+      "hint": "Keep the unit name with the count."
     },
     "difficulty": 3,
+    "difficulty_tier": "reasoning",
     "sequence_priority": 2
   },
   {
@@ -481,34 +543,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "locate_a_decimal",
-    "question": "At the school canteen, which decimal lies between 1.6 and 1.61?",
-    "audio_prompt": "At the school canteen, which decimal lies between 1.6 and 1.61?",
+    "skill": "near_endpoint",
+    "coverage": [
+      "E3"
+    ],
+    "question": "Where is 3.782 relative to 3.78 and 3.79?",
+    "audio_prompt": "Where is 3.782 relative to 3.78 and 3.79?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-014",
-      "alt_text": "At the school canteen: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.595.",
+        "text": "To the left of 3.78",
         "is_correct": false
       },
       {
-        "text": "1.605.",
+        "text": "Between them, closer to 3.78",
         "is_correct": true
       },
       {
-        "text": "1.615.",
+        "text": "Between them, closer to 3.79",
+        "is_correct": false
+      },
+      {
+        "text": "Exactly halfway between them",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "Its distances are 0.002 from 3.780 and 0.008 from 3.790.",
+      "hint": "Compare the two distances in thousandths."
     },
     "difficulty": 3,
+    "difficulty_tier": "reasoning",
     "sequence_priority": 2
   },
   {
@@ -517,34 +585,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "decimal_place_value",
-    "question": "While comparing travel plans, which is 1.01 written to three decimal places?",
-    "audio_prompt": "While comparing travel plans, which is 1.01 written to three decimal places?",
+    "skill": "measure_reason",
+    "coverage": [
+      "E4"
+    ],
+    "question": "A seedling is 0.608 m tall and another is 0.68 m tall. Which reason identifies the taller one?",
+    "audio_prompt": "A seedling is 0.608 m tall and another is 0.68 m tall. Which reason identifies the taller one?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-015",
-      "alt_text": "While comparing travel plans: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1010.",
+        "text": "Both have six tenths, so they are equally tall.",
         "is_correct": false
       },
       {
-        "text": "1.100.",
+        "text": "The shorter written decimal must always be taller.",
         "is_correct": false
       },
       {
-        "text": "1.010.",
+        "text": "0.68 m = 0.680 m, which is greater than 0.608 m.",
         "is_correct": true
+      },
+      {
+        "text": "608 is greater than 68, so 0.608 m is taller.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "The tenths agree, but 0.680 has eight hundredths while 0.608 has zero hundredths.",
+      "hint": "Use the first place where the digits differ."
     },
     "difficulty": 3,
+    "difficulty_tier": "reasoning",
     "sequence_priority": 2
   },
   {
@@ -553,34 +627,40 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "compare_decimal_readings",
-    "question": "In a data workshop, two sensors read 1.12 m and 1.128 m. Which reading is greater?",
-    "audio_prompt": "In a data workshop, two sensors read 1.12 m and 1.128 m. Which reading is greater?",
+    "skill": "model_units",
+    "coverage": [
+      "E1"
+    ],
+    "question": "One small cube represents 0.001 of a whole. Which model represents 0.12 of that whole?",
+    "audio_prompt": "One small cube represents 0.001 of a whole. Which model represents 0.12 of that whole?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-016",
-      "alt_text": "In a data workshop: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.128.",
+        "text": "12 small cubes",
+        "is_correct": false
+      },
+      {
+        "text": "1200 small cubes",
+        "is_correct": false
+      },
+      {
+        "text": "One small cube",
+        "is_correct": false
+      },
+      {
+        "text": "120 small cubes",
         "is_correct": true
-      },
-      {
-        "text": "1.12.",
-        "is_correct": false
-      },
-      {
-        "text": "They are equal.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "0.12 = 0.120 = 120 thousandths.",
+      "hint": "Rename the decimal in the model's unit."
     },
     "difficulty": 3,
+    "difficulty_tier": "reasoning",
     "sequence_priority": 2
   },
   {
@@ -589,35 +669,41 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "locate_a_decimal",
-    "question": "During a building project, which decimal lies between 1.23 and 1.24?",
-    "audio_prompt": "During a building project, which decimal lies between 1.23 and 1.24?",
+    "skill": "plan_selection",
+    "coverage": [
+      "E5"
+    ],
+    "question": "A plan requires a shelf longer than 1.205 m but shorter than 1.25 m. Which listed length meets both requirements?",
+    "audio_prompt": "A plan requires a shelf longer than 1.205 m but shorter than 1.25 m. Which listed length meets both requirements?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-017",
-      "alt_text": "During a building project: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.225.",
-        "is_correct": false
-      },
-      {
-        "text": "1.235.",
+        "text": "1.208 m",
         "is_correct": true
       },
       {
-        "text": "1.245.",
+        "text": "1.205 m",
+        "is_correct": false
+      },
+      {
+        "text": "1.250 m",
+        "is_correct": false
+      },
+      {
+        "text": "1.28 m",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "1.205 < 1.208 < 1.250. The two endpoints do not meet strict longer/shorter requirements.",
+      "hint": "Check both inequalities."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 5,
+    "difficulty_tier": "transfer_challenge",
+    "sequence_priority": 3
   },
   {
     "id": "ac9m5n01-p-018",
@@ -625,35 +711,41 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "decimal_place_value",
-    "question": "At the local pool, which is 1.34 written to three decimal places?",
-    "audio_prompt": "At the local pool, which is 1.34 written to three decimal places?",
+    "skill": "measurement_order",
+    "coverage": [
+      "E4"
+    ],
+    "question": "Three parcel masses are 2.075 kg, 2.7 kg and 2.057 kg. Which parcel is the middle mass?",
+    "audio_prompt": "Three parcel masses are 2.075 kg, 2.7 kg and 2.057 kg. Which parcel is the middle mass?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-018",
-      "alt_text": "At the local pool: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1340.",
+        "text": "All three masses are equal.",
         "is_correct": false
       },
       {
-        "text": "1.430.",
-        "is_correct": false
-      },
-      {
-        "text": "1.340.",
+        "text": "2.075 kg",
         "is_correct": true
+      },
+      {
+        "text": "2.7 kg",
+        "is_correct": false
+      },
+      {
+        "text": "2.057 kg",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "In increasing order the masses are 2.057, 2.075, 2.700 kg.",
+      "hint": "Use placeholder zeros to align the masses."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 5,
+    "difficulty_tier": "transfer_challenge",
+    "sequence_priority": 3
   },
   {
     "id": "ac9m5n01-p-019",
@@ -661,35 +753,42 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "compare_decimal_readings",
-    "question": "While preparing an excursion, two sensors read 1.4 m and 1.408 m. Which reading is greater?",
-    "audio_prompt": "While preparing an excursion, two sensors read 1.4 m and 1.408 m. Which reading is greater?",
+    "skill": "missing_digit",
+    "coverage": [
+      "E1",
+      "E3"
+    ],
+    "question": "The digit box must make 4.3□7 greater than 4.367 but less than 4.387. Which digit works?",
+    "audio_prompt": "The digit box must make 4.3□7 greater than 4.367 but less than 4.387. Which digit works?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-019",
-      "alt_text": "While preparing an excursion: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.408.",
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "7",
         "is_correct": true
       },
       {
-        "text": "1.4.",
-        "is_correct": false
-      },
-      {
-        "text": "They are equal.",
+        "text": "6",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "Using 7 gives 4.377. Using 6 or 8 gives an excluded endpoint, and 9 is too large.",
+      "hint": "Test strict boundaries after the shared tenths digit."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 5,
+    "difficulty_tier": "transfer_challenge",
+    "sequence_priority": 3
   },
   {
     "id": "ac9m5n01-p-020",
@@ -697,35 +796,41 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "locate_a_decimal",
-    "question": "In a games club, which decimal lies between 1.51 and 1.52?",
-    "audio_prompt": "In a games club, which decimal lies between 1.51 and 1.52?",
+    "skill": "rescale_line",
+    "coverage": [
+      "E3"
+    ],
+    "question": "A magnified line from 0.56 to 0.57 has ten equal intervals. Point P is three intervals left of 0.57. What is P?",
+    "audio_prompt": "A magnified line from 0.56 to 0.57 has ten equal intervals. Point P is three intervals left of 0.57. What is P?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-020",
-      "alt_text": "In a games club: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.505.",
+        "text": "0.563",
         "is_correct": false
       },
       {
-        "text": "1.515.",
+        "text": "0.537",
+        "is_correct": false
+      },
+      {
+        "text": "0.573",
+        "is_correct": false
+      },
+      {
+        "text": "0.567",
         "is_correct": true
-      },
-      {
-        "text": "1.525.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "Each interval is 0.001, so P = 0.570 − 0.003 = 0.567.",
+      "hint": "Count from the stated endpoint in the stated direction."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 5,
+    "difficulty_tier": "transfer_challenge",
+    "sequence_priority": 3
   },
   {
     "id": "ac9m5n01-p-021",
@@ -733,35 +838,41 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "decimal_place_value",
-    "question": "During an art project, which is 1.62 written to three decimal places?",
-    "audio_prompt": "During an art project, which is 1.62 written to three decimal places?",
+    "skill": "plan_value",
+    "coverage": [
+      "E5"
+    ],
+    "question": "A model-bridge plan labels a beam 2.046 m. Which place-value description matches the label?",
+    "audio_prompt": "A model-bridge plan labels a beam 2.046 m. Which place-value description matches the label?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-021",
-      "alt_text": "During an art project: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1620.",
-        "is_correct": false
-      },
-      {
-        "text": "1.710.",
-        "is_correct": false
-      },
-      {
-        "text": "1.620.",
+        "text": "2 m + 4 hundredths of a metre + 6 thousandths of a metre",
         "is_correct": true
+      },
+      {
+        "text": "2 m + 4 tenths of a metre + 6 hundredths of a metre",
+        "is_correct": false
+      },
+      {
+        "text": "2 m + 46 tenths of a metre",
+        "is_correct": false
+      },
+      {
+        "text": "2 m + 4 thousandths of a metre + 6 hundredths of a metre",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "2.046 = 2 + 0.04 + 0.006. The zero holds the tenths place.",
+      "hint": "Read the units of each digit, including the zero placeholder."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 5,
+    "difficulty_tier": "transfer_challenge",
+    "sequence_priority": 3
   },
   {
     "id": "ac9m5n01-p-022",
@@ -769,35 +880,41 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "compare_decimal_readings",
-    "question": "At the recycling station, two sensors read 1.03 m and 1.038 m. Which reading is greater?",
-    "audio_prompt": "At the recycling station, two sensors read 1.03 m and 1.038 m. Which reading is greater?",
+    "skill": "find_counterexample",
+    "coverage": [
+      "E1"
+    ],
+    "question": "Which pair disproves the claim that a decimal with more decimal places is always greater?",
+    "audio_prompt": "Which pair disproves the claim that a decimal with more decimal places is always greater?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-022",
-      "alt_text": "At the recycling station: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.038.",
+        "text": "0.7 > 0.6",
+        "is_correct": false
+      },
+      {
+        "text": "0.209 < 0.3",
         "is_correct": true
       },
       {
-        "text": "1.03.",
+        "text": "0.309 > 0.2",
         "is_correct": false
       },
       {
-        "text": "They are equal.",
+        "text": "0.400 = 0.400",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "0.209 has three decimal places but is smaller than 0.3, which has one.",
+      "hint": "A counterexample must contradict the word always."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 5,
+    "difficulty_tier": "transfer_challenge",
+    "sequence_priority": 3
   },
   {
     "id": "ac9m5n01-p-023",
@@ -805,35 +922,42 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "locate_a_decimal",
-    "question": "While planning a class survey, which decimal lies between 1.14 and 1.15?",
-    "audio_prompt": "While planning a class survey, which decimal lies between 1.14 and 1.15?",
+    "skill": "more_precision",
+    "coverage": [
+      "E1",
+      "E3"
+    ],
+    "question": "Which number lies strictly between 1.234 and 1.235?",
+    "audio_prompt": "Which number lies strictly between 1.234 and 1.235?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-023",
-      "alt_text": "While planning a class survey: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.135.",
+        "text": "1.2350",
         "is_correct": false
       },
       {
-        "text": "1.145.",
+        "text": "1.2435",
+        "is_correct": false
+      },
+      {
+        "text": "1.2345",
         "is_correct": true
       },
       {
-        "text": "1.155.",
+        "text": "1.2339",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "1.2340 < 1.2345 < 1.2350. Another decimal place locates a point between consecutive thousandths.",
+      "hint": "Extend both endpoints with a zero."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 5,
+    "difficulty_tier": "transfer_challenge",
+    "sequence_priority": 3
   },
   {
     "id": "ac9m5n01-p-024",
@@ -841,35 +965,41 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "practice",
-    "skill": "decimal_place_value",
-    "question": "In a coding lesson, which is 1.2 written to three decimal places?",
-    "audio_prompt": "In a coding lesson, which is 1.2 written to three decimal places?",
+    "skill": "construct_number",
+    "coverage": [
+      "E1"
+    ],
+    "question": "Use digits 0, 2 and 5 once each after 3. to make the smallest decimal greater than 3.2. Which number results?",
+    "audio_prompt": "Use digits 0, 2 and 5 once each after 3. to make the smallest decimal greater than 3.2. Which number results?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-p-024",
-      "alt_text": "In a coding lesson: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1200.",
+        "text": "3.025",
         "is_correct": false
       },
       {
-        "text": "1.290.",
+        "text": "3.250",
         "is_correct": false
       },
       {
-        "text": "1.200.",
+        "text": "3.502",
+        "is_correct": false
+      },
+      {
+        "text": "3.205",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "The tenths digit must be 2 or 5. With tenths 2, placing 0 before 5 gives the smaller valid number, 3.205.",
+      "hint": "Find the smallest value that also meets the lower boundary."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 5,
+    "difficulty_tier": "transfer_challenge",
+    "sequence_priority": 3
   },
   {
     "id": "ac9m5n01-t-001",
@@ -877,32 +1007,38 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "compare_decimal_readings",
-    "question": "At a coastal research station, two sensors read 1.31 m and 1.318 m. Which reading is greater?",
-    "audio_prompt": "At a coastal research station, two sensors read 1.31 m and 1.318 m. Which reading is greater?",
+    "skill": "instrument_units",
+    "coverage": [
+      "E1",
+      "E4"
+    ],
+    "question": "A balance displays 0.083 kg. What does its 8 represent?",
+    "audio_prompt": "A balance displays 0.083 kg. What does its 8 represent?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-001",
-      "alt_text": "At a coastal research station: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.318.",
+        "text": "Eight hundredths of a kilogram",
         "is_correct": true
       },
       {
-        "text": "1.31.",
+        "text": "Eight tenths of a kilogram",
         "is_correct": false
       },
       {
-        "text": "They are equal.",
+        "text": "Eight thousandths of a kilogram",
+        "is_correct": false
+      },
+      {
+        "text": "Eight kilograms",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "The 8 is the second digit after the decimal point: 0.08 kg.",
+      "hint": "Name the decimal places in order."
     }
   },
   {
@@ -911,32 +1047,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "locate_a_decimal",
-    "question": "During a museum challenge, which decimal lies between 1.42 and 1.43?",
-    "audio_prompt": "During a museum challenge, which decimal lies between 1.42 and 1.43?",
+    "skill": "zero_comparison",
+    "coverage": [
+      "E1"
+    ],
+    "question": "A robot stores 9.050 and 9.05 as two labels. How should it compare their numerical values?",
+    "audio_prompt": "A robot stores 9.050 and 9.05 as two labels. How should it compare their numerical values?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-002",
-      "alt_text": "During a museum challenge: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.415.",
+        "text": "The first is greater by 0.05.",
         "is_correct": false
       },
       {
-        "text": "1.425.",
+        "text": "Equal",
         "is_correct": true
       },
       {
-        "text": "1.435.",
+        "text": "The first is ten times the second.",
+        "is_correct": false
+      },
+      {
+        "text": "The second is greater by 0.005.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "9.050 and 9.05 both mean 9 wholes and 5 hundredths.",
+      "hint": "Check whether the extra zero changes any non-zero digit's place."
     }
   },
   {
@@ -945,32 +1086,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "decimal_place_value",
-    "question": "While planning a charity event, which is 1.53 written to three decimal places?",
-    "audio_prompt": "While planning a charity event, which is 1.53 written to three decimal places?",
+    "skill": "interval_scale",
+    "coverage": [
+      "E3"
+    ],
+    "question": "A calibration strip labels 4.12 and 4.14 with twenty equal intervals between them. What is the interval size?",
+    "audio_prompt": "A calibration strip labels 4.12 and 4.14 with twenty equal intervals between them. What is the interval size?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-003",
-      "alt_text": "While planning a charity event: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1530.",
+        "text": "0.002",
         "is_correct": false
       },
       {
-        "text": "1.620.",
+        "text": "0.0001",
         "is_correct": false
       },
       {
-        "text": "1.530.",
+        "text": "0.001",
         "is_correct": true
+      },
+      {
+        "text": "0.01",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "The span is 0.02; 0.02 ÷ 20 = 0.001.",
+      "hint": "Divide the numerical span by the number of intervals."
     }
   },
   {
@@ -979,32 +1125,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "compare_decimal_readings",
-    "question": "In an engineering workshop, two sensors read 1.64 m and 1.648 m. Which reading is greater?",
-    "audio_prompt": "In an engineering workshop, two sensors read 1.64 m and 1.648 m. Which reading is greater?",
+    "skill": "whole_model",
+    "coverage": [
+      "E1"
+    ],
+    "question": "A model contains 1000 equal beads representing one whole. A coloured group has 3 hundredths of the whole. How many beads are coloured?",
+    "audio_prompt": "A model contains 1000 equal beads representing one whole. A coloured group has 3 hundredths of the whole. How many beads are coloured?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-004",
-      "alt_text": "In an engineering workshop: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.648.",
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "300",
+        "is_correct": false
+      },
+      {
+        "text": "3000",
+        "is_correct": false
+      },
+      {
+        "text": "30",
         "is_correct": true
-      },
-      {
-        "text": "1.64.",
-        "is_correct": false
-      },
-      {
-        "text": "They are equal.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "Each hundredth contains 10 beads; three hundredths contains 30.",
+      "hint": "Find one hundredth of the whole model."
     }
   },
   {
@@ -1013,32 +1164,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "locate_a_decimal",
-    "question": "At a regional sports carnival, which decimal lies between 1 and 1.01?",
-    "audio_prompt": "At a regional sports carnival, which decimal lies between 1 and 1.01?",
+    "skill": "precision_ranking",
+    "coverage": [
+      "E4"
+    ],
+    "question": "Four route distances are 6.09, 6.009, 6.9 and 6.099 km. Which is second longest?",
+    "audio_prompt": "Four route distances are 6.09, 6.009, 6.9 and 6.099 km. Which is second longest?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-005",
-      "alt_text": "At a regional sports carnival: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "0.995.",
-        "is_correct": false
-      },
-      {
-        "text": "1.005.",
+        "text": "6.099 km",
         "is_correct": true
       },
       {
-        "text": "1.015.",
+        "text": "6.09 km",
+        "is_correct": false
+      },
+      {
+        "text": "6.009 km",
+        "is_correct": false
+      },
+      {
+        "text": "6.9 km",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "In descending order: 6.900, 6.099, 6.090, 6.009 km.",
+      "hint": "Write each distance to three decimal places."
     }
   },
   {
@@ -1047,32 +1203,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "decimal_place_value",
-    "question": "During a farm survey, which is 1.11 written to three decimal places?",
-    "audio_prompt": "During a farm survey, which is 1.11 written to three decimal places?",
+    "skill": "renaming_transfer",
+    "coverage": [
+      "E2"
+    ],
+    "question": "A dispenser shares 0.7 L equally between ten bottles. How much goes in each bottle?",
+    "audio_prompt": "A dispenser shares 0.7 L equally between ten bottles. How much goes in each bottle?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-006",
-      "alt_text": "During a farm survey: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1110.",
+        "text": "7 L",
         "is_correct": false
       },
       {
-        "text": "1.200.",
-        "is_correct": false
-      },
-      {
-        "text": "1.110.",
+        "text": "0.07 L",
         "is_correct": true
+      },
+      {
+        "text": "0.7 L",
+        "is_correct": false
+      },
+      {
+        "text": "0.007 L",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "0.7 L is 70 hundredths of a litre. Each bottle receives 7 hundredths.",
+      "hint": "Rename before dividing into ten groups."
     }
   },
   {
@@ -1081,32 +1242,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "compare_decimal_readings",
-    "question": "While interpreting a trail guide, two sensors read 1.22 m and 1.228 m. Which reading is greater?",
-    "audio_prompt": "While interpreting a trail guide, two sensors read 1.22 m and 1.228 m. Which reading is greater?",
+    "skill": "placement_error",
+    "coverage": [
+      "E3"
+    ],
+    "question": "A point labelled 8.406 is drawn to the right of 8.46. What correction is needed?",
+    "audio_prompt": "A point labelled 8.406 is drawn to the right of 8.46. What correction is needed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-007",
-      "alt_text": "While interpreting a trail guide: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.228.",
+        "text": "Move it onto 8.46 because the tenths agree.",
+        "is_correct": false
+      },
+      {
+        "text": "Move it past 8.5 because it has three decimal places.",
+        "is_correct": false
+      },
+      {
+        "text": "Move it left because 8.406 < 8.460.",
         "is_correct": true
       },
       {
-        "text": "1.22.",
-        "is_correct": false
-      },
-      {
-        "text": "They are equal.",
+        "text": "Leave it because 406 > 46.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "Comparing hundredths gives 0 < 6, so 8.406 belongs to the left.",
+      "hint": "Position follows numerical value, not digit count."
     }
   },
   {
@@ -1115,32 +1281,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "locate_a_decimal",
-    "question": "In an architecture studio, which decimal lies between 1.33 and 1.34?",
-    "audio_prompt": "In an architecture studio, which decimal lies between 1.33 and 1.34?",
+    "skill": "plan_constraint",
+    "coverage": [
+      "E5"
+    ],
+    "question": "A drawing allows a panel width of at least 0.875 m and at most 0.88 m. Which pair of widths is allowed?",
+    "audio_prompt": "A drawing allows a panel width of at least 0.875 m and at most 0.88 m. Which pair of widths is allowed?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-008",
-      "alt_text": "In an architecture studio: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.325.",
+        "text": "0.874 m and 0.879 m",
         "is_correct": false
       },
       {
-        "text": "1.335.",
+        "text": "0.878 m and 0.881 m",
+        "is_correct": false
+      },
+      {
+        "text": "0.870 m and 0.885 m",
+        "is_correct": false
+      },
+      {
+        "text": "0.875 m and 0.880 m",
         "is_correct": true
-      },
-      {
-        "text": "1.345.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "At least and at most include the boundaries. Both 0.875 and 0.880 meet them.",
+      "hint": "Check the meaning of each boundary phrase."
     }
   },
   {
@@ -1149,32 +1320,38 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "decimal_place_value",
-    "question": "During a food-truck project, which is 1.44 written to three decimal places?",
-    "audio_prompt": "During a food-truck project, which is 1.44 written to three decimal places?",
+    "skill": "chart_check",
+    "coverage": [
+      "E1",
+      "E5"
+    ],
+    "question": "A plan shows 1.307 m. A chart records ones 1, tenths 3, hundredths 7, thousandths 0. What must change?",
+    "audio_prompt": "A plan shows 1.307 m. A chart records ones 1, tenths 3, hundredths 7, thousandths 0. What must change?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-009",
-      "alt_text": "During a food-truck project: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1440.",
-        "is_correct": false
-      },
-      {
-        "text": "1.530.",
-        "is_correct": false
-      },
-      {
-        "text": "1.440.",
+        "text": "Hundredths must be 0 and thousandths 7.",
         "is_correct": true
+      },
+      {
+        "text": "Ones must be 0 and tenths 1.",
+        "is_correct": false
+      },
+      {
+        "text": "Tenths must be 0 and hundredths 3.",
+        "is_correct": false
+      },
+      {
+        "text": "The chart already matches.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "The plan has zero hundredths and seven thousandths; 1.370 is a different length.",
+      "hint": "Match each digit with its column."
     }
   },
   {
@@ -1183,32 +1360,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "compare_decimal_readings",
-    "question": "At a music festival, two sensors read 1.5 m and 1.508 m. Which reading is greater?",
-    "audio_prompt": "At a music festival, two sensors read 1.5 m and 1.508 m. Which reading is greater?",
+    "skill": "construct_transfer",
+    "coverage": [
+      "E1"
+    ],
+    "question": "A game uses 2, 4 and 0 once each after 7. What is the largest possible number less than 7.4?",
+    "audio_prompt": "A game uses 2, 4 and 0 once each after 7. What is the largest possible number less than 7.4?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-010",
-      "alt_text": "At a music festival: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.508.",
+        "text": "7.420",
+        "is_correct": false
+      },
+      {
+        "text": "7.240",
         "is_correct": true
       },
       {
-        "text": "1.5.",
+        "text": "7.204",
         "is_correct": false
       },
       {
-        "text": "They are equal.",
+        "text": "7.402",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "Tenths 4 would put the number above 7.4 because a positive later digit remains. Tenths 2 and hundredths 4 gives 7.240.",
+      "hint": "Apply the upper bound before maximising the remaining digits."
     }
   },
   {
@@ -1217,32 +1399,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "locate_a_decimal",
-    "question": "While organising a book drive, which decimal lies between 1.61 and 1.62?",
-    "audio_prompt": "While organising a book drive, which decimal lies between 1.61 and 1.62?",
+    "skill": "zoomed_midpoint",
+    "coverage": [
+      "E3"
+    ],
+    "question": "An instrument's zoomed scale marks 0.918 and 0.920. A pointer is halfway between them. What reading should be recorded?",
+    "audio_prompt": "An instrument's zoomed scale marks 0.918 and 0.920. A pointer is halfway between them. What reading should be recorded?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-011",
-      "alt_text": "While organising a book drive: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.605.",
+        "text": "0.910",
         "is_correct": false
       },
       {
-        "text": "1.615.",
+        "text": "0.929",
+        "is_correct": false
+      },
+      {
+        "text": "0.919",
         "is_correct": true
       },
       {
-        "text": "1.625.",
+        "text": "0.9195",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "The gap is 0.002; half is 0.001, giving 0.919.",
+      "hint": "Check equal distances from the endpoints."
     }
   },
   {
@@ -1251,32 +1438,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "decimal_place_value",
-    "question": "In an environmental study, which is 1.02 written to three decimal places?",
-    "audio_prompt": "In an environmental study, which is 1.02 written to three decimal places?",
+    "skill": "relative_digit_values",
+    "coverage": [
+      "E1"
+    ],
+    "question": "Two labels show 0.55 and 0.055. How many times as large is the first label's tenths-digit value as the second label's thousandths-digit value?",
+    "audio_prompt": "Two labels show 0.55 and 0.055. How many times as large is the first label's tenths-digit value as the second label's thousandths-digit value?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-012",
-      "alt_text": "In an environmental study: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1020.",
+        "text": "10 times",
         "is_correct": false
       },
       {
-        "text": "1.110.",
+        "text": "1000 times",
         "is_correct": false
       },
       {
-        "text": "1.020.",
+        "text": "The same value",
+        "is_correct": false
+      },
+      {
+        "text": "100 times",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "The digit values are 0.5 and 0.005; 0.5 = 500 thousandths = 100 × 5 thousandths.",
+      "hint": "Compare the specified digit values, not the entire numbers."
     }
   },
   {
@@ -1285,32 +1477,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "compare_decimal_readings",
-    "question": "During a playground redesign, two sensors read 1.13 m and 1.138 m. Which reading is greater?",
-    "audio_prompt": "During a playground redesign, two sensors read 1.13 m and 1.138 m. Which reading is greater?",
+    "skill": "choose_measurement",
+    "coverage": [
+      "E4"
+    ],
+    "question": "A craft part must fit below a 3.06 cm limit. Which is the largest listed size that fits?",
+    "audio_prompt": "A craft part must fit below a 3.06 cm limit. Which is the largest listed size that fits?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-013",
-      "alt_text": "During a playground redesign: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.138.",
+        "text": "3.059 cm",
         "is_correct": true
       },
       {
-        "text": "1.13.",
+        "text": "3.060 cm",
         "is_correct": false
       },
       {
-        "text": "They are equal.",
+        "text": "3.006 cm",
+        "is_correct": false
+      },
+      {
+        "text": "3.061 cm",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "3.059 is below 3.060 and greater than 3.006; equality does not satisfy below.",
+      "hint": "Find all valid sizes before selecting the largest."
     }
   },
   {
@@ -1319,32 +1516,38 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "locate_a_decimal",
-    "question": "At a transport depot, which decimal lies between 1.24 and 1.25?",
-    "audio_prompt": "At a transport depot, which decimal lies between 1.24 and 1.25?",
+    "skill": "regroup_model",
+    "coverage": [
+      "E1",
+      "E2"
+    ],
+    "question": "A block model has 2 tenths and 14 hundredths of one whole. Which decimal labels the complete model?",
+    "audio_prompt": "A block model has 2 tenths and 14 hundredths of one whole. Which decimal labels the complete model?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-014",
-      "alt_text": "At a transport depot: a three-step reasoning pathway for locate a decimal, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.235.",
+        "text": "0.034",
         "is_correct": false
       },
       {
-        "text": "1.245.",
+        "text": "0.34",
         "is_correct": true
       },
       {
-        "text": "1.255.",
+        "text": "0.214",
+        "is_correct": false
+      },
+      {
+        "text": "0.2140",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The chosen decimal is greater than the lower endpoint and less than the upper endpoint.",
-      "hint": "Use the midpoint between the two hundredths."
+      "summary": "Two tenths is 20 hundredths; 20 + 14 = 34 hundredths = 0.34.",
+      "hint": "Regroup everything into the same place-value unit."
     }
   },
   {
@@ -1353,32 +1556,37 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "decimal_place_value",
-    "question": "While preparing a camping trip, which is 1.3 written to three decimal places?",
-    "audio_prompt": "While preparing a camping trip, which is 1.3 written to three decimal places?",
+    "skill": "precision_between",
+    "coverage": [
+      "E3"
+    ],
+    "question": "A sensor can display four decimal places. Which reading is strictly between 0.999 and 1?",
+    "audio_prompt": "A sensor can display four decimal places. Which reading is strictly between 0.999 and 1?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-015",
-      "alt_text": "While preparing a camping trip: a three-step reasoning pathway for decimal place value, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1300.",
+        "text": "1.0000",
         "is_correct": false
       },
       {
-        "text": "1.390.",
+        "text": "0.9989",
         "is_correct": false
       },
       {
-        "text": "1.300.",
+        "text": "0.9996",
         "is_correct": true
+      },
+      {
+        "text": "0.9990",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Adding a trailing zero does not change a decimal's value.",
-      "hint": "Keep every existing place value and add zero thousandths."
+      "summary": "0.9990 < 0.9996 < 1.0000.",
+      "hint": "Write both endpoints to four decimal places."
     }
   },
   {
@@ -1387,32 +1595,38 @@
     "year_level": "Year 5",
     "subject": "math",
     "bank": "test",
-    "skill": "compare_decimal_readings",
-    "question": "In a strategy tournament, two sensors read 1.41 m and 1.418 m. Which reading is greater?",
-    "audio_prompt": "In a strategy tournament, two sensors read 1.41 m and 1.418 m. Which reading is greater?",
+    "skill": "justify_order",
+    "coverage": [
+      "E1",
+      "E4"
+    ],
+    "question": "For race times 12.081 s and 12.108 s, which comparison and reason are correct?",
+    "audio_prompt": "For race times 12.081 s and 12.108 s, which comparison and reason are correct?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n01.svg#ac9m5n01-t-016",
-      "alt_text": "In a strategy tournament: a three-step reasoning pathway for compare decimal readings, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1.418.",
+        "text": "12.108 s is shorter because 108 has fewer digits than 081.",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal because they contain the same digits.",
+        "is_correct": false
+      },
+      {
+        "text": "12.081 s is longer because its hundredths digit is larger.",
+        "is_correct": false
+      },
+      {
+        "text": "12.081 s is shorter because its tenths digit is smaller.",
         "is_correct": true
-      },
-      {
-        "text": "1.41.",
-        "is_correct": false
-      },
-      {
-        "text": "They are equal.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Aligning decimal places shows which reading is farther right on the number line.",
-      "hint": "Write placeholder zeros, then compare from tenths to thousandths."
+      "summary": "After the equal whole part, 0 tenths is less than 1 tenth. Later digits cannot reverse that order.",
+      "hint": "Start with the highest place that differs."
     }
   }
 ]

@@ -1,0 +1,4 @@
+import fs from 'node:fs';
+const files=process.argv.slice(2); const errors=[];
+for(const file of files){const items=JSON.parse(fs.readFileSync(file));const p=items.filter(x=>x.bank==='practice'),t=items.filter(x=>x.bank==='test');if(p.length!==24)errors.push(`${file}: Practice ${p.length}`);if(t.length!==16)errors.push(`${file}: Test ${t.length}`);for(const q of items){if(!q.id||!q.question||!q.explanation?.summary||!q.explanation?.hint)errors.push(`${file}:${q.id}: incomplete`);if(q.answers.length!==4)errors.push(`${file}:${q.id}: choices ${q.answers.length}`);if(q.answers.filter(a=>a.is_correct).length!==1)errors.push(`${file}:${q.id}: correct count`)}const ids=items.map(x=>x.id);if(new Set(ids).size!==ids.length)errors.push(`${file}: duplicate IDs`);}
+if(errors.length){console.error(errors.join('\n'));process.exit(1)} console.log(JSON.stringify({files,status:'PASS',standard:'24 Practice + 16 Test'}));

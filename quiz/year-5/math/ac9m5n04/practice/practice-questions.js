@@ -4,28 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-001",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "interpret a hundred grid",
+    "skill": "percent grid",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, 25 of every 100 squares are shaded. Which percentage is shown?",
-    "audioPrompt": "During a class investigation, 25 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "During a class investigation: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-001\"></use></svg>",
+    "question": "A 10 by 10 grid has 37 shaded squares. What percentage is shaded?",
+    "audioPrompt": "A 10 by 10 grid has 37 shaded squares. What percentage is shaded?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "25%.",
-      "75%.",
-      "2.5%."
+      "37%",
+      "3.7%",
+      "63%",
+      "0.37%"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
+    "explanation": "Each square is one percent, so 37 shaded squares represent 37%.\nHint: Count shaded squares out of 100.",
     "structuredExplanation": {
-      "summary": "A percentage states the number of parts out of 100.",
-      "hint": "Read the shaded count as parts per hundred."
+      "summary": "Each square is one percent, so 37 shaded squares represent 37%.",
+      "hint": "Count shaded squares out of 100."
     },
     "qualitySchema": "production-v1"
   },
@@ -38,18 +40,20 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "At the school market, which decimal is equivalent to 40%?",
     "audioPrompt": "At the school market, which decimal is equivalent to 40%?",
-    "visual": "At the school market: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school market: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-002\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-002",
-      "alt_text": "At the school market: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "4.",
       "0.4.",
-      "0.6."
+      "0.6.",
+      "None of these choices."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 1,
     "explanation": "40% means 40 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
     "structuredExplanation": {
@@ -67,18 +71,20 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While planning a garden, 50 of every 100 squares are shaded. Which percentage is shown?",
     "audioPrompt": "While planning a garden, 50 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "While planning a garden: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a garden: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-003\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-003",
-      "alt_text": "While planning a garden: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "5%.",
       "It relies on a surface pattern without checking the quantities.",
-      "50%."
+      "50%.",
+      "None of these choices."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
     "structuredExplanation": {
@@ -96,18 +102,20 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "In a robotics challenge, which decimal is equivalent to 60%?",
     "audioPrompt": "In a robotics challenge, which decimal is equivalent to 60%?",
-    "visual": "In a robotics challenge: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a robotics challenge: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-004\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-004",
-      "alt_text": "In a robotics challenge: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "0.6.",
       "6.",
-      "0.4."
+      "0.4.",
+      "None of these choices."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "60% means 60 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
     "structuredExplanation": {
@@ -120,28 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-005",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "interpret a hundred grid",
+    "skill": "fraction percent",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, 75 of every 100 squares are shaded. Which percentage is shown?",
-    "audioPrompt": "During sports-day planning, 75 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "During sports-day planning: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During sports-day planning: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-005\"></use></svg>",
+    "question": "Which percentage equals 3/4?",
+    "audioPrompt": "Which percentage equals 3/4?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-005",
-      "alt_text": "During sports-day planning: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "25%.",
-      "75%.",
-      "7.5%."
+      "75%",
+      "34%",
+      "25%",
+      "0.75%"
     ],
-    "correct": 1,
-    "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Three quarters is 75 hundredths, or 75%.\nHint: Use a 100-square grid or equivalent fraction.",
     "structuredExplanation": {
-      "summary": "A percentage states the number of parts out of 100.",
-      "hint": "Read the shaded count as parts per hundred."
+      "summary": "Three quarters is 75 hundredths, or 75%.",
+      "hint": "Use a 100-square grid or equivalent fraction."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-006",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "connect percentages and decimals",
+    "skill": "complement",
     "printable": true,
     "type": "single",
-    "question": "At the wildlife centre, which decimal is equivalent to 10%?",
-    "audioPrompt": "At the wildlife centre, which decimal is equivalent to 10%?",
-    "visual": "At the wildlife centre: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the wildlife centre: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-006\"></use></svg>",
+    "question": "A battery is 68% charged. What percentage is not charged?",
+    "audioPrompt": "A battery is 68% charged. What percentage is not charged?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-006",
-      "alt_text": "At the wildlife centre: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1.",
-      "0.9.",
-      "0.1."
+      "132%",
+      "32%",
+      "68%",
+      "28%"
     ],
-    "correct": 2,
-    "explanation": "10% means 10 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "The complete whole is 100%; 100 − 68 = 32%.\nHint: Use the complement to 100%.",
     "structuredExplanation": {
-      "summary": "10% means 10 divided by 100.",
-      "hint": "Move from percent to decimal by dividing by 100."
+      "summary": "The complete whole is 100%; 100 − 68 = 32%.",
+      "hint": "Use the complement to 100%."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-007",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "interpret a hundred grid",
+    "skill": "collection",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, 25 of every 100 squares are shaded. Which percentage is shown?",
-    "audioPrompt": "While checking a map, 25 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "While checking a map: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While checking a map: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-007\"></use></svg>",
+    "question": "In a box of 50 counters, 20 are blue. What percentage are blue?",
+    "audioPrompt": "In a box of 50 counters, 20 are blue. What percentage are blue?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-007",
-      "alt_text": "While checking a map: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "25%.",
-      "75%.",
-      "2.5%."
+      "30%",
+      "50%",
+      "40%",
+      "20%"
     ],
-    "correct": 0,
-    "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "20 out of 50 is 2/5, which is 40 out of 100.\nHint: Scale the fraction to a whole of 100.",
     "structuredExplanation": {
-      "summary": "A percentage states the number of parts out of 100.",
-      "hint": "Read the shaded count as parts per hundred."
+      "summary": "20 out of 50 is 2/5, which is 40 out of 100.",
+      "hint": "Scale the fraction to a whole of 100."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-008",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "connect percentages and decimals",
+    "skill": "relative",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, which decimal is equivalent to 40%?",
-    "audioPrompt": "In the makerspace, which decimal is equivalent to 40%?",
-    "visual": "In the makerspace: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the makerspace: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-008\"></use></svg>",
+    "question": "Which is the greater relative amount?",
+    "audioPrompt": "Which is the greater relative amount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-008",
-      "alt_text": "In the makerspace: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "4.",
-      "0.4.",
-      "0.6."
+      "0.4",
+      "1/4",
+      "3/10",
+      "45%"
     ],
-    "correct": 1,
-    "explanation": "40% means 40 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "45% = 0.45, greater than 0.4, 0.25 and 0.3.\nHint: Convert to a common representation.",
     "structuredExplanation": {
-      "summary": "40% means 40 divided by 100.",
-      "hint": "Move from percent to decimal by dividing by 100."
+      "summary": "45% = 0.45, greater than 0.4, 0.25 and 0.3.",
+      "hint": "Convert to a common representation."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-009",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "interpret a hundred grid",
+    "skill": "whole identification",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, 50 of every 100 squares are shaded. Which percentage is shown?",
-    "audioPrompt": "During a cooking project, 50 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "During a cooking project: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a cooking project: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-009\"></use></svg>",
+    "question": "A chart shows 24 students, and 6 chose cycling. What percentage chose cycling?",
+    "audioPrompt": "A chart shows 24 students, and 6 chose cycling. What percentage chose cycling?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-009",
-      "alt_text": "During a cooking project: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "5%.",
-      "It relies on a surface pattern without checking the quantities.",
-      "50%."
+      "25%",
+      "6%",
+      "24%",
+      "75%"
     ],
-    "correct": 2,
-    "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "6/24 = 1/4 = 25%.\nHint: Identify the complete group first.",
     "structuredExplanation": {
-      "summary": "A percentage states the number of parts out of 100.",
-      "hint": "Read the shaded count as parts per hundred."
+      "summary": "6/24 = 1/4 = 25%.",
+      "hint": "Identify the complete group first."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-010",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "connect percentages and decimals",
+    "skill": "percent decimal",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, which decimal is equivalent to 60%?",
-    "audioPrompt": "At the community fair, which decimal is equivalent to 60%?",
-    "visual": "At the community fair: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the community fair: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-010\"></use></svg>",
+    "question": "A water tank is 0.35 full. Which percentage describes it?",
+    "audioPrompt": "A water tank is 0.35 full. Which percentage describes it?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-010",
-      "alt_text": "At the community fair: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "0.6.",
-      "6.",
-      "0.4."
+      "0.035%",
+      "35%",
+      "3.5%",
+      "65%"
     ],
-    "correct": 0,
-    "explanation": "60% means 60 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "0.35 means 35 hundredths, so it is 35%.\nHint: Move the decimal point two places right.",
     "structuredExplanation": {
-      "summary": "60% means 60 divided by 100.",
-      "hint": "Move from percent to decimal by dividing by 100."
+      "summary": "0.35 means 35 hundredths, so it is 35%.",
+      "hint": "Move the decimal point two places right."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-011",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "interpret a hundred grid",
+    "skill": "percent difference",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, 75 of every 100 squares are shaded. Which percentage is shown?",
-    "audioPrompt": "While organising a library display, 75 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "While organising a library display: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a library display: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-011\"></use></svg>",
+    "question": "A sale changes a price from $80 to $60. What percentage of the original price is $60?",
+    "audioPrompt": "A sale changes a price from $80 to $60. What percentage of the original price is $60?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-011",
-      "alt_text": "While organising a library display: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "25%.",
-      "75%.",
-      "7.5%."
+      "25%",
+      "80%",
+      "75%",
+      "60%"
     ],
-    "correct": 1,
-    "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "60/80 = 3/4 = 75%; the original price is the whole.\nHint: The denominator must be the original whole.",
     "structuredExplanation": {
-      "summary": "A percentage states the number of parts out of 100.",
-      "hint": "Read the shaded count as parts per hundred."
+      "summary": "60/80 = 3/4 = 75%; the original price is the whole.",
+      "hint": "The denominator must be the original whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-012",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "connect percentages and decimals",
+    "skill": "model complement",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, which decimal is equivalent to 10%?",
-    "audioPrompt": "In a science notebook, which decimal is equivalent to 10%?",
-    "visual": "In a science notebook: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a science notebook: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-012\"></use></svg>",
+    "question": "A 10 by 10 grid has 18 unshaded squares. What percentage is shaded?",
+    "audioPrompt": "A 10 by 10 grid has 18 unshaded squares. What percentage is shaded?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-012",
-      "alt_text": "In a science notebook: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1.",
-      "0.9.",
-      "0.1."
+      "18%",
+      "80%",
+      "20%",
+      "82%"
     ],
-    "correct": 2,
-    "explanation": "10% means 10 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "100 − 18 = 82 shaded squares.\nHint: Use the grid's complete whole.",
     "structuredExplanation": {
-      "summary": "10% means 10 divided by 100.",
-      "hint": "Move from percent to decimal by dividing by 100."
+      "summary": "100 − 18 = 82 shaded squares.",
+      "hint": "Use the grid's complete whole."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-013",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "interpret a hundred grid",
+    "skill": "common fraction",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, 25 of every 100 squares are shaded. Which percentage is shown?",
-    "audioPrompt": "During a design challenge, 25 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "During a design challenge: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a design challenge: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-013\"></use></svg>",
+    "question": "Which pair represents the same amount?",
+    "audioPrompt": "Which pair represents the same amount?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-013",
-      "alt_text": "During a design challenge: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "25%.",
-      "75%.",
-      "2.5%."
+      "50% and 1/2",
+      "25% and 1/2",
+      "75% and 1/4",
+      "10% and 1/2"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
     "correct": 0,
-    "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
+    "explanation": "One half is 50 out of 100, or 50%.\nHint: Recall familiar fraction equivalents.",
     "structuredExplanation": {
-      "summary": "A percentage states the number of parts out of 100.",
-      "hint": "Read the shaded count as parts per hundred."
+      "summary": "One half is 50 out of 100, or 50%.",
+      "hint": "Recall familiar fraction equivalents."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-014",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "connect percentages and decimals",
+    "skill": "collection scale",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, which decimal is equivalent to 40%?",
-    "audioPrompt": "At the school canteen, which decimal is equivalent to 40%?",
-    "visual": "At the school canteen: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school canteen: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-014\"></use></svg>",
+    "question": "A class has 30 learners and 12 wear hats. What percentage wear hats?",
+    "audioPrompt": "A class has 30 learners and 12 wear hats. What percentage wear hats?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-014",
-      "alt_text": "At the school canteen: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "4.",
-      "0.4.",
-      "0.6."
+      "60%",
+      "40%",
+      "12%",
+      "30%"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "40% means 40 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
+    "explanation": "12/30 = 2/5 = 40/100.\nHint: Simplify or scale the fraction.",
     "structuredExplanation": {
-      "summary": "40% means 40 divided by 100.",
-      "hint": "Move from percent to decimal by dividing by 100."
+      "summary": "12/30 = 2/5 = 40/100.",
+      "hint": "Simplify or scale the fraction."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-015",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "interpret a hundred grid",
+    "skill": "compare context",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans, 50 of every 100 squares are shaded. Which percentage is shown?",
-    "audioPrompt": "While comparing travel plans, 50 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "While comparing travel plans: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While comparing travel plans: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-015\"></use></svg>",
+    "question": "Which is larger: 0.6 of a metre or 55% of a metre?",
+    "audioPrompt": "Which is larger: 0.6 of a metre or 55% of a metre?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-015",
-      "alt_text": "While comparing travel plans: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "5%.",
-      "It relies on a surface pattern without checking the quantities.",
-      "50%."
+      "They are equal",
+      "There is not enough information",
+      "0.6 m",
+      "55% of a metre"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
     "correct": 2,
-    "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
+    "explanation": "0.6 = 60%, which is greater than 55%.\nHint: Convert the decimal to a percentage.",
     "structuredExplanation": {
-      "summary": "A percentage states the number of parts out of 100.",
-      "hint": "Read the shaded count as parts per hundred."
+      "summary": "0.6 = 60%, which is greater than 55%.",
+      "hint": "Convert the decimal to a percentage."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-016",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "connect percentages and decimals",
+    "skill": "percent more",
     "printable": true,
     "type": "single",
-    "question": "In a data workshop, which decimal is equivalent to 60%?",
-    "audioPrompt": "In a data workshop, which decimal is equivalent to 60%?",
-    "visual": "In a data workshop: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a data workshop: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-016\"></use></svg>",
+    "question": "A score rises from 50% to 70%. By how many percentage points did it rise?",
+    "audioPrompt": "A score rises from 50% to 70%. By how many percentage points did it rise?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-016",
-      "alt_text": "In a data workshop: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "0.6.",
-      "6.",
-      "0.4."
+      "20% of 70",
+      "120 percentage points",
+      "40 percentage points",
+      "20 percentage points"
     ],
-    "correct": 0,
-    "explanation": "60% means 60 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Subtract the two percentages: 70 − 50 = 20 percentage points.\nHint: Distinguish percentage points from percent of a quantity.",
     "structuredExplanation": {
-      "summary": "60% means 60 divided by 100.",
-      "hint": "Move from percent to decimal by dividing by 100."
+      "summary": "Subtract the two percentages: 70 − 50 = 20 percentage points.",
+      "hint": "Distinguish percentage points from percent of a quantity."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-017",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "interpret a hundred grid",
+    "skill": "truth check",
     "printable": true,
     "type": "single",
-    "question": "During a building project, 75 of every 100 squares are shaded. Which percentage is shown?",
-    "audioPrompt": "During a building project, 75 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "During a building project: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a building project: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-017\"></use></svg>",
+    "question": "A learner says 0.8 = 8%. What correction is needed?",
+    "audioPrompt": "A learner says 0.8 = 8%. What correction is needed?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-017",
-      "alt_text": "During a building project: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "25%.",
-      "75%.",
-      "7.5%."
+      "0.8 = 80%, because it is 80 hundredths.",
+      "0.8 = 8%, because 8 is in the tenths place.",
+      "0.8 = 0.8%.",
+      "0.8 = 800%."
     ],
-    "correct": 1,
-    "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "Eight tenths equals eighty hundredths, or 80%.\nHint: Rename tenths as hundredths.",
     "structuredExplanation": {
-      "summary": "A percentage states the number of parts out of 100.",
-      "hint": "Read the shaded count as parts per hundred."
+      "summary": "Eight tenths equals eighty hundredths, or 80%.",
+      "hint": "Rename tenths as hundredths."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-018",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "connect percentages and decimals",
+    "skill": "complement transfer",
     "printable": true,
     "type": "single",
-    "question": "At the local pool, which decimal is equivalent to 10%?",
-    "audioPrompt": "At the local pool, which decimal is equivalent to 10%?",
-    "visual": "At the local pool: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the local pool: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-018\"></use></svg>",
+    "question": "A park plan allocates 35% to trees and the rest to paths. What percentage is paths?",
+    "audioPrompt": "A park plan allocates 35% to trees and the rest to paths. What percentage is paths?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-018",
-      "alt_text": "At the local pool: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "1.",
-      "0.9.",
-      "0.1."
+      "3.5%",
+      "65%",
+      "35%",
+      "135%"
     ],
-    "correct": 2,
-    "explanation": "10% means 10 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "The two parts make 100%; 100 − 35 = 65%.\nHint: Use complementary percentages.",
     "structuredExplanation": {
-      "summary": "10% means 10 divided by 100.",
-      "hint": "Move from percent to decimal by dividing by 100."
+      "summary": "The two parts make 100%; 100 − 35 = 65%.",
+      "hint": "Use complementary percentages."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n04-p-019",
     "curriculumCode": "AC9M5N04",
     "bank": "practice",
-    "skill": "interpret a hundred grid",
+    "skill": "percent fraction",
     "printable": true,
     "type": "single",
-    "question": "While preparing an excursion, 25 of every 100 squares are shaded. Which percentage is shown?",
-    "audioPrompt": "While preparing an excursion, 25 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "While preparing an excursion: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While preparing an excursion: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-019\"></use></svg>",
+    "question": "Which fraction is equivalent to 60%?",
+    "audioPrompt": "Which fraction is equivalent to 60%?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-019",
-      "alt_text": "While preparing an excursion: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "25%.",
-      "75%.",
-      "2.5%."
+      "1/6",
+      "2/3",
+      "3/5",
+      "6/5"
     ],
-    "correct": 0,
-    "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "60/100 simplifies to 3/5.\nHint: Write the percentage over 100, then simplify.",
     "structuredExplanation": {
-      "summary": "A percentage states the number of parts out of 100.",
-      "hint": "Read the shaded count as parts per hundred."
+      "summary": "60/100 simplifies to 3/5.",
+      "hint": "Write the percentage over 100, then simplify."
     },
     "qualitySchema": "production-v1"
   },
@@ -560,18 +598,20 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "In a games club, which decimal is equivalent to 40%?",
     "audioPrompt": "In a games club, which decimal is equivalent to 40%?",
-    "visual": "In a games club: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a games club: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-020\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-020",
-      "alt_text": "In a games club: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "4.",
       "0.4.",
-      "0.6."
+      "0.6.",
+      "None of these choices."
     ],
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
     "correct": 1,
     "explanation": "40% means 40 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
     "structuredExplanation": {
@@ -589,18 +629,20 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "During an art project, 50 of every 100 squares are shaded. Which percentage is shown?",
     "audioPrompt": "During an art project, 50 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "During an art project: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During an art project: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-021\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-021",
-      "alt_text": "During an art project: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "5%.",
       "It relies on a surface pattern without checking the quantities.",
-      "50%."
+      "50%.",
+      "None of these choices."
     ],
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
     "correct": 2,
     "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
     "structuredExplanation": {
@@ -618,18 +660,20 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "At the recycling station, which decimal is equivalent to 60%?",
     "audioPrompt": "At the recycling station, which decimal is equivalent to 60%?",
-    "visual": "At the recycling station: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the recycling station: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-022\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-022",
-      "alt_text": "At the recycling station: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "0.6.",
       "6.",
-      "0.4."
+      "0.4.",
+      "None of these choices."
     ],
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
     "correct": 0,
     "explanation": "60% means 60 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
     "structuredExplanation": {
@@ -647,18 +691,20 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "While planning a class survey, 75 of every 100 squares are shaded. Which percentage is shown?",
     "audioPrompt": "While planning a class survey, 75 of every 100 squares are shaded. Which percentage is shown?",
-    "visual": "While planning a class survey: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a class survey: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-023\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-023",
-      "alt_text": "While planning a class survey: a three-step reasoning pathway for interpret a hundred grid, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "25%.",
       "75%.",
-      "7.5%."
+      "7.5%.",
+      "None of these choices."
     ],
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
     "correct": 1,
     "explanation": "A percentage states the number of parts out of 100.\nHint: Read the shaded count as parts per hundred.",
     "structuredExplanation": {
@@ -676,18 +722,20 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "In a coding lesson, which decimal is equivalent to 10%?",
     "audioPrompt": "In a coding lesson, which decimal is equivalent to 10%?",
-    "visual": "In a coding lesson: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a coding lesson: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-024\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n04.svg#ac9m5n04-p-024",
-      "alt_text": "In a coding lesson: a three-step reasoning pathway for connect percentages and decimals, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "1.",
       "0.9.",
-      "0.1."
+      "0.1.",
+      "None of these choices."
     ],
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
     "correct": 2,
     "explanation": "10% means 10 divided by 100.\nHint: Move from percent to decimal by dividing by 100.",
     "structuredExplanation": {

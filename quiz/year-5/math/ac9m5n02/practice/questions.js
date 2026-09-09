@@ -4,28 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-001",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "factors in equal rows",
+    "skill": "factor pair",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, 60 items must be arranged in equal rows. Which row size works with none left over?",
-    "audioPrompt": "During a class investigation, 60 items must be arranged in equal rows. Which row size works with none left over?",
-    "visual": "During a class investigation: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-001\"></use></svg>",
+    "question": "Which multiplication expresses 28 as a product of two natural-number factors?",
+    "audioPrompt": "Which multiplication expresses 28 as a product of two natural-number factors?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-001",
-      "alt_text": "During a class investigation: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "10.",
-      "11.",
-      "12."
+      "4 × 7",
+      "3 × 9",
+      "2 × 15",
+      "5 × 6"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "10 is a factor of 60, so the division has no remainder.\nHint: Test each row size by multiplication or division.",
+    "explanation": "4 × 7 = 28. Both 4 and 7 divide 28 exactly.\nHint: Multiply the proposed factor pair.",
     "structuredExplanation": {
-      "summary": "10 is a factor of 60, so the division has no remainder.",
-      "hint": "Test each row size by multiplication or division."
+      "summary": "4 × 7 = 28. Both 4 and 7 divide 28 exactly.",
+      "hint": "Multiply the proposed factor pair."
     },
     "qualitySchema": "production-v1"
   },
@@ -38,22 +40,24 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "At the school market, which number is a multiple of both 4 and 6?",
     "audioPrompt": "At the school market, which number is a multiple of both 4 and 6?",
-    "visual": "At the school market: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school market: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-002\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-002",
-      "alt_text": "At the school market: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "16.",
       "36.",
-      "18."
+      "18.",
+      "None of these choices."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 1,
-    "explanation": "A common multiple appears in both multiplication sequences.\nHint: List multiples of 4 and 6 until one matches.",
+    "explanation": "36 = 4 × 9 and 36 = 6 × 6. The other choices are not multiples of both numbers.\nHint: List multiples of 4 and 6 until one matches.",
     "structuredExplanation": {
-      "summary": "A common multiple appears in both multiplication sequences.",
+      "summary": "36 = 4 × 9 and 36 = 6 × 6. The other choices are not multiples of both numbers.",
       "hint": "List multiples of 4 and 6 until one matches."
     },
     "qualitySchema": "production-v1"
@@ -62,28 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-003",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "divisibility",
+    "skill": "factor list",
     "printable": true,
     "type": "single",
-    "question": "While planning a garden, which statement about 24 is correct?",
-    "audioPrompt": "While planning a garden, which statement about 24 is correct?",
-    "visual": "While planning a garden: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a garden: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-003\"></use></svg>",
+    "question": "Which list contains every positive factor of 18?",
+    "audioPrompt": "Which list contains every positive factor of 18?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-003",
-      "alt_text": "While planning a garden: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "24 is not even.",
-      "24 has no factor pairs.",
-      "24 is divisible by 6."
+      "2, 3, 6, 9",
+      "1, 3, 6, 9, 18",
+      "1, 2, 3, 6, 9, 18",
+      "1, 2, 3, 6, 18"
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 2,
-    "explanation": "24 ÷ 6 is a whole number.\nHint: Check whether 6 multiplied by a whole number equals the total.",
+    "explanation": "The pairs are 1 × 18, 2 × 9 and 3 × 6; their members give all six factors.\nHint: List factor pairs systematically.",
     "structuredExplanation": {
-      "summary": "24 ÷ 6 is a whole number.",
-      "hint": "Check whether 6 multiplied by a whole number equals the total."
+      "summary": "The pairs are 1 × 18, 2 × 9 and 3 × 6; their members give all six factors.",
+      "hint": "List factor pairs systematically."
     },
     "qualitySchema": "production-v1"
   },
@@ -96,22 +102,24 @@ window.skillrPracticeQuestions = [
     "type": "single",
     "question": "In a robotics challenge, 30 items must be arranged in equal rows. Which row size works with none left over?",
     "audioPrompt": "In a robotics challenge, 30 items must be arranged in equal rows. Which row size works with none left over?",
-    "visual": "In a robotics challenge: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a robotics challenge: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-004\"></use></svg>",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-004",
-      "alt_text": "In a robotics challenge: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
       "6.",
       "7.",
-      "8."
+      "8.",
+      "None of these choices."
     ],
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "6 is a factor of 30, so the division has no remainder.\nHint: Test each row size by multiplication or division.",
+    "explanation": "30 = 6 × 5, so rows of 6 leave no remainder. Dividing by 7 or 8 leaves a remainder.\nHint: Test each row size by multiplication or division.",
     "structuredExplanation": {
-      "summary": "6 is a factor of 30, so the division has no remainder.",
+      "summary": "30 = 6 × 5, so rows of 6 leave no remainder. Dividing by 7 or 8 leaves a remainder.",
       "hint": "Test each row size by multiplication or division."
     },
     "qualitySchema": "production-v1"
@@ -120,28 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-005",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "common multiples",
+    "skill": "divisible ten",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, which number is a multiple of both 4 and 6?",
-    "audioPrompt": "During sports-day planning, which number is a multiple of both 4 and 6?",
-    "visual": "During sports-day planning: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During sports-day planning: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-005\"></use></svg>",
+    "question": "Which number is divisible by 10?",
+    "audioPrompt": "Which number is divisible by 10?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-005",
-      "alt_text": "During sports-day planning: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "16.",
-      "36.",
-      "24."
+      "12 340",
+      "12 345",
+      "12 304",
+      "12 341"
     ],
-    "correct": 1,
-    "explanation": "A common multiple appears in both multiplication sequences.\nHint: List multiples of 4 and 6 until one matches.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "12 340 ends in 0, so it consists of complete groups of ten.\nHint: Examine the ones digit.",
     "structuredExplanation": {
-      "summary": "A common multiple appears in both multiplication sequences.",
-      "hint": "List multiples of 4 and 6 until one matches."
+      "summary": "12 340 ends in 0, so it consists of complete groups of ten.",
+      "hint": "Examine the ones digit."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-006",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "divisibility",
+    "skill": "digit sum",
     "printable": true,
     "type": "single",
-    "question": "At the wildlife centre, which statement about 42 is correct?",
-    "audioPrompt": "At the wildlife centre, which statement about 42 is correct?",
-    "visual": "At the wildlife centre: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the wildlife centre: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-006\"></use></svg>",
+    "question": "Is 42 615 divisible by 3, and why?",
+    "audioPrompt": "Is 42 615 divisible by 3, and why?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-006",
-      "alt_text": "At the wildlife centre: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "42 is not even.",
-      "42 has no factor pairs.",
-      "42 is divisible by 6."
+      "No; its final two digits are 15.",
+      "Yes; its digit sum is 18.",
+      "Yes; it ends in 5.",
+      "No; it is odd."
     ],
-    "correct": 2,
-    "explanation": "42 ÷ 6 is a whole number.\nHint: Check whether 6 multiplied by a whole number equals the total.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 1,
+    "explanation": "4 + 2 + 6 + 1 + 5 = 18, a multiple of 3.\nHint: Use the divisibility test for the requested divisor.",
     "structuredExplanation": {
-      "summary": "42 ÷ 6 is a whole number.",
-      "hint": "Check whether 6 multiplied by a whole number equals the total."
+      "summary": "4 + 2 + 6 + 1 + 5 = 18, a multiple of 3.",
+      "hint": "Use the divisibility test for the requested divisor."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-007",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "factors in equal rows",
+    "skill": "regroup multiples",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, 48 items must be arranged in equal rows. Which row size works with none left over?",
-    "audioPrompt": "While checking a map, 48 items must be arranged in equal rows. Which row size works with none left over?",
-    "visual": "While checking a map: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While checking a map: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-007\"></use></svg>",
+    "question": "Complete 8 × 7 = 8 × 5 + 8 × □.",
+    "audioPrompt": "Complete 8 × 7 = 8 × 5 + 8 × □.",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-007",
-      "alt_text": "While checking a map: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "8.",
-      "9.",
-      "10."
+      "7",
+      "8",
+      "2",
+      "3"
     ],
-    "correct": 0,
-    "explanation": "8 is a factor of 48, so the division has no remainder.\nHint: Test each row size by multiplication or division.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "Seven is 5 + 2, so eight groups of seven split into eight groups of five and eight groups of two.\nHint: Keep the same number of groups on both sides.",
     "structuredExplanation": {
-      "summary": "8 is a factor of 48, so the division has no remainder.",
-      "hint": "Test each row size by multiplication or division."
+      "summary": "Seven is 5 + 2, so eight groups of seven split into eight groups of five and eight groups of two.",
+      "hint": "Keep the same number of groups on both sides."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-008",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "common multiples",
+    "skill": "square pairs",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, which number is a multiple of both 4 and 6?",
-    "audioPrompt": "In the makerspace, which number is a multiple of both 4 and 6?",
-    "visual": "In the makerspace: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the makerspace: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-008\"></use></svg>",
+    "question": "What are the different rectangular arrays for 16 tiles if rotated arrays count as the same?",
+    "audioPrompt": "What are the different rectangular arrays for 16 tiles if rotated arrays count as the same?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-008",
-      "alt_text": "In the makerspace: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "16.",
-      "36.",
-      "18."
+      "1 × 16, 2 × 8",
+      "1 × 16, 2 × 8, 3 × 5, 4 × 4",
+      "2 × 8, 4 × 4, 8 × 2",
+      "1 × 16, 2 × 8, 4 × 4"
     ],
-    "correct": 1,
-    "explanation": "A common multiple appears in both multiplication sequences.\nHint: List multiples of 4 and 6 until one matches.",
+    "difficulty": 1,
+    "difficultyTier": "recognise_apply",
+    "sequencePriority": 1,
+    "correct": 3,
+    "explanation": "These three factor pairs each use exactly 16 tiles. Rotation does not create a new pair.\nHint: Include the square array and avoid rotated repeats.",
     "structuredExplanation": {
-      "summary": "A common multiple appears in both multiplication sequences.",
-      "hint": "List multiples of 4 and 6 until one matches."
+      "summary": "These three factor pairs each use exactly 16 tiles. Rotation does not create a new pair.",
+      "hint": "Include the square array and avoid rotated repeats."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-009",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "divisibility",
+    "skill": "factor multiple",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, which statement about 60 is correct?",
-    "audioPrompt": "During a cooking project, which statement about 60 is correct?",
-    "visual": "During a cooking project: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a cooking project: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-009\"></use></svg>",
+    "question": "Why is 7 a factor of 42 while 42 is a multiple of 7?",
+    "audioPrompt": "Why is 7 a factor of 42 while 42 is a multiple of 7?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-009",
-      "alt_text": "During a cooking project: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "60 is not even.",
-      "60 has no factor pairs.",
-      "60 is divisible by 6."
+      "42 = 7 × 6, so six equal groups of 7 make 42.",
+      "42 + 7 = 49, so each is a factor of the other.",
+      "7 is smaller, so it is a factor of every larger number.",
+      "Every factor must also be larger than its multiple."
     ],
-    "correct": 2,
-    "explanation": "60 ÷ 6 is a whole number.\nHint: Check whether 6 multiplied by a whole number equals the total.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "The exact multiplication relation establishes both statements; size alone does not.\nHint: Use a product to link factors and multiples.",
     "structuredExplanation": {
-      "summary": "60 ÷ 6 is a whole number.",
-      "hint": "Check whether 6 multiplied by a whole number equals the total."
+      "summary": "The exact multiplication relation establishes both statements; size alone does not.",
+      "hint": "Use a product to link factors and multiples."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-010",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "factors in equal rows",
+    "skill": "materials rule",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, 18 items must be arranged in equal rows. Which row size works with none left over?",
-    "audioPrompt": "At the community fair, 18 items must be arranged in equal rows. Which row size works with none left over?",
-    "visual": "At the community fair: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the community fair: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-010\"></use></svg>",
+    "question": "A number has complete tens rods and 5 loose units. Why is it divisible by 5?",
+    "audioPrompt": "A number has complete tens rods and 5 loose units. Why is it divisible by 5?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-010",
-      "alt_text": "At the community fair: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "6.",
-      "7.",
-      "8."
+      "Any number with a tens digit is divisible by 5.",
+      "Every tens rod makes two groups of 5, and the units make one more.",
+      "Only the loose units need to be divisible by 2.",
+      "Tens rods cannot be divided into groups of 5."
     ],
-    "correct": 0,
-    "explanation": "6 is a factor of 18, so the division has no remainder.\nHint: Test each row size by multiplication or division.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Both complete tens and the remaining five units split into whole groups of five.\nHint: Check the tens and units separately.",
     "structuredExplanation": {
-      "summary": "6 is a factor of 18, so the division has no remainder.",
-      "hint": "Test each row size by multiplication or division."
+      "summary": "Both complete tens and the remaining five units split into whole groups of five.",
+      "hint": "Check the tens and units separately."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-011",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "common multiples",
+    "skill": "insufficient rule",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, which number is a multiple of both 4 and 6?",
-    "audioPrompt": "While organising a library display, which number is a multiple of both 4 and 6?",
-    "visual": "While organising a library display: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a library display: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-011\"></use></svg>",
+    "question": "A learner says 134 is divisible by 6 because it is even. What is missing?",
+    "audioPrompt": "A learner says 134 is divisible by 6 because it is even. What is missing?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-011",
-      "alt_text": "While organising a library display: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "16.",
-      "36.",
-      "24."
+      "It must end in 0.",
+      "Nothing; every even number is divisible by 6.",
+      "Its digit sum must also be divisible by 3.",
+      "Its ones digit must be 6."
     ],
-    "correct": 1,
-    "explanation": "A common multiple appears in both multiplication sequences.\nHint: List multiples of 4 and 6 until one matches.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 2,
+    "explanation": "134 is even, but 1 + 3 + 4 = 8 is not divisible by 3, so 134 is not divisible by 6.\nHint: Six requires both the 2-test and the 3-test.",
     "structuredExplanation": {
-      "summary": "A common multiple appears in both multiplication sequences.",
-      "hint": "List multiples of 4 and 6 until one matches."
+      "summary": "134 is even, but 1 + 3 + 4 = 8 is not divisible by 3, so 134 is not divisible by 6.",
+      "hint": "Six requires both the 2-test and the 3-test."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-012",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "divisibility",
+    "skill": "complete search",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, which statement about 30 is correct?",
-    "audioPrompt": "In a science notebook, which statement about 30 is correct?",
-    "visual": "In a science notebook: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a science notebook: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-012\"></use></svg>",
+    "question": "For 45 tiles, the pairs 1 × 45, 3 × 15 and 5 × 9 have been found. Why can checking stop after testing 6?",
+    "audioPrompt": "For 45 tiles, the pairs 1 × 45, 3 × 15 and 5 × 9 have been found. Why can checking stop after testing 6?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-012",
-      "alt_text": "In a science notebook: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "30 is not even.",
-      "30 has no factor pairs.",
-      "30 is divisible by 6."
+      "Odd numbers have exactly three factor pairs.",
+      "45 has no factors greater than 6.",
+      "A factor search always stops at 6.",
+      "No factor was missed from 1 to 6, and any new pair would need a smaller partner below 7."
     ],
-    "correct": 2,
-    "explanation": "30 ÷ 6 is a whole number.\nHint: Check whether 6 multiplied by a whole number equals the total.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "7 × 7 = 49 > 45. Any pair with both factors at least 7 is too large; smaller partners have been tested.\nHint: Consider when both partners would make the product too large.",
     "structuredExplanation": {
-      "summary": "30 ÷ 6 is a whole number.",
-      "hint": "Check whether 6 multiplied by a whole number equals the total."
+      "summary": "7 × 7 = 49 > 45. Any pair with both factors at least 7 is too large; smaller partners have been tested.",
+      "hint": "Consider when both partners would make the product too large."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-013",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "factors in equal rows",
+    "skill": "rule explanation",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, 36 items must be arranged in equal rows. Which row size works with none left over?",
-    "audioPrompt": "During a design challenge, 36 items must be arranged in equal rows. Which row size works with none left over?",
-    "visual": "During a design challenge: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a design challenge: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-013\"></use></svg>",
+    "question": "Why can replacing one ten by one unit help test divisibility by 3?",
+    "audioPrompt": "Why can replacing one ten by one unit help test divisibility by 3?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-013",
-      "alt_text": "During a design challenge: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "6.",
-      "7.",
-      "8."
+      "The change removes 9, which is divisible by 3.",
+      "The change removes 10, which is divisible by 3.",
+      "One ten and one unit are equal.",
+      "The change makes every number even."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
     "correct": 0,
-    "explanation": "6 is a factor of 36, so the division has no remainder.\nHint: Test each row size by multiplication or division.",
+    "explanation": "10 − 1 = 9, so the change preserves the remainder on division by 3.\nHint: Look at the difference between a place-value unit and one.",
     "structuredExplanation": {
-      "summary": "6 is a factor of 36, so the division has no remainder.",
-      "hint": "Test each row size by multiplication or division."
+      "summary": "10 − 1 = 9, so the change preserves the remainder on division by 3.",
+      "hint": "Look at the difference between a place-value unit and one."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-014",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "common multiples",
+    "skill": "corresponding groups",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, which number is a multiple of both 4 and 6?",
-    "audioPrompt": "At the school canteen, which number is a multiple of both 4 and 6?",
-    "visual": "At the school canteen: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school canteen: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-014\"></use></svg>",
+    "question": "Which calculation correctly forms a multiple of 9 by combining matching multiples of 4 and 5?",
+    "audioPrompt": "Which calculation correctly forms a multiple of 9 by combining matching multiples of 4 and 5?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-014",
-      "alt_text": "At the school canteen: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "16.",
-      "36.",
-      "18."
+      "6 × 4 + 6 = 30",
+      "6 × 4 + 6 × 5 = 54",
+      "6 × 4 + 5 × 5 = 49",
+      "4 × 4 + 6 × 5 = 46"
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "A common multiple appears in both multiplication sequences.\nHint: List multiples of 4 and 6 until one matches.",
+    "explanation": "Six groups of four plus six groups of five make six groups of nine.\nHint: The two parts need the same group count.",
     "structuredExplanation": {
-      "summary": "A common multiple appears in both multiplication sequences.",
-      "hint": "List multiples of 4 and 6 until one matches."
+      "summary": "Six groups of four plus six groups of five make six groups of nine.",
+      "hint": "The two parts need the same group count."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-015",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "divisibility",
+    "skill": "common multiple reason",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans, which statement about 48 is correct?",
-    "audioPrompt": "While comparing travel plans, which statement about 48 is correct?",
-    "visual": "While comparing travel plans: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While comparing travel plans: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-015\"></use></svg>",
+    "question": "Which argument proves that 120 is a multiple of both 8 and 10?",
+    "audioPrompt": "Which argument proves that 120 is a multiple of both 8 and 10?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-015",
-      "alt_text": "While comparing travel plans: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "48 is not even.",
-      "48 has no factor pairs.",
-      "48 is divisible by 6."
+      "120 is greater than both 8 and 10.",
+      "8 + 10 is less than 120.",
+      "120 = 8 × 15 and 120 = 10 × 12.",
+      "120 ends in 0, so it is a multiple of every even number."
     ],
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
     "correct": 2,
-    "explanation": "48 ÷ 6 is a whole number.\nHint: Check whether 6 multiplied by a whole number equals the total.",
+    "explanation": "Both products are exact, so neither division leaves a remainder.\nHint: Provide a separate exact product for each divisor.",
     "structuredExplanation": {
-      "summary": "48 ÷ 6 is a whole number.",
-      "hint": "Check whether 6 multiplied by a whole number equals the total."
+      "summary": "Both products are exact, so neither division leaves a remainder.",
+      "hint": "Provide a separate exact product for each divisor."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-016",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "factors in equal rows",
+    "skill": "all multiples",
     "printable": true,
     "type": "single",
-    "question": "In a data workshop, 54 items must be arranged in equal rows. Which row size works with none left over?",
-    "audioPrompt": "In a data workshop, 54 items must be arranged in equal rows. Which row size works with none left over?",
-    "visual": "In a data workshop: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a data workshop: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-016\"></use></svg>",
+    "question": "A number is a multiple of 12. Must it also be a multiple of 3?",
+    "audioPrompt": "A number is a multiple of 12. Must it also be a multiple of 3?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-016",
-      "alt_text": "In a data workshop: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "9.",
-      "10.",
-      "11."
+      "No; only numbers ending in 3 are multiples of 3.",
+      "Yes; every multiple of 12 is odd.",
+      "No; 12 is larger than 3.",
+      "Yes; each group of 12 contains four groups of 3."
     ],
-    "correct": 0,
-    "explanation": "9 is a factor of 54, so the division has no remainder.\nHint: Test each row size by multiplication or division.",
+    "difficulty": 3,
+    "difficultyTier": "reasoning",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Any number of groups of 12 can be regrouped into complete groups of 3.\nHint: Break one group of 12 into equal smaller groups.",
     "structuredExplanation": {
-      "summary": "9 is a factor of 54, so the division has no remainder.",
-      "hint": "Test each row size by multiplication or division."
+      "summary": "Any number of groups of 12 can be regrouped into complete groups of 3.",
+      "hint": "Break one group of 12 into equal smaller groups."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-017",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "common multiples",
+    "skill": "packing constraint",
     "printable": true,
     "type": "single",
-    "question": "During a building project, which number is a multiple of both 4 and 6?",
-    "audioPrompt": "During a building project, which number is a multiple of both 4 and 6?",
-    "visual": "During a building project: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a building project: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-017\"></use></svg>",
+    "question": "A maker has 72 beads. Each pack must contain between 7 and 10 beads, with no leftovers. Which pair of pack sizes works?",
+    "audioPrompt": "A maker has 72 beads. Each pack must contain between 7 and 10 beads, with no leftovers. Which pair of pack sizes works?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-017",
-      "alt_text": "During a building project: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "16.",
-      "36.",
-      "24."
+      "8 and 9",
+      "7 and 8",
+      "9 and 10",
+      "7 and 10"
     ],
-    "correct": 1,
-    "explanation": "A common multiple appears in both multiplication sequences.\nHint: List multiples of 4 and 6 until one matches.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "72 = 8 × 9. Neither 7 nor 10 divides 72 exactly.\nHint: Test every allowed pack size for an exact quotient.",
     "structuredExplanation": {
-      "summary": "A common multiple appears in both multiplication sequences.",
-      "hint": "List multiples of 4 and 6 until one matches."
+      "summary": "72 = 8 × 9. Neither 7 nor 10 divides 72 exactly.",
+      "hint": "Test every allowed pack size for an exact quotient."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-018",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "divisibility",
+    "skill": "missing digit",
     "printable": true,
     "type": "single",
-    "question": "At the local pool, which statement about 18 is correct?",
-    "audioPrompt": "At the local pool, which statement about 18 is correct?",
-    "visual": "At the local pool: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the local pool: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-018\"></use></svg>",
+    "question": "The code 43□2 must be divisible by 9. Which digit belongs in the box?",
+    "audioPrompt": "The code 43□2 must be divisible by 9. Which digit belongs in the box?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-018",
-      "alt_text": "At the local pool: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "18 is not even.",
-      "18 has no factor pairs.",
-      "18 is divisible by 6."
+      "8",
+      "0",
+      "3",
+      "6"
     ],
-    "correct": 2,
-    "explanation": "18 ÷ 6 is a whole number.\nHint: Check whether 6 multiplied by a whole number equals the total.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "The known digits sum to 9. Only adding 0 among these choices keeps the sum a multiple of 9.\nHint: Add the known digits, then test the choices.",
     "structuredExplanation": {
-      "summary": "18 ÷ 6 is a whole number.",
-      "hint": "Check whether 6 multiplied by a whole number equals the total."
+      "summary": "The known digits sum to 9. Only adding 0 among these choices keeps the sum a multiple of 9.",
+      "hint": "Add the known digits, then test the choices."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-019",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "factors in equal rows",
+    "skill": "array decision",
     "printable": true,
     "type": "single",
-    "question": "While preparing an excursion, 24 items must be arranged in equal rows. Which row size works with none left over?",
-    "audioPrompt": "While preparing an excursion, 24 items must be arranged in equal rows. Which row size works with none left over?",
-    "visual": "While preparing an excursion: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While preparing an excursion: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-019\"></use></svg>",
+    "question": "A display uses 54 photos in a rectangle. Both dimensions must be greater than 3. Which dimensions work?",
+    "audioPrompt": "A display uses 54 photos in a rectangle. Both dimensions must be greater than 3. Which dimensions work?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-019",
-      "alt_text": "While preparing an excursion: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "6.",
-      "7.",
-      "8."
+      "5 by 11",
+      "2 by 27",
+      "6 by 9",
+      "3 by 18"
     ],
-    "correct": 0,
-    "explanation": "6 is a factor of 24, so the division has no remainder.\nHint: Test each row size by multiplication or division.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "6 × 9 = 54 and both dimensions exceed 3. Other exact pairs fail the size restriction.\nHint: Check product and both boundary conditions.",
     "structuredExplanation": {
-      "summary": "6 is a factor of 24, so the division has no remainder.",
-      "hint": "Test each row size by multiplication or division."
+      "summary": "6 × 9 = 54 and both dimensions exceed 3. Other exact pairs fail the size restriction.",
+      "hint": "Check product and both boundary conditions."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +593,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-020",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "common multiples",
+    "skill": "large number check",
     "printable": true,
     "type": "single",
-    "question": "In a games club, which number is a multiple of both 4 and 6?",
-    "audioPrompt": "In a games club, which number is a multiple of both 4 and 6?",
-    "visual": "In a games club: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a games club: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-020\"></use></svg>",
+    "question": "Which plan packs 31 248 seeds into equal groups of 6 without leftovers?",
+    "audioPrompt": "Which plan packs 31 248 seeds into equal groups of 6 without leftovers?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-020",
-      "alt_text": "In a games club: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "16.",
-      "36.",
-      "18."
+      "Check only that the number has five digits.",
+      "Reject it because the ones digit is 8.",
+      "Check whether 31 + 248 equals 6.",
+      "Check evenness and the digit sum 18; both tests pass."
     ],
-    "correct": 1,
-    "explanation": "A common multiple appears in both multiplication sequences.\nHint: List multiples of 4 and 6 until one matches.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "The number ends in 8 and its digit sum is 18, so it is divisible by both 2 and 3.\nHint: Use the two-part rule for 6.",
     "structuredExplanation": {
-      "summary": "A common multiple appears in both multiplication sequences.",
-      "hint": "List multiples of 4 and 6 until one matches."
+      "summary": "The number ends in 8 and its digit sum is 18, so it is divisible by both 2 and 3.",
+      "hint": "Use the two-part rule for 6."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-021",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "divisibility",
+    "skill": "build counterexample",
     "printable": true,
     "type": "single",
-    "question": "During an art project, which statement about 36 is correct?",
-    "audioPrompt": "During an art project, which statement about 36 is correct?",
-    "visual": "During an art project: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During an art project: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-021\"></use></svg>",
+    "question": "Which number disproves the claim that every multiple of 5 is a multiple of 10?",
+    "audioPrompt": "Which number disproves the claim that every multiple of 5 is a multiple of 10?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-021",
-      "alt_text": "During an art project: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "36 is not even.",
-      "36 has no factor pairs.",
-      "36 is divisible by 6."
+      "45",
+      "40",
+      "50",
+      "100"
     ],
-    "correct": 2,
-    "explanation": "36 ÷ 6 is a whole number.\nHint: Check whether 6 multiplied by a whole number equals the total.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "45 = 5 × 9, but it does not end in 0, so it is not divisible by 10.\nHint: Find a number that passes one test and fails the other.",
     "structuredExplanation": {
-      "summary": "36 ÷ 6 is a whole number.",
-      "hint": "Check whether 6 multiplied by a whole number equals the total."
+      "summary": "45 = 5 × 9, but it does not end in 0, so it is not divisible by 10.",
+      "hint": "Find a number that passes one test and fails the other."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-022",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "factors in equal rows",
+    "skill": "regroup application",
     "printable": true,
     "type": "single",
-    "question": "At the recycling station, 42 items must be arranged in equal rows. Which row size works with none left over?",
-    "audioPrompt": "At the recycling station, 42 items must be arranged in equal rows. Which row size works with none left over?",
-    "visual": "At the recycling station: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the recycling station: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-022\"></use></svg>",
+    "question": "A hall has 13 rows of 7 seats. Each row has 5 blue seats and the rest green. Which calculation counts the green seats?",
+    "audioPrompt": "A hall has 13 rows of 7 seats. Each row has 5 blue seats and the rest green. Which calculation counts the green seats?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-022",
-      "alt_text": "At the recycling station: a three-step reasoning pathway for factors in equal rows, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "7.",
-      "8.",
-      "9."
+      "7 − 5 = 2 seats altogether",
+      "13 × 2 = 26",
+      "13 × 5 = 65",
+      "13 + 2 = 15"
     ],
-    "correct": 0,
-    "explanation": "7 is a factor of 42, so the division has no remainder.\nHint: Test each row size by multiplication or division.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 1,
+    "explanation": "Each row has 7 − 5 = 2 green seats; thirteen such rows have 26.\nHint: Distinguish seats per row from seats in the whole hall.",
     "structuredExplanation": {
-      "summary": "7 is a factor of 42, so the division has no remainder.",
-      "hint": "Test each row size by multiplication or division."
+      "summary": "Each row has 7 − 5 = 2 green seats; thirteen such rows have 26.",
+      "hint": "Distinguish seats per row from seats in the whole hall."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +686,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-023",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "common multiples",
+    "skill": "shared factors",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey, which number is a multiple of both 4 and 6?",
-    "audioPrompt": "While planning a class survey, which number is a multiple of both 4 and 6?",
-    "visual": "While planning a class survey: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a class survey: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-023\"></use></svg>",
+    "question": "A tutor needs the same group size for 24 pupils and for 36 pupils, without leftovers. What is the largest possible group size?",
+    "audioPrompt": "A tutor needs the same group size for 24 pupils and for 36 pupils, without leftovers. What is the largest possible group size?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-023",
-      "alt_text": "While planning a class survey: a three-step reasoning pathway for common multiples, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "16.",
-      "36.",
-      "24."
+      "18",
+      "24",
+      "12",
+      "6"
     ],
-    "correct": 1,
-    "explanation": "A common multiple appears in both multiplication sequences.\nHint: List multiples of 4 and 6 until one matches.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Both numbers are divisible by 12. A larger common factor cannot exceed 24, and none of 13–24 divides both.\nHint: Compare complete factor lists or common factor pairs.",
     "structuredExplanation": {
-      "summary": "A common multiple appears in both multiplication sequences.",
-      "hint": "List multiples of 4 and 6 until one matches."
+      "summary": "Both numbers are divisible by 12. A larger common factor cannot exceed 24, and none of 13–24 divides both.",
+      "hint": "Compare complete factor lists or common factor pairs."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,28 +717,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5n02-p-024",
     "curriculumCode": "AC9M5N02",
     "bank": "practice",
-    "skill": "divisibility",
+    "skill": "constraint transfer",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson, which statement about 54 is correct?",
-    "audioPrompt": "In a coding lesson, which statement about 54 is correct?",
-    "visual": "In a coding lesson: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a coding lesson: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-024\"></use></svg>",
+    "question": "A three-digit number is divisible by 5 and by 3 but not by 2. Which listed number fits?",
+    "audioPrompt": "A three-digit number is divisible by 5 and by 3 but not by 2. Which listed number fits?",
+    "visual": "",
+    "visualHtml": "",
     "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5n02.svg#ac9m5n02-p-024",
-      "alt_text": "In a coding lesson: a three-step reasoning pathway for divisibility, moving from evidence to a checked decision."
+      "type": "none"
     },
     "answers": [
-      "54 is not even.",
-      "54 has no factor pairs.",
-      "54 is divisible by 6."
+      "730",
+      "732",
+      "750",
+      "735"
     ],
-    "correct": 2,
-    "explanation": "54 ÷ 6 is a whole number.\nHint: Check whether 6 multiplied by a whole number equals the total.",
+    "difficulty": 5,
+    "difficultyTier": "transfer_challenge",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "735 ends in 5, is odd and has digit sum 15. Each condition is satisfied.\nHint: Check all three conditions, including the exclusion.",
     "structuredExplanation": {
-      "summary": "54 ÷ 6 is a whole number.",
-      "hint": "Check whether 6 multiplied by a whole number equals the total."
+      "summary": "735 ends in 5, is odd and has digit sum 15. Each condition is satisfied.",
+      "hint": "Check all three conditions, including the exclusion."
     },
     "qualitySchema": "production-v1"
   }
