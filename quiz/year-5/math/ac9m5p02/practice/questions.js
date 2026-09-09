@@ -4,11 +4,11 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-001",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "During a class investigation, red appears 15 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "During a class investigation, red appears 15 times in 20 spins. What is the experimental frequency of red?",
+    "question": "A spinner is spun 30 times. Blue occurs 12 times. What is blue's experimental frequency?",
+    "audioPrompt": "A spinner is spun 30 times. Blue occurs 12 times. What is blue's experimental frequency?",
     "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
     "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
@@ -17,15 +17,15 @@ window.skillrPracticeQuestions = [
       "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "15/20.",
-      "5/20.",
-      "15/15."
+      "12/30",
+      "18/30",
+      "12/12"
     ],
     "correct": 0,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "explanation": "12/30 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "12/30 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -33,28 +33,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-002",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "At the school market, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "At the school market, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "At the school market: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school market: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-002\"></use></svg>",
+    "question": "A coin is tossed 20 times and lands heads 9 times. Which statement is accurate?",
+    "audioPrompt": "A coin is tossed 20 times and lands heads 9 times. Which statement is accurate?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-002",
-      "alt_text": "At the school market: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "The spinner must have changed shape.",
-      "Chance variation can produce different results in a limited number of trials.",
-      "Every group should get identical totals."
+      "Heads occurred 9 times in 20 trials.",
+      "Heads is impossible.",
+      "The coin must be unfair."
     ],
-    "correct": 1,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "correct": 0,
+    "explanation": "Heads occurred 9 times in 20 trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "Heads occurred 9 times in 20 trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -62,28 +62,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-003",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "While planning a garden, red appears 9 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "While planning a garden, red appears 9 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "While planning a garden: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a garden: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-003\"></use></svg>",
+    "question": "Two groups each spin the same fair wheel 25 times and get different totals. Why can this happen?",
+    "audioPrompt": "Two groups each spin the same fair wheel 25 times and get different totals. Why can this happen?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-003",
-      "alt_text": "While planning a garden: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "11/20.",
-      "9/9.",
-      "9/20."
+      "Random variation in a limited number of trials.",
+      "A fair wheel gives identical totals every time.",
+      "One group must have counted backwards."
     ],
-    "correct": 2,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "correct": 0,
+    "explanation": "Random variation in a limited number of trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "Random variation in a limited number of trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -91,28 +91,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-004",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "In a robotics challenge, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "In a robotics challenge, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "In a robotics challenge: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a robotics challenge: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-004\"></use></svg>",
+    "question": "Which table best records repeated rolls of a die?",
+    "audioPrompt": "Which table best records repeated rolls of a die?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-004",
-      "alt_text": "In a robotics challenge: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "Chance variation can produce different results in a limited number of trials.",
-      "The spinner must have changed shape.",
-      "Every group should get identical totals."
+      "A table with each face and its tally/frequency.",
+      "A list of only the highest rolls.",
+      "One drawing of a die."
     ],
     "correct": 0,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "explanation": "A table with each face and its tally/frequency. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "A table with each face and its tally/frequency. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -120,28 +120,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-005",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "During sports-day planning, red appears 11 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "During sports-day planning, red appears 11 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "During sports-day planning: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During sports-day planning: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-005\"></use></svg>",
+    "question": "A bag has more green counters than red counters. After 60 draws with replacement, green appears more often. What is the best conclusion?",
+    "audioPrompt": "A bag has more green counters than red counters. After 60 draws with replacement, green appears more often. What is the best conclusion?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-005",
-      "alt_text": "During sports-day planning: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "9/20.",
-      "11/20.",
-      "11/11."
+      "Green seems more likely, based on the results.",
+      "Red is impossible.",
+      "Every future draw will be green."
     ],
-    "correct": 1,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "correct": 0,
+    "explanation": "Green seems more likely, based on the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "Green seems more likely, based on the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -149,28 +149,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-006",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "At the wildlife centre, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "At the wildlife centre, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "At the wildlife centre: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the wildlife centre: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-006\"></use></svg>",
+    "question": "A fair coin gives 14 heads and 6 tails in 20 tosses. What should be done before saying the coin is biased?",
+    "audioPrompt": "A fair coin gives 14 heads and 6 tails in 20 tosses. What should be done before saying the coin is biased?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-006",
-      "alt_text": "At the wildlife centre: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "The spinner must have changed shape.",
-      "Every group should get identical totals.",
-      "Chance variation can produce different results in a limited number of trials."
+      "Run many more trials and compare the results.",
+      "Declare it biased immediately.",
+      "Remove the tail results."
     ],
-    "correct": 2,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "correct": 0,
+    "explanation": "Run many more trials and compare the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "Run many more trials and compare the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -178,28 +178,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-007",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "While checking a map, red appears 13 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "While checking a map, red appears 13 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "While checking a map: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While checking a map: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-007\"></use></svg>",
+    "question": "A game spinner has equal-sized red and yellow regions. Over 10 spins red occurs 7 times. Is this proof red is more likely?",
+    "audioPrompt": "A game spinner has equal-sized red and yellow regions. Over 10 spins red occurs 7 times. Is this proof red is more likely?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-007",
-      "alt_text": "While checking a map: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "13/20.",
-      "7/20.",
-      "13/13."
+      "No; a small sample can vary by chance.",
+      "Yes; seven is always more than three.",
+      "Yes; equal regions do not matter."
     ],
     "correct": 0,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "explanation": "No; a small sample can vary by chance. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "No; a small sample can vary by chance. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -207,28 +207,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-008",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "In the makerspace, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "In the makerspace, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "In the makerspace: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In the makerspace: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-008\"></use></svg>",
+    "question": "In 40 rolls, a die shows 6 on 5 rolls. What is a reasonable estimate of the chance of a 6 from this experiment?",
+    "audioPrompt": "In 40 rolls, a die shows 6 on 5 rolls. What is a reasonable estimate of the chance of a 6 from this experiment?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-008",
-      "alt_text": "In the makerspace: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "The spinner must have changed shape.",
-      "Chance variation can produce different results in a limited number of trials.",
-      "Every group should get identical totals."
+      "About 5 out of 40.",
+      "Exactly 1 out of 6.",
+      "40 out of 5."
     ],
-    "correct": 1,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "correct": 0,
+    "explanation": "About 5 out of 40. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "About 5 out of 40. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -236,28 +236,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-009",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "During a cooking project, red appears 15 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "During a cooking project, red appears 15 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "During a cooking project: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a cooking project: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-009\"></use></svg>",
+    "question": "Which experiment has equally likely elementary outcomes?",
+    "audioPrompt": "Which experiment has equally likely elementary outcomes?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-009",
-      "alt_text": "During a cooking project: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "5/20.",
-      "15/15.",
-      "15/20."
+      "Rolling a standard fair die.",
+      "Drawing coloured counters from a bag with 5 blue and 1 red.",
+      "Spinning a wheel with unequal sectors."
     ],
-    "correct": 2,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "correct": 0,
+    "explanation": "Rolling a standard fair die. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "Rolling a standard fair die. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -265,28 +265,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-010",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "At the community fair, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "At the community fair, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "At the community fair: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the community fair: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-010\"></use></svg>",
+    "question": "Why should a spinner be reset and spun in the same way each trial?",
+    "audioPrompt": "Why should a spinner be reset and spun in the same way each trial?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-010",
-      "alt_text": "At the community fair: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "Chance variation can produce different results in a limited number of trials.",
-      "The spinner must have changed shape.",
-      "Every group should get identical totals."
+      "To make the repeated experiment as fair and consistent as possible.",
+      "To guarantee each colour appears once.",
+      "To stop random variation."
     ],
     "correct": 0,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "explanation": "To make the repeated experiment as fair and consistent as possible. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "To make the repeated experiment as fair and consistent as possible. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -294,28 +294,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-011",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "While organising a library display, red appears 9 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "While organising a library display, red appears 9 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "While organising a library display: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While organising a library display: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-011\"></use></svg>",
+    "question": "A student records 3, 4, 2, 5 for four colours after 14 spins. What is the total number of spins?",
+    "audioPrompt": "A student records 3, 4, 2, 5 for four colours after 14 spins. What is the total number of spins?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-011",
-      "alt_text": "While organising a library display: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "11/20.",
-      "9/20.",
-      "9/9."
+      "14",
+      "5",
+      "4"
     ],
-    "correct": 1,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "correct": 0,
+    "explanation": "14 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "14 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -323,28 +323,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-012",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "In a science notebook, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "In a science notebook, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "In a science notebook: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a science notebook: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-012\"></use></svg>",
+    "question": "After 100 draws, red occurs 51 times and blue 49 times from a two-colour equal bag. What does this suggest?",
+    "audioPrompt": "After 100 draws, red occurs 51 times and blue 49 times from a two-colour equal bag. What does this suggest?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-012",
-      "alt_text": "In a science notebook: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "The spinner must have changed shape.",
-      "Every group should get identical totals.",
-      "Chance variation can produce different results in a limited number of trials."
+      "The outcomes appear close to equally likely.",
+      "Red is certainly more likely.",
+      "Blue is impossible."
     ],
-    "correct": 2,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "correct": 0,
+    "explanation": "The outcomes appear close to equally likely. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "The outcomes appear close to equally likely. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -352,28 +352,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-013",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "During a design challenge, red appears 11 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "During a design challenge, red appears 11 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "During a design challenge: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a design challenge: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-013\"></use></svg>",
+    "question": "A wheel has one large star region and three tiny circle regions. What should repeated trials help you investigate?",
+    "audioPrompt": "A wheel has one large star region and three tiny circle regions. What should repeated trials help you investigate?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-013",
-      "alt_text": "During a design challenge: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "11/20.",
-      "9/20.",
-      "11/11."
+      "Whether stars occur more frequently than circles.",
+      "Whether every result occurs equally often.",
+      "Whether the wheel has exactly four colours."
     ],
     "correct": 0,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "explanation": "Whether stars occur more frequently than circles. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "Whether stars occur more frequently than circles. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -381,28 +381,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-014",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "At the school canteen, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "At the school canteen, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "At the school canteen: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the school canteen: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-014\"></use></svg>",
+    "question": "What is a frequency?",
+    "audioPrompt": "What is a frequency?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-014",
-      "alt_text": "At the school canteen: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "The spinner must have changed shape.",
-      "Chance variation can produce different results in a limited number of trials.",
-      "Every group should get identical totals."
+      "The number of times an outcome occurs.",
+      "The total number of possible outcomes.",
+      "A prediction before any trial."
     ],
-    "correct": 1,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "correct": 0,
+    "explanation": "The number of times an outcome occurs. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "The number of times an outcome occurs. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -410,28 +410,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-015",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "While comparing travel plans, red appears 13 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "While comparing travel plans, red appears 13 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "While comparing travel plans: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While comparing travel plans: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-015\"></use></svg>",
+    "question": "A team runs 50 trials and another runs 5. Which result is usually better for estimating likelihood?",
+    "audioPrompt": "A team runs 50 trials and another runs 5. Which result is usually better for estimating likelihood?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-015",
-      "alt_text": "While comparing travel plans: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "7/20.",
-      "13/13.",
-      "13/20."
+      "The 50-trial result, because it has more evidence.",
+      "The 5-trial result, because it is quicker.",
+      "They are always identical."
     ],
-    "correct": 2,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "correct": 0,
+    "explanation": "The 50-trial result, because it has more evidence. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "The 50-trial result, because it has more evidence. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -439,28 +439,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-016",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "recognise/apply",
     "printable": true,
     "type": "single",
-    "question": "In a data workshop, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "In a data workshop, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "In a data workshop: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a data workshop: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-016\"></use></svg>",
+    "question": "A result occurs 0 times in 8 trials. What can you conclude?",
+    "audioPrompt": "A result occurs 0 times in 8 trials. What can you conclude?",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-016",
-      "alt_text": "In a data workshop: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "Chance variation can produce different results in a limited number of trials.",
-      "The spinner must have changed shape.",
-      "Every group should get identical totals."
+      "It did not occur in these 8 trials; more trials may still show it.",
+      "It is impossible.",
+      "It will never occur."
     ],
     "correct": 0,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "explanation": "It did not occur in these 8 trials; more trials may still show it. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "It did not occur in these 8 trials; more trials may still show it. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -468,28 +468,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-017",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "During a building project, red appears 15 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "During a building project, red appears 15 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "During a building project: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a building project: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-017\"></use></svg>",
+    "question": "A spinner is spun 30 times. Blue occurs 12 times. What is blue's experimental frequency? Explain your decision using the recorded results.",
+    "audioPrompt": "A spinner is spun 30 times. Blue occurs 12 times. What is blue's experimental frequency? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-017",
-      "alt_text": "During a building project: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "5/20.",
-      "15/20.",
-      "15/15."
+      "12/30",
+      "18/30",
+      "12/12"
     ],
-    "correct": 1,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "correct": 0,
+    "explanation": "12/30 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "12/30 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -497,28 +497,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-018",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "At the local pool, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "At the local pool, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "At the local pool: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the local pool: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-018\"></use></svg>",
+    "question": "A coin is tossed 20 times and lands heads 9 times. Which statement is accurate? Explain your decision using the recorded results.",
+    "audioPrompt": "A coin is tossed 20 times and lands heads 9 times. Which statement is accurate? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-018",
-      "alt_text": "At the local pool: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "The spinner must have changed shape.",
-      "Every group should get identical totals.",
-      "Chance variation can produce different results in a limited number of trials."
+      "Heads occurred 9 times in 20 trials.",
+      "Heads is impossible.",
+      "The coin must be unfair."
     ],
-    "correct": 2,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "correct": 0,
+    "explanation": "Heads occurred 9 times in 20 trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "Heads occurred 9 times in 20 trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -526,28 +526,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-019",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "While preparing an excursion, red appears 9 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "While preparing an excursion, red appears 9 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "While preparing an excursion: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While preparing an excursion: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-019\"></use></svg>",
+    "question": "Two groups each spin the same fair wheel 25 times and get different totals. Why can this happen? Explain your decision using the recorded results.",
+    "audioPrompt": "Two groups each spin the same fair wheel 25 times and get different totals. Why can this happen? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-019",
-      "alt_text": "While preparing an excursion: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "9/20.",
-      "11/20.",
-      "9/9."
+      "Random variation in a limited number of trials.",
+      "A fair wheel gives identical totals every time.",
+      "One group must have counted backwards."
     ],
     "correct": 0,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "explanation": "Random variation in a limited number of trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "Random variation in a limited number of trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -555,28 +555,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-020",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "In a games club, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "In a games club, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "In a games club: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a games club: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-020\"></use></svg>",
+    "question": "Which table best records repeated rolls of a die? Explain your decision using the recorded results.",
+    "audioPrompt": "Which table best records repeated rolls of a die? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-020",
-      "alt_text": "In a games club: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "The spinner must have changed shape.",
-      "Chance variation can produce different results in a limited number of trials.",
-      "Every group should get identical totals."
+      "A table with each face and its tally/frequency.",
+      "A list of only the highest rolls.",
+      "One drawing of a die."
     ],
-    "correct": 1,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "correct": 0,
+    "explanation": "A table with each face and its tally/frequency. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "A table with each face and its tally/frequency. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -584,28 +584,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-021",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "During an art project, red appears 11 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "During an art project, red appears 11 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "During an art project: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During an art project: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-021\"></use></svg>",
+    "question": "A bag has more green counters than red counters. After 60 draws with replacement, green appears more often. What is the best conclusion? Explain your decision using the recorded results.",
+    "audioPrompt": "A bag has more green counters than red counters. After 60 draws with replacement, green appears more often. What is the best conclusion? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-021",
-      "alt_text": "During an art project: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "9/20.",
-      "11/11.",
-      "11/20."
+      "Green seems more likely, based on the results.",
+      "Red is impossible.",
+      "Every future draw will be green."
     ],
-    "correct": 2,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "correct": 0,
+    "explanation": "Green seems more likely, based on the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "Green seems more likely, based on the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -613,28 +613,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-022",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "At the recycling station, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "At the recycling station, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "At the recycling station: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"At the recycling station: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-022\"></use></svg>",
+    "question": "A fair coin gives 14 heads and 6 tails in 20 tosses. What should be done before saying the coin is biased? Explain your decision using the recorded results.",
+    "audioPrompt": "A fair coin gives 14 heads and 6 tails in 20 tosses. What should be done before saying the coin is biased? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-022",
-      "alt_text": "At the recycling station: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "Chance variation can produce different results in a limited number of trials.",
-      "The spinner must have changed shape.",
-      "Every group should get identical totals."
+      "Run many more trials and compare the results.",
+      "Declare it biased immediately.",
+      "Remove the tail results."
     ],
     "correct": 0,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "explanation": "Run many more trials and compare the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "Run many more trials and compare the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -642,28 +642,28 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-023",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "interpret repeated chance trials",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "While planning a class survey, red appears 13 times in 20 spins. What is the experimental frequency of red?",
-    "audioPrompt": "While planning a class survey, red appears 13 times in 20 spins. What is the experimental frequency of red?",
-    "visual": "While planning a class survey: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"While planning a class survey: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-023\"></use></svg>",
+    "question": "A game spinner has equal-sized red and yellow regions. Over 10 spins red occurs 7 times. Is this proof red is more likely? Explain your decision using the recorded results.",
+    "audioPrompt": "A game spinner has equal-sized red and yellow regions. Over 10 spins red occurs 7 times. Is this proof red is more likely? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-023",
-      "alt_text": "While planning a class survey: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "7/20.",
-      "13/20.",
-      "13/13."
+      "No; a small sample can vary by chance.",
+      "Yes; seven is always more than three.",
+      "Yes; equal regions do not matter."
     ],
-    "correct": 1,
-    "explanation": "Experimental frequency compares observed successes with total trials.\nHint: Put the observed count over the number of trials.",
+    "correct": 0,
+    "explanation": "No; a small sample can vary by chance. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Experimental frequency compares observed successes with total trials.",
-      "hint": "Put the observed count over the number of trials."
+      "summary": "No; a small sample can vary by chance. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   },
@@ -671,30 +671,725 @@ window.skillrPracticeQuestions = [
     "id": "ac9m5p02-p-024",
     "curriculumCode": "AC9M5P02",
     "bank": "practice",
-    "skill": "explain variation in chance experiments",
+    "skill": "reasoning",
     "printable": true,
     "type": "single",
-    "question": "In a coding lesson, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "audioPrompt": "In a coding lesson, two groups get different colour totals from the same fair spinner. What is the best explanation?",
-    "visual": "In a coding lesson: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"In a coding lesson: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-024\"></use></svg>",
+    "question": "In 40 rolls, a die shows 6 on 5 rolls. What is a reasonable estimate of the chance of a 6 from this experiment? Explain your decision using the recorded results.",
+    "audioPrompt": "In 40 rolls, a die shows 6 on 5 rolls. What is a reasonable estimate of the chance of a 6 from this experiment? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
     "visualMeta": {
       "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-024",
-      "alt_text": "In a coding lesson: a three-step reasoning pathway for explain variation in chance experiments, moving from evidence to a checked decision."
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
     },
     "answers": [
-      "The spinner must have changed shape.",
-      "Every group should get identical totals.",
-      "Chance variation can produce different results in a limited number of trials."
+      "About 5 out of 40.",
+      "Exactly 1 out of 6.",
+      "40 out of 5."
     ],
-    "correct": 2,
-    "explanation": "Repeated random trials can vary even when the chance device is fair.\nHint: Compare more trials before deciding whether a pattern is unusual.",
+    "correct": 0,
+    "explanation": "About 5 out of 40. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
     "structuredExplanation": {
-      "summary": "Repeated random trials can vary even when the chance device is fair.",
-      "hint": "Compare more trials before deciding whether a pattern is unusual."
+      "summary": "About 5 out of 40. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-025",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "Which experiment has equally likely elementary outcomes? Explain your decision using the recorded results.",
+    "audioPrompt": "Which experiment has equally likely elementary outcomes? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "Rolling a standard fair die.",
+      "Drawing coloured counters from a bag with 5 blue and 1 red.",
+      "Spinning a wheel with unequal sectors."
+    ],
+    "correct": 0,
+    "explanation": "Rolling a standard fair die. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "Rolling a standard fair die. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-026",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "Why should a spinner be reset and spun in the same way each trial? Explain your decision using the recorded results.",
+    "audioPrompt": "Why should a spinner be reset and spun in the same way each trial? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "To make the repeated experiment as fair and consistent as possible.",
+      "To guarantee each colour appears once.",
+      "To stop random variation."
+    ],
+    "correct": 0,
+    "explanation": "To make the repeated experiment as fair and consistent as possible. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "To make the repeated experiment as fair and consistent as possible. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-027",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "A student records 3, 4, 2, 5 for four colours after 14 spins. What is the total number of spins? Explain your decision using the recorded results.",
+    "audioPrompt": "A student records 3, 4, 2, 5 for four colours after 14 spins. What is the total number of spins? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "14",
+      "5",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "14 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "14 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-028",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "After 100 draws, red occurs 51 times and blue 49 times from a two-colour equal bag. What does this suggest? Explain your decision using the recorded results.",
+    "audioPrompt": "After 100 draws, red occurs 51 times and blue 49 times from a two-colour equal bag. What does this suggest? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "The outcomes appear close to equally likely.",
+      "Red is certainly more likely.",
+      "Blue is impossible."
+    ],
+    "correct": 0,
+    "explanation": "The outcomes appear close to equally likely. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "The outcomes appear close to equally likely. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-029",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "A wheel has one large star region and three tiny circle regions. What should repeated trials help you investigate? Explain your decision using the recorded results.",
+    "audioPrompt": "A wheel has one large star region and three tiny circle regions. What should repeated trials help you investigate? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "Whether stars occur more frequently than circles.",
+      "Whether every result occurs equally often.",
+      "Whether the wheel has exactly four colours."
+    ],
+    "correct": 0,
+    "explanation": "Whether stars occur more frequently than circles. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "Whether stars occur more frequently than circles. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-030",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "What is a frequency? Explain your decision using the recorded results.",
+    "audioPrompt": "What is a frequency? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "The number of times an outcome occurs.",
+      "The total number of possible outcomes.",
+      "A prediction before any trial."
+    ],
+    "correct": 0,
+    "explanation": "The number of times an outcome occurs. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "The number of times an outcome occurs. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-031",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "A team runs 50 trials and another runs 5. Which result is usually better for estimating likelihood? Explain your decision using the recorded results.",
+    "audioPrompt": "A team runs 50 trials and another runs 5. Which result is usually better for estimating likelihood? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "The 50-trial result, because it has more evidence.",
+      "The 5-trial result, because it is quicker.",
+      "They are always identical."
+    ],
+    "correct": 0,
+    "explanation": "The 50-trial result, because it has more evidence. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "The 50-trial result, because it has more evidence. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-032",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "reasoning",
+    "printable": true,
+    "type": "single",
+    "question": "A result occurs 0 times in 8 trials. What can you conclude? Explain your decision using the recorded results.",
+    "audioPrompt": "A result occurs 0 times in 8 trials. What can you conclude? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "It did not occur in these 8 trials; more trials may still show it.",
+      "It is impossible.",
+      "It will never occur."
+    ],
+    "correct": 0,
+    "explanation": "It did not occur in these 8 trials; more trials may still show it. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "It did not occur in these 8 trials; more trials may still show it. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-033",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "A spinner is spun 30 times. Blue occurs 12 times. What is blue's experimental frequency? Explain your decision using the recorded results.",
+    "audioPrompt": "A spinner is spun 30 times. Blue occurs 12 times. What is blue's experimental frequency? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "12/30",
+      "18/30",
+      "12/12"
+    ],
+    "correct": 0,
+    "explanation": "12/30 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "12/30 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-034",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "A coin is tossed 20 times and lands heads 9 times. Which statement is accurate? Explain your decision using the recorded results.",
+    "audioPrompt": "A coin is tossed 20 times and lands heads 9 times. Which statement is accurate? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "Heads occurred 9 times in 20 trials.",
+      "Heads is impossible.",
+      "The coin must be unfair."
+    ],
+    "correct": 0,
+    "explanation": "Heads occurred 9 times in 20 trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "Heads occurred 9 times in 20 trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-035",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "Two groups each spin the same fair wheel 25 times and get different totals. Why can this happen? Explain your decision using the recorded results.",
+    "audioPrompt": "Two groups each spin the same fair wheel 25 times and get different totals. Why can this happen? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "Random variation in a limited number of trials.",
+      "A fair wheel gives identical totals every time.",
+      "One group must have counted backwards."
+    ],
+    "correct": 0,
+    "explanation": "Random variation in a limited number of trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "Random variation in a limited number of trials. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-036",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "Which table best records repeated rolls of a die? Explain your decision using the recorded results.",
+    "audioPrompt": "Which table best records repeated rolls of a die? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "A table with each face and its tally/frequency.",
+      "A list of only the highest rolls.",
+      "One drawing of a die."
+    ],
+    "correct": 0,
+    "explanation": "A table with each face and its tally/frequency. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "A table with each face and its tally/frequency. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-037",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "A bag has more green counters than red counters. After 60 draws with replacement, green appears more often. What is the best conclusion? Explain your decision using the recorded results.",
+    "audioPrompt": "A bag has more green counters than red counters. After 60 draws with replacement, green appears more often. What is the best conclusion? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "Green seems more likely, based on the results.",
+      "Red is impossible.",
+      "Every future draw will be green."
+    ],
+    "correct": 0,
+    "explanation": "Green seems more likely, based on the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "Green seems more likely, based on the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-038",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "A fair coin gives 14 heads and 6 tails in 20 tosses. What should be done before saying the coin is biased? Explain your decision using the recorded results.",
+    "audioPrompt": "A fair coin gives 14 heads and 6 tails in 20 tosses. What should be done before saying the coin is biased? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "Run many more trials and compare the results.",
+      "Declare it biased immediately.",
+      "Remove the tail results."
+    ],
+    "correct": 0,
+    "explanation": "Run many more trials and compare the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "Run many more trials and compare the results. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-039",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "A game spinner has equal-sized red and yellow regions. Over 10 spins red occurs 7 times. Is this proof red is more likely? Explain your decision using the recorded results.",
+    "audioPrompt": "A game spinner has equal-sized red and yellow regions. Over 10 spins red occurs 7 times. Is this proof red is more likely? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "No; a small sample can vary by chance.",
+      "Yes; seven is always more than three.",
+      "Yes; equal regions do not matter."
+    ],
+    "correct": 0,
+    "explanation": "No; a small sample can vary by chance. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "No; a small sample can vary by chance. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-040",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "In 40 rolls, a die shows 6 on 5 rolls. What is a reasonable estimate of the chance of a 6 from this experiment? Explain your decision using the recorded results.",
+    "audioPrompt": "In 40 rolls, a die shows 6 on 5 rolls. What is a reasonable estimate of the chance of a 6 from this experiment? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "About 5 out of 40.",
+      "Exactly 1 out of 6.",
+      "40 out of 5."
+    ],
+    "correct": 0,
+    "explanation": "About 5 out of 40. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "About 5 out of 40. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-041",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "Which experiment has equally likely elementary outcomes? Explain your decision using the recorded results.",
+    "audioPrompt": "Which experiment has equally likely elementary outcomes? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "Rolling a standard fair die.",
+      "Drawing coloured counters from a bag with 5 blue and 1 red.",
+      "Spinning a wheel with unequal sectors."
+    ],
+    "correct": 0,
+    "explanation": "Rolling a standard fair die. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "Rolling a standard fair die. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-042",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "Why should a spinner be reset and spun in the same way each trial? Explain your decision using the recorded results.",
+    "audioPrompt": "Why should a spinner be reset and spun in the same way each trial? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "To make the repeated experiment as fair and consistent as possible.",
+      "To guarantee each colour appears once.",
+      "To stop random variation."
+    ],
+    "correct": 0,
+    "explanation": "To make the repeated experiment as fair and consistent as possible. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "To make the repeated experiment as fair and consistent as possible. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-043",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "A student records 3, 4, 2, 5 for four colours after 14 spins. What is the total number of spins? Explain your decision using the recorded results.",
+    "audioPrompt": "A student records 3, 4, 2, 5 for four colours after 14 spins. What is the total number of spins? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "14",
+      "5",
+      "4"
+    ],
+    "correct": 0,
+    "explanation": "14 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "14 is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-044",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "After 100 draws, red occurs 51 times and blue 49 times from a two-colour equal bag. What does this suggest? Explain your decision using the recorded results.",
+    "audioPrompt": "After 100 draws, red occurs 51 times and blue 49 times from a two-colour equal bag. What does this suggest? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "The outcomes appear close to equally likely.",
+      "Red is certainly more likely.",
+      "Blue is impossible."
+    ],
+    "correct": 0,
+    "explanation": "The outcomes appear close to equally likely. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "The outcomes appear close to equally likely. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-045",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "A wheel has one large star region and three tiny circle regions. What should repeated trials help you investigate? Explain your decision using the recorded results.",
+    "audioPrompt": "A wheel has one large star region and three tiny circle regions. What should repeated trials help you investigate? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "Whether stars occur more frequently than circles.",
+      "Whether every result occurs equally often.",
+      "Whether the wheel has exactly four colours."
+    ],
+    "correct": 0,
+    "explanation": "Whether stars occur more frequently than circles. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "Whether stars occur more frequently than circles. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-046",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "What is a frequency? Explain your decision using the recorded results.",
+    "audioPrompt": "What is a frequency? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "The number of times an outcome occurs.",
+      "The total number of possible outcomes.",
+      "A prediction before any trial."
+    ],
+    "correct": 0,
+    "explanation": "The number of times an outcome occurs. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "The number of times an outcome occurs. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-047",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "A team runs 50 trials and another runs 5. Which result is usually better for estimating likelihood? Explain your decision using the recorded results.",
+    "audioPrompt": "A team runs 50 trials and another runs 5. Which result is usually better for estimating likelihood? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "The 50-trial result, because it has more evidence.",
+      "The 5-trial result, because it is quicker.",
+      "They are always identical."
+    ],
+    "correct": 0,
+    "explanation": "The 50-trial result, because it has more evidence. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "The 50-trial result, because it has more evidence. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5p02-p-048",
+    "curriculumCode": "AC9M5P02",
+    "bank": "practice",
+    "skill": "transfer/challenge",
+    "printable": true,
+    "type": "single",
+    "question": "A result occurs 0 times in 8 trials. What can you conclude? Explain your decision using the recorded results.",
+    "audioPrompt": "A result occurs 0 times in 8 trials. What can you conclude? Explain your decision using the recorded results.",
+    "visual": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.",
+    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision.\"><use href=\"/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001\"></use></svg>",
+    "visualMeta": {
+      "type": "svg",
+      "asset_path": "/assets/assessment-visuals/year5/math/ac9m5p02.svg#ac9m5p02-p-001",
+      "alt_text": "During a class investigation: a three-step reasoning pathway for interpret repeated chance trials, moving from evidence to a checked decision."
+    },
+    "answers": [
+      "It did not occur in these 8 trials; more trials may still show it.",
+      "It is impossible.",
+      "It will never occur."
+    ],
+    "correct": 0,
+    "explanation": "It did not occur in these 8 trials; more trials may still show it. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.\\nHint: Use the number of times the outcome occurred and the total number of trials.",
+    "structuredExplanation": {
+      "summary": "It did not occur in these 8 trials; more trials may still show it. is correct. Repeated-trial evidence should be recorded accurately and interpreted cautiously.",
+      "hint": "Use the number of times the outcome occurred and the total number of trials."
     },
     "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
