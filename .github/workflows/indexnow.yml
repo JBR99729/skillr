@@ -29,12 +29,7 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Submit changed public URLs
-        if: github.event_name == 'push'
-        run: python3 scripts/submit_indexnow.py "${{ github.event.before }}" "${{ github.sha }}"
-
-      - name: Manual verification
-        if: github.event_name == 'workflow_dispatch'
+      - name: Verify IndexNow key
         run: |
           python3 - <<'PY'
           from pathlib import Path
@@ -42,5 +37,12 @@ jobs:
           key_file = Path(f"{key}.txt")
           assert key_file.read_text(encoding="utf-8").strip() == key
           print(f"IndexNow key file ready: https://skillrhub.com/{key}.txt")
-          print("Automatic submissions run on every push to main without cancelling earlier URL notifications.")
           PY
+
+      - name: Submit changed public URLs
+        if: github.event_name == 'push'
+        run: python3 scripts/submit_indexnow.py "${{ github.event.before }}" "${{ github.sha }}"
+
+      - name: Reconcile all sitemap URLs
+        if: github.event_name == 'workflow_dispatch'
+        run: python3 scripts/submit_indexnow.py --all
