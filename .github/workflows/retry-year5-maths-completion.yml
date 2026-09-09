@@ -1,0 +1,36 @@
+name: Retry Year 5 Mathematics completion
+on:
+  push:
+    paths: ['.github/workflows/retry-year5-maths-completion.yml']
+permissions:
+  contents: write
+jobs:
+  complete:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: main, fetch-depth: 0}
+      - name: Reuse authored Year 5 research completion scripts
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re, subprocess, textwrap
+          src=Path('.github/workflows/publish-year5-maths-once.yml').read_text()
+          blocks=re.findall(r"node <<'NODE'\n(.*?)\n\s*NODE",src,re.S)
+          if len(blocks)<3: raise SystemExit(f'Expected 3 Node blocks, found {len(blocks)}')
+          for i,block in enumerate(blocks[:3],1):
+              print(f'Running existing research block {i}')
+              subprocess.run(['node'],input=textwrap.dedent(block),text=True,check=True)
+          m=re.search(r"python - <<'PY'\n(.*?)\n\s*PY",src,re.S)
+          if not m: raise SystemExit('Verification badge block not found')
+          exec(textwrap.dedent(m.group(1)),{})
+          PY
+      - name: Publish verified Year 5 Mathematics
+        run: |
+          rm -f assets/year5-math-research-banks-20260909.part1 assets/year5-math-research-banks-20260909.part2
+          rm -f .github/workflows/publish-year5-maths-once.yml .github/workflows/retry-year5-maths-completion.yml
+          git config user.name 'SkillrHub Publisher'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'Complete Year 5 Maths research banks and mark content verified'
+          git push origin HEAD:main
