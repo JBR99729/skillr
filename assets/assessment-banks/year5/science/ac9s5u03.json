@@ -49,9 +49,9 @@
       "summary": "A shadow forms where direct light is blocked by an opaque object.",
       "hint": "Blocked light."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 1,
     "sequencePriority": 1,
@@ -110,9 +110,9 @@
       "summary": "Reflection is a change in light direction at a surface.",
       "hint": "Bounces from surface."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 2,
     "sequencePriority": 2,
@@ -171,9 +171,9 @@
       "summary": "Refraction happens when light changes speed and direction between media.",
       "hint": "Air to water clue."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 3,
     "sequencePriority": 3,
@@ -232,9 +232,9 @@
       "summary": "Opaque materials block most light from passing through.",
       "hint": "Blocks light."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 4,
     "sequencePriority": 4,
@@ -293,9 +293,9 @@
       "summary": "Transparent materials let most light pass through.",
       "hint": "See through."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 5,
     "sequencePriority": 5,
@@ -354,9 +354,9 @@
       "summary": "Translucent materials let some light through but scatter it.",
       "hint": "Blurry light through."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 6,
     "sequencePriority": 6,
@@ -415,9 +415,9 @@
       "summary": "Dark materials often absorb more visible light energy under the same conditions.",
       "hint": "Light energy taken in."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 7,
     "sequencePriority": 7,
@@ -476,9 +476,9 @@
       "summary": "In a uniform medium such as air, light travels in straight lines.",
       "hint": "Straight ray."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 8,
     "sequencePriority": 8,
@@ -537,9 +537,9 @@
       "summary": "We see when light from a source reflects from objects and enters our eyes.",
       "hint": "Source to object to eye."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 9,
     "sequencePriority": 9,
@@ -598,9 +598,9 @@
       "summary": "Smooth shiny surfaces can reflect light in a clear direction.",
       "hint": "Smooth and shiny."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 10,
     "sequencePriority": 10,
@@ -659,9 +659,9 @@
       "summary": "The shadow is a region receiving less direct sunlight.",
       "hint": "Blocked sunlight."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 11,
     "sequencePriority": 11,
@@ -720,9 +720,9 @@
       "summary": "Refraction changes the apparent position of the underwater part.",
       "hint": "Light changes medium."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 12,
     "sequencePriority": 12,
@@ -781,9 +781,9 @@
       "summary": "Vision depends on light reaching the eye after interacting with objects.",
       "hint": "Light enters eyes."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 13,
     "sequencePriority": 13,
@@ -842,9 +842,9 @@
       "summary": "Shadows form because light is blocked, not because light is reflected into them.",
       "hint": "Less light, not bounced light."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 14,
     "sequencePriority": 14,
@@ -903,9 +903,9 @@
       "summary": "Smooth surfaces produce more regular reflection than rough surfaces.",
       "hint": "Smooth reflection."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 15,
     "sequencePriority": 15,
@@ -964,9 +964,9 @@
       "summary": "Transparent materials let most light pass through, so less light is blocked.",
       "hint": "Transmission."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 16,
     "sequencePriority": 16,
@@ -1025,9 +1025,9 @@
       "summary": "Absorbed light energy can warm a material.",
       "hint": "Absorption warms."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 17,
     "sequencePriority": 17,
@@ -1086,9 +1086,9 @@
       "summary": "Ray arrows help trace light paths from source to object to eye or screen.",
       "hint": "Direction matters."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 18,
     "sequencePriority": 18,
@@ -1147,9 +1147,9 @@
       "summary": "Translucent materials scatter transmitted light, making images unclear.",
       "hint": "Some light, scattered."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 19,
     "sequencePriority": 19,
@@ -1208,9 +1208,9 @@
       "summary": "Changing distances changes which straight rays are blocked.",
       "hint": "Geometry of rays."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 20,
     "sequencePriority": 20,
@@ -1269,9 +1269,9 @@
       "summary": "Eyes receive light; they do not need to send light out to see.",
       "hint": "Light enters eyes."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 21,
     "sequencePriority": 21,
@@ -1330,9 +1330,9 @@
       "summary": "The mirror changes the direction of the torch light.",
       "hint": "Bounced light."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 22,
     "sequencePriority": 22,
@@ -1391,9 +1391,9 @@
       "summary": "The coin appears shifted because light bends between water and air.",
       "hint": "Change medium."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 23,
     "sequencePriority": 23,
@@ -1452,9 +1452,9 @@
       "summary": "The dark surface absorbs light energy and may warm.",
       "hint": "Energy taken in."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 24,
     "sequencePriority": 24,
@@ -1513,9 +1513,9 @@
       "summary": "The puppet shape is where the hand blocks direct light.",
       "hint": "Blocked rays."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 25,
     "sequencePriority": 25,
@@ -1574,9 +1574,9 @@
       "summary": "Transparent glass transmits light with little scattering.",
       "hint": "Clear transmission."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 26,
     "sequencePriority": 26,
@@ -1635,9 +1635,9 @@
       "summary": "Wax paper can be translucent: it lets some light through while scattering it.",
       "hint": "Some but blurry."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 27,
     "sequencePriority": 27,
@@ -1696,9 +1696,9 @@
       "summary": "Light from the Sun reflects from the leaf into the eye.",
       "hint": "Source, object, eye."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 28,
     "sequencePriority": 28,
@@ -1757,9 +1757,9 @@
       "summary": "Black surfaces commonly absorb more visible light, though real surfaces can vary.",
       "hint": "Absorption, not darkness material."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 29,
     "sequencePriority": 29,
@@ -1818,9 +1818,9 @@
       "summary": "A fair shadow-size test changes one distance and measures shadow size.",
       "hint": "Control other variables."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 30,
     "sequencePriority": 30,
@@ -1879,9 +1879,9 @@
       "summary": "Refraction can change where the underwater part appears to be.",
       "hint": "Appears bent."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 31,
     "sequencePriority": 31,
@@ -1940,9 +1940,9 @@
       "summary": "The ball blocks light from reaching part of the wall.",
       "hint": "Opaque object."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 32,
     "sequencePriority": 32,
@@ -2001,9 +2001,9 @@
       "summary": "Closer objects can block a larger spread of light rays.",
       "hint": "Object near source."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 33,
     "sequencePriority": 33,
@@ -2062,9 +2062,9 @@
       "summary": "Greater absorption can raise temperature.",
       "hint": "Absorbed light energy."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 34,
     "sequencePriority": 34,
@@ -2123,9 +2123,9 @@
       "summary": "A mirror forms an image by regular reflection.",
       "hint": "Smooth reflection."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 35,
     "sequencePriority": 35,
@@ -2184,9 +2184,9 @@
       "summary": "A translucent material lets light through but scatters it.",
       "hint": "Light through, blurry."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 36,
     "sequencePriority": 36,
@@ -2245,9 +2245,9 @@
       "summary": "Periscopes use mirrors to reflect light along a path.",
       "hint": "Mirrors reflect."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 37,
     "sequencePriority": 37,
@@ -2306,9 +2306,9 @@
       "summary": "A shadow is not a substance; it is reduced light.",
       "hint": "Less light area."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 38,
     "sequencePriority": 38,
@@ -2367,9 +2367,9 @@
       "summary": "The three materials show transparent, translucent and opaque behaviour.",
       "hint": "Compare transmission."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 39,
     "sequencePriority": 39,
@@ -2428,9 +2428,9 @@
       "summary": "Refraction at the water surface changes the apparent position.",
       "hint": "Water-air boundary."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 40,
     "sequencePriority": 40,
@@ -2438,6 +2438,342 @@
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
     "type": "single"
+  },
+  {
+    "id": "ac9s5u03-p-041",
+    "curriculum_code": "AC9S5U03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Mia can see a book under a lamp. Which path best explains this?",
+    "audio_prompt": "Mia can see a book under a lamp. Which path best explains this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "lamp → book → reflected light to Mia's eyes",
+        "is_correct": true
+      },
+      {
+        "text": "Mia's eyes → book → lamp",
+        "is_correct": false
+      },
+      {
+        "text": "book → darkness → Mia's eyes",
+        "is_correct": false
+      },
+      {
+        "text": "lamp → shadow → Mia's eyes",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "We see non-luminous objects when light reaches them and then enters our eyes.",
+      "hint": "Follow the arrows from source to eye."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 41,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u03-p-042",
+    "curriculum_code": "AC9S5U03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A torch is moved closer to an opaque toy while the screen stays still. What usually happens to the shadow?",
+    "audio_prompt": "A torch is moved closer to an opaque toy while the screen stays still. What usually happens to the shadow?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It disappears because the toy becomes transparent",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes larger because the rays spread around the toy",
+        "is_correct": true
+      },
+      {
+        "text": "It becomes a light source",
+        "is_correct": false
+      },
+      {
+        "text": "It changes into reflected light only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Changing distances changes how much of the diverging light is blocked.",
+      "hint": "Think about the spread of rays."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 42,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u03-p-043",
+    "curriculum_code": "AC9S5U03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A child says a mirror is a light source because it looks bright. What is the best correction?",
+    "audio_prompt": "A child says a mirror is a light source because it looks bright. What is the best correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Bright things always make light",
+        "is_correct": false
+      },
+      {
+        "text": "Eyes create the light from a mirror",
+        "is_correct": false
+      },
+      {
+        "text": "A mirror reflects light from a source; it does not make its own light",
+        "is_correct": true
+      },
+      {
+        "text": "Mirrors only make shadows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A reflector can be visible without being a source.",
+      "hint": "Ask where the light began."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 43,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u03-p-044",
+    "curriculum_code": "AC9S5U03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Which labelled diagram would best explain a shadow?",
+    "audio_prompt": "Which labelled diagram would best explain a shadow?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Curved arrows leaving the observer's eyes",
+        "is_correct": false
+      },
+      {
+        "text": "Particles of darkness leaving the object",
+        "is_correct": false
+      },
+      {
+        "text": "Arrows beginning at the screen and ending at the lamp",
+        "is_correct": false
+      },
+      {
+        "text": "Straight arrows from a source blocked by an opaque object before a screen",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A shadow is the region where direct light is blocked.",
+      "hint": "A useful ray diagram includes source, blocker and screen."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 44,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u03-p-045",
+    "curriculum_code": "AC9S5U03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A straw appears bent where it enters water. What has changed?",
+    "audio_prompt": "A straw appears bent where it enters water. What has changed?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The direction of light as it passes between air and water",
+        "is_correct": true
+      },
+      {
+        "text": "The straw's shape under the water",
+        "is_correct": false
+      },
+      {
+        "text": "The direction of gravity",
+        "is_correct": false
+      },
+      {
+        "text": "The water has become a mirror",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Refraction is a change in light direction at a boundary between materials.",
+      "hint": "The object only appears displaced."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 45,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u03-p-046",
+    "curriculum_code": "AC9S5U03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A student tests three materials with the same torch and screen. Which result identifies the translucent material?",
+    "audio_prompt": "A student tests three materials with the same torch and screen. Which result identifies the translucent material?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "No light reaches the screen",
+        "is_correct": false
+      },
+      {
+        "text": "Some light reaches the screen, but the light patch is blurred",
+        "is_correct": true
+      },
+      {
+        "text": "A clear sharp image forms",
+        "is_correct": false
+      },
+      {
+        "text": "The material makes light itself",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Translucent materials transmit some light but scatter it.",
+      "hint": "Compare both amount and clarity of transmitted light."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 46,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u03-p-047",
+    "curriculum_code": "AC9S5U03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "Why is it unsafe to test a shadow by looking at the Sun?",
+    "audio_prompt": "Why is it unsafe to test a shadow by looking at the Sun?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The Sun does not produce light",
+        "is_correct": false
+      },
+      {
+        "text": "Shadows require a laser",
+        "is_correct": false
+      },
+      {
+        "text": "Looking directly at the Sun can damage eyes; use a lamp or indirect outdoor shadow observation",
+        "is_correct": true
+      },
+      {
+        "text": "Mirrors stop all light",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Science investigations must use safe light sources and methods.",
+      "hint": "Choose a safer source."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 47,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u03-p-048",
+    "curriculum_code": "AC9S5U03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "reflection_refraction_and_absorption_of_light",
+    "question": "A reflected ray reaches an observer from a shiny surface. Which claim is supported?",
+    "audio_prompt": "A reflected ray reaches an observer from a shiny surface. Which claim is supported?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The observer's eyes sent the ray out",
+        "is_correct": false
+      },
+      {
+        "text": "The surface made new light",
+        "is_correct": false
+      },
+      {
+        "text": "Light travelled through the opaque surface",
+        "is_correct": false
+      },
+      {
+        "text": "Light changed direction at the surface before entering the eye",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Reflection redirects light; it does not require a new source.",
+      "hint": "Trace the ray path."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 48,
+    "quality_schema": "skillr-research-v1"
   },
   {
     "id": "AC9S5U03-T-001",

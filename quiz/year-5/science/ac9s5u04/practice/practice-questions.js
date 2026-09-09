@@ -21,17 +21,16 @@ window.skillrPracticeQuestions = [
       "Transportation",
       "Deposition"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 1,
     "correct": 0,
     "explanation": "Weathering is the breakdown of rock in place.\nHint: Breakdown, not movement.",
     "structuredExplanation": {
       "summary": "Weathering is the breakdown of rock in place.",
       "hint": "Breakdown, not movement."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-002",
@@ -54,17 +53,16 @@ window.skillrPracticeQuestions = [
       "Freezing only",
       "Erosion"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 2,
     "correct": 3,
     "explanation": "Erosion removes weathered sediment from its original position.\nHint: Material is taken away.",
     "structuredExplanation": {
       "summary": "Erosion removes weathered sediment from its original position.",
       "hint": "Material is taken away."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-003",
@@ -87,17 +85,16 @@ window.skillrPracticeQuestions = [
       "Transportation",
       "Weathering only"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 3,
     "correct": 2,
     "explanation": "Transportation is the movement of sediment by an agent such as water, wind or ice.\nHint: Moving sediment.",
     "structuredExplanation": {
       "summary": "Transportation is the movement of sediment by an agent such as water, wind or ice.",
       "hint": "Moving sediment."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-004",
@@ -120,17 +117,16 @@ window.skillrPracticeQuestions = [
       "Weathering",
       "Refraction"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 4,
     "correct": 1,
     "explanation": "Deposition occurs when transported sediment is dropped or settles.\nHint: Settling.",
     "structuredExplanation": {
       "summary": "Deposition occurs when transported sediment is dropped or settles.",
       "hint": "Settling."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-005",
@@ -153,17 +149,16 @@ window.skillrPracticeQuestions = [
       "A magnet only",
       "A thermometer"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 5,
     "correct": 0,
     "explanation": "Wind can move loose sand and erode dunes.\nHint: Moving air.",
     "structuredExplanation": {
       "summary": "Wind can move loose sand and erode dunes.",
       "hint": "Moving air."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-006",
@@ -186,17 +181,16 @@ window.skillrPracticeQuestions = [
       "A wave moving pebbles along a beach",
       "Tree roots widening cracks in rock"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 6,
     "correct": 3,
     "explanation": "Roots can break rock apart in place, which is weathering.\nHint: Rock breaks where it is.",
     "structuredExplanation": {
       "summary": "Roots can break rock apart in place, which is weathering.",
       "hint": "Rock breaks where it is."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-007",
@@ -219,17 +213,16 @@ window.skillrPracticeQuestions = [
       "Rainwater carrying loosened soil from a bare slope",
       "Rock cracking but staying in place"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 7,
     "correct": 2,
     "explanation": "Erosion removes and carries away loosened material.\nHint: Taken from the slope.",
     "structuredExplanation": {
       "summary": "Erosion removes and carries away loosened material.",
       "hint": "Taken from the slope."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-008",
@@ -252,17 +245,16 @@ window.skillrPracticeQuestions = [
       "Water cutting into a bank",
       "Wind lifting dry dust"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 8,
     "correct": 1,
     "explanation": "Sediment is deposited where the moving water loses energy.\nHint: Settling builds up.",
     "structuredExplanation": {
       "summary": "Sediment is deposited where the moving water loses energy.",
       "hint": "Settling builds up."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-009",
@@ -285,17 +277,16 @@ window.skillrPracticeQuestions = [
       "Shadow",
       "Mirror image"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 9,
     "correct": 0,
     "explanation": "Beaches can form where waves deposit sand.\nHint: Built by settled sediment.",
     "structuredExplanation": {
       "summary": "Beaches can form where waves deposit sand.",
       "hint": "Built by settled sediment."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-010",
@@ -318,17 +309,16 @@ window.skillrPracticeQuestions = [
       "Weathering only happens in oceans",
       "Weathering breaks rock down; erosion moves material away"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 10,
     "correct": 3,
     "explanation": "Weathering is breakdown, while erosion involves removal.\nHint: Breakdown versus movement.",
     "structuredExplanation": {
       "summary": "Weathering is breakdown, while erosion involves removal.",
       "hint": "Breakdown versus movement."
     },
-    "stage": "recognise",
-    "difficulty": 1,
-    "difficultyTier": "recognise",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-011",
@@ -351,17 +341,16 @@ window.skillrPracticeQuestions = [
       "Roots hold soil and leaves reduce the impact of raindrops",
       "Leaves make gravity stop"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 11,
     "correct": 2,
     "explanation": "Plant roots stabilise soil and leaves can soften rainfall impact.\nHint: Roots plus leaf cover.",
     "structuredExplanation": {
       "summary": "Plant roots stabilise soil and leaves can soften rainfall impact.",
       "hint": "Roots plus leaf cover."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-012",
@@ -384,17 +373,16 @@ window.skillrPracticeQuestions = [
       "Water stops moving on steep slopes",
       "Steeper slopes make sediment heavier"
     ],
+    "difficulty": 1,
+    "difficultyTier": "easy",
+    "sequencePriority": 12,
     "correct": 1,
     "explanation": "Faster runoff has more energy to move loosened material.\nHint: Speed and transport.",
     "structuredExplanation": {
       "summary": "Faster runoff has more energy to move loosened material.",
       "hint": "Speed and transport."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-013",
@@ -417,17 +405,16 @@ window.skillrPracticeQuestions = [
       "The lake makes rocks crack only",
       "Fast water always deposits most sediment"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 13,
     "correct": 0,
     "explanation": "When water loses energy, sediment can settle.\nHint: Slower water.",
     "structuredExplanation": {
       "summary": "When water loses energy, sediment can settle.",
       "hint": "Slower water."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-014",
@@ -450,17 +437,16 @@ window.skillrPracticeQuestions = [
       "Rain cannot affect land",
       "Small repeated weathering and erosion can change landscapes over long times"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 14,
     "correct": 3,
     "explanation": "Slow repeated processes can reshape Earth’s surface over time.\nHint: Many small changes.",
     "structuredExplanation": {
       "summary": "Slow repeated processes can reshape Earth’s surface over time.",
       "hint": "Many small changes."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-015",
@@ -483,17 +469,16 @@ window.skillrPracticeQuestions = [
       "Weathering makes loose material that erosion can remove",
       "Erosion happens before any rock exists"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 15,
     "correct": 2,
     "explanation": "Broken-down material is easier for water, wind or ice to move.\nHint: Break then remove.",
     "structuredExplanation": {
       "summary": "Broken-down material is easier for water, wind or ice to move.",
       "hint": "Break then remove."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-016",
@@ -516,17 +501,16 @@ window.skillrPracticeQuestions = [
       "Ice melts rocks into sunlight",
       "Cold air carries sediment downstream"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 16,
     "correct": 1,
     "explanation": "Expanding ice can force cracks wider over repeated cycles.\nHint: Water expands when freezing.",
     "structuredExplanation": {
       "summary": "Expanding ice can force cracks wider over repeated cycles.",
       "hint": "Water expands when freezing."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-017",
@@ -549,17 +533,16 @@ window.skillrPracticeQuestions = [
       "Clay has no particles",
       "Dry sand is not matter"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 17,
     "correct": 0,
     "explanation": "Particle size, looseness and moisture affect transport.\nHint: Loose and dry.",
     "structuredExplanation": {
       "summary": "Particle size, looseness and moisture affect transport.",
       "hint": "Loose and dry."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 17,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-018",
@@ -582,17 +565,16 @@ window.skillrPracticeQuestions = [
       "Deposited material cannot become landforms",
       "Settled sediment can accumulate into layers, bars, beaches or deltas"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 18,
     "correct": 3,
     "explanation": "Deposition adds material to places where sediment settles.\nHint: Sediment builds up.",
     "structuredExplanation": {
       "summary": "Deposition adds material to places where sediment settles.",
       "hint": "Sediment builds up."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 18,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-019",
@@ -615,17 +597,16 @@ window.skillrPracticeQuestions = [
       "It speeds up and simplifies processes that may take much longer outdoors",
       "Classroom models run at real landscape time"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 19,
     "correct": 2,
     "explanation": "Models can show relationships while leaving out scale and time.\nHint: Model limitation.",
     "structuredExplanation": {
       "summary": "Models can show relationships while leaving out scale and time.",
       "hint": "Model limitation."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 19,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-020",
@@ -648,17 +629,16 @@ window.skillrPracticeQuestions = [
       "Bare soil has stronger roots",
       "Plants make soil float away faster"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 20,
     "correct": 1,
     "explanation": "Vegetation protects and stabilises soil.\nHint: Less protection when bare.",
     "structuredExplanation": {
       "summary": "Vegetation protects and stabilises soil.",
       "hint": "Less protection when bare."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficultyTier": "explain",
-    "sequencePriority": 20,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-021",
@@ -681,17 +661,16 @@ window.skillrPracticeQuestions = [
       "Erosion removes material",
       "Deposition can build landforms"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 21,
     "correct": 0,
     "explanation": "Weathering and erosion are related but different.\nHint: Not synonyms.",
     "structuredExplanation": {
       "summary": "Weathering and erosion are related but different.",
       "hint": "Not synonyms."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 21,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-022",
@@ -714,17 +693,16 @@ window.skillrPracticeQuestions = [
       "Reflection",
       "Weathering"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 22,
     "correct": 3,
     "explanation": "The rock is being broken down in place.\nHint: No movement away yet.",
     "structuredExplanation": {
       "summary": "The rock is being broken down in place.",
       "hint": "No movement away yet."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 22,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-023",
@@ -747,17 +725,16 @@ window.skillrPracticeQuestions = [
       "Transportation",
       "Weathering"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 23,
     "correct": 2,
     "explanation": "The sediment is being moved by water.\nHint: Carried along.",
     "structuredExplanation": {
       "summary": "The sediment is being moved by water.",
       "hint": "Carried along."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 23,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-024",
@@ -780,17 +757,16 @@ window.skillrPracticeQuestions = [
       "Weathering",
       "Refraction"
     ],
+    "difficulty": 2,
+    "difficultyTier": "medium",
+    "sequencePriority": 24,
     "correct": 1,
     "explanation": "The sediment settles as the water slows.\nHint: Dropped sediment.",
     "structuredExplanation": {
       "summary": "The sediment settles as the water slows.",
       "hint": "Dropped sediment."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 24,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-025",
@@ -813,17 +789,16 @@ window.skillrPracticeQuestions = [
       "Inside a dry rock crack",
       "Above the water source"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 25,
     "correct": 0,
     "explanation": "Slower water is more likely to drop sediment.\nHint: Low energy area.",
     "structuredExplanation": {
       "summary": "Slower water is more likely to drop sediment.",
       "hint": "Low energy area."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 25,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-026",
@@ -846,17 +821,16 @@ window.skillrPracticeQuestions = [
       "Fast runoff after heavy rain",
       "Dense grass cover on a slope"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 26,
     "correct": 3,
     "explanation": "Grass roots and cover can protect soil.\nHint: Vegetation helps.",
     "structuredExplanation": {
       "summary": "Grass roots and cover can protect soil.",
       "hint": "Vegetation helps."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 26,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-027",
@@ -879,17 +853,16 @@ window.skillrPracticeQuestions = [
       "Faster runoff on a steep slope",
       "Calm water in a flat pond"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 27,
     "correct": 2,
     "explanation": "Faster moving water can carry more sediment.\nHint: More energy.",
     "structuredExplanation": {
       "summary": "Faster moving water can carry more sediment.",
       "hint": "More energy."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 27,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-028",
@@ -912,17 +885,16 @@ window.skillrPracticeQuestions = [
       "It proves exactly how every river behaves",
       "It has no simplifications"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 28,
     "correct": 1,
     "explanation": "Classroom models simplify scale, materials and time.\nHint: Model limits.",
     "structuredExplanation": {
       "summary": "Classroom models simplify scale, materials and time.",
       "hint": "Model limits."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 28,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-029",
@@ -945,17 +917,16 @@ window.skillrPracticeQuestions = [
       "It never builds features",
       "It is the same as weathering"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 29,
     "correct": 0,
     "explanation": "Deposition can build layers or landforms.\nHint: Settled sediment.",
     "structuredExplanation": {
       "summary": "Deposition can build layers or landforms.",
       "hint": "Settled sediment."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 29,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-030",
@@ -978,17 +949,16 @@ window.skillrPracticeQuestions = [
       "erosion → freezing → magnetism → evaporation",
       "weathering → erosion → transportation → deposition"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 30,
     "correct": 3,
     "explanation": "The sequence follows breakdown, removal, movement and settling.\nHint: Process order.",
     "structuredExplanation": {
       "summary": "The sequence follows breakdown, removal, movement and settling.",
       "hint": "Process order."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficultyTier": "discriminate",
-    "sequencePriority": 30,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-031",
@@ -1011,17 +981,16 @@ window.skillrPracticeQuestions = [
       "Erosion",
       "Deposition only"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 31,
     "correct": 2,
     "explanation": "Runoff removed loosened soil from the site.\nHint: Soil taken away.",
     "structuredExplanation": {
       "summary": "Runoff removed loosened soil from the site.",
       "hint": "Soil taken away."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 31,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-032",
@@ -1044,17 +1013,16 @@ window.skillrPracticeQuestions = [
       "Weathering",
       "Refraction"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 32,
     "correct": 1,
     "explanation": "Wind slows near the fence and drops sand.\nHint: Sand settles.",
     "structuredExplanation": {
       "summary": "Wind slows near the fence and drops sand.",
       "hint": "Sand settles."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 32,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-033",
@@ -1077,17 +1045,16 @@ window.skillrPracticeQuestions = [
       "A new shadow",
       "A frozen glacier instantly"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 33,
     "correct": 0,
     "explanation": "Deposition at a river mouth can build deltas or bars.\nHint: Sediment at river mouth.",
     "structuredExplanation": {
       "summary": "Deposition at a river mouth can build deltas or bars.",
       "hint": "Sediment at river mouth."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 33,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-034",
@@ -1110,17 +1077,16 @@ window.skillrPracticeQuestions = [
       "The names of the groups",
       "Slope, water amount and soil type"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 34,
     "correct": 3,
     "explanation": "A fair comparison changes vegetation cover and controls other conditions.\nHint: Control non-tested factors.",
     "structuredExplanation": {
       "summary": "A fair comparison changes vegetation cover and controls other conditions.",
       "hint": "Control non-tested factors."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 34,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-035",
@@ -1143,17 +1109,16 @@ window.skillrPracticeQuestions = [
       "Water slowed and deposited sediment",
       "Rock grew from sunlight"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 35,
     "correct": 2,
     "explanation": "Sediment settles where water loses energy.\nHint: Slower flow.",
     "structuredExplanation": {
       "summary": "Sediment settles where water loses energy.",
       "hint": "Slower flow."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 35,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-036",
@@ -1176,17 +1141,16 @@ window.skillrPracticeQuestions = [
       "Deposition always cracks rocks",
       "Beaches cannot change"
     ],
+    "difficulty": 3,
+    "difficultyTier": "hard",
+    "sequencePriority": 36,
     "correct": 1,
     "explanation": "Beach shape can result from both added and removed sediment.\nHint: Build and remove.",
     "structuredExplanation": {
       "summary": "Beach shape can result from both added and removed sediment.",
       "hint": "Build and remove."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 36,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-037",
@@ -1209,17 +1173,16 @@ window.skillrPracticeQuestions = [
       "Deposition",
       "Evaporation"
     ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 37,
     "correct": 0,
     "explanation": "The rock is breaking down in place.\nHint: In-place breakdown.",
     "structuredExplanation": {
       "summary": "The rock is breaking down in place.",
       "hint": "In-place breakdown."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 37,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-038",
@@ -1242,17 +1205,16 @@ window.skillrPracticeQuestions = [
       "Deposition always increases in fast flow",
       "Faster water has more energy to transport sediment"
     ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 38,
     "correct": 3,
     "explanation": "Increased flow can increase erosion and transport.\nHint: More flow energy.",
     "structuredExplanation": {
       "summary": "Increased flow can increase erosion and transport.",
       "hint": "More flow energy."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 38,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-039",
@@ -1275,17 +1237,16 @@ window.skillrPracticeQuestions = [
       "Roots and cover may reduce soil erosion",
       "The slope becomes immune to all erosion"
     ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 39,
     "correct": 2,
     "explanation": "Vegetation can reduce but not completely prevent erosion.\nHint: Reduce, not guarantee.",
     "structuredExplanation": {
       "summary": "Vegetation can reduce but not completely prevent erosion.",
       "hint": "Reduce, not guarantee."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 39,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-p-040",
@@ -1308,16 +1269,272 @@ window.skillrPracticeQuestions = [
       "Real gullies always form in five minutes",
       "The model proves all soils erode equally"
     ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 40,
     "correct": 1,
     "explanation": "A classroom model can demonstrate relationships but not exact real-world timescales.\nHint: Useful but limited.",
     "structuredExplanation": {
       "summary": "A classroom model can demonstrate relationships but not exact real-world timescales.",
       "hint": "Useful but limited."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficultyTier": "apply",
-    "sequencePriority": 40,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s5u04-p-041",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering erosion and deposition",
+    "printable": true,
+    "type": "single",
+    "question": "A sealed syringe containing air can be pushed in more easily than one containing water. Which particle idea explains this?",
+    "audioPrompt": "A sealed syringe containing air can be pushed in more easily than one containing water. Which particle idea explains this?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Gas particles have much more space between them",
+      "Gas particles are smaller than water particles",
+      "Water has no particles",
+      "Gas particles stop moving when pushed"
+    ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 41,
+    "correct": 0,
+    "explanation": "The model uses relative spacing to explain greater gas compressibility.\nHint: Compare spaces between particles.",
+    "structuredExplanation": {
+      "summary": "The model uses relative spacing to explain greater gas compressibility.",
+      "hint": "Compare spaces between particles."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s5u04-p-042",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering erosion and deposition",
+    "printable": true,
+    "type": "single",
+    "question": "Which particle diagram best represents a liquid?",
+    "audioPrompt": "Which particle diagram best represents a liquid?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Particles far apart in fixed rows",
+      "Particles close together but irregularly arranged, able to move past one another",
+      "Particles touching in a fixed pattern with no movement",
+      "No particles because liquid flows"
+    ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 42,
+    "correct": 1,
+    "explanation": "Liquid particles remain close while changing neighbours.\nHint: Liquid is close like a solid, mobile like a gas.",
+    "structuredExplanation": {
+      "summary": "Liquid particles remain close while changing neighbours.",
+      "hint": "Liquid is close like a solid, mobile like a gas."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s5u04-p-043",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering erosion and deposition",
+    "printable": true,
+    "type": "single",
+    "question": "A perfume smell spreads across a room. What should a particle model show?",
+    "audioPrompt": "A perfume smell spreads across a room. What should a particle model show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Particles moving in one straight line only",
+      "Particles growing larger as they travel",
+      "Particles moving randomly through the air over time",
+      "Particles disappearing at the bottle"
+    ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 43,
+    "correct": 2,
+    "explanation": "Gas particles move in many directions and spread through available space.\nHint: Particles do not need a planned route.",
+    "structuredExplanation": {
+      "summary": "Gas particles move in many directions and spread through available space.",
+      "hint": "Particles do not need a planned route."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s5u04-p-044",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering erosion and deposition",
+    "printable": true,
+    "type": "single",
+    "question": "Why does a solid block keep its own shape on a table?",
+    "audioPrompt": "Why does a solid block keep its own shape on a table?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Its particles have no mass",
+      "Its particles are far apart and flow",
+      "The table gives it a shape",
+      "Its particles are closely packed in relatively fixed positions"
+    ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 44,
+    "correct": 3,
+    "explanation": "The solid model links fixed relative arrangement with fixed shape.\nHint: Use arrangement as well as spacing.",
+    "structuredExplanation": {
+      "summary": "The solid model links fixed relative arrangement with fixed shape.",
+      "hint": "Use arrangement as well as spacing."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s5u04-p-045",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering erosion and deposition",
+    "printable": true,
+    "type": "single",
+    "question": "Ice melts in a bowl. Which statement is accurate in the particle model?",
+    "audioPrompt": "Ice melts in a bowl. Which statement is accurate in the particle model?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Particles gain movement and can move past each other; they do not vanish",
+      "Particles change into nothing",
+      "Particles become larger water particles",
+      "Only the bowl particles move"
+    ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 45,
+    "correct": 0,
+    "explanation": "A change of state changes arrangement and movement, not the existence of matter.\nHint: Matter remains present.",
+    "structuredExplanation": {
+      "summary": "A change of state changes arrangement and movement, not the existence of matter.",
+      "hint": "Matter remains present."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s5u04-p-046",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering erosion and deposition",
+    "printable": true,
+    "type": "single",
+    "question": "A class says, 'Heating makes each particle expand.' What is the best correction?",
+    "audioPrompt": "A class says, 'Heating makes each particle expand.' What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Heating removes all particles",
+      "Heating can increase particle movement and spacing; the particles are not drawn bigger",
+      "Only liquids have particles",
+      "Particles turn into heat"
+    ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 46,
+    "correct": 1,
+    "explanation": "Simple diagrams use spacing and motion to model heating.\nHint: Keep particle size consistent in the model.",
+    "structuredExplanation": {
+      "summary": "Simple diagrams use spacing and motion to model heating.",
+      "hint": "Keep particle size consistent in the model."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s5u04-p-047",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering erosion and deposition",
+    "printable": true,
+    "type": "single",
+    "question": "A balloon is inflated and takes the shape of a box. Which property is being shown?",
+    "audioPrompt": "A balloon is inflated and takes the shape of a box. Which property is being shown?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Gas has a fixed shape",
+      "Gas has no mass",
+      "Gas has no fixed shape and fills its container",
+      "Gas particles are locked in place"
+    ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 47,
+    "correct": 2,
+    "explanation": "Gas particles move through the available space, so a gas takes the container's shape.\nHint: Connect container shape to particle movement.",
+    "structuredExplanation": {
+      "summary": "Gas particles move through the available space, so a gas takes the container's shape.",
+      "hint": "Connect container shape to particle movement."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9s5u04-p-048",
+    "curriculumCode": "AC9S5U04",
+    "bank": "practice",
+    "skill": "weathering erosion and deposition",
+    "printable": true,
+    "type": "single",
+    "question": "Which observation would best test a particle-model prediction about solids and liquids?",
+    "audioPrompt": "Which observation would best test a particle-model prediction about solids and liquids?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Ask which sample looks nicer",
+      "Use different-sized containers and no record",
+      "Change substance, temperature and container at once",
+      "Compare whether equal samples keep their own shape or flow into a new container"
+    ],
+    "difficulty": 4,
+    "difficultyTier": "super-hard",
+    "sequencePriority": 48,
+    "correct": 3,
+    "explanation": "A fair comparison links an observable property to the model.\nHint: Measure one property under comparable conditions.",
+    "structuredExplanation": {
+      "summary": "A fair comparison links an observable property to the model.",
+      "hint": "Measure one property under comparable conditions."
+    },
+    "qualitySchema": "production-v1"
   }
 ];
+window.quizQuestions = window.skillrPracticeQuestions;

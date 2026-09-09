@@ -49,9 +49,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Name the changed, measured and controlled variables.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 1,
     "sequencePriority": 1,
@@ -110,9 +110,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Name the changed, measured and controlled variables.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 2,
     "sequencePriority": 2,
@@ -171,9 +171,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Name the changed, measured and controlled variables.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 3,
     "sequencePriority": 3,
@@ -232,9 +232,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Name the changed, measured and controlled variables.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 4,
     "sequencePriority": 4,
@@ -293,9 +293,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Name the changed, measured and controlled variables.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 5,
     "sequencePriority": 5,
@@ -354,9 +354,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Name the changed, measured and controlled variables.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 6,
     "sequencePriority": 6,
@@ -415,9 +415,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Name the changed, measured and controlled variables.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 7,
     "sequencePriority": 7,
@@ -476,9 +476,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Name the changed, measured and controlled variables.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 8,
     "sequencePriority": 8,
@@ -537,9 +537,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Name the changed, measured and controlled variables.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 9,
     "sequencePriority": 9,
@@ -598,9 +598,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Name the changed, measured and controlled variables.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 10,
     "sequencePriority": 10,
@@ -659,9 +659,9 @@
       "summary": "Planning Repeatable and Fair Investigations: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 11,
     "sequencePriority": 11,
@@ -720,9 +720,9 @@
       "summary": "Planning Repeatable and Fair Investigations: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 12,
     "sequencePriority": 12,
@@ -781,9 +781,9 @@
       "summary": "Planning Repeatable and Fair Investigations: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 13,
     "sequencePriority": 13,
@@ -842,9 +842,9 @@
       "summary": "Planning Repeatable and Fair Investigations: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 14,
     "sequencePriority": 14,
@@ -903,9 +903,9 @@
       "summary": "Planning Repeatable and Fair Investigations: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 15,
     "sequencePriority": 15,
@@ -964,9 +964,9 @@
       "summary": "Planning Repeatable and Fair Investigations: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 16,
     "sequencePriority": 16,
@@ -1025,9 +1025,9 @@
       "summary": "Planning Repeatable and Fair Investigations: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 17,
     "sequencePriority": 17,
@@ -1086,9 +1086,9 @@
       "summary": "Planning Repeatable and Fair Investigations: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 18,
     "sequencePriority": 18,
@@ -1147,9 +1147,9 @@
       "summary": "Planning Repeatable and Fair Investigations: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 19,
     "sequencePriority": 19,
@@ -1208,9 +1208,9 @@
       "summary": "Planning Repeatable and Fair Investigations: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 20,
     "sequencePriority": 20,
@@ -1269,9 +1269,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 21,
     "sequencePriority": 21,
@@ -1330,9 +1330,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 22,
     "sequencePriority": 22,
@@ -1391,9 +1391,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 23,
     "sequencePriority": 23,
@@ -1452,9 +1452,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 24,
     "sequencePriority": 24,
@@ -1513,9 +1513,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 25,
     "sequencePriority": 25,
@@ -1574,9 +1574,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 26,
     "sequencePriority": 26,
@@ -1635,9 +1635,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 27,
     "sequencePriority": 27,
@@ -1696,9 +1696,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 28,
     "sequencePriority": 28,
@@ -1757,9 +1757,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 29,
     "sequencePriority": 29,
@@ -1818,9 +1818,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 30,
     "sequencePriority": 30,
@@ -1879,9 +1879,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 31,
     "sequencePriority": 31,
@@ -1940,9 +1940,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 32,
     "sequencePriority": 32,
@@ -2001,9 +2001,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 33,
     "sequencePriority": 33,
@@ -2062,9 +2062,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 34,
     "sequencePriority": 34,
@@ -2123,9 +2123,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 35,
     "sequencePriority": 35,
@@ -2184,9 +2184,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 36,
     "sequencePriority": 36,
@@ -2245,9 +2245,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 37,
     "sequencePriority": 37,
@@ -2306,9 +2306,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 38,
     "sequencePriority": 38,
@@ -2367,9 +2367,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 39,
     "sequencePriority": 39,
@@ -2428,9 +2428,9 @@
       "summary": "Planning Repeatable and Fair Investigations: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 40,
     "sequencePriority": 40,
@@ -2438,6 +2438,342 @@
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
     "type": "single"
+  },
+  {
+    "id": "ac9s5i02-p-041",
+    "curriculum_code": "AC9S5I02",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "planning_repeatable_and_fair_investigations",
+    "question": "Students test how lamp distance affects shadow size. Which is the changed variable?",
+    "audio_prompt": "Students test how lamp distance affects shadow size. Which is the changed variable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "distance between the lamp and object",
+        "is_correct": true
+      },
+      {
+        "text": "size of the shadow",
+        "is_correct": false
+      },
+      {
+        "text": "the ruler used to record results",
+        "is_correct": false
+      },
+      {
+        "text": "the name of the group",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The changed variable is deliberately varied; shadow size is measured.",
+      "hint": "What do students choose to alter?"
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 41,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i02-p-042",
+    "curriculum_code": "AC9S5I02",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "planning_repeatable_and_fair_investigations",
+    "question": "Which method detail makes a plant-growth investigation repeatable?",
+    "audio_prompt": "Which method detail makes a plant-growth investigation repeatable?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Write 'look after the plants carefully'",
+        "is_correct": false
+      },
+      {
+        "text": "State the seed type, soil amount, water volume, light time and measuring rule",
+        "is_correct": true
+      },
+      {
+        "text": "Let each group decide the water amount",
+        "is_correct": false
+      },
+      {
+        "text": "Record only the final tallest plant",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Precise quantities and steps allow another group to repeat the work.",
+      "hint": "Replace vague words with details."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 42,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i02-p-043",
+    "curriculum_code": "AC9S5I02",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "planning_repeatable_and_fair_investigations",
+    "question": "A group changes soil type, water amount and light at the same time. Why cannot it tell which factor affected growth?",
+    "audio_prompt": "A group changes soil type, water amount and light at the same time. Why cannot it tell which factor affected growth?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Plants only need one variable",
+        "is_correct": false
+      },
+      {
+        "text": "Measurements are never useful",
+        "is_correct": false
+      },
+      {
+        "text": "More than one changed variable makes the comparison unfair",
+        "is_correct": true
+      },
+      {
+        "text": "The answer must be soil type",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A fair test changes one main factor while holding relevant conditions constant.",
+      "hint": "One intended change at a time."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 43,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i02-p-044",
+    "curriculum_code": "AC9S5I02",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "planning_repeatable_and_fair_investigations",
+    "question": "A tray erosion investigation uses water. Which hazard-control pair is strongest?",
+    "audio_prompt": "A tray erosion investigation uses water. Which hazard-control pair is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "water → never record results",
+        "is_correct": false
+      },
+      {
+        "text": "soil → throw it at a wall",
+        "is_correct": false
+      },
+      {
+        "text": "ruler → remove all safety rules",
+        "is_correct": false
+      },
+      {
+        "text": "spilled water → keep electrical items away and wipe spills promptly",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A useful control directly reduces the stated risk.",
+      "hint": "Name the possible harm, then the action."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 44,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i02-p-045",
+    "curriculum_code": "AC9S5I02",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "planning_repeatable_and_fair_investigations",
+    "question": "Students want to observe a culturally significant site. What should their plan include?",
+    "audio_prompt": "Students want to observe a culturally significant site. What should their plan include?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Seek the appropriate permission and follow agreed low-impact procedures",
+        "is_correct": true
+      },
+      {
+        "text": "Collect samples before asking",
+        "is_correct": false
+      },
+      {
+        "text": "Assume public access allows every activity",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore advice from custodians",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Planning on Country/Place requires permission, consultation and care.",
+      "hint": "Permission is part of a safe, respectful plan."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 45,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i02-p-046",
+    "curriculum_code": "AC9S5I02",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "planning_repeatable_and_fair_investigations",
+    "question": "Why should an investigation use several trials when possible?",
+    "audio_prompt": "Why should an investigation use several trials when possible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "They guarantee the preferred answer",
+        "is_correct": false
+      },
+      {
+        "text": "Repeated trials show whether a pattern is consistent rather than relying on one result",
+        "is_correct": true
+      },
+      {
+        "text": "They let students change the method each time",
+        "is_correct": false
+      },
+      {
+        "text": "They remove the need to measure",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeats improve confidence by revealing variation.",
+      "hint": "Compare repeated results."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 46,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i02-p-047",
+    "curriculum_code": "AC9S5I02",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "planning_repeatable_and_fair_investigations",
+    "question": "Which result table heading is clearest for a ramp investigation?",
+    "audio_prompt": "Which result table heading is clearest for a ramp investigation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ramp stuff | good result",
+        "is_correct": false
+      },
+      {
+        "text": "Car | perhaps",
+        "is_correct": false
+      },
+      {
+        "text": "Ramp height (cm) | Trial 1 distance (cm) | Trial 2 distance (cm)",
+        "is_correct": true
+      },
+      {
+        "text": "What happened | answer",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Clear headings name the measured quantity and unit for each trial.",
+      "hint": "Include variables and units."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 47,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i02-p-048",
+    "curriculum_code": "AC9S5I02",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "planning_repeatable_and_fair_investigations",
+    "question": "Before a full investigation, a group does one pilot trial. What is the best use of it?",
+    "audio_prompt": "Before a full investigation, a group does one pilot trial. What is the best use of it?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose the result they want",
+        "is_correct": false
+      },
+      {
+        "text": "Skip writing the method",
+        "is_correct": false
+      },
+      {
+        "text": "Remove unexpected observations",
+        "is_correct": false
+      },
+      {
+        "text": "Check that the setup, range and measurement method work safely",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A pilot helps improve a method before the main data collection.",
+      "hint": "Use it to find practical problems."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 48,
+    "quality_schema": "skillr-research-v1"
   },
   {
     "id": "AC9S5I02-T-001",

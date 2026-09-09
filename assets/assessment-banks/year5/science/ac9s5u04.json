@@ -49,9 +49,9 @@
       "summary": "Weathering is the breakdown of rock in place.",
       "hint": "Breakdown, not movement."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 1,
     "sequencePriority": 1,
@@ -110,9 +110,9 @@
       "summary": "Erosion removes weathered sediment from its original position.",
       "hint": "Material is taken away."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 2,
     "sequencePriority": 2,
@@ -171,9 +171,9 @@
       "summary": "Transportation is the movement of sediment by an agent such as water, wind or ice.",
       "hint": "Moving sediment."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 3,
     "sequencePriority": 3,
@@ -232,9 +232,9 @@
       "summary": "Deposition occurs when transported sediment is dropped or settles.",
       "hint": "Settling."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 4,
     "sequencePriority": 4,
@@ -293,9 +293,9 @@
       "summary": "Wind can move loose sand and erode dunes.",
       "hint": "Moving air."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 5,
     "sequencePriority": 5,
@@ -354,9 +354,9 @@
       "summary": "Roots can break rock apart in place, which is weathering.",
       "hint": "Rock breaks where it is."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 6,
     "sequencePriority": 6,
@@ -415,9 +415,9 @@
       "summary": "Erosion removes and carries away loosened material.",
       "hint": "Taken from the slope."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 7,
     "sequencePriority": 7,
@@ -476,9 +476,9 @@
       "summary": "Sediment is deposited where the moving water loses energy.",
       "hint": "Settling builds up."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 8,
     "sequencePriority": 8,
@@ -537,9 +537,9 @@
       "summary": "Beaches can form where waves deposit sand.",
       "hint": "Built by settled sediment."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 9,
     "sequencePriority": 9,
@@ -598,9 +598,9 @@
       "summary": "Weathering is breakdown, while erosion involves removal.",
       "hint": "Breakdown versus movement."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 10,
     "sequencePriority": 10,
@@ -659,9 +659,9 @@
       "summary": "Plant roots stabilise soil and leaves can soften rainfall impact.",
       "hint": "Roots plus leaf cover."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 11,
     "sequencePriority": 11,
@@ -720,9 +720,9 @@
       "summary": "Faster runoff has more energy to move loosened material.",
       "hint": "Speed and transport."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 12,
     "sequencePriority": 12,
@@ -781,9 +781,9 @@
       "summary": "When water loses energy, sediment can settle.",
       "hint": "Slower water."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 13,
     "sequencePriority": 13,
@@ -842,9 +842,9 @@
       "summary": "Slow repeated processes can reshape Earth’s surface over time.",
       "hint": "Many small changes."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 14,
     "sequencePriority": 14,
@@ -903,9 +903,9 @@
       "summary": "Broken-down material is easier for water, wind or ice to move.",
       "hint": "Break then remove."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 15,
     "sequencePriority": 15,
@@ -964,9 +964,9 @@
       "summary": "Expanding ice can force cracks wider over repeated cycles.",
       "hint": "Water expands when freezing."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 16,
     "sequencePriority": 16,
@@ -1025,9 +1025,9 @@
       "summary": "Particle size, looseness and moisture affect transport.",
       "hint": "Loose and dry."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 17,
     "sequencePriority": 17,
@@ -1086,9 +1086,9 @@
       "summary": "Deposition adds material to places where sediment settles.",
       "hint": "Sediment builds up."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 18,
     "sequencePriority": 18,
@@ -1147,9 +1147,9 @@
       "summary": "Models can show relationships while leaving out scale and time.",
       "hint": "Model limitation."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 19,
     "sequencePriority": 19,
@@ -1208,9 +1208,9 @@
       "summary": "Vegetation protects and stabilises soil.",
       "hint": "Less protection when bare."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 20,
     "sequencePriority": 20,
@@ -1269,9 +1269,9 @@
       "summary": "Weathering and erosion are related but different.",
       "hint": "Not synonyms."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 21,
     "sequencePriority": 21,
@@ -1330,9 +1330,9 @@
       "summary": "The rock is being broken down in place.",
       "hint": "No movement away yet."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 22,
     "sequencePriority": 22,
@@ -1391,9 +1391,9 @@
       "summary": "The sediment is being moved by water.",
       "hint": "Carried along."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 23,
     "sequencePriority": 23,
@@ -1452,9 +1452,9 @@
       "summary": "The sediment settles as the water slows.",
       "hint": "Dropped sediment."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 24,
     "sequencePriority": 24,
@@ -1513,9 +1513,9 @@
       "summary": "Slower water is more likely to drop sediment.",
       "hint": "Low energy area."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 25,
     "sequencePriority": 25,
@@ -1574,9 +1574,9 @@
       "summary": "Grass roots and cover can protect soil.",
       "hint": "Vegetation helps."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 26,
     "sequencePriority": 26,
@@ -1635,9 +1635,9 @@
       "summary": "Faster moving water can carry more sediment.",
       "hint": "More energy."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 27,
     "sequencePriority": 27,
@@ -1696,9 +1696,9 @@
       "summary": "Classroom models simplify scale, materials and time.",
       "hint": "Model limits."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 28,
     "sequencePriority": 28,
@@ -1757,9 +1757,9 @@
       "summary": "Deposition can build layers or landforms.",
       "hint": "Settled sediment."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 29,
     "sequencePriority": 29,
@@ -1818,9 +1818,9 @@
       "summary": "The sequence follows breakdown, removal, movement and settling.",
       "hint": "Process order."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 30,
     "sequencePriority": 30,
@@ -1879,9 +1879,9 @@
       "summary": "Runoff removed loosened soil from the site.",
       "hint": "Soil taken away."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 31,
     "sequencePriority": 31,
@@ -1940,9 +1940,9 @@
       "summary": "Wind slows near the fence and drops sand.",
       "hint": "Sand settles."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 32,
     "sequencePriority": 32,
@@ -2001,9 +2001,9 @@
       "summary": "Deposition at a river mouth can build deltas or bars.",
       "hint": "Sediment at river mouth."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 33,
     "sequencePriority": 33,
@@ -2062,9 +2062,9 @@
       "summary": "A fair comparison changes vegetation cover and controls other conditions.",
       "hint": "Control non-tested factors."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 34,
     "sequencePriority": 34,
@@ -2123,9 +2123,9 @@
       "summary": "Sediment settles where water loses energy.",
       "hint": "Slower flow."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 35,
     "sequencePriority": 35,
@@ -2184,9 +2184,9 @@
       "summary": "Beach shape can result from both added and removed sediment.",
       "hint": "Build and remove."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 36,
     "sequencePriority": 36,
@@ -2245,9 +2245,9 @@
       "summary": "The rock is breaking down in place.",
       "hint": "In-place breakdown."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 37,
     "sequencePriority": 37,
@@ -2306,9 +2306,9 @@
       "summary": "Increased flow can increase erosion and transport.",
       "hint": "More flow energy."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 38,
     "sequencePriority": 38,
@@ -2367,9 +2367,9 @@
       "summary": "Vegetation can reduce but not completely prevent erosion.",
       "hint": "Reduce, not guarantee."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 39,
     "sequencePriority": 39,
@@ -2428,9 +2428,9 @@
       "summary": "A classroom model can demonstrate relationships but not exact real-world timescales.",
       "hint": "Useful but limited."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 40,
     "sequencePriority": 40,
@@ -2438,6 +2438,342 @@
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
     "type": "single"
+  },
+  {
+    "id": "ac9s5u04-p-041",
+    "curriculum_code": "AC9S5U04",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A sealed syringe containing air can be pushed in more easily than one containing water. Which particle idea explains this?",
+    "audio_prompt": "A sealed syringe containing air can be pushed in more easily than one containing water. Which particle idea explains this?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Gas particles have much more space between them",
+        "is_correct": true
+      },
+      {
+        "text": "Gas particles are smaller than water particles",
+        "is_correct": false
+      },
+      {
+        "text": "Water has no particles",
+        "is_correct": false
+      },
+      {
+        "text": "Gas particles stop moving when pushed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The model uses relative spacing to explain greater gas compressibility.",
+      "hint": "Compare spaces between particles."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 41,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u04-p-042",
+    "curriculum_code": "AC9S5U04",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which particle diagram best represents a liquid?",
+    "audio_prompt": "Which particle diagram best represents a liquid?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles far apart in fixed rows",
+        "is_correct": false
+      },
+      {
+        "text": "Particles close together but irregularly arranged, able to move past one another",
+        "is_correct": true
+      },
+      {
+        "text": "Particles touching in a fixed pattern with no movement",
+        "is_correct": false
+      },
+      {
+        "text": "No particles because liquid flows",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Liquid particles remain close while changing neighbours.",
+      "hint": "Liquid is close like a solid, mobile like a gas."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 42,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u04-p-043",
+    "curriculum_code": "AC9S5U04",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A perfume smell spreads across a room. What should a particle model show?",
+    "audio_prompt": "A perfume smell spreads across a room. What should a particle model show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles moving in one straight line only",
+        "is_correct": false
+      },
+      {
+        "text": "Particles growing larger as they travel",
+        "is_correct": false
+      },
+      {
+        "text": "Particles moving randomly through the air over time",
+        "is_correct": true
+      },
+      {
+        "text": "Particles disappearing at the bottle",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Gas particles move in many directions and spread through available space.",
+      "hint": "Particles do not need a planned route."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 43,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u04-p-044",
+    "curriculum_code": "AC9S5U04",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Why does a solid block keep its own shape on a table?",
+    "audio_prompt": "Why does a solid block keep its own shape on a table?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Its particles have no mass",
+        "is_correct": false
+      },
+      {
+        "text": "Its particles are far apart and flow",
+        "is_correct": false
+      },
+      {
+        "text": "The table gives it a shape",
+        "is_correct": false
+      },
+      {
+        "text": "Its particles are closely packed in relatively fixed positions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The solid model links fixed relative arrangement with fixed shape.",
+      "hint": "Use arrangement as well as spacing."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 44,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u04-p-045",
+    "curriculum_code": "AC9S5U04",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Ice melts in a bowl. Which statement is accurate in the particle model?",
+    "audio_prompt": "Ice melts in a bowl. Which statement is accurate in the particle model?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Particles gain movement and can move past each other; they do not vanish",
+        "is_correct": true
+      },
+      {
+        "text": "Particles change into nothing",
+        "is_correct": false
+      },
+      {
+        "text": "Particles become larger water particles",
+        "is_correct": false
+      },
+      {
+        "text": "Only the bowl particles move",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A change of state changes arrangement and movement, not the existence of matter.",
+      "hint": "Matter remains present."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 45,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u04-p-046",
+    "curriculum_code": "AC9S5U04",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A class says, 'Heating makes each particle expand.' What is the best correction?",
+    "audio_prompt": "A class says, 'Heating makes each particle expand.' What is the best correction?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Heating removes all particles",
+        "is_correct": false
+      },
+      {
+        "text": "Heating can increase particle movement and spacing; the particles are not drawn bigger",
+        "is_correct": true
+      },
+      {
+        "text": "Only liquids have particles",
+        "is_correct": false
+      },
+      {
+        "text": "Particles turn into heat",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Simple diagrams use spacing and motion to model heating.",
+      "hint": "Keep particle size consistent in the model."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 46,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u04-p-047",
+    "curriculum_code": "AC9S5U04",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "A balloon is inflated and takes the shape of a box. Which property is being shown?",
+    "audio_prompt": "A balloon is inflated and takes the shape of a box. Which property is being shown?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Gas has a fixed shape",
+        "is_correct": false
+      },
+      {
+        "text": "Gas has no mass",
+        "is_correct": false
+      },
+      {
+        "text": "Gas has no fixed shape and fills its container",
+        "is_correct": true
+      },
+      {
+        "text": "Gas particles are locked in place",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Gas particles move through the available space, so a gas takes the container's shape.",
+      "hint": "Connect container shape to particle movement."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 47,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5u04-p-048",
+    "curriculum_code": "AC9S5U04",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "weathering_erosion_and_deposition",
+    "question": "Which observation would best test a particle-model prediction about solids and liquids?",
+    "audio_prompt": "Which observation would best test a particle-model prediction about solids and liquids?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Ask which sample looks nicer",
+        "is_correct": false
+      },
+      {
+        "text": "Use different-sized containers and no record",
+        "is_correct": false
+      },
+      {
+        "text": "Change substance, temperature and container at once",
+        "is_correct": false
+      },
+      {
+        "text": "Compare whether equal samples keep their own shape or flow into a new container",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A fair comparison links an observable property to the model.",
+      "hint": "Measure one property under comparable conditions."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 48,
+    "quality_schema": "skillr-research-v1"
   },
   {
     "id": "AC9S5U04-T-001",

@@ -21,16 +21,16 @@ window.skillrTestQuestions = [
       "Weathering",
       "Deposition"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Rock breaking down in place is weathering.\nHint: Breakdown in place.",
     "structuredExplanation": {
       "summary": "Rock breaking down in place is weathering.",
       "hint": "Breakdown in place."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-002",
@@ -53,16 +53,16 @@ window.skillrTestQuestions = [
       "Weathering only",
       "Deposition"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Erosion removes material from a location.\nHint: Taken away.",
     "structuredExplanation": {
       "summary": "Erosion removes material from a location.",
       "hint": "Taken away."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-003",
@@ -85,16 +85,16 @@ window.skillrTestQuestions = [
       "Absorption",
       "Reflection"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
     "correct": 0,
     "explanation": "Sediment settling from slower water is deposition.\nHint: Settling sediment.",
     "structuredExplanation": {
       "summary": "Sediment settling from slower water is deposition.",
       "hint": "Settling sediment."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-004",
@@ -117,16 +117,16 @@ window.skillrTestQuestions = [
       "A thermometer",
       "Ice in a glacier"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
     "correct": 3,
     "explanation": "Ice can move rock and sediment in cold mountain environments.\nHint: Moving ice.",
     "structuredExplanation": {
       "summary": "Ice can move rock and sediment in cold mountain environments.",
       "hint": "Moving ice."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-005",
@@ -149,16 +149,16 @@ window.skillrTestQuestions = [
       "Roots hold soil and leaves reduce raindrop impact",
       "Shrubs stop gravity forever"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 2,
     "explanation": "Vegetation can stabilise and protect soil.\nHint: Roots and cover.",
     "structuredExplanation": {
       "summary": "Vegetation can stabilise and protect soil.",
       "hint": "Roots and cover."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-006",
@@ -181,16 +181,16 @@ window.skillrTestQuestions = [
       "Where water is fastest in a narrow channel",
       "Where no sediment exists"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 1,
     "explanation": "Heavier sediment drops when water loses energy.\nHint: Slower water.",
     "structuredExplanation": {
       "summary": "Heavier sediment drops when water loses energy.",
       "hint": "Slower water."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-007",
@@ -213,16 +213,16 @@ window.skillrTestQuestions = [
       "erosion settles sediment, weathering transports it",
       "light reflects sediment into the ocean"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
     "correct": 0,
     "explanation": "The correct sequence tracks breakdown, removal, movement and settling.\nHint: Four-process chain.",
     "structuredExplanation": {
       "summary": "The correct sequence tracks breakdown, removal, movement and settling.",
       "hint": "Four-process chain."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-008",
@@ -245,16 +245,16 @@ window.skillrTestQuestions = [
       "It cannot show erosion at all",
       "It simplifies real soil, rainfall, scale and time"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
     "correct": 3,
     "explanation": "Models can show relationships but simplify real conditions.\nHint: Model limitation.",
     "structuredExplanation": {
       "summary": "Models can show relationships but simplify real conditions.",
       "hint": "Model limitation."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-009",
@@ -277,16 +277,16 @@ window.skillrTestQuestions = [
       "Vegetation prevents all erosion in every storm",
       "Vegetation can reduce erosion"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
     "explanation": "Vegetation reduces erosion risk but does not guarantee no erosion.\nHint: Avoid all.",
     "structuredExplanation": {
       "summary": "Vegetation reduces erosion risk but does not guarantee no erosion.",
       "hint": "Avoid all."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-010",
@@ -309,16 +309,16 @@ window.skillrTestQuestions = [
       "Deposition followed by freezing only",
       "Reflection followed by absorption"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
     "correct": 1,
     "explanation": "The cliff material first breaks down, then is removed and moved.\nHint: Break then move.",
     "structuredExplanation": {
       "summary": "The cliff material first breaks down, then is removed and moved.",
       "hint": "Break then move."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-011",
@@ -341,16 +341,16 @@ window.skillrTestQuestions = [
       "Wind only works indoors",
       "Dry sand is not matter"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
     "correct": 0,
     "explanation": "Moisture and particle looseness affect wind transport.\nHint: Loose dry material.",
     "structuredExplanation": {
       "summary": "Moisture and particle looseness affect wind transport.",
       "hint": "Loose dry material."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-012",
@@ -373,16 +373,16 @@ window.skillrTestQuestions = [
       "Refraction",
       "Deposition"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
     "correct": 3,
     "explanation": "Sediment builds up where a river slows and deposits material.\nHint: Build-up by settling.",
     "structuredExplanation": {
       "summary": "Sediment builds up where a river slows and deposits material.",
       "hint": "Build-up by settling."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-013",
@@ -405,16 +405,16 @@ window.skillrTestQuestions = [
       "Pebbles are carried downstream after being loosened",
       "A rock cracks beside a path"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 2,
     "explanation": "Carrying pebbles downstream involves removal and transport.\nHint: Movement away.",
     "structuredExplanation": {
       "summary": "Carrying pebbles downstream involves removal and transport.",
       "hint": "Movement away."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-014",
@@ -437,16 +437,16 @@ window.skillrTestQuestions = [
       "Rain and wind never change land",
       "Only earthquakes affect sediment"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
     "correct": 1,
     "explanation": "Everyday processes can accumulate into major changes over time.\nHint: Slow change matters.",
     "structuredExplanation": {
       "summary": "Everyday processes can accumulate into major changes over time.",
       "hint": "Slow change matters."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-015",
@@ -469,16 +469,16 @@ window.skillrTestQuestions = [
       "Slope if kept same",
       "Measuring cup"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
     "correct": 0,
     "explanation": "Surface cover is deliberately changed between the trays.\nHint: What differs?",
     "structuredExplanation": {
       "summary": "Surface cover is deliberately changed between the trays.",
       "hint": "What differs?"
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u04-t-016",
@@ -501,15 +501,17 @@ window.skillrTestQuestions = [
       "Faster water cannot affect sediment",
       "In this model, faster flow transported more sand, but real rivers need more evidence"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
     "correct": 3,
     "explanation": "The conclusion uses the model evidence but states limits.\nHint: Cautious model claim.",
     "structuredExplanation": {
       "summary": "The conclusion uses the model evidence but states limits.",
       "hint": "Cautious model claim."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

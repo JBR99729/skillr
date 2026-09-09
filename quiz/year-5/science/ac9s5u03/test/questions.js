@@ -21,16 +21,16 @@ window.skillrTestQuestions = [
       "The bottle transmits more light than the opaque lunchbox",
       "The bottle makes more darkness"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Materials that transmit more light usually block less light.\nHint: Transmission affects shadow.",
     "structuredExplanation": {
       "summary": "Materials that transmit more light usually block less light.",
       "hint": "Transmission affects shadow."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-002",
@@ -53,16 +53,16 @@ window.skillrTestQuestions = [
       "The eyes shine light onto the apple first",
       "The apple sends darkness to the eyes"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Seeing needs light to enter the eyes after reflecting from the object.\nHint: Source to object to eye.",
     "structuredExplanation": {
       "summary": "Seeing needs light to enter the eyes after reflecting from the object.",
       "hint": "Source to object to eye."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-003",
@@ -85,16 +85,16 @@ window.skillrTestQuestions = [
       "Absorption only",
       "Shadow formation"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
     "correct": 0,
     "explanation": "Light changes direction between water and air.\nHint: Change medium.",
     "structuredExplanation": {
       "summary": "Light changes direction between water and air.",
       "hint": "Change medium."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-004",
@@ -117,16 +117,16 @@ window.skillrTestQuestions = [
       "Rough bark",
       "A flat mirror"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
     "correct": 3,
     "explanation": "A flat mirror gives regular reflection.\nHint: Smooth shiny surface.",
     "structuredExplanation": {
       "summary": "A flat mirror gives regular reflection.",
       "hint": "Smooth shiny surface."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-005",
@@ -149,16 +149,16 @@ window.skillrTestQuestions = [
       "Absorption",
       "Refraction"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 2,
     "explanation": "Dark surfaces often absorb more light energy.\nHint: Energy absorbed.",
     "structuredExplanation": {
       "summary": "Dark surfaces often absorb more light energy.",
       "hint": "Energy absorbed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-006",
@@ -181,16 +181,16 @@ window.skillrTestQuestions = [
       "Different torches for each distance",
       "Different objects every trial"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 1,
     "explanation": "A fair test changes one variable and controls the others.\nHint: One changed variable.",
     "structuredExplanation": {
       "summary": "A fair test changes one variable and controls the others.",
       "hint": "One changed variable."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-007",
@@ -213,16 +213,16 @@ window.skillrTestQuestions = [
       "A shadow is a dark substance",
       "A shadow is made by eyes"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
     "correct": 0,
     "explanation": "Shadows form where light is blocked.\nHint: Less direct light.",
     "structuredExplanation": {
       "summary": "Shadows form where light is blocked.",
       "hint": "Less direct light."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-008",
@@ -245,16 +245,16 @@ window.skillrTestQuestions = [
       "makes light turn into sound",
       "transmits much visible light"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
     "correct": 3,
     "explanation": "Transparent glass lets much visible light pass through.\nHint: Light passes.",
     "structuredExplanation": {
       "summary": "Transparent glass lets much visible light pass through.",
       "hint": "Light passes."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-009",
@@ -277,16 +277,16 @@ window.skillrTestQuestions = [
       "It scatters transmitted light so details become blurry",
       "It blocks all light like brick"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
     "explanation": "Translucent materials scatter light.\nHint: Blurry transmission.",
     "structuredExplanation": {
       "summary": "Translucent materials scatter light.",
       "hint": "Blurry transmission."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-010",
@@ -309,16 +309,16 @@ window.skillrTestQuestions = [
       "Both only make shadows",
       "Both require darkness to flow"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
     "correct": 1,
     "explanation": "The two interactions involve different situations.\nHint: Surface bounce versus medium change.",
     "structuredExplanation": {
       "summary": "The two interactions involve different situations.",
       "hint": "Surface bounce versus medium change."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-011",
@@ -341,16 +341,16 @@ window.skillrTestQuestions = [
       "The screen sends dark light forward",
       "The object produces black gas"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
     "correct": 0,
     "explanation": "The shadow outline comes from blocked straight-line paths.\nHint: Blocked straight rays.",
     "structuredExplanation": {
       "summary": "The shadow outline comes from blocked straight-line paths.",
       "hint": "Blocked straight rays."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-012",
@@ -373,16 +373,16 @@ window.skillrTestQuestions = [
       "Magnetism",
       "Transmission"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
     "correct": 3,
     "explanation": "Clear water transmits much visible light.\nHint: Light passes through.",
     "structuredExplanation": {
       "summary": "Clear water transmits much visible light.",
       "hint": "Light passes through."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-013",
@@ -405,16 +405,16 @@ window.skillrTestQuestions = [
       "it reflects much light toward the eyes",
       "it absorbs all light perfectly"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 2,
     "explanation": "We see brightness when light from the wall reaches our eyes.\nHint: Reflected light.",
     "structuredExplanation": {
       "summary": "We see brightness when light from the wall reaches our eyes.",
       "hint": "Reflected light."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-014",
@@ -437,16 +437,16 @@ window.skillrTestQuestions = [
       "Dark surfaces may absorb more visible light under the same conditions",
       "Surface material can affect absorption"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
     "correct": 1,
     "explanation": "Real outcomes depend on material, light and conditions.\nHint: Avoid always.",
     "structuredExplanation": {
       "summary": "Real outcomes depend on material, light and conditions.",
       "hint": "Avoid always."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-015",
@@ -469,16 +469,16 @@ window.skillrTestQuestions = [
       "Whether eyes send light",
       "How shadows become matter"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
     "correct": 0,
     "explanation": "The test compares transmission through materials.\nHint: Light passing through.",
     "structuredExplanation": {
       "summary": "The test compares transmission through materials.",
       "hint": "Light passing through."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u03-t-016",
@@ -501,15 +501,17 @@ window.skillrTestQuestions = [
       "Absorption only",
       "Reflection"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
     "correct": 3,
     "explanation": "Mirrors redirect light by reflection.\nHint: Mirror bounce.",
     "structuredExplanation": {
       "summary": "Mirrors redirect light by reflection.",
       "hint": "Mirror bounce."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

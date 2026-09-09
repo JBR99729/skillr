@@ -21,16 +21,16 @@ window.skillrTestQuestions = [
       "Evidence shows likely effects; values help decide which effects matter most",
       "Values are the same as temperature readings"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Decisions combine evidence with priorities.\nHint: Facts and priorities.",
     "structuredExplanation": {
       "summary": "Decisions combine evidence with priorities.",
       "hint": "Facts and priorities."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-002",
@@ -53,16 +53,16 @@ window.skillrTestQuestions = [
       "Only graph colour",
       "Only refraction"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Fair access is an ethical consideration.\nHint: Equity.",
     "structuredExplanation": {
       "summary": "Fair access is an ethical consideration.",
       "hint": "Equity."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-003",
@@ -85,16 +85,16 @@ window.skillrTestQuestions = [
       "A guaranteed perfect solution",
       "An environmental effect only on paper"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
     "correct": 0,
     "explanation": "The decision balances benefits and costs.\nHint: Benefit and cost.",
     "structuredExplanation": {
       "summary": "The decision balances benefits and costs.",
       "hint": "Benefit and cost."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-004",
@@ -117,16 +117,16 @@ window.skillrTestQuestions = [
       "No one outside the classroom",
       "Downstream communities and aquatic organisms"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
     "correct": 3,
     "explanation": "Stakeholders include people and ecosystems affected downstream.\nHint: Affected groups.",
     "structuredExplanation": {
       "summary": "Stakeholders include people and ecosystems affected downstream.",
       "hint": "Affected groups."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-005",
@@ -149,16 +149,16 @@ window.skillrTestQuestions = [
       "It may have unintended effects on other species",
       "Good intentions guarantee no harm"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 2,
     "explanation": "Ecological solutions can have side effects.\nHint: Check impacts.",
     "structuredExplanation": {
       "summary": "Ecological solutions can have side effects.",
       "hint": "Check impacts."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-006",
@@ -181,16 +181,16 @@ window.skillrTestQuestions = [
       "A colourful design sketch only",
       "A vote on favourite colours"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 1,
     "explanation": "Temperature data tests whether shade reduces heat.\nHint: Measure effect.",
     "structuredExplanation": {
       "summary": "Temperature data tests whether shade reduces heat.",
       "hint": "Measure effect."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-007",
@@ -213,16 +213,16 @@ window.skillrTestQuestions = [
       "A meeting has an agenda",
       "A name tag falls off"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
     "correct": 0,
     "explanation": "Sediment entering a creek affects the environment.\nHint: Ecosystem impact.",
     "structuredExplanation": {
       "summary": "Sediment entering a creek affects the environment.",
       "hint": "Ecosystem impact."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-008",
@@ -245,16 +245,16 @@ window.skillrTestQuestions = [
       "A timer is digital",
       "An ethical implication"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
     "correct": 3,
     "explanation": "Unequal benefit and risk raises fairness concerns.\nHint: Fairness.",
     "structuredExplanation": {
       "summary": "Unequal benefit and risk raises fairness concerns.",
       "hint": "Fairness."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-009",
@@ -277,16 +277,16 @@ window.skillrTestQuestions = [
       "It ignores performance, impacts and affected groups",
       "It uses too much evidence"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
     "explanation": "Cost alone is not enough for a responsible decision.\nHint: Other criteria.",
     "structuredExplanation": {
       "summary": "Cost alone is not enough for a responsible decision.",
       "hint": "Other criteria."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-010",
@@ -309,16 +309,16 @@ window.skillrTestQuestions = [
       "Implement and never check again",
       "Guess, hide, blame, stop"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
     "correct": 1,
     "explanation": "Responsible decision-making continues after implementation.\nHint: Monitor and adapt.",
     "structuredExplanation": {
       "summary": "Responsible decision-making continues after implementation.",
       "hint": "Monitor and adapt."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-011",
@@ -341,16 +341,16 @@ window.skillrTestQuestions = [
       "Using more dangerous netting",
       "Claiming there is no environmental issue"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
     "correct": 0,
     "explanation": "The solution has an unintended harm that should be addressed.\nHint: Side effect.",
     "structuredExplanation": {
       "summary": "The solution has an unintended harm that should be addressed.",
       "hint": "Side effect."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-012",
@@ -373,16 +373,16 @@ window.skillrTestQuestions = [
       "Values are illegal in decisions",
       "They may have different storage, needs, risks and values"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
     "correct": 3,
     "explanation": "Local conditions and priorities can change decisions.\nHint: Context matters.",
     "structuredExplanation": {
       "summary": "Local conditions and priorities can change decisions.",
       "hint": "Context matters."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-013",
@@ -405,16 +405,16 @@ window.skillrTestQuestions = [
       "This option is likely to reduce erosion here, but longer monitoring is needed",
       "This option cannot fail anywhere"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 2,
     "explanation": "The wording uses evidence while noting limits.\nHint: Cautious claim.",
     "structuredExplanation": {
       "summary": "The wording uses evidence while noting limits.",
       "hint": "Cautious claim."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-014",
@@ -437,16 +437,16 @@ window.skillrTestQuestions = [
       "Leak-test results",
       "Mass measurements"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
     "correct": 1,
     "explanation": "Priority weighting is a value judgement.\nHint: Value choice.",
     "structuredExplanation": {
       "summary": "Priority weighting is a value judgement.",
       "hint": "Value choice."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-015",
@@ -469,16 +469,16 @@ window.skillrTestQuestions = [
       "Can we ignore future results?",
       "How do we hide uncertainty?"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
     "correct": 0,
     "explanation": "Side-effect thinking looks beyond the main goal.\nHint: Affected beyond target.",
     "structuredExplanation": {
       "summary": "Side-effect thinking looks beyond the main goal.",
       "hint": "Affected beyond target."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h02-t-016",
@@ -501,15 +501,17 @@ window.skillrTestQuestions = [
       "Science gives no useful information",
       "The planting option reduced runoff in trials and supports habitat goals, but maintenance and long-term monitoring are needed"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
     "correct": 3,
     "explanation": "The conclusion balances evidence, values, constraints and uncertainty.\nHint: Balanced recommendation.",
     "structuredExplanation": {
       "summary": "The conclusion balances evidence, values, constraints and uncertainty.",
       "hint": "Balanced recommendation."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

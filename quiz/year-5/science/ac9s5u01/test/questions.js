@@ -21,16 +21,16 @@ window.skillrTestQuestions = [
       "It can reduce water loss in dry conditions",
       "It lets the plant hunt insects at night"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Narrow tough leaves can reduce water loss, helping in dry habitats.\nHint: Water-loss mechanism.",
     "structuredExplanation": {
       "summary": "Narrow tough leaves can reduce water loss, helping in dry habitats.",
       "hint": "Water-loss mechanism."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-002",
@@ -53,16 +53,16 @@ window.skillrTestQuestions = [
       "A dingo having sharp teeth",
       "A turtle having a shell"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Resting in shade is an action.\nHint: Something done.",
     "structuredExplanation": {
       "summary": "Resting in shade is an action.",
       "hint": "Something done."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-003",
@@ -85,16 +85,16 @@ window.skillrTestQuestions = [
       "A possum hiding by day",
       "A lizard basking on a warm rock"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
     "correct": 0,
     "explanation": "A bill pouch is a physical body feature.\nHint: Body part.",
     "structuredExplanation": {
       "summary": "A bill pouch is a physical body feature.",
       "hint": "Body part."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-004",
@@ -117,16 +117,16 @@ window.skillrTestQuestions = [
       "Habitats directly teach genes each afternoon",
       "Inherited features become more common across generations through survival and reproduction"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
     "correct": 3,
     "explanation": "Adaptations arise and spread over generations, not by instant choice.\nHint: Across generations.",
     "structuredExplanation": {
       "summary": "Adaptations arise and spread over generations, not by instant choice.",
       "hint": "Across generations."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-005",
@@ -149,16 +149,16 @@ window.skillrTestQuestions = [
       "Repeated predator observations comparing moth colours on the bark",
       "One student saying white is nice"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 2,
     "explanation": "The claim needs evidence that colour affects predation or survival.\nHint: Feature and outcome.",
     "structuredExplanation": {
       "summary": "The claim needs evidence that colour affects predation or survival.",
       "hint": "Feature and outcome."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-006",
@@ -181,16 +181,16 @@ window.skillrTestQuestions = [
       "Structural",
       "Non-living"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 1,
     "explanation": "Huddling is an action, so it is behavioural.\nHint: Action.",
     "structuredExplanation": {
       "summary": "Huddling is an action, so it is behavioural.",
       "hint": "Action."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-007",
@@ -213,16 +213,16 @@ window.skillrTestQuestions = [
       "Ducks wanted feet for swimming yesterday",
       "Every bird must have webbed feet"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
     "correct": 0,
     "explanation": "The explanation links the feature to how it helps in a habitat.\nHint: Feature to function.",
     "structuredExplanation": {
       "summary": "The explanation links the feature to how it helps in a habitat.",
       "hint": "Feature to function."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-008",
@@ -245,16 +245,16 @@ window.skillrTestQuestions = [
       "It makes food appear",
       "It can make heat loss harder and increase overheating risk"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
     "correct": 3,
     "explanation": "A feature useful in cold conditions can have costs in warm ones.\nHint: Trade-off with heat.",
     "structuredExplanation": {
       "summary": "A feature useful in cold conditions can have costs in warm ones.",
       "hint": "Trade-off with heat."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-009",
@@ -277,16 +277,16 @@ window.skillrTestQuestions = [
       "Sharp claws guarantee a possum survives every predator",
       "Sharp claws may help a possum climb away from some danger"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
     "explanation": "Guarantee language overstates what one feature can do.\nHint: No guarantee.",
     "structuredExplanation": {
       "summary": "Guarantee language overstates what one feature can do.",
       "hint": "No guarantee."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-010",
@@ -309,16 +309,16 @@ window.skillrTestQuestions = [
       "A map with one arrow only",
       "A favourite bird poster"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
     "correct": 1,
     "explanation": "The evidence should connect the behaviour to success over repeated observations.\nHint: Repeated success evidence.",
     "structuredExplanation": {
       "summary": "The evidence should connect the behaviour to success over repeated observations.",
       "hint": "Repeated success evidence."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-011",
@@ -341,16 +341,16 @@ window.skillrTestQuestions = [
       "The leaves become fish",
       "It never needs roots"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
     "correct": 0,
     "explanation": "Floating leaves can help aquatic plants access light.\nHint: Sunlight access.",
     "structuredExplanation": {
       "summary": "Floating leaves can help aquatic plants access light.",
       "hint": "Sunlight access."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-012",
@@ -373,16 +373,16 @@ window.skillrTestQuestions = [
       "One feature removes all survival risks",
       "A feature can be useful in one habitat and less useful in another"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
     "correct": 3,
     "explanation": "Adaptation value depends on environmental conditions.\nHint: Habitat matters.",
     "structuredExplanation": {
       "summary": "Adaptation value depends on environmental conditions.",
       "hint": "Habitat matters."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-013",
@@ -405,16 +405,16 @@ window.skillrTestQuestions = [
       "It may be a learned behaviour from experience",
       "Learning always changes genes instantly"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 2,
     "explanation": "Useful learned behaviours are not necessarily inherited adaptations.\nHint: Learned versus inherited.",
     "structuredExplanation": {
       "summary": "Useful learned behaviours are not necessarily inherited adaptations.",
       "hint": "Learned versus inherited."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-014",
@@ -437,16 +437,16 @@ window.skillrTestQuestions = [
       "A feature has only benefits",
       "A plant has no environment"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
     "correct": 1,
     "explanation": "A trade-off includes both a benefit and a cost.\nHint: Benefit and cost.",
     "structuredExplanation": {
       "summary": "A trade-off includes both a benefit and a cost.",
       "hint": "Benefit and cost."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-015",
@@ -469,16 +469,16 @@ window.skillrTestQuestions = [
       "Frogs choose skin daily",
       "Wet habitats have no pressures"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
     "correct": 0,
     "explanation": "The same feature may help in one way and create vulnerability in another.\nHint: Two-sided feature.",
     "structuredExplanation": {
       "summary": "The same feature may help in one way and create vulnerability in another.",
       "hint": "Two-sided feature."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u01-t-016",
@@ -501,15 +501,17 @@ window.skillrTestQuestions = [
       "One measurement explains all survival",
       "Longer beaks were linked with more nectar access in these flowers, but more evidence is needed to test other causes"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
     "correct": 3,
     "explanation": "The conclusion is evidence-based and cautious about limits.\nHint: Cautious evidence claim.",
     "structuredExplanation": {
       "summary": "The conclusion is evidence-based and cautious about limits.",
       "hint": "Cautious evidence claim."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

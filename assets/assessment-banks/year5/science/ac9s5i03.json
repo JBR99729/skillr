@@ -49,9 +49,9 @@
       "summary": "Accurate Observation and Measurement: Use the correct scaled instrument carefully.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 1,
     "sequencePriority": 1,
@@ -110,9 +110,9 @@
       "summary": "Accurate Observation and Measurement: Use the correct scaled instrument carefully.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 2,
     "sequencePriority": 2,
@@ -171,9 +171,9 @@
       "summary": "Accurate Observation and Measurement: Use the correct scaled instrument carefully.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 3,
     "sequencePriority": 3,
@@ -232,9 +232,9 @@
       "summary": "Accurate Observation and Measurement: Use the correct scaled instrument carefully.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 4,
     "sequencePriority": 4,
@@ -293,9 +293,9 @@
       "summary": "Accurate Observation and Measurement: Use the correct scaled instrument carefully.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 5,
     "sequencePriority": 5,
@@ -354,9 +354,9 @@
       "summary": "Accurate Observation and Measurement: Use the correct scaled instrument carefully.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 6,
     "sequencePriority": 6,
@@ -415,9 +415,9 @@
       "summary": "Accurate Observation and Measurement: Use the correct scaled instrument carefully.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 7,
     "sequencePriority": 7,
@@ -476,9 +476,9 @@
       "summary": "Accurate Observation and Measurement: Use the correct scaled instrument carefully.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 8,
     "sequencePriority": 8,
@@ -537,9 +537,9 @@
       "summary": "Accurate Observation and Measurement: Use the correct scaled instrument carefully.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 9,
     "sequencePriority": 9,
@@ -598,9 +598,9 @@
       "summary": "Accurate Observation and Measurement: Use the correct scaled instrument carefully.",
       "hint": "Identify the evidence job."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 10,
     "sequencePriority": 10,
@@ -659,9 +659,9 @@
       "summary": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 11,
     "sequencePriority": 11,
@@ -720,9 +720,9 @@
       "summary": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 12,
     "sequencePriority": 12,
@@ -781,9 +781,9 @@
       "summary": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 13,
     "sequencePriority": 13,
@@ -842,9 +842,9 @@
       "summary": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 14,
     "sequencePriority": 14,
@@ -903,9 +903,9 @@
       "summary": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 15,
     "sequencePriority": 15,
@@ -964,9 +964,9 @@
       "summary": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 16,
     "sequencePriority": 16,
@@ -1025,9 +1025,9 @@
       "summary": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 17,
     "sequencePriority": 17,
@@ -1086,9 +1086,9 @@
       "summary": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 18,
     "sequencePriority": 18,
@@ -1147,9 +1147,9 @@
       "summary": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 19,
     "sequencePriority": 19,
@@ -1208,9 +1208,9 @@
       "summary": "Accurate Observation and Measurement: It helps the group collect evidence that answers the question.",
       "hint": "Think about reliability."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 20,
     "sequencePriority": 20,
@@ -1269,9 +1269,9 @@
       "summary": "Accurate Observation and Measurement: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 21,
     "sequencePriority": 21,
@@ -1330,9 +1330,9 @@
       "summary": "Accurate Observation and Measurement: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 22,
     "sequencePriority": 22,
@@ -1391,9 +1391,9 @@
       "summary": "Accurate Observation and Measurement: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 23,
     "sequencePriority": 23,
@@ -1452,9 +1452,9 @@
       "summary": "Accurate Observation and Measurement: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 24,
     "sequencePriority": 24,
@@ -1513,9 +1513,9 @@
       "summary": "Accurate Observation and Measurement: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 25,
     "sequencePriority": 25,
@@ -1574,9 +1574,9 @@
       "summary": "Accurate Observation and Measurement: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 26,
     "sequencePriority": 26,
@@ -1635,9 +1635,9 @@
       "summary": "Accurate Observation and Measurement: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 27,
     "sequencePriority": 27,
@@ -1696,9 +1696,9 @@
       "summary": "Accurate Observation and Measurement: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 28,
     "sequencePriority": 28,
@@ -1757,9 +1757,9 @@
       "summary": "Accurate Observation and Measurement: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 29,
     "sequencePriority": 29,
@@ -1818,9 +1818,9 @@
       "summary": "Accurate Observation and Measurement: Changing another factor at the same time.",
       "hint": "Find the choice that makes results unclear."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 30,
     "sequencePriority": 30,
@@ -1879,9 +1879,9 @@
       "summary": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 31,
     "sequencePriority": 31,
@@ -1940,9 +1940,9 @@
       "summary": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 32,
     "sequencePriority": 32,
@@ -2001,9 +2001,9 @@
       "summary": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 33,
     "sequencePriority": 33,
@@ -2062,9 +2062,9 @@
       "summary": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 34,
     "sequencePriority": 34,
@@ -2123,9 +2123,9 @@
       "summary": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 35,
     "sequencePriority": 35,
@@ -2184,9 +2184,9 @@
       "summary": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 36,
     "sequencePriority": 36,
@@ -2245,9 +2245,9 @@
       "summary": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 37,
     "sequencePriority": 37,
@@ -2306,9 +2306,9 @@
       "summary": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 38,
     "sequencePriority": 38,
@@ -2367,9 +2367,9 @@
       "summary": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 39,
     "sequencePriority": 39,
@@ -2428,9 +2428,9 @@
       "summary": "Accurate Observation and Measurement: Use a clear method, record evidence and compare the pattern with the question.",
       "hint": "Use a careful science process."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 40,
     "sequencePriority": 40,
@@ -2438,6 +2438,342 @@
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
     "type": "single"
+  },
+  {
+    "id": "ac9s5i03-p-041",
+    "curriculum_code": "AC9S5I03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "accurate_observation_and_measurement",
+    "question": "A thermometer reading is 21.4. What is the strongest record?",
+    "audio_prompt": "A thermometer reading is 21.4. What is the strongest record?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "21.4 °C at 10:00 am",
+        "is_correct": true
+      },
+      {
+        "text": "warm",
+        "is_correct": false
+      },
+      {
+        "text": "about twenty",
+        "is_correct": false
+      },
+      {
+        "text": "the temperature proves my idea",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A quantitative observation includes value, unit and useful context.",
+      "hint": "Record what was measured, not a conclusion."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 41,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i03-p-042",
+    "curriculum_code": "AC9S5I03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "accurate_observation_and_measurement",
+    "question": "A balance gives 14.2 g, 14.3 g and 14.2 g for the same sample. What should students do?",
+    "audio_prompt": "A balance gives 14.2 g, 14.3 g and 14.2 g for the same sample. What should students do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep only the middle number",
+        "is_correct": false
+      },
+      {
+        "text": "Record all readings and note that they are close",
+        "is_correct": true
+      },
+      {
+        "text": "Change them to exactly 14 g",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the result that differs",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Repeated measurements show natural small variation and should be retained.",
+      "hint": "Do not hide data."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 42,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i03-p-043",
+    "curriculum_code": "AC9S5I03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "accurate_observation_and_measurement",
+    "question": "Which is a qualitative observation?",
+    "audio_prompt": "Which is a qualitative observation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The water is 150 mL",
+        "is_correct": false
+      },
+      {
+        "text": "The temperature is 18 °C",
+        "is_correct": false
+      },
+      {
+        "text": "The water became cloudy after the soil was added",
+        "is_correct": true
+      },
+      {
+        "text": "The ramp is 40 cm high",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A qualitative observation describes what is noticed without a numerical measurement.",
+      "hint": "Look for descriptive evidence."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 43,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i03-p-044",
+    "curriculum_code": "AC9S5I03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "accurate_observation_and_measurement",
+    "question": "A sensor shows an unexpected result. What should happen first?",
+    "audio_prompt": "A sensor shows an unexpected result. What should happen first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Delete it because it is different",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with the expected number",
+        "is_correct": false
+      },
+      {
+        "text": "Change the prediction",
+        "is_correct": false
+      },
+      {
+        "text": "Record it, check the unit and setup, then repeat or investigate",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Unexpected data should be checked transparently, not silently removed.",
+      "hint": "Separate recording from explaining."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 44,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i03-p-045",
+    "curriculum_code": "AC9S5I03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "accurate_observation_and_measurement",
+    "question": "Why is the unit important in '6'?",
+    "audio_prompt": "Why is the unit important in '6'?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "A number needs a unit to say what was measured, such as 6 cm or 6 s",
+        "is_correct": true
+      },
+      {
+        "text": "Units make every measurement exact",
+        "is_correct": false
+      },
+      {
+        "text": "Only scientists use units",
+        "is_correct": false
+      },
+      {
+        "text": "A unit is a type of guess",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Units make observations interpretable and comparable.",
+      "hint": "Ask: six of what?"
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 45,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i03-p-046",
+    "curriculum_code": "AC9S5I03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "accurate_observation_and_measurement",
+    "question": "A student writes, 'The plant grew because it was happy.' How can the record improve?",
+    "audio_prompt": "A student writes, 'The plant grew because it was happy.' How can the record improve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Use more feeling words",
+        "is_correct": false
+      },
+      {
+        "text": "Write the measured height change and save the cause for later explanation",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the measurement",
+        "is_correct": false
+      },
+      {
+        "text": "State that the prediction was correct",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Observations describe evidence; explanations are considered afterwards.",
+      "hint": "Record before interpreting."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 46,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i03-p-047",
+    "curriculum_code": "AC9S5I03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "accurate_observation_and_measurement",
+    "question": "Which tool is most suitable for measuring 35 mL of water?",
+    "audio_prompt": "Which tool is most suitable for measuring 35 mL of water?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "a stopwatch",
+        "is_correct": false
+      },
+      {
+        "text": "a ruler",
+        "is_correct": false
+      },
+      {
+        "text": "a measuring cylinder with mL markings",
+        "is_correct": true
+      },
+      {
+        "text": "a hand lens",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Choose equipment whose scale measures the needed quantity.",
+      "hint": "Match tool and unit."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 47,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i03-p-048",
+    "curriculum_code": "AC9S5I03",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "accurate_observation_and_measurement",
+    "question": "Two groups use different ruler starting points. What should they improve?",
+    "audio_prompt": "Two groups use different ruler starting points. What should they improve?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Round every value to zero",
+        "is_correct": false
+      },
+      {
+        "text": "Stop measuring length",
+        "is_correct": false
+      },
+      {
+        "text": "Use different units each trial",
+        "is_correct": false
+      },
+      {
+        "text": "Use the zero mark consistently and state where each measurement begins",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Consistent technique helps make measurements comparable.",
+      "hint": "Check the reference point."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 48,
+    "quality_schema": "skillr-research-v1"
   },
   {
     "id": "AC9S5I03-T-001",

@@ -49,9 +49,9 @@
       "summary": "A testable question names something that can be changed and measured.",
       "hint": "Look for variables."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 1,
     "sequencePriority": 1,
@@ -110,9 +110,9 @@
       "summary": "Light amount could be changed or compared to investigate growth.",
       "hint": "Find the factor linked to the pattern."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 2,
     "sequencePriority": 2,
@@ -171,9 +171,9 @@
       "summary": "Distance travelled is the result being measured.",
       "hint": "Measured means recorded result."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 3,
     "sequencePriority": 3,
@@ -232,9 +232,9 @@
       "summary": "A prediction is a prior expectation checked against evidence.",
       "hint": "Before results."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 4,
     "sequencePriority": 4,
@@ -293,9 +293,9 @@
       "summary": "This question names one changed factor and one measured result.",
       "hint": "One relationship."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 5,
     "sequencePriority": 5,
@@ -354,9 +354,9 @@
       "summary": "Distance is the factor deliberately changed.",
       "hint": "Changed variable."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 6,
     "sequencePriority": 6,
@@ -415,9 +415,9 @@
       "summary": "The prediction links an expected result with a science reason.",
       "hint": "Expected result plus because."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 7,
     "sequencePriority": 7,
@@ -476,9 +476,9 @@
       "summary": "Investigable questions can be answered with evidence.",
       "hint": "Evidence."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 8,
     "sequencePriority": 8,
@@ -537,9 +537,9 @@
       "summary": "Best needs a clear criterion such as height or water held.",
       "hint": "Make it measurable."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 9,
     "sequencePriority": 9,
@@ -598,9 +598,9 @@
       "summary": "The cloth type can be changed and temperature can be measured.",
       "hint": "Change and measure."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 10,
     "sequencePriority": 10,
@@ -659,9 +659,9 @@
       "summary": "A strong question can be tested with measured evidence.",
       "hint": "Variables matter."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 11,
     "sequencePriority": 11,
@@ -720,9 +720,9 @@
       "summary": "Useful predictions say what is expected and why.",
       "hint": "Expected plus reason."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 12,
     "sequencePriority": 12,
@@ -781,9 +781,9 @@
       "summary": "Changing one factor makes the relationship clearer.",
       "hint": "Avoid mixed causes."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 13,
     "sequencePriority": 13,
@@ -842,9 +842,9 @@
       "summary": "The investigation compares the effect of time.",
       "hint": "Compared factor."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 14,
     "sequencePriority": 14,
@@ -903,9 +903,9 @@
       "summary": "Height is observable and measurable.",
       "hint": "Measurable result."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 15,
     "sequencePriority": 15,
@@ -964,9 +964,9 @@
       "summary": "Predictions are made before data collection.",
       "hint": "Before testing."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 16,
     "sequencePriority": 16,
@@ -1025,9 +1025,9 @@
       "summary": "The reason explains why the pattern is expected.",
       "hint": "Scientific reason."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 17,
     "sequencePriority": 17,
@@ -1086,9 +1086,9 @@
       "summary": "Controlled variables stop another cause from confusing results.",
       "hint": "Control other factors."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 18,
     "sequencePriority": 18,
@@ -1147,9 +1147,9 @@
       "summary": "Minutes provide numerical evidence.",
       "hint": "Units help."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 19,
     "sequencePriority": 19,
@@ -1208,9 +1208,9 @@
       "summary": "A prediction needs a clear expected result.",
       "hint": "Not vague."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 20,
     "sequencePriority": 20,
@@ -1269,9 +1269,9 @@
       "summary": "A prediction says what will happen before testing.",
       "hint": "Will happen."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 21,
     "sequencePriority": 21,
@@ -1330,9 +1330,9 @@
       "summary": "Changing many factors makes the cause unclear.",
       "hint": "Too many variables."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 22,
     "sequencePriority": 22,
@@ -1391,9 +1391,9 @@
       "summary": "Water temperature after 15 minutes is measured.",
       "hint": "Look after affect."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 23,
     "sequencePriority": 23,
@@ -1452,9 +1452,9 @@
       "summary": "This is an observable pattern that can be investigated.",
       "hint": "Observed difference."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 24,
     "sequencePriority": 24,
@@ -1513,9 +1513,9 @@
       "summary": "Awesome is an opinion, not a measurable result.",
       "hint": "Opinion words."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 25,
     "sequencePriority": 25,
@@ -1574,9 +1574,9 @@
       "summary": "It changes ramp height and controls car and surface.",
       "hint": "Control details."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 26,
     "sequencePriority": 26,
@@ -1635,9 +1635,9 @@
       "summary": "Water temperature can be changed and tested.",
       "hint": "Testable factor."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 27,
     "sequencePriority": 27,
@@ -1696,9 +1696,9 @@
       "summary": "Falling time can be measured in seconds.",
       "hint": "Measure the result."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 28,
     "sequencePriority": 28,
@@ -1757,9 +1757,9 @@
       "summary": "Millilitres provide measurable evidence.",
       "hint": "Evidence, not preference."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 29,
     "sequencePriority": 29,
@@ -1818,9 +1818,9 @@
       "summary": "It gives a pattern and a reason based on light.",
       "hint": "Pattern plus reason."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 30,
     "sequencePriority": 30,
@@ -1879,9 +1879,9 @@
       "summary": "The question names material and melting time.",
       "hint": "Change material, measure time."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 31,
     "sequencePriority": 31,
@@ -1940,9 +1940,9 @@
       "summary": "Wetness and stopping distance can be compared safely with a model or controlled setup.",
       "hint": "Measurable relationship."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 32,
     "sequencePriority": 32,
@@ -2001,9 +2001,9 @@
       "summary": "The prediction includes an expected growth pattern and reason.",
       "hint": "Science reason."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 33,
     "sequencePriority": 33,
@@ -2062,9 +2062,9 @@
       "summary": "Decibels can be measured and compared.",
       "hint": "Measurable sound."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 34,
     "sequencePriority": 34,
@@ -2123,9 +2123,9 @@
       "summary": "Less direct sunlight explains the expected lower temperature.",
       "hint": "Because reason."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 35,
     "sequencePriority": 35,
@@ -2184,9 +2184,9 @@
       "summary": "One relationship gives clearer evidence.",
       "hint": "One factor."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 36,
     "sequencePriority": 36,
@@ -2245,9 +2245,9 @@
       "summary": "It gives a measurable absorbency outcome.",
       "hint": "Amount and time."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 37,
     "sequencePriority": 37,
@@ -2306,9 +2306,9 @@
       "summary": "The reason links dark colour with light absorption.",
       "hint": "Absorbs light."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 38,
     "sequencePriority": 38,
@@ -2367,9 +2367,9 @@
       "summary": "It is focused and avoids unsafe or embarrassing comparison.",
       "hint": "Safe and measurable."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 39,
     "sequencePriority": 39,
@@ -2428,9 +2428,9 @@
       "summary": "A consistent clarity scale gives evidence.",
       "hint": "Measured outcome."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 40,
     "sequencePriority": 40,
@@ -2438,6 +2438,342 @@
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
     "type": "single"
+  },
+  {
+    "id": "ac9s5i01-p-041",
+    "curriculum_code": "AC9S5I01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "scientific_questions_variables_and_predictions",
+    "question": "A class observes that wet paper towels dry at different speeds. Which question is most investigable with a timer and balance?",
+    "audio_prompt": "A class observes that wet paper towels dry at different speeds. Which question is most investigable with a timer and balance?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How does airflow affect the time for equal wet towels to dry?",
+        "is_correct": true
+      },
+      {
+        "text": "Which towel is the nicest?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is drying always good?",
+        "is_correct": false
+      },
+      {
+        "text": "Do towels prefer wind?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The question identifies a factor to change and an outcome to measure.",
+      "hint": "Use 'How does … affect …?'"
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 41,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i01-p-042",
+    "curriculum_code": "AC9S5I01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "scientific_questions_variables_and_predictions",
+    "question": "Seeds near a window grew 3 cm, 5 cm and 6 cm in three weeks. Which prediction is reasoned?",
+    "audio_prompt": "Seeds near a window grew 3 cm, 5 cm and 6 cm in three weeks. Which prediction is reasoned?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "The next seed will be the happiest",
+        "is_correct": false
+      },
+      {
+        "text": "Seeds receiving more light may grow taller because light supports plant growth",
+        "is_correct": true
+      },
+      {
+        "text": "Every seed will grow exactly 6 cm",
+        "is_correct": false
+      },
+      {
+        "text": "Light makes plants choose their height",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A prediction states an expected pattern and a science-based reason without claiming certainty.",
+      "hint": "Use 'may' and a because-clause."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 42,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i01-p-043",
+    "curriculum_code": "AC9S5I01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "scientific_questions_variables_and_predictions",
+    "question": "Which revision makes this broad question focused: 'What happens to soil?'",
+    "audio_prompt": "Which revision makes this broad question focused: 'What happens to soil?'",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Is soil important?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is soil the best material?",
+        "is_correct": false
+      },
+      {
+        "text": "How does grass cover affect the mass of soil washed away by equal water?",
+        "is_correct": true
+      },
+      {
+        "text": "Do students like soil?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A focused question names a changed condition and measurable outcome.",
+      "hint": "Name what will be changed and measured."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 43,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i01-p-044",
+    "curriculum_code": "AC9S5I01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "scientific_questions_variables_and_predictions",
+    "question": "A student wants to test whether music makes plants happier. What is the main problem?",
+    "audio_prompt": "A student wants to test whether music makes plants happier. What is the main problem?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Music cannot be played near plants",
+        "is_correct": false
+      },
+      {
+        "text": "Plants have no measurable changes",
+        "is_correct": false
+      },
+      {
+        "text": "Predictions are not allowed",
+        "is_correct": false
+      },
+      {
+        "text": "'Happier' is not a measurable outcome unless it is defined differently",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "An investigation needs an observable or measurable result.",
+      "hint": "Replace a feeling word with a measurement."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 44,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i01-p-045",
+    "curriculum_code": "AC9S5I01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "scientific_questions_variables_and_predictions",
+    "question": "A group has cups, water, rulers and bean seeds. Which question is feasible?",
+    "audio_prompt": "A group has cups, water, rulers and bean seeds. Which question is feasible?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "How does water amount affect bean seedling height over 14 days?",
+        "is_correct": true
+      },
+      {
+        "text": "How do seeds feel about rain?",
+        "is_correct": false
+      },
+      {
+        "text": "Which planet grows the best beans?",
+        "is_correct": false
+      },
+      {
+        "text": "Why are all plants green?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The materials and time can be used to change water amount and measure height.",
+      "hint": "Check materials, time and measurement."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 45,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i01-p-046",
+    "curriculum_code": "AC9S5I01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "scientific_questions_variables_and_predictions",
+    "question": "A graph shows that a toy car travelled farther as ramp height increased. Which prediction matches the pattern?",
+    "audio_prompt": "A graph shows that a toy car travelled farther as ramp height increased. Which prediction matches the pattern?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Every toy car will travel forever",
+        "is_correct": false
+      },
+      {
+        "text": "A higher ramp will probably make the same car travel farther on the same surface",
+        "is_correct": true
+      },
+      {
+        "text": "The ramp will change colour",
+        "is_correct": false
+      },
+      {
+        "text": "Distance does not need measuring",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The prediction extends the observed relationship cautiously.",
+      "hint": "Keep the conditions comparable."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 46,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i01-p-047",
+    "curriculum_code": "AC9S5I01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "scientific_questions_variables_and_predictions",
+    "question": "Which prediction includes a reason based on prior knowledge?",
+    "audio_prompt": "Which prediction includes a reason based on prior knowledge?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Dark paper will win because black is best",
+        "is_correct": false
+      },
+      {
+        "text": "The lamp will get bored",
+        "is_correct": false
+      },
+      {
+        "text": "Dark paper may warm more under the same lamp because it absorbs more light energy",
+        "is_correct": true
+      },
+      {
+        "text": "Every colour will have identical temperature without testing",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A reasoned prediction connects an expected outcome with a relevant idea.",
+      "hint": "Look for a testable direction plus reason."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 47,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5i01-p-048",
+    "curriculum_code": "AC9S5I01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "scientific_questions_variables_and_predictions",
+    "question": "A class wants to investigate animals on Country/Place. Which question should be checked before planning?",
+    "audio_prompt": "A class wants to investigate animals on Country/Place. Which question should be checked before planning?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Which animal is cutest",
+        "is_correct": false
+      },
+      {
+        "text": "How to collect every animal",
+        "is_correct": false
+      },
+      {
+        "text": "Whether results can be guessed first",
+        "is_correct": false
+      },
+      {
+        "text": "Whether permission and a low-impact observation method are needed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Feasibility includes cultural safety, permission and care for living things.",
+      "hint": "An investigable question must also be ethical."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 48,
+    "quality_schema": "skillr-research-v1"
   },
   {
     "id": "AC9S5I01-T-001",

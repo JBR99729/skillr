@@ -49,9 +49,9 @@
       "summary": "Replication checks whether a pattern appears again when a method is repeated.",
       "hint": "Repeat to check."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 1,
     "sequencePriority": 1,
@@ -110,9 +110,9 @@
       "summary": "Scientific critique evaluates ideas and evidence, not people.",
       "hint": "Check the claim."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 2,
     "sequencePriority": 2,
@@ -171,9 +171,9 @@
       "summary": "New evidence can strengthen, narrow or change explanations.",
       "hint": "Evidence updates ideas."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 3,
     "sequencePriority": 3,
@@ -232,9 +232,9 @@
       "summary": "Transparent methods let others check or repeat the investigation.",
       "hint": "Can others repeat it?"
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 4,
     "sequencePriority": 4,
@@ -293,9 +293,9 @@
       "summary": "Improved instruments can provide better or new observations.",
       "hint": "Better measurement."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 5,
     "sequencePriority": 5,
@@ -354,9 +354,9 @@
       "summary": "Scientific explanations use evidence and reasoning.",
       "hint": "Evidence-based account."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 6,
     "sequencePriority": 6,
@@ -415,9 +415,9 @@
       "summary": "Sharing allows critique, replication and improvement.",
       "hint": "Let others check."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 7,
     "sequencePriority": 7,
@@ -476,9 +476,9 @@
       "summary": "Science develops through collaboration, testing and revision.",
       "hint": "Many contributors."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 8,
     "sequencePriority": 8,
@@ -537,9 +537,9 @@
       "summary": "Scientific agreement is strongest when supported by evidence and methods.",
       "hint": "Evidence, not popularity."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 9,
     "sequencePriority": 9,
@@ -598,9 +598,9 @@
       "summary": "Refining means improving or revising an explanation.",
       "hint": "Make it better with evidence."
     },
-    "stage": "recognise",
+    "stage": "apply",
     "difficulty": 1,
-    "difficulty_tier": "recognise",
+    "difficulty_tier": "easy",
     "difficultyTier": "recognise",
     "sequence_priority": 10,
     "sequencePriority": 10,
@@ -659,9 +659,9 @@
       "summary": "Science improves explanations as better evidence becomes available.",
       "hint": "Change can improve."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 11,
     "sequencePriority": 11,
@@ -720,9 +720,9 @@
       "summary": "Shared methods make claims more testable and trustworthy.",
       "hint": "Repeatable method."
     },
-    "stage": "explain",
-    "difficulty": 2,
-    "difficulty_tier": "explain",
+    "stage": "apply",
+    "difficulty": 1,
+    "difficulty_tier": "easy",
     "difficultyTier": "explain",
     "sequence_priority": 12,
     "sequencePriority": 12,
@@ -781,9 +781,9 @@
       "summary": "Scientific strength comes from evidence that can be checked.",
       "hint": "Evidence over popularity."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 13,
     "sequencePriority": 13,
@@ -842,9 +842,9 @@
       "summary": "Earlier models can still explain some situations while being improved.",
       "hint": "Useful within limits."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 14,
     "sequencePriority": 14,
@@ -903,9 +903,9 @@
       "summary": "Critique helps improve claims by testing reasoning and evidence.",
       "hint": "Check for weaknesses."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 15,
     "sequencePriority": 15,
@@ -964,9 +964,9 @@
       "summary": "Science often improves when people contribute varied knowledge and skills.",
       "hint": "Different roles help."
     },
-    "stage": "explain",
+    "stage": "apply",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 16,
     "sequencePriority": 16,
@@ -1025,9 +1025,9 @@
       "summary": "Replication checks whether findings are consistent enough under comparable methods.",
       "hint": "Pattern, not identical numbers."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 17,
     "sequencePriority": 17,
@@ -1086,9 +1086,9 @@
       "summary": "Crediting sources supports transparency and fairness.",
       "hint": "Where did it come from?"
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 18,
     "sequencePriority": 18,
@@ -1147,9 +1147,9 @@
       "summary": "Better tools can reveal new details that support or revise explanations.",
       "hint": "New measurements."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 19,
     "sequencePriority": 19,
@@ -1208,9 +1208,9 @@
       "summary": "Scientific claims need evidence and a logical link to the claim.",
       "hint": "Not just who said it."
     },
-    "stage": "explain",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "explain",
+    "difficulty_tier": "medium",
     "difficultyTier": "explain",
     "sequence_priority": 20,
     "sequencePriority": 20,
@@ -1269,9 +1269,9 @@
       "summary": "Scientific knowledge is collaborative and evidence-based over time.",
       "hint": "Not one final person."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 21,
     "sequencePriority": 21,
@@ -1330,9 +1330,9 @@
       "summary": "Replication repeats comparable methods to check findings.",
       "hint": "Repeat the study."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 22,
     "sequencePriority": 22,
@@ -1391,9 +1391,9 @@
       "summary": "Critique questions evidence and method quality.",
       "hint": "Check method weakness."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 23,
     "sequencePriority": 23,
@@ -1452,9 +1452,9 @@
       "summary": "Clear repeated evidence is stronger than unsupported agreement.",
       "hint": "Reproducible evidence."
     },
-    "stage": "discriminate",
+    "stage": "reasoning",
     "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "difficulty_tier": "medium",
     "difficultyTier": "discriminate",
     "sequence_priority": 24,
     "sequencePriority": 24,
@@ -1513,9 +1513,9 @@
       "summary": "Consensus does not remove the need for evidence.",
       "hint": "Popularity is not proof."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 25,
     "sequencePriority": 25,
@@ -1574,9 +1574,9 @@
       "summary": "Precise instruments can improve observation quality.",
       "hint": "Better tool."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 26,
     "sequencePriority": 26,
@@ -1635,9 +1635,9 @@
       "summary": "Conflicting evidence should be evaluated carefully.",
       "hint": "Check and revise if needed."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 27,
     "sequencePriority": 27,
@@ -1696,9 +1696,9 @@
       "summary": "Revision updates explanations to better match evidence.",
       "hint": "Update idea, not data."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 28,
     "sequencePriority": 28,
@@ -1757,9 +1757,9 @@
       "summary": "Transparent evidence and limits make claims more checkable.",
       "hint": "Checkable source."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 29,
     "sequencePriority": 29,
@@ -1818,9 +1818,9 @@
       "summary": "Communication shares evidence-based ideas accurately.",
       "hint": "Explain clearly."
     },
-    "stage": "discriminate",
-    "difficulty": 2,
-    "difficulty_tier": "discriminate",
+    "stage": "reasoning",
+    "difficulty": 3,
+    "difficulty_tier": "hard",
     "difficultyTier": "discriminate",
     "sequence_priority": 30,
     "sequencePriority": 30,
@@ -1879,9 +1879,9 @@
       "summary": "New observations can revise or extend explanations.",
       "hint": "New tool, new evidence."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 31,
     "sequencePriority": 31,
@@ -1940,9 +1940,9 @@
       "summary": "Different findings should trigger careful checking.",
       "hint": "Method and evidence check."
     },
-    "stage": "apply",
+    "stage": "reasoning",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 32,
     "sequencePriority": 32,
@@ -2001,9 +2001,9 @@
       "summary": "Transparent methods are needed for checking and replication.",
       "hint": "Cannot repeat."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 33,
     "sequencePriority": 33,
@@ -2062,9 +2062,9 @@
       "summary": "Revision improves models by aligning them with evidence.",
       "hint": "Better fit."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 34,
     "sequencePriority": 34,
@@ -2123,9 +2123,9 @@
       "summary": "Scientific claims need evidence and context.",
       "hint": "Check support."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 35,
     "sequencePriority": 35,
@@ -2184,9 +2184,9 @@
       "summary": "Repeated comparable evidence strengthens confidence.",
       "hint": "Pattern repeats."
     },
-    "stage": "apply",
+    "stage": "transfer",
     "difficulty": 3,
-    "difficulty_tier": "apply",
+    "difficulty_tier": "hard",
     "difficultyTier": "apply",
     "sequence_priority": 36,
     "sequencePriority": 36,
@@ -2245,9 +2245,9 @@
       "summary": "Critique can reveal method problems that need fixing.",
       "hint": "Weakness found."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 37,
     "sequencePriority": 37,
@@ -2306,9 +2306,9 @@
       "summary": "Explanations can be limited and refined for different conditions.",
       "hint": "Scope matters."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 38,
     "sequencePriority": 38,
@@ -2367,9 +2367,9 @@
       "summary": "Expertise matters, but claims still need evidence.",
       "hint": "Evidence behind authority."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 39,
     "sequencePriority": 39,
@@ -2428,9 +2428,9 @@
       "summary": "Science often involves multiple contributions.",
       "hint": "Many roles."
     },
-    "stage": "apply",
-    "difficulty": 3,
-    "difficulty_tier": "apply",
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
     "difficultyTier": "apply",
     "sequence_priority": 40,
     "sequencePriority": 40,
@@ -2438,6 +2438,342 @@
     "qualitySchema": "skillr-actual-v6",
     "printable": true,
     "type": "single"
+  },
+  {
+    "id": "ac9s5h01-p-041",
+    "curriculum_code": "AC9S5H01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Two groups repeat a water investigation and obtain similar patterns. Why does this strengthen the finding?",
+    "audio_prompt": "Two groups repeat a water investigation and obtain similar patterns. Why does this strengthen the finding?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Independent repetition shows the pattern can occur again with comparable methods",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the first group's data unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the result can never change",
+        "is_correct": false
+      },
+      {
+        "text": "It means no one should check the method",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Replication gives others a chance to check whether a result recurs.",
+      "hint": "Think about evidence being checked."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 41,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5h01-p-042",
+    "curriculum_code": "AC9S5H01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A new sensor measures temperature more precisely than an older one. What is the most scientific response if the readings differ?",
+    "audio_prompt": "A new sensor measures temperature more precisely than an older one. What is the most scientific response if the readings differ?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Keep the old explanation because it came first",
+        "is_correct": false
+      },
+      {
+        "text": "Examine the new evidence and method, then refine the explanation if needed",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the reading preferred by most people",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the new data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "New tools can improve observations and lead to revision.",
+      "hint": "Evidence and method matter more than age of an idea."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 42,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5h01-p-043",
+    "curriculum_code": "AC9S5H01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Which action is scientific critique rather than a personal attack?",
+    "audio_prompt": "Which action is scientific critique rather than a personal attack?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "'Your idea is silly.'",
+        "is_correct": false
+      },
+      {
+        "text": "'Only famous scientists may speak.'",
+        "is_correct": false
+      },
+      {
+        "text": "'The sample size was small, so repeat the test with more observations.'",
+        "is_correct": true
+      },
+      {
+        "text": "'Keep your results secret.'",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Scientific critique focuses on evidence, reasoning and method.",
+      "hint": "Look for a specific, testable improvement."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 43,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5h01-p-044",
+    "curriculum_code": "AC9S5H01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A scientist shares a method and raw measurements. What can other scientists do with them?",
+    "audio_prompt": "A scientist shares a method and raw measurements. What can other scientists do with them?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Turn the data into an opinion poll",
+        "is_correct": false
+      },
+      {
+        "text": "Assume the conclusion is perfect",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore any limitations",
+        "is_correct": false
+      },
+      {
+        "text": "Check the reasoning and try to repeat the investigation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Open methods and data allow evidence to be examined.",
+      "hint": "Transparency lets others check work."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 44,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5h01-p-045",
+    "curriculum_code": "AC9S5H01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Why can an older model still be useful after new evidence?",
+    "audio_prompt": "Why can an older model still be useful after new evidence?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It may explain some situations well even if its limits are now clearer",
+        "is_correct": true
+      },
+      {
+        "text": "New evidence makes all earlier work worthless",
+        "is_correct": false
+      },
+      {
+        "text": "Models never have limits",
+        "is_correct": false
+      },
+      {
+        "text": "Only the newest claim can be discussed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Refinement can improve or limit a model rather than erase every useful part.",
+      "hint": "Consider the conditions the old model still explains."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 45,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5h01-p-046",
+    "curriculum_code": "AC9S5H01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "Several people contribute observations, equipment skills, data analysis and critique to one study. What does this show?",
+    "audio_prompt": "Several people contribute observations, equipment skills, data analysis and critique to one study. What does this show?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "One person must have done all the science",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific knowledge often develops through many roles and contributions",
+        "is_correct": true
+      },
+      {
+        "text": "Science is only about equipment",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence is less important than job titles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Different expertise can improve a shared explanation.",
+      "hint": "Notice the separate roles."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 46,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5h01-p-047",
+    "curriculum_code": "AC9S5H01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "A headline says, 'One result proves the final answer.' Which response is strongest?",
+    "audio_prompt": "A headline says, 'One result proves the final answer.' Which response is strongest?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Accept it because it is a headline",
+        "is_correct": false
+      },
+      {
+        "text": "Reject all science forever",
+        "is_correct": false
+      },
+      {
+        "text": "Ask whether the method is transparent, the evidence is repeated and other explanations were checked",
+        "is_correct": true
+      },
+      {
+        "text": "Count how many people liked the headline",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Scientific claims become stronger through evidence, checking and revision.",
+      "hint": "Use evidence-quality questions."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 47,
+    "quality_schema": "skillr-research-v1"
+  },
+  {
+    "id": "ac9s5h01-p-048",
+    "curriculum_code": "AC9S5H01",
+    "year_level": "Year 5",
+    "subject": "science",
+    "bank": "practice",
+    "skill": "how_scientific_knowledge_develops",
+    "question": "New evidence conflicts with part of an explanation. What should scientists do?",
+    "audio_prompt": "New evidence conflicts with part of an explanation. What should scientists do?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Hide the conflicting evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Change measurements to match the old idea",
+        "is_correct": false
+      },
+      {
+        "text": "Stop asking questions",
+        "is_correct": false
+      },
+      {
+        "text": "Revise the explanation to fit the strongest available evidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Revision is a normal part of developing reliable knowledge.",
+      "hint": "Science improves by responding to evidence."
+    },
+    "stage": "transfer",
+    "difficulty": 4,
+    "difficulty_tier": "super-hard",
+    "sequence_priority": 48,
+    "quality_schema": "skillr-research-v1"
   },
   {
     "id": "AC9S5H01-T-001",

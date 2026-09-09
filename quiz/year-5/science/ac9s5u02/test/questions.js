@@ -21,16 +21,16 @@ window.skillrTestQuestions = [
       "Its particles can move past each other while staying close",
       "Its particles have no volume"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Liquid particles can move around one another, so liquids flow.\nHint: Liquid particle motion.",
     "structuredExplanation": {
       "summary": "Liquid particles can move around one another, so liquids flow.",
       "hint": "Liquid particle motion."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-002",
@@ -53,16 +53,16 @@ window.skillrTestQuestions = [
       "The air has no mass because it is invisible",
       "The air is not matter"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Air is a gas, and gases are matter.\nHint: Invisible matter.",
     "structuredExplanation": {
       "summary": "Air is a gas, and gases are matter.",
       "hint": "Invisible matter."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-003",
@@ -85,16 +85,16 @@ window.skillrTestQuestions = [
       "water has no particles",
       "gas particles disappear when pushed"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
     "correct": 0,
     "explanation": "Compression reduces spaces between gas particles.\nHint: Spaces in gas.",
     "structuredExplanation": {
       "summary": "Compression reduces spaces between gas particles.",
       "hint": "Spaces in gas."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-004",
@@ -117,16 +117,16 @@ window.skillrTestQuestions = [
       "Particles are far apart",
       "Particles stay close in fixed relative positions"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
     "correct": 3,
     "explanation": "Solids keep shape because particles are fixed relative to each other.\nHint: Solid model.",
     "structuredExplanation": {
       "summary": "Solids keep shape because particles are fixed relative to each other.",
       "hint": "Solid model."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-005",
@@ -149,16 +149,16 @@ window.skillrTestQuestions = [
       "Diffusion",
       "Freezing"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 2,
     "explanation": "Diffusion spreads particles through air.\nHint: Smell spreading.",
     "structuredExplanation": {
       "summary": "Diffusion spreads particles through air.",
       "hint": "Smell spreading."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-006",
@@ -181,16 +181,16 @@ window.skillrTestQuestions = [
       "Particles become much larger objects",
       "Particles vanish from the substance"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 1,
     "explanation": "Heating increases motion and can increase spacing, not particle size.\nHint: Motion not size.",
     "structuredExplanation": {
       "summary": "Heating increases motion and can increase spacing, not particle size.",
       "hint": "Motion not size."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-007",
@@ -213,16 +213,16 @@ window.skillrTestQuestions = [
       "Gas only",
       "Vacuum"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
     "correct": 0,
     "explanation": "Liquid particles are close but mobile.\nHint: Close and sliding.",
     "structuredExplanation": {
       "summary": "Liquid particles are close but mobile.",
       "hint": "Close and sliding."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-008",
@@ -245,16 +245,16 @@ window.skillrTestQuestions = [
       "Crystal only",
       "Gas"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
     "correct": 3,
     "explanation": "Gas particles are far apart and move freely.\nHint: Far apart.",
     "structuredExplanation": {
       "summary": "Gas particles are far apart and move freely.",
       "hint": "Far apart."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-009",
@@ -277,16 +277,16 @@ window.skillrTestQuestions = [
       "Liquid particles are already close together",
       "Water particles disappear when pushed"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
     "explanation": "Liquids have little empty space between particles compared with gases.\nHint: Close liquid particles.",
     "structuredExplanation": {
       "summary": "Liquids have little empty space between particles compared with gases.",
       "hint": "Close liquid particles."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-010",
@@ -309,16 +309,16 @@ window.skillrTestQuestions = [
       "A coin stays round",
       "Ice has corners"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
     "correct": 1,
     "explanation": "Air takes up space inside the ball.\nHint: Ball expands.",
     "structuredExplanation": {
       "summary": "Air takes up space inside the ball.",
       "hint": "Ball expands."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-011",
@@ -341,16 +341,16 @@ window.skillrTestQuestions = [
       "They are useless in science",
       "They prove particles are coloured circles"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
     "correct": 0,
     "explanation": "Particle diagrams are models with strengths and limits.\nHint: Model limitation.",
     "structuredExplanation": {
       "summary": "Particle diagrams are models with strengths and limits.",
       "hint": "Model limitation."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-012",
@@ -373,16 +373,16 @@ window.skillrTestQuestions = [
       "Only visible particles move",
       "Solid particles vibrate about fixed positions"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
     "correct": 3,
     "explanation": "Particles in solids still vibrate.\nHint: Vibrate in place.",
     "structuredExplanation": {
       "summary": "Particles in solids still vibrate.",
       "hint": "Vibrate in place."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-013",
@@ -405,16 +405,16 @@ window.skillrTestQuestions = [
       "Liquid particles remain close together",
       "Liquid particles spread to fill the room"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 2,
     "explanation": "Liquids can change shape but keep volume because particles stay close.\nHint: Close particles.",
     "structuredExplanation": {
       "summary": "Liquids can change shape but keep volume because particles stay close.",
       "hint": "Close particles."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-014",
@@ -437,16 +437,16 @@ window.skillrTestQuestions = [
       "Air",
       "Water"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
     "correct": 1,
     "explanation": "A shadow is not matter because it has no mass and does not occupy space.\nHint: No mass or volume.",
     "structuredExplanation": {
       "summary": "A shadow is not matter because it has no mass and does not occupy space.",
       "hint": "No mass or volume."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-015",
@@ -469,16 +469,16 @@ window.skillrTestQuestions = [
       "Gases have no particles",
       "Gas only sits at the bottom"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
     "correct": 0,
     "explanation": "Gas particles move throughout the container.\nHint: Fill available space.",
     "structuredExplanation": {
       "summary": "Gas particles move throughout the container.",
       "hint": "Fill available space."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5u02-t-016",
@@ -501,15 +501,17 @@ window.skillrTestQuestions = [
       "Particles choose to leave because they want space",
       "Both involve changes in particle arrangement or movement, not particles vanishing"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
     "correct": 3,
     "explanation": "State changes keep particles but change arrangement, spacing or movement.\nHint: Particles remain.",
     "structuredExplanation": {
       "summary": "State changes keep particles but change arrangement, spacing or movement.",
       "hint": "Particles remain."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;

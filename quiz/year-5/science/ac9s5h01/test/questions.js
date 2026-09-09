@@ -21,16 +21,16 @@ window.skillrTestQuestions = [
       "Whether the finding recurs under comparable conditions",
       "Whether the first school is popular"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 1,
     "correct": 2,
     "explanation": "Replication checks whether results recur.\nHint: Repeat to check.",
     "structuredExplanation": {
       "summary": "Replication checks whether results recur.",
       "hint": "Repeat to check."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 1,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-002",
@@ -53,16 +53,16 @@ window.skillrTestQuestions = [
       "It attacks the person making the claim",
       "It removes all need for data"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 2,
     "correct": 1,
     "explanation": "Scientific critique examines the quality of claims and support.\nHint: Check the claim.",
     "structuredExplanation": {
       "summary": "Scientific critique examines the quality of claims and support.",
       "hint": "Check the claim."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 2,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-003",
@@ -85,16 +85,16 @@ window.skillrTestQuestions = [
       "Stop scientists needing models",
       "Prove every earlier idea was fake"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 3,
     "correct": 0,
     "explanation": "Better observations can refine explanations.\nHint: New evidence.",
     "structuredExplanation": {
       "summary": "Better observations can refine explanations.",
       "hint": "New evidence."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 3,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-004",
@@ -117,16 +117,16 @@ window.skillrTestQuestions = [
       "A claim chosen by class vote only",
       "A claim tested by several groups with shared methods and similar findings"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 4,
     "correct": 3,
     "explanation": "Shared reproducible evidence gives stronger support.\nHint: Evidence and replication.",
     "structuredExplanation": {
       "summary": "Shared reproducible evidence gives stronger support.",
       "hint": "Evidence and replication."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 4,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-005",
@@ -149,16 +149,16 @@ window.skillrTestQuestions = [
       "It is refined as new evidence becomes available",
       "It never changes after the first idea"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 5,
     "correct": 2,
     "explanation": "Scientific knowledge develops through evidence and revision.\nHint: Can be refined.",
     "structuredExplanation": {
       "summary": "Scientific knowledge develops through evidence and revision.",
       "hint": "Can be refined."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 5,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-006",
@@ -181,16 +181,16 @@ window.skillrTestQuestions = [
       "It makes results more reliable",
       "It removes all uncertainty"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 6,
     "correct": 1,
     "explanation": "Methods need to be transparent for checking.\nHint: Cannot check.",
     "structuredExplanation": {
       "summary": "Methods need to be transparent for checking.",
       "hint": "Cannot check."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 6,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-007",
@@ -213,16 +213,16 @@ window.skillrTestQuestions = [
       "Rejecting all observations",
       "Using popularity as proof"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 7,
     "correct": 0,
     "explanation": "Evidence can improve a model.\nHint: Evidence-based revision.",
     "structuredExplanation": {
       "summary": "Evidence can improve a model.",
       "hint": "Evidence-based revision."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 7,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-008",
@@ -245,16 +245,16 @@ window.skillrTestQuestions = [
       "A speaker changes values for drama",
       "A reviewer asks whether the conclusion overclaims the data"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 8,
     "correct": 3,
     "explanation": "Peer critique checks evidence and reasoning.\nHint: Overclaim check.",
     "structuredExplanation": {
       "summary": "Peer critique checks evidence and reasoning.",
       "hint": "Overclaim check."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 8,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-009",
@@ -277,16 +277,16 @@ window.skillrTestQuestions = [
       "Older work may remain useful within limits",
       "Old observations can never help"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 9,
     "correct": 2,
     "explanation": "Older explanations can still be useful in some conditions.\nHint: Useful within scope.",
     "structuredExplanation": {
       "summary": "Older explanations can still be useful in some conditions.",
       "hint": "Useful within scope."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 9,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-010",
@@ -309,16 +309,16 @@ window.skillrTestQuestions = [
       "A colourful border only",
       "A longer group name"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 10,
     "correct": 1,
     "explanation": "A better instrument can improve measurement quality.\nHint: Precise tool.",
     "structuredExplanation": {
       "summary": "A better instrument can improve measurement quality.",
       "hint": "Precise tool."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 10,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-011",
@@ -341,16 +341,16 @@ window.skillrTestQuestions = [
       "A stronger opinion",
       "A shorter sentence"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 11,
     "correct": 0,
     "explanation": "Agreement alone is not scientific evidence.\nHint: Need data.",
     "structuredExplanation": {
       "summary": "Agreement alone is not scientific evidence.",
       "hint": "Need data."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 11,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-012",
@@ -373,16 +373,16 @@ window.skillrTestQuestions = [
       "Say science cannot handle surprises",
       "Check the method, repeat if needed and consider the explanation"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 12,
     "correct": 3,
     "explanation": "Surprising results should be investigated.\nHint: Check evidence.",
     "structuredExplanation": {
       "summary": "Surprising results should be investigated.",
       "hint": "Check evidence."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 12,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-013",
@@ -405,16 +405,16 @@ window.skillrTestQuestions = [
       "Old evidence, new method, new evidence and the revised reasoning",
       "Only the final answer"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 13,
     "correct": 2,
     "explanation": "Good communication makes the revision transparent.\nHint: Show what changed.",
     "structuredExplanation": {
       "summary": "Good communication makes the revision transparent.",
       "hint": "Show what changed."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 13,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-014",
@@ -437,16 +437,16 @@ window.skillrTestQuestions = [
       "Scientists accept it because it is popular online",
       "Scientists accept it because no one checked it"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 14,
     "correct": 1,
     "explanation": "Consensus is strongest when based on reliable evidence.\nHint: Evidence-based agreement.",
     "structuredExplanation": {
       "summary": "Consensus is strongest when based on reliable evidence.",
       "hint": "Evidence-based agreement."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 14,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-015",
@@ -469,16 +469,16 @@ window.skillrTestQuestions = [
       "All data must be deleted",
       "Variation means no method was used"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 15,
     "correct": 0,
     "explanation": "Replication can support patterns without exact identical values.\nHint: Similar pattern.",
     "structuredExplanation": {
       "summary": "Replication can support patterns without exact identical values.",
       "hint": "Similar pattern."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 15,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s5h01-t-016",
@@ -501,15 +501,17 @@ window.skillrTestQuestions = [
       "Avoiding new evidence",
       "Publishing methods and evidence so others can critique and replicate"
     ],
+    "difficulty": 3,
+    "difficultyTier": "independent",
+    "sequencePriority": 16,
     "correct": 3,
     "explanation": "Transparency, critique and replication help science improve.\nHint: Open to checking.",
     "structuredExplanation": {
       "summary": "Transparency, critique and replication help science improve.",
       "hint": "Open to checking."
     },
-    "difficulty": 3,
-    "difficultyTier": "independent",
-    "sequencePriority": 16,
-    "qualitySchema": "skillr-actual-v6"
+    "qualitySchema": "production-v1"
   }
 ];
+window.skillrExamQuestions = window.skillrTestQuestions;
+window.quizQuestions = window.skillrTestQuestions;
