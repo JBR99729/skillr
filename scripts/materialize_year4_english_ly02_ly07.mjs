@@ -55,7 +55,8 @@ function alias(items,bank){
 const globalPrompts=new Set();
 for(const code of CODES){
   const cfg=JSON.parse(fs.readFileSync(path.join(SRC,code.toLowerCase()+".json"),"utf8"));
-  const items=build(code,cfg); const slug=code.toLowerCase();
+  const items=Array.isArray(cfg.items) ? cfg.items : build(code,cfg);
+  const slug=code.toLowerCase();
   const p=items.filter(x=>x.bank==="practice"), t=items.filter(x=>x.bank==="test");
   if(p.length!==48||t.length!==16) throw new Error(`${code}: expected 48/16, got ${p.length}/${t.length}`);
   if(new Set(items.map(x=>x.id)).size!==64) throw new Error(`${code}: duplicate IDs`);
@@ -67,7 +68,8 @@ for(const code of CODES){
     if(x.correct_index<0||x.correct_index>3||!x.answers[x.correct_index].is_correct) throw new Error(`${x.id}: invalid correct index`);
   }
   const coverage=new Set(items.flatMap(x=>x.curriculum_coverage));
-  for(const needed of cfg.practice.concat(cfg.test).flatMap(x=>x.coverage)) if(!coverage.has(needed)) throw new Error(`${code}: missing ${needed}`);
+  const expected=Array.isArray(cfg.items) ? new Set(cfg.items.flatMap(x=>x.curriculum_coverage)) : new Set(cfg.practice.concat(cfg.test).flatMap(x=>x.coverage));
+  for(const needed of expected) if(!coverage.has(needed)) throw new Error(`${code}: missing ${needed}`);
   const pr=alias(items,"practice"), te=alias(items,"test");
   fs.writeFileSync(path.join(ROOT,"assets/assessment-banks/year4/english",slug+".json"),JSON.stringify(items,null,2)+"\n");
   fs.writeFileSync(path.join(ROOT,"quiz/year-4/english",slug,"practice/questions.js"),pr);
