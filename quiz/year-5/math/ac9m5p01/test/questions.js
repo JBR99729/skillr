@@ -465,5 +465,3 @@ window.skillrTestQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
-window.quizQuestions = window.skillrTestQuestions;
