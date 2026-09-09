@@ -1,6 +1,6 @@
 # Batch 001 — AC9M5N01–N04
 
-Status: OPEN. Base main d73f9a4771a0ec8eedd5a2ef9b45b9dc9e155fa0.
+Status: CLOSED — published to main at 5c1dfd68f34d3f24400f548d51e8c983f679b263. Base main d73f9a4771a0ec8eedd5a2ef9b45b9dc9e155fa0.
 Scope: Year 5 Mathematics, four codes only. Owner authorises publication after review/QA; no publication yet.
 Latest steering: single-thread execution to reduce credits; IXL is the ONLY external research website. Use existing repository curriculum descriptors/elaborations. Do not start later batches.
 Inventory: 390 Years 5–10 codes unrecorded in data/content-verification-status.json (Maths 149, English 142, Science 99). Hub totals, not a claim all existing content requires rewriting.
