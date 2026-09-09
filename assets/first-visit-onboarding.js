@@ -166,8 +166,15 @@
 
   function init() {
     if (!isHome() && !isDashboard()) return;
-    build();
     addReopenLink();
+
+    // Do not auto-open the large onboarding dialog on the homepage. A late,
+    // viewport-sized dialog can become the page's LCP element and make a fast
+    // first render look slow to Lighthouse/Core Web Vitals. The guide remains
+    // available from the footer and window.SkillrOnboarding.open().
+    if (isHome()) return;
+
+    build();
     if (!seen()) setTimeout(open, 350);
   }
 
