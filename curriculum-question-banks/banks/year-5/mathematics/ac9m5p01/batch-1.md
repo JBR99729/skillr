@@ -4,14 +4,11 @@ subject: Mathematics
 year_level: Year 5
 description: list the possible outcomes of chance experiments involving equally likely outcomes and compare to those which are not equally likely
 batch: 1
-practice_questions: 68
-exam_questions: 30
-worksheet_questions: 10
-worksheet_practice_selection: 8
-worksheet_exam_selection: 2
+practice_questions: 48
+exam_questions: 16
 launch_practice_ids: P01,P18,P35,P52,P09,P26,P43,P60
-quick_read_status: authored
-review_status: authored
+quick_read_status: reviewed
+review_status: reviewed
 ---
 
 # AC9M5P01 — Year 5 Mathematics digital question bank
