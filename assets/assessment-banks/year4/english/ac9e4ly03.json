@@ -6,35 +6,35 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "imaginative text features",
-    "question": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which option best demonstrates the skill?",
-    "audio_prompt": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which option best demonstrates the skill?",
+    "skill": "imaginative purpose",
+    "question": "Read the text.\n\nAt dusk, Kai followed a trail of blue feathers into the empty greenhouse. The glass panes hummed softly, and a silver moth the size of his hand landed on the watering can.\n\nWhich feature most clearly shows this is an imaginative text?",
+    "audio_prompt": "Read the text.\n\nAt dusk, Kai followed a trail of blue feathers into the empty greenhouse. The glass panes hummed softly, and a silver moth the size of his hand landed on the watering can.\n\nWhich feature most clearly shows this is an imaginative text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A mysterious invented event that creates curiosity about what may happen next.",
+        "text": "The invented silver moth and humming glass create an unreal world.",
         "is_correct": true
       },
       {
-        "text": "A numbered list of verified lighthouse statistics.",
+        "text": "The passage gives numbered instructions.",
         "is_correct": false
       },
       {
-        "text": "A labelled diagram explaining lens parts.",
+        "text": "The passage presents a claim with evidence.",
         "is_correct": false
       },
       {
-        "text": "A call to sign a petition about coastal lighting.",
+        "text": "The passage lists verified facts about moths.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Imaginative texts often build characters, settings and events to engage readers in an invented world.",
-      "hint": "Ask what feature helps the text tell or develop an imagined experience."
+      "summary": "Invented events and sensory details help create an imaginary world.",
+      "hint": "Look for details that could not be part of an ordinary factual report."
     },
     "curriculum_coverage": [
       "E1"
@@ -48,41 +48,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "imaginative text features",
-    "question": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which choice is the strongest response?",
-    "audio_prompt": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which choice is the strongest response?",
+    "stage": "apply",
+    "skill": "imaginative language",
+    "question": "Read the text.\n\nAt dusk, Kai followed a trail of blue feathers into the empty greenhouse. The glass panes hummed softly, and a silver moth the size of his hand landed on the watering can.\n\nWhat effect does ‘the glass panes hummed softly’ have?",
+    "audio_prompt": "Read the text.\n\nAt dusk, Kai followed a trail of blue feathers into the empty greenhouse. The glass panes hummed softly, and a silver moth the size of his hand landed on the watering can.\n\nWhat effect does ‘the glass panes hummed softly’ have?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A numbered list of verified lighthouse statistics.",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled diagram explaining lens parts.",
-        "is_correct": false
-      },
-      {
-        "text": "A call to sign a petition about coastal lighting.",
-        "is_correct": false
-      },
-      {
-        "text": "A mysterious invented event that creates curiosity about what may happen next.",
+        "text": "It gives the setting an unusual, almost living quality.",
         "is_correct": true
+      },
+      {
+        "text": "It explains how greenhouse glass is manufactured.",
+        "is_correct": false
+      },
+      {
+        "text": "It tells readers to repair the glass.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the greenhouse is unsafe.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Imaginative texts often build characters, settings and events to engage readers in an invented world.",
-      "hint": "Ask what feature helps the text tell or develop an imagined experience."
+      "summary": "The person-like action adds atmosphere and helps the setting feel mysterious.",
+      "hint": "Ask how the language shapes the mood of the setting."
     },
     "curriculum_coverage": [
       "E1"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "sequence_priority": 2
   },
   {
@@ -91,36 +91,36 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "imaginative text features",
-    "question": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Why is “A mysterious invented event that creates curiosity about what may happen next.” the strongest choice?",
-    "audio_prompt": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Why is “A mysterious invented event that creates curiosity about what may happen next.” the strongest choice?",
+    "stage": "apply",
+    "skill": "purpose and feature",
+    "question": "Read the text.\n\nAt dusk, Kai followed a trail of blue feathers into the empty greenhouse. The glass panes hummed softly, and a silver moth the size of his hand landed on the watering can.\n\nWhich added sentence would best continue the same imaginative purpose?",
+    "audio_prompt": "Read the text.\n\nAt dusk, Kai followed a trail of blue feathers into the empty greenhouse. The glass panes hummed softly, and a silver moth the size of his hand landed on the watering can.\n\nWhich added sentence would best continue the same imaginative purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It avoids using evidence from the situation.",
-        "is_correct": false
-      },
-      {
-        "text": "It changes the task instead of responding to it.",
-        "is_correct": false
-      },
-      {
-        "text": "Imaginative texts often build characters, settings and events to engage readers in an invented world.",
+        "text": "Kai whispered, ‘Are you leading me somewhere?’ and the moth lifted into the dark.",
         "is_correct": true
       },
       {
-        "text": "It is longest, so it must be correct.",
+        "text": "Greenhouses are structures used to grow plants.",
+        "is_correct": false
+      },
+      {
+        "text": "Please support the school greenhouse fundraiser.",
+        "is_correct": false
+      },
+      {
+        "text": "Step 1: open the greenhouse door.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Imaginative texts often build characters, settings and events to engage readers in an invented world.",
-      "hint": "Ask what feature helps the text tell or develop an imagined experience."
+      "summary": "Dialogue and an invented action continue the narrative world.",
+      "hint": "Choose a continuation that develops characters or events."
     },
     "curriculum_coverage": [
       "E1"
@@ -134,41 +134,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "imaginative text features",
-    "question": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which choice should be rejected first because it does not meet the purpose of the task?",
-    "audio_prompt": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "stage": "analyse",
+    "skill": "evidence reasoning",
+    "question": "Read the text.\n\nAt dusk, Kai followed a trail of blue feathers into the empty greenhouse. The glass panes hummed softly, and a silver moth the size of his hand landed on the watering can.\n\nA student says the passage is imaginative only because it contains the word ‘moth’. What is the best correction?",
+    "audio_prompt": "Read the text.\n\nAt dusk, Kai followed a trail of blue feathers into the empty greenhouse. The glass panes hummed softly, and a silver moth the size of his hand landed on the watering can.\n\nA student says the passage is imaginative only because it contains the word ‘moth’. What is the best correction?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A call to sign a petition about coastal lighting.",
-        "is_correct": false
-      },
-      {
-        "text": "A numbered list of verified lighthouse statistics.",
+        "text": "The key evidence is the impossible size, humming glass and mysterious events, not the topic alone.",
         "is_correct": true
       },
       {
-        "text": "A mysterious invented event that creates curiosity about what may happen next.",
+        "text": "Any text about an animal is imaginative.",
         "is_correct": false
       },
       {
-        "text": "A labelled diagram explaining lens parts.",
+        "text": "The word ‘moth’ is persuasive language.",
+        "is_correct": false
+      },
+      {
+        "text": "The setting must be real because greenhouses exist.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“A numbered list of verified lighthouse statistics.” should be rejected because it does not meet the task as well as the evidence-based choice. Imaginative texts often build characters, settings and events to engage readers in an invented world.",
-      "hint": "Ask what feature helps the text tell or develop an imagined experience."
+      "summary": "Text type depends on how features are used, not simply on the topic.",
+      "hint": "Use specific evidence from the way the writer presents the scene."
     },
     "curriculum_coverage": [
       "E1"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequence_priority": 4
   },
   {
@@ -177,41 +177,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "imaginative text features",
-    "question": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which revision best improves “A numbered list of verified lighthouse statistics.”?",
-    "audio_prompt": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which revision best improves “A numbered list of verified lighthouse statistics.”?",
+    "stage": "recognise",
+    "skill": "informative purpose",
+    "question": "Read the text.\n\nWHY BEES MATTER\nBees move pollen between flowers as they feed. This helps many flowering plants produce seeds and fruit. A labelled diagram beside the paragraph shows pollen on a bee’s body and arrows between two flowers.\n\nWhat is the main purpose of this text?",
+    "audio_prompt": "Read the text.\n\nWHY BEES MATTER\nBees move pollen between flowers as they feed. This helps many flowering plants produce seeds and fruit. A labelled diagram beside the paragraph shows pollen on a bee’s body and arrows between two flowers.\n\nWhat is the main purpose of this text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A mysterious invented event that creates curiosity about what may happen next.",
+        "text": "To explain how bees help flowering plants reproduce",
         "is_correct": true
       },
       {
-        "text": "A numbered list of verified lighthouse statistics.",
+        "text": "To convince readers to buy honey",
         "is_correct": false
       },
       {
-        "text": "A labelled diagram explaining lens parts.",
+        "text": "To entertain with a bee adventure",
         "is_correct": false
       },
       {
-        "text": "A call to sign a petition about coastal lighting.",
+        "text": "To give rules for keeping a pet bee",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Imaginative texts often build characters, settings and events to engage readers in an invented world.",
-      "hint": "Ask what feature helps the text tell or develop an imagined experience."
+      "summary": "The text explains a process using facts and a diagram.",
+      "hint": "Ask what the reader is meant to learn."
     },
     "curriculum_coverage": [
-      "E1"
+      "E2",
+      "E3"
     ],
-    "difficulty": 2,
+    "difficulty": 1,
     "sequence_priority": 5
   },
   {
@@ -220,41 +221,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "imaginative text features",
-    "question": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which clue should guide your decision?",
-    "audio_prompt": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which clue should guide your decision?",
+    "stage": "recognise",
+    "skill": "navigation features",
+    "question": "Read the text.\n\nWHY BEES MATTER\nBees move pollen between flowers as they feed. This helps many flowering plants produce seeds and fruit. A labelled diagram beside the paragraph shows pollen on a bee’s body and arrows between two flowers.\n\nWhy is the heading ‘WHY BEES MATTER’ useful?",
+    "audio_prompt": "Read the text.\n\nWHY BEES MATTER\nBees move pollen between flowers as they feed. This helps many flowering plants produce seeds and fruit. A labelled diagram beside the paragraph shows pollen on a bee’s body and arrows between two flowers.\n\nWhy is the heading ‘WHY BEES MATTER’ useful?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose the first familiar phrase.",
-        "is_correct": false
-      },
-      {
-        "text": "Prefer a vague answer so it can fit anything.",
-        "is_correct": false
-      },
-      {
-        "text": "Ask what feature helps the text tell or develop an imagined experience.",
+        "text": "It signals the topic and helps readers locate the section quickly.",
         "is_correct": true
+      },
+      {
+        "text": "It makes the information fictional.",
+        "is_correct": false
+      },
+      {
+        "text": "It tells readers to agree with every sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the paragraph.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Imaginative texts often build characters, settings and events to engage readers in an invented world.",
-      "hint": "Ask what feature helps the text tell or develop an imagined experience."
+      "summary": "Headings organise informative texts and guide readers.",
+      "hint": "Think about how the heading helps before the paragraph is read."
     },
     "curriculum_coverage": [
-      "E1"
+      "E2"
     ],
-    "difficulty": 2,
+    "difficulty": 1,
     "sequence_priority": 6
   },
   {
@@ -263,41 +264,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "reflect",
-    "skill": "imaginative text features",
-    "question": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? A student chooses “A labelled diagram explaining lens parts.”. Which feedback would best help them correct the choice?",
-    "audio_prompt": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? A student chooses “A labelled diagram explaining lens parts.”. Which feedback would best help them correct the choice?",
+    "stage": "apply",
+    "skill": "visual features",
+    "question": "Read the text.\n\nWHY BEES MATTER\nBees move pollen between flowers as they feed. This helps many flowering plants produce seeds and fruit. A labelled diagram beside the paragraph shows pollen on a bee’s body and arrows between two flowers.\n\nWhat does the labelled diagram add?",
+    "audio_prompt": "Read the text.\n\nWHY BEES MATTER\nBees move pollen between flowers as they feed. This helps many flowering plants produce seeds and fruit. A labelled diagram beside the paragraph shows pollen on a bee’s body and arrows between two flowers.\n\nWhat does the labelled diagram add?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose a longer answer without checking meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the task context and focus only on spelling.",
-        "is_correct": false
-      },
-      {
-        "text": "Re-check the task and use this principle: Ask what feature helps the text tell or develop an imagined experience.",
+        "text": "It shows the movement of pollen and where it sits on the bee.",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because first choices should never change.",
+        "text": "It proves bees are the only pollinators.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the text into a story.",
+        "is_correct": false
+      },
+      {
+        "text": "It asks readers to plant flowers.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Imaginative texts often build characters, settings and events to engage readers in an invented world.",
-      "hint": "Ask what feature helps the text tell or develop an imagined experience."
+      "summary": "The diagram makes a process and spatial relationship easier to see.",
+      "hint": "Ask what is easier to understand visually than in words alone."
     },
     "curriculum_coverage": [
-      "E1"
+      "E3"
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequence_priority": 7
   },
   {
@@ -306,39 +307,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "imaginative text features",
-    "question": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which option applies the same skill accurately in this situation?",
-    "audio_prompt": "A story opens, “At midnight the lighthouse blinked twice, although no keeper had lived there for years.” Which feature most clearly supports an imaginative purpose? Which option applies the same skill accurately in this situation?",
+    "stage": "analyse",
+    "skill": "words and visuals",
+    "question": "Read the text.\n\nWHY BEES MATTER\nBees move pollen between flowers as they feed. This helps many flowering plants produce seeds and fruit. A labelled diagram beside the paragraph shows pollen on a bee’s body and arrows between two flowers.\n\nHow do the paragraph and diagram work together?",
+    "audio_prompt": "Read the text.\n\nWHY BEES MATTER\nBees move pollen between flowers as they feed. This helps many flowering plants produce seeds and fruit. A labelled diagram beside the paragraph shows pollen on a bee’s body and arrows between two flowers.\n\nHow do the paragraph and diagram work together?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A call to sign a petition about coastal lighting.",
-        "is_correct": false
-      },
-      {
-        "text": "A mysterious invented event that creates curiosity about what may happen next.",
+        "text": "The paragraph explains the process while the diagram shows the movement visually.",
         "is_correct": true
       },
       {
-        "text": "A numbered list of verified lighthouse statistics.",
+        "text": "They give unrelated information.",
         "is_correct": false
       },
       {
-        "text": "A labelled diagram explaining lens parts.",
+        "text": "The diagram is decoration only.",
+        "is_correct": false
+      },
+      {
+        "text": "The paragraph persuades while the diagram entertains.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Imaginative texts often build characters, settings and events to engage readers in an invented world.",
-      "hint": "Ask what feature helps the text tell or develop an imagined experience."
+      "summary": "The two modes complement each other by explaining and showing the same process.",
+      "hint": "Identify what each mode contributes."
     },
     "curriculum_coverage": [
-      "E1"
+      "E2",
+      "E3"
     ],
     "difficulty": 3,
     "sequence_priority": 8
@@ -350,35 +352,35 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "navigation features",
-    "question": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which option best demonstrates the skill?",
-    "audio_prompt": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which option best demonstrates the skill?",
+    "skill": "persuasive purpose",
+    "question": "Read the text.\n\nGive our oval more shade. On hot days, the metal seats become uncomfortable by lunchtime. Two shade sails above the seating area would give students a cooler place to rest. Support the proposal at Friday’s student meeting.\n\nWhat is the writer mainly trying to do?",
+    "audio_prompt": "Read the text.\n\nGive our oval more shade. On hot days, the metal seats become uncomfortable by lunchtime. Two shade sails above the seating area would give students a cooler place to rest. Support the proposal at Friday’s student meeting.\n\nWhat is the writer mainly trying to do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "They group related facts so readers can locate information efficiently.",
+        "text": "Persuade readers to support shade sails",
         "is_correct": true
       },
       {
-        "text": "They make the page fictional.",
+        "text": "Explain how metal is made",
         "is_correct": false
       },
       {
-        "text": "They prove every fact is equally important.",
+        "text": "Entertain with a school story",
         "is_correct": false
       },
       {
-        "text": "They persuade readers to buy a frog.",
+        "text": "Describe the oval without giving an opinion",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Headings organise an informative text and help readers navigate to a needed section.",
-      "hint": "Notice how navigation features help a reader find or organise information."
+      "summary": "The writer states a proposal, gives a reason and asks readers to support it.",
+      "hint": "Look for a position, reasons and a call to action."
     },
     "curriculum_coverage": [
       "E2"
@@ -392,41 +394,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "navigation features",
-    "question": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which choice is the strongest response?",
-    "audio_prompt": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which choice is the strongest response?",
+    "stage": "apply",
+    "skill": "persuasive features",
+    "question": "Read the text.\n\nGive our oval more shade. On hot days, the metal seats become uncomfortable by lunchtime. Two shade sails above the seating area would give students a cooler place to rest. Support the proposal at Friday’s student meeting.\n\nWhich feature most strongly supports the persuasive purpose?",
+    "audio_prompt": "Read the text.\n\nGive our oval more shade. On hot days, the metal seats become uncomfortable by lunchtime. Two shade sails above the seating area would give students a cooler place to rest. Support the proposal at Friday’s student meeting.\n\nWhich feature most strongly supports the persuasive purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "They make the page fictional.",
-        "is_correct": false
-      },
-      {
-        "text": "They prove every fact is equally important.",
-        "is_correct": false
-      },
-      {
-        "text": "They persuade readers to buy a frog.",
-        "is_correct": false
-      },
-      {
-        "text": "They group related facts so readers can locate information efficiently.",
+        "text": "A clear proposal linked to a problem students experience",
         "is_correct": true
+      },
+      {
+        "text": "A fictional character",
+        "is_correct": false
+      },
+      {
+        "text": "A glossary definition",
+        "is_correct": false
+      },
+      {
+        "text": "A timeline of school history",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Headings organise an informative text and help readers navigate to a needed section.",
-      "hint": "Notice how navigation features help a reader find or organise information."
+      "summary": "A claim supported by a relevant reason helps persuade an audience.",
+      "hint": "Find the feature that gives readers a reason to agree."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "sequence_priority": 10
   },
   {
@@ -435,41 +437,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "navigation features",
-    "question": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Why is “They group related facts so readers can locate information efficiently.” the strongest choice?",
-    "audio_prompt": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Why is “They group related facts so readers can locate information efficiently.” the strongest choice?",
+    "stage": "recognise",
+    "skill": "call to action",
+    "question": "Read the text.\n\nGive our oval more shade. On hot days, the metal seats become uncomfortable by lunchtime. Two shade sails above the seating area would give students a cooler place to rest. Support the proposal at Friday’s student meeting.\n\nWhich words are the clearest call to action?",
+    "audio_prompt": "Read the text.\n\nGive our oval more shade. On hot days, the metal seats become uncomfortable by lunchtime. Two shade sails above the seating area would give students a cooler place to rest. Support the proposal at Friday’s student meeting.\n\nWhich words are the clearest call to action?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It avoids using evidence from the situation.",
-        "is_correct": false
-      },
-      {
-        "text": "It changes the task instead of responding to it.",
-        "is_correct": false
-      },
-      {
-        "text": "Headings organise an informative text and help readers navigate to a needed section.",
+        "text": "Support the proposal at Friday’s student meeting.",
         "is_correct": true
       },
       {
-        "text": "It is longest, so it must be correct.",
+        "text": "On hot days",
+        "is_correct": false
+      },
+      {
+        "text": "metal seats",
+        "is_correct": false
+      },
+      {
+        "text": "a cooler place",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Headings organise an informative text and help readers navigate to a needed section.",
-      "hint": "Notice how navigation features help a reader find or organise information."
+      "summary": "A call to action directly tells readers what to do next.",
+      "hint": "Find the words that ask the audience to act."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 2,
+    "difficulty": 1,
     "sequence_priority": 11
   },
   {
@@ -478,41 +480,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "navigation features",
-    "question": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which choice should be rejected first because it does not meet the purpose of the task?",
-    "audio_prompt": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "stage": "analyse",
+    "skill": "structure and purpose",
+    "question": "Read the text.\n\nGive our oval more shade. On hot days, the metal seats become uncomfortable by lunchtime. Two shade sails above the seating area would give students a cooler place to rest. Support the proposal at Friday’s student meeting.\n\nWhich structure best supports the message?",
+    "audio_prompt": "Read the text.\n\nGive our oval more shade. On hot days, the metal seats become uncomfortable by lunchtime. Two shade sails above the seating area would give students a cooler place to rest. Support the proposal at Friday’s student meeting.\n\nWhich structure best supports the message?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "They persuade readers to buy a frog.",
-        "is_correct": false
-      },
-      {
-        "text": "They make the page fictional.",
+        "text": "Problem–solution: hot seats are the problem and shade sails are the proposed solution.",
         "is_correct": true
       },
       {
-        "text": "They group related facts so readers can locate information efficiently.",
+        "text": "Compare–contrast: two schools are compared.",
         "is_correct": false
       },
       {
-        "text": "They prove every fact is equally important.",
+        "text": "Sequential: steps must be followed in order.",
+        "is_correct": false
+      },
+      {
+        "text": "Descriptive: only appearance is described.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“They make the page fictional.” should be rejected because it does not meet the task as well as the evidence-based choice. Headings organise an informative text and help readers navigate to a needed section.",
-      "hint": "Notice how navigation features help a reader find or organise information."
+      "summary": "The problem–solution organisation makes the proposal easy to understand.",
+      "hint": "Identify the problem and the proposed response."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequence_priority": 12
   },
   {
@@ -521,41 +523,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "navigation features",
-    "question": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which revision best improves “They make the page fictional.”?",
-    "audio_prompt": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which revision best improves “They make the page fictional.”?",
+    "stage": "recognise",
+    "skill": "compare-contrast",
+    "question": "Read the text.\n\nBoth rain gauges and weather radar help scientists measure or track rainfall. A rain gauge collects water at one location, while radar can estimate rainfall across a much larger area. Rain gauges provide direct measurements; radar provides wider coverage.\n\nWhich detail is a similarity?",
+    "audio_prompt": "Read the text.\n\nBoth rain gauges and weather radar help scientists measure or track rainfall. A rain gauge collects water at one location, while radar can estimate rainfall across a much larger area. Rain gauges provide direct measurements; radar provides wider coverage.\n\nWhich detail is a similarity?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "They group related facts so readers can locate information efficiently.",
+        "text": "Both help scientists measure or track rainfall.",
         "is_correct": true
       },
       {
-        "text": "They make the page fictional.",
+        "text": "Only radar collects water in a container.",
         "is_correct": false
       },
       {
-        "text": "They prove every fact is equally important.",
+        "text": "Rain gauges cover larger areas than radar.",
         "is_correct": false
       },
       {
-        "text": "They persuade readers to buy a frog.",
+        "text": "Radar is always more accurate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Headings organise an informative text and help readers navigate to a needed section.",
-      "hint": "Notice how navigation features help a reader find or organise information."
+      "summary": "The passage directly states that both tools help with rainfall information.",
+      "hint": "Look for a feature shared by both subjects."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 2,
+    "difficulty": 1,
     "sequence_priority": 13
   },
   {
@@ -564,36 +566,36 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "navigation features",
-    "question": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which clue should guide your decision?",
-    "audio_prompt": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which clue should guide your decision?",
+    "stage": "apply",
+    "skill": "compare-contrast",
+    "question": "Read the text.\n\nBoth rain gauges and weather radar help scientists measure or track rainfall. A rain gauge collects water at one location, while radar can estimate rainfall across a much larger area. Rain gauges provide direct measurements; radar provides wider coverage.\n\nWhich detail is a difference?",
+    "audio_prompt": "Read the text.\n\nBoth rain gauges and weather radar help scientists measure or track rainfall. A rain gauge collects water at one location, while radar can estimate rainfall across a much larger area. Rain gauges provide direct measurements; radar provides wider coverage.\n\nWhich detail is a difference?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose the first familiar phrase.",
-        "is_correct": false
-      },
-      {
-        "text": "Prefer a vague answer so it can fit anything.",
-        "is_correct": false
-      },
-      {
-        "text": "Notice how navigation features help a reader find or organise information.",
+        "text": "A rain gauge measures one location while radar covers a wider area.",
         "is_correct": true
+      },
+      {
+        "text": "Both are used by scientists.",
+        "is_correct": false
+      },
+      {
+        "text": "Both relate to rainfall.",
+        "is_correct": false
+      },
+      {
+        "text": "Both can provide useful information.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Headings organise an informative text and help readers navigate to a needed section.",
-      "hint": "Notice how navigation features help a reader find or organise information."
+      "summary": "The text contrasts the scale of coverage of the two tools.",
+      "hint": "Look for the contrast signalled by ‘while’."
     },
     "curriculum_coverage": [
       "E2"
@@ -607,41 +609,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "reflect",
-    "skill": "navigation features",
-    "question": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? A student chooses “They prove every fact is equally important.”. Which feedback would best help them correct the choice?",
-    "audio_prompt": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? A student chooses “They prove every fact is equally important.”. Which feedback would best help them correct the choice?",
+    "stage": "apply",
+    "skill": "text structure",
+    "question": "Read the text.\n\nBoth rain gauges and weather radar help scientists measure or track rainfall. A rain gauge collects water at one location, while radar can estimate rainfall across a much larger area. Rain gauges provide direct measurements; radar provides wider coverage.\n\nWhich text structure is dominant?",
+    "audio_prompt": "Read the text.\n\nBoth rain gauges and weather radar help scientists measure or track rainfall. A rain gauge collects water at one location, while radar can estimate rainfall across a much larger area. Rain gauges provide direct measurements; radar provides wider coverage.\n\nWhich text structure is dominant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose a longer answer without checking meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the task context and focus only on spelling.",
-        "is_correct": false
-      },
-      {
-        "text": "Re-check the task and use this principle: Notice how navigation features help a reader find or organise information.",
+        "text": "Compare–contrast",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because first choices should never change.",
+        "text": "Cause–effect",
+        "is_correct": false
+      },
+      {
+        "text": "Problem–solution",
+        "is_correct": false
+      },
+      {
+        "text": "Sequential",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Headings organise an informative text and help readers navigate to a needed section.",
-      "hint": "Notice how navigation features help a reader find or organise information."
+      "summary": "The paragraph is organised around similarities and differences between two tools.",
+      "hint": "Ask how the ideas are related."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequence_priority": 15
   },
   {
@@ -651,40 +653,40 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "navigation features",
-    "question": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which option applies the same skill accurately in this situation?",
-    "audio_prompt": "An information page about frogs uses the headings “Habitat”, “Diet” and “Life cycle”. Why are these headings useful? Which option applies the same skill accurately in this situation?",
+    "skill": "signal words",
+    "question": "Read the text.\n\nBoth rain gauges and weather radar help scientists measure or track rainfall. A rain gauge collects water at one location, while radar can estimate rainfall across a much larger area. Rain gauges provide direct measurements; radar provides wider coverage.\n\nWhich word most clearly signals a contrast?",
+    "audio_prompt": "Read the text.\n\nBoth rain gauges and weather radar help scientists measure or track rainfall. A rain gauge collects water at one location, while radar can estimate rainfall across a much larger area. Rain gauges provide direct measurements; radar provides wider coverage.\n\nWhich word most clearly signals a contrast?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "They persuade readers to buy a frog.",
-        "is_correct": false
-      },
-      {
-        "text": "They group related facts so readers can locate information efficiently.",
+        "text": "while",
         "is_correct": true
       },
       {
-        "text": "They make the page fictional.",
+        "text": "both",
         "is_correct": false
       },
       {
-        "text": "They prove every fact is equally important.",
+        "text": "help",
+        "is_correct": false
+      },
+      {
+        "text": "rainfall",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Headings organise an informative text and help readers navigate to a needed section.",
-      "hint": "Notice how navigation features help a reader find or organise information."
+      "summary": "‘While’ introduces a difference between the two subjects.",
+      "hint": "Look for a word that separates unlike features."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequence_priority": 16
   },
   {
@@ -694,38 +696,38 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "informative visual features",
-    "question": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which option best demonstrates the skill?",
-    "audio_prompt": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which option best demonstrates the skill?",
+    "skill": "problem-solution",
+    "question": "Read the text.\n\nAfter three days of heavy rain, water filled the low section of the walking track. The council first placed warning cones there, but the water returned after every storm. Workers later dug a shallow drain beside the track, and the puddle stopped forming.\n\nWhat is the main problem?",
+    "audio_prompt": "Read the text.\n\nAfter three days of heavy rain, water filled the low section of the walking track. The council first placed warning cones there, but the water returned after every storm. Workers later dug a shallow drain beside the track, and the puddle stopped forming.\n\nWhat is the main problem?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It adds spatial information that helps readers connect the named parts to their positions.",
+        "text": "Water repeatedly flooded the low section of the track.",
         "is_correct": true
       },
       {
-        "text": "It replaces the need for any written explanation.",
+        "text": "The council had too many warning cones.",
         "is_correct": false
       },
       {
-        "text": "It turns the fact sheet into a narrative.",
+        "text": "Workers could not find the track.",
         "is_correct": false
       },
       {
-        "text": "It proves the volcano will erupt soon.",
+        "text": "The rain stopped too quickly.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Informative visuals can complement words by showing relationships that are easier to understand spatially.",
-      "hint": "Compare what the visual adds to what the words already tell you."
+      "summary": "The recurring puddle is the difficulty the council is trying to address.",
+      "hint": "Identify what keeps going wrong."
     },
     "curriculum_coverage": [
-      "E3"
+      "E2"
     ],
     "difficulty": 1,
     "sequence_priority": 17
@@ -736,41 +738,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "informative visual features",
-    "question": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which choice is the strongest response?",
-    "audio_prompt": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which choice is the strongest response?",
+    "stage": "analyse",
+    "skill": "problem-solution",
+    "question": "Read the text.\n\nAfter three days of heavy rain, water filled the low section of the walking track. The council first placed warning cones there, but the water returned after every storm. Workers later dug a shallow drain beside the track, and the puddle stopped forming.\n\nWhy are the warning cones an attempted rather than final solution?",
+    "audio_prompt": "Read the text.\n\nAfter three days of heavy rain, water filled the low section of the walking track. The council first placed warning cones there, but the water returned after every storm. Workers later dug a shallow drain beside the track, and the puddle stopped forming.\n\nWhy are the warning cones an attempted rather than final solution?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It replaces the need for any written explanation.",
-        "is_correct": false
-      },
-      {
-        "text": "It turns the fact sheet into a narrative.",
-        "is_correct": false
-      },
-      {
-        "text": "It proves the volcano will erupt soon.",
-        "is_correct": false
-      },
-      {
-        "text": "It adds spatial information that helps readers connect the named parts to their positions.",
+        "text": "They warned people but did not stop the water returning.",
         "is_correct": true
+      },
+      {
+        "text": "They made the rain heavier.",
+        "is_correct": false
+      },
+      {
+        "text": "They blocked the drain.",
+        "is_correct": false
+      },
+      {
+        "text": "They repaired the track permanently.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Informative visuals can complement words by showing relationships that are easier to understand spatially.",
-      "hint": "Compare what the visual adds to what the words already tell you."
+      "summary": "The cones managed safety temporarily but did not fix the cause of the puddle.",
+      "hint": "Check whether the first action actually removes the problem."
     },
     "curriculum_coverage": [
-      "E3"
+      "E2"
     ],
-    "difficulty": 1,
+    "difficulty": 3,
     "sequence_priority": 18
   },
   {
@@ -779,39 +781,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "informative visual features",
-    "question": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Why is “It adds spatial information that helps readers connect the named parts to their positions.” the strongest choice?",
-    "audio_prompt": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Why is “It adds spatial information that helps readers connect the named parts to their positions.” the strongest choice?",
+    "stage": "apply",
+    "skill": "problem-solution",
+    "question": "Read the text.\n\nAfter three days of heavy rain, water filled the low section of the walking track. The council first placed warning cones there, but the water returned after every storm. Workers later dug a shallow drain beside the track, and the puddle stopped forming.\n\nWhat was the more effective solution?",
+    "audio_prompt": "Read the text.\n\nAfter three days of heavy rain, water filled the low section of the walking track. The council first placed warning cones there, but the water returned after every storm. Workers later dug a shallow drain beside the track, and the puddle stopped forming.\n\nWhat was the more effective solution?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It avoids using evidence from the situation.",
-        "is_correct": false
-      },
-      {
-        "text": "It changes the task instead of responding to it.",
-        "is_correct": false
-      },
-      {
-        "text": "Informative visuals can complement words by showing relationships that are easier to understand spatially.",
+        "text": "Digging a shallow drain beside the track",
         "is_correct": true
       },
       {
-        "text": "It is longest, so it must be correct.",
+        "text": "Removing the walking track",
+        "is_correct": false
+      },
+      {
+        "text": "Waiting for summer",
+        "is_correct": false
+      },
+      {
+        "text": "Adding more cones",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Informative visuals can complement words by showing relationships that are easier to understand spatially.",
-      "hint": "Compare what the visual adds to what the words already tell you."
+      "summary": "The drain changed where water flowed, so the puddle stopped forming.",
+      "hint": "Find the action linked to the successful outcome."
     },
     "curriculum_coverage": [
-      "E3"
+      "E2"
     ],
     "difficulty": 2,
     "sequence_priority": 19
@@ -822,41 +824,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "informative visual features",
-    "question": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which choice should be rejected first because it does not meet the purpose of the task?",
-    "audio_prompt": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "stage": "analyse",
+    "skill": "text structure",
+    "question": "Read the text.\n\nAfter three days of heavy rain, water filled the low section of the walking track. The council first placed warning cones there, but the water returned after every storm. Workers later dug a shallow drain beside the track, and the puddle stopped forming.\n\nWhich statement best describes the organisation?",
+    "audio_prompt": "Read the text.\n\nAfter three days of heavy rain, water filled the low section of the walking track. The council first placed warning cones there, but the water returned after every storm. Workers later dug a shallow drain beside the track, and the puddle stopped forming.\n\nWhich statement best describes the organisation?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It proves the volcano will erupt soon.",
-        "is_correct": false
-      },
-      {
-        "text": "It replaces the need for any written explanation.",
+        "text": "Problem → temporary response → better solution",
         "is_correct": true
       },
       {
-        "text": "It adds spatial information that helps readers connect the named parts to their positions.",
+        "text": "Sequence of unrelated events",
         "is_correct": false
       },
       {
-        "text": "It turns the fact sheet into a narrative.",
+        "text": "Compare two tracks",
+        "is_correct": false
+      },
+      {
+        "text": "Description of a storm only",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“It replaces the need for any written explanation.” should be rejected because it does not meet the task as well as the evidence-based choice. Informative visuals can complement words by showing relationships that are easier to understand spatially.",
-      "hint": "Compare what the visual adds to what the words already tell you."
+      "summary": "The passage shows a problem, a limited first response and a successful later solution.",
+      "hint": "Follow how the response to the problem changes."
     },
     "curriculum_coverage": [
-      "E3"
+      "E2"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequence_priority": 20
   },
   {
@@ -865,39 +867,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "informative visual features",
-    "question": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which revision best improves “It replaces the need for any written explanation.”?",
-    "audio_prompt": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which revision best improves “It replaces the need for any written explanation.”?",
+    "stage": "apply",
+    "skill": "cause-effect",
+    "question": "Read the text.\n\nA row of native shrubs was planted beside the vegetable garden. The shrubs attracted more small insects. Because insect-eating birds followed the insects, the number of caterpillars on the vegetables fell.\n\nWhat happened because the shrubs attracted more insects?",
+    "audio_prompt": "Read the text.\n\nA row of native shrubs was planted beside the vegetable garden. The shrubs attracted more small insects. Because insect-eating birds followed the insects, the number of caterpillars on the vegetables fell.\n\nWhat happened because the shrubs attracted more insects?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It adds spatial information that helps readers connect the named parts to their positions.",
+        "text": "More insect-eating birds visited.",
         "is_correct": true
       },
       {
-        "text": "It replaces the need for any written explanation.",
+        "text": "The shrubs disappeared.",
         "is_correct": false
       },
       {
-        "text": "It turns the fact sheet into a narrative.",
+        "text": "The vegetables stopped growing.",
         "is_correct": false
       },
       {
-        "text": "It proves the volcano will erupt soon.",
+        "text": "The garden was moved.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Informative visuals can complement words by showing relationships that are easier to understand spatially.",
-      "hint": "Compare what the visual adds to what the words already tell you."
+      "summary": "The text states that birds followed the increased insects.",
+      "hint": "Trace what happened next in the chain."
     },
     "curriculum_coverage": [
-      "E3"
+      "E2"
     ],
     "difficulty": 2,
     "sequence_priority": 21
@@ -908,39 +910,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "informative visual features",
-    "question": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which clue should guide your decision?",
-    "audio_prompt": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which clue should guide your decision?",
+    "stage": "apply",
+    "skill": "cause-effect",
+    "question": "Read the text.\n\nA row of native shrubs was planted beside the vegetable garden. The shrubs attracted more small insects. Because insect-eating birds followed the insects, the number of caterpillars on the vegetables fell.\n\nWhat was the final effect in the chain?",
+    "audio_prompt": "Read the text.\n\nA row of native shrubs was planted beside the vegetable garden. The shrubs attracted more small insects. Because insect-eating birds followed the insects, the number of caterpillars on the vegetables fell.\n\nWhat was the final effect in the chain?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose the first familiar phrase.",
-        "is_correct": false
-      },
-      {
-        "text": "Prefer a vague answer so it can fit anything.",
-        "is_correct": false
-      },
-      {
-        "text": "Compare what the visual adds to what the words already tell you.",
+        "text": "Fewer caterpillars were found on the vegetables.",
         "is_correct": true
+      },
+      {
+        "text": "More shrubs were removed.",
+        "is_correct": false
+      },
+      {
+        "text": "The birds stopped eating insects.",
+        "is_correct": false
+      },
+      {
+        "text": "The garden became larger.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Informative visuals can complement words by showing relationships that are easier to understand spatially.",
-      "hint": "Compare what the visual adds to what the words already tell you."
+      "summary": "The causal chain ends with a fall in caterpillar numbers.",
+      "hint": "Follow the chain to its last result."
     },
     "curriculum_coverage": [
-      "E3"
+      "E2"
     ],
     "difficulty": 2,
     "sequence_priority": 22
@@ -951,39 +953,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "reflect",
-    "skill": "informative visual features",
-    "question": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? A student chooses “It turns the fact sheet into a narrative.”. Which feedback would best help them correct the choice?",
-    "audio_prompt": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? A student chooses “It turns the fact sheet into a narrative.”. Which feedback would best help them correct the choice?",
+    "stage": "analyse",
+    "skill": "cause-effect",
+    "question": "Read the text.\n\nA row of native shrubs was planted beside the vegetable garden. The shrubs attracted more small insects. Because insect-eating birds followed the insects, the number of caterpillars on the vegetables fell.\n\nWhich sequence best represents the causal chain?",
+    "audio_prompt": "Read the text.\n\nA row of native shrubs was planted beside the vegetable garden. The shrubs attracted more small insects. Because insect-eating birds followed the insects, the number of caterpillars on the vegetables fell.\n\nWhich sequence best represents the causal chain?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose a longer answer without checking meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the task context and focus only on spelling.",
-        "is_correct": false
-      },
-      {
-        "text": "Re-check the task and use this principle: Compare what the visual adds to what the words already tell you.",
+        "text": "native shrubs → more insects → more birds → fewer caterpillars",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because first choices should never change.",
+        "text": "fewer caterpillars → no insects → no shrubs",
+        "is_correct": false
+      },
+      {
+        "text": "birds → rain → shrubs → vegetables",
+        "is_correct": false
+      },
+      {
+        "text": "vegetables → shrubs → birds → insects",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Informative visuals can complement words by showing relationships that are easier to understand spatially.",
-      "hint": "Compare what the visual adds to what the words already tell you."
+      "summary": "The passage links each event to the next in that order.",
+      "hint": "Build the chain using evidence from the paragraph."
     },
     "curriculum_coverage": [
-      "E3"
+      "E2"
     ],
     "difficulty": 3,
     "sequence_priority": 23
@@ -995,40 +997,40 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "informative visual features",
-    "question": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which option applies the same skill accurately in this situation?",
-    "audio_prompt": "A fact sheet shows a labelled cross-section of a volcano beside a paragraph about magma and vents. What is the image doing? Which option applies the same skill accurately in this situation?",
+    "skill": "text structure",
+    "question": "Read the text.\n\nA row of native shrubs was planted beside the vegetable garden. The shrubs attracted more small insects. Because insect-eating birds followed the insects, the number of caterpillars on the vegetables fell.\n\nWhich structure is dominant?",
+    "audio_prompt": "Read the text.\n\nA row of native shrubs was planted beside the vegetable garden. The shrubs attracted more small insects. Because insect-eating birds followed the insects, the number of caterpillars on the vegetables fell.\n\nWhich structure is dominant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It proves the volcano will erupt soon.",
-        "is_correct": false
-      },
-      {
-        "text": "It adds spatial information that helps readers connect the named parts to their positions.",
+        "text": "Cause–effect",
         "is_correct": true
       },
       {
-        "text": "It replaces the need for any written explanation.",
+        "text": "Compare–contrast",
         "is_correct": false
       },
       {
-        "text": "It turns the fact sheet into a narrative.",
+        "text": "Problem–solution",
+        "is_correct": false
+      },
+      {
+        "text": "Descriptive",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Informative visuals can complement words by showing relationships that are easier to understand spatially.",
-      "hint": "Compare what the visual adds to what the words already tell you."
+      "summary": "The ideas are organised around what caused later changes.",
+      "hint": "Ask whether the paragraph explains reasons and results."
     },
     "curriculum_coverage": [
-      "E3"
+      "E2"
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequence_priority": 24
   },
   {
@@ -1038,38 +1040,37 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "persuasive text features",
-    "question": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which option best demonstrates the skill?",
-    "audio_prompt": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which option best demonstrates the skill?",
+    "skill": "sequential structure",
+    "question": "Read the text.\n\nFirst rinse the reusable jar. Next spoon in two layers of gravel. Then add potting mix and a small fern. Finally mist the soil and place the jar where it gets indirect light.\n\nWhich structure is dominant?",
+    "audio_prompt": "Read the text.\n\nFirst rinse the reusable jar. Next spoon in two layers of gravel. Then add potting mix and a small fern. Finally mist the soil and place the jar where it gets indirect light.\n\nWhich structure is dominant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A direct call to action linked to a reason.",
+        "text": "Sequential",
         "is_correct": true
       },
       {
-        "text": "A setting description that builds suspense.",
+        "text": "Cause–effect",
         "is_correct": false
       },
       {
-        "text": "A neutral glossary of bottle materials only.",
+        "text": "Compare–contrast",
         "is_correct": false
       },
       {
-        "text": "A chronological recount of yesterday’s lunch.",
+        "text": "Problem–solution",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Persuasive texts often make a position clear and support a requested action with reasons or evidence.",
-      "hint": "Look for language that asks the audience to think or act in a particular way."
+      "summary": "The text gives steps in a particular order.",
+      "hint": "Look for ordered actions."
     },
     "curriculum_coverage": [
-      "E1",
       "E2"
     ],
     "difficulty": 1,
@@ -1082,38 +1083,37 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "persuasive text features",
-    "question": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which choice is the strongest response?",
-    "audio_prompt": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which choice is the strongest response?",
+    "skill": "signal words",
+    "question": "Read the text.\n\nFirst rinse the reusable jar. Next spoon in two layers of gravel. Then add potting mix and a small fern. Finally mist the soil and place the jar where it gets indirect light.\n\nWhich words most clearly reveal the structure?",
+    "audio_prompt": "Read the text.\n\nFirst rinse the reusable jar. Next spoon in two layers of gravel. Then add potting mix and a small fern. Finally mist the soil and place the jar where it gets indirect light.\n\nWhich words most clearly reveal the structure?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A setting description that builds suspense.",
-        "is_correct": false
-      },
-      {
-        "text": "A neutral glossary of bottle materials only.",
-        "is_correct": false
-      },
-      {
-        "text": "A chronological recount of yesterday’s lunch.",
-        "is_correct": false
-      },
-      {
-        "text": "A direct call to action linked to a reason.",
+        "text": "First, next, then, finally",
         "is_correct": true
+      },
+      {
+        "text": "jar, gravel, fern, soil",
+        "is_correct": false
+      },
+      {
+        "text": "rinse, spoon, add, mist",
+        "is_correct": false
+      },
+      {
+        "text": "small, reusable, indirect, two",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Persuasive texts often make a position clear and support a requested action with reasons or evidence.",
-      "hint": "Look for language that asks the audience to think or act in a particular way."
+      "summary": "The sequence words show the order of the procedure.",
+      "hint": "Look for language that tells what comes before and after."
     },
     "curriculum_coverage": [
-      "E1",
       "E2"
     ],
     "difficulty": 1,
@@ -1125,39 +1125,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "persuasive text features",
-    "question": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Why is “A direct call to action linked to a reason.” the strongest choice?",
-    "audio_prompt": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Why is “A direct call to action linked to a reason.” the strongest choice?",
+    "stage": "apply",
+    "skill": "purpose and structure",
+    "question": "Read the text.\n\nFirst rinse the reusable jar. Next spoon in two layers of gravel. Then add potting mix and a small fern. Finally mist the soil and place the jar where it gets indirect light.\n\nWhy does this structure suit the text’s purpose?",
+    "audio_prompt": "Read the text.\n\nFirst rinse the reusable jar. Next spoon in two layers of gravel. Then add potting mix and a small fern. Finally mist the soil and place the jar where it gets indirect light.\n\nWhy does this structure suit the text’s purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It avoids using evidence from the situation.",
-        "is_correct": false
-      },
-      {
-        "text": "It changes the task instead of responding to it.",
-        "is_correct": false
-      },
-      {
-        "text": "Persuasive texts often make a position clear and support a requested action with reasons or evidence.",
+        "text": "Readers need to know the order in which to complete the steps.",
         "is_correct": true
       },
       {
-        "text": "It is longest, so it must be correct.",
+        "text": "Readers need to compare two jars.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers need to decide whether jars are good or bad.",
+        "is_correct": false
+      },
+      {
+        "text": "Readers need to imagine a fantasy garden.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Persuasive texts often make a position clear and support a requested action with reasons or evidence.",
-      "hint": "Look for language that asks the audience to think or act in a particular way."
+      "summary": "Procedures use sequence so readers can carry out actions correctly.",
+      "hint": "Connect the order to what the reader must do."
     },
     "curriculum_coverage": [
-      "E1",
       "E2"
     ],
     "difficulty": 2,
@@ -1169,42 +1168,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "persuasive text features",
-    "question": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which choice should be rejected first because it does not meet the purpose of the task?",
-    "audio_prompt": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "stage": "analyse",
+    "skill": "revision",
+    "question": "Read the text.\n\nFirst rinse the reusable jar. Next spoon in two layers of gravel. Then add potting mix and a small fern. Finally mist the soil and place the jar where it gets indirect light.\n\nWhich change would make the procedure harder to follow?",
+    "audio_prompt": "Read the text.\n\nFirst rinse the reusable jar. Next spoon in two layers of gravel. Then add potting mix and a small fern. Finally mist the soil and place the jar where it gets indirect light.\n\nWhich change would make the procedure harder to follow?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A chronological recount of yesterday’s lunch.",
-        "is_correct": false
-      },
-      {
-        "text": "A setting description that builds suspense.",
+        "text": "Removing the order words and mixing the steps",
         "is_correct": true
       },
       {
-        "text": "A direct call to action linked to a reason.",
+        "text": "Adding a short materials list",
         "is_correct": false
       },
       {
-        "text": "A neutral glossary of bottle materials only.",
+        "text": "Numbering the steps",
+        "is_correct": false
+      },
+      {
+        "text": "Keeping each step in a separate sentence",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“A setting description that builds suspense.” should be rejected because it does not meet the task as well as the evidence-based choice. Persuasive texts often make a position clear and support a requested action with reasons or evidence.",
-      "hint": "Look for language that asks the audience to think or act in a particular way."
+      "summary": "Removing order and mixing steps weakens the structure needed for a procedure.",
+      "hint": "Choose the revision that damages navigation and order."
     },
     "curriculum_coverage": [
-      "E1",
       "E2"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequence_priority": 28
   },
   {
@@ -1213,42 +1211,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "persuasive text features",
-    "question": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which revision best improves “A setting description that builds suspense.”?",
-    "audio_prompt": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which revision best improves “A setting description that builds suspense.”?",
+    "stage": "recognise",
+    "skill": "descriptive structure",
+    "question": "Read the text.\n\nThe spinifex hopping-mouse has large dark eyes, long back feet and a tail longer than its body. Its pale fur blends with sandy ground. It lives in dry inland areas and often shelters in deep burrows during the day.\n\nWhich structure is dominant?",
+    "audio_prompt": "Read the text.\n\nThe spinifex hopping-mouse has large dark eyes, long back feet and a tail longer than its body. Its pale fur blends with sandy ground. It lives in dry inland areas and often shelters in deep burrows during the day.\n\nWhich structure is dominant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A direct call to action linked to a reason.",
+        "text": "Descriptive",
         "is_correct": true
       },
       {
-        "text": "A setting description that builds suspense.",
+        "text": "Problem–solution",
         "is_correct": false
       },
       {
-        "text": "A neutral glossary of bottle materials only.",
+        "text": "Sequential",
         "is_correct": false
       },
       {
-        "text": "A chronological recount of yesterday’s lunch.",
+        "text": "Compare–contrast",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Persuasive texts often make a position clear and support a requested action with reasons or evidence.",
-      "hint": "Look for language that asks the audience to think or act in a particular way."
+      "summary": "The paragraph groups details about one animal’s appearance and habitat.",
+      "hint": "Ask whether the text mainly lists characteristics of one topic."
     },
     "curriculum_coverage": [
-      "E1",
       "E2"
     ],
-    "difficulty": 2,
+    "difficulty": 1,
     "sequence_priority": 29
   },
   {
@@ -1257,39 +1254,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "persuasive text features",
-    "question": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which clue should guide your decision?",
-    "audio_prompt": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which clue should guide your decision?",
+    "stage": "apply",
+    "skill": "descriptive details",
+    "question": "Read the text.\n\nThe spinifex hopping-mouse has large dark eyes, long back feet and a tail longer than its body. Its pale fur blends with sandy ground. It lives in dry inland areas and often shelters in deep burrows during the day.\n\nWhich detail describes appearance rather than habitat?",
+    "audio_prompt": "Read the text.\n\nThe spinifex hopping-mouse has large dark eyes, long back feet and a tail longer than its body. Its pale fur blends with sandy ground. It lives in dry inland areas and often shelters in deep burrows during the day.\n\nWhich detail describes appearance rather than habitat?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose the first familiar phrase.",
-        "is_correct": false
-      },
-      {
-        "text": "Prefer a vague answer so it can fit anything.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for language that asks the audience to think or act in a particular way.",
+        "text": "It has large dark eyes and long back feet.",
         "is_correct": true
+      },
+      {
+        "text": "It lives in dry inland areas.",
+        "is_correct": false
+      },
+      {
+        "text": "It shelters in burrows during the day.",
+        "is_correct": false
+      },
+      {
+        "text": "It is found inland.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Persuasive texts often make a position clear and support a requested action with reasons or evidence.",
-      "hint": "Look for language that asks the audience to think or act in a particular way."
+      "summary": "Eyes and feet describe what the animal looks like.",
+      "hint": "Separate physical features from where or how it lives."
     },
     "curriculum_coverage": [
-      "E1",
       "E2"
     ],
     "difficulty": 2,
@@ -1301,42 +1297,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "reflect",
-    "skill": "persuasive text features",
-    "question": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? A student chooses “A neutral glossary of bottle materials only.”. Which feedback would best help them correct the choice?",
-    "audio_prompt": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? A student chooses “A neutral glossary of bottle materials only.”. Which feedback would best help them correct the choice?",
+    "stage": "apply",
+    "skill": "visual feature",
+    "question": "Read the text.\n\nThe spinifex hopping-mouse has large dark eyes, long back feet and a tail longer than its body. Its pale fur blends with sandy ground. It lives in dry inland areas and often shelters in deep burrows during the day.\n\nWhich visual would best complement this paragraph?",
+    "audio_prompt": "Read the text.\n\nThe spinifex hopping-mouse has large dark eyes, long back feet and a tail longer than its body. Its pale fur blends with sandy ground. It lives in dry inland areas and often shelters in deep burrows during the day.\n\nWhich visual would best complement this paragraph?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose a longer answer without checking meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the task context and focus only on spelling.",
-        "is_correct": false
-      },
-      {
-        "text": "Re-check the task and use this principle: Look for language that asks the audience to think or act in a particular way.",
+        "text": "A labelled photograph showing the mouse’s long feet, tail and fur colour",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because first choices should never change.",
+        "text": "A graph of school lunch choices",
+        "is_correct": false
+      },
+      {
+        "text": "A map of world oceans",
+        "is_correct": false
+      },
+      {
+        "text": "A poster asking people to vote",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Persuasive texts often make a position clear and support a requested action with reasons or evidence.",
-      "hint": "Look for language that asks the audience to think or act in a particular way."
+      "summary": "A labelled image would add visual detail about the physical features described.",
+      "hint": "Choose a visual that directly supports the topic."
     },
     "curriculum_coverage": [
-      "E1",
-      "E2"
+      "E3"
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequence_priority": 31
   },
   {
@@ -1345,39 +1340,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "persuasive text features",
-    "question": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which option applies the same skill accurately in this situation?",
-    "audio_prompt": "A poster says, “Choose refillable bottles: one small change can reduce plastic waste,” beside a bold heading and an image of reusable bottles. Which feature most supports its persuasive purpose? Which option applies the same skill accurately in this situation?",
+    "stage": "analyse",
+    "skill": "structure evidence",
+    "question": "Read the text.\n\nThe spinifex hopping-mouse has large dark eyes, long back feet and a tail longer than its body. Its pale fur blends with sandy ground. It lives in dry inland areas and often shelters in deep burrows during the day.\n\nWhy is this not mainly cause–effect?",
+    "audio_prompt": "Read the text.\n\nThe spinifex hopping-mouse has large dark eyes, long back feet and a tail longer than its body. Its pale fur blends with sandy ground. It lives in dry inland areas and often shelters in deep burrows during the day.\n\nWhy is this not mainly cause–effect?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A chronological recount of yesterday’s lunch.",
-        "is_correct": false
-      },
-      {
-        "text": "A direct call to action linked to a reason.",
+        "text": "Most sentences describe features and habitat rather than explaining a chain of reasons and results.",
         "is_correct": true
       },
       {
-        "text": "A setting description that builds suspense.",
+        "text": "It contains no verbs.",
         "is_correct": false
       },
       {
-        "text": "A neutral glossary of bottle materials only.",
+        "text": "It has more than one sentence.",
+        "is_correct": false
+      },
+      {
+        "text": "Animals cannot appear in cause–effect texts.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Persuasive texts often make a position clear and support a requested action with reasons or evidence.",
-      "hint": "Look for language that asks the audience to think or act in a particular way."
+      "summary": "Dominant structure depends on how most ideas are organised, not the topic.",
+      "hint": "Look at what most of the sentences are doing."
     },
     "curriculum_coverage": [
-      "E1",
       "E2"
     ],
     "difficulty": 3,
@@ -1390,35 +1384,35 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "structure and purpose",
-    "question": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which option best demonstrates the skill?",
-    "audio_prompt": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which option best demonstrates the skill?",
+    "skill": "navigation features",
+    "question": "Read the text.\n\nA digital article about the Great Barrier Reef has a contents menu, bold key terms, photographs with captions and a map showing reef locations along the Queensland coast.\n\nWhat is the main purpose of the contents menu?",
+    "audio_prompt": "Read the text.\n\nA digital article about the Great Barrier Reef has a contents menu, bold key terms, photographs with captions and a map showing reef locations along the Queensland coast.\n\nWhat is the main purpose of the contents menu?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The list shows what is needed and the numbered steps show the order for carrying out the procedure.",
+        "text": "To help readers jump to the section they need",
         "is_correct": true
       },
       {
-        "text": "The structure creates imaginary characters.",
+        "text": "To make the article fictional",
         "is_correct": false
       },
       {
-        "text": "The numbers are decorative and do not affect use.",
+        "text": "To persuade readers to buy a boat",
         "is_correct": false
       },
       {
-        "text": "The list is mainly designed to express an opinion.",
+        "text": "To replace all headings",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Characteristic text structures are chosen because they help a text achieve its purpose.",
-      "hint": "Ask why this structure makes the text easier to use for its intended purpose."
+      "summary": "A contents menu helps readers navigate a longer text efficiently.",
+      "hint": "Think about moving around the article."
     },
     "curriculum_coverage": [
       "E2"
@@ -1433,35 +1427,35 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "structure and purpose",
-    "question": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which choice is the strongest response?",
-    "audio_prompt": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which choice is the strongest response?",
+    "skill": "navigation features",
+    "question": "Read the text.\n\nA digital article about the Great Barrier Reef has a contents menu, bold key terms, photographs with captions and a map showing reef locations along the Queensland coast.\n\nWhy might key terms be bold?",
+    "audio_prompt": "Read the text.\n\nA digital article about the Great Barrier Reef has a contents menu, bold key terms, photographs with captions and a map showing reef locations along the Queensland coast.\n\nWhy might key terms be bold?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The structure creates imaginary characters.",
-        "is_correct": false
-      },
-      {
-        "text": "The numbers are decorative and do not affect use.",
-        "is_correct": false
-      },
-      {
-        "text": "The list is mainly designed to express an opinion.",
-        "is_correct": false
-      },
-      {
-        "text": "The list shows what is needed and the numbered steps show the order for carrying out the procedure.",
+        "text": "To draw attention to important vocabulary",
         "is_correct": true
+      },
+      {
+        "text": "To show the terms are jokes",
+        "is_correct": false
+      },
+      {
+        "text": "To prove they are opinions",
+        "is_correct": false
+      },
+      {
+        "text": "To indicate they must be skipped",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Characteristic text structures are chosen because they help a text achieve its purpose.",
-      "hint": "Ask why this structure makes the text easier to use for its intended purpose."
+      "summary": "Bold type can highlight vocabulary readers may need to notice or define.",
+      "hint": "Ask what the formatting makes stand out."
     },
     "curriculum_coverage": [
       "E2"
@@ -1475,39 +1469,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "structure and purpose",
-    "question": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Why is “The list shows what is needed and the numbered steps show the order for carrying out the procedure.” the strongest choice?",
-    "audio_prompt": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Why is “The list shows what is needed and the numbered steps show the order for carrying out the procedure.” the strongest choice?",
+    "stage": "apply",
+    "skill": "visual features",
+    "question": "Read the text.\n\nA digital article about the Great Barrier Reef has a contents menu, bold key terms, photographs with captions and a map showing reef locations along the Queensland coast.\n\nWhat does the map contribute?",
+    "audio_prompt": "Read the text.\n\nA digital article about the Great Barrier Reef has a contents menu, bold key terms, photographs with captions and a map showing reef locations along the Queensland coast.\n\nWhat does the map contribute?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It avoids using evidence from the situation.",
-        "is_correct": false
-      },
-      {
-        "text": "It changes the task instead of responding to it.",
-        "is_correct": false
-      },
-      {
-        "text": "Characteristic text structures are chosen because they help a text achieve its purpose.",
+        "text": "It shows where reef locations are situated geographically.",
         "is_correct": true
       },
       {
-        "text": "It is longest, so it must be correct.",
+        "text": "It tells a fictional story about a reef.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives step-by-step diving instructions.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves every reef is the same size.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Characteristic text structures are chosen because they help a text achieve its purpose.",
-      "hint": "Ask why this structure makes the text easier to use for its intended purpose."
+      "summary": "The map adds spatial information that prose may not show as quickly.",
+      "hint": "Ask what location information the visual makes clear."
     },
     "curriculum_coverage": [
-      "E2"
+      "E3"
     ],
     "difficulty": 2,
     "sequence_priority": 35
@@ -1518,39 +1512,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "structure and purpose",
-    "question": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which choice should be rejected first because it does not meet the purpose of the task?",
-    "audio_prompt": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "stage": "apply",
+    "skill": "multimodal features",
+    "question": "Read the text.\n\nA digital article about the Great Barrier Reef has a contents menu, bold key terms, photographs with captions and a map showing reef locations along the Queensland coast.\n\nWhy are captions useful beside photographs?",
+    "audio_prompt": "Read the text.\n\nA digital article about the Great Barrier Reef has a contents menu, bold key terms, photographs with captions and a map showing reef locations along the Queensland coast.\n\nWhy are captions useful beside photographs?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The list is mainly designed to express an opinion.",
-        "is_correct": false
-      },
-      {
-        "text": "The structure creates imaginary characters.",
+        "text": "They identify or explain what the reader is seeing.",
         "is_correct": true
       },
       {
-        "text": "The list shows what is needed and the numbered steps show the order for carrying out the procedure.",
+        "text": "They turn the article into a persuasive speech.",
         "is_correct": false
       },
       {
-        "text": "The numbers are decorative and do not affect use.",
+        "text": "They make the photographs decorative only.",
+        "is_correct": false
+      },
+      {
+        "text": "They replace the need for any facts.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“The structure creates imaginary characters.” should be rejected because it does not meet the task as well as the evidence-based choice. Characteristic text structures are chosen because they help a text achieve its purpose.",
-      "hint": "Ask why this structure makes the text easier to use for its intended purpose."
+      "summary": "Captions connect an image to specific factual information.",
+      "hint": "Think about how words help interpret a visual."
     },
     "curriculum_coverage": [
-      "E2"
+      "E3"
     ],
     "difficulty": 2,
     "sequence_priority": 36
@@ -1561,41 +1555,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "structure and purpose",
-    "question": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which revision best improves “The structure creates imaginary characters.”?",
-    "audio_prompt": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which revision best improves “The structure creates imaginary characters.”?",
+    "stage": "recognise",
+    "skill": "persuasive purpose",
+    "question": "Read the text.\n\nChoose a litter-free lunch on Wednesday. Reusable containers can reduce the wrappers left in our bins. Last week, our class filled two whole bins with single-use packaging. A small bar chart shows wrapper counts from Monday to Friday.\n\nWhat is the writer’s main purpose?",
+    "audio_prompt": "Read the text.\n\nChoose a litter-free lunch on Wednesday. Reusable containers can reduce the wrappers left in our bins. Last week, our class filled two whole bins with single-use packaging. A small bar chart shows wrapper counts from Monday to Friday.\n\nWhat is the writer’s main purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The list shows what is needed and the numbered steps show the order for carrying out the procedure.",
+        "text": "To persuade students to use reusable lunch containers",
         "is_correct": true
       },
       {
-        "text": "The structure creates imaginary characters.",
+        "text": "To explain how plastic is manufactured",
         "is_correct": false
       },
       {
-        "text": "The numbers are decorative and do not affect use.",
+        "text": "To entertain with a lunch story",
         "is_correct": false
       },
       {
-        "text": "The list is mainly designed to express an opinion.",
+        "text": "To describe five weekdays",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Characteristic text structures are chosen because they help a text achieve its purpose.",
-      "hint": "Ask why this structure makes the text easier to use for its intended purpose."
+      "summary": "The text asks readers to take an action and supports it with a reason.",
+      "hint": "Look for a call to action and supporting evidence."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 2,
+    "difficulty": 1,
     "sequence_priority": 37
   },
   {
@@ -1604,36 +1598,36 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "structure and purpose",
-    "question": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which clue should guide your decision?",
-    "audio_prompt": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which clue should guide your decision?",
+    "stage": "apply",
+    "skill": "evidence",
+    "question": "Read the text.\n\nChoose a litter-free lunch on Wednesday. Reusable containers can reduce the wrappers left in our bins. Last week, our class filled two whole bins with single-use packaging. A small bar chart shows wrapper counts from Monday to Friday.\n\nWhich sentence provides evidence for the persuasive claim?",
+    "audio_prompt": "Read the text.\n\nChoose a litter-free lunch on Wednesday. Reusable containers can reduce the wrappers left in our bins. Last week, our class filled two whole bins with single-use packaging. A small bar chart shows wrapper counts from Monday to Friday.\n\nWhich sentence provides evidence for the persuasive claim?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose the first familiar phrase.",
-        "is_correct": false
-      },
-      {
-        "text": "Prefer a vague answer so it can fit anything.",
-        "is_correct": false
-      },
-      {
-        "text": "Ask why this structure makes the text easier to use for its intended purpose.",
+        "text": "Last week, our class filled two whole bins with single-use packaging.",
         "is_correct": true
+      },
+      {
+        "text": "Choose a litter-free lunch on Wednesday.",
+        "is_correct": false
+      },
+      {
+        "text": "Reusable containers can reduce wrappers.",
+        "is_correct": false
+      },
+      {
+        "text": "Wednesday comes after Tuesday.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Characteristic text structures are chosen because they help a text achieve its purpose.",
-      "hint": "Ask why this structure makes the text easier to use for its intended purpose."
+      "summary": "The two-bin detail is specific evidence showing the size of the waste problem.",
+      "hint": "Find the measurable information."
     },
     "curriculum_coverage": [
       "E2"
@@ -1647,39 +1641,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "reflect",
-    "skill": "structure and purpose",
-    "question": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? A student chooses “The numbers are decorative and do not affect use.”. Which feedback would best help them correct the choice?",
-    "audio_prompt": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? A student chooses “The numbers are decorative and do not affect use.”. Which feedback would best help them correct the choice?",
+    "stage": "analyse",
+    "skill": "visual evidence",
+    "question": "Read the text.\n\nChoose a litter-free lunch on Wednesday. Reusable containers can reduce the wrappers left in our bins. Last week, our class filled two whole bins with single-use packaging. A small bar chart shows wrapper counts from Monday to Friday.\n\nHow can the bar chart strengthen the text?",
+    "audio_prompt": "Read the text.\n\nChoose a litter-free lunch on Wednesday. Reusable containers can reduce the wrappers left in our bins. Last week, our class filled two whole bins with single-use packaging. A small bar chart shows wrapper counts from Monday to Friday.\n\nHow can the bar chart strengthen the text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose a longer answer without checking meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the task context and focus only on spelling.",
-        "is_correct": false
-      },
-      {
-        "text": "Re-check the task and use this principle: Ask why this structure makes the text easier to use for its intended purpose.",
+        "text": "It can show the pattern of wrapper counts as evidence readers can compare.",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because first choices should never change.",
+        "text": "It makes the message imaginary.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the call to action.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves reusable containers are free.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Characteristic text structures are chosen because they help a text achieve its purpose.",
-      "hint": "Ask why this structure makes the text easier to use for its intended purpose."
+      "summary": "A relevant chart can support a persuasive message with visible evidence.",
+      "hint": "Ask how the visual supports the reason."
     },
     "curriculum_coverage": [
-      "E2"
+      "E3"
     ],
     "difficulty": 3,
     "sequence_priority": 39
@@ -1690,39 +1684,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "structure and purpose",
-    "question": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which option applies the same skill accurately in this situation?",
-    "audio_prompt": "A recipe has an ingredient list followed by numbered steps. Which explanation best connects structure to purpose? Which option applies the same skill accurately in this situation?",
+    "stage": "analyse",
+    "skill": "purpose-feature link",
+    "question": "Read the text.\n\nChoose a litter-free lunch on Wednesday. Reusable containers can reduce the wrappers left in our bins. Last week, our class filled two whole bins with single-use packaging. A small bar chart shows wrapper counts from Monday to Friday.\n\nWhich combination best explains how the text persuades?",
+    "audio_prompt": "Read the text.\n\nChoose a litter-free lunch on Wednesday. Reusable containers can reduce the wrappers left in our bins. Last week, our class filled two whole bins with single-use packaging. A small bar chart shows wrapper counts from Monday to Friday.\n\nWhich combination best explains how the text persuades?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The list is mainly designed to express an opinion.",
-        "is_correct": false
-      },
-      {
-        "text": "The list shows what is needed and the numbered steps show the order for carrying out the procedure.",
+        "text": "call to action + reason + specific evidence",
         "is_correct": true
       },
       {
-        "text": "The structure creates imaginary characters.",
+        "text": "character + setting + plot twist",
         "is_correct": false
       },
       {
-        "text": "The numbers are decorative and do not affect use.",
+        "text": "heading + glossary only",
+        "is_correct": false
+      },
+      {
+        "text": "steps + ingredients",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Characteristic text structures are chosen because they help a text achieve its purpose.",
-      "hint": "Ask why this structure makes the text easier to use for its intended purpose."
+      "summary": "The text asks readers to act, explains why and supplies evidence.",
+      "hint": "Identify the features that influence an audience."
     },
     "curriculum_coverage": [
-      "E2"
+      "E2",
+      "E3"
     ],
     "difficulty": 3,
     "sequence_priority": 40
@@ -1734,39 +1729,38 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "multimodal text features",
-    "question": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which option best demonstrates the skill?",
-    "audio_prompt": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which option best demonstrates the skill?",
+    "skill": "informative purpose",
+    "question": "Read the text.\n\nThe moon jellyfish has a nearly transparent bell with four pale rings visible inside. It drifts through coastal water and uses short tentacles to catch tiny animals. A close-up photograph shows the four rings mentioned in the paragraph.\n\nWhat is the text mainly doing?",
+    "audio_prompt": "Read the text.\n\nThe moon jellyfish has a nearly transparent bell with four pale rings visible inside. It drifts through coastal water and uses short tentacles to catch tiny animals. A close-up photograph shows the four rings mentioned in the paragraph.\n\nWhat is the text mainly doing?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The paragraph explains, the caption identifies the photograph, and the timeline places events in sequence.",
+        "text": "Giving factual information about a moon jellyfish",
         "is_correct": true
       },
       {
-        "text": "All three features repeat exactly the same information.",
+        "text": "Trying to sell a jellyfish",
         "is_correct": false
       },
       {
-        "text": "The photograph alone proves every claim on the page.",
+        "text": "Telling a fantasy adventure",
         "is_correct": false
       },
       {
-        "text": "The timeline makes the page imaginative rather than informative.",
+        "text": "Giving steps for cooking",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Multimodal informative texts combine features that contribute different but connected kinds of information.",
-      "hint": "Identify what each mode contributes and how the parts work together."
+      "summary": "The paragraph describes factual characteristics and behaviour.",
+      "hint": "Ask whether the writer is explaining, persuading or entertaining."
     },
     "curriculum_coverage": [
-      "E2",
-      "E3"
+      "E2"
     ],
     "difficulty": 1,
     "sequence_priority": 41
@@ -1777,42 +1771,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "multimodal text features",
-    "question": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which choice is the strongest response?",
-    "audio_prompt": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which choice is the strongest response?",
+    "stage": "apply",
+    "skill": "descriptive structure",
+    "question": "Read the text.\n\nThe moon jellyfish has a nearly transparent bell with four pale rings visible inside. It drifts through coastal water and uses short tentacles to catch tiny animals. A close-up photograph shows the four rings mentioned in the paragraph.\n\nWhich structure is most important?",
+    "audio_prompt": "Read the text.\n\nThe moon jellyfish has a nearly transparent bell with four pale rings visible inside. It drifts through coastal water and uses short tentacles to catch tiny animals. A close-up photograph shows the four rings mentioned in the paragraph.\n\nWhich structure is most important?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "All three features repeat exactly the same information.",
-        "is_correct": false
-      },
-      {
-        "text": "The photograph alone proves every claim on the page.",
-        "is_correct": false
-      },
-      {
-        "text": "The timeline makes the page imaginative rather than informative.",
-        "is_correct": false
-      },
-      {
-        "text": "The paragraph explains, the caption identifies the photograph, and the timeline places events in sequence.",
+        "text": "Descriptive",
         "is_correct": true
+      },
+      {
+        "text": "Sequential",
+        "is_correct": false
+      },
+      {
+        "text": "Problem–solution",
+        "is_correct": false
+      },
+      {
+        "text": "Compare–contrast",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Multimodal informative texts combine features that contribute different but connected kinds of information.",
-      "hint": "Identify what each mode contributes and how the parts work together."
+      "summary": "The text lists characteristics of one subject.",
+      "hint": "Look at how the details are grouped."
     },
     "curriculum_coverage": [
-      "E2",
-      "E3"
+      "E2"
     ],
-    "difficulty": 1,
+    "difficulty": 2,
     "sequence_priority": 42
   },
   {
@@ -1821,39 +1814,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "multimodal text features",
-    "question": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Why is “The paragraph explains, the caption identifies the photograph, and the timeline places events in sequence.” the strongest choice?",
-    "audio_prompt": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Why is “The paragraph explains, the caption identifies the photograph, and the timeline places events in sequence.” the strongest choice?",
+    "stage": "apply",
+    "skill": "visual-text relationship",
+    "question": "Read the text.\n\nThe moon jellyfish has a nearly transparent bell with four pale rings visible inside. It drifts through coastal water and uses short tentacles to catch tiny animals. A close-up photograph shows the four rings mentioned in the paragraph.\n\nWhy is the close-up photograph useful?",
+    "audio_prompt": "Read the text.\n\nThe moon jellyfish has a nearly transparent bell with four pale rings visible inside. It drifts through coastal water and uses short tentacles to catch tiny animals. A close-up photograph shows the four rings mentioned in the paragraph.\n\nWhy is the close-up photograph useful?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It avoids using evidence from the situation.",
-        "is_correct": false
-      },
-      {
-        "text": "It changes the task instead of responding to it.",
-        "is_correct": false
-      },
-      {
-        "text": "Multimodal informative texts combine features that contribute different but connected kinds of information.",
+        "text": "It helps readers see the four rings described in the words.",
         "is_correct": true
       },
       {
-        "text": "It is longest, so it must be correct.",
+        "text": "It contradicts the paragraph.",
+        "is_correct": false
+      },
+      {
+        "text": "It asks readers to adopt a jellyfish.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the facts fictional.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Multimodal informative texts combine features that contribute different but connected kinds of information.",
-      "hint": "Identify what each mode contributes and how the parts work together."
+      "summary": "The photograph complements the description by showing a physical feature.",
+      "hint": "Connect the image to a detail in the words."
     },
     "curriculum_coverage": [
-      "E2",
       "E3"
     ],
     "difficulty": 2,
@@ -1865,42 +1857,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "multimodal text features",
-    "question": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which choice should be rejected first because it does not meet the purpose of the task?",
-    "audio_prompt": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "stage": "analyse",
+    "skill": "evidence reasoning",
+    "question": "Read the text.\n\nThe moon jellyfish has a nearly transparent bell with four pale rings visible inside. It drifts through coastal water and uses short tentacles to catch tiny animals. A close-up photograph shows the four rings mentioned in the paragraph.\n\nIf the photograph did not show four rings, what should a careful reader do?",
+    "audio_prompt": "Read the text.\n\nThe moon jellyfish has a nearly transparent bell with four pale rings visible inside. It drifts through coastal water and uses short tentacles to catch tiny animals. A close-up photograph shows the four rings mentioned in the paragraph.\n\nIf the photograph did not show four rings, what should a careful reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The timeline makes the page imaginative rather than informative.",
-        "is_correct": false
-      },
-      {
-        "text": "All three features repeat exactly the same information.",
+        "text": "Notice the mismatch and question whether the image or caption matches the text.",
         "is_correct": true
       },
       {
-        "text": "The paragraph explains, the caption identifies the photograph, and the timeline places events in sequence.",
+        "text": "Ignore the photograph automatically.",
         "is_correct": false
       },
       {
-        "text": "The photograph alone proves every claim on the page.",
+        "text": "Assume all jellyfish have no rings.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the paragraph into a story.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“All three features repeat exactly the same information.” should be rejected because it does not meet the task as well as the evidence-based choice. Multimodal informative texts combine features that contribute different but connected kinds of information.",
-      "hint": "Identify what each mode contributes and how the parts work together."
+      "summary": "Readers should compare words and visuals and notice when they do not support each other.",
+      "hint": "Use both modes critically."
     },
     "curriculum_coverage": [
-      "E2",
       "E3"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequence_priority": 44
   },
   {
@@ -1909,40 +1900,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "multimodal text features",
-    "question": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which revision best improves “All three features repeat exactly the same information.”?",
-    "audio_prompt": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which revision best improves “All three features repeat exactly the same information.”?",
+    "stage": "apply",
+    "skill": "cause-effect",
+    "question": "Read the text.\n\nThe first design for the class bird feeder had a flat roof. Rain soaked the seed, so the class added a sloping cover. After that, rainwater ran off and the seed stayed dry.\n\nWhat caused the seed to become wet?",
+    "audio_prompt": "Read the text.\n\nThe first design for the class bird feeder had a flat roof. Rain soaked the seed, so the class added a sloping cover. After that, rainwater ran off and the seed stayed dry.\n\nWhat caused the seed to become wet?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The paragraph explains, the caption identifies the photograph, and the timeline places events in sequence.",
+        "text": "Rain fell onto the feeder with the flat roof.",
         "is_correct": true
       },
       {
-        "text": "All three features repeat exactly the same information.",
+        "text": "The class added a sloping cover.",
         "is_correct": false
       },
       {
-        "text": "The photograph alone proves every claim on the page.",
+        "text": "The seed stayed dry.",
         "is_correct": false
       },
       {
-        "text": "The timeline makes the page imaginative rather than informative.",
+        "text": "Birds stopped visiting.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Multimodal informative texts combine features that contribute different but connected kinds of information.",
-      "hint": "Identify what each mode contributes and how the parts work together."
+      "summary": "The passage links the flat-roof design and rain with wet seed.",
+      "hint": "Identify the reason for the unwanted result."
     },
     "curriculum_coverage": [
-      "E2",
-      "E3"
+      "E2"
     ],
     "difficulty": 2,
     "sequence_priority": 45
@@ -1953,40 +1943,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "multimodal text features",
-    "question": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which clue should guide your decision?",
-    "audio_prompt": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which clue should guide your decision?",
+    "stage": "apply",
+    "skill": "problem-solution",
+    "question": "Read the text.\n\nThe first design for the class bird feeder had a flat roof. Rain soaked the seed, so the class added a sloping cover. After that, rainwater ran off and the seed stayed dry.\n\nWhat solution did the class use?",
+    "audio_prompt": "Read the text.\n\nThe first design for the class bird feeder had a flat roof. Rain soaked the seed, so the class added a sloping cover. After that, rainwater ran off and the seed stayed dry.\n\nWhat solution did the class use?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose the first familiar phrase.",
-        "is_correct": false
-      },
-      {
-        "text": "Prefer a vague answer so it can fit anything.",
-        "is_correct": false
-      },
-      {
-        "text": "Identify what each mode contributes and how the parts work together.",
+        "text": "They added a sloping cover.",
         "is_correct": true
+      },
+      {
+        "text": "They removed all the seed.",
+        "is_correct": false
+      },
+      {
+        "text": "They stopped observing birds.",
+        "is_correct": false
+      },
+      {
+        "text": "They painted the feeder.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Multimodal informative texts combine features that contribute different but connected kinds of information.",
-      "hint": "Identify what each mode contributes and how the parts work together."
+      "summary": "The sloping cover addressed the problem of rain soaking the seed.",
+      "hint": "Find the action taken to fix the problem."
     },
     "curriculum_coverage": [
-      "E2",
-      "E3"
+      "E2"
     ],
     "difficulty": 2,
     "sequence_priority": 46
@@ -1997,40 +1986,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
-    "stage": "reflect",
-    "skill": "multimodal text features",
-    "question": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? A student chooses “The photograph alone proves every claim on the page.”. Which feedback would best help them correct the choice?",
-    "audio_prompt": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? A student chooses “The photograph alone proves every claim on the page.”. Which feedback would best help them correct the choice?",
+    "stage": "analyse",
+    "skill": "combined structures",
+    "question": "Read the text.\n\nThe first design for the class bird feeder had a flat roof. Rain soaked the seed, so the class added a sloping cover. After that, rainwater ran off and the seed stayed dry.\n\nWhy could this passage be described using both cause–effect and problem–solution?",
+    "audio_prompt": "Read the text.\n\nThe first design for the class bird feeder had a flat roof. Rain soaked the seed, so the class added a sloping cover. After that, rainwater ran off and the seed stayed dry.\n\nWhy could this passage be described using both cause–effect and problem–solution?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose a longer answer without checking meaning.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the task context and focus only on spelling.",
-        "is_correct": false
-      },
-      {
-        "text": "Re-check the task and use this principle: Identify what each mode contributes and how the parts work together.",
+        "text": "It explains why the seed got wet and also how the class fixed the problem.",
         "is_correct": true
       },
       {
-        "text": "Keep the answer because first choices should never change.",
+        "text": "It compares two bird species.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a recipe.",
+        "is_correct": false
+      },
+      {
+        "text": "It only describes colour and size.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Multimodal informative texts combine features that contribute different but connected kinds of information.",
-      "hint": "Identify what each mode contributes and how the parts work together."
+      "summary": "A text can contain more than one structure when ideas have more than one relationship.",
+      "hint": "Look for both a cause/result link and a problem/response link."
     },
     "curriculum_coverage": [
-      "E2",
-      "E3"
+      "E2"
     ],
     "difficulty": 3,
     "sequence_priority": 47
@@ -2042,41 +2030,40 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "practice",
     "stage": "apply",
-    "skill": "multimodal text features",
-    "question": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which option applies the same skill accurately in this situation?",
-    "audio_prompt": "A museum webpage includes a short paragraph, a historical photograph with a caption and a timeline. Which statement best explains the combined features? Which option applies the same skill accurately in this situation?",
+    "skill": "dominant purpose",
+    "question": "Read the text.\n\nThe first design for the class bird feeder had a flat roof. Rain soaked the seed, so the class added a sloping cover. After that, rainwater ran off and the seed stayed dry.\n\nWhat is the likely purpose of the passage?",
+    "audio_prompt": "Read the text.\n\nThe first design for the class bird feeder had a flat roof. Rain soaked the seed, so the class added a sloping cover. After that, rainwater ran off and the seed stayed dry.\n\nWhat is the likely purpose of the passage?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "The timeline makes the page imaginative rather than informative.",
-        "is_correct": false
-      },
-      {
-        "text": "The paragraph explains, the caption identifies the photograph, and the timeline places events in sequence.",
+        "text": "To inform readers about how a design was improved",
         "is_correct": true
       },
       {
-        "text": "All three features repeat exactly the same information.",
+        "text": "To persuade readers to buy a feeder",
         "is_correct": false
       },
       {
-        "text": "The photograph alone proves every claim on the page.",
+        "text": "To entertain with an imaginary bird",
+        "is_correct": false
+      },
+      {
+        "text": "To advertise bird seed",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Multimodal informative texts combine features that contribute different but connected kinds of information.",
-      "hint": "Identify what each mode contributes and how the parts work together."
+      "summary": "The passage explains a real problem and design change.",
+      "hint": "Ask what readers are meant to understand from the events."
     },
     "curriculum_coverage": [
-      "E2",
-      "E3"
+      "E2"
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequence_priority": 48
   },
   {
@@ -2085,39 +2072,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "imaginative purpose",
-    "question": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which option is best?",
-    "audio_prompt": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which option is best?",
+    "stage": "apply",
+    "skill": "persuasive purpose",
+    "question": "Read the text.\n\nThe council wants more families to use the new bike path. A leaflet says, ‘Try the river route this weekend—six kilometres of separated path with rest stops along the way.’ A simple map marks the route and rest stops.\n\nWhat is the leaflet mainly trying to do?",
+    "audio_prompt": "Read the text.\n\nThe council wants more families to use the new bike path. A leaflet says, ‘Try the river route this weekend—six kilometres of separated path with rest stops along the way.’ A simple map marks the route and rest stops.\n\nWhat is the leaflet mainly trying to do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "They provide directions in exact order.",
-        "is_correct": false
-      },
-      {
-        "text": "They present a claim with supporting statistics.",
-        "is_correct": false
-      },
-      {
-        "text": "They develop characters and events so readers can follow an invented experience.",
+        "text": "Persuade families to try the bike path",
         "is_correct": true
       },
       {
-        "text": "They organise facts into categories.",
+        "text": "Explain how bicycles are manufactured",
+        "is_correct": false
+      },
+      {
+        "text": "Entertain with an imaginary journey",
+        "is_correct": false
+      },
+      {
+        "text": "Describe a river without a viewpoint",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.",
-      "hint": "Match the feature to the purpose it helps the text achieve."
+      "summary": "The leaflet uses an invitation plus benefits to encourage action.",
+      "hint": "Identify what the audience is being encouraged to do."
     },
     "curriculum_coverage": [
-      "E1"
+      "E2"
     ],
     "difficulty": 2,
     "sequence_priority": 1
@@ -2128,41 +2115,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "imaginative purpose",
-    "question": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which explanation best justifies “They develop characters and events so readers can follow an invented experience.”?",
-    "audio_prompt": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which explanation best justifies “They develop characters and events so readers can follow an invented experience.”?",
+    "stage": "analyse",
+    "skill": "visual feature",
+    "question": "Read the text.\n\nThe council wants more families to use the new bike path. A leaflet says, ‘Try the river route this weekend—six kilometres of separated path with rest stops along the way.’ A simple map marks the route and rest stops.\n\nHow does the map support the purpose?",
+    "audio_prompt": "Read the text.\n\nThe council wants more families to use the new bike path. A leaflet says, ‘Try the river route this weekend—six kilometres of separated path with rest stops along the way.’ A simple map marks the route and rest stops.\n\nHow does the map support the purpose?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It avoids using the information supplied.",
-        "is_correct": false
-      },
-      {
-        "text": "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.",
+        "text": "It helps families visualise the route and practical rest-stop locations.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It creates fictional characters.",
         "is_correct": false
       },
       {
-        "text": "It works by ignoring the purpose of the task.",
+        "text": "It proves everyone will enjoy cycling.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces the invitation.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.",
-      "hint": "Match the feature to the purpose it helps the text achieve."
+      "summary": "The map adds useful spatial information that makes the proposed action easier to understand.",
+      "hint": "Ask what practical information the visual adds."
     },
     "curriculum_coverage": [
-      "E1"
+      "E3"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequence_priority": 2
   },
   {
@@ -2172,40 +2159,40 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
     "stage": "apply",
-    "skill": "imaginative purpose",
-    "question": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which choice should be rejected first?",
-    "audio_prompt": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which choice should be rejected first?",
+    "skill": "persuasive features",
+    "question": "Read the text.\n\nThe council wants more families to use the new bike path. A leaflet says, ‘Try the river route this weekend—six kilometres of separated path with rest stops along the way.’ A simple map marks the route and rest stops.\n\nWhich feature is strongest evidence of persuasion?",
+    "audio_prompt": "Read the text.\n\nThe council wants more families to use the new bike path. A leaflet says, ‘Try the river route this weekend—six kilometres of separated path with rest stops along the way.’ A simple map marks the route and rest stops.\n\nWhich feature is strongest evidence of persuasion?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "They organise facts into categories.",
+        "text": "‘Try the river route this weekend’",
         "is_correct": true
       },
       {
-        "text": "They develop characters and events so readers can follow an invented experience.",
+        "text": "‘six kilometres’",
         "is_correct": false
       },
       {
-        "text": "They provide directions in exact order.",
+        "text": "‘rest stops’",
         "is_correct": false
       },
       {
-        "text": "They present a claim with supporting statistics.",
+        "text": "‘river route’",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“They organise facts into categories.” does not meet the task. Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.",
-      "hint": "Match the feature to the purpose it helps the text achieve."
+      "summary": "The imperative directly invites the audience to act.",
+      "hint": "Find the clearest call to action."
     },
     "curriculum_coverage": [
-      "E1"
+      "E2"
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequence_priority": 3
   },
   {
@@ -2214,41 +2201,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "imaginative purpose",
-    "question": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which principle should guide the final decision?",
-    "audio_prompt": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which principle should guide the final decision?",
+    "stage": "analyse",
+    "skill": "integrated analysis",
+    "question": "Read the text.\n\nThe council wants more families to use the new bike path. A leaflet says, ‘Try the river route this weekend—six kilometres of separated path with rest stops along the way.’ A simple map marks the route and rest stops.\n\nWhich statement best explains how the leaflet’s features work together?",
+    "audio_prompt": "Read the text.\n\nThe council wants more families to use the new bike path. A leaflet says, ‘Try the river route this weekend—six kilometres of separated path with rest stops along the way.’ A simple map marks the route and rest stops.\n\nWhich statement best explains how the leaflet’s features work together?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose the most complicated wording.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the audience or purpose.",
-        "is_correct": false
-      },
-      {
-        "text": "Use only the first word as a clue.",
-        "is_correct": false
-      },
-      {
-        "text": "Match the feature to the purpose it helps the text achieve.",
+        "text": "Invitation, route details and map make the suggestion both appealing and usable.",
         "is_correct": true
+      },
+      {
+        "text": "The map makes the text imaginative.",
+        "is_correct": false
+      },
+      {
+        "text": "The route details form a recipe.",
+        "is_correct": false
+      },
+      {
+        "text": "The leaflet is descriptive only.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.",
-      "hint": "Match the feature to the purpose it helps the text achieve."
+      "summary": "Words persuade while practical details and a map support the reader’s decision.",
+      "hint": "Combine purpose with the function of the visual."
     },
     "curriculum_coverage": [
-      "E1"
+      "E2",
+      "E3"
     ],
-    "difficulty": 3,
+    "difficulty": 4,
     "sequence_priority": 4
   },
   {
@@ -2257,36 +2245,36 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "online navigation",
-    "question": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which option is best?",
-    "audio_prompt": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which option is best?",
+    "stage": "apply",
+    "skill": "problem-solution",
+    "question": "Read the text.\n\nDuring a heatwave, the school garden wilted over weekends. Extra watering on Friday did not last. The class installed a slow-drip container beside each plant, and the soil remained damp until Monday.\n\nWhat was the problem?",
+    "audio_prompt": "Read the text.\n\nDuring a heatwave, the school garden wilted over weekends. Extra watering on Friday did not last. The class installed a slow-drip container beside each plant, and the soil remained damp until Monday.\n\nWhat was the problem?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "To create suspense about a fictional ending.",
-        "is_correct": false
-      },
-      {
-        "text": "To replace the need for clear paragraphs.",
-        "is_correct": false
-      },
-      {
-        "text": "To help readers navigate sections and access supporting information.",
+        "text": "Plants dried out over weekends.",
         "is_correct": true
       },
       {
-        "text": "To make all readers follow one fixed path.",
+        "text": "Containers were too colourful.",
+        "is_correct": false
+      },
+      {
+        "text": "Students watered too slowly.",
+        "is_correct": false
+      },
+      {
+        "text": "Monday arrived too early.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Navigation features help readers locate, move between and clarify information.",
-      "hint": "Think about what the reader can do more efficiently because of the feature."
+      "summary": "The repeated drying is the issue the class needed to solve.",
+      "hint": "Identify the difficulty before the response."
     },
     "curriculum_coverage": [
       "E2"
@@ -2300,41 +2288,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "online navigation",
-    "question": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which explanation best justifies “To help readers navigate sections and access supporting information.”?",
-    "audio_prompt": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which explanation best justifies “To help readers navigate sections and access supporting information.”?",
+    "stage": "analyse",
+    "skill": "problem-solution",
+    "question": "Read the text.\n\nDuring a heatwave, the school garden wilted over weekends. Extra watering on Friday did not last. The class installed a slow-drip container beside each plant, and the soil remained damp until Monday.\n\nWhy was extra Friday watering not the final solution?",
+    "audio_prompt": "Read the text.\n\nDuring a heatwave, the school garden wilted over weekends. Extra watering on Friday did not last. The class installed a slow-drip container beside each plant, and the soil remained damp until Monday.\n\nWhy was extra Friday watering not the final solution?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It avoids using the information supplied.",
-        "is_correct": false
-      },
-      {
-        "text": "Navigation features help readers locate, move between and clarify information.",
+        "text": "It did not keep the soil damp for the whole weekend.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It made the plants grow too quickly.",
         "is_correct": false
       },
       {
-        "text": "It works by ignoring the purpose of the task.",
+        "text": "It stopped the heatwave.",
+        "is_correct": false
+      },
+      {
+        "text": "It replaced the containers.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Navigation features help readers locate, move between and clarify information.",
-      "hint": "Think about what the reader can do more efficiently because of the feature."
+      "summary": "The first attempt did not fully solve the problem.",
+      "hint": "Check the outcome of the first response."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequence_priority": 6
   },
   {
@@ -2344,40 +2332,40 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
     "stage": "apply",
-    "skill": "online navigation",
-    "question": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which choice should be rejected first?",
-    "audio_prompt": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which choice should be rejected first?",
+    "skill": "solution",
+    "question": "Read the text.\n\nDuring a heatwave, the school garden wilted over weekends. Extra watering on Friday did not last. The class installed a slow-drip container beside each plant, and the soil remained damp until Monday.\n\nWhich action solved the problem more effectively?",
+    "audio_prompt": "Read the text.\n\nDuring a heatwave, the school garden wilted over weekends. Extra watering on Friday did not last. The class installed a slow-drip container beside each plant, and the soil remained damp until Monday.\n\nWhich action solved the problem more effectively?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "To make all readers follow one fixed path.",
+        "text": "Installing slow-drip containers",
         "is_correct": true
       },
       {
-        "text": "To help readers navigate sections and access supporting information.",
+        "text": "Removing the garden",
         "is_correct": false
       },
       {
-        "text": "To create suspense about a fictional ending.",
+        "text": "Skipping Friday watering",
         "is_correct": false
       },
       {
-        "text": "To replace the need for clear paragraphs.",
+        "text": "Moving Monday",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“To make all readers follow one fixed path.” does not meet the task. Navigation features help readers locate, move between and clarify information.",
-      "hint": "Think about what the reader can do more efficiently because of the feature."
+      "summary": "The slow-drip system kept moisture available longer.",
+      "hint": "Find the response linked to the successful result."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequence_priority": 7
   },
   {
@@ -2386,41 +2374,41 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "online navigation",
-    "question": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which principle should guide the final decision?",
-    "audio_prompt": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which principle should guide the final decision?",
+    "stage": "analyse",
+    "skill": "structure",
+    "question": "Read the text.\n\nDuring a heatwave, the school garden wilted over weekends. Extra watering on Friday did not last. The class installed a slow-drip container beside each plant, and the soil remained damp until Monday.\n\nWhich structure best describes the paragraph?",
+    "audio_prompt": "Read the text.\n\nDuring a heatwave, the school garden wilted over weekends. Extra watering on Friday did not last. The class installed a slow-drip container beside each plant, and the soil remained damp until Monday.\n\nWhich structure best describes the paragraph?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose the most complicated wording.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the audience or purpose.",
-        "is_correct": false
-      },
-      {
-        "text": "Use only the first word as a clue.",
-        "is_correct": false
-      },
-      {
-        "text": "Think about what the reader can do more efficiently because of the feature.",
+        "text": "Problem → unsuccessful attempt → improved solution",
         "is_correct": true
+      },
+      {
+        "text": "Compare–contrast",
+        "is_correct": false
+      },
+      {
+        "text": "Descriptive only",
+        "is_correct": false
+      },
+      {
+        "text": "Sequential recipe",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Navigation features help readers locate, move between and clarify information.",
-      "hint": "Think about what the reader can do more efficiently because of the feature."
+      "summary": "The paragraph centres on a problem and changing attempts to solve it.",
+      "hint": "Track the problem and responses."
     },
     "curriculum_coverage": [
       "E2"
     ],
-    "difficulty": 3,
+    "difficulty": 4,
     "sequence_priority": 8
   },
   {
@@ -2429,39 +2417,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "visual contribution",
-    "question": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which option is best?",
-    "audio_prompt": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which option is best?",
+    "stage": "apply",
+    "skill": "navigation",
+    "question": "Read the text.\n\nA facts page about echidnas includes the heading ‘Finding food’, a photograph with a caption, and this sentence: ‘Echidnas use strong claws to break into ant nests, then collect ants with a long sticky tongue.’\n\nWhat does the heading help the reader do?",
+    "audio_prompt": "Read the text.\n\nA facts page about echidnas includes the heading ‘Finding food’, a photograph with a caption, and this sentence: ‘Echidnas use strong claws to break into ant nests, then collect ants with a long sticky tongue.’\n\nWhat does the heading help the reader do?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It is only decorative because words already exist.",
-        "is_correct": false
-      },
-      {
-        "text": "It changes the report into a persuasive advertisement.",
-        "is_correct": false
-      },
-      {
-        "text": "It shows where different conditions are expected, adding location information to the written forecast.",
+        "text": "Locate information about how echidnas get food",
         "is_correct": true
       },
       {
-        "text": "It proves the forecast cannot change.",
+        "text": "Imagine a fictional echidna",
+        "is_correct": false
+      },
+      {
+        "text": "Decide whether echidnas are good pets",
+        "is_correct": false
+      },
+      {
+        "text": "Follow a recipe",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A visual can add location, comparison or pattern information that complements written explanation.",
-      "hint": "Ask what information is easier to see in the visual than in prose."
+      "summary": "The heading identifies the topic of the section.",
+      "hint": "Think about finding specific information quickly."
     },
     "curriculum_coverage": [
-      "E3"
+      "E2"
     ],
     "difficulty": 2,
     "sequence_priority": 9
@@ -2472,36 +2460,36 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "visual contribution",
-    "question": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which explanation best justifies “It shows where different conditions are expected, adding location information to the written forecast.”?",
-    "audio_prompt": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which explanation best justifies “It shows where different conditions are expected, adding location information to the written forecast.”?",
+    "stage": "apply",
+    "skill": "visual feature",
+    "question": "Read the text.\n\nA facts page about echidnas includes the heading ‘Finding food’, a photograph with a caption, and this sentence: ‘Echidnas use strong claws to break into ant nests, then collect ants with a long sticky tongue.’\n\nWhat is the main job of a caption under the photograph?",
+    "audio_prompt": "Read the text.\n\nA facts page about echidnas includes the heading ‘Finding food’, a photograph with a caption, and this sentence: ‘Echidnas use strong claws to break into ant nests, then collect ants with a long sticky tongue.’\n\nWhat is the main job of a caption under the photograph?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It avoids using the information supplied.",
-        "is_correct": false
-      },
-      {
-        "text": "A visual can add location, comparison or pattern information that complements written explanation.",
+        "text": "Identify or explain something shown in the image",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Turn the page into a story",
         "is_correct": false
       },
       {
-        "text": "It works by ignoring the purpose of the task.",
+        "text": "Replace every fact",
+        "is_correct": false
+      },
+      {
+        "text": "Tell readers to support echidnas",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A visual can add location, comparison or pattern information that complements written explanation.",
-      "hint": "Ask what information is easier to see in the visual than in prose."
+      "summary": "Captions help readers interpret images in relation to the text.",
+      "hint": "Ask what words beneath an image usually clarify."
     },
     "curriculum_coverage": [
       "E3"
@@ -2516,40 +2504,40 @@
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
     "stage": "apply",
-    "skill": "visual contribution",
-    "question": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which choice should be rejected first?",
-    "audio_prompt": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which choice should be rejected first?",
+    "skill": "sequence",
+    "question": "Read the text.\n\nA facts page about echidnas includes the heading ‘Finding food’, a photograph with a caption, and this sentence: ‘Echidnas use strong claws to break into ant nests, then collect ants with a long sticky tongue.’\n\nWhich word in the sentence most clearly shows order?",
+    "audio_prompt": "Read the text.\n\nA facts page about echidnas includes the heading ‘Finding food’, a photograph with a caption, and this sentence: ‘Echidnas use strong claws to break into ant nests, then collect ants with a long sticky tongue.’\n\nWhich word in the sentence most clearly shows order?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It proves the forecast cannot change.",
+        "text": "then",
         "is_correct": true
       },
       {
-        "text": "It shows where different conditions are expected, adding location information to the written forecast.",
+        "text": "strong",
         "is_correct": false
       },
       {
-        "text": "It is only decorative because words already exist.",
+        "text": "sticky",
         "is_correct": false
       },
       {
-        "text": "It changes the report into a persuasive advertisement.",
+        "text": "use",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“It proves the forecast cannot change.” does not meet the task. A visual can add location, comparison or pattern information that complements written explanation.",
-      "hint": "Ask what information is easier to see in the visual than in prose."
+      "summary": "‘Then’ shows that one action follows another.",
+      "hint": "Look for a word showing what happens next."
     },
     "curriculum_coverage": [
-      "E3"
+      "E2"
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequence_priority": 11
   },
   {
@@ -2558,41 +2546,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "visual contribution",
-    "question": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which principle should guide the final decision?",
-    "audio_prompt": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which principle should guide the final decision?",
+    "stage": "analyse",
+    "skill": "purpose features",
+    "question": "Read the text.\n\nA facts page about echidnas includes the heading ‘Finding food’, a photograph with a caption, and this sentence: ‘Echidnas use strong claws to break into ant nests, then collect ants with a long sticky tongue.’\n\nWhich statement best explains why these features suit an informative text?",
+    "audio_prompt": "Read the text.\n\nA facts page about echidnas includes the heading ‘Finding food’, a photograph with a caption, and this sentence: ‘Echidnas use strong claws to break into ant nests, then collect ants with a long sticky tongue.’\n\nWhich statement best explains why these features suit an informative text?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose the most complicated wording.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the audience or purpose.",
-        "is_correct": false
-      },
-      {
-        "text": "Use only the first word as a clue.",
-        "is_correct": false
-      },
-      {
-        "text": "Ask what information is easier to see in the visual than in prose.",
+        "text": "The heading organises information, the caption clarifies the image, and the sentence explains behaviour.",
         "is_correct": true
+      },
+      {
+        "text": "They mainly create suspense.",
+        "is_correct": false
+      },
+      {
+        "text": "They ask the reader to vote.",
+        "is_correct": false
+      },
+      {
+        "text": "They make the text a poem.",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A visual can add location, comparison or pattern information that complements written explanation.",
-      "hint": "Ask what information is easier to see in the visual than in prose."
+      "summary": "Each feature helps readers locate, interpret or understand factual information.",
+      "hint": "Explain how the features help the reader learn."
     },
     "curriculum_coverage": [
+      "E2",
       "E3"
     ],
-    "difficulty": 3,
+    "difficulty": 4,
     "sequence_priority": 12
   },
   {
@@ -2601,39 +2590,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "persuasive purpose",
-    "question": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which option is best?",
-    "audio_prompt": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which option is best?",
+    "stage": "apply",
+    "skill": "compare-contrast",
+    "question": "Read the text.\n\nBoth electric buses and diesel buses can carry many passengers. Electric buses run on batteries and produce no exhaust at the vehicle. Diesel buses use fuel and release exhaust while operating. A table lists each bus type, energy source and local exhaust.\n\nWhich detail is a similarity?",
+    "audio_prompt": "Read the text.\n\nBoth electric buses and diesel buses can carry many passengers. Electric buses run on batteries and produce no exhaust at the vehicle. Diesel buses use fuel and release exhaust while operating. A table lists each bus type, energy source and local exhaust.\n\nWhich detail is a similarity?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "A list of character traits.",
-        "is_correct": false
-      },
-      {
-        "text": "A sequence of fictional events.",
-        "is_correct": false
-      },
-      {
-        "text": "A position supported by reasons and evidence.",
+        "text": "Both can carry many passengers.",
         "is_correct": true
       },
       {
-        "text": "An unresolved mystery.",
+        "text": "Both use batteries.",
+        "is_correct": false
+      },
+      {
+        "text": "Both release exhaust at the vehicle.",
+        "is_correct": false
+      },
+      {
+        "text": "Both use diesel fuel.",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Persuasive texts state a position and support it with reasons or evidence designed for an audience.",
-      "hint": "Look for the claim and the support offered for it."
+      "summary": "The passage states a feature shared by both bus types.",
+      "hint": "Find what applies to each subject."
     },
     "curriculum_coverage": [
-      "E1",
       "E2"
     ],
     "difficulty": 2,
@@ -2645,39 +2633,38 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "verify",
-    "skill": "persuasive purpose",
-    "question": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which explanation best justifies “A position supported by reasons and evidence.”?",
-    "audio_prompt": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which explanation best justifies “A position supported by reasons and evidence.”?",
+    "stage": "apply",
+    "skill": "compare-contrast",
+    "question": "Read the text.\n\nBoth electric buses and diesel buses can carry many passengers. Electric buses run on batteries and produce no exhaust at the vehicle. Diesel buses use fuel and release exhaust while operating. A table lists each bus type, energy source and local exhaust.\n\nWhich detail is a difference?",
+    "audio_prompt": "Read the text.\n\nBoth electric buses and diesel buses can carry many passengers. Electric buses run on batteries and produce no exhaust at the vehicle. Diesel buses use fuel and release exhaust while operating. A table lists each bus type, energy source and local exhaust.\n\nWhich detail is a difference?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "It avoids using the information supplied.",
-        "is_correct": false
-      },
-      {
-        "text": "Persuasive texts state a position and support it with reasons or evidence designed for an audience.",
+        "text": "Electric buses use batteries while diesel buses use fuel.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Both carry passengers.",
         "is_correct": false
       },
       {
-        "text": "It works by ignoring the purpose of the task.",
+        "text": "Both are buses.",
+        "is_correct": false
+      },
+      {
+        "text": "Both operate on roads.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Persuasive texts state a position and support it with reasons or evidence designed for an audience.",
-      "hint": "Look for the claim and the support offered for it."
+      "summary": "The energy source differs between the two bus types.",
+      "hint": "Look for contrasting details."
     },
     "curriculum_coverage": [
-      "E1",
       "E2"
     ],
     "difficulty": 2,
@@ -2689,40 +2676,39 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "persuasive purpose",
-    "question": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which choice should be rejected first?",
-    "audio_prompt": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which choice should be rejected first?",
+    "stage": "analyse",
+    "skill": "visual feature",
+    "question": "Read the text.\n\nBoth electric buses and diesel buses can carry many passengers. Electric buses run on batteries and produce no exhaust at the vehicle. Diesel buses use fuel and release exhaust while operating. A table lists each bus type, energy source and local exhaust.\n\nWhy is the table useful?",
+    "audio_prompt": "Read the text.\n\nBoth electric buses and diesel buses can carry many passengers. Electric buses run on batteries and produce no exhaust at the vehicle. Diesel buses use fuel and release exhaust while operating. A table lists each bus type, energy source and local exhaust.\n\nWhy is the table useful?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "An unresolved mystery.",
+        "text": "It lets readers compare the same features across both bus types quickly.",
         "is_correct": true
       },
       {
-        "text": "A position supported by reasons and evidence.",
+        "text": "It turns the text into a story.",
         "is_correct": false
       },
       {
-        "text": "A list of character traits.",
+        "text": "It proves one bus is always better.",
         "is_correct": false
       },
       {
-        "text": "A sequence of fictional events.",
+        "text": "It gives travel directions.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“An unresolved mystery.” does not meet the task. Persuasive texts state a position and support it with reasons or evidence designed for an audience.",
-      "hint": "Look for the claim and the support offered for it."
+      "summary": "Tables can organise comparable information into aligned categories.",
+      "hint": "Ask what is easier to compare in rows or columns."
     },
     "curriculum_coverage": [
-      "E1",
-      "E2"
+      "E3"
     ],
     "difficulty": 3,
     "sequence_priority": 15
@@ -2733,40 +2719,40 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY03",
     "bank": "test",
-    "stage": "apply",
-    "skill": "persuasive purpose",
-    "question": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which principle should guide the final decision?",
-    "audio_prompt": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which principle should guide the final decision?",
+    "stage": "analyse",
+    "skill": "structure",
+    "question": "Read the text.\n\nBoth electric buses and diesel buses can carry many passengers. Electric buses run on batteries and produce no exhaust at the vehicle. Diesel buses use fuel and release exhaust while operating. A table lists each bus type, energy source and local exhaust.\n\nWhich structure is dominant?",
+    "audio_prompt": "Read the text.\n\nBoth electric buses and diesel buses can carry many passengers. Electric buses run on batteries and produce no exhaust at the vehicle. Diesel buses use fuel and release exhaust while operating. A table lists each bus type, energy source and local exhaust.\n\nWhich structure is dominant?",
     "visual": {
       "type": "none",
       "alt_text": ""
     },
     "answers": [
       {
-        "text": "Choose the most complicated wording.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the audience or purpose.",
-        "is_correct": false
-      },
-      {
-        "text": "Use only the first word as a clue.",
-        "is_correct": false
-      },
-      {
-        "text": "Look for the claim and the support offered for it.",
+        "text": "Compare–contrast",
         "is_correct": true
+      },
+      {
+        "text": "Problem–solution",
+        "is_correct": false
+      },
+      {
+        "text": "Sequential",
+        "is_correct": false
+      },
+      {
+        "text": "Descriptive only",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Persuasive texts state a position and support it with reasons or evidence designed for an audience.",
-      "hint": "Look for the claim and the support offered for it."
+      "summary": "The paragraph and table are organised around similarities and differences.",
+      "hint": "Identify the main relationship between ideas."
     },
     "curriculum_coverage": [
-      "E1",
-      "E2"
+      "E2",
+      "E3"
     ],
     "difficulty": 3,
     "sequence_priority": 16
