@@ -1,14 +1,43 @@
-name: AdSense content guard (retired)
+name: AdSense content quality guard
 
 on:
+  push:
+    branches: [main]
+  pull_request:
   workflow_dispatch:
 
 permissions:
   contents: read
 
 jobs:
-  retired:
+  validate:
     runs-on: ubuntu-latest
     steps:
-      - name: Retired
-        run: echo "The AdSense content quality guard no longer runs on pushes or pull requests."
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run AdSense cleanup audit
+        run: python3 scripts/adsense_final_cleanup.py
+
+      - name: Fail if cleanup would change tracked files
+        run: |
+          if ! git diff --quiet; then
+            echo "AdSense readiness regressions detected. The cleanup audit would modify tracked files:"
+            git diff --stat
+            git diff --exit-code
+          fi
+
+      - name: Confirm core AdSense trust files
+        run: |
+          test -f ads.txt
+          grep -Fq 'google.com, pub-7734963540104771, DIRECT, f08c47fec0942fa0' ads.txt
+          test -f privacy-policy.html
+          grep -Fq 'google-adsense-account' privacy-policy.html
+          test -f about.html
+          test -f contact.html
+          echo "Core AdSense trust files present."
