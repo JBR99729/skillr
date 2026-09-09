@@ -1,109 +1,34 @@
-name: Finalise Year 5 Mathematics once
+name: Audit Year 5 Maths authored bank sources
 on:
   push:
     paths: ['.github/workflows/publish-year5-maths-once.yml']
 permissions:
-  contents: write
+  contents: read
 jobs:
-  finalise:
+  audit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with: {ref: main, fetch-depth: 0}
-
-      - name: Apply research difficulty bands to pending codes
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          root=Path('.')
-          pending=[*[f'AC9M5N{i:02d}' for i in range(1,10)],'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5ST02','AC9M5ST03']
-          marker='research-difficulty-bands-20260909'
-          for code in pending:
-              slug='ac9m5n10' if code=='AC9M5N010' else code.lower()
-              for bank in ('practice','test'):
-                  p=root/f'quiz/year-5/math/{slug}/{bank}/questions.js'
-                  if not p.exists(): raise SystemExit(f'Missing {p}')
-                  text=p.read_text(encoding='utf-8')
-                  if marker in text: continue
-                  size=12 if bank=='practice' else 4
-                  arr='skillrPracticeQuestions' if bank=='practice' else 'skillrTestQuestions'
-                  text += f'''\n/* {marker}: Basic -> Medium -> Hard -> Very Hard. */\n(() => {{\n  const bands = ["basic", "medium", "hard", "very_hard"];\n  if (!Array.isArray(window.{arr})) return;\n  window.{arr}.forEach((question, index) => {{\n    const bandIndex = Math.min(3, Math.floor(index / {size}));\n    question.difficulty = bandIndex + 1;\n    question.difficultyTier = bands[bandIndex];\n    question.sequencePriority = bandIndex + 1;\n  }});\n}})();\n'''
-                  p.write_text(text,encoding='utf-8')
-          print('Applied four research difficulty bands to',len(pending),'pending codes')
-          PY
-
-      - name: Validate every Year 5 Mathematics bank
+      - name: Find strongest authored bank source per code
         run: |
           node <<'NODE'
-          const fs=require('fs'), vm=require('vm'), path=require('path');
-          const all=[...Array.from({length:9},(_,i)=>`AC9M5N${String(i+1).padStart(2,'0')}`),'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5SP01','AC9M5SP02','AC9M5SP03','AC9M5ST01','AC9M5ST02','AC9M5ST03','AC9M5P01','AC9M5P02'];
-          const pending=new Set([...Array.from({length:9},(_,i)=>`AC9M5N${String(i+1).padStart(2,'0')}`),'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5ST02','AC9M5ST03']);
+          const cp=require('child_process'),vm=require('vm');
+          const codes=[...Array.from({length:9},(_,i)=>`AC9M5N${String(i+1).padStart(2,'0')}`),'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5ST02','AC9M5ST03'];
           const slug=c=>c==='AC9M5N010'?'ac9m5n10':c.toLowerCase();
-          function load(c,bank){
-            const f=path.join('quiz/year-5/math',slug(c),bank,'questions.js');
-            if(!fs.existsSync(f)) throw new Error(`Missing ${f}`);
-            const sandbox={window:{},console}; vm.createContext(sandbox);
-            vm.runInContext(fs.readFileSync(f,'utf8'),sandbox,{filename:f});
-            const arr=bank==='practice'?sandbox.window.skillrPracticeQuestions:sandbox.window.skillrTestQuestions;
-            if(!Array.isArray(arr)) throw new Error(`${f}: bank array missing`);
-            return [f,arr];
-          }
-          for(const c of all){
-            const [pf,p]=load(c,'practice'), [tf,t]=load(c,'test');
-            if(p.length!==48) throw new Error(`${pf}: expected 48, got ${p.length}`);
-            if(t.length!==16) throw new Error(`${tf}: expected 16, got ${t.length}`);
-            for(const [f,arr] of [[pf,p],[tf,t]]){
-              const stems=arr.map(q=>String(q.question||'').replace(/\s+/g,' ').trim());
-              if(stems.some(s=>!s)) throw new Error(`${f}: blank question stem`);
-              if(new Set(stems).size!==stems.length) throw new Error(`${f}: duplicate question stems`);
-              arr.forEach((q,i)=>{
-                if(String(q.curriculumCode||q.curriculum_code||'').toUpperCase()!==c) throw new Error(`${f} #${i+1}: wrong curriculum code`);
-                if(!Array.isArray(q.answers)||q.answers.length<3) throw new Error(`${f} #${i+1}: insufficient answers`);
-                if(!Number.isInteger(q.correct)||q.correct<0||q.correct>=q.answers.length) throw new Error(`${f} #${i+1}: invalid correct index`);
-                if(!String(q.explanation||'').trim()) throw new Error(`${f} #${i+1}: missing explanation`);
-              });
+          const refs=cp.execSync("git for-each-ref --format='%(refname:short)' refs/remotes/origin/agent/qa-year5-* refs/remotes/origin/agent/year5-* refs/remotes/origin/agent/clean-authored-year5-bank-prompts refs/remotes/origin/agent/year-5-maths-curriculum-banks",{encoding:'utf8'}).trim().split(/\n+/).filter(Boolean);
+          refs.unshift('origin/main');
+          function read(ref,p){try{return cp.execSync(`git show ${ref}:${p}`,{encoding:'utf8',stdio:['ignore','pipe','ignore'],maxBuffer:20*1024*1024})}catch{return null}}
+          function evalBank(txt,bank){if(!txt)return null;const sandbox={window:{},console};vm.createContext(sandbox);try{vm.runInContext(txt,sandbox)}catch{return null}return bank==='practice'?(sandbox.window.skillrPracticeQuestions||sandbox.window.quizQuestions):(sandbox.window.skillrTestQuestions||sandbox.window.quizQuestions)}
+          for(const c of codes){
+            let best=[];
+            for(const ref of refs){
+              const base=`quiz/year-5/math/${slug(c)}`;
+              const p=evalBank(read(ref,`${base}/practice/questions.js`),'practice');
+              const t=evalBank(read(ref,`${base}/test/questions.js`),'test');
+              if(Array.isArray(p)||Array.isArray(t)) best.push({ref,p:Array.isArray(p)?p.length:0,t:Array.isArray(t)?t.length:0,uniqueP:Array.isArray(p)?new Set(p.map(q=>q.question)).size:0,uniqueT:Array.isArray(t)?new Set(t.map(q=>q.question)).size:0});
             }
-            const ps=new Set(p.map(q=>String(q.question).replace(/\s+/g,' ').trim().toLowerCase()));
-            const overlap=t.filter(q=>ps.has(String(q.question).replace(/\s+/g,' ').trim().toLowerCase()));
-            if(overlap.length) throw new Error(`${c}: ${overlap.length} exact Practice/Test stem overlaps`);
-            if(pending.has(c)){
-              const pc=Object.fromEntries(['basic','medium','hard','very_hard'].map(x=>[x,p.filter(q=>q.difficultyTier===x).length]));
-              const tc=Object.fromEntries(['basic','medium','hard','very_hard'].map(x=>[x,t.filter(q=>q.difficultyTier===x).length]));
-              if(Object.values(pc).some(n=>n!==12)) throw new Error(`${c}: practice bands ${JSON.stringify(pc)}`);
-              if(Object.values(tc).some(n=>n!==4)) throw new Error(`${c}: test bands ${JSON.stringify(tc)}`);
-            }
-            console.log(c,'PASS','Practice',p.length,'Test',t.length);
+            best.sort((a,b)=>(b.p+b.t)-(a.p+a.t)||b.p-a.p);
+            console.log('CODE',c,JSON.stringify(best.slice(0,8)));
           }
-          console.log('ALL YEAR 5 MATHEMATICS BANKS PASS');
           NODE
-
-      - name: Mark Year 5 Mathematics Content Verified
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          import json
-          root=Path('.')
-          codes=[*[f'AC9M5N{i:02d}' for i in range(1,10)],'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5SP01','AC9M5SP02','AC9M5SP03','AC9M5ST01','AC9M5ST02','AC9M5ST03','AC9M5P01','AC9M5P02']
-          p=root/'data/content-verification-status.json'; data=json.loads(p.read_text()); data['reviewedCodes']=sorted(set(data.get('reviewedCodes',[]))|set(codes)); p.write_text(json.dumps(data,indent=2,ensure_ascii=False)+'\n')
-          p=root/'ai-index.json'; data=json.loads(p.read_text()); areas=data['content_verification']['verified_learning_areas']
-          if 'Year 5 Mathematics' not in areas: areas.insert(areas.index('Year 5 Science') if 'Year 5 Science' in areas else len(areas),'Year 5 Mathematics')
-          data['last_updated']='2026-09-09'; p.write_text(json.dumps(data,indent=2,ensure_ascii=False)+'\n')
-          p=root/'about.html'; s=p.read_text(); s=s.replace('Year 4 Mathematics, Year 4 Science and Year 5 Science question banks','Year 4 Mathematics, Year 4 Science, Year 5 Mathematics and Year 5 Science question banks'); p.write_text(s)
-          p=root/'editorial-standards.html'; s=p.read_text(); row='<tr><th scope="row">Year 5 Mathematics</th><td><span class="info-verified">✓ Content Verified</span></td></tr>'; sci='<tr><th scope="row">Year 5 Science</th><td><span class="info-verified">✓ Content Verified</span></td></tr>'
-          if row not in s:
-              if sci not in s: raise SystemExit('Year 5 Science verification row not found')
-              s=s.replace(sci,row+sci)
-          p.write_text(s)
-          for fn in ('llms.txt','llms-full.txt'):
-              p=root/fn; s=p.read_text(); s=s.replace('Year 4 Mathematics, Year 4 Science and Year 5 Science.','Year 4 Mathematics, Year 4 Science, Year 5 Mathematics and Year 5 Science.'); p.write_text(s)
-          print('Year 5 Mathematics added to verification ledger and public verification surfaces')
-          PY
-
-      - name: Clean staging and commit to main
-        run: |
-          rm -f assets/year5-math-research-banks-20260909.part1 assets/year5-math-research-banks-20260909.part2 .github/workflows/publish-year5-maths-once.yml
-          git config user.name 'SkillrHub Publisher'
-          git config user.email 'actions@users.noreply.github.com'
-          git add -A
-          git commit -m 'Finalise Year 5 Maths research tiers and mark content verified'
-          git push origin HEAD:main
