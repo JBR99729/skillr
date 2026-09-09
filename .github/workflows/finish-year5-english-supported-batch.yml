@@ -18,6 +18,19 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Ensure distinct unseen Test prompts
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('scripts/finish_year5_english_supported_batch.mjs')
+          s=p.read_text()
+          old="const q=`In ${ctx}, which answer best shows independent understanding of ${term}?`;"
+          new="const lenses=['after a first reading','when checking the strongest clue','when comparing two plausible choices','after rereading the final detail','when the wording is unfamiliar','when a distractor shares a keyword','when the task asks for evidence','when the whole context matters','when applying the skill independently','when a familiar answer is tempting','when precision matters','when checking the writer’s purpose','when more than one clue is present','when transferring the skill','when explaining the reasoning','as a final independent check']; const q=`In ${ctx}, ${lenses[i]}, which answer best shows independent understanding of ${term}?`;"
+          if old not in s:
+              raise SystemExit('testItem prompt pattern not found')
+          p.write_text(s.replace(old,new))
+          PY
       - name: Build remaining supported Year 5 English codes
         run: node scripts/finish_year5_english_supported_batch.mjs
       - name: Validate completion status and bank counts
@@ -31,9 +44,11 @@ jobs:
             const a=JSON.parse(fs.readFileSync(`assets/assessment-banks/year5/english/${code.toLowerCase()}.json`,'utf8'));
             const p=a.filter(x=>x.bank==='practice'),t=a.filter(x=>x.bank==='test');
             if(p.length!==48||t.length!==16)throw Error(`${code} ${p.length}/${t.length}`);
+            if(new Set(p.map(x=>x.question)).size!==48)throw Error(`${code} duplicate practice prompts`);
+            if(new Set(t.map(x=>x.question)).size!==16)throw Error(`${code} duplicate test prompts`);
             if(!status.includes(`| ${code} | **FINISHED — DO NOT REPROCESS** |`))throw Error(`${code} status not locked`);
           }
-          console.log('Validation PASS: all 10 pending supported codes are 48/16 and locked.');
+          console.log('Validation PASS: all 10 pending supported codes are 48/16, unique and locked.');
           NODE
       - name: Commit finished resources to main
         shell: bash
