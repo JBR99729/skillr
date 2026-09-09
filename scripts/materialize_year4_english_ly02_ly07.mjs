@@ -1,7 +1,10 @@
 #!/usr/bin/env node
-"use strict";
-const fs = require("fs");
-const path = require("path");
+import fs from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 const ROOT = path.resolve(__dirname, "..");
 const CODES = ["AC9E4LY02","AC9E4LY03","AC9E4LY04","AC9E4LY05","AC9E4LY06","AC9E4LY07"];
 const SRC = path.join(ROOT,"scripts","year4-english-ly02-ly07");
