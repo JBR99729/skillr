@@ -4,961 +4,912 @@ window.skillrPracticeQuestions = [
     "id": "ac9e5ly08-p-001",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "phonic knowledge",
     "printable": true,
     "type": "single",
-    "question": "A handwriting sample shows that letters drift above and below the writing line. What should the writer target first?",
-    "audioPrompt": "A handwriting sample shows that letters drift above and below the writing line. What should the writer target first?",
+    "question": "Which response best demonstrates the AC9E5 skill in read in “I read every day” versus “I read yesterday”?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in read in “I read every day” versus “I read yesterday”?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "baseline alignment",
-      "joining every letter regardless of clarity",
-      "maximum speed with no rereading"
+      "It names a feature in read in “I read every day” versus “I read yesterday” but does not explain how it contributes to meaning.",
+      "The response uses phonic knowledge and connects it to specific evidence in read in “I read every day” versus “I read yesterday”.",
+      "It gives a personal reaction to read in “I read every day” versus “I read yesterday” but no evidence or precise terminology."
     ],
-    "correct": 0,
-    "explanation": "“baseline alignment” fits the meaning and the language clue in this example. A specific diagnosis leads to an efficient practice target.\nHint: Choose the feature that most affects readability, comfort or fluency.",
-    "structuredExplanation": {
-      "summary": "“baseline alignment” fits the meaning and the language clue in this example. A specific diagnosis leads to an efficient practice target.",
-      "hint": "Choose the feature that most affects readability, comfort or fluency."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "The response uses phonic knowledge and connects it to specific evidence in read in “I read every day” versus “I read yesterday”. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-002",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "morpheme",
     "printable": true,
     "type": "single",
-    "question": "Read carefully: When words run together during fast note-taking, why is this response useful: pause briefly between words while keeping letter movement fluent?",
-    "audioPrompt": "Read carefully: When words run together during fast note-taking, why is this response useful: pause briefly between words while keeping letter movement fluent?",
+    "question": "Which response best demonstrates the AC9E5 skill in bow in “take a bow” versus “tie a bow”?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in bow in “take a bow” versus “tie a bow”?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It guarantees that every letter must be joined",
-      "It directly develops word spacing and transfers the change into normal writing",
-      "It avoids the need to check whether writing remains readable"
+      "It names a feature in bow in “take a bow” versus “tie a bow” but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to bow in “take a bow” versus “tie a bow” but no evidence or precise terminology.",
+      "The response uses morpheme and connects it to specific evidence in bow in “take a bow” versus “tie a bow”."
     ],
-    "correct": 1,
-    "explanation": "“It directly develops word spacing and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.\nHint: Explain the connection between the observed issue, the practice and the goal.",
-    "structuredExplanation": {
-      "summary": "“It directly develops word spacing and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.",
-      "hint": "Explain the connection between the observed issue, the practice and the goal."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "The response uses morpheme and connects it to specific evidence in bow in “take a bow” versus “tie a bow”. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-003",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "letter pattern",
     "printable": true,
     "type": "single",
-    "question": "Which answer makes the most sense here? How should progress be measured when the writer presses so hard that the hand tires?",
-    "audioPrompt": "Which answer makes the most sense here? How should progress be measured when the writer presses so hard that the hand tires?",
+    "question": "Which response best demonstrates the AC9E5 skill in wind in “strong wind” versus “wind the clock”?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in wind in “strong wind” versus “wind the clock”?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Count speed only, even if letters cannot be read",
-      "Judge the page only by how decorative it looks",
-      "Compare readability, comfort and suitable pace before and after targeted practice"
+      "It gives a personal reaction to wind in “strong wind” versus “wind the clock” but no evidence or precise terminology.",
+      "The response uses letter pattern and connects it to specific evidence in wind in “strong wind” versus “wind the clock”.",
+      "It names a feature in wind in “strong wind” versus “wind the clock” but does not explain how it contributes to meaning."
     ],
-    "correct": 2,
-    "explanation": "“Compare readability, comfort and suitable pace before and after targeted practice” fits the meaning and the language clue in this example. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.\nHint: Use more than one measure and test the skill in real writing.",
-    "structuredExplanation": {
-      "summary": "“Compare readability, comfort and suitable pace before and after targeted practice” fits the meaning and the language clue in this example. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
-      "hint": "Use more than one measure and test the skill in real writing."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "The response uses letter pattern and connects it to specific evidence in wind in “strong wind” versus “wind the clock”. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-004",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "pronunciation",
     "printable": true,
     "type": "single",
-    "question": "Look at the wording and meaning. Which practice response best addresses this issue: neat writing becomes extremely slow in a timed task?",
-    "audioPrompt": "Look at the wording and meaning. Which practice response best addresses this issue: neat writing becomes extremely slow in a timed task?",
+    "question": "Which response best demonstrates the AC9E5 skill in tear in “a tear fell” versus “tear the paper”?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in tear in “a tear fell” versus “tear the paper”?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "practise short meaningful passages while preserving readability",
-      "Copy several pages as fast as possible",
-      "Press harder and ignore discomfort"
+      "The response uses pronunciation and connects it to specific evidence in tear in “a tear fell” versus “tear the paper”.",
+      "It names a feature in tear in “a tear fell” versus “tear the paper” but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to tear in “a tear fell” versus “tear the paper” but no evidence or precise terminology."
     ],
     "correct": 0,
-    "explanation": "“practise short meaningful passages while preserving readability” fits the meaning and the language clue in this example. Effective practice isolates one movement and then transfers it to meaningful writing.\nHint: Work accurately in a small dose before rebuilding normal pace.",
-    "structuredExplanation": {
-      "summary": "“practise short meaningful passages while preserving readability” fits the meaning and the language clue in this example. Effective practice isolates one movement and then transfers it to meaningful writing.",
-      "hint": "Work accurately in a small dose before rebuilding normal pace."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses pronunciation and connects it to specific evidence in tear in “a tear fell” versus “tear the paper”. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-005",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "context",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that fits the situation best. A handwriting sample shows that words run together during fast note-taking. What should the writer target first?",
-    "audioPrompt": "Choose the option that fits the situation best. A handwriting sample shows that words run together during fast note-taking. What should the writer target first?",
+    "question": "Which response best demonstrates the AC9E5 skill in lead as a metal versus lead a team?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in lead as a metal versus lead a team?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "joining every letter regardless of clarity",
-      "word spacing",
-      "maximum speed with no rereading"
+      "It gives a personal reaction to lead as a metal versus lead a team but no evidence or precise terminology.",
+      "It names a feature in lead as a metal versus lead a team but does not explain how it contributes to meaning.",
+      "The response uses context and connects it to specific evidence in lead as a metal versus lead a team."
     ],
-    "correct": 1,
-    "explanation": "“word spacing” fits the meaning and the language clue in this example. A specific diagnosis leads to an efficient practice target.\nHint: Choose the feature that most affects readability, comfort or fluency.",
-    "structuredExplanation": {
-      "summary": "“word spacing” fits the meaning and the language clue in this example. A specific diagnosis leads to an efficient practice target.",
-      "hint": "Choose the feature that most affects readability, comfort or fluency."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "The response uses context and connects it to specific evidence in lead as a metal versus lead a team. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-006",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "homophone",
     "printable": true,
     "type": "single",
-    "question": "Which choice is accurate in this example? When joined letters become hard to recognise, why is this response useful: slow the difficult joins, check their shapes, then rebuild pace?",
-    "audioPrompt": "Which choice is accurate in this example? When joined letters become hard to recognise, why is this response useful: slow the difficult joins, check their shapes, then rebuild pace?",
+    "question": "Which response best demonstrates the AC9E5 skill in minute as time versus a minute detail?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in minute as time versus a minute detail?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It guarantees that every letter must be joined",
-      "It avoids the need to check whether writing remains readable",
-      "It directly develops letter formation and transfers the change into normal writing"
+      "The response uses homophone and connects it to specific evidence in minute as time versus a minute detail.",
+      "It gives a personal reaction to minute as time versus a minute detail but no evidence or precise terminology.",
+      "It names a feature in minute as time versus a minute detail but does not explain how it contributes to meaning."
     ],
-    "correct": 2,
-    "explanation": "“It directly develops letter formation and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.\nHint: Explain the connection between the observed issue, the practice and the goal.",
-    "structuredExplanation": {
-      "summary": "“It directly develops letter formation and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.",
-      "hint": "Explain the connection between the observed issue, the practice and the goal."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "The response uses homophone and connects it to specific evidence in minute as time versus a minute detail. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-007",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "phonic knowledge",
     "printable": true,
     "type": "single",
-    "question": "Focus on the key clue. How should progress be measured when ascenders vary greatly in height?",
-    "audioPrompt": "Focus on the key clue. How should progress be measured when ascenders vary greatly in height?",
+    "question": "Which response best demonstrates the AC9E5 skill in close the door versus stand close?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in close the door versus stand close?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Compare readability, comfort and suitable pace before and after targeted practice",
-      "Count speed only, even if letters cannot be read",
-      "Judge the page only by how decorative it looks"
+      "It names a feature in close the door versus stand close but does not explain how it contributes to meaning.",
+      "The response uses phonic knowledge and connects it to specific evidence in close the door versus stand close.",
+      "It gives a personal reaction to close the door versus stand close but no evidence or precise terminology."
     ],
-    "correct": 0,
-    "explanation": "“Compare readability, comfort and suitable pace before and after targeted practice” fits the meaning and the language clue in this example. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.\nHint: Use more than one measure and test the skill in real writing.",
-    "structuredExplanation": {
-      "summary": "“Compare readability, comfort and suitable pace before and after targeted practice” fits the meaning and the language clue in this example. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
-      "hint": "Use more than one measure and test the skill in real writing."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "The response uses phonic knowledge and connects it to specific evidence in close the door versus stand close. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-008",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "morpheme",
     "printable": true,
     "type": "single",
-    "question": "What works best in this situation? Which practice response best addresses this issue: letters drift above and below the writing line?",
-    "audioPrompt": "What works best in this situation? Which practice response best addresses this issue: letters drift above and below the writing line?",
+    "question": "Which response best demonstrates the AC9E5 skill in does as a verb versus female deer does?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in does as a verb versus female deer does?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Copy several pages as fast as possible",
-      "practise one line of the affected letter pattern, then use it in a sentence",
-      "Press harder and ignore discomfort"
+      "It names a feature in does as a verb versus female deer does but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to does as a verb versus female deer does but no evidence or precise terminology.",
+      "The response uses morpheme and connects it to specific evidence in does as a verb versus female deer does."
     ],
-    "correct": 1,
-    "explanation": "“practise one line of the affected letter pattern, then use it in a sentence” fits the meaning and the language clue in this example. Effective practice isolates one movement and then transfers it to meaningful writing.\nHint: Work accurately in a small dose before rebuilding normal pace.",
-    "structuredExplanation": {
-      "summary": "“practise one line of the affected letter pattern, then use it in a sentence” fits the meaning and the language clue in this example. Effective practice isolates one movement and then transfers it to meaningful writing.",
-      "hint": "Work accurately in a small dose before rebuilding normal pace."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "The response uses morpheme and connects it to specific evidence in does as a verb versus female deer does. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-009",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "letter pattern",
     "printable": true,
     "type": "single",
-    "question": "Which option matches what is happening? A handwriting sample shows that joined letters become hard to recognise. What should the writer target first?",
-    "audioPrompt": "Which option matches what is happening? A handwriting sample shows that joined letters become hard to recognise. What should the writer target first?",
+    "question": "Which response best demonstrates the AC9E5 skill in row a boat versus have a row?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in row a boat versus have a row?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "joining every letter regardless of clarity",
-      "maximum speed with no rereading",
-      "letter formation"
+      "It gives a personal reaction to row a boat versus have a row but no evidence or precise terminology.",
+      "The response uses letter pattern and connects it to specific evidence in row a boat versus have a row.",
+      "It names a feature in row a boat versus have a row but does not explain how it contributes to meaning."
     ],
-    "correct": 2,
-    "explanation": "“letter formation” fits the meaning and the language clue in this example. A specific diagnosis leads to an efficient practice target.\nHint: Choose the feature that most affects readability, comfort or fluency.",
-    "structuredExplanation": {
-      "summary": "“letter formation” fits the meaning and the language clue in this example. A specific diagnosis leads to an efficient practice target.",
-      "hint": "Choose the feature that most affects readability, comfort or fluency."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "The response uses letter pattern and connects it to specific evidence in row a boat versus have a row. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-010",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "pronunciation",
     "printable": true,
     "type": "single",
-    "question": "Use the details in the example. When the writer presses so hard that the hand tires, why is this response useful: relax the grip and test a lighter sustainable movement?",
-    "audioPrompt": "Use the details in the example. When the writer presses so hard that the hand tires, why is this response useful: relax the grip and test a lighter sustainable movement?",
+    "question": "Which response best demonstrates the AC9E5 skill in present a gift versus present a report?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in present a gift versus present a report?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It directly develops comfortable pressure and transfers the change into normal writing",
-      "It guarantees that every letter must be joined",
-      "It avoids the need to check whether writing remains readable"
+      "The response uses pronunciation and connects it to specific evidence in present a gift versus present a report.",
+      "It names a feature in present a gift versus present a report but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to present a gift versus present a report but no evidence or precise terminology."
     ],
     "correct": 0,
-    "explanation": "“It directly develops comfortable pressure and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.\nHint: Explain the connection between the observed issue, the practice and the goal.",
-    "structuredExplanation": {
-      "summary": "“It directly develops comfortable pressure and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.",
-      "hint": "Explain the connection between the observed issue, the practice and the goal."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses pronunciation and connects it to specific evidence in present a gift versus present a report. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-011",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "context",
     "printable": true,
     "type": "single",
-    "question": "Why is “practise one line of the affected letter pattern, then use it in a sentence” the strongest answer to this question: Which practice response best addresses this issue: letters drift above and below the writing line?",
-    "audioPrompt": "Why is “practise one line of the affected letter pattern, then use it in a sentence” the strongest answer to this question: Which practice response best addresses this issue: letters drift above and below the writing line?",
+    "question": "Which response best demonstrates the AC9E5 skill in object on a table versus object to a rule?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in object on a table versus object to a rule?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It matches the key clue and meaning in the example.",
-      "It is correct because familiar words are always safest."
+      "It gives a personal reaction to object on a table versus object to a rule but no evidence or precise terminology.",
+      "It names a feature in object on a table versus object to a rule but does not explain how it contributes to meaning.",
+      "The response uses context and connects it to specific evidence in object on a table versus object to a rule."
     ],
-    "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Effective practice isolates one movement and then transfers it to meaningful writing.\nHint: Find the exact clue that makes “practise one line of the affected letter pattern, then use it in a sentence” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Effective practice isolates one movement and then transfers it to meaningful writing.",
-      "hint": "Find the exact clue that makes “practise one line of the affected letter pattern, then use it in a sentence” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "The response uses context and connects it to specific evidence in object on a table versus object to a rule. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-012",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "homophone",
     "printable": true,
     "type": "single",
-    "question": "What makes “letter formation” work in this example? A handwriting sample shows that joined letters become hard to recognise. What should the writer target first?",
-    "audioPrompt": "What makes “letter formation” work in this example? A handwriting sample shows that joined letters become hard to recognise. What should the writer target first?",
+    "question": "Which response best demonstrates the AC9E5 skill in use context to choose a sound-alike word?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in use context to choose a sound-alike word?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest.",
-      "It matches the key clue and meaning in the example."
+      "The response uses homophone and connects it to specific evidence in use context to choose a sound-alike word.",
+      "It gives a personal reaction to use context to choose a sound-alike word but no evidence or precise terminology.",
+      "It names a feature in use context to choose a sound-alike word but does not explain how it contributes to meaning."
     ],
-    "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A specific diagnosis leads to an efficient practice target.\nHint: Find the exact clue that makes “letter formation” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A specific diagnosis leads to an efficient practice target.",
-      "hint": "Find the exact clue that makes “letter formation” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "The response uses homophone and connects it to specific evidence in use context to choose a sound-alike word. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly08-p-013",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "morpheme",
     "printable": true,
     "type": "single",
-    "question": "Which reason best explains why “It directly develops comfortable pressure and transfers the change into normal writing” fits? When the writer presses so hard that the hand tires, why is this response useful: relax the grip and test a lighter sustainable movement?",
-    "audioPrompt": "Which reason best explains why “It directly develops comfortable pressure and transfers the change into normal writing” fits? When the writer presses so hard that the hand tires, why is this response useful: relax the grip and test a lighter sustainable movement?",
+    "question": "A student gives an answer about tear in “a tear fell” versus “tear the paper”. Why is the strongest explanation the one that links morpheme to evidence and effect?",
+    "audioPrompt": "A student gives an answer about tear in “a tear fell” versus “tear the paper”. Why is the strongest explanation the one that links morpheme to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It matches the key clue and meaning in the example.",
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest."
+      "Because the longest explanation is usually the most accurate.",
+      "Because morpheme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks."
     ],
-    "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Targeted practice is linked to diagnosed evidence and authentic use.\nHint: Find the exact clue that makes “It directly develops comfortable pressure and transfers the change into normal writing” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Targeted practice is linked to diagnosed evidence and authentic use.",
-      "hint": "Find the exact clue that makes “It directly develops comfortable pressure and transfers the change into normal writing” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Because morpheme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-014",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "letter pattern",
     "printable": true,
     "type": "single",
-    "question": "How does “Compare readability, comfort and suitable pace before and after targeted practice” match the meaning of this example? How should progress be measured when neat writing becomes extremely slow in a timed task?",
-    "audioPrompt": "How does “Compare readability, comfort and suitable pace before and after targeted practice” match the meaning of this example? How should progress be measured when neat writing becomes extremely slow in a timed task?",
+    "question": "A student gives an answer about lead as a metal versus lead a team. Why is the strongest explanation the one that links letter pattern to evidence and effect?",
+    "audioPrompt": "A student gives an answer about lead as a metal versus lead a team. Why is the strongest explanation the one that links letter pattern to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It matches the key clue and meaning in the example.",
-      "It is correct because familiar words are always safest."
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks.",
+      "Because letter pattern is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
-    "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.\nHint: Find the exact clue that makes “Compare readability, comfort and suitable pace before and after targeted practice” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
-      "hint": "Find the exact clue that makes “Compare readability, comfort and suitable pace before and after targeted practice” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Because letter pattern is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-015",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "pronunciation",
     "printable": true,
     "type": "single",
-    "question": "Why does “pause briefly between words while keeping letter movement fluent” suit this situation better than the other choices? Which practice response best addresses this issue: words run together during fast note-taking?",
-    "audioPrompt": "Why does “pause briefly between words while keeping letter movement fluent” suit this situation better than the other choices? Which practice response best addresses this issue: words run together during fast note-taking?",
+    "question": "A student gives an answer about minute as time versus a minute detail. Why is the strongest explanation the one that links pronunciation to evidence and effect?",
+    "audioPrompt": "A student gives an answer about minute as time versus a minute detail. Why is the strongest explanation the one that links pronunciation to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest.",
-      "It matches the key clue and meaning in the example."
+      "Because using a technical term automatically earns full marks.",
+      "Because pronunciation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate."
     ],
-    "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Effective practice isolates one movement and then transfers it to meaningful writing.\nHint: Find the exact clue that makes “pause briefly between words while keeping letter movement fluent” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Effective practice isolates one movement and then transfers it to meaningful writing.",
-      "hint": "Find the exact clue that makes “pause briefly between words while keeping letter movement fluent” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Because pronunciation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-016",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "context",
     "printable": true,
     "type": "single",
-    "question": "What clue in the example supports “comfortable pressure”? A handwriting sample shows that the writer presses so hard that the hand tires. What should the writer target first?",
-    "audioPrompt": "What clue in the example supports “comfortable pressure”? A handwriting sample shows that the writer presses so hard that the hand tires. What should the writer target first?",
+    "question": "A student gives an answer about close the door versus stand close. Why is the strongest explanation the one that links context to evidence and effect?",
+    "audioPrompt": "A student gives an answer about close the door versus stand close. Why is the strongest explanation the one that links context to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It matches the key clue and meaning in the example.",
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest."
+      "Because context is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks."
     ],
     "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A specific diagnosis leads to an efficient practice target.\nHint: Find the exact clue that makes “comfortable pressure” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A specific diagnosis leads to an efficient practice target.",
-      "hint": "Find the exact clue that makes “comfortable pressure” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because context is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-017",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "homophone",
     "printable": true,
     "type": "single",
-    "question": "Which explanation shows why “It directly develops consistent letter size and transfers the change into normal writing” is correct here? When ascenders vary greatly in height, why is this response useful: compare a short sample with a model and target one height pattern?",
-    "audioPrompt": "Which explanation shows why “It directly develops consistent letter size and transfers the change into normal writing” is correct here? When ascenders vary greatly in height, why is this response useful: compare a short sample with a model and target one height pattern?",
+    "question": "A student gives an answer about does as a verb versus female deer does. Why is the strongest explanation the one that links homophone to evidence and effect?",
+    "audioPrompt": "A student gives an answer about does as a verb versus female deer does. Why is the strongest explanation the one that links homophone to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It matches the key clue and meaning in the example.",
-      "It is correct because familiar words are always safest."
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because homophone is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
-    "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Targeted practice is linked to diagnosed evidence and authentic use.\nHint: Find the exact clue that makes “It directly develops consistent letter size and transfers the change into normal writing” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Targeted practice is linked to diagnosed evidence and authentic use.",
-      "hint": "Find the exact clue that makes “It directly develops consistent letter size and transfers the change into normal writing” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Because homophone is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-018",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "phonic knowledge",
     "printable": true,
     "type": "single",
-    "question": "Why would “Compare readability, comfort and suitable pace before and after targeted practice” make sense to a careful reader? How should progress be measured when letters drift above and below the writing line?",
-    "audioPrompt": "Why would “Compare readability, comfort and suitable pace before and after targeted practice” make sense to a careful reader? How should progress be measured when letters drift above and below the writing line?",
+    "question": "A student gives an answer about row a boat versus have a row. Why is the strongest explanation the one that links phonic knowledge to evidence and effect?",
+    "audioPrompt": "A student gives an answer about row a boat versus have a row. Why is the strongest explanation the one that links phonic knowledge to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest.",
-      "It matches the key clue and meaning in the example."
+      "Because phonic knowledge is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate."
     ],
-    "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.\nHint: Find the exact clue that makes “Compare readability, comfort and suitable pace before and after targeted practice” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
-      "hint": "Find the exact clue that makes “Compare readability, comfort and suitable pace before and after targeted practice” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Because phonic knowledge is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-019",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "morpheme",
     "printable": true,
     "type": "single",
-    "question": "What is the best reason for choosing “slow the difficult joins, check their shapes, then rebuild pace”? Which practice response best addresses this issue: joined letters become hard to recognise?",
-    "audioPrompt": "What is the best reason for choosing “slow the difficult joins, check their shapes, then rebuild pace”? Which practice response best addresses this issue: joined letters become hard to recognise?",
+    "question": "A student gives an answer about present a gift versus present a report. Why is the strongest explanation the one that links morpheme to evidence and effect?",
+    "audioPrompt": "A student gives an answer about present a gift versus present a report. Why is the strongest explanation the one that links morpheme to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It matches the key clue and meaning in the example.",
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest."
+      "Because the longest explanation is usually the most accurate.",
+      "Because morpheme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks."
     ],
-    "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Effective practice isolates one movement and then transfers it to meaningful writing.\nHint: Find the exact clue that makes “slow the difficult joins, check their shapes, then rebuild pace” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Effective practice isolates one movement and then transfers it to meaningful writing.",
-      "hint": "Find the exact clue that makes “slow the difficult joins, check their shapes, then rebuild pace” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Because morpheme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-020",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "letter pattern",
     "printable": true,
     "type": "single",
-    "question": "Which explanation connects “consistent letter size” to the key clue? A handwriting sample shows that ascenders vary greatly in height. What should the writer target first?",
-    "audioPrompt": "Which explanation connects “consistent letter size” to the key clue? A handwriting sample shows that ascenders vary greatly in height. What should the writer target first?",
+    "question": "A student gives an answer about object on a table versus object to a rule. Why is the strongest explanation the one that links letter pattern to evidence and effect?",
+    "audioPrompt": "A student gives an answer about object on a table versus object to a rule. Why is the strongest explanation the one that links letter pattern to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It matches the key clue and meaning in the example.",
-      "It is correct because familiar words are always safest."
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks.",
+      "Because letter pattern is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
-    "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A specific diagnosis leads to an efficient practice target.\nHint: Find the exact clue that makes “consistent letter size” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A specific diagnosis leads to an efficient practice target.",
-      "hint": "Find the exact clue that makes “consistent letter size” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Because letter pattern is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-021",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "pronunciation",
     "printable": true,
     "type": "single",
-    "question": "“Count speed only, even if letters cannot be read” might seem possible at first. What should you notice before answering this question: How should progress be measured when letters drift above and below the writing line?",
-    "audioPrompt": "“Count speed only, even if letters cannot be read” might seem possible at first. What should you notice before answering this question: How should progress be measured when letters drift above and below the writing line?",
+    "question": "A student gives an answer about use context to choose a sound-alike word. Why is the strongest explanation the one that links pronunciation to evidence and effect?",
+    "audioPrompt": "A student gives an answer about use context to choose a sound-alike word. Why is the strongest explanation the one that links pronunciation to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “Count speed only, even if letters cannot be read” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex.",
-      "Check the whole example: “Compare readability, comfort and suitable pace before and after targeted practice” matches the key clue, while “Count speed only, even if letters cannot be read” does not."
+      "Because using a technical term automatically earns full marks.",
+      "Because pronunciation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate."
     ],
-    "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Count speed only, even if letters cannot be read” fail and “Compare readability, comfort and suitable pace before and after targeted practice” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Count speed only, even if letters cannot be read” fail and “Compare readability, comfort and suitable pace before and after targeted practice” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Because pronunciation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-022",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "context",
     "printable": true,
     "type": "single",
-    "question": "Why is “Copy several pages as fast as possible” not the best choice here? Which practice response best addresses this issue: joined letters become hard to recognise?",
-    "audioPrompt": "Why is “Copy several pages as fast as possible” not the best choice here? Which practice response best addresses this issue: joined letters become hard to recognise?",
+    "question": "A student gives an answer about read in “I read every day” versus “I read yesterday”. Why is the strongest explanation the one that links context to evidence and effect?",
+    "audioPrompt": "A student gives an answer about read in “I read every day” versus “I read yesterday”. Why is the strongest explanation the one that links context to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check the whole example: “slow the difficult joins, check their shapes, then rebuild pace” matches the key clue, while “Copy several pages as fast as possible” does not.",
-      "Keep “Copy several pages as fast as possible” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Because context is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks."
     ],
     "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Copy several pages as fast as possible” fail and “slow the difficult joins, check their shapes, then rebuild pace” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Copy several pages as fast as possible” fail and “slow the difficult joins, check their shapes, then rebuild pace” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because context is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-023",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "homophone",
     "printable": true,
     "type": "single",
-    "question": "Compare “joining every letter regardless of clarity” with “consistent letter size”. What important difference matters in this example? A handwriting sample shows that ascenders vary greatly in height. What should the writer target first?",
-    "audioPrompt": "Compare “joining every letter regardless of clarity” with “consistent letter size”. What important difference matters in this example? A handwriting sample shows that ascenders vary greatly in height. What should the writer target first?",
+    "question": "A student gives an answer about bow in “take a bow” versus “tie a bow”. Why is the strongest explanation the one that links homophone to evidence and effect?",
+    "audioPrompt": "A student gives an answer about bow in “take a bow” versus “tie a bow”. Why is the strongest explanation the one that links homophone to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “joining every letter regardless of clarity” because it contains a familiar word.",
-      "Check the whole example: “consistent letter size” matches the key clue, while “joining every letter regardless of clarity” does not.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because homophone is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
-    "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “joining every letter regardless of clarity” fail and “consistent letter size” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “joining every letter regardless of clarity” fail and “consistent letter size” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Because homophone is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-024",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "phonic knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which clue rules out “It guarantees that every letter must be joined” in this situation? When neat writing becomes extremely slow in a timed task, why is this response useful: practise short meaningful passages while preserving readability?",
-    "audioPrompt": "Which clue rules out “It guarantees that every letter must be joined” in this situation? When neat writing becomes extremely slow in a timed task, why is this response useful: practise short meaningful passages while preserving readability?",
+    "question": "A student gives an answer about wind in “strong wind” versus “wind the clock”. Why is the strongest explanation the one that links phonic knowledge to evidence and effect?",
+    "audioPrompt": "A student gives an answer about wind in “strong wind” versus “wind the clock”. Why is the strongest explanation the one that links phonic knowledge to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “It guarantees that every letter must be joined” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex.",
-      "Check the whole example: “It directly develops sustainable pace and transfers the change into normal writing” matches the key clue, while “It guarantees that every letter must be joined” does not."
+      "Because phonic knowledge is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate."
     ],
-    "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It guarantees that every letter must be joined” fail and “It directly develops sustainable pace and transfers the change into normal writing” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It guarantees that every letter must be joined” fail and “It directly develops sustainable pace and transfers the change into normal writing” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Because phonic knowledge is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly08-p-025",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "A quick reader might choose “Count speed only, even if letters cannot be read”. What would a closer reading show? How should progress be measured when words run together during fast note-taking?",
-    "audioPrompt": "A quick reader might choose “Count speed only, even if letters cannot be read”. What would a closer reading show? How should progress be measured when words run together during fast note-taking?",
+    "question": "In close the door versus stand close, a student is choosing by sound alone. What is the best correction?",
+    "audioPrompt": "In close the door versus stand close, a student is choosing by sound alone. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check the whole example: “Compare readability, comfort and suitable pace before and after targeted practice” matches the key clue, while “Count speed only, even if letters cannot be read” does not.",
-      "Keep “Count speed only, even if letters cannot be read” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
-    "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Count speed only, even if letters cannot be read” fail and “Compare readability, comfort and suitable pace before and after targeted practice” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Count speed only, even if letters cannot be read” fail and “Compare readability, comfort and suitable pace before and after targeted practice” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-026",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "What makes “relax the grip and test a lighter sustainable movement” more precise than “Copy several pages as fast as possible” here? Which practice response best addresses this issue: the writer presses so hard that the hand tires?",
-    "audioPrompt": "What makes “relax the grip and test a lighter sustainable movement” more precise than “Copy several pages as fast as possible” here? Which practice response best addresses this issue: the writer presses so hard that the hand tires?",
+    "question": "In does as a verb versus female deer does, a student is assuming one spelling pattern always has one sound. What is the best correction?",
+    "audioPrompt": "In does as a verb versus female deer does, a student is assuming one spelling pattern always has one sound. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “Copy several pages as fast as possible” because it contains a familiar word.",
-      "Check the whole example: “relax the grip and test a lighter sustainable movement” matches the key clue, while “Copy several pages as fast as possible” does not.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
-    "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Copy several pages as fast as possible” fail and “relax the grip and test a lighter sustainable movement” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Copy several pages as fast as possible” fail and “relax the grip and test a lighter sustainable movement” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-027",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Which detail helps you reject “joining every letter regardless of clarity”? A handwriting sample shows that neat writing becomes extremely slow in a timed task. What should the writer target first?",
-    "audioPrompt": "Which detail helps you reject “joining every letter regardless of clarity”? A handwriting sample shows that neat writing becomes extremely slow in a timed task. What should the writer target first?",
+    "question": "In row a boat versus have a row, a student is ignoring sentence meaning. What is the best correction?",
+    "audioPrompt": "In row a boat versus have a row, a student is ignoring sentence meaning. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “joining every letter regardless of clarity” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex.",
-      "Check the whole example: “sustainable pace” matches the key clue, while “joining every letter regardless of clarity” does not."
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning."
     ],
-    "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “joining every letter regardless of clarity” fail and “sustainable pace” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “joining every letter regardless of clarity” fail and “sustainable pace” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-028",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "What is the problem with choosing “It guarantees that every letter must be joined” for this example? When letters drift above and below the writing line, why is this response useful: practise one line of the affected letter pattern, then use it in a sentence?",
-    "audioPrompt": "What is the problem with choosing “It guarantees that every letter must be joined” for this example? When letters drift above and below the writing line, why is this response useful: practise one line of the affected letter pattern, then use it in a sentence?",
+    "question": "In present a gift versus present a report, a student is changing spelling to match pronunciation. What is the best correction?",
+    "audioPrompt": "In present a gift versus present a report, a student is changing spelling to match pronunciation. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check the whole example: “It directly develops baseline alignment and transfers the change into normal writing” matches the key clue, while “It guarantees that every letter must be joined” does not.",
-      "Keep “It guarantees that every letter must be joined” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
     "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It guarantees that every letter must be joined” fail and “It directly develops baseline alignment and transfers the change into normal writing” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It guarantees that every letter must be joined” fail and “It directly develops baseline alignment and transfers the change into normal writing” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-029",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Which comparison best separates “Compare readability, comfort and suitable pace before and after targeted practice” from “Count speed only, even if letters cannot be read”? How should progress be measured when joined letters become hard to recognise?",
-    "audioPrompt": "Which comparison best separates “Compare readability, comfort and suitable pace before and after targeted practice” from “Count speed only, even if letters cannot be read”? How should progress be measured when joined letters become hard to recognise?",
+    "question": "In object on a table versus object to a rule, a student is choosing by sound alone. What is the best correction?",
+    "audioPrompt": "In object on a table versus object to a rule, a student is choosing by sound alone. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “Count speed only, even if letters cannot be read” because it contains a familiar word.",
-      "Check the whole example: “Compare readability, comfort and suitable pace before and after targeted practice” matches the key clue, while “Count speed only, even if letters cannot be read” does not.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
-    "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Count speed only, even if letters cannot be read” fail and “Compare readability, comfort and suitable pace before and after targeted practice” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Count speed only, even if letters cannot be read” fail and “Compare readability, comfort and suitable pace before and after targeted practice” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-030",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "What should you check so you do not confuse “Copy several pages as fast as possible” with the correct answer? Which practice response best addresses this issue: ascenders vary greatly in height?",
-    "audioPrompt": "What should you check so you do not confuse “Copy several pages as fast as possible” with the correct answer? Which practice response best addresses this issue: ascenders vary greatly in height?",
+    "question": "In use context to choose a sound-alike word, a student is assuming one spelling pattern always has one sound. What is the best correction?",
+    "audioPrompt": "In use context to choose a sound-alike word, a student is assuming one spelling pattern always has one sound. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “Copy several pages as fast as possible” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex.",
-      "Check the whole example: “compare a short sample with a model and target one height pattern” matches the key clue, while “Copy several pages as fast as possible” does not."
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning."
     ],
-    "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Copy several pages as fast as possible” fail and “compare a short sample with a model and target one height pattern” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Copy several pages as fast as possible” fail and “compare a short sample with a model and target one height pattern” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-031",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Apply what you know to this example: When letters drift above and below the writing line, why is this response useful: practise one line of the affected letter pattern, then use it in a sentence?",
-    "audioPrompt": "Apply what you know to this example: When letters drift above and below the writing line, why is this response useful: practise one line of the affected letter pattern, then use it in a sentence?",
+    "question": "In read in “I read every day” versus “I read yesterday”, a student is ignoring sentence meaning. What is the best correction?",
+    "audioPrompt": "In read in “I read every day” versus “I read yesterday”, a student is ignoring sentence meaning. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It directly develops baseline alignment and transfers the change into normal writing",
-      "It guarantees that every letter must be joined",
-      "It avoids the need to check whether writing remains readable"
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
-    "correct": 0,
-    "explanation": "“It directly develops baseline alignment and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.\nHint: Explain the connection between the observed issue, the practice and the goal.",
-    "structuredExplanation": {
-      "summary": "“It directly develops baseline alignment and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.",
-      "hint": "Explain the connection between the observed issue, the practice and the goal."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-032",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Use the skill independently. How should progress be measured when joined letters become hard to recognise?",
-    "audioPrompt": "Use the skill independently. How should progress be measured when joined letters become hard to recognise?",
+    "question": "In bow in “take a bow” versus “tie a bow”, a student is changing spelling to match pronunciation. What is the best correction?",
+    "audioPrompt": "In bow in “take a bow” versus “tie a bow”, a student is changing spelling to match pronunciation. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Count speed only, even if letters cannot be read",
-      "Compare readability, comfort and suitable pace before and after targeted practice",
-      "Judge the page only by how decorative it looks"
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
-    "correct": 1,
-    "explanation": "“Compare readability, comfort and suitable pace before and after targeted practice” fits the meaning and the language clue in this example. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.\nHint: Use more than one measure and test the skill in real writing.",
-    "structuredExplanation": {
-      "summary": "“Compare readability, comfort and suitable pace before and after targeted practice” fits the meaning and the language clue in this example. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
-      "hint": "Use more than one measure and test the skill in real writing."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-033",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Work out the answer from the details given. Which practice response best addresses this issue: ascenders vary greatly in height?",
-    "audioPrompt": "Work out the answer from the details given. Which practice response best addresses this issue: ascenders vary greatly in height?",
+    "question": "In wind in “strong wind” versus “wind the clock”, a student is choosing by sound alone. What is the best correction?",
+    "audioPrompt": "In wind in “strong wind” versus “wind the clock”, a student is choosing by sound alone. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Copy several pages as fast as possible",
-      "Press harder and ignore discomfort",
-      "compare a short sample with a model and target one height pattern"
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning."
     ],
-    "correct": 2,
-    "explanation": "“compare a short sample with a model and target one height pattern” fits the meaning and the language clue in this example. Effective practice isolates one movement and then transfers it to meaningful writing.\nHint: Work accurately in a small dose before rebuilding normal pace.",
-    "structuredExplanation": {
-      "summary": "“compare a short sample with a model and target one height pattern” fits the meaning and the language clue in this example. Effective practice isolates one movement and then transfers it to meaningful writing.",
-      "hint": "Work accurately in a small dose before rebuilding normal pace."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-034",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Now use the idea in context. A handwriting sample shows that letters drift above and below the writing line. What should the writer target first?",
-    "audioPrompt": "Now use the idea in context. A handwriting sample shows that letters drift above and below the writing line. What should the writer target first?",
+    "question": "In tear in “a tear fell” versus “tear the paper”, a student is assuming one spelling pattern always has one sound. What is the best correction?",
+    "audioPrompt": "In tear in “a tear fell” versus “tear the paper”, a student is assuming one spelling pattern always has one sound. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "baseline alignment",
-      "joining every letter regardless of clarity",
-      "maximum speed with no rereading"
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
     "correct": 0,
-    "explanation": "“baseline alignment” fits the meaning and the language clue in this example. A specific diagnosis leads to an efficient practice target.\nHint: Choose the feature that most affects readability, comfort or fluency.",
-    "structuredExplanation": {
-      "summary": "“baseline alignment” fits the meaning and the language clue in this example. A specific diagnosis leads to an efficient practice target.",
-      "hint": "Choose the feature that most affects readability, comfort or fluency."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-035",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Choose carefully using meaning, not just a familiar word. When words run together during fast note-taking, why is this response useful: pause briefly between words while keeping letter movement fluent?",
-    "audioPrompt": "Choose carefully using meaning, not just a familiar word. When words run together during fast note-taking, why is this response useful: pause briefly between words while keeping letter movement fluent?",
+    "question": "In lead as a metal versus lead a team, a student is ignoring sentence meaning. What is the best correction?",
+    "audioPrompt": "In lead as a metal versus lead a team, a student is ignoring sentence meaning. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It guarantees that every letter must be joined",
-      "It directly develops word spacing and transfers the change into normal writing",
-      "It avoids the need to check whether writing remains readable"
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
-    "correct": 1,
-    "explanation": "“It directly develops word spacing and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.\nHint: Explain the connection between the observed issue, the practice and the goal.",
-    "structuredExplanation": {
-      "summary": "“It directly develops word spacing and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.",
-      "hint": "Explain the connection between the observed issue, the practice and the goal."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-036",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Which answer still works when you consider the whole example? How should progress be measured when the writer presses so hard that the hand tires?",
-    "audioPrompt": "Which answer still works when you consider the whole example? How should progress be measured when the writer presses so hard that the hand tires?",
+    "question": "In minute as time versus a minute detail, a student is changing spelling to match pronunciation. What is the best correction?",
+    "audioPrompt": "In minute as time versus a minute detail, a student is changing spelling to match pronunciation. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Count speed only, even if letters cannot be read",
-      "Judge the page only by how decorative it looks",
-      "Compare readability, comfort and suitable pace before and after targeted practice"
+      "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning."
     ],
-    "correct": 2,
-    "explanation": "“Compare readability, comfort and suitable pace before and after targeted practice” fits the meaning and the language clue in this example. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.\nHint: Use more than one measure and test the skill in real writing.",
-    "structuredExplanation": {
-      "summary": "“Compare readability, comfort and suitable pace before and after targeted practice” fits the meaning and the language clue in this example. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
-      "hint": "Use more than one measure and test the skill in real writing."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the notice pattern → say candidate words → use word parts → check sentence meaning → spell/read routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly08-p-037",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "letter pattern",
     "printable": true,
     "type": "single",
-    "question": "Use all the clues in this situation. Which practice response best addresses this issue: neat writing becomes extremely slow in a timed task?",
-    "audioPrompt": "Use all the clues in this situation. Which practice response best addresses this issue: neat writing becomes extremely slow in a timed task?",
+    "question": "Apply the skill independently to a fresh version of present a gift versus present a report. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of present a gift versus present a report. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "practise short meaningful passages while preserving readability",
-      "Copy several pages as fast as possible",
-      "Press harder and ignore discomfort"
+      "Use a personal preference as the main evidence.",
+      "Use letter pattern precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named."
     ],
-    "correct": 0,
-    "explanation": "“practise short meaningful passages while preserving readability” fits the meaning and the language clue in this example. Effective practice isolates one movement and then transfers it to meaningful writing.\nHint: Work accurately in a small dose before rebuilding normal pace.",
-    "structuredExplanation": {
-      "summary": "“practise short meaningful passages while preserving readability” fits the meaning and the language clue in this example. Effective practice isolates one movement and then transfers it to meaningful writing.",
-      "hint": "Work accurately in a small dose before rebuilding normal pace."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Use letter pattern precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   },
   {
     "id": "ac9e5ly08-p-038",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "pronunciation",
     "printable": true,
     "type": "single",
-    "question": "Decide which option is most precise. A handwriting sample shows that words run together during fast note-taking. What should the writer target first?",
-    "audioPrompt": "Decide which option is most precise. A handwriting sample shows that words run together during fast note-taking. What should the writer target first?",
+    "question": "Apply the skill independently to a fresh version of object on a table versus object to a rule. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of object on a table versus object to a rule. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "joining every letter regardless of clarity",
-      "word spacing",
-      "maximum speed with no rereading"
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use pronunciation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
     ],
-    "correct": 1,
-    "explanation": "“word spacing” fits the meaning and the language clue in this example. A specific diagnosis leads to an efficient practice target.\nHint: Choose the feature that most affects readability, comfort or fluency.",
-    "structuredExplanation": {
-      "summary": "“word spacing” fits the meaning and the language clue in this example. A specific diagnosis leads to an efficient practice target.",
-      "hint": "Choose the feature that most affects readability, comfort or fluency."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Use pronunciation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   },
   {
     "id": "ac9e5ly08-p-039",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "context",
     "printable": true,
     "type": "single",
-    "question": "Which choice best shows your understanding here? When joined letters become hard to recognise, why is this response useful: slow the difficult joins, check their shapes, then rebuild pace?",
-    "audioPrompt": "Which choice best shows your understanding here? When joined letters become hard to recognise, why is this response useful: slow the difficult joins, check their shapes, then rebuild pace?",
+    "question": "Apply the skill independently to a fresh version of use context to choose a sound-alike word. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of use context to choose a sound-alike word. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It guarantees that every letter must be joined",
-      "It avoids the need to check whether writing remains readable",
-      "It directly develops letter formation and transfers the change into normal writing"
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use context precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence."
     ],
-    "correct": 2,
-    "explanation": "“It directly develops letter formation and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.\nHint: Explain the connection between the observed issue, the practice and the goal.",
-    "structuredExplanation": {
-      "summary": "“It directly develops letter formation and transfers the change into normal writing” fits the meaning and the language clue in this example. Targeted practice is linked to diagnosed evidence and authentic use.",
-      "hint": "Explain the connection between the observed issue, the practice and the goal."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Use context precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   },
   {
     "id": "ac9e5ly08-p-040",
     "curriculumCode": "AC9E5LY08",
     "bank": "practice",
-    "skill": "fluent joined handwriting",
+    "skill": "homophone",
     "printable": true,
     "type": "single",
-    "question": "Read the full example before deciding. How should progress be measured when ascenders vary greatly in height?",
-    "audioPrompt": "Read the full example before deciding. How should progress be measured when ascenders vary greatly in height?",
+    "question": "Apply the skill independently to a fresh version of read in “I read every day” versus “I read yesterday”. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of read in “I read every day” versus “I read yesterday”. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Compare readability, comfort and suitable pace before and after targeted practice",
-      "Count speed only, even if letters cannot be read",
-      "Judge the page only by how decorative it looks"
+      "Use homophone precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named."
     ],
     "correct": 0,
-    "explanation": "“Compare readability, comfort and suitable pace before and after targeted practice” fits the meaning and the language clue in this example. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.\nHint: Use more than one measure and test the skill in real writing.",
-    "structuredExplanation": {
-      "summary": "“Compare readability, comfort and suitable pace before and after targeted practice” fits the meaning and the language clue in this example. Fluency balances automatic movement, legibility, comfort and task-appropriate pace.",
-      "hint": "Use more than one measure and test the skill in real writing."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Use homophone precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly08-p-041",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "skill": "phonic knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of bow in “take a bow” versus “tie a bow”. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of bow in “take a bow” versus “tie a bow”. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence.",
+      "Use phonic knowledge precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use phonic knowledge precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly08-p-042",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "skill": "morpheme",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of wind in “strong wind” versus “wind the clock”. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of wind in “strong wind” versus “wind the clock”. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use morpheme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 0,
+    "explanation": "Use morpheme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly08-p-043",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "skill": "letter pattern",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of tear in “a tear fell” versus “tear the paper”. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of tear in “a tear fell” versus “tear the paper”. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a personal preference as the main evidence.",
+      "Use letter pattern precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 1,
+    "explanation": "Use letter pattern precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly08-p-044",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "skill": "pronunciation",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of lead as a metal versus lead a team. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of lead as a metal versus lead a team. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use pronunciation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use pronunciation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly08-p-045",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "skill": "context",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of minute as time versus a minute detail. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of minute as time versus a minute detail. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use context precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 1,
+    "explanation": "Use context precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly08-p-046",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "skill": "homophone",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of close the door versus stand close. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of close the door versus stand close. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use homophone precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 0,
+    "explanation": "Use homophone precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly08-p-047",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "skill": "phonic knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of does as a verb versus female deer does. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of does as a verb versus female deer does. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence.",
+      "Use phonic knowledge precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use phonic knowledge precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly08-p-048",
+    "curriculumCode": "AC9E5LY08",
+    "bank": "practice",
+    "skill": "morpheme",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of row a boat versus have a row. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of row a boat versus have a row. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use morpheme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 0,
+    "explanation": "Use morpheme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

@@ -6,27 +6,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "What is the dominant purpose of a story following a joey during a flood?",
-    "audio_prompt": "What is the dominant purpose of a story following a joey during a flood?",
+    "skill": "purpose",
+    "question": "Which response best demonstrates the AC9E5 skill in a safety poster encouraging helmet use?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a safety poster encouraging helmet use?",
     "answers": [
       {
-        "text": "informative",
+        "text": "It names a feature in a safety poster encouraging helmet use but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "imaginative",
+        "text": "The response uses purpose and connects it to specific evidence in a safety poster encouraging helmet use.",
         "is_correct": true
       },
       {
-        "text": "persuasive",
+        "text": "It gives a personal reaction to a safety poster encouraging helmet use but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“imaginative” fits the meaning and the language clue in this example. The dominant purpose is to help readers experience the event.",
-      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+      "summary": "The response uses purpose and connects it to specific evidence in a safety poster encouraging helmet use. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -36,27 +36,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Read carefully: Which classification is best supported for a fact sheet explaining how mangroves protect coasts?",
-    "audio_prompt": "Read carefully: Which classification is best supported for a fact sheet explaining how mangroves protect coasts?",
+    "skill": "imaginative",
+    "question": "Which response best demonstrates the AC9E5 skill in a narrative about a lost dog?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a narrative about a lost dog?",
     "answers": [
       {
-        "text": "informative, because every text contains some information",
+        "text": "It names a feature in a narrative about a lost dog but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "imaginative, because a colourful image appears",
+        "text": "It gives a personal reaction to a narrative about a lost dog but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "informative, because its main feature pattern aims to help readers understand a process",
+        "text": "The response uses imaginative and connects it to specific evidence in a narrative about a lost dog.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“informative, because its main feature pattern aims to help readers understand a process” fits the meaning and the language clue in this example. Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Do not let one fact, colour or story moment decide the classification."
+      "summary": "The response uses imaginative and connects it to specific evidence in a narrative about a lost dog. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -66,27 +66,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which answer makes the most sense here? Why should a comic that teaches bike safety through a character's mistake use a narrative sequence plus explicit safety explanations?",
-    "audio_prompt": "Which answer makes the most sense here? Why should a comic that teaches bike safety through a character's mistake use a narrative sequence plus explicit safety explanations?",
+    "skill": "informative",
+    "question": "Which response best demonstrates the AC9E5 skill in an explanation of how bees pollinate?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in an explanation of how bees pollinate?",
     "answers": [
       {
-        "text": "They support the goal to teach safe choices through an engaging example",
+        "text": "It gives a personal reaction to an explanation of how bees pollinate but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses informative and connects it to specific evidence in an explanation of how bees pollinate.",
         "is_correct": true
       },
       {
-        "text": "They are required in every text",
-        "is_correct": false
-      },
-      {
-        "text": "They make the text belong to every purpose equally",
+        "text": "It names a feature in an explanation of how bees pollinate but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“They support the goal to teach safe choices through an engaging example” fits the meaning and the language clue in this example. Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Connect the pattern of features to the audience outcome."
+      "summary": "The response uses informative and connects it to specific evidence in an explanation of how bees pollinate. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -96,27 +96,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Look at the wording and meaning. Which feature pattern best suits a biography describing a scientist's discoveries?",
-    "audio_prompt": "Look at the wording and meaning. Which feature pattern best suits a biography describing a scientist's discoveries?",
+    "skill": "persuasive",
+    "question": "Which response best demonstrates the AC9E5 skill in a brochure asking families to save water?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a brochure asking families to save water?",
     "answers": [
       {
-        "text": "a random mixture of facts and jokes",
-        "is_correct": false
-      },
-      {
-        "text": "chronological stages, factual detail and source captions",
+        "text": "The response uses persuasive and connects it to specific evidence in a brochure asking families to save water.",
         "is_correct": true
       },
       {
-        "text": "a decorative border with no connection to meaning",
+        "text": "It names a feature in a brochure asking families to save water but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a personal reaction to a brochure asking families to save water but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“chronological stages, factual detail and source captions” fits the meaning and the language clue in this example. These features work together to explain a person's contribution.",
-      "hint": "Choose features by their combined purpose, not by one isolated detail."
+      "summary": "The response uses persuasive and connects it to specific evidence in a brochure asking families to save water. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -126,27 +126,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Choose the option that fits the situation best. What is the dominant purpose of a fact sheet explaining how mangroves protect coasts?",
-    "audio_prompt": "Choose the option that fits the situation best. What is the dominant purpose of a fact sheet explaining how mangroves protect coasts?",
+    "skill": "text_structure",
+    "question": "Which response best demonstrates the AC9E5 skill in a biography arranged in time order?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a biography arranged in time order?",
     "answers": [
       {
-        "text": "persuasive",
+        "text": "It gives a personal reaction to a biography arranged in time order but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "imaginative",
+        "text": "It names a feature in a biography arranged in time order but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "informative",
+        "text": "The response uses text structure and connects it to specific evidence in a biography arranged in time order.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“informative” fits the meaning and the language clue in this example. The dominant purpose is to help readers understand a process.",
-      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+      "summary": "The response uses text structure and connects it to specific evidence in a biography arranged in time order. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -156,27 +156,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which choice is accurate in this example? Which classification is best supported for a speech asking council to protect an old tree?",
-    "audio_prompt": "Which choice is accurate in this example? Which classification is best supported for a speech asking council to protect an old tree?",
+    "skill": "story_element",
+    "question": "Which response best demonstrates the AC9E5 skill in an article comparing two planets?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in an article comparing two planets?",
     "answers": [
       {
-        "text": "persuasive, because its main feature pattern aims to convince listeners to protect the tree",
+        "text": "The response uses story element and connects it to specific evidence in an article comparing two planets.",
         "is_correct": true
       },
       {
-        "text": "informative, because every text contains some information",
+        "text": "It gives a personal reaction to an article comparing two planets but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "imaginative, because a colourful image appears",
+        "text": "It names a feature in an article comparing two planets but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“persuasive, because its main feature pattern aims to convince listeners to protect the tree” fits the meaning and the language clue in this example. Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Do not let one fact, colour or story moment decide the classification."
+      "summary": "The response uses story element and connects it to specific evidence in an article comparing two planets. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -186,27 +186,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Focus on the key clue. Why should a webpage urging families to reduce food waste use measured waste data, recommendations and direct audience address?",
-    "audio_prompt": "Focus on the key clue. Why should a webpage urging families to reduce food waste use measured waste data, recommendations and direct audience address?",
+    "skill": "evidence",
+    "question": "Which response best demonstrates the AC9E5 skill in a story with a problem and resolution?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a story with a problem and resolution?",
     "answers": [
       {
-        "text": "They are required in every text",
+        "text": "It names a feature in a story with a problem and resolution but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "They support the goal to encourage a change in behaviour",
+        "text": "The response uses evidence and connects it to specific evidence in a story with a problem and resolution.",
         "is_correct": true
       },
       {
-        "text": "They make the text belong to every purpose equally",
+        "text": "It gives a personal reaction to a story with a problem and resolution but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“They support the goal to encourage a change in behaviour” fits the meaning and the language clue in this example. Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Connect the pattern of features to the audience outcome."
+      "summary": "The response uses evidence and connects it to specific evidence in a story with a problem and resolution. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -216,27 +216,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "What works best in this situation? Which feature pattern best suits a story following a joey during a flood?",
-    "audio_prompt": "What works best in this situation? Which feature pattern best suits a story following a joey during a flood?",
+    "skill": "purpose",
+    "question": "Which response best demonstrates the AC9E5 skill in an information text organised by cause and effect?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in an information text organised by cause and effect?",
     "answers": [
       {
-        "text": "a random mixture of facts and jokes",
+        "text": "It names a feature in an information text organised by cause and effect but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "a decorative border with no connection to meaning",
+        "text": "It gives a personal reaction to an information text organised by cause and effect but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "a viewpoint, rising danger and sensory detail",
+        "text": "The response uses purpose and connects it to specific evidence in an information text organised by cause and effect.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“a viewpoint, rising danger and sensory detail” fits the meaning and the language clue in this example. These features work together to help readers experience the event.",
-      "hint": "Choose features by their combined purpose, not by one isolated detail."
+      "summary": "The response uses purpose and connects it to specific evidence in an information text organised by cause and effect. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -246,27 +246,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which option matches what is happening? What is the dominant purpose of a speech asking council to protect an old tree?",
-    "audio_prompt": "Which option matches what is happening? What is the dominant purpose of a speech asking council to protect an old tree?",
+    "skill": "imaginative",
+    "question": "Which response best demonstrates the AC9E5 skill in a speech asking for a school garden?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a speech asking for a school garden?",
     "answers": [
       {
-        "text": "persuasive",
+        "text": "It gives a personal reaction to a speech asking for a school garden but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses imaginative and connects it to specific evidence in a speech asking for a school garden.",
         "is_correct": true
       },
       {
-        "text": "informative",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative",
+        "text": "It names a feature in a speech asking for a school garden but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“persuasive” fits the meaning and the language clue in this example. The dominant purpose is to convince listeners to protect the tree.",
-      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+      "summary": "The response uses imaginative and connects it to specific evidence in a speech asking for a school garden. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -276,27 +276,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Use the details in the example. Which classification is best supported for a comic that teaches bike safety through a character's mistake?",
-    "audio_prompt": "Use the details in the example. Which classification is best supported for a comic that teaches bike safety through a character's mistake?",
+    "skill": "informative",
+    "question": "Which response best demonstrates the AC9E5 skill in a comic designed mainly to entertain?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a comic designed mainly to entertain?",
     "answers": [
       {
-        "text": "informative, because every text contains some information",
-        "is_correct": false
-      },
-      {
-        "text": "hybrid with an informative purpose, because its main feature pattern aims to teach safe choices through an engaging example",
+        "text": "The response uses informative and connects it to specific evidence in a comic designed mainly to entertain.",
         "is_correct": true
       },
       {
-        "text": "imaginative, because a colourful image appears",
+        "text": "It names a feature in a comic designed mainly to entertain but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a personal reaction to a comic designed mainly to entertain but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“hybrid with an informative purpose, because its main feature pattern aims to teach safe choices through an engaging example” fits the meaning and the language clue in this example. Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Do not let one fact, colour or story moment decide the classification."
+      "summary": "The response uses informative and connects it to specific evidence in a comic designed mainly to entertain. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -305,28 +305,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Why is “a viewpoint, rising danger and sensory detail” the strongest answer to this question: Which feature pattern best suits a story following a joey during a flood?",
-    "audio_prompt": "Why is “a viewpoint, rising danger and sensory detail” the strongest answer to this question: Which feature pattern best suits a story following a joey during a flood?",
+    "stage": "recognise",
+    "skill": "persuasive",
+    "question": "Which response best demonstrates the AC9E5 skill in instructions that also persuade readers to act safely?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in instructions that also persuade readers to act safely?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It gives a personal reaction to instructions that also persuade readers to act safely but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "It names a feature in instructions that also persuade readers to act safely but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "The response uses persuasive and connects it to specific evidence in instructions that also persuade readers to act safely.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. These features work together to help readers experience the event.",
-      "hint": "Find the exact clue that makes “a viewpoint, rising danger and sensory detail” fit."
+      "summary": "The response uses persuasive and connects it to specific evidence in instructions that also persuade readers to act safely. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -335,28 +335,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "What makes “persuasive” work in this example? What is the dominant purpose of a speech asking council to protect an old tree?",
-    "audio_prompt": "What makes “persuasive” work in this example? What is the dominant purpose of a speech asking council to protect an old tree?",
+    "stage": "recognise",
+    "skill": "text_structure",
+    "question": "Which response best demonstrates the AC9E5 skill in a report with headings and technical vocabulary?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a report with headings and technical vocabulary?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "The response uses text structure and connects it to specific evidence in a report with headings and technical vocabulary.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It gives a personal reaction to a report with headings and technical vocabulary but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "It names a feature in a report with headings and technical vocabulary but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The dominant purpose is to convince listeners to protect the tree.",
-      "hint": "Find the exact clue that makes “persuasive” fit."
+      "summary": "The response uses text structure and connects it to specific evidence in a report with headings and technical vocabulary. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -365,28 +365,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which reason best explains why “hybrid with an informative purpose, because its main feature pattern aims to teach safe choices through an engaging example” fits? Which classification is best supported for a comic that teaches bike safety through a character's mistake?",
-    "audio_prompt": "Which reason best explains why “hybrid with an informative purpose, because its main feature pattern aims to teach safe choices through an engaging example” fits? Which classification is best supported for a comic that teaches bike safety through a character's mistake?",
+    "stage": "reason",
+    "skill": "imaginative",
+    "question": "A student gives an answer about a brochure asking families to save water. Why is the strongest explanation the one that links imaginative to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a brochure asking families to save water. Why is the strongest explanation the one that links imaginative to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because imaginative is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Find the exact clue that makes “hybrid with an informative purpose, because its main feature pattern aims to teach safe choices through an engaging example” fit."
+      "summary": "Because imaginative is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -395,28 +395,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "How does “They support the goal to explain a person's contribution” match the meaning of this example? Why should a biography describing a scientist's discoveries use chronological stages, factual detail and source captions?",
-    "audio_prompt": "How does “They support the goal to explain a person's contribution” match the meaning of this example? Why should a biography describing a scientist's discoveries use chronological stages, factual detail and source captions?",
+    "stage": "reason",
+    "skill": "informative",
+    "question": "A student gives an answer about a biography arranged in time order. Why is the strongest explanation the one that links informative to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a biography arranged in time order. Why is the strongest explanation the one that links informative to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because informative is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Find the exact clue that makes “They support the goal to explain a person's contribution” fit."
+      "summary": "Because informative is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -425,28 +425,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Why does “headings, technical terms and a labelled root diagram” suit this situation better than the other choices? Which feature pattern best suits a fact sheet explaining how mangroves protect coasts?",
-    "audio_prompt": "Why does “headings, technical terms and a labelled root diagram” suit this situation better than the other choices? Which feature pattern best suits a fact sheet explaining how mangroves protect coasts?",
+    "stage": "reason",
+    "skill": "persuasive",
+    "question": "A student gives an answer about an article comparing two planets. Why is the strongest explanation the one that links persuasive to evidence and effect?",
+    "audio_prompt": "A student gives an answer about an article comparing two planets. Why is the strongest explanation the one that links persuasive to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because persuasive is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. These features work together to help readers understand a process.",
-      "hint": "Find the exact clue that makes “headings, technical terms and a labelled root diagram” fit."
+      "summary": "Because persuasive is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -455,28 +455,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "What clue in the example supports “hybrid with an informative purpose”? What is the dominant purpose of a comic that teaches bike safety through a character's mistake?",
-    "audio_prompt": "What clue in the example supports “hybrid with an informative purpose”? What is the dominant purpose of a comic that teaches bike safety through a character's mistake?",
+    "stage": "reason",
+    "skill": "text_structure",
+    "question": "A student gives an answer about a story with a problem and resolution. Why is the strongest explanation the one that links text structure to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a story with a problem and resolution. Why is the strongest explanation the one that links text structure to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The dominant purpose is to teach safe choices through an engaging example.",
-      "hint": "Find the exact clue that makes “hybrid with an informative purpose” fit."
+      "summary": "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -485,28 +485,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which explanation shows why “persuasive, because its main feature pattern aims to encourage a change in behaviour” is correct here? Which classification is best supported for a webpage urging families to reduce food waste?",
-    "audio_prompt": "Which explanation shows why “persuasive, because its main feature pattern aims to encourage a change in behaviour” is correct here? Which classification is best supported for a webpage urging families to reduce food waste?",
+    "stage": "reason",
+    "skill": "story_element",
+    "question": "A student gives an answer about an information text organised by cause and effect. Why is the strongest explanation the one that links story element to evidence and effect?",
+    "audio_prompt": "A student gives an answer about an information text organised by cause and effect. Why is the strongest explanation the one that links story element to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because story element is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Find the exact clue that makes “persuasive, because its main feature pattern aims to encourage a change in behaviour” fit."
+      "summary": "Because story element is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -515,28 +515,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Why would “They support the goal to help readers experience the event” make sense to a careful reader? Why should a story following a joey during a flood use a viewpoint, rising danger and sensory detail?",
-    "audio_prompt": "Why would “They support the goal to help readers experience the event” make sense to a careful reader? Why should a story following a joey during a flood use a viewpoint, rising danger and sensory detail?",
+    "stage": "reason",
+    "skill": "evidence",
+    "question": "A student gives an answer about a speech asking for a school garden. Why is the strongest explanation the one that links evidence to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a speech asking for a school garden. Why is the strongest explanation the one that links evidence to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Find the exact clue that makes “They support the goal to help readers experience the event” fit."
+      "summary": "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -545,28 +545,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "What is the best reason for choosing “a clear position, evidence and a call to act”? Which feature pattern best suits a speech asking council to protect an old tree?",
-    "audio_prompt": "What is the best reason for choosing “a clear position, evidence and a call to act”? Which feature pattern best suits a speech asking council to protect an old tree?",
+    "stage": "reason",
+    "skill": "purpose",
+    "question": "A student gives an answer about a comic designed mainly to entertain. Why is the strongest explanation the one that links purpose to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a comic designed mainly to entertain. Why is the strongest explanation the one that links purpose to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because purpose is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. These features work together to convince listeners to protect the tree.",
-      "hint": "Find the exact clue that makes “a clear position, evidence and a call to act” fit."
+      "summary": "Because purpose is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -575,28 +575,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which explanation connects “persuasive” to the key clue? What is the dominant purpose of a webpage urging families to reduce food waste?",
-    "audio_prompt": "Which explanation connects “persuasive” to the key clue? What is the dominant purpose of a webpage urging families to reduce food waste?",
+    "stage": "reason",
+    "skill": "imaginative",
+    "question": "A student gives an answer about instructions that also persuade readers to act safely. Why is the strongest explanation the one that links imaginative to evidence and effect?",
+    "audio_prompt": "A student gives an answer about instructions that also persuade readers to act safely. Why is the strongest explanation the one that links imaginative to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because imaginative is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The dominant purpose is to encourage a change in behaviour.",
-      "hint": "Find the exact clue that makes “persuasive” fit."
+      "summary": "Because imaginative is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -605,28 +605,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "“They are required in every text” might seem possible at first. What should you notice before answering this question: Why should a story following a joey during a flood use a viewpoint, rising danger and sensory detail?",
-    "audio_prompt": "“They are required in every text” might seem possible at first. What should you notice before answering this question: Why should a story following a joey during a flood use a viewpoint, rising danger and sensory detail?",
+    "stage": "reason",
+    "skill": "informative",
+    "question": "A student gives an answer about a report with headings and technical vocabulary. Why is the strongest explanation the one that links informative to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a report with headings and technical vocabulary. Why is the strongest explanation the one that links informative to evidence and effect?",
     "answers": [
       {
-        "text": "Check the whole example: “They support the goal to help readers experience the event” matches the key clue, while “They are required in every text” does not.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because informative is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Keep “They are required in every text” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “They are required in every text” fail and “They support the goal to help readers experience the event” succeed."
+      "summary": "Because informative is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -635,28 +635,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Why is “a random mixture of facts and jokes” not the best choice here? Which feature pattern best suits a speech asking council to protect an old tree?",
-    "audio_prompt": "Why is “a random mixture of facts and jokes” not the best choice here? Which feature pattern best suits a speech asking council to protect an old tree?",
+    "stage": "reason",
+    "skill": "persuasive",
+    "question": "A student gives an answer about a safety poster encouraging helmet use. Why is the strongest explanation the one that links persuasive to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a safety poster encouraging helmet use. Why is the strongest explanation the one that links persuasive to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “a random mixture of facts and jokes” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “a clear position, evidence and a call to act” matches the key clue, while “a random mixture of facts and jokes” does not.",
+        "text": "Because persuasive is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “a random mixture of facts and jokes” fail and “a clear position, evidence and a call to act” succeed."
+      "summary": "Because persuasive is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -665,28 +665,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Compare “informative” with “persuasive”. What important difference matters in this example? What is the dominant purpose of a webpage urging families to reduce food waste?",
-    "audio_prompt": "Compare “informative” with “persuasive”. What important difference matters in this example? What is the dominant purpose of a webpage urging families to reduce food waste?",
+    "stage": "reason",
+    "skill": "text_structure",
+    "question": "A student gives an answer about a narrative about a lost dog. Why is the strongest explanation the one that links text structure to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a narrative about a lost dog. Why is the strongest explanation the one that links text structure to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “informative” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “persuasive” matches the key clue, while “informative” does not.",
+        "text": "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “informative” fail and “persuasive” succeed."
+      "summary": "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -695,28 +695,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which clue rules out “informative, because every text contains some information” in this situation? Which classification is best supported for a biography describing a scientist's discoveries?",
-    "audio_prompt": "Which clue rules out “informative, because every text contains some information” in this situation? Which classification is best supported for a biography describing a scientist's discoveries?",
+    "stage": "reason",
+    "skill": "story_element",
+    "question": "A student gives an answer about an explanation of how bees pollinate. Why is the strongest explanation the one that links story element to evidence and effect?",
+    "audio_prompt": "A student gives an answer about an explanation of how bees pollinate. Why is the strongest explanation the one that links story element to evidence and effect?",
     "answers": [
       {
-        "text": "Check the whole example: “informative, because its main feature pattern aims to explain a person's contribution” matches the key clue, while “informative, because every text contains some information” does not.",
+        "text": "Because story element is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Keep “informative, because every text contains some information” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “informative, because every text contains some information” fail and “informative, because its main feature pattern aims to explain a person's contribution” succeed."
+      "summary": "Because story element is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -726,27 +726,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "A quick reader might choose “They are required in every text”. What would a closer reading show? Why should a fact sheet explaining how mangroves protect coasts use headings, technical terms and a labelled root diagram?",
-    "audio_prompt": "A quick reader might choose “They are required in every text”. What would a closer reading show? Why should a fact sheet explaining how mangroves protect coasts use headings, technical terms and a labelled root diagram?",
+    "skill": "misconception_control",
+    "question": "In a story with a problem and resolution, a student is confusing topic with purpose. What is the best correction?",
+    "audio_prompt": "In a story with a problem and resolution, a student is confusing topic with purpose. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “They are required in every text” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “They support the goal to help readers understand a process” matches the key clue, while “They are required in every text” does not.",
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “They are required in every text” fail and “They support the goal to help readers understand a process” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -756,27 +756,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "What makes “a narrative sequence plus explicit safety explanations” more precise than “a random mixture of facts and jokes” here? Which feature pattern best suits a comic that teaches bike safety through a character's mistake?",
-    "audio_prompt": "What makes “a narrative sequence plus explicit safety explanations” more precise than “a random mixture of facts and jokes” here? Which feature pattern best suits a comic that teaches bike safety through a character's mistake?",
+    "skill": "misconception_control",
+    "question": "In an information text organised by cause and effect, a student is naming a structure without explaining its role. What is the best correction?",
+    "audio_prompt": "In an information text organised by cause and effect, a student is naming a structure without explaining its role. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “a random mixture of facts and jokes” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “a narrative sequence plus explicit safety explanations” matches the key clue, while “a random mixture of facts and jokes” does not.",
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “a random mixture of facts and jokes” fail and “a narrative sequence plus explicit safety explanations” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -786,27 +786,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which detail helps you reject “persuasive”? What is the dominant purpose of a biography describing a scientist's discoveries?",
-    "audio_prompt": "Which detail helps you reject “persuasive”? What is the dominant purpose of a biography describing a scientist's discoveries?",
+    "skill": "misconception_control",
+    "question": "In a speech asking for a school garden, a student is assuming any fact makes a text informative. What is the best correction?",
+    "audio_prompt": "In a speech asking for a school garden, a student is assuming any fact makes a text informative. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “informative” matches the key clue, while “persuasive” does not.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “persuasive” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “persuasive” fail and “informative” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -816,27 +816,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "What is the problem with choosing “informative, because every text contains some information” for this example? Which classification is best supported for a story following a joey during a flood?",
-    "audio_prompt": "What is the problem with choosing “informative, because every text contains some information” for this example? Which classification is best supported for a story following a joey during a flood?",
+    "skill": "misconception_control",
+    "question": "In a comic designed mainly to entertain, a student is assuming any command makes a text persuasive. What is the best correction?",
+    "audio_prompt": "In a comic designed mainly to entertain, a student is assuming any command makes a text persuasive. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “informative, because every text contains some information” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “imaginative, because its main feature pattern aims to help readers experience the event” matches the key clue, while “informative, because every text contains some information” does not.",
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “informative, because every text contains some information” fail and “imaginative, because its main feature pattern aims to help readers experience the event” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -846,27 +846,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which comparison best separates “They support the goal to convince listeners to protect the tree” from “They are required in every text”? Why should a speech asking council to protect an old tree use a clear position, evidence and a call to act?",
-    "audio_prompt": "Which comparison best separates “They support the goal to convince listeners to protect the tree” from “They are required in every text”? Why should a speech asking council to protect an old tree use a clear position, evidence and a call to act?",
+    "skill": "misconception_control",
+    "question": "In instructions that also persuade readers to act safely, a student is confusing topic with purpose. What is the best correction?",
+    "audio_prompt": "In instructions that also persuade readers to act safely, a student is confusing topic with purpose. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “They are required in every text” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “They support the goal to convince listeners to protect the tree” matches the key clue, while “They are required in every text” does not.",
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “They are required in every text” fail and “They support the goal to convince listeners to protect the tree” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -876,27 +876,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "What should you check so you do not confuse “a random mixture of facts and jokes” with the correct answer? Which feature pattern best suits a webpage urging families to reduce food waste?",
-    "audio_prompt": "What should you check so you do not confuse “a random mixture of facts and jokes” with the correct answer? Which feature pattern best suits a webpage urging families to reduce food waste?",
+    "skill": "misconception_control",
+    "question": "In a report with headings and technical vocabulary, a student is naming a structure without explaining its role. What is the best correction?",
+    "audio_prompt": "In a report with headings and technical vocabulary, a student is naming a structure without explaining its role. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “measured waste data, recommendations and direct audience address” matches the key clue, while “a random mixture of facts and jokes” does not.",
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “a random mixture of facts and jokes” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “a random mixture of facts and jokes” fail and “measured waste data, recommendations and direct audience address” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -905,28 +905,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Apply what you know to this example: Which classification is best supported for a story following a joey during a flood?",
-    "audio_prompt": "Apply what you know to this example: Which classification is best supported for a story following a joey during a flood?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a safety poster encouraging helmet use, a student is assuming any fact makes a text informative. What is the best correction?",
+    "audio_prompt": "In a safety poster encouraging helmet use, a student is assuming any fact makes a text informative. What is the best correction?",
     "answers": [
       {
-        "text": "informative, because every text contains some information",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "imaginative, because its main feature pattern aims to help readers experience the event",
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "imaginative, because a colourful image appears",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“imaginative, because its main feature pattern aims to help readers experience the event” fits the meaning and the language clue in this example. Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Do not let one fact, colour or story moment decide the classification."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -935,28 +935,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Use the skill independently. Why should a speech asking council to protect an old tree use a clear position, evidence and a call to act?",
-    "audio_prompt": "Use the skill independently. Why should a speech asking council to protect an old tree use a clear position, evidence and a call to act?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a narrative about a lost dog, a student is assuming any command makes a text persuasive. What is the best correction?",
+    "audio_prompt": "In a narrative about a lost dog, a student is assuming any command makes a text persuasive. What is the best correction?",
     "answers": [
       {
-        "text": "They are required in every text",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "They make the text belong to every purpose equally",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "They support the goal to convince listeners to protect the tree",
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“They support the goal to convince listeners to protect the tree” fits the meaning and the language clue in this example. Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Connect the pattern of features to the audience outcome."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -965,28 +965,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Work out the answer from the details given. Which feature pattern best suits a webpage urging families to reduce food waste?",
-    "audio_prompt": "Work out the answer from the details given. Which feature pattern best suits a webpage urging families to reduce food waste?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In an explanation of how bees pollinate, a student is confusing topic with purpose. What is the best correction?",
+    "audio_prompt": "In an explanation of how bees pollinate, a student is confusing topic with purpose. What is the best correction?",
     "answers": [
       {
-        "text": "measured waste data, recommendations and direct audience address",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "a random mixture of facts and jokes",
-        "is_correct": false
-      },
-      {
-        "text": "a decorative border with no connection to meaning",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“measured waste data, recommendations and direct audience address” fits the meaning and the language clue in this example. These features work together to encourage a change in behaviour.",
-      "hint": "Choose features by their combined purpose, not by one isolated detail."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -995,28 +995,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Now use the idea in context. What is the dominant purpose of a story following a joey during a flood?",
-    "audio_prompt": "Now use the idea in context. What is the dominant purpose of a story following a joey during a flood?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a brochure asking families to save water, a student is naming a structure without explaining its role. What is the best correction?",
+    "audio_prompt": "In a brochure asking families to save water, a student is naming a structure without explaining its role. What is the best correction?",
     "answers": [
       {
-        "text": "informative",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative",
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "persuasive",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“imaginative” fits the meaning and the language clue in this example. The dominant purpose is to help readers experience the event.",
-      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1025,28 +1025,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Choose carefully using meaning, not just a familiar word. Which classification is best supported for a fact sheet explaining how mangroves protect coasts?",
-    "audio_prompt": "Choose carefully using meaning, not just a familiar word. Which classification is best supported for a fact sheet explaining how mangroves protect coasts?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a biography arranged in time order, a student is assuming any fact makes a text informative. What is the best correction?",
+    "audio_prompt": "In a biography arranged in time order, a student is assuming any fact makes a text informative. What is the best correction?",
     "answers": [
       {
-        "text": "informative, because every text contains some information",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "imaginative, because a colourful image appears",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "informative, because its main feature pattern aims to help readers understand a process",
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“informative, because its main feature pattern aims to help readers understand a process” fits the meaning and the language clue in this example. Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Do not let one fact, colour or story moment decide the classification."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1055,28 +1055,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which answer still works when you consider the whole example? Why should a comic that teaches bike safety through a character's mistake use a narrative sequence plus explicit safety explanations?",
-    "audio_prompt": "Which answer still works when you consider the whole example? Why should a comic that teaches bike safety through a character's mistake use a narrative sequence plus explicit safety explanations?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In an article comparing two planets, a student is assuming any command makes a text persuasive. What is the best correction?",
+    "audio_prompt": "In an article comparing two planets, a student is assuming any command makes a text persuasive. What is the best correction?",
     "answers": [
       {
-        "text": "They support the goal to teach safe choices through an engaging example",
+        "text": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "They are required in every text",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "They make the text belong to every purpose equally",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“They support the goal to teach safe choices through an engaging example” fits the meaning and the language clue in this example. Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Connect the pattern of features to the audience outcome."
+      "summary": "Return to the exact evidence, apply the purpose → text type → characteristic feature → evidence → why it fits routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1085,28 +1085,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Use all the clues in this situation. Which feature pattern best suits a biography describing a scientist's discoveries?",
-    "audio_prompt": "Use all the clues in this situation. Which feature pattern best suits a biography describing a scientist's discoveries?",
+    "stage": "transfer",
+    "skill": "informative",
+    "question": "Apply the skill independently to a fresh version of a comic designed mainly to entertain. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a comic designed mainly to entertain. Which approach is strongest?",
     "answers": [
       {
-        "text": "a random mixture of facts and jokes",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "chronological stages, factual detail and source captions",
+        "text": "Use informative precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "a decorative border with no connection to meaning",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“chronological stages, factual detail and source captions” fits the meaning and the language clue in this example. These features work together to explain a person's contribution.",
-      "hint": "Choose features by their combined purpose, not by one isolated detail."
+      "summary": "Use informative precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1115,28 +1115,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Decide which option is most precise. What is the dominant purpose of a fact sheet explaining how mangroves protect coasts?",
-    "audio_prompt": "Decide which option is most precise. What is the dominant purpose of a fact sheet explaining how mangroves protect coasts?",
+    "stage": "transfer",
+    "skill": "persuasive",
+    "question": "Apply the skill independently to a fresh version of instructions that also persuade readers to act safely. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of instructions that also persuade readers to act safely. Which approach is strongest?",
     "answers": [
       {
-        "text": "persuasive",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "imaginative",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       },
       {
-        "text": "informative",
+        "text": "Use persuasive precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“informative” fits the meaning and the language clue in this example. The dominant purpose is to help readers understand a process.",
-      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+      "summary": "Use persuasive precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1145,28 +1145,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which choice best shows your understanding here? Which classification is best supported for a speech asking council to protect an old tree?",
-    "audio_prompt": "Which choice best shows your understanding here? Which classification is best supported for a speech asking council to protect an old tree?",
+    "stage": "transfer",
+    "skill": "text_structure",
+    "question": "Apply the skill independently to a fresh version of a report with headings and technical vocabulary. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a report with headings and technical vocabulary. Which approach is strongest?",
     "answers": [
       {
-        "text": "persuasive, because its main feature pattern aims to convince listeners to protect the tree",
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "informative, because every text contains some information",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative, because a colourful image appears",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“persuasive, because its main feature pattern aims to convince listeners to protect the tree” fits the meaning and the language clue in this example. Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Do not let one fact, colour or story moment decide the classification."
+      "summary": "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1175,28 +1175,268 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Read the full example before deciding. Why should a webpage urging families to reduce food waste use measured waste data, recommendations and direct audience address?",
-    "audio_prompt": "Read the full example before deciding. Why should a webpage urging families to reduce food waste use measured waste data, recommendations and direct audience address?",
+    "stage": "transfer",
+    "skill": "story_element",
+    "question": "Apply the skill independently to a fresh version of a safety poster encouraging helmet use. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a safety poster encouraging helmet use. Which approach is strongest?",
     "answers": [
       {
-        "text": "They are required in every text",
-        "is_correct": false
-      },
-      {
-        "text": "They support the goal to encourage a change in behaviour",
+        "text": "Use story element precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "They make the text belong to every purpose equally",
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use story element precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY03-P-041",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "evidence",
+    "question": "Apply the skill independently to a fresh version of a narrative about a lost dog. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a narrative about a lost dog. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY03-P-042",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "purpose",
+    "question": "Apply the skill independently to a fresh version of an explanation of how bees pollinate. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of an explanation of how bees pollinate. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use purpose precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use purpose precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY03-P-043",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "imaginative",
+    "question": "Apply the skill independently to a fresh version of a brochure asking families to save water. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a brochure asking families to save water. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use imaginative precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“They support the goal to encourage a change in behaviour” fits the meaning and the language clue in this example. Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Connect the pattern of features to the audience outcome."
+      "summary": "Use imaginative precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY03-P-044",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "informative",
+    "question": "Apply the skill independently to a fresh version of a biography arranged in time order. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a biography arranged in time order. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use informative precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use informative precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY03-P-045",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "persuasive",
+    "question": "Apply the skill independently to a fresh version of an article comparing two planets. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of an article comparing two planets. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use persuasive precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use persuasive precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY03-P-046",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "text_structure",
+    "question": "Apply the skill independently to a fresh version of a story with a problem and resolution. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a story with a problem and resolution. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY03-P-047",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "story_element",
+    "question": "Apply the skill independently to a fresh version of an information text organised by cause and effect. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of an information text organised by cause and effect. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use story element precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use story element precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY03-P-048",
+    "curriculum_code": "AC9E5LY03",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "evidence",
+    "question": "Apply the skill independently to a fresh version of a speech asking for a school garden. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a speech asking for a school garden. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1206,27 +1446,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "What is the dominant purpose of a poem creating the mood of an approaching storm?",
-    "audio_prompt": "What is the dominant purpose of a poem creating the mood of an approaching storm?",
+    "skill": "imaginative",
+    "question": "In an unseen Year 5 task about a brochure asking families to save water, after a first reading, which answer best shows independent understanding of imaginative?",
+    "audio_prompt": "In an unseen Year 5 task about a brochure asking families to save water, after a first reading, which answer best shows independent understanding of imaginative?",
     "answers": [
       {
-        "text": "informative",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "persuasive",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative",
+        "text": "It identifies the relevant imaginative, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The dominant purpose is to create an experience and mood.",
-      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+      "summary": "It identifies the relevant imaginative, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1236,27 +1476,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Read this new example closely. Which feature pattern best suits a poem creating the mood of an approaching storm?",
-    "audio_prompt": "Read this new example closely. Which feature pattern best suits a poem creating the mood of an approaching storm?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about a speech asking for a school garden, when checking the strongest clue, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about a speech asking for a school garden, when checking the strongest clue, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "imagery, rhythm and carefully chosen sound patterns",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "a random mixture of facts and jokes",
-        "is_correct": false
-      },
-      {
-        "text": "a decorative border with no connection to meaning",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "These features work together to create an experience and mood.",
-      "hint": "Choose features by their combined purpose, not by one isolated detail."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1266,27 +1506,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which answer is most accurate here? Why should a poem creating the mood of an approaching storm use imagery, rhythm and carefully chosen sound patterns?",
-    "audio_prompt": "Which answer is most accurate here? Why should a poem creating the mood of an approaching storm use imagery, rhythm and carefully chosen sound patterns?",
+    "skill": "purpose",
+    "question": "In an unseen Year 5 task about a narrative about a lost dog, when comparing two plausible choices, which answer best shows independent understanding of purpose?",
+    "audio_prompt": "In an unseen Year 5 task about a narrative about a lost dog, when comparing two plausible choices, which answer best shows independent understanding of purpose?",
     "answers": [
       {
-        "text": "They are required in every text",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "They support the goal to create an experience and mood",
+        "text": "It identifies the relevant purpose, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "They make the text belong to every purpose equally",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Connect the pattern of features to the audience outcome."
+      "summary": "It identifies the relevant purpose, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1296,27 +1536,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Use the details in this new situation. Which classification is best supported for a poem creating the mood of an approaching storm?",
-    "audio_prompt": "Use the details in this new situation. Which classification is best supported for a poem creating the mood of an approaching storm?",
+    "skill": "persuasive",
+    "question": "In an unseen Year 5 task about a story with a problem and resolution, after rereading the final detail, which answer best shows independent understanding of persuasive?",
+    "audio_prompt": "In an unseen Year 5 task about a story with a problem and resolution, after rereading the final detail, which answer best shows independent understanding of persuasive?",
     "answers": [
       {
-        "text": "informative, because every text contains some information",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative, because a colourful image appears",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative, because its main feature pattern aims to create an experience and mood",
+        "text": "It identifies the relevant persuasive, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Do not let one fact, colour or story moment decide the classification."
+      "summary": "It identifies the relevant persuasive, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1326,27 +1566,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Choose the answer supported by the whole example. What is the dominant purpose of a brochure comparing three walking tracks?",
-    "audio_prompt": "Choose the answer supported by the whole example. What is the dominant purpose of a brochure comparing three walking tracks?",
+    "skill": "evidence",
+    "question": "In an unseen Year 5 task about a report with headings and technical vocabulary, when the wording is unfamiliar, which answer best shows independent understanding of evidence?",
+    "audio_prompt": "In an unseen Year 5 task about a report with headings and technical vocabulary, when the wording is unfamiliar, which answer best shows independent understanding of evidence?",
     "answers": [
       {
-        "text": "informative",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant evidence, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "persuasive",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The dominant purpose is to help walkers make an informed choice.",
-      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+      "summary": "It identifies the relevant evidence, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1356,27 +1596,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which option best fits the meaning? Which feature pattern best suits a brochure comparing three walking tracks?",
-    "audio_prompt": "Which option best fits the meaning? Which feature pattern best suits a brochure comparing three walking tracks?",
+    "skill": "informative",
+    "question": "In an unseen Year 5 task about a biography arranged in time order, when a distractor shares a keyword, which answer best shows independent understanding of informative?",
+    "audio_prompt": "In an unseen Year 5 task about a biography arranged in time order, when a distractor shares a keyword, which answer best shows independent understanding of informative?",
     "answers": [
       {
-        "text": "a random mixture of facts and jokes",
-        "is_correct": false
-      },
-      {
-        "text": "comparison headings, maps and difficulty ratings",
+        "text": "It identifies the relevant informative, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "a decorative border with no connection to meaning",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "These features work together to help walkers make an informed choice.",
-      "hint": "Choose features by their combined purpose, not by one isolated detail."
+      "summary": "It identifies the relevant informative, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1386,27 +1626,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Work this out independently. Why should a brochure comparing three walking tracks use comparison headings, maps and difficulty ratings?",
-    "audio_prompt": "Work this out independently. Why should a brochure comparing three walking tracks use comparison headings, maps and difficulty ratings?",
+    "skill": "story_element",
+    "question": "In an unseen Year 5 task about a comic designed mainly to entertain, when the task asks for evidence, which answer best shows independent understanding of story element?",
+    "audio_prompt": "In an unseen Year 5 task about a comic designed mainly to entertain, when the task asks for evidence, which answer best shows independent understanding of story element?",
     "answers": [
       {
-        "text": "They are required in every text",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "They make the text belong to every purpose equally",
-        "is_correct": false
-      },
-      {
-        "text": "They support the goal to help walkers make an informed choice",
+        "text": "It identifies the relevant story element, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Connect the pattern of features to the audience outcome."
+      "summary": "It identifies the relevant story element, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1416,27 +1656,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "What is the best answer in this context? Which classification is best supported for a brochure comparing three walking tracks?",
-    "audio_prompt": "What is the best answer in this context? Which classification is best supported for a brochure comparing three walking tracks?",
+    "skill": "imaginative",
+    "question": "In an unseen Year 5 task about an explanation of how bees pollinate, when the whole context matters, which answer best shows independent understanding of imaginative?",
+    "audio_prompt": "In an unseen Year 5 task about an explanation of how bees pollinate, when the whole context matters, which answer best shows independent understanding of imaginative?",
     "answers": [
       {
-        "text": "informative, because its main feature pattern aims to help walkers make an informed choice",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant imaginative, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "informative, because every text contains some information",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative, because a colourful image appears",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Do not let one fact, colour or story moment decide the classification."
+      "summary": "It identifies the relevant imaginative, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1446,27 +1686,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which choice is supported by the evidence given? What is the dominant purpose of a documentary mixing an animal's journey with habitat facts?",
-    "audio_prompt": "Which choice is supported by the evidence given? What is the dominant purpose of a documentary mixing an animal's journey with habitat facts?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about an information text organised by cause and effect, when applying the skill independently, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about an information text organised by cause and effect, when applying the skill independently, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "persuasive only",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "hybrid with an informative purpose",
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "imaginative only",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The dominant purpose is to explain migration while maintaining interest.",
-      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1476,27 +1716,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Read for meaning before you choose. Which feature pattern best suits a documentary mixing an animal's journey with habitat facts?",
-    "audio_prompt": "Read for meaning before you choose. Which feature pattern best suits a documentary mixing an animal's journey with habitat facts?",
+    "skill": "purpose",
+    "question": "In an unseen Year 5 task about a safety poster encouraging helmet use, when a familiar answer is tempting, which answer best shows independent understanding of purpose?",
+    "audio_prompt": "In an unseen Year 5 task about a safety poster encouraging helmet use, when a familiar answer is tempting, which answer best shows independent understanding of purpose?",
     "answers": [
       {
-        "text": "a random mixture of facts and jokes",
-        "is_correct": false
-      },
-      {
-        "text": "a decorative border with no connection to meaning",
-        "is_correct": false
-      },
-      {
-        "text": "a story thread supported by maps and expert evidence",
+        "text": "It identifies the relevant purpose, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "These features work together to explain migration while maintaining interest.",
-      "hint": "Choose features by their combined purpose, not by one isolated detail."
+      "summary": "It identifies the relevant purpose, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1506,27 +1746,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which option is the most precise? Why should a documentary mixing an animal's journey with habitat facts use a story thread supported by maps and expert evidence?",
-    "audio_prompt": "Which option is the most precise? Why should a documentary mixing an animal's journey with habitat facts use a story thread supported by maps and expert evidence?",
+    "skill": "persuasive",
+    "question": "In an unseen Year 5 task about an article comparing two planets, when precision matters, which answer best shows independent understanding of persuasive?",
+    "audio_prompt": "In an unseen Year 5 task about an article comparing two planets, when precision matters, which answer best shows independent understanding of persuasive?",
     "answers": [
       {
-        "text": "They support the goal to explain migration while maintaining interest",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant persuasive, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "They are required in every text",
-        "is_correct": false
-      },
-      {
-        "text": "They make the text belong to every purpose equally",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Connect the pattern of features to the audience outcome."
+      "summary": "It identifies the relevant persuasive, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1536,27 +1776,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Use every clue in the example. Which classification is best supported for a documentary mixing an animal's journey with habitat facts?",
-    "audio_prompt": "Use every clue in the example. Which classification is best supported for a documentary mixing an animal's journey with habitat facts?",
+    "skill": "evidence",
+    "question": "In an unseen Year 5 task about instructions that also persuade readers to act safely, when checking the writer’s purpose, which answer best shows independent understanding of evidence?",
+    "audio_prompt": "In an unseen Year 5 task about instructions that also persuade readers to act safely, when checking the writer’s purpose, which answer best shows independent understanding of evidence?",
     "answers": [
       {
-        "text": "informative, because every text contains some information",
-        "is_correct": false
-      },
-      {
-        "text": "hybrid with an informative purpose, because its main feature pattern aims to explain migration while maintaining interest",
+        "text": "It identifies the relevant evidence, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "imaginative, because a colourful image appears",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Do not let one fact, colour or story moment decide the classification."
+      "summary": "It identifies the relevant evidence, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1566,27 +1806,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which answer holds up when you check the full context? What is the dominant purpose of an advertisement asking students to join a recycling team?",
-    "audio_prompt": "Which answer holds up when you check the full context? What is the dominant purpose of an advertisement asking students to join a recycling team?",
+    "skill": "informative",
+    "question": "In an unseen Year 5 task about a brochure asking families to save water, when more than one clue is present, which answer best shows independent understanding of informative?",
+    "audio_prompt": "In an unseen Year 5 task about a brochure asking families to save water, when more than one clue is present, which answer best shows independent understanding of informative?",
     "answers": [
       {
-        "text": "informative",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "imaginative",
-        "is_correct": false
-      },
-      {
-        "text": "persuasive",
+        "text": "It identifies the relevant informative, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The dominant purpose is to motivate students to join.",
-      "hint": "Decide what the audience is mainly meant to experience, understand, believe or do."
+      "summary": "It identifies the relevant informative, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1596,27 +1836,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Decide which option best matches what the text shows. Which feature pattern best suits an advertisement asking students to join a recycling team?",
-    "audio_prompt": "Decide which option best matches what the text shows. Which feature pattern best suits an advertisement asking students to join a recycling team?",
+    "skill": "story_element",
+    "question": "In an unseen Year 5 task about a speech asking for a school garden, when transferring the skill, which answer best shows independent understanding of story element?",
+    "audio_prompt": "In an unseen Year 5 task about a speech asking for a school garden, when transferring the skill, which answer best shows independent understanding of story element?",
     "answers": [
       {
-        "text": "benefit claims, inclusive language and a sign-up instruction",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant story element, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "a random mixture of facts and jokes",
-        "is_correct": false
-      },
-      {
-        "text": "a decorative border with no connection to meaning",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "These features work together to motivate students to join.",
-      "hint": "Choose features by their combined purpose, not by one isolated detail."
+      "summary": "It identifies the relevant story element, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1626,27 +1866,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Which choice best demonstrates the skill in this new example? Why should an advertisement asking students to join a recycling team use benefit claims, inclusive language and a sign-up instruction?",
-    "audio_prompt": "Which choice best demonstrates the skill in this new example? Why should an advertisement asking students to join a recycling team use benefit claims, inclusive language and a sign-up instruction?",
+    "skill": "imaginative",
+    "question": "In an unseen Year 5 task about a narrative about a lost dog, when explaining the reasoning, which answer best shows independent understanding of imaginative?",
+    "audio_prompt": "In an unseen Year 5 task about a narrative about a lost dog, when explaining the reasoning, which answer best shows independent understanding of imaginative?",
     "answers": [
       {
-        "text": "They are required in every text",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "They support the goal to motivate students to join",
+        "text": "It identifies the relevant imaginative, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "They make the text belong to every purpose equally",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Characteristic features are adaptable choices that serve the intended outcome.",
-      "hint": "Connect the pattern of features to the audience outcome."
+      "summary": "It identifies the relevant imaginative, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1656,27 +1896,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "characteristic_features_and_hybrid_text_purposes",
-    "question": "Make your final choice from the evidence in the question. Which classification is best supported for an advertisement asking students to join a recycling team?",
-    "audio_prompt": "Make your final choice from the evidence in the question. Which classification is best supported for an advertisement asking students to join a recycling team?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about a story with a problem and resolution, as a final independent check, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about a story with a problem and resolution, as a final independent check, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "informative, because every text contains some information",
-        "is_correct": false
-      },
-      {
-        "text": "imaginative, because a colourful image appears",
-        "is_correct": false
-      },
-      {
-        "text": "persuasive, because its main feature pattern aims to motivate students to join",
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Classification depends on the whole pattern and dominant audience outcome.",
-      "hint": "Do not let one fact, colour or story moment decide the classification."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   }
 ]

@@ -15,16 +15,16 @@ A code may be marked **FINISHED — DO NOT REPROCESS** only when all five compon
 | AC9E5LA06 | **FINISHED — DO NOT REPROCESS** | 48/16 + all teaching surfaces; expanded noun groups; partial IXL boundary disclosed. |
 | AC9E5LA08 | **FINISHED — DO NOT REPROCESS** | 48/16 + all teaching surfaces; precise/technical vocabulary and roots; word-history extension disclosed. |
 | AC9E5LA09 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom; existing aligned Worksheet retained after review. Phrase/possessive IXL evidence separated from comma-placement extension. |
-| AC9E5LE02 | PENDING | extended opinion/reflection is an extension |
-| AC9E5LE03 | PENDING | IXL-supported |
-| AC9E5LE04 | PENDING | imagery/figures supported; sound-device evidence limited |
-| AC9E5LE05 | PENDING | partial evidence for full composition workflow |
-| AC9E5LY03 | PENDING | IXL-supported |
-| AC9E5LY05 | PENDING | some named comprehension strategies not separately observed |
-| AC9E5LY06 | PENDING | partial evidence for full drafting/publishing/multimodal workflow |
-| AC9E5LY08 | PENDING | partial evidence for common-pattern/different-pronunciation demand |
-| AC9E5LY09 | PENDING | IXL-supported |
-| AC9E5LY10 | PENDING | IXL-supported |
+| AC9E5LE02 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; Extended literary opinion writing and sustained reflection on another reader’s viewpoint were not directly observed as IXL task formats. |
+| AC9E5LE03 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL evidence is strongest for viewpoint comparison; extended discussion of varied reader responses is a curriculum-level extension. |
+| AC9E5LE04 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; No separate directly mapped IXL sound-device skill was confirmed; sound devices are therefore taught as a clearly labelled curriculum extension. |
+| AC9E5LE05 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL did not directly provide a full literary composition, editing and publishing workflow; extended creation is a curriculum extension. |
+| AC9E5LY03 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL evidence strongly supports identifying purpose and structure; extended explanation of how multiple features work together is a curriculum-level extension. |
+| AC9E5LY05 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; Visualising, monitoring and questioning were not separately observed as distinct IXL task formats, so those strategies are taught as curriculum extensions. |
+| AC9E5LY06 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL did not directly demonstrate the full planning, extended drafting, publishing, dialogue-punctuation or multimodal-production workflow. |
+| AC9E5LY08 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; Direct IXL evidence for common spelling patterns with different pronunciations is narrower than the full curriculum descriptor. |
+| AC9E5LY09 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL evidence is strong for discrete word-building tasks; extended explanation of word history and generalisations is a curriculum-level synthesis. |
+| AC9E5LY10 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; Some suffix meaning and grammatical-class change demands are broader than any single observed IXL screen, so the full descriptor is synthesised across mapped skills. |
 
 ## IXL-unmapped — not in this production batch
 AC9E5LA01, AC9E5LA07, AC9E5LE01, AC9E5LY01, AC9E5LY02, AC9E5LY04, AC9E5LY07

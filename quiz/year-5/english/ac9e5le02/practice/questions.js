@@ -1,52 +1,915 @@
 "use strict";
-const Q=(id,skill,q,a,c,e,h)=>({id:`ac9e5le02-p-${String(id).padStart(3,"0")}`,curriculumCode:"AC9E5LE02",bank:"practice",skill,printable:true,type:"single",question:q,audioPrompt:q,visual:"",visualHtml:"",answers:a,correct:c,explanation:`${e}\nHint: ${h}`,structuredExplanation:{summary:e,hint:h},qualitySchema:"production-v1"});
-window.skillrPracticeQuestions=[
-Q(1,"literary terminology","‘The moon was a silver coin’ is a…",["simile","metaphor","fact"],1,"It directly identifies the moon as something else figuratively.","No like/as → check metaphor."),
-Q(2,"literary terminology","‘The leaves shook like tiny hands’ is a…",["simile","metaphor","setting"],0,"‘Like’ makes an explicit comparison.","Look for like or as."),
-Q(3,"literary terminology","‘The angry wind slapped the windows’ uses…",["personification","literal description only","rhyme"],0,"The wind is given a human action/emotion.","Can the non-human thing literally do this?"),
-Q(4,"literary terminology","Words appealing to sight, sound, smell, taste or touch create…",["sensory imagery","plot only","point of view only"],0,"Sensory imagery helps readers experience a scene through the senses.","Name the sense being activated."),
-Q(5,"literary terminology","The sequence of important events in a story is the…",["plot","setting","simile"],0,"Plot is the developing sequence of events.","Think what happens."),
-Q(6,"literary terminology","The time and place of a story form its…",["setting","plot","tone"],0,"Setting locates the story in time and place.","Ask where and when."),
-Q(7,"literary terminology","The perspective from which a story is told is its…",["point of view","setting","resolution"],0,"Point of view shapes what readers know and how events are presented.","Who is telling or perceiving?"),
-Q(8,"literary terminology","A character’s spoken words are…",["dialogue","imagery","setting"],0,"Dialogue is speech between or from characters.","Look for what a character says."),
-Q(9,"literary terminology","The emotional atmosphere created for the reader is often called…",["mood","plot","character"],0,"Mood is the feeling or atmosphere readers experience.","Think reader feeling."),
-Q(10,"literary terminology","The writer’s attitude conveyed through language can be described as…",["tone","setting","sequence"],0,"Tone reflects the writer/narrator’s attitude.","Think attitude, not event order."),
-Q(11,"literary terminology","A problem faced by a character is often called a…",["conflict","caption","simile"],0,"Conflict drives challenge or tension in a narrative.","Find the struggle."),
-Q(12,"literary terminology","A repeated central idea such as courage or belonging can be discussed as a…",["theme","pronoun","preposition"],0,"Theme is an underlying idea explored across the text.","Look beyond one event."),
-Q(13,"device effect","‘My backpack weighs a tonne’ most likely uses hyperbole to…",["show the bag feels extremely heavy","give an exact measurement","prove the bag is metal"],0,"The exaggeration intensifies the speaker’s feeling of heaviness.","Do not read hyperbole literally."),
-Q(14,"device effect","‘The classroom buzzed like a beehive’ helps readers imagine…",["busy noisy activity","literal bees in every desk","silence"],0,"The simile compares classroom activity with a buzzing hive.","Ask what quality is shared."),
-Q(15,"device effect","‘The fog swallowed the road’ creates the sense that…",["the fog completely obscured the road","the fog ate food literally","the road moved"],0,"Personification/metaphor makes the fog seem powerful and enclosing.","Translate the image into literal meaning."),
-Q(16,"device effect","‘Her voice was velvet’ suggests the voice is…",["smooth and soft","made of fabric","very loud"],0,"The metaphor transfers velvet’s softness to the voice.","Identify the implied quality."),
-Q(17,"device effect","‘The door groaned open’ makes the door seem…",["old or reluctant and adds atmosphere","happy and musical","new and silent"],0,"The human-like ‘groaned’ adds sound and mood.","Connect the verb to atmosphere."),
-Q(18,"device effect","A passage describes ‘sharp salt air and stinging spray’. What is the main effect?",["It creates a vivid sensory coastal experience.","It identifies a narrator’s age.","It proves the scene is imaginary."],0,"Touch/smell imagery makes the setting more immediate.","Name the senses."),
-Q(19,"device effect","Why might a writer repeat a short phrase during a tense scene?",["To emphasise urgency or a key feeling","To remove meaning","To change first person to third person"],0,"Repetition can intensify focus or emotion.","Ask what becomes more prominent."),
-Q(20,"device effect","A narrator calls the abandoned house ‘a patient old watcher’. What effect does this have?",["It personifies the house and makes it seem watchful/alive.","It gives an exact age.","It removes atmosphere."],0,"The human quality shapes the reader’s impression of the setting.","Look for non-human + human quality."),
-Q(21,"device effect","‘Sunlight spilled across the floor’ mainly suggests…",["light spreading broadly and fluidly","liquid literally pouring","darkness"],0,"The metaphor helps readers visualise the movement of light.","Translate figurative to literal."),
-Q(22,"device effect","A character ‘clenched the letter until it crumpled’. What does this show?",["strong emotion through action","the exact paper weight","a calm mood only"],0,"Physical action can reveal emotion without naming it.","Infer feeling from behaviour."),
-Q(23,"device effect","Why is naming a device alone not enough in a literary opinion?",["You should explain how the device affects meaning, tone, character or reader response.","Devices have no effects.","Only plot matters."],0,"Literary analysis links terminology to function/effect.","Use ‘This creates… because…’."),
-Q(24,"device effect","Which comment best analyses a simile?",["‘Like a cracked bell’ is a simile that makes the voice sound harsh and damaged.","There is a simile.","The sentence has words."],0,"The strongest response names the device and explains its effect.","Term + evidence + effect."),
-Q(25,"viewpoint","Two readers disagree about whether a character was brave. What should each do?",["Use specific text evidence to justify the interpretation.","Assume disagreement means one cannot read.","Only repeat the plot."],0,"Literary opinions become stronger when tied to evidence.","Point to words/actions."),
-Q(26,"viewpoint","Reader A says a narrator is humorous; Reader B says sarcastic. What is useful next?",["Compare the language each reader uses as evidence.","Vote without evidence.","Ignore the text."],0,"Different viewpoints should be tested against textual features.","Ask what wording supports each view."),
-Q(27,"viewpoint","A reader says, ‘I disliked the ending because it solved the conflict too quickly.’ This is…",["an opinion supported by a reason about structure","a fact","only a plot summary"],0,"The reader gives an evaluative view and a specific structural reason.","Look for judgement + reason."),
-Q(28,"viewpoint","Which response respectfully reflects on another viewpoint?",["‘I see why you found the narrator selfish, but the final action suggests growth.’","‘You are wrong.’","‘My view is the only possible one.’"],0,"It acknowledges the other reading and responds with evidence.","Reflect, then justify."),
-Q(29,"viewpoint","Why can two readers respond differently to the same character?",["They may emphasise different evidence, values or interpretations.","Texts have no evidence.","Only one reader can ever have a viewpoint."],0,"Literary interpretation can allow more than one well-supported reading.","Evidence constrains, but does not always produce one response."),
-Q(30,"viewpoint","Reader A calls a setting peaceful; Reader B calls it lonely. Which evidence could support Reader B?",["‘Only one light shone across the empty valley.’","‘Children shouted across the crowded park.’","‘Music thundered from every window.’"],0,"Empty space and a single light can support loneliness.","Match evidence to the claimed mood."),
-Q(31,"viewpoint","Which statement is reflection rather than dismissal?",["‘Your view made me notice the repeated storm imagery; I still think the ending is hopeful because…’","‘No, that is silly.’","‘I refuse to consider another reading.’"],0,"Reflection shows another viewpoint has been considered before responding.","Acknowledge influence or difference."),
-Q(32,"viewpoint","A classmate says the metaphor makes the hero seem powerful. What should you examine?",["The metaphor’s compared qualities and nearby context.","The classmate’s handwriting.","The page number only."],0,"Evaluate the claim through the actual language feature and context.","Return to the text."),
-Q(33,"viewpoint","Which disagreement is most productive?",["‘I interpreted the silence as fear; you saw it as calm. Which details support each reading?’","‘Mine is correct because I said it first.’","‘We should not discuss evidence.’"],0,"It turns disagreement into evidence-based comparison.","Ask what supports each interpretation."),
-Q(34,"viewpoint","A reader changes their opinion after hearing another interpretation. Is that valid?",["Yes, if the new interpretation is supported by convincing textual evidence.","No, opinions can never change.","Only authors may interpret texts."],0,"Reflection can refine a literary judgement.","Use evidence to decide whether to revise."),
-Q(35,"viewpoint","Which response distinguishes personal preference from analysis?",["‘I prefer faster stories, but the slow opening effectively builds tension through detail.’","‘Slow stories are objectively bad.’","‘I do not like it, so there are no techniques.’"],0,"It separates taste from an evidence-based judgement of craft.","You can dislike a text and still analyse it."),
-Q(36,"viewpoint","Why mention another reader’s viewpoint in a literary response?",["To show reflection and deepen or qualify your own interpretation.","To avoid using evidence.","To make the paragraph longer only."],0,"Engaging with another view can strengthen reasoning.","Compare, respond, justify."),
-Q(37,"evidence opinion","Which is the strongest literary opinion?",["‘The scene is tense because short sentences and repeated warnings speed the pace.’","‘The scene is good.’","‘I like it.’"],0,"It uses specific terms and links features to effect.","Opinion + terminology + evidence + effect."),
-Q(38,"evidence opinion","Which statement uses literary terminology accurately?",["‘The first-person point of view limits us to Hana’s knowledge, making the discovery surprising.’","‘The words are nice.’","‘First person means the first character in the alphabet.’"],0,"It names point of view and explains its effect.","Use terms to explain how the text works."),
-Q(39,"evidence opinion","Which evidence best supports ‘The setting feels threatening’?",["‘Branches clawed at the windows as the wind rose.’","‘The room contained a table.’","‘It was Tuesday.’"],0,"Personification and storm imagery support threat.","Choose evidence aligned with the judgement."),
-Q(40,"evidence opinion","Which response goes beyond plot summary?",["‘The resolution is satisfying because it echoes the opening image and shows the character has changed.’","‘At the end, she goes home.’","‘Things happen.’"],0,"It evaluates structure and character development.","Explain craft and effect, not just events."),
-Q(41,"evidence opinion","Which sentence best evaluates dialogue?",["‘The clipped dialogue reveals the characters’ anger and speeds the argument.’","‘They talk.’","‘Dialogue has quotation marks.’"],0,"It connects a language feature to character and pace.","Term + evidence/effect."),
-Q(42,"evidence opinion","Which sentence best evaluates imagery?",["‘The icy imagery makes the landscape feel hostile and mirrors the character’s isolation.’","‘There is imagery.’","‘Ice is cold.’"],0,"It explains meaning and reader response.","Link image to wider text idea."),
-Q(43,"evidence opinion","Which sentence best reflects on two views?",["‘Sam reads the final silence as sadness; I read it as relief because the narrator’s shoulders finally relax.’","‘Sam is wrong.’","‘We disagree.’"],0,"It identifies another interpretation and justifies a different one with evidence.","Name both views and the textual reason."),
-Q(44,"evidence opinion","Which source of support matters most in a literary opinion?",["Specific details from the text connected to your claim","An unrelated fact","A guess about the author’s private life"],0,"Textual evidence anchors interpretation.","Stay with what the text supports."),
-Q(45,"evidence opinion","Which conclusion is strongest?",["‘Overall, the metaphor-rich description and limited viewpoint make the forest feel both beautiful and uncertain.’","‘It was a story.’","‘Everyone must agree with me.’"],0,"It synthesises named features and their effect.","Conclude by bringing analysis together."),
-Q(46,"evidence opinion","A student writes only ‘The author uses a metaphor.’ What should be added?",["The metaphor’s words and an explanation of what it suggests or changes for the reader.","More device names without explanation.","A random opinion."],0,"Identification is only the first step.","What does it do?"),
-Q(47,"transfer","Which planning frame best supports AC9E5LE02?",["Opinion → literary term/evidence → effect → another viewpoint → reflection/response","Plot summary only","Device list only"],0,"The frame combines evidence-based opinion with reflection on viewpoints.","Use the descriptor’s full demand."),
-Q(48,"transfer","Which statement best captures the skill?",["Present a supported literary opinion using accurate terms for devices, structures and language, and reflect on other readers’ viewpoints.","Name as many devices as possible.","Only state whether you liked the text."],0,"The skill integrates terminology, evidence, evaluation and reflection.","Analysis goes beyond preference."),
-];window.quizQuestions=window.skillrPracticeQuestions;
+window.skillrPracticeQuestions = [
+  {
+    "id": "ac9e5le02-p-001",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "literary device",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a storm scene in a novel?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a storm scene in a novel?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It names a feature in a storm scene in a novel but does not explain how it contributes to meaning.",
+      "The response uses literary device and connects it to specific evidence in a storm scene in a novel.",
+      "It gives a personal reaction to a storm scene in a novel but no evidence or precise terminology."
+    ],
+    "correct": 1,
+    "explanation": "The response uses literary device and connects it to specific evidence in a storm scene in a novel. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-002",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "text structure",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a poem about an empty playground?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a poem about an empty playground?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It names a feature in a poem about an empty playground but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to a poem about an empty playground but no evidence or precise terminology.",
+      "The response uses text structure and connects it to specific evidence in a poem about an empty playground."
+    ],
+    "correct": 2,
+    "explanation": "The response uses text structure and connects it to specific evidence in a poem about an empty playground. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-003",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "language feature",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a fable with a boastful fox?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a fable with a boastful fox?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It gives a personal reaction to a fable with a boastful fox but no evidence or precise terminology.",
+      "The response uses language feature and connects it to specific evidence in a fable with a boastful fox.",
+      "It names a feature in a fable with a boastful fox but does not explain how it contributes to meaning."
+    ],
+    "correct": 1,
+    "explanation": "The response uses language feature and connects it to specific evidence in a fable with a boastful fox. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-004",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a mystery opening in a dark hallway?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a mystery opening in a dark hallway?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The response uses evidence and connects it to specific evidence in a mystery opening in a dark hallway.",
+      "It names a feature in a mystery opening in a dark hallway but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to a mystery opening in a dark hallway but no evidence or precise terminology."
+    ],
+    "correct": 0,
+    "explanation": "The response uses evidence and connects it to specific evidence in a mystery opening in a dark hallway. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-005",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "effect",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a story told by a nervous narrator?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a story told by a nervous narrator?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It gives a personal reaction to a story told by a nervous narrator but no evidence or precise terminology.",
+      "It names a feature in a story told by a nervous narrator but does not explain how it contributes to meaning.",
+      "The response uses effect and connects it to specific evidence in a story told by a nervous narrator."
+    ],
+    "correct": 2,
+    "explanation": "The response uses effect and connects it to specific evidence in a story told by a nervous narrator. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-006",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "viewpoint",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a chapter ending with a sudden reveal?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a chapter ending with a sudden reveal?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The response uses viewpoint and connects it to specific evidence in a chapter ending with a sudden reveal.",
+      "It gives a personal reaction to a chapter ending with a sudden reveal but no evidence or precise terminology.",
+      "It names a feature in a chapter ending with a sudden reveal but does not explain how it contributes to meaning."
+    ],
+    "correct": 0,
+    "explanation": "The response uses viewpoint and connects it to specific evidence in a chapter ending with a sudden reveal. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-007",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "literary device",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a poem comparing clouds to ships?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a poem comparing clouds to ships?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It names a feature in a poem comparing clouds to ships but does not explain how it contributes to meaning.",
+      "The response uses literary device and connects it to specific evidence in a poem comparing clouds to ships.",
+      "It gives a personal reaction to a poem comparing clouds to ships but no evidence or precise terminology."
+    ],
+    "correct": 1,
+    "explanation": "The response uses literary device and connects it to specific evidence in a poem comparing clouds to ships. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-008",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "text structure",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a story where dialogue shows jealousy?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a story where dialogue shows jealousy?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It names a feature in a story where dialogue shows jealousy but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to a story where dialogue shows jealousy but no evidence or precise terminology.",
+      "The response uses text structure and connects it to specific evidence in a story where dialogue shows jealousy."
+    ],
+    "correct": 2,
+    "explanation": "The response uses text structure and connects it to specific evidence in a story where dialogue shows jealousy. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-009",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "language feature",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a narrative that begins at the climax?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a narrative that begins at the climax?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It gives a personal reaction to a narrative that begins at the climax but no evidence or precise terminology.",
+      "The response uses language feature and connects it to specific evidence in a narrative that begins at the climax.",
+      "It names a feature in a narrative that begins at the climax but does not explain how it contributes to meaning."
+    ],
+    "correct": 1,
+    "explanation": "The response uses language feature and connects it to specific evidence in a narrative that begins at the climax. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-010",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a quiet scene using sensory detail?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a quiet scene using sensory detail?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The response uses evidence and connects it to specific evidence in a quiet scene using sensory detail.",
+      "It names a feature in a quiet scene using sensory detail but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to a quiet scene using sensory detail but no evidence or precise terminology."
+    ],
+    "correct": 0,
+    "explanation": "The response uses evidence and connects it to specific evidence in a quiet scene using sensory detail. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-011",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "effect",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in two readers debating a character’s choice?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in two readers debating a character’s choice?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It gives a personal reaction to two readers debating a character’s choice but no evidence or precise terminology.",
+      "It names a feature in two readers debating a character’s choice but does not explain how it contributes to meaning.",
+      "The response uses effect and connects it to specific evidence in two readers debating a character’s choice."
+    ],
+    "correct": 2,
+    "explanation": "The response uses effect and connects it to specific evidence in two readers debating a character’s choice. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-012",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "viewpoint",
+    "printable": true,
+    "type": "single",
+    "question": "Which response best demonstrates the AC9E5 skill in a review of a fantasy story?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a review of a fantasy story?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The response uses viewpoint and connects it to specific evidence in a review of a fantasy story.",
+      "It gives a personal reaction to a review of a fantasy story but no evidence or precise terminology.",
+      "It names a feature in a review of a fantasy story but does not explain how it contributes to meaning."
+    ],
+    "correct": 0,
+    "explanation": "The response uses viewpoint and connects it to specific evidence in a review of a fantasy story. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
+  },
+  {
+    "id": "ac9e5le02-p-013",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "text structure",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a mystery opening in a dark hallway. Why is the strongest explanation the one that links text structure to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a mystery opening in a dark hallway. Why is the strongest explanation the one that links text structure to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because the longest explanation is usually the most accurate.",
+      "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks."
+    ],
+    "correct": 1,
+    "explanation": "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-014",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "language feature",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a story told by a nervous narrator. Why is the strongest explanation the one that links language feature to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a story told by a nervous narrator. Why is the strongest explanation the one that links language feature to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks.",
+      "Because language feature is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
+    ],
+    "correct": 2,
+    "explanation": "Because language feature is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-015",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a chapter ending with a sudden reveal. Why is the strongest explanation the one that links evidence to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a chapter ending with a sudden reveal. Why is the strongest explanation the one that links evidence to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because using a technical term automatically earns full marks.",
+      "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate."
+    ],
+    "correct": 1,
+    "explanation": "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-016",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "effect",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a poem comparing clouds to ships. Why is the strongest explanation the one that links effect to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a poem comparing clouds to ships. Why is the strongest explanation the one that links effect to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because effect is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks."
+    ],
+    "correct": 0,
+    "explanation": "Because effect is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-017",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "viewpoint",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a story where dialogue shows jealousy. Why is the strongest explanation the one that links viewpoint to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a story where dialogue shows jealousy. Why is the strongest explanation the one that links viewpoint to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because viewpoint is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
+    ],
+    "correct": 2,
+    "explanation": "Because viewpoint is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-018",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "literary device",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a narrative that begins at the climax. Why is the strongest explanation the one that links literary device to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a narrative that begins at the climax. Why is the strongest explanation the one that links literary device to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because literary device is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate."
+    ],
+    "correct": 0,
+    "explanation": "Because literary device is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-019",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "text structure",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a quiet scene using sensory detail. Why is the strongest explanation the one that links text structure to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a quiet scene using sensory detail. Why is the strongest explanation the one that links text structure to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because the longest explanation is usually the most accurate.",
+      "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks."
+    ],
+    "correct": 1,
+    "explanation": "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-020",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "language feature",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about two readers debating a character’s choice. Why is the strongest explanation the one that links language feature to evidence and effect?",
+    "audioPrompt": "A student gives an answer about two readers debating a character’s choice. Why is the strongest explanation the one that links language feature to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks.",
+      "Because language feature is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
+    ],
+    "correct": 2,
+    "explanation": "Because language feature is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-021",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a review of a fantasy story. Why is the strongest explanation the one that links evidence to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a review of a fantasy story. Why is the strongest explanation the one that links evidence to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because using a technical term automatically earns full marks.",
+      "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate."
+    ],
+    "correct": 1,
+    "explanation": "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-022",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "effect",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a storm scene in a novel. Why is the strongest explanation the one that links effect to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a storm scene in a novel. Why is the strongest explanation the one that links effect to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because effect is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks."
+    ],
+    "correct": 0,
+    "explanation": "Because effect is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-023",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "viewpoint",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a poem about an empty playground. Why is the strongest explanation the one that links viewpoint to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a poem about an empty playground. Why is the strongest explanation the one that links viewpoint to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because viewpoint is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
+    ],
+    "correct": 2,
+    "explanation": "Because viewpoint is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-024",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "literary device",
+    "printable": true,
+    "type": "single",
+    "question": "A student gives an answer about a fable with a boastful fox. Why is the strongest explanation the one that links literary device to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a fable with a boastful fox. Why is the strongest explanation the one that links literary device to evidence and effect?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Because literary device is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate."
+    ],
+    "correct": 0,
+    "explanation": "Because literary device is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
+  },
+  {
+    "id": "ac9e5le02-p-025",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a poem comparing clouds to ships, a student is retelling instead of evaluating. What is the best correction?",
+    "audioPrompt": "In a poem comparing clouds to ships, a student is retelling instead of evaluating. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence."
+    ],
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-026",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a story where dialogue shows jealousy, a student is naming a device without explaining its effect. What is the best correction?",
+    "audioPrompt": "In a story where dialogue shows jealousy, a student is naming a device without explaining its effect. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows."
+    ],
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-027",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a narrative that begins at the climax, a student is giving an opinion without textual evidence. What is the best correction?",
+    "audioPrompt": "In a narrative that begins at the climax, a student is giving an opinion without textual evidence. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning."
+    ],
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-028",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a quiet scene using sensory detail, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
+    "audioPrompt": "In a quiet scene using sensory detail, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence."
+    ],
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-029",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In two readers debating a character’s choice, a student is retelling instead of evaluating. What is the best correction?",
+    "audioPrompt": "In two readers debating a character’s choice, a student is retelling instead of evaluating. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows."
+    ],
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-030",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a review of a fantasy story, a student is naming a device without explaining its effect. What is the best correction?",
+    "audioPrompt": "In a review of a fantasy story, a student is naming a device without explaining its effect. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning."
+    ],
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-031",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a storm scene in a novel, a student is giving an opinion without textual evidence. What is the best correction?",
+    "audioPrompt": "In a storm scene in a novel, a student is giving an opinion without textual evidence. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence."
+    ],
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-032",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a poem about an empty playground, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
+    "audioPrompt": "In a poem about an empty playground, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows."
+    ],
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-033",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a fable with a boastful fox, a student is retelling instead of evaluating. What is the best correction?",
+    "audioPrompt": "In a fable with a boastful fox, a student is retelling instead of evaluating. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning."
+    ],
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-034",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a mystery opening in a dark hallway, a student is naming a device without explaining its effect. What is the best correction?",
+    "audioPrompt": "In a mystery opening in a dark hallway, a student is naming a device without explaining its effect. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence."
+    ],
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-035",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a story told by a nervous narrator, a student is giving an opinion without textual evidence. What is the best correction?",
+    "audioPrompt": "In a story told by a nervous narrator, a student is giving an opinion without textual evidence. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows."
+    ],
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-036",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "misconception control",
+    "printable": true,
+    "type": "single",
+    "question": "In a chapter ending with a sudden reveal, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
+    "audioPrompt": "In a chapter ending with a sudden reveal, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning."
+    ],
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
+  },
+  {
+    "id": "ac9e5le02-p-037",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "language feature",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a quiet scene using sensory detail. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a quiet scene using sensory detail. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a personal preference as the main evidence.",
+      "Use language feature precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 1,
+    "explanation": "Use language feature precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-038",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of two readers debating a character’s choice. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of two readers debating a character’s choice. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-039",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "effect",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a review of a fantasy story. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a review of a fantasy story. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use effect precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 1,
+    "explanation": "Use effect precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-040",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "viewpoint",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a storm scene in a novel. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a storm scene in a novel. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use viewpoint precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 0,
+    "explanation": "Use viewpoint precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-041",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "literary device",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a poem about an empty playground. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a poem about an empty playground. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence.",
+      "Use literary device precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use literary device precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-042",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "text structure",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a fable with a boastful fox. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a fable with a boastful fox. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 0,
+    "explanation": "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-043",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "language feature",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a mystery opening in a dark hallway. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a mystery opening in a dark hallway. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a personal preference as the main evidence.",
+      "Use language feature precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 1,
+    "explanation": "Use language feature precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-044",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a story told by a nervous narrator. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a story told by a nervous narrator. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-045",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "effect",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a chapter ending with a sudden reveal. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a chapter ending with a sudden reveal. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use effect precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 1,
+    "explanation": "Use effect precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-046",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "viewpoint",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a poem comparing clouds to ships. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a poem comparing clouds to ships. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use viewpoint precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 0,
+    "explanation": "Use viewpoint precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-047",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "literary device",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a story where dialogue shows jealousy. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a story where dialogue shows jealousy. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence.",
+      "Use literary device precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use literary device precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le02-p-048",
+    "curriculumCode": "AC9E5LE02",
+    "bank": "practice",
+    "skill": "text structure",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a narrative that begins at the climax. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a narrative that begins at the climax. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 0,
+    "explanation": "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  }
+];

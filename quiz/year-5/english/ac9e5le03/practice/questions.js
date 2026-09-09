@@ -4,961 +4,912 @@ window.skillrPracticeQuestions = [
     "id": "ac9e5le03-p-001",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "point of view",
     "printable": true,
     "type": "single",
-    "question": "For “arrival at a new town”, which explanation best connects the evidence “a child notices unfamiliar street names before friendly faces” with its effect?",
-    "audioPrompt": "For “arrival at a new town”, which explanation best connects the evidence “a child notices unfamiliar street names before friendly faces” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in two students describing the same school musical?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in two students describing the same school musical?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates uncertain then hopeful only because the title is short.",
-      "It has no effect because readers always respond in the same way.",
-      "It creates uncertain then hopeful because selection follows the child's changing comfort."
+      "It names a feature in two students describing the same school musical but does not explain how it contributes to meaning.",
+      "The response uses point of view and connects it to specific evidence in two students describing the same school musical.",
+      "It gives a personal reaction to two students describing the same school musical but no evidence or precise terminology."
     ],
-    "correct": 2,
-    "explanation": "“It creates uncertain then hopeful because selection follows the child's changing comfort.” fits the meaning and the language clue in this example. The evidence creates uncertain then hopeful: selection follows the child's changing comfort.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates uncertain then hopeful because selection follows the child's changing comfort.” fits the meaning and the language clue in this example. The evidence creates uncertain then hopeful: selection follows the child's changing comfort.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "The response uses point of view and connects it to specific evidence in two students describing the same school musical. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-002",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "narrator",
     "printable": true,
     "type": "single",
-    "question": "Read carefully: For “storm evacuation”, which explanation best connects the evidence “a child focuses on carrying the family photo album” with its effect?",
-    "audioPrompt": "Read carefully: For “storm evacuation”, which explanation best connects the evidence “a child focuses on carrying the family photo album” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in siblings remembering a camping trip differently?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in siblings remembering a camping trip differently?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates emotional because selected detail shows what feels valuable.",
-      "It creates emotional only because the title is short.",
-      "It has no effect because readers always respond in the same way."
+      "It names a feature in siblings remembering a camping trip differently but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to siblings remembering a camping trip differently but no evidence or precise terminology.",
+      "The response uses narrator and connects it to specific evidence in siblings remembering a camping trip differently."
     ],
-    "correct": 0,
-    "explanation": "“It creates emotional because selected detail shows what feels valuable.” fits the meaning and the language clue in this example. The evidence creates emotional: selected detail shows what feels valuable.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates emotional because selected detail shows what feels valuable.” fits the meaning and the language clue in this example. The evidence creates emotional: selected detail shows what feels valuable.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "The response uses narrator and connects it to specific evidence in siblings remembering a camping trip differently. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-003",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "perspective",
     "printable": true,
     "type": "single",
-    "question": "Which answer makes the most sense here? For “lost dog search”, which explanation best connects the evidence “an overhead map shows paths the narrator cannot see” with its effect?",
-    "audioPrompt": "Which answer makes the most sense here? For “lost dog search”, which explanation best connects the evidence “an overhead map shows paths the narrator cannot see” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in a goalkeeper and striker describing one match?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a goalkeeper and striker describing one match?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates dramatic perspective only because the title is short.",
-      "It creates dramatic perspective because image gives readers broader knowledge.",
-      "It has no effect because readers always respond in the same way."
+      "It gives a personal reaction to a goalkeeper and striker describing one match but no evidence or precise terminology.",
+      "The response uses perspective and connects it to specific evidence in a goalkeeper and striker describing one match.",
+      "It names a feature in a goalkeeper and striker describing one match but does not explain how it contributes to meaning."
     ],
     "correct": 1,
-    "explanation": "“It creates dramatic perspective because image gives readers broader knowledge.” fits the meaning and the language clue in this example. The evidence creates dramatic perspective: image gives readers broader knowledge.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates dramatic perspective because image gives readers broader knowledge.” fits the meaning and the language clue in this example. The evidence creates dramatic perspective: image gives readers broader knowledge.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses perspective and connects it to specific evidence in a goalkeeper and striker describing one match. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-004",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "evidence",
     "printable": true,
     "type": "single",
-    "question": "Look at the wording and meaning. For “playground conflict”, which explanation best connects the evidence “the scene begins after the argument” with its effect?",
-    "audioPrompt": "Look at the wording and meaning. For “playground conflict”, which explanation best connects the evidence “the scene begins after the argument” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in a child and parent describing a storm?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a child and parent describing a storm?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates incomplete only because the title is short.",
-      "It has no effect because readers always respond in the same way.",
-      "It creates incomplete because omitted causes make early judgement unreliable."
+      "The response uses evidence and connects it to specific evidence in a child and parent describing a storm.",
+      "It names a feature in a child and parent describing a storm but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to a child and parent describing a storm but no evidence or precise terminology."
     ],
-    "correct": 2,
-    "explanation": "“It creates incomplete because omitted causes make early judgement unreliable.” fits the meaning and the language clue in this example. The evidence creates incomplete: omitted causes make early judgement unreliable.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates incomplete because omitted causes make early judgement unreliable.” fits the meaning and the language clue in this example. The evidence creates incomplete: omitted causes make early judgement unreliable.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "The response uses evidence and connects it to specific evidence in a child and parent describing a storm. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-005",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "interpretation",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that fits the situation best. For “historic voyage”, which explanation best connects the evidence “a diary records fear while an official notice declares success” with its effect?",
-    "audioPrompt": "Choose the option that fits the situation best. For “historic voyage”, which explanation best connects the evidence “a diary records fear while an official notice declares success” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in two friends reacting to a new student?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in two friends reacting to a new student?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates contested because contrasting sources reveal different experiences.",
-      "It creates contested only because the title is short.",
-      "It has no effect because readers always respond in the same way."
+      "It gives a personal reaction to two friends reacting to a new student but no evidence or precise terminology.",
+      "It names a feature in two friends reacting to a new student but does not explain how it contributes to meaning.",
+      "The response uses interpretation and connects it to specific evidence in two friends reacting to a new student."
     ],
-    "correct": 0,
-    "explanation": "“It creates contested because contrasting sources reveal different experiences.” fits the meaning and the language clue in this example. The evidence creates contested: contrasting sources reveal different experiences.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates contested because contrasting sources reveal different experiences.” fits the meaning and the language clue in this example. The evidence creates contested: contrasting sources reveal different experiences.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "The response uses interpretation and connects it to specific evidence in two friends reacting to a new student. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-006",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "reader response",
     "printable": true,
     "type": "single",
-    "question": "Which choice is accurate in this example? For “first day”, which explanation best connects the evidence “humorous comparisons soften an intimidating classroom” with its effect?",
-    "audioPrompt": "Which choice is accurate in this example? For “first day”, which explanation best connects the evidence “humorous comparisons soften an intimidating classroom” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in a narrator who hides a mistake?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a narrator who hides a mistake?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates manageable only because the title is short.",
-      "It creates manageable because language reflects the narrator's coping response.",
-      "It has no effect because readers always respond in the same way."
+      "The response uses reader response and connects it to specific evidence in a narrator who hides a mistake.",
+      "It gives a personal reaction to a narrator who hides a mistake but no evidence or precise terminology.",
+      "It names a feature in a narrator who hides a mistake but does not explain how it contributes to meaning."
     ],
-    "correct": 1,
-    "explanation": "“It creates manageable because language reflects the narrator's coping response.” fits the meaning and the language clue in this example. The evidence creates manageable: language reflects the narrator's coping response.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates manageable because language reflects the narrator's coping response.” fits the meaning and the language clue in this example. The evidence creates manageable: language reflects the narrator's coping response.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "The response uses reader response and connects it to specific evidence in a narrator who hides a mistake. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-007",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "point of view",
     "printable": true,
     "type": "single",
-    "question": "Focus on the key clue. For “museum object”, which explanation best connects the evidence “the object's imagined voice challenges its display label” with its effect?",
-    "audioPrompt": "Focus on the key clue. For “museum object”, which explanation best connects the evidence “the object's imagined voice challenges its display label” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in a witness who sees only part of an event?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a witness who sees only part of an event?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates questioned authority only because the title is short.",
-      "It has no effect because readers always respond in the same way.",
-      "It creates questioned authority because viewpoint invites readers to reconsider ownership."
+      "It names a feature in a witness who sees only part of an event but does not explain how it contributes to meaning.",
+      "The response uses point of view and connects it to specific evidence in a witness who sees only part of an event.",
+      "It gives a personal reaction to a witness who sees only part of an event but no evidence or precise terminology."
     ],
-    "correct": 2,
-    "explanation": "“It creates questioned authority because viewpoint invites readers to reconsider ownership.” fits the meaning and the language clue in this example. The evidence creates questioned authority: viewpoint invites readers to reconsider ownership.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates questioned authority because viewpoint invites readers to reconsider ownership.” fits the meaning and the language clue in this example. The evidence creates questioned authority: viewpoint invites readers to reconsider ownership.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "The response uses point of view and connects it to specific evidence in a witness who sees only part of an event. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-008",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "narrator",
     "printable": true,
     "type": "single",
-    "question": "What works best in this situation? For “bushfire recovery”, which explanation best connects the evidence “community members repair a hall together” with its effect?",
-    "audioPrompt": "What works best in this situation? For “bushfire recovery”, which explanation best connects the evidence “community members repair a hall together” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in a first-person diary after an argument?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a first-person diary after an argument?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates resilient and collective because actions emphasise cooperation rather than helplessness.",
-      "It creates resilient and collective only because the title is short.",
-      "It has no effect because readers always respond in the same way."
+      "It names a feature in a first-person diary after an argument but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to a first-person diary after an argument but no evidence or precise terminology.",
+      "The response uses narrator and connects it to specific evidence in a first-person diary after an argument."
     ],
-    "correct": 0,
-    "explanation": "“It creates resilient and collective because actions emphasise cooperation rather than helplessness.” fits the meaning and the language clue in this example. The evidence creates resilient and collective: actions emphasise cooperation rather than helplessness.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates resilient and collective because actions emphasise cooperation rather than helplessness.” fits the meaning and the language clue in this example. The evidence creates resilient and collective: actions emphasise cooperation rather than helplessness.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "The response uses narrator and connects it to specific evidence in a first-person diary after an argument. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-009",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "perspective",
     "printable": true,
     "type": "single",
-    "question": "Which option matches what is happening? For “football final”, which explanation best connects the evidence “the substitute observes teamwork from the sideline” with its effect?",
-    "audioPrompt": "Which option matches what is happening? For “football final”, which explanation best connects the evidence “the substitute observes teamwork from the sideline” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in a third-person narrator following one character?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a third-person narrator following one character?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates analytical only because the title is short.",
-      "It creates analytical because distance helps the narrator notice relationships.",
-      "It has no effect because readers always respond in the same way."
+      "It gives a personal reaction to a third-person narrator following one character but no evidence or precise terminology.",
+      "The response uses perspective and connects it to specific evidence in a third-person narrator following one character.",
+      "It names a feature in a third-person narrator following one character but does not explain how it contributes to meaning."
     ],
     "correct": 1,
-    "explanation": "“It creates analytical because distance helps the narrator notice relationships.” fits the meaning and the language clue in this example. The evidence creates analytical: distance helps the narrator notice relationships.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates analytical because distance helps the narrator notice relationships.” fits the meaning and the language clue in this example. The evidence creates analytical: distance helps the narrator notice relationships.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses perspective and connects it to specific evidence in a third-person narrator following one character. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-010",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "evidence",
     "printable": true,
     "type": "single",
-    "question": "Use the details in the example. For “coastal change”, which explanation best connects the evidence “before-and-after descriptions show dunes moving” with its effect?",
-    "audioPrompt": "Use the details in the example. For “coastal change”, which explanation best connects the evidence “before-and-after descriptions show dunes moving” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in two beach-holiday viewpoints?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in two beach-holiday viewpoints?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates dynamic setting only because the title is short.",
-      "It has no effect because readers always respond in the same way.",
-      "It creates dynamic setting because time comparison presents place as changing."
+      "The response uses evidence and connects it to specific evidence in two beach-holiday viewpoints.",
+      "It names a feature in two beach-holiday viewpoints but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to two beach-holiday viewpoints but no evidence or precise terminology."
     ],
-    "correct": 2,
-    "explanation": "“It creates dynamic setting because time comparison presents place as changing.” fits the meaning and the language clue in this example. The evidence creates dynamic setting: time comparison presents place as changing.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates dynamic setting because time comparison presents place as changing.” fits the meaning and the language clue in this example. The evidence creates dynamic setting: time comparison presents place as changing.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "The response uses evidence and connects it to specific evidence in two beach-holiday viewpoints. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-011",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "interpretation",
     "printable": true,
     "type": "single",
-    "question": "Why is “It creates resilient and collective because actions emphasise cooperation rather than helplessness.” the strongest answer to this question: For “bushfire recovery”, which explanation best connects the evidence “community members repair a hall together” with its effect?",
-    "audioPrompt": "Why is “It creates resilient and collective because actions emphasise cooperation rather than helplessness.” the strongest answer to this question: For “bushfire recovery”, which explanation best connects the evidence “community members repair a hall together” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in a character who misunderstands another’s motives?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a character who misunderstands another’s motives?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It matches the key clue and meaning in the example.",
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest."
+      "It gives a personal reaction to a character who misunderstands another’s motives but no evidence or precise terminology.",
+      "It names a feature in a character who misunderstands another’s motives but does not explain how it contributes to meaning.",
+      "The response uses interpretation and connects it to specific evidence in a character who misunderstands another’s motives."
     ],
-    "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates resilient and collective: actions emphasise cooperation rather than helplessness.\nHint: Find the exact clue that makes “It creates resilient and collective because actions emphasise cooperation rather than helplessness.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates resilient and collective: actions emphasise cooperation rather than helplessness.",
-      "hint": "Find the exact clue that makes “It creates resilient and collective because actions emphasise cooperation rather than helplessness.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "The response uses interpretation and connects it to specific evidence in a character who misunderstands another’s motives. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-012",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "reader response",
     "printable": true,
     "type": "single",
-    "question": "What makes “It creates analytical because distance helps the narrator notice relationships.” work in this example? For “football final”, which explanation best connects the evidence “the substitute observes teamwork from the sideline” with its effect?",
-    "audioPrompt": "What makes “It creates analytical because distance helps the narrator notice relationships.” work in this example? For “football final”, which explanation best connects the evidence “the substitute observes teamwork from the sideline” with its effect?",
+    "question": "Which response best demonstrates the AC9E5 skill in a retelling from the antagonist’s perspective?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a retelling from the antagonist’s perspective?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It matches the key clue and meaning in the example.",
-      "It is correct because familiar words are always safest."
+      "The response uses reader response and connects it to specific evidence in a retelling from the antagonist’s perspective.",
+      "It gives a personal reaction to a retelling from the antagonist’s perspective but no evidence or precise terminology.",
+      "It names a feature in a retelling from the antagonist’s perspective but does not explain how it contributes to meaning."
     ],
-    "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates analytical: distance helps the narrator notice relationships.\nHint: Find the exact clue that makes “It creates analytical because distance helps the narrator notice relationships.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates analytical: distance helps the narrator notice relationships.",
-      "hint": "Find the exact clue that makes “It creates analytical because distance helps the narrator notice relationships.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "The response uses reader response and connects it to specific evidence in a retelling from the antagonist’s perspective. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5le03-p-013",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "narrator",
     "printable": true,
     "type": "single",
-    "question": "Which reason best explains why “It creates dynamic setting because time comparison presents place as changing.” fits? For “coastal change”, which explanation best connects the evidence “before-and-after descriptions show dunes moving” with its effect?",
-    "audioPrompt": "Which reason best explains why “It creates dynamic setting because time comparison presents place as changing.” fits? For “coastal change”, which explanation best connects the evidence “before-and-after descriptions show dunes moving” with its effect?",
+    "question": "A student gives an answer about a child and parent describing a storm. Why is the strongest explanation the one that links narrator to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a child and parent describing a storm. Why is the strongest explanation the one that links narrator to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest.",
-      "It matches the key clue and meaning in the example."
+      "Because the longest explanation is usually the most accurate.",
+      "Because narrator is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks."
     ],
-    "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates dynamic setting: time comparison presents place as changing.\nHint: Find the exact clue that makes “It creates dynamic setting because time comparison presents place as changing.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates dynamic setting: time comparison presents place as changing.",
-      "hint": "Find the exact clue that makes “It creates dynamic setting because time comparison presents place as changing.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Because narrator is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-014",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "perspective",
     "printable": true,
     "type": "single",
-    "question": "How does “It creates changing power because camera angle tracks vulnerability and support.” match the meaning of this example? For “mountain climb”, which explanation best connects the evidence “low-angle images become eye-level after help arrives” with its effect?",
-    "audioPrompt": "How does “It creates changing power because camera angle tracks vulnerability and support.” match the meaning of this example? For “mountain climb”, which explanation best connects the evidence “low-angle images become eye-level after help arrives” with its effect?",
+    "question": "A student gives an answer about two friends reacting to a new student. Why is the strongest explanation the one that links perspective to evidence and effect?",
+    "audioPrompt": "A student gives an answer about two friends reacting to a new student. Why is the strongest explanation the one that links perspective to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It matches the key clue and meaning in the example.",
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest."
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks.",
+      "Because perspective is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
-    "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates changing power: camera angle tracks vulnerability and support.\nHint: Find the exact clue that makes “It creates changing power because camera angle tracks vulnerability and support.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates changing power: camera angle tracks vulnerability and support.",
-      "hint": "Find the exact clue that makes “It creates changing power because camera angle tracks vulnerability and support.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Because perspective is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-015",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "evidence",
     "printable": true,
     "type": "single",
-    "question": "Why does “It creates layered habitat because visual angle reveals life people overlook.” suit this situation better than the other choices? For “city park”, which explanation best connects the evidence “close-ups show insects beneath busy walkers” with its effect?",
-    "audioPrompt": "Why does “It creates layered habitat because visual angle reveals life people overlook.” suit this situation better than the other choices? For “city park”, which explanation best connects the evidence “close-ups show insects beneath busy walkers” with its effect?",
+    "question": "A student gives an answer about a narrator who hides a mistake. Why is the strongest explanation the one that links evidence to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a narrator who hides a mistake. Why is the strongest explanation the one that links evidence to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It matches the key clue and meaning in the example.",
-      "It is correct because familiar words are always safest."
+      "Because using a technical term automatically earns full marks.",
+      "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate."
     ],
     "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates layered habitat: visual angle reveals life people overlook.\nHint: Find the exact clue that makes “It creates layered habitat because visual angle reveals life people overlook.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates layered habitat: visual angle reveals life people overlook.",
-      "hint": "Find the exact clue that makes “It creates layered habitat because visual angle reveals life people overlook.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-016",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "interpretation",
     "printable": true,
     "type": "single",
-    "question": "What clue in the example supports “It creates contested memory because voices show place has multiple meanings.”? For “old bridge”, which explanation best connects the evidence “different generations attach different stories to it” with its effect?",
-    "audioPrompt": "What clue in the example supports “It creates contested memory because voices show place has multiple meanings.”? For “old bridge”, which explanation best connects the evidence “different generations attach different stories to it” with its effect?",
+    "question": "A student gives an answer about a witness who sees only part of an event. Why is the strongest explanation the one that links interpretation to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a witness who sees only part of an event. Why is the strongest explanation the one that links interpretation to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest.",
-      "It matches the key clue and meaning in the example."
+      "Because interpretation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks."
     ],
-    "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates contested memory: voices show place has multiple meanings.\nHint: Find the exact clue that makes “It creates contested memory because voices show place has multiple meanings.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates contested memory: voices show place has multiple meanings.",
-      "hint": "Find the exact clue that makes “It creates contested memory because voices show place has multiple meanings.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Because interpretation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-017",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "reader response",
     "printable": true,
     "type": "single",
-    "question": "Which explanation shows why “It creates layered identity because sensory detail suggests connection indirectly.” is correct here? For “migration story”, which explanation best connects the evidence “food smells trigger memories without explaining every feeling” with its effect?",
-    "audioPrompt": "Which explanation shows why “It creates layered identity because sensory detail suggests connection indirectly.” is correct here? For “migration story”, which explanation best connects the evidence “food smells trigger memories without explaining every feeling” with its effect?",
+    "question": "A student gives an answer about a first-person diary after an argument. Why is the strongest explanation the one that links reader response to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a first-person diary after an argument. Why is the strongest explanation the one that links reader response to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It matches the key clue and meaning in the example.",
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest."
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because reader response is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
-    "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates layered identity: sensory detail suggests connection indirectly.\nHint: Find the exact clue that makes “It creates layered identity because sensory detail suggests connection indirectly.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates layered identity: sensory detail suggests connection indirectly.",
-      "hint": "Find the exact clue that makes “It creates layered identity because sensory detail suggests connection indirectly.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Because reader response is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-018",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "point of view",
     "printable": true,
     "type": "single",
-    "question": "Why would “It creates knowledgeable place because personification connects place and memory.” make sense to a careful reader? For “river journey”, which explanation best connects the evidence “the river is described as a guide with remembered pathways” with its effect?",
-    "audioPrompt": "Why would “It creates knowledgeable place because personification connects place and memory.” make sense to a careful reader? For “river journey”, which explanation best connects the evidence “the river is described as a guide with remembered pathways” with its effect?",
+    "question": "A student gives an answer about a third-person narrator following one character. Why is the strongest explanation the one that links point of view to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a third-person narrator following one character. Why is the strongest explanation the one that links point of view to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It matches the key clue and meaning in the example.",
-      "It is correct because familiar words are always safest."
+      "Because point of view is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate."
     ],
-    "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates knowledgeable place: personification connects place and memory.\nHint: Find the exact clue that makes “It creates knowledgeable place because personification connects place and memory.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates knowledgeable place: personification connects place and memory.",
-      "hint": "Find the exact clue that makes “It creates knowledgeable place because personification connects place and memory.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Because point of view is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-019",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "narrator",
     "printable": true,
     "type": "single",
-    "question": "What is the best reason for choosing “It creates active and detailed because precise evidence avoids an empty backdrop.”? For “remote landscape”, which explanation best connects the evidence “specific plants, tracks and seasonal changes shape travel” with its effect?",
-    "audioPrompt": "What is the best reason for choosing “It creates active and detailed because precise evidence avoids an empty backdrop.”? For “remote landscape”, which explanation best connects the evidence “specific plants, tracks and seasonal changes shape travel” with its effect?",
+    "question": "A student gives an answer about two beach-holiday viewpoints. Why is the strongest explanation the one that links narrator to evidence and effect?",
+    "audioPrompt": "A student gives an answer about two beach-holiday viewpoints. Why is the strongest explanation the one that links narrator to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest.",
-      "It matches the key clue and meaning in the example."
+      "Because the longest explanation is usually the most accurate.",
+      "Because narrator is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks."
     ],
-    "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates active and detailed: precise evidence avoids an empty backdrop.\nHint: Find the exact clue that makes “It creates active and detailed because precise evidence avoids an empty backdrop.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates active and detailed: precise evidence avoids an empty backdrop.",
-      "hint": "Find the exact clue that makes “It creates active and detailed because precise evidence avoids an empty backdrop.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Because narrator is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-020",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "perspective",
     "printable": true,
     "type": "single",
-    "question": "Which explanation connects “It creates complex character because inside and outside views resist a simple label.” to the key clue? For “leader's decision”, which explanation best connects the evidence “private doubts contrast with confident public speech” with its effect?",
-    "audioPrompt": "Which explanation connects “It creates complex character because inside and outside views resist a simple label.” to the key clue? For “leader's decision”, which explanation best connects the evidence “private doubts contrast with confident public speech” with its effect?",
+    "question": "A student gives an answer about a character who misunderstands another’s motives. Why is the strongest explanation the one that links perspective to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a character who misunderstands another’s motives. Why is the strongest explanation the one that links perspective to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It matches the key clue and meaning in the example.",
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest."
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks.",
+      "Because perspective is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
-    "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates complex character: inside and outside views resist a simple label.\nHint: Find the exact clue that makes “It creates complex character because inside and outside views resist a simple label.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates complex character: inside and outside views resist a simple label.",
-      "hint": "Find the exact clue that makes “It creates complex character because inside and outside views resist a simple label.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Because perspective is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-021",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "evidence",
     "printable": true,
     "type": "single",
-    "question": "“It creates knowledgeable place only because the title is short.” might seem possible at first. What should you notice before answering this question: For “river journey”, which explanation best connects the evidence “the river is described as a guide with remembered pathways” with its effect?",
-    "audioPrompt": "“It creates knowledgeable place only because the title is short.” might seem possible at first. What should you notice before answering this question: For “river journey”, which explanation best connects the evidence “the river is described as a guide with remembered pathways” with its effect?",
+    "question": "A student gives an answer about a retelling from the antagonist’s perspective. Why is the strongest explanation the one that links evidence to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a retelling from the antagonist’s perspective. Why is the strongest explanation the one that links evidence to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “It creates knowledgeable place only because the title is short.” because it contains a familiar word.",
-      "Check the whole example: “It creates knowledgeable place because personification connects place and memory.” matches the key clue, while “It creates knowledgeable place only because the title is short.” does not.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Because using a technical term automatically earns full marks.",
+      "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate."
     ],
     "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It creates knowledgeable place only because the title is short.” fail and “It creates knowledgeable place because personification connects place and memory.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates knowledgeable place only because the title is short.” fail and “It creates knowledgeable place because personification connects place and memory.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-022",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "interpretation",
     "printable": true,
     "type": "single",
-    "question": "Why is “It creates active and detailed only because the title is short.” not the best choice here? For “remote landscape”, which explanation best connects the evidence “specific plants, tracks and seasonal changes shape travel” with its effect?",
-    "audioPrompt": "Why is “It creates active and detailed only because the title is short.” not the best choice here? For “remote landscape”, which explanation best connects the evidence “specific plants, tracks and seasonal changes shape travel” with its effect?",
+    "question": "A student gives an answer about two students describing the same school musical. Why is the strongest explanation the one that links interpretation to evidence and effect?",
+    "audioPrompt": "A student gives an answer about two students describing the same school musical. Why is the strongest explanation the one that links interpretation to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “It creates active and detailed only because the title is short.” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex.",
-      "Check the whole example: “It creates active and detailed because precise evidence avoids an empty backdrop.” matches the key clue, while “It creates active and detailed only because the title is short.” does not."
+      "Because interpretation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks."
     ],
-    "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It creates active and detailed only because the title is short.” fail and “It creates active and detailed because precise evidence avoids an empty backdrop.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates active and detailed only because the title is short.” fail and “It creates active and detailed because precise evidence avoids an empty backdrop.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Because interpretation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-023",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "reader response",
     "printable": true,
     "type": "single",
-    "question": "Compare “It creates complex character only because the title is short.” with “It creates complex character because inside and outside views resist a simple label.”. What important difference matters in this example? For “leader's decision”, which explanation best connects the evidence “private doubts contrast with confident public speech” with its effect?",
-    "audioPrompt": "Compare “It creates complex character only because the title is short.” with “It creates complex character because inside and outside views resist a simple label.”. What important difference matters in this example? For “leader's decision”, which explanation best connects the evidence “private doubts contrast with confident public speech” with its effect?",
+    "question": "A student gives an answer about siblings remembering a camping trip differently. Why is the strongest explanation the one that links reader response to evidence and effect?",
+    "audioPrompt": "A student gives an answer about siblings remembering a camping trip differently. Why is the strongest explanation the one that links reader response to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check the whole example: “It creates complex character because inside and outside views resist a simple label.” matches the key clue, while “It creates complex character only because the title is short.” does not.",
-      "Keep “It creates complex character only because the title is short.” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because reader response is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
-    "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It creates complex character only because the title is short.” fail and “It creates complex character because inside and outside views resist a simple label.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates complex character only because the title is short.” fail and “It creates complex character because inside and outside views resist a simple label.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Because reader response is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-024",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "point of view",
     "printable": true,
     "type": "single",
-    "question": "Which clue rules out “It creates skilled community only because the title is short.” in this situation? For “harbour morning”, which explanation best connects the evidence “workers are named through precise tasks and dialogue” with its effect?",
-    "audioPrompt": "Which clue rules out “It creates skilled community only because the title is short.” in this situation? For “harbour morning”, which explanation best connects the evidence “workers are named through precise tasks and dialogue” with its effect?",
+    "question": "A student gives an answer about a goalkeeper and striker describing one match. Why is the strongest explanation the one that links point of view to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a goalkeeper and striker describing one match. Why is the strongest explanation the one that links point of view to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “It creates skilled community only because the title is short.” because it contains a familiar word.",
-      "Check the whole example: “It creates skilled community because specific portrayal avoids a faceless crowd.” matches the key clue, while “It creates skilled community only because the title is short.” does not.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Because point of view is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate."
     ],
-    "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It creates skilled community only because the title is short.” fail and “It creates skilled community because specific portrayal avoids a faceless crowd.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates skilled community only because the title is short.” fail and “It creates skilled community because specific portrayal avoids a faceless crowd.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Because point of view is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5le03-p-025",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "A quick reader might choose “It creates shared but varied only because the title is short.”. What would a closer reading show? For “family feast”, which explanation best connects the evidence “each speaker remembers the same recipe differently” with its effect?",
-    "audioPrompt": "A quick reader might choose “It creates shared but varied only because the title is short.”. What would a closer reading show? For “family feast”, which explanation best connects the evidence “each speaker remembers the same recipe differently” with its effect?",
+    "question": "In a witness who sees only part of an event, a student is confusing viewpoint with a character trait. What is the best correction?",
+    "audioPrompt": "In a witness who sees only part of an event, a student is confusing viewpoint with a character trait. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “It creates shared but varied only because the title is short.” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex.",
-      "Check the whole example: “It creates shared but varied because multiple viewpoints prevent one fixed memory.” matches the key clue, while “It creates shared but varied only because the title is short.” does not."
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
-    "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It creates shared but varied only because the title is short.” fail and “It creates shared but varied because multiple viewpoints prevent one fixed memory.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates shared but varied only because the title is short.” fail and “It creates shared but varied because multiple viewpoints prevent one fixed memory.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-026",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "What makes “It creates community work because selection values unseen contribution.” more precise than “It creates community work only because the title is short.” here? For “festival”, which explanation best connects the evidence “preparation and quiet responsibilities appear before spectacle” with its effect?",
-    "audioPrompt": "What makes “It creates community work because selection values unseen contribution.” more precise than “It creates community work only because the title is short.” here? For “festival”, which explanation best connects the evidence “preparation and quiet responsibilities appear before spectacle” with its effect?",
+    "question": "In a first-person diary after an argument, a student is assuming the narrator is neutral. What is the best correction?",
+    "audioPrompt": "In a first-person diary after an argument, a student is assuming the narrator is neutral. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check the whole example: “It creates community work because selection values unseen contribution.” matches the key clue, while “It creates community work only because the title is short.” does not.",
-      "Keep “It creates community work only because the title is short.” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
-    "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It creates community work only because the title is short.” fail and “It creates community work because selection values unseen contribution.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates community work only because the title is short.” fail and “It creates community work because selection values unseen contribution.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-027",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Which detail helps you reject “It creates multiple impact only because the title is short.”? For “rain event”, which explanation best connects the evidence “farmer, child and frog experience the same rain differently” with its effect?",
-    "audioPrompt": "Which detail helps you reject “It creates multiple impact only because the title is short.”? For “rain event”, which explanation best connects the evidence “farmer, child and frog experience the same rain differently” with its effect?",
+    "question": "In a third-person narrator following one character, a student is using only one passage when comparing two viewpoints. What is the best correction?",
+    "audioPrompt": "In a third-person narrator following one character, a student is using only one passage when comparing two viewpoints. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “It creates multiple impact only because the title is short.” because it contains a familiar word.",
-      "Check the whole example: “It creates multiple impact because parallel viewpoints show perspective depends on needs.” matches the key clue, while “It creates multiple impact only because the title is short.” does not.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning."
     ],
     "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It creates multiple impact only because the title is short.” fail and “It creates multiple impact because parallel viewpoints show perspective depends on needs.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates multiple impact only because the title is short.” fail and “It creates multiple impact because parallel viewpoints show perspective depends on needs.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-028",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "What is the problem with choosing “It creates personally meaningful only because the title is short.” for this example? For “school race”, which explanation best connects the evidence “the event is narrated by the runner who finishes last” with its effect?",
-    "audioPrompt": "What is the problem with choosing “It creates personally meaningful only because the title is short.” for this example? For “school race”, which explanation best connects the evidence “the event is narrated by the runner who finishes last” with its effect?",
+    "question": "In two beach-holiday viewpoints, a student is claiming every reader must respond identically. What is the best correction?",
+    "audioPrompt": "In two beach-holiday viewpoints, a student is claiming every reader must respond identically. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “It creates personally meaningful only because the title is short.” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex.",
-      "Check the whole example: “It creates personally meaningful because viewpoint values persistence over winning.” matches the key clue, while “It creates personally meaningful only because the title is short.” does not."
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
-    "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It creates personally meaningful only because the title is short.” fail and “It creates personally meaningful because viewpoint values persistence over winning.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates personally meaningful only because the title is short.” fail and “It creates personally meaningful because viewpoint values persistence over winning.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-029",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Which comparison best separates “It creates uncertain because viewpoint shapes blame.” from “It creates uncertain only because the title is short.”? For “market dispute”, which explanation best connects the evidence “two stallholders describe the same accident differently” with its effect?",
-    "audioPrompt": "Which comparison best separates “It creates uncertain because viewpoint shapes blame.” from “It creates uncertain only because the title is short.”? For “market dispute”, which explanation best connects the evidence “two stallholders describe the same accident differently” with its effect?",
+    "question": "In a character who misunderstands another’s motives, a student is confusing viewpoint with a character trait. What is the best correction?",
+    "audioPrompt": "In a character who misunderstands another’s motives, a student is confusing viewpoint with a character trait. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check the whole example: “It creates uncertain because viewpoint shapes blame.” matches the key clue, while “It creates uncertain only because the title is short.” does not.",
-      "Keep “It creates uncertain only because the title is short.” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
-    "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It creates uncertain only because the title is short.” fail and “It creates uncertain because viewpoint shapes blame.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates uncertain only because the title is short.” fail and “It creates uncertain because viewpoint shapes blame.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-030",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "What should you check so you do not confuse “It creates resourceful community only because the title is short.” with the correct answer? For “power outage”, which explanation best connects the evidence “neighbours' small choices become the main events” with its effect?",
-    "audioPrompt": "What should you check so you do not confuse “It creates resourceful community only because the title is short.” with the correct answer? For “power outage”, which explanation best connects the evidence “neighbours' small choices become the main events” with its effect?",
+    "question": "In a retelling from the antagonist’s perspective, a student is assuming the narrator is neutral. What is the best correction?",
+    "audioPrompt": "In a retelling from the antagonist’s perspective, a student is assuming the narrator is neutral. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “It creates resourceful community only because the title is short.” because it contains a familiar word.",
-      "Check the whole example: “It creates resourceful community because ordinary actions construct resilience.” matches the key clue, while “It creates resourceful community only because the title is short.” does not.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning."
     ],
-    "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It creates resourceful community only because the title is short.” fail and “It creates resourceful community because ordinary actions construct resilience.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates resourceful community only because the title is short.” fail and “It creates resourceful community because ordinary actions construct resilience.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-031",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Apply what you know to this example: For “school race”, which explanation best connects the evidence “the event is narrated by the runner who finishes last” with its effect?",
-    "audioPrompt": "Apply what you know to this example: For “school race”, which explanation best connects the evidence “the event is narrated by the runner who finishes last” with its effect?",
+    "question": "In two students describing the same school musical, a student is using only one passage when comparing two viewpoints. What is the best correction?",
+    "audioPrompt": "In two students describing the same school musical, a student is using only one passage when comparing two viewpoints. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates personally meaningful only because the title is short.",
-      "It has no effect because readers always respond in the same way.",
-      "It creates personally meaningful because viewpoint values persistence over winning."
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
-    "correct": 2,
-    "explanation": "“It creates personally meaningful because viewpoint values persistence over winning.” fits the meaning and the language clue in this example. The evidence creates personally meaningful: viewpoint values persistence over winning.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates personally meaningful because viewpoint values persistence over winning.” fits the meaning and the language clue in this example. The evidence creates personally meaningful: viewpoint values persistence over winning.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-032",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Use the skill independently. For “market dispute”, which explanation best connects the evidence “two stallholders describe the same accident differently” with its effect?",
-    "audioPrompt": "Use the skill independently. For “market dispute”, which explanation best connects the evidence “two stallholders describe the same accident differently” with its effect?",
+    "question": "In siblings remembering a camping trip differently, a student is claiming every reader must respond identically. What is the best correction?",
+    "audioPrompt": "In siblings remembering a camping trip differently, a student is claiming every reader must respond identically. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates uncertain because viewpoint shapes blame.",
-      "It creates uncertain only because the title is short.",
-      "It has no effect because readers always respond in the same way."
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
-    "correct": 0,
-    "explanation": "“It creates uncertain because viewpoint shapes blame.” fits the meaning and the language clue in this example. The evidence creates uncertain: viewpoint shapes blame.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates uncertain because viewpoint shapes blame.” fits the meaning and the language clue in this example. The evidence creates uncertain: viewpoint shapes blame.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-033",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Work out the answer from the details given. For “power outage”, which explanation best connects the evidence “neighbours' small choices become the main events” with its effect?",
-    "audioPrompt": "Work out the answer from the details given. For “power outage”, which explanation best connects the evidence “neighbours' small choices become the main events” with its effect?",
+    "question": "In a goalkeeper and striker describing one match, a student is confusing viewpoint with a character trait. What is the best correction?",
+    "audioPrompt": "In a goalkeeper and striker describing one match, a student is confusing viewpoint with a character trait. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates resourceful community only because the title is short.",
-      "It creates resourceful community because ordinary actions construct resilience.",
-      "It has no effect because readers always respond in the same way."
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning."
     ],
     "correct": 1,
-    "explanation": "“It creates resourceful community because ordinary actions construct resilience.” fits the meaning and the language clue in this example. The evidence creates resourceful community: ordinary actions construct resilience.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates resourceful community because ordinary actions construct resilience.” fits the meaning and the language clue in this example. The evidence creates resourceful community: ordinary actions construct resilience.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-034",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Now use the idea in context. For “arrival at a new town”, which explanation best connects the evidence “a child notices unfamiliar street names before friendly faces” with its effect?",
-    "audioPrompt": "Now use the idea in context. For “arrival at a new town”, which explanation best connects the evidence “a child notices unfamiliar street names before friendly faces” with its effect?",
+    "question": "In a child and parent describing a storm, a student is assuming the narrator is neutral. What is the best correction?",
+    "audioPrompt": "In a child and parent describing a storm, a student is assuming the narrator is neutral. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates uncertain then hopeful only because the title is short.",
-      "It has no effect because readers always respond in the same way.",
-      "It creates uncertain then hopeful because selection follows the child's changing comfort."
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
-    "correct": 2,
-    "explanation": "“It creates uncertain then hopeful because selection follows the child's changing comfort.” fits the meaning and the language clue in this example. The evidence creates uncertain then hopeful: selection follows the child's changing comfort.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates uncertain then hopeful because selection follows the child's changing comfort.” fits the meaning and the language clue in this example. The evidence creates uncertain then hopeful: selection follows the child's changing comfort.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-035",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Choose carefully using meaning, not just a familiar word. For “storm evacuation”, which explanation best connects the evidence “a child focuses on carrying the family photo album” with its effect?",
-    "audioPrompt": "Choose carefully using meaning, not just a familiar word. For “storm evacuation”, which explanation best connects the evidence “a child focuses on carrying the family photo album” with its effect?",
+    "question": "In two friends reacting to a new student, a student is using only one passage when comparing two viewpoints. What is the best correction?",
+    "audioPrompt": "In two friends reacting to a new student, a student is using only one passage when comparing two viewpoints. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates emotional because selected detail shows what feels valuable.",
-      "It creates emotional only because the title is short.",
-      "It has no effect because readers always respond in the same way."
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
-    "correct": 0,
-    "explanation": "“It creates emotional because selected detail shows what feels valuable.” fits the meaning and the language clue in this example. The evidence creates emotional: selected detail shows what feels valuable.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates emotional because selected detail shows what feels valuable.” fits the meaning and the language clue in this example. The evidence creates emotional: selected detail shows what feels valuable.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-036",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Which answer still works when you consider the whole example? For “lost dog search”, which explanation best connects the evidence “an overhead map shows paths the narrator cannot see” with its effect?",
-    "audioPrompt": "Which answer still works when you consider the whole example? For “lost dog search”, which explanation best connects the evidence “an overhead map shows paths the narrator cannot see” with its effect?",
+    "question": "In a narrator who hides a mistake, a student is claiming every reader must respond identically. What is the best correction?",
+    "audioPrompt": "In a narrator who hides a mistake, a student is claiming every reader must respond identically. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates dramatic perspective only because the title is short.",
-      "It creates dramatic perspective because image gives readers broader knowledge.",
-      "It has no effect because readers always respond in the same way."
+      "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning."
     ],
-    "correct": 1,
-    "explanation": "“It creates dramatic perspective because image gives readers broader knowledge.” fits the meaning and the language clue in this example. The evidence creates dramatic perspective: image gives readers broader knowledge.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates dramatic perspective because image gives readers broader knowledge.” fits the meaning and the language clue in this example. The evidence creates dramatic perspective: image gives readers broader knowledge.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the who tells → what they know → evidence → interpretation → reader response routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5le03-p-037",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "perspective",
     "printable": true,
     "type": "single",
-    "question": "Use all the clues in this situation. For “playground conflict”, which explanation best connects the evidence “the scene begins after the argument” with its effect?",
-    "audioPrompt": "Use all the clues in this situation. For “playground conflict”, which explanation best connects the evidence “the scene begins after the argument” with its effect?",
+    "question": "Apply the skill independently to a fresh version of two beach-holiday viewpoints. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of two beach-holiday viewpoints. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates incomplete only because the title is short.",
-      "It has no effect because readers always respond in the same way.",
-      "It creates incomplete because omitted causes make early judgement unreliable."
+      "Use a personal preference as the main evidence.",
+      "Use perspective precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named."
     ],
-    "correct": 2,
-    "explanation": "“It creates incomplete because omitted causes make early judgement unreliable.” fits the meaning and the language clue in this example. The evidence creates incomplete: omitted causes make early judgement unreliable.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates incomplete because omitted causes make early judgement unreliable.” fits the meaning and the language clue in this example. The evidence creates incomplete: omitted causes make early judgement unreliable.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Use perspective precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   },
   {
     "id": "ac9e5le03-p-038",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "evidence",
     "printable": true,
     "type": "single",
-    "question": "Decide which option is most precise. For “historic voyage”, which explanation best connects the evidence “a diary records fear while an official notice declares success” with its effect?",
-    "audioPrompt": "Decide which option is most precise. For “historic voyage”, which explanation best connects the evidence “a diary records fear while an official notice declares success” with its effect?",
+    "question": "Apply the skill independently to a fresh version of a character who misunderstands another’s motives. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a character who misunderstands another’s motives. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates contested because contrasting sources reveal different experiences.",
-      "It creates contested only because the title is short.",
-      "It has no effect because readers always respond in the same way."
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
     ],
-    "correct": 0,
-    "explanation": "“It creates contested because contrasting sources reveal different experiences.” fits the meaning and the language clue in this example. The evidence creates contested: contrasting sources reveal different experiences.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates contested because contrasting sources reveal different experiences.” fits the meaning and the language clue in this example. The evidence creates contested: contrasting sources reveal different experiences.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 2,
+    "explanation": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   },
   {
     "id": "ac9e5le03-p-039",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "interpretation",
     "printable": true,
     "type": "single",
-    "question": "Which choice best shows your understanding here? For “first day”, which explanation best connects the evidence “humorous comparisons soften an intimidating classroom” with its effect?",
-    "audioPrompt": "Which choice best shows your understanding here? For “first day”, which explanation best connects the evidence “humorous comparisons soften an intimidating classroom” with its effect?",
+    "question": "Apply the skill independently to a fresh version of a retelling from the antagonist’s perspective. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a retelling from the antagonist’s perspective. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates manageable only because the title is short.",
-      "It creates manageable because language reflects the narrator's coping response.",
-      "It has no effect because readers always respond in the same way."
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use interpretation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence."
     ],
     "correct": 1,
-    "explanation": "“It creates manageable because language reflects the narrator's coping response.” fits the meaning and the language clue in this example. The evidence creates manageable: language reflects the narrator's coping response.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates manageable because language reflects the narrator's coping response.” fits the meaning and the language clue in this example. The evidence creates manageable: language reflects the narrator's coping response.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Use interpretation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   },
   {
     "id": "ac9e5le03-p-040",
     "curriculumCode": "AC9E5LE03",
     "bank": "practice",
-    "skill": "representation through viewpoint and selection",
+    "skill": "reader response",
     "printable": true,
     "type": "single",
-    "question": "Read the full example before deciding. For “museum object”, which explanation best connects the evidence “the object's imagined voice challenges its display label” with its effect?",
-    "audioPrompt": "Read the full example before deciding. For “museum object”, which explanation best connects the evidence “the object's imagined voice challenges its display label” with its effect?",
+    "question": "Apply the skill independently to a fresh version of two students describing the same school musical. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of two students describing the same school musical. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It creates questioned authority only because the title is short.",
-      "It has no effect because readers always respond in the same way.",
-      "It creates questioned authority because viewpoint invites readers to reconsider ownership."
+      "Use reader response precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 0,
+    "explanation": "Use reader response precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le03-p-041",
+    "curriculumCode": "AC9E5LE03",
+    "bank": "practice",
+    "skill": "point of view",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of siblings remembering a camping trip differently. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of siblings remembering a camping trip differently. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence.",
+      "Use point of view precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
     ],
     "correct": 2,
-    "explanation": "“It creates questioned authority because viewpoint invites readers to reconsider ownership.” fits the meaning and the language clue in this example. The evidence creates questioned authority: viewpoint invites readers to reconsider ownership.\nHint: Name the specific choice, then explain what it invites readers to notice, feel or infer.",
-    "structuredExplanation": {
-      "summary": "“It creates questioned authority because viewpoint invites readers to reconsider ownership.” fits the meaning and the language clue in this example. The evidence creates questioned authority: viewpoint invites readers to reconsider ownership.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Use point of view precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le03-p-042",
+    "curriculumCode": "AC9E5LE03",
+    "bank": "practice",
+    "skill": "narrator",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a goalkeeper and striker describing one match. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a goalkeeper and striker describing one match. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use narrator precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 0,
+    "explanation": "Use narrator precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le03-p-043",
+    "curriculumCode": "AC9E5LE03",
+    "bank": "practice",
+    "skill": "perspective",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a child and parent describing a storm. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a child and parent describing a storm. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a personal preference as the main evidence.",
+      "Use perspective precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 1,
+    "explanation": "Use perspective precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le03-p-044",
+    "curriculumCode": "AC9E5LE03",
+    "bank": "practice",
+    "skill": "evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of two friends reacting to a new student. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of two friends reacting to a new student. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le03-p-045",
+    "curriculumCode": "AC9E5LE03",
+    "bank": "practice",
+    "skill": "interpretation",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a narrator who hides a mistake. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a narrator who hides a mistake. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use interpretation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 1,
+    "explanation": "Use interpretation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le03-p-046",
+    "curriculumCode": "AC9E5LE03",
+    "bank": "practice",
+    "skill": "reader response",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a witness who sees only part of an event. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a witness who sees only part of an event. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use reader response precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 0,
+    "explanation": "Use reader response precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le03-p-047",
+    "curriculumCode": "AC9E5LE03",
+    "bank": "practice",
+    "skill": "point of view",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a first-person diary after an argument. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a first-person diary after an argument. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence.",
+      "Use point of view precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use point of view precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5le03-p-048",
+    "curriculumCode": "AC9E5LE03",
+    "bank": "practice",
+    "skill": "narrator",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a third-person narrator following one character. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a third-person narrator following one character. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use narrator precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 0,
+    "explanation": "Use narrator precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

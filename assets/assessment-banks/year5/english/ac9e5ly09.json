@@ -6,27 +6,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which meaningful-part analysis best helps a reader understand the word unpredictable, spelled u n p r e d i c t a b l e?",
-    "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word unpredictable, spelled u n p r e d i c t a b l e?",
+    "skill": "base_word",
+    "question": "Which response best demonstrates the AC9E5 skill in happy → unhappy?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in happy → unhappy?",
     "answers": [
       {
-        "text": "un-pre-dict-a-ble",
+        "text": "It names a feature in happy → unhappy but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "un + predict + able",
+        "text": "The response uses base word and connects it to specific evidence in happy → unhappy.",
         "is_correct": true
       },
       {
-        "text": "split after every vowel letter",
+        "text": "It gives a personal reaction to happy → unhappy but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“un + predict + able” fits the meaning and the language clue in this example. un + predict + able reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
+      "summary": "The response uses base word and connects it to specific evidence in happy → unhappy. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -36,27 +36,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Read carefully: Which word-family evidence best helps verify the spelling of disagreement, spelled d i s a g r e e m e n t?",
-    "audio_prompt": "Read carefully: Which word-family evidence best helps verify the spelling of disagreement, spelled d i s a g r e e m e n t?",
+    "skill": "prefix",
+    "question": "Which response best demonstrates the AC9E5 skill in care → careless?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in care → careless?",
     "answers": [
       {
-        "text": "a rhyming word with an unrelated spelling",
+        "text": "It names a feature in care → careless but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "the shortest word in the sentence",
+        "text": "It gives a personal reaction to care → careless but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "agree, agreed and agreement",
+        "text": "The response uses prefix and connects it to specific evidence in care → careless.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“agree, agreed and agreement” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
+      "summary": "The response uses prefix and connects it to specific evidence in care → careless. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -66,27 +66,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which answer makes the most sense here? In a science or humanities sentence, what does reconsideration, spelled r e c o n s i d e r a t i o n mean?",
-    "audio_prompt": "Which answer makes the most sense here? In a science or humanities sentence, what does reconsideration, spelled r e c o n s i d e r a t i o n mean?",
+    "skill": "suffix",
+    "question": "Which response best demonstrates the AC9E5 skill in act → action?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in act → action?",
     "answers": [
       {
-        "text": "thinking about something again",
+        "text": "It gives a personal reaction to act → action but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses suffix and connects it to specific evidence in act → action.",
         "is_correct": true
       },
       {
-        "text": "a meaning suggested only by the first sound",
-        "is_correct": false
-      },
-      {
-        "text": "an unrelated meaning guessed from the topic",
+        "text": "It names a feature in act → action but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“thinking about something again” fits the meaning and the language clue in this example. The word's parts and context support the meaning “thinking about something again.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
+      "summary": "The response uses suffix and connects it to specific evidence in act → action. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -96,27 +96,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Look at the wording and meaning. Which spoken-syllable guide best supports careful reading of miscommunication, spelled m i s c o m m u n i c a t i o n?",
-    "audio_prompt": "Look at the wording and meaning. Which spoken-syllable guide best supports careful reading of miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "skill": "root",
+    "question": "Which response best demonstrates the AC9E5 skill in predict → prediction?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in predict → prediction?",
     "answers": [
       {
-        "text": "mis + communicate + ion",
-        "is_correct": false
-      },
-      {
-        "text": "mis-com-mu-ni-ca-tion",
+        "text": "The response uses root and connects it to specific evidence in predict → prediction.",
         "is_correct": true
       },
       {
-        "text": "say only the first and last parts",
+        "text": "It names a feature in predict → prediction but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a personal reaction to predict → prediction but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“mis-com-mu-ni-ca-tion” fits the meaning and the language clue in this example. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
+      "summary": "The response uses root and connects it to specific evidence in predict → prediction. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -126,27 +126,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Choose the option that fits the situation best. Which meaningful-part analysis best helps a reader understand the word disagreement, spelled d i s a g r e e m e n t?",
-    "audio_prompt": "Choose the option that fits the situation best. Which meaningful-part analysis best helps a reader understand the word disagreement, spelled d i s a g r e e m e n t?",
+    "skill": "word_origin",
+    "question": "Which response best demonstrates the AC9E5 skill in cycle → bicycle?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in cycle → bicycle?",
     "answers": [
       {
-        "text": "dis-a-gree-ment",
+        "text": "It gives a personal reaction to cycle → bicycle but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "split after every vowel letter",
+        "text": "It names a feature in cycle → bicycle but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "dis + agree + ment",
+        "text": "The response uses word origin and connects it to specific evidence in cycle → bicycle.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“dis + agree + ment” fits the meaning and the language clue in this example. dis + agree + ment reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
+      "summary": "The response uses word origin and connects it to specific evidence in cycle → bicycle. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -156,27 +156,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which choice is accurate in this example? Which word-family evidence best helps verify the spelling of transportation, spelled t r a n s p o r t a t i o n?",
-    "audio_prompt": "Which choice is accurate in this example? Which word-family evidence best helps verify the spelling of transportation, spelled t r a n s p o r t a t i o n?",
+    "skill": "morpheme",
+    "question": "Which response best demonstrates the AC9E5 skill in view → preview?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in view → preview?",
     "answers": [
       {
-        "text": "transport, portable and porter",
+        "text": "The response uses morpheme and connects it to specific evidence in view → preview.",
         "is_correct": true
       },
       {
-        "text": "a rhyming word with an unrelated spelling",
+        "text": "It gives a personal reaction to view → preview but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "the shortest word in the sentence",
+        "text": "It names a feature in view → preview but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“transport, portable and porter” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
+      "summary": "The response uses morpheme and connects it to specific evidence in view → preview. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -186,27 +186,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Focus on the key clue. In a science or humanities sentence, what does environmental, spelled e n v i r o n m e n t a l mean?",
-    "audio_prompt": "Focus on the key clue. In a science or humanities sentence, what does environmental, spelled e n v i r o n m e n t a l mean?",
+    "skill": "spelling_generalisation",
+    "question": "Which response best demonstrates the AC9E5 skill in help → helpful?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in help → helpful?",
     "answers": [
       {
-        "text": "a meaning suggested only by the first sound",
+        "text": "It names a feature in help → helpful but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "relating to the environment",
+        "text": "The response uses spelling generalisation and connects it to specific evidence in help → helpful.",
         "is_correct": true
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
+        "text": "It gives a personal reaction to help → helpful but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“relating to the environment” fits the meaning and the language clue in this example. The word's parts and context support the meaning “relating to the environment.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
+      "summary": "The response uses spelling generalisation and connects it to specific evidence in help → helpful. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -216,27 +216,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "What works best in this situation? Which spoken-syllable guide best supports careful reading of unpredictable, spelled u n p r e d i c t a b l e?",
-    "audio_prompt": "What works best in this situation? Which spoken-syllable guide best supports careful reading of unpredictable, spelled u n p r e d i c t a b l e?",
+    "skill": "base_word",
+    "question": "Which response best demonstrates the AC9E5 skill in magic → magician?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in magic → magician?",
     "answers": [
       {
-        "text": "un + predict + able",
+        "text": "It names a feature in magic → magician but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "say only the first and last parts",
+        "text": "It gives a personal reaction to magic → magician but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "un-pre-dict-a-ble",
+        "text": "The response uses base word and connects it to specific evidence in magic → magician.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“un-pre-dict-a-ble” fits the meaning and the language clue in this example. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
+      "summary": "The response uses base word and connects it to specific evidence in magic → magician. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -246,27 +246,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which option matches what is happening? Which meaningful-part analysis best helps a reader understand the word transportation, spelled t r a n s p o r t a t i o n?",
-    "audio_prompt": "Which option matches what is happening? Which meaningful-part analysis best helps a reader understand the word transportation, spelled t r a n s p o r t a t i o n?",
+    "skill": "prefix",
+    "question": "Which response best demonstrates the AC9E5 skill in permit → permission?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in permit → permission?",
     "answers": [
       {
-        "text": "trans + port + ation",
+        "text": "It gives a personal reaction to permit → permission but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses prefix and connects it to specific evidence in permit → permission.",
         "is_correct": true
       },
       {
-        "text": "trans-por-ta-tion",
-        "is_correct": false
-      },
-      {
-        "text": "split after every vowel letter",
+        "text": "It names a feature in permit → permission but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“trans + port + ation” fits the meaning and the language clue in this example. trans + port + ation reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
+      "summary": "The response uses prefix and connects it to specific evidence in permit → permission. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -276,27 +276,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Use the details in the example. Which word-family evidence best helps verify the spelling of reconsideration, spelled r e c o n s i d e r a t i o n?",
-    "audio_prompt": "Use the details in the example. Which word-family evidence best helps verify the spelling of reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "skill": "suffix",
+    "question": "Which response best demonstrates the AC9E5 skill in tract in tractor/attract?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in tract in tractor/attract?",
     "answers": [
       {
-        "text": "a rhyming word with an unrelated spelling",
-        "is_correct": false
-      },
-      {
-        "text": "consider, considerate and consideration",
+        "text": "The response uses suffix and connects it to specific evidence in tract in tractor/attract.",
         "is_correct": true
       },
       {
-        "text": "the shortest word in the sentence",
+        "text": "It names a feature in tract in tractor/attract but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a personal reaction to tract in tractor/attract but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“consider, considerate and consideration” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
+      "summary": "The response uses suffix and connects it to specific evidence in tract in tractor/attract. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -305,28 +305,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Why is “un-pre-dict-a-ble” the strongest answer to this question: Which spoken-syllable guide best supports careful reading of unpredictable, spelled u n p r e d i c t a b l e?",
-    "audio_prompt": "Why is “un-pre-dict-a-ble” the strongest answer to this question: Which spoken-syllable guide best supports careful reading of unpredictable, spelled u n p r e d i c t a b l e?",
+    "stage": "recognise",
+    "skill": "root",
+    "question": "Which response best demonstrates the AC9E5 skill in spect in inspect/spectator?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in spect in inspect/spectator?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It gives a personal reaction to spect in inspect/spectator but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "It names a feature in spect in inspect/spectator but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "The response uses root and connects it to specific evidence in spect in inspect/spectator.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Find the exact clue that makes “un-pre-dict-a-ble” fit."
+      "summary": "The response uses root and connects it to specific evidence in spect in inspect/spectator. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -335,28 +335,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "What makes “trans + port + ation” work in this example? Which meaningful-part analysis best helps a reader understand the word transportation, spelled t r a n s p o r t a t i o n?",
-    "audio_prompt": "What makes “trans + port + ation” work in this example? Which meaningful-part analysis best helps a reader understand the word transportation, spelled t r a n s p o r t a t i o n?",
+    "stage": "recognise",
+    "skill": "word_origin",
+    "question": "Which response best demonstrates the AC9E5 skill in form a new word from a known base in context?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in form a new word from a known base in context?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "The response uses word origin and connects it to specific evidence in form a new word from a known base in context.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It gives a personal reaction to form a new word from a known base in context but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "It names a feature in form a new word from a known base in context but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. trans + port + ation reveals the word's meaningful structure.",
-      "hint": "Find the exact clue that makes “trans + port + ation” fit."
+      "summary": "The response uses word origin and connects it to specific evidence in form a new word from a known base in context. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -365,28 +365,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which reason best explains why “consider, considerate and consideration” fits? Which word-family evidence best helps verify the spelling of reconsideration, spelled r e c o n s i d e r a t i o n?",
-    "audio_prompt": "Which reason best explains why “consider, considerate and consideration” fits? Which word-family evidence best helps verify the spelling of reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "stage": "reason",
+    "skill": "prefix",
+    "question": "A student gives an answer about predict → prediction. Why is the strongest explanation the one that links prefix to evidence and effect?",
+    "audio_prompt": "A student gives an answer about predict → prediction. Why is the strongest explanation the one that links prefix to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because prefix is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Find the exact clue that makes “consider, considerate and consideration” fit."
+      "summary": "Because prefix is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -395,28 +395,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "How does “communication understood incorrectly” match the meaning of this example? In a science or humanities sentence, what does miscommunication, spelled m i s c o m m u n i c a t i o n mean?",
-    "audio_prompt": "How does “communication understood incorrectly” match the meaning of this example? In a science or humanities sentence, what does miscommunication, spelled m i s c o m m u n i c a t i o n mean?",
+    "stage": "reason",
+    "skill": "suffix",
+    "question": "A student gives an answer about cycle → bicycle. Why is the strongest explanation the one that links suffix to evidence and effect?",
+    "audio_prompt": "A student gives an answer about cycle → bicycle. Why is the strongest explanation the one that links suffix to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because suffix is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The word's parts and context support the meaning “communication understood incorrectly.”",
-      "hint": "Find the exact clue that makes “communication understood incorrectly” fit."
+      "summary": "Because suffix is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -425,28 +425,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Why does “dis-a-gree-ment” suit this situation better than the other choices? Which spoken-syllable guide best supports careful reading of disagreement, spelled d i s a g r e e m e n t?",
-    "audio_prompt": "Why does “dis-a-gree-ment” suit this situation better than the other choices? Which spoken-syllable guide best supports careful reading of disagreement, spelled d i s a g r e e m e n t?",
+    "stage": "reason",
+    "skill": "root",
+    "question": "A student gives an answer about view → preview. Why is the strongest explanation the one that links root to evidence and effect?",
+    "audio_prompt": "A student gives an answer about view → preview. Why is the strongest explanation the one that links root to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because root is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Find the exact clue that makes “dis-a-gree-ment” fit."
+      "summary": "Because root is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -455,28 +455,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "What clue in the example supports “re + consider + ation”? Which meaningful-part analysis best helps a reader understand the word reconsideration, spelled r e c o n s i d e r a t i o n?",
-    "audio_prompt": "What clue in the example supports “re + consider + ation”? Which meaningful-part analysis best helps a reader understand the word reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "stage": "reason",
+    "skill": "word_origin",
+    "question": "A student gives an answer about help → helpful. Why is the strongest explanation the one that links word origin to evidence and effect?",
+    "audio_prompt": "A student gives an answer about help → helpful. Why is the strongest explanation the one that links word origin to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because word origin is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. re + consider + ation reveals the word's meaningful structure.",
-      "hint": "Find the exact clue that makes “re + consider + ation” fit."
+      "summary": "Because word origin is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -485,28 +485,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which explanation shows why “environment and environmentally” is correct here? Which word-family evidence best helps verify the spelling of environmental, spelled e n v i r o n m e n t a l?",
-    "audio_prompt": "Which explanation shows why “environment and environmentally” is correct here? Which word-family evidence best helps verify the spelling of environmental, spelled e n v i r o n m e n t a l?",
+    "stage": "reason",
+    "skill": "morpheme",
+    "question": "A student gives an answer about magic → magician. Why is the strongest explanation the one that links morpheme to evidence and effect?",
+    "audio_prompt": "A student gives an answer about magic → magician. Why is the strongest explanation the one that links morpheme to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because morpheme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Find the exact clue that makes “environment and environmentally” fit."
+      "summary": "Because morpheme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -515,28 +515,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Why would “not able to be predicted” make sense to a careful reader? In a science or humanities sentence, what does unpredictable, spelled u n p r e d i c t a b l e mean?",
-    "audio_prompt": "Why would “not able to be predicted” make sense to a careful reader? In a science or humanities sentence, what does unpredictable, spelled u n p r e d i c t a b l e mean?",
+    "stage": "reason",
+    "skill": "spelling_generalisation",
+    "question": "A student gives an answer about permit → permission. Why is the strongest explanation the one that links spelling generalisation to evidence and effect?",
+    "audio_prompt": "A student gives an answer about permit → permission. Why is the strongest explanation the one that links spelling generalisation to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because spelling generalisation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The word's parts and context support the meaning “not able to be predicted.”",
-      "hint": "Find the exact clue that makes “not able to be predicted” fit."
+      "summary": "Because spelling generalisation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -545,28 +545,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "What is the best reason for choosing “trans-por-ta-tion”? Which spoken-syllable guide best supports careful reading of transportation, spelled t r a n s p o r t a t i o n?",
-    "audio_prompt": "What is the best reason for choosing “trans-por-ta-tion”? Which spoken-syllable guide best supports careful reading of transportation, spelled t r a n s p o r t a t i o n?",
+    "stage": "reason",
+    "skill": "base_word",
+    "question": "A student gives an answer about tract in tractor/attract. Why is the strongest explanation the one that links base word to evidence and effect?",
+    "audio_prompt": "A student gives an answer about tract in tractor/attract. Why is the strongest explanation the one that links base word to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because base word is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Find the exact clue that makes “trans-por-ta-tion” fit."
+      "summary": "Because base word is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -575,28 +575,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which explanation connects “environment + al” to the key clue? Which meaningful-part analysis best helps a reader understand the word environmental, spelled e n v i r o n m e n t a l?",
-    "audio_prompt": "Which explanation connects “environment + al” to the key clue? Which meaningful-part analysis best helps a reader understand the word environmental, spelled e n v i r o n m e n t a l?",
+    "stage": "reason",
+    "skill": "prefix",
+    "question": "A student gives an answer about spect in inspect/spectator. Why is the strongest explanation the one that links prefix to evidence and effect?",
+    "audio_prompt": "A student gives an answer about spect in inspect/spectator. Why is the strongest explanation the one that links prefix to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because prefix is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. environment + al reveals the word's meaningful structure.",
-      "hint": "Find the exact clue that makes “environment + al” fit."
+      "summary": "Because prefix is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -605,28 +605,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "“a meaning suggested only by the first sound” might seem possible at first. What should you notice before answering this question: In a science or humanities sentence, what does unpredictable, spelled u n p r e d i c t a b l e mean?",
-    "audio_prompt": "“a meaning suggested only by the first sound” might seem possible at first. What should you notice before answering this question: In a science or humanities sentence, what does unpredictable, spelled u n p r e d i c t a b l e mean?",
+    "stage": "reason",
+    "skill": "suffix",
+    "question": "A student gives an answer about form a new word from a known base in context. Why is the strongest explanation the one that links suffix to evidence and effect?",
+    "audio_prompt": "A student gives an answer about form a new word from a known base in context. Why is the strongest explanation the one that links suffix to evidence and effect?",
     "answers": [
       {
-        "text": "Check the whole example: “not able to be predicted” matches the key clue, while “a meaning suggested only by the first sound” does not.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because suffix is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Keep “a meaning suggested only by the first sound” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “a meaning suggested only by the first sound” fail and “not able to be predicted” succeed."
+      "summary": "Because suffix is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -635,28 +635,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Why is “trans + port + ation” not the best choice here? Which spoken-syllable guide best supports careful reading of transportation, spelled t r a n s p o r t a t i o n?",
-    "audio_prompt": "Why is “trans + port + ation” not the best choice here? Which spoken-syllable guide best supports careful reading of transportation, spelled t r a n s p o r t a t i o n?",
+    "stage": "reason",
+    "skill": "root",
+    "question": "A student gives an answer about happy → unhappy. Why is the strongest explanation the one that links root to evidence and effect?",
+    "audio_prompt": "A student gives an answer about happy → unhappy. Why is the strongest explanation the one that links root to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “trans + port + ation” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “trans-por-ta-tion” matches the key clue, while “trans + port + ation” does not.",
+        "text": "Because root is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “trans + port + ation” fail and “trans-por-ta-tion” succeed."
+      "summary": "Because root is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -665,28 +665,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Compare “en-vi-ron-men-tal” with “environment + al”. What important difference matters in this example? Which meaningful-part analysis best helps a reader understand the word environmental, spelled e n v i r o n m e n t a l?",
-    "audio_prompt": "Compare “en-vi-ron-men-tal” with “environment + al”. What important difference matters in this example? Which meaningful-part analysis best helps a reader understand the word environmental, spelled e n v i r o n m e n t a l?",
+    "stage": "reason",
+    "skill": "word_origin",
+    "question": "A student gives an answer about care → careless. Why is the strongest explanation the one that links word origin to evidence and effect?",
+    "audio_prompt": "A student gives an answer about care → careless. Why is the strongest explanation the one that links word origin to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “en-vi-ron-men-tal” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “environment + al” matches the key clue, while “en-vi-ron-men-tal” does not.",
+        "text": "Because word origin is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “en-vi-ron-men-tal” fail and “environment + al” succeed."
+      "summary": "Because word origin is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -695,28 +695,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which clue rules out “a rhyming word with an unrelated spelling” in this situation? Which word-family evidence best helps verify the spelling of miscommunication, spelled m i s c o m m u n i c a t i o n?",
-    "audio_prompt": "Which clue rules out “a rhyming word with an unrelated spelling” in this situation? Which word-family evidence best helps verify the spelling of miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "stage": "reason",
+    "skill": "morpheme",
+    "question": "A student gives an answer about act → action. Why is the strongest explanation the one that links morpheme to evidence and effect?",
+    "audio_prompt": "A student gives an answer about act → action. Why is the strongest explanation the one that links morpheme to evidence and effect?",
     "answers": [
       {
-        "text": "Check the whole example: “communicate and communication” matches the key clue, while “a rhyming word with an unrelated spelling” does not.",
+        "text": "Because morpheme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Keep “a rhyming word with an unrelated spelling” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “a rhyming word with an unrelated spelling” fail and “communicate and communication” succeed."
+      "summary": "Because morpheme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -726,27 +726,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "A quick reader might choose “a meaning suggested only by the first sound”. What would a closer reading show? In a science or humanities sentence, what does disagreement, spelled d i s a g r e e m e n t mean?",
-    "audio_prompt": "A quick reader might choose “a meaning suggested only by the first sound”. What would a closer reading show? In a science or humanities sentence, what does disagreement, spelled d i s a g r e e m e n t mean?",
+    "skill": "misconception_control",
+    "question": "In help → helpful, a student is attaching an affix to the wrong base. What is the best correction?",
+    "audio_prompt": "In help → helpful, a student is attaching an affix to the wrong base. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “a meaning suggested only by the first sound” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “a lack of agreement” matches the key clue, while “a meaning suggested only by the first sound” does not.",
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “a meaning suggested only by the first sound” fail and “a lack of agreement” succeed."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -756,27 +756,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "What makes “re-con-sid-er-a-tion” more precise than “re + consider + ation” here? Which spoken-syllable guide best supports careful reading of reconsideration, spelled r e c o n s i d e r a t i o n?",
-    "audio_prompt": "What makes “re-con-sid-er-a-tion” more precise than “re + consider + ation” here? Which spoken-syllable guide best supports careful reading of reconsideration, spelled r e c o n s i d e r a t i o n?",
+    "skill": "misconception_control",
+    "question": "In magic → magician, a student is using the right meaning with the wrong spelling. What is the best correction?",
+    "audio_prompt": "In magic → magician, a student is using the right meaning with the wrong spelling. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “re + consider + ation” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “re-con-sid-er-a-tion” matches the key clue, while “re + consider + ation” does not.",
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “re + consider + ation” fail and “re-con-sid-er-a-tion” succeed."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -786,27 +786,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which detail helps you reject “mis-com-mu-ni-ca-tion”? Which meaningful-part analysis best helps a reader understand the word miscommunication, spelled m i s c o m m u n i c a t i o n?",
-    "audio_prompt": "Which detail helps you reject “mis-com-mu-ni-ca-tion”? Which meaningful-part analysis best helps a reader understand the word miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "skill": "misconception_control",
+    "question": "In permit → permission, a student is assuming every word that looks similar shares a root. What is the best correction?",
+    "audio_prompt": "In permit → permission, a student is assuming every word that looks similar shares a root. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “mis + communicate + ion” matches the key clue, while “mis-com-mu-ni-ca-tion” does not.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “mis-com-mu-ni-ca-tion” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “mis-com-mu-ni-ca-tion” fail and “mis + communicate + ion” succeed."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -816,27 +816,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "What is the problem with choosing “a rhyming word with an unrelated spelling” for this example? Which word-family evidence best helps verify the spelling of unpredictable, spelled u n p r e d i c t a b l e?",
-    "audio_prompt": "What is the problem with choosing “a rhyming word with an unrelated spelling” for this example? Which word-family evidence best helps verify the spelling of unpredictable, spelled u n p r e d i c t a b l e?",
+    "skill": "misconception_control",
+    "question": "In tract in tractor/attract, a student is forgetting a spelling change when adding a suffix. What is the best correction?",
+    "audio_prompt": "In tract in tractor/attract, a student is forgetting a spelling change when adding a suffix. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “a rhyming word with an unrelated spelling” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “predict, prediction and predictable” matches the key clue, while “a rhyming word with an unrelated spelling” does not.",
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “a rhyming word with an unrelated spelling” fail and “predict, prediction and predictable” succeed."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -846,27 +846,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which comparison best separates “the act or system of carrying across” from “a meaning suggested only by the first sound”? In a science or humanities sentence, what does transportation, spelled t r a n s p o r t a t i o n mean?",
-    "audio_prompt": "Which comparison best separates “the act or system of carrying across” from “a meaning suggested only by the first sound”? In a science or humanities sentence, what does transportation, spelled t r a n s p o r t a t i o n mean?",
+    "skill": "misconception_control",
+    "question": "In spect in inspect/spectator, a student is attaching an affix to the wrong base. What is the best correction?",
+    "audio_prompt": "In spect in inspect/spectator, a student is attaching an affix to the wrong base. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “a meaning suggested only by the first sound” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “the act or system of carrying across” matches the key clue, while “a meaning suggested only by the first sound” does not.",
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “a meaning suggested only by the first sound” fail and “the act or system of carrying across” succeed."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -876,27 +876,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "What should you check so you do not confuse “environment + al” with the correct answer? Which spoken-syllable guide best supports careful reading of environmental, spelled e n v i r o n m e n t a l?",
-    "audio_prompt": "What should you check so you do not confuse “environment + al” with the correct answer? Which spoken-syllable guide best supports careful reading of environmental, spelled e n v i r o n m e n t a l?",
+    "skill": "misconception_control",
+    "question": "In form a new word from a known base in context, a student is using the right meaning with the wrong spelling. What is the best correction?",
+    "audio_prompt": "In form a new word from a known base in context, a student is using the right meaning with the wrong spelling. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “en-vi-ron-men-tal” matches the key clue, while “environment + al” does not.",
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “environment + al” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “environment + al” fail and “en-vi-ron-men-tal” succeed."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -905,28 +905,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Apply what you know to this example: Which word-family evidence best helps verify the spelling of unpredictable, spelled u n p r e d i c t a b l e?",
-    "audio_prompt": "Apply what you know to this example: Which word-family evidence best helps verify the spelling of unpredictable, spelled u n p r e d i c t a b l e?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In happy → unhappy, a student is assuming every word that looks similar shares a root. What is the best correction?",
+    "audio_prompt": "In happy → unhappy, a student is assuming every word that looks similar shares a root. What is the best correction?",
     "answers": [
       {
-        "text": "a rhyming word with an unrelated spelling",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "predict, prediction and predictable",
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "the shortest word in the sentence",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“predict, prediction and predictable” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -935,28 +935,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Use the skill independently. In a science or humanities sentence, what does transportation, spelled t r a n s p o r t a t i o n mean?",
-    "audio_prompt": "Use the skill independently. In a science or humanities sentence, what does transportation, spelled t r a n s p o r t a t i o n mean?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In care → careless, a student is forgetting a spelling change when adding a suffix. What is the best correction?",
+    "audio_prompt": "In care → careless, a student is forgetting a spelling change when adding a suffix. What is the best correction?",
     "answers": [
       {
-        "text": "a meaning suggested only by the first sound",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "the act or system of carrying across",
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“the act or system of carrying across” fits the meaning and the language clue in this example. The word's parts and context support the meaning “the act or system of carrying across.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -965,28 +965,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Work out the answer from the details given. Which spoken-syllable guide best supports careful reading of environmental, spelled e n v i r o n m e n t a l?",
-    "audio_prompt": "Work out the answer from the details given. Which spoken-syllable guide best supports careful reading of environmental, spelled e n v i r o n m e n t a l?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In act → action, a student is attaching an affix to the wrong base. What is the best correction?",
+    "audio_prompt": "In act → action, a student is attaching an affix to the wrong base. What is the best correction?",
     "answers": [
       {
-        "text": "en-vi-ron-men-tal",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "environment + al",
-        "is_correct": false
-      },
-      {
-        "text": "say only the first and last parts",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“en-vi-ron-men-tal” fits the meaning and the language clue in this example. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -995,28 +995,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Now use the idea in context. Which meaningful-part analysis best helps a reader understand the word unpredictable, spelled u n p r e d i c t a b l e?",
-    "audio_prompt": "Now use the idea in context. Which meaningful-part analysis best helps a reader understand the word unpredictable, spelled u n p r e d i c t a b l e?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In predict → prediction, a student is using the right meaning with the wrong spelling. What is the best correction?",
+    "audio_prompt": "In predict → prediction, a student is using the right meaning with the wrong spelling. What is the best correction?",
     "answers": [
       {
-        "text": "un-pre-dict-a-ble",
-        "is_correct": false
-      },
-      {
-        "text": "un + predict + able",
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "split after every vowel letter",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“un + predict + able” fits the meaning and the language clue in this example. un + predict + able reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1025,28 +1025,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Choose carefully using meaning, not just a familiar word. Which word-family evidence best helps verify the spelling of disagreement, spelled d i s a g r e e m e n t?",
-    "audio_prompt": "Choose carefully using meaning, not just a familiar word. Which word-family evidence best helps verify the spelling of disagreement, spelled d i s a g r e e m e n t?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In cycle → bicycle, a student is assuming every word that looks similar shares a root. What is the best correction?",
+    "audio_prompt": "In cycle → bicycle, a student is assuming every word that looks similar shares a root. What is the best correction?",
     "answers": [
       {
-        "text": "a rhyming word with an unrelated spelling",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "the shortest word in the sentence",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "agree, agreed and agreement",
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“agree, agreed and agreement” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1055,28 +1055,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which answer still works when you consider the whole example? In a science or humanities sentence, what does reconsideration, spelled r e c o n s i d e r a t i o n mean?",
-    "audio_prompt": "Which answer still works when you consider the whole example? In a science or humanities sentence, what does reconsideration, spelled r e c o n s i d e r a t i o n mean?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In view → preview, a student is forgetting a spelling change when adding a suffix. What is the best correction?",
+    "audio_prompt": "In view → preview, a student is forgetting a spelling change when adding a suffix. What is the best correction?",
     "answers": [
       {
-        "text": "thinking about something again",
+        "text": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "a meaning suggested only by the first sound",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“thinking about something again” fits the meaning and the language clue in this example. The word's parts and context support the meaning “thinking about something again.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
+      "summary": "Return to the exact evidence, apply the base/root → affix → meaning → spelling rule → context check routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1085,28 +1085,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Use all the clues in this situation. Which spoken-syllable guide best supports careful reading of miscommunication, spelled m i s c o m m u n i c a t i o n?",
-    "audio_prompt": "Use all the clues in this situation. Which spoken-syllable guide best supports careful reading of miscommunication, spelled m i s c o m m u n i c a t i o n?",
+    "stage": "transfer",
+    "skill": "suffix",
+    "question": "Apply the skill independently to a fresh version of tract in tractor/attract. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of tract in tractor/attract. Which approach is strongest?",
     "answers": [
       {
-        "text": "mis + communicate + ion",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "mis-com-mu-ni-ca-tion",
+        "text": "Use suffix precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "say only the first and last parts",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“mis-com-mu-ni-ca-tion” fits the meaning and the language clue in this example. The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
+      "summary": "Use suffix precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1115,28 +1115,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Decide which option is most precise. Which meaningful-part analysis best helps a reader understand the word disagreement, spelled d i s a g r e e m e n t?",
-    "audio_prompt": "Decide which option is most precise. Which meaningful-part analysis best helps a reader understand the word disagreement, spelled d i s a g r e e m e n t?",
+    "stage": "transfer",
+    "skill": "root",
+    "question": "Apply the skill independently to a fresh version of spect in inspect/spectator. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of spect in inspect/spectator. Which approach is strongest?",
     "answers": [
       {
-        "text": "dis-a-gree-ment",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "split after every vowel letter",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       },
       {
-        "text": "dis + agree + ment",
+        "text": "Use root precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“dis + agree + ment” fits the meaning and the language clue in this example. dis + agree + ment reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
+      "summary": "Use root precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1145,28 +1145,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which choice best shows your understanding here? Which word-family evidence best helps verify the spelling of transportation, spelled t r a n s p o r t a t i o n?",
-    "audio_prompt": "Which choice best shows your understanding here? Which word-family evidence best helps verify the spelling of transportation, spelled t r a n s p o r t a t i o n?",
+    "stage": "transfer",
+    "skill": "word_origin",
+    "question": "Apply the skill independently to a fresh version of form a new word from a known base in context. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of form a new word from a known base in context. Which approach is strongest?",
     "answers": [
       {
-        "text": "transport, portable and porter",
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use word origin precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "a rhyming word with an unrelated spelling",
-        "is_correct": false
-      },
-      {
-        "text": "the shortest word in the sentence",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“transport, portable and porter” fits the meaning and the language clue in this example. Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
+      "summary": "Use word origin precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1175,28 +1175,268 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Read the full example before deciding. In a science or humanities sentence, what does environmental, spelled e n v i r o n m e n t a l mean?",
-    "audio_prompt": "Read the full example before deciding. In a science or humanities sentence, what does environmental, spelled e n v i r o n m e n t a l mean?",
+    "stage": "transfer",
+    "skill": "morpheme",
+    "question": "Apply the skill independently to a fresh version of happy → unhappy. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of happy → unhappy. Which approach is strongest?",
     "answers": [
       {
-        "text": "a meaning suggested only by the first sound",
-        "is_correct": false
-      },
-      {
-        "text": "relating to the environment",
+        "text": "Use morpheme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use morpheme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-041",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "spelling_generalisation",
+    "question": "Apply the skill independently to a fresh version of care → careless. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of care → careless. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use spelling generalisation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use spelling generalisation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-042",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "base_word",
+    "question": "Apply the skill independently to a fresh version of act → action. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of act → action. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use base word precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use base word precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-043",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "prefix",
+    "question": "Apply the skill independently to a fresh version of predict → prediction. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of predict → prediction. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use prefix precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“relating to the environment” fits the meaning and the language clue in this example. The word's parts and context support the meaning “relating to the environment.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
+      "summary": "Use prefix precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-044",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "suffix",
+    "question": "Apply the skill independently to a fresh version of cycle → bicycle. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of cycle → bicycle. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use suffix precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use suffix precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-045",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "root",
+    "question": "Apply the skill independently to a fresh version of view → preview. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of view → preview. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use root precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use root precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-046",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "word_origin",
+    "question": "Apply the skill independently to a fresh version of help → helpful. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of help → helpful. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use word origin precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use word origin precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-047",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "morpheme",
+    "question": "Apply the skill independently to a fresh version of magic → magician. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of magic → magician. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use morpheme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use morpheme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY09-P-048",
+    "curriculum_code": "AC9E5LY09",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "spelling_generalisation",
+    "question": "Apply the skill independently to a fresh version of permit → permission. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of permit → permission. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use spelling generalisation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use spelling generalisation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1206,27 +1446,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which meaningful-part analysis best helps a reader understand the word international, spelled i n t e r n a t i o n a l?",
-    "audio_prompt": "Which meaningful-part analysis best helps a reader understand the word international, spelled i n t e r n a t i o n a l?",
+    "skill": "prefix",
+    "question": "In an unseen Year 5 task about predict → prediction, after a first reading, which answer best shows independent understanding of prefix?",
+    "audio_prompt": "In an unseen Year 5 task about predict → prediction, after a first reading, which answer best shows independent understanding of prefix?",
     "answers": [
       {
-        "text": "in-ter-na-tion-al",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "split after every vowel letter",
-        "is_correct": false
-      },
-      {
-        "text": "inter + nation + al",
+        "text": "It identifies the relevant prefix, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "inter + nation + al reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
+      "summary": "It identifies the relevant prefix, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1236,27 +1476,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Read this new example closely. Which spoken-syllable guide best supports careful reading of international, spelled i n t e r n a t i o n a l?",
-    "audio_prompt": "Read this new example closely. Which spoken-syllable guide best supports careful reading of international, spelled i n t e r n a t i o n a l?",
+    "skill": "word_origin",
+    "question": "In an unseen Year 5 task about permit → permission, when checking the strongest clue, which answer best shows independent understanding of word origin?",
+    "audio_prompt": "In an unseen Year 5 task about permit → permission, when checking the strongest clue, which answer best shows independent understanding of word origin?",
     "answers": [
       {
-        "text": "in-ter-na-tion-al",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant word origin, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "inter + nation + al",
-        "is_correct": false
-      },
-      {
-        "text": "say only the first and last parts",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
+      "summary": "It identifies the relevant word origin, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1266,27 +1506,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which answer is most accurate here? In a science or humanities sentence, what does international, spelled i n t e r n a t i o n a l mean?",
-    "audio_prompt": "Which answer is most accurate here? In a science or humanities sentence, what does international, spelled i n t e r n a t i o n a l mean?",
+    "skill": "base_word",
+    "question": "In an unseen Year 5 task about care → careless, when comparing two plausible choices, which answer best shows independent understanding of base word?",
+    "audio_prompt": "In an unseen Year 5 task about care → careless, when comparing two plausible choices, which answer best shows independent understanding of base word?",
     "answers": [
       {
-        "text": "a meaning suggested only by the first sound",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "involving more than one nation",
+        "text": "It identifies the relevant base word, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The word's parts and context support the meaning “involving more than one nation.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
+      "summary": "It identifies the relevant base word, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1296,27 +1536,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Use the details in this new situation. Which word-family evidence best helps verify the spelling of international, spelled i n t e r n a t i o n a l?",
-    "audio_prompt": "Use the details in this new situation. Which word-family evidence best helps verify the spelling of international, spelled i n t e r n a t i o n a l?",
+    "skill": "root",
+    "question": "In an unseen Year 5 task about help → helpful, after rereading the final detail, which answer best shows independent understanding of root?",
+    "audio_prompt": "In an unseen Year 5 task about help → helpful, after rereading the final detail, which answer best shows independent understanding of root?",
     "answers": [
       {
-        "text": "a rhyming word with an unrelated spelling",
-        "is_correct": false
-      },
-      {
-        "text": "the shortest word in the sentence",
-        "is_correct": false
-      },
-      {
-        "text": "nation, national and nationality",
+        "text": "It identifies the relevant root, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
+      "summary": "It identifies the relevant root, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1326,27 +1566,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Choose the answer supported by the whole example. Which meaningful-part analysis best helps a reader understand the word decomposition, spelled d e c o m p o s i t i o n?",
-    "audio_prompt": "Choose the answer supported by the whole example. Which meaningful-part analysis best helps a reader understand the word decomposition, spelled d e c o m p o s i t i o n?",
+    "skill": "spelling_generalisation",
+    "question": "In an unseen Year 5 task about form a new word from a known base in context, when the wording is unfamiliar, which answer best shows independent understanding of spelling generalisation?",
+    "audio_prompt": "In an unseen Year 5 task about form a new word from a known base in context, when the wording is unfamiliar, which answer best shows independent understanding of spelling generalisation?",
     "answers": [
       {
-        "text": "de + compose + ition",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant spelling generalisation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "de-com-po-si-tion",
-        "is_correct": false
-      },
-      {
-        "text": "split after every vowel letter",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "de + compose + ition reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
+      "summary": "It identifies the relevant spelling generalisation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1356,27 +1596,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which option best fits the meaning? Which spoken-syllable guide best supports careful reading of decomposition, spelled d e c o m p o s i t i o n?",
-    "audio_prompt": "Which option best fits the meaning? Which spoken-syllable guide best supports careful reading of decomposition, spelled d e c o m p o s i t i o n?",
+    "skill": "suffix",
+    "question": "In an unseen Year 5 task about cycle → bicycle, when a distractor shares a keyword, which answer best shows independent understanding of suffix?",
+    "audio_prompt": "In an unseen Year 5 task about cycle → bicycle, when a distractor shares a keyword, which answer best shows independent understanding of suffix?",
     "answers": [
       {
-        "text": "de + compose + ition",
-        "is_correct": false
-      },
-      {
-        "text": "de-com-po-si-tion",
+        "text": "It identifies the relevant suffix, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "say only the first and last parts",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
+      "summary": "It identifies the relevant suffix, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1386,27 +1626,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Work this out independently. In a science or humanities sentence, what does decomposition, spelled d e c o m p o s i t i o n mean?",
-    "audio_prompt": "Work this out independently. In a science or humanities sentence, what does decomposition, spelled d e c o m p o s i t i o n mean?",
+    "skill": "morpheme",
+    "question": "In an unseen Year 5 task about tract in tractor/attract, when the task asks for evidence, which answer best shows independent understanding of morpheme?",
+    "audio_prompt": "In an unseen Year 5 task about tract in tractor/attract, when the task asks for evidence, which answer best shows independent understanding of morpheme?",
     "answers": [
       {
-        "text": "a meaning suggested only by the first sound",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
-        "is_correct": false
-      },
-      {
-        "text": "the process of breaking down",
+        "text": "It identifies the relevant morpheme, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The word's parts and context support the meaning “the process of breaking down.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
+      "summary": "It identifies the relevant morpheme, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1416,27 +1656,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "What is the best answer in this context? Which word-family evidence best helps verify the spelling of decomposition, spelled d e c o m p o s i t i o n?",
-    "audio_prompt": "What is the best answer in this context? Which word-family evidence best helps verify the spelling of decomposition, spelled d e c o m p o s i t i o n?",
+    "skill": "prefix",
+    "question": "In an unseen Year 5 task about act → action, when the whole context matters, which answer best shows independent understanding of prefix?",
+    "audio_prompt": "In an unseen Year 5 task about act → action, when the whole context matters, which answer best shows independent understanding of prefix?",
     "answers": [
       {
-        "text": "compose, compost and decomposition",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant prefix, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "a rhyming word with an unrelated spelling",
-        "is_correct": false
-      },
-      {
-        "text": "the shortest word in the sentence",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
+      "summary": "It identifies the relevant prefix, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1446,27 +1686,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which choice is supported by the evidence given? Which meaningful-part analysis best helps a reader understand the word irresponsible, spelled i r r e s p o n s i b l e?",
-    "audio_prompt": "Which choice is supported by the evidence given? Which meaningful-part analysis best helps a reader understand the word irresponsible, spelled i r r e s p o n s i b l e?",
+    "skill": "word_origin",
+    "question": "In an unseen Year 5 task about magic → magician, when applying the skill independently, which answer best shows independent understanding of word origin?",
+    "audio_prompt": "In an unseen Year 5 task about magic → magician, when applying the skill independently, which answer best shows independent understanding of word origin?",
     "answers": [
       {
-        "text": "ir-re-spon-si-ble",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "ir + responsible",
+        "text": "It identifies the relevant word origin, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "split after every vowel letter",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "ir + responsible reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
+      "summary": "It identifies the relevant word origin, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1476,27 +1716,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Read for meaning before you choose. Which spoken-syllable guide best supports careful reading of irresponsible, spelled i r r e s p o n s i b l e?",
-    "audio_prompt": "Read for meaning before you choose. Which spoken-syllable guide best supports careful reading of irresponsible, spelled i r r e s p o n s i b l e?",
+    "skill": "base_word",
+    "question": "In an unseen Year 5 task about happy → unhappy, when a familiar answer is tempting, which answer best shows independent understanding of base word?",
+    "audio_prompt": "In an unseen Year 5 task about happy → unhappy, when a familiar answer is tempting, which answer best shows independent understanding of base word?",
     "answers": [
       {
-        "text": "ir + responsible",
-        "is_correct": false
-      },
-      {
-        "text": "say only the first and last parts",
-        "is_correct": false
-      },
-      {
-        "text": "ir-re-spon-si-ble",
+        "text": "It identifies the relevant base word, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
+      "summary": "It identifies the relevant base word, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1506,27 +1746,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which option is the most precise? In a science or humanities sentence, what does irresponsible, spelled i r r e s p o n s i b l e mean?",
-    "audio_prompt": "Which option is the most precise? In a science or humanities sentence, what does irresponsible, spelled i r r e s p o n s i b l e mean?",
+    "skill": "root",
+    "question": "In an unseen Year 5 task about view → preview, when precision matters, which answer best shows independent understanding of root?",
+    "audio_prompt": "In an unseen Year 5 task about view → preview, when precision matters, which answer best shows independent understanding of root?",
     "answers": [
       {
-        "text": "not showing responsibility",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant root, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "a meaning suggested only by the first sound",
-        "is_correct": false
-      },
-      {
-        "text": "an unrelated meaning guessed from the topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The word's parts and context support the meaning “not showing responsibility.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
+      "summary": "It identifies the relevant root, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1536,27 +1776,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Use every clue in the example. Which word-family evidence best helps verify the spelling of irresponsible, spelled i r r e s p o n s i b l e?",
-    "audio_prompt": "Use every clue in the example. Which word-family evidence best helps verify the spelling of irresponsible, spelled i r r e s p o n s i b l e?",
+    "skill": "spelling_generalisation",
+    "question": "In an unseen Year 5 task about spect in inspect/spectator, when checking the writer’s purpose, which answer best shows independent understanding of spelling generalisation?",
+    "audio_prompt": "In an unseen Year 5 task about spect in inspect/spectator, when checking the writer’s purpose, which answer best shows independent understanding of spelling generalisation?",
     "answers": [
       {
-        "text": "a rhyming word with an unrelated spelling",
-        "is_correct": false
-      },
-      {
-        "text": "responsible and responsibility",
+        "text": "It identifies the relevant spelling generalisation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "the shortest word in the sentence",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
+      "summary": "It identifies the relevant spelling generalisation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1566,27 +1806,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which answer holds up when you check the full context? Which meaningful-part analysis best helps a reader understand the word photosynthesis, spelled p h o t o s y n t h e s i s?",
-    "audio_prompt": "Which answer holds up when you check the full context? Which meaningful-part analysis best helps a reader understand the word photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "skill": "suffix",
+    "question": "In an unseen Year 5 task about predict → prediction, when more than one clue is present, which answer best shows independent understanding of suffix?",
+    "audio_prompt": "In an unseen Year 5 task about predict → prediction, when more than one clue is present, which answer best shows independent understanding of suffix?",
     "answers": [
       {
-        "text": "pho-to-syn-the-sis",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "split after every vowel letter",
-        "is_correct": false
-      },
-      {
-        "text": "photo + synthesis",
+        "text": "It identifies the relevant suffix, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "photo + synthesis reveals the word's meaningful structure.",
-      "hint": "Look for a familiar base plus prefixes or suffixes."
+      "summary": "It identifies the relevant suffix, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1596,27 +1836,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Decide which option best matches what the text shows. Which spoken-syllable guide best supports careful reading of photosynthesis, spelled p h o t o s y n t h e s i s?",
-    "audio_prompt": "Decide which option best matches what the text shows. Which spoken-syllable guide best supports careful reading of photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "skill": "morpheme",
+    "question": "In an unseen Year 5 task about permit → permission, when transferring the skill, which answer best shows independent understanding of morpheme?",
+    "audio_prompt": "In an unseen Year 5 task about permit → permission, when transferring the skill, which answer best shows independent understanding of morpheme?",
     "answers": [
       {
-        "text": "pho-to-syn-the-sis",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant morpheme, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "photo + synthesis",
-        "is_correct": false
-      },
-      {
-        "text": "say only the first and last parts",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The guide supports pronunciation, while meaningful parts support spelling and meaning.",
-      "hint": "Blend every syllable, then check the complete word in its sentence."
+      "summary": "It identifies the relevant morpheme, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1626,27 +1866,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Which choice best demonstrates the skill in this new example? In a science or humanities sentence, what does photosynthesis, spelled p h o t o s y n t h e s i s mean?",
-    "audio_prompt": "Which choice best demonstrates the skill in this new example? In a science or humanities sentence, what does photosynthesis, spelled p h o t o s y n t h e s i s mean?",
+    "skill": "prefix",
+    "question": "In an unseen Year 5 task about care → careless, when explaining the reasoning, which answer best shows independent understanding of prefix?",
+    "audio_prompt": "In an unseen Year 5 task about care → careless, when explaining the reasoning, which answer best shows independent understanding of prefix?",
     "answers": [
       {
-        "text": "a meaning suggested only by the first sound",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "the process plants use to make food with light",
+        "text": "It identifies the relevant prefix, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "an unrelated meaning guessed from the topic",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The word's parts and context support the meaning “the process plants use to make food with light.”",
-      "hint": "Combine the base and affix meanings, then test the result in context."
+      "summary": "It identifies the relevant prefix, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1656,27 +1896,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "reading_and_spelling_complex_multisyllabic_words",
-    "question": "Make your final choice from the evidence in the question. Which word-family evidence best helps verify the spelling of photosynthesis, spelled p h o t o s y n t h e s i s?",
-    "audio_prompt": "Make your final choice from the evidence in the question. Which word-family evidence best helps verify the spelling of photosynthesis, spelled p h o t o s y n t h e s i s?",
+    "skill": "word_origin",
+    "question": "In an unseen Year 5 task about help → helpful, as a final independent check, which answer best shows independent understanding of word origin?",
+    "audio_prompt": "In an unseen Year 5 task about help → helpful, as a final independent check, which answer best shows independent understanding of word origin?",
     "answers": [
       {
-        "text": "a rhyming word with an unrelated spelling",
-        "is_correct": false
-      },
-      {
-        "text": "the shortest word in the sentence",
-        "is_correct": false
-      },
-      {
-        "text": "photograph, synthesis and photosynthetic",
+        "text": "It identifies the relevant word origin, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Related words can preserve the base spelling even when pronunciation changes.",
-      "hint": "Locate the shared base and compare how it is spelled across the family."
+      "summary": "It identifies the relevant word origin, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   }
 ]

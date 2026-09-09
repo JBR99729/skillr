@@ -6,27 +6,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound_and_visual_meaning",
-    "question": "For “forest warning”, which explanation best connects the evidence “whispering leaves, widening shadows” with its effect?",
-    "audio_prompt": "For “forest warning”, which explanation best connects the evidence “whispering leaves, widening shadows” with its effect?",
+    "skill": "literary_device",
+    "question": "Which response best demonstrates the AC9E5 skill in a storm scene in a novel?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a storm scene in a novel?",
     "answers": [
       {
-        "text": "It creates unease only because the title is short.",
+        "text": "It names a feature in a storm scene in a novel but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "It creates unease because sound and image make danger seem closer.",
+        "text": "The response uses literary device and connects it to specific evidence in a storm scene in a novel.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It gives a personal reaction to a storm scene in a novel but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“It creates unease because sound and image make danger seem closer.” fits the meaning and the language clue in this example. The evidence creates unease: sound and image make danger seem closer.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "The response uses literary device and connects it to specific evidence in a storm scene in a novel. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -36,27 +36,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound_and_visual_meaning",
-    "question": "Read carefully: For “lonely journey”, which explanation best connects the evidence “long vowels, tiny traveller in wide snow” with its effect?",
-    "audio_prompt": "Read carefully: For “lonely journey”, which explanation best connects the evidence “long vowels, tiny traveller in wide snow” with its effect?",
+    "skill": "text_structure",
+    "question": "Which response best demonstrates the AC9E5 skill in a poem about an empty playground?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a poem about an empty playground?",
     "answers": [
       {
-        "text": "It creates isolation only because the title is short.",
+        "text": "It names a feature in a poem about an empty playground but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It gives a personal reaction to a poem about an empty playground but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It creates isolation because slow sound and scale emphasise distance.",
+        "text": "The response uses text structure and connects it to specific evidence in a poem about an empty playground.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“It creates isolation because slow sound and scale emphasise distance.” fits the meaning and the language clue in this example. The evidence creates isolation: slow sound and scale emphasise distance.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "The response uses text structure and connects it to specific evidence in a poem about an empty playground. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -66,27 +66,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which answer makes the most sense here? For “lost child”, which explanation best connects the evidence “call echoed, maze-like overhead view” with its effect?",
-    "audio_prompt": "Which answer makes the most sense here? For “lost child”, which explanation best connects the evidence “call echoed, maze-like overhead view” with its effect?",
+    "skill": "language_feature",
+    "question": "Which response best demonstrates the AC9E5 skill in a fable with a boastful fox?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a fable with a boastful fox?",
     "answers": [
       {
-        "text": "It creates confusion because echo and layout stress uncertainty.",
+        "text": "It gives a personal reaction to a fable with a boastful fox but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses language feature and connects it to specific evidence in a fable with a boastful fox.",
         "is_correct": true
       },
       {
-        "text": "It creates confusion only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It names a feature in a fable with a boastful fox but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“It creates confusion because echo and layout stress uncertainty.” fits the meaning and the language clue in this example. The evidence creates confusion: echo and layout stress uncertainty.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "The response uses language feature and connects it to specific evidence in a fable with a boastful fox. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -96,27 +96,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound_and_visual_meaning",
-    "question": "Look at the wording and meaning. For “race finish”, which explanation best connects the evidence “short beats, narrowing panels” with its effect?",
-    "audio_prompt": "Look at the wording and meaning. For “race finish”, which explanation best connects the evidence “short beats, narrowing panels” with its effect?",
+    "skill": "evidence",
+    "question": "Which response best demonstrates the AC9E5 skill in a mystery opening in a dark hallway?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a mystery opening in a dark hallway?",
     "answers": [
       {
-        "text": "It creates speed only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates speed because rhythm and sequence accelerate the ending.",
+        "text": "The response uses evidence and connects it to specific evidence in a mystery opening in a dark hallway.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It names a feature in a mystery opening in a dark hallway but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a personal reaction to a mystery opening in a dark hallway but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“It creates speed because rhythm and sequence accelerate the ending.” fits the meaning and the language clue in this example. The evidence creates speed: rhythm and sequence accelerate the ending.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "The response uses evidence and connects it to specific evidence in a mystery opening in a dark hallway. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -126,27 +126,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound_and_visual_meaning",
-    "question": "Choose the option that fits the situation best. For “summer storm”, which explanation best connects the evidence “crack, jagged white line on black cloud” with its effect?",
-    "audio_prompt": "Choose the option that fits the situation best. For “summer storm”, which explanation best connects the evidence “crack, jagged white line on black cloud” with its effect?",
+    "skill": "effect",
+    "question": "Which response best demonstrates the AC9E5 skill in a story told by a nervous narrator?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a story told by a nervous narrator?",
     "answers": [
       {
-        "text": "It creates shock only because the title is short.",
+        "text": "It gives a personal reaction to a story told by a nervous narrator but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It names a feature in a story told by a nervous narrator but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "It creates shock because the sudden sound and contrast startle readers.",
+        "text": "The response uses effect and connects it to specific evidence in a story told by a nervous narrator.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“It creates shock because the sudden sound and contrast startle readers.” fits the meaning and the language clue in this example. The evidence creates shock: the sudden sound and contrast startle readers.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "The response uses effect and connects it to specific evidence in a story told by a nervous narrator. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -156,27 +156,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which choice is accurate in this example? For “morning garden”, which explanation best connects the evidence “buzz and flutter, close-up yellow flowers” with its effect?",
-    "audio_prompt": "Which choice is accurate in this example? For “morning garden”, which explanation best connects the evidence “buzz and flutter, close-up yellow flowers” with its effect?",
+    "skill": "viewpoint",
+    "question": "Which response best demonstrates the AC9E5 skill in a chapter ending with a sudden reveal?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a chapter ending with a sudden reveal?",
     "answers": [
       {
-        "text": "It creates liveliness because sound words and salience focus busy life.",
+        "text": "The response uses viewpoint and connects it to specific evidence in a chapter ending with a sudden reveal.",
         "is_correct": true
       },
       {
-        "text": "It creates liveliness only because the title is short.",
+        "text": "It gives a personal reaction to a chapter ending with a sudden reveal but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It names a feature in a chapter ending with a sudden reveal but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“It creates liveliness because sound words and salience focus busy life.” fits the meaning and the language clue in this example. The evidence creates liveliness: sound words and salience focus busy life.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "The response uses viewpoint and connects it to specific evidence in a chapter ending with a sudden reveal. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -186,27 +186,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound_and_visual_meaning",
-    "question": "Focus on the key clue. For “bird escape”, which explanation best connects the evidence “fluttering consonants, figure crossing panel borders” with its effect?",
-    "audio_prompt": "Focus on the key clue. For “bird escape”, which explanation best connects the evidence “fluttering consonants, figure crossing panel borders” with its effect?",
+    "skill": "literary_device",
+    "question": "Which response best demonstrates the AC9E5 skill in a poem comparing clouds to ships?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a poem comparing clouds to ships?",
     "answers": [
       {
-        "text": "It creates freedom only because the title is short.",
+        "text": "It names a feature in a poem comparing clouds to ships but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "It creates freedom because sound and layout suggest quick release.",
+        "text": "The response uses literary device and connects it to specific evidence in a poem comparing clouds to ships.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It gives a personal reaction to a poem comparing clouds to ships but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“It creates freedom because sound and layout suggest quick release.” fits the meaning and the language clue in this example. The evidence creates freedom: sound and layout suggest quick release.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "The response uses literary device and connects it to specific evidence in a poem comparing clouds to ships. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -216,27 +216,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound_and_visual_meaning",
-    "question": "What works best in this situation? For “busy workshop”, which explanation best connects the evidence “clink, clatter, bright diagonal tools” with its effect?",
-    "audio_prompt": "What works best in this situation? For “busy workshop”, which explanation best connects the evidence “clink, clatter, bright diagonal tools” with its effect?",
+    "skill": "text_structure",
+    "question": "Which response best demonstrates the AC9E5 skill in a story where dialogue shows jealousy?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a story where dialogue shows jealousy?",
     "answers": [
       {
-        "text": "It creates energy only because the title is short.",
+        "text": "It names a feature in a story where dialogue shows jealousy but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It gives a personal reaction to a story where dialogue shows jealousy but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It creates energy because rhythm and angled shapes suggest rapid work.",
+        "text": "The response uses text structure and connects it to specific evidence in a story where dialogue shows jealousy.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“It creates energy because rhythm and angled shapes suggest rapid work.” fits the meaning and the language clue in this example. The evidence creates energy: rhythm and angled shapes suggest rapid work.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "The response uses text structure and connects it to specific evidence in a story where dialogue shows jealousy. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -246,27 +246,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which option matches what is happening? For “comic chase”, which explanation best connects the evidence “boing and bump, tilted panels” with its effect?",
-    "audio_prompt": "Which option matches what is happening? For “comic chase”, which explanation best connects the evidence “boing and bump, tilted panels” with its effect?",
+    "skill": "language_feature",
+    "question": "Which response best demonstrates the AC9E5 skill in a narrative that begins at the climax?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a narrative that begins at the climax?",
     "answers": [
       {
-        "text": "It creates humour because exaggerated sounds and angles make movement playful.",
+        "text": "It gives a personal reaction to a narrative that begins at the climax but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses language feature and connects it to specific evidence in a narrative that begins at the climax.",
         "is_correct": true
       },
       {
-        "text": "It creates humour only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It names a feature in a narrative that begins at the climax but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“It creates humour because exaggerated sounds and angles make movement playful.” fits the meaning and the language clue in this example. The evidence creates humour: exaggerated sounds and angles make movement playful.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "The response uses language feature and connects it to specific evidence in a narrative that begins at the climax. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -276,27 +276,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "sound_and_visual_meaning",
-    "question": "Use the details in the example. For “winning moment”, which explanation best connects the evidence “heartbeat slows, close-up on hands” with its effect?",
-    "audio_prompt": "Use the details in the example. For “winning moment”, which explanation best connects the evidence “heartbeat slows, close-up on hands” with its effect?",
+    "skill": "evidence",
+    "question": "Which response best demonstrates the AC9E5 skill in a quiet scene using sensory detail?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a quiet scene using sensory detail?",
     "answers": [
       {
-        "text": "It creates focus only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates focus because sound and framing narrow attention.",
+        "text": "The response uses evidence and connects it to specific evidence in a quiet scene using sensory detail.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It names a feature in a quiet scene using sensory detail but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a personal reaction to a quiet scene using sensory detail but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“It creates focus because sound and framing narrow attention.” fits the meaning and the language clue in this example. The evidence creates focus: sound and framing narrow attention.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "The response uses evidence and connects it to specific evidence in a quiet scene using sensory detail. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -305,28 +305,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sound_and_visual_meaning",
-    "question": "Why is “It creates energy because rhythm and angled shapes suggest rapid work.” the strongest answer to this question: For “busy workshop”, which explanation best connects the evidence “clink, clatter, bright diagonal tools” with its effect?",
-    "audio_prompt": "Why is “It creates energy because rhythm and angled shapes suggest rapid work.” the strongest answer to this question: For “busy workshop”, which explanation best connects the evidence “clink, clatter, bright diagonal tools” with its effect?",
+    "stage": "recognise",
+    "skill": "effect",
+    "question": "Which response best demonstrates the AC9E5 skill in two readers debating a character’s choice?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in two readers debating a character’s choice?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It gives a personal reaction to two readers debating a character’s choice but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "It names a feature in two readers debating a character’s choice but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "The response uses effect and connects it to specific evidence in two readers debating a character’s choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates energy: rhythm and angled shapes suggest rapid work.",
-      "hint": "Find the exact clue that makes “It creates energy because rhythm and angled shapes suggest rapid work.” fit."
+      "summary": "The response uses effect and connects it to specific evidence in two readers debating a character’s choice. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -335,28 +335,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sound_and_visual_meaning",
-    "question": "What makes “It creates humour because exaggerated sounds and angles make movement playful.” work in this example? For “comic chase”, which explanation best connects the evidence “boing and bump, tilted panels” with its effect?",
-    "audio_prompt": "What makes “It creates humour because exaggerated sounds and angles make movement playful.” work in this example? For “comic chase”, which explanation best connects the evidence “boing and bump, tilted panels” with its effect?",
+    "stage": "recognise",
+    "skill": "viewpoint",
+    "question": "Which response best demonstrates the AC9E5 skill in a review of a fantasy story?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a review of a fantasy story?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "The response uses viewpoint and connects it to specific evidence in a review of a fantasy story.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It gives a personal reaction to a review of a fantasy story but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "It names a feature in a review of a fantasy story but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates humour: exaggerated sounds and angles make movement playful.",
-      "hint": "Find the exact clue that makes “It creates humour because exaggerated sounds and angles make movement playful.” fit."
+      "summary": "The response uses viewpoint and connects it to specific evidence in a review of a fantasy story. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -365,28 +365,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which reason best explains why “It creates focus because sound and framing narrow attention.” fits? For “winning moment”, which explanation best connects the evidence “heartbeat slows, close-up on hands” with its effect?",
-    "audio_prompt": "Which reason best explains why “It creates focus because sound and framing narrow attention.” fits? For “winning moment”, which explanation best connects the evidence “heartbeat slows, close-up on hands” with its effect?",
+    "stage": "reason",
+    "skill": "text_structure",
+    "question": "A student gives an answer about a mystery opening in a dark hallway. Why is the strongest explanation the one that links text structure to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a mystery opening in a dark hallway. Why is the strongest explanation the one that links text structure to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates focus: sound and framing narrow attention.",
-      "hint": "Find the exact clue that makes “It creates focus because sound and framing narrow attention.” fit."
+      "summary": "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -395,28 +395,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sound_and_visual_meaning",
-    "question": "How does “It creates tension because sound and lighting make the story eerie.” match the meaning of this example? For “campfire tale”, which explanation best connects the evidence “crackling words, faces lit below” with its effect?",
-    "audio_prompt": "How does “It creates tension because sound and lighting make the story eerie.” match the meaning of this example? For “campfire tale”, which explanation best connects the evidence “crackling words, faces lit below” with its effect?",
+    "stage": "reason",
+    "skill": "language_feature",
+    "question": "A student gives an answer about a story told by a nervous narrator. Why is the strongest explanation the one that links language feature to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a story told by a nervous narrator. Why is the strongest explanation the one that links language feature to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because language feature is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates tension: sound and lighting make the story eerie.",
-      "hint": "Find the exact clue that makes “It creates tension because sound and lighting make the story eerie.” fit."
+      "summary": "Because language feature is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -425,28 +425,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sound_and_visual_meaning",
-    "question": "Why does “It creates secrecy because quiet sound and narrow framing make readers feel hidden.” suit this situation better than the other choices? For “secret meeting”, which explanation best connects the evidence “hushed repeated h sounds, figures framed through a doorway” with its effect?",
-    "audio_prompt": "Why does “It creates secrecy because quiet sound and narrow framing make readers feel hidden.” suit this situation better than the other choices? For “secret meeting”, which explanation best connects the evidence “hushed repeated h sounds, figures framed through a doorway” with its effect?",
+    "stage": "reason",
+    "skill": "evidence",
+    "question": "A student gives an answer about a chapter ending with a sudden reveal. Why is the strongest explanation the one that links evidence to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a chapter ending with a sudden reveal. Why is the strongest explanation the one that links evidence to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates secrecy: quiet sound and narrow framing make readers feel hidden.",
-      "hint": "Find the exact clue that makes “It creates secrecy because quiet sound and narrow framing make readers feel hidden.” fit."
+      "summary": "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -455,28 +455,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sound_and_visual_meaning",
-    "question": "What clue in the example supports “It creates nostalgia because repetition and muted colour suggest the past.”? For “memory scene”, which explanation best connects the evidence “soft refrain, faded border” with its effect?",
-    "audio_prompt": "What clue in the example supports “It creates nostalgia because repetition and muted colour suggest the past.”? For “memory scene”, which explanation best connects the evidence “soft refrain, faded border” with its effect?",
+    "stage": "reason",
+    "skill": "effect",
+    "question": "A student gives an answer about a poem comparing clouds to ships. Why is the strongest explanation the one that links effect to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a poem comparing clouds to ships. Why is the strongest explanation the one that links effect to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because effect is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates nostalgia: repetition and muted colour suggest the past.",
-      "hint": "Find the exact clue that makes “It creates nostalgia because repetition and muted colour suggest the past.” fit."
+      "summary": "Because effect is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -485,28 +485,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which explanation shows why “It creates suspense because pause and spotlight delay the reveal.” is correct here? For “cave discovery”, which explanation best connects the evidence “drip then silence, torch circle on wall” with its effect?",
-    "audio_prompt": "Which explanation shows why “It creates suspense because pause and spotlight delay the reveal.” is correct here? For “cave discovery”, which explanation best connects the evidence “drip then silence, torch circle on wall” with its effect?",
+    "stage": "reason",
+    "skill": "viewpoint",
+    "question": "A student gives an answer about a story where dialogue shows jealousy. Why is the strongest explanation the one that links viewpoint to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a story where dialogue shows jealousy. Why is the strongest explanation the one that links viewpoint to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because viewpoint is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates suspense: pause and spotlight delay the reveal.",
-      "hint": "Find the exact clue that makes “It creates suspense because pause and spotlight delay the reveal.” fit."
+      "summary": "Because viewpoint is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -515,28 +515,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sound_and_visual_meaning",
-    "question": "Why would “It creates calm because both choices create a gentle pace.” make sense to a careful reader? For “sleepy harbour”, which explanation best connects the evidence “slow repeated waves, pale horizontal lines” with its effect?",
-    "audio_prompt": "Why would “It creates calm because both choices create a gentle pace.” make sense to a careful reader? For “sleepy harbour”, which explanation best connects the evidence “slow repeated waves, pale horizontal lines” with its effect?",
+    "stage": "reason",
+    "skill": "literary_device",
+    "question": "A student gives an answer about a narrative that begins at the climax. Why is the strongest explanation the one that links literary device to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a narrative that begins at the climax. Why is the strongest explanation the one that links literary device to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because literary device is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates calm: both choices create a gentle pace.",
-      "hint": "Find the exact clue that makes “It creates calm because both choices create a gentle pace.” fit."
+      "summary": "Because literary device is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -545,28 +545,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sound_and_visual_meaning",
-    "question": "What is the best reason for choosing “It creates flow because sound and lines mimic water movement.”? For “reef poem”, which explanation best connects the evidence “swishing s sounds, curved schools of fish” with its effect?",
-    "audio_prompt": "What is the best reason for choosing “It creates flow because sound and lines mimic water movement.”? For “reef poem”, which explanation best connects the evidence “swishing s sounds, curved schools of fish” with its effect?",
+    "stage": "reason",
+    "skill": "text_structure",
+    "question": "A student gives an answer about a quiet scene using sensory detail. Why is the strongest explanation the one that links text structure to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a quiet scene using sensory detail. Why is the strongest explanation the one that links text structure to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates flow: sound and lines mimic water movement.",
-      "hint": "Find the exact clue that makes “It creates flow because sound and lines mimic water movement.” fit."
+      "summary": "Because text structure is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -575,28 +575,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which explanation connects “It creates mystery because pattern and fragmented light unsettle the calm.” to the key clue? For “night river”, which explanation best connects the evidence “lapping rhythm, moon reflection broken across panels” with its effect?",
-    "audio_prompt": "Which explanation connects “It creates mystery because pattern and fragmented light unsettle the calm.” to the key clue? For “night river”, which explanation best connects the evidence “lapping rhythm, moon reflection broken across panels” with its effect?",
+    "stage": "reason",
+    "skill": "language_feature",
+    "question": "A student gives an answer about two readers debating a character’s choice. Why is the strongest explanation the one that links language feature to evidence and effect?",
+    "audio_prompt": "A student gives an answer about two readers debating a character’s choice. Why is the strongest explanation the one that links language feature to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because language feature is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The evidence creates mystery: pattern and fragmented light unsettle the calm.",
-      "hint": "Find the exact clue that makes “It creates mystery because pattern and fragmented light unsettle the calm.” fit."
+      "summary": "Because language feature is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -605,28 +605,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "sound_and_visual_meaning",
-    "question": "“It creates calm only because the title is short.” might seem possible at first. What should you notice before answering this question: For “sleepy harbour”, which explanation best connects the evidence “slow repeated waves, pale horizontal lines” with its effect?",
-    "audio_prompt": "“It creates calm only because the title is short.” might seem possible at first. What should you notice before answering this question: For “sleepy harbour”, which explanation best connects the evidence “slow repeated waves, pale horizontal lines” with its effect?",
+    "stage": "reason",
+    "skill": "evidence",
+    "question": "A student gives an answer about a review of a fantasy story. Why is the strongest explanation the one that links evidence to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a review of a fantasy story. Why is the strongest explanation the one that links evidence to evidence and effect?",
     "answers": [
       {
-        "text": "Check the whole example: “It creates calm because both choices create a gentle pace.” matches the key clue, while “It creates calm only because the title is short.” does not.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Keep “It creates calm only because the title is short.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates calm only because the title is short.” fail and “It creates calm because both choices create a gentle pace.” succeed."
+      "summary": "Because evidence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -635,28 +635,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "sound_and_visual_meaning",
-    "question": "Why is “It creates flow only because the title is short.” not the best choice here? For “reef poem”, which explanation best connects the evidence “swishing s sounds, curved schools of fish” with its effect?",
-    "audio_prompt": "Why is “It creates flow only because the title is short.” not the best choice here? For “reef poem”, which explanation best connects the evidence “swishing s sounds, curved schools of fish” with its effect?",
+    "stage": "reason",
+    "skill": "effect",
+    "question": "A student gives an answer about a storm scene in a novel. Why is the strongest explanation the one that links effect to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a storm scene in a novel. Why is the strongest explanation the one that links effect to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “It creates flow only because the title is short.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “It creates flow because sound and lines mimic water movement.” matches the key clue, while “It creates flow only because the title is short.” does not.",
+        "text": "Because effect is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates flow only because the title is short.” fail and “It creates flow because sound and lines mimic water movement.” succeed."
+      "summary": "Because effect is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -665,28 +665,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "sound_and_visual_meaning",
-    "question": "Compare “It creates mystery only because the title is short.” with “It creates mystery because pattern and fragmented light unsettle the calm.”. What important difference matters in this example? For “night river”, which explanation best connects the evidence “lapping rhythm, moon reflection broken across panels” with its effect?",
-    "audio_prompt": "Compare “It creates mystery only because the title is short.” with “It creates mystery because pattern and fragmented light unsettle the calm.”. What important difference matters in this example? For “night river”, which explanation best connects the evidence “lapping rhythm, moon reflection broken across panels” with its effect?",
+    "stage": "reason",
+    "skill": "viewpoint",
+    "question": "A student gives an answer about a poem about an empty playground. Why is the strongest explanation the one that links viewpoint to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a poem about an empty playground. Why is the strongest explanation the one that links viewpoint to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “It creates mystery only because the title is short.” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “It creates mystery because pattern and fragmented light unsettle the calm.” matches the key clue, while “It creates mystery only because the title is short.” does not.",
+        "text": "Because viewpoint is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates mystery only because the title is short.” fail and “It creates mystery because pattern and fragmented light unsettle the calm.” succeed."
+      "summary": "Because viewpoint is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -695,28 +695,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which clue rules out “It creates hope only because the title is short.” in this situation? For “city sunrise”, which explanation best connects the evidence “rising rhythm, colour shifts grey to gold” with its effect?",
-    "audio_prompt": "Which clue rules out “It creates hope only because the title is short.” in this situation? For “city sunrise”, which explanation best connects the evidence “rising rhythm, colour shifts grey to gold” with its effect?",
+    "stage": "reason",
+    "skill": "literary_device",
+    "question": "A student gives an answer about a fable with a boastful fox. Why is the strongest explanation the one that links literary device to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a fable with a boastful fox. Why is the strongest explanation the one that links literary device to evidence and effect?",
     "answers": [
       {
-        "text": "Check the whole example: “It creates hope because sound and colour show awakening.” matches the key clue, while “It creates hope only because the title is short.” does not.",
+        "text": "Because literary device is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Keep “It creates hope only because the title is short.” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates hope only because the title is short.” fail and “It creates hope because sound and colour show awakening.” succeed."
+      "summary": "Because literary device is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -726,27 +726,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "sound_and_visual_meaning",
-    "question": "A quick reader might choose “It creates joy only because the title is short.”. What would a closer reading show? For “celebration”, which explanation best connects the evidence “drumbeat repetition, warm circles around dancers” with its effect?",
-    "audio_prompt": "A quick reader might choose “It creates joy only because the title is short.”. What would a closer reading show? For “celebration”, which explanation best connects the evidence “drumbeat repetition, warm circles around dancers” with its effect?",
+    "skill": "misconception_control",
+    "question": "In a poem comparing clouds to ships, a student is retelling instead of evaluating. What is the best correction?",
+    "audio_prompt": "In a poem comparing clouds to ships, a student is retelling instead of evaluating. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “It creates joy only because the title is short.” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “It creates joy because rhythm and colour create shared excitement.” matches the key clue, while “It creates joy only because the title is short.” does not.",
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates joy only because the title is short.” fail and “It creates joy because rhythm and colour create shared excitement.” succeed."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -756,27 +756,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "sound_and_visual_meaning",
-    "question": "What makes “It creates power because heavy sound and angle make the giant dominant.” more precise than “It creates power only because the title is short.” here? For “giant entrance”, which explanation best connects the evidence “thud repeated, low-angle view” with its effect?",
-    "audio_prompt": "What makes “It creates power because heavy sound and angle make the giant dominant.” more precise than “It creates power only because the title is short.” here? For “giant entrance”, which explanation best connects the evidence “thud repeated, low-angle view” with its effect?",
+    "skill": "misconception_control",
+    "question": "In a story where dialogue shows jealousy, a student is naming a device without explaining its effect. What is the best correction?",
+    "audio_prompt": "In a story where dialogue shows jealousy, a student is naming a device without explaining its effect. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “It creates power only because the title is short.” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “It creates power because heavy sound and angle make the giant dominant.” matches the key clue, while “It creates power only because the title is short.” does not.",
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates power only because the title is short.” fail and “It creates power because heavy sound and angle make the giant dominant.” succeed."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -786,27 +786,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which detail helps you reject “It creates loss only because the title is short.”? For “sad farewell”, which explanation best connects the evidence “repeated name, cool empty platform” with its effect?",
-    "audio_prompt": "Which detail helps you reject “It creates loss only because the title is short.”? For “sad farewell”, which explanation best connects the evidence “repeated name, cool empty platform” with its effect?",
+    "skill": "misconception_control",
+    "question": "In a narrative that begins at the climax, a student is giving an opinion without textual evidence. What is the best correction?",
+    "audio_prompt": "In a narrative that begins at the climax, a student is giving an opinion without textual evidence. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “It creates loss because repetition and space hold attention on absence.” matches the key clue, while “It creates loss only because the title is short.” does not.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “It creates loss only because the title is short.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates loss only because the title is short.” fail and “It creates loss because repetition and space hold attention on absence.” succeed."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -816,27 +816,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "sound_and_visual_meaning",
-    "question": "What is the problem with choosing “It creates anticipation only because the title is short.” for this example? For “approaching train”, which explanation best connects the evidence “rumble grows louder, train fills each panel” with its effect?",
-    "audio_prompt": "What is the problem with choosing “It creates anticipation only because the title is short.” for this example? For “approaching train”, which explanation best connects the evidence “rumble grows louder, train fills each panel” with its effect?",
+    "skill": "misconception_control",
+    "question": "In a quiet scene using sensory detail, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
+    "audio_prompt": "In a quiet scene using sensory detail, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “It creates anticipation only because the title is short.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “It creates anticipation because sound and scale show approach.” matches the key clue, while “It creates anticipation only because the title is short.” does not.",
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates anticipation only because the title is short.” fail and “It creates anticipation because sound and scale show approach.” succeed."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -846,27 +846,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which comparison best separates “It creates conflict because sharp rhythm and spacing show division.” from “It creates conflict only because the title is short.”? For “angry argument”, which explanation best connects the evidence “clipped phrases, red figures facing apart” with its effect?",
-    "audio_prompt": "Which comparison best separates “It creates conflict because sharp rhythm and spacing show division.” from “It creates conflict only because the title is short.”? For “angry argument”, which explanation best connects the evidence “clipped phrases, red figures facing apart” with its effect?",
+    "skill": "misconception_control",
+    "question": "In two readers debating a character’s choice, a student is retelling instead of evaluating. What is the best correction?",
+    "audio_prompt": "In two readers debating a character’s choice, a student is retelling instead of evaluating. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “It creates conflict only because the title is short.” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “It creates conflict because sharp rhythm and spacing show division.” matches the key clue, while “It creates conflict only because the title is short.” does not.",
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates conflict only because the title is short.” fail and “It creates conflict because sharp rhythm and spacing show division.” succeed."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -876,27 +876,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "sound_and_visual_meaning",
-    "question": "What should you check so you do not confuse “It creates bustle only because the title is short.” with the correct answer? For “market poem”, which explanation best connects the evidence “rhyming calls, overlapping signs” with its effect?",
-    "audio_prompt": "What should you check so you do not confuse “It creates bustle only because the title is short.” with the correct answer? For “market poem”, which explanation best connects the evidence “rhyming calls, overlapping signs” with its effect?",
+    "skill": "misconception_control",
+    "question": "In a review of a fantasy story, a student is naming a device without explaining its effect. What is the best correction?",
+    "audio_prompt": "In a review of a fantasy story, a student is naming a device without explaining its effect. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “It creates bustle because sound and crowded composition create activity.” matches the key clue, while “It creates bustle only because the title is short.” does not.",
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “It creates bustle only because the title is short.” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It creates bustle only because the title is short.” fail and “It creates bustle because sound and crowded composition create activity.” succeed."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -905,28 +905,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Apply what you know to this example: For “approaching train”, which explanation best connects the evidence “rumble grows louder, train fills each panel” with its effect?",
-    "audio_prompt": "Apply what you know to this example: For “approaching train”, which explanation best connects the evidence “rumble grows louder, train fills each panel” with its effect?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a storm scene in a novel, a student is giving an opinion without textual evidence. What is the best correction?",
+    "audio_prompt": "In a storm scene in a novel, a student is giving an opinion without textual evidence. What is the best correction?",
     "answers": [
       {
-        "text": "It creates anticipation only because the title is short.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "It creates anticipation because sound and scale show approach.",
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“It creates anticipation because sound and scale show approach.” fits the meaning and the language clue in this example. The evidence creates anticipation: sound and scale show approach.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -935,28 +935,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Use the skill independently. For “angry argument”, which explanation best connects the evidence “clipped phrases, red figures facing apart” with its effect?",
-    "audio_prompt": "Use the skill independently. For “angry argument”, which explanation best connects the evidence “clipped phrases, red figures facing apart” with its effect?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a poem about an empty playground, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
+    "audio_prompt": "In a poem about an empty playground, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
     "answers": [
       {
-        "text": "It creates conflict only because the title is short.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "It creates conflict because sharp rhythm and spacing show division.",
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“It creates conflict because sharp rhythm and spacing show division.” fits the meaning and the language clue in this example. The evidence creates conflict: sharp rhythm and spacing show division.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -965,28 +965,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Work out the answer from the details given. For “market poem”, which explanation best connects the evidence “rhyming calls, overlapping signs” with its effect?",
-    "audio_prompt": "Work out the answer from the details given. For “market poem”, which explanation best connects the evidence “rhyming calls, overlapping signs” with its effect?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a fable with a boastful fox, a student is retelling instead of evaluating. What is the best correction?",
+    "audio_prompt": "In a fable with a boastful fox, a student is retelling instead of evaluating. What is the best correction?",
     "answers": [
       {
-        "text": "It creates bustle because sound and crowded composition create activity.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "It creates bustle only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“It creates bustle because sound and crowded composition create activity.” fits the meaning and the language clue in this example. The evidence creates bustle: sound and crowded composition create activity.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -995,28 +995,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Now use the idea in context. For “forest warning”, which explanation best connects the evidence “whispering leaves, widening shadows” with its effect?",
-    "audio_prompt": "Now use the idea in context. For “forest warning”, which explanation best connects the evidence “whispering leaves, widening shadows” with its effect?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a mystery opening in a dark hallway, a student is naming a device without explaining its effect. What is the best correction?",
+    "audio_prompt": "In a mystery opening in a dark hallway, a student is naming a device without explaining its effect. What is the best correction?",
     "answers": [
       {
-        "text": "It creates unease only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates unease because sound and image make danger seem closer.",
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“It creates unease because sound and image make danger seem closer.” fits the meaning and the language clue in this example. The evidence creates unease: sound and image make danger seem closer.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1025,28 +1025,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Choose carefully using meaning, not just a familiar word. For “lonely journey”, which explanation best connects the evidence “long vowels, tiny traveller in wide snow” with its effect?",
-    "audio_prompt": "Choose carefully using meaning, not just a familiar word. For “lonely journey”, which explanation best connects the evidence “long vowels, tiny traveller in wide snow” with its effect?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a story told by a nervous narrator, a student is giving an opinion without textual evidence. What is the best correction?",
+    "audio_prompt": "In a story told by a nervous narrator, a student is giving an opinion without textual evidence. What is the best correction?",
     "answers": [
       {
-        "text": "It creates isolation only because the title is short.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "It creates isolation because slow sound and scale emphasise distance.",
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“It creates isolation because slow sound and scale emphasise distance.” fits the meaning and the language clue in this example. The evidence creates isolation: slow sound and scale emphasise distance.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1055,28 +1055,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which answer still works when you consider the whole example? For “lost child”, which explanation best connects the evidence “call echoed, maze-like overhead view” with its effect?",
-    "audio_prompt": "Which answer still works when you consider the whole example? For “lost child”, which explanation best connects the evidence “call echoed, maze-like overhead view” with its effect?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a chapter ending with a sudden reveal, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
+    "audio_prompt": "In a chapter ending with a sudden reveal, a student is dismissing another viewpoint instead of comparing evidence. What is the best correction?",
     "answers": [
       {
-        "text": "It creates confusion because echo and layout stress uncertainty.",
+        "text": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "It creates confusion only because the title is short.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“It creates confusion because echo and layout stress uncertainty.” fits the meaning and the language clue in this example. The evidence creates confusion: echo and layout stress uncertainty.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "Return to the exact evidence, apply the opinion → literary term → evidence → effect → other viewpoint routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1085,28 +1085,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Use all the clues in this situation. For “race finish”, which explanation best connects the evidence “short beats, narrowing panels” with its effect?",
-    "audio_prompt": "Use all the clues in this situation. For “race finish”, which explanation best connects the evidence “short beats, narrowing panels” with its effect?",
+    "stage": "transfer",
+    "skill": "language_feature",
+    "question": "Apply the skill independently to a fresh version of a quiet scene using sensory detail. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a quiet scene using sensory detail. Which approach is strongest?",
     "answers": [
       {
-        "text": "It creates speed only because the title is short.",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "It creates speed because rhythm and sequence accelerate the ending.",
+        "text": "Use language feature precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“It creates speed because rhythm and sequence accelerate the ending.” fits the meaning and the language clue in this example. The evidence creates speed: rhythm and sequence accelerate the ending.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "Use language feature precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1115,28 +1115,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Decide which option is most precise. For “summer storm”, which explanation best connects the evidence “crack, jagged white line on black cloud” with its effect?",
-    "audio_prompt": "Decide which option is most precise. For “summer storm”, which explanation best connects the evidence “crack, jagged white line on black cloud” with its effect?",
+    "stage": "transfer",
+    "skill": "evidence",
+    "question": "Apply the skill independently to a fresh version of two readers debating a character’s choice. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of two readers debating a character’s choice. Which approach is strongest?",
     "answers": [
       {
-        "text": "It creates shock only because the title is short.",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       },
       {
-        "text": "It creates shock because the sudden sound and contrast startle readers.",
+        "text": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“It creates shock because the sudden sound and contrast startle readers.” fits the meaning and the language clue in this example. The evidence creates shock: the sudden sound and contrast startle readers.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1145,28 +1145,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which choice best shows your understanding here? For “morning garden”, which explanation best connects the evidence “buzz and flutter, close-up yellow flowers” with its effect?",
-    "audio_prompt": "Which choice best shows your understanding here? For “morning garden”, which explanation best connects the evidence “buzz and flutter, close-up yellow flowers” with its effect?",
+    "stage": "transfer",
+    "skill": "effect",
+    "question": "Apply the skill independently to a fresh version of a review of a fantasy story. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a review of a fantasy story. Which approach is strongest?",
     "answers": [
       {
-        "text": "It creates liveliness because sound words and salience focus busy life.",
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use effect precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "It creates liveliness only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“It creates liveliness because sound words and salience focus busy life.” fits the meaning and the language clue in this example. The evidence creates liveliness: sound words and salience focus busy life.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "Use effect precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1175,28 +1175,268 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Read the full example before deciding. For “bird escape”, which explanation best connects the evidence “fluttering consonants, figure crossing panel borders” with its effect?",
-    "audio_prompt": "Read the full example before deciding. For “bird escape”, which explanation best connects the evidence “fluttering consonants, figure crossing panel borders” with its effect?",
+    "stage": "transfer",
+    "skill": "viewpoint",
+    "question": "Apply the skill independently to a fresh version of a storm scene in a novel. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a storm scene in a novel. Which approach is strongest?",
     "answers": [
       {
-        "text": "It creates freedom only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates freedom because sound and layout suggest quick release.",
+        "text": "Use viewpoint precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use viewpoint precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE02-P-041",
+    "curriculum_code": "AC9E5LE02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "literary_device",
+    "question": "Apply the skill independently to a fresh version of a poem about an empty playground. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a poem about an empty playground. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use literary device precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use literary device precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE02-P-042",
+    "curriculum_code": "AC9E5LE02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "text_structure",
+    "question": "Apply the skill independently to a fresh version of a fable with a boastful fox. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a fable with a boastful fox. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE02-P-043",
+    "curriculum_code": "AC9E5LE02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "language_feature",
+    "question": "Apply the skill independently to a fresh version of a mystery opening in a dark hallway. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a mystery opening in a dark hallway. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use language feature precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“It creates freedom because sound and layout suggest quick release.” fits the meaning and the language clue in this example. The evidence creates freedom: sound and layout suggest quick release.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "Use language feature precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE02-P-044",
+    "curriculum_code": "AC9E5LE02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "evidence",
+    "question": "Apply the skill independently to a fresh version of a story told by a nervous narrator. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a story told by a nervous narrator. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use evidence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE02-P-045",
+    "curriculum_code": "AC9E5LE02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "effect",
+    "question": "Apply the skill independently to a fresh version of a chapter ending with a sudden reveal. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a chapter ending with a sudden reveal. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use effect precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use effect precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE02-P-046",
+    "curriculum_code": "AC9E5LE02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "viewpoint",
+    "question": "Apply the skill independently to a fresh version of a poem comparing clouds to ships. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a poem comparing clouds to ships. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use viewpoint precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use viewpoint precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE02-P-047",
+    "curriculum_code": "AC9E5LE02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "literary_device",
+    "question": "Apply the skill independently to a fresh version of a story where dialogue shows jealousy. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a story where dialogue shows jealousy. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use literary device precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use literary device precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE02-P-048",
+    "curriculum_code": "AC9E5LE02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "text_structure",
+    "question": "Apply the skill independently to a fresh version of a narrative that begins at the climax. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a narrative that begins at the climax. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use text structure precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1206,27 +1446,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "sound_and_visual_meaning",
-    "question": "For “mountain warning”, which explanation best connects the evidence “low repeated boom, dark peak above tiny tents” with its effect?",
-    "audio_prompt": "For “mountain warning”, which explanation best connects the evidence “low repeated boom, dark peak above tiny tents” with its effect?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about a mystery opening in a dark hallway, after a first reading, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about a mystery opening in a dark hallway, after a first reading, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "It creates threat only because the title is short.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates threat because sound and scale make nature powerful.",
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The evidence creates threat: sound and scale make nature powerful.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1236,27 +1476,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "sound_and_visual_meaning",
-    "question": "Read this new example closely. For “robot dance”, which explanation best connects the evidence “metallic clicks, repeated square poses” with its effect?",
-    "audio_prompt": "Read this new example closely. For “robot dance”, which explanation best connects the evidence “metallic clicks, repeated square poses” with its effect?",
+    "skill": "effect",
+    "question": "In an unseen Year 5 task about a narrative that begins at the climax, when checking the strongest clue, which answer best shows independent understanding of effect?",
+    "audio_prompt": "In an unseen Year 5 task about a narrative that begins at the climax, when checking the strongest clue, which answer best shows independent understanding of effect?",
     "answers": [
       {
-        "text": "It creates precision because sound and shapes create mechanical rhythm.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "It creates precision only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The evidence creates precision: sound and shapes create mechanical rhythm.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1266,27 +1506,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which answer is most accurate here? For “underwater dream”, which explanation best connects the evidence “muffled refrain, floating translucent layers” with its effect?",
-    "audio_prompt": "Which answer is most accurate here? For “underwater dream”, which explanation best connects the evidence “muffled refrain, floating translucent layers” with its effect?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about a poem about an empty playground, when comparing two plausible choices, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about a poem about an empty playground, when comparing two plausible choices, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "It creates dreaminess only because the title is short.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "It creates dreaminess because soft repetition and layers blur reality.",
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The evidence creates dreaminess: soft repetition and layers blur reality.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1296,27 +1536,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "sound_and_visual_meaning",
-    "question": "Use the details in this new situation. For “door opening”, which explanation best connects the evidence “creak stretches, narrow strip of light widens” with its effect?",
-    "audio_prompt": "Use the details in this new situation. For “door opening”, which explanation best connects the evidence “creak stretches, narrow strip of light widens” with its effect?",
+    "skill": "effect",
+    "question": "In an unseen Year 5 task about a poem comparing clouds to ships, after rereading the final detail, which answer best shows independent understanding of effect?",
+    "audio_prompt": "In an unseen Year 5 task about a poem comparing clouds to ships, after rereading the final detail, which answer best shows independent understanding of effect?",
     "answers": [
       {
-        "text": "It creates suspense only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates suspense because sound duration and changing light delay knowledge.",
+        "text": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The evidence creates suspense: sound duration and changing light delay knowledge.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1326,27 +1566,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "sound_and_visual_meaning",
-    "question": "Choose the answer supported by the whole example. For “playground rush”, which explanation best connects the evidence “chant speeds up, curved motion lines overlap” with its effect?",
-    "audio_prompt": "Choose the answer supported by the whole example. For “playground rush”, which explanation best connects the evidence “chant speeds up, curved motion lines overlap” with its effect?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about a review of a fantasy story, when the wording is unfamiliar, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about a review of a fantasy story, when the wording is unfamiliar, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "It creates excitement because pace and movement build shared energy.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "It creates excitement only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The evidence creates excitement: pace and movement build shared energy.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1356,27 +1596,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which option best fits the meaning? For “quiet protest”, which explanation best connects the evidence “one phrase repeats, still figures fill the foreground” with its effect?",
-    "audio_prompt": "Which option best fits the meaning? For “quiet protest”, which explanation best connects the evidence “one phrase repeats, still figures fill the foreground” with its effect?",
+    "skill": "effect",
+    "question": "In an unseen Year 5 task about a story told by a nervous narrator, when a distractor shares a keyword, which answer best shows independent understanding of effect?",
+    "audio_prompt": "In an unseen Year 5 task about a story told by a nervous narrator, when a distractor shares a keyword, which answer best shows independent understanding of effect?",
     "answers": [
       {
-        "text": "It creates determination only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates determination because repetition and salience give the group strength.",
+        "text": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The evidence creates determination: repetition and salience give the group strength.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1386,27 +1626,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "sound_and_visual_meaning",
-    "question": "Work this out independently. For “owl flight”, which explanation best connects the evidence “soft whoosh, wings form a frame around the moon” with its effect?",
-    "audio_prompt": "Work this out independently. For “owl flight”, which explanation best connects the evidence “soft whoosh, wings form a frame around the moon” with its effect?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about a quiet scene using sensory detail, when the task asks for evidence, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about a quiet scene using sensory detail, when the task asks for evidence, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "It creates grace only because the title is short.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates grace because sound and composition guide a smooth movement.",
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The evidence creates grace: sound and composition guide a smooth movement.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1416,27 +1656,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "sound_and_visual_meaning",
-    "question": "What is the best answer in this context? For “broken machine”, which explanation best connects the evidence “splutter then stop, gears scatter across panels” with its effect?",
-    "audio_prompt": "What is the best answer in this context? For “broken machine”, which explanation best connects the evidence “splutter then stop, gears scatter across panels” with its effect?",
+    "skill": "effect",
+    "question": "In an unseen Year 5 task about a fable with a boastful fox, when the whole context matters, which answer best shows independent understanding of effect?",
+    "audio_prompt": "In an unseen Year 5 task about a fable with a boastful fox, when the whole context matters, which answer best shows independent understanding of effect?",
     "answers": [
       {
-        "text": "It creates failure because interrupted sound and sequence show collapse.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "It creates failure only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The evidence creates failure: interrupted sound and sequence show collapse.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1446,27 +1686,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which choice is supported by the evidence given? For “desert heat”, which explanation best connects the evidence “hissing wind, wavering horizon” with its effect?",
-    "audio_prompt": "Which choice is supported by the evidence given? For “desert heat”, which explanation best connects the evidence “hissing wind, wavering horizon” with its effect?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about a story where dialogue shows jealousy, when applying the skill independently, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about a story where dialogue shows jealousy, when applying the skill independently, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "It creates discomfort only because the title is short.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "It creates discomfort because sound and distorted line suggest harsh heat.",
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The evidence creates discomfort: sound and distorted line suggest harsh heat.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1476,27 +1716,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Read for meaning before you choose. For “surprise party”, which explanation best connects the evidence “silence followed by a burst, page turns from dark to bright” with its effect?",
-    "audio_prompt": "Read for meaning before you choose. For “surprise party”, which explanation best connects the evidence “silence followed by a burst, page turns from dark to bright” with its effect?",
+    "skill": "effect",
+    "question": "In an unseen Year 5 task about a storm scene in a novel, when a familiar answer is tempting, which answer best shows independent understanding of effect?",
+    "audio_prompt": "In an unseen Year 5 task about a storm scene in a novel, when a familiar answer is tempting, which answer best shows independent understanding of effect?",
     "answers": [
       {
-        "text": "It creates surprise only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates surprise because contrast across the page turn creates the reveal.",
+        "text": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The evidence creates surprise: contrast across the page turn creates the reveal.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1506,27 +1746,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which option is the most precise? For “tense countdown”, which explanation best connects the evidence “numbers repeat, close-ups alternate between clock and eyes” with its effect?",
-    "audio_prompt": "Which option is the most precise? For “tense countdown”, which explanation best connects the evidence “numbers repeat, close-ups alternate between clock and eyes” with its effect?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about a chapter ending with a sudden reveal, when precision matters, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about a chapter ending with a sudden reveal, when precision matters, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "It creates pressure because repetition and cuts make time feel urgent.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "It creates pressure only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The evidence creates pressure: repetition and cuts make time feel urgent.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1536,27 +1776,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Use every clue in the example. For “peaceful ending”, which explanation best connects the evidence “lullaby refrain, circular image returns to home” with its effect?",
-    "audio_prompt": "Use every clue in the example. For “peaceful ending”, which explanation best connects the evidence “lullaby refrain, circular image returns to home” with its effect?",
+    "skill": "effect",
+    "question": "In an unseen Year 5 task about two readers debating a character’s choice, when checking the writer’s purpose, which answer best shows independent understanding of effect?",
+    "audio_prompt": "In an unseen Year 5 task about two readers debating a character’s choice, when checking the writer’s purpose, which answer best shows independent understanding of effect?",
     "answers": [
       {
-        "text": "It creates closure only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates closure because sound and shape settle the story.",
+        "text": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The evidence creates closure: sound and shape settle the story.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1566,27 +1806,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which answer holds up when you check the full context? For “crowded bus”, which explanation best connects the evidence “overlapping chatter, compressed figures” with its effect?",
-    "audio_prompt": "Which answer holds up when you check the full context? For “crowded bus”, which explanation best connects the evidence “overlapping chatter, compressed figures” with its effect?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about a mystery opening in a dark hallway, when more than one clue is present, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about a mystery opening in a dark hallway, when more than one clue is present, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "It creates confinement only because the title is short.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates confinement because sound and spacing create discomfort.",
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The evidence creates confinement: sound and spacing create discomfort.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1596,27 +1836,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Decide which option best matches what the text shows. For “magical tree”, which explanation best connects the evidence “leaves chime, gold branch is central and brightest” with its effect?",
-    "audio_prompt": "Decide which option best matches what the text shows. For “magical tree”, which explanation best connects the evidence “leaves chime, gold branch is central and brightest” with its effect?",
+    "skill": "effect",
+    "question": "In an unseen Year 5 task about a narrative that begins at the climax, when transferring the skill, which answer best shows independent understanding of effect?",
+    "audio_prompt": "In an unseen Year 5 task about a narrative that begins at the climax, when transferring the skill, which answer best shows independent understanding of effect?",
     "answers": [
       {
-        "text": "It creates wonder because sound and salience mark the tree as extraordinary.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "It creates wonder only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The evidence creates wonder: sound and salience mark the tree as extraordinary.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1626,27 +1866,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Which choice best demonstrates the skill in this new example? For “chase reversal”, which explanation best connects the evidence “heavy footsteps become light taps, pursuer shrinks in panels” with its effect?",
-    "audio_prompt": "Which choice best demonstrates the skill in this new example? For “chase reversal”, which explanation best connects the evidence “heavy footsteps become light taps, pursuer shrinks in panels” with its effect?",
+    "skill": "text_structure",
+    "question": "In an unseen Year 5 task about a poem about an empty playground, when explaining the reasoning, which answer best shows independent understanding of text structure?",
+    "audio_prompt": "In an unseen Year 5 task about a poem about an empty playground, when explaining the reasoning, which answer best shows independent understanding of text structure?",
     "answers": [
       {
-        "text": "It creates relief only because the title is short.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "It creates relief because sound and scale show danger fading.",
+        "text": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "It has no effect because readers always respond in the same way.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The evidence creates relief: sound and scale show danger fading.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant text structure, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1656,27 +1896,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "sound_and_visual_meaning",
-    "question": "Make your final choice from the evidence in the question. For “remembered song”, which explanation best connects the evidence “one melody line returns, old and new scenes share blue tones” with its effect?",
-    "audio_prompt": "Make your final choice from the evidence in the question. For “remembered song”, which explanation best connects the evidence “one melody line returns, old and new scenes share blue tones” with its effect?",
+    "skill": "effect",
+    "question": "In an unseen Year 5 task about a poem comparing clouds to ships, as a final independent check, which answer best shows independent understanding of effect?",
+    "audio_prompt": "In an unseen Year 5 task about a poem comparing clouds to ships, as a final independent check, which answer best shows independent understanding of effect?",
     "answers": [
       {
-        "text": "It creates connection only because the title is short.",
-        "is_correct": false
-      },
-      {
-        "text": "It has no effect because readers always respond in the same way.",
-        "is_correct": false
-      },
-      {
-        "text": "It creates connection because repetition and colour link past with present.",
+        "text": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The evidence creates connection: repetition and colour link past with present.",
-      "hint": "Name the specific choice, then explain what it invites readers to notice, feel or infer."
+      "summary": "It identifies the relevant effect, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   }
 ]

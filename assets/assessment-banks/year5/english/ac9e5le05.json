@@ -6,27 +6,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about missing trophy. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about missing trophy. Which revision creates a purposeful, coherent sequence?",
+    "skill": "storyline",
+    "question": "Which response best demonstrates the AC9E5 skill in a character entering an abandoned shed?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a character entering an abandoned shed?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It names a feature in a character entering an abandoned shed but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "begin with the empty display case; then reveal yesterday's careless handover; flashback signal: The afternoon before.",
+        "text": "The response uses storyline and connects it to specific evidence in a character entering an abandoned shed.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It gives a personal reaction to a character entering an abandoned shed but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“begin with the empty display case; then reveal yesterday's careless handover; flashback signal: The afternoon before.” fits the meaning and the language clue in this example. The structure is purposeful because it uses begin with the empty display case, then then reveal yesterday's careless handover, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "The response uses storyline and connects it to specific evidence in a character entering an abandoned shed. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -36,27 +36,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Read carefully: A writer is structuring a story about lost key. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Read carefully: A writer is structuring a story about lost key. Which revision creates a purposeful, coherent sequence?",
+    "skill": "characterisation",
+    "question": "Which response best demonstrates the AC9E5 skill in a race told from the final runner’s view?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a race told from the final runner’s view?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It names a feature in a race told from the final runner’s view but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It gives a personal reaction to a race told from the final runner’s view but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "end with two supported possibilities; plant evidence for both; resolve the search but not ownership.",
+        "text": "The response uses characterisation and connects it to specific evidence in a race told from the final runner’s view.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“end with two supported possibilities; plant evidence for both; resolve the search but not ownership.” fits the meaning and the language clue in this example. The structure is purposeful because it uses end with two supported possibilities, then plant evidence for both, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "The response uses characterisation and connects it to specific evidence in a race told from the final runner’s view. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -66,27 +66,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which answer makes the most sense here? A writer is structuring a story about family recipe. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which answer makes the most sense here? A writer is structuring a story about family recipe. Which revision creates a purposeful, coherent sequence?",
+    "skill": "setting",
+    "question": "Which response best demonstrates the AC9E5 skill in a friendship scene after an argument?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a friendship scene after an argument?",
     "answers": [
       {
-        "text": "frame past scenes around present cooking; connect generations through repeated words; return to the kitchen.",
+        "text": "It gives a personal reaction to a friendship scene after an argument but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses setting and connects it to specific evidence in a friendship scene after an argument.",
         "is_correct": true
       },
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It names a feature in a friendship scene after an argument but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“frame past scenes around present cooking; connect generations through repeated words; return to the kitchen.” fits the meaning and the language clue in this example. The structure is purposeful because it uses frame past scenes around present cooking, then connect generations through repeated words, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "The response uses setting and connects it to specific evidence in a friendship scene after an argument. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -96,27 +96,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Look at the wording and meaning. A writer is structuring a story about flood memory. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Look at the wording and meaning. A writer is structuring a story about flood memory. Which revision creates a purposeful, coherent sequence?",
+    "skill": "dialogue",
+    "question": "Which response best demonstrates the AC9E5 skill in a storm arriving during a picnic?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a storm arriving during a picnic?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "adult narrator interrupts childhood scenes; correct earlier misunderstanding; control past and present tense.",
+        "text": "The response uses dialogue and connects it to specific evidence in a storm arriving during a picnic.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It names a feature in a storm arriving during a picnic but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a personal reaction to a storm arriving during a picnic but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“adult narrator interrupts childhood scenes; correct earlier misunderstanding; control past and present tense.” fits the meaning and the language clue in this example. The structure is purposeful because it uses adult narrator interrupts childhood scenes, then correct earlier misunderstanding, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "The response uses dialogue and connects it to specific evidence in a storm arriving during a picnic. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -126,27 +126,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Choose the option that fits the situation best. A writer is structuring a story about race preparation. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Choose the option that fits the situation best. A writer is structuring a story about race preparation. Which revision creates a purposeful, coherent sequence?",
+    "skill": "figurative_language",
+    "question": "Which response best demonstrates the AC9E5 skill in a quiet library mystery?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a quiet library mystery?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It gives a personal reaction to a quiet library mystery but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It names a feature in a quiet library mystery but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "present events chronologically; show training causing improvement; use clear weekly transitions.",
+        "text": "The response uses figurative language and connects it to specific evidence in a quiet library mystery.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“present events chronologically; show training causing improvement; use clear weekly transitions.” fits the meaning and the language clue in this example. The structure is purposeful because it uses present events chronologically, then show training causing improvement, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "The response uses figurative language and connects it to specific evidence in a quiet library mystery. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -156,27 +156,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which choice is accurate in this example? A writer is structuring a story about ocean journey. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which choice is accurate in this example? A writer is structuring a story about ocean journey. Which revision creates a purposeful, coherent sequence?",
+    "skill": "strong_verb",
+    "question": "Which response best demonstrates the AC9E5 skill in a bushwalk where someone hears a strange sound?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a bushwalk where someone hears a strange sound?",
     "answers": [
       {
-        "text": "shift from passenger to lighthouse keeper; show each missing the other's knowledge; signal voice through distinct diction.",
+        "text": "The response uses strong verb and connects it to specific evidence in a bushwalk where someone hears a strange sound.",
         "is_correct": true
       },
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It gives a personal reaction to a bushwalk where someone hears a strange sound but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It names a feature in a bushwalk where someone hears a strange sound but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“shift from passenger to lighthouse keeper; show each missing the other's knowledge; signal voice through distinct diction.” fits the meaning and the language clue in this example. The structure is purposeful because it uses shift from passenger to lighthouse keeper, then show each missing the other's knowledge, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "The response uses strong verb and connects it to specific evidence in a bushwalk where someone hears a strange sound. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -186,27 +186,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Focus on the key clue. A writer is structuring a story about mountain choice. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Focus on the key clue. A writer is structuring a story about mountain choice. Which revision creates a purposeful, coherent sequence?",
+    "skill": "revision",
+    "question": "Which response best demonstrates the AC9E5 skill in a character trying to hide excitement?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a character trying to hide excitement?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It names a feature in a character trying to hide excitement but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "use two parallel possible paths; show consequences of each; mark alternatives with headings.",
+        "text": "The response uses revision and connects it to specific evidence in a character trying to hide excitement.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It gives a personal reaction to a character trying to hide excitement but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“use two parallel possible paths; show consequences of each; mark alternatives with headings.” fits the meaning and the language clue in this example. The structure is purposeful because it uses use two parallel possible paths, then show consequences of each, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "The response uses revision and connects it to specific evidence in a character trying to hide excitement. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -216,27 +216,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "experimenting_with_literary_structure",
-    "question": "What works best in this situation? A writer is structuring a story about storm rescue. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "What works best in this situation? A writer is structuring a story about storm rescue. Which revision creates a purposeful, coherent sequence?",
+    "skill": "storyline",
+    "question": "Which response best demonstrates the AC9E5 skill in a scene set beside a noisy creek?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a scene set beside a noisy creek?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It names a feature in a scene set beside a noisy creek but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It gives a personal reaction to a scene set beside a noisy creek but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.",
+        "text": "The response uses storyline and connects it to specific evidence in a scene set beside a noisy creek.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.” fits the meaning and the language clue in this example. The structure is purposeful because it uses open at the helicopter arrival, then return to the first warning signs, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "The response uses storyline and connects it to specific evidence in a scene set beside a noisy creek. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -246,27 +246,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which option matches what is happening? A writer is structuring a story about new town. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which option matches what is happening? A writer is structuring a story about new town. Which revision creates a purposeful, coherent sequence?",
+    "skill": "characterisation",
+    "question": "Which response best demonstrates the AC9E5 skill in a short quest with one obstacle?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a short quest with one obstacle?",
     "answers": [
       {
-        "text": "open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.",
+        "text": "It gives a personal reaction to a short quest with one obstacle but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses characterisation and connects it to specific evidence in a short quest with one obstacle.",
         "is_correct": true
       },
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It names a feature in a short quest with one obstacle but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.” fits the meaning and the language clue in this example. The structure is purposeful because it uses open with a confident present-day narrator, then flash back to an anxious first day, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "The response uses characterisation and connects it to specific evidence in a short quest with one obstacle. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -276,27 +276,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Use the details in the example. A writer is structuring a story about power cut. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Use the details in the example. A writer is structuring a story about power cut. Which revision creates a purposeful, coherent sequence?",
+    "skill": "setting",
+    "question": "Which response best demonstrates the AC9E5 skill in a dialogue showing uncertainty?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a dialogue showing uncertainty?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "use a circular structure; end with the same candle image changed; make the change in meaning clear.",
+        "text": "The response uses setting and connects it to specific evidence in a dialogue showing uncertainty.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It names a feature in a dialogue showing uncertainty but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives a personal reaction to a dialogue showing uncertainty but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“use a circular structure; end with the same candle image changed; make the change in meaning clear.” fits the meaning and the language clue in this example. The structure is purposeful because it uses use a circular structure, then end with the same candle image changed, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "The response uses setting and connects it to specific evidence in a dialogue showing uncertainty. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -305,28 +305,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Why is “open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.” the strongest answer to this question: A writer is structuring a story about storm rescue. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Why is “open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.” the strongest answer to this question: A writer is structuring a story about storm rescue. Which revision creates a purposeful, coherent sequence?",
+    "stage": "recognise",
+    "skill": "dialogue",
+    "question": "Which response best demonstrates the AC9E5 skill in a setting changed from day to night?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a setting changed from day to night?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It gives a personal reaction to a setting changed from day to night but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "It names a feature in a setting changed from day to night but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "The response uses dialogue and connects it to specific evidence in a setting changed from day to night.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses open at the helicopter arrival, then return to the first warning signs, with clear reader guidance.",
-      "hint": "Find the exact clue that makes “open at the helicopter arrival; return to the first warning signs; time marker: Six hours earlier.” fit."
+      "summary": "The response uses dialogue and connects it to specific evidence in a setting changed from day to night. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -335,28 +335,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "experimenting_with_literary_structure",
-    "question": "What makes “open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.” work in this example? A writer is structuring a story about new town. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "What makes “open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.” work in this example? A writer is structuring a story about new town. Which revision creates a purposeful, coherent sequence?",
+    "stage": "recognise",
+    "skill": "figurative_language",
+    "question": "Which response best demonstrates the AC9E5 skill in a final paragraph that needs a stronger ending?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a final paragraph that needs a stronger ending?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "The response uses figurative language and connects it to specific evidence in a final paragraph that needs a stronger ending.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It gives a personal reaction to a final paragraph that needs a stronger ending but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "It names a feature in a final paragraph that needs a stronger ending but does not explain how it contributes to meaning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses open with a confident present-day narrator, then flash back to an anxious first day, with clear reader guidance.",
-      "hint": "Find the exact clue that makes “open with a confident present-day narrator; flash back to an anxious first day; echo the opening street image.” fit."
+      "summary": "The response uses figurative language and connects it to specific evidence in a final paragraph that needs a stronger ending. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -365,28 +365,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which reason best explains why “use a circular structure; end with the same candle image changed; make the change in meaning clear.” fits? A writer is structuring a story about power cut. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which reason best explains why “use a circular structure; end with the same candle image changed; make the change in meaning clear.” fits? A writer is structuring a story about power cut. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "characterisation",
+    "question": "A student gives an answer about a storm arriving during a picnic. Why is the strongest explanation the one that links characterisation to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a storm arriving during a picnic. Why is the strongest explanation the one that links characterisation to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because characterisation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses use a circular structure, then end with the same candle image changed, with clear reader guidance.",
-      "hint": "Find the exact clue that makes “use a circular structure; end with the same candle image changed; make the change in meaning clear.” fit."
+      "summary": "Because characterisation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -395,28 +395,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "experimenting_with_literary_structure",
-    "question": "How does “present three witness accounts; allow contradictions to remain visible; name every speaker.” match the meaning of this example? A writer is structuring a story about neighbour dispute. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "How does “present three witness accounts; allow contradictions to remain visible; name every speaker.” match the meaning of this example? A writer is structuring a story about neighbour dispute. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "setting",
+    "question": "A student gives an answer about a quiet library mystery. Why is the strongest explanation the one that links setting to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a quiet library mystery. Why is the strongest explanation the one that links setting to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because setting is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses present three witness accounts, then allow contradictions to remain visible, with clear reader guidance.",
-      "hint": "Find the exact clue that makes “present three witness accounts; allow contradictions to remain visible; name every speaker.” fit."
+      "summary": "Because setting is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -425,28 +425,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Why does “begin with the climax at a fallen bridge; reveal ignored clues gradually; repeat the snapped-twig motif.” suit this situation better than the other choices? A writer is structuring a story about forest warning. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Why does “begin with the climax at a fallen bridge; reveal ignored clues gradually; repeat the snapped-twig motif.” suit this situation better than the other choices? A writer is structuring a story about forest warning. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "dialogue",
+    "question": "A student gives an answer about a bushwalk where someone hears a strange sound. Why is the strongest explanation the one that links dialogue to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a bushwalk where someone hears a strange sound. Why is the strongest explanation the one that links dialogue to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because dialogue is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses begin with the climax at a fallen bridge, then reveal ignored clues gradually, with clear reader guidance.",
-      "hint": "Find the exact clue that makes “begin with the climax at a fallen bridge; reveal ignored clues gradually; repeat the snapped-twig motif.” fit."
+      "summary": "Because dialogue is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -455,28 +455,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "experimenting_with_literary_structure",
-    "question": "What clue in the example supports “start at discovery; move backwards through three clues; use precise time transitions.”? A writer is structuring a story about secret garden. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "What clue in the example supports “start at discovery; move backwards through three clues; use precise time transitions.”? A writer is structuring a story about secret garden. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "figurative_language",
+    "question": "A student gives an answer about a character trying to hide excitement. Why is the strongest explanation the one that links figurative language to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a character trying to hide excitement. Why is the strongest explanation the one that links figurative language to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because figurative language is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses start at discovery, then move backwards through three clues, with clear reader guidance.",
-      "hint": "Find the exact clue that makes “start at discovery; move backwards through three clues; use precise time transitions.” fit."
+      "summary": "Because figurative language is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -485,28 +485,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which explanation shows why “delay the sender's identity; place fair clues in each section; reveal only after evidence accumulates.” is correct here? A writer is structuring a story about returned parcel. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which explanation shows why “delay the sender's identity; place fair clues in each section; reveal only after evidence accumulates.” is correct here? A writer is structuring a story about returned parcel. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "strong_verb",
+    "question": "A student gives an answer about a scene set beside a noisy creek. Why is the strongest explanation the one that links strong verb to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a scene set beside a noisy creek. Why is the strongest explanation the one that links strong verb to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because strong verb is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses delay the sender's identity, then place fair clues in each section, with clear reader guidance.",
-      "hint": "Find the exact clue that makes “delay the sender's identity; place fair clues in each section; reveal only after evidence accumulates.” fit."
+      "summary": "Because strong verb is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -515,28 +515,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Why would “alternate each friend's account; show one misunderstood message; label sections with each name.” make sense to a careful reader? A writer is structuring a story about friendship argument. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Why would “alternate each friend's account; show one misunderstood message; label sections with each name.” make sense to a careful reader? A writer is structuring a story about friendship argument. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "revision",
+    "question": "A student gives an answer about a short quest with one obstacle. Why is the strongest explanation the one that links revision to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a short quest with one obstacle. Why is the strongest explanation the one that links revision to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because revision is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses alternate each friend's account, then show one misunderstood message, with clear reader guidance.",
-      "hint": "Find the exact clue that makes “alternate each friend's account; show one misunderstood message; label sections with each name.” fit."
+      "summary": "Because revision is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -545,28 +545,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "experimenting_with_literary_structure",
-    "question": "What is the best reason for choosing “parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.”? A writer is structuring a story about robot contest. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "What is the best reason for choosing “parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.”? A writer is structuring a story about robot contest. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "storyline",
+    "question": "A student gives an answer about a dialogue showing uncertainty. Why is the strongest explanation the one that links storyline to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a dialogue showing uncertainty. Why is the strongest explanation the one that links storyline to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because storyline is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses parallel two teams' preparation, then bring plots together at judging, with clear reader guidance.",
-      "hint": "Find the exact clue that makes “parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.” fit."
+      "summary": "Because storyline is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -575,28 +575,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which explanation connects “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.” to the key clue? A writer is structuring a story about animal rescue. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which explanation connects “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.” to the key clue? A writer is structuring a story about animal rescue. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "characterisation",
+    "question": "A student gives an answer about a setting changed from day to night. Why is the strongest explanation the one that links characterisation to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a setting changed from day to night. Why is the strongest explanation the one that links characterisation to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because characterisation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The structure is purposeful because it uses alternate child and ranger viewpoints, then create different priorities, with clear reader guidance.",
-      "hint": "Find the exact clue that makes “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.” fit."
+      "summary": "Because characterisation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -605,28 +605,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "experimenting_with_literary_structure",
-    "question": "“Put scenes in random order and give readers no time or viewpoint signals.” might seem possible at first. What should you notice before answering this question: A writer is structuring a story about friendship argument. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "“Put scenes in random order and give readers no time or viewpoint signals.” might seem possible at first. What should you notice before answering this question: A writer is structuring a story about friendship argument. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "setting",
+    "question": "A student gives an answer about a final paragraph that needs a stronger ending. Why is the strongest explanation the one that links setting to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a final paragraph that needs a stronger ending. Why is the strongest explanation the one that links setting to evidence and effect?",
     "answers": [
       {
-        "text": "Check the whole example: “alternate each friend's account; show one misunderstood message; label sections with each name.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because setting is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “alternate each friend's account; show one misunderstood message; label sections with each name.” succeed."
+      "summary": "Because setting is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -635,28 +635,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Why is “Put scenes in random order and give readers no time or viewpoint signals.” not the best choice here? A writer is structuring a story about robot contest. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Why is “Put scenes in random order and give readers no time or viewpoint signals.” not the best choice here? A writer is structuring a story about robot contest. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "dialogue",
+    "question": "A student gives an answer about a character entering an abandoned shed. Why is the strongest explanation the one that links dialogue to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a character entering an abandoned shed. Why is the strongest explanation the one that links dialogue to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "text": "Because dialogue is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “parallel two teams' preparation; bring plots together at judging; repeat a countdown heading.” succeed."
+      "summary": "Because dialogue is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -665,28 +665,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Compare “Put scenes in random order and give readers no time or viewpoint signals.” with “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.”. What important difference matters in this example? A writer is structuring a story about animal rescue. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Compare “Put scenes in random order and give readers no time or viewpoint signals.” with “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.”. What important difference matters in this example? A writer is structuring a story about animal rescue. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "figurative_language",
+    "question": "A student gives an answer about a race told from the final runner’s view. Why is the strongest explanation the one that links figurative language to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a race told from the final runner’s view. Why is the strongest explanation the one that links figurative language to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "text": "Because figurative language is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “alternate child and ranger viewpoints; create different priorities; keep pronouns and voices stable.” succeed."
+      "summary": "Because figurative language is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -695,28 +695,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which clue rules out “Put scenes in random order and give readers no time or viewpoint signals.” in this situation? A writer is structuring a story about train departure. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which clue rules out “Put scenes in random order and give readers no time or viewpoint signals.” in this situation? A writer is structuring a story about train departure. Which revision creates a purposeful, coherent sequence?",
+    "stage": "reason",
+    "skill": "strong_verb",
+    "question": "A student gives an answer about a friendship scene after an argument. Why is the strongest explanation the one that links strong verb to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a friendship scene after an argument. Why is the strongest explanation the one that links strong verb to evidence and effect?",
     "answers": [
       {
-        "text": "Check the whole example: “count backwards to departure; compress paragraphs near zero; keep cause and sequence clear.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "text": "Because strong verb is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “count backwards to departure; compress paragraphs near zero; keep cause and sequence clear.” succeed."
+      "summary": "Because strong verb is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -726,27 +726,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A quick reader might choose “Put scenes in random order and give readers no time or viewpoint signals.”. What would a closer reading show? A writer is structuring a story about school concert. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A quick reader might choose “Put scenes in random order and give readers no time or viewpoint signals.”. What would a closer reading show? A writer is structuring a story about school concert. Which revision creates a purposeful, coherent sequence?",
+    "skill": "misconception_control",
+    "question": "In a character trying to hide excitement, a student is telling a trait instead of showing it. What is the best correction?",
+    "audio_prompt": "In a character trying to hide excitement, a student is telling a trait instead of showing it. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “alternate backstage and audience scenes; create dramatic irony about a missing prop; use location headings.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “alternate backstage and audience scenes; create dramatic irony about a missing prop; use location headings.” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -756,27 +756,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "experimenting_with_literary_structure",
-    "question": "What makes “slow one decisive second; insert brief memories between actions; return clearly to the ongoing kick.” more precise than “Put scenes in random order and give readers no time or viewpoint signals.” here? A writer is structuring a story about grand final. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "What makes “slow one decisive second; insert brief memories between actions; return clearly to the ongoing kick.” more precise than “Put scenes in random order and give readers no time or viewpoint signals.” here? A writer is structuring a story about grand final. Which revision creates a purposeful, coherent sequence?",
+    "skill": "misconception_control",
+    "question": "In a scene set beside a noisy creek, a student is choosing a stronger verb that changes the intended meaning. What is the best correction?",
+    "audio_prompt": "In a scene set beside a noisy creek, a student is choosing a stronger verb that changes the intended meaning. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “slow one decisive second; insert brief memories between actions; return clearly to the ongoing kick.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “slow one decisive second; insert brief memories between actions; return clearly to the ongoing kick.” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -786,27 +786,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which detail helps you reject “Put scenes in random order and give readers no time or viewpoint signals.”? A writer is structuring a story about play rehearsal. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which detail helps you reject “Put scenes in random order and give readers no time or viewpoint signals.”? A writer is structuring a story about play rehearsal. Which revision creates a purposeful, coherent sequence?",
+    "skill": "misconception_control",
+    "question": "In a short quest with one obstacle, a student is adding figurative language that does not suit the scene. What is the best correction?",
+    "audio_prompt": "In a short quest with one obstacle, a student is adding figurative language that does not suit the scene. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “use scene-like sections; jump between performance and preparation; identify place and time.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “use scene-like sections; jump between performance and preparation; identify place and time.” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -816,27 +816,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "experimenting_with_literary_structure",
-    "question": "What is the problem with choosing “Put scenes in random order and give readers no time or viewpoint signals.” for this example? A writer is structuring a story about family mystery. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "What is the problem with choosing “Put scenes in random order and give readers no time or viewpoint signals.” for this example? A writer is structuring a story about family mystery. Which revision creates a purposeful, coherent sequence?",
+    "skill": "misconception_control",
+    "question": "In a dialogue showing uncertainty, a student is reordering events without checking cause and effect. What is the best correction?",
+    "audio_prompt": "In a dialogue showing uncertainty, a student is reordering events without checking cause and effect. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “frame the story with an unopened letter; tell the grandparent's memory inside; return to the letter at the end.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “frame the story with an unopened letter; tell the grandparent's memory inside; return to the letter at the end.” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -846,27 +846,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which comparison best separates “tell the event through diary entries; let later entries revise early assumptions; date every section.” from “Put scenes in random order and give readers no time or viewpoint signals.”? A writer is structuring a story about camping mistake. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which comparison best separates “tell the event through diary entries; let later entries revise early assumptions; date every section.” from “Put scenes in random order and give readers no time or viewpoint signals.”? A writer is structuring a story about camping mistake. Which revision creates a purposeful, coherent sequence?",
+    "skill": "misconception_control",
+    "question": "In a setting changed from day to night, a student is telling a trait instead of showing it. What is the best correction?",
+    "audio_prompt": "In a setting changed from day to night, a student is telling a trait instead of showing it. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “tell the event through diary entries; let later entries revise early assumptions; date every section.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “tell the event through diary entries; let later entries revise early assumptions; date every section.” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -876,27 +876,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "experimenting_with_literary_structure",
-    "question": "What should you check so you do not confuse “Put scenes in random order and give readers no time or viewpoint signals.” with the correct answer? A writer is structuring a story about museum night. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "What should you check so you do not confuse “Put scenes in random order and give readers no time or viewpoint signals.” with the correct answer? A writer is structuring a story about museum night. Which revision creates a purposeful, coherent sequence?",
+    "skill": "misconception_control",
+    "question": "In a final paragraph that needs a stronger ending, a student is choosing a stronger verb that changes the intended meaning. What is the best correction?",
+    "audio_prompt": "In a final paragraph that needs a stronger ending, a student is choosing a stronger verb that changes the intended meaning. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “begin after an unexplained alarm; reconstruct events from objects; order clues logically.” matches the key clue, while “Put scenes in random order and give readers no time or viewpoint signals.” does not.",
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “Put scenes in random order and give readers no time or viewpoint signals.” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Put scenes in random order and give readers no time or viewpoint signals.” fail and “begin after an unexplained alarm; reconstruct events from objects; order clues logically.” succeed."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -905,28 +905,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Apply what you know to this example: A writer is structuring a story about family mystery. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Apply what you know to this example: A writer is structuring a story about family mystery. Which revision creates a purposeful, coherent sequence?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a character entering an abandoned shed, a student is adding figurative language that does not suit the scene. What is the best correction?",
+    "audio_prompt": "In a character entering an abandoned shed, a student is adding figurative language that does not suit the scene. What is the best correction?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "frame the story with an unopened letter; tell the grandparent's memory inside; return to the letter at the end.",
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“frame the story with an unopened letter; tell the grandparent's memory inside; return to the letter at the end.” fits the meaning and the language clue in this example. The structure is purposeful because it uses frame the story with an unopened letter, then tell the grandparent's memory inside, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -935,28 +935,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Use the skill independently. A writer is structuring a story about camping mistake. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Use the skill independently. A writer is structuring a story about camping mistake. Which revision creates a purposeful, coherent sequence?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a race told from the final runner’s view, a student is reordering events without checking cause and effect. What is the best correction?",
+    "audio_prompt": "In a race told from the final runner’s view, a student is reordering events without checking cause and effect. What is the best correction?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "tell the event through diary entries; let later entries revise early assumptions; date every section.",
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“tell the event through diary entries; let later entries revise early assumptions; date every section.” fits the meaning and the language clue in this example. The structure is purposeful because it uses tell the event through diary entries, then let later entries revise early assumptions, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -965,28 +965,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Work out the answer from the details given. A writer is structuring a story about museum night. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Work out the answer from the details given. A writer is structuring a story about museum night. Which revision creates a purposeful, coherent sequence?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a friendship scene after an argument, a student is telling a trait instead of showing it. What is the best correction?",
+    "audio_prompt": "In a friendship scene after an argument, a student is telling a trait instead of showing it. What is the best correction?",
     "answers": [
       {
-        "text": "begin after an unexplained alarm; reconstruct events from objects; order clues logically.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“begin after an unexplained alarm; reconstruct events from objects; order clues logically.” fits the meaning and the language clue in this example. The structure is purposeful because it uses begin after an unexplained alarm, then reconstruct events from objects, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -995,28 +995,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Now use the idea in context. A writer is structuring a story about missing trophy. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Now use the idea in context. A writer is structuring a story about missing trophy. Which revision creates a purposeful, coherent sequence?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a storm arriving during a picnic, a student is choosing a stronger verb that changes the intended meaning. What is the best correction?",
+    "audio_prompt": "In a storm arriving during a picnic, a student is choosing a stronger verb that changes the intended meaning. What is the best correction?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "begin with the empty display case; then reveal yesterday's careless handover; flashback signal: The afternoon before.",
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“begin with the empty display case; then reveal yesterday's careless handover; flashback signal: The afternoon before.” fits the meaning and the language clue in this example. The structure is purposeful because it uses begin with the empty display case, then then reveal yesterday's careless handover, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1025,28 +1025,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Choose carefully using meaning, not just a familiar word. A writer is structuring a story about lost key. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Choose carefully using meaning, not just a familiar word. A writer is structuring a story about lost key. Which revision creates a purposeful, coherent sequence?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a quiet library mystery, a student is adding figurative language that does not suit the scene. What is the best correction?",
+    "audio_prompt": "In a quiet library mystery, a student is adding figurative language that does not suit the scene. What is the best correction?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "end with two supported possibilities; plant evidence for both; resolve the search but not ownership.",
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“end with two supported possibilities; plant evidence for both; resolve the search but not ownership.” fits the meaning and the language clue in this example. The structure is purposeful because it uses end with two supported possibilities, then plant evidence for both, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1055,28 +1055,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which answer still works when you consider the whole example? A writer is structuring a story about family recipe. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which answer still works when you consider the whole example? A writer is structuring a story about family recipe. Which revision creates a purposeful, coherent sequence?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a bushwalk where someone hears a strange sound, a student is reordering events without checking cause and effect. What is the best correction?",
+    "audio_prompt": "In a bushwalk where someone hears a strange sound, a student is reordering events without checking cause and effect. What is the best correction?",
     "answers": [
       {
-        "text": "frame past scenes around present cooking; connect generations through repeated words; return to the kitchen.",
+        "text": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“frame past scenes around present cooking; connect generations through repeated words; return to the kitchen.” fits the meaning and the language clue in this example. The structure is purposeful because it uses frame past scenes around present cooking, then connect generations through repeated words, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "Return to the exact evidence, apply the purpose → storyline → character/setting detail → precise language → revise routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1085,28 +1085,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Use all the clues in this situation. A writer is structuring a story about flood memory. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Use all the clues in this situation. A writer is structuring a story about flood memory. Which revision creates a purposeful, coherent sequence?",
+    "stage": "transfer",
+    "skill": "setting",
+    "question": "Apply the skill independently to a fresh version of a dialogue showing uncertainty. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a dialogue showing uncertainty. Which approach is strongest?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "adult narrator interrupts childhood scenes; correct earlier misunderstanding; control past and present tense.",
+        "text": "Use setting precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“adult narrator interrupts childhood scenes; correct earlier misunderstanding; control past and present tense.” fits the meaning and the language clue in this example. The structure is purposeful because it uses adult narrator interrupts childhood scenes, then correct earlier misunderstanding, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "Use setting precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1115,28 +1115,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Decide which option is most precise. A writer is structuring a story about race preparation. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Decide which option is most precise. A writer is structuring a story about race preparation. Which revision creates a purposeful, coherent sequence?",
+    "stage": "transfer",
+    "skill": "dialogue",
+    "question": "Apply the skill independently to a fresh version of a setting changed from day to night. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a setting changed from day to night. Which approach is strongest?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       },
       {
-        "text": "present events chronologically; show training causing improvement; use clear weekly transitions.",
+        "text": "Use dialogue precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "“present events chronologically; show training causing improvement; use clear weekly transitions.” fits the meaning and the language clue in this example. The structure is purposeful because it uses present events chronologically, then show training causing improvement, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "Use dialogue precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1145,28 +1145,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which choice best shows your understanding here? A writer is structuring a story about ocean journey. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which choice best shows your understanding here? A writer is structuring a story about ocean journey. Which revision creates a purposeful, coherent sequence?",
+    "stage": "transfer",
+    "skill": "figurative_language",
+    "question": "Apply the skill independently to a fresh version of a final paragraph that needs a stronger ending. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a final paragraph that needs a stronger ending. Which approach is strongest?",
     "answers": [
       {
-        "text": "shift from passenger to lighthouse keeper; show each missing the other's knowledge; signal voice through distinct diction.",
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use figurative language precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“shift from passenger to lighthouse keeper; show each missing the other's knowledge; signal voice through distinct diction.” fits the meaning and the language clue in this example. The structure is purposeful because it uses shift from passenger to lighthouse keeper, then show each missing the other's knowledge, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "Use figurative language precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1175,28 +1175,268 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Read the full example before deciding. A writer is structuring a story about mountain choice. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Read the full example before deciding. A writer is structuring a story about mountain choice. Which revision creates a purposeful, coherent sequence?",
+    "stage": "transfer",
+    "skill": "strong_verb",
+    "question": "Apply the skill independently to a fresh version of a character entering an abandoned shed. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a character entering an abandoned shed. Which approach is strongest?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "use two parallel possible paths; show consequences of each; mark alternatives with headings.",
+        "text": "Use strong verb precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use strong verb precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-041",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "revision",
+    "question": "Apply the skill independently to a fresh version of a race told from the final runner’s view. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a race told from the final runner’s view. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use revision precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use revision precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-042",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "storyline",
+    "question": "Apply the skill independently to a fresh version of a friendship scene after an argument. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a friendship scene after an argument. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use storyline precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use storyline precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-043",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "characterisation",
+    "question": "Apply the skill independently to a fresh version of a storm arriving during a picnic. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a storm arriving during a picnic. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use characterisation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "“use two parallel possible paths; show consequences of each; mark alternatives with headings.” fits the meaning and the language clue in this example. The structure is purposeful because it uses use two parallel possible paths, then show consequences of each, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "Use characterisation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-044",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "setting",
+    "question": "Apply the skill independently to a fresh version of a quiet library mystery. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a quiet library mystery. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use setting precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use setting precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-045",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "dialogue",
+    "question": "Apply the skill independently to a fresh version of a bushwalk where someone hears a strange sound. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a bushwalk where someone hears a strange sound. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use dialogue precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use dialogue precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-046",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "figurative_language",
+    "question": "Apply the skill independently to a fresh version of a character trying to hide excitement. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a character trying to hide excitement. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use figurative language precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use figurative language precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-047",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "strong_verb",
+    "question": "Apply the skill independently to a fresh version of a scene set beside a noisy creek. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a scene set beside a noisy creek. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use strong verb precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use strong verb precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE05-P-048",
+    "curriculum_code": "AC9E5LE05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "revision",
+    "question": "Apply the skill independently to a fresh version of a short quest with one obstacle. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a short quest with one obstacle. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use revision precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use revision precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1206,27 +1446,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "experimenting_with_literary_structure",
-    "question": "A writer is structuring a story about hidden room. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "A writer is structuring a story about hidden room. Which revision creates a purposeful, coherent sequence?",
+    "skill": "characterisation",
+    "question": "In an unseen Year 5 task about a storm arriving during a picnic, after a first reading, which answer best shows independent understanding of characterisation?",
+    "audio_prompt": "In an unseen Year 5 task about a storm arriving during a picnic, after a first reading, which answer best shows independent understanding of characterisation?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "open inside the room; flash back to finding the map; signal earlier time immediately.",
+        "text": "It identifies the relevant characterisation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The structure is purposeful because it uses open inside the room, then flash back to finding the map, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant characterisation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1236,27 +1476,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Read this new example closely. A writer is structuring a story about two inventors. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Read this new example closely. A writer is structuring a story about two inventors. Which revision creates a purposeful, coherent sequence?",
+    "skill": "figurative_language",
+    "question": "In an unseen Year 5 task about a short quest with one obstacle, when checking the strongest clue, which answer best shows independent understanding of figurative language?",
+    "audio_prompt": "In an unseen Year 5 task about a short quest with one obstacle, when checking the strongest clue, which answer best shows independent understanding of figurative language?",
     "answers": [
       {
-        "text": "alternate notebooks; let readers combine partial clues; date and name entries.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant figurative language, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The structure is purposeful because it uses alternate notebooks, then let readers combine partial clues, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant figurative language, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1266,27 +1506,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which answer is most accurate here? A writer is structuring a story about farewell. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which answer is most accurate here? A writer is structuring a story about farewell. Which revision creates a purposeful, coherent sequence?",
+    "skill": "storyline",
+    "question": "In an unseen Year 5 task about a race told from the final runner’s view, when comparing two plausible choices, which answer best shows independent understanding of storyline?",
+    "audio_prompt": "In an unseen Year 5 task about a race told from the final runner’s view, when comparing two plausible choices, which answer best shows independent understanding of storyline?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "frame memories around packing; return after each object; use repeated object transitions.",
+        "text": "It identifies the relevant storyline, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The structure is purposeful because it uses frame memories around packing, then return after each object, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant storyline, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1296,27 +1536,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Use the details in this new situation. A writer is structuring a story about mystery caller. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Use the details in this new situation. A writer is structuring a story about mystery caller. Which revision creates a purposeful, coherent sequence?",
+    "skill": "dialogue",
+    "question": "In an unseen Year 5 task about a character trying to hide excitement, after rereading the final detail, which answer best shows independent understanding of dialogue?",
+    "audio_prompt": "In an unseen Year 5 task about a character trying to hide excitement, after rereading the final detail, which answer best shows independent understanding of dialogue?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "withhold identity until the end; plant voice and timing clues; avoid unfair missing information.",
+        "text": "It identifies the relevant dialogue, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The structure is purposeful because it uses withhold identity until the end, then plant voice and timing clues, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant dialogue, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1326,27 +1566,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Choose the answer supported by the whole example. A writer is structuring a story about river race. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Choose the answer supported by the whole example. A writer is structuring a story about river race. Which revision creates a purposeful, coherent sequence?",
+    "skill": "revision",
+    "question": "In an unseen Year 5 task about a final paragraph that needs a stronger ending, when the wording is unfamiliar, which answer best shows independent understanding of revision?",
+    "audio_prompt": "In an unseen Year 5 task about a final paragraph that needs a stronger ending, when the wording is unfamiliar, which answer best shows independent understanding of revision?",
     "answers": [
       {
-        "text": "run parallel plots upstream and downstream; converge at a broken jetty; use location cues.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant revision, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The structure is purposeful because it uses run parallel plots upstream and downstream, then converge at a broken jetty, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant revision, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1356,27 +1596,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which option best fits the meaning? A writer is structuring a story about apology. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which option best fits the meaning? A writer is structuring a story about apology. Which revision creates a purposeful, coherent sequence?",
+    "skill": "setting",
+    "question": "In an unseen Year 5 task about a quiet library mystery, when a distractor shares a keyword, which answer best shows independent understanding of setting?",
+    "audio_prompt": "In an unseen Year 5 task about a quiet library mystery, when a distractor shares a keyword, which answer best shows independent understanding of setting?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "begin with the repaired object; move backward through the argument; mark each earlier step.",
+        "text": "It identifies the relevant setting, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The structure is purposeful because it uses begin with the repaired object, then move backward through the argument, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant setting, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1386,27 +1626,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Work this out independently. A writer is structuring a story about festival day. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Work this out independently. A writer is structuring a story about festival day. Which revision creates a purposeful, coherent sequence?",
+    "skill": "strong_verb",
+    "question": "In an unseen Year 5 task about a dialogue showing uncertainty, when the task asks for evidence, which answer best shows independent understanding of strong verb?",
+    "audio_prompt": "In an unseen Year 5 task about a dialogue showing uncertainty, when the task asks for evidence, which answer best shows independent understanding of strong verb?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "use chronological sections; accelerate toward performance; shorten later paragraphs.",
+        "text": "It identifies the relevant strong verb, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The structure is purposeful because it uses use chronological sections, then accelerate toward performance, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant strong verb, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1416,27 +1656,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "experimenting_with_literary_structure",
-    "question": "What is the best answer in this context? A writer is structuring a story about cave echo. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "What is the best answer in this context? A writer is structuring a story about cave echo. Which revision creates a purposeful, coherent sequence?",
+    "skill": "characterisation",
+    "question": "In an unseen Year 5 task about a friendship scene after an argument, when the whole context matters, which answer best shows independent understanding of characterisation?",
+    "audio_prompt": "In an unseen Year 5 task about a friendship scene after an argument, when the whole context matters, which answer best shows independent understanding of characterisation?",
     "answers": [
       {
-        "text": "shift viewpoint at a section break; reveal the sound's source to readers first; make both voices distinct.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant characterisation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The structure is purposeful because it uses shift viewpoint at a section break, then reveal the sound's source to readers first, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant characterisation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1446,27 +1686,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which choice is supported by the evidence given? A writer is structuring a story about old photograph. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which choice is supported by the evidence given? A writer is structuring a story about old photograph. Which revision creates a purposeful, coherent sequence?",
+    "skill": "figurative_language",
+    "question": "In an unseen Year 5 task about a scene set beside a noisy creek, when applying the skill independently, which answer best shows independent understanding of figurative language?",
+    "audio_prompt": "In an unseen Year 5 task about a scene set beside a noisy creek, when applying the skill independently, which answer best shows independent understanding of figurative language?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "use a frame narrative; enter the pictured event; echo the photograph on return.",
+        "text": "It identifies the relevant figurative language, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The structure is purposeful because it uses use a frame narrative, then enter the pictured event, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant figurative language, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1476,27 +1716,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Read for meaning before you choose. A writer is structuring a story about difficult decision. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Read for meaning before you choose. A writer is structuring a story about difficult decision. Which revision creates a purposeful, coherent sequence?",
+    "skill": "storyline",
+    "question": "In an unseen Year 5 task about a character entering an abandoned shed, when a familiar answer is tempting, which answer best shows independent understanding of storyline?",
+    "audio_prompt": "In an unseen Year 5 task about a character entering an abandoned shed, when a familiar answer is tempting, which answer best shows independent understanding of storyline?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "offer two imagined outcomes; return to the real choice; label imagined sequences clearly.",
+        "text": "It identifies the relevant storyline, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The structure is purposeful because it uses offer two imagined outcomes, then return to the real choice, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant storyline, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1506,27 +1746,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which option is the most precise? A writer is structuring a story about missing dog. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which option is the most precise? A writer is structuring a story about missing dog. Which revision creates a purposeful, coherent sequence?",
+    "skill": "dialogue",
+    "question": "In an unseen Year 5 task about a bushwalk where someone hears a strange sound, when precision matters, which answer best shows independent understanding of dialogue?",
+    "audio_prompt": "In an unseen Year 5 task about a bushwalk where someone hears a strange sound, when precision matters, which answer best shows independent understanding of dialogue?",
     "answers": [
       {
-        "text": "alternate searcher and dog viewpoints; create near meetings; use repeated landmarks.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant dialogue, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The structure is purposeful because it uses alternate searcher and dog viewpoints, then create near meetings, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant dialogue, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1536,27 +1776,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Use every clue in the example. A writer is structuring a story about competition result. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Use every clue in the example. A writer is structuring a story about competition result. Which revision creates a purposeful, coherent sequence?",
+    "skill": "revision",
+    "question": "In an unseen Year 5 task about a setting changed from day to night, when checking the writer’s purpose, which answer best shows independent understanding of revision?",
+    "audio_prompt": "In an unseen Year 5 task about a setting changed from day to night, when checking the writer’s purpose, which answer best shows independent understanding of revision?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "open with silence after announcement; delay whether it means joy or shock; reveal through character action.",
+        "text": "It identifies the relevant revision, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The structure is purposeful because it uses open with silence after announcement, then delay whether it means joy or shock, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant revision, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1566,27 +1806,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which answer holds up when you check the full context? A writer is structuring a story about winter journey. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which answer holds up when you check the full context? A writer is structuring a story about winter journey. Which revision creates a purposeful, coherent sequence?",
+    "skill": "setting",
+    "question": "In an unseen Year 5 task about a storm arriving during a picnic, when more than one clue is present, which answer best shows independent understanding of setting?",
+    "audio_prompt": "In an unseen Year 5 task about a storm arriving during a picnic, when more than one clue is present, which answer best shows independent understanding of setting?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "insert one purposeful flashback; explain the traveller's fear; use tense and time markers.",
+        "text": "It identifies the relevant setting, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The structure is purposeful because it uses insert one purposeful flashback, then explain the traveller's fear, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant setting, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1596,27 +1836,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Decide which option best matches what the text shows. A writer is structuring a story about community garden. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Decide which option best matches what the text shows. A writer is structuring a story about community garden. Which revision creates a purposeful, coherent sequence?",
+    "skill": "strong_verb",
+    "question": "In an unseen Year 5 task about a short quest with one obstacle, when transferring the skill, which answer best shows independent understanding of strong verb?",
+    "audio_prompt": "In an unseen Year 5 task about a short quest with one obstacle, when transferring the skill, which answer best shows independent understanding of strong verb?",
     "answers": [
       {
-        "text": "use seasonal jumps; show gradual shared change; name each season.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant strong verb, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
-      },
-      {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The structure is purposeful because it uses use seasonal jumps, then show gradual shared change, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant strong verb, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1626,27 +1866,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Which choice best demonstrates the skill in this new example? A writer is structuring a story about final message. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Which choice best demonstrates the skill in this new example? A writer is structuring a story about final message. Which revision creates a purposeful, coherent sequence?",
+    "skill": "characterisation",
+    "question": "In an unseen Year 5 task about a race told from the final runner’s view, when explaining the reasoning, which answer best shows independent understanding of characterisation?",
+    "audio_prompt": "In an unseen Year 5 task about a race told from the final runner’s view, when explaining the reasoning, which answer best shows independent understanding of characterisation?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "end openly after resolving the main danger; leave sender's future uncertain; provide evidence for likely outcomes.",
+        "text": "It identifies the relevant characterisation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The structure is purposeful because it uses end openly after resolving the main danger, then leave sender's future uncertain, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant characterisation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1656,27 +1896,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "experimenting_with_literary_structure",
-    "question": "Make your final choice from the evidence in the question. A writer is structuring a story about homecoming. Which revision creates a purposeful, coherent sequence?",
-    "audio_prompt": "Make your final choice from the evidence in the question. A writer is structuring a story about homecoming. Which revision creates a purposeful, coherent sequence?",
+    "skill": "figurative_language",
+    "question": "In an unseen Year 5 task about a character trying to hide excitement, as a final independent check, which answer best shows independent understanding of figurative language?",
+    "audio_prompt": "In an unseen Year 5 task about a character trying to hide excitement, as a final independent check, which answer best shows independent understanding of figurative language?",
     "answers": [
       {
-        "text": "Put scenes in random order and give readers no time or viewpoint signals.",
-        "is_correct": false
-      },
-      {
-        "text": "Keep every event in one paragraph so the structural changes are hidden.",
-        "is_correct": false
-      },
-      {
-        "text": "circle back to an opening doorway; change who is waiting there; repeat wording with meaningful variation.",
+        "text": "It identifies the relevant figurative language, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
+      },
+      {
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The structure is purposeful because it uses circle back to an opening doorway, then change who is waiting there, with clear reader guidance.",
-      "hint": "Choose the intended effect first, then signal every change in time, place or viewpoint."
+      "summary": "It identifies the relevant figurative language, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   }
 ]

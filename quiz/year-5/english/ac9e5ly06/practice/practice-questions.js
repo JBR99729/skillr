@@ -4,961 +4,912 @@ window.skillrPracticeQuestions = [
     "id": "ac9e5ly06-p-001",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "purpose",
     "printable": true,
     "type": "single",
-    "question": "A student is planning an explanation of how dunes protect a beach. Which structure best matches the purpose?",
-    "audioPrompt": "A student is planning an explanation of how dunes protect a beach. Which structure best matches the purpose?",
+    "question": "Which response best demonstrates the AC9E5 skill in an information report on mangroves?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in an information report on mangroves?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Ideas placed in random order",
-      "cause-and-effect paragraphs",
-      "One unbroken paragraph containing every detail"
+      "It names a feature in an information report on mangroves but does not explain how it contributes to meaning.",
+      "The response uses purpose and connects it to specific evidence in an information report on mangroves.",
+      "It gives a personal reaction to an information report on mangroves but no evidence or precise terminology."
     ],
     "correct": 1,
-    "explanation": "“cause-and-effect paragraphs” fits the meaning and the language clue in this example. The proposed structure makes relationships clear for the audience.\nHint: Plan what each paragraph must achieve before drafting sentences.",
-    "structuredExplanation": {
-      "summary": "“cause-and-effect paragraphs” fits the meaning and the language clue in this example. The proposed structure makes relationships clear for the audience.",
-      "hint": "Plan what each paragraph must achieve before drafting sentences."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses purpose and connects it to specific evidence in an information report on mangroves. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-002",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "audience",
     "printable": true,
     "type": "single",
-    "question": "Read carefully: During revision of a persuasive letter requesting safer bike racks, what should the writer check before final proofreading?",
-    "audioPrompt": "Read carefully: During revision of a persuasive letter requesting safer bike racks, what should the writer check before final proofreading?",
+    "question": "Which response best demonstrates the AC9E5 skill in a persuasive letter about bike racks?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a persuasive letter about bike racks?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Whether every sentence has the same length",
-      "Whether a spell-checker has changed every flagged word",
-      "Whether the text uses a position followed by reason-and-evidence paragraphs to develop its purpose and whether a small site map marking the proposed location connects to the words"
+      "It names a feature in a persuasive letter about bike racks but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to a persuasive letter about bike racks but no evidence or precise terminology.",
+      "The response uses audience and connects it to specific evidence in a persuasive letter about bike racks."
     ],
     "correct": 2,
-    "explanation": "“Whether the text uses a position followed by reason-and-evidence paragraphs to develop its purpose and whether a small site map marking the proposed location connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.\nHint: Review purpose, paragraph work and mode integration before punctuation and spelling.",
-    "structuredExplanation": {
-      "summary": "“Whether the text uses a position followed by reason-and-evidence paragraphs to develop its purpose and whether a small site map marking the proposed location connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.",
-      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses audience and connects it to specific evidence in a persuasive letter about bike racks. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-003",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "plan",
     "printable": true,
     "type": "single",
-    "question": "Which answer makes the most sense here? Which visual would genuinely add meaning to an information page comparing renewable energy sources?",
-    "audioPrompt": "Which answer makes the most sense here? Which visual would genuinely add meaning to an information page comparing renewable energy sources?",
+    "question": "Which response best demonstrates the AC9E5 skill in an imaginative scene at a night market?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in an imaginative scene at a night market?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "a table comparing output and limits",
-      "an unrelated stock photograph",
-      "a decorative pattern repeating no information"
+      "It gives a personal reaction to an imaginative scene at a night market but no evidence or precise terminology.",
+      "The response uses plan and connects it to specific evidence in an imaginative scene at a night market.",
+      "It names a feature in an imaginative scene at a night market but does not explain how it contributes to meaning."
     ],
-    "correct": 0,
-    "explanation": "“a table comparing output and limits” fits the meaning and the language clue in this example. The visual extends, organises or clarifies information the audience needs.\nHint: Ask whether the visual has a clear job beyond decoration.",
-    "structuredExplanation": {
-      "summary": "“a table comparing output and limits” fits the meaning and the language clue in this example. The visual extends, organises or clarifies information the audience needs.",
-      "hint": "Ask whether the visual has a clear job beyond decoration."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "The response uses plan and connects it to specific evidence in an imaginative scene at a night market. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-004",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "topic sentence",
     "printable": true,
     "type": "single",
-    "question": "Look at the wording and meaning. Which expanded verb group adds suitable precision to a report on a class seed investigation?",
-    "audioPrompt": "Look at the wording and meaning. Which expanded verb group adds suitable precision to a report on a class seed investigation?",
+    "question": "Which response best demonstrates the AC9E5 skill in a paragraph explaining a science investigation?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a paragraph explaining a science investigation?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "did stuff",
-      "were measured carefully",
-      "is very thing"
+      "The response uses topic sentence and connects it to specific evidence in a paragraph explaining a science investigation.",
+      "It names a feature in a paragraph explaining a science investigation but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to a paragraph explaining a science investigation but no evidence or precise terminology."
     ],
-    "correct": 1,
-    "explanation": "“were measured carefully” fits the meaning and the language clue in this example. The verb group expresses time, modality or manner precisely.\nHint: Choose a verb group that fits both meaning and tense.",
-    "structuredExplanation": {
-      "summary": "“were measured carefully” fits the meaning and the language clue in this example. The verb group expresses time, modality or manner precisely.",
-      "hint": "Choose a verb group that fits both meaning and tense."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "The response uses topic sentence and connects it to specific evidence in a paragraph explaining a science investigation. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-005",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "supporting detail",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that fits the situation best. A student is planning a persuasive letter requesting safer bike racks. Which structure best matches the purpose?",
-    "audioPrompt": "Choose the option that fits the situation best. A student is planning a persuasive letter requesting safer bike racks. Which structure best matches the purpose?",
+    "question": "Which response best demonstrates the AC9E5 skill in a poster about reducing food waste?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a poster about reducing food waste?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Ideas placed in random order",
-      "One unbroken paragraph containing every detail",
-      "a position followed by reason-and-evidence paragraphs"
+      "It gives a personal reaction to a poster about reducing food waste but no evidence or precise terminology.",
+      "It names a feature in a poster about reducing food waste but does not explain how it contributes to meaning.",
+      "The response uses supporting detail and connects it to specific evidence in a poster about reducing food waste."
     ],
     "correct": 2,
-    "explanation": "“a position followed by reason-and-evidence paragraphs” fits the meaning and the language clue in this example. The proposed structure makes relationships clear for the audience.\nHint: Plan what each paragraph must achieve before drafting sentences.",
-    "structuredExplanation": {
-      "summary": "“a position followed by reason-and-evidence paragraphs” fits the meaning and the language clue in this example. The proposed structure makes relationships clear for the audience.",
-      "hint": "Plan what each paragraph must achieve before drafting sentences."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses supporting detail and connects it to specific evidence in a poster about reducing food waste. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-006",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "connective",
     "printable": true,
     "type": "single",
-    "question": "Which choice is accurate in this example? During revision of a narrative about becoming lost at dusk, what should the writer check before final proofreading?",
-    "audioPrompt": "Which choice is accurate in this example? During revision of a narrative about becoming lost at dusk, what should the writer check before final proofreading?",
+    "question": "Which response best demonstrates the AC9E5 skill in a story conversation between two characters?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a story conversation between two characters?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Whether the text uses a sequence that builds tension toward discovery to develop its purpose and whether a restrained illustration establishing the track connects to the words",
-      "Whether every sentence has the same length",
-      "Whether a spell-checker has changed every flagged word"
+      "The response uses connective and connects it to specific evidence in a story conversation between two characters.",
+      "It gives a personal reaction to a story conversation between two characters but no evidence or precise terminology.",
+      "It names a feature in a story conversation between two characters but does not explain how it contributes to meaning."
     ],
     "correct": 0,
-    "explanation": "“Whether the text uses a sequence that builds tension toward discovery to develop its purpose and whether a restrained illustration establishing the track connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.\nHint: Review purpose, paragraph work and mode integration before punctuation and spelling.",
-    "structuredExplanation": {
-      "summary": "“Whether the text uses a sequence that builds tension toward discovery to develop its purpose and whether a restrained illustration establishing the track connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.",
-      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses connective and connects it to specific evidence in a story conversation between two characters. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-007",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "expanded noun group",
     "printable": true,
     "type": "single",
-    "question": "Focus on the key clue. Which visual would genuinely add meaning to a campaign post encouraging waste-free lunches?",
-    "audioPrompt": "Focus on the key clue. Which visual would genuinely add meaning to a campaign post encouraging waste-free lunches?",
+    "question": "Which response best demonstrates the AC9E5 skill in a report section needing a topic sentence?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a report section needing a topic sentence?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "an unrelated stock photograph",
-      "a simple before-and-after waste chart",
-      "a decorative pattern repeating no information"
+      "It names a feature in a report section needing a topic sentence but does not explain how it contributes to meaning.",
+      "The response uses expanded noun group and connects it to specific evidence in a report section needing a topic sentence.",
+      "It gives a personal reaction to a report section needing a topic sentence but no evidence or precise terminology."
     ],
     "correct": 1,
-    "explanation": "“a simple before-and-after waste chart” fits the meaning and the language clue in this example. The visual extends, organises or clarifies information the audience needs.\nHint: Ask whether the visual has a clear job beyond decoration.",
-    "structuredExplanation": {
-      "summary": "“a simple before-and-after waste chart” fits the meaning and the language clue in this example. The visual extends, organises or clarifies information the audience needs.",
-      "hint": "Ask whether the visual has a clear job beyond decoration."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses expanded noun group and connects it to specific evidence in a report section needing a topic sentence. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-008",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "technical vocabulary",
     "printable": true,
     "type": "single",
-    "question": "What works best in this situation? Which expanded verb group adds suitable precision to an explanation of how dunes protect a beach?",
-    "audioPrompt": "What works best in this situation? Which expanded verb group adds suitable precision to an explanation of how dunes protect a beach?",
+    "question": "Which response best demonstrates the AC9E5 skill in a persuasive paragraph with an irrelevant reason?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a persuasive paragraph with an irrelevant reason?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "did stuff",
-      "is very thing",
-      "have gradually trapped"
+      "It names a feature in a persuasive paragraph with an irrelevant reason but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to a persuasive paragraph with an irrelevant reason but no evidence or precise terminology.",
+      "The response uses technical vocabulary and connects it to specific evidence in a persuasive paragraph with an irrelevant reason."
     ],
     "correct": 2,
-    "explanation": "“have gradually trapped” fits the meaning and the language clue in this example. The verb group expresses time, modality or manner precisely.\nHint: Choose a verb group that fits both meaning and tense.",
-    "structuredExplanation": {
-      "summary": "“have gradually trapped” fits the meaning and the language clue in this example. The verb group expresses time, modality or manner precisely.",
-      "hint": "Choose a verb group that fits both meaning and tense."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses technical vocabulary and connects it to specific evidence in a persuasive paragraph with an irrelevant reason. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-009",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "dialogue punctuation",
     "printable": true,
     "type": "single",
-    "question": "Which option matches what is happening? A student is planning a narrative about becoming lost at dusk. Which structure best matches the purpose?",
-    "audioPrompt": "Which option matches what is happening? A student is planning a narrative about becoming lost at dusk. Which structure best matches the purpose?",
+    "question": "Which response best demonstrates the AC9E5 skill in an explanation needing technical vocabulary?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in an explanation needing technical vocabulary?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "a sequence that builds tension toward discovery",
-      "Ideas placed in random order",
-      "One unbroken paragraph containing every detail"
+      "It gives a personal reaction to an explanation needing technical vocabulary but no evidence or precise terminology.",
+      "The response uses dialogue punctuation and connects it to specific evidence in an explanation needing technical vocabulary.",
+      "It names a feature in an explanation needing technical vocabulary but does not explain how it contributes to meaning."
     ],
-    "correct": 0,
-    "explanation": "“a sequence that builds tension toward discovery” fits the meaning and the language clue in this example. The proposed structure makes relationships clear for the audience.\nHint: Plan what each paragraph must achieve before drafting sentences.",
-    "structuredExplanation": {
-      "summary": "“a sequence that builds tension toward discovery” fits the meaning and the language clue in this example. The proposed structure makes relationships clear for the audience.",
-      "hint": "Plan what each paragraph must achieve before drafting sentences."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "The response uses dialogue punctuation and connects it to specific evidence in an explanation needing technical vocabulary. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-010",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "revision",
     "printable": true,
     "type": "single",
-    "question": "Use the details in the example. During revision of an information page comparing renewable energy sources, what should the writer check before final proofreading?",
-    "audioPrompt": "Use the details in the example. During revision of an information page comparing renewable energy sources, what should the writer check before final proofreading?",
+    "question": "Which response best demonstrates the AC9E5 skill in a draft with repeated simple nouns?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a draft with repeated simple nouns?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Whether every sentence has the same length",
-      "Whether the text uses one paragraph for each source plus a comparison conclusion to develop its purpose and whether a table comparing output and limits connects to the words",
-      "Whether a spell-checker has changed every flagged word"
+      "The response uses revision and connects it to specific evidence in a draft with repeated simple nouns.",
+      "It names a feature in a draft with repeated simple nouns but does not explain how it contributes to meaning.",
+      "It gives a personal reaction to a draft with repeated simple nouns but no evidence or precise terminology."
     ],
-    "correct": 1,
-    "explanation": "“Whether the text uses one paragraph for each source plus a comparison conclusion to develop its purpose and whether a table comparing output and limits connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.\nHint: Review purpose, paragraph work and mode integration before punctuation and spelling.",
-    "structuredExplanation": {
-      "summary": "“Whether the text uses one paragraph for each source plus a comparison conclusion to develop its purpose and whether a table comparing output and limits connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.",
-      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "The response uses revision and connects it to specific evidence in a draft with repeated simple nouns. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-011",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "purpose",
     "printable": true,
     "type": "single",
-    "question": "Why is “have gradually trapped” the strongest answer to this question: Which expanded verb group adds suitable precision to an explanation of how dunes protect a beach?",
-    "audioPrompt": "Why is “have gradually trapped” the strongest answer to this question: Which expanded verb group adds suitable precision to an explanation of how dunes protect a beach?",
+    "question": "Which response best demonstrates the AC9E5 skill in a conclusion that introduces a new claim?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a conclusion that introduces a new claim?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest.",
-      "It matches the key clue and meaning in the example."
+      "It gives a personal reaction to a conclusion that introduces a new claim but no evidence or precise terminology.",
+      "It names a feature in a conclusion that introduces a new claim but does not explain how it contributes to meaning.",
+      "The response uses purpose and connects it to specific evidence in a conclusion that introduces a new claim."
     ],
     "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The verb group expresses time, modality or manner precisely.\nHint: Find the exact clue that makes “have gradually trapped” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The verb group expresses time, modality or manner precisely.",
-      "hint": "Find the exact clue that makes “have gradually trapped” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses purpose and connects it to specific evidence in a conclusion that introduces a new claim. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-012",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "audience",
     "printable": true,
     "type": "single",
-    "question": "What makes “a sequence that builds tension toward discovery” work in this example? A student is planning a narrative about becoming lost at dusk. Which structure best matches the purpose?",
-    "audioPrompt": "What makes “a sequence that builds tension toward discovery” work in this example? A student is planning a narrative about becoming lost at dusk. Which structure best matches the purpose?",
+    "question": "Which response best demonstrates the AC9E5 skill in a multimodal page where caption and image must work together?",
+    "audioPrompt": "Which response best demonstrates the AC9E5 skill in a multimodal page where caption and image must work together?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It matches the key clue and meaning in the example.",
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest."
+      "The response uses audience and connects it to specific evidence in a multimodal page where caption and image must work together.",
+      "It gives a personal reaction to a multimodal page where caption and image must work together but no evidence or precise terminology.",
+      "It names a feature in a multimodal page where caption and image must work together but does not explain how it contributes to meaning."
     ],
     "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The proposed structure makes relationships clear for the audience.\nHint: Find the exact clue that makes “a sequence that builds tension toward discovery” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The proposed structure makes relationships clear for the audience.",
-      "hint": "Find the exact clue that makes “a sequence that builds tension toward discovery” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The response uses audience and connects it to specific evidence in a multimodal page where caption and image must work together. Strong answers match terminology to evidence and meaning.\nHint: Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
   },
   {
     "id": "ac9e5ly06-p-013",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "audience",
     "printable": true,
     "type": "single",
-    "question": "Which reason best explains why “Whether the text uses one paragraph for each source plus a comparison conclusion to develop its purpose and whether a table comparing output and limits connects to the words” fits? During revision of an information page comparing renewable energy sources, what should the writer check before final proofreading?",
-    "audioPrompt": "Which reason best explains why “Whether the text uses one paragraph for each source plus a comparison conclusion to develop its purpose and whether a table comparing output and limits connects to the words” fits? During revision of an information page comparing renewable energy sources, what should the writer check before final proofreading?",
+    "question": "A student gives an answer about a paragraph explaining a science investigation. Why is the strongest explanation the one that links audience to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a paragraph explaining a science investigation. Why is the strongest explanation the one that links audience to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It matches the key clue and meaning in the example.",
-      "It is correct because familiar words are always safest."
+      "Because the longest explanation is usually the most accurate.",
+      "Because audience is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks."
     ],
     "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Revision improves meaning and organisation before surface editing.\nHint: Find the exact clue that makes “Whether the text uses one paragraph for each source plus a comparison conclusion to develop its purpose and whether a table comparing output and limits connects to the words” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Revision improves meaning and organisation before surface editing.",
-      "hint": "Find the exact clue that makes “Whether the text uses one paragraph for each source plus a comparison conclusion to develop its purpose and whether a table comparing output and limits connects to the words” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because audience is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-014",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "plan",
     "printable": true,
     "type": "single",
-    "question": "How does “a graph using labelled axes and units” match the meaning of this example? Which visual would genuinely add meaning to a report on a class seed investigation?",
-    "audioPrompt": "How does “a graph using labelled axes and units” match the meaning of this example? Which visual would genuinely add meaning to a report on a class seed investigation?",
+    "question": "A student gives an answer about a poster about reducing food waste. Why is the strongest explanation the one that links plan to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a poster about reducing food waste. Why is the strongest explanation the one that links plan to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest.",
-      "It matches the key clue and meaning in the example."
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks.",
+      "Because plan is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
     "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The visual extends, organises or clarifies information the audience needs.\nHint: Find the exact clue that makes “a graph using labelled axes and units” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The visual extends, organises or clarifies information the audience needs.",
-      "hint": "Find the exact clue that makes “a graph using labelled axes and units” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because plan is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-015",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "topic sentence",
     "printable": true,
     "type": "single",
-    "question": "Why does “should be installed” suit this situation better than the other choices? Which expanded verb group adds suitable precision to a persuasive letter requesting safer bike racks?",
-    "audioPrompt": "Why does “should be installed” suit this situation better than the other choices? Which expanded verb group adds suitable precision to a persuasive letter requesting safer bike racks?",
+    "question": "A student gives an answer about a story conversation between two characters. Why is the strongest explanation the one that links topic sentence to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a story conversation between two characters. Why is the strongest explanation the one that links topic sentence to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It matches the key clue and meaning in the example.",
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest."
+      "Because using a technical term automatically earns full marks.",
+      "Because topic sentence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate."
     ],
-    "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The verb group expresses time, modality or manner precisely.\nHint: Find the exact clue that makes “should be installed” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The verb group expresses time, modality or manner precisely.",
-      "hint": "Find the exact clue that makes “should be installed” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Because topic sentence is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-016",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "supporting detail",
     "printable": true,
     "type": "single",
-    "question": "What clue in the example supports “one paragraph for each source plus a comparison conclusion”? A student is planning an information page comparing renewable energy sources. Which structure best matches the purpose?",
-    "audioPrompt": "What clue in the example supports “one paragraph for each source plus a comparison conclusion”? A student is planning an information page comparing renewable energy sources. Which structure best matches the purpose?",
+    "question": "A student gives an answer about a report section needing a topic sentence. Why is the strongest explanation the one that links supporting detail to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a report section needing a topic sentence. Why is the strongest explanation the one that links supporting detail to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It matches the key clue and meaning in the example.",
-      "It is correct because familiar words are always safest."
+      "Because supporting detail is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks."
     ],
-    "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The proposed structure makes relationships clear for the audience.\nHint: Find the exact clue that makes “one paragraph for each source plus a comparison conclusion” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The proposed structure makes relationships clear for the audience.",
-      "hint": "Find the exact clue that makes “one paragraph for each source plus a comparison conclusion” fit."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Because supporting detail is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-017",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "connective",
     "printable": true,
     "type": "single",
-    "question": "Which explanation shows why “Whether the text uses problem, benefits and a practical call to action to develop its purpose and whether a simple before-and-after waste chart connects to the words” is correct here? During revision of a campaign post encouraging waste-free lunches, what should the writer check before final proofreading?",
-    "audioPrompt": "Which explanation shows why “Whether the text uses problem, benefits and a practical call to action to develop its purpose and whether a simple before-and-after waste chart connects to the words” is correct here? During revision of a campaign post encouraging waste-free lunches, what should the writer check before final proofreading?",
+    "question": "A student gives an answer about a persuasive paragraph with an irrelevant reason. Why is the strongest explanation the one that links connective to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a persuasive paragraph with an irrelevant reason. Why is the strongest explanation the one that links connective to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest.",
-      "It matches the key clue and meaning in the example."
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because connective is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
     "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Revision improves meaning and organisation before surface editing.\nHint: Find the exact clue that makes “Whether the text uses problem, benefits and a practical call to action to develop its purpose and whether a simple before-and-after waste chart connects to the words” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Revision improves meaning and organisation before surface editing.",
-      "hint": "Find the exact clue that makes “Whether the text uses problem, benefits and a practical call to action to develop its purpose and whether a simple before-and-after waste chart connects to the words” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because connective is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-018",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "expanded noun group",
     "printable": true,
     "type": "single",
-    "question": "Why would “a labelled cross-section showing sand and plant roots” make sense to a careful reader? Which visual would genuinely add meaning to an explanation of how dunes protect a beach?",
-    "audioPrompt": "Why would “a labelled cross-section showing sand and plant roots” make sense to a careful reader? Which visual would genuinely add meaning to an explanation of how dunes protect a beach?",
+    "question": "A student gives an answer about an explanation needing technical vocabulary. Why is the strongest explanation the one that links expanded noun group to evidence and effect?",
+    "audioPrompt": "A student gives an answer about an explanation needing technical vocabulary. Why is the strongest explanation the one that links expanded noun group to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It matches the key clue and meaning in the example.",
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest."
+      "Because expanded noun group is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate."
     ],
     "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The visual extends, organises or clarifies information the audience needs.\nHint: Find the exact clue that makes “a labelled cross-section showing sand and plant roots” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The visual extends, organises or clarifies information the audience needs.",
-      "hint": "Find the exact clue that makes “a labelled cross-section showing sand and plant roots” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because expanded noun group is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-019",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "technical vocabulary",
     "printable": true,
     "type": "single",
-    "question": "What is the best reason for choosing “had been fading”? Which expanded verb group adds suitable precision to a narrative about becoming lost at dusk?",
-    "audioPrompt": "What is the best reason for choosing “had been fading”? Which expanded verb group adds suitable precision to a narrative about becoming lost at dusk?",
+    "question": "A student gives an answer about a draft with repeated simple nouns. Why is the strongest explanation the one that links technical vocabulary to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a draft with repeated simple nouns. Why is the strongest explanation the one that links technical vocabulary to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It matches the key clue and meaning in the example.",
-      "It is correct because familiar words are always safest."
+      "Because the longest explanation is usually the most accurate.",
+      "Because technical vocabulary is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks."
     ],
     "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The verb group expresses time, modality or manner precisely.\nHint: Find the exact clue that makes “had been fading” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The verb group expresses time, modality or manner precisely.",
-      "hint": "Find the exact clue that makes “had been fading” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because technical vocabulary is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-020",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "dialogue punctuation",
     "printable": true,
     "type": "single",
-    "question": "Which explanation connects “problem, benefits and a practical call to action” to the key clue? A student is planning a campaign post encouraging waste-free lunches. Which structure best matches the purpose?",
-    "audioPrompt": "Which explanation connects “problem, benefits and a practical call to action” to the key clue? A student is planning a campaign post encouraging waste-free lunches. Which structure best matches the purpose?",
+    "question": "A student gives an answer about a conclusion that introduces a new claim. Why is the strongest explanation the one that links dialogue punctuation to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a conclusion that introduces a new claim. Why is the strongest explanation the one that links dialogue punctuation to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "It is correct because it is the longest option.",
-      "It is correct because familiar words are always safest.",
-      "It matches the key clue and meaning in the example."
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks.",
+      "Because dialogue punctuation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
     "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The proposed structure makes relationships clear for the audience.\nHint: Find the exact clue that makes “problem, benefits and a practical call to action” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The proposed structure makes relationships clear for the audience.",
-      "hint": "Find the exact clue that makes “problem, benefits and a practical call to action” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because dialogue punctuation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-021",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "revision",
     "printable": true,
     "type": "single",
-    "question": "“an unrelated stock photograph” might seem possible at first. What should you notice before answering this question: Which visual would genuinely add meaning to an explanation of how dunes protect a beach?",
-    "audioPrompt": "“an unrelated stock photograph” might seem possible at first. What should you notice before answering this question: Which visual would genuinely add meaning to an explanation of how dunes protect a beach?",
+    "question": "A student gives an answer about a multimodal page where caption and image must work together. Why is the strongest explanation the one that links revision to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a multimodal page where caption and image must work together. Why is the strongest explanation the one that links revision to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check the whole example: “a labelled cross-section showing sand and plant roots” matches the key clue, while “an unrelated stock photograph” does not.",
-      "Keep “an unrelated stock photograph” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Because using a technical term automatically earns full marks.",
+      "Because revision is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate."
     ],
-    "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “an unrelated stock photograph” fail and “a labelled cross-section showing sand and plant roots” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “an unrelated stock photograph” fail and “a labelled cross-section showing sand and plant roots” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Because revision is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-022",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "purpose",
     "printable": true,
     "type": "single",
-    "question": "Why is “did stuff” not the best choice here? Which expanded verb group adds suitable precision to a narrative about becoming lost at dusk?",
-    "audioPrompt": "Why is “did stuff” not the best choice here? Which expanded verb group adds suitable precision to a narrative about becoming lost at dusk?",
+    "question": "A student gives an answer about an information report on mangroves. Why is the strongest explanation the one that links purpose to evidence and effect?",
+    "audioPrompt": "A student gives an answer about an information report on mangroves. Why is the strongest explanation the one that links purpose to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “did stuff” because it contains a familiar word.",
-      "Check the whole example: “had been fading” matches the key clue, while “did stuff” does not.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Because purpose is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because using a technical term automatically earns full marks."
     ],
-    "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “did stuff” fail and “had been fading” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “did stuff” fail and “had been fading” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Because purpose is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-023",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "audience",
     "printable": true,
     "type": "single",
-    "question": "Compare “Ideas placed in random order” with “problem, benefits and a practical call to action”. What important difference matters in this example? A student is planning a campaign post encouraging waste-free lunches. Which structure best matches the purpose?",
-    "audioPrompt": "Compare “Ideas placed in random order” with “problem, benefits and a practical call to action”. What important difference matters in this example? A student is planning a campaign post encouraging waste-free lunches. Which structure best matches the purpose?",
+    "question": "A student gives an answer about a persuasive letter about bike racks. Why is the strongest explanation the one that links audience to evidence and effect?",
+    "audioPrompt": "A student gives an answer about a persuasive letter about bike racks. Why is the strongest explanation the one that links audience to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “Ideas placed in random order” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex.",
-      "Check the whole example: “problem, benefits and a practical call to action” matches the key clue, while “Ideas placed in random order” does not."
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate.",
+      "Because audience is useful only when the answer shows where it appears and what it changes for meaning, organisation or response."
     ],
     "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Ideas placed in random order” fail and “problem, benefits and a practical call to action” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Ideas placed in random order” fail and “problem, benefits and a practical call to action” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because audience is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-024",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "plan",
     "printable": true,
     "type": "single",
-    "question": "Which clue rules out “Whether every sentence has the same length” in this situation? During revision of a report on a class seed investigation, what should the writer check before final proofreading?",
-    "audioPrompt": "Which clue rules out “Whether every sentence has the same length” in this situation? During revision of a report on a class seed investigation, what should the writer check before final proofreading?",
+    "question": "A student gives an answer about an imaginative scene at a night market. Why is the strongest explanation the one that links plan to evidence and effect?",
+    "audioPrompt": "A student gives an answer about an imaginative scene at a night market. Why is the strongest explanation the one that links plan to evidence and effect?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check the whole example: “Whether the text uses question, method, results and evidence-based conclusion to develop its purpose and whether a graph using labelled axes and units connects to the words” matches the key clue, while “Whether every sentence has the same length” does not.",
-      "Keep “Whether every sentence has the same length” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Because plan is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "Because using a technical term automatically earns full marks.",
+      "Because the longest explanation is usually the most accurate."
     ],
     "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Whether every sentence has the same length” fail and “Whether the text uses question, method, results and evidence-based conclusion to develop its purpose and whether a graph using labelled axes and units connects to the words” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Whether every sentence has the same length” fail and “Whether the text uses question, method, results and evidence-based conclusion to develop its purpose and whether a graph using labelled axes and units connects to the words” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Because plan is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.\nHint: Use the routine for this code and check that every claim is supported."
   },
   {
     "id": "ac9e5ly06-p-025",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "A quick reader might choose “an unrelated stock photograph”. What would a closer reading show? Which visual would genuinely add meaning to a persuasive letter requesting safer bike racks?",
-    "audioPrompt": "A quick reader might choose “an unrelated stock photograph”. What would a closer reading show? Which visual would genuinely add meaning to a persuasive letter requesting safer bike racks?",
+    "question": "In a report section needing a topic sentence, a student is keeping a correct sentence that is irrelevant to the paragraph. What is the best correction?",
+    "audioPrompt": "In a report section needing a topic sentence, a student is keeping a correct sentence that is irrelevant to the paragraph. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “an unrelated stock photograph” because it contains a familiar word.",
-      "Check the whole example: “a small site map marking the proposed location” matches the key clue, while “an unrelated stock photograph” does not.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
     "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “an unrelated stock photograph” fail and “a small site map marking the proposed location” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “an unrelated stock photograph” fail and “a small site map marking the proposed location” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-026",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "What makes “can reliably supply” more precise than “did stuff” here? Which expanded verb group adds suitable precision to an information page comparing renewable energy sources?",
-    "audioPrompt": "What makes “can reliably supply” more precise than “did stuff” here? Which expanded verb group adds suitable precision to an information page comparing renewable energy sources?",
+    "question": "In a persuasive paragraph with an irrelevant reason, a student is using a narrow topic sentence for broad details. What is the best correction?",
+    "audioPrompt": "In a persuasive paragraph with an irrelevant reason, a student is using a narrow topic sentence for broad details. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “did stuff” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex.",
-      "Check the whole example: “can reliably supply” matches the key clue, while “did stuff” does not."
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
     "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “did stuff” fail and “can reliably supply” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “did stuff” fail and “can reliably supply” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-027",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Which detail helps you reject “Ideas placed in random order”? A student is planning a report on a class seed investigation. Which structure best matches the purpose?",
-    "audioPrompt": "Which detail helps you reject “Ideas placed in random order”? A student is planning a report on a class seed investigation. Which structure best matches the purpose?",
+    "question": "In an explanation needing technical vocabulary, a student is adding connectives without a logical relationship. What is the best correction?",
+    "audioPrompt": "In an explanation needing technical vocabulary, a student is adding connectives without a logical relationship. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check the whole example: “question, method, results and evidence-based conclusion” matches the key clue, while “Ideas placed in random order” does not.",
-      "Keep “Ideas placed in random order” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning."
     ],
-    "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Ideas placed in random order” fail and “question, method, results and evidence-based conclusion” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Ideas placed in random order” fail and “question, method, results and evidence-based conclusion” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-028",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "What is the problem with choosing “Whether every sentence has the same length” for this example? During revision of an explanation of how dunes protect a beach, what should the writer check before final proofreading?",
-    "audioPrompt": "What is the problem with choosing “Whether every sentence has the same length” for this example? During revision of an explanation of how dunes protect a beach, what should the writer check before final proofreading?",
+    "question": "In a draft with repeated simple nouns, a student is editing spelling while ignoring organisation or meaning. What is the best correction?",
+    "audioPrompt": "In a draft with repeated simple nouns, a student is editing spelling while ignoring organisation or meaning. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “Whether every sentence has the same length” because it contains a familiar word.",
-      "Check the whole example: “Whether the text uses cause-and-effect paragraphs to develop its purpose and whether a labelled cross-section showing sand and plant roots connects to the words” matches the key clue, while “Whether every sentence has the same length” does not.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
-    "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Whether every sentence has the same length” fail and “Whether the text uses cause-and-effect paragraphs to develop its purpose and whether a labelled cross-section showing sand and plant roots connects to the words” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Whether every sentence has the same length” fail and “Whether the text uses cause-and-effect paragraphs to develop its purpose and whether a labelled cross-section showing sand and plant roots connects to the words” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-029",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Which comparison best separates “a restrained illustration establishing the track” from “an unrelated stock photograph”? Which visual would genuinely add meaning to a narrative about becoming lost at dusk?",
-    "audioPrompt": "Which comparison best separates “a restrained illustration establishing the track” from “an unrelated stock photograph”? Which visual would genuinely add meaning to a narrative about becoming lost at dusk?",
+    "question": "In a conclusion that introduces a new claim, a student is keeping a correct sentence that is irrelevant to the paragraph. What is the best correction?",
+    "audioPrompt": "In a conclusion that introduces a new claim, a student is keeping a correct sentence that is irrelevant to the paragraph. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Keep “an unrelated stock photograph” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex.",
-      "Check the whole example: “a restrained illustration establishing the track” matches the key clue, while “an unrelated stock photograph” does not."
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
     "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “an unrelated stock photograph” fail and “a restrained illustration establishing the track” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “an unrelated stock photograph” fail and “a restrained illustration establishing the track” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-030",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "What should you check so you do not confuse “did stuff” with the correct answer? Which expanded verb group adds suitable precision to a campaign post encouraging waste-free lunches?",
-    "audioPrompt": "What should you check so you do not confuse “did stuff” with the correct answer? Which expanded verb group adds suitable precision to a campaign post encouraging waste-free lunches?",
+    "question": "In a multimodal page where caption and image must work together, a student is using a narrow topic sentence for broad details. What is the best correction?",
+    "audioPrompt": "In a multimodal page where caption and image must work together, a student is using a narrow topic sentence for broad details. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Check the whole example: “could greatly reduce” matches the key clue, while “did stuff” does not.",
-      "Keep “did stuff” because it contains a familiar word.",
-      "Ignore the context and choose whichever answer sounds most complex."
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning."
     ],
     "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “did stuff” fail and “could greatly reduce” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “did stuff” fail and “could greatly reduce” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-031",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Apply what you know to this example: During revision of an explanation of how dunes protect a beach, what should the writer check before final proofreading?",
-    "audioPrompt": "Apply what you know to this example: During revision of an explanation of how dunes protect a beach, what should the writer check before final proofreading?",
+    "question": "In an information report on mangroves, a student is adding connectives without a logical relationship. What is the best correction?",
+    "audioPrompt": "In an information report on mangroves, a student is adding connectives without a logical relationship. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Whether every sentence has the same length",
-      "Whether the text uses cause-and-effect paragraphs to develop its purpose and whether a labelled cross-section showing sand and plant roots connects to the words",
-      "Whether a spell-checker has changed every flagged word"
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
     "correct": 1,
-    "explanation": "“Whether the text uses cause-and-effect paragraphs to develop its purpose and whether a labelled cross-section showing sand and plant roots connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.\nHint: Review purpose, paragraph work and mode integration before punctuation and spelling.",
-    "structuredExplanation": {
-      "summary": "“Whether the text uses cause-and-effect paragraphs to develop its purpose and whether a labelled cross-section showing sand and plant roots connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.",
-      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-032",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Use the skill independently. Which visual would genuinely add meaning to a narrative about becoming lost at dusk?",
-    "audioPrompt": "Use the skill independently. Which visual would genuinely add meaning to a narrative about becoming lost at dusk?",
+    "question": "In a persuasive letter about bike racks, a student is editing spelling while ignoring organisation or meaning. What is the best correction?",
+    "audioPrompt": "In a persuasive letter about bike racks, a student is editing spelling while ignoring organisation or meaning. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "an unrelated stock photograph",
-      "a decorative pattern repeating no information",
-      "a restrained illustration establishing the track"
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
     "correct": 2,
-    "explanation": "“a restrained illustration establishing the track” fits the meaning and the language clue in this example. The visual extends, organises or clarifies information the audience needs.\nHint: Ask whether the visual has a clear job beyond decoration.",
-    "structuredExplanation": {
-      "summary": "“a restrained illustration establishing the track” fits the meaning and the language clue in this example. The visual extends, organises or clarifies information the audience needs.",
-      "hint": "Ask whether the visual has a clear job beyond decoration."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-033",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Work out the answer from the details given. Which expanded verb group adds suitable precision to a campaign post encouraging waste-free lunches?",
-    "audioPrompt": "Work out the answer from the details given. Which expanded verb group adds suitable precision to a campaign post encouraging waste-free lunches?",
+    "question": "In an imaginative scene at a night market, a student is keeping a correct sentence that is irrelevant to the paragraph. What is the best correction?",
+    "audioPrompt": "In an imaginative scene at a night market, a student is keeping a correct sentence that is irrelevant to the paragraph. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "could greatly reduce",
-      "did stuff",
-      "is very thing"
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning."
     ],
-    "correct": 0,
-    "explanation": "“could greatly reduce” fits the meaning and the language clue in this example. The verb group expresses time, modality or manner precisely.\nHint: Choose a verb group that fits both meaning and tense.",
-    "structuredExplanation": {
-      "summary": "“could greatly reduce” fits the meaning and the language clue in this example. The verb group expresses time, modality or manner precisely.",
-      "hint": "Choose a verb group that fits both meaning and tense."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-034",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Now use the idea in context. A student is planning an explanation of how dunes protect a beach. Which structure best matches the purpose?",
-    "audioPrompt": "Now use the idea in context. A student is planning an explanation of how dunes protect a beach. Which structure best matches the purpose?",
+    "question": "In a paragraph explaining a science investigation, a student is using a narrow topic sentence for broad details. What is the best correction?",
+    "audioPrompt": "In a paragraph explaining a science investigation, a student is using a narrow topic sentence for broad details. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Ideas placed in random order",
-      "cause-and-effect paragraphs",
-      "One unbroken paragraph containing every detail"
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Add more terminology without changing the reasoning.",
+      "Keep the answer because a plausible interpretation does not need evidence."
     ],
-    "correct": 1,
-    "explanation": "“cause-and-effect paragraphs” fits the meaning and the language clue in this example. The proposed structure makes relationships clear for the audience.\nHint: Plan what each paragraph must achieve before drafting sentences.",
-    "structuredExplanation": {
-      "summary": "“cause-and-effect paragraphs” fits the meaning and the language clue in this example. The proposed structure makes relationships clear for the audience.",
-      "hint": "Plan what each paragraph must achieve before drafting sentences."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 0,
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-035",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Choose carefully using meaning, not just a familiar word. During revision of a persuasive letter requesting safer bike racks, what should the writer check before final proofreading?",
-    "audioPrompt": "Choose carefully using meaning, not just a familiar word. During revision of a persuasive letter requesting safer bike racks, what should the writer check before final proofreading?",
+    "question": "In a poster about reducing food waste, a student is adding connectives without a logical relationship. What is the best correction?",
+    "audioPrompt": "In a poster about reducing food waste, a student is adding connectives without a logical relationship. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Whether every sentence has the same length",
-      "Whether a spell-checker has changed every flagged word",
-      "Whether the text uses a position followed by reason-and-evidence paragraphs to develop its purpose and whether a small site map marking the proposed location connects to the words"
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning.",
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows."
     ],
     "correct": 2,
-    "explanation": "“Whether the text uses a position followed by reason-and-evidence paragraphs to develop its purpose and whether a small site map marking the proposed location connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.\nHint: Review purpose, paragraph work and mode integration before punctuation and spelling.",
-    "structuredExplanation": {
-      "summary": "“Whether the text uses a position followed by reason-and-evidence paragraphs to develop its purpose and whether a small site map marking the proposed location connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.",
-      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-036",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "misconception control",
     "printable": true,
     "type": "single",
-    "question": "Which answer still works when you consider the whole example? Which visual would genuinely add meaning to an information page comparing renewable energy sources?",
-    "audioPrompt": "Which answer still works when you consider the whole example? Which visual would genuinely add meaning to an information page comparing renewable energy sources?",
+    "question": "In a story conversation between two characters, a student is editing spelling while ignoring organisation or meaning. What is the best correction?",
+    "audioPrompt": "In a story conversation between two characters, a student is editing spelling while ignoring organisation or meaning. What is the best correction?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "a table comparing output and limits",
-      "an unrelated stock photograph",
-      "a decorative pattern repeating no information"
+      "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "Keep the answer because a plausible interpretation does not need evidence.",
+      "Add more terminology without changing the reasoning."
     ],
     "correct": 0,
-    "explanation": "“a table comparing output and limits” fits the meaning and the language clue in this example. The visual extends, organises or clarifies information the audience needs.\nHint: Ask whether the visual has a clear job beyond decoration.",
-    "structuredExplanation": {
-      "summary": "“a table comparing output and limits” fits the meaning and the language clue in this example. The visual extends, organises or clarifies information the audience needs.",
-      "hint": "Ask whether the visual has a clear job beyond decoration."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Return to the exact evidence, apply the purpose/audience → plan → organise → develop → edit → publish routine, and revise the answer so the claim matches what the text or word actually shows.\nHint: Identify the precise point where the reasoning stops matching the evidence."
   },
   {
     "id": "ac9e5ly06-p-037",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "plan",
     "printable": true,
     "type": "single",
-    "question": "Use all the clues in this situation. Which expanded verb group adds suitable precision to a report on a class seed investigation?",
-    "audioPrompt": "Use all the clues in this situation. Which expanded verb group adds suitable precision to a report on a class seed investigation?",
+    "question": "Apply the skill independently to a fresh version of a draft with repeated simple nouns. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a draft with repeated simple nouns. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "did stuff",
-      "were measured carefully",
-      "is very thing"
+      "Use a personal preference as the main evidence.",
+      "Use plan precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named."
     ],
     "correct": 1,
-    "explanation": "“were measured carefully” fits the meaning and the language clue in this example. The verb group expresses time, modality or manner precisely.\nHint: Choose a verb group that fits both meaning and tense.",
-    "structuredExplanation": {
-      "summary": "“were measured carefully” fits the meaning and the language clue in this example. The verb group expresses time, modality or manner precisely.",
-      "hint": "Choose a verb group that fits both meaning and tense."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Use plan precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   },
   {
     "id": "ac9e5ly06-p-038",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "topic sentence",
     "printable": true,
     "type": "single",
-    "question": "Decide which option is most precise. A student is planning a persuasive letter requesting safer bike racks. Which structure best matches the purpose?",
-    "audioPrompt": "Decide which option is most precise. A student is planning a persuasive letter requesting safer bike racks. Which structure best matches the purpose?",
+    "question": "Apply the skill independently to a fresh version of a conclusion that introduces a new claim. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a conclusion that introduces a new claim. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Ideas placed in random order",
-      "One unbroken paragraph containing every detail",
-      "a position followed by reason-and-evidence paragraphs"
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use topic sentence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
     ],
     "correct": 2,
-    "explanation": "“a position followed by reason-and-evidence paragraphs” fits the meaning and the language clue in this example. The proposed structure makes relationships clear for the audience.\nHint: Plan what each paragraph must achieve before drafting sentences.",
-    "structuredExplanation": {
-      "summary": "“a position followed by reason-and-evidence paragraphs” fits the meaning and the language clue in this example. The proposed structure makes relationships clear for the audience.",
-      "hint": "Plan what each paragraph must achieve before drafting sentences."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Use topic sentence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   },
   {
     "id": "ac9e5ly06-p-039",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "supporting detail",
     "printable": true,
     "type": "single",
-    "question": "Which choice best shows your understanding here? During revision of a narrative about becoming lost at dusk, what should the writer check before final proofreading?",
-    "audioPrompt": "Which choice best shows your understanding here? During revision of a narrative about becoming lost at dusk, what should the writer check before final proofreading?",
+    "question": "Apply the skill independently to a fresh version of a multimodal page where caption and image must work together. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a multimodal page where caption and image must work together. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "Whether the text uses a sequence that builds tension toward discovery to develop its purpose and whether a restrained illustration establishing the track connects to the words",
-      "Whether every sentence has the same length",
-      "Whether a spell-checker has changed every flagged word"
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use supporting detail precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence."
     ],
-    "correct": 0,
-    "explanation": "“Whether the text uses a sequence that builds tension toward discovery to develop its purpose and whether a restrained illustration establishing the track connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.\nHint: Review purpose, paragraph work and mode integration before punctuation and spelling.",
-    "structuredExplanation": {
-      "summary": "“Whether the text uses a sequence that builds tension toward discovery to develop its purpose and whether a restrained illustration establishing the track connects to the words” fits the meaning and the language clue in this example. Revision improves meaning and organisation before surface editing.",
-      "hint": "Review purpose, paragraph work and mode integration before punctuation and spelling."
-    },
-    "qualitySchema": "production-v1"
+    "correct": 1,
+    "explanation": "Use supporting detail precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   },
   {
     "id": "ac9e5ly06-p-040",
     "curriculumCode": "AC9E5LY06",
     "bank": "practice",
-    "skill": "creating and publishing written and multimodal texts",
+    "skill": "connective",
     "printable": true,
     "type": "single",
-    "question": "Read the full example before deciding. Which visual would genuinely add meaning to a campaign post encouraging waste-free lunches?",
-    "audioPrompt": "Read the full example before deciding. Which visual would genuinely add meaning to a campaign post encouraging waste-free lunches?",
+    "question": "Apply the skill independently to a fresh version of an information report on mangroves. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of an information report on mangroves. Which approach is strongest?",
     "visual": "",
     "visualHtml": "",
     "answers": [
-      "an unrelated stock photograph",
-      "a simple before-and-after waste chart",
-      "a decorative pattern repeating no information"
+      "Use connective precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 0,
+    "explanation": "Use connective precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly06-p-041",
+    "curriculumCode": "AC9E5LY06",
+    "bank": "practice",
+    "skill": "expanded noun group",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a persuasive letter about bike racks. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a persuasive letter about bike racks. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence.",
+      "Use expanded noun group precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use expanded noun group precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly06-p-042",
+    "curriculumCode": "AC9E5LY06",
+    "bank": "practice",
+    "skill": "technical vocabulary",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of an imaginative scene at a night market. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of an imaginative scene at a night market. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use technical vocabulary precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 0,
+    "explanation": "Use technical vocabulary precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly06-p-043",
+    "curriculumCode": "AC9E5LY06",
+    "bank": "practice",
+    "skill": "dialogue punctuation",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a paragraph explaining a science investigation. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a paragraph explaining a science investigation. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a personal preference as the main evidence.",
+      "Use dialogue punctuation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named."
     ],
     "correct": 1,
-    "explanation": "“a simple before-and-after waste chart” fits the meaning and the language clue in this example. The visual extends, organises or clarifies information the audience needs.\nHint: Ask whether the visual has a clear job beyond decoration.",
-    "structuredExplanation": {
-      "summary": "“a simple before-and-after waste chart” fits the meaning and the language clue in this example. The visual extends, organises or clarifies information the audience needs.",
-      "hint": "Ask whether the visual has a clear job beyond decoration."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "Use dialogue punctuation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly06-p-044",
+    "curriculumCode": "AC9E5LY06",
+    "bank": "practice",
+    "skill": "revision",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a poster about reducing food waste. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a poster about reducing food waste. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use revision precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use revision precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly06-p-045",
+    "curriculumCode": "AC9E5LY06",
+    "bank": "practice",
+    "skill": "purpose",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a story conversation between two characters. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a story conversation between two characters. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use purpose precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 1,
+    "explanation": "Use purpose precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly06-p-046",
+    "curriculumCode": "AC9E5LY06",
+    "bank": "practice",
+    "skill": "audience",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a report section needing a topic sentence. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a report section needing a topic sentence. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use audience precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Use a personal preference as the main evidence.",
+      "Choose the first familiar feature and stop once it has been named."
+    ],
+    "correct": 0,
+    "explanation": "Use audience precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly06-p-047",
+    "curriculumCode": "AC9E5LY06",
+    "bank": "practice",
+    "skill": "plan",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of a persuasive paragraph with an irrelevant reason. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of a persuasive paragraph with an irrelevant reason. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence.",
+      "Use plan precisely, select a relevant detail, explain its role, and check the conclusion against the whole context."
+    ],
+    "correct": 2,
+    "explanation": "Use plan precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
+  },
+  {
+    "id": "ac9e5ly06-p-048",
+    "curriculumCode": "AC9E5LY06",
+    "bank": "practice",
+    "skill": "topic sentence",
+    "printable": true,
+    "type": "single",
+    "question": "Apply the skill independently to a fresh version of an explanation needing technical vocabulary. Which approach is strongest?",
+    "audioPrompt": "Apply the skill independently to a fresh version of an explanation needing technical vocabulary. Which approach is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use topic sentence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "Choose the first familiar feature and stop once it has been named.",
+      "Use a personal preference as the main evidence."
+    ],
+    "correct": 0,
+    "explanation": "Use topic sentence precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.\nHint: Transfer means the routine still works when the surface details change."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

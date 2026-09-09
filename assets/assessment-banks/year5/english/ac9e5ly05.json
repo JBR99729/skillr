@@ -6,27 +6,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Read this evidence: “A creek that was clear yesterday is brown after heavy rain.” Which inference is best supported?",
-    "audio_prompt": "Read this evidence: “A creek that was clear yesterday is brown after heavy rain.” Which inference is best supported?",
+    "skill": "literal_meaning",
+    "question": "Which response best demonstrates the AC9E5 skill in a character repeatedly checking the clock?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a character repeatedly checking the clock?",
     "answers": [
       {
-        "text": "soil may have washed into the creek",
+        "text": "It names a feature in a character repeatedly checking the clock but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses literal meaning and connects it to specific evidence in a character repeatedly checking the clock.",
         "is_correct": true
       },
       {
-        "text": "The opposite is certainly true",
-        "is_correct": false
-      },
-      {
-        "text": "A conclusion unrelated to the evidence",
+        "text": "It gives a personal reaction to a character repeatedly checking the clock but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“soil may have washed into the creek” fits the meaning and the language clue in this example. The inference uses the timing of rain and changed water colour while remaining open to revision.",
-      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+      "summary": "The response uses literal meaning and connects it to specific evidence in a character repeatedly checking the clock. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -36,27 +36,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Read carefully: Which response best evaluates the reasoning about “Mira hides the torn map when the group asks who used it.”?",
-    "audio_prompt": "Read carefully: Which response best evaluates the reasoning about “Mira hides the torn map when the group asks who used it.”?",
+    "skill": "inference",
+    "question": "Which response best demonstrates the AC9E5 skill in an article about restoring wetlands?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in an article about restoring wetlands?",
     "answers": [
       {
-        "text": "The inference must be true because it sounds interesting",
+        "text": "It names a feature in an article about restoring wetlands but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "The inference is plausible. The supporting evidence is her action and the group's question, but the reader should revise if another character admits tearing it",
+        "text": "It gives a personal reaction to an article about restoring wetlands but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses inference and connects it to specific evidence in an article about restoring wetlands.",
         "is_correct": true
-      },
-      {
-        "text": "The reader should judge only whether they like the topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“The inference is plausible. The supporting evidence is her action and the group's question, but the reader should revise if another character admits tearing it” fits the meaning and the language clue in this example. Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+      "summary": "The response uses inference and connects it to specific evidence in an article about restoring wetlands. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -66,27 +66,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which answer makes the most sense here? A reader infers that the claim's reliability is uncertain. What is the best monitoring step?",
-    "audio_prompt": "Which answer makes the most sense here? A reader infers that the claim's reliability is uncertain. What is the best monitoring step?",
+    "skill": "main_idea",
+    "question": "Which response best demonstrates the AC9E5 skill in a story where dialogue hints at a secret?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a story where dialogue hints at a secret?",
     "answers": [
       {
-        "text": "Keep the inference even if later evidence contradicts it",
+        "text": "It gives a personal reaction to a story where dialogue hints at a secret but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "Replace it with an unsupported guess",
-        "is_correct": false
-      },
-      {
-        "text": "look for the method or original survey",
+        "text": "The response uses main idea and connects it to specific evidence in a story where dialogue hints at a secret.",
         "is_correct": true
+      },
+      {
+        "text": "It names a feature in a story where dialogue hints at a secret but does not explain how it contributes to meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“look for the method or original survey” fits the meaning and the language clue in this example. Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+      "summary": "The response uses main idea and connects it to specific evidence in a story where dialogue hints at a secret. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -96,27 +96,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Look at the wording and meaning. Which clue most directly supports the inference that Arun may have misunderstood the desired texture?",
-    "audio_prompt": "Look at the wording and meaning. Which clue most directly supports the inference that Arun may have misunderstood the desired texture?",
+    "skill": "theme",
+    "question": "Which response best demonstrates the AC9E5 skill in a paragraph explaining why leaves change colour?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a paragraph explaining why leaves change colour?",
     "answers": [
       {
-        "text": "his action contradicts the instruction",
+        "text": "The response uses theme and connects it to specific evidence in a paragraph explaining why leaves change colour.",
         "is_correct": true
       },
       {
-        "text": "The number of words in the sentence",
+        "text": "It names a feature in a paragraph explaining why leaves change colour but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "A personal preference not mentioned in the text",
+        "text": "It gives a personal reaction to a paragraph explaining why leaves change colour but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“his action contradicts the instruction” fits the meaning and the language clue in this example. The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Point to evidence before explaining your reasoning."
+      "summary": "The response uses theme and connects it to specific evidence in a paragraph explaining why leaves change colour. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -126,27 +126,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Choose the option that fits the situation best. Read this evidence: “Mira hides the torn map when the group asks who used it.” Which inference is best supported?",
-    "audio_prompt": "Choose the option that fits the situation best. Read this evidence: “Mira hides the torn map when the group asks who used it.” Which inference is best supported?",
+    "skill": "prediction",
+    "question": "Which response best demonstrates the AC9E5 skill in a scene where footprints lead away from a campsite?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a scene where footprints lead away from a campsite?",
     "answers": [
       {
-        "text": "The opposite is certainly true",
+        "text": "It gives a personal reaction to a scene where footprints lead away from a campsite but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "Mira may fear being blamed",
+        "text": "It names a feature in a scene where footprints lead away from a campsite but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses prediction and connects it to specific evidence in a scene where footprints lead away from a campsite.",
         "is_correct": true
-      },
-      {
-        "text": "A conclusion unrelated to the evidence",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“Mira may fear being blamed” fits the meaning and the language clue in this example. The inference uses her action and the group's question while remaining open to revision.",
-      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+      "summary": "The response uses prediction and connects it to specific evidence in a scene where footprints lead away from a campsite. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -156,27 +156,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which choice is accurate in this example? Which response best evaluates the reasoning about “A graph rises sharply after the school adds shade sails.”?",
-    "audio_prompt": "Which choice is accurate in this example? Which response best evaluates the reasoning about “A graph rises sharply after the school adds shade sails.”?",
+    "skill": "summary",
+    "question": "Which response best demonstrates the AC9E5 skill in an article comparing reusable and disposable bottles?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in an article comparing reusable and disposable bottles?",
     "answers": [
       {
-        "text": "The inference must be true because it sounds interesting",
-        "is_correct": false
-      },
-      {
-        "text": "The reader should judge only whether they like the topic",
-        "is_correct": false
-      },
-      {
-        "text": "The inference is plausible. The supporting evidence is the timing and the rise in use, but the reader should check weather or other changes before claiming cause",
+        "text": "The response uses summary and connects it to specific evidence in an article comparing reusable and disposable bottles.",
         "is_correct": true
+      },
+      {
+        "text": "It gives a personal reaction to an article comparing reusable and disposable bottles but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "It names a feature in an article comparing reusable and disposable bottles but does not explain how it contributes to meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“The inference is plausible. The supporting evidence is the timing and the rise in use, but the reader should check weather or other changes before claiming cause” fits the meaning and the language clue in this example. Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+      "summary": "The response uses summary and connects it to specific evidence in an article comparing reusable and disposable bottles. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -186,27 +186,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Focus on the key clue. A reader infers that the character may be anxious about time. What is the best monitoring step?",
-    "audio_prompt": "Focus on the key clue. A reader infers that the character may be anxious about time. What is the best monitoring step?",
+    "skill": "monitoring",
+    "question": "Which response best demonstrates the AC9E5 skill in a narrative in which a character avoids eye contact?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a narrative in which a character avoids eye contact?",
     "answers": [
       {
-        "text": "confirm with later dialogue or events",
+        "text": "It names a feature in a narrative in which a character avoids eye contact but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses monitoring and connects it to specific evidence in a narrative in which a character avoids eye contact.",
         "is_correct": true
       },
       {
-        "text": "Keep the inference even if later evidence contradicts it",
-        "is_correct": false
-      },
-      {
-        "text": "Replace it with an unsupported guess",
+        "text": "It gives a personal reaction to a narrative in which a character avoids eye contact but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“confirm with later dialogue or events” fits the meaning and the language clue in this example. Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+      "summary": "The response uses monitoring and connects it to specific evidence in a narrative in which a character avoids eye contact. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -216,27 +216,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "What works best in this situation? Which clue most directly supports the inference that soil may have washed into the creek?",
-    "audio_prompt": "What works best in this situation? Which clue most directly supports the inference that soil may have washed into the creek?",
+    "skill": "evaluation",
+    "question": "Which response best demonstrates the AC9E5 skill in a short report with one unsupported claim?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a short report with one unsupported claim?",
     "answers": [
       {
-        "text": "The number of words in the sentence",
+        "text": "It names a feature in a short report with one unsupported claim but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "the timing of rain and changed water colour",
+        "text": "It gives a personal reaction to a short report with one unsupported claim but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses evaluation and connects it to specific evidence in a short report with one unsupported claim.",
         "is_correct": true
-      },
-      {
-        "text": "A personal preference not mentioned in the text",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“the timing of rain and changed water colour” fits the meaning and the language clue in this example. The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Point to evidence before explaining your reasoning."
+      "summary": "The response uses evaluation and connects it to specific evidence in a short report with one unsupported claim. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -246,27 +246,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which option matches what is happening? Read this evidence: “A graph rises sharply after the school adds shade sails.” Which inference is best supported?",
-    "audio_prompt": "Which option matches what is happening? Read this evidence: “A graph rises sharply after the school adds shade sails.” Which inference is best supported?",
+    "skill": "literal_meaning",
+    "question": "Which response best demonstrates the AC9E5 skill in a story title that changes meaning after the ending?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a story title that changes meaning after the ending?",
     "answers": [
       {
-        "text": "The opposite is certainly true",
+        "text": "It gives a personal reaction to a story title that changes meaning after the ending but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "A conclusion unrelated to the evidence",
-        "is_correct": false
-      },
-      {
-        "text": "shade may have increased lunchtime use",
+        "text": "The response uses literal meaning and connects it to specific evidence in a story title that changes meaning after the ending.",
         "is_correct": true
+      },
+      {
+        "text": "It names a feature in a story title that changes meaning after the ending but does not explain how it contributes to meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“shade may have increased lunchtime use” fits the meaning and the language clue in this example. The inference uses the timing and the rise in use while remaining open to revision.",
-      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+      "summary": "The response uses literal meaning and connects it to specific evidence in a story title that changes meaning after the ending. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -276,27 +276,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Use the details in the example. Which response best evaluates the reasoning about “The article gives survey results but does not state how many people answered.”?",
-    "audio_prompt": "Use the details in the example. Which response best evaluates the reasoning about “The article gives survey results but does not state how many people answered.”?",
+    "skill": "inference",
+    "question": "Which response best demonstrates the AC9E5 skill in a paragraph with several details supporting one main idea?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a paragraph with several details supporting one main idea?",
     "answers": [
       {
-        "text": "The inference is plausible. The supporting evidence is the missing sample size, but the reader should look for the method or original survey",
+        "text": "The response uses inference and connects it to specific evidence in a paragraph with several details supporting one main idea.",
         "is_correct": true
       },
       {
-        "text": "The inference must be true because it sounds interesting",
+        "text": "It names a feature in a paragraph with several details supporting one main idea but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "The reader should judge only whether they like the topic",
+        "text": "It gives a personal reaction to a paragraph with several details supporting one main idea but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“The inference is plausible. The supporting evidence is the missing sample size, but the reader should look for the method or original survey” fits the meaning and the language clue in this example. Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+      "summary": "The response uses inference and connects it to specific evidence in a paragraph with several details supporting one main idea. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -305,28 +305,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Why is “the timing of rain and changed water colour” the strongest answer to this question: Which clue most directly supports the inference that soil may have washed into the creek?",
-    "audio_prompt": "Why is “the timing of rain and changed water colour” the strongest answer to this question: Which clue most directly supports the inference that soil may have washed into the creek?",
+    "stage": "recognise",
+    "skill": "main_idea",
+    "question": "Which response best demonstrates the AC9E5 skill in a text where the reader must revise an early prediction?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a text where the reader must revise an early prediction?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It gives a personal reaction to a text where the reader must revise an early prediction but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "It names a feature in a text where the reader must revise an early prediction but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses main idea and connects it to specific evidence in a text where the reader must revise an early prediction.",
         "is_correct": true
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Find the exact clue that makes “the timing of rain and changed water colour” fit."
+      "summary": "The response uses main idea and connects it to specific evidence in a text where the reader must revise an early prediction. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -335,28 +335,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "What makes “shade may have increased lunchtime use” work in this example? Read this evidence: “A graph rises sharply after the school adds shade sails.” Which inference is best supported?",
-    "audio_prompt": "What makes “shade may have increased lunchtime use” work in this example? Read this evidence: “A graph rises sharply after the school adds shade sails.” Which inference is best supported?",
+    "stage": "recognise",
+    "skill": "theme",
+    "question": "Which response best demonstrates the AC9E5 skill in two sources giving different reasons for the same event?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in two sources giving different reasons for the same event?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
-      },
-      {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "The response uses theme and connects it to specific evidence in two sources giving different reasons for the same event.",
         "is_correct": true
+      },
+      {
+        "text": "It gives a personal reaction to two sources giving different reasons for the same event but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "It names a feature in two sources giving different reasons for the same event but does not explain how it contributes to meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The inference uses the timing and the rise in use while remaining open to revision.",
-      "hint": "Find the exact clue that makes “shade may have increased lunchtime use” fit."
+      "summary": "The response uses theme and connects it to specific evidence in two sources giving different reasons for the same event. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -365,28 +365,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which reason best explains why “The inference is plausible. The supporting evidence is the missing sample size, but the reader should look for the method or original survey” fits? Which response best evaluates the reasoning about “The article gives survey results but does not state how many people answered.”?",
-    "audio_prompt": "Which reason best explains why “The inference is plausible. The supporting evidence is the missing sample size, but the reader should look for the method or original survey” fits? Which response best evaluates the reasoning about “The article gives survey results but does not state how many people answered.”?",
+    "stage": "reason",
+    "skill": "inference",
+    "question": "A student gives an answer about a paragraph explaining why leaves change colour. Why is the strongest explanation the one that links inference to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a paragraph explaining why leaves change colour. Why is the strongest explanation the one that links inference to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because inference is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Find the exact clue that makes “The inference is plausible. The supporting evidence is the missing sample size, but the reader should look for the method or original survey” fit."
+      "summary": "Because inference is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -395,28 +395,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "How does “reread the step and inspect the example image” match the meaning of this example? A reader infers that Arun may have misunderstood the desired texture. What is the best monitoring step?",
-    "audio_prompt": "How does “reread the step and inspect the example image” match the meaning of this example? A reader infers that Arun may have misunderstood the desired texture. What is the best monitoring step?",
+    "stage": "reason",
+    "skill": "main_idea",
+    "question": "A student gives an answer about a scene where footprints lead away from a campsite. Why is the strongest explanation the one that links main idea to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a scene where footprints lead away from a campsite. Why is the strongest explanation the one that links main idea to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because main idea is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Find the exact clue that makes “reread the step and inspect the example image” fit."
+      "summary": "Because main idea is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -425,28 +425,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Why does “her action and the group's question” suit this situation better than the other choices? Which clue most directly supports the inference that Mira may fear being blamed?",
-    "audio_prompt": "Why does “her action and the group's question” suit this situation better than the other choices? Which clue most directly supports the inference that Mira may fear being blamed?",
+    "stage": "reason",
+    "skill": "theme",
+    "question": "A student gives an answer about an article comparing reusable and disposable bottles. Why is the strongest explanation the one that links theme to evidence and effect?",
+    "audio_prompt": "A student gives an answer about an article comparing reusable and disposable bottles. Why is the strongest explanation the one that links theme to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
-      },
-      {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because theme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
+      },
+      {
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Find the exact clue that makes “her action and the group's question” fit."
+      "summary": "Because theme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -455,28 +455,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "What clue in the example supports “the claim's reliability is uncertain”? Read this evidence: “The article gives survey results but does not state how many people answered.” Which inference is best supported?",
-    "audio_prompt": "What clue in the example supports “the claim's reliability is uncertain”? Read this evidence: “The article gives survey results but does not state how many people answered.” Which inference is best supported?",
+    "stage": "reason",
+    "skill": "prediction",
+    "question": "A student gives an answer about a narrative in which a character avoids eye contact. Why is the strongest explanation the one that links prediction to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a narrative in which a character avoids eye contact. Why is the strongest explanation the one that links prediction to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because prediction is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The inference uses the missing sample size while remaining open to revision.",
-      "hint": "Find the exact clue that makes “the claim's reliability is uncertain” fit."
+      "summary": "Because prediction is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -485,28 +485,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which explanation shows why “The inference is plausible. The supporting evidence is repeated clock checks and restless movement, but the reader should confirm with later dialogue or events” is correct here? Which response best evaluates the reasoning about “A character keeps checking the station clock and tapping one foot.”?",
-    "audio_prompt": "Which explanation shows why “The inference is plausible. The supporting evidence is repeated clock checks and restless movement, but the reader should confirm with later dialogue or events” is correct here? Which response best evaluates the reasoning about “A character keeps checking the station clock and tapping one foot.”?",
+    "stage": "reason",
+    "skill": "summary",
+    "question": "A student gives an answer about a short report with one unsupported claim. Why is the strongest explanation the one that links summary to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a short report with one unsupported claim. Why is the strongest explanation the one that links summary to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because summary is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Find the exact clue that makes “The inference is plausible. The supporting evidence is repeated clock checks and restless movement, but the reader should confirm with later dialogue or events” fit."
+      "summary": "Because summary is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -515,28 +515,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Why would “check upstream conditions or later evidence” make sense to a careful reader? A reader infers that soil may have washed into the creek. What is the best monitoring step?",
-    "audio_prompt": "Why would “check upstream conditions or later evidence” make sense to a careful reader? A reader infers that soil may have washed into the creek. What is the best monitoring step?",
+    "stage": "reason",
+    "skill": "monitoring",
+    "question": "A student gives an answer about a story title that changes meaning after the ending. Why is the strongest explanation the one that links monitoring to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a story title that changes meaning after the ending. Why is the strongest explanation the one that links monitoring to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
-      },
-      {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because monitoring is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Find the exact clue that makes “check upstream conditions or later evidence” fit."
+      "summary": "Because monitoring is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -545,28 +545,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "What is the best reason for choosing “the timing and the rise in use”? Which clue most directly supports the inference that shade may have increased lunchtime use?",
-    "audio_prompt": "What is the best reason for choosing “the timing and the rise in use”? Which clue most directly supports the inference that shade may have increased lunchtime use?",
+    "stage": "reason",
+    "skill": "evaluation",
+    "question": "A student gives an answer about a paragraph with several details supporting one main idea. Why is the strongest explanation the one that links evaluation to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a paragraph with several details supporting one main idea. Why is the strongest explanation the one that links evaluation to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because evaluation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Find the exact clue that makes “the timing and the rise in use” fit."
+      "summary": "Because evaluation is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -575,28 +575,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which explanation connects “the character may be anxious about time” to the key clue? Read this evidence: “A character keeps checking the station clock and tapping one foot.” Which inference is best supported?",
-    "audio_prompt": "Which explanation connects “the character may be anxious about time” to the key clue? Read this evidence: “A character keeps checking the station clock and tapping one foot.” Which inference is best supported?",
+    "stage": "reason",
+    "skill": "literal_meaning",
+    "question": "A student gives an answer about a text where the reader must revise an early prediction. Why is the strongest explanation the one that links literal meaning to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a text where the reader must revise an early prediction. Why is the strongest explanation the one that links literal meaning to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because literal meaning is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The inference uses repeated clock checks and restless movement while remaining open to revision.",
-      "hint": "Find the exact clue that makes “the character may be anxious about time” fit."
+      "summary": "Because literal meaning is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -605,28 +605,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "“Keep the inference even if later evidence contradicts it” might seem possible at first. What should you notice before answering this question: A reader infers that soil may have washed into the creek. What is the best monitoring step?",
-    "audio_prompt": "“Keep the inference even if later evidence contradicts it” might seem possible at first. What should you notice before answering this question: A reader infers that soil may have washed into the creek. What is the best monitoring step?",
+    "stage": "reason",
+    "skill": "inference",
+    "question": "A student gives an answer about two sources giving different reasons for the same event. Why is the strongest explanation the one that links inference to evidence and effect?",
+    "audio_prompt": "A student gives an answer about two sources giving different reasons for the same event. Why is the strongest explanation the one that links inference to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “Keep the inference even if later evidence contradicts it” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “check upstream conditions or later evidence” matches the key clue, while “Keep the inference even if later evidence contradicts it” does not.",
+        "text": "Because inference is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
+      },
+      {
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Keep the inference even if later evidence contradicts it” fail and “check upstream conditions or later evidence” succeed."
+      "summary": "Because inference is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -635,28 +635,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Why is “The number of words in the sentence” not the best choice here? Which clue most directly supports the inference that shade may have increased lunchtime use?",
-    "audio_prompt": "Why is “The number of words in the sentence” not the best choice here? Which clue most directly supports the inference that shade may have increased lunchtime use?",
+    "stage": "reason",
+    "skill": "main_idea",
+    "question": "A student gives an answer about a character repeatedly checking the clock. Why is the strongest explanation the one that links main idea to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a character repeatedly checking the clock. Why is the strongest explanation the one that links main idea to evidence and effect?",
     "answers": [
       {
-        "text": "Check the whole example: “the timing and the rise in use” matches the key clue, while “The number of words in the sentence” does not.",
+        "text": "Because main idea is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Keep “The number of words in the sentence” because it contains a familiar word.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “The number of words in the sentence” fail and “the timing and the rise in use” succeed."
+      "summary": "Because main idea is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -665,28 +665,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Compare “The opposite is certainly true” with “the character may be anxious about time”. What important difference matters in this example? Read this evidence: “A character keeps checking the station clock and tapping one foot.” Which inference is best supported?",
-    "audio_prompt": "Compare “The opposite is certainly true” with “the character may be anxious about time”. What important difference matters in this example? Read this evidence: “A character keeps checking the station clock and tapping one foot.” Which inference is best supported?",
+    "stage": "reason",
+    "skill": "theme",
+    "question": "A student gives an answer about an article about restoring wetlands. Why is the strongest explanation the one that links theme to evidence and effect?",
+    "audio_prompt": "A student gives an answer about an article about restoring wetlands. Why is the strongest explanation the one that links theme to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “The opposite is certainly true” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “the character may be anxious about time” matches the key clue, while “The opposite is certainly true” does not.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because theme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “The opposite is certainly true” fail and “the character may be anxious about time” succeed."
+      "summary": "Because theme is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -695,28 +695,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which clue rules out “The inference must be true because it sounds interesting” in this situation? Which response best evaluates the reasoning about “The instructions say the mixture should remain lumpy, but Arun keeps stirring until smooth.”?",
-    "audio_prompt": "Which clue rules out “The inference must be true because it sounds interesting” in this situation? Which response best evaluates the reasoning about “The instructions say the mixture should remain lumpy, but Arun keeps stirring until smooth.”?",
+    "stage": "reason",
+    "skill": "prediction",
+    "question": "A student gives an answer about a story where dialogue hints at a secret. Why is the strongest explanation the one that links prediction to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a story where dialogue hints at a secret. Why is the strongest explanation the one that links prediction to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “The inference must be true because it sounds interesting” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “The inference is plausible. The supporting evidence is his action contradicts the instruction, but the reader should reread the step and inspect the example image” matches the key clue, while “The inference must be true because it sounds interesting” does not.",
+        "text": "Because prediction is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “The inference must be true because it sounds interesting” fail and “The inference is plausible. The supporting evidence is his action contradicts the instruction, but the reader should reread the step and inspect the example image” succeed."
+      "summary": "Because prediction is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -726,27 +726,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "A quick reader might choose “Keep the inference even if later evidence contradicts it”. What would a closer reading show? A reader infers that Mira may fear being blamed. What is the best monitoring step?",
-    "audio_prompt": "A quick reader might choose “Keep the inference even if later evidence contradicts it”. What would a closer reading show? A reader infers that Mira may fear being blamed. What is the best monitoring step?",
+    "skill": "misconception_control",
+    "question": "In a narrative in which a character avoids eye contact, a student is choosing a plausible answer without a text clue. What is the best correction?",
+    "audio_prompt": "In a narrative in which a character avoids eye contact, a student is choosing a plausible answer without a text clue. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “revise if another character admits tearing it” matches the key clue, while “Keep the inference even if later evidence contradicts it” does not.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “Keep the inference even if later evidence contradicts it” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Keep the inference even if later evidence contradicts it” fail and “revise if another character admits tearing it” succeed."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -756,27 +756,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "What makes “the missing sample size” more precise than “The number of words in the sentence” here? Which clue most directly supports the inference that the claim's reliability is uncertain?",
-    "audio_prompt": "What makes “the missing sample size” more precise than “The number of words in the sentence” here? Which clue most directly supports the inference that the claim's reliability is uncertain?",
+    "skill": "misconception_control",
+    "question": "In a short report with one unsupported claim, a student is replacing evidence with personal experience. What is the best correction?",
+    "audio_prompt": "In a short report with one unsupported claim, a student is replacing evidence with personal experience. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “The number of words in the sentence” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “the missing sample size” matches the key clue, while “The number of words in the sentence” does not.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “The number of words in the sentence” fail and “the missing sample size” succeed."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -786,27 +786,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which detail helps you reject “The opposite is certainly true”? Read this evidence: “The instructions say the mixture should remain lumpy, but Arun keeps stirring until smooth.” Which inference is best supported?",
-    "audio_prompt": "Which detail helps you reject “The opposite is certainly true”? Read this evidence: “The instructions say the mixture should remain lumpy, but Arun keeps stirring until smooth.” Which inference is best supported?",
+    "skill": "misconception_control",
+    "question": "In a story title that changes meaning after the ending, a student is summarising one detail instead of the main idea. What is the best correction?",
+    "audio_prompt": "In a story title that changes meaning after the ending, a student is summarising one detail instead of the main idea. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “The opposite is certainly true” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “Arun may have misunderstood the desired texture” matches the key clue, while “The opposite is certainly true” does not.",
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
+      },
+      {
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “The opposite is certainly true” fail and “Arun may have misunderstood the desired texture” succeed."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -816,27 +816,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "What is the problem with choosing “The inference must be true because it sounds interesting” for this example? Which response best evaluates the reasoning about “A creek that was clear yesterday is brown after heavy rain.”?",
-    "audio_prompt": "What is the problem with choosing “The inference must be true because it sounds interesting” for this example? Which response best evaluates the reasoning about “A creek that was clear yesterday is brown after heavy rain.”?",
+    "skill": "misconception_control",
+    "question": "In a paragraph with several details supporting one main idea, a student is keeping a prediction after later evidence disproves it. What is the best correction?",
+    "audio_prompt": "In a paragraph with several details supporting one main idea, a student is keeping a prediction after later evidence disproves it. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “The inference is plausible. The supporting evidence is the timing of rain and changed water colour, but the reader should check upstream conditions or later evidence” matches the key clue, while “The inference must be true because it sounds interesting” does not.",
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “The inference must be true because it sounds interesting” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “The inference must be true because it sounds interesting” fail and “The inference is plausible. The supporting evidence is the timing of rain and changed water colour, but the reader should check upstream conditions or later evidence” succeed."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -846,27 +846,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which comparison best separates “check weather or other changes before claiming cause” from “Keep the inference even if later evidence contradicts it”? A reader infers that shade may have increased lunchtime use. What is the best monitoring step?",
-    "audio_prompt": "Which comparison best separates “check weather or other changes before claiming cause” from “Keep the inference even if later evidence contradicts it”? A reader infers that shade may have increased lunchtime use. What is the best monitoring step?",
+    "skill": "misconception_control",
+    "question": "In a text where the reader must revise an early prediction, a student is choosing a plausible answer without a text clue. What is the best correction?",
+    "audio_prompt": "In a text where the reader must revise an early prediction, a student is choosing a plausible answer without a text clue. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “Keep the inference even if later evidence contradicts it” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “check weather or other changes before claiming cause” matches the key clue, while “Keep the inference even if later evidence contradicts it” does not.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Keep the inference even if later evidence contradicts it” fail and “check weather or other changes before claiming cause” succeed."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -876,27 +876,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "What should you check so you do not confuse “The number of words in the sentence” with the correct answer? Which clue most directly supports the inference that the character may be anxious about time?",
-    "audio_prompt": "What should you check so you do not confuse “The number of words in the sentence” with the correct answer? Which clue most directly supports the inference that the character may be anxious about time?",
+    "skill": "misconception_control",
+    "question": "In two sources giving different reasons for the same event, a student is replacing evidence with personal experience. What is the best correction?",
+    "audio_prompt": "In two sources giving different reasons for the same event, a student is replacing evidence with personal experience. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “The number of words in the sentence” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “repeated clock checks and restless movement” matches the key clue, while “The number of words in the sentence” does not.",
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “The number of words in the sentence” fail and “repeated clock checks and restless movement” succeed."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -905,28 +905,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Apply what you know to this example: Which response best evaluates the reasoning about “A creek that was clear yesterday is brown after heavy rain.”?",
-    "audio_prompt": "Apply what you know to this example: Which response best evaluates the reasoning about “A creek that was clear yesterday is brown after heavy rain.”?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a character repeatedly checking the clock, a student is summarising one detail instead of the main idea. What is the best correction?",
+    "audio_prompt": "In a character repeatedly checking the clock, a student is summarising one detail instead of the main idea. What is the best correction?",
     "answers": [
       {
-        "text": "The inference is plausible. The supporting evidence is the timing of rain and changed water colour, but the reader should check upstream conditions or later evidence",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "The inference must be true because it sounds interesting",
-        "is_correct": false
-      },
-      {
-        "text": "The reader should judge only whether they like the topic",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“The inference is plausible. The supporting evidence is the timing of rain and changed water colour, but the reader should check upstream conditions or later evidence” fits the meaning and the language clue in this example. Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -935,28 +935,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Use the skill independently. A reader infers that shade may have increased lunchtime use. What is the best monitoring step?",
-    "audio_prompt": "Use the skill independently. A reader infers that shade may have increased lunchtime use. What is the best monitoring step?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In an article about restoring wetlands, a student is keeping a prediction after later evidence disproves it. What is the best correction?",
+    "audio_prompt": "In an article about restoring wetlands, a student is keeping a prediction after later evidence disproves it. What is the best correction?",
     "answers": [
       {
-        "text": "Keep the inference even if later evidence contradicts it",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "check weather or other changes before claiming cause",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
-      },
-      {
-        "text": "Replace it with an unsupported guess",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“check weather or other changes before claiming cause” fits the meaning and the language clue in this example. Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -965,28 +965,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Work out the answer from the details given. Which clue most directly supports the inference that the character may be anxious about time?",
-    "audio_prompt": "Work out the answer from the details given. Which clue most directly supports the inference that the character may be anxious about time?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a story where dialogue hints at a secret, a student is choosing a plausible answer without a text clue. What is the best correction?",
+    "audio_prompt": "In a story where dialogue hints at a secret, a student is choosing a plausible answer without a text clue. What is the best correction?",
     "answers": [
       {
-        "text": "The number of words in the sentence",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "A personal preference not mentioned in the text",
-        "is_correct": false
-      },
-      {
-        "text": "repeated clock checks and restless movement",
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
+      },
+      {
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“repeated clock checks and restless movement” fits the meaning and the language clue in this example. The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Point to evidence before explaining your reasoning."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -995,28 +995,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Now use the idea in context. Read this evidence: “A creek that was clear yesterday is brown after heavy rain.” Which inference is best supported?",
-    "audio_prompt": "Now use the idea in context. Read this evidence: “A creek that was clear yesterday is brown after heavy rain.” Which inference is best supported?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a paragraph explaining why leaves change colour, a student is replacing evidence with personal experience. What is the best correction?",
+    "audio_prompt": "In a paragraph explaining why leaves change colour, a student is replacing evidence with personal experience. What is the best correction?",
     "answers": [
       {
-        "text": "soil may have washed into the creek",
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "The opposite is certainly true",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "A conclusion unrelated to the evidence",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“soil may have washed into the creek” fits the meaning and the language clue in this example. The inference uses the timing of rain and changed water colour while remaining open to revision.",
-      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1025,28 +1025,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Choose carefully using meaning, not just a familiar word. Which response best evaluates the reasoning about “Mira hides the torn map when the group asks who used it.”?",
-    "audio_prompt": "Choose carefully using meaning, not just a familiar word. Which response best evaluates the reasoning about “Mira hides the torn map when the group asks who used it.”?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a scene where footprints lead away from a campsite, a student is summarising one detail instead of the main idea. What is the best correction?",
+    "audio_prompt": "In a scene where footprints lead away from a campsite, a student is summarising one detail instead of the main idea. What is the best correction?",
     "answers": [
       {
-        "text": "The inference must be true because it sounds interesting",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "The inference is plausible. The supporting evidence is her action and the group's question, but the reader should revise if another character admits tearing it",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
-      },
-      {
-        "text": "The reader should judge only whether they like the topic",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“The inference is plausible. The supporting evidence is her action and the group's question, but the reader should revise if another character admits tearing it” fits the meaning and the language clue in this example. Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1055,28 +1055,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which answer still works when you consider the whole example? A reader infers that the claim's reliability is uncertain. What is the best monitoring step?",
-    "audio_prompt": "Which answer still works when you consider the whole example? A reader infers that the claim's reliability is uncertain. What is the best monitoring step?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In an article comparing reusable and disposable bottles, a student is keeping a prediction after later evidence disproves it. What is the best correction?",
+    "audio_prompt": "In an article comparing reusable and disposable bottles, a student is keeping a prediction after later evidence disproves it. What is the best correction?",
     "answers": [
       {
-        "text": "Keep the inference even if later evidence contradicts it",
-        "is_correct": false
-      },
-      {
-        "text": "Replace it with an unsupported guess",
-        "is_correct": false
-      },
-      {
-        "text": "look for the method or original survey",
+        "text": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“look for the method or original survey” fits the meaning and the language clue in this example. Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+      "summary": "Return to the exact evidence, apply the purpose for reading → strategy → clue → inference/summary → check against text routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1085,28 +1085,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Use all the clues in this situation. Which clue most directly supports the inference that Arun may have misunderstood the desired texture?",
-    "audio_prompt": "Use all the clues in this situation. Which clue most directly supports the inference that Arun may have misunderstood the desired texture?",
+    "stage": "transfer",
+    "skill": "main_idea",
+    "question": "Apply the skill independently to a fresh version of a paragraph with several details supporting one main idea. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a paragraph with several details supporting one main idea. Which approach is strongest?",
     "answers": [
       {
-        "text": "his action contradicts the instruction",
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use main idea precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "The number of words in the sentence",
-        "is_correct": false
-      },
-      {
-        "text": "A personal preference not mentioned in the text",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“his action contradicts the instruction” fits the meaning and the language clue in this example. The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Point to evidence before explaining your reasoning."
+      "summary": "Use main idea precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1115,28 +1115,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Decide which option is most precise. Read this evidence: “Mira hides the torn map when the group asks who used it.” Which inference is best supported?",
-    "audio_prompt": "Decide which option is most precise. Read this evidence: “Mira hides the torn map when the group asks who used it.” Which inference is best supported?",
+    "stage": "transfer",
+    "skill": "theme",
+    "question": "Apply the skill independently to a fresh version of a text where the reader must revise an early prediction. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a text where the reader must revise an early prediction. Which approach is strongest?",
     "answers": [
       {
-        "text": "The opposite is certainly true",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "Mira may fear being blamed",
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use theme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
-      },
-      {
-        "text": "A conclusion unrelated to the evidence",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“Mira may fear being blamed” fits the meaning and the language clue in this example. The inference uses her action and the group's question while remaining open to revision.",
-      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+      "summary": "Use theme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1145,28 +1145,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which choice best shows your understanding here? Which response best evaluates the reasoning about “A graph rises sharply after the school adds shade sails.”?",
-    "audio_prompt": "Which choice best shows your understanding here? Which response best evaluates the reasoning about “A graph rises sharply after the school adds shade sails.”?",
+    "stage": "transfer",
+    "skill": "prediction",
+    "question": "Apply the skill independently to a fresh version of two sources giving different reasons for the same event. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of two sources giving different reasons for the same event. Which approach is strongest?",
     "answers": [
       {
-        "text": "The inference must be true because it sounds interesting",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       },
       {
-        "text": "The reader should judge only whether they like the topic",
-        "is_correct": false
-      },
-      {
-        "text": "The inference is plausible. The supporting evidence is the timing and the rise in use, but the reader should check weather or other changes before claiming cause",
+        "text": "Use prediction precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“The inference is plausible. The supporting evidence is the timing and the rise in use, but the reader should check weather or other changes before claiming cause” fits the meaning and the language clue in this example. Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+      "summary": "Use prediction precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1175,28 +1175,268 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Read the full example before deciding. A reader infers that the character may be anxious about time. What is the best monitoring step?",
-    "audio_prompt": "Read the full example before deciding. A reader infers that the character may be anxious about time. What is the best monitoring step?",
+    "stage": "transfer",
+    "skill": "summary",
+    "question": "Apply the skill independently to a fresh version of a character repeatedly checking the clock. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a character repeatedly checking the clock. Which approach is strongest?",
     "answers": [
       {
-        "text": "confirm with later dialogue or events",
+        "text": "Use summary precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "Keep the inference even if later evidence contradicts it",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "Replace it with an unsupported guess",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“confirm with later dialogue or events” fits the meaning and the language clue in this example. Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+      "summary": "Use summary precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY05-P-041",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "monitoring",
+    "question": "Apply the skill independently to a fresh version of an article about restoring wetlands. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of an article about restoring wetlands. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use monitoring precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use monitoring precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY05-P-042",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "evaluation",
+    "question": "Apply the skill independently to a fresh version of a story where dialogue hints at a secret. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a story where dialogue hints at a secret. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use evaluation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use evaluation precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY05-P-043",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "literal_meaning",
+    "question": "Apply the skill independently to a fresh version of a paragraph explaining why leaves change colour. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a paragraph explaining why leaves change colour. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use literal meaning precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use literal meaning precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY05-P-044",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "inference",
+    "question": "Apply the skill independently to a fresh version of a scene where footprints lead away from a campsite. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a scene where footprints lead away from a campsite. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use inference precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use inference precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY05-P-045",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "main_idea",
+    "question": "Apply the skill independently to a fresh version of an article comparing reusable and disposable bottles. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of an article comparing reusable and disposable bottles. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use main idea precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use main idea precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY05-P-046",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "theme",
+    "question": "Apply the skill independently to a fresh version of a narrative in which a character avoids eye contact. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a narrative in which a character avoids eye contact. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use theme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use theme precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY05-P-047",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "prediction",
+    "question": "Apply the skill independently to a fresh version of a short report with one unsupported claim. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a short report with one unsupported claim. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use prediction precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use prediction precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LY05-P-048",
+    "curriculum_code": "AC9E5LY05",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "summary",
+    "question": "Apply the skill independently to a fresh version of a story title that changes meaning after the ending. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a story title that changes meaning after the ending. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use summary precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use summary precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1206,27 +1446,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Read this evidence: “Two reports give different numbers for the same bird population.” Which inference is best supported?",
-    "audio_prompt": "Read this evidence: “Two reports give different numbers for the same bird population.” Which inference is best supported?",
+    "skill": "inference",
+    "question": "In an unseen Year 5 task about a paragraph explaining why leaves change colour, after a first reading, which answer best shows independent understanding of inference?",
+    "audio_prompt": "In an unseen Year 5 task about a paragraph explaining why leaves change colour, after a first reading, which answer best shows independent understanding of inference?",
     "answers": [
       {
-        "text": "The opposite is certainly true",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "the reports may use different dates or methods",
+        "text": "It identifies the relevant inference, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "A conclusion unrelated to the evidence",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The inference uses the conflicting totals while remaining open to revision.",
-      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+      "summary": "It identifies the relevant inference, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1236,27 +1476,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Read this new example closely. Which clue most directly supports the inference that the reports may use different dates or methods?",
-    "audio_prompt": "Read this new example closely. Which clue most directly supports the inference that the reports may use different dates or methods?",
+    "skill": "prediction",
+    "question": "In an unseen Year 5 task about a story title that changes meaning after the ending, when checking the strongest clue, which answer best shows independent understanding of prediction?",
+    "audio_prompt": "In an unseen Year 5 task about a story title that changes meaning after the ending, when checking the strongest clue, which answer best shows independent understanding of prediction?",
     "answers": [
       {
-        "text": "The number of words in the sentence",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "A personal preference not mentioned in the text",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "the conflicting totals",
+        "text": "It identifies the relevant prediction, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Point to evidence before explaining your reasoning."
+      "summary": "It identifies the relevant prediction, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1266,27 +1506,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which answer is most accurate here? A reader infers that the reports may use different dates or methods. What is the best monitoring step?",
-    "audio_prompt": "Which answer is most accurate here? A reader infers that the reports may use different dates or methods. What is the best monitoring step?",
+    "skill": "evaluation",
+    "question": "In an unseen Year 5 task about an article about restoring wetlands, when comparing two plausible choices, which answer best shows independent understanding of evaluation?",
+    "audio_prompt": "In an unseen Year 5 task about an article about restoring wetlands, when comparing two plausible choices, which answer best shows independent understanding of evaluation?",
     "answers": [
       {
-        "text": "compare sources, dates and counting methods",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant evaluation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Keep the inference even if later evidence contradicts it",
-        "is_correct": false
-      },
-      {
-        "text": "Replace it with an unsupported guess",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+      "summary": "It identifies the relevant evaluation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1296,27 +1536,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Use the details in this new situation. Which response best evaluates the reasoning about “Two reports give different numbers for the same bird population.”?",
-    "audio_prompt": "Use the details in this new situation. Which response best evaluates the reasoning about “Two reports give different numbers for the same bird population.”?",
+    "skill": "main_idea",
+    "question": "In an unseen Year 5 task about a narrative in which a character avoids eye contact, after rereading the final detail, which answer best shows independent understanding of main idea?",
+    "audio_prompt": "In an unseen Year 5 task about a narrative in which a character avoids eye contact, after rereading the final detail, which answer best shows independent understanding of main idea?",
     "answers": [
       {
-        "text": "The inference must be true because it sounds interesting",
-        "is_correct": false
-      },
-      {
-        "text": "The inference is plausible. The supporting evidence is the conflicting totals, but the reader should compare sources, dates and counting methods",
+        "text": "It identifies the relevant main idea, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "The reader should judge only whether they like the topic",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+      "summary": "It identifies the relevant main idea, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1326,27 +1566,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Choose the answer supported by the whole example. Read this evidence: “The narrator describes the empty house as breathing in the wind.” Which inference is best supported?",
-    "audio_prompt": "Choose the answer supported by the whole example. Read this evidence: “The narrator describes the empty house as breathing in the wind.” Which inference is best supported?",
+    "skill": "summary",
+    "question": "In an unseen Year 5 task about two sources giving different reasons for the same event, when the wording is unfamiliar, which answer best shows independent understanding of summary?",
+    "audio_prompt": "In an unseen Year 5 task about two sources giving different reasons for the same event, when the wording is unfamiliar, which answer best shows independent understanding of summary?",
     "answers": [
       {
-        "text": "The opposite is certainly true",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "A conclusion unrelated to the evidence",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "the language creates an eerie living presence",
+        "text": "It identifies the relevant summary, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The inference uses personification of the house while remaining open to revision.",
-      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+      "summary": "It identifies the relevant summary, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1356,27 +1596,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which option best fits the meaning? Which clue most directly supports the inference that the language creates an eerie living presence?",
-    "audio_prompt": "Which option best fits the meaning? Which clue most directly supports the inference that the language creates an eerie living presence?",
+    "skill": "literal_meaning",
+    "question": "In an unseen Year 5 task about a scene where footprints lead away from a campsite, when a distractor shares a keyword, which answer best shows independent understanding of literal meaning?",
+    "audio_prompt": "In an unseen Year 5 task about a scene where footprints lead away from a campsite, when a distractor shares a keyword, which answer best shows independent understanding of literal meaning?",
     "answers": [
       {
-        "text": "personification of the house",
+        "text": "It identifies the relevant literal meaning, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "The number of words in the sentence",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "A personal preference not mentioned in the text",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Point to evidence before explaining your reasoning."
+      "summary": "It identifies the relevant literal meaning, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1386,27 +1626,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Work this out independently. A reader infers that the language creates an eerie living presence. What is the best monitoring step?",
-    "audio_prompt": "Work this out independently. A reader infers that the language creates an eerie living presence. What is the best monitoring step?",
+    "skill": "theme",
+    "question": "In an unseen Year 5 task about a paragraph with several details supporting one main idea, when the task asks for evidence, which answer best shows independent understanding of theme?",
+    "audio_prompt": "In an unseen Year 5 task about a paragraph with several details supporting one main idea, when the task asks for evidence, which answer best shows independent understanding of theme?",
     "answers": [
       {
-        "text": "Keep the inference even if later evidence contradicts it",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "compare other setting details",
+        "text": "It identifies the relevant theme, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Replace it with an unsupported guess",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+      "summary": "It identifies the relevant theme, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1416,27 +1656,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "What is the best answer in this context? Which response best evaluates the reasoning about “The narrator describes the empty house as breathing in the wind.”?",
-    "audio_prompt": "What is the best answer in this context? Which response best evaluates the reasoning about “The narrator describes the empty house as breathing in the wind.”?",
+    "skill": "monitoring",
+    "question": "In an unseen Year 5 task about a story where dialogue hints at a secret, when the whole context matters, which answer best shows independent understanding of monitoring?",
+    "audio_prompt": "In an unseen Year 5 task about a story where dialogue hints at a secret, when the whole context matters, which answer best shows independent understanding of monitoring?",
     "answers": [
       {
-        "text": "The inference must be true because it sounds interesting",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "The reader should judge only whether they like the topic",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "The inference is plausible. The supporting evidence is personification of the house, but the reader should compare other setting details",
+        "text": "It identifies the relevant monitoring, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+      "summary": "It identifies the relevant monitoring, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1446,27 +1686,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which choice is supported by the evidence given? Read this evidence: “A map legend shows one centimetre represents five kilometres.” Which inference is best supported?",
-    "audio_prompt": "Which choice is supported by the evidence given? Read this evidence: “A map legend shows one centimetre represents five kilometres.” Which inference is best supported?",
+    "skill": "inference",
+    "question": "In an unseen Year 5 task about a short report with one unsupported claim, when applying the skill independently, which answer best shows independent understanding of inference?",
+    "audio_prompt": "In an unseen Year 5 task about a short report with one unsupported claim, when applying the skill independently, which answer best shows independent understanding of inference?",
     "answers": [
       {
-        "text": "a four-centimetre route represents twenty kilometres",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant inference, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "The opposite is certainly true",
-        "is_correct": false
-      },
-      {
-        "text": "A conclusion unrelated to the evidence",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The inference uses the stated scale while remaining open to revision.",
-      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+      "summary": "It identifies the relevant inference, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1476,27 +1716,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Read for meaning before you choose. Which clue most directly supports the inference that a four-centimetre route represents twenty kilometres?",
-    "audio_prompt": "Read for meaning before you choose. Which clue most directly supports the inference that a four-centimetre route represents twenty kilometres?",
+    "skill": "prediction",
+    "question": "In an unseen Year 5 task about a character repeatedly checking the clock, when a familiar answer is tempting, which answer best shows independent understanding of prediction?",
+    "audio_prompt": "In an unseen Year 5 task about a character repeatedly checking the clock, when a familiar answer is tempting, which answer best shows independent understanding of prediction?",
     "answers": [
       {
-        "text": "The number of words in the sentence",
-        "is_correct": false
-      },
-      {
-        "text": "the stated scale",
+        "text": "It identifies the relevant prediction, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "A personal preference not mentioned in the text",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Point to evidence before explaining your reasoning."
+      "summary": "It identifies the relevant prediction, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1506,27 +1746,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which option is the most precise? A reader infers that a four-centimetre route represents twenty kilometres. What is the best monitoring step?",
-    "audio_prompt": "Which option is the most precise? A reader infers that a four-centimetre route represents twenty kilometres. What is the best monitoring step?",
+    "skill": "evaluation",
+    "question": "In an unseen Year 5 task about an article comparing reusable and disposable bottles, when precision matters, which answer best shows independent understanding of evaluation?",
+    "audio_prompt": "In an unseen Year 5 task about an article comparing reusable and disposable bottles, when precision matters, which answer best shows independent understanding of evaluation?",
     "answers": [
       {
-        "text": "Keep the inference even if later evidence contradicts it",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "Replace it with an unsupported guess",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "measure again if the line is curved",
+        "text": "It identifies the relevant evaluation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+      "summary": "It identifies the relevant evaluation, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1536,27 +1776,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Use every clue in the example. Which response best evaluates the reasoning about “A map legend shows one centimetre represents five kilometres.”?",
-    "audio_prompt": "Use every clue in the example. Which response best evaluates the reasoning about “A map legend shows one centimetre represents five kilometres.”?",
+    "skill": "main_idea",
+    "question": "In an unseen Year 5 task about a text where the reader must revise an early prediction, when checking the writer’s purpose, which answer best shows independent understanding of main idea?",
+    "audio_prompt": "In an unseen Year 5 task about a text where the reader must revise an early prediction, when checking the writer’s purpose, which answer best shows independent understanding of main idea?",
     "answers": [
       {
-        "text": "The inference is plausible. The supporting evidence is the stated scale, but the reader should measure again if the line is curved",
+        "text": "It identifies the relevant main idea, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "The inference must be true because it sounds interesting",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "The reader should judge only whether they like the topic",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+      "summary": "It identifies the relevant main idea, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1566,27 +1806,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which answer holds up when you check the full context? Read this evidence: “The final paragraph repeats the opening image but changes darkness to dawn.” Which inference is best supported?",
-    "audio_prompt": "Which answer holds up when you check the full context? Read this evidence: “The final paragraph repeats the opening image but changes darkness to dawn.” Which inference is best supported?",
+    "skill": "summary",
+    "question": "In an unseen Year 5 task about a paragraph explaining why leaves change colour, when more than one clue is present, which answer best shows independent understanding of summary?",
+    "audio_prompt": "In an unseen Year 5 task about a paragraph explaining why leaves change colour, when more than one clue is present, which answer best shows independent understanding of summary?",
     "answers": [
       {
-        "text": "The opposite is certainly true",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "the ending suggests hope or renewal",
+        "text": "It identifies the relevant summary, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "A conclusion unrelated to the evidence",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The inference uses the changed image from darkness to dawn while remaining open to revision.",
-      "hint": "Combine a precise clue with relevant knowledge; do not claim more than it supports."
+      "summary": "It identifies the relevant summary, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1596,27 +1836,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Decide which option best matches what the text shows. Which clue most directly supports the inference that the ending suggests hope or renewal?",
-    "audio_prompt": "Decide which option best matches what the text shows. Which clue most directly supports the inference that the ending suggests hope or renewal?",
+    "skill": "literal_meaning",
+    "question": "In an unseen Year 5 task about a story title that changes meaning after the ending, when transferring the skill, which answer best shows independent understanding of literal meaning?",
+    "audio_prompt": "In an unseen Year 5 task about a story title that changes meaning after the ending, when transferring the skill, which answer best shows independent understanding of literal meaning?",
     "answers": [
       {
-        "text": "The number of words in the sentence",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "A personal preference not mentioned in the text",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "the changed image from darkness to dawn",
+        "text": "It identifies the relevant literal meaning, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The selected clue is the textual or visual anchor for the inference.",
-      "hint": "Point to evidence before explaining your reasoning."
+      "summary": "It identifies the relevant literal meaning, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1626,27 +1866,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Which choice best demonstrates the skill in this new example? A reader infers that the ending suggests hope or renewal. What is the best monitoring step?",
-    "audio_prompt": "Which choice best demonstrates the skill in this new example? A reader infers that the ending suggests hope or renewal. What is the best monitoring step?",
+    "skill": "theme",
+    "question": "In an unseen Year 5 task about an article about restoring wetlands, when explaining the reasoning, which answer best shows independent understanding of theme?",
+    "audio_prompt": "In an unseen Year 5 task about an article about restoring wetlands, when explaining the reasoning, which answer best shows independent understanding of theme?",
     "answers": [
       {
-        "text": "connect the shift to the character's outcome",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant theme, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Keep the inference even if later evidence contradicts it",
-        "is_correct": false
-      },
-      {
-        "text": "Replace it with an unsupported guess",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Monitoring means checking and revising a mental model as evidence develops.",
-      "hint": "Ask what new evidence would confirm, qualify or overturn the inference."
+      "summary": "It identifies the relevant theme, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1656,27 +1896,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "strategic_comprehension_and_evaluation",
-    "question": "Make your final choice from the evidence in the question. Which response best evaluates the reasoning about “The final paragraph repeats the opening image but changes darkness to dawn.”?",
-    "audio_prompt": "Make your final choice from the evidence in the question. Which response best evaluates the reasoning about “The final paragraph repeats the opening image but changes darkness to dawn.”?",
+    "skill": "monitoring",
+    "question": "In an unseen Year 5 task about a narrative in which a character avoids eye contact, as a final independent check, which answer best shows independent understanding of monitoring?",
+    "audio_prompt": "In an unseen Year 5 task about a narrative in which a character avoids eye contact, as a final independent check, which answer best shows independent understanding of monitoring?",
     "answers": [
       {
-        "text": "The inference must be true because it sounds interesting",
-        "is_correct": false
-      },
-      {
-        "text": "The inference is plausible. The supporting evidence is the changed image from darkness to dawn, but the reader should connect the shift to the character's outcome",
+        "text": "It identifies the relevant monitoring, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "The reader should judge only whether they like the topic",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Evaluation weighs evidence strength and acknowledges uncertainty.",
-      "hint": "Use a criterion: evidence relevance, source quality or consistency."
+      "summary": "It identifies the relevant monitoring, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   }
 ]

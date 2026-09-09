@@ -6,27 +6,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "You are drafting a story in which a child misses the last ferry. The setting is described as wide empty harbour. Which plan best develops isolation?",
-    "audio_prompt": "You are drafting a story in which a child misses the last ferry. The setting is described as wide empty harbour. Which plan best develops isolation?",
+    "skill": "imagery",
+    "question": "Which response best demonstrates the AC9E5 skill in “the moon was a silver coin”?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in “the moon was a silver coin”?",
     "answers": [
       {
-        "text": "compare the fog to a closing curtain, and make the character's choices change what happens.",
+        "text": "It names a feature in “the moon was a silver coin” but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses imagery and connects it to specific evidence in “the moon was a silver coin”.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe wide empty harbour once, then make the character change without a cause.",
+        "text": "It gives a personal reaction to “the moon was a silver coin” but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“compare the fog to a closing curtain, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops isolation by linking compare the fog to a closing curtain with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "The response uses imagery and connects it to specific evidence in “the moon was a silver coin”. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -36,27 +36,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Read carefully: You are drafting a story in which siblings find glowing fungi. The setting is described as night forest. Which plan best develops wonder?",
-    "audio_prompt": "Read carefully: You are drafting a story in which siblings find glowing fungi. The setting is described as night forest. Which plan best develops wonder?",
+    "skill": "simile",
+    "question": "Which response best demonstrates the AC9E5 skill in “the wind clawed at the shutters”?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in “the wind clawed at the shutters”?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It names a feature in “the wind clawed at the shutters” but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "use controlled light imagery, and make the character's choices change what happens.",
+        "text": "It gives a personal reaction to “the wind clawed at the shutters” but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses simile and connects it to specific evidence in “the wind clawed at the shutters”.",
         "is_correct": true
-      },
-      {
-        "text": "Describe night forest once, then make the character change without a cause.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“use controlled light imagery, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops wonder by linking use controlled light imagery with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "The response uses simile and connects it to specific evidence in “the wind clawed at the shutters”. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -66,27 +66,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which answer makes the most sense here? You are drafting a story in which a student opens a sealed box. The setting is described as dusty archive. Which plan best develops curiosity?",
-    "audio_prompt": "Which answer makes the most sense here? You are drafting a story in which a student opens a sealed box. The setting is described as dusty archive. Which plan best develops curiosity?",
+    "skill": "metaphor",
+    "question": "Which response best demonstrates the AC9E5 skill in “as quiet as falling snow”?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in “as quiet as falling snow”?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It gives a personal reaction to “as quiet as falling snow” but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "Describe dusty archive once, then make the character change without a cause.",
-        "is_correct": false
-      },
-      {
-        "text": "pace the reveal with short observations, and make the character's choices change what happens.",
+        "text": "The response uses metaphor and connects it to specific evidence in “as quiet as falling snow”.",
         "is_correct": true
+      },
+      {
+        "text": "It names a feature in “as quiet as falling snow” but does not explain how it contributes to meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“pace the reveal with short observations, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops curiosity by linking pace the reveal with short observations with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "The response uses metaphor and connects it to specific evidence in “as quiet as falling snow”. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -96,27 +96,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Look at the wording and meaning. You are drafting a story in which a child navigates a train trip. The setting is described as changing stations. Which plan best develops independence?",
-    "audio_prompt": "Look at the wording and meaning. You are drafting a story in which a child navigates a train trip. The setting is described as changing stations. Which plan best develops independence?",
+    "skill": "personification",
+    "question": "Which response best demonstrates the AC9E5 skill in a poem repeating soft s sounds?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a poem repeating soft s sounds?",
     "answers": [
       {
-        "text": "use signs as both help and pressure, and make the character's choices change what happens.",
+        "text": "The response uses personification and connects it to specific evidence in a poem repeating soft s sounds.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It names a feature in a poem repeating soft s sounds but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "Describe changing stations once, then make the character change without a cause.",
+        "text": "It gives a personal reaction to a poem repeating soft s sounds but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“use signs as both help and pressure, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops independence by linking use signs as both help and pressure with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "The response uses personification and connects it to specific evidence in a poem repeating soft s sounds. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -126,27 +126,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Choose the option that fits the situation best. You are drafting a story in which two inventors compete for attention. The setting is described as messy workshop. Which plan best develops jealousy?",
-    "audio_prompt": "Choose the option that fits the situation best. You are drafting a story in which two inventors compete for attention. The setting is described as messy workshop. Which plan best develops jealousy?",
+    "skill": "alliteration",
+    "question": "Which response best demonstrates the AC9E5 skill in a comic using “CRASH!”?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a comic using “CRASH!”?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It gives a personal reaction to a comic using “CRASH!” but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "show feelings through clipped dialogue, and make the character's choices change what happens.",
+        "text": "It names a feature in a comic using “CRASH!” but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses alliteration and connects it to specific evidence in a comic using “CRASH!”.",
         "is_correct": true
-      },
-      {
-        "text": "Describe messy workshop once, then make the character change without a cause.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“show feelings through clipped dialogue, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops jealousy by linking show feelings through clipped dialogue with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "The response uses alliteration and connects it to specific evidence in a comic using “CRASH!”. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -156,27 +156,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which choice is accurate in this example? You are drafting a story in which a lost hiker sees a trail marker. The setting is described as darkening bush track. Which plan best develops relief?",
-    "audio_prompt": "Which choice is accurate in this example? You are drafting a story in which a lost hiker sees a trail marker. The setting is described as darkening bush track. Which plan best develops relief?",
+    "skill": "onomatopoeia",
+    "question": "Which response best demonstrates the AC9E5 skill in a song verse with repeated initial sounds?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a song verse with repeated initial sounds?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe darkening bush track once, then make the character change without a cause.",
-        "is_correct": false
-      },
-      {
-        "text": "shift imagery from tangled to open, and make the character's choices change what happens.",
+        "text": "The response uses onomatopoeia and connects it to specific evidence in a song verse with repeated initial sounds.",
         "is_correct": true
+      },
+      {
+        "text": "It gives a personal reaction to a song verse with repeated initial sounds but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "It names a feature in a song verse with repeated initial sounds but does not explain how it contributes to meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“shift imagery from tangled to open, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops relief by linking shift imagery from tangled to open with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "The response uses onomatopoeia and connects it to specific evidence in a song verse with repeated initial sounds. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -186,27 +186,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Focus on the key clue. You are drafting a story in which children redirect rainwater. The setting is described as parched garden. Which plan best develops resourcefulness?",
-    "audio_prompt": "Focus on the key clue. You are drafting a story in which children redirect rainwater. The setting is described as parched garden. Which plan best develops resourcefulness?",
+    "skill": "rhythm",
+    "question": "Which response best demonstrates the AC9E5 skill in a narrative describing hot sand and salt air?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a narrative describing hot sand and salt air?",
     "answers": [
       {
-        "text": "make setting pressure drive the plan, and make the character's choices change what happens.",
+        "text": "It names a feature in a narrative describing hot sand and salt air but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses rhythm and connects it to specific evidence in a narrative describing hot sand and salt air.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe parched garden once, then make the character change without a cause.",
+        "text": "It gives a personal reaction to a narrative describing hot sand and salt air but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“make setting pressure drive the plan, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops resourcefulness by linking make setting pressure drive the plan with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "The response uses rhythm and connects it to specific evidence in a narrative describing hot sand and salt air. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -216,27 +216,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "What works best in this situation? You are drafting a story in which a cyclist repairs a chain during a race. The setting is described as steep roadside. Which plan best develops determination?",
-    "audio_prompt": "What works best in this situation? You are drafting a story in which a cyclist repairs a chain during a race. The setting is described as steep roadside. Which plan best develops determination?",
+    "skill": "tone",
+    "question": "Which response best demonstrates the AC9E5 skill in a poem where rain “dances”?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a poem where rain “dances”?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It names a feature in a poem where rain “dances” but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "repeat precise action verbs, and make the character's choices change what happens.",
+        "text": "It gives a personal reaction to a poem where rain “dances” but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses tone and connects it to specific evidence in a poem where rain “dances”.",
         "is_correct": true
-      },
-      {
-        "text": "Describe steep roadside once, then make the character change without a cause.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“repeat precise action verbs, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops determination by linking repeat precise action verbs with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "The response uses tone and connects it to specific evidence in a poem where rain “dances”. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -246,27 +246,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which option matches what is happening? You are drafting a story in which partners cross a rope bridge. The setting is described as windy gorge. Which plan best develops trust?",
-    "audio_prompt": "Which option matches what is happening? You are drafting a story in which partners cross a rope bridge. The setting is described as windy gorge. Which plan best develops trust?",
+    "skill": "imagery",
+    "question": "Which response best demonstrates the AC9E5 skill in a metaphor comparing worry to a knot?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a metaphor comparing worry to a knot?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It gives a personal reaction to a metaphor comparing worry to a knot but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "Describe windy gorge once, then make the character change without a cause.",
-        "is_correct": false
-      },
-      {
-        "text": "let one action answer earlier doubt, and make the character's choices change what happens.",
+        "text": "The response uses imagery and connects it to specific evidence in a metaphor comparing worry to a knot.",
         "is_correct": true
+      },
+      {
+        "text": "It names a feature in a metaphor comparing worry to a knot but does not explain how it contributes to meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“let one action answer earlier doubt, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops trust by linking let one action answer earlier doubt with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "The response uses imagery and connects it to specific evidence in a metaphor comparing worry to a knot. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -276,27 +276,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Use the details in the example. You are drafting a story in which a musician performs an original song. The setting is described as school stage. Which plan best develops pride?",
-    "audio_prompt": "Use the details in the example. You are drafting a story in which a musician performs an original song. The setting is described as school stage. Which plan best develops pride?",
+    "skill": "simile",
+    "question": "Which response best demonstrates the AC9E5 skill in a stanza with a repeated beat?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a stanza with a repeated beat?",
     "answers": [
       {
-        "text": "show confidence through changing posture, and make the character's choices change what happens.",
+        "text": "The response uses simile and connects it to specific evidence in a stanza with a repeated beat.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It names a feature in a stanza with a repeated beat but does not explain how it contributes to meaning.",
         "is_correct": false
       },
       {
-        "text": "Describe school stage once, then make the character change without a cause.",
+        "text": "It gives a personal reaction to a stanza with a repeated beat but no evidence or precise terminology.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“show confidence through changing posture, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops pride by linking show confidence through changing posture with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "The response uses simile and connects it to specific evidence in a stanza with a repeated beat. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -305,28 +305,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Why is “repeat precise action verbs, and make the character's choices change what happens.” the strongest answer to this question: You are drafting a story in which a cyclist repairs a chain during a race. The setting is described as steep roadside. Which plan best develops determination?",
-    "audio_prompt": "Why is “repeat precise action verbs, and make the character's choices change what happens.” the strongest answer to this question: You are drafting a story in which a cyclist repairs a chain during a race. The setting is described as steep roadside. Which plan best develops determination?",
+    "stage": "recognise",
+    "skill": "metaphor",
+    "question": "Which response best demonstrates the AC9E5 skill in a scene using sharp consonant sounds?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a scene using sharp consonant sounds?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "It gives a personal reaction to a scene using sharp consonant sounds but no evidence or precise terminology.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "It names a feature in a scene using sharp consonant sounds but does not explain how it contributes to meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "The response uses metaphor and connects it to specific evidence in a scene using sharp consonant sounds.",
         "is_correct": true
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The plan develops determination by linking repeat precise action verbs with motivated action and consequence.",
-      "hint": "Find the exact clue that makes “repeat precise action verbs, and make the character's choices change what happens.” fit."
+      "summary": "The response uses metaphor and connects it to specific evidence in a scene using sharp consonant sounds. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -335,28 +335,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "What makes “let one action answer earlier doubt, and make the character's choices change what happens.” work in this example? You are drafting a story in which partners cross a rope bridge. The setting is described as windy gorge. Which plan best develops trust?",
-    "audio_prompt": "What makes “let one action answer earlier doubt, and make the character's choices change what happens.” work in this example? You are drafting a story in which partners cross a rope bridge. The setting is described as windy gorge. Which plan best develops trust?",
+    "stage": "recognise",
+    "skill": "personification",
+    "question": "Which response best demonstrates the AC9E5 skill in a poem shifting from bright to dark imagery?",
+    "audio_prompt": "Which response best demonstrates the AC9E5 skill in a poem shifting from bright to dark imagery?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
-      },
-      {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "The response uses personification and connects it to specific evidence in a poem shifting from bright to dark imagery.",
         "is_correct": true
+      },
+      {
+        "text": "It gives a personal reaction to a poem shifting from bright to dark imagery but no evidence or precise terminology.",
+        "is_correct": false
+      },
+      {
+        "text": "It names a feature in a poem shifting from bright to dark imagery but does not explain how it contributes to meaning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The plan develops trust by linking let one action answer earlier doubt with motivated action and consequence.",
-      "hint": "Find the exact clue that makes “let one action answer earlier doubt, and make the character's choices change what happens.” fit."
+      "summary": "The response uses personification and connects it to specific evidence in a poem shifting from bright to dark imagery. Strong answers match terminology to evidence and meaning.",
+      "hint": "Ask what the writer or reader can prove from the example, not what merely sounds sophisticated."
     }
   },
   {
@@ -365,28 +365,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which reason best explains why “show confidence through changing posture, and make the character's choices change what happens.” fits? You are drafting a story in which a musician performs an original song. The setting is described as school stage. Which plan best develops pride?",
-    "audio_prompt": "Which reason best explains why “show confidence through changing posture, and make the character's choices change what happens.” fits? You are drafting a story in which a musician performs an original song. The setting is described as school stage. Which plan best develops pride?",
+    "stage": "reason",
+    "skill": "simile",
+    "question": "A student gives an answer about a poem repeating soft s sounds. Why is the strongest explanation the one that links simile to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a poem repeating soft s sounds. Why is the strongest explanation the one that links simile to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because simile is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The plan develops pride by linking show confidence through changing posture with motivated action and consequence.",
-      "hint": "Find the exact clue that makes “show confidence through changing posture, and make the character's choices change what happens.” fit."
+      "summary": "Because simile is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -395,28 +395,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "How does “build a pattern of growing light, and make the character's choices change what happens.” match the meaning of this example? You are drafting a story in which neighbours relight a community hall. The setting is described as blackout. Which plan best develops hope?",
-    "audio_prompt": "How does “build a pattern of growing light, and make the character's choices change what happens.” match the meaning of this example? You are drafting a story in which neighbours relight a community hall. The setting is described as blackout. Which plan best develops hope?",
+    "stage": "reason",
+    "skill": "metaphor",
+    "question": "A student gives an answer about a comic using “CRASH!”. Why is the strongest explanation the one that links metaphor to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a comic using “CRASH!”. Why is the strongest explanation the one that links metaphor to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because metaphor is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The plan develops hope by linking build a pattern of growing light with motivated action and consequence.",
-      "hint": "Find the exact clue that makes “build a pattern of growing light, and make the character's choices change what happens.” fit."
+      "summary": "Because metaphor is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -425,28 +425,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Why does “contrast trembling hands with decisive action, and make the character's choices change what happens.” suit this situation better than the other choices? You are drafting a story in which a swimmer hears a distress call. The setting is described as rough beach. Which plan best develops courage?",
-    "audio_prompt": "Why does “contrast trembling hands with decisive action, and make the character's choices change what happens.” suit this situation better than the other choices? You are drafting a story in which a swimmer hears a distress call. The setting is described as rough beach. Which plan best develops courage?",
+    "stage": "reason",
+    "skill": "personification",
+    "question": "A student gives an answer about a song verse with repeated initial sounds. Why is the strongest explanation the one that links personification to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a song verse with repeated initial sounds. Why is the strongest explanation the one that links personification to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
-      },
-      {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because personification is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
+      },
+      {
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The plan develops courage by linking contrast trembling hands with decisive action with motivated action and consequence.",
-      "hint": "Find the exact clue that makes “contrast trembling hands with decisive action, and make the character's choices change what happens.” fit."
+      "summary": "Because personification is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -455,28 +455,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "What clue in the example supports “change dialogue from accusation to cooperation, and make the character's choices change what happens.”? You are drafting a story in which rivals shelter from hail. The setting is described as small bus stop. Which plan best develops friendship?",
-    "audio_prompt": "What clue in the example supports “change dialogue from accusation to cooperation, and make the character's choices change what happens.”? You are drafting a story in which rivals shelter from hail. The setting is described as small bus stop. Which plan best develops friendship?",
+    "stage": "reason",
+    "skill": "alliteration",
+    "question": "A student gives an answer about a narrative describing hot sand and salt air. Why is the strongest explanation the one that links alliteration to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a narrative describing hot sand and salt air. Why is the strongest explanation the one that links alliteration to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because alliteration is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The plan develops friendship by linking change dialogue from accusation to cooperation with motivated action and consequence.",
-      "hint": "Find the exact clue that makes “change dialogue from accusation to cooperation, and make the character's choices change what happens.” fit."
+      "summary": "Because alliteration is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -485,28 +485,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which explanation shows why “let repair become a metaphor, and make the character's choices change what happens.” is correct here? You are drafting a story in which friends repair a torn costume. The setting is described as backstage. Which plan best develops forgiveness?",
-    "audio_prompt": "Which explanation shows why “let repair become a metaphor, and make the character's choices change what happens.” is correct here? You are drafting a story in which friends repair a torn costume. The setting is described as backstage. Which plan best develops forgiveness?",
+    "stage": "reason",
+    "skill": "onomatopoeia",
+    "question": "A student gives an answer about a poem where rain “dances”. Why is the strongest explanation the one that links onomatopoeia to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a poem where rain “dances”. Why is the strongest explanation the one that links onomatopoeia to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because onomatopoeia is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The plan develops forgiveness by linking let repair become a metaphor with motivated action and consequence.",
-      "hint": "Find the exact clue that makes “let repair become a metaphor, and make the character's choices change what happens.” fit."
+      "summary": "Because onomatopoeia is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -515,28 +515,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Why would “return to one warning shadow, and make the character's choices change what happens.” make sense to a careful reader? You are drafting a story in which friends enter an abandoned greenhouse. The setting is described as cracked glass and vines. Which plan best develops hidden danger?",
-    "audio_prompt": "Why would “return to one warning shadow, and make the character's choices change what happens.” make sense to a careful reader? You are drafting a story in which friends enter an abandoned greenhouse. The setting is described as cracked glass and vines. Which plan best develops hidden danger?",
+    "stage": "reason",
+    "skill": "rhythm",
+    "question": "A student gives an answer about a metaphor comparing worry to a knot. Why is the strongest explanation the one that links rhythm to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a metaphor comparing worry to a knot. Why is the strongest explanation the one that links rhythm to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
-      },
-      {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because rhythm is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The plan develops hidden danger by linking return to one warning shadow with motivated action and consequence.",
-      "hint": "Find the exact clue that makes “return to one warning shadow, and make the character's choices change what happens.” fit."
+      "summary": "Because rhythm is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -545,28 +545,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "What is the best reason for choosing “use slow sensory detail, and make the character's choices change what happens.”? You are drafting a story in which a baker waits for difficult dough. The setting is described as warm kitchen. Which plan best develops patience?",
-    "audio_prompt": "What is the best reason for choosing “use slow sensory detail, and make the character's choices change what happens.”? You are drafting a story in which a baker waits for difficult dough. The setting is described as warm kitchen. Which plan best develops patience?",
+    "stage": "reason",
+    "skill": "tone",
+    "question": "A student gives an answer about a stanza with a repeated beat. Why is the strongest explanation the one that links tone to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a stanza with a repeated beat. Why is the strongest explanation the one that links tone to evidence and effect?",
     "answers": [
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because tone is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "It is correct because it is the longest option.",
-        "is_correct": false
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The plan develops patience by linking use slow sensory detail with motivated action and consequence.",
-      "hint": "Find the exact clue that makes “use slow sensory detail, and make the character's choices change what happens.” fit."
+      "summary": "Because tone is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -575,28 +575,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which explanation connects “give opposing characters believable motives, and make the character's choices change what happens.” to the key clue? You are drafting a story in which players challenge an unfair rule. The setting is described as sports field. Which plan best develops fairness?",
-    "audio_prompt": "Which explanation connects “give opposing characters believable motives, and make the character's choices change what happens.” to the key clue? You are drafting a story in which players challenge an unfair rule. The setting is described as sports field. Which plan best develops fairness?",
+    "stage": "reason",
+    "skill": "imagery",
+    "question": "A student gives an answer about a scene using sharp consonant sounds. Why is the strongest explanation the one that links imagery to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a scene using sharp consonant sounds. Why is the strongest explanation the one that links imagery to evidence and effect?",
     "answers": [
       {
-        "text": "It is correct because it is the longest option.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "It matches the key clue and meaning in the example.",
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because imagery is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
-      },
-      {
-        "text": "It is correct because familiar words are always safest.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The plan develops fairness by linking give opposing characters believable motives with motivated action and consequence.",
-      "hint": "Find the exact clue that makes “give opposing characters believable motives, and make the character's choices change what happens.” fit."
+      "summary": "Because imagery is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -605,28 +605,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "“Add unrelated comparisons to every sentence and leave events unchanged.” might seem possible at first. What should you notice before answering this question: You are drafting a story in which friends enter an abandoned greenhouse. The setting is described as cracked glass and vines. Which plan best develops hidden danger?",
-    "audio_prompt": "“Add unrelated comparisons to every sentence and leave events unchanged.” might seem possible at first. What should you notice before answering this question: You are drafting a story in which friends enter an abandoned greenhouse. The setting is described as cracked glass and vines. Which plan best develops hidden danger?",
+    "stage": "reason",
+    "skill": "simile",
+    "question": "A student gives an answer about a poem shifting from bright to dark imagery. Why is the strongest explanation the one that links simile to evidence and effect?",
+    "audio_prompt": "A student gives an answer about a poem shifting from bright to dark imagery. Why is the strongest explanation the one that links simile to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “Add unrelated comparisons to every sentence and leave events unchanged.” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “return to one warning shadow, and make the character's choices change what happens.” matches the key clue, while “Add unrelated comparisons to every sentence and leave events unchanged.” does not.",
+        "text": "Because simile is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
+      },
+      {
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Add unrelated comparisons to every sentence and leave events unchanged.” fail and “return to one warning shadow, and make the character's choices change what happens.” succeed."
+      "summary": "Because simile is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -635,28 +635,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Why is “Add unrelated comparisons to every sentence and leave events unchanged.” not the best choice here? You are drafting a story in which a baker waits for difficult dough. The setting is described as warm kitchen. Which plan best develops patience?",
-    "audio_prompt": "Why is “Add unrelated comparisons to every sentence and leave events unchanged.” not the best choice here? You are drafting a story in which a baker waits for difficult dough. The setting is described as warm kitchen. Which plan best develops patience?",
+    "stage": "reason",
+    "skill": "metaphor",
+    "question": "A student gives an answer about “the moon was a silver coin”. Why is the strongest explanation the one that links metaphor to evidence and effect?",
+    "audio_prompt": "A student gives an answer about “the moon was a silver coin”. Why is the strongest explanation the one that links metaphor to evidence and effect?",
     "answers": [
       {
-        "text": "Check the whole example: “use slow sensory detail, and make the character's choices change what happens.” matches the key clue, while “Add unrelated comparisons to every sentence and leave events unchanged.” does not.",
+        "text": "Because metaphor is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
       },
       {
-        "text": "Keep “Add unrelated comparisons to every sentence and leave events unchanged.” because it contains a familiar word.",
+        "text": "Because the longest explanation is usually the most accurate.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Add unrelated comparisons to every sentence and leave events unchanged.” fail and “use slow sensory detail, and make the character's choices change what happens.” succeed."
+      "summary": "Because metaphor is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -665,28 +665,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Compare “Add unrelated comparisons to every sentence and leave events unchanged.” with “give opposing characters believable motives, and make the character's choices change what happens.”. What important difference matters in this example? You are drafting a story in which players challenge an unfair rule. The setting is described as sports field. Which plan best develops fairness?",
-    "audio_prompt": "Compare “Add unrelated comparisons to every sentence and leave events unchanged.” with “give opposing characters believable motives, and make the character's choices change what happens.”. What important difference matters in this example? You are drafting a story in which players challenge an unfair rule. The setting is described as sports field. Which plan best develops fairness?",
+    "stage": "reason",
+    "skill": "personification",
+    "question": "A student gives an answer about “the wind clawed at the shutters”. Why is the strongest explanation the one that links personification to evidence and effect?",
+    "audio_prompt": "A student gives an answer about “the wind clawed at the shutters”. Why is the strongest explanation the one that links personification to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “Add unrelated comparisons to every sentence and leave events unchanged.” because it contains a familiar word.",
+        "text": "Because using a technical term automatically earns full marks.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “give opposing characters believable motives, and make the character's choices change what happens.” matches the key clue, while “Add unrelated comparisons to every sentence and leave events unchanged.” does not.",
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
+      },
+      {
+        "text": "Because personification is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Add unrelated comparisons to every sentence and leave events unchanged.” fail and “give opposing characters believable motives, and make the character's choices change what happens.” succeed."
+      "summary": "Because personification is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -695,28 +695,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which clue rules out “Add unrelated comparisons to every sentence and leave events unchanged.” in this situation? You are drafting a story in which a goalkeeper admits touching the ball. The setting is described as tense final. Which plan best develops honesty?",
-    "audio_prompt": "Which clue rules out “Add unrelated comparisons to every sentence and leave events unchanged.” in this situation? You are drafting a story in which a goalkeeper admits touching the ball. The setting is described as tense final. Which plan best develops honesty?",
+    "stage": "reason",
+    "skill": "alliteration",
+    "question": "A student gives an answer about “as quiet as falling snow”. Why is the strongest explanation the one that links alliteration to evidence and effect?",
+    "audio_prompt": "A student gives an answer about “as quiet as falling snow”. Why is the strongest explanation the one that links alliteration to evidence and effect?",
     "answers": [
       {
-        "text": "Keep “Add unrelated comparisons to every sentence and leave events unchanged.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “slow the decision before the confession, and make the character's choices change what happens.” matches the key clue, while “Add unrelated comparisons to every sentence and leave events unchanged.” does not.",
+        "text": "Because alliteration is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
         "is_correct": true
+      },
+      {
+        "text": "Because using a technical term automatically earns full marks.",
+        "is_correct": false
+      },
+      {
+        "text": "Because the longest explanation is usually the most accurate.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Add unrelated comparisons to every sentence and leave events unchanged.” fail and “slow the decision before the confession, and make the character's choices change what happens.” succeed."
+      "summary": "Because alliteration is useful only when the answer shows where it appears and what it changes for meaning, organisation or response.",
+      "hint": "Use the routine for this code and check that every claim is supported."
     }
   },
   {
@@ -726,27 +726,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "A quick reader might choose “Add unrelated comparisons to every sentence and leave events unchanged.”. What would a closer reading show? You are drafting a story in which a child breaks a borrowed model. The setting is described as silent classroom. Which plan best develops regret?",
-    "audio_prompt": "A quick reader might choose “Add unrelated comparisons to every sentence and leave events unchanged.”. What would a closer reading show? You are drafting a story in which a child breaks a borrowed model. The setting is described as silent classroom. Which plan best develops regret?",
+    "skill": "misconception_control",
+    "question": "In a narrative describing hot sand and salt air, a student is reading figurative language literally. What is the best correction?",
+    "audio_prompt": "In a narrative describing hot sand and salt air, a student is reading figurative language literally. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “make the damage echo the friendship, and make the character's choices change what happens.” matches the key clue, while “Add unrelated comparisons to every sentence and leave events unchanged.” does not.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “Add unrelated comparisons to every sentence and leave events unchanged.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Add unrelated comparisons to every sentence and leave events unchanged.” fail and “make the damage echo the friendship, and make the character's choices change what happens.” succeed."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -756,27 +756,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "What makes “use one recurring leaf image, and make the character's choices change what happens.” more precise than “Add unrelated comparisons to every sentence and leave events unchanged.” here? You are drafting a story in which a gardener tends a grandparent's tree. The setting is described as dry backyard. Which plan best develops grief?",
-    "audio_prompt": "What makes “use one recurring leaf image, and make the character's choices change what happens.” more precise than “Add unrelated comparisons to every sentence and leave events unchanged.” here? You are drafting a story in which a gardener tends a grandparent's tree. The setting is described as dry backyard. Which plan best develops grief?",
+    "skill": "misconception_control",
+    "question": "In a poem where rain “dances”, a student is naming a device without an effect. What is the best correction?",
+    "audio_prompt": "In a poem where rain “dances”, a student is naming a device without an effect. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “Add unrelated comparisons to every sentence and leave events unchanged.” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “use one recurring leaf image, and make the character's choices change what happens.” matches the key clue, while “Add unrelated comparisons to every sentence and leave events unchanged.” does not.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Add unrelated comparisons to every sentence and leave events unchanged.” fail and “use one recurring leaf image, and make the character's choices change what happens.” succeed."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -786,27 +786,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which detail helps you reject “Add unrelated comparisons to every sentence and leave events unchanged.”? You are drafting a story in which a dog waits outside a hospital. The setting is described as busy entrance. Which plan best develops loyalty?",
-    "audio_prompt": "Which detail helps you reject “Add unrelated comparisons to every sentence and leave events unchanged.”? You are drafting a story in which a dog waits outside a hospital. The setting is described as busy entrance. Which plan best develops loyalty?",
+    "skill": "misconception_control",
+    "question": "In a metaphor comparing worry to a knot, a student is inventing a tone without evidence. What is the best correction?",
+    "audio_prompt": "In a metaphor comparing worry to a knot, a student is inventing a tone without evidence. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “Add unrelated comparisons to every sentence and leave events unchanged.” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “repeat a small waiting action, and make the character's choices change what happens.” matches the key clue, while “Add unrelated comparisons to every sentence and leave events unchanged.” does not.",
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
+      },
+      {
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Add unrelated comparisons to every sentence and leave events unchanged.” fail and “repeat a small waiting action, and make the character's choices change what happens.” succeed."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -816,27 +816,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "What is the problem with choosing “Add unrelated comparisons to every sentence and leave events unchanged.” for this example? You are drafting a story in which a newcomer joins a rooftop garden. The setting is described as crowded city roof. Which plan best develops belonging?",
-    "audio_prompt": "What is the problem with choosing “Add unrelated comparisons to every sentence and leave events unchanged.” for this example? You are drafting a story in which a newcomer joins a rooftop garden. The setting is described as crowded city roof. Which plan best develops belonging?",
+    "skill": "misconception_control",
+    "question": "In a stanza with a repeated beat, a student is treating rhyme or alliteration as automatically effective. What is the best correction?",
+    "audio_prompt": "In a stanza with a repeated beat, a student is treating rhyme or alliteration as automatically effective. What is the best correction?",
     "answers": [
       {
-        "text": "Check the whole example: “use plant growth as a sustained image, and make the character's choices change what happens.” matches the key clue, while “Add unrelated comparisons to every sentence and leave events unchanged.” does not.",
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Keep “Add unrelated comparisons to every sentence and leave events unchanged.” because it contains a familiar word.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Add unrelated comparisons to every sentence and leave events unchanged.” fail and “use plant growth as a sustained image, and make the character's choices change what happens.” succeed."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -846,27 +846,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which comparison best separates “link each choice to a consequence, and make the character's choices change what happens.” from “Add unrelated comparisons to every sentence and leave events unchanged.”? You are drafting a story in which a pet escapes during a storm. The setting is described as flooded yard. Which plan best develops responsibility?",
-    "audio_prompt": "Which comparison best separates “link each choice to a consequence, and make the character's choices change what happens.” from “Add unrelated comparisons to every sentence and leave events unchanged.”? You are drafting a story in which a pet escapes during a storm. The setting is described as flooded yard. Which plan best develops responsibility?",
+    "skill": "misconception_control",
+    "question": "In a scene using sharp consonant sounds, a student is reading figurative language literally. What is the best correction?",
+    "audio_prompt": "In a scene using sharp consonant sounds, a student is reading figurative language literally. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “Add unrelated comparisons to every sentence and leave events unchanged.” because it contains a familiar word.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Check the whole example: “link each choice to a consequence, and make the character's choices change what happens.” matches the key clue, while “Add unrelated comparisons to every sentence and leave events unchanged.” does not.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Add unrelated comparisons to every sentence and leave events unchanged.” fail and “link each choice to a consequence, and make the character's choices change what happens.” succeed."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -876,27 +876,27 @@
     "subject": "english",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "What should you check so you do not confuse “Add unrelated comparisons to every sentence and leave events unchanged.” with the correct answer? You are drafting a story in which a camper cooks a family dish. The setting is described as mountain camp. Which plan best develops homesickness?",
-    "audio_prompt": "What should you check so you do not confuse “Add unrelated comparisons to every sentence and leave events unchanged.” with the correct answer? You are drafting a story in which a camper cooks a family dish. The setting is described as mountain camp. Which plan best develops homesickness?",
+    "skill": "misconception_control",
+    "question": "In a poem shifting from bright to dark imagery, a student is naming a device without an effect. What is the best correction?",
+    "audio_prompt": "In a poem shifting from bright to dark imagery, a student is naming a device without an effect. What is the best correction?",
     "answers": [
       {
-        "text": "Keep “Add unrelated comparisons to every sentence and leave events unchanged.” because it contains a familiar word.",
-        "is_correct": false
-      },
-      {
-        "text": "Ignore the context and choose whichever answer sounds most complex.",
-        "is_correct": false
-      },
-      {
-        "text": "Check the whole example: “connect scent with memory, and make the character's choices change what happens.” matches the key clue, while “Add unrelated comparisons to every sentence and leave events unchanged.” does not.",
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Add unrelated comparisons to every sentence and leave events unchanged.” fail and “connect scent with memory, and make the character's choices change what happens.” succeed."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -905,28 +905,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Apply what you know to this example: You are drafting a story in which a newcomer joins a rooftop garden. The setting is described as crowded city roof. Which plan best develops belonging?",
-    "audio_prompt": "Apply what you know to this example: You are drafting a story in which a newcomer joins a rooftop garden. The setting is described as crowded city roof. Which plan best develops belonging?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In “the moon was a silver coin”, a student is inventing a tone without evidence. What is the best correction?",
+    "audio_prompt": "In “the moon was a silver coin”, a student is inventing a tone without evidence. What is the best correction?",
     "answers": [
       {
-        "text": "use plant growth as a sustained image, and make the character's choices change what happens.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe crowded city roof once, then make the character change without a cause.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“use plant growth as a sustained image, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops belonging by linking use plant growth as a sustained image with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -935,28 +935,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Use the skill independently. You are drafting a story in which a pet escapes during a storm. The setting is described as flooded yard. Which plan best develops responsibility?",
-    "audio_prompt": "Use the skill independently. You are drafting a story in which a pet escapes during a storm. The setting is described as flooded yard. Which plan best develops responsibility?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In “the wind clawed at the shutters”, a student is treating rhyme or alliteration as automatically effective. What is the best correction?",
+    "audio_prompt": "In “the wind clawed at the shutters”, a student is treating rhyme or alliteration as automatically effective. What is the best correction?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "link each choice to a consequence, and make the character's choices change what happens.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
-      },
-      {
-        "text": "Describe flooded yard once, then make the character change without a cause.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“link each choice to a consequence, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops responsibility by linking link each choice to a consequence with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -965,28 +965,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Work out the answer from the details given. You are drafting a story in which a camper cooks a family dish. The setting is described as mountain camp. Which plan best develops homesickness?",
-    "audio_prompt": "Work out the answer from the details given. You are drafting a story in which a camper cooks a family dish. The setting is described as mountain camp. Which plan best develops homesickness?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In “as quiet as falling snow”, a student is reading figurative language literally. What is the best correction?",
+    "audio_prompt": "In “as quiet as falling snow”, a student is reading figurative language literally. What is the best correction?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "Describe mountain camp once, then make the character change without a cause.",
-        "is_correct": false
-      },
-      {
-        "text": "connect scent with memory, and make the character's choices change what happens.",
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
+      },
+      {
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“connect scent with memory, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops homesickness by linking connect scent with memory with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -995,28 +995,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Now use the idea in context. You are drafting a story in which a child misses the last ferry. The setting is described as wide empty harbour. Which plan best develops isolation?",
-    "audio_prompt": "Now use the idea in context. You are drafting a story in which a child misses the last ferry. The setting is described as wide empty harbour. Which plan best develops isolation?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a poem repeating soft s sounds, a student is naming a device without an effect. What is the best correction?",
+    "audio_prompt": "In a poem repeating soft s sounds, a student is naming a device without an effect. What is the best correction?",
     "answers": [
       {
-        "text": "compare the fog to a closing curtain, and make the character's choices change what happens.",
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "Add more terminology without changing the reasoning.",
         "is_correct": false
       },
       {
-        "text": "Describe wide empty harbour once, then make the character change without a cause.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“compare the fog to a closing curtain, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops isolation by linking compare the fog to a closing curtain with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1025,28 +1025,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Choose carefully using meaning, not just a familiar word. You are drafting a story in which siblings find glowing fungi. The setting is described as night forest. Which plan best develops wonder?",
-    "audio_prompt": "Choose carefully using meaning, not just a familiar word. You are drafting a story in which siblings find glowing fungi. The setting is described as night forest. Which plan best develops wonder?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a comic using “CRASH!”, a student is inventing a tone without evidence. What is the best correction?",
+    "audio_prompt": "In a comic using “CRASH!”, a student is inventing a tone without evidence. What is the best correction?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
         "is_correct": false
       },
       {
-        "text": "use controlled light imagery, and make the character's choices change what happens.",
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
-      },
-      {
-        "text": "Describe night forest once, then make the character change without a cause.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“use controlled light imagery, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops wonder by linking use controlled light imagery with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1055,28 +1055,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which answer still works when you consider the whole example? You are drafting a story in which a student opens a sealed box. The setting is described as dusty archive. Which plan best develops curiosity?",
-    "audio_prompt": "Which answer still works when you consider the whole example? You are drafting a story in which a student opens a sealed box. The setting is described as dusty archive. Which plan best develops curiosity?",
+    "stage": "discriminate",
+    "skill": "misconception_control",
+    "question": "In a song verse with repeated initial sounds, a student is treating rhyme or alliteration as automatically effective. What is the best correction?",
+    "audio_prompt": "In a song verse with repeated initial sounds, a student is treating rhyme or alliteration as automatically effective. What is the best correction?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe dusty archive once, then make the character change without a cause.",
-        "is_correct": false
-      },
-      {
-        "text": "pace the reveal with short observations, and make the character's choices change what happens.",
+        "text": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
         "is_correct": true
+      },
+      {
+        "text": "Keep the answer because a plausible interpretation does not need evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more terminology without changing the reasoning.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "“pace the reveal with short observations, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops curiosity by linking pace the reveal with short observations with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "Return to the exact evidence, apply the device → exact words → literal/non-literal meaning → effect → whole-text mood or idea routine, and revise the answer so the claim matches what the text or word actually shows.",
+      "hint": "Identify the precise point where the reasoning stops matching the evidence."
     }
   },
   {
@@ -1085,28 +1085,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Use all the clues in this situation. You are drafting a story in which a child navigates a train trip. The setting is described as changing stations. Which plan best develops independence?",
-    "audio_prompt": "Use all the clues in this situation. You are drafting a story in which a child navigates a train trip. The setting is described as changing stations. Which plan best develops independence?",
+    "stage": "transfer",
+    "skill": "metaphor",
+    "question": "Apply the skill independently to a fresh version of a stanza with a repeated beat. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a stanza with a repeated beat. Which approach is strongest?",
     "answers": [
       {
-        "text": "use signs as both help and pressure, and make the character's choices change what happens.",
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use metaphor precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe changing stations once, then make the character change without a cause.",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“use signs as both help and pressure, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops independence by linking use signs as both help and pressure with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "Use metaphor precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1115,28 +1115,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Decide which option is most precise. You are drafting a story in which two inventors compete for attention. The setting is described as messy workshop. Which plan best develops jealousy?",
-    "audio_prompt": "Decide which option is most precise. You are drafting a story in which two inventors compete for attention. The setting is described as messy workshop. Which plan best develops jealousy?",
+    "stage": "transfer",
+    "skill": "personification",
+    "question": "Apply the skill independently to a fresh version of a scene using sharp consonant sounds. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a scene using sharp consonant sounds. Which approach is strongest?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "show feelings through clipped dialogue, and make the character's choices change what happens.",
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use personification precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
-      },
-      {
-        "text": "Describe messy workshop once, then make the character change without a cause.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "“show feelings through clipped dialogue, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops jealousy by linking show feelings through clipped dialogue with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "Use personification precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1145,28 +1145,28 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which choice best shows your understanding here? You are drafting a story in which a lost hiker sees a trail marker. The setting is described as darkening bush track. Which plan best develops relief?",
-    "audio_prompt": "Which choice best shows your understanding here? You are drafting a story in which a lost hiker sees a trail marker. The setting is described as darkening bush track. Which plan best develops relief?",
+    "stage": "transfer",
+    "skill": "alliteration",
+    "question": "Apply the skill independently to a fresh version of a poem shifting from bright to dark imagery. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a poem shifting from bright to dark imagery. Which approach is strongest?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       },
       {
-        "text": "Describe darkening bush track once, then make the character change without a cause.",
-        "is_correct": false
-      },
-      {
-        "text": "shift imagery from tangled to open, and make the character's choices change what happens.",
+        "text": "Use alliteration precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "“shift imagery from tangled to open, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops relief by linking shift imagery from tangled to open with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "Use alliteration precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1175,28 +1175,268 @@
     "year_level": "Year 5",
     "subject": "english",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Read the full example before deciding. You are drafting a story in which children redirect rainwater. The setting is described as parched garden. Which plan best develops resourcefulness?",
-    "audio_prompt": "Read the full example before deciding. You are drafting a story in which children redirect rainwater. The setting is described as parched garden. Which plan best develops resourcefulness?",
+    "stage": "transfer",
+    "skill": "onomatopoeia",
+    "question": "Apply the skill independently to a fresh version of “the moon was a silver coin”. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of “the moon was a silver coin”. Which approach is strongest?",
     "answers": [
       {
-        "text": "make setting pressure drive the plan, and make the character's choices change what happens.",
+        "text": "Use onomatopoeia precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "Use a personal preference as the main evidence.",
         "is_correct": false
       },
       {
-        "text": "Describe parched garden once, then make the character change without a cause.",
+        "text": "Choose the first familiar feature and stop once it has been named.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "“make setting pressure drive the plan, and make the character's choices change what happens.” fits the meaning and the language clue in this example. The plan develops resourcefulness by linking make setting pressure drive the plan with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "Use onomatopoeia precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE04-P-041",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "rhythm",
+    "question": "Apply the skill independently to a fresh version of “the wind clawed at the shutters”. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of “the wind clawed at the shutters”. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use rhythm precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use rhythm precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE04-P-042",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "tone",
+    "question": "Apply the skill independently to a fresh version of “as quiet as falling snow”. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of “as quiet as falling snow”. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use tone precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use tone precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE04-P-043",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "imagery",
+    "question": "Apply the skill independently to a fresh version of a poem repeating soft s sounds. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a poem repeating soft s sounds. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use imagery precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use imagery precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE04-P-044",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "simile",
+    "question": "Apply the skill independently to a fresh version of a comic using “CRASH!”. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a comic using “CRASH!”. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use simile precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use simile precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE04-P-045",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "metaphor",
+    "question": "Apply the skill independently to a fresh version of a song verse with repeated initial sounds. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a song verse with repeated initial sounds. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use metaphor precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Use metaphor precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE04-P-046",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "personification",
+    "question": "Apply the skill independently to a fresh version of a narrative describing hot sand and salt air. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a narrative describing hot sand and salt air. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use personification precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use personification precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE04-P-047",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "alliteration",
+    "question": "Apply the skill independently to a fresh version of a poem where rain “dances”. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a poem where rain “dances”. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Use alliteration precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Use alliteration precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
+    }
+  },
+  {
+    "id": "AC9E5LE04-P-048",
+    "curriculum_code": "AC9E5LE04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "onomatopoeia",
+    "question": "Apply the skill independently to a fresh version of a metaphor comparing worry to a knot. Which approach is strongest?",
+    "audio_prompt": "Apply the skill independently to a fresh version of a metaphor comparing worry to a knot. Which approach is strongest?",
+    "answers": [
+      {
+        "text": "Use onomatopoeia precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+        "is_correct": true
+      },
+      {
+        "text": "Choose the first familiar feature and stop once it has been named.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a personal preference as the main evidence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Use onomatopoeia precisely, select a relevant detail, explain its role, and check the conclusion against the whole context.",
+      "hint": "Transfer means the routine still works when the surface details change."
     }
   },
   {
@@ -1206,27 +1446,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "You are drafting a story in which a student notices a rival hiding disappointment. The setting is described as awards hall. Which plan best develops empathy?",
-    "audio_prompt": "You are drafting a story in which a student notices a rival hiding disappointment. The setting is described as awards hall. Which plan best develops empathy?",
+    "skill": "simile",
+    "question": "In an unseen Year 5 task about a poem repeating soft s sounds, after a first reading, which answer best shows independent understanding of simile?",
+    "audio_prompt": "In an unseen Year 5 task about a poem repeating soft s sounds, after a first reading, which answer best shows independent understanding of simile?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "show understanding through action, not explanation, and make the character's choices change what happens.",
+        "text": "It identifies the relevant simile, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Describe awards hall once, then make the character change without a cause.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The plan develops empathy by linking show understanding through action, not explanation with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant simile, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1236,27 +1476,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Read this new example closely. You are drafting a story in which a kite maker tests three failed designs. The setting is described as windy oval. Which plan best develops persistence?",
-    "audio_prompt": "Read this new example closely. You are drafting a story in which a kite maker tests three failed designs. The setting is described as windy oval. Which plan best develops persistence?",
+    "skill": "alliteration",
+    "question": "In an unseen Year 5 task about a metaphor comparing worry to a knot, when checking the strongest clue, which answer best shows independent understanding of alliteration?",
+    "audio_prompt": "In an unseen Year 5 task about a metaphor comparing worry to a knot, when checking the strongest clue, which answer best shows independent understanding of alliteration?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "Describe windy oval once, then make the character change without a cause.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "vary failure while repeating the goal, and make the character's choices change what happens.",
+        "text": "It identifies the relevant alliteration, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The plan develops persistence by linking vary failure while repeating the goal with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant alliteration, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1266,27 +1506,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which answer is most accurate here? You are drafting a story in which a phone rings inside an empty house. The setting is described as rainy street. Which plan best develops suspense?",
-    "audio_prompt": "Which answer is most accurate here? You are drafting a story in which a phone rings inside an empty house. The setting is described as rainy street. Which plan best develops suspense?",
+    "skill": "tone",
+    "question": "In an unseen Year 5 task about “the wind clawed at the shutters”, when comparing two plausible choices, which answer best shows independent understanding of tone?",
+    "audio_prompt": "In an unseen Year 5 task about “the wind clawed at the shutters”, when comparing two plausible choices, which answer best shows independent understanding of tone?",
     "answers": [
       {
-        "text": "delay entry with sensory clues, and make the character's choices change what happens.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant tone, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe rainy street once, then make the character change without a cause.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The plan develops suspense by linking delay entry with sensory clues with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant tone, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1296,27 +1536,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Use the details in this new situation. You are drafting a story in which siblings rebuild a model bridge. The setting is described as shared bedroom. Which plan best develops reconciliation?",
-    "audio_prompt": "Use the details in this new situation. You are drafting a story in which siblings rebuild a model bridge. The setting is described as shared bedroom. Which plan best develops reconciliation?",
+    "skill": "metaphor",
+    "question": "In an unseen Year 5 task about a narrative describing hot sand and salt air, after rereading the final detail, which answer best shows independent understanding of metaphor?",
+    "audio_prompt": "In an unseen Year 5 task about a narrative describing hot sand and salt air, after rereading the final detail, which answer best shows independent understanding of metaphor?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "make construction mirror their relationship, and make the character's choices change what happens.",
+        "text": "It identifies the relevant metaphor, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Describe shared bedroom once, then make the character change without a cause.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The plan develops reconciliation by linking make construction mirror their relationship with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant metaphor, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1326,27 +1566,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Choose the answer supported by the whole example. You are drafting a story in which a child watches turtles hatch. The setting is described as moonlit beach. Which plan best develops awe?",
-    "audio_prompt": "Choose the answer supported by the whole example. You are drafting a story in which a child watches turtles hatch. The setting is described as moonlit beach. Which plan best develops awe?",
+    "skill": "onomatopoeia",
+    "question": "In an unseen Year 5 task about a poem shifting from bright to dark imagery, when the wording is unfamiliar, which answer best shows independent understanding of onomatopoeia?",
+    "audio_prompt": "In an unseen Year 5 task about a poem shifting from bright to dark imagery, when the wording is unfamiliar, which answer best shows independent understanding of onomatopoeia?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "Describe moonlit beach once, then make the character change without a cause.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "use restrained scale comparisons, and make the character's choices change what happens.",
+        "text": "It identifies the relevant onomatopoeia, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The plan develops awe by linking use restrained scale comparisons with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant onomatopoeia, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1356,27 +1596,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which option best fits the meaning? You are drafting a story in which a team waits for a cave guide. The setting is described as underground chamber. Which plan best develops uncertainty?",
-    "audio_prompt": "Which option best fits the meaning? You are drafting a story in which a team waits for a cave guide. The setting is described as underground chamber. Which plan best develops uncertainty?",
+    "skill": "imagery",
+    "question": "In an unseen Year 5 task about a comic using “CRASH!”, when a distractor shares a keyword, which answer best shows independent understanding of imagery?",
+    "audio_prompt": "In an unseen Year 5 task about a comic using “CRASH!”, when a distractor shares a keyword, which answer best shows independent understanding of imagery?",
     "answers": [
       {
-        "text": "limit viewpoint to partial sounds, and make the character's choices change what happens.",
+        "text": "It identifies the relevant imagery, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "Describe underground chamber once, then make the character change without a cause.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The plan develops uncertainty by linking limit viewpoint to partial sounds with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant imagery, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1386,27 +1626,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Work this out independently. You are drafting a story in which a market seller saves food for a late family. The setting is described as closing market. Which plan best develops generosity?",
-    "audio_prompt": "Work this out independently. You are drafting a story in which a market seller saves food for a late family. The setting is described as closing market. Which plan best develops generosity?",
+    "skill": "personification",
+    "question": "In an unseen Year 5 task about a stanza with a repeated beat, when the task asks for evidence, which answer best shows independent understanding of personification?",
+    "audio_prompt": "In an unseen Year 5 task about a stanza with a repeated beat, when the task asks for evidence, which answer best shows independent understanding of personification?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "contrast abundance with one careful choice, and make the character's choices change what happens.",
+        "text": "It identifies the relevant personification, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Describe closing market once, then make the character change without a cause.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The plan develops generosity by linking contrast abundance with one careful choice with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant personification, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1416,27 +1656,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "verify",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "What is the best answer in this context? You are drafting a story in which a dancer adapts after a costume tears. The setting is described as festival stage. Which plan best develops resilience?",
-    "audio_prompt": "What is the best answer in this context? You are drafting a story in which a dancer adapts after a costume tears. The setting is described as festival stage. Which plan best develops resilience?",
+    "skill": "rhythm",
+    "question": "In an unseen Year 5 task about “as quiet as falling snow”, when the whole context matters, which answer best shows independent understanding of rhythm?",
+    "audio_prompt": "In an unseen Year 5 task about “as quiet as falling snow”, when the whole context matters, which answer best shows independent understanding of rhythm?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "Describe festival stage once, then make the character change without a cause.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "turn the problem into part of the performance, and make the character's choices change what happens.",
+        "text": "It identifies the relevant rhythm, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The plan develops resilience by linking turn the problem into part of the performance with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant rhythm, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1446,27 +1686,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which choice is supported by the evidence given? You are drafting a story in which a student hides a damaged library book. The setting is described as quiet library. Which plan best develops guilt?",
-    "audio_prompt": "Which choice is supported by the evidence given? You are drafting a story in which a student hides a damaged library book. The setting is described as quiet library. Which plan best develops guilt?",
+    "skill": "simile",
+    "question": "In an unseen Year 5 task about a poem where rain “dances”, when applying the skill independently, which answer best shows independent understanding of simile?",
+    "audio_prompt": "In an unseen Year 5 task about a poem where rain “dances”, when applying the skill independently, which answer best shows independent understanding of simile?",
     "answers": [
       {
-        "text": "let the book recur as an uncomfortable image, and make the character's choices change what happens.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant simile, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe quiet library once, then make the character change without a cause.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The plan develops guilt by linking let the book recur as an uncomfortable image with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant simile, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1476,27 +1716,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Read for meaning before you choose. You are drafting a story in which neighbours move a fallen branch. The setting is described as blocked lane. Which plan best develops cooperation?",
-    "audio_prompt": "Read for meaning before you choose. You are drafting a story in which neighbours move a fallen branch. The setting is described as blocked lane. Which plan best develops cooperation?",
+    "skill": "alliteration",
+    "question": "In an unseen Year 5 task about “the moon was a silver coin”, when a familiar answer is tempting, which answer best shows independent understanding of alliteration?",
+    "audio_prompt": "In an unseen Year 5 task about “the moon was a silver coin”, when a familiar answer is tempting, which answer best shows independent understanding of alliteration?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "coordinate actions through purposeful verbs, and make the character's choices change what happens.",
+        "text": "It identifies the relevant alliteration, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Describe blocked lane once, then make the character change without a cause.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The plan develops cooperation by linking coordinate actions through purposeful verbs with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant alliteration, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1506,27 +1746,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which option is the most precise? You are drafting a story in which friends decode marks on a jetty. The setting is described as tidal inlet. Which plan best develops discovery?",
-    "audio_prompt": "Which option is the most precise? You are drafting a story in which friends decode marks on a jetty. The setting is described as tidal inlet. Which plan best develops discovery?",
+    "skill": "tone",
+    "question": "In an unseen Year 5 task about a song verse with repeated initial sounds, when precision matters, which answer best shows independent understanding of tone?",
+    "audio_prompt": "In an unseen Year 5 task about a song verse with repeated initial sounds, when precision matters, which answer best shows independent understanding of tone?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "Describe tidal inlet once, then make the character change without a cause.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "make the changing tide a deadline, and make the character's choices change what happens.",
+        "text": "It identifies the relevant tone, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The plan develops discovery by linking make the changing tide a deadline with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant tone, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1536,27 +1776,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Use every clue in the example. You are drafting a story in which a child releases an injured bird. The setting is described as rehabilitation garden. Which plan best develops acceptance?",
-    "audio_prompt": "Use every clue in the example. You are drafting a story in which a child releases an injured bird. The setting is described as rehabilitation garden. Which plan best develops acceptance?",
+    "skill": "metaphor",
+    "question": "In an unseen Year 5 task about a scene using sharp consonant sounds, when checking the writer’s purpose, which answer best shows independent understanding of metaphor?",
+    "audio_prompt": "In an unseen Year 5 task about a scene using sharp consonant sounds, when checking the writer’s purpose, which answer best shows independent understanding of metaphor?",
     "answers": [
       {
-        "text": "shift from holding to opening imagery, and make the character's choices change what happens.",
+        "text": "It identifies the relevant metaphor, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "Describe rehabilitation garden once, then make the character change without a cause.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The plan develops acceptance by linking shift from holding to opening imagery with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant metaphor, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1566,27 +1806,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which answer holds up when you check the full context? You are drafting a story in which a winner notices a scoring error. The setting is described as robotics final. Which plan best develops moral choice?",
-    "audio_prompt": "Which answer holds up when you check the full context? You are drafting a story in which a winner notices a scoring error. The setting is described as robotics final. Which plan best develops moral choice?",
+    "skill": "onomatopoeia",
+    "question": "In an unseen Year 5 task about a poem repeating soft s sounds, when more than one clue is present, which answer best shows independent understanding of onomatopoeia?",
+    "audio_prompt": "In an unseen Year 5 task about a poem repeating soft s sounds, when more than one clue is present, which answer best shows independent understanding of onomatopoeia?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "connect the decision with an earlier value, and make the character's choices change what happens.",
+        "text": "It identifies the relevant onomatopoeia, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Describe robotics final once, then make the character change without a cause.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The plan develops moral choice by linking connect the decision with an earlier value with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant onomatopoeia, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1596,27 +1836,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Decide which option best matches what the text shows. You are drafting a story in which an older cousin guides children through smoke. The setting is described as campground. Which plan best develops protection?",
-    "audio_prompt": "Decide which option best matches what the text shows. You are drafting a story in which an older cousin guides children through smoke. The setting is described as campground. Which plan best develops protection?",
+    "skill": "imagery",
+    "question": "In an unseen Year 5 task about a metaphor comparing worry to a knot, when transferring the skill, which answer best shows independent understanding of imagery?",
+    "audio_prompt": "In an unseen Year 5 task about a metaphor comparing worry to a knot, when transferring the skill, which answer best shows independent understanding of imagery?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       },
       {
-        "text": "Describe campground once, then make the character change without a cause.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       },
       {
-        "text": "use setting details as obstacles and clues, and make the character's choices change what happens.",
+        "text": "It identifies the relevant imagery, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The plan develops protection by linking use setting details as obstacles and clues with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant imagery, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1626,27 +1866,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Which choice best demonstrates the skill in this new example? You are drafting a story in which a traveller returns a repaired compass. The setting is described as coastal village. Which plan best develops gratitude?",
-    "audio_prompt": "Which choice best demonstrates the skill in this new example? You are drafting a story in which a traveller returns a repaired compass. The setting is described as coastal village. Which plan best develops gratitude?",
+    "skill": "personification",
+    "question": "In an unseen Year 5 task about “the wind clawed at the shutters”, when explaining the reasoning, which answer best shows independent understanding of personification?",
+    "audio_prompt": "In an unseen Year 5 task about “the wind clawed at the shutters”, when explaining the reasoning, which answer best shows independent understanding of personification?",
     "answers": [
       {
-        "text": "echo the opening object with changed meaning, and make the character's choices change what happens.",
+        "text": "It makes a broad claim that could apply to almost any text or word.",
+        "is_correct": false
+      },
+      {
+        "text": "It identifies the relevant personification, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "Describe coastal village once, then make the character change without a cause.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The plan develops gratitude by linking echo the opening object with changed meaning with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant personification, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   },
   {
@@ -1656,27 +1896,27 @@
     "subject": "english",
     "bank": "test",
     "stage": "apply",
-    "skill": "creating_and_revising_literary_texts",
-    "question": "Make your final choice from the evidence in the question. You are drafting a story in which a quiet speaker addresses the council. The setting is described as crowded chamber. Which plan best develops confidence?",
-    "audio_prompt": "Make your final choice from the evidence in the question. You are drafting a story in which a quiet speaker addresses the council. The setting is described as crowded chamber. Which plan best develops confidence?",
+    "skill": "rhythm",
+    "question": "In an unseen Year 5 task about a narrative describing hot sand and salt air, as a final independent check, which answer best shows independent understanding of rhythm?",
+    "audio_prompt": "In an unseen Year 5 task about a narrative describing hot sand and salt air, as a final independent check, which answer best shows independent understanding of rhythm?",
     "answers": [
       {
-        "text": "Add unrelated comparisons to every sentence and leave events unchanged.",
-        "is_correct": false
-      },
-      {
-        "text": "move from fragmented to flowing sentences, and make the character's choices change what happens.",
+        "text": "It identifies the relevant rhythm, uses a specific clue and explains why that clue supports the interpretation or language choice.",
         "is_correct": true
       },
       {
-        "text": "Describe crowded chamber once, then make the character change without a cause.",
+        "text": "It relies on a personal reaction or a rule without checking the context.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes a broad claim that could apply to almost any text or word.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The plan develops confidence by linking move from fragmented to flowing sentences with motivated action and consequence.",
-      "hint": "Connect character goal, setting pressure, a deliberate language pattern and a consequence."
+      "summary": "It identifies the relevant rhythm, uses a specific clue and explains why that clue supports the interpretation or language choice.",
+      "hint": "Choose the answer that can be justified from the unseen evidence."
     }
   }
 ]
