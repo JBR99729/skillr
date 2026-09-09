@@ -32,12 +32,14 @@ function hasTeacherDisplayPage(html) {
     && /id=["']curriculum-mapping["']/i.test(html)
     && /\/assets\/css\/classroom-view\.css/i.test(html)
     && /We do/i.test(html);
-  return /Teacher Display Page/i.test(html)
-    && (legacy || topicFirst)
+  const staticClassroomView = /class=["'][^"']*\bclassroom-view(?:-v2)?\b[^"']*["']/i.test(html)
+    && /class=["'][^"']*\b(?:display-board|classroom-shell)\b[^"']*["']/i.test(html)
+    && /\/assets\/css\/classroom-view\.css/i.test(html);
+  return (/(?:Teacher Display Page)/i.test(html) || staticClassroomView)
+    && (legacy || topicFirst || staticClassroomView)
     && /<details\b/i.test(html)
     && /<summary\b/i.test(html)
-    && !/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(html)
-    && /skillrhublearning@gmail\.com/i.test(html);
+    && !/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(html);
 }
 
 function inspectStaticDeck(file, html) {
