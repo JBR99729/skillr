@@ -1,0 +1,38 @@
+name: SEO health report
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '40 16 * * *'
+  push:
+    branches: [main]
+    paths:
+      - '**/*.html'
+      - 'robots.txt'
+      - 'sitemap*.xml'
+      - 'scripts/audit_seo.py'
+      - '.github/workflows/seo-health-report.yml'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: seo-health-report
+  cancel-in-progress: true
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout current main
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run repository SEO health report
+        run: python3 scripts/audit_seo.py
