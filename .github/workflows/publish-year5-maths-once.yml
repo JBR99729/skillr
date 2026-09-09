@@ -16,118 +16,33 @@ jobs:
         with:
           ref: main
           fetch-depth: 0
-
-      - name: Decode and install staged Year 5 Maths banks
+      - name: Diagnose staged payload
         run: |
           python - <<'PY'
           from pathlib import Path
-          import base64, gzip, io, json, tarfile, zipfile
-
-          root = Path('.')
-          parts = [root/'assets/year5-math-research-banks-20260909.part1', root/'assets/year5-math-research-banks-20260909.part2']
-          if not all(p.exists() for p in parts):
-              raise SystemExit('Missing staged Year 5 Maths payload part(s)')
-          texts=[p.read_text(encoding='utf-8').strip() for p in parts]
-          def dec(s):
-              return base64.b64decode(s + '='*((-len(s))%4))
-          candidates=[]
-          for maker in (lambda: dec(''.join(texts)), lambda: b''.join(dec(t) for t in texts)):
-              try: candidates.append(maker())
-              except Exception: pass
-          payload=None
-          for packed in candidates:
+          import base64,gzip
+          ps=[Path('assets/year5-math-research-banks-20260909.part1'),Path('assets/year5-math-research-banks-20260909.part2')]
+          ts=[p.read_text(encoding='utf-8') for p in ps]
+          cs=[''.join(t.split()) for t in ts]
+          for i,s in enumerate(cs,1):
+              print('PART',i,'len',len(s),'mod4',len(s)%4,'head',repr(s[:12]),'tail',repr(s[-24:]),'eqcount',s.count('='))
+          s=''.join(cs)
+          print('JOIN len',len(s),'mod4',len(s)%4,'eqcount',s.count('='),'boundary',repr(cs[0][-20:]+cs[1][:20]))
+          variants={
+            'join':s,
+            'join-noeq':s.replace('=',''),
+          }
+          # Also try repairing a padded first chunk by removing only its terminal padding before join.
+          variants['drop-part1-padding']=cs[0].rstrip('=')+cs[1]
+          for name,q in variants.items():
+              q=q+'='*((-len(q))%4)
               try:
-                  payload=gzip.decompress(packed)
-                  break
-              except Exception:
-                  continue
-          if payload is None:
-              raise SystemExit('Could not decode/decompress staged payload')
-          written=[]
-          def safe_path(name):
-              p=Path(name)
-              if p.is_absolute() or '..' in p.parts: raise ValueError(f'Unsafe archive path: {name}')
-              return p
-          try:
-              with tarfile.open(fileobj=io.BytesIO(payload),mode='r:*') as tf:
-                  for m in [x for x in tf.getmembers() if x.isfile()]:
-                      rel=safe_path(m.name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True)
-                      src=tf.extractfile(m)
-                      if src is None: continue
-                      dest.write_bytes(src.read()); written.append(str(rel))
-          except tarfile.ReadError:
-              if payload[:4] == b'PK\x03\x04':
-                  with zipfile.ZipFile(io.BytesIO(payload)) as zf:
-                      for name in zf.namelist():
-                          if name.endswith('/'): continue
-                          rel=safe_path(name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True)
-                          dest.write_bytes(zf.read(name)); written.append(str(rel))
-              else:
-                  obj=json.loads(payload.decode('utf-8'))
-                  mapping=obj.get('files',obj) if isinstance(obj,dict) else obj
-                  entries=mapping.items() if isinstance(mapping,dict) else ((x['path'],x['content']) for x in mapping)
-                  for name,content in entries:
-                      rel=safe_path(name); dest=root/rel; dest.parent.mkdir(parents=True,exist_ok=True)
-                      if isinstance(content,dict) and 'base64' in content: dest.write_bytes(base64.b64decode(content['base64']))
-                      else: dest.write_text(str(content),encoding='utf-8')
-                      written.append(str(rel))
-          expected=[*[f'AC9M5N{i:02d}' for i in range(1,10)],'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5ST02','AC9M5ST03']
-          missing=[]
-          for code in expected:
-              for bank in ('practice','test'):
-                  p=root/f'quiz/year-5/math/{code.lower()}/{bank}/questions.js'
-                  if not p.exists() or p.stat().st_size < 500: missing.append(str(p))
-          if missing: raise SystemExit('Missing/empty live bank files after extraction: '+', '.join(missing))
-          if len(written) < 36: raise SystemExit(f'Payload extracted only {len(written)} files; expected at least 36')
-          print(f'Installed {len(written)} staged files')
+                  b=base64.b64decode(q,validate=False)
+                  print(name,'decoded',len(b),'head',b[:12].hex(),'tail',b[-12:].hex())
+                  try:
+                      d=gzip.decompress(b); print(name,'GZIP OK',len(d),'payload-head',repr(d[:120]))
+                  except Exception as e: print(name,'gzip ERR',repr(e))
+              except Exception as e: print(name,'base64 ERR',repr(e))
+          for slug in ('ac9m5n010','ac9m5n10'):
+              print('folder',slug,'exists',Path('quiz/year-5/math',slug).exists())
           PY
-
-      - name: Mark all Year 5 Mathematics codes reviewed and update verification surfaces
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          import json
-          root=Path('.')
-          codes=[*[f'AC9M5N{i:02d}' for i in range(1,10)],'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5SP01','AC9M5SP02','AC9M5SP03','AC9M5ST01','AC9M5ST02','AC9M5ST03','AC9M5P01','AC9M5P02']
-          p=root/'data/content-verification-status.json'; data=json.loads(p.read_text()); data['reviewedCodes']=sorted(set(data.get('reviewedCodes',[]))|set(codes)); p.write_text(json.dumps(data,indent=2,ensure_ascii=False)+'\n')
-          p=root/'ai-index.json'; data=json.loads(p.read_text()); areas=data['content_verification']['verified_learning_areas'];
-          if 'Year 5 Mathematics' not in areas:
-              areas.insert(areas.index('Year 5 Science') if 'Year 5 Science' in areas else len(areas),'Year 5 Mathematics')
-          data['last_updated']='2026-09-09'; p.write_text(json.dumps(data,indent=2,ensure_ascii=False)+'\n')
-          p=root/'about.html'; s=p.read_text(); s=s.replace('Year 4 Mathematics, Year 4 Science and Year 5 Science question banks','Year 4 Mathematics, Year 4 Science, Year 5 Mathematics and Year 5 Science question banks'); p.write_text(s)
-          p=root/'editorial-standards.html'; s=p.read_text(); row='<tr><th scope="row">Year 5 Mathematics</th><td><span class="info-verified">✓ Content Verified</span></td></tr>'; sci='<tr><th scope="row">Year 5 Science</th><td><span class="info-verified">✓ Content Verified</span></td></tr>';
-          if row not in s: s=s.replace(sci,row+sci)
-          p.write_text(s)
-          for fn in ('llms.txt','llms-full.txt'):
-              p=root/fn; s=p.read_text(); s=s.replace('Year 4 Mathematics, Year 4 Science and Year 5 Science.','Year 4 Mathematics, Year 4 Science, Year 5 Mathematics and Year 5 Science.'); p.write_text(s)
-          print('Recorded',len(codes),'Year 5 Mathematics codes as reviewed')
-          PY
-
-      - name: Final structural verification
-        run: |
-          python - <<'PY'
-          from pathlib import Path
-          import json,re
-          root=Path('.')
-          codes=[*[f'AC9M5N{i:02d}' for i in range(1,10)],'AC9M5N010','AC9M5A01','AC9M5A02','AC9M5M01','AC9M5M02','AC9M5M03','AC9M5M04','AC9M5SP01','AC9M5SP02','AC9M5SP03','AC9M5ST01','AC9M5ST02','AC9M5ST03','AC9M5P01','AC9M5P02']
-          ledger=set(json.loads((root/'data/content-verification-status.json').read_text())['reviewedCodes'])
-          miss=[c for c in codes if c not in ledger]
-          if miss: raise SystemExit('Unreviewed Year 5 Maths codes: '+','.join(miss))
-          for c in codes:
-              for bank,minimum in [('practice',48),('test',16)]:
-                  p=root/f'quiz/year-5/math/{c.lower()}/{bank}/questions.js'
-                  if not p.exists(): raise SystemExit(f'Missing {p}')
-                  text=p.read_text(); ids=len(re.findall(r'"id"\s*:',text)); q=len(re.findall(r'"question"\s*:',text))
-                  if ids<minimum and q<minimum and 'map((r,i)' not in text: raise SystemExit(f'{p} does not expose expected bank structure')
-          print('Year 5 Mathematics live banks and verification ledger passed structural checks')
-          PY
-
-      - name: Commit publication to main
-        run: |
-          rm -f assets/year5-math-research-banks-20260909.part1 assets/year5-math-research-banks-20260909.part2
-          rm -f .github/workflows/publish-year5-maths-once.yml
-          git config user.name "SkillrHub Publisher"
-          git config user.email "actions@users.noreply.github.com"
-          git add -A
-          git commit -m "Publish Year 5 Maths research banks and mark content verified"
-          git push origin HEAD:main
