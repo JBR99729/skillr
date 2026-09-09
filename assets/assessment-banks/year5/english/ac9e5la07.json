@@ -1200,6 +1200,246 @@
     }
   },
   {
+    "id": "AC9E5LA07-P-042",
+    "curriculum_code": "AC9E5LA07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A weather map uses a dark blue symbol for heavy rain and a key explaining it. How does the key contribute to meaning?",
+    "audio_prompt": "A weather map uses a dark blue symbol for heavy rain and a key explaining it. How does the key contribute to meaning?",
+    "answers": [
+      {
+        "text": "It tells readers what the symbol represents.",
+        "is_correct": true
+      },
+      {
+        "text": "It changes the weather.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows who drew the map.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A key lets readers interpret a visual symbol accurately.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA07-P-043",
+    "curriculum_code": "AC9E5LA07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A science table lists plant height for four weeks. What can the table show more clearly than a paragraph?",
+    "audio_prompt": "A science table lists plant height for four weeks. What can the table show more clearly than a paragraph?",
+    "answers": [
+      {
+        "text": "The exact values for each week can be compared quickly.",
+        "is_correct": true
+      },
+      {
+        "text": "The plant’s favourite colour.",
+        "is_correct": false
+      },
+      {
+        "text": "The author’s opinion about gardening.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rows and columns organise comparable measurements.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA07-P-044",
+    "curriculum_code": "AC9E5LA07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A diagram labels arrows from mouth to stomach. What does the sequence help a reader understand?",
+    "audio_prompt": "A diagram labels arrows from mouth to stomach. What does the sequence help a reader understand?",
+    "answers": [
+      {
+        "text": "The direction food travels through the digestive system.",
+        "is_correct": true
+      },
+      {
+        "text": "The size of the classroom.",
+        "is_correct": false
+      },
+      {
+        "text": "Which food tastes best.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Arrows and labels represent movement and parts in a process.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA07-P-045",
+    "curriculum_code": "AC9E5LA07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A map places a legend beside colours for parks, roads and rivers. Why is the legend necessary?",
+    "audio_prompt": "A map places a legend beside colours for parks, roads and rivers. Why is the legend necessary?",
+    "answers": [
+      {
+        "text": "It explains the meaning of the map’s colours and symbols.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes every road longer.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the map is a photograph.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Without the legend, readers may not know what the visual marks mean.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA07-P-046",
+    "curriculum_code": "AC9E5LA07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A graph shows rubbish collected by four houses. The tallest bar belongs to House C. What can a reader infer?",
+    "audio_prompt": "A graph shows rubbish collected by four houses. The tallest bar belongs to House C. What can a reader infer?",
+    "answers": [
+      {
+        "text": "House C collected the greatest amount in the comparison.",
+        "is_correct": true
+      },
+      {
+        "text": "House C collected rubbish every day forever.",
+        "is_correct": false
+      },
+      {
+        "text": "House C owns the graph.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Bar height represents the amounts being compared; it does not prove extra claims.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA07-P-047",
+    "curriculum_code": "AC9E5LA07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A set of four pictures shows a seed, a sprout, a flowering plant and fruit. How does the sequence add meaning?",
+    "audio_prompt": "A set of four pictures shows a seed, a sprout, a flowering plant and fruit. How does the sequence add meaning?",
+    "answers": [
+      {
+        "text": "It represents stages in the plant’s growth.",
+        "is_correct": true
+      },
+      {
+        "text": "It shows four unrelated objects.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves every plant grows at the same speed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ordered images communicate change over time.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA07-P-048",
+    "curriculum_code": "AC9E5LA07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A labelled diagram has arrows pointing to a frog’s legs, eyes and webbed feet. What is its main purpose?",
+    "audio_prompt": "A labelled diagram has arrows pointing to a frog’s legs, eyes and webbed feet. What is its main purpose?",
+    "answers": [
+      {
+        "text": "To show parts and provide information about the frog.",
+        "is_correct": true
+      },
+      {
+        "text": "To tell a fictional adventure.",
+        "is_correct": false
+      },
+      {
+        "text": "To persuade readers to buy a frog.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Labels connect names and information to visible parts.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA07-P-049",
+    "curriculum_code": "AC9E5LA07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A graph has no title or units. What should the reader question before trusting it?",
+    "audio_prompt": "A graph has no title or units. What should the reader question before trusting it?",
+    "answers": [
+      {
+        "text": "What the data measure and what the numbers represent.",
+        "is_correct": true
+      },
+      {
+        "text": "Whether the page is blue.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether graphs can ever be useful.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A title and units provide essential context for interpreting data.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
     "id": "AC9E5LA07-T-001",
     "curriculum_code": "AC9E5LA07",
     "year_level": "Year 5",

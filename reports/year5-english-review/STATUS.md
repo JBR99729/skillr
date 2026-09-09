@@ -26,5 +26,15 @@ A code may be marked **FINISHED — DO NOT REPROCESS** only when all five compon
 | AC9E5LY09 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL evidence is strong for discrete word-building tasks; extended explanation of word history and generalisations is a curriculum-level synthesis. |
 | AC9E5LY10 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; Some suffix meaning and grammatical-class change demands are broader than any single observed IXL screen, so the full descriptor is synthesised across mapped skills. |
 
-## IXL-unmapped — not in this production batch
-AC9E5LA01, AC9E5LA07, AC9E5LE01, AC9E5LY01, AC9E5LY02, AC9E5LY04, AC9E5LY07
+## Final seven IXL-unmapped production batch
+| Code | Status | Notes |
+|---|---|---|
+| AC9E5LA01 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL: NO SUFFICIENT DIRECT MATCH — SUPPLEMENTARY RESEARCH REQUIRED. ACARA/QCAA scope used; interaction-language evidence limitation recorded. |
+| AC9E5LA07 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL: NO SUFFICIENT DIRECT MATCH — SUPPLEMENTARY RESEARCH REQUIRED. ACARA/QCAA scope used; visual-literacy evidence limitation recorded. |
+| AC9E5LE01 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL: NO SUFFICIENT DIRECT MATCH — SUPPLEMENTARY RESEARCH REQUIRED. ACARA/QCAA scope used; literary-representation evidence limitation recorded. |
+| AC9E5LY01 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL: NO SUFFICIENT DIRECT MATCH — SUPPLEMENTARY RESEARCH REQUIRED. ACARA/QCAA scope used; historical-context evidence limitation recorded. |
+| AC9E5LY02 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL: NO SUFFICIENT DIRECT MATCH — SUPPLEMENTARY RESEARCH REQUIRED. ACARA/QCAA scope used; interaction-skills evidence limitation recorded. |
+| AC9E5LY04 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL: NO SUFFICIENT DIRECT MATCH — SUPPLEMENTARY RESEARCH REQUIRED. ACARA/QCAA scope used; navigation/monitoring evidence limitation recorded. |
+| AC9E5LY07 | **FINISHED — DO NOT REPROCESS** | 48/16 + Topic/Classroom/Worksheet; IXL: NO SUFFICIENT DIRECT MATCH — SUPPLEMENTARY RESEARCH REQUIRED. ACARA/QCAA scope used; presentation-production evidence limitation recorded. |
+
+Full research record: `reports/year5-english-review/UNMAPPED-FINAL-7-RESEARCH.md`.

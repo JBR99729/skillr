@@ -1200,6 +1200,246 @@
     }
   },
   {
+    "id": "AC9E5LY04-P-042",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "You need the bus departure time on a long transport website. What is the most efficient first move?",
+    "audio_prompt": "You need the bus departure time on a long transport website. What is the most efficient first move?",
+    "answers": [
+      {
+        "text": "Use the menu or search tool to locate timetables.",
+        "is_correct": true
+      },
+      {
+        "text": "Read every page from the beginning.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a random advertisement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Navigation tools help readers reach the relevant information efficiently.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY04-P-043",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A webpage has headings “Materials”, “Steps” and “Safety”. How do these headings help?",
+    "audio_prompt": "A webpage has headings “Materials”, “Steps” and “Safety”. How do these headings help?",
+    "answers": [
+      {
+        "text": "They let readers predict and locate the information they need.",
+        "is_correct": true
+      },
+      {
+        "text": "They remove the need to read.",
+        "is_correct": false
+      },
+      {
+        "text": "They show the page is a poem.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Headings organise information and support purposeful reading.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY04-P-044",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "You read instructions and realise step 3 cannot work with the materials listed. What should you do?",
+    "audio_prompt": "You read instructions and realise step 3 cannot work with the materials listed. What should you do?",
+    "answers": [
+      {
+        "text": "Reread the relevant steps and check whether you missed or misunderstood information.",
+        "is_correct": true
+      },
+      {
+        "text": "Continue without checking.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the instructions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Monitoring means noticing a problem and repairing understanding.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY04-P-045",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A search result contains the words you need but comes from an unknown website. What should you check?",
+    "audio_prompt": "A search result contains the words you need but comes from an unknown website. What should you check?",
+    "answers": [
+      {
+        "text": "Whether the source is trustworthy and actually answers your purpose.",
+        "is_correct": true
+      },
+      {
+        "text": "Only whether the title is colourful.",
+        "is_correct": false
+      },
+      {
+        "text": "Whether it has the longest paragraph.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Purposeful reading includes judging relevance and reliability.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY04-P-046",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Which feature helps you find a page number quickly in a long digital text?",
+    "audio_prompt": "Which feature helps you find a page number quickly in a long digital text?",
+    "answers": [
+      {
+        "text": "A contents list or search function.",
+        "is_correct": true
+      },
+      {
+        "text": "The background colour.",
+        "is_correct": false
+      },
+      {
+        "text": "The size of the browser window.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Navigation features reduce unnecessary reading.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY04-P-047",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A recipe uses “fold gently”, but your first attempt makes the mixture lumpy. What reading action could help?",
+    "audio_prompt": "A recipe uses “fold gently”, but your first attempt makes the mixture lumpy. What reading action could help?",
+    "answers": [
+      {
+        "text": "Reread the step and check the meaning of “fold” and the sequence.",
+        "is_correct": true
+      },
+      {
+        "text": "Skip the step forever.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume every recipe means stir hard.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Monitoring and rereading can repair a misunderstanding of a key instruction.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY04-P-048",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "You need one fact for a poster. Which reading path is most suitable?",
+    "audio_prompt": "You need one fact for a poster. Which reading path is most suitable?",
+    "answers": [
+      {
+        "text": "Scan headings, captions and key sections, then read the relevant part closely.",
+        "is_correct": true
+      },
+      {
+        "text": "Copy the first sentence you see.",
+        "is_correct": false
+      },
+      {
+        "text": "Read unrelated comments only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The path should match the focused information need.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY04-P-049",
+    "curriculum_code": "AC9E5LY04",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Why should a reader check the date of an online page when researching current information?",
+    "audio_prompt": "Why should a reader check the date of an online page when researching current information?",
+    "answers": [
+      {
+        "text": "The information may have changed since the page was published.",
+        "is_correct": true
+      },
+      {
+        "text": "Older pages are always wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "Dates only decorate websites.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Checking currency helps judge whether a source suits the purpose.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
     "id": "AC9E5LY04-T-001",
     "curriculum_code": "AC9E5LY04",
     "year_level": "Year 5",

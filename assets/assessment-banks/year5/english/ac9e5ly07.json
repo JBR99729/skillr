@@ -1200,6 +1200,246 @@
     }
   },
   {
+    "id": "AC9E5LY07-P-042",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Before presenting a short talk about safe cycling, what should you decide first?",
+    "audio_prompt": "Before presenting a short talk about safe cycling, what should you decide first?",
+    "answers": [
+      {
+        "text": "The purpose, audience and key message.",
+        "is_correct": true
+      },
+      {
+        "text": "The colour of every slide only.",
+        "is_correct": false
+      },
+      {
+        "text": "How to speak without practising.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Planning begins with what the presentation needs to achieve for its audience.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-043",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Which opening best suits a presentation persuading students to wear helmets?",
+    "audio_prompt": "Which opening best suits a presentation persuading students to wear helmets?",
+    "answers": [
+      {
+        "text": "A surprising safety fact followed by a clear reason to listen.",
+        "is_correct": true
+      },
+      {
+        "text": "Here are many unrelated jokes.",
+        "is_correct": false
+      },
+      {
+        "text": "I forgot my topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An opening should engage the audience and establish the purpose.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-044",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Why should a speaker rehearse the timing of a multimodal presentation?",
+    "audio_prompt": "Why should a speaker rehearse the timing of a multimodal presentation?",
+    "answers": [
+      {
+        "text": "To check that speech, images and transitions work together within the available time.",
+        "is_correct": true
+      },
+      {
+        "text": "To remove all visuals.",
+        "is_correct": false
+      },
+      {
+        "text": "To make the audience wait silently.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rehearsal tests coordination and pacing before delivery.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-045",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A slide contains a full paragraph in tiny writing. What revision would improve it?",
+    "audio_prompt": "A slide contains a full paragraph in tiny writing. What revision would improve it?",
+    "answers": [
+      {
+        "text": "Replace the paragraph with a few key points and readable visuals.",
+        "is_correct": true
+      },
+      {
+        "text": "Make the writing even smaller.",
+        "is_correct": false
+      },
+      {
+        "text": "Add three unrelated paragraphs.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Slides should support the spoken explanation rather than duplicate dense text.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-046",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Which delivery choice helps the audience follow an important point?",
+    "audio_prompt": "Which delivery choice helps the audience follow an important point?",
+    "answers": [
+      {
+        "text": "Pause, face the audience and emphasise the key words.",
+        "is_correct": true
+      },
+      {
+        "text": "Read quickly while facing the floor.",
+        "is_correct": false
+      },
+      {
+        "text": "Whisper every sentence.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Voice, pace and body orientation help make meaning accessible.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-047",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A speaker notices that listeners look confused after a technical word. What should the speaker do?",
+    "audio_prompt": "A speaker notices that listeners look confused after a technical word. What should the speaker do?",
+    "answers": [
+      {
+        "text": "Explain the word in simpler language and give an example.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat the same word louder.",
+        "is_correct": false
+      },
+      {
+        "text": "Skip the rest of the presentation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Responsive speakers adjust explanation when evidence shows misunderstanding.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-048",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A presentation about wetlands uses a labelled photo, a map and a short spoken explanation. Why can these modes work together?",
+    "audio_prompt": "A presentation about wetlands uses a labelled photo, a map and a short spoken explanation. Why can these modes work together?",
+    "answers": [
+      {
+        "text": "Each mode can provide different information while supporting the same message.",
+        "is_correct": true
+      },
+      {
+        "text": "Different modes must always disagree.",
+        "is_correct": false
+      },
+      {
+        "text": "The visuals make speech unnecessary.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Multimodal design is effective when the parts are coordinated and purposeful.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY07-P-049",
+    "curriculum_code": "AC9E5LY07",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "After presenting, what is useful feedback to record?",
+    "audio_prompt": "After presenting, what is useful feedback to record?",
+    "answers": [
+      {
+        "text": "One strength and one specific improvement for the next rehearsal.",
+        "is_correct": true
+      },
+      {
+        "text": "Only whether the speaker liked it.",
+        "is_correct": false
+      },
+      {
+        "text": "A comment with no connection to the presentation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specific feedback supports deliberate revision and improvement.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
     "id": "AC9E5LY07-T-001",
     "curriculum_code": "AC9E5LY07",
     "year_level": "Year 5",

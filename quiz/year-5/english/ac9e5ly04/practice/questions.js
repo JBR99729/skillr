@@ -4,7 +4,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e5ly04-p-001",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "A reader needs to find the 2018 rainfall total in a long climate report. What is the best pathway?",
@@ -17,18 +17,13 @@ window.skillrPracticeQuestions = [
       "scan headings and tables for 2018, then check the unit and surrounding label"
     ],
     "correct": 2,
-    "explanation": "“scan headings and tables for 2018, then check the unit and surrounding label” fits the meaning and the language clue in this example. The task calls for scanning and confirming.\nHint: Let the information need decide where to navigate and how closely to read.",
-    "structuredExplanation": {
-      "summary": "“scan headings and tables for 2018, then check the unit and surrounding label” fits the meaning and the language clue in this example. The task calls for scanning and confirming.",
-      "hint": "Let the information need decide where to navigate and how closely to read."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“scan headings and tables for 2018, then check the unit and surrounding label” fits the meaning and the language clue in this example. The task calls for scanning and confirming.\nHint: Let the information need decide where to navigate and how closely to read."
   },
   {
     "id": "ac9e5ly04-p-002",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Read carefully: Why is “skim the title, headings, opening sentences and visuals” efficient for the goal to gain a quick overview of a chapter about Federation?",
@@ -41,18 +36,13 @@ window.skillrPracticeQuestions = [
       "It guarantees every source is reliable"
     ],
     "correct": 0,
-    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy.",
-    "structuredExplanation": {
-      "summary": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.",
-      "hint": "Explain how the pathway saves time while preserving accuracy."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy."
   },
   {
     "id": "ac9e5ly04-p-003",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which answer makes the most sense here? After using keywords to compare two claims about plastic waste, what should the reader do next?",
@@ -65,18 +55,13 @@ window.skillrPracticeQuestions = [
       "Ignore labels, dates and units"
     ],
     "correct": 1,
-    "explanation": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.\nHint: Check the heading, sentence, label, date or unit around the match.",
-    "structuredExplanation": {
-      "summary": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.",
-      "hint": "Check the heading, sentence, label, date or unit around the match."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.\nHint: Check the heading, sentence, label, date or unit around the match."
   },
   {
     "id": "ac9e5ly04-p-004",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Look at the wording and meaning. Which strategy name best describes this pathway: closely read the causal explanation while tracing the labelled diagram?",
@@ -89,18 +74,13 @@ window.skillrPracticeQuestions = [
       "close multimodal reading"
     ],
     "correct": 2,
-    "explanation": "“close multimodal reading” fits the meaning and the language clue in this example. The pathway deliberately uses close multimodal reading for the stated purpose.\nHint: Name what the reader is doing, including any final confirmation.",
-    "structuredExplanation": {
-      "summary": "“close multimodal reading” fits the meaning and the language clue in this example. The pathway deliberately uses close multimodal reading for the stated purpose.",
-      "hint": "Name what the reader is doing, including any final confirmation."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“close multimodal reading” fits the meaning and the language clue in this example. The pathway deliberately uses close multimodal reading for the stated purpose.\nHint: Name what the reader is doing, including any final confirmation."
   },
   {
     "id": "ac9e5ly04-p-005",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Choose the option that fits the situation best. A reader needs to gain a quick overview of a chapter about Federation. What is the best pathway?",
@@ -113,18 +93,13 @@ window.skillrPracticeQuestions = [
       "Accept the first matching word without checking context"
     ],
     "correct": 0,
-    "explanation": "“skim the title, headings, opening sentences and visuals” fits the meaning and the language clue in this example. The task calls for skimming.\nHint: Let the information need decide where to navigate and how closely to read.",
-    "structuredExplanation": {
-      "summary": "“skim the title, headings, opening sentences and visuals” fits the meaning and the language clue in this example. The task calls for skimming.",
-      "hint": "Let the information need decide where to navigate and how closely to read."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“skim the title, headings, opening sentences and visuals” fits the meaning and the language clue in this example. The task calls for skimming.\nHint: Let the information need decide where to navigate and how closely to read."
   },
   {
     "id": "ac9e5ly04-p-006",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which choice is accurate in this example? Why is “read every step, condition and safety note in sequence” efficient for the goal to follow a procedure for testing soil drainage?",
@@ -137,18 +112,13 @@ window.skillrPracticeQuestions = [
       "It guarantees every source is reliable"
     ],
     "correct": 1,
-    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy.",
-    "structuredExplanation": {
-      "summary": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.",
-      "hint": "Explain how the pathway saves time while preserving accuracy."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy."
   },
   {
     "id": "ac9e5ly04-p-007",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Focus on the key clue. After using keywords to locate the meaning of a technical word in a textbook, what should the reader do next?",
@@ -161,18 +131,13 @@ window.skillrPracticeQuestions = [
       "Read enough surrounding information to confirm the match answers the question"
     ],
     "correct": 2,
-    "explanation": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.\nHint: Check the heading, sentence, label, date or unit around the match.",
-    "structuredExplanation": {
-      "summary": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.",
-      "hint": "Check the heading, sentence, label, date or unit around the match."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.\nHint: Check the heading, sentence, label, date or unit around the match."
   },
   {
     "id": "ac9e5ly04-p-008",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "What works best in this situation? Which strategy name best describes this pathway: scan headings and tables for 2018, then check the unit and surrounding label?",
@@ -185,18 +150,13 @@ window.skillrPracticeQuestions = [
       "copying without reading"
     ],
     "correct": 0,
-    "explanation": "“scanning and confirming” fits the meaning and the language clue in this example. The pathway deliberately uses scanning and confirming for the stated purpose.\nHint: Name what the reader is doing, including any final confirmation.",
-    "structuredExplanation": {
-      "summary": "“scanning and confirming” fits the meaning and the language clue in this example. The pathway deliberately uses scanning and confirming for the stated purpose.",
-      "hint": "Name what the reader is doing, including any final confirmation."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“scanning and confirming” fits the meaning and the language clue in this example. The pathway deliberately uses scanning and confirming for the stated purpose.\nHint: Name what the reader is doing, including any final confirmation."
   },
   {
     "id": "ac9e5ly04-p-009",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which option matches what is happening? A reader needs to follow a procedure for testing soil drainage. What is the best pathway?",
@@ -209,18 +169,13 @@ window.skillrPracticeQuestions = [
       "Accept the first matching word without checking context"
     ],
     "correct": 1,
-    "explanation": "“read every step, condition and safety note in sequence” fits the meaning and the language clue in this example. The task calls for close procedural reading.\nHint: Let the information need decide where to navigate and how closely to read.",
-    "structuredExplanation": {
-      "summary": "“read every step, condition and safety note in sequence” fits the meaning and the language clue in this example. The task calls for close procedural reading.",
-      "hint": "Let the information need decide where to navigate and how closely to read."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“read every step, condition and safety note in sequence” fits the meaning and the language clue in this example. The task calls for close procedural reading.\nHint: Let the information need decide where to navigate and how closely to read."
   },
   {
     "id": "ac9e5ly04-p-010",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Use the details in the example. Why is “locate each claim, read its evidence and check source details” efficient for the goal to compare two claims about plastic waste?",
@@ -233,18 +188,13 @@ window.skillrPracticeQuestions = [
       "It directs close attention to the information needed for that purpose"
     ],
     "correct": 2,
-    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy.",
-    "structuredExplanation": {
-      "summary": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.",
-      "hint": "Explain how the pathway saves time while preserving accuracy."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy."
   },
   {
     "id": "ac9e5ly04-p-011",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Why is “scanning and confirming” the strongest answer to this question: Which strategy name best describes this pathway: scan headings and tables for 2018, then check the unit and surrounding label?",
@@ -257,18 +207,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The pathway deliberately uses scanning and confirming for the stated purpose.\nHint: Find the exact clue that makes “scanning and confirming” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The pathway deliberately uses scanning and confirming for the stated purpose.",
-      "hint": "Find the exact clue that makes “scanning and confirming” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The pathway deliberately uses scanning and confirming for the stated purpose.\nHint: Find the exact clue that makes “scanning and confirming” fit."
   },
   {
     "id": "ac9e5ly04-p-012",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "What makes “read every step, condition and safety note in sequence” work in this example? A reader needs to follow a procedure for testing soil drainage. What is the best pathway?",
@@ -281,18 +226,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The task calls for close procedural reading.\nHint: Find the exact clue that makes “read every step, condition and safety note in sequence” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The task calls for close procedural reading.",
-      "hint": "Find the exact clue that makes “read every step, condition and safety note in sequence” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The task calls for close procedural reading.\nHint: Find the exact clue that makes “read every step, condition and safety note in sequence” fit."
   },
   {
     "id": "ac9e5ly04-p-013",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which reason best explains why “It directs close attention to the information needed for that purpose” fits? Why is “locate each claim, read its evidence and check source details” efficient for the goal to compare two claims about plastic waste?",
@@ -305,18 +245,13 @@ window.skillrPracticeQuestions = [
       "It matches the key clue and meaning in the example."
     ],
     "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Efficient readers vary navigation and reading depth according to purpose.\nHint: Find the exact clue that makes “It directs close attention to the information needed for that purpose” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Efficient readers vary navigation and reading depth according to purpose.",
-      "hint": "Find the exact clue that makes “It directs close attention to the information needed for that purpose” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Efficient readers vary navigation and reading depth according to purpose.\nHint: Find the exact clue that makes “It directs close attention to the information needed for that purpose” fit."
   },
   {
     "id": "ac9e5ly04-p-014",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "How does “Read enough surrounding information to confirm the match answers the question” match the meaning of this example? After using keywords to understand why an eclipse occurs, what should the reader do next?",
@@ -329,18 +264,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A keyword locates a candidate; context confirms it.\nHint: Find the exact clue that makes “Read enough surrounding information to confirm the match answers the question” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A keyword locates a candidate; context confirms it.",
-      "hint": "Find the exact clue that makes “Read enough surrounding information to confirm the match answers the question” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A keyword locates a candidate; context confirms it.\nHint: Find the exact clue that makes “Read enough surrounding information to confirm the match answers the question” fit."
   },
   {
     "id": "ac9e5ly04-p-015",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Why does “skimming” suit this situation better than the other choices? Which strategy name best describes this pathway: skim the title, headings, opening sentences and visuals?",
@@ -353,18 +283,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The pathway deliberately uses skimming for the stated purpose.\nHint: Find the exact clue that makes “skimming” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The pathway deliberately uses skimming for the stated purpose.",
-      "hint": "Find the exact clue that makes “skimming” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The pathway deliberately uses skimming for the stated purpose.\nHint: Find the exact clue that makes “skimming” fit."
   },
   {
     "id": "ac9e5ly04-p-016",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "What clue in the example supports “locate each claim, read its evidence and check source details”? A reader needs to compare two claims about plastic waste. What is the best pathway?",
@@ -377,18 +302,13 @@ window.skillrPracticeQuestions = [
       "It matches the key clue and meaning in the example."
     ],
     "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The task calls for evidence comparison.\nHint: Find the exact clue that makes “locate each claim, read its evidence and check source details” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The task calls for evidence comparison.",
-      "hint": "Find the exact clue that makes “locate each claim, read its evidence and check source details” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The task calls for evidence comparison.\nHint: Find the exact clue that makes “locate each claim, read its evidence and check source details” fit."
   },
   {
     "id": "ac9e5ly04-p-017",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which explanation shows why “It directs close attention to the information needed for that purpose” is correct here? Why is “use the index or glossary, then reread the sentence where it appears” efficient for the goal to locate the meaning of a technical word in a textbook?",
@@ -401,18 +321,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Efficient readers vary navigation and reading depth according to purpose.\nHint: Find the exact clue that makes “It directs close attention to the information needed for that purpose” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Efficient readers vary navigation and reading depth according to purpose.",
-      "hint": "Find the exact clue that makes “It directs close attention to the information needed for that purpose” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Efficient readers vary navigation and reading depth according to purpose.\nHint: Find the exact clue that makes “It directs close attention to the information needed for that purpose” fit."
   },
   {
     "id": "ac9e5ly04-p-018",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Why would “Read enough surrounding information to confirm the match answers the question” make sense to a careful reader? After using keywords to find the 2018 rainfall total in a long climate report, what should the reader do next?",
@@ -425,18 +340,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A keyword locates a candidate; context confirms it.\nHint: Find the exact clue that makes “Read enough surrounding information to confirm the match answers the question” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A keyword locates a candidate; context confirms it.",
-      "hint": "Find the exact clue that makes “Read enough surrounding information to confirm the match answers the question” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A keyword locates a candidate; context confirms it.\nHint: Find the exact clue that makes “Read enough surrounding information to confirm the match answers the question” fit."
   },
   {
     "id": "ac9e5ly04-p-019",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "What is the best reason for choosing “close procedural reading”? Which strategy name best describes this pathway: read every step, condition and safety note in sequence?",
@@ -449,18 +359,13 @@ window.skillrPracticeQuestions = [
       "It matches the key clue and meaning in the example."
     ],
     "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The pathway deliberately uses close procedural reading for the stated purpose.\nHint: Find the exact clue that makes “close procedural reading” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The pathway deliberately uses close procedural reading for the stated purpose.",
-      "hint": "Find the exact clue that makes “close procedural reading” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The pathway deliberately uses close procedural reading for the stated purpose.\nHint: Find the exact clue that makes “close procedural reading” fit."
   },
   {
     "id": "ac9e5ly04-p-020",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which explanation connects “use the index or glossary, then reread the sentence where it appears” to the key clue? A reader needs to locate the meaning of a technical word in a textbook. What is the best pathway?",
@@ -473,18 +378,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The task calls for navigation and context confirmation.\nHint: Find the exact clue that makes “use the index or glossary, then reread the sentence where it appears” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The task calls for navigation and context confirmation.",
-      "hint": "Find the exact clue that makes “use the index or glossary, then reread the sentence where it appears” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The task calls for navigation and context confirmation.\nHint: Find the exact clue that makes “use the index or glossary, then reread the sentence where it appears” fit."
   },
   {
     "id": "ac9e5ly04-p-021",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "“Stop at the first highlighted word” might seem possible at first. What should you notice before answering this question: After using keywords to find the 2018 rainfall total in a long climate report, what should the reader do next?",
@@ -497,18 +397,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Stop at the first highlighted word” fail and “Read enough surrounding information to confirm the match answers the question” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Stop at the first highlighted word” fail and “Read enough surrounding information to confirm the match answers the question” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Stop at the first highlighted word” fail and “Read enough surrounding information to confirm the match answers the question” succeed."
   },
   {
     "id": "ac9e5ly04-p-022",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Why is “guessing from the cover” not the best choice here? Which strategy name best describes this pathway: read every step, condition and safety note in sequence?",
@@ -521,18 +416,13 @@ window.skillrPracticeQuestions = [
       "Check the whole example: “close procedural reading” matches the key clue, while “guessing from the cover” does not."
     ],
     "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “guessing from the cover” fail and “close procedural reading” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “guessing from the cover” fail and “close procedural reading” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “guessing from the cover” fail and “close procedural reading” succeed."
   },
   {
     "id": "ac9e5ly04-p-023",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Compare “Read every word at exactly the same speed” with “use the index or glossary, then reread the sentence where it appears”. What important difference matters in this example? A reader needs to locate the meaning of a technical word in a textbook. What is the best pathway?",
@@ -545,18 +435,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Read every word at exactly the same speed” fail and “use the index or glossary, then reread the sentence where it appears” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Read every word at exactly the same speed” fail and “use the index or glossary, then reread the sentence where it appears” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Read every word at exactly the same speed” fail and “use the index or glossary, then reread the sentence where it appears” succeed."
   },
   {
     "id": "ac9e5ly04-p-024",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which clue rules out “It avoids checking whether the information is relevant” in this situation? Why is “closely read the causal explanation while tracing the labelled diagram” efficient for the goal to understand why an eclipse occurs?",
@@ -569,18 +454,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It avoids checking whether the information is relevant” fail and “It directs close attention to the information needed for that purpose” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It avoids checking whether the information is relevant” fail and “It directs close attention to the information needed for that purpose” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It avoids checking whether the information is relevant” fail and “It directs close attention to the information needed for that purpose” succeed."
   },
   {
     "id": "ac9e5ly04-p-025",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "A quick reader might choose “Stop at the first highlighted word”. What would a closer reading show? After using keywords to gain a quick overview of a chapter about Federation, what should the reader do next?",
@@ -593,18 +473,13 @@ window.skillrPracticeQuestions = [
       "Check the whole example: “Read enough surrounding information to confirm the match answers the question” matches the key clue, while “Stop at the first highlighted word” does not."
     ],
     "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Stop at the first highlighted word” fail and “Read enough surrounding information to confirm the match answers the question” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Stop at the first highlighted word” fail and “Read enough surrounding information to confirm the match answers the question” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Stop at the first highlighted word” fail and “Read enough surrounding information to confirm the match answers the question” succeed."
   },
   {
     "id": "ac9e5ly04-p-026",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "What makes “evidence comparison” more precise than “guessing from the cover” here? Which strategy name best describes this pathway: locate each claim, read its evidence and check source details?",
@@ -617,18 +492,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “guessing from the cover” fail and “evidence comparison” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “guessing from the cover” fail and “evidence comparison” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “guessing from the cover” fail and “evidence comparison” succeed."
   },
   {
     "id": "ac9e5ly04-p-027",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which detail helps you reject “Read every word at exactly the same speed”? A reader needs to understand why an eclipse occurs. What is the best pathway?",
@@ -641,18 +511,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Read every word at exactly the same speed” fail and “closely read the causal explanation while tracing the labelled diagram” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Read every word at exactly the same speed” fail and “closely read the causal explanation while tracing the labelled diagram” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Read every word at exactly the same speed” fail and “closely read the causal explanation while tracing the labelled diagram” succeed."
   },
   {
     "id": "ac9e5ly04-p-028",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "What is the problem with choosing “It avoids checking whether the information is relevant” for this example? Why is “scan headings and tables for 2018, then check the unit and surrounding label” efficient for the goal to find the 2018 rainfall total in a long climate report?",
@@ -665,18 +530,13 @@ window.skillrPracticeQuestions = [
       "Check the whole example: “It directs close attention to the information needed for that purpose” matches the key clue, while “It avoids checking whether the information is relevant” does not."
     ],
     "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It avoids checking whether the information is relevant” fail and “It directs close attention to the information needed for that purpose” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “It avoids checking whether the information is relevant” fail and “It directs close attention to the information needed for that purpose” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “It avoids checking whether the information is relevant” fail and “It directs close attention to the information needed for that purpose” succeed."
   },
   {
     "id": "ac9e5ly04-p-029",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which comparison best separates “Read enough surrounding information to confirm the match answers the question” from “Stop at the first highlighted word”? After using keywords to follow a procedure for testing soil drainage, what should the reader do next?",
@@ -689,18 +549,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Stop at the first highlighted word” fail and “Read enough surrounding information to confirm the match answers the question” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Stop at the first highlighted word” fail and “Read enough surrounding information to confirm the match answers the question” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Stop at the first highlighted word” fail and “Read enough surrounding information to confirm the match answers the question” succeed."
   },
   {
     "id": "ac9e5ly04-p-030",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "What should you check so you do not confuse “guessing from the cover” with the correct answer? Which strategy name best describes this pathway: use the index or glossary, then reread the sentence where it appears?",
@@ -713,18 +568,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “guessing from the cover” fail and “navigation and context confirmation” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “guessing from the cover” fail and “navigation and context confirmation” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “guessing from the cover” fail and “navigation and context confirmation” succeed."
   },
   {
     "id": "ac9e5ly04-p-031",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Apply what you know to this example: Why is “scan headings and tables for 2018, then check the unit and surrounding label” efficient for the goal to find the 2018 rainfall total in a long climate report?",
@@ -737,18 +587,13 @@ window.skillrPracticeQuestions = [
       "It directs close attention to the information needed for that purpose"
     ],
     "correct": 2,
-    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy.",
-    "structuredExplanation": {
-      "summary": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.",
-      "hint": "Explain how the pathway saves time while preserving accuracy."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy."
   },
   {
     "id": "ac9e5ly04-p-032",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Use the skill independently. After using keywords to follow a procedure for testing soil drainage, what should the reader do next?",
@@ -761,18 +606,13 @@ window.skillrPracticeQuestions = [
       "Ignore labels, dates and units"
     ],
     "correct": 0,
-    "explanation": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.\nHint: Check the heading, sentence, label, date or unit around the match.",
-    "structuredExplanation": {
-      "summary": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.",
-      "hint": "Check the heading, sentence, label, date or unit around the match."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.\nHint: Check the heading, sentence, label, date or unit around the match."
   },
   {
     "id": "ac9e5ly04-p-033",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Work out the answer from the details given. Which strategy name best describes this pathway: use the index or glossary, then reread the sentence where it appears?",
@@ -785,18 +625,13 @@ window.skillrPracticeQuestions = [
       "copying without reading"
     ],
     "correct": 1,
-    "explanation": "“navigation and context confirmation” fits the meaning and the language clue in this example. The pathway deliberately uses navigation and context confirmation for the stated purpose.\nHint: Name what the reader is doing, including any final confirmation.",
-    "structuredExplanation": {
-      "summary": "“navigation and context confirmation” fits the meaning and the language clue in this example. The pathway deliberately uses navigation and context confirmation for the stated purpose.",
-      "hint": "Name what the reader is doing, including any final confirmation."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“navigation and context confirmation” fits the meaning and the language clue in this example. The pathway deliberately uses navigation and context confirmation for the stated purpose.\nHint: Name what the reader is doing, including any final confirmation."
   },
   {
     "id": "ac9e5ly04-p-034",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Now use the idea in context. A reader needs to find the 2018 rainfall total in a long climate report. What is the best pathway?",
@@ -809,18 +644,13 @@ window.skillrPracticeQuestions = [
       "scan headings and tables for 2018, then check the unit and surrounding label"
     ],
     "correct": 2,
-    "explanation": "“scan headings and tables for 2018, then check the unit and surrounding label” fits the meaning and the language clue in this example. The task calls for scanning and confirming.\nHint: Let the information need decide where to navigate and how closely to read.",
-    "structuredExplanation": {
-      "summary": "“scan headings and tables for 2018, then check the unit and surrounding label” fits the meaning and the language clue in this example. The task calls for scanning and confirming.",
-      "hint": "Let the information need decide where to navigate and how closely to read."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“scan headings and tables for 2018, then check the unit and surrounding label” fits the meaning and the language clue in this example. The task calls for scanning and confirming.\nHint: Let the information need decide where to navigate and how closely to read."
   },
   {
     "id": "ac9e5ly04-p-035",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Choose carefully using meaning, not just a familiar word. Why is “skim the title, headings, opening sentences and visuals” efficient for the goal to gain a quick overview of a chapter about Federation?",
@@ -833,18 +663,13 @@ window.skillrPracticeQuestions = [
       "It guarantees every source is reliable"
     ],
     "correct": 0,
-    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy.",
-    "structuredExplanation": {
-      "summary": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.",
-      "hint": "Explain how the pathway saves time while preserving accuracy."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy."
   },
   {
     "id": "ac9e5ly04-p-036",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which answer still works when you consider the whole example? After using keywords to compare two claims about plastic waste, what should the reader do next?",
@@ -857,18 +682,13 @@ window.skillrPracticeQuestions = [
       "Ignore labels, dates and units"
     ],
     "correct": 1,
-    "explanation": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.\nHint: Check the heading, sentence, label, date or unit around the match.",
-    "structuredExplanation": {
-      "summary": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.",
-      "hint": "Check the heading, sentence, label, date or unit around the match."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.\nHint: Check the heading, sentence, label, date or unit around the match."
   },
   {
     "id": "ac9e5ly04-p-037",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Use all the clues in this situation. Which strategy name best describes this pathway: closely read the causal explanation while tracing the labelled diagram?",
@@ -881,18 +701,13 @@ window.skillrPracticeQuestions = [
       "close multimodal reading"
     ],
     "correct": 2,
-    "explanation": "“close multimodal reading” fits the meaning and the language clue in this example. The pathway deliberately uses close multimodal reading for the stated purpose.\nHint: Name what the reader is doing, including any final confirmation.",
-    "structuredExplanation": {
-      "summary": "“close multimodal reading” fits the meaning and the language clue in this example. The pathway deliberately uses close multimodal reading for the stated purpose.",
-      "hint": "Name what the reader is doing, including any final confirmation."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“close multimodal reading” fits the meaning and the language clue in this example. The pathway deliberately uses close multimodal reading for the stated purpose.\nHint: Name what the reader is doing, including any final confirmation."
   },
   {
     "id": "ac9e5ly04-p-038",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Decide which option is most precise. A reader needs to gain a quick overview of a chapter about Federation. What is the best pathway?",
@@ -905,18 +720,13 @@ window.skillrPracticeQuestions = [
       "Accept the first matching word without checking context"
     ],
     "correct": 0,
-    "explanation": "“skim the title, headings, opening sentences and visuals” fits the meaning and the language clue in this example. The task calls for skimming.\nHint: Let the information need decide where to navigate and how closely to read.",
-    "structuredExplanation": {
-      "summary": "“skim the title, headings, opening sentences and visuals” fits the meaning and the language clue in this example. The task calls for skimming.",
-      "hint": "Let the information need decide where to navigate and how closely to read."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“skim the title, headings, opening sentences and visuals” fits the meaning and the language clue in this example. The task calls for skimming.\nHint: Let the information need decide where to navigate and how closely to read."
   },
   {
     "id": "ac9e5ly04-p-039",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Which choice best shows your understanding here? Why is “read every step, condition and safety note in sequence” efficient for the goal to follow a procedure for testing soil drainage?",
@@ -929,18 +739,13 @@ window.skillrPracticeQuestions = [
       "It guarantees every source is reliable"
     ],
     "correct": 1,
-    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy.",
-    "structuredExplanation": {
-      "summary": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.",
-      "hint": "Explain how the pathway saves time while preserving accuracy."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“It directs close attention to the information needed for that purpose” fits the meaning and the language clue in this example. Efficient readers vary navigation and reading depth according to purpose.\nHint: Explain how the pathway saves time while preserving accuracy."
   },
   {
     "id": "ac9e5ly04-p-040",
     "curriculumCode": "AC9E5LY04",
     "bank": "practice",
-    "skill": "navigating texts for specific purposes",
+    "skill": "navigating_texts_for_specific_purposes",
     "printable": true,
     "type": "single",
     "question": "Read the full example before deciding. After using keywords to locate the meaning of a technical word in a textbook, what should the reader do next?",
@@ -953,12 +758,158 @@ window.skillrPracticeQuestions = [
       "Read enough surrounding information to confirm the match answers the question"
     ],
     "correct": 2,
-    "explanation": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.\nHint: Check the heading, sentence, label, date or unit around the match.",
-    "structuredExplanation": {
-      "summary": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.",
-      "hint": "Check the heading, sentence, label, date or unit around the match."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Read enough surrounding information to confirm the match answers the question” fits the meaning and the language clue in this example. A keyword locates a candidate; context confirms it.\nHint: Check the heading, sentence, label, date or unit around the match."
+  },
+  {
+    "id": "ac9e5ly04-p-042",
+    "curriculumCode": "AC9E5LY04",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "You need the bus departure time on a long transport website. What is the most efficient first move?",
+    "audioPrompt": "You need the bus departure time on a long transport website. What is the most efficient first move?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Use the menu or search tool to locate timetables.",
+      "Read every page from the beginning.",
+      "Choose a random advertisement."
+    ],
+    "correct": 0,
+    "explanation": "Navigation tools help readers reach the relevant information efficiently.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly04-p-043",
+    "curriculumCode": "AC9E5LY04",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "A webpage has headings “Materials”, “Steps” and “Safety”. How do these headings help?",
+    "audioPrompt": "A webpage has headings “Materials”, “Steps” and “Safety”. How do these headings help?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "They let readers predict and locate the information they need.",
+      "They remove the need to read.",
+      "They show the page is a poem."
+    ],
+    "correct": 0,
+    "explanation": "Headings organise information and support purposeful reading.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly04-p-044",
+    "curriculumCode": "AC9E5LY04",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "You read instructions and realise step 3 cannot work with the materials listed. What should you do?",
+    "audioPrompt": "You read instructions and realise step 3 cannot work with the materials listed. What should you do?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Reread the relevant steps and check whether you missed or misunderstood information.",
+      "Continue without checking.",
+      "Delete the instructions."
+    ],
+    "correct": 0,
+    "explanation": "Monitoring means noticing a problem and repairing understanding.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly04-p-045",
+    "curriculumCode": "AC9E5LY04",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "A search result contains the words you need but comes from an unknown website. What should you check?",
+    "audioPrompt": "A search result contains the words you need but comes from an unknown website. What should you check?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Whether the source is trustworthy and actually answers your purpose.",
+      "Only whether the title is colourful.",
+      "Whether it has the longest paragraph."
+    ],
+    "correct": 0,
+    "explanation": "Purposeful reading includes judging relevance and reliability.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly04-p-046",
+    "curriculumCode": "AC9E5LY04",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "Which feature helps you find a page number quickly in a long digital text?",
+    "audioPrompt": "Which feature helps you find a page number quickly in a long digital text?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "A contents list or search function.",
+      "The background colour.",
+      "The size of the browser window."
+    ],
+    "correct": 0,
+    "explanation": "Navigation features reduce unnecessary reading.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly04-p-047",
+    "curriculumCode": "AC9E5LY04",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "A recipe uses “fold gently”, but your first attempt makes the mixture lumpy. What reading action could help?",
+    "audioPrompt": "A recipe uses “fold gently”, but your first attempt makes the mixture lumpy. What reading action could help?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Reread the step and check the meaning of “fold” and the sequence.",
+      "Skip the step forever.",
+      "Assume every recipe means stir hard."
+    ],
+    "correct": 0,
+    "explanation": "Monitoring and rereading can repair a misunderstanding of a key instruction.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly04-p-048",
+    "curriculumCode": "AC9E5LY04",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "You need one fact for a poster. Which reading path is most suitable?",
+    "audioPrompt": "You need one fact for a poster. Which reading path is most suitable?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Scan headings, captions and key sections, then read the relevant part closely.",
+      "Copy the first sentence you see.",
+      "Read unrelated comments only."
+    ],
+    "correct": 0,
+    "explanation": "The path should match the focused information need.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly04-p-049",
+    "curriculumCode": "AC9E5LY04",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "Why should a reader check the date of an online page when researching current information?",
+    "audioPrompt": "Why should a reader check the date of an online page when researching current information?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The information may have changed since the page was published.",
+      "Older pages are always wrong.",
+      "Dates only decorate websites."
+    ],
+    "correct": 0,
+    "explanation": "Checking currency helps judge whether a source suits the purpose.\nHint: Use the audience, purpose and specific clue in the example."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

@@ -1200,6 +1200,246 @@
     }
   },
   {
+    "id": "AC9E5LY02-P-042",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A partner says, “I think the ending is unfair.” Which response shows active listening?",
+    "audio_prompt": "A partner says, “I think the ending is unfair.” Which response shows active listening?",
+    "answers": [
+      {
+        "text": "I understand why you think that; the final choice surprised me too.",
+        "is_correct": true
+      },
+      {
+        "text": "You are wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "I was not listening.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The response acknowledges the idea and adds a related thought.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY02-P-043",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Paraphrase this idea: “The narrator changes the plan because the weather becomes dangerous.”",
+    "audio_prompt": "Paraphrase this idea: “The narrator changes the plan because the weather becomes dangerous.”",
+    "answers": [
+      {
+        "text": "The narrator alters the plan when the weather turns unsafe.",
+        "is_correct": true
+      },
+      {
+        "text": "The narrator ignores the weather.",
+        "is_correct": false
+      },
+      {
+        "text": "The plan is a sunny picnic only.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A paraphrase keeps the meaning while using new wording.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY02-P-044",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "During a group task, what should you do before disagreeing with a classmate’s suggestion?",
+    "audio_prompt": "During a group task, what should you do before disagreeing with a classmate’s suggestion?",
+    "answers": [
+      {
+        "text": "Restate the suggestion to show you understood it.",
+        "is_correct": true
+      },
+      {
+        "text": "Interrupt immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the topic.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Paraphrasing checks understanding and keeps disagreement respectful.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY02-P-045",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Which sentence respectfully asks for clarification?",
+    "audio_prompt": "Which sentence respectfully asks for clarification?",
+    "answers": [
+      {
+        "text": "Could you explain what you mean by “more effective”?",
+        "is_correct": true
+      },
+      {
+        "text": "That makes no sense.",
+        "is_correct": false
+      },
+      {
+        "text": "Stop talking.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A clarification question identifies what is unclear without attacking the speaker.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY02-P-046",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A classmate shares an idea and pauses. What interaction skill helps the conversation?",
+    "audio_prompt": "A classmate shares an idea and pauses. What interaction skill helps the conversation?",
+    "answers": [
+      {
+        "text": "Allowing time for the speaker to finish before responding.",
+        "is_correct": true
+      },
+      {
+        "text": "Speaking over the pause.",
+        "is_correct": false
+      },
+      {
+        "text": "Turning away and changing subjects.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Listening includes giving the speaker space to complete the idea.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY02-P-047",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Paraphrase: “The diagram is useful because its labels show where each part belongs.”",
+    "audio_prompt": "Paraphrase: “The diagram is useful because its labels show where each part belongs.”",
+    "answers": [
+      {
+        "text": "The labels make the diagram helpful by identifying each part’s location.",
+        "is_correct": true
+      },
+      {
+        "text": "The diagram has no labels.",
+        "is_correct": false
+      },
+      {
+        "text": "The parts are impossible to find.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The restatement preserves both the reason and the result.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY02-P-048",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "You disagree with a group decision. Which opening is most appropriate?",
+    "audio_prompt": "You disagree with a group decision. Which opening is most appropriate?",
+    "answers": [
+      {
+        "text": "I see the reason for that choice; could we also consider…?",
+        "is_correct": true
+      },
+      {
+        "text": "That idea is stupid.",
+        "is_correct": false
+      },
+      {
+        "text": "Nobody should listen to you.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Acknowledging the idea before offering another supports respectful interaction.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY02-P-049",
+    "curriculum_code": "AC9E5LY02",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Why is a paraphrase stronger than repeating the exact sentence?",
+    "audio_prompt": "Why is a paraphrase stronger than repeating the exact sentence?",
+    "answers": [
+      {
+        "text": "It shows understanding by expressing the meaning in your own words.",
+        "is_correct": true
+      },
+      {
+        "text": "It always makes the idea false.",
+        "is_correct": false
+      },
+      {
+        "text": "It avoids listening.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A successful paraphrase demonstrates comprehension rather than copying.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
     "id": "AC9E5LY02-T-001",
     "curriculum_code": "AC9E5LY02",
     "year_level": "Year 5",

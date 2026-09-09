@@ -4,7 +4,7 @@ window.skillrPracticeQuestions = [
     "id": "ac9e5ly02-p-001",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "A speaker says, “The oval should be larger because more students can join the game.” Which reply paraphrases before responding?",
@@ -17,18 +17,13 @@ window.skillrPracticeQuestions = [
       "I agree with every word, so there is nothing to discuss."
     ],
     "correct": 0,
-    "explanation": "“So you think a larger oval would allow more students to participate. Is that right?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.\nHint: Begin with the speaker’s main claim, then check your understanding.",
-    "structuredExplanation": {
-      "summary": "“So you think a larger oval would allow more students to participate. Is that right?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.",
-      "hint": "Begin with the speaker’s main claim, then check your understanding."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“So you think a larger oval would allow more students to participate. Is that right?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.\nHint: Begin with the speaker’s main claim, then check your understanding."
   },
   {
     "id": "ac9e5ly02-p-002",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Read carefully: Which contribution best moves discussion of “Our class should grow herbs because the canteen could use them.” forward?",
@@ -41,18 +36,13 @@ window.skillrPracticeQuestions = [
       "My story is different, so the original claim does not matter."
     ],
     "correct": 1,
-    "explanation": "“Your idea is that a herb garden could supply the canteen. Have I understood? Which herbs would the canteen actually need?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence.",
-    "structuredExplanation": {
-      "summary": "“Your idea is that a herb garden could supply the canteen. Have I understood? Which herbs would the canteen actually need?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.",
-      "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Your idea is that a herb garden could supply the canteen. Have I understood? Which herbs would the canteen actually need?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence."
   },
   {
     "id": "ac9e5ly02-p-003",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which answer makes the most sense here? Which personal connection is relevant to the claim “The library needs a quiet zone because some readers cannot focus near group work.”?",
@@ -65,18 +55,13 @@ window.skillrPracticeQuestions = [
       "I have had to reread pages when nearby groups were talking."
     ],
     "correct": 2,
-    "explanation": "“I have had to reread pages when nearby groups were talking.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.\nHint: Select experience that helps explain or test the idea.",
-    "structuredExplanation": {
-      "summary": "“I have had to reread pages when nearby groups were talking.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.",
-      "hint": "Select experience that helps explain or test the idea."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“I have had to reread pages when nearby groups were talking.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.\nHint: Select experience that helps explain or test the idea."
   },
   {
     "id": "ac9e5ly02-p-004",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Look at the wording and meaning. After hearing “The school should collect rainwater for the vegetable beds.” which question would deepen the discussion?",
@@ -89,18 +74,13 @@ window.skillrPracticeQuestions = [
       "Why would anyone think that?"
     ],
     "correct": 0,
-    "explanation": "“How much water could the roof collect in a typical month?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.\nHint: Choose the question that respectfully tests the claim.",
-    "structuredExplanation": {
-      "summary": "“How much water could the roof collect in a typical month?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.",
-      "hint": "Choose the question that respectfully tests the claim."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“How much water could the roof collect in a typical month?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.\nHint: Choose the question that respectfully tests the claim."
   },
   {
     "id": "ac9e5ly02-p-005",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Choose the option that fits the situation best. A speaker says, “Our class should grow herbs because the canteen could use them.” Which reply paraphrases before responding?",
@@ -113,18 +93,13 @@ window.skillrPracticeQuestions = [
       "I agree with every word, so there is nothing to discuss."
     ],
     "correct": 1,
-    "explanation": "“Your idea is that a herb garden could supply the canteen. Have I understood?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.\nHint: Begin with the speaker’s main claim, then check your understanding.",
-    "structuredExplanation": {
-      "summary": "“Your idea is that a herb garden could supply the canteen. Have I understood?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.",
-      "hint": "Begin with the speaker’s main claim, then check your understanding."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Your idea is that a herb garden could supply the canteen. Have I understood?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.\nHint: Begin with the speaker’s main claim, then check your understanding."
   },
   {
     "id": "ac9e5ly02-p-006",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which choice is accurate in this example? Which contribution best moves discussion of “Homework should include more choice so students can use their strengths.” forward?",
@@ -137,18 +112,13 @@ window.skillrPracticeQuestions = [
       "You are suggesting choices could let students show learning in different ways. Correct? How would teachers check that each choice has equal challenge?"
     ],
     "correct": 2,
-    "explanation": "“You are suggesting choices could let students show learning in different ways. Correct? How would teachers check that each choice has equal challenge?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence.",
-    "structuredExplanation": {
-      "summary": "“You are suggesting choices could let students show learning in different ways. Correct? How would teachers check that each choice has equal challenge?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.",
-      "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“You are suggesting choices could let students show learning in different ways. Correct? How would teachers check that each choice has equal challenge?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence."
   },
   {
     "id": "ac9e5ly02-p-007",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Focus on the key clue. Which personal connection is relevant to the claim “Excursions should use public transport when practical to reduce traffic.”?",
@@ -161,18 +131,13 @@ window.skillrPracticeQuestions = [
       "My favourite colour is blue."
     ],
     "correct": 0,
-    "explanation": "“Our museum trip by train avoided parking delays.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.\nHint: Select experience that helps explain or test the idea.",
-    "structuredExplanation": {
-      "summary": "“Our museum trip by train avoided parking delays.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.",
-      "hint": "Select experience that helps explain or test the idea."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Our museum trip by train avoided parking delays.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.\nHint: Select experience that helps explain or test the idea."
   },
   {
     "id": "ac9e5ly02-p-008",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "What works best in this situation? After hearing “The oval should be larger because more students can join the game.” which question would deepen the discussion?",
@@ -185,18 +150,13 @@ window.skillrPracticeQuestions = [
       "Why would anyone think that?"
     ],
     "correct": 1,
-    "explanation": "“What evidence shows how many students would use it?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.\nHint: Choose the question that respectfully tests the claim.",
-    "structuredExplanation": {
-      "summary": "“What evidence shows how many students would use it?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.",
-      "hint": "Choose the question that respectfully tests the claim."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“What evidence shows how many students would use it?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.\nHint: Choose the question that respectfully tests the claim."
   },
   {
     "id": "ac9e5ly02-p-009",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which option matches what is happening? A speaker says, “Homework should include more choice so students can use their strengths.” Which reply paraphrases before responding?",
@@ -209,18 +169,13 @@ window.skillrPracticeQuestions = [
       "You are suggesting choices could let students show learning in different ways. Correct?"
     ],
     "correct": 2,
-    "explanation": "“You are suggesting choices could let students show learning in different ways. Correct?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.\nHint: Begin with the speaker’s main claim, then check your understanding.",
-    "structuredExplanation": {
-      "summary": "“You are suggesting choices could let students show learning in different ways. Correct?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.",
-      "hint": "Begin with the speaker’s main claim, then check your understanding."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“You are suggesting choices could let students show learning in different ways. Correct?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.\nHint: Begin with the speaker’s main claim, then check your understanding."
   },
   {
     "id": "ac9e5ly02-p-010",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Use the details in the example. Which contribution best moves discussion of “The library needs a quiet zone because some readers cannot focus near group work.” forward?",
@@ -233,18 +188,13 @@ window.skillrPracticeQuestions = [
       "My story is different, so the original claim does not matter."
     ],
     "correct": 0,
-    "explanation": "“Your main point is that a separate quiet area could improve concentration. Is that accurate? What observations support the need for a separate zone?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence.",
-    "structuredExplanation": {
-      "summary": "“Your main point is that a separate quiet area could improve concentration. Is that accurate? What observations support the need for a separate zone?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.",
-      "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Your main point is that a separate quiet area could improve concentration. Is that accurate? What observations support the need for a separate zone?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence."
   },
   {
     "id": "ac9e5ly02-p-011",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Why is “What evidence shows how many students would use it?” the strongest answer to this question: After hearing “The oval should be larger because more students can join the game.” which question would deepen the discussion?",
@@ -257,18 +207,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A probing question asks for evidence, conditions or reasoning.\nHint: Find the exact clue that makes “What evidence shows how many students would use it?” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A probing question asks for evidence, conditions or reasoning.",
-      "hint": "Find the exact clue that makes “What evidence shows how many students would use it?” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A probing question asks for evidence, conditions or reasoning.\nHint: Find the exact clue that makes “What evidence shows how many students would use it?” fit."
   },
   {
     "id": "ac9e5ly02-p-012",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "What makes “You are suggesting choices could let students show learning in different ways. Correct?” work in this example? A speaker says, “Homework should include more choice so students can use their strengths.” Which reply paraphrases before responding?",
@@ -281,18 +226,13 @@ window.skillrPracticeQuestions = [
       "It matches the key clue and meaning in the example."
     ],
     "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The reply restates the meaning and checks it without assuming agreement.\nHint: Find the exact clue that makes “You are suggesting choices could let students show learning in different ways. Correct?” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The reply restates the meaning and checks it without assuming agreement.",
-      "hint": "Find the exact clue that makes “You are suggesting choices could let students show learning in different ways. Correct?” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The reply restates the meaning and checks it without assuming agreement.\nHint: Find the exact clue that makes “You are suggesting choices could let students show learning in different ways. Correct?” fit."
   },
   {
     "id": "ac9e5ly02-p-013",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which reason best explains why “Your main point is that a separate quiet area could improve concentration. Is that accurate? What observations support the need for a separate zone?” fits? Which contribution best moves discussion of “The library needs a quiet zone because some readers cannot focus near group work.” forward?",
@@ -305,18 +245,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Productive discussion combines accurate listening with a purposeful question.\nHint: Find the exact clue that makes “Your main point is that a separate quiet area could improve concentration. Is that accurate? What observations support the need for a separate zone?” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Productive discussion combines accurate listening with a purposeful question.",
-      "hint": "Find the exact clue that makes “Your main point is that a separate quiet area could improve concentration. Is that accurate? What observations support the need for a separate zone?” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Productive discussion combines accurate listening with a purposeful question.\nHint: Find the exact clue that makes “Your main point is that a separate quiet area could improve concentration. Is that accurate? What observations support the need for a separate zone?” fit."
   },
   {
     "id": "ac9e5ly02-p-014",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "How does “A tank at my sports club supplies water for nearby plants.” match the meaning of this example? Which personal connection is relevant to the claim “The school should collect rainwater for the vegetable beds.”?",
@@ -329,18 +264,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A useful connection is brief and clearly linked to the claim.\nHint: Find the exact clue that makes “A tank at my sports club supplies water for nearby plants.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A useful connection is brief and clearly linked to the claim.",
-      "hint": "Find the exact clue that makes “A tank at my sports club supplies water for nearby plants.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A useful connection is brief and clearly linked to the claim.\nHint: Find the exact clue that makes “A tank at my sports club supplies water for nearby plants.” fit."
   },
   {
     "id": "ac9e5ly02-p-015",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Why does “Which herbs would the canteen actually need?” suit this situation better than the other choices? After hearing “Our class should grow herbs because the canteen could use them.” which question would deepen the discussion?",
@@ -353,18 +283,13 @@ window.skillrPracticeQuestions = [
       "It matches the key clue and meaning in the example."
     ],
     "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A probing question asks for evidence, conditions or reasoning.\nHint: Find the exact clue that makes “Which herbs would the canteen actually need?” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A probing question asks for evidence, conditions or reasoning.",
-      "hint": "Find the exact clue that makes “Which herbs would the canteen actually need?” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A probing question asks for evidence, conditions or reasoning.\nHint: Find the exact clue that makes “Which herbs would the canteen actually need?” fit."
   },
   {
     "id": "ac9e5ly02-p-016",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "What clue in the example supports “Your main point is that a separate quiet area could improve concentration. Is that accurate?”? A speaker says, “The library needs a quiet zone because some readers cannot focus near group work.” Which reply paraphrases before responding?",
@@ -377,18 +302,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The reply restates the meaning and checks it without assuming agreement.\nHint: Find the exact clue that makes “Your main point is that a separate quiet area could improve concentration. Is that accurate?” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The reply restates the meaning and checks it without assuming agreement.",
-      "hint": "Find the exact clue that makes “Your main point is that a separate quiet area could improve concentration. Is that accurate?” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The reply restates the meaning and checks it without assuming agreement.\nHint: Find the exact clue that makes “Your main point is that a separate quiet area could improve concentration. Is that accurate?” fit."
   },
   {
     "id": "ac9e5ly02-p-017",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which explanation shows why “You propose public transport for suitable excursions to reduce traffic. Is that your view? What limits, such as travel time or accessibility, should we consider?” is correct here? Which contribution best moves discussion of “Excursions should use public transport when practical to reduce traffic.” forward?",
@@ -401,18 +321,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Productive discussion combines accurate listening with a purposeful question.\nHint: Find the exact clue that makes “You propose public transport for suitable excursions to reduce traffic. Is that your view? What limits, such as travel time or accessibility, should we consider?” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Productive discussion combines accurate listening with a purposeful question.",
-      "hint": "Find the exact clue that makes “You propose public transport for suitable excursions to reduce traffic. Is that your view? What limits, such as travel time or accessibility, should we consider?” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. Productive discussion combines accurate listening with a purposeful question.\nHint: Find the exact clue that makes “You propose public transport for suitable excursions to reduce traffic. Is that your view? What limits, such as travel time or accessibility, should we consider?” fit."
   },
   {
     "id": "ac9e5ly02-p-018",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Why would “At lunch, I have also seen students waiting for space.” make sense to a careful reader? Which personal connection is relevant to the claim “The oval should be larger because more students can join the game.”?",
@@ -425,18 +340,13 @@ window.skillrPracticeQuestions = [
       "It matches the key clue and meaning in the example."
     ],
     "correct": 2,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A useful connection is brief and clearly linked to the claim.\nHint: Find the exact clue that makes “At lunch, I have also seen students waiting for space.” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A useful connection is brief and clearly linked to the claim.",
-      "hint": "Find the exact clue that makes “At lunch, I have also seen students waiting for space.” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A useful connection is brief and clearly linked to the claim.\nHint: Find the exact clue that makes “At lunch, I have also seen students waiting for space.” fit."
   },
   {
     "id": "ac9e5ly02-p-019",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "What is the best reason for choosing “How would teachers check that each choice has equal challenge?”? After hearing “Homework should include more choice so students can use their strengths.” which question would deepen the discussion?",
@@ -449,18 +359,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 0,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A probing question asks for evidence, conditions or reasoning.\nHint: Find the exact clue that makes “How would teachers check that each choice has equal challenge?” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A probing question asks for evidence, conditions or reasoning.",
-      "hint": "Find the exact clue that makes “How would teachers check that each choice has equal challenge?” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. A probing question asks for evidence, conditions or reasoning.\nHint: Find the exact clue that makes “How would teachers check that each choice has equal challenge?” fit."
   },
   {
     "id": "ac9e5ly02-p-020",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which explanation connects “You propose public transport for suitable excursions to reduce traffic. Is that your view?” to the key clue? A speaker says, “Excursions should use public transport when practical to reduce traffic.” Which reply paraphrases before responding?",
@@ -473,18 +378,13 @@ window.skillrPracticeQuestions = [
       "It is correct because familiar words are always safest."
     ],
     "correct": 1,
-    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The reply restates the meaning and checks it without assuming agreement.\nHint: Find the exact clue that makes “You propose public transport for suitable excursions to reduce traffic. Is that your view?” fit.",
-    "structuredExplanation": {
-      "summary": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The reply restates the meaning and checks it without assuming agreement.",
-      "hint": "Find the exact clue that makes “You propose public transport for suitable excursions to reduce traffic. Is that your view?” fit."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "The answer works because it matches the specific clue and meaning, not because of its length or familiarity. The reply restates the meaning and checks it without assuming agreement.\nHint: Find the exact clue that makes “You propose public transport for suitable excursions to reduce traffic. Is that your view?” fit."
   },
   {
     "id": "ac9e5ly02-p-021",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "“I like talking about my weekend.” might seem possible at first. What should you notice before answering this question: Which personal connection is relevant to the claim “The oval should be larger because more students can join the game.”?",
@@ -497,18 +397,13 @@ window.skillrPracticeQuestions = [
       "Check the whole example: “At lunch, I have also seen students waiting for space.” matches the key clue, while “I like talking about my weekend.” does not."
     ],
     "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “I like talking about my weekend.” fail and “At lunch, I have also seen students waiting for space.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “I like talking about my weekend.” fail and “At lunch, I have also seen students waiting for space.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “I like talking about my weekend.” fail and “At lunch, I have also seen students waiting for space.” succeed."
   },
   {
     "id": "ac9e5ly02-p-022",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Why is “Can we change the topic now?” not the best choice here? After hearing “Homework should include more choice so students can use their strengths.” which question would deepen the discussion?",
@@ -521,18 +416,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Can we change the topic now?” fail and “How would teachers check that each choice has equal challenge?” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Can we change the topic now?” fail and “How would teachers check that each choice has equal challenge?” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Can we change the topic now?” fail and “How would teachers check that each choice has equal challenge?” succeed."
   },
   {
     "id": "ac9e5ly02-p-023",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Compare “That is wrong, and here is my idea.” with “You propose public transport for suitable excursions to reduce traffic. Is that your view?”. What important difference matters in this example? A speaker says, “Excursions should use public transport when practical to reduce traffic.” Which reply paraphrases before responding?",
@@ -545,18 +435,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “That is wrong, and here is my idea.” fail and “You propose public transport for suitable excursions to reduce traffic. Is that your view?” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “That is wrong, and here is my idea.” fail and “You propose public transport for suitable excursions to reduce traffic. Is that your view?” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “That is wrong, and here is my idea.” fail and “You propose public transport for suitable excursions to reduce traffic. Is that your view?” succeed."
   },
   {
     "id": "ac9e5ly02-p-024",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which clue rules out “I will repeat the exact sentence louder.” in this situation? Which contribution best moves discussion of “The school should collect rainwater for the vegetable beds.” forward?",
@@ -569,18 +454,13 @@ window.skillrPracticeQuestions = [
       "Check the whole example: “You think stored rainwater could be used on the garden. Have I captured your idea? How much water could the roof collect in a typical month?” matches the key clue, while “I will repeat the exact sentence louder.” does not."
     ],
     "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “I will repeat the exact sentence louder.” fail and “You think stored rainwater could be used on the garden. Have I captured your idea? How much water could the roof collect in a typical month?” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “I will repeat the exact sentence louder.” fail and “You think stored rainwater could be used on the garden. Have I captured your idea? How much water could the roof collect in a typical month?” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “I will repeat the exact sentence louder.” fail and “You think stored rainwater could be used on the garden. Have I captured your idea? How much water could the roof collect in a typical month?” succeed."
   },
   {
     "id": "ac9e5ly02-p-025",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "A quick reader might choose “I like talking about my weekend.”. What would a closer reading show? Which personal connection is relevant to the claim “Our class should grow herbs because the canteen could use them.”?",
@@ -593,18 +473,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “I like talking about my weekend.” fail and “My family garden shows that herbs can grow in small beds.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “I like talking about my weekend.” fail and “My family garden shows that herbs can grow in small beds.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “I like talking about my weekend.” fail and “My family garden shows that herbs can grow in small beds.” succeed."
   },
   {
     "id": "ac9e5ly02-p-026",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "What makes “What observations support the need for a separate zone?” more precise than “Can we change the topic now?” here? After hearing “The library needs a quiet zone because some readers cannot focus near group work.” which question would deepen the discussion?",
@@ -617,18 +492,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Can we change the topic now?” fail and “What observations support the need for a separate zone?” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Can we change the topic now?” fail and “What observations support the need for a separate zone?” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Can we change the topic now?” fail and “What observations support the need for a separate zone?” succeed."
   },
   {
     "id": "ac9e5ly02-p-027",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which detail helps you reject “That is wrong, and here is my idea.”? A speaker says, “The school should collect rainwater for the vegetable beds.” Which reply paraphrases before responding?",
@@ -641,18 +511,13 @@ window.skillrPracticeQuestions = [
       "Check the whole example: “You think stored rainwater could be used on the garden. Have I captured your idea?” matches the key clue, while “That is wrong, and here is my idea.” does not."
     ],
     "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “That is wrong, and here is my idea.” fail and “You think stored rainwater could be used on the garden. Have I captured your idea?” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “That is wrong, and here is my idea.” fail and “You think stored rainwater could be used on the garden. Have I captured your idea?” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “That is wrong, and here is my idea.” fail and “You think stored rainwater could be used on the garden. Have I captured your idea?” succeed."
   },
   {
     "id": "ac9e5ly02-p-028",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "What is the problem with choosing “I will repeat the exact sentence louder.” for this example? Which contribution best moves discussion of “The oval should be larger because more students can join the game.” forward?",
@@ -665,18 +530,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 0,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “I will repeat the exact sentence louder.” fail and “So you think a larger oval would allow more students to participate. Is that right? What evidence shows how many students would use it?” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “I will repeat the exact sentence louder.” fail and “So you think a larger oval would allow more students to participate. Is that right? What evidence shows how many students would use it?” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “I will repeat the exact sentence louder.” fail and “So you think a larger oval would allow more students to participate. Is that right? What evidence shows how many students would use it?” succeed."
   },
   {
     "id": "ac9e5ly02-p-029",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which comparison best separates “I work more carefully when I can choose between writing and presenting.” from “I like talking about my weekend.”? Which personal connection is relevant to the claim “Homework should include more choice so students can use their strengths.”?",
@@ -689,18 +549,13 @@ window.skillrPracticeQuestions = [
       "Ignore the context and choose whichever answer sounds most complex."
     ],
     "correct": 1,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “I like talking about my weekend.” fail and “I work more carefully when I can choose between writing and presenting.” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “I like talking about my weekend.” fail and “I work more carefully when I can choose between writing and presenting.” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “I like talking about my weekend.” fail and “I work more carefully when I can choose between writing and presenting.” succeed."
   },
   {
     "id": "ac9e5ly02-p-030",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "What should you check so you do not confuse “Can we change the topic now?” with the correct answer? After hearing “Excursions should use public transport when practical to reduce traffic.” which question would deepen the discussion?",
@@ -713,18 +568,13 @@ window.skillrPracticeQuestions = [
       "Check the whole example: “What limits, such as travel time or accessibility, should we consider?” matches the key clue, while “Can we change the topic now?” does not."
     ],
     "correct": 2,
-    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Can we change the topic now?” fail and “What limits, such as travel time or accessibility, should we consider?” succeed.",
-    "structuredExplanation": {
-      "summary": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.",
-      "hint": "Ask what makes “Can we change the topic now?” fail and “What limits, such as travel time or accessibility, should we consider?” succeed."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "A tempting answer can share vocabulary with the question but still miss the meaning. Compare each option with the exact clue in context.\nHint: Ask what makes “Can we change the topic now?” fail and “What limits, such as travel time or accessibility, should we consider?” succeed."
   },
   {
     "id": "ac9e5ly02-p-031",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Apply what you know to this example: Which contribution best moves discussion of “The oval should be larger because more students can join the game.” forward?",
@@ -737,18 +587,13 @@ window.skillrPracticeQuestions = [
       "My story is different, so the original claim does not matter."
     ],
     "correct": 0,
-    "explanation": "“So you think a larger oval would allow more students to participate. Is that right? What evidence shows how many students would use it?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence.",
-    "structuredExplanation": {
-      "summary": "“So you think a larger oval would allow more students to participate. Is that right? What evidence shows how many students would use it?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.",
-      "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“So you think a larger oval would allow more students to participate. Is that right? What evidence shows how many students would use it?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence."
   },
   {
     "id": "ac9e5ly02-p-032",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Use the skill independently. Which personal connection is relevant to the claim “Homework should include more choice so students can use their strengths.”?",
@@ -761,18 +606,13 @@ window.skillrPracticeQuestions = [
       "My favourite colour is blue."
     ],
     "correct": 1,
-    "explanation": "“I work more carefully when I can choose between writing and presenting.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.\nHint: Select experience that helps explain or test the idea.",
-    "structuredExplanation": {
-      "summary": "“I work more carefully when I can choose between writing and presenting.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.",
-      "hint": "Select experience that helps explain or test the idea."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“I work more carefully when I can choose between writing and presenting.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.\nHint: Select experience that helps explain or test the idea."
   },
   {
     "id": "ac9e5ly02-p-033",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Work out the answer from the details given. After hearing “Excursions should use public transport when practical to reduce traffic.” which question would deepen the discussion?",
@@ -785,18 +625,13 @@ window.skillrPracticeQuestions = [
       "What limits, such as travel time or accessibility, should we consider?"
     ],
     "correct": 2,
-    "explanation": "“What limits, such as travel time or accessibility, should we consider?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.\nHint: Choose the question that respectfully tests the claim.",
-    "structuredExplanation": {
-      "summary": "“What limits, such as travel time or accessibility, should we consider?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.",
-      "hint": "Choose the question that respectfully tests the claim."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“What limits, such as travel time or accessibility, should we consider?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.\nHint: Choose the question that respectfully tests the claim."
   },
   {
     "id": "ac9e5ly02-p-034",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Now use the idea in context. A speaker says, “The oval should be larger because more students can join the game.” Which reply paraphrases before responding?",
@@ -809,18 +644,13 @@ window.skillrPracticeQuestions = [
       "I agree with every word, so there is nothing to discuss."
     ],
     "correct": 0,
-    "explanation": "“So you think a larger oval would allow more students to participate. Is that right?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.\nHint: Begin with the speaker’s main claim, then check your understanding.",
-    "structuredExplanation": {
-      "summary": "“So you think a larger oval would allow more students to participate. Is that right?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.",
-      "hint": "Begin with the speaker’s main claim, then check your understanding."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“So you think a larger oval would allow more students to participate. Is that right?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.\nHint: Begin with the speaker’s main claim, then check your understanding."
   },
   {
     "id": "ac9e5ly02-p-035",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Choose carefully using meaning, not just a familiar word. Which contribution best moves discussion of “Our class should grow herbs because the canteen could use them.” forward?",
@@ -833,18 +663,13 @@ window.skillrPracticeQuestions = [
       "My story is different, so the original claim does not matter."
     ],
     "correct": 1,
-    "explanation": "“Your idea is that a herb garden could supply the canteen. Have I understood? Which herbs would the canteen actually need?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence.",
-    "structuredExplanation": {
-      "summary": "“Your idea is that a herb garden could supply the canteen. Have I understood? Which herbs would the canteen actually need?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.",
-      "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Your idea is that a herb garden could supply the canteen. Have I understood? Which herbs would the canteen actually need?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence."
   },
   {
     "id": "ac9e5ly02-p-036",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which answer still works when you consider the whole example? Which personal connection is relevant to the claim “The library needs a quiet zone because some readers cannot focus near group work.”?",
@@ -857,18 +682,13 @@ window.skillrPracticeQuestions = [
       "I have had to reread pages when nearby groups were talking."
     ],
     "correct": 2,
-    "explanation": "“I have had to reread pages when nearby groups were talking.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.\nHint: Select experience that helps explain or test the idea.",
-    "structuredExplanation": {
-      "summary": "“I have had to reread pages when nearby groups were talking.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.",
-      "hint": "Select experience that helps explain or test the idea."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“I have had to reread pages when nearby groups were talking.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.\nHint: Select experience that helps explain or test the idea."
   },
   {
     "id": "ac9e5ly02-p-037",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Use all the clues in this situation. After hearing “The school should collect rainwater for the vegetable beds.” which question would deepen the discussion?",
@@ -881,18 +701,13 @@ window.skillrPracticeQuestions = [
       "Why would anyone think that?"
     ],
     "correct": 0,
-    "explanation": "“How much water could the roof collect in a typical month?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.\nHint: Choose the question that respectfully tests the claim.",
-    "structuredExplanation": {
-      "summary": "“How much water could the roof collect in a typical month?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.",
-      "hint": "Choose the question that respectfully tests the claim."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“How much water could the roof collect in a typical month?” fits the meaning and the language clue in this example. A probing question asks for evidence, conditions or reasoning.\nHint: Choose the question that respectfully tests the claim."
   },
   {
     "id": "ac9e5ly02-p-038",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Decide which option is most precise. A speaker says, “Our class should grow herbs because the canteen could use them.” Which reply paraphrases before responding?",
@@ -905,18 +720,13 @@ window.skillrPracticeQuestions = [
       "I agree with every word, so there is nothing to discuss."
     ],
     "correct": 1,
-    "explanation": "“Your idea is that a herb garden could supply the canteen. Have I understood?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.\nHint: Begin with the speaker’s main claim, then check your understanding.",
-    "structuredExplanation": {
-      "summary": "“Your idea is that a herb garden could supply the canteen. Have I understood?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.",
-      "hint": "Begin with the speaker’s main claim, then check your understanding."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Your idea is that a herb garden could supply the canteen. Have I understood?” fits the meaning and the language clue in this example. The reply restates the meaning and checks it without assuming agreement.\nHint: Begin with the speaker’s main claim, then check your understanding."
   },
   {
     "id": "ac9e5ly02-p-039",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Which choice best shows your understanding here? Which contribution best moves discussion of “Homework should include more choice so students can use their strengths.” forward?",
@@ -929,18 +739,13 @@ window.skillrPracticeQuestions = [
       "You are suggesting choices could let students show learning in different ways. Correct? How would teachers check that each choice has equal challenge?"
     ],
     "correct": 2,
-    "explanation": "“You are suggesting choices could let students show learning in different ways. Correct? How would teachers check that each choice has equal challenge?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence.",
-    "structuredExplanation": {
-      "summary": "“You are suggesting choices could let students show learning in different ways. Correct? How would teachers check that each choice has equal challenge?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.",
-      "hint": "Look for both a fair paraphrase and a question that invites evidence."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“You are suggesting choices could let students show learning in different ways. Correct? How would teachers check that each choice has equal challenge?” fits the meaning and the language clue in this example. Productive discussion combines accurate listening with a purposeful question.\nHint: Look for both a fair paraphrase and a question that invites evidence."
   },
   {
     "id": "ac9e5ly02-p-040",
     "curriculumCode": "AC9E5LY02",
     "bank": "practice",
-    "skill": "paraphrasing questioning and justifying in discussion",
+    "skill": "paraphrasing_questioning_and_justifying_in_discussion",
     "printable": true,
     "type": "single",
     "question": "Read the full example before deciding. Which personal connection is relevant to the claim “Excursions should use public transport when practical to reduce traffic.”?",
@@ -953,12 +758,158 @@ window.skillrPracticeQuestions = [
       "My favourite colour is blue."
     ],
     "correct": 0,
-    "explanation": "“Our museum trip by train avoided parking delays.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.\nHint: Select experience that helps explain or test the idea.",
-    "structuredExplanation": {
-      "summary": "“Our museum trip by train avoided parking delays.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.",
-      "hint": "Select experience that helps explain or test the idea."
-    },
-    "qualitySchema": "production-v1"
+    "explanation": "“Our museum trip by train avoided parking delays.” fits the meaning and the language clue in this example. A useful connection is brief and clearly linked to the claim.\nHint: Select experience that helps explain or test the idea."
+  },
+  {
+    "id": "ac9e5ly02-p-042",
+    "curriculumCode": "AC9E5LY02",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "A partner says, “I think the ending is unfair.” Which response shows active listening?",
+    "audioPrompt": "A partner says, “I think the ending is unfair.” Which response shows active listening?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "I understand why you think that; the final choice surprised me too.",
+      "You are wrong.",
+      "I was not listening."
+    ],
+    "correct": 0,
+    "explanation": "The response acknowledges the idea and adds a related thought.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly02-p-043",
+    "curriculumCode": "AC9E5LY02",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "Paraphrase this idea: “The narrator changes the plan because the weather becomes dangerous.”",
+    "audioPrompt": "Paraphrase this idea: “The narrator changes the plan because the weather becomes dangerous.”",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The narrator alters the plan when the weather turns unsafe.",
+      "The narrator ignores the weather.",
+      "The plan is a sunny picnic only."
+    ],
+    "correct": 0,
+    "explanation": "A paraphrase keeps the meaning while using new wording.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly02-p-044",
+    "curriculumCode": "AC9E5LY02",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "During a group task, what should you do before disagreeing with a classmate’s suggestion?",
+    "audioPrompt": "During a group task, what should you do before disagreeing with a classmate’s suggestion?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Restate the suggestion to show you understood it.",
+      "Interrupt immediately.",
+      "Change the topic."
+    ],
+    "correct": 0,
+    "explanation": "Paraphrasing checks understanding and keeps disagreement respectful.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly02-p-045",
+    "curriculumCode": "AC9E5LY02",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence respectfully asks for clarification?",
+    "audioPrompt": "Which sentence respectfully asks for clarification?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Could you explain what you mean by “more effective”?",
+      "That makes no sense.",
+      "Stop talking."
+    ],
+    "correct": 0,
+    "explanation": "A clarification question identifies what is unclear without attacking the speaker.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly02-p-046",
+    "curriculumCode": "AC9E5LY02",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "A classmate shares an idea and pauses. What interaction skill helps the conversation?",
+    "audioPrompt": "A classmate shares an idea and pauses. What interaction skill helps the conversation?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "Allowing time for the speaker to finish before responding.",
+      "Speaking over the pause.",
+      "Turning away and changing subjects."
+    ],
+    "correct": 0,
+    "explanation": "Listening includes giving the speaker space to complete the idea.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly02-p-047",
+    "curriculumCode": "AC9E5LY02",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "Paraphrase: “The diagram is useful because its labels show where each part belongs.”",
+    "audioPrompt": "Paraphrase: “The diagram is useful because its labels show where each part belongs.”",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "The labels make the diagram helpful by identifying each part’s location.",
+      "The diagram has no labels.",
+      "The parts are impossible to find."
+    ],
+    "correct": 0,
+    "explanation": "The restatement preserves both the reason and the result.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly02-p-048",
+    "curriculumCode": "AC9E5LY02",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "You disagree with a group decision. Which opening is most appropriate?",
+    "audioPrompt": "You disagree with a group decision. Which opening is most appropriate?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "I see the reason for that choice; could we also consider…?",
+      "That idea is stupid.",
+      "Nobody should listen to you."
+    ],
+    "correct": 0,
+    "explanation": "Acknowledging the idea before offering another supports respectful interaction.\nHint: Use the audience, purpose and specific clue in the example."
+  },
+  {
+    "id": "ac9e5ly02-p-049",
+    "curriculumCode": "AC9E5LY02",
+    "bank": "practice",
+    "skill": "curriculum_transfer",
+    "printable": true,
+    "type": "single",
+    "question": "Why is a paraphrase stronger than repeating the exact sentence?",
+    "audioPrompt": "Why is a paraphrase stronger than repeating the exact sentence?",
+    "visual": "",
+    "visualHtml": "",
+    "answers": [
+      "It shows understanding by expressing the meaning in your own words.",
+      "It always makes the idea false.",
+      "It avoids listening."
+    ],
+    "correct": 0,
+    "explanation": "A successful paraphrase demonstrates comprehension rather than copying.\nHint: Use the audience, purpose and specific clue in the example."
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

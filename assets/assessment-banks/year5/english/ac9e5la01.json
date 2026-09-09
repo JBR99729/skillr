@@ -1200,6 +1200,246 @@
     }
   },
   {
+    "id": "AC9E5LA01-P-042",
+    "curriculum_code": "AC9E5LA01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A student writes “Hey, can you send me the timetable?” to a friend but “Could you please send me the timetable?” to the office. What does the change show?",
+    "audio_prompt": "A student writes “Hey, can you send me the timetable?” to a friend but “Could you please send me the timetable?” to the office. What does the change show?",
+    "answers": [
+      {
+        "text": "The wording changes to suit the relationship and setting.",
+        "is_correct": true
+      },
+      {
+        "text": "The writer forgot the timetable.",
+        "is_correct": false
+      },
+      {
+        "text": "The two requests have different facts.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Audience and relationship affect the level of formality.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA01-P-043",
+    "curriculum_code": "AC9E5LA01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Which greeting best suits an email to a local council officer about a playground?",
+    "audio_prompt": "Which greeting best suits an email to a local council officer about a playground?",
+    "answers": [
+      {
+        "text": "Dear Councillor Patel,",
+        "is_correct": true
+      },
+      {
+        "text": "Yo Patel!",
+        "is_correct": false
+      },
+      {
+        "text": "Hey mate!",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A respectful title and greeting suit a formal civic context.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA01-P-044",
+    "curriculum_code": "AC9E5LA01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A team captain says, “Let’s hear from someone who has not spoken yet.” What relationship does this language help build?",
+    "audio_prompt": "A team captain says, “Let’s hear from someone who has not spoken yet.” What relationship does this language help build?",
+    "answers": [
+      {
+        "text": "An inclusive, respectful relationship.",
+        "is_correct": true
+      },
+      {
+        "text": "A secret relationship.",
+        "is_correct": false
+      },
+      {
+        "text": "A competitive relationship where only one voice matters.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The invitation gives each group member a valued role.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA01-P-045",
+    "curriculum_code": "AC9E5LA01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Change “Give me your notes” so it signals respect when speaking to a classmate.",
+    "audio_prompt": "Change “Give me your notes” so it signals respect when speaking to a classmate.",
+    "answers": [
+      {
+        "text": "Could I please borrow your notes?",
+        "is_correct": true
+      },
+      {
+        "text": "Give me those notes now.",
+        "is_correct": false
+      },
+      {
+        "text": "Your notes belong to me.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A polite request recognises the other person’s choice and role.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA01-P-046",
+    "curriculum_code": "AC9E5LA01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Why might a school principal use “I ask all students to…” instead of “You lot have to…”?",
+    "audio_prompt": "Why might a school principal use “I ask all students to…” instead of “You lot have to…”?",
+    "answers": [
+      {
+        "text": "It sounds respectful and suits a whole-school audience.",
+        "is_correct": true
+      },
+      {
+        "text": "It makes the message less clear.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the topic to sport.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The first wording communicates authority without insulting the audience.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA01-P-047",
+    "curriculum_code": "AC9E5LA01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Two versions announce a club: “Join our club!” and “Students interested in robotics are invited to attend.” Which is more formal, and why?",
+    "audio_prompt": "Two versions announce a club: “Join our club!” and “Students interested in robotics are invited to attend.” Which is more formal, and why?",
+    "answers": [
+      {
+        "text": "The second is more formal because it uses a complete, specific invitation.",
+        "is_correct": true
+      },
+      {
+        "text": "The first is more formal because it is shorter.",
+        "is_correct": false
+      },
+      {
+        "text": "They are identical in tone.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specific nouns and an invitation structure suit a public school notice.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA01-P-048",
+    "curriculum_code": "AC9E5LA01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A younger child asks for help and an older student replies, “Of course—I can show you.” What does “of course” signal?",
+    "audio_prompt": "A younger child asks for help and an older student replies, “Of course—I can show you.” What does “of course” signal?",
+    "answers": [
+      {
+        "text": "Warmth and willingness to help.",
+        "is_correct": true
+      },
+      {
+        "text": "Anger and rejection.",
+        "is_correct": false
+      },
+      {
+        "text": "That the speaker is ending the conversation.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The phrase reassures the listener and supports a helpful relationship.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LA01-P-049",
+    "curriculum_code": "AC9E5LA01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Explain why “Would you mind moving your bag?” may be more suitable than “Move your bag” in a shared classroom.",
+    "audio_prompt": "Explain why “Would you mind moving your bag?” may be more suitable than “Move your bag” in a shared classroom.",
+    "answers": [
+      {
+        "text": "It makes the request less forceful and acknowledges the other person.",
+        "is_correct": true
+      },
+      {
+        "text": "It gives the bag a different purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves the speaker owns the classroom.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Politeness choices help a request fit a cooperative classroom relationship.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
     "id": "AC9E5LA01-T-001",
     "curriculum_code": "AC9E5LA01",
     "year_level": "Year 5",

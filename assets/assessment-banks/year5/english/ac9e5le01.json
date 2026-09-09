@@ -1200,6 +1200,246 @@
     }
   },
   {
+    "id": "AC9E5LE01-P-042",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "In a story, a cracked lunchbox is shown beside a child sitting alone. What might these details represent?",
+    "audio_prompt": "In a story, a cracked lunchbox is shown beside a child sitting alone. What might these details represent?",
+    "answers": [
+      {
+        "text": "The character may be feeling isolated or having a difficult day.",
+        "is_correct": true
+      },
+      {
+        "text": "The lunchbox is definitely magical.",
+        "is_correct": false
+      },
+      {
+        "text": "The child is preparing a recipe.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Objects and setting details can represent feelings or ideas beyond their literal meaning.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LE01-P-043",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A character repeatedly looks at a locked gate while the narrator describes the open park beyond it. What contrast is created?",
+    "audio_prompt": "A character repeatedly looks at a locked gate while the narrator describes the open park beyond it. What contrast is created?",
+    "answers": [
+      {
+        "text": "The gate can represent restriction while the park suggests freedom.",
+        "is_correct": true
+      },
+      {
+        "text": "The gate proves the park is underwater.",
+        "is_correct": false
+      },
+      {
+        "text": "The description contains no contrast.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The details work together to represent an emotional or thematic contrast.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LE01-P-044",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Why might an author describe a small candle glowing in a dark room?",
+    "audio_prompt": "Why might an author describe a small candle glowing in a dark room?",
+    "answers": [
+      {
+        "text": "The candle may represent hope or courage.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves candles are always expensive.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the room into daytime.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A concrete detail can carry a symbolic meaning in a literary text.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LE01-P-045",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A poem describes a river carrying old leaves past a child leaving home. What could the river represent?",
+    "audio_prompt": "A poem describes a river carrying old leaves past a child leaving home. What could the river represent?",
+    "answers": [
+      {
+        "text": "Time and change continuing as the child grows.",
+        "is_correct": true
+      },
+      {
+        "text": "A rule that rivers cannot move.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the colour green.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The natural image can connect to the character’s transition.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LE01-P-046",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A character gives away a treasured toy before moving house. What might the action reveal?",
+    "audio_prompt": "A character gives away a treasured toy before moving house. What might the action reveal?",
+    "answers": [
+      {
+        "text": "The character is accepting change while remembering the past.",
+        "is_correct": true
+      },
+      {
+        "text": "The character dislikes all toys.",
+        "is_correct": false
+      },
+      {
+        "text": "The move has already been cancelled.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "An action can represent an inner feeling or turning point.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LE01-P-047",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A story’s setting changes from a noisy market to a quiet empty street after an argument. What effect can the change have?",
+    "audio_prompt": "A story’s setting changes from a noisy market to a quiet empty street after an argument. What effect can the change have?",
+    "answers": [
+      {
+        "text": "It can represent the character’s loneliness or changed mood.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the market was imaginary.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes every character cheerful.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Setting details can mirror and represent emotional change.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LE01-P-048",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A writer gives a storm the verb “swallowed” the coastline. What might the storm represent?",
+    "audio_prompt": "A writer gives a storm the verb “swallowed” the coastline. What might the storm represent?",
+    "answers": [
+      {
+        "text": "A powerful threat that overwhelms people.",
+        "is_correct": true
+      },
+      {
+        "text": "A friendly pet.",
+        "is_correct": false
+      },
+      {
+        "text": "A small ordinary puddle.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The unusual description presents the storm as dangerous and consuming.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LE01-P-049",
+    "curriculum_code": "AC9E5LE01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "When explaining what a detail represents, what is the strongest evidence?",
+    "audio_prompt": "When explaining what a detail represents, what is the strongest evidence?",
+    "answers": [
+      {
+        "text": "The detail plus its connection to the character, event or theme.",
+        "is_correct": true
+      },
+      {
+        "text": "A guess with no reference to the text.",
+        "is_correct": false
+      },
+      {
+        "text": "The number of pages in the book.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Interpretations need a text detail and a clear connection to the wider text.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
     "id": "AC9E5LE01-T-001",
     "curriculum_code": "AC9E5LE01",
     "year_level": "Year 5",

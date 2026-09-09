@@ -1200,6 +1200,246 @@
     }
   },
   {
+    "id": "AC9E5LY01-P-042",
+    "curriculum_code": "AC9E5LY01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A story describes a crowded 1950s kitchen with a radio, a wood stove and ration books. What does this setting reveal?",
+    "audio_prompt": "A story describes a crowded 1950s kitchen with a radio, a wood stove and ration books. What does this setting reveal?",
+    "answers": [
+      {
+        "text": "It reflects the technology and living conditions of that time.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the story happens in the future.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows that all kitchens are identical.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Objects and routines can reveal the historical context of a text.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY01-P-043",
+    "curriculum_code": "AC9E5LY01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A character writes a letter using “Dear Sir” and a fountain pen in a story set long ago. What does this choice suggest?",
+    "audio_prompt": "A character writes a letter using “Dear Sir” and a fountain pen in a story set long ago. What does this choice suggest?",
+    "answers": [
+      {
+        "text": "The language and writing tools suit the period represented.",
+        "is_correct": true
+      },
+      {
+        "text": "The character is using a smartphone.",
+        "is_correct": false
+      },
+      {
+        "text": "The story has no time setting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Text details can reflect the time in which events occur.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY01-P-044",
+    "curriculum_code": "AC9E5LY01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Why might a historical novel include words or objects unfamiliar to modern readers?",
+    "audio_prompt": "Why might a historical novel include words or objects unfamiliar to modern readers?",
+    "answers": [
+      {
+        "text": "To represent the beliefs, technology or daily life of the earlier time.",
+        "is_correct": true
+      },
+      {
+        "text": "To make every reader confused.",
+        "is_correct": false
+      },
+      {
+        "text": "To prove the author made a spelling error.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Unfamiliar details can help construct a believable historical setting.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY01-P-045",
+    "curriculum_code": "AC9E5LY01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A text set during a drought describes water being saved carefully. What does this detail help the reader understand?",
+    "audio_prompt": "A text set during a drought describes water being saved carefully. What does this detail help the reader understand?",
+    "answers": [
+      {
+        "text": "The conditions and concerns affecting people at that time.",
+        "is_correct": true
+      },
+      {
+        "text": "That water has no value.",
+        "is_correct": false
+      },
+      {
+        "text": "That the text must be a recipe.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Environmental conditions shape the characters’ experiences.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY01-P-046",
+    "curriculum_code": "AC9E5LY01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "Compare a present-day classroom with a classroom in a text from 100 years ago. What should a strong comparison include?",
+    "audio_prompt": "Compare a present-day classroom with a classroom in a text from 100 years ago. What should a strong comparison include?",
+    "answers": [
+      {
+        "text": "Specific details about objects, routines or relationships in each time.",
+        "is_correct": true
+      },
+      {
+        "text": "Only which classroom looks nicer.",
+        "is_correct": false
+      },
+      {
+        "text": "A claim about every classroom in history.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Evidence from both contexts supports a useful comparison.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY01-P-047",
+    "curriculum_code": "AC9E5LY01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A story uses “telegram” instead of “text message”. What does that word choice do?",
+    "audio_prompt": "A story uses “telegram” instead of “text message”. What does that word choice do?",
+    "answers": [
+      {
+        "text": "It helps signal an earlier historical setting.",
+        "is_correct": true
+      },
+      {
+        "text": "It shows the message is invisible.",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the setting a fantasy world automatically.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Technology vocabulary can place a text in time.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY01-P-048",
+    "curriculum_code": "AC9E5LY01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "A character cannot easily travel because the story has no cars or trains. What can this detail suggest?",
+    "audio_prompt": "A character cannot easily travel because the story has no cars or trains. What can this detail suggest?",
+    "answers": [
+      {
+        "text": "Travel and daily life were shaped by the technology of the period.",
+        "is_correct": true
+      },
+      {
+        "text": "The character lives on another planet.",
+        "is_correct": false
+      },
+      {
+        "text": "The author forgot to create a setting.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Available technology affects what characters can do.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
+    "id": "AC9E5LY01-P-049",
+    "curriculum_code": "AC9E5LY01",
+    "year_level": "Year 5",
+    "subject": "english",
+    "bank": "practice",
+    "stage": "transfer",
+    "skill": "curriculum_transfer",
+    "question": "What is the safest way to decide whether a text reflects a particular time?",
+    "audio_prompt": "What is the safest way to decide whether a text reflects a particular time?",
+    "answers": [
+      {
+        "text": "Use several details from the text and connect them to that period.",
+        "is_correct": true
+      },
+      {
+        "text": "Use one unfamiliar word only.",
+        "is_correct": false
+      },
+      {
+        "text": "Guess from the cover colour.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A historical interpretation should be supported by multiple relevant clues.",
+      "hint": "Use the audience, purpose and specific clue in the example."
+    }
+  },
+  {
     "id": "AC9E5LY01-T-001",
     "curriculum_code": "AC9E5LY01",
     "year_level": "Year 5",
