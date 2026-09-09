@@ -47,6 +47,29 @@ function build(code,cfg){
   }
   return items;
 }
+function buildAuthoredSets(code,cfg){
+  const items=[];
+  for(const [bank,sets] of [["practice",cfg.practiceSets],["test",cfg.testSets]]){
+    let n=0;
+    for(const set of sets){
+      for(const q of set.questions){
+        n++;
+        const question=`Read the text.\n\n${set.passage}\n\n${q.prompt}`;
+        const ci=q.correct_index;
+        items.push({
+          id:`${code}-${bank==="practice"?"P":"T"}-${String(n).padStart(3,"0")}`,
+          subject:"english",year_level:"Year 4",curriculum_code:code,bank,
+          stage:q.stage || (q.difficulty<=1?"recognise":q.difficulty===2?"apply":"analyse"),
+          skill:q.skill,question,audio_prompt:question,visual:{type:"none",alt_text:""},
+          answers:q.answers.map((text,i)=>({text,is_correct:i===ci})),correct_index:ci,
+          explanation:{summary:q.summary,hint:q.hint},curriculum_coverage:q.coverage,
+          difficulty:q.difficulty,sequence_priority:n
+        });
+      }
+    }
+  }
+  return items;
+}
 function alias(items,bank){
   const rows=items.filter(x=>x.bank===bank).map(x=>({id:x.id.toLowerCase(),curriculumCode:x.curriculum_code,bank,skill:x.skill,printable:true,type:"single",question:x.question,audioPrompt:x.audio_prompt,visual:"",visualHtml:"",visualMeta:x.visual,answers:x.answers.map(a=>a.text),difficulty:x.difficulty,sequencePriority:x.sequence_priority,correct:x.correct_index,explanation:`${x.explanation.summary}\nHint: ${x.explanation.hint}`,structuredExplanation:x.explanation,qualitySchema:"production-v1"}));
   const v=bank==="practice"?"skillrPracticeQuestions":"skillrTestQuestions";
@@ -55,7 +78,7 @@ function alias(items,bank){
 const globalPrompts=new Set();
 for(const code of CODES){
   const cfg=JSON.parse(fs.readFileSync(path.join(SRC,code.toLowerCase()+".json"),"utf8"));
-  const items=Array.isArray(cfg.items) ? cfg.items : build(code,cfg);
+  const items=Array.isArray(cfg.items) ? cfg.items : (Array.isArray(cfg.practiceSets) ? buildAuthoredSets(code,cfg) : build(code,cfg));
   const slug=code.toLowerCase();
   const p=items.filter(x=>x.bank==="practice"), t=items.filter(x=>x.bank==="test");
   if(p.length!==48||t.length!==16) throw new Error(`${code}: expected 48/16, got ${p.length}/${t.length}`);
@@ -68,7 +91,10 @@ for(const code of CODES){
     if(x.correct_index<0||x.correct_index>3||!x.answers[x.correct_index].is_correct) throw new Error(`${x.id}: invalid correct index`);
   }
   const coverage=new Set(items.flatMap(x=>x.curriculum_coverage));
-  const expected=Array.isArray(cfg.items) ? new Set(cfg.items.flatMap(x=>x.curriculum_coverage)) : new Set(cfg.practice.concat(cfg.test).flatMap(x=>x.coverage));
+  let expected;
+  if(Array.isArray(cfg.items)) expected=new Set(cfg.items.flatMap(x=>x.curriculum_coverage));
+  else if(Array.isArray(cfg.practiceSets)) expected=new Set(cfg.practiceSets.concat(cfg.testSets).flatMap(s=>s.questions).flatMap(q=>q.coverage));
+  else expected=new Set(cfg.practice.concat(cfg.test).flatMap(x=>x.coverage));
   for(const needed of expected) if(!coverage.has(needed)) throw new Error(`${code}: missing ${needed}`);
   const pr=alias(items,"practice"), te=alias(items,"test");
   fs.writeFileSync(path.join(ROOT,"assets/assessment-banks/year4/english",slug+".json"),JSON.stringify(items,null,2)+"\n");
