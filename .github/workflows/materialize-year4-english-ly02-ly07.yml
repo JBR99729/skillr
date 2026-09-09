@@ -55,4 +55,5 @@ jobs:
             exit 0
           fi
           git commit -m 'Export Year 4 English LY02-LY07 question banks to text'
+          git pull --rebase origin codex/year4-english-ly02-ly07
           git push origin HEAD:codex/year4-english-ly02-ly07
