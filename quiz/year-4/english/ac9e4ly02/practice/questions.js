@@ -4,23 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-001",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "listen for key points",
     "printable": true,
     "type": "single",
-    "question": "In following group instructions to make a model bridge, which option best demonstrates the skill?",
-    "audioPrompt": "In following group instructions to make a model bridge, which option best demonstrates the skill?",
+    "question": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which option best demonstrates the skill?",
+    "audioPrompt": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "First collect four craft sticks, then tape them into a square.",
-      "Start building anything before the instructions finish.",
-      "Ignore the sequence and ask what the task is later."
+      "“I need one tray, six counters and a ruler; I measure two desk lengths, record both, then return the ruler.”",
+      "“I need some equipment and I can start anywhere.”",
+      "“I only need the ruler because measuring is the main part.”",
+      "“I will ask again after I finish the first desk.”"
     ],
+    "difficulty": 1,
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Listening for the key action and order helps complete the task accurately.\nHint: Identify the action words and sequence.",
+    "explanation": "The response keeps the required equipment, number of measurements, recording step and final action in order.\nHint: Listen for required items, numbers, sequence and the final action.",
     "structuredExplanation": {
-      "summary": "Listening for the key action and order helps complete the task accurately.",
-      "hint": "Identify the action words and sequence."
+      "summary": "The response keeps the required equipment, number of measurements, recording step and final action in order.",
+      "hint": "Listen for required items, numbers, sequence and the final action."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +35,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-002",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "listen for key points",
     "printable": true,
     "type": "single",
-    "question": "Which choice fits following group instructions to make a model bridge most accurately?",
-    "audioPrompt": "Which choice fits following group instructions to make a model bridge most accurately?",
+    "question": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which choice is the strongest response?",
+    "audioPrompt": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Start building anything before the instructions finish.",
-      "First collect four craft sticks, then tape them into a square.",
-      "Ignore the sequence and ask what the task is later."
+      "“I need some equipment and I can start anywhere.”",
+      "“I only need the ruler because measuring is the main part.”",
+      "“I will ask again after I finish the first desk.”",
+      "“I need one tray, six counters and a ruler; I measure two desk lengths, record both, then return the ruler.”"
     ],
-    "correct": 1,
-    "explanation": "Listening for the key action and order helps complete the task accurately.\nHint: Identify the action words and sequence.",
+    "difficulty": 1,
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "The response keeps the required equipment, number of measurements, recording step and final action in order.\nHint: Listen for required items, numbers, sequence and the final action.",
     "structuredExplanation": {
-      "summary": "Listening for the key action and order helps complete the task accurately.",
-      "hint": "Identify the action words and sequence."
+      "summary": "The response keeps the required equipment, number of measurements, recording step and final action in order.",
+      "hint": "Listen for required items, numbers, sequence and the final action."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-003",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "listen for key points",
     "printable": true,
     "type": "single",
-    "question": "Which choice fits responding to a classmate who suggests planting native shrubs most accurately?",
-    "audioPrompt": "Which choice fits responding to a classmate who suggests planting native shrubs most accurately?",
+    "question": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Why is ““I need one tray, six counters and a ruler; I measure two desk lengths, record both, then return the ruler.”” the strongest choice?",
+    "audioPrompt": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Why is ““I need one tray, six counters and a ruler; I measure two desk lengths, record both, then return the ruler.”” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "No, my idea is better.",
-      "Anyway, I want to talk about lunch.",
-      "That could provide habitat. We could also choose species that need less water."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "The response keeps the required equipment, number of measurements, recording step and final action in order.",
+      "It is longest, so it must be correct."
     ],
+    "difficulty": 2,
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "The response acknowledges the idea and adds a connected contribution.\nHint: Build from what was just said.",
+    "explanation": "The response keeps the required equipment, number of measurements, recording step and final action in order.\nHint: Listen for required items, numbers, sequence and the final action.",
     "structuredExplanation": {
-      "summary": "The response acknowledges the idea and adds a connected contribution.",
-      "hint": "Build from what was just said."
+      "summary": "The response keeps the required equipment, number of measurements, recording step and final action in order.",
+      "hint": "Listen for required items, numbers, sequence and the final action."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +97,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-004",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "listen for key points",
     "printable": true,
     "type": "single",
-    "question": "Look closely at responding to a classmate who suggests planting native shrubs. Which response or wording works best?",
-    "audioPrompt": "Look closely at responding to a classmate who suggests planting native shrubs. Which response or wording works best?",
+    "question": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "That could provide habitat. We could also choose species that need less water.",
-      "No, my idea is better.",
-      "Anyway, I want to talk about lunch."
+      "“I will ask again after I finish the first desk.”",
+      "“I need some equipment and I can start anywhere.”",
+      "“I need one tray, six counters and a ruler; I measure two desk lengths, record both, then return the ruler.”",
+      "“I only need the ruler because measuring is the main part.”"
     ],
-    "correct": 0,
-    "explanation": "The response acknowledges the idea and adds a connected contribution.\nHint: Build from what was just said.",
+    "difficulty": 2,
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "““I need some equipment and I can start anywhere.”” should be rejected because it does not meet the task as well as the evidence-based choice. The response keeps the required equipment, number of measurements, recording step and final action in order.\nHint: Listen for required items, numbers, sequence and the final action.",
     "structuredExplanation": {
-      "summary": "The response acknowledges the idea and adds a connected contribution.",
-      "hint": "Build from what was just said."
+      "summary": "““I need some equipment and I can start anywhere.”” should be rejected because it does not meet the task as well as the evidence-based choice. The response keeps the required equipment, number of measurements, recording step and final action in order.",
+      "hint": "Listen for required items, numbers, sequence and the final action."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-005",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "listen for key points",
     "printable": true,
     "type": "single",
-    "question": "Look closely at clarifying an unclear direction during sport. Which response or wording works best?",
-    "audioPrompt": "Look closely at clarifying an unclear direction during sport. Which response or wording works best?",
+    "question": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which revision best improves ““I need some equipment and I can start anywhere.””?",
+    "audioPrompt": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which revision best improves ““I need some equipment and I can start anywhere.””?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "I will just guess what you mean.",
-      "Do you mean we run to the cone first, then pass the ball?",
-      "Can you repeat everything from the start even though only one step is unclear?"
+      "“I need one tray, six counters and a ruler; I measure two desk lengths, record both, then return the ruler.”",
+      "“I need some equipment and I can start anywhere.”",
+      "“I only need the ruler because measuring is the main part.”",
+      "“I will ask again after I finish the first desk.”"
     ],
-    "correct": 1,
-    "explanation": "A focused clarifying question checks the uncertain part without derailing the task.\nHint: Ask exactly what you need to know.",
+    "difficulty": 2,
+    "sequencePriority": 5,
+    "correct": 0,
+    "explanation": "The response keeps the required equipment, number of measurements, recording step and final action in order.\nHint: Listen for required items, numbers, sequence and the final action.",
     "structuredExplanation": {
-      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
-      "hint": "Ask exactly what you need to know."
+      "summary": "The response keeps the required equipment, number of measurements, recording step and final action in order.",
+      "hint": "Listen for required items, numbers, sequence and the final action."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-006",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "listen for key points",
     "printable": true,
     "type": "single",
-    "question": "For clarifying an unclear direction during sport, which option is the strongest match?",
-    "audioPrompt": "For clarifying an unclear direction during sport, which option is the strongest match?",
+    "question": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which clue should guide your decision?",
+    "audioPrompt": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "I will just guess what you mean.",
-      "Can you repeat everything from the start even though only one step is unclear?",
-      "Do you mean we run to the cone first, then pass the ball?"
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Listen for required items, numbers, sequence and the final action."
     ],
-    "correct": 2,
-    "explanation": "A focused clarifying question checks the uncertain part without derailing the task.\nHint: Ask exactly what you need to know.",
+    "difficulty": 2,
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "The response keeps the required equipment, number of measurements, recording step and final action in order.\nHint: Listen for required items, numbers, sequence and the final action.",
     "structuredExplanation": {
-      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
-      "hint": "Ask exactly what you need to know."
+      "summary": "The response keeps the required equipment, number of measurements, recording step and final action in order.",
+      "hint": "Listen for required items, numbers, sequence and the final action."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-007",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "listen for key points",
     "printable": true,
     "type": "single",
-    "question": "For summarising a partner’s suggestion before replying, which option is the strongest match?",
-    "audioPrompt": "For summarising a partner’s suggestion before replying, which option is the strongest match?",
+    "question": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? A student chooses ““I only need the ruler because measuring is the main part.””. Which feedback would best help them correct the choice?",
+    "audioPrompt": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? A student chooses ““I only need the ruler because measuring is the main part.””. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "So you think we should move the display near the entrance because more people will see it.",
-      "You said something about a display.",
-      "I did not listen, but here is my plan."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Listen for required items, numbers, sequence and the final action.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 0,
-    "explanation": "Restating the key idea and reason shows accurate listening before adding a response.\nHint: Capture the main point, not every word.",
+    "difficulty": 3,
+    "sequencePriority": 7,
+    "correct": 2,
+    "explanation": "The response keeps the required equipment, number of measurements, recording step and final action in order.\nHint: Listen for required items, numbers, sequence and the final action.",
     "structuredExplanation": {
-      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
-      "hint": "Capture the main point, not every word."
+      "summary": "The response keeps the required equipment, number of measurements, recording step and final action in order.",
+      "hint": "Listen for required items, numbers, sequence and the final action."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-008",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "listen for key points",
     "printable": true,
     "type": "single",
-    "question": "Which example should you choose for summarising a partner’s suggestion before replying?",
-    "audioPrompt": "Which example should you choose for summarising a partner’s suggestion before replying?",
+    "question": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "The teacher says, “Collect one tray, six counters and a ruler. Measure two desk lengths, record both results, then return the ruler.” Which response shows the key information was heard? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "You said something about a display.",
-      "So you think we should move the display near the entrance because more people will see it.",
-      "I did not listen, but here is my plan."
+      "“I will ask again after I finish the first desk.”",
+      "“I need one tray, six counters and a ruler; I measure two desk lengths, record both, then return the ruler.”",
+      "“I need some equipment and I can start anywhere.”",
+      "“I only need the ruler because measuring is the main part.”"
     ],
+    "difficulty": 3,
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Restating the key idea and reason shows accurate listening before adding a response.\nHint: Capture the main point, not every word.",
+    "explanation": "The response keeps the required equipment, number of measurements, recording step and final action in order.\nHint: Listen for required items, numbers, sequence and the final action.",
     "structuredExplanation": {
-      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
-      "hint": "Capture the main point, not every word."
+      "summary": "The response keeps the required equipment, number of measurements, recording step and final action in order.",
+      "hint": "Listen for required items, numbers, sequence and the final action."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-009",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "acknowledge and extend",
     "printable": true,
     "type": "single",
-    "question": "Which example should you choose for joining a discussion about reducing food waste?",
-    "audioPrompt": "Which example should you choose for joining a discussion about reducing food waste?",
+    "question": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which option best demonstrates the skill?",
+    "audioPrompt": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "That is boring. Next topic.",
-      "I agree, because I want to speak now.",
-      "I agree that smaller servings could help. What could we do with unopened food?"
+      "“That could make the area cooler. We could also check which local species suit the soil.”",
+      "“No, benches are better.”",
+      "“Trees are green.”",
+      "“Anyway, our canteen needs new signs.”"
     ],
-    "correct": 2,
-    "explanation": "The response stays on topic, acknowledges a contribution and asks a useful question.\nHint: Connect your question to the group’s current idea.",
+    "difficulty": 1,
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.\nHint: Build from the previous speaker’s idea rather than replacing the topic.",
     "structuredExplanation": {
-      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
-      "hint": "Connect your question to the group’s current idea."
+      "summary": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.",
+      "hint": "Build from the previous speaker’s idea rather than replacing the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-010",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "acknowledge and extend",
     "printable": true,
     "type": "single",
-    "question": "In joining a discussion about reducing food waste, which option best demonstrates the skill?",
-    "audioPrompt": "In joining a discussion about reducing food waste, which option best demonstrates the skill?",
+    "question": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which choice is the strongest response?",
+    "audioPrompt": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "I agree that smaller servings could help. What could we do with unopened food?",
-      "That is boring. Next topic.",
-      "I agree, because I want to speak now."
+      "“No, benches are better.”",
+      "“Trees are green.”",
+      "“Anyway, our canteen needs new signs.”",
+      "“That could make the area cooler. We could also check which local species suit the soil.”"
     ],
-    "correct": 0,
-    "explanation": "The response stays on topic, acknowledges a contribution and asks a useful question.\nHint: Connect your question to the group’s current idea.",
+    "difficulty": 1,
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.\nHint: Build from the previous speaker’s idea rather than replacing the topic.",
     "structuredExplanation": {
-      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
-      "hint": "Connect your question to the group’s current idea."
+      "summary": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.",
+      "hint": "Build from the previous speaker’s idea rather than replacing the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-011",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "acknowledge and extend",
     "printable": true,
     "type": "single",
-    "question": "Why does “First collect four craft sticks, then tape them into a square.” work well for following group instructions to make a model bridge?",
-    "audioPrompt": "Why does “First collect four craft sticks, then tape them into a square.” work well for following group instructions to make a model bridge?",
+    "question": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Why is ““That could make the area cooler. We could also check which local species suit the soil.”” the strongest choice?",
+    "audioPrompt": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Why is ““That could make the area cooler. We could also check which local species suit the soil.”” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Start building anything before the instructions finish.” is always acceptable in this situation.",
-      "Listening for the key action and order helps complete the task accurately.",
-      "Because the longest or most complicated option must be correct."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "The reply acknowledges the contribution, stays on topic and adds a useful next idea.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 1,
-    "explanation": "Listening for the key action and order helps complete the task accurately.\nHint: Identify the action words and sequence.",
+    "difficulty": 2,
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.\nHint: Build from the previous speaker’s idea rather than replacing the topic.",
     "structuredExplanation": {
-      "summary": "Listening for the key action and order helps complete the task accurately.",
-      "hint": "Identify the action words and sequence."
+      "summary": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.",
+      "hint": "Build from the previous speaker’s idea rather than replacing the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-012",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "acknowledge and extend",
     "printable": true,
     "type": "single",
-    "question": "What makes “First collect four craft sticks, then tape them into a square.” a better choice in following group instructions to make a model bridge?",
-    "audioPrompt": "What makes “First collect four craft sticks, then tape them into a square.” a better choice in following group instructions to make a model bridge?",
+    "question": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Start building anything before the instructions finish.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Listening for the key action and order helps complete the task accurately."
+      "“Anyway, our canteen needs new signs.”",
+      "“No, benches are better.”",
+      "“That could make the area cooler. We could also check which local species suit the soil.”",
+      "“Trees are green.”"
     ],
-    "correct": 2,
-    "explanation": "Listening for the key action and order helps complete the task accurately.\nHint: Identify the action words and sequence.",
+    "difficulty": 2,
+    "sequencePriority": 12,
+    "correct": 1,
+    "explanation": "““No, benches are better.”” should be rejected because it does not meet the task as well as the evidence-based choice. The reply acknowledges the contribution, stays on topic and adds a useful next idea.\nHint: Build from the previous speaker’s idea rather than replacing the topic.",
     "structuredExplanation": {
-      "summary": "Listening for the key action and order helps complete the task accurately.",
-      "hint": "Identify the action words and sequence."
+      "summary": "““No, benches are better.”” should be rejected because it does not meet the task as well as the evidence-based choice. The reply acknowledges the contribution, stays on topic and adds a useful next idea.",
+      "hint": "Build from the previous speaker’s idea rather than replacing the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-013",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "acknowledge and extend",
     "printable": true,
     "type": "single",
-    "question": "What makes “That could provide habitat. We could also choose species that need less water.” a better choice in responding to a classmate who suggests planting native shrubs?",
-    "audioPrompt": "What makes “That could provide habitat. We could also choose species that need less water.” a better choice in responding to a classmate who suggests planting native shrubs?",
+    "question": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which revision best improves ““No, benches are better.””?",
+    "audioPrompt": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which revision best improves ““No, benches are better.””?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The response acknowledges the idea and adds a connected contribution.",
-      "Because “No, my idea is better.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "“That could make the area cooler. We could also check which local species suit the soil.”",
+      "“No, benches are better.”",
+      "“Trees are green.”",
+      "“Anyway, our canteen needs new signs.”"
     ],
+    "difficulty": 2,
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "The response acknowledges the idea and adds a connected contribution.\nHint: Build from what was just said.",
+    "explanation": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.\nHint: Build from the previous speaker’s idea rather than replacing the topic.",
     "structuredExplanation": {
-      "summary": "The response acknowledges the idea and adds a connected contribution.",
-      "hint": "Build from what was just said."
+      "summary": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.",
+      "hint": "Build from the previous speaker’s idea rather than replacing the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-014",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "acknowledge and extend",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best justifies “That could provide habitat. We could also choose species that need less water.” for responding to a classmate who suggests planting native shrubs?",
-    "audioPrompt": "Which explanation best justifies “That could provide habitat. We could also choose species that need less water.” for responding to a classmate who suggests planting native shrubs?",
+    "question": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which clue should guide your decision?",
+    "audioPrompt": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “No, my idea is better.” is always acceptable in this situation.",
-      "The response acknowledges the idea and adds a connected contribution.",
-      "Because the longest or most complicated option must be correct."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Build from the previous speaker’s idea rather than replacing the topic."
     ],
-    "correct": 1,
-    "explanation": "The response acknowledges the idea and adds a connected contribution.\nHint: Build from what was just said.",
+    "difficulty": 2,
+    "sequencePriority": 14,
+    "correct": 3,
+    "explanation": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.\nHint: Build from the previous speaker’s idea rather than replacing the topic.",
     "structuredExplanation": {
-      "summary": "The response acknowledges the idea and adds a connected contribution.",
-      "hint": "Build from what was just said."
+      "summary": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.",
+      "hint": "Build from the previous speaker’s idea rather than replacing the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-015",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "acknowledge and extend",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best justifies “Do you mean we run to the cone first, then pass the ball?” for clarifying an unclear direction during sport?",
-    "audioPrompt": "Which explanation best justifies “Do you mean we run to the cone first, then pass the ball?” for clarifying an unclear direction during sport?",
+    "question": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? A student chooses ““Trees are green.””. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? A student chooses ““Trees are green.””. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “I will just guess what you mean.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "A focused clarifying question checks the uncertain part without derailing the task."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Build from the previous speaker’s idea rather than replacing the topic.",
+      "Keep the answer because first choices should never change."
     ],
+    "difficulty": 3,
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "A focused clarifying question checks the uncertain part without derailing the task.\nHint: Ask exactly what you need to know.",
+    "explanation": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.\nHint: Build from the previous speaker’s idea rather than replacing the topic.",
     "structuredExplanation": {
-      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
-      "hint": "Ask exactly what you need to know."
+      "summary": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.",
+      "hint": "Build from the previous speaker’s idea rather than replacing the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-016",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "acknowledge and extend",
     "printable": true,
     "type": "single",
-    "question": "What should you notice about “Do you mean we run to the cone first, then pass the ball?” in clarifying an unclear direction during sport?",
-    "audioPrompt": "What should you notice about “Do you mean we run to the cone first, then pass the ball?” in clarifying an unclear direction during sport?",
+    "question": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A classmate says, “We could plant shade trees beside the oval.” Which reply best acknowledges and extends the idea? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "A focused clarifying question checks the uncertain part without derailing the task.",
-      "Because “I will just guess what you mean.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "“Anyway, our canteen needs new signs.”",
+      "“That could make the area cooler. We could also check which local species suit the soil.”",
+      "“No, benches are better.”",
+      "“Trees are green.”"
     ],
-    "correct": 0,
-    "explanation": "A focused clarifying question checks the uncertain part without derailing the task.\nHint: Ask exactly what you need to know.",
+    "difficulty": 3,
+    "sequencePriority": 16,
+    "correct": 1,
+    "explanation": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.\nHint: Build from the previous speaker’s idea rather than replacing the topic.",
     "structuredExplanation": {
-      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
-      "hint": "Ask exactly what you need to know."
+      "summary": "The reply acknowledges the contribution, stays on topic and adds a useful next idea.",
+      "hint": "Build from the previous speaker’s idea rather than replacing the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -388,23 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-017",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "clarify information",
     "printable": true,
     "type": "single",
-    "question": "What should you notice about “So you think we should move the display near the entrance because more people will see it.” in summarising a partner’s suggestion before replying?",
-    "audioPrompt": "What should you notice about “So you think we should move the display near the entrance because more people will see it.” in summarising a partner’s suggestion before replying?",
+    "question": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which option best demonstrates the skill?",
+    "audioPrompt": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “You said something about a display.” is always acceptable in this situation.",
-      "Restating the key idea and reason shows accurate listening before adding a response.",
-      "Because the longest or most complicated option must be correct."
+      "“Should the label go on the base or on the side?”",
+      "“Can you repeat every instruction from the beginning?”",
+      "“I will put it wherever I want.”",
+      "“What are we doing?”"
     ],
-    "correct": 1,
-    "explanation": "Restating the key idea and reason shows accurate listening before adding a response.\nHint: Capture the main point, not every word.",
+    "difficulty": 1,
+    "sequencePriority": 17,
+    "correct": 0,
+    "explanation": "A focused question identifies the one missing detail needed to complete the task.\nHint: Ask about the exact part that is unclear.",
     "structuredExplanation": {
-      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
-      "hint": "Capture the main point, not every word."
+      "summary": "A focused question identifies the one missing detail needed to complete the task.",
+      "hint": "Ask about the exact part that is unclear."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,23 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-018",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "clarify information",
     "printable": true,
     "type": "single",
-    "question": "Which reason explains why “So you think we should move the display near the entrance because more people will see it.” suits summarising a partner’s suggestion before replying?",
-    "audioPrompt": "Which reason explains why “So you think we should move the display near the entrance because more people will see it.” suits summarising a partner’s suggestion before replying?",
+    "question": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which choice is the strongest response?",
+    "audioPrompt": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “You said something about a display.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Restating the key idea and reason shows accurate listening before adding a response."
+      "“Can you repeat every instruction from the beginning?”",
+      "“I will put it wherever I want.”",
+      "“What are we doing?”",
+      "“Should the label go on the base or on the side?”"
     ],
-    "correct": 2,
-    "explanation": "Restating the key idea and reason shows accurate listening before adding a response.\nHint: Capture the main point, not every word.",
+    "difficulty": 1,
+    "sequencePriority": 18,
+    "correct": 3,
+    "explanation": "A focused question identifies the one missing detail needed to complete the task.\nHint: Ask about the exact part that is unclear.",
     "structuredExplanation": {
-      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
-      "hint": "Capture the main point, not every word."
+      "summary": "A focused question identifies the one missing detail needed to complete the task.",
+      "hint": "Ask about the exact part that is unclear."
     },
     "qualitySchema": "production-v1"
   },
@@ -436,23 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-019",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "clarify information",
     "printable": true,
     "type": "single",
-    "question": "Which reason explains why “I agree that smaller servings could help. What could we do with unopened food?” suits joining a discussion about reducing food waste?",
-    "audioPrompt": "Which reason explains why “I agree that smaller servings could help. What could we do with unopened food?” suits joining a discussion about reducing food waste?",
+    "question": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Why is ““Should the label go on the base or on the side?”” the strongest choice?",
+    "audioPrompt": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Why is ““Should the label go on the base or on the side?”” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The response stays on topic, acknowledges a contribution and asks a useful question.",
-      "Because “That is boring. Next topic.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "A focused question identifies the one missing detail needed to complete the task.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 0,
-    "explanation": "The response stays on topic, acknowledges a contribution and asks a useful question.\nHint: Connect your question to the group’s current idea.",
+    "difficulty": 2,
+    "sequencePriority": 19,
+    "correct": 2,
+    "explanation": "A focused question identifies the one missing detail needed to complete the task.\nHint: Ask about the exact part that is unclear.",
     "structuredExplanation": {
-      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
-      "hint": "Connect your question to the group’s current idea."
+      "summary": "A focused question identifies the one missing detail needed to complete the task.",
+      "hint": "Ask about the exact part that is unclear."
     },
     "qualitySchema": "production-v1"
   },
@@ -460,23 +593,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-020",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "clarify information",
     "printable": true,
     "type": "single",
-    "question": "Why does “I agree that smaller servings could help. What could we do with unopened food?” work well for joining a discussion about reducing food waste?",
-    "audioPrompt": "Why does “I agree that smaller servings could help. What could we do with unopened food?” work well for joining a discussion about reducing food waste?",
+    "question": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “That is boring. Next topic.” is always acceptable in this situation.",
-      "The response stays on topic, acknowledges a contribution and asks a useful question.",
-      "Because the longest or most complicated option must be correct."
+      "“What are we doing?”",
+      "“Can you repeat every instruction from the beginning?”",
+      "“Should the label go on the base or on the side?”",
+      "“I will put it wherever I want.”"
     ],
+    "difficulty": 2,
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "The response stays on topic, acknowledges a contribution and asks a useful question.\nHint: Connect your question to the group’s current idea.",
+    "explanation": "““Can you repeat every instruction from the beginning?”” should be rejected because it does not meet the task as well as the evidence-based choice. A focused question identifies the one missing detail needed to complete the task.\nHint: Ask about the exact part that is unclear.",
     "structuredExplanation": {
-      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
-      "hint": "Connect your question to the group’s current idea."
+      "summary": "““Can you repeat every instruction from the beginning?”” should be rejected because it does not meet the task as well as the evidence-based choice. A focused question identifies the one missing detail needed to complete the task.",
+      "hint": "Ask about the exact part that is unclear."
     },
     "qualitySchema": "production-v1"
   },
@@ -484,23 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-021",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "clarify information",
     "printable": true,
     "type": "single",
-    "question": "Which revision best fixes the problem in “Start building anything before the instructions finish.” for following group instructions to make a model bridge?",
-    "audioPrompt": "Which revision best fixes the problem in “Start building anything before the instructions finish.” for following group instructions to make a model bridge?",
+    "question": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which revision best improves ““Can you repeat every instruction from the beginning?””?",
+    "audioPrompt": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which revision best improves ““Can you repeat every instruction from the beginning?””?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Start building anything before the instructions finish.",
-      "Ignore the sequence and ask what the task is later.",
-      "First collect four craft sticks, then tape them into a square."
+      "“Should the label go on the base or on the side?”",
+      "“Can you repeat every instruction from the beginning?”",
+      "“I will put it wherever I want.”",
+      "“What are we doing?”"
     ],
-    "correct": 2,
-    "explanation": "Listening for the key action and order helps complete the task accurately. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Identify the action words and sequence.",
+    "difficulty": 2,
+    "sequencePriority": 21,
+    "correct": 0,
+    "explanation": "A focused question identifies the one missing detail needed to complete the task.\nHint: Ask about the exact part that is unclear.",
     "structuredExplanation": {
-      "summary": "Listening for the key action and order helps complete the task accurately. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Identify the action words and sequence."
+      "summary": "A focused question identifies the one missing detail needed to complete the task.",
+      "hint": "Ask about the exact part that is unclear."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,23 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-022",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "clarify information",
     "printable": true,
     "type": "single",
-    "question": "Compare the choices for following group instructions to make a model bridge. Which one avoids the mistake in “Start building anything before the instructions finish.”?",
-    "audioPrompt": "Compare the choices for following group instructions to make a model bridge. Which one avoids the mistake in “Start building anything before the instructions finish.”?",
+    "question": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which clue should guide your decision?",
+    "audioPrompt": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "First collect four craft sticks, then tape them into a square.",
-      "Start building anything before the instructions finish.",
-      "Ignore the sequence and ask what the task is later."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Ask about the exact part that is unclear."
     ],
-    "correct": 0,
-    "explanation": "Listening for the key action and order helps complete the task accurately. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Identify the action words and sequence.",
+    "difficulty": 2,
+    "sequencePriority": 22,
+    "correct": 3,
+    "explanation": "A focused question identifies the one missing detail needed to complete the task.\nHint: Ask about the exact part that is unclear.",
     "structuredExplanation": {
-      "summary": "Listening for the key action and order helps complete the task accurately. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Identify the action words and sequence."
+      "summary": "A focused question identifies the one missing detail needed to complete the task.",
+      "hint": "Ask about the exact part that is unclear."
     },
     "qualitySchema": "production-v1"
   },
@@ -532,23 +686,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-023",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "clarify information",
     "printable": true,
     "type": "single",
-    "question": "Compare the choices for responding to a classmate who suggests planting native shrubs. Which one avoids the mistake in “No, my idea is better.”?",
-    "audioPrompt": "Compare the choices for responding to a classmate who suggests planting native shrubs. Which one avoids the mistake in “No, my idea is better.”?",
+    "question": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? A student chooses ““I will put it wherever I want.””. Which feedback would best help them correct the choice?",
+    "audioPrompt": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? A student chooses ““I will put it wherever I want.””. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "No, my idea is better.",
-      "That could provide habitat. We could also choose species that need less water.",
-      "Anyway, I want to talk about lunch."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Ask about the exact part that is unclear.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 1,
-    "explanation": "The response acknowledges the idea and adds a connected contribution. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Build from what was just said.",
+    "difficulty": 3,
+    "sequencePriority": 23,
+    "correct": 2,
+    "explanation": "A focused question identifies the one missing detail needed to complete the task.\nHint: Ask about the exact part that is unclear.",
     "structuredExplanation": {
-      "summary": "The response acknowledges the idea and adds a connected contribution. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Build from what was just said."
+      "summary": "A focused question identifies the one missing detail needed to complete the task.",
+      "hint": "Ask about the exact part that is unclear."
     },
     "qualitySchema": "production-v1"
   },
@@ -556,23 +717,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-024",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "clarify information",
     "printable": true,
     "type": "single",
-    "question": "If “No, my idea is better.” does not work in responding to a classmate who suggests planting native shrubs, what should replace it?",
-    "audioPrompt": "If “No, my idea is better.” does not work in responding to a classmate who suggests planting native shrubs, what should replace it?",
+    "question": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "The group instruction is, “After the glue dries, label the model. I did not say whether the label goes on the base or the side.” What is the best clarification? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "No, my idea is better.",
-      "Anyway, I want to talk about lunch.",
-      "That could provide habitat. We could also choose species that need less water."
+      "“What are we doing?”",
+      "“Should the label go on the base or on the side?”",
+      "“Can you repeat every instruction from the beginning?”",
+      "“I will put it wherever I want.”"
     ],
-    "correct": 2,
-    "explanation": "The response acknowledges the idea and adds a connected contribution. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Build from what was just said.",
+    "difficulty": 3,
+    "sequencePriority": 24,
+    "correct": 1,
+    "explanation": "A focused question identifies the one missing detail needed to complete the task.\nHint: Ask about the exact part that is unclear.",
     "structuredExplanation": {
-      "summary": "The response acknowledges the idea and adds a connected contribution. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Build from what was just said."
+      "summary": "A focused question identifies the one missing detail needed to complete the task.",
+      "hint": "Ask about the exact part that is unclear."
     },
     "qualitySchema": "production-v1"
   },
@@ -580,23 +748,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-025",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "link response to topic",
     "printable": true,
     "type": "single",
-    "question": "If “I will just guess what you mean.” does not work in clarifying an unclear direction during sport, what should replace it?",
-    "audioPrompt": "If “I will just guess what you mean.” does not work in clarifying an unclear direction during sport, what should replace it?",
+    "question": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which option best demonstrates the skill?",
+    "audioPrompt": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Do you mean we run to the cone first, then pass the ball?",
-      "I will just guess what you mean.",
-      "Can you repeat everything from the start even though only one step is unclear?"
+      "“Walking could reduce cost, but we should compare the distance and the time available.”",
+      "“My cousin owns a blue bicycle.”",
+      "“The excursion poster uses a large heading.”",
+      "“I prefer Fridays because lunch is earlier.”"
     ],
+    "difficulty": 1,
+    "sequencePriority": 25,
     "correct": 0,
-    "explanation": "A focused clarifying question checks the uncertain part without derailing the task. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask exactly what you need to know.",
+    "explanation": "The response stays with the transport decision and adds relevant information for comparing options.\nHint: Check that every sentence connects to the current discussion question.",
     "structuredExplanation": {
-      "summary": "A focused clarifying question checks the uncertain part without derailing the task. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask exactly what you need to know."
+      "summary": "The response stays with the transport decision and adds relevant information for comparing options.",
+      "hint": "Check that every sentence connects to the current discussion question."
     },
     "qualitySchema": "production-v1"
   },
@@ -604,23 +779,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-026",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "link response to topic",
     "printable": true,
     "type": "single",
-    "question": "Which option corrects the meaning or form needed for clarifying an unclear direction during sport?",
-    "audioPrompt": "Which option corrects the meaning or form needed for clarifying an unclear direction during sport?",
+    "question": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which choice is the strongest response?",
+    "audioPrompt": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "I will just guess what you mean.",
-      "Do you mean we run to the cone first, then pass the ball?",
-      "Can you repeat everything from the start even though only one step is unclear?"
+      "“My cousin owns a blue bicycle.”",
+      "“The excursion poster uses a large heading.”",
+      "“I prefer Fridays because lunch is earlier.”",
+      "“Walking could reduce cost, but we should compare the distance and the time available.”"
     ],
-    "correct": 1,
-    "explanation": "A focused clarifying question checks the uncertain part without derailing the task. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask exactly what you need to know.",
+    "difficulty": 1,
+    "sequencePriority": 26,
+    "correct": 3,
+    "explanation": "The response stays with the transport decision and adds relevant information for comparing options.\nHint: Check that every sentence connects to the current discussion question.",
     "structuredExplanation": {
-      "summary": "A focused clarifying question checks the uncertain part without derailing the task. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask exactly what you need to know."
+      "summary": "The response stays with the transport decision and adds relevant information for comparing options.",
+      "hint": "Check that every sentence connects to the current discussion question."
     },
     "qualitySchema": "production-v1"
   },
@@ -628,23 +810,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-027",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "link response to topic",
     "printable": true,
     "type": "single",
-    "question": "Which option corrects the meaning or form needed for summarising a partner’s suggestion before replying?",
-    "audioPrompt": "Which option corrects the meaning or form needed for summarising a partner’s suggestion before replying?",
+    "question": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Why is ““Walking could reduce cost, but we should compare the distance and the time available.”” the strongest choice?",
+    "audioPrompt": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Why is ““Walking could reduce cost, but we should compare the distance and the time available.”” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "You said something about a display.",
-      "I did not listen, but here is my plan.",
-      "So you think we should move the display near the entrance because more people will see it."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "The response stays with the transport decision and adds relevant information for comparing options.",
+      "It is longest, so it must be correct."
     ],
+    "difficulty": 2,
+    "sequencePriority": 27,
     "correct": 2,
-    "explanation": "Restating the key idea and reason shows accurate listening before adding a response. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Capture the main point, not every word.",
+    "explanation": "The response stays with the transport decision and adds relevant information for comparing options.\nHint: Check that every sentence connects to the current discussion question.",
     "structuredExplanation": {
-      "summary": "Restating the key idea and reason shows accurate listening before adding a response. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Capture the main point, not every word."
+      "summary": "The response stays with the transport decision and adds relevant information for comparing options.",
+      "hint": "Check that every sentence connects to the current discussion question."
     },
     "qualitySchema": "production-v1"
   },
@@ -652,23 +841,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-028",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "link response to topic",
     "printable": true,
     "type": "single",
-    "question": "Which choice is the clearest correction for summarising a partner’s suggestion before replying?",
-    "audioPrompt": "Which choice is the clearest correction for summarising a partner’s suggestion before replying?",
+    "question": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "So you think we should move the display near the entrance because more people will see it.",
-      "You said something about a display.",
-      "I did not listen, but here is my plan."
+      "“I prefer Fridays because lunch is earlier.”",
+      "“My cousin owns a blue bicycle.”",
+      "“Walking could reduce cost, but we should compare the distance and the time available.”",
+      "“The excursion poster uses a large heading.”"
     ],
-    "correct": 0,
-    "explanation": "Restating the key idea and reason shows accurate listening before adding a response. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Capture the main point, not every word.",
+    "difficulty": 2,
+    "sequencePriority": 28,
+    "correct": 1,
+    "explanation": "““My cousin owns a blue bicycle.”” should be rejected because it does not meet the task as well as the evidence-based choice. The response stays with the transport decision and adds relevant information for comparing options.\nHint: Check that every sentence connects to the current discussion question.",
     "structuredExplanation": {
-      "summary": "Restating the key idea and reason shows accurate listening before adding a response. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Capture the main point, not every word."
+      "summary": "““My cousin owns a blue bicycle.”” should be rejected because it does not meet the task as well as the evidence-based choice. The response stays with the transport decision and adds relevant information for comparing options.",
+      "hint": "Check that every sentence connects to the current discussion question."
     },
     "qualitySchema": "production-v1"
   },
@@ -676,23 +872,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-029",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "link response to topic",
     "printable": true,
     "type": "single",
-    "question": "Which choice is the clearest correction for joining a discussion about reducing food waste?",
-    "audioPrompt": "Which choice is the clearest correction for joining a discussion about reducing food waste?",
+    "question": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which revision best improves ““My cousin owns a blue bicycle.””?",
+    "audioPrompt": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which revision best improves ““My cousin owns a blue bicycle.””?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "That is boring. Next topic.",
-      "I agree that smaller servings could help. What could we do with unopened food?",
-      "I agree, because I want to speak now."
+      "“Walking could reduce cost, but we should compare the distance and the time available.”",
+      "“My cousin owns a blue bicycle.”",
+      "“The excursion poster uses a large heading.”",
+      "“I prefer Fridays because lunch is earlier.”"
     ],
-    "correct": 1,
-    "explanation": "The response stays on topic, acknowledges a contribution and asks a useful question. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Connect your question to the group’s current idea.",
+    "difficulty": 2,
+    "sequencePriority": 29,
+    "correct": 0,
+    "explanation": "The response stays with the transport decision and adds relevant information for comparing options.\nHint: Check that every sentence connects to the current discussion question.",
     "structuredExplanation": {
-      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Connect your question to the group’s current idea."
+      "summary": "The response stays with the transport decision and adds relevant information for comparing options.",
+      "hint": "Check that every sentence connects to the current discussion question."
     },
     "qualitySchema": "production-v1"
   },
@@ -700,23 +903,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-030",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "link response to topic",
     "printable": true,
     "type": "single",
-    "question": "Which revision best fixes the problem in “That is boring. Next topic.” for joining a discussion about reducing food waste?",
-    "audioPrompt": "Which revision best fixes the problem in “That is boring. Next topic.” for joining a discussion about reducing food waste?",
+    "question": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which clue should guide your decision?",
+    "audioPrompt": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "That is boring. Next topic.",
-      "I agree, because I want to speak now.",
-      "I agree that smaller servings could help. What could we do with unopened food?"
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Check that every sentence connects to the current discussion question."
     ],
-    "correct": 2,
-    "explanation": "The response stays on topic, acknowledges a contribution and asks a useful question. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Connect your question to the group’s current idea.",
+    "difficulty": 2,
+    "sequencePriority": 30,
+    "correct": 3,
+    "explanation": "The response stays with the transport decision and adds relevant information for comparing options.\nHint: Check that every sentence connects to the current discussion question.",
     "structuredExplanation": {
-      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Connect your question to the group’s current idea."
+      "summary": "The response stays with the transport decision and adds relevant information for comparing options.",
+      "hint": "Check that every sentence connects to the current discussion question."
     },
     "qualitySchema": "production-v1"
   },
@@ -724,23 +934,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-031",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "link response to topic",
     "printable": true,
     "type": "single",
-    "question": "You now need to handle following group instructions to make a model bridge independently. Which choice should you use?",
-    "audioPrompt": "You now need to handle following group instructions to make a model bridge independently. Which choice should you use?",
+    "question": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? A student chooses ““The excursion poster uses a large heading.””. Which feedback would best help them correct the choice?",
+    "audioPrompt": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? A student chooses ““The excursion poster uses a large heading.””. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "First collect four craft sticks, then tape them into a square.",
-      "Ignore the sequence and ask what the task is later.",
-      "Start building anything before the instructions finish."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Check that every sentence connects to the current discussion question.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 0,
-    "explanation": "Listening for the key action and order helps complete the task accurately.\nHint: Identify the action words and sequence.",
+    "difficulty": 3,
+    "sequencePriority": 31,
+    "correct": 2,
+    "explanation": "The response stays with the transport decision and adds relevant information for comparing options.\nHint: Check that every sentence connects to the current discussion question.",
     "structuredExplanation": {
-      "summary": "Listening for the key action and order helps complete the task accurately.",
-      "hint": "Identify the action words and sequence."
+      "summary": "The response stays with the transport decision and adds relevant information for comparing options.",
+      "hint": "Check that every sentence connects to the current discussion question."
     },
     "qualitySchema": "production-v1"
   },
@@ -748,23 +965,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-032",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "link response to topic",
     "printable": true,
     "type": "single",
-    "question": "Apply the same idea to following group instructions to make a model bridge. Which option is best?",
-    "audioPrompt": "Apply the same idea to following group instructions to make a model bridge. Which option is best?",
+    "question": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "Students are discussing whether the class should walk or take a bus to an excursion. Which contribution is most clearly linked to the topic? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Ignore the sequence and ask what the task is later.",
-      "First collect four craft sticks, then tape them into a square.",
-      "Start building anything before the instructions finish."
+      "“I prefer Fridays because lunch is earlier.”",
+      "“Walking could reduce cost, but we should compare the distance and the time available.”",
+      "“My cousin owns a blue bicycle.”",
+      "“The excursion poster uses a large heading.”"
     ],
+    "difficulty": 3,
+    "sequencePriority": 32,
     "correct": 1,
-    "explanation": "Listening for the key action and order helps complete the task accurately.\nHint: Identify the action words and sequence.",
+    "explanation": "The response stays with the transport decision and adds relevant information for comparing options.\nHint: Check that every sentence connects to the current discussion question.",
     "structuredExplanation": {
-      "summary": "Listening for the key action and order helps complete the task accurately.",
-      "hint": "Identify the action words and sequence."
+      "summary": "The response stays with the transport decision and adds relevant information for comparing options.",
+      "hint": "Check that every sentence connects to the current discussion question."
     },
     "qualitySchema": "production-v1"
   },
@@ -772,23 +996,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-033",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "share and extend ideas",
     "printable": true,
     "type": "single",
-    "question": "Apply the same idea to responding to a classmate who suggests planting native shrubs. Which option is best?",
-    "audioPrompt": "Apply the same idea to responding to a classmate who suggests planting native shrubs. Which option is best?",
+    "question": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which option best demonstrates the skill?",
+    "audioPrompt": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Anyway, I want to talk about lunch.",
-      "No, my idea is better.",
-      "That could provide habitat. We could also choose species that need less water."
+      "“We could show a before-and-after diagram, and add one fact about how much water the change saves.”",
+      "“Yes.”",
+      "“I already know about water.”",
+      "“Let us change the display to volcanoes.”"
     ],
-    "correct": 2,
-    "explanation": "The response acknowledges the idea and adds a connected contribution.\nHint: Build from what was just said.",
+    "difficulty": 1,
+    "sequencePriority": 33,
+    "correct": 0,
+    "explanation": "The reply contributes a concrete method and additional information that develops the shared idea.\nHint: Extend an idea by adding a relevant detail, example, reason or question.",
     "structuredExplanation": {
-      "summary": "The response acknowledges the idea and adds a connected contribution.",
-      "hint": "Build from what was just said."
+      "summary": "The reply contributes a concrete method and additional information that develops the shared idea.",
+      "hint": "Extend an idea by adding a relevant detail, example, reason or question."
     },
     "qualitySchema": "production-v1"
   },
@@ -796,23 +1027,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-034",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "share and extend ideas",
     "printable": true,
     "type": "single",
-    "question": "Which decision would produce the clearest result in responding to a classmate who suggests planting native shrubs?",
-    "audioPrompt": "Which decision would produce the clearest result in responding to a classmate who suggests planting native shrubs?",
+    "question": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which choice is the strongest response?",
+    "audioPrompt": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "That could provide habitat. We could also choose species that need less water.",
-      "Anyway, I want to talk about lunch.",
-      "No, my idea is better."
+      "“Yes.”",
+      "“I already know about water.”",
+      "“Let us change the display to volcanoes.”",
+      "“We could show a before-and-after diagram, and add one fact about how much water the change saves.”"
     ],
-    "correct": 0,
-    "explanation": "The response acknowledges the idea and adds a connected contribution.\nHint: Build from what was just said.",
+    "difficulty": 1,
+    "sequencePriority": 34,
+    "correct": 3,
+    "explanation": "The reply contributes a concrete method and additional information that develops the shared idea.\nHint: Extend an idea by adding a relevant detail, example, reason or question.",
     "structuredExplanation": {
-      "summary": "The response acknowledges the idea and adds a connected contribution.",
-      "hint": "Build from what was just said."
+      "summary": "The reply contributes a concrete method and additional information that develops the shared idea.",
+      "hint": "Extend an idea by adding a relevant detail, example, reason or question."
     },
     "qualitySchema": "production-v1"
   },
@@ -820,23 +1058,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-035",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "share and extend ideas",
     "printable": true,
     "type": "single",
-    "question": "Which decision would produce the clearest result in clarifying an unclear direction during sport?",
-    "audioPrompt": "Which decision would produce the clearest result in clarifying an unclear direction during sport?",
+    "question": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Why is ““We could show a before-and-after diagram, and add one fact about how much water the change saves.”” the strongest choice?",
+    "audioPrompt": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Why is ““We could show a before-and-after diagram, and add one fact about how much water the change saves.”” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Can you repeat everything from the start even though only one step is unclear?",
-      "Do you mean we run to the cone first, then pass the ball?",
-      "I will just guess what you mean."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "The reply contributes a concrete method and additional information that develops the shared idea.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 1,
-    "explanation": "A focused clarifying question checks the uncertain part without derailing the task.\nHint: Ask exactly what you need to know.",
+    "difficulty": 2,
+    "sequencePriority": 35,
+    "correct": 2,
+    "explanation": "The reply contributes a concrete method and additional information that develops the shared idea.\nHint: Extend an idea by adding a relevant detail, example, reason or question.",
     "structuredExplanation": {
-      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
-      "hint": "Ask exactly what you need to know."
+      "summary": "The reply contributes a concrete method and additional information that develops the shared idea.",
+      "hint": "Extend an idea by adding a relevant detail, example, reason or question."
     },
     "qualitySchema": "production-v1"
   },
@@ -844,23 +1089,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-036",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "share and extend ideas",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that applies the skill correctly in clarifying an unclear direction during sport.",
-    "audioPrompt": "Choose the option that applies the skill correctly in clarifying an unclear direction during sport.",
+    "question": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Can you repeat everything from the start even though only one step is unclear?",
-      "I will just guess what you mean.",
-      "Do you mean we run to the cone first, then pass the ball?"
+      "“Let us change the display to volcanoes.”",
+      "“Yes.”",
+      "“We could show a before-and-after diagram, and add one fact about how much water the change saves.”",
+      "“I already know about water.”"
     ],
-    "correct": 2,
-    "explanation": "A focused clarifying question checks the uncertain part without derailing the task.\nHint: Ask exactly what you need to know.",
+    "difficulty": 2,
+    "sequencePriority": 36,
+    "correct": 1,
+    "explanation": "““Yes.”” should be rejected because it does not meet the task as well as the evidence-based choice. The reply contributes a concrete method and additional information that develops the shared idea.\nHint: Extend an idea by adding a relevant detail, example, reason or question.",
     "structuredExplanation": {
-      "summary": "A focused clarifying question checks the uncertain part without derailing the task.",
-      "hint": "Ask exactly what you need to know."
+      "summary": "““Yes.”” should be rejected because it does not meet the task as well as the evidence-based choice. The reply contributes a concrete method and additional information that develops the shared idea.",
+      "hint": "Extend an idea by adding a relevant detail, example, reason or question."
     },
     "qualitySchema": "production-v1"
   },
@@ -868,23 +1120,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-037",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "share and extend ideas",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that applies the skill correctly in summarising a partner’s suggestion before replying.",
-    "audioPrompt": "Choose the option that applies the skill correctly in summarising a partner’s suggestion before replying.",
+    "question": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which revision best improves ““Yes.””?",
+    "audioPrompt": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which revision best improves ““Yes.””?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "So you think we should move the display near the entrance because more people will see it.",
-      "I did not listen, but here is my plan.",
-      "You said something about a display."
+      "“We could show a before-and-after diagram, and add one fact about how much water the change saves.”",
+      "“Yes.”",
+      "“I already know about water.”",
+      "“Let us change the display to volcanoes.”"
     ],
+    "difficulty": 2,
+    "sequencePriority": 37,
     "correct": 0,
-    "explanation": "Restating the key idea and reason shows accurate listening before adding a response.\nHint: Capture the main point, not every word.",
+    "explanation": "The reply contributes a concrete method and additional information that develops the shared idea.\nHint: Extend an idea by adding a relevant detail, example, reason or question.",
     "structuredExplanation": {
-      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
-      "hint": "Capture the main point, not every word."
+      "summary": "The reply contributes a concrete method and additional information that develops the shared idea.",
+      "hint": "Extend an idea by adding a relevant detail, example, reason or question."
     },
     "qualitySchema": "production-v1"
   },
@@ -892,23 +1151,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-038",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "share and extend ideas",
     "printable": true,
     "type": "single",
-    "question": "What would be the most effective choice for summarising a partner’s suggestion before replying?",
-    "audioPrompt": "What would be the most effective choice for summarising a partner’s suggestion before replying?",
+    "question": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which clue should guide your decision?",
+    "audioPrompt": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "I did not listen, but here is my plan.",
-      "So you think we should move the display near the entrance because more people will see it.",
-      "You said something about a display."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Extend an idea by adding a relevant detail, example, reason or question."
     ],
-    "correct": 1,
-    "explanation": "Restating the key idea and reason shows accurate listening before adding a response.\nHint: Capture the main point, not every word.",
+    "difficulty": 2,
+    "sequencePriority": 38,
+    "correct": 3,
+    "explanation": "The reply contributes a concrete method and additional information that develops the shared idea.\nHint: Extend an idea by adding a relevant detail, example, reason or question.",
     "structuredExplanation": {
-      "summary": "Restating the key idea and reason shows accurate listening before adding a response.",
-      "hint": "Capture the main point, not every word."
+      "summary": "The reply contributes a concrete method and additional information that develops the shared idea.",
+      "hint": "Extend an idea by adding a relevant detail, example, reason or question."
     },
     "qualitySchema": "production-v1"
   },
@@ -916,23 +1182,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-039",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "share and extend ideas",
     "printable": true,
     "type": "single",
-    "question": "What would be the most effective choice for joining a discussion about reducing food waste?",
-    "audioPrompt": "What would be the most effective choice for joining a discussion about reducing food waste?",
+    "question": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? A student chooses ““I already know about water.””. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? A student chooses ““I already know about water.””. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "I agree, because I want to speak now.",
-      "That is boring. Next topic.",
-      "I agree that smaller servings could help. What could we do with unopened food?"
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Extend an idea by adding a relevant detail, example, reason or question.",
+      "Keep the answer because first choices should never change."
     ],
+    "difficulty": 3,
+    "sequencePriority": 39,
     "correct": 2,
-    "explanation": "The response stays on topic, acknowledges a contribution and asks a useful question.\nHint: Connect your question to the group’s current idea.",
+    "explanation": "The reply contributes a concrete method and additional information that develops the shared idea.\nHint: Extend an idea by adding a relevant detail, example, reason or question.",
     "structuredExplanation": {
-      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
-      "hint": "Connect your question to the group’s current idea."
+      "summary": "The reply contributes a concrete method and additional information that develops the shared idea.",
+      "hint": "Extend an idea by adding a relevant detail, example, reason or question."
     },
     "qualitySchema": "production-v1"
   },
@@ -940,23 +1213,278 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly02-p-040",
     "curriculumCode": "AC9E4LY02",
     "bank": "practice",
-    "skill": "Interacting and Listening",
+    "skill": "share and extend ideas",
     "printable": true,
     "type": "single",
-    "question": "You now need to handle joining a discussion about reducing food waste independently. Which choice should you use?",
-    "audioPrompt": "You now need to handle joining a discussion about reducing food waste independently. Which choice should you use?",
+    "question": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A partner says, “Our display should explain how water is saved.” Which reply both shares and extends information? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "I agree that smaller servings could help. What could we do with unopened food?",
-      "I agree, because I want to speak now.",
-      "That is boring. Next topic."
+      "“Let us change the display to volcanoes.”",
+      "“We could show a before-and-after diagram, and add one fact about how much water the change saves.”",
+      "“Yes.”",
+      "“I already know about water.”"
     ],
-    "correct": 0,
-    "explanation": "The response stays on topic, acknowledges a contribution and asks a useful question.\nHint: Connect your question to the group’s current idea.",
+    "difficulty": 3,
+    "sequencePriority": 40,
+    "correct": 1,
+    "explanation": "The reply contributes a concrete method and additional information that develops the shared idea.\nHint: Extend an idea by adding a relevant detail, example, reason or question.",
     "structuredExplanation": {
-      "summary": "The response stays on topic, acknowledges a contribution and asks a useful question.",
-      "hint": "Connect your question to the group’s current idea."
+      "summary": "The reply contributes a concrete method and additional information that develops the shared idea.",
+      "hint": "Extend an idea by adding a relevant detail, example, reason or question."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly02-p-041",
+    "curriculumCode": "AC9E4LY02",
+    "bank": "practice",
+    "skill": "respond to another opinion",
+    "printable": true,
+    "type": "single",
+    "question": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which option best demonstrates the skill?",
+    "audioPrompt": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "“I see why you chose it. I prefer the second design because its wider base may be more stable.”",
+      "“That is wrong.”",
+      "“Mine is obviously better.”",
+      "“Stop talking about cardboard.”"
+    ],
+    "difficulty": 1,
+    "sequencePriority": 41,
+    "correct": 0,
+    "explanation": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.\nHint: Disagree with the idea respectfully and explain your reason.",
+    "structuredExplanation": {
+      "summary": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.",
+      "hint": "Disagree with the idea respectfully and explain your reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly02-p-042",
+    "curriculumCode": "AC9E4LY02",
+    "bank": "practice",
+    "skill": "respond to another opinion",
+    "printable": true,
+    "type": "single",
+    "question": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which choice is the strongest response?",
+    "audioPrompt": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which choice is the strongest response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "“That is wrong.”",
+      "“Mine is obviously better.”",
+      "“Stop talking about cardboard.”",
+      "“I see why you chose it. I prefer the second design because its wider base may be more stable.”"
+    ],
+    "difficulty": 1,
+    "sequencePriority": 42,
+    "correct": 3,
+    "explanation": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.\nHint: Disagree with the idea respectfully and explain your reason.",
+    "structuredExplanation": {
+      "summary": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.",
+      "hint": "Disagree with the idea respectfully and explain your reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly02-p-043",
+    "curriculumCode": "AC9E4LY02",
+    "bank": "practice",
+    "skill": "respond to another opinion",
+    "printable": true,
+    "type": "single",
+    "question": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Why is ““I see why you chose it. I prefer the second design because its wider base may be more stable.”” the strongest choice?",
+    "audioPrompt": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Why is ““I see why you chose it. I prefer the second design because its wider base may be more stable.”” the strongest choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "The response acknowledges Kai’s opinion and gives a connected reason for a different view.",
+      "It is longest, so it must be correct."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 43,
+    "correct": 2,
+    "explanation": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.\nHint: Disagree with the idea respectfully and explain your reason.",
+    "structuredExplanation": {
+      "summary": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.",
+      "hint": "Disagree with the idea respectfully and explain your reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly02-p-044",
+    "curriculumCode": "AC9E4LY02",
+    "bank": "practice",
+    "skill": "respond to another opinion",
+    "printable": true,
+    "type": "single",
+    "question": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "“Stop talking about cardboard.”",
+      "“That is wrong.”",
+      "“I see why you chose it. I prefer the second design because its wider base may be more stable.”",
+      "“Mine is obviously better.”"
+    ],
+    "difficulty": 2,
+    "sequencePriority": 44,
+    "correct": 1,
+    "explanation": "““That is wrong.”” should be rejected because it does not meet the task as well as the evidence-based choice. The response acknowledges Kai’s opinion and gives a connected reason for a different view.\nHint: Disagree with the idea respectfully and explain your reason.",
+    "structuredExplanation": {
+      "summary": "““That is wrong.”” should be rejected because it does not meet the task as well as the evidence-based choice. The response acknowledges Kai’s opinion and gives a connected reason for a different view.",
+      "hint": "Disagree with the idea respectfully and explain your reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly02-p-045",
+    "curriculumCode": "AC9E4LY02",
+    "bank": "practice",
+    "skill": "respond to another opinion",
+    "printable": true,
+    "type": "single",
+    "question": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which revision best improves ““That is wrong.””?",
+    "audioPrompt": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which revision best improves ““That is wrong.””?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "“I see why you chose it. I prefer the second design because its wider base may be more stable.”",
+      "“That is wrong.”",
+      "“Mine is obviously better.”",
+      "“Stop talking about cardboard.”"
+    ],
+    "difficulty": 2,
+    "sequencePriority": 45,
+    "correct": 0,
+    "explanation": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.\nHint: Disagree with the idea respectfully and explain your reason.",
+    "structuredExplanation": {
+      "summary": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.",
+      "hint": "Disagree with the idea respectfully and explain your reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly02-p-046",
+    "curriculumCode": "AC9E4LY02",
+    "bank": "practice",
+    "skill": "respond to another opinion",
+    "printable": true,
+    "type": "single",
+    "question": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which clue should guide your decision?",
+    "audioPrompt": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which clue should guide your decision?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Disagree with the idea respectfully and explain your reason."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 46,
+    "correct": 3,
+    "explanation": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.\nHint: Disagree with the idea respectfully and explain your reason.",
+    "structuredExplanation": {
+      "summary": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.",
+      "hint": "Disagree with the idea respectfully and explain your reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly02-p-047",
+    "curriculumCode": "AC9E4LY02",
+    "bank": "practice",
+    "skill": "respond to another opinion",
+    "printable": true,
+    "type": "single",
+    "question": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? A student chooses ““Mine is obviously better.””. Which feedback would best help them correct the choice?",
+    "audioPrompt": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? A student chooses ““Mine is obviously better.””. Which feedback would best help them correct the choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Disagree with the idea respectfully and explain your reason.",
+      "Keep the answer because first choices should never change."
+    ],
+    "difficulty": 3,
+    "sequencePriority": 47,
+    "correct": 2,
+    "explanation": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.\nHint: Disagree with the idea respectfully and explain your reason.",
+    "structuredExplanation": {
+      "summary": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.",
+      "hint": "Disagree with the idea respectfully and explain your reason."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly02-p-048",
+    "curriculumCode": "AC9E4LY02",
+    "bank": "practice",
+    "skill": "respond to another opinion",
+    "printable": true,
+    "type": "single",
+    "question": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "During group planning, Kai says, “I think the first design is stronger because it uses less cardboard.” Which response disagrees appropriately? Which option applies the same skill accurately in this situation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "“Stop talking about cardboard.”",
+      "“I see why you chose it. I prefer the second design because its wider base may be more stable.”",
+      "“That is wrong.”",
+      "“Mine is obviously better.”"
+    ],
+    "difficulty": 3,
+    "sequencePriority": 48,
+    "correct": 1,
+    "explanation": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.\nHint: Disagree with the idea respectfully and explain your reason.",
+    "structuredExplanation": {
+      "summary": "The response acknowledges Kai’s opinion and gives a connected reason for a different view.",
+      "hint": "Disagree with the idea respectfully and explain your reason."
     },
     "qualitySchema": "production-v1"
   }

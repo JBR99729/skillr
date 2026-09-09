@@ -4,23 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-001",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "self-correct using multiple cues",
     "printable": true,
     "type": "single",
-    "question": "In reading “The hikers cautiously crossed the suspension bridge”, which option best demonstrates the skill?",
-    "audioPrompt": "In reading “The hikers cautiously crossed the suspension bridge”, which option best demonstrates the skill?",
+    "question": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which option best demonstrates the skill?",
+    "audioPrompt": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read every letter as a separate sound and ignore the sentence.",
-      "Replace cautiously with quickly because it is shorter.",
-      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words."
+      "Re-read the word, use the letter pattern and sentence meaning, and self-correct to “nocturnal”.",
+      "Keep “national” because it begins with the same letter.",
+      "Skip the word and continue without checking meaning.",
+      "Replace it with any word that fits the topic."
     ],
-    "correct": 2,
-    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
+    "difficulty": 1,
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.\nHint: Cross-check how the word looks, sounds, fits grammatically and makes sense.",
     "structuredExplanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
+      "summary": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.",
+      "hint": "Cross-check how the word looks, sounds, fits grammatically and makes sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +35,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-002",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "self-correct using multiple cues",
     "printable": true,
     "type": "single",
-    "question": "Which choice fits reading “The hikers cautiously crossed the suspension bridge” most accurately?",
-    "audioPrompt": "Which choice fits reading “The hikers cautiously crossed the suspension bridge” most accurately?",
+    "question": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which choice is the strongest response?",
+    "audioPrompt": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
-      "Read every letter as a separate sound and ignore the sentence.",
-      "Replace cautiously with quickly because it is shorter."
+      "Keep “national” because it begins with the same letter.",
+      "Skip the word and continue without checking meaning.",
+      "Replace it with any word that fits the topic.",
+      "Re-read the word, use the letter pattern and sentence meaning, and self-correct to “nocturnal”."
     ],
-    "correct": 0,
-    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
+    "difficulty": 1,
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.\nHint: Cross-check how the word looks, sounds, fits grammatically and makes sense.",
     "structuredExplanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
+      "summary": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.",
+      "hint": "Cross-check how the word looks, sounds, fits grammatically and makes sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-003",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "self-correct using multiple cues",
     "printable": true,
     "type": "single",
-    "question": "Which choice fits meeting the unfamiliar word “reusable” most accurately?",
-    "audioPrompt": "Which choice fits meeting the unfamiliar word “reusable” most accurately?",
+    "question": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Why is “Re-read the word, use the letter pattern and sentence meaning, and self-correct to “nocturnal”.” the strongest choice?",
+    "audioPrompt": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Why is “Re-read the word, use the letter pattern and sentence meaning, and self-correct to “nocturnal”.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Guess from the first letter only.",
-      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
-      "Skip the word and continue without checking meaning."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 1,
-    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
+    "difficulty": 2,
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.\nHint: Cross-check how the word looks, sounds, fits grammatically and makes sense.",
     "structuredExplanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
+      "summary": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.",
+      "hint": "Cross-check how the word looks, sounds, fits grammatically and makes sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +97,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-004",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "self-correct using multiple cues",
     "printable": true,
     "type": "single",
-    "question": "Look closely at meeting the unfamiliar word “reusable”. Which response or wording works best?",
-    "audioPrompt": "Look closely at meeting the unfamiliar word “reusable”. Which response or wording works best?",
+    "question": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Guess from the first letter only.",
-      "Skip the word and continue without checking meaning.",
-      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”."
+      "Replace it with any word that fits the topic.",
+      "Keep “national” because it begins with the same letter.",
+      "Re-read the word, use the letter pattern and sentence meaning, and self-correct to “nocturnal”.",
+      "Skip the word and continue without checking meaning."
     ],
-    "correct": 2,
-    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
+    "difficulty": 2,
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "“Keep “national” because it begins with the same letter.” should be rejected because it does not meet the task as well as the evidence-based choice. Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.\nHint: Cross-check how the word looks, sounds, fits grammatically and makes sense.",
     "structuredExplanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
+      "summary": "“Keep “national” because it begins with the same letter.” should be rejected because it does not meet the task as well as the evidence-based choice. Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.",
+      "hint": "Cross-check how the word looks, sounds, fits grammatically and makes sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-005",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "self-correct using multiple cues",
     "printable": true,
     "type": "single",
-    "question": "Look closely at reading a paragraph with commas around an extra detail. Which response or wording works best?",
-    "audioPrompt": "Look closely at reading a paragraph with commas around an extra detail. Which response or wording works best?",
+    "question": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which revision best improves “Keep “national” because it begins with the same letter.”?",
+    "audioPrompt": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which revision best improves “Keep “national” because it begins with the same letter.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Pause lightly around the extra detail but keep the sentence flowing.",
-      "Stop for several seconds at every comma.",
-      "Ignore all punctuation and read in one flat rush."
+      "Re-read the word, use the letter pattern and sentence meaning, and self-correct to “nocturnal”.",
+      "Keep “national” because it begins with the same letter.",
+      "Skip the word and continue without checking meaning.",
+      "Replace it with any word that fits the topic."
     ],
+    "difficulty": 2,
+    "sequencePriority": 5,
     "correct": 0,
-    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "explanation": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.\nHint: Cross-check how the word looks, sounds, fits grammatically and makes sense.",
     "structuredExplanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+      "summary": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.",
+      "hint": "Cross-check how the word looks, sounds, fits grammatically and makes sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-006",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "self-correct using multiple cues",
     "printable": true,
     "type": "single",
-    "question": "For reading a paragraph with commas around an extra detail, which option is the strongest match?",
-    "audioPrompt": "For reading a paragraph with commas around an extra detail, which option is the strongest match?",
+    "question": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which clue should guide your decision?",
+    "audioPrompt": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Stop for several seconds at every comma.",
-      "Pause lightly around the extra detail but keep the sentence flowing.",
-      "Ignore all punctuation and read in one flat rush."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Cross-check how the word looks, sounds, fits grammatically and makes sense."
     ],
-    "correct": 1,
-    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "difficulty": 2,
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.\nHint: Cross-check how the word looks, sounds, fits grammatically and makes sense.",
     "structuredExplanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+      "summary": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.",
+      "hint": "Cross-check how the word looks, sounds, fits grammatically and makes sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-007",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "self-correct using multiple cues",
     "printable": true,
     "type": "single",
-    "question": "For realising a sentence no longer makes sense after reading a word incorrectly, which option is the strongest match?",
-    "audioPrompt": "For realising a sentence no longer makes sense after reading a word incorrectly, which option is the strongest match?",
+    "question": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? A student chooses “Skip the word and continue without checking meaning.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? A student chooses “Skip the word and continue without checking meaning.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep going even though the sentence makes no sense.",
-      "Change several other words to fit the mistake.",
-      "Go back, reread the phrase and correct the word using letters and context."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Cross-check how the word looks, sounds, fits grammatically and makes sense.",
+      "Keep the answer because first choices should never change."
     ],
+    "difficulty": 3,
+    "sequencePriority": 7,
     "correct": 2,
-    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "explanation": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.\nHint: Cross-check how the word looks, sounds, fits grammatically and makes sense.",
     "structuredExplanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
+      "summary": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.",
+      "hint": "Cross-check how the word looks, sounds, fits grammatically and makes sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-008",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "self-correct using multiple cues",
     "printable": true,
     "type": "single",
-    "question": "Which example should you choose for realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audioPrompt": "Which example should you choose for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "question": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "While reading, a student reaches “The biologist observed the nocturnal possum.” They first read “national” for “nocturnal”, then notice the sentence is about animals active at night. What should they do? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Go back, reread the phrase and correct the word using letters and context.",
-      "Keep going even though the sentence makes no sense.",
-      "Change several other words to fit the mistake."
+      "Replace it with any word that fits the topic.",
+      "Re-read the word, use the letter pattern and sentence meaning, and self-correct to “nocturnal”.",
+      "Keep “national” because it begins with the same letter.",
+      "Skip the word and continue without checking meaning."
     ],
-    "correct": 0,
-    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "difficulty": 3,
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.\nHint: Cross-check how the word looks, sounds, fits grammatically and makes sense.",
     "structuredExplanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
+      "summary": "Accurate reading integrates grapheme patterns, word parts, grammar and sentence meaning, with self-correction when a first attempt does not fit.",
+      "hint": "Cross-check how the word looks, sounds, fits grammatically and makes sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-009",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "integrate semantic and morphological knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which example should you choose for reading a factual paragraph about cyclones?",
-    "audioPrompt": "Which example should you choose for reading a factual paragraph about cyclones?",
+    "question": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which option best demonstrates the skill?",
+    "audioPrompt": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Say any weather word that seems possible without looking closely.",
-      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
-      "Ignore the heading and technical terms."
+      "The word part de-/context of hikers and the phrase “the slippery track” together support moving downward.",
+      "The word has the same number of letters as “climbed”.",
+      "The sentence contains the word “carefully”.",
+      "Any unfamiliar verb can be replaced by “walked”."
     ],
-    "correct": 1,
-    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
+    "difficulty": 1,
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "Readers combine word structure and sentence context rather than relying on one clue alone.\nHint: Use word parts and the surrounding sentence together.",
     "structuredExplanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
+      "summary": "Readers combine word structure and sentence context rather than relying on one clue alone.",
+      "hint": "Use word parts and the surrounding sentence together."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-010",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "integrate semantic and morphological knowledge",
     "printable": true,
     "type": "single",
-    "question": "In reading a factual paragraph about cyclones, which option best demonstrates the skill?",
-    "audioPrompt": "In reading a factual paragraph about cyclones, which option best demonstrates the skill?",
+    "question": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which choice is the strongest response?",
+    "audioPrompt": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Say any weather word that seems possible without looking closely.",
-      "Ignore the heading and technical terms.",
-      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word."
+      "The word has the same number of letters as “climbed”.",
+      "The sentence contains the word “carefully”.",
+      "Any unfamiliar verb can be replaced by “walked”.",
+      "The word part de-/context of hikers and the phrase “the slippery track” together support moving downward."
     ],
-    "correct": 2,
-    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
+    "difficulty": 1,
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "Readers combine word structure and sentence context rather than relying on one clue alone.\nHint: Use word parts and the surrounding sentence together.",
     "structuredExplanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
+      "summary": "Readers combine word structure and sentence context rather than relying on one clue alone.",
+      "hint": "Use word parts and the surrounding sentence together."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-011",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "integrate semantic and morphological knowledge",
     "printable": true,
     "type": "single",
-    "question": "Why does “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” work well for reading “The hikers cautiously crossed the suspension bridge”?",
-    "audioPrompt": "Why does “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” work well for reading “The hikers cautiously crossed the suspension bridge”?",
+    "question": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Why is “The word part de-/context of hikers and the phrase “the slippery track” together support moving downward.” the strongest choice?",
+    "audioPrompt": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Why is “The word part de-/context of hikers and the phrase “the slippery track” together support moving downward.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Fluent reading coordinates word recognition with grammar and meaning.",
-      "Because “Read every letter as a separate sound and ignore the sentence.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Readers combine word structure and sentence context rather than relying on one clue alone.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 0,
-    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
+    "difficulty": 2,
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "Readers combine word structure and sentence context rather than relying on one clue alone.\nHint: Use word parts and the surrounding sentence together.",
     "structuredExplanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
+      "summary": "Readers combine word structure and sentence context rather than relying on one clue alone.",
+      "hint": "Use word parts and the surrounding sentence together."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-012",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "integrate semantic and morphological knowledge",
     "printable": true,
     "type": "single",
-    "question": "What makes “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” a better choice in reading “The hikers cautiously crossed the suspension bridge”?",
-    "audioPrompt": "What makes “Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.” a better choice in reading “The hikers cautiously crossed the suspension bridge”?",
+    "question": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Read every letter as a separate sound and ignore the sentence.” is always acceptable in this situation.",
-      "Fluent reading coordinates word recognition with grammar and meaning.",
-      "Because the longest or most complicated option must be correct."
+      "Any unfamiliar verb can be replaced by “walked”.",
+      "The word has the same number of letters as “climbed”.",
+      "The word part de-/context of hikers and the phrase “the slippery track” together support moving downward.",
+      "The sentence contains the word “carefully”."
     ],
+    "difficulty": 2,
+    "sequencePriority": 12,
     "correct": 1,
-    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
+    "explanation": "“The word has the same number of letters as “climbed”.” should be rejected because it does not meet the task as well as the evidence-based choice. Readers combine word structure and sentence context rather than relying on one clue alone.\nHint: Use word parts and the surrounding sentence together.",
     "structuredExplanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
+      "summary": "“The word has the same number of letters as “climbed”.” should be rejected because it does not meet the task as well as the evidence-based choice. Readers combine word structure and sentence context rather than relying on one clue alone.",
+      "hint": "Use word parts and the surrounding sentence together."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-013",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "integrate semantic and morphological knowledge",
     "printable": true,
     "type": "single",
-    "question": "What makes “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” a better choice in meeting the unfamiliar word “reusable”?",
-    "audioPrompt": "What makes “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” a better choice in meeting the unfamiliar word “reusable”?",
+    "question": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which revision best improves “The word has the same number of letters as “climbed”.”?",
+    "audioPrompt": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which revision best improves “The word has the same number of letters as “climbed”.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Guess from the first letter only.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Morphology and context can work together to identify and understand a multisyllabic word."
+      "The word part de-/context of hikers and the phrase “the slippery track” together support moving downward.",
+      "The word has the same number of letters as “climbed”.",
+      "The sentence contains the word “carefully”.",
+      "Any unfamiliar verb can be replaced by “walked”."
     ],
-    "correct": 2,
-    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
+    "difficulty": 2,
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "Readers combine word structure and sentence context rather than relying on one clue alone.\nHint: Use word parts and the surrounding sentence together.",
     "structuredExplanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
+      "summary": "Readers combine word structure and sentence context rather than relying on one clue alone.",
+      "hint": "Use word parts and the surrounding sentence together."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-014",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "integrate semantic and morphological knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best justifies “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” for meeting the unfamiliar word “reusable”?",
-    "audioPrompt": "Which explanation best justifies “Use the parts re- + use + -able and the sentence context to work out “able to be used again”.” for meeting the unfamiliar word “reusable”?",
+    "question": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which clue should guide your decision?",
+    "audioPrompt": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "Because “Guess from the first letter only.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Use word parts and the surrounding sentence together."
     ],
-    "correct": 0,
-    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
+    "difficulty": 2,
+    "sequencePriority": 14,
+    "correct": 3,
+    "explanation": "Readers combine word structure and sentence context rather than relying on one clue alone.\nHint: Use word parts and the surrounding sentence together.",
     "structuredExplanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
+      "summary": "Readers combine word structure and sentence context rather than relying on one clue alone.",
+      "hint": "Use word parts and the surrounding sentence together."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-015",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "integrate semantic and morphological knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best justifies “Pause lightly around the extra detail but keep the sentence flowing.” for reading a paragraph with commas around an extra detail?",
-    "audioPrompt": "Which explanation best justifies “Pause lightly around the extra detail but keep the sentence flowing.” for reading a paragraph with commas around an extra detail?",
+    "question": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? A student chooses “The sentence contains the word “carefully”.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? A student chooses “The sentence contains the word “carefully”.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Stop for several seconds at every comma.” is always acceptable in this situation.",
-      "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "Because the longest or most complicated option must be correct."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Use word parts and the surrounding sentence together.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 1,
-    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "difficulty": 3,
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Readers combine word structure and sentence context rather than relying on one clue alone.\nHint: Use word parts and the surrounding sentence together.",
     "structuredExplanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+      "summary": "Readers combine word structure and sentence context rather than relying on one clue alone.",
+      "hint": "Use word parts and the surrounding sentence together."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-016",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "integrate semantic and morphological knowledge",
     "printable": true,
     "type": "single",
-    "question": "What should you notice about “Pause lightly around the extra detail but keep the sentence flowing.” in reading a paragraph with commas around an extra detail?",
-    "audioPrompt": "What should you notice about “Pause lightly around the extra detail but keep the sentence flowing.” in reading a paragraph with commas around an extra detail?",
+    "question": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "In “The hikers carefully descended the slippery track,” which clue helps a reader predict that “descended” means moved down? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Stop for several seconds at every comma.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Punctuation guides phrasing, but fluent reading keeps connected ideas together."
+      "Any unfamiliar verb can be replaced by “walked”.",
+      "The word part de-/context of hikers and the phrase “the slippery track” together support moving downward.",
+      "The word has the same number of letters as “climbed”.",
+      "The sentence contains the word “carefully”."
     ],
-    "correct": 2,
-    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "difficulty": 3,
+    "sequencePriority": 16,
+    "correct": 1,
+    "explanation": "Readers combine word structure and sentence context rather than relying on one clue alone.\nHint: Use word parts and the surrounding sentence together.",
     "structuredExplanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+      "summary": "Readers combine word structure and sentence context rather than relying on one clue alone.",
+      "hint": "Use word parts and the surrounding sentence together."
     },
     "qualitySchema": "production-v1"
   },
@@ -388,23 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-017",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "read fluently",
     "printable": true,
     "type": "single",
-    "question": "What should you notice about “Go back, reread the phrase and correct the word using letters and context.” in realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audioPrompt": "What should you notice about “Go back, reread the phrase and correct the word using letters and context.” in realising a sentence no longer makes sense after reading a word incorrectly?",
+    "question": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which option best demonstrates the skill?",
+    "audioPrompt": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Monitoring meaning helps readers notice and repair decoding errors.",
-      "Because “Keep going even though the sentence makes no sense.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "Read accurately at a meaningful pace and pause at the punctuation so the sentence sounds complete.",
+      "Read as fast as possible.",
+      "Pause after every single word.",
+      "Change difficult words to easier ones without checking."
     ],
+    "difficulty": 1,
+    "sequencePriority": 17,
     "correct": 0,
-    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "explanation": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.\nHint: Let punctuation and sentence meaning guide phrasing.",
     "structuredExplanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
+      "summary": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.",
+      "hint": "Let punctuation and sentence meaning guide phrasing."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,23 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-018",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "read fluently",
     "printable": true,
     "type": "single",
-    "question": "Which reason explains why “Go back, reread the phrase and correct the word using letters and context.” suits realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audioPrompt": "Which reason explains why “Go back, reread the phrase and correct the word using letters and context.” suits realising a sentence no longer makes sense after reading a word incorrectly?",
+    "question": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which choice is the strongest response?",
+    "audioPrompt": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Keep going even though the sentence makes no sense.” is always acceptable in this situation.",
-      "Monitoring meaning helps readers notice and repair decoding errors.",
-      "Because the longest or most complicated option must be correct."
+      "Read as fast as possible.",
+      "Pause after every single word.",
+      "Change difficult words to easier ones without checking.",
+      "Read accurately at a meaningful pace and pause at the punctuation so the sentence sounds complete."
     ],
-    "correct": 1,
-    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "difficulty": 1,
+    "sequencePriority": 18,
+    "correct": 3,
+    "explanation": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.\nHint: Let punctuation and sentence meaning guide phrasing.",
     "structuredExplanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
+      "summary": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.",
+      "hint": "Let punctuation and sentence meaning guide phrasing."
     },
     "qualitySchema": "production-v1"
   },
@@ -436,23 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-019",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "read fluently",
     "printable": true,
     "type": "single",
-    "question": "Which reason explains why “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” suits reading a factual paragraph about cyclones?",
-    "audioPrompt": "Which reason explains why “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” suits reading a factual paragraph about cyclones?",
+    "question": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Why is “Read accurately at a meaningful pace and pause at the punctuation so the sentence sounds complete.” the strongest choice?",
+    "audioPrompt": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Why is “Read accurately at a meaningful pace and pause at the punctuation so the sentence sounds complete.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Say any weather word that seems possible without looking closely.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Topic knowledge supports prediction, but accurate reading still depends on the text."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.",
+      "It is longest, so it must be correct."
     ],
+    "difficulty": 2,
+    "sequencePriority": 19,
     "correct": 2,
-    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
+    "explanation": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.\nHint: Let punctuation and sentence meaning guide phrasing.",
     "structuredExplanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
+      "summary": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.",
+      "hint": "Let punctuation and sentence meaning guide phrasing."
     },
     "qualitySchema": "production-v1"
   },
@@ -460,23 +593,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-020",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "read fluently",
     "printable": true,
     "type": "single",
-    "question": "Why does “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” work well for reading a factual paragraph about cyclones?",
-    "audioPrompt": "Why does “Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.” work well for reading a factual paragraph about cyclones?",
+    "question": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "Because “Say any weather word that seems possible without looking closely.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "Change difficult words to easier ones without checking.",
+      "Read as fast as possible.",
+      "Read accurately at a meaningful pace and pause at the punctuation so the sentence sounds complete.",
+      "Pause after every single word."
     ],
-    "correct": 0,
-    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
+    "difficulty": 2,
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "“Read as fast as possible.” should be rejected because it does not meet the task as well as the evidence-based choice. Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.\nHint: Let punctuation and sentence meaning guide phrasing.",
     "structuredExplanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
+      "summary": "“Read as fast as possible.” should be rejected because it does not meet the task as well as the evidence-based choice. Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.",
+      "hint": "Let punctuation and sentence meaning guide phrasing."
     },
     "qualitySchema": "production-v1"
   },
@@ -484,23 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-021",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "read fluently",
     "printable": true,
     "type": "single",
-    "question": "Which revision best fixes the problem in “Read every letter as a separate sound and ignore the sentence.” for reading “The hikers cautiously crossed the suspension bridge”?",
-    "audioPrompt": "Which revision best fixes the problem in “Read every letter as a separate sound and ignore the sentence.” for reading “The hikers cautiously crossed the suspension bridge”?",
+    "question": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which revision best improves “Read as fast as possible.”?",
+    "audioPrompt": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which revision best improves “Read as fast as possible.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read every letter as a separate sound and ignore the sentence.",
-      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
-      "Replace cautiously with quickly because it is shorter."
+      "Read accurately at a meaningful pace and pause at the punctuation so the sentence sounds complete.",
+      "Read as fast as possible.",
+      "Pause after every single word.",
+      "Change difficult words to easier ones without checking."
     ],
-    "correct": 1,
-    "explanation": "Fluent reading coordinates word recognition with grammar and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check whether the words you read make sense in the sentence.",
+    "difficulty": 2,
+    "sequencePriority": 21,
+    "correct": 0,
+    "explanation": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.\nHint: Let punctuation and sentence meaning guide phrasing.",
     "structuredExplanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check whether the words you read make sense in the sentence."
+      "summary": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.",
+      "hint": "Let punctuation and sentence meaning guide phrasing."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,23 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-022",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "read fluently",
     "printable": true,
     "type": "single",
-    "question": "Compare the choices for reading “The hikers cautiously crossed the suspension bridge”. Which one avoids the mistake in “Read every letter as a separate sound and ignore the sentence.”?",
-    "audioPrompt": "Compare the choices for reading “The hikers cautiously crossed the suspension bridge”. Which one avoids the mistake in “Read every letter as a separate sound and ignore the sentence.”?",
+    "question": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which clue should guide your decision?",
+    "audioPrompt": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read every letter as a separate sound and ignore the sentence.",
-      "Replace cautiously with quickly because it is shorter.",
-      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Let punctuation and sentence meaning guide phrasing."
     ],
-    "correct": 2,
-    "explanation": "Fluent reading coordinates word recognition with grammar and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Check whether the words you read make sense in the sentence.",
+    "difficulty": 2,
+    "sequencePriority": 22,
+    "correct": 3,
+    "explanation": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.\nHint: Let punctuation and sentence meaning guide phrasing.",
     "structuredExplanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check whether the words you read make sense in the sentence."
+      "summary": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.",
+      "hint": "Let punctuation and sentence meaning guide phrasing."
     },
     "qualitySchema": "production-v1"
   },
@@ -532,23 +686,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-023",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "read fluently",
     "printable": true,
     "type": "single",
-    "question": "Compare the choices for meeting the unfamiliar word “reusable”. Which one avoids the mistake in “Guess from the first letter only.”?",
-    "audioPrompt": "Compare the choices for meeting the unfamiliar word “reusable”. Which one avoids the mistake in “Guess from the first letter only.”?",
+    "question": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? A student chooses “Pause after every single word.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? A student chooses “Pause after every single word.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
-      "Guess from the first letter only.",
-      "Skip the word and continue without checking meaning."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Let punctuation and sentence meaning guide phrasing.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 0,
-    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Break the word into meaningful parts.",
+    "difficulty": 3,
+    "sequencePriority": 23,
+    "correct": 2,
+    "explanation": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.\nHint: Let punctuation and sentence meaning guide phrasing.",
     "structuredExplanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Break the word into meaningful parts."
+      "summary": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.",
+      "hint": "Let punctuation and sentence meaning guide phrasing."
     },
     "qualitySchema": "production-v1"
   },
@@ -556,23 +717,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-024",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "read fluently",
     "printable": true,
     "type": "single",
-    "question": "If “Guess from the first letter only.” does not work in meeting the unfamiliar word “reusable”, what should replace it?",
-    "audioPrompt": "If “Guess from the first letter only.” does not work in meeting the unfamiliar word “reusable”, what should replace it?",
+    "question": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A reader says “The coral reef shelters many species” in a flat rush with no pause at the full stop. Which change improves fluency most? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Guess from the first letter only.",
-      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
-      "Skip the word and continue without checking meaning."
+      "Change difficult words to easier ones without checking.",
+      "Read accurately at a meaningful pace and pause at the punctuation so the sentence sounds complete.",
+      "Read as fast as possible.",
+      "Pause after every single word."
     ],
+    "difficulty": 3,
+    "sequencePriority": 24,
     "correct": 1,
-    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Break the word into meaningful parts.",
+    "explanation": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.\nHint: Let punctuation and sentence meaning guide phrasing.",
     "structuredExplanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Break the word into meaningful parts."
+      "summary": "Fluency includes accuracy, appropriate pace and phrasing that reflects grammar and punctuation.",
+      "hint": "Let punctuation and sentence meaning guide phrasing."
     },
     "qualitySchema": "production-v1"
   },
@@ -580,23 +748,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-025",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use text structure to monitor",
     "printable": true,
     "type": "single",
-    "question": "If “Stop for several seconds at every comma.” does not work in reading a paragraph with commas around an extra detail, what should replace it?",
-    "audioPrompt": "If “Stop for several seconds at every comma.” does not work in reading a paragraph with commas around an extra detail, what should replace it?",
+    "question": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which option best demonstrates the skill?",
+    "audioPrompt": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Stop for several seconds at every comma.",
-      "Ignore all punctuation and read in one flat rush.",
-      "Pause lightly around the extra detail but keep the sentence flowing."
+      "The changed word reverses the sequence and conflicts with the procedure’s meaning.",
+      "The sentence is longer than the previous one.",
+      "The word “wheels” appears twice on the page.",
+      "Procedures never use time words."
     ],
-    "correct": 2,
-    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "difficulty": 1,
+    "sequencePriority": 25,
+    "correct": 0,
+    "explanation": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.\nHint: Check whether your reading preserves the logical order of the text.",
     "structuredExplanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+      "summary": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.",
+      "hint": "Check whether your reading preserves the logical order of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -604,23 +779,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-026",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use text structure to monitor",
     "printable": true,
     "type": "single",
-    "question": "Which option corrects the meaning or form needed for reading a paragraph with commas around an extra detail?",
-    "audioPrompt": "Which option corrects the meaning or form needed for reading a paragraph with commas around an extra detail?",
+    "question": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which choice is the strongest response?",
+    "audioPrompt": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Pause lightly around the extra detail but keep the sentence flowing.",
-      "Stop for several seconds at every comma.",
-      "Ignore all punctuation and read in one flat rush."
+      "The sentence is longer than the previous one.",
+      "The word “wheels” appears twice on the page.",
+      "Procedures never use time words.",
+      "The changed word reverses the sequence and conflicts with the procedure’s meaning."
     ],
-    "correct": 0,
-    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "difficulty": 1,
+    "sequencePriority": 26,
+    "correct": 3,
+    "explanation": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.\nHint: Check whether your reading preserves the logical order of the text.",
     "structuredExplanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+      "summary": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.",
+      "hint": "Check whether your reading preserves the logical order of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -628,23 +810,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-027",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use text structure to monitor",
     "printable": true,
     "type": "single",
-    "question": "Which option corrects the meaning or form needed for realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audioPrompt": "Which option corrects the meaning or form needed for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "question": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Why is “The changed word reverses the sequence and conflicts with the procedure’s meaning.” the strongest choice?",
+    "audioPrompt": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Why is “The changed word reverses the sequence and conflicts with the procedure’s meaning.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep going even though the sentence makes no sense.",
-      "Go back, reread the phrase and correct the word using letters and context.",
-      "Change several other words to fit the mistake."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Understanding text structure helps a reader notice when a misread word changes the intended sequence.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 1,
-    "explanation": "Monitoring meaning helps readers notice and repair decoding errors. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "difficulty": 2,
+    "sequencePriority": 27,
+    "correct": 2,
+    "explanation": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.\nHint: Check whether your reading preserves the logical order of the text.",
     "structuredExplanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
+      "summary": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.",
+      "hint": "Check whether your reading preserves the logical order of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -652,23 +841,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-028",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use text structure to monitor",
     "printable": true,
     "type": "single",
-    "question": "Which choice is the clearest correction for realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audioPrompt": "Which choice is the clearest correction for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "question": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep going even though the sentence makes no sense.",
-      "Change several other words to fit the mistake.",
-      "Go back, reread the phrase and correct the word using letters and context."
+      "Procedures never use time words.",
+      "The sentence is longer than the previous one.",
+      "The changed word reverses the sequence and conflicts with the procedure’s meaning.",
+      "The word “wheels” appears twice on the page."
     ],
-    "correct": 2,
-    "explanation": "Monitoring meaning helps readers notice and repair decoding errors. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "difficulty": 2,
+    "sequencePriority": 28,
+    "correct": 1,
+    "explanation": "“The sentence is longer than the previous one.” should be rejected because it does not meet the task as well as the evidence-based choice. Understanding text structure helps a reader notice when a misread word changes the intended sequence.\nHint: Check whether your reading preserves the logical order of the text.",
     "structuredExplanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
+      "summary": "“The sentence is longer than the previous one.” should be rejected because it does not meet the task as well as the evidence-based choice. Understanding text structure helps a reader notice when a misread word changes the intended sequence.",
+      "hint": "Check whether your reading preserves the logical order of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -676,23 +872,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-029",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use text structure to monitor",
     "printable": true,
     "type": "single",
-    "question": "Which choice is the clearest correction for reading a factual paragraph about cyclones?",
-    "audioPrompt": "Which choice is the clearest correction for reading a factual paragraph about cyclones?",
+    "question": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which revision best improves “The sentence is longer than the previous one.”?",
+    "audioPrompt": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which revision best improves “The sentence is longer than the previous one.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
-      "Say any weather word that seems possible without looking closely.",
-      "Ignore the heading and technical terms."
+      "The changed word reverses the sequence and conflicts with the procedure’s meaning.",
+      "The sentence is longer than the previous one.",
+      "The word “wheels” appears twice on the page.",
+      "Procedures never use time words."
     ],
+    "difficulty": 2,
+    "sequencePriority": 29,
     "correct": 0,
-    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use knowledge to support, not replace, decoding.",
+    "explanation": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.\nHint: Check whether your reading preserves the logical order of the text.",
     "structuredExplanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use knowledge to support, not replace, decoding."
+      "summary": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.",
+      "hint": "Check whether your reading preserves the logical order of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -700,23 +903,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-030",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use text structure to monitor",
     "printable": true,
     "type": "single",
-    "question": "Which revision best fixes the problem in “Say any weather word that seems possible without looking closely.” for reading a factual paragraph about cyclones?",
-    "audioPrompt": "Which revision best fixes the problem in “Say any weather word that seems possible without looking closely.” for reading a factual paragraph about cyclones?",
+    "question": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which clue should guide your decision?",
+    "audioPrompt": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Say any weather word that seems possible without looking closely.",
-      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
-      "Ignore the heading and technical terms."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Check whether your reading preserves the logical order of the text."
     ],
-    "correct": 1,
-    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use knowledge to support, not replace, decoding.",
+    "difficulty": 2,
+    "sequencePriority": 30,
+    "correct": 3,
+    "explanation": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.\nHint: Check whether your reading preserves the logical order of the text.",
     "structuredExplanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use knowledge to support, not replace, decoding."
+      "summary": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.",
+      "hint": "Check whether your reading preserves the logical order of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -724,23 +934,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-031",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use text structure to monitor",
     "printable": true,
     "type": "single",
-    "question": "You now need to handle reading “The hikers cautiously crossed the suspension bridge” independently. Which choice should you use?",
-    "audioPrompt": "You now need to handle reading “The hikers cautiously crossed the suspension bridge” independently. Which choice should you use?",
+    "question": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? A student chooses “The word “wheels” appears twice on the page.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? A student chooses “The word “wheels” appears twice on the page.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Replace cautiously with quickly because it is shorter.",
-      "Read every letter as a separate sound and ignore the sentence.",
-      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Check whether your reading preserves the logical order of the text.",
+      "Keep the answer because first choices should never change."
     ],
+    "difficulty": 3,
+    "sequencePriority": 31,
     "correct": 2,
-    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
+    "explanation": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.\nHint: Check whether your reading preserves the logical order of the text.",
     "structuredExplanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
+      "summary": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.",
+      "hint": "Check whether your reading preserves the logical order of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -748,23 +965,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-032",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use text structure to monitor",
     "printable": true,
     "type": "single",
-    "question": "Apply the same idea to reading “The hikers cautiously crossed the suspension bridge”. Which option is best?",
-    "audioPrompt": "Apply the same idea to reading “The hikers cautiously crossed the suspension bridge”. Which option is best?",
+    "question": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A procedure says, “Before attaching the wheels, check that both axles turn freely.” A student reads “after attaching the wheels”. What should alert them to re-read? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Group “cautiously crossed” smoothly and use the sentence meaning to confirm the words.",
-      "Replace cautiously with quickly because it is shorter.",
-      "Read every letter as a separate sound and ignore the sentence."
+      "Procedures never use time words.",
+      "The changed word reverses the sequence and conflicts with the procedure’s meaning.",
+      "The sentence is longer than the previous one.",
+      "The word “wheels” appears twice on the page."
     ],
-    "correct": 0,
-    "explanation": "Fluent reading coordinates word recognition with grammar and meaning.\nHint: Check whether the words you read make sense in the sentence.",
+    "difficulty": 3,
+    "sequencePriority": 32,
+    "correct": 1,
+    "explanation": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.\nHint: Check whether your reading preserves the logical order of the text.",
     "structuredExplanation": {
-      "summary": "Fluent reading coordinates word recognition with grammar and meaning.",
-      "hint": "Check whether the words you read make sense in the sentence."
+      "summary": "Understanding text structure helps a reader notice when a misread word changes the intended sequence.",
+      "hint": "Check whether your reading preserves the logical order of the text."
     },
     "qualitySchema": "production-v1"
   },
@@ -772,23 +996,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-033",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use semantic and topic knowledge",
     "printable": true,
     "type": "single",
-    "question": "Apply the same idea to meeting the unfamiliar word “reusable”. Which option is best?",
-    "audioPrompt": "Apply the same idea to meeting the unfamiliar word “reusable”. Which option is best?",
+    "question": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which option best demonstrates the skill?",
+    "audioPrompt": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Skip the word and continue without checking meaning.",
-      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”.",
-      "Guess from the first letter only."
+      "Use the explanation in the next sentence to confirm the meaning and then re-read the passage smoothly.",
+      "Guess from the first letter only.",
+      "Ignore the word because technical words are optional.",
+      "Replace it with “water” because the topic is rivers."
     ],
-    "correct": 1,
-    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
+    "difficulty": 1,
+    "sequencePriority": 33,
+    "correct": 0,
+    "explanation": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.\nHint: Look for definitions, examples and topic clues around an unfamiliar word.",
     "structuredExplanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
+      "summary": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.",
+      "hint": "Look for definitions, examples and topic clues around an unfamiliar word."
     },
     "qualitySchema": "production-v1"
   },
@@ -796,23 +1027,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-034",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use semantic and topic knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which decision would produce the clearest result in meeting the unfamiliar word “reusable”?",
-    "audioPrompt": "Which decision would produce the clearest result in meeting the unfamiliar word “reusable”?",
+    "question": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which choice is the strongest response?",
+    "audioPrompt": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Skip the word and continue without checking meaning.",
       "Guess from the first letter only.",
-      "Use the parts re- + use + -able and the sentence context to work out “able to be used again”."
+      "Ignore the word because technical words are optional.",
+      "Replace it with “water” because the topic is rivers.",
+      "Use the explanation in the next sentence to confirm the meaning and then re-read the passage smoothly."
     ],
-    "correct": 2,
-    "explanation": "Morphology and context can work together to identify and understand a multisyllabic word.\nHint: Break the word into meaningful parts.",
+    "difficulty": 1,
+    "sequencePriority": 34,
+    "correct": 3,
+    "explanation": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.\nHint: Look for definitions, examples and topic clues around an unfamiliar word.",
     "structuredExplanation": {
-      "summary": "Morphology and context can work together to identify and understand a multisyllabic word.",
-      "hint": "Break the word into meaningful parts."
+      "summary": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.",
+      "hint": "Look for definitions, examples and topic clues around an unfamiliar word."
     },
     "qualitySchema": "production-v1"
   },
@@ -820,23 +1058,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-035",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use semantic and topic knowledge",
     "printable": true,
     "type": "single",
-    "question": "Which decision would produce the clearest result in reading a paragraph with commas around an extra detail?",
-    "audioPrompt": "Which decision would produce the clearest result in reading a paragraph with commas around an extra detail?",
+    "question": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Why is “Use the explanation in the next sentence to confirm the meaning and then re-read the passage smoothly.” the strongest choice?",
+    "audioPrompt": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Why is “Use the explanation in the next sentence to confirm the meaning and then re-read the passage smoothly.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Pause lightly around the extra detail but keep the sentence flowing.",
-      "Ignore all punctuation and read in one flat rush.",
-      "Stop for several seconds at every comma."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 0,
-    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "difficulty": 2,
+    "sequencePriority": 35,
+    "correct": 2,
+    "explanation": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.\nHint: Look for definitions, examples and topic clues around an unfamiliar word.",
     "structuredExplanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+      "summary": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.",
+      "hint": "Look for definitions, examples and topic clues around an unfamiliar word."
     },
     "qualitySchema": "production-v1"
   },
@@ -844,23 +1089,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-036",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use semantic and topic knowledge",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that applies the skill correctly in reading a paragraph with commas around an extra detail.",
-    "audioPrompt": "Choose the option that applies the skill correctly in reading a paragraph with commas around an extra detail.",
+    "question": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Ignore all punctuation and read in one flat rush.",
-      "Pause lightly around the extra detail but keep the sentence flowing.",
-      "Stop for several seconds at every comma."
+      "Replace it with “water” because the topic is rivers.",
+      "Guess from the first letter only.",
+      "Use the explanation in the next sentence to confirm the meaning and then re-read the passage smoothly.",
+      "Ignore the word because technical words are optional."
     ],
+    "difficulty": 2,
+    "sequencePriority": 36,
     "correct": 1,
-    "explanation": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.\nHint: Use punctuation to shape meaning, not to chop the text into pieces.",
+    "explanation": "“Guess from the first letter only.” should be rejected because it does not meet the task as well as the evidence-based choice. Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.\nHint: Look for definitions, examples and topic clues around an unfamiliar word.",
     "structuredExplanation": {
-      "summary": "Punctuation guides phrasing, but fluent reading keeps connected ideas together.",
-      "hint": "Use punctuation to shape meaning, not to chop the text into pieces."
+      "summary": "“Guess from the first letter only.” should be rejected because it does not meet the task as well as the evidence-based choice. Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.",
+      "hint": "Look for definitions, examples and topic clues around an unfamiliar word."
     },
     "qualitySchema": "production-v1"
   },
@@ -868,23 +1120,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-037",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use semantic and topic knowledge",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that applies the skill correctly in realising a sentence no longer makes sense after reading a word incorrectly.",
-    "audioPrompt": "Choose the option that applies the skill correctly in realising a sentence no longer makes sense after reading a word incorrectly.",
+    "question": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which revision best improves “Guess from the first letter only.”?",
+    "audioPrompt": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which revision best improves “Guess from the first letter only.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Change several other words to fit the mistake.",
-      "Keep going even though the sentence makes no sense.",
-      "Go back, reread the phrase and correct the word using letters and context."
+      "Use the explanation in the next sentence to confirm the meaning and then re-read the passage smoothly.",
+      "Guess from the first letter only.",
+      "Ignore the word because technical words are optional.",
+      "Replace it with “water” because the topic is rivers."
     ],
-    "correct": 2,
-    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "difficulty": 2,
+    "sequencePriority": 37,
+    "correct": 0,
+    "explanation": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.\nHint: Look for definitions, examples and topic clues around an unfamiliar word.",
     "structuredExplanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
+      "summary": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.",
+      "hint": "Look for definitions, examples and topic clues around an unfamiliar word."
     },
     "qualitySchema": "production-v1"
   },
@@ -892,23 +1151,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-038",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use semantic and topic knowledge",
     "printable": true,
     "type": "single",
-    "question": "What would be the most effective choice for realising a sentence no longer makes sense after reading a word incorrectly?",
-    "audioPrompt": "What would be the most effective choice for realising a sentence no longer makes sense after reading a word incorrectly?",
+    "question": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which clue should guide your decision?",
+    "audioPrompt": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Go back, reread the phrase and correct the word using letters and context.",
-      "Change several other words to fit the mistake.",
-      "Keep going even though the sentence makes no sense."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Look for definitions, examples and topic clues around an unfamiliar word."
     ],
-    "correct": 0,
-    "explanation": "Monitoring meaning helps readers notice and repair decoding errors.\nHint: A self-correction should fit both the print and the sentence meaning.",
+    "difficulty": 2,
+    "sequencePriority": 38,
+    "correct": 3,
+    "explanation": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.\nHint: Look for definitions, examples and topic clues around an unfamiliar word.",
     "structuredExplanation": {
-      "summary": "Monitoring meaning helps readers notice and repair decoding errors.",
-      "hint": "A self-correction should fit both the print and the sentence meaning."
+      "summary": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.",
+      "hint": "Look for definitions, examples and topic clues around an unfamiliar word."
     },
     "qualitySchema": "production-v1"
   },
@@ -916,23 +1182,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-039",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use semantic and topic knowledge",
     "printable": true,
     "type": "single",
-    "question": "What would be the most effective choice for reading a factual paragraph about cyclones?",
-    "audioPrompt": "What would be the most effective choice for reading a factual paragraph about cyclones?",
+    "question": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? A student chooses “Ignore the word because technical words are optional.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? A student chooses “Ignore the word because technical words are optional.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Ignore the heading and technical terms.",
-      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word.",
-      "Say any weather word that seems possible without looking closely."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Look for definitions, examples and topic clues around an unfamiliar word.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 1,
-    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
+    "difficulty": 3,
+    "sequencePriority": 39,
+    "correct": 2,
+    "explanation": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.\nHint: Look for definitions, examples and topic clues around an unfamiliar word.",
     "structuredExplanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
+      "summary": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.",
+      "hint": "Look for definitions, examples and topic clues around an unfamiliar word."
     },
     "qualitySchema": "production-v1"
   },
@@ -940,23 +1213,278 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly04-p-040",
     "curriculumCode": "AC9E4LY04",
     "bank": "practice",
-    "skill": "Fluent Reading",
+    "skill": "use semantic and topic knowledge",
     "printable": true,
     "type": "single",
-    "question": "You now need to handle reading a factual paragraph about cyclones independently. Which choice should you use?",
-    "audioPrompt": "You now need to handle reading a factual paragraph about cyclones independently. Which choice should you use?",
+    "question": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A student reads a report about erosion and meets “sediment”. The next sentence says, “These small pieces of rock and soil are carried downstream.” What is the best reading strategy? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Ignore the heading and technical terms.",
-      "Say any weather word that seems possible without looking closely.",
-      "Use the heading and topic vocabulary to anticipate likely meanings while still checking every printed word."
+      "Replace it with “water” because the topic is rivers.",
+      "Use the explanation in the next sentence to confirm the meaning and then re-read the passage smoothly.",
+      "Guess from the first letter only.",
+      "Ignore the word because technical words are optional."
     ],
-    "correct": 2,
-    "explanation": "Topic knowledge supports prediction, but accurate reading still depends on the text.\nHint: Use knowledge to support, not replace, decoding.",
+    "difficulty": 3,
+    "sequencePriority": 40,
+    "correct": 1,
+    "explanation": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.\nHint: Look for definitions, examples and topic clues around an unfamiliar word.",
     "structuredExplanation": {
-      "summary": "Topic knowledge supports prediction, but accurate reading still depends on the text.",
-      "hint": "Use knowledge to support, not replace, decoding."
+      "summary": "Topic knowledge and nearby explanations can clarify technical vocabulary and support accurate rereading.",
+      "hint": "Look for definitions, examples and topic clues around an unfamiliar word."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-041",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "use grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which option best demonstrates the skill?",
+    "audioPrompt": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The grammatical pattern “Neither … was” signals that “was” fits the sentence.",
+      "Plural-looking nouns always require “were”.",
+      "Meaning never helps with grammar.",
+      "The longest verb form is usually correct."
+    ],
+    "difficulty": 1,
+    "sequencePriority": 41,
+    "correct": 0,
+    "explanation": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.\nHint: Ask whether the word fits the sentence’s grammatical pattern as well as its meaning.",
+    "structuredExplanation": {
+      "summary": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.",
+      "hint": "Ask whether the word fits the sentence’s grammatical pattern as well as its meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-042",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "use grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which choice is the strongest response?",
+    "audioPrompt": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which choice is the strongest response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Plural-looking nouns always require “were”.",
+      "Meaning never helps with grammar.",
+      "The longest verb form is usually correct.",
+      "The grammatical pattern “Neither … was” signals that “was” fits the sentence."
+    ],
+    "difficulty": 1,
+    "sequencePriority": 42,
+    "correct": 3,
+    "explanation": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.\nHint: Ask whether the word fits the sentence’s grammatical pattern as well as its meaning.",
+    "structuredExplanation": {
+      "summary": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.",
+      "hint": "Ask whether the word fits the sentence’s grammatical pattern as well as its meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-043",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "use grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Why is “The grammatical pattern “Neither … was” signals that “was” fits the sentence.” the strongest choice?",
+    "audioPrompt": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Why is “The grammatical pattern “Neither … was” signals that “was” fits the sentence.” the strongest choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.",
+      "It is longest, so it must be correct."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 43,
+    "correct": 2,
+    "explanation": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.\nHint: Ask whether the word fits the sentence’s grammatical pattern as well as its meaning.",
+    "structuredExplanation": {
+      "summary": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.",
+      "hint": "Ask whether the word fits the sentence’s grammatical pattern as well as its meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-044",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "use grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The longest verb form is usually correct.",
+      "Plural-looking nouns always require “were”.",
+      "The grammatical pattern “Neither … was” signals that “was” fits the sentence.",
+      "Meaning never helps with grammar."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 44,
+    "correct": 1,
+    "explanation": "“Plural-looking nouns always require “were”.” should be rejected because it does not meet the task as well as the evidence-based choice. Grammatical knowledge helps readers predict and verify words that fit the sentence structure.\nHint: Ask whether the word fits the sentence’s grammatical pattern as well as its meaning.",
+    "structuredExplanation": {
+      "summary": "“Plural-looking nouns always require “were”.” should be rejected because it does not meet the task as well as the evidence-based choice. Grammatical knowledge helps readers predict and verify words that fit the sentence structure.",
+      "hint": "Ask whether the word fits the sentence’s grammatical pattern as well as its meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-045",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "use grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which revision best improves “Plural-looking nouns always require “were”.”?",
+    "audioPrompt": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which revision best improves “Plural-looking nouns always require “were”.”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The grammatical pattern “Neither … was” signals that “was” fits the sentence.",
+      "Plural-looking nouns always require “were”.",
+      "Meaning never helps with grammar.",
+      "The longest verb form is usually correct."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 45,
+    "correct": 0,
+    "explanation": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.\nHint: Ask whether the word fits the sentence’s grammatical pattern as well as its meaning.",
+    "structuredExplanation": {
+      "summary": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.",
+      "hint": "Ask whether the word fits the sentence’s grammatical pattern as well as its meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-046",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "use grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which clue should guide your decision?",
+    "audioPrompt": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which clue should guide your decision?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Ask whether the word fits the sentence’s grammatical pattern as well as its meaning."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 46,
+    "correct": 3,
+    "explanation": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.\nHint: Ask whether the word fits the sentence’s grammatical pattern as well as its meaning.",
+    "structuredExplanation": {
+      "summary": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.",
+      "hint": "Ask whether the word fits the sentence’s grammatical pattern as well as its meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-047",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "use grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? A student chooses “Meaning never helps with grammar.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? A student chooses “Meaning never helps with grammar.”. Which feedback would best help them correct the choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Ask whether the word fits the sentence’s grammatical pattern as well as its meaning.",
+      "Keep the answer because first choices should never change."
+    ],
+    "difficulty": 3,
+    "sequencePriority": 47,
+    "correct": 2,
+    "explanation": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.\nHint: Ask whether the word fits the sentence’s grammatical pattern as well as its meaning.",
+    "structuredExplanation": {
+      "summary": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.",
+      "hint": "Ask whether the word fits the sentence’s grammatical pattern as well as its meaning."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly04-p-048",
+    "curriculumCode": "AC9E4LY04",
+    "bank": "practice",
+    "skill": "use grammatical knowledge",
+    "printable": true,
+    "type": "single",
+    "question": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "The sentence is “Neither of the puppies was ready to leave.” A reader says “were ready”. What knowledge helps self-correct? Which option applies the same skill accurately in this situation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The longest verb form is usually correct.",
+      "The grammatical pattern “Neither … was” signals that “was” fits the sentence.",
+      "Plural-looking nouns always require “were”.",
+      "Meaning never helps with grammar."
+    ],
+    "difficulty": 3,
+    "sequencePriority": 48,
+    "correct": 1,
+    "explanation": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.\nHint: Ask whether the word fits the sentence’s grammatical pattern as well as its meaning.",
+    "structuredExplanation": {
+      "summary": "Grammatical knowledge helps readers predict and verify words that fit the sentence structure.",
+      "hint": "Ask whether the word fits the sentence’s grammatical pattern as well as its meaning."
     },
     "qualitySchema": "production-v1"
   }

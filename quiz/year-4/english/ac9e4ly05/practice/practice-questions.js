@@ -4,23 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-001",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "connect print and image",
     "printable": true,
     "type": "single",
-    "question": "In inferring why a character grabs an umbrella after seeing black clouds, which option best demonstrates the skill?",
-    "audioPrompt": "In inferring why a character grabs an umbrella after seeing black clouds, which option best demonstrates the skill?",
+    "question": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which option best demonstrates the skill?",
+    "audioPrompt": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The character probably expects rain because the dark clouds are a clue and the umbrella connects to wet weather.",
-      "The text proves a cyclone will occur.",
-      "The character dislikes umbrellas."
+      "Link the written claim with the diagram’s arrows to build a clearer explanation of how mangroves reduce wave energy.",
+      "Treat the diagram and sentence as unrelated.",
+      "Use the diagram only because pictures are always more reliable.",
+      "Ignore the words once a visual is present."
     ],
+    "difficulty": 1,
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.\nHint: Name the clue and the knowledge you used.",
+    "explanation": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.\nHint: Ask what each mode adds to the same idea.",
     "structuredExplanation": {
-      "summary": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.",
-      "hint": "Name the clue and the knowledge you used."
+      "summary": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.",
+      "hint": "Ask what each mode adds to the same idea."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +35,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-002",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "connect print and image",
     "printable": true,
     "type": "single",
-    "question": "Which choice fits inferring why a character grabs an umbrella after seeing black clouds most accurately?",
-    "audioPrompt": "Which choice fits inferring why a character grabs an umbrella after seeing black clouds most accurately?",
+    "question": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which choice is the strongest response?",
+    "audioPrompt": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The text proves a cyclone will occur.",
-      "The character probably expects rain because the dark clouds are a clue and the umbrella connects to wet weather.",
-      "The character dislikes umbrellas."
+      "Treat the diagram and sentence as unrelated.",
+      "Use the diagram only because pictures are always more reliable.",
+      "Ignore the words once a visual is present.",
+      "Link the written claim with the diagram’s arrows to build a clearer explanation of how mangroves reduce wave energy."
     ],
-    "correct": 1,
-    "explanation": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.\nHint: Name the clue and the knowledge you used.",
+    "difficulty": 1,
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.\nHint: Ask what each mode adds to the same idea.",
     "structuredExplanation": {
-      "summary": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.",
-      "hint": "Name the clue and the knowledge you used."
+      "summary": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.",
+      "hint": "Ask what each mode adds to the same idea."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-003",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "connect print and image",
     "printable": true,
     "type": "single",
-    "question": "Which choice fits finding the main idea of a paragraph about mangrove roots, mud and fish nurseries most accurately?",
-    "audioPrompt": "Which choice fits finding the main idea of a paragraph about mangrove roots, mud and fish nurseries most accurately?",
+    "question": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Why is “Link the written claim with the diagram’s arrows to build a clearer explanation of how mangroves reduce wave energy.” the strongest choice?",
+    "audioPrompt": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Why is “Link the written claim with the diagram’s arrows to build a clearer explanation of how mangroves reduce wave energy.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Mangrove roots are brown.",
-      "One fish swam past a root.",
-      "Mangroves create important habitat in coastal wetlands."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Comprehension improves when readers connect information across print and images rather than treating each mode separately.",
+      "It is longest, so it must be correct."
     ],
+    "difficulty": 2,
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "The main idea connects several supporting details rather than repeating one small fact.\nHint: Ask what most of the details are explaining.",
+    "explanation": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.\nHint: Ask what each mode adds to the same idea.",
     "structuredExplanation": {
-      "summary": "The main idea connects several supporting details rather than repeating one small fact.",
-      "hint": "Ask what most of the details are explaining."
+      "summary": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.",
+      "hint": "Ask what each mode adds to the same idea."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +97,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-004",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "connect print and image",
     "printable": true,
     "type": "single",
-    "question": "Look closely at finding the main idea of a paragraph about mangrove roots, mud and fish nurseries. Which response or wording works best?",
-    "audioPrompt": "Look closely at finding the main idea of a paragraph about mangrove roots, mud and fish nurseries. Which response or wording works best?",
+    "question": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Mangroves create important habitat in coastal wetlands.",
-      "Mangrove roots are brown.",
-      "One fish swam past a root."
+      "Ignore the words once a visual is present.",
+      "Treat the diagram and sentence as unrelated.",
+      "Link the written claim with the diagram’s arrows to build a clearer explanation of how mangroves reduce wave energy.",
+      "Use the diagram only because pictures are always more reliable."
     ],
-    "correct": 0,
-    "explanation": "The main idea connects several supporting details rather than repeating one small fact.\nHint: Ask what most of the details are explaining.",
+    "difficulty": 2,
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "“Treat the diagram and sentence as unrelated.” should be rejected because it does not meet the task as well as the evidence-based choice. Comprehension improves when readers connect information across print and images rather than treating each mode separately.\nHint: Ask what each mode adds to the same idea.",
     "structuredExplanation": {
-      "summary": "The main idea connects several supporting details rather than repeating one small fact.",
-      "hint": "Ask what most of the details are explaining."
+      "summary": "“Treat the diagram and sentence as unrelated.” should be rejected because it does not meet the task as well as the evidence-based choice. Comprehension improves when readers connect information across print and images rather than treating each mode separately.",
+      "hint": "Ask what each mode adds to the same idea."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-005",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "connect print and image",
     "printable": true,
     "type": "single",
-    "question": "Look closely at summarising a short article about recycling batteries. Which response or wording works best?",
-    "audioPrompt": "Look closely at summarising a short article about recycling batteries. Which response or wording works best?",
+    "question": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which revision best improves “Treat the diagram and sentence as unrelated.”?",
+    "audioPrompt": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which revision best improves “Treat the diagram and sentence as unrelated.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Batteries. Collection. Bins.",
-      "Batteries contain materials that can be recovered, so they should go to special collection points rather than household bins.",
-      "Copy every sentence from the article."
+      "Link the written claim with the diagram’s arrows to build a clearer explanation of how mangroves reduce wave energy.",
+      "Treat the diagram and sentence as unrelated.",
+      "Use the diagram only because pictures are always more reliable.",
+      "Ignore the words once a visual is present."
     ],
-    "correct": 1,
-    "explanation": "A summary keeps the central ideas and removes unnecessary detail.\nHint: State the key message in fewer words.",
+    "difficulty": 2,
+    "sequencePriority": 5,
+    "correct": 0,
+    "explanation": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.\nHint: Ask what each mode adds to the same idea.",
     "structuredExplanation": {
-      "summary": "A summary keeps the central ideas and removes unnecessary detail.",
-      "hint": "State the key message in fewer words."
+      "summary": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.",
+      "hint": "Ask what each mode adds to the same idea."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-006",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "connect print and image",
     "printable": true,
     "type": "single",
-    "question": "For summarising a short article about recycling batteries, which option is the strongest match?",
-    "audioPrompt": "For summarising a short article about recycling batteries, which option is the strongest match?",
+    "question": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which clue should guide your decision?",
+    "audioPrompt": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Batteries. Collection. Bins.",
-      "Copy every sentence from the article.",
-      "Batteries contain materials that can be recovered, so they should go to special collection points rather than household bins."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Ask what each mode adds to the same idea."
     ],
-    "correct": 2,
-    "explanation": "A summary keeps the central ideas and removes unnecessary detail.\nHint: State the key message in fewer words.",
+    "difficulty": 2,
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.\nHint: Ask what each mode adds to the same idea.",
     "structuredExplanation": {
-      "summary": "A summary keeps the central ideas and removes unnecessary detail.",
-      "hint": "State the key message in fewer words."
+      "summary": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.",
+      "hint": "Ask what each mode adds to the same idea."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-007",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "connect print and image",
     "printable": true,
     "type": "single",
-    "question": "For evaluating the claim “Our canteen should sell only fruit because one student likes apples”, which option is the strongest match?",
-    "audioPrompt": "For evaluating the claim “Our canteen should sell only fruit because one student likes apples”, which option is the strongest match?",
+    "question": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? A student chooses “Use the diagram only because pictures are always more reliable.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? A student chooses “Use the diagram only because pictures are always more reliable.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The evidence is too weak because one student’s preference does not show what the whole school needs.",
-      "The claim is proven because any example counts as enough evidence.",
-      "The claim must be true because fruit is mentioned."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Ask what each mode adds to the same idea.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 0,
-    "explanation": "Evidence should be relevant and strong enough for the size of the claim.\nHint: Ask whether the evidence represents the people or issue being discussed.",
+    "difficulty": 3,
+    "sequencePriority": 7,
+    "correct": 2,
+    "explanation": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.\nHint: Ask what each mode adds to the same idea.",
     "structuredExplanation": {
-      "summary": "Evidence should be relevant and strong enough for the size of the claim.",
-      "hint": "Ask whether the evidence represents the people or issue being discussed."
+      "summary": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.",
+      "hint": "Ask what each mode adds to the same idea."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-008",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "connect print and image",
     "printable": true,
     "type": "single",
-    "question": "Which example should you choose for evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
-    "audioPrompt": "Which example should you choose for evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
+    "question": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A documentary page says, “Mangroves reduce wave energy,” while a diagram shows roots slowing arrows labelled “water movement”. What comprehension move best connects the modes? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The claim is proven because any example counts as enough evidence.",
-      "The evidence is too weak because one student’s preference does not show what the whole school needs.",
-      "The claim must be true because fruit is mentioned."
+      "Ignore the words once a visual is present.",
+      "Link the written claim with the diagram’s arrows to build a clearer explanation of how mangroves reduce wave energy.",
+      "Treat the diagram and sentence as unrelated.",
+      "Use the diagram only because pictures are always more reliable."
     ],
+    "difficulty": 3,
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Evidence should be relevant and strong enough for the size of the claim.\nHint: Ask whether the evidence represents the people or issue being discussed.",
+    "explanation": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.\nHint: Ask what each mode adds to the same idea.",
     "structuredExplanation": {
-      "summary": "Evidence should be relevant and strong enough for the size of the claim.",
-      "hint": "Ask whether the evidence represents the people or issue being discussed."
+      "summary": "Comprehension improves when readers connect information across print and images rather than treating each mode separately.",
+      "hint": "Ask what each mode adds to the same idea."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-009",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "topic vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which example should you choose for combining a map, caption and paragraph about a bushfire?",
-    "audioPrompt": "Which example should you choose for combining a map, caption and paragraph about a bushfire?",
+    "question": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which option best demonstrates the skill?",
+    "audioPrompt": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read only the largest element and ignore the others.",
-      "Assume colours mean the same thing without checking the legend.",
-      "Use the map for location, the caption for what the image shows and the paragraph for the explanation, then connect the information."
+      "Clarify the meanings and use them to build a more precise understanding of the process.",
+      "Replace all technical terms with “stuff”.",
+      "Skip every unfamiliar word.",
+      "Memorise spellings without connecting them to meaning."
     ],
-    "correct": 2,
-    "explanation": "Multimodal comprehension combines information carried by words, images and symbols.\nHint: Use each mode for the information it contributes.",
+    "difficulty": 1,
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "Topic-specific vocabulary carries important concepts needed to understand specialised information.\nHint: Identify and clarify words that are central to the topic.",
     "structuredExplanation": {
-      "summary": "Multimodal comprehension combines information carried by words, images and symbols.",
-      "hint": "Use each mode for the information it contributes."
+      "summary": "Topic-specific vocabulary carries important concepts needed to understand specialised information.",
+      "hint": "Identify and clarify words that are central to the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-010",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "topic vocabulary",
     "printable": true,
     "type": "single",
-    "question": "In combining a map, caption and paragraph about a bushfire, which option best demonstrates the skill?",
-    "audioPrompt": "In combining a map, caption and paragraph about a bushfire, which option best demonstrates the skill?",
+    "question": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which choice is the strongest response?",
+    "audioPrompt": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use the map for location, the caption for what the image shows and the paragraph for the explanation, then connect the information.",
-      "Read only the largest element and ignore the others.",
-      "Assume colours mean the same thing without checking the legend."
+      "Replace all technical terms with “stuff”.",
+      "Skip every unfamiliar word.",
+      "Memorise spellings without connecting them to meaning.",
+      "Clarify the meanings and use them to build a more precise understanding of the process."
     ],
-    "correct": 0,
-    "explanation": "Multimodal comprehension combines information carried by words, images and symbols.\nHint: Use each mode for the information it contributes.",
+    "difficulty": 1,
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "Topic-specific vocabulary carries important concepts needed to understand specialised information.\nHint: Identify and clarify words that are central to the topic.",
     "structuredExplanation": {
-      "summary": "Multimodal comprehension combines information carried by words, images and symbols.",
-      "hint": "Use each mode for the information it contributes."
+      "summary": "Topic-specific vocabulary carries important concepts needed to understand specialised information.",
+      "hint": "Identify and clarify words that are central to the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-011",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "topic vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why does “The character probably expects rain because the dark clouds are a clue and the umbrella connects to wet weather.” work well for inferring why a character grabs an umbrella after seeing black clouds?",
-    "audioPrompt": "Why does “The character probably expects rain because the dark clouds are a clue and the umbrella connects to wet weather.” work well for inferring why a character grabs an umbrella after seeing black clouds?",
+    "question": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Why is “Clarify the meanings and use them to build a more precise understanding of the process.” the strongest choice?",
+    "audioPrompt": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Why is “Clarify the meanings and use them to build a more precise understanding of the process.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “The text proves a cyclone will occur.” is always acceptable in this situation.",
-      "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.",
-      "Because the longest or most complicated option must be correct."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Topic-specific vocabulary carries important concepts needed to understand specialised information.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 1,
-    "explanation": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.\nHint: Name the clue and the knowledge you used.",
+    "difficulty": 2,
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "Topic-specific vocabulary carries important concepts needed to understand specialised information.\nHint: Identify and clarify words that are central to the topic.",
     "structuredExplanation": {
-      "summary": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.",
-      "hint": "Name the clue and the knowledge you used."
+      "summary": "Topic-specific vocabulary carries important concepts needed to understand specialised information.",
+      "hint": "Identify and clarify words that are central to the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-012",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "topic vocabulary",
     "printable": true,
     "type": "single",
-    "question": "What makes “The character probably expects rain because the dark clouds are a clue and the umbrella connects to wet weather.” a better choice in inferring why a character grabs an umbrella after seeing black clouds?",
-    "audioPrompt": "What makes “The character probably expects rain because the dark clouds are a clue and the umbrella connects to wet weather.” a better choice in inferring why a character grabs an umbrella after seeing black clouds?",
+    "question": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “The text proves a cyclone will occur.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports."
+      "Memorise spellings without connecting them to meaning.",
+      "Replace all technical terms with “stuff”.",
+      "Clarify the meanings and use them to build a more precise understanding of the process.",
+      "Skip every unfamiliar word."
     ],
-    "correct": 2,
-    "explanation": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.\nHint: Name the clue and the knowledge you used.",
+    "difficulty": 2,
+    "sequencePriority": 12,
+    "correct": 1,
+    "explanation": "“Replace all technical terms with “stuff”.” should be rejected because it does not meet the task as well as the evidence-based choice. Topic-specific vocabulary carries important concepts needed to understand specialised information.\nHint: Identify and clarify words that are central to the topic.",
     "structuredExplanation": {
-      "summary": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.",
-      "hint": "Name the clue and the knowledge you used."
+      "summary": "“Replace all technical terms with “stuff”.” should be rejected because it does not meet the task as well as the evidence-based choice. Topic-specific vocabulary carries important concepts needed to understand specialised information.",
+      "hint": "Identify and clarify words that are central to the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-013",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "topic vocabulary",
     "printable": true,
     "type": "single",
-    "question": "What makes “Mangroves create important habitat in coastal wetlands.” a better choice in finding the main idea of a paragraph about mangrove roots, mud and fish nurseries?",
-    "audioPrompt": "What makes “Mangroves create important habitat in coastal wetlands.” a better choice in finding the main idea of a paragraph about mangrove roots, mud and fish nurseries?",
+    "question": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which revision best improves “Replace all technical terms with “stuff”.”?",
+    "audioPrompt": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which revision best improves “Replace all technical terms with “stuff”.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The main idea connects several supporting details rather than repeating one small fact.",
-      "Because “Mangrove roots are brown.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "Clarify the meanings and use them to build a more precise understanding of the process.",
+      "Replace all technical terms with “stuff”.",
+      "Skip every unfamiliar word.",
+      "Memorise spellings without connecting them to meaning."
     ],
+    "difficulty": 2,
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "The main idea connects several supporting details rather than repeating one small fact.\nHint: Ask what most of the details are explaining.",
+    "explanation": "Topic-specific vocabulary carries important concepts needed to understand specialised information.\nHint: Identify and clarify words that are central to the topic.",
     "structuredExplanation": {
-      "summary": "The main idea connects several supporting details rather than repeating one small fact.",
-      "hint": "Ask what most of the details are explaining."
+      "summary": "Topic-specific vocabulary carries important concepts needed to understand specialised information.",
+      "hint": "Identify and clarify words that are central to the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-014",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "topic vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best justifies “Mangroves create important habitat in coastal wetlands.” for finding the main idea of a paragraph about mangrove roots, mud and fish nurseries?",
-    "audioPrompt": "Which explanation best justifies “Mangroves create important habitat in coastal wetlands.” for finding the main idea of a paragraph about mangrove roots, mud and fish nurseries?",
+    "question": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which clue should guide your decision?",
+    "audioPrompt": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Mangrove roots are brown.” is always acceptable in this situation.",
-      "The main idea connects several supporting details rather than repeating one small fact.",
-      "Because the longest or most complicated option must be correct."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Identify and clarify words that are central to the topic."
     ],
-    "correct": 1,
-    "explanation": "The main idea connects several supporting details rather than repeating one small fact.\nHint: Ask what most of the details are explaining.",
+    "difficulty": 2,
+    "sequencePriority": 14,
+    "correct": 3,
+    "explanation": "Topic-specific vocabulary carries important concepts needed to understand specialised information.\nHint: Identify and clarify words that are central to the topic.",
     "structuredExplanation": {
-      "summary": "The main idea connects several supporting details rather than repeating one small fact.",
-      "hint": "Ask what most of the details are explaining."
+      "summary": "Topic-specific vocabulary carries important concepts needed to understand specialised information.",
+      "hint": "Identify and clarify words that are central to the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-015",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "topic vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best justifies “Batteries contain materials that can be recovered, so they should go to special collection points rather than household bins.” for summarising a short article about recycling batteries?",
-    "audioPrompt": "Which explanation best justifies “Batteries contain materials that can be recovered, so they should go to special collection points rather than household bins.” for summarising a short article about recycling batteries?",
+    "question": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? A student chooses “Skip every unfamiliar word.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? A student chooses “Skip every unfamiliar word.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Batteries. Collection. Bins.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "A summary keeps the central ideas and removes unnecessary detail."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Identify and clarify words that are central to the topic.",
+      "Keep the answer because first choices should never change."
     ],
+    "difficulty": 3,
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "A summary keeps the central ideas and removes unnecessary detail.\nHint: State the key message in fewer words.",
+    "explanation": "Topic-specific vocabulary carries important concepts needed to understand specialised information.\nHint: Identify and clarify words that are central to the topic.",
     "structuredExplanation": {
-      "summary": "A summary keeps the central ideas and removes unnecessary detail.",
-      "hint": "State the key message in fewer words."
+      "summary": "Topic-specific vocabulary carries important concepts needed to understand specialised information.",
+      "hint": "Identify and clarify words that are central to the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-016",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "topic vocabulary",
     "printable": true,
     "type": "single",
-    "question": "What should you notice about “Batteries contain materials that can be recovered, so they should go to special collection points rather than household bins.” in summarising a short article about recycling batteries?",
-    "audioPrompt": "What should you notice about “Batteries contain materials that can be recovered, so they should go to special collection points rather than household bins.” in summarising a short article about recycling batteries?",
+    "question": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "In a text about pollination, the words “pollen”, “stigma” and “nectar” appear repeatedly. What should a reader do with this topic vocabulary? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "A summary keeps the central ideas and removes unnecessary detail.",
-      "Because “Batteries. Collection. Bins.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "Memorise spellings without connecting them to meaning.",
+      "Clarify the meanings and use them to build a more precise understanding of the process.",
+      "Replace all technical terms with “stuff”.",
+      "Skip every unfamiliar word."
     ],
-    "correct": 0,
-    "explanation": "A summary keeps the central ideas and removes unnecessary detail.\nHint: State the key message in fewer words.",
+    "difficulty": 3,
+    "sequencePriority": 16,
+    "correct": 1,
+    "explanation": "Topic-specific vocabulary carries important concepts needed to understand specialised information.\nHint: Identify and clarify words that are central to the topic.",
     "structuredExplanation": {
-      "summary": "A summary keeps the central ideas and removes unnecessary detail.",
-      "hint": "State the key message in fewer words."
+      "summary": "Topic-specific vocabulary carries important concepts needed to understand specialised information.",
+      "hint": "Identify and clarify words that are central to the topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -388,23 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-017",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "main and supporting ideas",
     "printable": true,
     "type": "single",
-    "question": "What should you notice about “The evidence is too weak because one student’s preference does not show what the whole school needs.” in evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
-    "audioPrompt": "What should you notice about “The evidence is too weak because one student’s preference does not show what the whole school needs.” in evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
+    "question": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which option best demonstrates the skill?",
+    "audioPrompt": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “The claim is proven because any example counts as enough evidence.” is always acceptable in this situation.",
-      "Evidence should be relevant and strong enough for the size of the claim.",
-      "Because the longest or most complicated option must be correct."
+      "City trees can lower street temperatures in more than one way.",
+      "Water vapour is invisible.",
+      "Some streets have traffic.",
+      "Shade can occur at lunchtime."
     ],
-    "correct": 1,
-    "explanation": "Evidence should be relevant and strong enough for the size of the claim.\nHint: Ask whether the evidence represents the people or issue being discussed.",
+    "difficulty": 1,
+    "sequencePriority": 17,
+    "correct": 0,
+    "explanation": "A main idea captures the central point supported by the paragraph’s details.\nHint: Combine the supporting details into the broader point they explain.",
     "structuredExplanation": {
-      "summary": "Evidence should be relevant and strong enough for the size of the claim.",
-      "hint": "Ask whether the evidence represents the people or issue being discussed."
+      "summary": "A main idea captures the central point supported by the paragraph’s details.",
+      "hint": "Combine the supporting details into the broader point they explain."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,23 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-018",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "main and supporting ideas",
     "printable": true,
     "type": "single",
-    "question": "Which reason explains why “The evidence is too weak because one student’s preference does not show what the whole school needs.” suits evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
-    "audioPrompt": "Which reason explains why “The evidence is too weak because one student’s preference does not show what the whole school needs.” suits evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
+    "question": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which choice is the strongest response?",
+    "audioPrompt": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “The claim is proven because any example counts as enough evidence.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Evidence should be relevant and strong enough for the size of the claim."
+      "Water vapour is invisible.",
+      "Some streets have traffic.",
+      "Shade can occur at lunchtime.",
+      "City trees can lower street temperatures in more than one way."
     ],
-    "correct": 2,
-    "explanation": "Evidence should be relevant and strong enough for the size of the claim.\nHint: Ask whether the evidence represents the people or issue being discussed.",
+    "difficulty": 1,
+    "sequencePriority": 18,
+    "correct": 3,
+    "explanation": "A main idea captures the central point supported by the paragraph’s details.\nHint: Combine the supporting details into the broader point they explain.",
     "structuredExplanation": {
-      "summary": "Evidence should be relevant and strong enough for the size of the claim.",
-      "hint": "Ask whether the evidence represents the people or issue being discussed."
+      "summary": "A main idea captures the central point supported by the paragraph’s details.",
+      "hint": "Combine the supporting details into the broader point they explain."
     },
     "qualitySchema": "production-v1"
   },
@@ -436,23 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-019",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "main and supporting ideas",
     "printable": true,
     "type": "single",
-    "question": "Which reason explains why “Use the map for location, the caption for what the image shows and the paragraph for the explanation, then connect the information.” suits combining a map, caption and paragraph about a bushfire?",
-    "audioPrompt": "Which reason explains why “Use the map for location, the caption for what the image shows and the paragraph for the explanation, then connect the information.” suits combining a map, caption and paragraph about a bushfire?",
+    "question": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Why is “City trees can lower street temperatures in more than one way.” the strongest choice?",
+    "audioPrompt": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Why is “City trees can lower street temperatures in more than one way.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Multimodal comprehension combines information carried by words, images and symbols.",
-      "Because “Read only the largest element and ignore the others.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "A main idea captures the central point supported by the paragraph’s details.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 0,
-    "explanation": "Multimodal comprehension combines information carried by words, images and symbols.\nHint: Use each mode for the information it contributes.",
+    "difficulty": 2,
+    "sequencePriority": 19,
+    "correct": 2,
+    "explanation": "A main idea captures the central point supported by the paragraph’s details.\nHint: Combine the supporting details into the broader point they explain.",
     "structuredExplanation": {
-      "summary": "Multimodal comprehension combines information carried by words, images and symbols.",
-      "hint": "Use each mode for the information it contributes."
+      "summary": "A main idea captures the central point supported by the paragraph’s details.",
+      "hint": "Combine the supporting details into the broader point they explain."
     },
     "qualitySchema": "production-v1"
   },
@@ -460,23 +593,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-020",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "main and supporting ideas",
     "printable": true,
     "type": "single",
-    "question": "Why does “Use the map for location, the caption for what the image shows and the paragraph for the explanation, then connect the information.” work well for combining a map, caption and paragraph about a bushfire?",
-    "audioPrompt": "Why does “Use the map for location, the caption for what the image shows and the paragraph for the explanation, then connect the information.” work well for combining a map, caption and paragraph about a bushfire?",
+    "question": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Read only the largest element and ignore the others.” is always acceptable in this situation.",
-      "Multimodal comprehension combines information carried by words, images and symbols.",
-      "Because the longest or most complicated option must be correct."
+      "Shade can occur at lunchtime.",
+      "Water vapour is invisible.",
+      "City trees can lower street temperatures in more than one way.",
+      "Some streets have traffic."
     ],
+    "difficulty": 2,
+    "sequencePriority": 20,
     "correct": 1,
-    "explanation": "Multimodal comprehension combines information carried by words, images and symbols.\nHint: Use each mode for the information it contributes.",
+    "explanation": "“Water vapour is invisible.” should be rejected because it does not meet the task as well as the evidence-based choice. A main idea captures the central point supported by the paragraph’s details.\nHint: Combine the supporting details into the broader point they explain.",
     "structuredExplanation": {
-      "summary": "Multimodal comprehension combines information carried by words, images and symbols.",
-      "hint": "Use each mode for the information it contributes."
+      "summary": "“Water vapour is invisible.” should be rejected because it does not meet the task as well as the evidence-based choice. A main idea captures the central point supported by the paragraph’s details.",
+      "hint": "Combine the supporting details into the broader point they explain."
     },
     "qualitySchema": "production-v1"
   },
@@ -484,23 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-021",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "main and supporting ideas",
     "printable": true,
     "type": "single",
-    "question": "Which revision best fixes the problem in “The text proves a cyclone will occur.” for inferring why a character grabs an umbrella after seeing black clouds?",
-    "audioPrompt": "Which revision best fixes the problem in “The text proves a cyclone will occur.” for inferring why a character grabs an umbrella after seeing black clouds?",
+    "question": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which revision best improves “Water vapour is invisible.”?",
+    "audioPrompt": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which revision best improves “Water vapour is invisible.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The text proves a cyclone will occur.",
-      "The character dislikes umbrellas.",
-      "The character probably expects rain because the dark clouds are a clue and the umbrella connects to wet weather."
+      "City trees can lower street temperatures in more than one way.",
+      "Water vapour is invisible.",
+      "Some streets have traffic.",
+      "Shade can occur at lunchtime."
     ],
-    "correct": 2,
-    "explanation": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Name the clue and the knowledge you used.",
+    "difficulty": 2,
+    "sequencePriority": 21,
+    "correct": 0,
+    "explanation": "A main idea captures the central point supported by the paragraph’s details.\nHint: Combine the supporting details into the broader point they explain.",
     "structuredExplanation": {
-      "summary": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Name the clue and the knowledge you used."
+      "summary": "A main idea captures the central point supported by the paragraph’s details.",
+      "hint": "Combine the supporting details into the broader point they explain."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,23 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-022",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "main and supporting ideas",
     "printable": true,
     "type": "single",
-    "question": "Compare the choices for inferring why a character grabs an umbrella after seeing black clouds. Which one avoids the mistake in “The text proves a cyclone will occur.”?",
-    "audioPrompt": "Compare the choices for inferring why a character grabs an umbrella after seeing black clouds. Which one avoids the mistake in “The text proves a cyclone will occur.”?",
+    "question": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which clue should guide your decision?",
+    "audioPrompt": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The character probably expects rain because the dark clouds are a clue and the umbrella connects to wet weather.",
-      "The text proves a cyclone will occur.",
-      "The character dislikes umbrellas."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Combine the supporting details into the broader point they explain."
     ],
-    "correct": 0,
-    "explanation": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Name the clue and the knowledge you used.",
+    "difficulty": 2,
+    "sequencePriority": 22,
+    "correct": 3,
+    "explanation": "A main idea captures the central point supported by the paragraph’s details.\nHint: Combine the supporting details into the broader point they explain.",
     "structuredExplanation": {
-      "summary": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Name the clue and the knowledge you used."
+      "summary": "A main idea captures the central point supported by the paragraph’s details.",
+      "hint": "Combine the supporting details into the broader point they explain."
     },
     "qualitySchema": "production-v1"
   },
@@ -532,23 +686,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-023",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "main and supporting ideas",
     "printable": true,
     "type": "single",
-    "question": "Compare the choices for finding the main idea of a paragraph about mangrove roots, mud and fish nurseries. Which one avoids the mistake in “Mangrove roots are brown.”?",
-    "audioPrompt": "Compare the choices for finding the main idea of a paragraph about mangrove roots, mud and fish nurseries. Which one avoids the mistake in “Mangrove roots are brown.”?",
+    "question": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? A student chooses “Some streets have traffic.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? A student chooses “Some streets have traffic.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Mangrove roots are brown.",
-      "Mangroves create important habitat in coastal wetlands.",
-      "One fish swam past a root."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Combine the supporting details into the broader point they explain.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 1,
-    "explanation": "The main idea connects several supporting details rather than repeating one small fact. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what most of the details are explaining.",
+    "difficulty": 3,
+    "sequencePriority": 23,
+    "correct": 2,
+    "explanation": "A main idea captures the central point supported by the paragraph’s details.\nHint: Combine the supporting details into the broader point they explain.",
     "structuredExplanation": {
-      "summary": "The main idea connects several supporting details rather than repeating one small fact. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what most of the details are explaining."
+      "summary": "A main idea captures the central point supported by the paragraph’s details.",
+      "hint": "Combine the supporting details into the broader point they explain."
     },
     "qualitySchema": "production-v1"
   },
@@ -556,23 +717,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-024",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "main and supporting ideas",
     "printable": true,
     "type": "single",
-    "question": "If “Mangrove roots are brown.” does not work in finding the main idea of a paragraph about mangrove roots, mud and fish nurseries, what should replace it?",
-    "audioPrompt": "If “Mangrove roots are brown.” does not work in finding the main idea of a paragraph about mangrove roots, mud and fish nurseries, what should replace it?",
+    "question": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A paragraph explains that city trees cool streets by providing shade and releasing water vapour. Which statement is the main idea? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Mangrove roots are brown.",
-      "One fish swam past a root.",
-      "Mangroves create important habitat in coastal wetlands."
+      "Shade can occur at lunchtime.",
+      "City trees can lower street temperatures in more than one way.",
+      "Water vapour is invisible.",
+      "Some streets have traffic."
     ],
-    "correct": 2,
-    "explanation": "The main idea connects several supporting details rather than repeating one small fact. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what most of the details are explaining.",
+    "difficulty": 3,
+    "sequencePriority": 24,
+    "correct": 1,
+    "explanation": "A main idea captures the central point supported by the paragraph’s details.\nHint: Combine the supporting details into the broader point they explain.",
     "structuredExplanation": {
-      "summary": "The main idea connects several supporting details rather than repeating one small fact. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what most of the details are explaining."
+      "summary": "A main idea captures the central point supported by the paragraph’s details.",
+      "hint": "Combine the supporting details into the broader point they explain."
     },
     "qualitySchema": "production-v1"
   },
@@ -580,23 +748,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-025",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate evidence and reasoning",
     "printable": true,
     "type": "single",
-    "question": "If “Batteries. Collection. Bins.” does not work in summarising a short article about recycling batteries, what should replace it?",
-    "audioPrompt": "If “Batteries. Collection. Bins.” does not work in summarising a short article about recycling batteries, what should replace it?",
+    "question": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which option best demonstrates the skill?",
+    "audioPrompt": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Batteries contain materials that can be recovered, so they should go to special collection points rather than household bins.",
-      "Batteries. Collection. Bins.",
-      "Copy every sentence from the article."
+      "The claim may be reasonable, but the evidence is weak until a reliable source or specific data supports it.",
+      "The argument is proven because it sounds sensible.",
+      "No evidence is needed for school decisions.",
+      "The claim must be false because no number is supplied."
     ],
+    "difficulty": 1,
+    "sequencePriority": 25,
     "correct": 0,
-    "explanation": "A summary keeps the central ideas and removes unnecessary detail. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: State the key message in fewer words.",
+    "explanation": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.\nHint: Separate the claim from the quality of the evidence offered for it.",
     "structuredExplanation": {
-      "summary": "A summary keeps the central ideas and removes unnecessary detail. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "State the key message in fewer words."
+      "summary": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.",
+      "hint": "Separate the claim from the quality of the evidence offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -604,23 +779,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-026",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate evidence and reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which option corrects the meaning or form needed for summarising a short article about recycling batteries?",
-    "audioPrompt": "Which option corrects the meaning or form needed for summarising a short article about recycling batteries?",
+    "question": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which choice is the strongest response?",
+    "audioPrompt": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Batteries. Collection. Bins.",
-      "Batteries contain materials that can be recovered, so they should go to special collection points rather than household bins.",
-      "Copy every sentence from the article."
+      "The argument is proven because it sounds sensible.",
+      "No evidence is needed for school decisions.",
+      "The claim must be false because no number is supplied.",
+      "The claim may be reasonable, but the evidence is weak until a reliable source or specific data supports it."
     ],
-    "correct": 1,
-    "explanation": "A summary keeps the central ideas and removes unnecessary detail. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: State the key message in fewer words.",
+    "difficulty": 1,
+    "sequencePriority": 26,
+    "correct": 3,
+    "explanation": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.\nHint: Separate the claim from the quality of the evidence offered for it.",
     "structuredExplanation": {
-      "summary": "A summary keeps the central ideas and removes unnecessary detail. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "State the key message in fewer words."
+      "summary": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.",
+      "hint": "Separate the claim from the quality of the evidence offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -628,23 +810,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-027",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate evidence and reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which option corrects the meaning or form needed for evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
-    "audioPrompt": "Which option corrects the meaning or form needed for evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
+    "question": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Why is “The claim may be reasonable, but the evidence is weak until a reliable source or specific data supports it.” the strongest choice?",
+    "audioPrompt": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Why is “The claim may be reasonable, but the evidence is weak until a reliable source or specific data supports it.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The claim is proven because any example counts as enough evidence.",
-      "The claim must be true because fruit is mentioned.",
-      "The evidence is too weak because one student’s preference does not show what the whole school needs."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.",
+      "It is longest, so it must be correct."
     ],
+    "difficulty": 2,
+    "sequencePriority": 27,
     "correct": 2,
-    "explanation": "Evidence should be relevant and strong enough for the size of the claim. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask whether the evidence represents the people or issue being discussed.",
+    "explanation": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.\nHint: Separate the claim from the quality of the evidence offered for it.",
     "structuredExplanation": {
-      "summary": "Evidence should be relevant and strong enough for the size of the claim. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask whether the evidence represents the people or issue being discussed."
+      "summary": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.",
+      "hint": "Separate the claim from the quality of the evidence offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -652,23 +841,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-028",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate evidence and reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which choice is the clearest correction for evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
-    "audioPrompt": "Which choice is the clearest correction for evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
+    "question": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The evidence is too weak because one student’s preference does not show what the whole school needs.",
-      "The claim is proven because any example counts as enough evidence.",
-      "The claim must be true because fruit is mentioned."
+      "The claim must be false because no number is supplied.",
+      "The argument is proven because it sounds sensible.",
+      "The claim may be reasonable, but the evidence is weak until a reliable source or specific data supports it.",
+      "No evidence is needed for school decisions."
     ],
-    "correct": 0,
-    "explanation": "Evidence should be relevant and strong enough for the size of the claim. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask whether the evidence represents the people or issue being discussed.",
+    "difficulty": 2,
+    "sequencePriority": 28,
+    "correct": 1,
+    "explanation": "“The argument is proven because it sounds sensible.” should be rejected because it does not meet the task as well as the evidence-based choice. Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.\nHint: Separate the claim from the quality of the evidence offered for it.",
     "structuredExplanation": {
-      "summary": "Evidence should be relevant and strong enough for the size of the claim. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask whether the evidence represents the people or issue being discussed."
+      "summary": "“The argument is proven because it sounds sensible.” should be rejected because it does not meet the task as well as the evidence-based choice. Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.",
+      "hint": "Separate the claim from the quality of the evidence offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -676,23 +872,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-029",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate evidence and reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which choice is the clearest correction for combining a map, caption and paragraph about a bushfire?",
-    "audioPrompt": "Which choice is the clearest correction for combining a map, caption and paragraph about a bushfire?",
+    "question": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which revision best improves “The argument is proven because it sounds sensible.”?",
+    "audioPrompt": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which revision best improves “The argument is proven because it sounds sensible.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read only the largest element and ignore the others.",
-      "Use the map for location, the caption for what the image shows and the paragraph for the explanation, then connect the information.",
-      "Assume colours mean the same thing without checking the legend."
+      "The claim may be reasonable, but the evidence is weak until a reliable source or specific data supports it.",
+      "The argument is proven because it sounds sensible.",
+      "No evidence is needed for school decisions.",
+      "The claim must be false because no number is supplied."
     ],
-    "correct": 1,
-    "explanation": "Multimodal comprehension combines information carried by words, images and symbols. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use each mode for the information it contributes.",
+    "difficulty": 2,
+    "sequencePriority": 29,
+    "correct": 0,
+    "explanation": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.\nHint: Separate the claim from the quality of the evidence offered for it.",
     "structuredExplanation": {
-      "summary": "Multimodal comprehension combines information carried by words, images and symbols. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use each mode for the information it contributes."
+      "summary": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.",
+      "hint": "Separate the claim from the quality of the evidence offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -700,23 +903,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-030",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate evidence and reasoning",
     "printable": true,
     "type": "single",
-    "question": "Which revision best fixes the problem in “Read only the largest element and ignore the others.” for combining a map, caption and paragraph about a bushfire?",
-    "audioPrompt": "Which revision best fixes the problem in “Read only the largest element and ignore the others.” for combining a map, caption and paragraph about a bushfire?",
+    "question": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which clue should guide your decision?",
+    "audioPrompt": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Read only the largest element and ignore the others.",
-      "Assume colours mean the same thing without checking the legend.",
-      "Use the map for location, the caption for what the image shows and the paragraph for the explanation, then connect the information."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Separate the claim from the quality of the evidence offered for it."
     ],
-    "correct": 2,
-    "explanation": "Multimodal comprehension combines information carried by words, images and symbols. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Use each mode for the information it contributes.",
+    "difficulty": 2,
+    "sequencePriority": 30,
+    "correct": 3,
+    "explanation": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.\nHint: Separate the claim from the quality of the evidence offered for it.",
     "structuredExplanation": {
-      "summary": "Multimodal comprehension combines information carried by words, images and symbols. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Use each mode for the information it contributes."
+      "summary": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.",
+      "hint": "Separate the claim from the quality of the evidence offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -724,23 +934,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-031",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate evidence and reasoning",
     "printable": true,
     "type": "single",
-    "question": "You now need to handle inferring why a character grabs an umbrella after seeing black clouds independently. Which choice should you use?",
-    "audioPrompt": "You now need to handle inferring why a character grabs an umbrella after seeing black clouds independently. Which choice should you use?",
+    "question": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? A student chooses “No evidence is needed for school decisions.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? A student chooses “No evidence is needed for school decisions.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The character probably expects rain because the dark clouds are a clue and the umbrella connects to wet weather.",
-      "The character dislikes umbrellas.",
-      "The text proves a cyclone will occur."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Separate the claim from the quality of the evidence offered for it.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 0,
-    "explanation": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.\nHint: Name the clue and the knowledge you used.",
+    "difficulty": 3,
+    "sequencePriority": 31,
+    "correct": 2,
+    "explanation": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.\nHint: Separate the claim from the quality of the evidence offered for it.",
     "structuredExplanation": {
-      "summary": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.",
-      "hint": "Name the clue and the knowledge you used."
+      "summary": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.",
+      "hint": "Separate the claim from the quality of the evidence offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -748,23 +965,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-032",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate evidence and reasoning",
     "printable": true,
     "type": "single",
-    "question": "Apply the same idea to inferring why a character grabs an umbrella after seeing black clouds. Which option is best?",
-    "audioPrompt": "Apply the same idea to inferring why a character grabs an umbrella after seeing black clouds. Which option is best?",
+    "question": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "An article argues that the school should install bottle-refill stations. It says students use many disposable bottles, but gives no source or count. How should a reader evaluate the evidence? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The character dislikes umbrellas.",
-      "The character probably expects rain because the dark clouds are a clue and the umbrella connects to wet weather.",
-      "The text proves a cyclone will occur."
+      "The claim must be false because no number is supplied.",
+      "The claim may be reasonable, but the evidence is weak until a reliable source or specific data supports it.",
+      "The argument is proven because it sounds sensible.",
+      "No evidence is needed for school decisions."
     ],
+    "difficulty": 3,
+    "sequencePriority": 32,
     "correct": 1,
-    "explanation": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.\nHint: Name the clue and the knowledge you used.",
+    "explanation": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.\nHint: Separate the claim from the quality of the evidence offered for it.",
     "structuredExplanation": {
-      "summary": "An inference combines a text clue with relevant knowledge without claiming more than the evidence supports.",
-      "hint": "Name the clue and the knowledge you used."
+      "summary": "Readers evaluate whether evidence is relevant, sufficient and supported by reliable sources.",
+      "hint": "Separate the claim from the quality of the evidence offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -772,23 +996,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-033",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "monitor and self-correct comprehension",
     "printable": true,
     "type": "single",
-    "question": "Apply the same idea to finding the main idea of a paragraph about mangrove roots, mud and fish nurseries. Which option is best?",
-    "audioPrompt": "Apply the same idea to finding the main idea of a paragraph about mangrove roots, mud and fish nurseries. Which option is best?",
+    "question": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which option best demonstrates the skill?",
+    "audioPrompt": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "One fish swam past a root.",
-      "Mangrove roots are brown.",
-      "Mangroves create important habitat in coastal wetlands."
+      "Pause, re-read the relevant sentence, check the context or glossary, then continue when the meaning is clear.",
+      "Continue reading faster.",
+      "Guess and never check.",
+      "Restart the whole book even if only one term is unclear."
     ],
-    "correct": 2,
-    "explanation": "The main idea connects several supporting details rather than repeating one small fact.\nHint: Ask what most of the details are explaining.",
+    "difficulty": 1,
+    "sequencePriority": 33,
+    "correct": 0,
+    "explanation": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.\nHint: Notice confusion early and choose the smallest useful repair strategy.",
     "structuredExplanation": {
-      "summary": "The main idea connects several supporting details rather than repeating one small fact.",
-      "hint": "Ask what most of the details are explaining."
+      "summary": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.",
+      "hint": "Notice confusion early and choose the smallest useful repair strategy."
     },
     "qualitySchema": "production-v1"
   },
@@ -796,23 +1027,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-034",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "monitor and self-correct comprehension",
     "printable": true,
     "type": "single",
-    "question": "Which decision would produce the clearest result in finding the main idea of a paragraph about mangrove roots, mud and fish nurseries?",
-    "audioPrompt": "Which decision would produce the clearest result in finding the main idea of a paragraph about mangrove roots, mud and fish nurseries?",
+    "question": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which choice is the strongest response?",
+    "audioPrompt": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Mangroves create important habitat in coastal wetlands.",
-      "One fish swam past a root.",
-      "Mangrove roots are brown."
+      "Continue reading faster.",
+      "Guess and never check.",
+      "Restart the whole book even if only one term is unclear.",
+      "Pause, re-read the relevant sentence, check the context or glossary, then continue when the meaning is clear."
     ],
-    "correct": 0,
-    "explanation": "The main idea connects several supporting details rather than repeating one small fact.\nHint: Ask what most of the details are explaining.",
+    "difficulty": 1,
+    "sequencePriority": 34,
+    "correct": 3,
+    "explanation": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.\nHint: Notice confusion early and choose the smallest useful repair strategy.",
     "structuredExplanation": {
-      "summary": "The main idea connects several supporting details rather than repeating one small fact.",
-      "hint": "Ask what most of the details are explaining."
+      "summary": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.",
+      "hint": "Notice confusion early and choose the smallest useful repair strategy."
     },
     "qualitySchema": "production-v1"
   },
@@ -820,23 +1058,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-035",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "monitor and self-correct comprehension",
     "printable": true,
     "type": "single",
-    "question": "Which decision would produce the clearest result in summarising a short article about recycling batteries?",
-    "audioPrompt": "Which decision would produce the clearest result in summarising a short article about recycling batteries?",
+    "question": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Why is “Pause, re-read the relevant sentence, check the context or glossary, then continue when the meaning is clear.” the strongest choice?",
+    "audioPrompt": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Why is “Pause, re-read the relevant sentence, check the context or glossary, then continue when the meaning is clear.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Copy every sentence from the article.",
-      "Batteries contain materials that can be recovered, so they should go to special collection points rather than household bins.",
-      "Batteries. Collection. Bins."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 1,
-    "explanation": "A summary keeps the central ideas and removes unnecessary detail.\nHint: State the key message in fewer words.",
+    "difficulty": 2,
+    "sequencePriority": 35,
+    "correct": 2,
+    "explanation": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.\nHint: Notice confusion early and choose the smallest useful repair strategy.",
     "structuredExplanation": {
-      "summary": "A summary keeps the central ideas and removes unnecessary detail.",
-      "hint": "State the key message in fewer words."
+      "summary": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.",
+      "hint": "Notice confusion early and choose the smallest useful repair strategy."
     },
     "qualitySchema": "production-v1"
   },
@@ -844,23 +1089,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-036",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "monitor and self-correct comprehension",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that applies the skill correctly in summarising a short article about recycling batteries.",
-    "audioPrompt": "Choose the option that applies the skill correctly in summarising a short article about recycling batteries.",
+    "question": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Copy every sentence from the article.",
-      "Batteries. Collection. Bins.",
-      "Batteries contain materials that can be recovered, so they should go to special collection points rather than household bins."
+      "Restart the whole book even if only one term is unclear.",
+      "Continue reading faster.",
+      "Pause, re-read the relevant sentence, check the context or glossary, then continue when the meaning is clear.",
+      "Guess and never check."
     ],
-    "correct": 2,
-    "explanation": "A summary keeps the central ideas and removes unnecessary detail.\nHint: State the key message in fewer words.",
+    "difficulty": 2,
+    "sequencePriority": 36,
+    "correct": 1,
+    "explanation": "“Continue reading faster.” should be rejected because it does not meet the task as well as the evidence-based choice. Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.\nHint: Notice confusion early and choose the smallest useful repair strategy.",
     "structuredExplanation": {
-      "summary": "A summary keeps the central ideas and removes unnecessary detail.",
-      "hint": "State the key message in fewer words."
+      "summary": "“Continue reading faster.” should be rejected because it does not meet the task as well as the evidence-based choice. Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.",
+      "hint": "Notice confusion early and choose the smallest useful repair strategy."
     },
     "qualitySchema": "production-v1"
   },
@@ -868,23 +1120,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-037",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "monitor and self-correct comprehension",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that applies the skill correctly in evaluating the claim “Our canteen should sell only fruit because one student likes apples”.",
-    "audioPrompt": "Choose the option that applies the skill correctly in evaluating the claim “Our canteen should sell only fruit because one student likes apples”.",
+    "question": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which revision best improves “Continue reading faster.”?",
+    "audioPrompt": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which revision best improves “Continue reading faster.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The evidence is too weak because one student’s preference does not show what the whole school needs.",
-      "The claim must be true because fruit is mentioned.",
-      "The claim is proven because any example counts as enough evidence."
+      "Pause, re-read the relevant sentence, check the context or glossary, then continue when the meaning is clear.",
+      "Continue reading faster.",
+      "Guess and never check.",
+      "Restart the whole book even if only one term is unclear."
     ],
+    "difficulty": 2,
+    "sequencePriority": 37,
     "correct": 0,
-    "explanation": "Evidence should be relevant and strong enough for the size of the claim.\nHint: Ask whether the evidence represents the people or issue being discussed.",
+    "explanation": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.\nHint: Notice confusion early and choose the smallest useful repair strategy.",
     "structuredExplanation": {
-      "summary": "Evidence should be relevant and strong enough for the size of the claim.",
-      "hint": "Ask whether the evidence represents the people or issue being discussed."
+      "summary": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.",
+      "hint": "Notice confusion early and choose the smallest useful repair strategy."
     },
     "qualitySchema": "production-v1"
   },
@@ -892,23 +1151,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-038",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "monitor and self-correct comprehension",
     "printable": true,
     "type": "single",
-    "question": "What would be the most effective choice for evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
-    "audioPrompt": "What would be the most effective choice for evaluating the claim “Our canteen should sell only fruit because one student likes apples”?",
+    "question": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which clue should guide your decision?",
+    "audioPrompt": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The claim must be true because fruit is mentioned.",
-      "The evidence is too weak because one student’s preference does not show what the whole school needs.",
-      "The claim is proven because any example counts as enough evidence."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Notice confusion early and choose the smallest useful repair strategy."
     ],
-    "correct": 1,
-    "explanation": "Evidence should be relevant and strong enough for the size of the claim.\nHint: Ask whether the evidence represents the people or issue being discussed.",
+    "difficulty": 2,
+    "sequencePriority": 38,
+    "correct": 3,
+    "explanation": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.\nHint: Notice confusion early and choose the smallest useful repair strategy.",
     "structuredExplanation": {
-      "summary": "Evidence should be relevant and strong enough for the size of the claim.",
-      "hint": "Ask whether the evidence represents the people or issue being discussed."
+      "summary": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.",
+      "hint": "Notice confusion early and choose the smallest useful repair strategy."
     },
     "qualitySchema": "production-v1"
   },
@@ -916,23 +1182,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-039",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "monitor and self-correct comprehension",
     "printable": true,
     "type": "single",
-    "question": "What would be the most effective choice for combining a map, caption and paragraph about a bushfire?",
-    "audioPrompt": "What would be the most effective choice for combining a map, caption and paragraph about a bushfire?",
+    "question": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? A student chooses “Guess and never check.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? A student chooses “Guess and never check.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Assume colours mean the same thing without checking the legend.",
-      "Read only the largest element and ignore the others.",
-      "Use the map for location, the caption for what the image shows and the paragraph for the explanation, then connect the information."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Notice confusion early and choose the smallest useful repair strategy.",
+      "Keep the answer because first choices should never change."
     ],
+    "difficulty": 3,
+    "sequencePriority": 39,
     "correct": 2,
-    "explanation": "Multimodal comprehension combines information carried by words, images and symbols.\nHint: Use each mode for the information it contributes.",
+    "explanation": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.\nHint: Notice confusion early and choose the smallest useful repair strategy.",
     "structuredExplanation": {
-      "summary": "Multimodal comprehension combines information carried by words, images and symbols.",
-      "hint": "Use each mode for the information it contributes."
+      "summary": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.",
+      "hint": "Notice confusion early and choose the smallest useful repair strategy."
     },
     "qualitySchema": "production-v1"
   },
@@ -940,23 +1213,278 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly05-p-040",
     "curriculumCode": "AC9E4LY05",
     "bank": "practice",
-    "skill": "Comprehension Strategies",
+    "skill": "monitor and self-correct comprehension",
     "printable": true,
     "type": "single",
-    "question": "You now need to handle combining a map, caption and paragraph about a bushfire independently. Which choice should you use?",
-    "audioPrompt": "You now need to handle combining a map, caption and paragraph about a bushfire independently. Which choice should you use?",
+    "question": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A reader finishes a paragraph but realises they cannot explain what “evaporation” means in the passage. What is the best monitoring strategy? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use the map for location, the caption for what the image shows and the paragraph for the explanation, then connect the information.",
-      "Assume colours mean the same thing without checking the legend.",
-      "Read only the largest element and ignore the others."
+      "Restart the whole book even if only one term is unclear.",
+      "Pause, re-read the relevant sentence, check the context or glossary, then continue when the meaning is clear.",
+      "Continue reading faster.",
+      "Guess and never check."
     ],
-    "correct": 0,
-    "explanation": "Multimodal comprehension combines information carried by words, images and symbols.\nHint: Use each mode for the information it contributes.",
+    "difficulty": 3,
+    "sequencePriority": 40,
+    "correct": 1,
+    "explanation": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.\nHint: Notice confusion early and choose the smallest useful repair strategy.",
     "structuredExplanation": {
-      "summary": "Multimodal comprehension combines information carried by words, images and symbols.",
-      "hint": "Use each mode for the information it contributes."
+      "summary": "Self-monitoring means noticing a breakdown in understanding and choosing a targeted strategy to repair it.",
+      "hint": "Notice confusion early and choose the smallest useful repair strategy."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly05-p-041",
+    "curriculumCode": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "source-based interpretation of visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which option best demonstrates the skill?",
+    "audioPrompt": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use the source notes to discuss how the repeated visual choices contribute to meaning in this specific work, without assuming they mean the same thing across all First Nations cultures.",
+      "Assume every similar colour has one universal Indigenous meaning.",
+      "Ignore the illustrator’s context and invent a symbolic meaning.",
+      "Treat the visual pattern as decoration only because it is not written text."
+    ],
+    "difficulty": 1,
+    "sequencePriority": 41,
+    "correct": 0,
+    "explanation": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.\nHint: Ground interpretation in the named creator, text and source context.",
+    "structuredExplanation": {
+      "summary": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.",
+      "hint": "Ground interpretation in the named creator, text and source context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly05-p-042",
+    "curriculumCode": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "source-based interpretation of visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which choice is the strongest response?",
+    "audioPrompt": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which choice is the strongest response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Assume every similar colour has one universal Indigenous meaning.",
+      "Ignore the illustrator’s context and invent a symbolic meaning.",
+      "Treat the visual pattern as decoration only because it is not written text.",
+      "Use the source notes to discuss how the repeated visual choices contribute to meaning in this specific work, without assuming they mean the same thing across all First Nations cultures."
+    ],
+    "difficulty": 1,
+    "sequencePriority": 42,
+    "correct": 3,
+    "explanation": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.\nHint: Ground interpretation in the named creator, text and source context.",
+    "structuredExplanation": {
+      "summary": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.",
+      "hint": "Ground interpretation in the named creator, text and source context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly05-p-043",
+    "curriculumCode": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "source-based interpretation of visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Why is “Use the source notes to discuss how the repeated visual choices contribute to meaning in this specific work, without assuming they mean the same thing across all First Nations cultures.” the strongest choice?",
+    "audioPrompt": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Why is “Use the source notes to discuss how the repeated visual choices contribute to meaning in this specific work, without assuming they mean the same thing across all First Nations cultures.” the strongest choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.",
+      "It is longest, so it must be correct."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 43,
+    "correct": 2,
+    "explanation": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.\nHint: Ground interpretation in the named creator, text and source context.",
+    "structuredExplanation": {
+      "summary": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.",
+      "hint": "Ground interpretation in the named creator, text and source context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly05-p-044",
+    "curriculumCode": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "source-based interpretation of visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Treat the visual pattern as decoration only because it is not written text.",
+      "Assume every similar colour has one universal Indigenous meaning.",
+      "Use the source notes to discuss how the repeated visual choices contribute to meaning in this specific work, without assuming they mean the same thing across all First Nations cultures.",
+      "Ignore the illustrator’s context and invent a symbolic meaning."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 44,
+    "correct": 1,
+    "explanation": "“Assume every similar colour has one universal Indigenous meaning.” should be rejected because it does not meet the task as well as the evidence-based choice. Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.\nHint: Ground interpretation in the named creator, text and source context.",
+    "structuredExplanation": {
+      "summary": "“Assume every similar colour has one universal Indigenous meaning.” should be rejected because it does not meet the task as well as the evidence-based choice. Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.",
+      "hint": "Ground interpretation in the named creator, text and source context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly05-p-045",
+    "curriculumCode": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "source-based interpretation of visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which revision best improves “Assume every similar colour has one universal Indigenous meaning.”?",
+    "audioPrompt": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which revision best improves “Assume every similar colour has one universal Indigenous meaning.”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Use the source notes to discuss how the repeated visual choices contribute to meaning in this specific work, without assuming they mean the same thing across all First Nations cultures.",
+      "Assume every similar colour has one universal Indigenous meaning.",
+      "Ignore the illustrator’s context and invent a symbolic meaning.",
+      "Treat the visual pattern as decoration only because it is not written text."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 45,
+    "correct": 0,
+    "explanation": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.\nHint: Ground interpretation in the named creator, text and source context.",
+    "structuredExplanation": {
+      "summary": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.",
+      "hint": "Ground interpretation in the named creator, text and source context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly05-p-046",
+    "curriculumCode": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "source-based interpretation of visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which clue should guide your decision?",
+    "audioPrompt": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which clue should guide your decision?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Ground interpretation in the named creator, text and source context."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 46,
+    "correct": 3,
+    "explanation": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.\nHint: Ground interpretation in the named creator, text and source context.",
+    "structuredExplanation": {
+      "summary": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.",
+      "hint": "Ground interpretation in the named creator, text and source context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly05-p-047",
+    "curriculumCode": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "source-based interpretation of visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? A student chooses “Ignore the illustrator’s context and invent a symbolic meaning.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? A student chooses “Ignore the illustrator’s context and invent a symbolic meaning.”. Which feedback would best help them correct the choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Ground interpretation in the named creator, text and source context.",
+      "Keep the answer because first choices should never change."
+    ],
+    "difficulty": 3,
+    "sequencePriority": 47,
+    "correct": 2,
+    "explanation": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.\nHint: Ground interpretation in the named creator, text and source context.",
+    "structuredExplanation": {
+      "summary": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.",
+      "hint": "Ground interpretation in the named creator, text and source context."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly05-p-048",
+    "curriculumCode": "AC9E4LY05",
+    "bank": "practice",
+    "skill": "source-based interpretation of visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A teacher-selected text by a First Nations Australian illustrator uses repeated shapes and colours, and the accompanying source notes explain what those choices mean in that particular work. What is the most responsible interpretation? Which option applies the same skill accurately in this situation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Treat the visual pattern as decoration only because it is not written text.",
+      "Use the source notes to discuss how the repeated visual choices contribute to meaning in this specific work, without assuming they mean the same thing across all First Nations cultures.",
+      "Assume every similar colour has one universal Indigenous meaning.",
+      "Ignore the illustrator’s context and invent a symbolic meaning."
+    ],
+    "difficulty": 3,
+    "sequencePriority": 48,
+    "correct": 1,
+    "explanation": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.\nHint: Ground interpretation in the named creator, text and source context.",
+    "structuredExplanation": {
+      "summary": "Culturally responsive comprehension uses source-specific evidence and avoids generalising one creator’s choices to all Peoples, Countries or Places.",
+      "hint": "Ground interpretation in the named creator, text and source context."
     },
     "qualitySchema": "production-v1"
   }

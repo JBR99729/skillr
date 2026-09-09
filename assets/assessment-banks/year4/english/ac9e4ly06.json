@@ -6,28 +6,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Written Texts",
-    "question": "In planning an information report about wombats, which option best demonstrates the skill?",
-    "audio_prompt": "In planning an information report about wombats, which option best demonstrates the skill?",
+    "skill": "research and integrate sources",
+    "question": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which option best demonstrates the skill?",
+    "audio_prompt": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Write every fact in the order it was found.",
-        "is_correct": false
-      },
-      {
-        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "text": "Gather facts from more than one reliable source, record where each fact came from, then group related notes before drafting.",
         "is_correct": true
       },
       {
-        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "text": "Copy the first webpage found.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only memory and add sources later if needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Collect many facts without recording where they came from.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
-      "hint": "Sort ideas by topic before writing full sentences."
-    }
+      "summary": "Effective planning gathers relevant information from reliable sources and organises it before drafting.",
+      "hint": "Record sources while researching and sort notes by the ideas they support."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY06-P-002",
@@ -36,28 +49,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Written Texts",
-    "question": "Which choice fits planning an information report about wombats most accurately?",
-    "audio_prompt": "Which choice fits planning an information report about wombats most accurately?",
+    "skill": "research and integrate sources",
+    "question": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which choice is the strongest response?",
+    "audio_prompt": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which choice is the strongest response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Write every fact in the order it was found.",
+        "text": "Copy the first webpage found.",
         "is_correct": false
       },
       {
-        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "text": "Use only memory and add sources later if needed.",
         "is_correct": false
       },
       {
-        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "text": "Collect many facts without recording where they came from.",
+        "is_correct": false
+      },
+      {
+        "text": "Gather facts from more than one reliable source, record where each fact came from, then group related notes before drafting.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
-      "hint": "Sort ideas by topic before writing full sentences."
-    }
+      "summary": "Effective planning gathers relevant information from reliable sources and organises it before drafting.",
+      "hint": "Record sources while researching and sort notes by the ideas they support."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY06-P-003",
@@ -65,29 +91,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Creating Written Texts",
-    "question": "Which choice fits building a paragraph about water saving most accurately?",
-    "audio_prompt": "Which choice fits building a paragraph about water saving most accurately?",
+    "stage": "explain",
+    "skill": "research and integrate sources",
+    "question": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Why is “Gather facts from more than one reliable source, record where each fact came from, then group related notes before drafting.” the strongest choice?",
+    "audio_prompt": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Why is “Gather facts from more than one reliable source, record where each fact came from, then group related notes before drafting.” the strongest choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "text": "It avoids using evidence from the situation.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the task instead of responding to it.",
+        "is_correct": false
+      },
+      {
+        "text": "Effective planning gathers relevant information from reliable sources and organises it before drafting.",
         "is_correct": true
       },
       {
-        "text": "Put one sentence about water between two sentences about football.",
-        "is_correct": false
-      },
-      {
-        "text": "Add however to every sentence whether or not there is a contrast.",
+        "text": "It is longest, so it must be correct.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
-      "hint": "Check both topic unity and logical links."
-    }
+      "summary": "Effective planning gathers relevant information from reliable sources and organises it before drafting.",
+      "hint": "Record sources while researching and sort notes by the ideas they support."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LY06-P-004",
@@ -95,29 +134,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Creating Written Texts",
-    "question": "Look closely at building a paragraph about water saving. Which response or wording works best?",
-    "audio_prompt": "Look closely at building a paragraph about water saving. Which response or wording works best?",
+    "stage": "discriminate",
+    "skill": "research and integrate sources",
+    "question": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audio_prompt": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Put one sentence about water between two sentences about football.",
+        "text": "Collect many facts without recording where they came from.",
         "is_correct": false
       },
       {
-        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "text": "Copy the first webpage found.",
         "is_correct": true
       },
       {
-        "text": "Add however to every sentence whether or not there is a contrast.",
+        "text": "Gather facts from more than one reliable source, record where each fact came from, then group related notes before drafting.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only memory and add sources later if needed.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
-      "hint": "Check both topic unity and logical links."
-    }
+      "summary": "“Copy the first webpage found.” should be rejected because it does not meet the task as well as the evidence-based choice. Effective planning gathers relevant information from reliable sources and organises it before drafting.",
+      "hint": "Record sources while researching and sort notes by the ideas they support."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LY06-P-005",
@@ -125,29 +177,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Creating Written Texts",
-    "question": "Look closely at combining ideas into a complex sentence. Which response or wording works best?",
-    "audio_prompt": "Look closely at combining ideas into a complex sentence. Which response or wording works best?",
+    "stage": "discriminate",
+    "skill": "research and integrate sources",
+    "question": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which revision best improves “Copy the first webpage found.”?",
+    "audio_prompt": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which revision best improves “Copy the first webpage found.”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the tank was nearly empty.",
-        "is_correct": false
-      },
-      {
-        "text": "The family shortened because tank showers.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "text": "Gather facts from more than one reliable source, record where each fact came from, then group related notes before drafting.",
         "is_correct": true
+      },
+      {
+        "text": "Copy the first webpage found.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only memory and add sources later if needed.",
+        "is_correct": false
+      },
+      {
+        "text": "Collect many facts without recording where they came from.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The dependent cause clause adds a reason to a complete main clause.",
-      "hint": "Check that one clause can stand alone and the other adds a relationship."
-    }
+      "summary": "Effective planning gathers relevant information from reliable sources and organises it before drafting.",
+      "hint": "Record sources while researching and sort notes by the ideas they support."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LY06-P-006",
@@ -155,29 +220,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Creating Written Texts",
-    "question": "For combining ideas into a complex sentence, which option is the strongest match?",
-    "audio_prompt": "For combining ideas into a complex sentence, which option is the strongest match?",
+    "stage": "explain",
+    "skill": "research and integrate sources",
+    "question": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which clue should guide your decision?",
+    "audio_prompt": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which clue should guide your decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose the first familiar phrase.",
+        "is_correct": false
+      },
+      {
+        "text": "Prefer a vague answer so it can fit anything.",
+        "is_correct": false
+      },
+      {
+        "text": "Record sources while researching and sort notes by the ideas they support.",
         "is_correct": true
-      },
-      {
-        "text": "Because the tank was nearly empty.",
-        "is_correct": false
-      },
-      {
-        "text": "The family shortened because tank showers.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The dependent cause clause adds a reason to a complete main clause.",
-      "hint": "Check that one clause can stand alone and the other adds a relationship."
-    }
+      "summary": "Effective planning gathers relevant information from reliable sources and organises it before drafting.",
+      "hint": "Record sources while researching and sort notes by the ideas they support."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LY06-P-007",
@@ -185,29 +263,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Creating Written Texts",
-    "question": "For editing tense in a recount, which option is the strongest match?",
-    "audio_prompt": "For editing tense in a recount, which option is the strongest match?",
+    "stage": "reflect",
+    "skill": "research and integrate sources",
+    "question": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? A student chooses “Use only memory and add sources later if needed.”. Which feedback would best help them correct the choice?",
+    "audio_prompt": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? A student chooses “Use only memory and add sources later if needed.”. Which feedback would best help them correct the choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "text": "Choose a longer answer without checking meaning.",
         "is_correct": false
       },
       {
-        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "text": "Ignore the task context and focus only on spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Re-check the task and use this principle: Record sources while researching and sort notes by the ideas they support.",
         "is_correct": true
       },
       {
-        "text": "We arriving at the campsite and cooked tomorrow.",
+        "text": "Keep the answer because first choices should never change.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Consistent past tense suits events that happened during the same past time frame.",
-      "hint": "Only shift tense when the time frame changes."
-    }
+      "summary": "Effective planning gathers relevant information from reliable sources and organises it before drafting.",
+      "hint": "Record sources while researching and sort notes by the ideas they support."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LY06-P-008",
@@ -215,29 +306,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "Creating Written Texts",
-    "question": "Which example should you choose for editing tense in a recount?",
-    "audio_prompt": "Which example should you choose for editing tense in a recount?",
+    "stage": "apply",
+    "skill": "research and integrate sources",
+    "question": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which option applies the same skill accurately in this situation?",
+    "audio_prompt": "A student is planning an information report about local wetlands. Which research plan best supports accurate writing? Which option applies the same skill accurately in this situation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "text": "Collect many facts without recording where they came from.",
         "is_correct": false
       },
       {
-        "text": "We arriving at the campsite and cooked tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "text": "Gather facts from more than one reliable source, record where each fact came from, then group related notes before drafting.",
         "is_correct": true
+      },
+      {
+        "text": "Copy the first webpage found.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only memory and add sources later if needed.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Consistent past tense suits events that happened during the same past time frame.",
-      "hint": "Only shift tense when the time frame changes."
-    }
+      "summary": "Effective planning gathers relevant information from reliable sources and organises it before drafting.",
+      "hint": "Record sources while researching and sort notes by the ideas they support."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LY06-P-009",
@@ -246,28 +350,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Written Texts",
-    "question": "Which example should you choose for replacing vague vocabulary in a science explanation?",
-    "audio_prompt": "Which example should you choose for replacing vague vocabulary in a science explanation?",
+    "skill": "paragraph structure",
+    "question": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which option best demonstrates the skill?",
+    "audio_prompt": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The metal expanded when it was heated.",
+        "text": "Group sentences into focused paragraphs, such as collection details, accepted materials and reasons recycling matters.",
         "is_correct": true
       },
       {
-        "text": "The metal did something when it got hot.",
+        "text": "Keep all ideas in one paragraph because they share a broad topic.",
         "is_correct": false
       },
       {
-        "text": "The metal became nice.",
+        "text": "Put each sentence in a separate paragraph.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the heading to the end and change nothing else.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Expanded precisely names the change and suits the scientific purpose.",
-      "hint": "Choose the most exact word for the meaning."
-    }
+      "summary": "Paragraphs help sequence and group related ideas so readers can follow the text’s structure.",
+      "hint": "Give each paragraph a clear focus that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LY06-P-010",
@@ -276,28 +393,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "Creating Written Texts",
-    "question": "In replacing vague vocabulary in a science explanation, which option best demonstrates the skill?",
-    "audio_prompt": "In replacing vague vocabulary in a science explanation, which option best demonstrates the skill?",
+    "skill": "paragraph structure",
+    "question": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which choice is the strongest response?",
+    "audio_prompt": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which choice is the strongest response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The metal did something when it got hot.",
+        "text": "Keep all ideas in one paragraph because they share a broad topic.",
         "is_correct": false
       },
       {
-        "text": "The metal expanded when it was heated.",
+        "text": "Put each sentence in a separate paragraph.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the heading to the end and change nothing else.",
+        "is_correct": false
+      },
+      {
+        "text": "Group sentences into focused paragraphs, such as collection details, accepted materials and reasons recycling matters.",
         "is_correct": true
-      },
-      {
-        "text": "The metal became nice.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Expanded precisely names the change and suits the scientific purpose.",
-      "hint": "Choose the most exact word for the meaning."
-    }
+      "summary": "Paragraphs help sequence and group related ideas so readers can follow the text’s structure.",
+      "hint": "Give each paragraph a clear focus that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LY06-P-011",
@@ -306,28 +436,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Creating Written Texts",
-    "question": "Why does “Group notes into sections such as habitat, diet and behaviour before drafting.” work well for planning an information report about wombats?",
-    "audio_prompt": "Why does “Group notes into sections such as habitat, diet and behaviour before drafting.” work well for planning an information report about wombats?",
+    "skill": "paragraph structure",
+    "question": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Why is “Group sentences into focused paragraphs, such as collection details, accepted materials and reasons recycling matters.” the strongest choice?",
+    "audio_prompt": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Why is “Group sentences into focused paragraphs, such as collection details, accepted materials and reasons recycling matters.” the strongest choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Write every fact in the order it was found.” is always acceptable in this situation.",
+        "text": "It avoids using evidence from the situation.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "It changes the task instead of responding to it.",
         "is_correct": false
       },
       {
-        "text": "Planning related ideas into sections creates a clear basis for paragraphs.",
+        "text": "Paragraphs help sequence and group related ideas so readers can follow the text’s structure.",
         "is_correct": true
+      },
+      {
+        "text": "It is longest, so it must be correct.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
-      "hint": "Sort ideas by topic before writing full sentences."
-    }
+      "summary": "Paragraphs help sequence and group related ideas so readers can follow the text’s structure.",
+      "hint": "Give each paragraph a clear focus that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LY06-P-012",
@@ -335,29 +478,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Written Texts",
-    "question": "What makes “Group notes into sections such as habitat, diet and behaviour before drafting.” a better choice in planning an information report about wombats?",
-    "audio_prompt": "What makes “Group notes into sections such as habitat, diet and behaviour before drafting.” a better choice in planning an information report about wombats?",
+    "stage": "discriminate",
+    "skill": "paragraph structure",
+    "question": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audio_prompt": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Planning related ideas into sections creates a clear basis for paragraphs.",
+        "text": "Move the heading to the end and change nothing else.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep all ideas in one paragraph because they share a broad topic.",
         "is_correct": true
       },
       {
-        "text": "Because “Write every fact in the order it was found.” is always acceptable in this situation.",
+        "text": "Group sentences into focused paragraphs, such as collection details, accepted materials and reasons recycling matters.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Put each sentence in a separate paragraph.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
-      "hint": "Sort ideas by topic before writing full sentences."
-    }
+      "summary": "“Keep all ideas in one paragraph because they share a broad topic.” should be rejected because it does not meet the task as well as the evidence-based choice. Paragraphs help sequence and group related ideas so readers can follow the text’s structure.",
+      "hint": "Give each paragraph a clear focus that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LY06-P-013",
@@ -365,29 +521,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Written Texts",
-    "question": "What makes “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” a better choice in building a paragraph about water saving?",
-    "audio_prompt": "What makes “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” a better choice in building a paragraph about water saving?",
+    "stage": "discriminate",
+    "skill": "paragraph structure",
+    "question": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which revision best improves “Keep all ideas in one paragraph because they share a broad topic.”?",
+    "audio_prompt": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which revision best improves “Keep all ideas in one paragraph because they share a broad topic.”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Put one sentence about water between two sentences about football.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+        "text": "Group sentences into focused paragraphs, such as collection details, accepted materials and reasons recycling matters.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Keep all ideas in one paragraph because they share a broad topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Put each sentence in a separate paragraph.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the heading to the end and change nothing else.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
-      "hint": "Check both topic unity and logical links."
-    }
+      "summary": "Paragraphs help sequence and group related ideas so readers can follow the text’s structure.",
+      "hint": "Give each paragraph a clear focus that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LY06-P-014",
@@ -396,28 +565,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Creating Written Texts",
-    "question": "Which explanation best justifies “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” for building a paragraph about water saving?",
-    "audio_prompt": "Which explanation best justifies “Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.” for building a paragraph about water saving?",
+    "skill": "paragraph structure",
+    "question": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which clue should guide your decision?",
+    "audio_prompt": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which clue should guide your decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Put one sentence about water between two sentences about football.” is always acceptable in this situation.",
+        "text": "Choose the option with the most words.",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Ignore the context and choose the first familiar phrase.",
         "is_correct": false
       },
       {
-        "text": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
+        "text": "Prefer a vague answer so it can fit anything.",
+        "is_correct": false
+      },
+      {
+        "text": "Give each paragraph a clear focus that supports the text’s purpose.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
-      "hint": "Check both topic unity and logical links."
-    }
+      "summary": "Paragraphs help sequence and group related ideas so readers can follow the text’s structure.",
+      "hint": "Give each paragraph a clear focus that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LY06-P-015",
@@ -425,29 +607,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Written Texts",
-    "question": "Which explanation best justifies “Because the tank was nearly empty, the family shortened their showers.” for combining ideas into a complex sentence?",
-    "audio_prompt": "Which explanation best justifies “Because the tank was nearly empty, the family shortened their showers.” for combining ideas into a complex sentence?",
+    "stage": "reflect",
+    "skill": "paragraph structure",
+    "question": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? A student chooses “Put each sentence in a separate paragraph.”. Which feedback would best help them correct the choice?",
+    "audio_prompt": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? A student chooses “Put each sentence in a separate paragraph.”. Which feedback would best help them correct the choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The dependent cause clause adds a reason to a complete main clause.",
+        "text": "Choose a longer answer without checking meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the task context and focus only on spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Re-check the task and use this principle: Give each paragraph a clear focus that supports the text’s purpose.",
         "is_correct": true
       },
       {
-        "text": "Because “Because the tank was nearly empty.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Keep the answer because first choices should never change.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The dependent cause clause adds a reason to a complete main clause.",
-      "hint": "Check that one clause can stand alone and the other adds a relationship."
-    }
+      "summary": "Paragraphs help sequence and group related ideas so readers can follow the text’s structure.",
+      "hint": "Give each paragraph a clear focus that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LY06-P-016",
@@ -455,29 +650,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Written Texts",
-    "question": "What should you notice about “Because the tank was nearly empty, the family shortened their showers.” in combining ideas into a complex sentence?",
-    "audio_prompt": "What should you notice about “Because the tank was nearly empty, the family shortened their showers.” in combining ideas into a complex sentence?",
+    "stage": "apply",
+    "skill": "paragraph structure",
+    "question": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which option applies the same skill accurately in this situation?",
+    "audio_prompt": "A draft about recycling has one paragraph mixing collection days, what plastics are accepted and why recycling matters. What is the best revision? Which option applies the same skill accurately in this situation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “Because the tank was nearly empty.” is always acceptable in this situation.",
+        "text": "Move the heading to the end and change nothing else.",
         "is_correct": false
       },
       {
-        "text": "The dependent cause clause adds a reason to a complete main clause.",
+        "text": "Group sentences into focused paragraphs, such as collection details, accepted materials and reasons recycling matters.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "Keep all ideas in one paragraph because they share a broad topic.",
+        "is_correct": false
+      },
+      {
+        "text": "Put each sentence in a separate paragraph.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The dependent cause clause adds a reason to a complete main clause.",
-      "hint": "Check that one clause can stand alone and the other adds a relationship."
-    }
+      "summary": "Paragraphs help sequence and group related ideas so readers can follow the text’s structure.",
+      "hint": "Give each paragraph a clear focus that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   },
   {
     "id": "AC9E4LY06-P-017",
@@ -485,29 +693,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Written Texts",
-    "question": "What should you notice about “We arrived at the campsite, unpacked the car and cooked dinner.” in editing tense in a recount?",
-    "audio_prompt": "What should you notice about “We arrived at the campsite, unpacked the car and cooked dinner.” in editing tense in a recount?",
+    "stage": "recognise",
+    "skill": "precise vocabulary",
+    "question": "Which sentence uses the most precise vocabulary for an information text about erosion? Which option best demonstrates the skill?",
+    "audio_prompt": "Which sentence uses the most precise vocabulary for an information text about erosion? Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “We arrived at the campsite, unpack the car and will cook dinner yesterday.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Consistent past tense suits events that happened during the same past time frame.",
+        "text": "“Fast-moving water can carry loosened soil downstream.”",
         "is_correct": true
+      },
+      {
+        "text": "“Water does stuff to dirt.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The water is really, really strong and bad.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Things move somewhere.”",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Consistent past tense suits events that happened during the same past time frame.",
-      "hint": "Only shift tense when the time frame changes."
-    }
+      "summary": "Precise, topic-appropriate vocabulary communicates information accurately and efficiently.",
+      "hint": "Replace vague words with exact nouns, verbs and technical terms where useful."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 17
   },
   {
     "id": "AC9E4LY06-P-018",
@@ -515,29 +736,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Written Texts",
-    "question": "Which reason explains why “We arrived at the campsite, unpacked the car and cooked dinner.” suits editing tense in a recount?",
-    "audio_prompt": "Which reason explains why “We arrived at the campsite, unpacked the car and cooked dinner.” suits editing tense in a recount?",
+    "stage": "recognise",
+    "skill": "precise vocabulary",
+    "question": "Which sentence uses the most precise vocabulary for an information text about erosion? Which choice is the strongest response?",
+    "audio_prompt": "Which sentence uses the most precise vocabulary for an information text about erosion? Which choice is the strongest response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Consistent past tense suits events that happened during the same past time frame.",
+        "text": "“Water does stuff to dirt.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The water is really, really strong and bad.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Things move somewhere.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Fast-moving water can carry loosened soil downstream.”",
         "is_correct": true
-      },
-      {
-        "text": "Because “We arrived at the campsite, unpack the car and will cook dinner yesterday.” is always acceptable in this situation.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Consistent past tense suits events that happened during the same past time frame.",
-      "hint": "Only shift tense when the time frame changes."
-    }
+      "summary": "Precise, topic-appropriate vocabulary communicates information accurately and efficiently.",
+      "hint": "Replace vague words with exact nouns, verbs and technical terms where useful."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 18
   },
   {
     "id": "AC9E4LY06-P-019",
@@ -546,28 +780,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "explain",
-    "skill": "Creating Written Texts",
-    "question": "Which reason explains why “The metal expanded when it was heated.” suits replacing vague vocabulary in a science explanation?",
-    "audio_prompt": "Which reason explains why “The metal expanded when it was heated.” suits replacing vague vocabulary in a science explanation?",
+    "skill": "precise vocabulary",
+    "question": "Which sentence uses the most precise vocabulary for an information text about erosion? Why is ““Fast-moving water can carry loosened soil downstream.”” the strongest choice?",
+    "audio_prompt": "Which sentence uses the most precise vocabulary for an information text about erosion? Why is ““Fast-moving water can carry loosened soil downstream.”” the strongest choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The metal did something when it got hot.” is always acceptable in this situation.",
+        "text": "It avoids using evidence from the situation.",
         "is_correct": false
       },
       {
-        "text": "Expanded precisely names the change and suits the scientific purpose.",
+        "text": "It changes the task instead of responding to it.",
+        "is_correct": false
+      },
+      {
+        "text": "Precise, topic-appropriate vocabulary communicates information accurately and efficiently.",
         "is_correct": true
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
+        "text": "It is longest, so it must be correct.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Expanded precisely names the change and suits the scientific purpose.",
-      "hint": "Choose the most exact word for the meaning."
-    }
+      "summary": "Precise, topic-appropriate vocabulary communicates information accurately and efficiently.",
+      "hint": "Replace vague words with exact nouns, verbs and technical terms where useful."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 19
   },
   {
     "id": "AC9E4LY06-P-020",
@@ -575,29 +822,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "Creating Written Texts",
-    "question": "Why does “The metal expanded when it was heated.” work well for replacing vague vocabulary in a science explanation?",
-    "audio_prompt": "Why does “The metal expanded when it was heated.” work well for replacing vague vocabulary in a science explanation?",
+    "stage": "discriminate",
+    "skill": "precise vocabulary",
+    "question": "Which sentence uses the most precise vocabulary for an information text about erosion? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audio_prompt": "Which sentence uses the most precise vocabulary for an information text about erosion? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The metal did something when it got hot.” is always acceptable in this situation.",
+        "text": "“Things move somewhere.”",
         "is_correct": false
       },
       {
-        "text": "Because the longest or most complicated option must be correct.",
-        "is_correct": false
-      },
-      {
-        "text": "Expanded precisely names the change and suits the scientific purpose.",
+        "text": "“Water does stuff to dirt.”",
         "is_correct": true
+      },
+      {
+        "text": "“Fast-moving water can carry loosened soil downstream.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The water is really, really strong and bad.”",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Expanded precisely names the change and suits the scientific purpose.",
-      "hint": "Choose the most exact word for the meaning."
-    }
+      "summary": "““Water does stuff to dirt.”” should be rejected because it does not meet the task as well as the evidence-based choice. Precise, topic-appropriate vocabulary communicates information accurately and efficiently.",
+      "hint": "Replace vague words with exact nouns, verbs and technical terms where useful."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9E4LY06-P-021",
@@ -606,28 +866,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "Creating Written Texts",
-    "question": "Which revision best fixes the problem in “Write every fact in the order it was found.” for planning an information report about wombats?",
-    "audio_prompt": "Which revision best fixes the problem in “Write every fact in the order it was found.” for planning an information report about wombats?",
+    "skill": "precise vocabulary",
+    "question": "Which sentence uses the most precise vocabulary for an information text about erosion? Which revision best improves ““Water does stuff to dirt.””?",
+    "audio_prompt": "Which sentence uses the most precise vocabulary for an information text about erosion? Which revision best improves ““Water does stuff to dirt.””?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "text": "“Fast-moving water can carry loosened soil downstream.”",
         "is_correct": true
       },
       {
-        "text": "Write every fact in the order it was found.",
+        "text": "“Water does stuff to dirt.”",
         "is_correct": false
       },
       {
-        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "text": "“The water is really, really strong and bad.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Things move somewhere.”",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Planning related ideas into sections creates a clear basis for paragraphs. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Sort ideas by topic before writing full sentences."
-    }
+      "summary": "Precise, topic-appropriate vocabulary communicates information accurately and efficiently.",
+      "hint": "Replace vague words with exact nouns, verbs and technical terms where useful."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9E4LY06-P-022",
@@ -635,29 +908,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Written Texts",
-    "question": "Compare the choices for planning an information report about wombats. Which one avoids the mistake in “Write every fact in the order it was found.”?",
-    "audio_prompt": "Compare the choices for planning an information report about wombats. Which one avoids the mistake in “Write every fact in the order it was found.”?",
+    "stage": "explain",
+    "skill": "precise vocabulary",
+    "question": "Which sentence uses the most precise vocabulary for an information text about erosion? Which clue should guide your decision?",
+    "audio_prompt": "Which sentence uses the most precise vocabulary for an information text about erosion? Which clue should guide your decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Write every fact in the order it was found.",
+        "text": "Choose the option with the most words.",
         "is_correct": false
       },
       {
-        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "text": "Ignore the context and choose the first familiar phrase.",
+        "is_correct": false
+      },
+      {
+        "text": "Prefer a vague answer so it can fit anything.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace vague words with exact nouns, verbs and technical terms where useful.",
         "is_correct": true
-      },
-      {
-        "text": "Start drafting unrelated sentences without deciding the purpose.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Planning related ideas into sections creates a clear basis for paragraphs. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Sort ideas by topic before writing full sentences."
-    }
+      "summary": "Precise, topic-appropriate vocabulary communicates information accurately and efficiently.",
+      "hint": "Replace vague words with exact nouns, verbs and technical terms where useful."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9E4LY06-P-023",
@@ -665,29 +951,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Written Texts",
-    "question": "Compare the choices for building a paragraph about water saving. Which one avoids the mistake in “Put one sentence about water between two sentences about football.”?",
-    "audio_prompt": "Compare the choices for building a paragraph about water saving. Which one avoids the mistake in “Put one sentence about water between two sentences about football.”?",
+    "stage": "reflect",
+    "skill": "precise vocabulary",
+    "question": "Which sentence uses the most precise vocabulary for an information text about erosion? A student chooses ““The water is really, really strong and bad.””. Which feedback would best help them correct the choice?",
+    "audio_prompt": "Which sentence uses the most precise vocabulary for an information text about erosion? A student chooses ““The water is really, really strong and bad.””. Which feedback would best help them correct the choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Put one sentence about water between two sentences about football.",
+        "text": "Choose a longer answer without checking meaning.",
         "is_correct": false
       },
       {
-        "text": "Add however to every sentence whether or not there is a contrast.",
+        "text": "Ignore the task context and focus only on spelling.",
         "is_correct": false
       },
       {
-        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "text": "Re-check the task and use this principle: Replace vague words with exact nouns, verbs and technical terms where useful.",
         "is_correct": true
+      },
+      {
+        "text": "Keep the answer because first choices should never change.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check both topic unity and logical links."
-    }
+      "summary": "Precise, topic-appropriate vocabulary communicates information accurately and efficiently.",
+      "hint": "Replace vague words with exact nouns, verbs and technical terms where useful."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 23
   },
   {
     "id": "AC9E4LY06-P-024",
@@ -695,29 +994,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Written Texts",
-    "question": "If “Put one sentence about water between two sentences about football.” does not work in building a paragraph about water saving, what should replace it?",
-    "audio_prompt": "If “Put one sentence about water between two sentences about football.” does not work in building a paragraph about water saving, what should replace it?",
+    "stage": "apply",
+    "skill": "precise vocabulary",
+    "question": "Which sentence uses the most precise vocabulary for an information text about erosion? Which option applies the same skill accurately in this situation?",
+    "audio_prompt": "Which sentence uses the most precise vocabulary for an information text about erosion? Which option applies the same skill accurately in this situation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "text": "“Things move somewhere.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Fast-moving water can carry loosened soil downstream.”",
         "is_correct": true
       },
       {
-        "text": "Put one sentence about water between two sentences about football.",
+        "text": "“Water does stuff to dirt.”",
         "is_correct": false
       },
       {
-        "text": "Add however to every sentence whether or not there is a contrast.",
+        "text": "“The water is really, really strong and bad.”",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check both topic unity and logical links."
-    }
+      "summary": "Precise, topic-appropriate vocabulary communicates information accurately and efficiently.",
+      "hint": "Replace vague words with exact nouns, verbs and technical terms where useful."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 24
   },
   {
     "id": "AC9E4LY06-P-025",
@@ -725,29 +1037,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Written Texts",
-    "question": "If “Because the tank was nearly empty.” does not work in combining ideas into a complex sentence, what should replace it?",
-    "audio_prompt": "If “Because the tank was nearly empty.” does not work in combining ideas into a complex sentence, what should replace it?",
+    "stage": "recognise",
+    "skill": "complex sentences",
+    "question": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which option best demonstrates the skill?",
+    "audio_prompt": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the tank was nearly empty.",
-        "is_correct": false
-      },
-      {
-        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "text": "“Because the gate was open, the dog ran into the lane.”",
         "is_correct": true
       },
       {
-        "text": "The family shortened because tank showers.",
+        "text": "“The dog the gate open ran.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Running open gate dog.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The gate was open. Because.”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The dependent cause clause adds a reason to a complete main clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check that one clause can stand alone and the other adds a relationship."
-    }
+      "summary": "A complex sentence can show a meaningful relationship such as cause, time or condition between ideas.",
+      "hint": "Choose a clause link that expresses the intended relationship clearly."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 25
   },
   {
     "id": "AC9E4LY06-P-026",
@@ -755,29 +1080,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Written Texts",
-    "question": "Which option corrects the meaning or form needed for combining ideas into a complex sentence?",
-    "audio_prompt": "Which option corrects the meaning or form needed for combining ideas into a complex sentence?",
+    "stage": "recognise",
+    "skill": "complex sentences",
+    "question": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which choice is the strongest response?",
+    "audio_prompt": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which choice is the strongest response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the tank was nearly empty.",
+        "text": "“The dog the gate open ran.”",
         "is_correct": false
       },
       {
-        "text": "The family shortened because tank showers.",
+        "text": "“Running open gate dog.”",
         "is_correct": false
       },
       {
-        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "text": "“The gate was open. Because.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Because the gate was open, the dog ran into the lane.”",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The dependent cause clause adds a reason to a complete main clause. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Check that one clause can stand alone and the other adds a relationship."
-    }
+      "summary": "A complex sentence can show a meaningful relationship such as cause, time or condition between ideas.",
+      "hint": "Choose a clause link that expresses the intended relationship clearly."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 26
   },
   {
     "id": "AC9E4LY06-P-027",
@@ -785,29 +1123,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Written Texts",
-    "question": "Which option corrects the meaning or form needed for editing tense in a recount?",
-    "audio_prompt": "Which option corrects the meaning or form needed for editing tense in a recount?",
+    "stage": "explain",
+    "skill": "complex sentences",
+    "question": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Why is ““Because the gate was open, the dog ran into the lane.”” the strongest choice?",
+    "audio_prompt": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Why is ““Because the gate was open, the dog ran into the lane.”” the strongest choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "text": "It avoids using evidence from the situation.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the task instead of responding to it.",
+        "is_correct": false
+      },
+      {
+        "text": "A complex sentence can show a meaningful relationship such as cause, time or condition between ideas.",
         "is_correct": true
       },
       {
-        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
-        "is_correct": false
-      },
-      {
-        "text": "We arriving at the campsite and cooked tomorrow.",
+        "text": "It is longest, so it must be correct.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Consistent past tense suits events that happened during the same past time frame. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Only shift tense when the time frame changes."
-    }
+      "summary": "A complex sentence can show a meaningful relationship such as cause, time or condition between ideas.",
+      "hint": "Choose a clause link that expresses the intended relationship clearly."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 27
   },
   {
     "id": "AC9E4LY06-P-028",
@@ -816,28 +1167,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "Creating Written Texts",
-    "question": "Which choice is the clearest correction for editing tense in a recount?",
-    "audio_prompt": "Which choice is the clearest correction for editing tense in a recount?",
+    "skill": "complex sentences",
+    "question": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audio_prompt": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "text": "“The gate was open. Because.”",
         "is_correct": false
       },
       {
-        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "text": "“The dog the gate open ran.”",
         "is_correct": true
       },
       {
-        "text": "We arriving at the campsite and cooked tomorrow.",
+        "text": "“Because the gate was open, the dog ran into the lane.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Running open gate dog.”",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Consistent past tense suits events that happened during the same past time frame. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Only shift tense when the time frame changes."
-    }
+      "summary": "““The dog the gate open ran.”” should be rejected because it does not meet the task as well as the evidence-based choice. A complex sentence can show a meaningful relationship such as cause, time or condition between ideas.",
+      "hint": "Choose a clause link that expresses the intended relationship clearly."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 28
   },
   {
     "id": "AC9E4LY06-P-029",
@@ -846,28 +1210,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "discriminate",
-    "skill": "Creating Written Texts",
-    "question": "Which choice is the clearest correction for replacing vague vocabulary in a science explanation?",
-    "audio_prompt": "Which choice is the clearest correction for replacing vague vocabulary in a science explanation?",
+    "skill": "complex sentences",
+    "question": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which revision best improves ““The dog the gate open ran.””?",
+    "audio_prompt": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which revision best improves ““The dog the gate open ran.””?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The metal did something when it got hot.",
-        "is_correct": false
-      },
-      {
-        "text": "The metal became nice.",
-        "is_correct": false
-      },
-      {
-        "text": "The metal expanded when it was heated.",
+        "text": "“Because the gate was open, the dog ran into the lane.”",
         "is_correct": true
+      },
+      {
+        "text": "“The dog the gate open ran.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Running open gate dog.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The gate was open. Because.”",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Expanded precisely names the change and suits the scientific purpose. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose the most exact word for the meaning."
-    }
+      "summary": "A complex sentence can show a meaningful relationship such as cause, time or condition between ideas.",
+      "hint": "Choose a clause link that expresses the intended relationship clearly."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 29
   },
   {
     "id": "AC9E4LY06-P-030",
@@ -875,29 +1252,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "Creating Written Texts",
-    "question": "Which revision best fixes the problem in “The metal did something when it got hot.” for replacing vague vocabulary in a science explanation?",
-    "audio_prompt": "Which revision best fixes the problem in “The metal did something when it got hot.” for replacing vague vocabulary in a science explanation?",
+    "stage": "explain",
+    "skill": "complex sentences",
+    "question": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which clue should guide your decision?",
+    "audio_prompt": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which clue should guide your decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The metal expanded when it was heated.",
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose the first familiar phrase.",
+        "is_correct": false
+      },
+      {
+        "text": "Prefer a vague answer so it can fit anything.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a clause link that expresses the intended relationship clearly.",
         "is_correct": true
-      },
-      {
-        "text": "The metal did something when it got hot.",
-        "is_correct": false
-      },
-      {
-        "text": "The metal became nice.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Expanded precisely names the change and suits the scientific purpose. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Choose the most exact word for the meaning."
-    }
+      "summary": "A complex sentence can show a meaningful relationship such as cause, time or condition between ideas.",
+      "hint": "Choose a clause link that expresses the intended relationship clearly."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 30
   },
   {
     "id": "AC9E4LY06-P-031",
@@ -905,29 +1295,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "You now need to handle planning an information report about wombats independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle planning an information report about wombats independently. Which choice should you use?",
+    "stage": "reflect",
+    "skill": "complex sentences",
+    "question": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? A student chooses ““Running open gate dog.””. Which feedback would best help them correct the choice?",
+    "audio_prompt": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? A student chooses ““Running open gate dog.””. Which feedback would best help them correct the choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "text": "Choose a longer answer without checking meaning.",
         "is_correct": false
       },
       {
-        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "text": "Ignore the task context and focus only on spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Re-check the task and use this principle: Choose a clause link that expresses the intended relationship clearly.",
         "is_correct": true
       },
       {
-        "text": "Write every fact in the order it was found.",
+        "text": "Keep the answer because first choices should never change.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
-      "hint": "Sort ideas by topic before writing full sentences."
-    }
+      "summary": "A complex sentence can show a meaningful relationship such as cause, time or condition between ideas.",
+      "hint": "Choose a clause link that expresses the intended relationship clearly."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 31
   },
   {
     "id": "AC9E4LY06-P-032",
@@ -936,28 +1339,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Apply the same idea to planning an information report about wombats. Which option is best?",
-    "audio_prompt": "Apply the same idea to planning an information report about wombats. Which option is best?",
+    "skill": "complex sentences",
+    "question": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which option applies the same skill accurately in this situation?",
+    "audio_prompt": "A story draft says, “The dog ran. The gate was open.” Which revision uses grammar to connect the ideas clearly? Which option applies the same skill accurately in this situation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Start drafting unrelated sentences without deciding the purpose.",
+        "text": "“The gate was open. Because.”",
         "is_correct": false
       },
       {
-        "text": "Write every fact in the order it was found.",
-        "is_correct": false
-      },
-      {
-        "text": "Group notes into sections such as habitat, diet and behaviour before drafting.",
+        "text": "“Because the gate was open, the dog ran into the lane.”",
         "is_correct": true
+      },
+      {
+        "text": "“The dog the gate open ran.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Running open gate dog.”",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Planning related ideas into sections creates a clear basis for paragraphs.",
-      "hint": "Sort ideas by topic before writing full sentences."
-    }
+      "summary": "A complex sentence can show a meaningful relationship such as cause, time or condition between ideas.",
+      "hint": "Choose a clause link that expresses the intended relationship clearly."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 32
   },
   {
     "id": "AC9E4LY06-P-033",
@@ -965,29 +1381,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Apply the same idea to building a paragraph about water saving. Which option is best?",
-    "audio_prompt": "Apply the same idea to building a paragraph about water saving. Which option is best?",
+    "stage": "recognise",
+    "skill": "appropriate tense",
+    "question": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which option best demonstrates the skill?",
+    "audio_prompt": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "text": "Choose a tense that suits the report’s purpose and keep it consistent unless the time reference genuinely changes.",
         "is_correct": true
       },
       {
-        "text": "Add however to every sentence whether or not there is a contrast.",
+        "text": "Use a different tense in every sentence for variety.",
         "is_correct": false
       },
       {
-        "text": "Put one sentence about water between two sentences about football.",
+        "text": "Remove all verbs.",
+        "is_correct": false
+      },
+      {
+        "text": "Change all nouns into adjectives.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
-      "hint": "Check both topic unity and logical links."
-    }
+      "summary": "Appropriate and consistent tense helps readers understand when events or facts apply.",
+      "hint": "Check whether tense changes are purposeful rather than accidental."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 33
   },
   {
     "id": "AC9E4LY06-P-034",
@@ -995,29 +1424,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Which decision would produce the clearest result in building a paragraph about water saving?",
-    "audio_prompt": "Which decision would produce the clearest result in building a paragraph about water saving?",
+    "stage": "recognise",
+    "skill": "appropriate tense",
+    "question": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which choice is the strongest response?",
+    "audio_prompt": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which choice is the strongest response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Add however to every sentence whether or not there is a contrast.",
+        "text": "Use a different tense in every sentence for variety.",
         "is_correct": false
       },
       {
-        "text": "Start with the main point, add linked examples and use connectives such as for example and therefore where they fit.",
+        "text": "Remove all verbs.",
+        "is_correct": false
+      },
+      {
+        "text": "Change all nouns into adjectives.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose a tense that suits the report’s purpose and keep it consistent unless the time reference genuinely changes.",
         "is_correct": true
-      },
-      {
-        "text": "Put one sentence about water between two sentences about football.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A coherent paragraph keeps one main focus and uses connectives for real relationships.",
-      "hint": "Check both topic unity and logical links."
-    }
+      "summary": "Appropriate and consistent tense helps readers understand when events or facts apply.",
+      "hint": "Check whether tense changes are purposeful rather than accidental."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 34
   },
   {
     "id": "AC9E4LY06-P-035",
@@ -1025,29 +1467,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Which decision would produce the clearest result in combining ideas into a complex sentence?",
-    "audio_prompt": "Which decision would produce the clearest result in combining ideas into a complex sentence?",
+    "stage": "explain",
+    "skill": "appropriate tense",
+    "question": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Why is “Choose a tense that suits the report’s purpose and keep it consistent unless the time reference genuinely changes.” the strongest choice?",
+    "audio_prompt": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Why is “Choose a tense that suits the report’s purpose and keep it consistent unless the time reference genuinely changes.” the strongest choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The family shortened because tank showers.",
+        "text": "It avoids using evidence from the situation.",
         "is_correct": false
       },
       {
-        "text": "Because the tank was nearly empty.",
+        "text": "It changes the task instead of responding to it.",
         "is_correct": false
       },
       {
-        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "text": "Appropriate and consistent tense helps readers understand when events or facts apply.",
         "is_correct": true
+      },
+      {
+        "text": "It is longest, so it must be correct.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The dependent cause clause adds a reason to a complete main clause.",
-      "hint": "Check that one clause can stand alone and the other adds a relationship."
-    }
+      "summary": "Appropriate and consistent tense helps readers understand when events or facts apply.",
+      "hint": "Check whether tense changes are purposeful rather than accidental."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 35
   },
   {
     "id": "AC9E4LY06-P-036",
@@ -1055,29 +1510,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Choose the option that applies the skill correctly in combining ideas into a complex sentence.",
-    "audio_prompt": "Choose the option that applies the skill correctly in combining ideas into a complex sentence.",
+    "stage": "discriminate",
+    "skill": "appropriate tense",
+    "question": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audio_prompt": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because the tank was nearly empty, the family shortened their showers.",
+        "text": "Change all nouns into adjectives.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a different tense in every sentence for variety.",
         "is_correct": true
       },
       {
-        "text": "The family shortened because tank showers.",
+        "text": "Choose a tense that suits the report’s purpose and keep it consistent unless the time reference genuinely changes.",
         "is_correct": false
       },
       {
-        "text": "Because the tank was nearly empty.",
+        "text": "Remove all verbs.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The dependent cause clause adds a reason to a complete main clause.",
-      "hint": "Check that one clause can stand alone and the other adds a relationship."
-    }
+      "summary": "“Use a different tense in every sentence for variety.” should be rejected because it does not meet the task as well as the evidence-based choice. Appropriate and consistent tense helps readers understand when events or facts apply.",
+      "hint": "Check whether tense changes are purposeful rather than accidental."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 36
   },
   {
     "id": "AC9E4LY06-P-037",
@@ -1085,29 +1553,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Choose the option that applies the skill correctly in editing tense in a recount.",
-    "audio_prompt": "Choose the option that applies the skill correctly in editing tense in a recount.",
+    "stage": "discriminate",
+    "skill": "appropriate tense",
+    "question": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which revision best improves “Use a different tense in every sentence for variety.”?",
+    "audio_prompt": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which revision best improves “Use a different tense in every sentence for variety.”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We arriving at the campsite and cooked tomorrow.",
-        "is_correct": false
-      },
-      {
-        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "text": "Choose a tense that suits the report’s purpose and keep it consistent unless the time reference genuinely changes.",
         "is_correct": true
       },
       {
-        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "text": "Use a different tense in every sentence for variety.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all verbs.",
+        "is_correct": false
+      },
+      {
+        "text": "Change all nouns into adjectives.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Consistent past tense suits events that happened during the same past time frame.",
-      "hint": "Only shift tense when the time frame changes."
-    }
+      "summary": "Appropriate and consistent tense helps readers understand when events or facts apply.",
+      "hint": "Check whether tense changes are purposeful rather than accidental."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 37
   },
   {
     "id": "AC9E4LY06-P-038",
@@ -1115,29 +1596,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "What would be the most effective choice for editing tense in a recount?",
-    "audio_prompt": "What would be the most effective choice for editing tense in a recount?",
+    "stage": "explain",
+    "skill": "appropriate tense",
+    "question": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which clue should guide your decision?",
+    "audio_prompt": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which clue should guide your decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "We arriving at the campsite and cooked tomorrow.",
+        "text": "Choose the option with the most words.",
         "is_correct": false
       },
       {
-        "text": "We arrived at the campsite, unpack the car and will cook dinner yesterday.",
+        "text": "Ignore the context and choose the first familiar phrase.",
         "is_correct": false
       },
       {
-        "text": "We arrived at the campsite, unpacked the car and cooked dinner.",
+        "text": "Prefer a vague answer so it can fit anything.",
+        "is_correct": false
+      },
+      {
+        "text": "Check whether tense changes are purposeful rather than accidental.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Consistent past tense suits events that happened during the same past time frame.",
-      "hint": "Only shift tense when the time frame changes."
-    }
+      "summary": "Appropriate and consistent tense helps readers understand when events or facts apply.",
+      "hint": "Check whether tense changes are purposeful rather than accidental."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 38
   },
   {
     "id": "AC9E4LY06-P-039",
@@ -1145,29 +1639,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "What would be the most effective choice for replacing vague vocabulary in a science explanation?",
-    "audio_prompt": "What would be the most effective choice for replacing vague vocabulary in a science explanation?",
+    "stage": "reflect",
+    "skill": "appropriate tense",
+    "question": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? A student chooses “Remove all verbs.”. Which feedback would best help them correct the choice?",
+    "audio_prompt": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? A student chooses “Remove all verbs.”. Which feedback would best help them correct the choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The metal expanded when it was heated.",
+        "text": "Choose a longer answer without checking meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the task context and focus only on spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Re-check the task and use this principle: Check whether tense changes are purposeful rather than accidental.",
         "is_correct": true
       },
       {
-        "text": "The metal became nice.",
-        "is_correct": false
-      },
-      {
-        "text": "The metal did something when it got hot.",
+        "text": "Keep the answer because first choices should never change.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Expanded precisely names the change and suits the scientific purpose.",
-      "hint": "Choose the most exact word for the meaning."
-    }
+      "summary": "Appropriate and consistent tense helps readers understand when events or facts apply.",
+      "hint": "Check whether tense changes are purposeful rather than accidental."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 39
   },
   {
     "id": "AC9E4LY06-P-040",
@@ -1176,28 +1683,385 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "practice",
     "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "You now need to handle replacing vague vocabulary in a science explanation independently. Which choice should you use?",
-    "audio_prompt": "You now need to handle replacing vague vocabulary in a science explanation independently. Which choice should you use?",
+    "skill": "appropriate tense",
+    "question": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which option applies the same skill accurately in this situation?",
+    "audio_prompt": "A report shifts from “The platypus lives in freshwater habitats” to “It hunted at night yesterday” without a reason. What should the writer edit? Which option applies the same skill accurately in this situation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The metal became nice.",
+        "text": "Change all nouns into adjectives.",
         "is_correct": false
       },
       {
-        "text": "The metal expanded when it was heated.",
+        "text": "Choose a tense that suits the report’s purpose and keep it consistent unless the time reference genuinely changes.",
         "is_correct": true
       },
       {
-        "text": "The metal did something when it got hot.",
+        "text": "Use a different tense in every sentence for variety.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all verbs.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Expanded precisely names the change and suits the scientific purpose.",
-      "hint": "Choose the most exact word for the meaning."
-    }
+      "summary": "Appropriate and consistent tense helps readers understand when events or facts apply.",
+      "hint": "Check whether tense changes are purposeful rather than accidental."
+    },
+    "curriculum_coverage": [
+      "E4"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9E4LY06-P-041",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "edit for cohesion",
+    "question": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which option best demonstrates the skill?",
+    "audio_prompt": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which option best demonstrates the skill?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The solar oven uses sunlight to become hot enough to cook food.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The solar oven. Hot. Food. Sunlight.”",
+        "is_correct": false
+      },
+      {
+        "text": "“It it it gets hot and it.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The solar oven uses sunlight. Bananas are yellow.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Editing can combine related ideas, reduce unnecessary repetition and make connections clearer.",
+      "hint": "Use pronouns, connectives and sentence combining only when they make relationships clearer."
+    },
+    "curriculum_coverage": [
+      "E5"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9E4LY06-P-042",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "recognise",
+    "skill": "edit for cohesion",
+    "question": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which choice is the strongest response?",
+    "audio_prompt": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which choice is the strongest response?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The solar oven. Hot. Food. Sunlight.”",
+        "is_correct": false
+      },
+      {
+        "text": "“It it it gets hot and it.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The solar oven uses sunlight. Bananas are yellow.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The solar oven uses sunlight to become hot enough to cook food.”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Editing can combine related ideas, reduce unnecessary repetition and make connections clearer.",
+      "hint": "Use pronouns, connectives and sentence combining only when they make relationships clearer."
+    },
+    "curriculum_coverage": [
+      "E5"
+    ],
+    "difficulty": 1,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9E4LY06-P-043",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "edit for cohesion",
+    "question": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Why is ““The solar oven uses sunlight to become hot enough to cook food.”” the strongest choice?",
+    "audio_prompt": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Why is ““The solar oven uses sunlight to become hot enough to cook food.”” the strongest choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "It avoids using evidence from the situation.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes the task instead of responding to it.",
+        "is_correct": false
+      },
+      {
+        "text": "Editing can combine related ideas, reduce unnecessary repetition and make connections clearer.",
+        "is_correct": true
+      },
+      {
+        "text": "It is longest, so it must be correct.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Editing can combine related ideas, reduce unnecessary repetition and make connections clearer.",
+      "hint": "Use pronouns, connectives and sentence combining only when they make relationships clearer."
+    },
+    "curriculum_coverage": [
+      "E5"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9E4LY06-P-044",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "edit for cohesion",
+    "question": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audio_prompt": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The solar oven uses sunlight. Bananas are yellow.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The solar oven. Hot. Food. Sunlight.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The solar oven uses sunlight to become hot enough to cook food.”",
+        "is_correct": false
+      },
+      {
+        "text": "“It it it gets hot and it.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "““The solar oven. Hot. Food. Sunlight.”” should be rejected because it does not meet the task as well as the evidence-based choice. Editing can combine related ideas, reduce unnecessary repetition and make connections clearer.",
+      "hint": "Use pronouns, connectives and sentence combining only when they make relationships clearer."
+    },
+    "curriculum_coverage": [
+      "E5"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9E4LY06-P-045",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "discriminate",
+    "skill": "edit for cohesion",
+    "question": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which revision best improves ““The solar oven. Hot. Food. Sunlight.””?",
+    "audio_prompt": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which revision best improves ““The solar oven. Hot. Food. Sunlight.””?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The solar oven uses sunlight to become hot enough to cook food.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The solar oven. Hot. Food. Sunlight.”",
+        "is_correct": false
+      },
+      {
+        "text": "“It it it gets hot and it.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The solar oven uses sunlight. Bananas are yellow.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Editing can combine related ideas, reduce unnecessary repetition and make connections clearer.",
+      "hint": "Use pronouns, connectives and sentence combining only when they make relationships clearer."
+    },
+    "curriculum_coverage": [
+      "E5"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9E4LY06-P-046",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "explain",
+    "skill": "edit for cohesion",
+    "question": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which clue should guide your decision?",
+    "audio_prompt": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which clue should guide your decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose the option with the most words.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the context and choose the first familiar phrase.",
+        "is_correct": false
+      },
+      {
+        "text": "Prefer a vague answer so it can fit anything.",
+        "is_correct": false
+      },
+      {
+        "text": "Use pronouns, connectives and sentence combining only when they make relationships clearer.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Editing can combine related ideas, reduce unnecessary repetition and make connections clearer.",
+      "hint": "Use pronouns, connectives and sentence combining only when they make relationships clearer."
+    },
+    "curriculum_coverage": [
+      "E5"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9E4LY06-P-047",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "reflect",
+    "skill": "edit for cohesion",
+    "question": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? A student chooses ““It it it gets hot and it.””. Which feedback would best help them correct the choice?",
+    "audio_prompt": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? A student chooses ““It it it gets hot and it.””. Which feedback would best help them correct the choice?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "Choose a longer answer without checking meaning.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the task context and focus only on spelling.",
+        "is_correct": false
+      },
+      {
+        "text": "Re-check the task and use this principle: Use pronouns, connectives and sentence combining only when they make relationships clearer.",
+        "is_correct": true
+      },
+      {
+        "text": "Keep the answer because first choices should never change.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Editing can combine related ideas, reduce unnecessary repetition and make connections clearer.",
+      "hint": "Use pronouns, connectives and sentence combining only when they make relationships clearer."
+    },
+    "curriculum_coverage": [
+      "E5"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 47
+  },
+  {
+    "id": "AC9E4LY06-P-048",
+    "subject": "english",
+    "year_level": "Year 4",
+    "curriculum_code": "AC9E4LY06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "edit for cohesion",
+    "question": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which option applies the same skill accurately in this situation?",
+    "audio_prompt": "A paragraph repeats “The solar oven gets hot. The solar oven cooks food. The solar oven uses sunlight.” Which revision improves cohesion? Which option applies the same skill accurately in this situation?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      {
+        "text": "“The solar oven uses sunlight. Bananas are yellow.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The solar oven uses sunlight to become hot enough to cook food.”",
+        "is_correct": true
+      },
+      {
+        "text": "“The solar oven. Hot. Food. Sunlight.”",
+        "is_correct": false
+      },
+      {
+        "text": "“It it it gets hot and it.”",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Editing can combine related ideas, reduce unnecessary repetition and make connections clearer.",
+      "hint": "Use pronouns, connectives and sentence combining only when they make relationships clearer."
+    },
+    "curriculum_coverage": [
+      "E5"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 48
   },
   {
     "id": "AC9E4LY06-T-001",
@@ -1206,28 +2070,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
     "stage": "verify",
-    "skill": "Creating Written Texts",
-    "question": "New context: editing a multisyllabic word and punctuation. Which option is correct?",
-    "audio_prompt": "New context: editing a multisyllabic word and punctuation. Which option is correct?",
+    "skill": "integrate research",
+    "question": "Unseen context: A student has notes from a library book and a government webpage about bushfire preparation. What is the best next step before drafting? Which option is best?",
+    "audio_prompt": "Unseen context: A student has notes from a library book and a government webpage about bushfire preparation. What is the best next step before drafting? Which option is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The enviromental program begins on Wednesday and families can regester online",
+        "text": "Use whichever source has more pictures.",
         "is_correct": false
       },
       {
-        "text": "The environmental program begins on Wednesday and, families can register online.",
+        "text": "Delete source details once notes are taken.",
         "is_correct": false
       },
       {
-        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "text": "Compare the information, keep relevant points, record both sources and organise notes under planned sections.",
         "is_correct": true
+      },
+      {
+        "text": "Merge sentences by copying them word for word.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
-      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
-    }
+      "summary": "Writers integrate researched information by selecting, organising and attributing useful evidence.",
+      "hint": "Plan how each source contributes rather than copying source wording."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 1
   },
   {
     "id": "AC9E4LY06-T-002",
@@ -1236,28 +2113,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
     "stage": "verify",
-    "skill": "Creating Written Texts",
-    "question": "What is the best choice for editing a multisyllabic word and punctuation?",
-    "audio_prompt": "What is the best choice for editing a multisyllabic word and punctuation?",
+    "skill": "integrate research",
+    "question": "Unseen context: A student has notes from a library book and a government webpage about bushfire preparation. What is the best next step before drafting? Which explanation best justifies “Compare the information, keep relevant points, record both sources and organise notes under planned sections.”?",
+    "audio_prompt": "Unseen context: A student has notes from a library book and a government webpage about bushfire preparation. What is the best next step before drafting? Which explanation best justifies “Compare the information, keep relevant points, record both sources and organise notes under planned sections.”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "text": "It avoids using the information supplied.",
+        "is_correct": false
+      },
+      {
+        "text": "Writers integrate researched information by selecting, organising and attributing useful evidence.",
         "is_correct": true
       },
       {
-        "text": "The enviromental program begins on Wednesday and families can regester online",
+        "text": "It is correct because it is the longest option.",
         "is_correct": false
       },
       {
-        "text": "The environmental program begins on Wednesday and, families can register online.",
+        "text": "It works by ignoring the purpose of the task.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
-      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
-    }
+      "summary": "Writers integrate researched information by selecting, organising and attributing useful evidence.",
+      "hint": "Plan how each source contributes rather than copying source wording."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 2
   },
   {
     "id": "AC9E4LY06-T-003",
@@ -1265,29 +2155,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Written Texts",
-    "question": "Which explanation best supports “The environmental program begins on Wednesday, and families can register online.” in editing a multisyllabic word and punctuation?",
-    "audio_prompt": "Which explanation best supports “The environmental program begins on Wednesday, and families can register online.” in editing a multisyllabic word and punctuation?",
+    "stage": "apply",
+    "skill": "integrate research",
+    "question": "Unseen context: A student has notes from a library book and a government webpage about bushfire preparation. What is the best next step before drafting? Which choice should be rejected first?",
+    "audio_prompt": "Unseen context: A student has notes from a library book and a government webpage about bushfire preparation. What is the best next step before drafting? Which choice should be rejected first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Because “The enviromental program begins on Wednesday and families can regester online” is always a safe choice.",
-        "is_correct": false
-      },
-      {
-        "text": "Editing checks spelling patterns and punctuation as well as ideas.",
+        "text": "Merge sentences by copying them word for word.",
         "is_correct": true
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "Compare the information, keep relevant points, record both sources and organise notes under planned sections.",
+        "is_correct": false
+      },
+      {
+        "text": "Use whichever source has more pictures.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete source details once notes are taken.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
-      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
-    }
+      "summary": "“Merge sentences by copying them word for word.” does not meet the task. Writers integrate researched information by selecting, organising and attributing useful evidence.",
+      "hint": "Plan how each source contributes rather than copying source wording."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 3
   },
   {
     "id": "AC9E4LY06-T-004",
@@ -1295,29 +2198,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Written Texts",
-    "question": "Which clue should guide your decision in editing a multisyllabic word and punctuation?",
-    "audio_prompt": "Which clue should guide your decision in editing a multisyllabic word and punctuation?",
+    "stage": "apply",
+    "skill": "integrate research",
+    "question": "Unseen context: A student has notes from a library book and a government webpage about bushfire preparation. What is the best next step before drafting? Which principle should guide the final decision?",
+    "audio_prompt": "Unseen context: A student has notes from a library book and a government webpage about bushfire preparation. What is the best next step before drafting? Which principle should guide the final decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "Choose the most complicated wording.",
         "is_correct": false
       },
       {
-        "text": "Ignore the context and use the first familiar form.",
+        "text": "Ignore the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "Read for one feature at a time: spelling, sentence boundary, then punctuation.",
+        "text": "Use only the first word as a clue.",
+        "is_correct": false
+      },
+      {
+        "text": "Plan how each source contributes rather than copying source wording.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
-      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
-    }
+      "summary": "Writers integrate researched information by selecting, organising and attributing useful evidence.",
+      "hint": "Plan how each source contributes rather than copying source wording."
+    },
+    "curriculum_coverage": [
+      "E1"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 4
   },
   {
     "id": "AC9E4LY06-T-005",
@@ -1325,29 +2241,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Which option would you reject first in editing a multisyllabic word and punctuation?",
-    "audio_prompt": "Which option would you reject first in editing a multisyllabic word and punctuation?",
+    "stage": "verify",
+    "skill": "structure persuasive text",
+    "question": "Unseen context: A persuasive text has reasons scattered randomly before the position is stated. Which revision most improves structure? Which option is best?",
+    "audio_prompt": "Unseen context: A persuasive text has reasons scattered randomly before the position is stated. Which revision most improves structure? Which option is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The enviromental program begins on Wednesday and families can regester online",
+        "text": "Add more adjectives without changing organisation.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the title to the bottom.",
+        "is_correct": false
+      },
+      {
+        "text": "State the position clearly, group related reasons into paragraphs and finish with a conclusion suited to the audience.",
         "is_correct": true
       },
       {
-        "text": "The environmental program begins on Wednesday, and families can register online.",
-        "is_correct": false
-      },
-      {
-        "text": "The environmental program begins on Wednesday and, families can register online.",
+        "text": "Put every sentence in alphabetical order.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Editing checks spelling patterns and punctuation as well as ideas.",
-      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
-    }
+      "summary": "Text structure should help the audience follow the purpose and progression of ideas.",
+      "hint": "Organise ideas in a sequence that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 5
   },
   {
     "id": "AC9E4LY06-T-006",
@@ -1355,29 +2284,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Which correction should replace “The enviromental program begins on Wednesday and families can regester online” in editing a multisyllabic word and punctuation?",
-    "audio_prompt": "Which correction should replace “The enviromental program begins on Wednesday and families can regester online” in editing a multisyllabic word and punctuation?",
+    "stage": "verify",
+    "skill": "structure persuasive text",
+    "question": "Unseen context: A persuasive text has reasons scattered randomly before the position is stated. Which revision most improves structure? Which explanation best justifies “State the position clearly, group related reasons into paragraphs and finish with a conclusion suited to the audience.”?",
+    "audio_prompt": "Unseen context: A persuasive text has reasons scattered randomly before the position is stated. Which revision most improves structure? Which explanation best justifies “State the position clearly, group related reasons into paragraphs and finish with a conclusion suited to the audience.”?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The enviromental program begins on Wednesday and families can regester online",
+        "text": "It avoids using the information supplied.",
         "is_correct": false
       },
       {
-        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "text": "Text structure should help the audience follow the purpose and progression of ideas.",
         "is_correct": true
       },
       {
-        "text": "The environmental program begins on Wednesday and, families can register online.",
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It works by ignoring the purpose of the task.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
-      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
-    }
+      "summary": "Text structure should help the audience follow the purpose and progression of ideas.",
+      "hint": "Organise ideas in a sequence that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 6
   },
   {
     "id": "AC9E4LY06-T-007",
@@ -1386,28 +2328,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
     "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Apply the skill to editing a multisyllabic word and punctuation: what should you choose?",
-    "audio_prompt": "Apply the skill to editing a multisyllabic word and punctuation: what should you choose?",
+    "skill": "structure persuasive text",
+    "question": "Unseen context: A persuasive text has reasons scattered randomly before the position is stated. Which revision most improves structure? Which choice should be rejected first?",
+    "audio_prompt": "Unseen context: A persuasive text has reasons scattered randomly before the position is stated. Which revision most improves structure? Which choice should be rejected first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The enviromental program begins on Wednesday and families can regester online",
-        "is_correct": false
-      },
-      {
-        "text": "The environmental program begins on Wednesday and, families can register online.",
-        "is_correct": false
-      },
-      {
-        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "text": "Put every sentence in alphabetical order.",
         "is_correct": true
+      },
+      {
+        "text": "State the position clearly, group related reasons into paragraphs and finish with a conclusion suited to the audience.",
+        "is_correct": false
+      },
+      {
+        "text": "Add more adjectives without changing organisation.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the title to the bottom.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
-      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
-    }
+      "summary": "“Put every sentence in alphabetical order.” does not meet the task. Text structure should help the audience follow the purpose and progression of ideas.",
+      "hint": "Organise ideas in a sequence that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 7
   },
   {
     "id": "AC9E4LY06-T-008",
@@ -1416,28 +2371,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
     "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Which final choice gives the clearest and most accurate result for editing a multisyllabic word and punctuation?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for editing a multisyllabic word and punctuation?",
+    "skill": "structure persuasive text",
+    "question": "Unseen context: A persuasive text has reasons scattered randomly before the position is stated. Which revision most improves structure? Which principle should guide the final decision?",
+    "audio_prompt": "Unseen context: A persuasive text has reasons scattered randomly before the position is stated. Which revision most improves structure? Which principle should guide the final decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The environmental program begins on Wednesday, and families can register online.",
+        "text": "Choose the most complicated wording.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the first word as a clue.",
+        "is_correct": false
+      },
+      {
+        "text": "Organise ideas in a sequence that supports the text’s purpose.",
         "is_correct": true
-      },
-      {
-        "text": "The enviromental program begins on Wednesday and families can regester online",
-        "is_correct": false
-      },
-      {
-        "text": "The environmental program begins on Wednesday and, families can register online.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Editing checks spelling patterns and punctuation as well as ideas.",
-      "hint": "Read for one feature at a time: spelling, sentence boundary, then punctuation."
-    }
+      "summary": "Text structure should help the audience follow the purpose and progression of ideas.",
+      "hint": "Organise ideas in a sequence that supports the text’s purpose."
+    },
+    "curriculum_coverage": [
+      "E2"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 8
   },
   {
     "id": "AC9E4LY06-T-009",
@@ -1446,28 +2414,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
     "stage": "verify",
-    "skill": "Creating Written Texts",
-    "question": "New context: writing a conclusion to a persuasive text about a bike rack. Which option is correct?",
-    "audio_prompt": "New context: writing a conclusion to a persuasive text about a bike rack. Which option is correct?",
+    "skill": "precise word choice",
+    "question": "Unseen context: Which revision best improves the sentence “The animal went quickly into its home” in a report about wombats? Which option is best?",
+    "audio_prompt": "Unseen context: Which revision best improves the sentence “The animal went quickly into its home” in a report about wombats? Which option is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Bikes have wheels.",
+        "text": "“The wombat was very, very going.”",
         "is_correct": false
       },
       {
-        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "text": "“Home animal quickly.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The wombat hurried into its burrow.”",
         "is_correct": true
       },
       {
-        "text": "Now I will introduce a completely different issue.",
+        "text": "“The thing went somewhere fast.”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
-      "hint": "Finish by reinforcing the main case."
-    }
+      "summary": "Specific nouns and verbs make information more precise and efficient.",
+      "hint": "Choose exact vocabulary that fits the topic and meaning."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 9
   },
   {
     "id": "AC9E4LY06-T-010",
@@ -1476,28 +2457,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
     "stage": "verify",
-    "skill": "Creating Written Texts",
-    "question": "What is the best choice for writing a conclusion to a persuasive text about a bike rack?",
-    "audio_prompt": "What is the best choice for writing a conclusion to a persuasive text about a bike rack?",
+    "skill": "precise word choice",
+    "question": "Unseen context: Which revision best improves the sentence “The animal went quickly into its home” in a report about wombats? Which explanation best justifies ““The wombat hurried into its burrow.””?",
+    "audio_prompt": "Unseen context: Which revision best improves the sentence “The animal went quickly into its home” in a report about wombats? Which explanation best justifies ““The wombat hurried into its burrow.””?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Bikes have wheels.",
+        "text": "It avoids using the information supplied.",
         "is_correct": false
       },
       {
-        "text": "Now I will introduce a completely different issue.",
-        "is_correct": false
-      },
-      {
-        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "text": "Specific nouns and verbs make information more precise and efficient.",
         "is_correct": true
+      },
+      {
+        "text": "It is correct because it is the longest option.",
+        "is_correct": false
+      },
+      {
+        "text": "It works by ignoring the purpose of the task.",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
-      "hint": "Finish by reinforcing the main case."
-    }
+      "summary": "Specific nouns and verbs make information more precise and efficient.",
+      "hint": "Choose exact vocabulary that fits the topic and meaning."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 10
   },
   {
     "id": "AC9E4LY06-T-011",
@@ -1505,29 +2499,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Written Texts",
-    "question": "Which explanation best supports “For these reasons, a covered bike rack would make cycling to school safer and more practical.” in writing a conclusion to a persuasive text about a bike rack?",
-    "audio_prompt": "Which explanation best supports “For these reasons, a covered bike rack would make cycling to school safer and more practical.” in writing a conclusion to a persuasive text about a bike rack?",
+    "stage": "apply",
+    "skill": "precise word choice",
+    "question": "Unseen context: Which revision best improves the sentence “The animal went quickly into its home” in a report about wombats? Which choice should be rejected first?",
+    "audio_prompt": "Unseen context: Which revision best improves the sentence “The animal went quickly into its home” in a report about wombats? Which choice should be rejected first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
+        "text": "“The thing went somewhere fast.”",
         "is_correct": true
       },
       {
-        "text": "Because “Bikes have wheels.” is always a safe choice.",
+        "text": "“The wombat hurried into its burrow.”",
         "is_correct": false
       },
       {
-        "text": "Because surface appearance matters more than meaning.",
+        "text": "“The wombat was very, very going.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Home animal quickly.”",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
-      "hint": "Finish by reinforcing the main case."
-    }
+      "summary": "““The thing went somewhere fast.”” does not meet the task. Specific nouns and verbs make information more precise and efficient.",
+      "hint": "Choose exact vocabulary that fits the topic and meaning."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 11
   },
   {
     "id": "AC9E4LY06-T-012",
@@ -1535,29 +2542,42 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
-    "stage": "verify",
-    "skill": "Creating Written Texts",
-    "question": "Which clue should guide your decision in writing a conclusion to a persuasive text about a bike rack?",
-    "audio_prompt": "Which clue should guide your decision in writing a conclusion to a persuasive text about a bike rack?",
+    "stage": "apply",
+    "skill": "precise word choice",
+    "question": "Unseen context: Which revision best improves the sentence “The animal went quickly into its home” in a report about wombats? Which principle should guide the final decision?",
+    "audio_prompt": "Unseen context: Which revision best improves the sentence “The animal went quickly into its home” in a report about wombats? Which principle should guide the final decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Choose the option with the most words.",
+        "text": "Choose the most complicated wording.",
         "is_correct": false
       },
       {
-        "text": "Finish by reinforcing the main case.",
+        "text": "Ignore the audience or purpose.",
+        "is_correct": false
+      },
+      {
+        "text": "Use only the first word as a clue.",
+        "is_correct": false
+      },
+      {
+        "text": "Choose exact vocabulary that fits the topic and meaning.",
         "is_correct": true
-      },
-      {
-        "text": "Ignore the context and use the first familiar form.",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
-      "hint": "Finish by reinforcing the main case."
-    }
+      "summary": "Specific nouns and verbs make information more precise and efficient.",
+      "hint": "Choose exact vocabulary that fits the topic and meaning."
+    },
+    "curriculum_coverage": [
+      "E3"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 12
   },
   {
     "id": "AC9E4LY06-T-013",
@@ -1565,29 +2585,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Which option would you reject first in writing a conclusion to a persuasive text about a bike rack?",
-    "audio_prompt": "Which option would you reject first in writing a conclusion to a persuasive text about a bike rack?",
+    "stage": "verify",
+    "skill": "edit sentence structure",
+    "question": "Unseen context: A draft says, “When the rain stopped. We returned to the oval.” Which edit creates a correct complex sentence? Which option is best?",
+    "audio_prompt": "Unseen context: A draft says, “When the rain stopped. We returned to the oval.” Which edit creates a correct complex sentence? Which option is best?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "text": "“The rain stopped because.”",
         "is_correct": false
       },
       {
-        "text": "Now I will introduce a completely different issue.",
+        "text": "“Returned to the oval when.”",
         "is_correct": false
       },
       {
-        "text": "Bikes have wheels.",
+        "text": "“When the rain stopped, we returned to the oval.”",
         "is_correct": true
+      },
+      {
+        "text": "“When the rain stopped we.”",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
-      "hint": "Finish by reinforcing the main case."
-    }
+      "summary": "The dependent clause needs an independent clause to form a complete complex sentence.",
+      "hint": "Check that a dependent clause is attached to a complete independent clause."
+    },
+    "curriculum_coverage": [
+      "E4",
+      "E5"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9E4LY06-T-014",
@@ -1595,29 +2629,43 @@
     "year_level": "Year 4",
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
-    "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Which correction should replace “Bikes have wheels.” in writing a conclusion to a persuasive text about a bike rack?",
-    "audio_prompt": "Which correction should replace “Bikes have wheels.” in writing a conclusion to a persuasive text about a bike rack?",
+    "stage": "verify",
+    "skill": "edit sentence structure",
+    "question": "Unseen context: A draft says, “When the rain stopped. We returned to the oval.” Which edit creates a correct complex sentence? Which explanation best justifies ““When the rain stopped, we returned to the oval.””?",
+    "audio_prompt": "Unseen context: A draft says, “When the rain stopped. We returned to the oval.” Which edit creates a correct complex sentence? Which explanation best justifies ““When the rain stopped, we returned to the oval.””?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "text": "It avoids using the information supplied.",
+        "is_correct": false
+      },
+      {
+        "text": "The dependent clause needs an independent clause to form a complete complex sentence.",
         "is_correct": true
       },
       {
-        "text": "Bikes have wheels.",
+        "text": "It is correct because it is the longest option.",
         "is_correct": false
       },
       {
-        "text": "Now I will introduce a completely different issue.",
+        "text": "It works by ignoring the purpose of the task.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
-      "hint": "Finish by reinforcing the main case."
-    }
+      "summary": "The dependent clause needs an independent clause to form a complete complex sentence.",
+      "hint": "Check that a dependent clause is attached to a complete independent clause."
+    },
+    "curriculum_coverage": [
+      "E4",
+      "E5"
+    ],
+    "difficulty": 2,
+    "sequence_priority": 14
   },
   {
     "id": "AC9E4LY06-T-015",
@@ -1626,28 +2674,42 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
     "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Apply the skill to writing a conclusion to a persuasive text about a bike rack: what should you choose?",
-    "audio_prompt": "Apply the skill to writing a conclusion to a persuasive text about a bike rack: what should you choose?",
+    "skill": "edit sentence structure",
+    "question": "Unseen context: A draft says, “When the rain stopped. We returned to the oval.” Which edit creates a correct complex sentence? Which choice should be rejected first?",
+    "audio_prompt": "Unseen context: A draft says, “When the rain stopped. We returned to the oval.” Which edit creates a correct complex sentence? Which choice should be rejected first?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Bikes have wheels.",
-        "is_correct": false
-      },
-      {
-        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "text": "“When the rain stopped we.”",
         "is_correct": true
       },
       {
-        "text": "Now I will introduce a completely different issue.",
+        "text": "“When the rain stopped, we returned to the oval.”",
+        "is_correct": false
+      },
+      {
+        "text": "“The rain stopped because.”",
+        "is_correct": false
+      },
+      {
+        "text": "“Returned to the oval when.”",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
-      "hint": "Finish by reinforcing the main case."
-    }
+      "summary": "““When the rain stopped we.”” does not meet the task. The dependent clause needs an independent clause to form a complete complex sentence.",
+      "hint": "Check that a dependent clause is attached to a complete independent clause."
+    },
+    "curriculum_coverage": [
+      "E4",
+      "E5"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 15
   },
   {
     "id": "AC9E4LY06-T-016",
@@ -1656,27 +2718,41 @@
     "curriculum_code": "AC9E4LY06",
     "bank": "test",
     "stage": "apply",
-    "skill": "Creating Written Texts",
-    "question": "Which final choice gives the clearest and most accurate result for writing a conclusion to a persuasive text about a bike rack?",
-    "audio_prompt": "Which final choice gives the clearest and most accurate result for writing a conclusion to a persuasive text about a bike rack?",
+    "skill": "edit sentence structure",
+    "question": "Unseen context: A draft says, “When the rain stopped. We returned to the oval.” Which edit creates a correct complex sentence? Which principle should guide the final decision?",
+    "audio_prompt": "Unseen context: A draft says, “When the rain stopped. We returned to the oval.” Which edit creates a correct complex sentence? Which principle should guide the final decision?",
+    "visual": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
       {
-        "text": "Bikes have wheels.",
+        "text": "Choose the most complicated wording.",
         "is_correct": false
       },
       {
-        "text": "Now I will introduce a completely different issue.",
+        "text": "Ignore the audience or purpose.",
         "is_correct": false
       },
       {
-        "text": "For these reasons, a covered bike rack would make cycling to school safer and more practical.",
+        "text": "Use only the first word as a clue.",
+        "is_correct": false
+      },
+      {
+        "text": "Check that a dependent clause is attached to a complete independent clause.",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The conclusion returns to the position and synthesises the reasons instead of adding a new topic.",
-      "hint": "Finish by reinforcing the main case."
-    }
+      "summary": "The dependent clause needs an independent clause to form a complete complex sentence.",
+      "hint": "Check that a dependent clause is attached to a complete independent clause."
+    },
+    "curriculum_coverage": [
+      "E4",
+      "E5"
+    ],
+    "difficulty": 3,
+    "sequence_priority": 16
   }
 ]

@@ -4,23 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-001",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "multimodal connection",
     "printable": true,
     "type": "single",
-    "question": "New context: checking a prediction halfway through a mystery story. Which option is correct?",
-    "audioPrompt": "New context: checking a prediction halfway through a mystery story. Which option is correct?",
+    "question": "Unseen context: A news page includes a graph showing rainfall totals and a paragraph explaining that the wettest month was March. What is the best way to combine the information? Which option is best?",
+    "audioPrompt": "Unseen context: A news page includes a graph showing rainfall totals and a paragraph explaining that the wettest month was March. What is the best way to combine the information? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the first prediction no matter what the text says.",
-      "Revise the prediction if new clues no longer support it.",
-      "Choose a new prediction randomly."
+      "Choose only the graph because words are biased.",
+      "Assume both modes must contain identical information.",
+      "Use the graph to verify and compare rainfall amounts while the paragraph states the key conclusion.",
+      "Choose only the paragraph because graphs are optional."
     ],
-    "correct": 1,
-    "explanation": "Good readers monitor predictions against new evidence.\nHint: Predictions are working ideas, not fixed answers.",
+    "difficulty": 2,
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "Readers build meaning by connecting complementary information across modes.\nHint: Compare what each mode contributes to the same topic.",
     "structuredExplanation": {
-      "summary": "Good readers monitor predictions against new evidence.",
-      "hint": "Predictions are working ideas, not fixed answers."
+      "summary": "Readers build meaning by connecting complementary information across modes.",
+      "hint": "Compare what each mode contributes to the same topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-002",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "multimodal connection",
     "printable": true,
     "type": "single",
-    "question": "What is the best choice for checking a prediction halfway through a mystery story?",
-    "audioPrompt": "What is the best choice for checking a prediction halfway through a mystery story?",
+    "question": "Unseen context: A news page includes a graph showing rainfall totals and a paragraph explaining that the wettest month was March. What is the best way to combine the information? Which explanation best justifies “Use the graph to verify and compare rainfall amounts while the paragraph states the key conclusion.”?",
+    "audioPrompt": "Unseen context: A news page includes a graph showing rainfall totals and a paragraph explaining that the wettest month was March. What is the best way to combine the information? Which explanation best justifies “Use the graph to verify and compare rainfall amounts while the paragraph states the key conclusion.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the first prediction no matter what the text says.",
-      "Choose a new prediction randomly.",
-      "Revise the prediction if new clues no longer support it."
+      "It avoids using the information supplied.",
+      "Readers build meaning by connecting complementary information across modes.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
-    "correct": 2,
-    "explanation": "Good readers monitor predictions against new evidence.\nHint: Predictions are working ideas, not fixed answers.",
+    "difficulty": 2,
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Readers build meaning by connecting complementary information across modes.\nHint: Compare what each mode contributes to the same topic.",
     "structuredExplanation": {
-      "summary": "Good readers monitor predictions against new evidence.",
-      "hint": "Predictions are working ideas, not fixed answers."
+      "summary": "Readers build meaning by connecting complementary information across modes.",
+      "hint": "Compare what each mode contributes to the same topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-003",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "multimodal connection",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best supports “Revise the prediction if new clues no longer support it.” in checking a prediction halfway through a mystery story?",
-    "audioPrompt": "Which explanation best supports “Revise the prediction if new clues no longer support it.” in checking a prediction halfway through a mystery story?",
+    "question": "Unseen context: A news page includes a graph showing rainfall totals and a paragraph explaining that the wettest month was March. What is the best way to combine the information? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: A news page includes a graph showing rainfall totals and a paragraph explaining that the wettest month was March. What is the best way to combine the information? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Good readers monitor predictions against new evidence.",
-      "Because “Keep the first prediction no matter what the text says.” is always a safe choice.",
-      "Because surface appearance matters more than meaning."
+      "Choose only the paragraph because graphs are optional.",
+      "Use the graph to verify and compare rainfall amounts while the paragraph states the key conclusion.",
+      "Choose only the graph because words are biased.",
+      "Assume both modes must contain identical information."
     ],
+    "difficulty": 3,
+    "sequencePriority": 3,
     "correct": 0,
-    "explanation": "Good readers monitor predictions against new evidence.\nHint: Predictions are working ideas, not fixed answers.",
+    "explanation": "“Choose only the paragraph because graphs are optional.” does not meet the task. Readers build meaning by connecting complementary information across modes.\nHint: Compare what each mode contributes to the same topic.",
     "structuredExplanation": {
-      "summary": "Good readers monitor predictions against new evidence.",
-      "hint": "Predictions are working ideas, not fixed answers."
+      "summary": "“Choose only the paragraph because graphs are optional.” does not meet the task. Readers build meaning by connecting complementary information across modes.",
+      "hint": "Compare what each mode contributes to the same topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-004",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "multimodal connection",
     "printable": true,
     "type": "single",
-    "question": "Which clue should guide your decision in checking a prediction halfway through a mystery story?",
-    "audioPrompt": "Which clue should guide your decision in checking a prediction halfway through a mystery story?",
+    "question": "Unseen context: A news page includes a graph showing rainfall totals and a paragraph explaining that the wettest month was March. What is the best way to combine the information? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: A news page includes a graph showing rainfall totals and a paragraph explaining that the wettest month was March. What is the best way to combine the information? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Choose the option with the most words.",
-      "Predictions are working ideas, not fixed answers.",
-      "Ignore the context and use the first familiar form."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Compare what each mode contributes to the same topic."
     ],
-    "correct": 1,
-    "explanation": "Good readers monitor predictions against new evidence.\nHint: Predictions are working ideas, not fixed answers.",
+    "difficulty": 3,
+    "sequencePriority": 4,
+    "correct": 3,
+    "explanation": "Readers build meaning by connecting complementary information across modes.\nHint: Compare what each mode contributes to the same topic.",
     "structuredExplanation": {
-      "summary": "Good readers monitor predictions against new evidence.",
-      "hint": "Predictions are working ideas, not fixed answers."
+      "summary": "Readers build meaning by connecting complementary information across modes.",
+      "hint": "Compare what each mode contributes to the same topic."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-005",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "main idea",
     "printable": true,
     "type": "single",
-    "question": "Which option would you reject first in checking a prediction halfway through a mystery story?",
-    "audioPrompt": "Which option would you reject first in checking a prediction halfway through a mystery story?",
+    "question": "Unseen context: A paragraph states that a wetland supports frogs, insects and waterbirds, then gives one sentence about each. What is the main idea? Which option is best?",
+    "audioPrompt": "Unseen context: A paragraph states that a wetland supports frogs, insects and waterbirds, then gives one sentence about each. What is the main idea? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Revise the prediction if new clues no longer support it.",
-      "Choose a new prediction randomly.",
-      "Keep the first prediction no matter what the text says."
+      "Insects are small.",
+      "Waterbirds have feathers.",
+      "The wetland provides habitat for several kinds of animals.",
+      "Frogs can jump."
     ],
+    "difficulty": 2,
+    "sequencePriority": 5,
     "correct": 2,
-    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. Good readers monitor predictions against new evidence.\nHint: Predictions are working ideas, not fixed answers.",
+    "explanation": "The main idea is the broader point supported by the details about several animal groups.\nHint: Ask what all the supporting details are helping to show.",
     "structuredExplanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Good readers monitor predictions against new evidence.",
-      "hint": "Predictions are working ideas, not fixed answers."
+      "summary": "The main idea is the broader point supported by the details about several animal groups.",
+      "hint": "Ask what all the supporting details are helping to show."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-006",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "main idea",
     "printable": true,
     "type": "single",
-    "question": "Which correction should replace “Keep the first prediction no matter what the text says.” in checking a prediction halfway through a mystery story?",
-    "audioPrompt": "Which correction should replace “Keep the first prediction no matter what the text says.” in checking a prediction halfway through a mystery story?",
+    "question": "Unseen context: A paragraph states that a wetland supports frogs, insects and waterbirds, then gives one sentence about each. What is the main idea? Which explanation best justifies “The wetland provides habitat for several kinds of animals.”?",
+    "audioPrompt": "Unseen context: A paragraph states that a wetland supports frogs, insects and waterbirds, then gives one sentence about each. What is the main idea? Which explanation best justifies “The wetland provides habitat for several kinds of animals.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Revise the prediction if new clues no longer support it.",
-      "Keep the first prediction no matter what the text says.",
-      "Choose a new prediction randomly."
+      "It avoids using the information supplied.",
+      "The main idea is the broader point supported by the details about several animal groups.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
-    "correct": 0,
-    "explanation": "Good readers monitor predictions against new evidence.\nHint: Predictions are working ideas, not fixed answers.",
+    "difficulty": 2,
+    "sequencePriority": 6,
+    "correct": 1,
+    "explanation": "The main idea is the broader point supported by the details about several animal groups.\nHint: Ask what all the supporting details are helping to show.",
     "structuredExplanation": {
-      "summary": "Good readers monitor predictions against new evidence.",
-      "hint": "Predictions are working ideas, not fixed answers."
+      "summary": "The main idea is the broader point supported by the details about several animal groups.",
+      "hint": "Ask what all the supporting details are helping to show."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-007",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "main idea",
     "printable": true,
     "type": "single",
-    "question": "Apply the skill to checking a prediction halfway through a mystery story: what should you choose?",
-    "audioPrompt": "Apply the skill to checking a prediction halfway through a mystery story: what should you choose?",
+    "question": "Unseen context: A paragraph states that a wetland supports frogs, insects and waterbirds, then gives one sentence about each. What is the main idea? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: A paragraph states that a wetland supports frogs, insects and waterbirds, then gives one sentence about each. What is the main idea? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the first prediction no matter what the text says.",
-      "Revise the prediction if new clues no longer support it.",
-      "Choose a new prediction randomly."
+      "Frogs can jump.",
+      "The wetland provides habitat for several kinds of animals.",
+      "Insects are small.",
+      "Waterbirds have feathers."
     ],
-    "correct": 1,
-    "explanation": "Good readers monitor predictions against new evidence.\nHint: Predictions are working ideas, not fixed answers.",
+    "difficulty": 3,
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "“Frogs can jump.” does not meet the task. The main idea is the broader point supported by the details about several animal groups.\nHint: Ask what all the supporting details are helping to show.",
     "structuredExplanation": {
-      "summary": "Good readers monitor predictions against new evidence.",
-      "hint": "Predictions are working ideas, not fixed answers."
+      "summary": "“Frogs can jump.” does not meet the task. The main idea is the broader point supported by the details about several animal groups.",
+      "hint": "Ask what all the supporting details are helping to show."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-008",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "main idea",
     "printable": true,
     "type": "single",
-    "question": "Which final choice gives the clearest and most accurate result for checking a prediction halfway through a mystery story?",
-    "audioPrompt": "Which final choice gives the clearest and most accurate result for checking a prediction halfway through a mystery story?",
+    "question": "Unseen context: A paragraph states that a wetland supports frogs, insects and waterbirds, then gives one sentence about each. What is the main idea? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: A paragraph states that a wetland supports frogs, insects and waterbirds, then gives one sentence about each. What is the main idea? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Keep the first prediction no matter what the text says.",
-      "Choose a new prediction randomly.",
-      "Revise the prediction if new clues no longer support it."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Ask what all the supporting details are helping to show."
     ],
-    "correct": 2,
-    "explanation": "Good readers monitor predictions against new evidence.\nHint: Predictions are working ideas, not fixed answers.",
+    "difficulty": 3,
+    "sequencePriority": 8,
+    "correct": 3,
+    "explanation": "The main idea is the broader point supported by the details about several animal groups.\nHint: Ask what all the supporting details are helping to show.",
     "structuredExplanation": {
-      "summary": "Good readers monitor predictions against new evidence.",
-      "hint": "Predictions are working ideas, not fixed answers."
+      "summary": "The main idea is the broader point supported by the details about several animal groups.",
+      "hint": "Ask what all the supporting details are helping to show."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-009",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate argument",
     "printable": true,
     "type": "single",
-    "question": "New context: asking a useful question while reading an argument about school uniforms. Which option is correct?",
-    "audioPrompt": "New context: asking a useful question while reading an argument about school uniforms. Which option is correct?",
+    "question": "Unseen context: A persuasive article cites a council water report with measured household use, then claims shorter showers could reduce consumption. Why is this stronger than an unsupported claim? Which option is best?",
+    "audioPrompt": "Unseen context: A persuasive article cites a council water report with measured household use, then claims shorter showers could reduce consumption. Why is this stronger than an unsupported claim? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "What evidence does the writer give that uniforms save families money?",
-      "What is my favourite colour?",
-      "How many letters are in the title?"
+      "Numbers are persuasive even when unrelated.",
+      "Recommendations do not need reasoning if a report is mentioned.",
+      "The argument connects its recommendation to relevant evidence from an identifiable source.",
+      "Any government source makes every conclusion automatically true."
     ],
-    "correct": 0,
-    "explanation": "A useful comprehension question targets the writer’s claim, evidence or reasoning.\nHint: Ask something that helps test or deepen understanding of the text.",
+    "difficulty": 2,
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "Strong arguments use relevant evidence and reasoning, while readers still consider source quality and whether the evidence supports the claim.\nHint: Check source, relevance and the reasoning link between evidence and claim.",
     "structuredExplanation": {
-      "summary": "A useful comprehension question targets the writer’s claim, evidence or reasoning.",
-      "hint": "Ask something that helps test or deepen understanding of the text."
+      "summary": "Strong arguments use relevant evidence and reasoning, while readers still consider source quality and whether the evidence supports the claim.",
+      "hint": "Check source, relevance and the reasoning link between evidence and claim."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-010",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate argument",
     "printable": true,
     "type": "single",
-    "question": "What is the best choice for asking a useful question while reading an argument about school uniforms?",
-    "audioPrompt": "What is the best choice for asking a useful question while reading an argument about school uniforms?",
+    "question": "Unseen context: A persuasive article cites a council water report with measured household use, then claims shorter showers could reduce consumption. Why is this stronger than an unsupported claim? Which explanation best justifies “The argument connects its recommendation to relevant evidence from an identifiable source.”?",
+    "audioPrompt": "Unseen context: A persuasive article cites a council water report with measured household use, then claims shorter showers could reduce consumption. Why is this stronger than an unsupported claim? Which explanation best justifies “The argument connects its recommendation to relevant evidence from an identifiable source.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "What is my favourite colour?",
-      "What evidence does the writer give that uniforms save families money?",
-      "How many letters are in the title?"
+      "It avoids using the information supplied.",
+      "Strong arguments use relevant evidence and reasoning, while readers still consider source quality and whether the evidence supports the claim.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
+    "difficulty": 2,
+    "sequencePriority": 10,
     "correct": 1,
-    "explanation": "A useful comprehension question targets the writer’s claim, evidence or reasoning.\nHint: Ask something that helps test or deepen understanding of the text.",
+    "explanation": "Strong arguments use relevant evidence and reasoning, while readers still consider source quality and whether the evidence supports the claim.\nHint: Check source, relevance and the reasoning link between evidence and claim.",
     "structuredExplanation": {
-      "summary": "A useful comprehension question targets the writer’s claim, evidence or reasoning.",
-      "hint": "Ask something that helps test or deepen understanding of the text."
+      "summary": "Strong arguments use relevant evidence and reasoning, while readers still consider source quality and whether the evidence supports the claim.",
+      "hint": "Check source, relevance and the reasoning link between evidence and claim."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-011",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate argument",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best supports “What evidence does the writer give that uniforms save families money?” in asking a useful question while reading an argument about school uniforms?",
-    "audioPrompt": "Which explanation best supports “What evidence does the writer give that uniforms save families money?” in asking a useful question while reading an argument about school uniforms?",
+    "question": "Unseen context: A persuasive article cites a council water report with measured household use, then claims shorter showers could reduce consumption. Why is this stronger than an unsupported claim? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: A persuasive article cites a council water report with measured household use, then claims shorter showers could reduce consumption. Why is this stronger than an unsupported claim? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “What is my favourite colour?” is always a safe choice.",
-      "Because surface appearance matters more than meaning.",
-      "A useful comprehension question targets the writer’s claim, evidence or reasoning."
+      "Any government source makes every conclusion automatically true.",
+      "The argument connects its recommendation to relevant evidence from an identifiable source.",
+      "Numbers are persuasive even when unrelated.",
+      "Recommendations do not need reasoning if a report is mentioned."
     ],
-    "correct": 2,
-    "explanation": "A useful comprehension question targets the writer’s claim, evidence or reasoning.\nHint: Ask something that helps test or deepen understanding of the text.",
+    "difficulty": 3,
+    "sequencePriority": 11,
+    "correct": 0,
+    "explanation": "“Any government source makes every conclusion automatically true.” does not meet the task. Strong arguments use relevant evidence and reasoning, while readers still consider source quality and whether the evidence supports the claim.\nHint: Check source, relevance and the reasoning link between evidence and claim.",
     "structuredExplanation": {
-      "summary": "A useful comprehension question targets the writer’s claim, evidence or reasoning.",
-      "hint": "Ask something that helps test or deepen understanding of the text."
+      "summary": "“Any government source makes every conclusion automatically true.” does not meet the task. Strong arguments use relevant evidence and reasoning, while readers still consider source quality and whether the evidence supports the claim.",
+      "hint": "Check source, relevance and the reasoning link between evidence and claim."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-012",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "evaluate argument",
     "printable": true,
     "type": "single",
-    "question": "Which clue should guide your decision in asking a useful question while reading an argument about school uniforms?",
-    "audioPrompt": "Which clue should guide your decision in asking a useful question while reading an argument about school uniforms?",
+    "question": "Unseen context: A persuasive article cites a council water report with measured household use, then claims shorter showers could reduce consumption. Why is this stronger than an unsupported claim? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: A persuasive article cites a council water report with measured household use, then claims shorter showers could reduce consumption. Why is this stronger than an unsupported claim? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Ask something that helps test or deepen understanding of the text.",
-      "Choose the option with the most words.",
-      "Ignore the context and use the first familiar form."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Check source, relevance and the reasoning link between evidence and claim."
     ],
-    "correct": 0,
-    "explanation": "A useful comprehension question targets the writer’s claim, evidence or reasoning.\nHint: Ask something that helps test or deepen understanding of the text.",
+    "difficulty": 3,
+    "sequencePriority": 12,
+    "correct": 3,
+    "explanation": "Strong arguments use relevant evidence and reasoning, while readers still consider source quality and whether the evidence supports the claim.\nHint: Check source, relevance and the reasoning link between evidence and claim.",
     "structuredExplanation": {
-      "summary": "A useful comprehension question targets the writer’s claim, evidence or reasoning.",
-      "hint": "Ask something that helps test or deepen understanding of the text."
+      "summary": "Strong arguments use relevant evidence and reasoning, while readers still consider source quality and whether the evidence supports the claim.",
+      "hint": "Check source, relevance and the reasoning link between evidence and claim."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-013",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "predict and monitor",
     "printable": true,
     "type": "single",
-    "question": "Which option would you reject first in asking a useful question while reading an argument about school uniforms?",
-    "audioPrompt": "Which option would you reject first in asking a useful question while reading an argument about school uniforms?",
+    "question": "Unseen context: While reading, a student predicts that a character will miss the bus, but the next paragraph says the bus is delayed. What should the student do? Which option is best?",
+    "audioPrompt": "Unseen context: While reading, a student predicts that a character will miss the bus, but the next paragraph says the bus is delayed. What should the student do? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "What evidence does the writer give that uniforms save families money?",
-      "What is my favourite colour?",
-      "How many letters are in the title?"
+      "Ignore the new paragraph.",
+      "Change the prediction randomly.",
+      "Revise the prediction using the new evidence and continue monitoring whether it still fits.",
+      "Keep the original prediction no matter what."
     ],
-    "correct": 1,
-    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. A useful comprehension question targets the writer’s claim, evidence or reasoning.\nHint: Ask something that helps test or deepen understanding of the text.",
+    "difficulty": 2,
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "Predictions are provisional and should be updated when new textual evidence changes what is likely.\nHint: Use new evidence to confirm, refine or reject a prediction.",
     "structuredExplanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A useful comprehension question targets the writer’s claim, evidence or reasoning.",
-      "hint": "Ask something that helps test or deepen understanding of the text."
+      "summary": "Predictions are provisional and should be updated when new textual evidence changes what is likely.",
+      "hint": "Use new evidence to confirm, refine or reject a prediction."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +407,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-014",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "predict and monitor",
     "printable": true,
     "type": "single",
-    "question": "Which correction should replace “What is my favourite colour?” in asking a useful question while reading an argument about school uniforms?",
-    "audioPrompt": "Which correction should replace “What is my favourite colour?” in asking a useful question while reading an argument about school uniforms?",
+    "question": "Unseen context: While reading, a student predicts that a character will miss the bus, but the next paragraph says the bus is delayed. What should the student do? Which explanation best justifies “Revise the prediction using the new evidence and continue monitoring whether it still fits.”?",
+    "audioPrompt": "Unseen context: While reading, a student predicts that a character will miss the bus, but the next paragraph says the bus is delayed. What should the student do? Which explanation best justifies “Revise the prediction using the new evidence and continue monitoring whether it still fits.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "What is my favourite colour?",
-      "How many letters are in the title?",
-      "What evidence does the writer give that uniforms save families money?"
+      "It avoids using the information supplied.",
+      "Predictions are provisional and should be updated when new textual evidence changes what is likely.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
-    "correct": 2,
-    "explanation": "A useful comprehension question targets the writer’s claim, evidence or reasoning.\nHint: Ask something that helps test or deepen understanding of the text.",
+    "difficulty": 2,
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Predictions are provisional and should be updated when new textual evidence changes what is likely.\nHint: Use new evidence to confirm, refine or reject a prediction.",
     "structuredExplanation": {
-      "summary": "A useful comprehension question targets the writer’s claim, evidence or reasoning.",
-      "hint": "Ask something that helps test or deepen understanding of the text."
+      "summary": "Predictions are provisional and should be updated when new textual evidence changes what is likely.",
+      "hint": "Use new evidence to confirm, refine or reject a prediction."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +438,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-015",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "predict and monitor",
     "printable": true,
     "type": "single",
-    "question": "Apply the skill to asking a useful question while reading an argument about school uniforms: what should you choose?",
-    "audioPrompt": "Apply the skill to asking a useful question while reading an argument about school uniforms: what should you choose?",
+    "question": "Unseen context: While reading, a student predicts that a character will miss the bus, but the next paragraph says the bus is delayed. What should the student do? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: While reading, a student predicts that a character will miss the bus, but the next paragraph says the bus is delayed. What should the student do? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "What evidence does the writer give that uniforms save families money?",
-      "What is my favourite colour?",
-      "How many letters are in the title?"
+      "Keep the original prediction no matter what.",
+      "Revise the prediction using the new evidence and continue monitoring whether it still fits.",
+      "Ignore the new paragraph.",
+      "Change the prediction randomly."
     ],
+    "difficulty": 3,
+    "sequencePriority": 15,
     "correct": 0,
-    "explanation": "A useful comprehension question targets the writer’s claim, evidence or reasoning.\nHint: Ask something that helps test or deepen understanding of the text.",
+    "explanation": "“Keep the original prediction no matter what.” does not meet the task. Predictions are provisional and should be updated when new textual evidence changes what is likely.\nHint: Use new evidence to confirm, refine or reject a prediction.",
     "structuredExplanation": {
-      "summary": "A useful comprehension question targets the writer’s claim, evidence or reasoning.",
-      "hint": "Ask something that helps test or deepen understanding of the text."
+      "summary": "“Keep the original prediction no matter what.” does not meet the task. Predictions are provisional and should be updated when new textual evidence changes what is likely.",
+      "hint": "Use new evidence to confirm, refine or reject a prediction."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,26 +469,32 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly05-t-016",
     "curriculumCode": "AC9E4LY05",
     "bank": "test",
-    "skill": "Comprehension Strategies",
+    "skill": "predict and monitor",
     "printable": true,
     "type": "single",
-    "question": "Which final choice gives the clearest and most accurate result for asking a useful question while reading an argument about school uniforms?",
-    "audioPrompt": "Which final choice gives the clearest and most accurate result for asking a useful question while reading an argument about school uniforms?",
+    "question": "Unseen context: While reading, a student predicts that a character will miss the bus, but the next paragraph says the bus is delayed. What should the student do? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: While reading, a student predicts that a character will miss the bus, but the next paragraph says the bus is delayed. What should the student do? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "What is my favourite colour?",
-      "What evidence does the writer give that uniforms save families money?",
-      "How many letters are in the title?"
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Use new evidence to confirm, refine or reject a prediction."
     ],
-    "correct": 1,
-    "explanation": "A useful comprehension question targets the writer’s claim, evidence or reasoning.\nHint: Ask something that helps test or deepen understanding of the text.",
+    "difficulty": 3,
+    "sequencePriority": 16,
+    "correct": 3,
+    "explanation": "Predictions are provisional and should be updated when new textual evidence changes what is likely.\nHint: Use new evidence to confirm, refine or reject a prediction.",
     "structuredExplanation": {
-      "summary": "A useful comprehension question targets the writer’s claim, evidence or reasoning.",
-      "hint": "Ask something that helps test or deepen understanding of the text."
+      "summary": "Predictions are provisional and should be updated when new textual evidence changes what is likely.",
+      "hint": "Use new evidence to confirm, refine or reject a prediction."
     },
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

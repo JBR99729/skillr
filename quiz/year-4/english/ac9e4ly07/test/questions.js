@@ -4,23 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-001",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "structured oral argument",
     "printable": true,
     "type": "single",
-    "question": "New context: presenting a recommendation to the school council. Which option is correct?",
-    "audioPrompt": "New context: presenting a recommendation to the school council. Which option is correct?",
+    "question": "Unseen context: A student is preparing an argument for a safer school crossing. Which structure is strongest? Which option is best?",
+    "audioPrompt": "Unseen context: A student is preparing an argument for a safer school crossing. Which structure is strongest? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
-      "List unrelated facts with no recommendation.",
-      "Give the requested action before explaining the topic and never return to it."
+      "Repeat the position many times without reasons.",
+      "Show pictures without explaining the claim.",
+      "State the position, present organised reasons supported by reliable evidence, address the audience clearly and conclude with the requested action.",
+      "Tell an unrelated story before listing random facts."
     ],
-    "correct": 0,
-    "explanation": "A persuasive presentation needs a visible line from position to reasons to requested action.\nHint: Make the structure easy for listeners to follow.",
+    "difficulty": 2,
+    "sequencePriority": 1,
+    "correct": 2,
+    "explanation": "An oral argument needs a clear position, organised support and an audience-focused conclusion.\nHint: Make the reasoning easy to follow from claim to evidence to requested action.",
     "structuredExplanation": {
-      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
-      "hint": "Make the structure easy for listeners to follow."
+      "summary": "An oral argument needs a clear position, organised support and an audience-focused conclusion.",
+      "hint": "Make the reasoning easy to follow from claim to evidence to requested action."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-002",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "structured oral argument",
     "printable": true,
     "type": "single",
-    "question": "What is the best choice for presenting a recommendation to the school council?",
-    "audioPrompt": "What is the best choice for presenting a recommendation to the school council?",
+    "question": "Unseen context: A student is preparing an argument for a safer school crossing. Which structure is strongest? Which explanation best justifies “State the position, present organised reasons supported by reliable evidence, address the audience clearly and conclude with the requested action.”?",
+    "audioPrompt": "Unseen context: A student is preparing an argument for a safer school crossing. Which structure is strongest? Which explanation best justifies “State the position, present organised reasons supported by reliable evidence, address the audience clearly and conclude with the requested action.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "List unrelated facts with no recommendation.",
-      "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
-      "Give the requested action before explaining the topic and never return to it."
+      "It avoids using the information supplied.",
+      "An oral argument needs a clear position, organised support and an audience-focused conclusion.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
+    "difficulty": 2,
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "A persuasive presentation needs a visible line from position to reasons to requested action.\nHint: Make the structure easy for listeners to follow.",
+    "explanation": "An oral argument needs a clear position, organised support and an audience-focused conclusion.\nHint: Make the reasoning easy to follow from claim to evidence to requested action.",
     "structuredExplanation": {
-      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
-      "hint": "Make the structure easy for listeners to follow."
+      "summary": "An oral argument needs a clear position, organised support and an audience-focused conclusion.",
+      "hint": "Make the reasoning easy to follow from claim to evidence to requested action."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-003",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "structured oral argument",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best supports “State the recommendation, give two strong reasons with evidence, then finish with the action requested.” in presenting a recommendation to the school council?",
-    "audioPrompt": "Which explanation best supports “State the recommendation, give two strong reasons with evidence, then finish with the action requested.” in presenting a recommendation to the school council?",
+    "question": "Unseen context: A student is preparing an argument for a safer school crossing. Which structure is strongest? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: A student is preparing an argument for a safer school crossing. Which structure is strongest? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “List unrelated facts with no recommendation.” is always a safe choice.",
-      "Because surface appearance matters more than meaning.",
-      "A persuasive presentation needs a visible line from position to reasons to requested action."
+      "Tell an unrelated story before listing random facts.",
+      "State the position, present organised reasons supported by reliable evidence, address the audience clearly and conclude with the requested action.",
+      "Repeat the position many times without reasons.",
+      "Show pictures without explaining the claim."
     ],
-    "correct": 2,
-    "explanation": "A persuasive presentation needs a visible line from position to reasons to requested action.\nHint: Make the structure easy for listeners to follow.",
+    "difficulty": 3,
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "“Tell an unrelated story before listing random facts.” does not meet the task. An oral argument needs a clear position, organised support and an audience-focused conclusion.\nHint: Make the reasoning easy to follow from claim to evidence to requested action.",
     "structuredExplanation": {
-      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
-      "hint": "Make the structure easy for listeners to follow."
+      "summary": "“Tell an unrelated story before listing random facts.” does not meet the task. An oral argument needs a clear position, organised support and an audience-focused conclusion.",
+      "hint": "Make the reasoning easy to follow from claim to evidence to requested action."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-004",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "structured oral argument",
     "printable": true,
     "type": "single",
-    "question": "Which clue should guide your decision in presenting a recommendation to the school council?",
-    "audioPrompt": "Which clue should guide your decision in presenting a recommendation to the school council?",
+    "question": "Unseen context: A student is preparing an argument for a safer school crossing. Which structure is strongest? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: A student is preparing an argument for a safer school crossing. Which structure is strongest? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Make the structure easy for listeners to follow.",
-      "Choose the option with the most words.",
-      "Ignore the context and use the first familiar form."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Make the reasoning easy to follow from claim to evidence to requested action."
     ],
-    "correct": 0,
-    "explanation": "A persuasive presentation needs a visible line from position to reasons to requested action.\nHint: Make the structure easy for listeners to follow.",
+    "difficulty": 3,
+    "sequencePriority": 4,
+    "correct": 3,
+    "explanation": "An oral argument needs a clear position, organised support and an audience-focused conclusion.\nHint: Make the reasoning easy to follow from claim to evidence to requested action.",
     "structuredExplanation": {
-      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
-      "hint": "Make the structure easy for listeners to follow."
+      "summary": "An oral argument needs a clear position, organised support and an audience-focused conclusion.",
+      "hint": "Make the reasoning easy to follow from claim to evidence to requested action."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-005",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "pitch and volume",
     "printable": true,
     "type": "single",
-    "question": "Which option would you reject first in presenting a recommendation to the school council?",
-    "audioPrompt": "Which option would you reject first in presenting a recommendation to the school council?",
+    "question": "Unseen context: A speaker’s pitch rises and volume increases on every sentence, even neutral facts. What would improve delivery? Which option is best?",
+    "audioPrompt": "Unseen context: A speaker’s pitch rises and volume increases on every sentence, even neutral facts. What would improve delivery? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
-      "List unrelated facts with no recommendation.",
-      "Give the requested action before explaining the topic and never return to it."
+      "Use one very high pitch throughout.",
+      "Remove all pauses but keep the same emphasis.",
+      "Vary pitch and volume selectively so emphasis matches the meaning instead of treating every sentence as equally dramatic.",
+      "Increase volume further."
     ],
-    "correct": 1,
-    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. A persuasive presentation needs a visible line from position to reasons to requested action.\nHint: Make the structure easy for listeners to follow.",
+    "difficulty": 2,
+    "sequencePriority": 5,
+    "correct": 2,
+    "explanation": "Effective delivery uses vocal features deliberately according to purpose and audience.\nHint: Emphasise what matters; do not emphasise everything.",
     "structuredExplanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A persuasive presentation needs a visible line from position to reasons to requested action.",
-      "hint": "Make the structure easy for listeners to follow."
+      "summary": "Effective delivery uses vocal features deliberately according to purpose and audience.",
+      "hint": "Emphasise what matters; do not emphasise everything."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-006",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "pitch and volume",
     "printable": true,
     "type": "single",
-    "question": "Which correction should replace “List unrelated facts with no recommendation.” in presenting a recommendation to the school council?",
-    "audioPrompt": "Which correction should replace “List unrelated facts with no recommendation.” in presenting a recommendation to the school council?",
+    "question": "Unseen context: A speaker’s pitch rises and volume increases on every sentence, even neutral facts. What would improve delivery? Which explanation best justifies “Vary pitch and volume selectively so emphasis matches the meaning instead of treating every sentence as equally dramatic.”?",
+    "audioPrompt": "Unseen context: A speaker’s pitch rises and volume increases on every sentence, even neutral facts. What would improve delivery? Which explanation best justifies “Vary pitch and volume selectively so emphasis matches the meaning instead of treating every sentence as equally dramatic.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "List unrelated facts with no recommendation.",
-      "Give the requested action before explaining the topic and never return to it.",
-      "State the recommendation, give two strong reasons with evidence, then finish with the action requested."
+      "It avoids using the information supplied.",
+      "Effective delivery uses vocal features deliberately according to purpose and audience.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
-    "correct": 2,
-    "explanation": "A persuasive presentation needs a visible line from position to reasons to requested action.\nHint: Make the structure easy for listeners to follow.",
+    "difficulty": 2,
+    "sequencePriority": 6,
+    "correct": 1,
+    "explanation": "Effective delivery uses vocal features deliberately according to purpose and audience.\nHint: Emphasise what matters; do not emphasise everything.",
     "structuredExplanation": {
-      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
-      "hint": "Make the structure easy for listeners to follow."
+      "summary": "Effective delivery uses vocal features deliberately according to purpose and audience.",
+      "hint": "Emphasise what matters; do not emphasise everything."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-007",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "pitch and volume",
     "printable": true,
     "type": "single",
-    "question": "Apply the skill to presenting a recommendation to the school council: what should you choose?",
-    "audioPrompt": "Apply the skill to presenting a recommendation to the school council: what should you choose?",
+    "question": "Unseen context: A speaker’s pitch rises and volume increases on every sentence, even neutral facts. What would improve delivery? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: A speaker’s pitch rises and volume increases on every sentence, even neutral facts. What would improve delivery? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
-      "List unrelated facts with no recommendation.",
-      "Give the requested action before explaining the topic and never return to it."
+      "Increase volume further.",
+      "Vary pitch and volume selectively so emphasis matches the meaning instead of treating every sentence as equally dramatic.",
+      "Use one very high pitch throughout.",
+      "Remove all pauses but keep the same emphasis."
     ],
+    "difficulty": 3,
+    "sequencePriority": 7,
     "correct": 0,
-    "explanation": "A persuasive presentation needs a visible line from position to reasons to requested action.\nHint: Make the structure easy for listeners to follow.",
+    "explanation": "“Increase volume further.” does not meet the task. Effective delivery uses vocal features deliberately according to purpose and audience.\nHint: Emphasise what matters; do not emphasise everything.",
     "structuredExplanation": {
-      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
-      "hint": "Make the structure easy for listeners to follow."
+      "summary": "“Increase volume further.” does not meet the task. Effective delivery uses vocal features deliberately according to purpose and audience.",
+      "hint": "Emphasise what matters; do not emphasise everything."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-008",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "pitch and volume",
     "printable": true,
     "type": "single",
-    "question": "Which final choice gives the clearest and most accurate result for presenting a recommendation to the school council?",
-    "audioPrompt": "Which final choice gives the clearest and most accurate result for presenting a recommendation to the school council?",
+    "question": "Unseen context: A speaker’s pitch rises and volume increases on every sentence, even neutral facts. What would improve delivery? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: A speaker’s pitch rises and volume increases on every sentence, even neutral facts. What would improve delivery? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "List unrelated facts with no recommendation.",
-      "State the recommendation, give two strong reasons with evidence, then finish with the action requested.",
-      "Give the requested action before explaining the topic and never return to it."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Emphasise what matters; do not emphasise everything."
     ],
-    "correct": 1,
-    "explanation": "A persuasive presentation needs a visible line from position to reasons to requested action.\nHint: Make the structure easy for listeners to follow.",
+    "difficulty": 3,
+    "sequencePriority": 8,
+    "correct": 3,
+    "explanation": "Effective delivery uses vocal features deliberately according to purpose and audience.\nHint: Emphasise what matters; do not emphasise everything.",
     "structuredExplanation": {
-      "summary": "A persuasive presentation needs a visible line from position to reasons to requested action.",
-      "hint": "Make the structure easy for listeners to follow."
+      "summary": "Effective delivery uses vocal features deliberately according to purpose and audience.",
+      "hint": "Emphasise what matters; do not emphasise everything."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-009",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "technical vocabulary",
     "printable": true,
     "type": "single",
-    "question": "New context: answering a question after a presentation. Which option is correct?",
-    "audioPrompt": "New context: answering a question after a presentation. Which option is correct?",
+    "question": "Unseen context: Which wording best suits a short report about a solar eclipse? Which option is best?",
+    "audioPrompt": "Unseen context: Which wording best suits a short report about a solar eclipse? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Repeat the entire presentation regardless of the question.",
-      "Guess confidently even when you do not know.",
-      "Pause, answer the exact question and refer back to evidence from the talk if useful."
+      "“It is awesome and kind of dark.”",
+      "“Sun stuff happens behind the Moon thing.”",
+      "“During a solar eclipse, the Moon passes between Earth and the Sun, blocking some or all of the Sun from view.”",
+      "“The sky does a weird thing.”"
     ],
+    "difficulty": 2,
+    "sequencePriority": 9,
     "correct": 2,
-    "explanation": "A focused response respects the audience and keeps the discussion connected to the presentation.\nHint: Listen for what is actually being asked.",
+    "explanation": "Clear, precise vocabulary helps an audience understand a technical topic accurately.\nHint: Prefer exact nouns and verbs over vague conversational fillers.",
     "structuredExplanation": {
-      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
-      "hint": "Listen for what is actually being asked."
+      "summary": "Clear, precise vocabulary helps an audience understand a technical topic accurately.",
+      "hint": "Prefer exact nouns and verbs over vague conversational fillers."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-010",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "technical vocabulary",
     "printable": true,
     "type": "single",
-    "question": "What is the best choice for answering a question after a presentation?",
-    "audioPrompt": "What is the best choice for answering a question after a presentation?",
+    "question": "Unseen context: Which wording best suits a short report about a solar eclipse? Which explanation best justifies ““During a solar eclipse, the Moon passes between Earth and the Sun, blocking some or all of the Sun from view.””?",
+    "audioPrompt": "Unseen context: Which wording best suits a short report about a solar eclipse? Which explanation best justifies ““During a solar eclipse, the Moon passes between Earth and the Sun, blocking some or all of the Sun from view.””?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Pause, answer the exact question and refer back to evidence from the talk if useful.",
-      "Repeat the entire presentation regardless of the question.",
-      "Guess confidently even when you do not know."
+      "It avoids using the information supplied.",
+      "Clear, precise vocabulary helps an audience understand a technical topic accurately.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
-    "correct": 0,
-    "explanation": "A focused response respects the audience and keeps the discussion connected to the presentation.\nHint: Listen for what is actually being asked.",
+    "difficulty": 2,
+    "sequencePriority": 10,
+    "correct": 1,
+    "explanation": "Clear, precise vocabulary helps an audience understand a technical topic accurately.\nHint: Prefer exact nouns and verbs over vague conversational fillers.",
     "structuredExplanation": {
-      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
-      "hint": "Listen for what is actually being asked."
+      "summary": "Clear, precise vocabulary helps an audience understand a technical topic accurately.",
+      "hint": "Prefer exact nouns and verbs over vague conversational fillers."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-011",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "technical vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best supports “Pause, answer the exact question and refer back to evidence from the talk if useful.” in answering a question after a presentation?",
-    "audioPrompt": "Which explanation best supports “Pause, answer the exact question and refer back to evidence from the talk if useful.” in answering a question after a presentation?",
+    "question": "Unseen context: Which wording best suits a short report about a solar eclipse? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: Which wording best suits a short report about a solar eclipse? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Repeat the entire presentation regardless of the question.” is always a safe choice.",
-      "A focused response respects the audience and keeps the discussion connected to the presentation.",
-      "Because surface appearance matters more than meaning."
+      "“The sky does a weird thing.”",
+      "“During a solar eclipse, the Moon passes between Earth and the Sun, blocking some or all of the Sun from view.”",
+      "“It is awesome and kind of dark.”",
+      "“Sun stuff happens behind the Moon thing.”"
     ],
-    "correct": 1,
-    "explanation": "A focused response respects the audience and keeps the discussion connected to the presentation.\nHint: Listen for what is actually being asked.",
+    "difficulty": 3,
+    "sequencePriority": 11,
+    "correct": 0,
+    "explanation": "““The sky does a weird thing.”” does not meet the task. Clear, precise vocabulary helps an audience understand a technical topic accurately.\nHint: Prefer exact nouns and verbs over vague conversational fillers.",
     "structuredExplanation": {
-      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
-      "hint": "Listen for what is actually being asked."
+      "summary": "““The sky does a weird thing.”” does not meet the task. Clear, precise vocabulary helps an audience understand a technical topic accurately.",
+      "hint": "Prefer exact nouns and verbs over vague conversational fillers."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-012",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "technical vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which clue should guide your decision in answering a question after a presentation?",
-    "audioPrompt": "Which clue should guide your decision in answering a question after a presentation?",
+    "question": "Unseen context: Which wording best suits a short report about a solar eclipse? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: Which wording best suits a short report about a solar eclipse? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Choose the option with the most words.",
-      "Ignore the context and use the first familiar form.",
-      "Listen for what is actually being asked."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Prefer exact nouns and verbs over vague conversational fillers."
     ],
-    "correct": 2,
-    "explanation": "A focused response respects the audience and keeps the discussion connected to the presentation.\nHint: Listen for what is actually being asked.",
+    "difficulty": 3,
+    "sequencePriority": 12,
+    "correct": 3,
+    "explanation": "Clear, precise vocabulary helps an audience understand a technical topic accurately.\nHint: Prefer exact nouns and verbs over vague conversational fillers.",
     "structuredExplanation": {
-      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
-      "hint": "Listen for what is actually being asked."
+      "summary": "Clear, precise vocabulary helps an audience understand a technical topic accurately.",
+      "hint": "Prefer exact nouns and verbs over vague conversational fillers."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-013",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "rehearse and revise delivery",
     "printable": true,
     "type": "single",
-    "question": "Which option would you reject first in answering a question after a presentation?",
-    "audioPrompt": "Which option would you reject first in answering a question after a presentation?",
+    "question": "Unseen context: After rehearsal, a peer says, “Your final sentence is hard to hear and your slide changes before you refer to the diagram.” Which revision best uses the feedback? Which option is best?",
+    "audioPrompt": "Unseen context: After rehearsal, a peer says, “Your final sentence is hard to hear and your slide changes before you refer to the diagram.” Which revision best uses the feedback? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Repeat the entire presentation regardless of the question.",
-      "Pause, answer the exact question and refer back to evidence from the talk if useful.",
-      "Guess confidently even when you do not know."
+      "Delete the final sentence and diagram.",
+      "Speak the whole presentation louder and advance slides faster.",
+      "Rehearse the final sentence at an audible volume and delay the slide change until after pointing out the relevant diagram feature.",
+      "Ignore both comments because the content is already correct."
     ],
-    "correct": 0,
-    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. A focused response respects the audience and keeps the discussion connected to the presentation.\nHint: Listen for what is actually being asked.",
+    "difficulty": 2,
+    "sequencePriority": 13,
+    "correct": 2,
+    "explanation": "Good rehearsal feedback identifies specific delivery and multimodal timing changes that can be practised before presenting.\nHint: Turn specific peer feedback into a specific rehearsal action.",
     "structuredExplanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A focused response respects the audience and keeps the discussion connected to the presentation.",
-      "hint": "Listen for what is actually being asked."
+      "summary": "Good rehearsal feedback identifies specific delivery and multimodal timing changes that can be practised before presenting.",
+      "hint": "Turn specific peer feedback into a specific rehearsal action."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +407,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-014",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "rehearse and revise delivery",
     "printable": true,
     "type": "single",
-    "question": "Which correction should replace “Repeat the entire presentation regardless of the question.” in answering a question after a presentation?",
-    "audioPrompt": "Which correction should replace “Repeat the entire presentation regardless of the question.” in answering a question after a presentation?",
+    "question": "Unseen context: After rehearsal, a peer says, “Your final sentence is hard to hear and your slide changes before you refer to the diagram.” Which revision best uses the feedback? Which explanation best justifies “Rehearse the final sentence at an audible volume and delay the slide change until after pointing out the relevant diagram feature.”?",
+    "audioPrompt": "Unseen context: After rehearsal, a peer says, “Your final sentence is hard to hear and your slide changes before you refer to the diagram.” Which revision best uses the feedback? Which explanation best justifies “Rehearse the final sentence at an audible volume and delay the slide change until after pointing out the relevant diagram feature.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Repeat the entire presentation regardless of the question.",
-      "Pause, answer the exact question and refer back to evidence from the talk if useful.",
-      "Guess confidently even when you do not know."
+      "It avoids using the information supplied.",
+      "Good rehearsal feedback identifies specific delivery and multimodal timing changes that can be practised before presenting.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
+    "difficulty": 2,
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "A focused response respects the audience and keeps the discussion connected to the presentation.\nHint: Listen for what is actually being asked.",
+    "explanation": "Good rehearsal feedback identifies specific delivery and multimodal timing changes that can be practised before presenting.\nHint: Turn specific peer feedback into a specific rehearsal action.",
     "structuredExplanation": {
-      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
-      "hint": "Listen for what is actually being asked."
+      "summary": "Good rehearsal feedback identifies specific delivery and multimodal timing changes that can be practised before presenting.",
+      "hint": "Turn specific peer feedback into a specific rehearsal action."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +438,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-015",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "rehearse and revise delivery",
     "printable": true,
     "type": "single",
-    "question": "Apply the skill to answering a question after a presentation: what should you choose?",
-    "audioPrompt": "Apply the skill to answering a question after a presentation: what should you choose?",
+    "question": "Unseen context: After rehearsal, a peer says, “Your final sentence is hard to hear and your slide changes before you refer to the diagram.” Which revision best uses the feedback? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: After rehearsal, a peer says, “Your final sentence is hard to hear and your slide changes before you refer to the diagram.” Which revision best uses the feedback? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Repeat the entire presentation regardless of the question.",
-      "Guess confidently even when you do not know.",
-      "Pause, answer the exact question and refer back to evidence from the talk if useful."
+      "Ignore both comments because the content is already correct.",
+      "Rehearse the final sentence at an audible volume and delay the slide change until after pointing out the relevant diagram feature.",
+      "Delete the final sentence and diagram.",
+      "Speak the whole presentation louder and advance slides faster."
     ],
-    "correct": 2,
-    "explanation": "A focused response respects the audience and keeps the discussion connected to the presentation.\nHint: Listen for what is actually being asked.",
+    "difficulty": 3,
+    "sequencePriority": 15,
+    "correct": 0,
+    "explanation": "“Ignore both comments because the content is already correct.” does not meet the task. Good rehearsal feedback identifies specific delivery and multimodal timing changes that can be practised before presenting.\nHint: Turn specific peer feedback into a specific rehearsal action.",
     "structuredExplanation": {
-      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
-      "hint": "Listen for what is actually being asked."
+      "summary": "“Ignore both comments because the content is already correct.” does not meet the task. Good rehearsal feedback identifies specific delivery and multimodal timing changes that can be practised before presenting.",
+      "hint": "Turn specific peer feedback into a specific rehearsal action."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,26 +469,32 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly07-t-016",
     "curriculumCode": "AC9E4LY07",
     "bank": "test",
-    "skill": "Presentations",
+    "skill": "rehearse and revise delivery",
     "printable": true,
     "type": "single",
-    "question": "Which final choice gives the clearest and most accurate result for answering a question after a presentation?",
-    "audioPrompt": "Which final choice gives the clearest and most accurate result for answering a question after a presentation?",
+    "question": "Unseen context: After rehearsal, a peer says, “Your final sentence is hard to hear and your slide changes before you refer to the diagram.” Which revision best uses the feedback? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: After rehearsal, a peer says, “Your final sentence is hard to hear and your slide changes before you refer to the diagram.” Which revision best uses the feedback? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Pause, answer the exact question and refer back to evidence from the talk if useful.",
-      "Repeat the entire presentation regardless of the question.",
-      "Guess confidently even when you do not know."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Turn specific peer feedback into a specific rehearsal action."
     ],
-    "correct": 0,
-    "explanation": "A focused response respects the audience and keeps the discussion connected to the presentation.\nHint: Listen for what is actually being asked.",
+    "difficulty": 3,
+    "sequencePriority": 16,
+    "correct": 3,
+    "explanation": "Good rehearsal feedback identifies specific delivery and multimodal timing changes that can be practised before presenting.\nHint: Turn specific peer feedback into a specific rehearsal action.",
     "structuredExplanation": {
-      "summary": "A focused response respects the audience and keeps the discussion connected to the presentation.",
-      "hint": "Listen for what is actually being asked."
+      "summary": "Good rehearsal feedback identifies specific delivery and multimodal timing changes that can be practised before presenting.",
+      "hint": "Turn specific peer feedback into a specific rehearsal action."
     },
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

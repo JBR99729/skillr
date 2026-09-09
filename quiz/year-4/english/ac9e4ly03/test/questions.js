@@ -4,23 +4,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-001",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "imaginative purpose",
     "printable": true,
     "type": "single",
-    "question": "New context: a narrative comic about a lost skateboard. Which option is correct?",
-    "audioPrompt": "New context: a narrative comic about a lost skateboard. Which option is correct?",
+    "question": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which option is best?",
+    "audioPrompt": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use a bibliography as the main structure.",
-      "Use random panels with no sequence.",
-      "Use panel sequence, dialogue, facial expressions and a clear complication."
+      "They provide directions in exact order.",
+      "They present a claim with supporting statistics.",
+      "They develop characters and events so readers can follow an invented experience.",
+      "They organise facts into categories."
     ],
+    "difficulty": 2,
+    "sequencePriority": 1,
     "correct": 2,
-    "explanation": "Panels and images work with language to develop the imaginative sequence.\nHint: Follow how meaning moves from one panel to the next.",
+    "explanation": "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.\nHint: Match the feature to the purpose it helps the text achieve.",
     "structuredExplanation": {
-      "summary": "Panels and images work with language to develop the imaginative sequence.",
-      "hint": "Follow how meaning moves from one panel to the next."
+      "summary": "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.",
+      "hint": "Match the feature to the purpose it helps the text achieve."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +35,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-002",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "imaginative purpose",
     "printable": true,
     "type": "single",
-    "question": "What is the best choice for a narrative comic about a lost skateboard?",
-    "audioPrompt": "What is the best choice for a narrative comic about a lost skateboard?",
+    "question": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which explanation best justifies “They develop characters and events so readers can follow an invented experience.”?",
+    "audioPrompt": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which explanation best justifies “They develop characters and events so readers can follow an invented experience.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use panel sequence, dialogue, facial expressions and a clear complication.",
-      "Use a bibliography as the main structure.",
-      "Use random panels with no sequence."
+      "It avoids using the information supplied.",
+      "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
-    "correct": 0,
-    "explanation": "Panels and images work with language to develop the imaginative sequence.\nHint: Follow how meaning moves from one panel to the next.",
+    "difficulty": 2,
+    "sequencePriority": 2,
+    "correct": 1,
+    "explanation": "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.\nHint: Match the feature to the purpose it helps the text achieve.",
     "structuredExplanation": {
-      "summary": "Panels and images work with language to develop the imaginative sequence.",
-      "hint": "Follow how meaning moves from one panel to the next."
+      "summary": "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.",
+      "hint": "Match the feature to the purpose it helps the text achieve."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +66,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-003",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "imaginative purpose",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best supports “Use panel sequence, dialogue, facial expressions and a clear complication.” in a narrative comic about a lost skateboard?",
-    "audioPrompt": "Which explanation best supports “Use panel sequence, dialogue, facial expressions and a clear complication.” in a narrative comic about a lost skateboard?",
+    "question": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Use a bibliography as the main structure.” is always a safe choice.",
-      "Panels and images work with language to develop the imaginative sequence.",
-      "Because surface appearance matters more than meaning."
+      "They organise facts into categories.",
+      "They develop characters and events so readers can follow an invented experience.",
+      "They provide directions in exact order.",
+      "They present a claim with supporting statistics."
     ],
-    "correct": 1,
-    "explanation": "Panels and images work with language to develop the imaginative sequence.\nHint: Follow how meaning moves from one panel to the next.",
+    "difficulty": 3,
+    "sequencePriority": 3,
+    "correct": 0,
+    "explanation": "“They organise facts into categories.” does not meet the task. Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.\nHint: Match the feature to the purpose it helps the text achieve.",
     "structuredExplanation": {
-      "summary": "Panels and images work with language to develop the imaginative sequence.",
-      "hint": "Follow how meaning moves from one panel to the next."
+      "summary": "“They organise facts into categories.” does not meet the task. Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.",
+      "hint": "Match the feature to the purpose it helps the text achieve."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +97,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-004",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "imaginative purpose",
     "printable": true,
     "type": "single",
-    "question": "Which clue should guide your decision in a narrative comic about a lost skateboard?",
-    "audioPrompt": "Which clue should guide your decision in a narrative comic about a lost skateboard?",
+    "question": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: A short story uses dialogue, a problem and a surprising resolution. Which statement best explains why these are characteristic imaginative features? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Choose the option with the most words.",
-      "Ignore the context and use the first familiar form.",
-      "Follow how meaning moves from one panel to the next."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Match the feature to the purpose it helps the text achieve."
     ],
-    "correct": 2,
-    "explanation": "Panels and images work with language to develop the imaginative sequence.\nHint: Follow how meaning moves from one panel to the next.",
+    "difficulty": 3,
+    "sequencePriority": 4,
+    "correct": 3,
+    "explanation": "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.\nHint: Match the feature to the purpose it helps the text achieve.",
     "structuredExplanation": {
-      "summary": "Panels and images work with language to develop the imaginative sequence.",
-      "hint": "Follow how meaning moves from one panel to the next."
+      "summary": "Dialogue, problems and resolutions are common ways imaginative texts develop story meaning.",
+      "hint": "Match the feature to the purpose it helps the text achieve."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +128,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-005",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "online navigation",
     "printable": true,
     "type": "single",
-    "question": "Which option would you reject first in a narrative comic about a lost skateboard?",
-    "audioPrompt": "Which option would you reject first in a narrative comic about a lost skateboard?",
+    "question": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which option is best?",
+    "audioPrompt": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use a bibliography as the main structure.",
-      "Use panel sequence, dialogue, facial expressions and a clear complication.",
-      "Use random panels with no sequence."
+      "To create suspense about a fictional ending.",
+      "To replace the need for clear paragraphs.",
+      "To help readers navigate sections and access supporting information.",
+      "To make all readers follow one fixed path."
     ],
-    "correct": 0,
-    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. Panels and images work with language to develop the imaginative sequence.\nHint: Follow how meaning moves from one panel to the next.",
+    "difficulty": 2,
+    "sequencePriority": 5,
+    "correct": 2,
+    "explanation": "Navigation features help readers locate, move between and clarify information.\nHint: Think about what the reader can do more efficiently because of the feature.",
     "structuredExplanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. Panels and images work with language to develop the imaginative sequence.",
-      "hint": "Follow how meaning moves from one panel to the next."
+      "summary": "Navigation features help readers locate, move between and clarify information.",
+      "hint": "Think about what the reader can do more efficiently because of the feature."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +159,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-006",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "online navigation",
     "printable": true,
     "type": "single",
-    "question": "Which correction should replace “Use a bibliography as the main structure.” in a narrative comic about a lost skateboard?",
-    "audioPrompt": "Which correction should replace “Use a bibliography as the main structure.” in a narrative comic about a lost skateboard?",
+    "question": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which explanation best justifies “To help readers navigate sections and access supporting information.”?",
+    "audioPrompt": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which explanation best justifies “To help readers navigate sections and access supporting information.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use a bibliography as the main structure.",
-      "Use panel sequence, dialogue, facial expressions and a clear complication.",
-      "Use random panels with no sequence."
+      "It avoids using the information supplied.",
+      "Navigation features help readers locate, move between and clarify information.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
+    "difficulty": 2,
+    "sequencePriority": 6,
     "correct": 1,
-    "explanation": "Panels and images work with language to develop the imaginative sequence.\nHint: Follow how meaning moves from one panel to the next.",
+    "explanation": "Navigation features help readers locate, move between and clarify information.\nHint: Think about what the reader can do more efficiently because of the feature.",
     "structuredExplanation": {
-      "summary": "Panels and images work with language to develop the imaginative sequence.",
-      "hint": "Follow how meaning moves from one panel to the next."
+      "summary": "Navigation features help readers locate, move between and clarify information.",
+      "hint": "Think about what the reader can do more efficiently because of the feature."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +190,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-007",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "online navigation",
     "printable": true,
     "type": "single",
-    "question": "Apply the skill to a narrative comic about a lost skateboard: what should you choose?",
-    "audioPrompt": "Apply the skill to a narrative comic about a lost skateboard: what should you choose?",
+    "question": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use a bibliography as the main structure.",
-      "Use random panels with no sequence.",
-      "Use panel sequence, dialogue, facial expressions and a clear complication."
+      "To make all readers follow one fixed path.",
+      "To help readers navigate sections and access supporting information.",
+      "To create suspense about a fictional ending.",
+      "To replace the need for clear paragraphs."
     ],
-    "correct": 2,
-    "explanation": "Panels and images work with language to develop the imaginative sequence.\nHint: Follow how meaning moves from one panel to the next.",
+    "difficulty": 3,
+    "sequencePriority": 7,
+    "correct": 0,
+    "explanation": "“To make all readers follow one fixed path.” does not meet the task. Navigation features help readers locate, move between and clarify information.\nHint: Think about what the reader can do more efficiently because of the feature.",
     "structuredExplanation": {
-      "summary": "Panels and images work with language to develop the imaginative sequence.",
-      "hint": "Follow how meaning moves from one panel to the next."
+      "summary": "“To make all readers follow one fixed path.” does not meet the task. Navigation features help readers locate, move between and clarify information.",
+      "hint": "Think about what the reader can do more efficiently because of the feature."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +221,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-008",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "online navigation",
     "printable": true,
     "type": "single",
-    "question": "Which final choice gives the clearest and most accurate result for a narrative comic about a lost skateboard?",
-    "audioPrompt": "Which final choice gives the clearest and most accurate result for a narrative comic about a lost skateboard?",
+    "question": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: An online article has a contents menu, subheadings and hyperlinks to definitions. What is their main purpose? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use panel sequence, dialogue, facial expressions and a clear complication.",
-      "Use a bibliography as the main structure.",
-      "Use random panels with no sequence."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Think about what the reader can do more efficiently because of the feature."
     ],
-    "correct": 0,
-    "explanation": "Panels and images work with language to develop the imaginative sequence.\nHint: Follow how meaning moves from one panel to the next.",
+    "difficulty": 3,
+    "sequencePriority": 8,
+    "correct": 3,
+    "explanation": "Navigation features help readers locate, move between and clarify information.\nHint: Think about what the reader can do more efficiently because of the feature.",
     "structuredExplanation": {
-      "summary": "Panels and images work with language to develop the imaginative sequence.",
-      "hint": "Follow how meaning moves from one panel to the next."
+      "summary": "Navigation features help readers locate, move between and clarify information.",
+      "hint": "Think about what the reader can do more efficiently because of the feature."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +252,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-009",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "visual contribution",
     "printable": true,
     "type": "single",
-    "question": "New context: a letter arguing for more trees in the playground. Which option is correct?",
-    "audioPrompt": "New context: a letter arguing for more trees in the playground. Which option is correct?",
+    "question": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which option is best?",
+    "audioPrompt": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Tell an unrelated fantasy story instead of making the case.",
-      "State the request, give reasons and evidence, and finish with a clear recommendation.",
-      "List tree species without explaining the request."
+      "It is only decorative because words already exist.",
+      "It changes the report into a persuasive advertisement.",
+      "It shows where different conditions are expected, adding location information to the written forecast.",
+      "It proves the forecast cannot change."
     ],
-    "correct": 1,
-    "explanation": "A persuasive structure makes the position and supporting reasons easy to follow.\nHint: Locate the claim, support and requested action.",
+    "difficulty": 2,
+    "sequencePriority": 9,
+    "correct": 2,
+    "explanation": "A visual can add location, comparison or pattern information that complements written explanation.\nHint: Ask what information is easier to see in the visual than in prose.",
     "structuredExplanation": {
-      "summary": "A persuasive structure makes the position and supporting reasons easy to follow.",
-      "hint": "Locate the claim, support and requested action."
+      "summary": "A visual can add location, comparison or pattern information that complements written explanation.",
+      "hint": "Ask what information is easier to see in the visual than in prose."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +283,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-010",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "visual contribution",
     "printable": true,
     "type": "single",
-    "question": "What is the best choice for a letter arguing for more trees in the playground?",
-    "audioPrompt": "What is the best choice for a letter arguing for more trees in the playground?",
+    "question": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which explanation best justifies “It shows where different conditions are expected, adding location information to the written forecast.”?",
+    "audioPrompt": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which explanation best justifies “It shows where different conditions are expected, adding location information to the written forecast.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Tell an unrelated fantasy story instead of making the case.",
-      "List tree species without explaining the request.",
-      "State the request, give reasons and evidence, and finish with a clear recommendation."
+      "It avoids using the information supplied.",
+      "A visual can add location, comparison or pattern information that complements written explanation.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
-    "correct": 2,
-    "explanation": "A persuasive structure makes the position and supporting reasons easy to follow.\nHint: Locate the claim, support and requested action.",
+    "difficulty": 2,
+    "sequencePriority": 10,
+    "correct": 1,
+    "explanation": "A visual can add location, comparison or pattern information that complements written explanation.\nHint: Ask what information is easier to see in the visual than in prose.",
     "structuredExplanation": {
-      "summary": "A persuasive structure makes the position and supporting reasons easy to follow.",
-      "hint": "Locate the claim, support and requested action."
+      "summary": "A visual can add location, comparison or pattern information that complements written explanation.",
+      "hint": "Ask what information is easier to see in the visual than in prose."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +314,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-011",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "visual contribution",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best supports “State the request, give reasons and evidence, and finish with a clear recommendation.” in a letter arguing for more trees in the playground?",
-    "audioPrompt": "Which explanation best supports “State the request, give reasons and evidence, and finish with a clear recommendation.” in a letter arguing for more trees in the playground?",
+    "question": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "A persuasive structure makes the position and supporting reasons easy to follow.",
-      "Because “Tell an unrelated fantasy story instead of making the case.” is always a safe choice.",
-      "Because surface appearance matters more than meaning."
+      "It proves the forecast cannot change.",
+      "It shows where different conditions are expected, adding location information to the written forecast.",
+      "It is only decorative because words already exist.",
+      "It changes the report into a persuasive advertisement."
     ],
+    "difficulty": 3,
+    "sequencePriority": 11,
     "correct": 0,
-    "explanation": "A persuasive structure makes the position and supporting reasons easy to follow.\nHint: Locate the claim, support and requested action.",
+    "explanation": "“It proves the forecast cannot change.” does not meet the task. A visual can add location, comparison or pattern information that complements written explanation.\nHint: Ask what information is easier to see in the visual than in prose.",
     "structuredExplanation": {
-      "summary": "A persuasive structure makes the position and supporting reasons easy to follow.",
-      "hint": "Locate the claim, support and requested action."
+      "summary": "“It proves the forecast cannot change.” does not meet the task. A visual can add location, comparison or pattern information that complements written explanation.",
+      "hint": "Ask what information is easier to see in the visual than in prose."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +345,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-012",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "visual contribution",
     "printable": true,
     "type": "single",
-    "question": "Which clue should guide your decision in a letter arguing for more trees in the playground?",
-    "audioPrompt": "Which clue should guide your decision in a letter arguing for more trees in the playground?",
+    "question": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: A weather report places a map with colour bands beside a written forecast. Why can the map be useful? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Choose the option with the most words.",
-      "Locate the claim, support and requested action.",
-      "Ignore the context and use the first familiar form."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Ask what information is easier to see in the visual than in prose."
     ],
-    "correct": 1,
-    "explanation": "A persuasive structure makes the position and supporting reasons easy to follow.\nHint: Locate the claim, support and requested action.",
+    "difficulty": 3,
+    "sequencePriority": 12,
+    "correct": 3,
+    "explanation": "A visual can add location, comparison or pattern information that complements written explanation.\nHint: Ask what information is easier to see in the visual than in prose.",
     "structuredExplanation": {
-      "summary": "A persuasive structure makes the position and supporting reasons easy to follow.",
-      "hint": "Locate the claim, support and requested action."
+      "summary": "A visual can add location, comparison or pattern information that complements written explanation.",
+      "hint": "Ask what information is easier to see in the visual than in prose."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +376,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-013",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "persuasive purpose",
     "printable": true,
     "type": "single",
-    "question": "Which option would you reject first in a letter arguing for more trees in the playground?",
-    "audioPrompt": "Which option would you reject first in a letter arguing for more trees in the playground?",
+    "question": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which option is best?",
+    "audioPrompt": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which option is best?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "State the request, give reasons and evidence, and finish with a clear recommendation.",
-      "List tree species without explaining the request.",
-      "Tell an unrelated fantasy story instead of making the case."
+      "A list of character traits.",
+      "A sequence of fictional events.",
+      "A position supported by reasons and evidence.",
+      "An unresolved mystery."
     ],
+    "difficulty": 2,
+    "sequencePriority": 13,
     "correct": 2,
-    "explanation": "The rejected choice conflicts with the exact meaning, form or situation being tested. A persuasive structure makes the position and supporting reasons easy to follow.\nHint: Locate the claim, support and requested action.",
+    "explanation": "Persuasive texts state a position and support it with reasons or evidence designed for an audience.\nHint: Look for the claim and the support offered for it.",
     "structuredExplanation": {
-      "summary": "The rejected choice conflicts with the exact meaning, form or situation being tested. A persuasive structure makes the position and supporting reasons easy to follow.",
-      "hint": "Locate the claim, support and requested action."
+      "summary": "Persuasive texts state a position and support it with reasons or evidence designed for an audience.",
+      "hint": "Look for the claim and the support offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +407,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-014",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "persuasive purpose",
     "printable": true,
     "type": "single",
-    "question": "Which correction should replace “Tell an unrelated fantasy story instead of making the case.” in a letter arguing for more trees in the playground?",
-    "audioPrompt": "Which correction should replace “Tell an unrelated fantasy story instead of making the case.” in a letter arguing for more trees in the playground?",
+    "question": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which explanation best justifies “A position supported by reasons and evidence.”?",
+    "audioPrompt": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which explanation best justifies “A position supported by reasons and evidence.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "State the request, give reasons and evidence, and finish with a clear recommendation.",
-      "Tell an unrelated fantasy story instead of making the case.",
-      "List tree species without explaining the request."
+      "It avoids using the information supplied.",
+      "Persuasive texts state a position and support it with reasons or evidence designed for an audience.",
+      "It is correct because it is the longest option.",
+      "It works by ignoring the purpose of the task."
     ],
-    "correct": 0,
-    "explanation": "A persuasive structure makes the position and supporting reasons easy to follow.\nHint: Locate the claim, support and requested action.",
+    "difficulty": 2,
+    "sequencePriority": 14,
+    "correct": 1,
+    "explanation": "Persuasive texts state a position and support it with reasons or evidence designed for an audience.\nHint: Look for the claim and the support offered for it.",
     "structuredExplanation": {
-      "summary": "A persuasive structure makes the position and supporting reasons easy to follow.",
-      "hint": "Locate the claim, support and requested action."
+      "summary": "Persuasive texts state a position and support it with reasons or evidence designed for an audience.",
+      "hint": "Look for the claim and the support offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +438,30 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-015",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "persuasive purpose",
     "printable": true,
     "type": "single",
-    "question": "Apply the skill to a letter arguing for more trees in the playground: what should you choose?",
-    "audioPrompt": "Apply the skill to a letter arguing for more trees in the playground: what should you choose?",
+    "question": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which choice should be rejected first?",
+    "audioPrompt": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which choice should be rejected first?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Tell an unrelated fantasy story instead of making the case.",
-      "State the request, give reasons and evidence, and finish with a clear recommendation.",
-      "List tree species without explaining the request."
+      "An unresolved mystery.",
+      "A position supported by reasons and evidence.",
+      "A list of character traits.",
+      "A sequence of fictional events."
     ],
-    "correct": 1,
-    "explanation": "A persuasive structure makes the position and supporting reasons easy to follow.\nHint: Locate the claim, support and requested action.",
+    "difficulty": 3,
+    "sequencePriority": 15,
+    "correct": 0,
+    "explanation": "“An unresolved mystery.” does not meet the task. Persuasive texts state a position and support it with reasons or evidence designed for an audience.\nHint: Look for the claim and the support offered for it.",
     "structuredExplanation": {
-      "summary": "A persuasive structure makes the position and supporting reasons easy to follow.",
-      "hint": "Locate the claim, support and requested action."
+      "summary": "“An unresolved mystery.” does not meet the task. Persuasive texts state a position and support it with reasons or evidence designed for an audience.",
+      "hint": "Look for the claim and the support offered for it."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,26 +469,32 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly03-t-016",
     "curriculumCode": "AC9E4LY03",
     "bank": "test",
-    "skill": "Purpose and Features of Texts",
+    "skill": "persuasive purpose",
     "printable": true,
     "type": "single",
-    "question": "Which final choice gives the clearest and most accurate result for a letter arguing for more trees in the playground?",
-    "audioPrompt": "Which final choice gives the clearest and most accurate result for a letter arguing for more trees in the playground?",
+    "question": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which principle should guide the final decision?",
+    "audioPrompt": "Unseen context: A campaign text says, “Support the school garden because it gives students a place to learn outdoors,” followed by three evidence points. Which feature most clearly serves the persuasive purpose? Which principle should guide the final decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Tell an unrelated fantasy story instead of making the case.",
-      "List tree species without explaining the request.",
-      "State the request, give reasons and evidence, and finish with a clear recommendation."
+      "Choose the most complicated wording.",
+      "Ignore the audience or purpose.",
+      "Use only the first word as a clue.",
+      "Look for the claim and the support offered for it."
     ],
-    "correct": 2,
-    "explanation": "A persuasive structure makes the position and supporting reasons easy to follow.\nHint: Locate the claim, support and requested action.",
+    "difficulty": 3,
+    "sequencePriority": 16,
+    "correct": 3,
+    "explanation": "Persuasive texts state a position and support it with reasons or evidence designed for an audience.\nHint: Look for the claim and the support offered for it.",
     "structuredExplanation": {
-      "summary": "A persuasive structure makes the position and supporting reasons easy to follow.",
-      "hint": "Locate the claim, support and requested action."
+      "summary": "Persuasive texts state a position and support it with reasons or evidence designed for an audience.",
+      "hint": "Look for the claim and the support offered for it."
     },
     "qualitySchema": "production-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;

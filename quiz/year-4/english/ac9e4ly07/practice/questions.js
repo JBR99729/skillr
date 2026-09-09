@@ -4,23 +4,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-001",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "organise an oral report",
     "printable": true,
     "type": "single",
-    "question": "In opening a talk about local frog habitats, which option best demonstrates the skill?",
-    "audioPrompt": "In opening a talk about local frog habitats, which option best demonstrates the skill?",
+    "question": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which option best demonstrates the skill?",
+    "audioPrompt": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Um, frogs. I guess I will say stuff.",
-      "I will begin with my final detail and never explain the topic.",
-      "Today I will explain where local frogs live, what threatens them and how we can help."
+      "Introduce the topic, group two or three key facts logically, cite reliable sources for important claims, then finish with a clear concluding point.",
+      "List facts in the order they were found online.",
+      "Begin with the conclusion and omit the topic.",
+      "Use as many facts as possible without checking relevance."
     ],
-    "correct": 2,
-    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
+    "difficulty": 1,
+    "sequencePriority": 1,
+    "correct": 0,
+    "explanation": "A structured oral report selects relevant information and organises it so the audience can follow the main point.\nHint: Plan a clear beginning, grouped body points and purposeful ending.",
     "structuredExplanation": {
-      "summary": "A clear opening previews the topic and structure for the audience.",
-      "hint": "Tell listeners what they are about to learn."
+      "summary": "A structured oral report selects relevant information and organises it so the audience can follow the main point.",
+      "hint": "Plan a clear beginning, grouped body points and purposeful ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -28,23 +35,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-002",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "organise an oral report",
     "printable": true,
     "type": "single",
-    "question": "Which choice fits opening a talk about local frog habitats most accurately?",
-    "audioPrompt": "Which choice fits opening a talk about local frog habitats most accurately?",
+    "question": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which choice is the strongest response?",
+    "audioPrompt": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Today I will explain where local frogs live, what threatens them and how we can help.",
-      "Um, frogs. I guess I will say stuff.",
-      "I will begin with my final detail and never explain the topic."
+      "List facts in the order they were found online.",
+      "Begin with the conclusion and omit the topic.",
+      "Use as many facts as possible without checking relevance.",
+      "Introduce the topic, group two or three key facts logically, cite reliable sources for important claims, then finish with a clear concluding point."
     ],
-    "correct": 0,
-    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
+    "difficulty": 1,
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "A structured oral report selects relevant information and organises it so the audience can follow the main point.\nHint: Plan a clear beginning, grouped body points and purposeful ending.",
     "structuredExplanation": {
-      "summary": "A clear opening previews the topic and structure for the audience.",
-      "hint": "Tell listeners what they are about to learn."
+      "summary": "A structured oral report selects relevant information and organises it so the audience can follow the main point.",
+      "hint": "Plan a clear beginning, grouped body points and purposeful ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -52,23 +66,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-003",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "organise an oral report",
     "printable": true,
     "type": "single",
-    "question": "Which choice fits supporting a claim in a presentation about litter most accurately?",
-    "audioPrompt": "Which choice fits supporting a claim in a presentation about litter most accurately?",
+    "question": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Why is “Introduce the topic, group two or three key facts logically, cite reliable sources for important claims, then finish with a clear concluding point.” the strongest choice?",
+    "audioPrompt": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Why is “Introduce the topic, group two or three key facts logically, cite reliable sources for important claims, then finish with a clear concluding point.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Say everyone knows litter is terrible.",
-      "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
-      "Use an unrelated fact about rainfall."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "A structured oral report selects relevant information and organises it so the audience can follow the main point.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 1,
-    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
+    "difficulty": 2,
+    "sequencePriority": 3,
+    "correct": 2,
+    "explanation": "A structured oral report selects relevant information and organises it so the audience can follow the main point.\nHint: Plan a clear beginning, grouped body points and purposeful ending.",
     "structuredExplanation": {
-      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
-      "hint": "Evidence must connect directly to the point."
+      "summary": "A structured oral report selects relevant information and organises it so the audience can follow the main point.",
+      "hint": "Plan a clear beginning, grouped body points and purposeful ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -76,23 +97,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-004",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "organise an oral report",
     "printable": true,
     "type": "single",
-    "question": "Look closely at supporting a claim in a presentation about litter. Which response or wording works best?",
-    "audioPrompt": "Look closely at supporting a claim in a presentation about litter. Which response or wording works best?",
+    "question": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Say everyone knows litter is terrible.",
-      "Use an unrelated fact about rainfall.",
-      "Use a council clean-up figure and explain how it supports the point about litter in local parks."
+      "Use as many facts as possible without checking relevance.",
+      "List facts in the order they were found online.",
+      "Introduce the topic, group two or three key facts logically, cite reliable sources for important claims, then finish with a clear concluding point.",
+      "Begin with the conclusion and omit the topic."
     ],
-    "correct": 2,
-    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
+    "difficulty": 2,
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "“List facts in the order they were found online.” should be rejected because it does not meet the task as well as the evidence-based choice. A structured oral report selects relevant information and organises it so the audience can follow the main point.\nHint: Plan a clear beginning, grouped body points and purposeful ending.",
     "structuredExplanation": {
-      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
-      "hint": "Evidence must connect directly to the point."
+      "summary": "“List facts in the order they were found online.” should be rejected because it does not meet the task as well as the evidence-based choice. A structured oral report selects relevant information and organises it so the audience can follow the main point.",
+      "hint": "Plan a clear beginning, grouped body points and purposeful ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -100,23 +128,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-005",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "organise an oral report",
     "printable": true,
     "type": "single",
-    "question": "Look closely at choosing language for a factual science presentation. Which response or wording works best?",
-    "audioPrompt": "Look closely at choosing language for a factual science presentation. Which response or wording works best?",
+    "question": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which revision best improves “List facts in the order they were found online.”?",
+    "audioPrompt": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which revision best improves “List facts in the order they were found online.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The water temperature increased by 4°C during the test.",
-      "The water became super awesome hot.",
-      "I feel the temperature was probably the best."
+      "Introduce the topic, group two or three key facts logically, cite reliable sources for important claims, then finish with a clear concluding point.",
+      "List facts in the order they were found online.",
+      "Begin with the conclusion and omit the topic.",
+      "Use as many facts as possible without checking relevance."
     ],
+    "difficulty": 2,
+    "sequencePriority": 5,
     "correct": 0,
-    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "explanation": "A structured oral report selects relevant information and organises it so the audience can follow the main point.\nHint: Plan a clear beginning, grouped body points and purposeful ending.",
     "structuredExplanation": {
-      "summary": "Objective language suits a factual report of measured results.",
-      "hint": "Match subjective or objective wording to the presentation purpose."
+      "summary": "A structured oral report selects relevant information and organises it so the audience can follow the main point.",
+      "hint": "Plan a clear beginning, grouped body points and purposeful ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -124,23 +159,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-006",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "organise an oral report",
     "printable": true,
     "type": "single",
-    "question": "For choosing language for a factual science presentation, which option is the strongest match?",
-    "audioPrompt": "For choosing language for a factual science presentation, which option is the strongest match?",
+    "question": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which clue should guide your decision?",
+    "audioPrompt": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The water became super awesome hot.",
-      "The water temperature increased by 4°C during the test.",
-      "I feel the temperature was probably the best."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Plan a clear beginning, grouped body points and purposeful ending."
     ],
-    "correct": 1,
-    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "difficulty": 2,
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "A structured oral report selects relevant information and organises it so the audience can follow the main point.\nHint: Plan a clear beginning, grouped body points and purposeful ending.",
     "structuredExplanation": {
-      "summary": "Objective language suits a factual report of measured results.",
-      "hint": "Match subjective or objective wording to the presentation purpose."
+      "summary": "A structured oral report selects relevant information and organises it so the audience can follow the main point.",
+      "hint": "Plan a clear beginning, grouped body points and purposeful ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -148,23 +190,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-007",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "organise an oral report",
     "printable": true,
     "type": "single",
-    "question": "For using a slide about the solar system, which option is the strongest match?",
-    "audioPrompt": "For using a slide about the solar system, which option is the strongest match?",
+    "question": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? A student chooses “Begin with the conclusion and omit the topic.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? A student chooses “Begin with the conclusion and omit the topic.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Fill the slide with tiny paragraphs and read every word.",
-      "Use a decorative image that has no connection to the explanation.",
-      "Show one clear labelled diagram while explaining the key relationships aloud."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Plan a clear beginning, grouped body points and purposeful ending.",
+      "Keep the answer because first choices should never change."
     ],
+    "difficulty": 3,
+    "sequencePriority": 7,
     "correct": 2,
-    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
+    "explanation": "A structured oral report selects relevant information and organises it so the audience can follow the main point.\nHint: Plan a clear beginning, grouped body points and purposeful ending.",
     "structuredExplanation": {
-      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
-      "hint": "Ask what the audience needs to see while listening."
+      "summary": "A structured oral report selects relevant information and organises it so the audience can follow the main point.",
+      "hint": "Plan a clear beginning, grouped body points and purposeful ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -172,23 +221,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-008",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "organise an oral report",
     "printable": true,
     "type": "single",
-    "question": "Which example should you choose for using a slide about the solar system?",
-    "audioPrompt": "Which example should you choose for using a slide about the solar system?",
+    "question": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A student is preparing a two-minute report about a local creek. Which plan best supports an organised presentation? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Show one clear labelled diagram while explaining the key relationships aloud.",
-      "Fill the slide with tiny paragraphs and read every word.",
-      "Use a decorative image that has no connection to the explanation."
+      "Use as many facts as possible without checking relevance.",
+      "Introduce the topic, group two or three key facts logically, cite reliable sources for important claims, then finish with a clear concluding point.",
+      "List facts in the order they were found online.",
+      "Begin with the conclusion and omit the topic."
     ],
-    "correct": 0,
-    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
+    "difficulty": 3,
+    "sequencePriority": 8,
+    "correct": 1,
+    "explanation": "A structured oral report selects relevant information and organises it so the audience can follow the main point.\nHint: Plan a clear beginning, grouped body points and purposeful ending.",
     "structuredExplanation": {
-      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
-      "hint": "Ask what the audience needs to see while listening."
+      "summary": "A structured oral report selects relevant information and organises it so the audience can follow the main point.",
+      "hint": "Plan a clear beginning, grouped body points and purposeful ending."
     },
     "qualitySchema": "production-v1"
   },
@@ -196,23 +252,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-009",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "pace and rehearsal",
     "printable": true,
     "type": "single",
-    "question": "Which example should you choose for speaking to a large assembly?",
-    "audioPrompt": "Which example should you choose for speaking to a large assembly?",
+    "question": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which option best demonstrates the skill?",
+    "audioPrompt": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Rush quietly through every sentence.",
-      "Use enough volume to be heard, a steady pace and pauses at key points.",
-      "Shout every word at the same pitch."
+      "Slow the pace at key information and use brief pauses to separate ideas.",
+      "Speak even faster so the talk ends sooner.",
+      "Whisper the entire presentation.",
+      "Keep the same pace but remove all punctuation from notes."
     ],
-    "correct": 1,
-    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "difficulty": 1,
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "Pace and pausing help listeners process important information and understand how ideas are grouped.\nHint: Match pace to meaning and give listeners time to process key points.",
     "structuredExplanation": {
-      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
-      "hint": "Voice choices should support understanding, not simply make speech louder."
+      "summary": "Pace and pausing help listeners process important information and understand how ideas are grouped.",
+      "hint": "Match pace to meaning and give listeners time to process key points."
     },
     "qualitySchema": "production-v1"
   },
@@ -220,23 +283,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-010",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "pace and rehearsal",
     "printable": true,
     "type": "single",
-    "question": "In speaking to a large assembly, which option best demonstrates the skill?",
-    "audioPrompt": "In speaking to a large assembly, which option best demonstrates the skill?",
+    "question": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which choice is the strongest response?",
+    "audioPrompt": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Rush quietly through every sentence.",
-      "Shout every word at the same pitch.",
-      "Use enough volume to be heard, a steady pace and pauses at key points."
+      "Speak even faster so the talk ends sooner.",
+      "Whisper the entire presentation.",
+      "Keep the same pace but remove all punctuation from notes.",
+      "Slow the pace at key information and use brief pauses to separate ideas."
     ],
-    "correct": 2,
-    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "difficulty": 1,
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "Pace and pausing help listeners process important information and understand how ideas are grouped.\nHint: Match pace to meaning and give listeners time to process key points.",
     "structuredExplanation": {
-      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
-      "hint": "Voice choices should support understanding, not simply make speech louder."
+      "summary": "Pace and pausing help listeners process important information and understand how ideas are grouped.",
+      "hint": "Match pace to meaning and give listeners time to process key points."
     },
     "qualitySchema": "production-v1"
   },
@@ -244,23 +314,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-011",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "pace and rehearsal",
     "printable": true,
     "type": "single",
-    "question": "Why does “Today I will explain where local frogs live, what threatens them and how we can help.” work well for opening a talk about local frog habitats?",
-    "audioPrompt": "Why does “Today I will explain where local frogs live, what threatens them and how we can help.” work well for opening a talk about local frog habitats?",
+    "question": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Why is “Slow the pace at key information and use brief pauses to separate ideas.” the strongest choice?",
+    "audioPrompt": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Why is “Slow the pace at key information and use brief pauses to separate ideas.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "A clear opening previews the topic and structure for the audience.",
-      "Because “Um, frogs. I guess I will say stuff.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Pace and pausing help listeners process important information and understand how ideas are grouped.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 0,
-    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
+    "difficulty": 2,
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "Pace and pausing help listeners process important information and understand how ideas are grouped.\nHint: Match pace to meaning and give listeners time to process key points.",
     "structuredExplanation": {
-      "summary": "A clear opening previews the topic and structure for the audience.",
-      "hint": "Tell listeners what they are about to learn."
+      "summary": "Pace and pausing help listeners process important information and understand how ideas are grouped.",
+      "hint": "Match pace to meaning and give listeners time to process key points."
     },
     "qualitySchema": "production-v1"
   },
@@ -268,23 +345,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-012",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "pace and rehearsal",
     "printable": true,
     "type": "single",
-    "question": "What makes “Today I will explain where local frogs live, what threatens them and how we can help.” a better choice in opening a talk about local frog habitats?",
-    "audioPrompt": "What makes “Today I will explain where local frogs live, what threatens them and how we can help.” a better choice in opening a talk about local frog habitats?",
+    "question": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Um, frogs. I guess I will say stuff.” is always acceptable in this situation.",
-      "A clear opening previews the topic and structure for the audience.",
-      "Because the longest or most complicated option must be correct."
+      "Keep the same pace but remove all punctuation from notes.",
+      "Speak even faster so the talk ends sooner.",
+      "Slow the pace at key information and use brief pauses to separate ideas.",
+      "Whisper the entire presentation."
     ],
+    "difficulty": 2,
+    "sequencePriority": 12,
     "correct": 1,
-    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
+    "explanation": "“Speak even faster so the talk ends sooner.” should be rejected because it does not meet the task as well as the evidence-based choice. Pace and pausing help listeners process important information and understand how ideas are grouped.\nHint: Match pace to meaning and give listeners time to process key points.",
     "structuredExplanation": {
-      "summary": "A clear opening previews the topic and structure for the audience.",
-      "hint": "Tell listeners what they are about to learn."
+      "summary": "“Speak even faster so the talk ends sooner.” should be rejected because it does not meet the task as well as the evidence-based choice. Pace and pausing help listeners process important information and understand how ideas are grouped.",
+      "hint": "Match pace to meaning and give listeners time to process key points."
     },
     "qualitySchema": "production-v1"
   },
@@ -292,23 +376,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-013",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "pace and rehearsal",
     "printable": true,
     "type": "single",
-    "question": "What makes “Use a council clean-up figure and explain how it supports the point about litter in local parks.” a better choice in supporting a claim in a presentation about litter?",
-    "audioPrompt": "What makes “Use a council clean-up figure and explain how it supports the point about litter in local parks.” a better choice in supporting a claim in a presentation about litter?",
+    "question": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which revision best improves “Speak even faster so the talk ends sooner.”?",
+    "audioPrompt": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which revision best improves “Speak even faster so the talk ends sooner.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Say everyone knows litter is terrible.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Reliable, relevant evidence strengthens a claim when the link is explained."
+      "Slow the pace at key information and use brief pauses to separate ideas.",
+      "Speak even faster so the talk ends sooner.",
+      "Whisper the entire presentation.",
+      "Keep the same pace but remove all punctuation from notes."
     ],
-    "correct": 2,
-    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
+    "difficulty": 2,
+    "sequencePriority": 13,
+    "correct": 0,
+    "explanation": "Pace and pausing help listeners process important information and understand how ideas are grouped.\nHint: Match pace to meaning and give listeners time to process key points.",
     "structuredExplanation": {
-      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
-      "hint": "Evidence must connect directly to the point."
+      "summary": "Pace and pausing help listeners process important information and understand how ideas are grouped.",
+      "hint": "Match pace to meaning and give listeners time to process key points."
     },
     "qualitySchema": "production-v1"
   },
@@ -316,23 +407,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-014",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "pace and rehearsal",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best justifies “Use a council clean-up figure and explain how it supports the point about litter in local parks.” for supporting a claim in a presentation about litter?",
-    "audioPrompt": "Which explanation best justifies “Use a council clean-up figure and explain how it supports the point about litter in local parks.” for supporting a claim in a presentation about litter?",
+    "question": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which clue should guide your decision?",
+    "audioPrompt": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Reliable, relevant evidence strengthens a claim when the link is explained.",
-      "Because “Say everyone knows litter is terrible.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Match pace to meaning and give listeners time to process key points."
     ],
-    "correct": 0,
-    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
+    "difficulty": 2,
+    "sequencePriority": 14,
+    "correct": 3,
+    "explanation": "Pace and pausing help listeners process important information and understand how ideas are grouped.\nHint: Match pace to meaning and give listeners time to process key points.",
     "structuredExplanation": {
-      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
-      "hint": "Evidence must connect directly to the point."
+      "summary": "Pace and pausing help listeners process important information and understand how ideas are grouped.",
+      "hint": "Match pace to meaning and give listeners time to process key points."
     },
     "qualitySchema": "production-v1"
   },
@@ -340,23 +438,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-015",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "pace and rehearsal",
     "printable": true,
     "type": "single",
-    "question": "Which explanation best justifies “The water temperature increased by 4°C during the test.” for choosing language for a factual science presentation?",
-    "audioPrompt": "Which explanation best justifies “The water temperature increased by 4°C during the test.” for choosing language for a factual science presentation?",
+    "question": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? A student chooses “Whisper the entire presentation.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? A student chooses “Whisper the entire presentation.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “The water became super awesome hot.” is always acceptable in this situation.",
-      "Objective language suits a factual report of measured results.",
-      "Because the longest or most complicated option must be correct."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Match pace to meaning and give listeners time to process key points.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 1,
-    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "difficulty": 3,
+    "sequencePriority": 15,
+    "correct": 2,
+    "explanation": "Pace and pausing help listeners process important information and understand how ideas are grouped.\nHint: Match pace to meaning and give listeners time to process key points.",
     "structuredExplanation": {
-      "summary": "Objective language suits a factual report of measured results.",
-      "hint": "Match subjective or objective wording to the presentation purpose."
+      "summary": "Pace and pausing help listeners process important information and understand how ideas are grouped.",
+      "hint": "Match pace to meaning and give listeners time to process key points."
     },
     "qualitySchema": "production-v1"
   },
@@ -364,23 +469,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-016",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "pace and rehearsal",
     "printable": true,
     "type": "single",
-    "question": "What should you notice about “The water temperature increased by 4°C during the test.” in choosing language for a factual science presentation?",
-    "audioPrompt": "What should you notice about “The water temperature increased by 4°C during the test.” in choosing language for a factual science presentation?",
+    "question": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "During rehearsal, a speaker races through important information and the audience cannot follow it. What is the best adjustment? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “The water became super awesome hot.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Objective language suits a factual report of measured results."
+      "Keep the same pace but remove all punctuation from notes.",
+      "Slow the pace at key information and use brief pauses to separate ideas.",
+      "Speak even faster so the talk ends sooner.",
+      "Whisper the entire presentation."
     ],
-    "correct": 2,
-    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "difficulty": 3,
+    "sequencePriority": 16,
+    "correct": 1,
+    "explanation": "Pace and pausing help listeners process important information and understand how ideas are grouped.\nHint: Match pace to meaning and give listeners time to process key points.",
     "structuredExplanation": {
-      "summary": "Objective language suits a factual report of measured results.",
-      "hint": "Match subjective or objective wording to the presentation purpose."
+      "summary": "Pace and pausing help listeners process important information and understand how ideas are grouped.",
+      "hint": "Match pace to meaning and give listeners time to process key points."
     },
     "qualitySchema": "production-v1"
   },
@@ -388,23 +500,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-017",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "precise oral vocabulary",
     "printable": true,
     "type": "single",
-    "question": "What should you notice about “Show one clear labelled diagram while explaining the key relationships aloud.” in using a slide about the solar system?",
-    "audioPrompt": "What should you notice about “Show one clear labelled diagram while explaining the key relationships aloud.” in using a slide about the solar system?",
+    "question": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which option best demonstrates the skill?",
+    "audioPrompt": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "A visual should extend or clarify the spoken message rather than compete with it.",
-      "Because “Fill the slide with tiny paragraphs and read every word.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "“The reef supports diverse marine species, including coral, fish and crustaceans.”",
+      "“The reef is super cool.”",
+      "“Stuff lives there.”",
+      "“The reef, like, has things.”"
     ],
+    "difficulty": 1,
+    "sequencePriority": 17,
     "correct": 0,
-    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
+    "explanation": "Precise and topic-specific vocabulary communicates information clearly and appropriately.\nHint: Use exact words and technical vocabulary when they help the audience understand.",
     "structuredExplanation": {
-      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
-      "hint": "Ask what the audience needs to see while listening."
+      "summary": "Precise and topic-specific vocabulary communicates information clearly and appropriately.",
+      "hint": "Use exact words and technical vocabulary when they help the audience understand."
     },
     "qualitySchema": "production-v1"
   },
@@ -412,23 +531,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-018",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "precise oral vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which reason explains why “Show one clear labelled diagram while explaining the key relationships aloud.” suits using a slide about the solar system?",
-    "audioPrompt": "Which reason explains why “Show one clear labelled diagram while explaining the key relationships aloud.” suits using a slide about the solar system?",
+    "question": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which choice is the strongest response?",
+    "audioPrompt": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Fill the slide with tiny paragraphs and read every word.” is always acceptable in this situation.",
-      "A visual should extend or clarify the spoken message rather than compete with it.",
-      "Because the longest or most complicated option must be correct."
+      "“The reef is super cool.”",
+      "“Stuff lives there.”",
+      "“The reef, like, has things.”",
+      "“The reef supports diverse marine species, including coral, fish and crustaceans.”"
     ],
-    "correct": 1,
-    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
+    "difficulty": 1,
+    "sequencePriority": 18,
+    "correct": 3,
+    "explanation": "Precise and topic-specific vocabulary communicates information clearly and appropriately.\nHint: Use exact words and technical vocabulary when they help the audience understand.",
     "structuredExplanation": {
-      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
-      "hint": "Ask what the audience needs to see while listening."
+      "summary": "Precise and topic-specific vocabulary communicates information clearly and appropriately.",
+      "hint": "Use exact words and technical vocabulary when they help the audience understand."
     },
     "qualitySchema": "production-v1"
   },
@@ -436,23 +562,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-019",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "precise oral vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which reason explains why “Use enough volume to be heard, a steady pace and pauses at key points.” suits speaking to a large assembly?",
-    "audioPrompt": "Which reason explains why “Use enough volume to be heard, a steady pace and pauses at key points.” suits speaking to a large assembly?",
+    "question": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Why is ““The reef supports diverse marine species, including coral, fish and crustaceans.”” the strongest choice?",
+    "audioPrompt": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Why is ““The reef supports diverse marine species, including coral, fish and crustaceans.”” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Because “Rush quietly through every sentence.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct.",
-      "Controlled volume, pace and pauses make meaning easier to follow."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Precise and topic-specific vocabulary communicates information clearly and appropriately.",
+      "It is longest, so it must be correct."
     ],
+    "difficulty": 2,
+    "sequencePriority": 19,
     "correct": 2,
-    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "explanation": "Precise and topic-specific vocabulary communicates information clearly and appropriately.\nHint: Use exact words and technical vocabulary when they help the audience understand.",
     "structuredExplanation": {
-      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
-      "hint": "Voice choices should support understanding, not simply make speech louder."
+      "summary": "Precise and topic-specific vocabulary communicates information clearly and appropriately.",
+      "hint": "Use exact words and technical vocabulary when they help the audience understand."
     },
     "qualitySchema": "production-v1"
   },
@@ -460,23 +593,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-020",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "precise oral vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Why does “Use enough volume to be heard, a steady pace and pauses at key points.” work well for speaking to a large assembly?",
-    "audioPrompt": "Why does “Use enough volume to be heard, a steady pace and pauses at key points.” work well for speaking to a large assembly?",
+    "question": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Controlled volume, pace and pauses make meaning easier to follow.",
-      "Because “Rush quietly through every sentence.” is always acceptable in this situation.",
-      "Because the longest or most complicated option must be correct."
+      "“The reef, like, has things.”",
+      "“The reef is super cool.”",
+      "“The reef supports diverse marine species, including coral, fish and crustaceans.”",
+      "“Stuff lives there.”"
     ],
-    "correct": 0,
-    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "difficulty": 2,
+    "sequencePriority": 20,
+    "correct": 1,
+    "explanation": "““The reef is super cool.”” should be rejected because it does not meet the task as well as the evidence-based choice. Precise and topic-specific vocabulary communicates information clearly and appropriately.\nHint: Use exact words and technical vocabulary when they help the audience understand.",
     "structuredExplanation": {
-      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
-      "hint": "Voice choices should support understanding, not simply make speech louder."
+      "summary": "““The reef is super cool.”” should be rejected because it does not meet the task as well as the evidence-based choice. Precise and topic-specific vocabulary communicates information clearly and appropriately.",
+      "hint": "Use exact words and technical vocabulary when they help the audience understand."
     },
     "qualitySchema": "production-v1"
   },
@@ -484,23 +624,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-021",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "precise oral vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Which revision best fixes the problem in “Um, frogs. I guess I will say stuff.” for opening a talk about local frog habitats?",
-    "audioPrompt": "Which revision best fixes the problem in “Um, frogs. I guess I will say stuff.” for opening a talk about local frog habitats?",
+    "question": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which revision best improves ““The reef is super cool.””?",
+    "audioPrompt": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which revision best improves ““The reef is super cool.””?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Um, frogs. I guess I will say stuff.",
-      "Today I will explain where local frogs live, what threatens them and how we can help.",
-      "I will begin with my final detail and never explain the topic."
+      "“The reef supports diverse marine species, including coral, fish and crustaceans.”",
+      "“The reef is super cool.”",
+      "“Stuff lives there.”",
+      "“The reef, like, has things.”"
     ],
-    "correct": 1,
-    "explanation": "A clear opening previews the topic and structure for the audience. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Tell listeners what they are about to learn.",
+    "difficulty": 2,
+    "sequencePriority": 21,
+    "correct": 0,
+    "explanation": "Precise and topic-specific vocabulary communicates information clearly and appropriately.\nHint: Use exact words and technical vocabulary when they help the audience understand.",
     "structuredExplanation": {
-      "summary": "A clear opening previews the topic and structure for the audience. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Tell listeners what they are about to learn."
+      "summary": "Precise and topic-specific vocabulary communicates information clearly and appropriately.",
+      "hint": "Use exact words and technical vocabulary when they help the audience understand."
     },
     "qualitySchema": "production-v1"
   },
@@ -508,23 +655,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-022",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "precise oral vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Compare the choices for opening a talk about local frog habitats. Which one avoids the mistake in “Um, frogs. I guess I will say stuff.”?",
-    "audioPrompt": "Compare the choices for opening a talk about local frog habitats. Which one avoids the mistake in “Um, frogs. I guess I will say stuff.”?",
+    "question": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which clue should guide your decision?",
+    "audioPrompt": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Um, frogs. I guess I will say stuff.",
-      "I will begin with my final detail and never explain the topic.",
-      "Today I will explain where local frogs live, what threatens them and how we can help."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Use exact words and technical vocabulary when they help the audience understand."
     ],
-    "correct": 2,
-    "explanation": "A clear opening previews the topic and structure for the audience. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Tell listeners what they are about to learn.",
+    "difficulty": 2,
+    "sequencePriority": 22,
+    "correct": 3,
+    "explanation": "Precise and topic-specific vocabulary communicates information clearly and appropriately.\nHint: Use exact words and technical vocabulary when they help the audience understand.",
     "structuredExplanation": {
-      "summary": "A clear opening previews the topic and structure for the audience. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Tell listeners what they are about to learn."
+      "summary": "Precise and topic-specific vocabulary communicates information clearly and appropriately.",
+      "hint": "Use exact words and technical vocabulary when they help the audience understand."
     },
     "qualitySchema": "production-v1"
   },
@@ -532,23 +686,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-023",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "precise oral vocabulary",
     "printable": true,
     "type": "single",
-    "question": "Compare the choices for supporting a claim in a presentation about litter. Which one avoids the mistake in “Say everyone knows litter is terrible.”?",
-    "audioPrompt": "Compare the choices for supporting a claim in a presentation about litter. Which one avoids the mistake in “Say everyone knows litter is terrible.”?",
+    "question": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? A student chooses ““Stuff lives there.””. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? A student chooses ““Stuff lives there.””. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
-      "Say everyone knows litter is terrible.",
-      "Use an unrelated fact about rainfall."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Use exact words and technical vocabulary when they help the audience understand.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 0,
-    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Evidence must connect directly to the point.",
+    "difficulty": 3,
+    "sequencePriority": 23,
+    "correct": 2,
+    "explanation": "Precise and topic-specific vocabulary communicates information clearly and appropriately.\nHint: Use exact words and technical vocabulary when they help the audience understand.",
     "structuredExplanation": {
-      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Evidence must connect directly to the point."
+      "summary": "Precise and topic-specific vocabulary communicates information clearly and appropriately.",
+      "hint": "Use exact words and technical vocabulary when they help the audience understand."
     },
     "qualitySchema": "production-v1"
   },
@@ -556,23 +717,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-024",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "precise oral vocabulary",
     "printable": true,
     "type": "single",
-    "question": "If “Say everyone knows litter is terrible.” does not work in supporting a claim in a presentation about litter, what should replace it?",
-    "audioPrompt": "If “Say everyone knows litter is terrible.” does not work in supporting a claim in a presentation about litter, what should replace it?",
+    "question": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A speaker says, “The reef is nice and has lots of stuff.” Which revision is more suitable for an informative presentation? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Say everyone knows litter is terrible.",
-      "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
-      "Use an unrelated fact about rainfall."
+      "“The reef, like, has things.”",
+      "“The reef supports diverse marine species, including coral, fish and crustaceans.”",
+      "“The reef is super cool.”",
+      "“Stuff lives there.”"
     ],
+    "difficulty": 3,
+    "sequencePriority": 24,
     "correct": 1,
-    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Evidence must connect directly to the point.",
+    "explanation": "Precise and topic-specific vocabulary communicates information clearly and appropriately.\nHint: Use exact words and technical vocabulary when they help the audience understand.",
     "structuredExplanation": {
-      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Evidence must connect directly to the point."
+      "summary": "Precise and topic-specific vocabulary communicates information clearly and appropriately.",
+      "hint": "Use exact words and technical vocabulary when they help the audience understand."
     },
     "qualitySchema": "production-v1"
   },
@@ -580,23 +748,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-025",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "use peer feedback",
     "printable": true,
     "type": "single",
-    "question": "If “The water became super awesome hot.” does not work in choosing language for a factual science presentation, what should replace it?",
-    "audioPrompt": "If “The water became super awesome hot.” does not work in choosing language for a factual science presentation, what should replace it?",
+    "question": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which option best demonstrates the skill?",
+    "audioPrompt": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The water became super awesome hot.",
-      "I feel the temperature was probably the best.",
-      "The water temperature increased by 4°C during the test."
+      "Rehearse that section again, increasing volume enough for the audience while keeping a natural tone.",
+      "Ignore the feedback because rehearsal should not change delivery.",
+      "Shout every sentence.",
+      "Delete the main reason."
     ],
-    "correct": 2,
-    "explanation": "Objective language suits a factual report of measured results. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "difficulty": 1,
+    "sequencePriority": 25,
+    "correct": 0,
+    "explanation": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.\nHint: Use feedback to make a deliberate change to tone, pace, pitch or volume.",
     "structuredExplanation": {
-      "summary": "Objective language suits a factual report of measured results. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Match subjective or objective wording to the presentation purpose."
+      "summary": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.",
+      "hint": "Use feedback to make a deliberate change to tone, pace, pitch or volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -604,23 +779,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-026",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "use peer feedback",
     "printable": true,
     "type": "single",
-    "question": "Which option corrects the meaning or form needed for choosing language for a factual science presentation?",
-    "audioPrompt": "Which option corrects the meaning or form needed for choosing language for a factual science presentation?",
+    "question": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which choice is the strongest response?",
+    "audioPrompt": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The water temperature increased by 4°C during the test.",
-      "The water became super awesome hot.",
-      "I feel the temperature was probably the best."
+      "Ignore the feedback because rehearsal should not change delivery.",
+      "Shout every sentence.",
+      "Delete the main reason.",
+      "Rehearse that section again, increasing volume enough for the audience while keeping a natural tone."
     ],
-    "correct": 0,
-    "explanation": "Objective language suits a factual report of measured results. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "difficulty": 1,
+    "sequencePriority": 26,
+    "correct": 3,
+    "explanation": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.\nHint: Use feedback to make a deliberate change to tone, pace, pitch or volume.",
     "structuredExplanation": {
-      "summary": "Objective language suits a factual report of measured results. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Match subjective or objective wording to the presentation purpose."
+      "summary": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.",
+      "hint": "Use feedback to make a deliberate change to tone, pace, pitch or volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -628,23 +810,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-027",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "use peer feedback",
     "printable": true,
     "type": "single",
-    "question": "Which option corrects the meaning or form needed for using a slide about the solar system?",
-    "audioPrompt": "Which option corrects the meaning or form needed for using a slide about the solar system?",
+    "question": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Why is “Rehearse that section again, increasing volume enough for the audience while keeping a natural tone.” the strongest choice?",
+    "audioPrompt": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Why is “Rehearse that section again, increasing volume enough for the audience while keeping a natural tone.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Fill the slide with tiny paragraphs and read every word.",
-      "Show one clear labelled diagram while explaining the key relationships aloud.",
-      "Use a decorative image that has no connection to the explanation."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 1,
-    "explanation": "A visual should extend or clarify the spoken message rather than compete with it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what the audience needs to see while listening.",
+    "difficulty": 2,
+    "sequencePriority": 27,
+    "correct": 2,
+    "explanation": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.\nHint: Use feedback to make a deliberate change to tone, pace, pitch or volume.",
     "structuredExplanation": {
-      "summary": "A visual should extend or clarify the spoken message rather than compete with it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what the audience needs to see while listening."
+      "summary": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.",
+      "hint": "Use feedback to make a deliberate change to tone, pace, pitch or volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -652,23 +841,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-028",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "use peer feedback",
     "printable": true,
     "type": "single",
-    "question": "Which choice is the clearest correction for using a slide about the solar system?",
-    "audioPrompt": "Which choice is the clearest correction for using a slide about the solar system?",
+    "question": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Fill the slide with tiny paragraphs and read every word.",
-      "Use a decorative image that has no connection to the explanation.",
-      "Show one clear labelled diagram while explaining the key relationships aloud."
+      "Delete the main reason.",
+      "Ignore the feedback because rehearsal should not change delivery.",
+      "Rehearse that section again, increasing volume enough for the audience while keeping a natural tone.",
+      "Shout every sentence."
     ],
-    "correct": 2,
-    "explanation": "A visual should extend or clarify the spoken message rather than compete with it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Ask what the audience needs to see while listening.",
+    "difficulty": 2,
+    "sequencePriority": 28,
+    "correct": 1,
+    "explanation": "“Ignore the feedback because rehearsal should not change delivery.” should be rejected because it does not meet the task as well as the evidence-based choice. Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.\nHint: Use feedback to make a deliberate change to tone, pace, pitch or volume.",
     "structuredExplanation": {
-      "summary": "A visual should extend or clarify the spoken message rather than compete with it. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Ask what the audience needs to see while listening."
+      "summary": "“Ignore the feedback because rehearsal should not change delivery.” should be rejected because it does not meet the task as well as the evidence-based choice. Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.",
+      "hint": "Use feedback to make a deliberate change to tone, pace, pitch or volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -676,23 +872,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-029",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "use peer feedback",
     "printable": true,
     "type": "single",
-    "question": "Which choice is the clearest correction for speaking to a large assembly?",
-    "audioPrompt": "Which choice is the clearest correction for speaking to a large assembly?",
+    "question": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which revision best improves “Ignore the feedback because rehearsal should not change delivery.”?",
+    "audioPrompt": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which revision best improves “Ignore the feedback because rehearsal should not change delivery.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use enough volume to be heard, a steady pace and pauses at key points.",
-      "Rush quietly through every sentence.",
-      "Shout every word at the same pitch."
+      "Rehearse that section again, increasing volume enough for the audience while keeping a natural tone.",
+      "Ignore the feedback because rehearsal should not change delivery.",
+      "Shout every sentence.",
+      "Delete the main reason."
     ],
+    "difficulty": 2,
+    "sequencePriority": 29,
     "correct": 0,
-    "explanation": "Controlled volume, pace and pauses make meaning easier to follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "explanation": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.\nHint: Use feedback to make a deliberate change to tone, pace, pitch or volume.",
     "structuredExplanation": {
-      "summary": "Controlled volume, pace and pauses make meaning easier to follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Voice choices should support understanding, not simply make speech louder."
+      "summary": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.",
+      "hint": "Use feedback to make a deliberate change to tone, pace, pitch or volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -700,23 +903,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-030",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "use peer feedback",
     "printable": true,
     "type": "single",
-    "question": "Which revision best fixes the problem in “Rush quietly through every sentence.” for speaking to a large assembly?",
-    "audioPrompt": "Which revision best fixes the problem in “Rush quietly through every sentence.” for speaking to a large assembly?",
+    "question": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which clue should guide your decision?",
+    "audioPrompt": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Rush quietly through every sentence.",
-      "Use enough volume to be heard, a steady pace and pauses at key points.",
-      "Shout every word at the same pitch."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Use feedback to make a deliberate change to tone, pace, pitch or volume."
     ],
-    "correct": 1,
-    "explanation": "Controlled volume, pace and pauses make meaning easier to follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "difficulty": 2,
+    "sequencePriority": 30,
+    "correct": 3,
+    "explanation": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.\nHint: Use feedback to make a deliberate change to tone, pace, pitch or volume.",
     "structuredExplanation": {
-      "summary": "Controlled volume, pace and pauses make meaning easier to follow. A common mistake is to choose wording or form that only looks familiar instead of checking the exact meaning and situation.",
-      "hint": "Voice choices should support understanding, not simply make speech louder."
+      "summary": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.",
+      "hint": "Use feedback to make a deliberate change to tone, pace, pitch or volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -724,23 +934,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-031",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "use peer feedback",
     "printable": true,
     "type": "single",
-    "question": "You now need to handle opening a talk about local frog habitats independently. Which choice should you use?",
-    "audioPrompt": "You now need to handle opening a talk about local frog habitats independently. Which choice should you use?",
+    "question": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? A student chooses “Shout every sentence.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? A student chooses “Shout every sentence.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "I will begin with my final detail and never explain the topic.",
-      "Um, frogs. I guess I will say stuff.",
-      "Today I will explain where local frogs live, what threatens them and how we can help."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Use feedback to make a deliberate change to tone, pace, pitch or volume.",
+      "Keep the answer because first choices should never change."
     ],
+    "difficulty": 3,
+    "sequencePriority": 31,
     "correct": 2,
-    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
+    "explanation": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.\nHint: Use feedback to make a deliberate change to tone, pace, pitch or volume.",
     "structuredExplanation": {
-      "summary": "A clear opening previews the topic and structure for the audience.",
-      "hint": "Tell listeners what they are about to learn."
+      "summary": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.",
+      "hint": "Use feedback to make a deliberate change to tone, pace, pitch or volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -748,23 +965,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-032",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "use peer feedback",
     "printable": true,
     "type": "single",
-    "question": "Apply the same idea to opening a talk about local frog habitats. Which option is best?",
-    "audioPrompt": "Apply the same idea to opening a talk about local frog habitats. Which option is best?",
+    "question": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A student rehearses a persuasive talk with a peer. The peer says the speaker’s voice becomes too quiet when presenting the main reason. What should the student do? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Today I will explain where local frogs live, what threatens them and how we can help.",
-      "I will begin with my final detail and never explain the topic.",
-      "Um, frogs. I guess I will say stuff."
+      "Delete the main reason.",
+      "Rehearse that section again, increasing volume enough for the audience while keeping a natural tone.",
+      "Ignore the feedback because rehearsal should not change delivery.",
+      "Shout every sentence."
     ],
-    "correct": 0,
-    "explanation": "A clear opening previews the topic and structure for the audience.\nHint: Tell listeners what they are about to learn.",
+    "difficulty": 3,
+    "sequencePriority": 32,
+    "correct": 1,
+    "explanation": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.\nHint: Use feedback to make a deliberate change to tone, pace, pitch or volume.",
     "structuredExplanation": {
-      "summary": "A clear opening previews the topic and structure for the audience.",
-      "hint": "Tell listeners what they are about to learn."
+      "summary": "Peer feedback is useful when it identifies a specific delivery feature that can be adjusted for audience needs.",
+      "hint": "Use feedback to make a deliberate change to tone, pace, pitch or volume."
     },
     "qualitySchema": "production-v1"
   },
@@ -772,23 +996,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-033",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "tone and pitch for storytelling",
     "printable": true,
     "type": "single",
-    "question": "Apply the same idea to supporting a claim in a presentation about litter. Which option is best?",
-    "audioPrompt": "Apply the same idea to supporting a claim in a presentation about litter. Which option is best?",
+    "question": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which option best demonstrates the skill?",
+    "audioPrompt": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which option best demonstrates the skill?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use an unrelated fact about rainfall.",
-      "Use a council clean-up figure and explain how it supports the point about litter in local parks.",
-      "Say everyone knows litter is terrible."
+      "Use a slightly slower pace and purposeful tone to emphasise the tension without exaggerating every word.",
+      "Read the whole story in exactly the same tone.",
+      "Speed through the tense moment.",
+      "Turn away from the audience and speak into the screen."
     ],
-    "correct": 1,
-    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
+    "difficulty": 1,
+    "sequencePriority": 33,
+    "correct": 0,
+    "explanation": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.\nHint: Choose vocal features that match the purpose of the moment.",
     "structuredExplanation": {
-      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
-      "hint": "Evidence must connect directly to the point."
+      "summary": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.",
+      "hint": "Choose vocal features that match the purpose of the moment."
     },
     "qualitySchema": "production-v1"
   },
@@ -796,23 +1027,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-034",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "tone and pitch for storytelling",
     "printable": true,
     "type": "single",
-    "question": "Which decision would produce the clearest result in supporting a claim in a presentation about litter?",
-    "audioPrompt": "Which decision would produce the clearest result in supporting a claim in a presentation about litter?",
+    "question": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which choice is the strongest response?",
+    "audioPrompt": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which choice is the strongest response?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use an unrelated fact about rainfall.",
-      "Say everyone knows litter is terrible.",
-      "Use a council clean-up figure and explain how it supports the point about litter in local parks."
+      "Read the whole story in exactly the same tone.",
+      "Speed through the tense moment.",
+      "Turn away from the audience and speak into the screen.",
+      "Use a slightly slower pace and purposeful tone to emphasise the tension without exaggerating every word."
     ],
-    "correct": 2,
-    "explanation": "Reliable, relevant evidence strengthens a claim when the link is explained.\nHint: Evidence must connect directly to the point.",
+    "difficulty": 1,
+    "sequencePriority": 34,
+    "correct": 3,
+    "explanation": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.\nHint: Choose vocal features that match the purpose of the moment.",
     "structuredExplanation": {
-      "summary": "Reliable, relevant evidence strengthens a claim when the link is explained.",
-      "hint": "Evidence must connect directly to the point."
+      "summary": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.",
+      "hint": "Choose vocal features that match the purpose of the moment."
     },
     "qualitySchema": "production-v1"
   },
@@ -820,23 +1058,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-035",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "tone and pitch for storytelling",
     "printable": true,
     "type": "single",
-    "question": "Which decision would produce the clearest result in choosing language for a factual science presentation?",
-    "audioPrompt": "Which decision would produce the clearest result in choosing language for a factual science presentation?",
+    "question": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Why is “Use a slightly slower pace and purposeful tone to emphasise the tension without exaggerating every word.” the strongest choice?",
+    "audioPrompt": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Why is “Use a slightly slower pace and purposeful tone to emphasise the tension without exaggerating every word.” the strongest choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "The water temperature increased by 4°C during the test.",
-      "I feel the temperature was probably the best.",
-      "The water became super awesome hot."
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Tone and pace can reinforce the meaning and mood of a story when used deliberately.",
+      "It is longest, so it must be correct."
     ],
-    "correct": 0,
-    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "difficulty": 2,
+    "sequencePriority": 35,
+    "correct": 2,
+    "explanation": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.\nHint: Choose vocal features that match the purpose of the moment.",
     "structuredExplanation": {
-      "summary": "Objective language suits a factual report of measured results.",
-      "hint": "Match subjective or objective wording to the presentation purpose."
+      "summary": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.",
+      "hint": "Choose vocal features that match the purpose of the moment."
     },
     "qualitySchema": "production-v1"
   },
@@ -844,23 +1089,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-036",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "tone and pitch for storytelling",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that applies the skill correctly in choosing language for a factual science presentation.",
-    "audioPrompt": "Choose the option that applies the skill correctly in choosing language for a factual science presentation.",
+    "question": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which choice should be rejected first because it does not meet the purpose of the task?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "I feel the temperature was probably the best.",
-      "The water temperature increased by 4°C during the test.",
-      "The water became super awesome hot."
+      "Turn away from the audience and speak into the screen.",
+      "Read the whole story in exactly the same tone.",
+      "Use a slightly slower pace and purposeful tone to emphasise the tension without exaggerating every word.",
+      "Speed through the tense moment."
     ],
+    "difficulty": 2,
+    "sequencePriority": 36,
     "correct": 1,
-    "explanation": "Objective language suits a factual report of measured results.\nHint: Match subjective or objective wording to the presentation purpose.",
+    "explanation": "“Read the whole story in exactly the same tone.” should be rejected because it does not meet the task as well as the evidence-based choice. Tone and pace can reinforce the meaning and mood of a story when used deliberately.\nHint: Choose vocal features that match the purpose of the moment.",
     "structuredExplanation": {
-      "summary": "Objective language suits a factual report of measured results.",
-      "hint": "Match subjective or objective wording to the presentation purpose."
+      "summary": "“Read the whole story in exactly the same tone.” should be rejected because it does not meet the task as well as the evidence-based choice. Tone and pace can reinforce the meaning and mood of a story when used deliberately.",
+      "hint": "Choose vocal features that match the purpose of the moment."
     },
     "qualitySchema": "production-v1"
   },
@@ -868,23 +1120,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-037",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "tone and pitch for storytelling",
     "printable": true,
     "type": "single",
-    "question": "Choose the option that applies the skill correctly in using a slide about the solar system.",
-    "audioPrompt": "Choose the option that applies the skill correctly in using a slide about the solar system.",
+    "question": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which revision best improves “Read the whole story in exactly the same tone.”?",
+    "audioPrompt": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which revision best improves “Read the whole story in exactly the same tone.”?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Use a decorative image that has no connection to the explanation.",
-      "Fill the slide with tiny paragraphs and read every word.",
-      "Show one clear labelled diagram while explaining the key relationships aloud."
+      "Use a slightly slower pace and purposeful tone to emphasise the tension without exaggerating every word.",
+      "Read the whole story in exactly the same tone.",
+      "Speed through the tense moment.",
+      "Turn away from the audience and speak into the screen."
     ],
-    "correct": 2,
-    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
+    "difficulty": 2,
+    "sequencePriority": 37,
+    "correct": 0,
+    "explanation": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.\nHint: Choose vocal features that match the purpose of the moment.",
     "structuredExplanation": {
-      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
-      "hint": "Ask what the audience needs to see while listening."
+      "summary": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.",
+      "hint": "Choose vocal features that match the purpose of the moment."
     },
     "qualitySchema": "production-v1"
   },
@@ -892,23 +1151,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-038",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "tone and pitch for storytelling",
     "printable": true,
     "type": "single",
-    "question": "What would be the most effective choice for using a slide about the solar system?",
-    "audioPrompt": "What would be the most effective choice for using a slide about the solar system?",
+    "question": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which clue should guide your decision?",
+    "audioPrompt": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which clue should guide your decision?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Show one clear labelled diagram while explaining the key relationships aloud.",
-      "Use a decorative image that has no connection to the explanation.",
-      "Fill the slide with tiny paragraphs and read every word."
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Choose vocal features that match the purpose of the moment."
     ],
-    "correct": 0,
-    "explanation": "A visual should extend or clarify the spoken message rather than compete with it.\nHint: Ask what the audience needs to see while listening.",
+    "difficulty": 2,
+    "sequencePriority": 38,
+    "correct": 3,
+    "explanation": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.\nHint: Choose vocal features that match the purpose of the moment.",
     "structuredExplanation": {
-      "summary": "A visual should extend or clarify the spoken message rather than compete with it.",
-      "hint": "Ask what the audience needs to see while listening."
+      "summary": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.",
+      "hint": "Choose vocal features that match the purpose of the moment."
     },
     "qualitySchema": "production-v1"
   },
@@ -916,23 +1182,30 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-039",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "tone and pitch for storytelling",
     "printable": true,
     "type": "single",
-    "question": "What would be the most effective choice for speaking to a large assembly?",
-    "audioPrompt": "What would be the most effective choice for speaking to a large assembly?",
+    "question": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? A student chooses “Speed through the tense moment.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? A student chooses “Speed through the tense moment.”. Which feedback would best help them correct the choice?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Shout every word at the same pitch.",
-      "Use enough volume to be heard, a steady pace and pauses at key points.",
-      "Rush quietly through every sentence."
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Choose vocal features that match the purpose of the moment.",
+      "Keep the answer because first choices should never change."
     ],
-    "correct": 1,
-    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "difficulty": 3,
+    "sequencePriority": 39,
+    "correct": 2,
+    "explanation": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.\nHint: Choose vocal features that match the purpose of the moment.",
     "structuredExplanation": {
-      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
-      "hint": "Voice choices should support understanding, not simply make speech louder."
+      "summary": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.",
+      "hint": "Choose vocal features that match the purpose of the moment."
     },
     "qualitySchema": "production-v1"
   },
@@ -940,23 +1213,278 @@ window.skillrPracticeQuestions = [
     "id": "ac9e4ly07-p-040",
     "curriculumCode": "AC9E4LY07",
     "bank": "practice",
-    "skill": "Presentations",
+    "skill": "tone and pitch for storytelling",
     "printable": true,
     "type": "single",
-    "question": "You now need to handle speaking to a large assembly independently. Which choice should you use?",
-    "audioPrompt": "You now need to handle speaking to a large assembly independently. Which choice should you use?",
+    "question": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A story presentation reaches a tense moment. Which delivery choice is most likely to support meaning? Which option applies the same skill accurately in this situation?",
     "visual": "",
     "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
     "answers": [
-      "Shout every word at the same pitch.",
-      "Rush quietly through every sentence.",
-      "Use enough volume to be heard, a steady pace and pauses at key points."
+      "Turn away from the audience and speak into the screen.",
+      "Use a slightly slower pace and purposeful tone to emphasise the tension without exaggerating every word.",
+      "Read the whole story in exactly the same tone.",
+      "Speed through the tense moment."
     ],
-    "correct": 2,
-    "explanation": "Controlled volume, pace and pauses make meaning easier to follow.\nHint: Voice choices should support understanding, not simply make speech louder.",
+    "difficulty": 3,
+    "sequencePriority": 40,
+    "correct": 1,
+    "explanation": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.\nHint: Choose vocal features that match the purpose of the moment.",
     "structuredExplanation": {
-      "summary": "Controlled volume, pace and pauses make meaning easier to follow.",
-      "hint": "Voice choices should support understanding, not simply make speech louder."
+      "summary": "Tone and pace can reinforce the meaning and mood of a story when used deliberately.",
+      "hint": "Choose vocal features that match the purpose of the moment."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-041",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "integrate visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which option best demonstrates the skill?",
+    "audioPrompt": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which option best demonstrates the skill?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Refer to the relevant part of the photograph while explaining it, so the visual supports rather than competes with the spoken information.",
+      "Read unrelated text while the photograph is shown.",
+      "Put as many decorative images as possible on every slide.",
+      "Assume the image explains itself and stop speaking."
+    ],
+    "difficulty": 1,
+    "sequencePriority": 41,
+    "correct": 0,
+    "explanation": "Visual features should add relevant information and be integrated with what the speaker says.\nHint: Use visuals only when they help the audience understand a specific point.",
+    "structuredExplanation": {
+      "summary": "Visual features should add relevant information and be integrated with what the speaker says.",
+      "hint": "Use visuals only when they help the audience understand a specific point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-042",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "integrate visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which choice is the strongest response?",
+    "audioPrompt": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which choice is the strongest response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Read unrelated text while the photograph is shown.",
+      "Put as many decorative images as possible on every slide.",
+      "Assume the image explains itself and stop speaking.",
+      "Refer to the relevant part of the photograph while explaining it, so the visual supports rather than competes with the spoken information."
+    ],
+    "difficulty": 1,
+    "sequencePriority": 42,
+    "correct": 3,
+    "explanation": "Visual features should add relevant information and be integrated with what the speaker says.\nHint: Use visuals only when they help the audience understand a specific point.",
+    "structuredExplanation": {
+      "summary": "Visual features should add relevant information and be integrated with what the speaker says.",
+      "hint": "Use visuals only when they help the audience understand a specific point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-043",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "integrate visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Why is “Refer to the relevant part of the photograph while explaining it, so the visual supports rather than competes with the spoken information.” the strongest choice?",
+    "audioPrompt": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Why is “Refer to the relevant part of the photograph while explaining it, so the visual supports rather than competes with the spoken information.” the strongest choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It avoids using evidence from the situation.",
+      "It changes the task instead of responding to it.",
+      "Visual features should add relevant information and be integrated with what the speaker says.",
+      "It is longest, so it must be correct."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 43,
+    "correct": 2,
+    "explanation": "Visual features should add relevant information and be integrated with what the speaker says.\nHint: Use visuals only when they help the audience understand a specific point.",
+    "structuredExplanation": {
+      "summary": "Visual features should add relevant information and be integrated with what the speaker says.",
+      "hint": "Use visuals only when they help the audience understand a specific point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-044",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "integrate visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "audioPrompt": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which choice should be rejected first because it does not meet the purpose of the task?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Assume the image explains itself and stop speaking.",
+      "Read unrelated text while the photograph is shown.",
+      "Refer to the relevant part of the photograph while explaining it, so the visual supports rather than competes with the spoken information.",
+      "Put as many decorative images as possible on every slide."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 44,
+    "correct": 1,
+    "explanation": "“Read unrelated text while the photograph is shown.” should be rejected because it does not meet the task as well as the evidence-based choice. Visual features should add relevant information and be integrated with what the speaker says.\nHint: Use visuals only when they help the audience understand a specific point.",
+    "structuredExplanation": {
+      "summary": "“Read unrelated text while the photograph is shown.” should be rejected because it does not meet the task as well as the evidence-based choice. Visual features should add relevant information and be integrated with what the speaker says.",
+      "hint": "Use visuals only when they help the audience understand a specific point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-045",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "integrate visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which revision best improves “Read unrelated text while the photograph is shown.”?",
+    "audioPrompt": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which revision best improves “Read unrelated text while the photograph is shown.”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Refer to the relevant part of the photograph while explaining it, so the visual supports rather than competes with the spoken information.",
+      "Read unrelated text while the photograph is shown.",
+      "Put as many decorative images as possible on every slide.",
+      "Assume the image explains itself and stop speaking."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 45,
+    "correct": 0,
+    "explanation": "Visual features should add relevant information and be integrated with what the speaker says.\nHint: Use visuals only when they help the audience understand a specific point.",
+    "structuredExplanation": {
+      "summary": "Visual features should add relevant information and be integrated with what the speaker says.",
+      "hint": "Use visuals only when they help the audience understand a specific point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-046",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "integrate visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which clue should guide your decision?",
+    "audioPrompt": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which clue should guide your decision?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Choose the option with the most words.",
+      "Ignore the context and choose the first familiar phrase.",
+      "Prefer a vague answer so it can fit anything.",
+      "Use visuals only when they help the audience understand a specific point."
+    ],
+    "difficulty": 2,
+    "sequencePriority": 46,
+    "correct": 3,
+    "explanation": "Visual features should add relevant information and be integrated with what the speaker says.\nHint: Use visuals only when they help the audience understand a specific point.",
+    "structuredExplanation": {
+      "summary": "Visual features should add relevant information and be integrated with what the speaker says.",
+      "hint": "Use visuals only when they help the audience understand a specific point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-047",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "integrate visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? A student chooses “Put as many decorative images as possible on every slide.”. Which feedback would best help them correct the choice?",
+    "audioPrompt": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? A student chooses “Put as many decorative images as possible on every slide.”. Which feedback would best help them correct the choice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Choose a longer answer without checking meaning.",
+      "Ignore the task context and focus only on spelling.",
+      "Re-check the task and use this principle: Use visuals only when they help the audience understand a specific point.",
+      "Keep the answer because first choices should never change."
+    ],
+    "difficulty": 3,
+    "sequencePriority": 47,
+    "correct": 2,
+    "explanation": "Visual features should add relevant information and be integrated with what the speaker says.\nHint: Use visuals only when they help the audience understand a specific point.",
+    "structuredExplanation": {
+      "summary": "Visual features should add relevant information and be integrated with what the speaker says.",
+      "hint": "Use visuals only when they help the audience understand a specific point."
+    },
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9e4ly07-p-048",
+    "curriculumCode": "AC9E4LY07",
+    "bank": "practice",
+    "skill": "integrate visual features",
+    "printable": true,
+    "type": "single",
+    "question": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which option applies the same skill accurately in this situation?",
+    "audioPrompt": "A presentation slide contains a detailed photograph of a nesting bird while the speaker explains where the nest is built. How should the visual be used? Which option applies the same skill accurately in this situation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Assume the image explains itself and stop speaking.",
+      "Refer to the relevant part of the photograph while explaining it, so the visual supports rather than competes with the spoken information.",
+      "Read unrelated text while the photograph is shown.",
+      "Put as many decorative images as possible on every slide."
+    ],
+    "difficulty": 3,
+    "sequencePriority": 48,
+    "correct": 1,
+    "explanation": "Visual features should add relevant information and be integrated with what the speaker says.\nHint: Use visuals only when they help the audience understand a specific point.",
+    "structuredExplanation": {
+      "summary": "Visual features should add relevant information and be integrated with what the speaker says.",
+      "hint": "Use visuals only when they help the audience understand a specific point."
     },
     "qualitySchema": "production-v1"
   }
