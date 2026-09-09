@@ -1,0 +1,49 @@
+name: Finish Year 5 English supported batch
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/finish_year5_english_supported_batch.mjs'
+      - '.github/workflows/finish-year5-english-supported-batch.yml'
+jobs:
+  finish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Build remaining supported Year 5 English codes
+        run: node scripts/finish_year5_english_supported_batch.mjs
+      - name: Validate completion status and bank counts
+        shell: bash
+        run: |
+          node - <<'NODE'
+          const fs=require('fs');
+          const codes=['AC9E5LE02','AC9E5LE03','AC9E5LE04','AC9E5LE05','AC9E5LY03','AC9E5LY05','AC9E5LY06','AC9E5LY08','AC9E5LY09','AC9E5LY10'];
+          const status=fs.readFileSync('reports/year5-english-review/STATUS.md','utf8');
+          for(const code of codes){
+            const a=JSON.parse(fs.readFileSync(`assets/assessment-banks/year5/english/${code.toLowerCase()}.json`,'utf8'));
+            const p=a.filter(x=>x.bank==='practice'),t=a.filter(x=>x.bank==='test');
+            if(p.length!==48||t.length!==16)throw Error(`${code} ${p.length}/${t.length}`);
+            if(!status.includes(`| ${code} | **FINISHED — DO NOT REPROCESS** |`))throw Error(`${code} status not locked`);
+          }
+          console.log('Validation PASS: all 10 pending supported codes are 48/16 and locked.');
+          NODE
+      - name: Commit finished resources to main
+        shell: bash
+        run: |
+          git config user.name 'JBR99729'
+          git config user.email 'jbhasker9@gmail.com'
+          git add assets/assessment-banks/year5/english quiz/year-5/english year5/english reports/year5-english-review/STATUS.md
+          if git diff --cached --quiet; then
+            echo 'No generated changes to commit'
+            exit 0
+          fi
+          git commit -m 'Finish remaining supported Year 5 English codes'
+          git push origin HEAD:main
