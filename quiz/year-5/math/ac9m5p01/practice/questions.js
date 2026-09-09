@@ -697,4 +697,3 @@ window.skillrPracticeQuestions = [
     "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
