@@ -4,11 +4,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-001",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "self-correction",
+    "skill": "morphology and context",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A reader first says “The astronomer inspected the telescope carefully” as “insected”. What is the best correction process? Which option is best?",
-    "audioPrompt": "Unseen context: A reader first says “The astronomer inspected the telescope carefully” as “insected”. What is the best correction process? Which option is best?",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat does relocated most likely mean?",
+    "audioPrompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat does relocated most likely mean?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -16,18 +16,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Skip the word.",
-      "Replace it with “looked” without checking the print.",
-      "Notice that “insected” does not fit the letters or meaning, re-read the word parts and correct to “inspected”.",
-      "Keep the first attempt to avoid losing fluency."
+      "Moved or placed somewhere again or elsewhere.",
+      "Packed before the hike.",
+      "Lost incorrectly.",
+      "Made lighter."
     ],
     "difficulty": 2,
     "sequencePriority": 1,
-    "correct": 2,
-    "explanation": "Self-correction uses the printed word and sentence meaning to repair a mismatch.\nHint: Check print and meaning when a word sounds wrong.",
+    "correct": 0,
+    "explanation": "The prefix re- and the event support the meaning of moving/placing again.\nHint: Use word parts and context together.",
     "structuredExplanation": {
-      "summary": "Self-correction uses the printed word and sentence meaning to repair a mismatch.",
-      "hint": "Check print and meaning when a word sounds wrong."
+      "summary": "The prefix re- and the event support the meaning of moving/placing again.",
+      "hint": "Use word parts and context together."
     },
     "qualitySchema": "production-v1"
   },
@@ -35,11 +35,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-002",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "self-correction",
+    "skill": "morphology and context",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A reader first says “The astronomer inspected the telescope carefully” as “insected”. What is the best correction process? Which explanation best justifies “Notice that “insected” does not fit the letters or meaning, re-read the word parts and correct to “inspected”.”?",
-    "audioPrompt": "Unseen context: A reader first says “The astronomer inspected the telescope carefully” as “insected”. What is the best correction process? Which explanation best justifies “Notice that “insected” does not fit the letters or meaning, re-read the word parts and correct to “inspected”.”?",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich clue from the word helps most?",
+    "audioPrompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich clue from the word helps most?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,18 +47,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It avoids using the information supplied.",
-      "Self-correction uses the printed word and sentence meaning to repair a mismatch.",
-      "It is correct because it is the longest option.",
-      "It works by ignoring the purpose of the task."
+      "re-",
+      "-ed",
+      "loc",
+      "the first letter r"
     ],
     "difficulty": 2,
     "sequencePriority": 2,
-    "correct": 1,
-    "explanation": "Self-correction uses the printed word and sentence meaning to repair a mismatch.\nHint: Check print and meaning when a word sounds wrong.",
+    "correct": 0,
+    "explanation": "re- is the meaningful prefix.\nHint: Identify the morpheme.",
     "structuredExplanation": {
-      "summary": "Self-correction uses the printed word and sentence meaning to repair a mismatch.",
-      "hint": "Check print and meaning when a word sounds wrong."
+      "summary": "re- is the meaningful prefix.",
+      "hint": "Identify the morpheme."
     },
     "qualitySchema": "production-v1"
   },
@@ -66,11 +66,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-003",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "self-correction",
+    "skill": "morphology and context",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A reader first says “The astronomer inspected the telescope carefully” as “insected”. What is the best correction process? Which choice should be rejected first?",
-    "audioPrompt": "Unseen context: A reader first says “The astronomer inspected the telescope carefully” as “insected”. What is the best correction process? Which choice should be rejected first?",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich context detail best confirms the meaning?",
+    "audioPrompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhich context detail best confirms the meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -78,18 +78,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Keep the first attempt to avoid losing fluency.",
-      "Notice that “insected” does not fit the letters or meaning, re-read the word parts and correct to “inspected”.",
-      "Skip the word.",
-      "Replace it with “looked” without checking the print."
+      "the guide ... the missing pack beside the creek",
+      "The hikers were relieved",
+      "missing",
+      "creek"
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequencePriority": 3,
     "correct": 0,
-    "explanation": "“Keep the first attempt to avoid losing fluency.” does not meet the task. Self-correction uses the printed word and sentence meaning to repair a mismatch.\nHint: Check print and meaning when a word sounds wrong.",
+    "explanation": "The sentence describes the pack being placed/found at a location.\nHint: Use the surrounding event.",
     "structuredExplanation": {
-      "summary": "“Keep the first attempt to avoid losing fluency.” does not meet the task. Self-correction uses the printed word and sentence meaning to repair a mismatch.",
-      "hint": "Check print and meaning when a word sounds wrong."
+      "summary": "The sentence describes the pack being placed/found at a location.",
+      "hint": "Use the surrounding event."
     },
     "qualitySchema": "production-v1"
   },
@@ -97,11 +97,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-004",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "self-correction",
+    "skill": "morphology and context",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A reader first says “The astronomer inspected the telescope carefully” as “insected”. What is the best correction process? Which principle should guide the final decision?",
-    "audioPrompt": "Unseen context: A reader first says “The astronomer inspected the telescope carefully” as “insected”. What is the best correction process? Which principle should guide the final decision?",
+    "question": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat is the best overall strategy?",
+    "audioPrompt": "Read the text.\n\nThe hikers were relieved when the guide relocated the missing pack beside the creek.\n\nWhat is the best overall strategy?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -109,18 +109,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose the most complicated wording.",
-      "Ignore the audience or purpose.",
-      "Use only the first word as a clue.",
-      "Check print and meaning when a word sounds wrong."
+      "Infer from re- + locate, then verify against the sentence.",
+      "Guess from the first letter.",
+      "Use context only and ignore print.",
+      "Choose the longest option."
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequencePriority": 4,
-    "correct": 3,
-    "explanation": "Self-correction uses the printed word and sentence meaning to repair a mismatch.\nHint: Check print and meaning when a word sounds wrong.",
+    "correct": 0,
+    "explanation": "Strong readers integrate morphology and context.\nHint: Cross-check more than one source of information.",
     "structuredExplanation": {
-      "summary": "Self-correction uses the printed word and sentence meaning to repair a mismatch.",
-      "hint": "Check print and meaning when a word sounds wrong."
+      "summary": "Strong readers integrate morphology and context.",
+      "hint": "Cross-check more than one source of information."
     },
     "qualitySchema": "production-v1"
   },
@@ -128,11 +128,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-005",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "semantic knowledge",
+    "skill": "self-correction",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: In a report, “migration” is followed by “the seasonal movement of animals from one region to another.” How should that help a reader? Which option is best?",
-    "audioPrompt": "Unseen context: In a report, “migration” is followed by “the seasonal movement of animals from one region to another.” How should that help a reader? Which option is best?",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nA reader says 'insected' for inspected. What is the best correction process?",
+    "audioPrompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nA reader says 'insected' for inspected. What is the best correction process?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -140,18 +140,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Change “migration” to “vacation”.",
-      "Read only the definition and skip the target word.",
-      "Use the definition to confirm the word’s meaning and read the sentence again with understanding.",
-      "Ignore the definition because it is extra detail."
+      "Notice the mismatch, check print and meaning, correct to inspected, then reread smoothly.",
+      "Keep insected to avoid pausing.",
+      "Skip the word.",
+      "Replace it with looked without checking."
     ],
     "difficulty": 2,
     "sequencePriority": 5,
-    "correct": 2,
-    "explanation": "Definitions and topic context build semantic knowledge that supports accurate, fluent reading.\nHint: Use nearby definitions to confirm meaning, then reread in context.",
+    "correct": 0,
+    "explanation": "Effective self-correction uses print and meaning, then restores fluency.\nHint: Accuracy comes before speed.",
     "structuredExplanation": {
-      "summary": "Definitions and topic context build semantic knowledge that supports accurate, fluent reading.",
-      "hint": "Use nearby definitions to confirm meaning, then reread in context."
+      "summary": "Effective self-correction uses print and meaning, then restores fluency.",
+      "hint": "Accuracy comes before speed."
     },
     "qualitySchema": "production-v1"
   },
@@ -159,11 +159,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-006",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "semantic knowledge",
+    "skill": "self-correction",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: In a report, “migration” is followed by “the seasonal movement of animals from one region to another.” How should that help a reader? Which explanation best justifies “Use the definition to confirm the word’s meaning and read the sentence again with understanding.”?",
-    "audioPrompt": "Unseen context: In a report, “migration” is followed by “the seasonal movement of animals from one region to another.” How should that help a reader? Which explanation best justifies “Use the definition to confirm the word’s meaning and read the sentence again with understanding.”?",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat first signals a problem with 'insected'?",
+    "audioPrompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat first signals a problem with 'insected'?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -171,18 +171,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It avoids using the information supplied.",
-      "Definitions and topic context build semantic knowledge that supports accurate, fluent reading.",
-      "It is correct because it is the longest option.",
-      "It works by ignoring the purpose of the task."
+      "It does not make sense as an action an astronomer performs on a telescope.",
+      "It is too long.",
+      "It begins with in-.",
+      "It has two syllables."
     ],
     "difficulty": 2,
     "sequencePriority": 6,
-    "correct": 1,
-    "explanation": "Definitions and topic context build semantic knowledge that supports accurate, fluent reading.\nHint: Use nearby definitions to confirm meaning, then reread in context.",
+    "correct": 0,
+    "explanation": "Semantic monitoring can alert the reader to a mismatch.\nHint: Ask whether the sentence makes sense.",
     "structuredExplanation": {
-      "summary": "Definitions and topic context build semantic knowledge that supports accurate, fluent reading.",
-      "hint": "Use nearby definitions to confirm meaning, then reread in context."
+      "summary": "Semantic monitoring can alert the reader to a mismatch.",
+      "hint": "Ask whether the sentence makes sense."
     },
     "qualitySchema": "production-v1"
   },
@@ -190,11 +190,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-007",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "semantic knowledge",
+    "skill": "self-correction",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: In a report, “migration” is followed by “the seasonal movement of animals from one region to another.” How should that help a reader? Which choice should be rejected first?",
-    "audioPrompt": "Unseen context: In a report, “migration” is followed by “the seasonal movement of animals from one region to another.” How should that help a reader? Which choice should be rejected first?",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat print clue supports inspected?",
+    "audioPrompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhat print clue supports inspected?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -202,18 +202,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Ignore the definition because it is extra detail.",
-      "Use the definition to confirm the word’s meaning and read the sentence again with understanding.",
-      "Change “migration” to “vacation”.",
-      "Read only the definition and skip the target word."
+      "The word contains the letters inspect- rather than insect-.",
+      "Both words start with in-.",
+      "The last letter is d.",
+      "The word is longer than telescope."
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequencePriority": 7,
     "correct": 0,
-    "explanation": "“Ignore the definition because it is extra detail.” does not meet the task. Definitions and topic context build semantic knowledge that supports accurate, fluent reading.\nHint: Use nearby definitions to confirm meaning, then reread in context.",
+    "explanation": "Looking through the whole word distinguishes similar-looking forms.\nHint: Check all the letters, not just the start.",
     "structuredExplanation": {
-      "summary": "“Ignore the definition because it is extra detail.” does not meet the task. Definitions and topic context build semantic knowledge that supports accurate, fluent reading.",
-      "hint": "Use nearby definitions to confirm meaning, then reread in context."
+      "summary": "Looking through the whole word distinguishes similar-looking forms.",
+      "hint": "Check all the letters, not just the start."
     },
     "qualitySchema": "production-v1"
   },
@@ -221,11 +221,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-008",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "semantic knowledge",
+    "skill": "self-correction",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: In a report, “migration” is followed by “the seasonal movement of animals from one region to another.” How should that help a reader? Which principle should guide the final decision?",
-    "audioPrompt": "Unseen context: In a report, “migration” is followed by “the seasonal movement of animals from one region to another.” How should that help a reader? Which principle should guide the final decision?",
+    "question": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhy reread after correcting?",
+    "audioPrompt": "Read the text.\n\nThe astronomer inspected the telescope carefully.\n\nWhy reread after correcting?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -233,18 +233,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose the most complicated wording.",
-      "Ignore the audience or purpose.",
-      "Use only the first word as a clue.",
-      "Use nearby definitions to confirm meaning, then reread in context."
+      "To reconnect the corrected word with the sentence's meaning and phrasing.",
+      "Because every sentence must be read twice.",
+      "To slow down.",
+      "To memorise the word."
     ],
-    "difficulty": 3,
+    "difficulty": 2,
     "sequencePriority": 8,
-    "correct": 3,
-    "explanation": "Definitions and topic context build semantic knowledge that supports accurate, fluent reading.\nHint: Use nearby definitions to confirm meaning, then reread in context.",
+    "correct": 0,
+    "explanation": "Rereading restores fluent comprehension.\nHint: Repair then reread.",
     "structuredExplanation": {
-      "summary": "Definitions and topic context build semantic knowledge that supports accurate, fluent reading.",
-      "hint": "Use nearby definitions to confirm meaning, then reread in context."
+      "summary": "Rereading restores fluent comprehension.",
+      "hint": "Repair then reread."
     },
     "qualitySchema": "production-v1"
   },
@@ -252,11 +252,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-009",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "fluency and punctuation",
+    "skill": "semantic monitoring",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A sentence ends with a question mark: “Could the storm reach the coast by evening?” Which reading is most fluent? Which option is best?",
-    "audioPrompt": "Unseen context: A sentence ends with a question mark: “Could the storm reach the coast by evening?” Which reading is most fluent? Which option is best?",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nHow should the definition help a reader?",
+    "audioPrompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nHow should the definition help a reader?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -264,18 +264,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "One-second pauses after every word.",
-      "Very fast reading that drops small words.",
-      "Accurate words, natural phrasing and intonation that signals a question.",
-      "A monotone with no pause."
+      "It confirms the technical word's meaning so the reader can reread with understanding.",
+      "It should be skipped.",
+      "It means evaporation can be replaced by vapour everywhere.",
+      "It only helps spelling."
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequencePriority": 9,
-    "correct": 2,
-    "explanation": "Fluent reading reflects punctuation and meaning while maintaining accuracy.\nHint: Let punctuation shape phrasing and expression.",
+    "correct": 0,
+    "explanation": "Nearby definitions support semantic knowledge and comprehension.\nHint: Use explanatory text around technical words.",
     "structuredExplanation": {
-      "summary": "Fluent reading reflects punctuation and meaning while maintaining accuracy.",
-      "hint": "Let punctuation shape phrasing and expression."
+      "summary": "Nearby definitions support semantic knowledge and comprehension.",
+      "hint": "Use explanatory text around technical words."
     },
     "qualitySchema": "production-v1"
   },
@@ -283,11 +283,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-010",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "fluency and punctuation",
+    "skill": "semantic monitoring",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A sentence ends with a question mark: “Could the storm reach the coast by evening?” Which reading is most fluent? Which explanation best justifies “Accurate words, natural phrasing and intonation that signals a question.”?",
-    "audioPrompt": "Unseen context: A sentence ends with a question mark: “Could the storm reach the coast by evening?” Which reading is most fluent? Which explanation best justifies “Accurate words, natural phrasing and intonation that signals a question.”?",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich phrase defines evaporation?",
+    "audioPrompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich phrase defines evaporation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -295,18 +295,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It avoids using the information supplied.",
-      "Fluent reading reflects punctuation and meaning while maintaining accuracy.",
-      "It is correct because it is the longest option.",
-      "It works by ignoring the purpose of the task."
+      "the process in which liquid water changes into water vapour",
+      "liquid water",
+      "water vapour",
+      "is the process"
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequencePriority": 10,
-    "correct": 1,
-    "explanation": "Fluent reading reflects punctuation and meaning while maintaining accuracy.\nHint: Let punctuation shape phrasing and expression.",
+    "correct": 0,
+    "explanation": "The explanatory phrase gives the meaning of the term.\nHint: Find the direct definition.",
     "structuredExplanation": {
-      "summary": "Fluent reading reflects punctuation and meaning while maintaining accuracy.",
-      "hint": "Let punctuation shape phrasing and expression."
+      "summary": "The explanatory phrase gives the meaning of the term.",
+      "hint": "Find the direct definition."
     },
     "qualitySchema": "production-v1"
   },
@@ -314,11 +314,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-011",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "fluency and punctuation",
+    "skill": "semantic monitoring",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A sentence ends with a question mark: “Could the storm reach the coast by evening?” Which reading is most fluent? Which choice should be rejected first?",
-    "audioPrompt": "Unseen context: A sentence ends with a question mark: “Could the storm reach the coast by evening?” Which reading is most fluent? Which choice should be rejected first?",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhat should the reader do after working out the meaning?",
+    "audioPrompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhat should the reader do after working out the meaning?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -326,18 +326,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "A monotone with no pause.",
-      "Accurate words, natural phrasing and intonation that signals a question.",
-      "One-second pauses after every word.",
-      "Very fast reading that drops small words."
+      "Reread the sentence smoothly with the meaning in mind.",
+      "Skip the term next time.",
+      "Read only the definition.",
+      "Replace the term with water."
     ],
     "difficulty": 3,
     "sequencePriority": 11,
     "correct": 0,
-    "explanation": "“A monotone with no pause.” does not meet the task. Fluent reading reflects punctuation and meaning while maintaining accuracy.\nHint: Let punctuation shape phrasing and expression.",
+    "explanation": "Rereading consolidates the word's meaning in context.\nHint: Return to the whole sentence.",
     "structuredExplanation": {
-      "summary": "“A monotone with no pause.” does not meet the task. Fluent reading reflects punctuation and meaning while maintaining accuracy.",
-      "hint": "Let punctuation shape phrasing and expression."
+      "summary": "Rereading consolidates the word's meaning in context.",
+      "hint": "Return to the whole sentence."
     },
     "qualitySchema": "production-v1"
   },
@@ -345,11 +345,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-012",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "fluency and punctuation",
+    "skill": "semantic monitoring",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A sentence ends with a question mark: “Could the storm reach the coast by evening?” Which reading is most fluent? Which principle should guide the final decision?",
-    "audioPrompt": "Unseen context: A sentence ends with a question mark: “Could the storm reach the coast by evening?” Which reading is most fluent? Which principle should guide the final decision?",
+    "question": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich reading knowledge is doing most of the work here?",
+    "audioPrompt": "Read the text.\n\nEvaporation is the process in which liquid water changes into water vapour.\n\nWhich reading knowledge is doing most of the work here?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -357,18 +357,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose the most complicated wording.",
-      "Ignore the audience or purpose.",
-      "Use only the first word as a clue.",
-      "Let punctuation shape phrasing and expression."
+      "Semantic knowledge from a direct definition.",
+      "Only phonics.",
+      "Only punctuation.",
+      "Only text speed."
     ],
     "difficulty": 3,
     "sequencePriority": 12,
-    "correct": 3,
-    "explanation": "Fluent reading reflects punctuation and meaning while maintaining accuracy.\nHint: Let punctuation shape phrasing and expression.",
+    "correct": 0,
+    "explanation": "The sentence directly explains the meaning.\nHint: Identify the type of cue.",
     "structuredExplanation": {
-      "summary": "Fluent reading reflects punctuation and meaning while maintaining accuracy.",
-      "hint": "Let punctuation shape phrasing and expression."
+      "summary": "The sentence directly explains the meaning.",
+      "hint": "Identify the type of cue."
     },
     "qualitySchema": "production-v1"
   },
@@ -376,11 +376,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-013",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "text structure monitoring",
+    "skill": "fluent reading",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A set of instructions says, “First fold the card; next draw the window; finally cut along the outside edge.” Why would reading “finally” as “first” require correction? Which option is best?",
-    "audioPrompt": "Unseen context: A set of instructions says, “First fold the card; next draw the window; finally cut along the outside edge.” Why would reading “finally” as “first” require correction? Which option is best?",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich performance is most fluent?",
+    "audioPrompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich performance is most fluent?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -388,18 +388,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Instructions do not rely on order.",
-      "The sentence would become more imaginative.",
-      "It changes the sequence signalled by the procedure’s structure.",
-      "Both words begin with the same sound."
+      "Accurate wording, phrases grouped by meaning, and expression that reflects urgency.",
+      "Maximum speed with omitted words.",
+      "Equal stress on every word.",
+      "Long pauses between every word."
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequencePriority": 13,
-    "correct": 2,
-    "explanation": "Readers use text structure and sequence words to monitor whether a reading makes sense.\nHint: Use the organisational pattern of the text as a checking cue.",
+    "correct": 0,
+    "explanation": "Fluency includes accuracy, phrasing, pace and expression.\nHint: Let punctuation and meaning shape the voice.",
     "structuredExplanation": {
-      "summary": "Readers use text structure and sequence words to monitor whether a reading makes sense.",
-      "hint": "Use the organisational pattern of the text as a checking cue."
+      "summary": "Fluency includes accuracy, phrasing, pace and expression.",
+      "hint": "Let punctuation and meaning shape the voice."
     },
     "qualitySchema": "production-v1"
   },
@@ -407,11 +407,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-014",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "text structure monitoring",
+    "skill": "fluent reading",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A set of instructions says, “First fold the card; next draw the window; finally cut along the outside edge.” Why would reading “finally” as “first” require correction? Which explanation best justifies “It changes the sequence signalled by the procedure’s structure.”?",
-    "audioPrompt": "Unseen context: A set of instructions says, “First fold the card; next draw the window; finally cut along the outside edge.” Why would reading “finally” as “first” require correction? Which explanation best justifies “It changes the sequence signalled by the procedure’s structure.”?",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nHow should the exclamation mark affect reading?",
+    "audioPrompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nHow should the exclamation mark affect reading?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -419,18 +419,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It avoids using the information supplied.",
-      "Readers use text structure and sequence words to monitor whether a reading makes sense.",
-      "It is correct because it is the longest option.",
-      "It works by ignoring the purpose of the task."
+      "It should signal stronger expression or urgency.",
+      "It should make the sentence a question.",
+      "It means pause after every word.",
+      "It changes shouted to whispered."
     ],
-    "difficulty": 2,
+    "difficulty": 3,
     "sequencePriority": 14,
-    "correct": 1,
-    "explanation": "Readers use text structure and sequence words to monitor whether a reading makes sense.\nHint: Use the organisational pattern of the text as a checking cue.",
+    "correct": 0,
+    "explanation": "Punctuation contributes to expression and meaning.\nHint: Read punctuation as a cue.",
     "structuredExplanation": {
-      "summary": "Readers use text structure and sequence words to monitor whether a reading makes sense.",
-      "hint": "Use the organisational pattern of the text as a checking cue."
+      "summary": "Punctuation contributes to expression and meaning.",
+      "hint": "Read punctuation as a cue."
     },
     "qualitySchema": "production-v1"
   },
@@ -438,11 +438,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-015",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "text structure monitoring",
+    "skill": "fluent reading",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A set of instructions says, “First fold the card; next draw the window; finally cut along the outside edge.” Why would reading “finally” as “first” require correction? Which choice should be rejected first?",
-    "audioPrompt": "Unseen context: A set of instructions says, “First fold the card; next draw the window; finally cut along the outside edge.” Why would reading “finally” as “first” require correction? Which choice should be rejected first?",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich phrase should likely be read as one meaningful chunk?",
+    "audioPrompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nWhich phrase should likely be read as one meaningful chunk?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -450,18 +450,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both words begin with the same sound.",
-      "It changes the sequence signalled by the procedure’s structure.",
-      "Instructions do not rely on order.",
-      "The sentence would become more imaginative."
+      "as the ball rolled towards the road",
+      "as / the / ball / rolled / towards / the / road",
+      "Watch / out",
+      "Mia / shouted / as"
     ],
     "difficulty": 3,
     "sequencePriority": 15,
     "correct": 0,
-    "explanation": "“Both words begin with the same sound.” does not meet the task. Readers use text structure and sequence words to monitor whether a reading makes sense.\nHint: Use the organisational pattern of the text as a checking cue.",
+    "explanation": "Fluent readers group words into meaningful phrases rather than word-by-word chunks.\nHint: Phrase by meaning.",
     "structuredExplanation": {
-      "summary": "“Both words begin with the same sound.” does not meet the task. Readers use text structure and sequence words to monitor whether a reading makes sense.",
-      "hint": "Use the organisational pattern of the text as a checking cue."
+      "summary": "Fluent readers group words into meaningful phrases rather than word-by-word chunks.",
+      "hint": "Phrase by meaning."
     },
     "qualitySchema": "production-v1"
   },
@@ -469,11 +469,11 @@ window.skillrTestQuestions = [
     "id": "ac9e4ly04-t-016",
     "curriculumCode": "AC9E4LY04",
     "bank": "test",
-    "skill": "text structure monitoring",
+    "skill": "fluent reading",
     "printable": true,
     "type": "single",
-    "question": "Unseen context: A set of instructions says, “First fold the card; next draw the window; finally cut along the outside edge.” Why would reading “finally” as “first” require correction? Which principle should guide the final decision?",
-    "audioPrompt": "Unseen context: A set of instructions says, “First fold the card; next draw the window; finally cut along the outside edge.” Why would reading “finally” as “first” require correction? Which principle should guide the final decision?",
+    "question": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nIf the reader says every word correctly but uses a flat monotone, what is missing?",
+    "audioPrompt": "Read the text.\n\n“Watch out!” Mia shouted as the ball rolled towards the road.\n\nIf the reader says every word correctly but uses a flat monotone, what is missing?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -481,18 +481,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Choose the most complicated wording.",
-      "Ignore the audience or purpose.",
-      "Use only the first word as a clue.",
-      "Use the organisational pattern of the text as a checking cue."
+      "Expression that reflects meaning and punctuation.",
+      "Accuracy.",
+      "Word recognition.",
+      "Spelling."
     ],
     "difficulty": 3,
     "sequencePriority": 16,
-    "correct": 3,
-    "explanation": "Readers use text structure and sequence words to monitor whether a reading makes sense.\nHint: Use the organisational pattern of the text as a checking cue.",
+    "correct": 0,
+    "explanation": "Fluency includes prosody as well as accuracy.\nHint: Think about how a listener hears the meaning.",
     "structuredExplanation": {
-      "summary": "Readers use text structure and sequence words to monitor whether a reading makes sense.",
-      "hint": "Use the organisational pattern of the text as a checking cue."
+      "summary": "Fluency includes prosody as well as accuracy.",
+      "hint": "Think about how a listener hears the meaning."
     },
     "qualitySchema": "production-v1"
   }
