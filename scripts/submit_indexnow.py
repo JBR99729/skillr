@@ -4,10 +4,10 @@
 Usage:
   python3 scripts/submit_indexnow.py <before_sha> <after_sha>
 
-The script maps changed HTML files to their public skillrhub.com URLs, skips
-internal/noindex pages, and notifies IndexNow. Normal-sized releases are sent
-one URL at a time so Bing can process fresh changes as a stream. Very large
-releases fall back to small batches to avoid hundreds of network requests.
+The script maps changed public HTML files and public-facing quiz data files to
+their skillrhub.com URLs, skips internal/noindex pages, and notifies IndexNow.
+Normal-sized releases are sent one URL at a time so Bing can process fresh
+changes as a stream. Very large releases fall back to small batches.
 Deleted HTML pages are submitted too so engines can refresh removal state.
 """
 from __future__ import annotations
@@ -45,11 +45,19 @@ NOINDEX_RE = re.compile(
     r'<meta\b[^>]*name=["\']robots["\'][^>]*content=["\'][^"\']*noindex',
     re.IGNORECASE,
 )
+QUIZ_DATA_RE = re.compile(
+    r"^quiz/(year-\d+)/([^/]+)/([^/]+)/(practice|test|worksheet)/"
+    r"(?:questions|practice-questions|worksheet-questions)\.js$",
+    re.IGNORECASE,
+)
+ASSESSMENT_BANK_RE = re.compile(
+    r"^assets/assessment-banks/year(\d+)/([^/]+)/([^/]+)\.json$",
+    re.IGNORECASE,
+)
 
 
 def changed_paths(before: str, after: str) -> list[str]:
     if not before or set(before) == {"0"}:
-        # Avoid a mass submission if GitHub reports a null previous commit.
         return []
     result = subprocess.run(
         ["git", "diff", "--name-only", before, after],
@@ -61,27 +69,56 @@ def changed_paths(before: str, after: str) -> list[str]:
     return [line.strip() for line in result.stdout.splitlines() if line.strip()]
 
 
-def public_url(path: str) -> str | None:
+def is_indexable_html(path: str) -> bool:
+    disk_file = ROOT / path
+    if not disk_file.exists():
+        return True
+    try:
+        head = disk_file.read_text(encoding="utf-8", errors="ignore")[:12000]
+    except OSError:
+        return False
+    return not NOINDEX_RE.search(head)
+
+
+def route_url(route: str) -> str | None:
+    clean_route = route.strip("/")
+    index_path = f"{clean_route}/index.html"
+    if not is_indexable_html(index_path):
+        return None
+    return f"{SITE}/{clean_route}/"
+
+
+def public_urls(path: str) -> list[str]:
     clean = path.replace("\\", "/").lstrip("./")
     if not clean or clean.startswith(EXCLUDED_PREFIXES):
-        return None
-    if not clean.lower().endswith((".html", ".htm")):
-        return None
+        return []
 
-    disk_file = ROOT / clean
-    if disk_file.exists():
-        try:
-            head = disk_file.read_text(encoding="utf-8", errors="ignore")[:12000]
-        except OSError:
-            return None
-        if NOINDEX_RE.search(head):
-            return None
+    if clean.lower().endswith((".html", ".htm")):
+        if not is_indexable_html(clean):
+            return []
+        if clean == "index.html":
+            return [f"{SITE}/"]
+        if clean.endswith("/index.html"):
+            return [f"{SITE}/{clean[:-10]}"]
+        return [f"{SITE}/{clean}"]
 
-    if clean == "index.html":
-        return f"{SITE}/"
-    if clean.endswith("/index.html"):
-        return f"{SITE}/{clean[:-10]}"
-    return f"{SITE}/{clean}"
+    quiz_match = QUIZ_DATA_RE.match(clean)
+    if quiz_match:
+        year, subject, code, mode = quiz_match.groups()
+        url = route_url(f"quiz/{year}/{subject}/{code}/{mode}")
+        return [url] if url else []
+
+    bank_match = ASSESSMENT_BANK_RE.match(clean)
+    if bank_match:
+        year_number, subject, code = bank_match.groups()
+        urls = []
+        for mode in ("practice", "test"):
+            url = route_url(f"quiz/year-{year_number}/{subject}/{code}/{mode}")
+            if url:
+                urls.append(url)
+        return urls
+
+    return []
 
 
 def post_urls(urls: list[str]) -> int:
@@ -148,11 +185,11 @@ def main() -> None:
         raise SystemExit("usage: submit_indexnow.py <before_sha> <after_sha>")
     before, after = sys.argv[1:]
     paths = changed_paths(before, after)
-    urls = sorted({url for path in paths if (url := public_url(path))})
+    urls = sorted({url for path in paths for url in public_urls(path)})
     if not urls:
-        print("No changed indexable HTML URLs to submit to IndexNow.")
+        print("No changed indexable public URLs to submit to IndexNow.")
         return
-    print(f"Submitting {len(urls)} changed indexable URL(s) to IndexNow.")
+    print(f"Submitting {len(urls)} changed indexable public URL(s) to IndexNow.")
     submit(urls)
 
 
