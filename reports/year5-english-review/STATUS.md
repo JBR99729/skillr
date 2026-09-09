@@ -20,7 +20,7 @@ Future continuation runs must skip codes marked **FINISHED — DO NOT REPROCESS*
 | AC9E5LA03 | **FINISHED — DO NOT REPROCESS** | Topic Page, Classroom View and Worksheet completed. Practice bank = 48 authored questions; Test bank = 16 unseen questions. Purpose versus topic and whole-text versus local-relationship traps are explicitly taught. Spoken/multimodal evidence limitation is disclosed. |
 | AC9E5LA04 | **FINISHED — DO NOT REPROCESS** | Topic Page, Classroom View and Worksheet completed. Practice = 48; Test = 16. Direct IXL conjunction/clause-link evidence is separated from the curriculum-extension work on sentence/paragraph starting points, prominence and reader guidance. |
 | AC9E5LA05 | **FINISHED — DO NOT REPROCESS** | Topic Page, Classroom View and Worksheet completed and stale worksheet label corrected. Practice = 48; Test = 16. Clause identification, phrase/clause distinction, simple/compound/complex classification, subordinators and clause-order effects covered. |
-| AC9E5LA06 | PENDING | Partial IXL evidence for expanded noun groups |
+| AC9E5LA06 | **FINISHED — DO NOT REPROCESS** | Topic Page, Classroom View and Worksheet corrected to expanded noun groups. Practice = 48; Test = 16. Head nouns, modifiers, adjective order, qualifiers, precision and overload traps covered; direct IXL versus curriculum-extension boundary disclosed. |
 | AC9E5LA08 | PENDING | IXL-supported; word-history evidence is indirect |
 | AC9E5LA09 | PENDING | IXL-supported; comma-after-prepositional-phrase coverage is limited |
 | AC9E5LE02 | PENDING | IXL-supported; extended opinion/reflection is an extension |
