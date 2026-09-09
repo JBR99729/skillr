@@ -695,6 +695,557 @@ window.skillrPracticeQuestions = [
       "hint": "Use multiplication to check the quotient."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-025",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "126 seedlings are placed in trays of 3. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "126 seedlings are placed in trays of 3. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "42 trays, remainder 0.",
+      "43 trays, remainder 0.",
+      "3 trays, remainder 42."
+    ],
+    "correct": 0,
+    "explanation": "126 = 3 × 42 + 0. The remainder is less than 3; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "126 = 3 × 42 + 0.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-026",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "181 seedlings are placed in trays of 4. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "181 seedlings are placed in trays of 4. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "45 trays, remainder 1.",
+      "46 trays, remainder 1.",
+      "4 trays, remainder 45."
+    ],
+    "correct": 0,
+    "explanation": "181 = 4 × 45 + 1. The remainder is less than 4; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "181 = 4 × 45 + 1.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-027",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "242 seedlings are placed in trays of 5. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "242 seedlings are placed in trays of 5. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "48 trays, remainder 2.",
+      "49 trays, remainder 2.",
+      "5 trays, remainder 48."
+    ],
+    "correct": 0,
+    "explanation": "242 = 5 × 48 + 2. The remainder is less than 5; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "242 = 5 × 48 + 2.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-028",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "309 seedlings are placed in trays of 6. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "309 seedlings are placed in trays of 6. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "51 trays, remainder 3.",
+      "52 trays, remainder 3.",
+      "6 trays, remainder 51."
+    ],
+    "correct": 0,
+    "explanation": "309 = 6 × 51 + 3. The remainder is less than 6; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "309 = 6 × 51 + 3.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-029",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "382 seedlings are placed in trays of 7. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "382 seedlings are placed in trays of 7. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "54 trays, remainder 4.",
+      "55 trays, remainder 4.",
+      "7 trays, remainder 54."
+    ],
+    "correct": 0,
+    "explanation": "382 = 7 × 54 + 4. The remainder is less than 7; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "382 = 7 × 54 + 4.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-030",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "461 seedlings are placed in trays of 8. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "461 seedlings are placed in trays of 8. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "57 trays, remainder 5.",
+      "58 trays, remainder 5.",
+      "8 trays, remainder 57."
+    ],
+    "correct": 0,
+    "explanation": "461 = 8 × 57 + 5. The remainder is less than 8; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "461 = 8 × 57 + 5.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-031",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "546 seedlings are placed in trays of 9. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "546 seedlings are placed in trays of 9. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "60 trays, remainder 6.",
+      "61 trays, remainder 6.",
+      "9 trays, remainder 60."
+    ],
+    "correct": 0,
+    "explanation": "546 = 9 × 60 + 6. The remainder is less than 9; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "546 = 9 × 60 + 6.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-032",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "190 seedlings are placed in trays of 3. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "190 seedlings are placed in trays of 3. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "63 trays, remainder 1.",
+      "64 trays, remainder 1.",
+      "3 trays, remainder 63."
+    ],
+    "correct": 0,
+    "explanation": "190 = 3 × 63 + 1. The remainder is less than 3; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "190 = 3 × 63 + 1.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-033",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "264 seedlings are placed in trays of 4. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "264 seedlings are placed in trays of 4. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "66 trays, remainder 0.",
+      "67 trays, remainder 0.",
+      "4 trays, remainder 66."
+    ],
+    "correct": 0,
+    "explanation": "264 = 4 × 66 + 0. The remainder is less than 4; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "264 = 4 × 66 + 0.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-034",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "349 seedlings are placed in trays of 5. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "349 seedlings are placed in trays of 5. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "69 trays, remainder 4.",
+      "70 trays, remainder 4.",
+      "5 trays, remainder 69."
+    ],
+    "correct": 0,
+    "explanation": "349 = 5 × 69 + 4. The remainder is less than 5; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "349 = 5 × 69 + 4.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-035",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "436 seedlings are placed in trays of 6. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "436 seedlings are placed in trays of 6. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "72 trays, remainder 4.",
+      "73 trays, remainder 4.",
+      "6 trays, remainder 72."
+    ],
+    "correct": 0,
+    "explanation": "436 = 6 × 72 + 4. The remainder is less than 6; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "436 = 6 × 72 + 4.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-036",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "529 seedlings are placed in trays of 7. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "529 seedlings are placed in trays of 7. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "75 trays, remainder 4.",
+      "76 trays, remainder 4.",
+      "7 trays, remainder 75."
+    ],
+    "correct": 0,
+    "explanation": "529 = 7 × 75 + 4. The remainder is less than 7; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "529 = 7 × 75 + 4.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-037",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "628 seedlings are placed in trays of 8. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "628 seedlings are placed in trays of 8. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "78 trays, remainder 4.",
+      "79 trays, remainder 4.",
+      "8 trays, remainder 78."
+    ],
+    "correct": 0,
+    "explanation": "628 = 8 × 78 + 4. The remainder is less than 8; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "628 = 8 × 78 + 4.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-038",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "733 seedlings are placed in trays of 9. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "733 seedlings are placed in trays of 9. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "81 trays, remainder 4.",
+      "82 trays, remainder 4.",
+      "9 trays, remainder 81."
+    ],
+    "correct": 0,
+    "explanation": "733 = 9 × 81 + 4. The remainder is less than 9; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "733 = 9 × 81 + 4.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-039",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "254 seedlings are placed in trays of 3. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "254 seedlings are placed in trays of 3. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "84 trays, remainder 2.",
+      "85 trays, remainder 2.",
+      "3 trays, remainder 84."
+    ],
+    "correct": 0,
+    "explanation": "254 = 3 × 84 + 2. The remainder is less than 3; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "254 = 3 × 84 + 2.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-040",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "351 seedlings are placed in trays of 4. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "351 seedlings are placed in trays of 4. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "87 trays, remainder 3.",
+      "88 trays, remainder 3.",
+      "4 trays, remainder 87."
+    ],
+    "correct": 0,
+    "explanation": "351 = 4 × 87 + 3. The remainder is less than 4; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "351 = 4 × 87 + 3.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-041",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "451 seedlings are placed in trays of 5. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "451 seedlings are placed in trays of 5. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "90 trays, remainder 1.",
+      "91 trays, remainder 1.",
+      "5 trays, remainder 90."
+    ],
+    "correct": 0,
+    "explanation": "451 = 5 × 90 + 1. The remainder is less than 5; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "451 = 5 × 90 + 1.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-042",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "563 seedlings are placed in trays of 6. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "563 seedlings are placed in trays of 6. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "93 trays, remainder 5.",
+      "94 trays, remainder 5.",
+      "6 trays, remainder 93."
+    ],
+    "correct": 0,
+    "explanation": "563 = 6 × 93 + 5. The remainder is less than 6; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "563 = 6 × 93 + 5.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-043",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "676 seedlings are placed in trays of 7. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "676 seedlings are placed in trays of 7. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "96 trays, remainder 4.",
+      "97 trays, remainder 4.",
+      "7 trays, remainder 96."
+    ],
+    "correct": 0,
+    "explanation": "676 = 7 × 96 + 4. The remainder is less than 7; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "676 = 7 × 96 + 4.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-044",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "795 seedlings are placed in trays of 8. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "795 seedlings are placed in trays of 8. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "99 trays, remainder 3.",
+      "100 trays, remainder 3.",
+      "8 trays, remainder 99."
+    ],
+    "correct": 0,
+    "explanation": "795 = 8 × 99 + 3. The remainder is less than 8; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "795 = 8 × 99 + 3.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-045",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "920 seedlings are placed in trays of 9. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "920 seedlings are placed in trays of 9. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "102 trays, remainder 2.",
+      "103 trays, remainder 2.",
+      "9 trays, remainder 102."
+    ],
+    "correct": 0,
+    "explanation": "920 = 9 × 102 + 2. The remainder is less than 9; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "920 = 9 × 102 + 2.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-046",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "315 seedlings are placed in trays of 3. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "315 seedlings are placed in trays of 3. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "105 trays, remainder 0.",
+      "106 trays, remainder 0.",
+      "3 trays, remainder 105."
+    ],
+    "correct": 0,
+    "explanation": "315 = 3 × 105 + 0. The remainder is less than 3; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "315 = 3 × 105 + 0.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-047",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "434 seedlings are placed in trays of 4. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "434 seedlings are placed in trays of 4. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "108 trays, remainder 2.",
+      "109 trays, remainder 2.",
+      "4 trays, remainder 108."
+    ],
+    "correct": 0,
+    "explanation": "434 = 4 × 108 + 2. The remainder is less than 4; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "434 = 4 × 108 + 2.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n07-p-048",
+    "curriculumCode": "AC9M5N07",
+    "bank": "practice",
+    "skill": "partial quotients and remainders",
+    "printable": true,
+    "type": "single",
+    "question": "558 seedlings are placed in trays of 5. How many complete trays and how many seedlings remain?",
+    "audioPrompt": "558 seedlings are placed in trays of 5. How many complete trays and how many seedlings remain?",
+    "answers": [
+      "111 trays, remainder 3.",
+      "112 trays, remainder 3.",
+      "5 trays, remainder 111."
+    ],
+    "correct": 0,
+    "explanation": "558 = 5 × 111 + 3. The remainder is less than 5; interpret it as seedlings not filling another complete tray.",
+    "structuredExplanation": {
+      "summary": "558 = 5 × 111 + 3.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

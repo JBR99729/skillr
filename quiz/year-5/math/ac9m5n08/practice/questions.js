@@ -695,6 +695,557 @@ window.skillrPracticeQuestions = [
       "hint": "Use the inverse operation to check."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-025",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 230 × 4?",
+    "audioPrompt": "Which estimate is most useful for checking 230 × 4?",
+    "answers": [
+      "About 800.",
+      "About 234.",
+      "About 2300."
+    ],
+    "correct": 0,
+    "explanation": "Round 230 to 200, then multiply by 4: about 800. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 230 to 200, then multiply by 4: about 800.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-026",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 241 × 5?",
+    "audioPrompt": "Which estimate is most useful for checking 241 × 5?",
+    "answers": [
+      "About 1000.",
+      "About 246.",
+      "About 2410."
+    ],
+    "correct": 0,
+    "explanation": "Round 241 to 200, then multiply by 5: about 1000. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 241 to 200, then multiply by 5: about 1000.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-027",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 252 × 6?",
+    "audioPrompt": "Which estimate is most useful for checking 252 × 6?",
+    "answers": [
+      "About 1800.",
+      "About 258.",
+      "About 2520."
+    ],
+    "correct": 0,
+    "explanation": "Round 252 to 300, then multiply by 6: about 1800. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 252 to 300, then multiply by 6: about 1800.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-028",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 263 × 7?",
+    "audioPrompt": "Which estimate is most useful for checking 263 × 7?",
+    "answers": [
+      "About 2100.",
+      "About 270.",
+      "About 2630."
+    ],
+    "correct": 0,
+    "explanation": "Round 263 to 300, then multiply by 7: about 2100. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 263 to 300, then multiply by 7: about 2100.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-029",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 274 × 8?",
+    "audioPrompt": "Which estimate is most useful for checking 274 × 8?",
+    "answers": [
+      "About 2400.",
+      "About 282.",
+      "About 2740."
+    ],
+    "correct": 0,
+    "explanation": "Round 274 to 300, then multiply by 8: about 2400. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 274 to 300, then multiply by 8: about 2400.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-030",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 285 × 9?",
+    "audioPrompt": "Which estimate is most useful for checking 285 × 9?",
+    "answers": [
+      "About 2700.",
+      "About 294.",
+      "About 2850."
+    ],
+    "correct": 0,
+    "explanation": "Round 285 to 300, then multiply by 9: about 2700. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 285 to 300, then multiply by 9: about 2700.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-031",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 296 × 4?",
+    "audioPrompt": "Which estimate is most useful for checking 296 × 4?",
+    "answers": [
+      "About 1200.",
+      "About 300.",
+      "About 2960."
+    ],
+    "correct": 0,
+    "explanation": "Round 296 to 300, then multiply by 4: about 1200. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 296 to 300, then multiply by 4: about 1200.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-032",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 307 × 5?",
+    "audioPrompt": "Which estimate is most useful for checking 307 × 5?",
+    "answers": [
+      "About 1500.",
+      "About 312.",
+      "About 3070."
+    ],
+    "correct": 0,
+    "explanation": "Round 307 to 300, then multiply by 5: about 1500. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 307 to 300, then multiply by 5: about 1500.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-033",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 318 × 6?",
+    "audioPrompt": "Which estimate is most useful for checking 318 × 6?",
+    "answers": [
+      "About 1800.",
+      "About 324.",
+      "About 3180."
+    ],
+    "correct": 0,
+    "explanation": "Round 318 to 300, then multiply by 6: about 1800. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 318 to 300, then multiply by 6: about 1800.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-034",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 329 × 7?",
+    "audioPrompt": "Which estimate is most useful for checking 329 × 7?",
+    "answers": [
+      "About 2100.",
+      "About 336.",
+      "About 3290."
+    ],
+    "correct": 0,
+    "explanation": "Round 329 to 300, then multiply by 7: about 2100. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 329 to 300, then multiply by 7: about 2100.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-035",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 340 × 8?",
+    "audioPrompt": "Which estimate is most useful for checking 340 × 8?",
+    "answers": [
+      "About 2400.",
+      "About 348.",
+      "About 3400."
+    ],
+    "correct": 0,
+    "explanation": "Round 340 to 300, then multiply by 8: about 2400. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 340 to 300, then multiply by 8: about 2400.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-036",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 351 × 9?",
+    "audioPrompt": "Which estimate is most useful for checking 351 × 9?",
+    "answers": [
+      "About 3600.",
+      "About 360.",
+      "About 3510."
+    ],
+    "correct": 0,
+    "explanation": "Round 351 to 400, then multiply by 9: about 3600. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 351 to 400, then multiply by 9: about 3600.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-037",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 362 × 4?",
+    "audioPrompt": "Which estimate is most useful for checking 362 × 4?",
+    "answers": [
+      "About 1600.",
+      "About 366.",
+      "About 3620."
+    ],
+    "correct": 0,
+    "explanation": "Round 362 to 400, then multiply by 4: about 1600. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 362 to 400, then multiply by 4: about 1600.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-038",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 373 × 5?",
+    "audioPrompt": "Which estimate is most useful for checking 373 × 5?",
+    "answers": [
+      "About 2000.",
+      "About 378.",
+      "About 3730."
+    ],
+    "correct": 0,
+    "explanation": "Round 373 to 400, then multiply by 5: about 2000. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 373 to 400, then multiply by 5: about 2000.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-039",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 384 × 6?",
+    "audioPrompt": "Which estimate is most useful for checking 384 × 6?",
+    "answers": [
+      "About 2400.",
+      "About 390.",
+      "About 3840."
+    ],
+    "correct": 0,
+    "explanation": "Round 384 to 400, then multiply by 6: about 2400. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 384 to 400, then multiply by 6: about 2400.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-040",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 395 × 7?",
+    "audioPrompt": "Which estimate is most useful for checking 395 × 7?",
+    "answers": [
+      "About 2800.",
+      "About 402.",
+      "About 3950."
+    ],
+    "correct": 0,
+    "explanation": "Round 395 to 400, then multiply by 7: about 2800. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 395 to 400, then multiply by 7: about 2800.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-041",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 406 × 8?",
+    "audioPrompt": "Which estimate is most useful for checking 406 × 8?",
+    "answers": [
+      "About 3200.",
+      "About 414.",
+      "About 4060."
+    ],
+    "correct": 0,
+    "explanation": "Round 406 to 400, then multiply by 8: about 3200. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 406 to 400, then multiply by 8: about 3200.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-042",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 417 × 9?",
+    "audioPrompt": "Which estimate is most useful for checking 417 × 9?",
+    "answers": [
+      "About 3600.",
+      "About 426.",
+      "About 4170."
+    ],
+    "correct": 0,
+    "explanation": "Round 417 to 400, then multiply by 9: about 3600. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 417 to 400, then multiply by 9: about 3600.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-043",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 428 × 4?",
+    "audioPrompt": "Which estimate is most useful for checking 428 × 4?",
+    "answers": [
+      "About 1600.",
+      "About 432.",
+      "About 4280."
+    ],
+    "correct": 0,
+    "explanation": "Round 428 to 400, then multiply by 4: about 1600. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 428 to 400, then multiply by 4: about 1600.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-044",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 439 × 5?",
+    "audioPrompt": "Which estimate is most useful for checking 439 × 5?",
+    "answers": [
+      "About 2000.",
+      "About 444.",
+      "About 4390."
+    ],
+    "correct": 0,
+    "explanation": "Round 439 to 400, then multiply by 5: about 2000. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 439 to 400, then multiply by 5: about 2000.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-045",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 450 × 6?",
+    "audioPrompt": "Which estimate is most useful for checking 450 × 6?",
+    "answers": [
+      "About 3000.",
+      "About 456.",
+      "About 4500."
+    ],
+    "correct": 0,
+    "explanation": "Round 450 to 500, then multiply by 6: about 3000. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 450 to 500, then multiply by 6: about 3000.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-046",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 461 × 7?",
+    "audioPrompt": "Which estimate is most useful for checking 461 × 7?",
+    "answers": [
+      "About 3500.",
+      "About 468.",
+      "About 4610."
+    ],
+    "correct": 0,
+    "explanation": "Round 461 to 500, then multiply by 7: about 3500. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 461 to 500, then multiply by 7: about 3500.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-047",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 472 × 8?",
+    "audioPrompt": "Which estimate is most useful for checking 472 × 8?",
+    "answers": [
+      "About 4000.",
+      "About 480.",
+      "About 4720."
+    ],
+    "correct": 0,
+    "explanation": "Round 472 to 500, then multiply by 8: about 4000. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 472 to 500, then multiply by 8: about 4000.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n08-p-048",
+    "curriculumCode": "AC9M5N08",
+    "bank": "practice",
+    "skill": "estimation and reasonableness",
+    "printable": true,
+    "type": "single",
+    "question": "Which estimate is most useful for checking 483 × 9?",
+    "audioPrompt": "Which estimate is most useful for checking 483 × 9?",
+    "answers": [
+      "About 4500.",
+      "About 492.",
+      "About 4830."
+    ],
+    "correct": 0,
+    "explanation": "Round 483 to 500, then multiply by 9: about 4500. Compare the proposed answer with this scale.",
+    "structuredExplanation": {
+      "summary": "Round 483 to 500, then multiply by 9: about 4500.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;

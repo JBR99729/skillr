@@ -695,6 +695,557 @@ window.skillrPracticeQuestions = [
       "hint": "Estimate first, then multiply using place value."
     },
     "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-025",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 3 rows with 120 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 3 rows with 120 seats in each row. What is the total?",
+    "answers": [
+      "360.",
+      "363.",
+      "123."
+    ],
+    "correct": 0,
+    "explanation": "120 × 3 = 360. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "120 × 3 = 360.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-026",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 4 rows with 137 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 4 rows with 137 seats in each row. What is the total?",
+    "answers": [
+      "548.",
+      "552.",
+      "141."
+    ],
+    "correct": 0,
+    "explanation": "137 × 4 = 548. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "137 × 4 = 548.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-027",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 5 rows with 154 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 5 rows with 154 seats in each row. What is the total?",
+    "answers": [
+      "770.",
+      "775.",
+      "159."
+    ],
+    "correct": 0,
+    "explanation": "154 × 5 = 770. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "154 × 5 = 770.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-028",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 6 rows with 171 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 6 rows with 171 seats in each row. What is the total?",
+    "answers": [
+      "1026.",
+      "1032.",
+      "177."
+    ],
+    "correct": 0,
+    "explanation": "171 × 6 = 1026. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "171 × 6 = 1026.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-029",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 7 rows with 188 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 7 rows with 188 seats in each row. What is the total?",
+    "answers": [
+      "1316.",
+      "1323.",
+      "195."
+    ],
+    "correct": 0,
+    "explanation": "188 × 7 = 1316. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "188 × 7 = 1316.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-030",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 8 rows with 205 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 8 rows with 205 seats in each row. What is the total?",
+    "answers": [
+      "1640.",
+      "1648.",
+      "213."
+    ],
+    "correct": 0,
+    "explanation": "205 × 8 = 1640. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "205 × 8 = 1640.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-031",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 9 rows with 222 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 9 rows with 222 seats in each row. What is the total?",
+    "answers": [
+      "1998.",
+      "2007.",
+      "231."
+    ],
+    "correct": 0,
+    "explanation": "222 × 9 = 1998. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "222 × 9 = 1998.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-032",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 10 rows with 239 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 10 rows with 239 seats in each row. What is the total?",
+    "answers": [
+      "2390.",
+      "2400.",
+      "249."
+    ],
+    "correct": 0,
+    "explanation": "239 × 10 = 2390. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "239 × 10 = 2390.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "recognise-apply",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-033",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 3 rows with 256 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 3 rows with 256 seats in each row. What is the total?",
+    "answers": [
+      "768.",
+      "771.",
+      "259."
+    ],
+    "correct": 0,
+    "explanation": "256 × 3 = 768. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "256 × 3 = 768.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-034",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 4 rows with 273 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 4 rows with 273 seats in each row. What is the total?",
+    "answers": [
+      "1092.",
+      "1096.",
+      "277."
+    ],
+    "correct": 0,
+    "explanation": "273 × 4 = 1092. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "273 × 4 = 1092.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-035",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 5 rows with 290 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 5 rows with 290 seats in each row. What is the total?",
+    "answers": [
+      "1450.",
+      "1455.",
+      "295."
+    ],
+    "correct": 0,
+    "explanation": "290 × 5 = 1450. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "290 × 5 = 1450.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-036",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 6 rows with 307 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 6 rows with 307 seats in each row. What is the total?",
+    "answers": [
+      "1842.",
+      "1848.",
+      "313."
+    ],
+    "correct": 0,
+    "explanation": "307 × 6 = 1842. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "307 × 6 = 1842.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-037",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 7 rows with 324 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 7 rows with 324 seats in each row. What is the total?",
+    "answers": [
+      "2268.",
+      "2275.",
+      "331."
+    ],
+    "correct": 0,
+    "explanation": "324 × 7 = 2268. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "324 × 7 = 2268.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-038",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 8 rows with 341 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 8 rows with 341 seats in each row. What is the total?",
+    "answers": [
+      "2728.",
+      "2736.",
+      "349."
+    ],
+    "correct": 0,
+    "explanation": "341 × 8 = 2728. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "341 × 8 = 2728.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-039",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 9 rows with 358 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 9 rows with 358 seats in each row. What is the total?",
+    "answers": [
+      "3222.",
+      "3231.",
+      "367."
+    ],
+    "correct": 0,
+    "explanation": "358 × 9 = 3222. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "358 × 9 = 3222.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-040",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 10 rows with 375 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 10 rows with 375 seats in each row. What is the total?",
+    "answers": [
+      "3750.",
+      "3760.",
+      "385."
+    ],
+    "correct": 0,
+    "explanation": "375 × 10 = 3750. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "375 × 10 = 3750.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "reasoning",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-041",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 3 rows with 392 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 3 rows with 392 seats in each row. What is the total?",
+    "answers": [
+      "1176.",
+      "1179.",
+      "395."
+    ],
+    "correct": 0,
+    "explanation": "392 × 3 = 1176. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "392 × 3 = 1176.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-042",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 4 rows with 409 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 4 rows with 409 seats in each row. What is the total?",
+    "answers": [
+      "1636.",
+      "1640.",
+      "413."
+    ],
+    "correct": 0,
+    "explanation": "409 × 4 = 1636. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "409 × 4 = 1636.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-043",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 5 rows with 426 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 5 rows with 426 seats in each row. What is the total?",
+    "answers": [
+      "2130.",
+      "2135.",
+      "431."
+    ],
+    "correct": 0,
+    "explanation": "426 × 5 = 2130. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "426 × 5 = 2130.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-044",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 6 rows with 443 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 6 rows with 443 seats in each row. What is the total?",
+    "answers": [
+      "2658.",
+      "2664.",
+      "449."
+    ],
+    "correct": 0,
+    "explanation": "443 × 6 = 2658. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "443 × 6 = 2658.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-045",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 7 rows with 460 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 7 rows with 460 seats in each row. What is the total?",
+    "answers": [
+      "3220.",
+      "3227.",
+      "467."
+    ],
+    "correct": 0,
+    "explanation": "460 × 7 = 3220. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "460 × 7 = 3220.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-046",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 8 rows with 477 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 8 rows with 477 seats in each row. What is the total?",
+    "answers": [
+      "3816.",
+      "3824.",
+      "485."
+    ],
+    "correct": 0,
+    "explanation": "477 × 8 = 3816. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "477 × 8 = 3816.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-047",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 9 rows with 494 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 9 rows with 494 seats in each row. What is the total?",
+    "answers": [
+      "4446.",
+      "4455.",
+      "503."
+    ],
+    "correct": 0,
+    "explanation": "494 × 9 = 4446. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "494 × 9 = 4446.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
+  },
+  {
+    "id": "ac9m5n06-p-048",
+    "curriculumCode": "AC9M5N06",
+    "bank": "practice",
+    "skill": "partial products and multiplication",
+    "printable": true,
+    "type": "single",
+    "question": "A theatre has 10 rows with 511 seats in each row. What is the total?",
+    "audioPrompt": "A theatre has 10 rows with 511 seats in each row. What is the total?",
+    "answers": [
+      "5110.",
+      "5120.",
+      "521."
+    ],
+    "correct": 0,
+    "explanation": "511 × 10 = 5110. Partition or use an efficient place-value strategy, then estimate to check the size.",
+    "structuredExplanation": {
+      "summary": "511 × 10 = 5110.",
+      "hint": "Show the relationship or estimate before choosing."
+    },
+    "cognitiveDemand": "transfer-challenge",
+    "qualitySchema": "production-v1"
   }
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
