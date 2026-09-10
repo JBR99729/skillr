@@ -1,0 +1,211 @@
+# SkillrHub — Year 6 English Curriculum Research Master
+
+Run started: 2026-09-10
+Recovered and checkpointed: 2026-09-10 UTC
+Curriculum: Australian Curriculum v9.0
+
+CURRENT_CODE: AC9E6LA06
+NEXT_CODE: AC9E6LA07
+
+COMPLETED / PRESERVED PRIOR-SESSION CODES:
+- AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
+- AC9E6LA02 — prior-session interactive fact/opinion and tone research was visibly completed in the earlier activity record; detailed evidence was not recovered from the failed earlier save.
+- AC9E6LA03 — prior-session interactive text-structure research was visibly completed in the earlier activity record; detailed evidence was not recovered from the failed earlier save.
+- AC9E6LA04 — preserved as completed because the surviving authenticated IXL tab had advanced to the first mapped AC9E6LA05 skill. Detailed evidence was not recovered from the failed earlier save.
+These four codes are not being re-sampled during this run, following the instruction not to repeat prior research. Their missing detailed records must not be misrepresented as newly verified evidence.
+
+SOURCE EVIDENCE LOG — COMMON
+- IXL Australia Year 6 English curriculum page was inspected in the authenticated Parent profile with Australian Curriculum v9.0 selected.
+- Parent-profile practice displays “Parent results not recorded”; research submissions therefore do not alter a student result.
+- Mapping status and interactive verification are recorded separately.
+- Original SkillrHub items must reproduce pedagogical patterns only, never source wording.
+- Khan Academy has no Australian Curriculum v9 code alignment; any useful grammar material is supplementary.
+- Free access does not imply republication permission.
+
+==================================================
+CODE: AC9E6LA05
+DESCRIPTOR: Understand how embedded clauses can expand the variety of complex sentences to elaborate, extend and explain ideas.
+==================================================
+
+IXL MAPPINGS:
+IXL-MAPPED on the live Year 6 Australian Curriculum v9 page to:
+- 6-X.9 Is the sentence simple, compound or complex?
+- 6-GG.1 Use coordinating conjunctions
+- 6-GG.2 Identify coordinating conjunctions
+- 6-GG.3 Identify subordinating conjunctions
+- 6-GG.4 Use the correct pair of correlative conjunctions
+- 6-GG.5 Fill in the missing correlative conjunction
+
+IXL SKILLS INVESTIGATED:
+IXL-INTERACTIVE-VERIFIED:
+- 6-X.9
+- 6-GG.1
+- 6-GG.2
+- 6-GG.3
+- 6-GG.4
+- 6-GG.5
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+- X.9 presents two complete sentences and asks which is simple, compound or complex. Actual practice required discriminating a one-clause sentence from a sentence containing a dependent clause introduced by “while”. Two answers were submitted correctly; the counter progressed from 0 to 2 and SmartScore from 0 to 19. Prompts change the target class, while distractors include long simple sentences and sentences with compound predicates so length alone is unreliable.
+- X.9 worked teaching defines clause, independent clause and dependent clause before contrasting simple, compound and complex structures. It explicitly warns that an introductory phrase does not create another clause. The solution names the subordinating conjunction, isolates the dependent clause and explains why the full sentence is complex.
+- GG.1 uses a two-option choice to complete a sentence with the conjunction whose semantic relationship fits. One cause-result item was answered correctly. The worked sequence teaches and=addition/similarity, but=contrast, or=choice, so=cause-result, with examples connecting words, phrases and independent clauses.
+- GG.2 requires selecting the conjunction directly inside a continuous sentence rather than choosing from a separate list. One actual item joining two noun phrases with “and” was submitted correctly. The worked solution names both the word and the equal units it connects.
+- GG.3 requires selecting the subordinating conjunction inside a complete complex sentence. One actual contrast/concession item using “although” was submitted correctly. The worked explanation identifies the dependent clause and states that it cannot stand alone.
+- GG.4 uses two alternative correlative pairs. The learner must infer the logical relationship: both true, both untrue, alternatives, or uncertain alternatives. One actual uncertainty item was answered correctly with whether/or. Worked teaching covers both/and, not only/but also, neither/nor, either/or and whether/or and stresses parallel/equal sentence parts.
+- GG.5 changes the answer format to typed production. One member of a pair is supplied and the learner types its mate. One actual either/or item was completed correctly by typing “or”. The example uses but also as the cue for not only.
+
+IXL DIFFICULTY PROGRESSION:
+- Recognition begins with locating an overt conjunction or choosing between two semantically distinct options.
+- Classification then requires clause-boundary reasoning and distinguishing phrases, compound predicates, two independent clauses and dependent-plus-independent structures.
+- Correlative tasks add paired logic and parallel structure.
+- Typed completion removes visible answer options.
+- The mapped sequence supports conjunction knowledge and broad complex-sentence recognition, but the sampled IXL tasks do not fully require students to compose embedded relative, non-finite or content clauses that elaborate a noun or idea.
+
+IXL MISCONCEPTIONS/TRAPS:
+- Treating every long sentence as complex.
+- Treating an introductory prepositional phrase as a dependent clause.
+- Counting a compound subject or compound predicate as two clauses.
+- Choosing a conjunction by familiarity rather than semantic relationship.
+- Confusing coordinating and subordinating conjunctions.
+- Selecting the wrong member of a fixed correlative pair.
+- Ignoring parallel grammatical form after correlative conjunctions.
+- Assuming any subordinate clause is embedded; AC9E6LA05 requires the additional Year 6 idea that a clause can be placed inside another clause or noun group to elaborate, extend or explain.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+- Teach subject-plus-predicate and complete-thought tests before naming sentence types.
+- Visually isolate clause boundaries.
+- Link conjunction choice to meaning: addition, contrast, choice, result, time, cause, condition and concession.
+- After an answer, identify the conjunction, name the clause types, and explain the relationship.
+- Contrast phrases with clauses explicitly.
+- Use paired examples where surface length is similar but clause structure differs.
+
+KHAN MAPPINGS:
+KHAN STATUS: SUPPLEMENTARY / NOT AC9-MAPPED.
+Relevant inspected sequence: Grammar overview > Unit 5 > Introduction to conjunctions.
+
+KHAN EVIDENCE:
+- The live lesson list was inspected. Its sequence is: coordinating-conjunction video; “Meet the conjunction” exercise; coordinating-conjunction exercise; subordinating-conjunction video; combined coordinating/subordinating exercise.
+- The combined exercise is four questions. A representative item asked for the best conjunction at the start of a sentence with three choices spanning concession, time and coordination. “Even though” was submitted correctly.
+- Correct feedback is brief (“Good work”) with an optional step-by-step solution, while related 4:33 and 5:27 videos remain available beside practice.
+- This sequence is useful for prerequisites and semantic conjunction choice. It does not establish full AC9E6LA05 embedded-clause depth.
+
+OTHER FREE SOURCES:
+- Australian Curriculum v9 descriptor as displayed in the inspected IXL Australia alignment.
+- No additional free source was needed to establish the mapped conjunction patterns at this checkpoint. A future authoring audit should use an official Australian/state grammar source specifically for embedded relative, content and non-finite clauses.
+
+FREE-SOURCE EVIDENCE:
+- The official curriculum requirement is broader than the benchmark tasks. Authoring must therefore add original construction, expansion and revision tasks focused on clauses embedded within noun groups or clauses, not merely conjunction identification.
+
+CURRICULUM REQUIREMENTS:
+- Recognise clauses embedded within larger grammatical structures.
+- Explain how embedded clauses elaborate participants/nouns, extend information and explain ideas.
+- Create and revise complex sentences using embedded clauses.
+- Maintain agreement, reference clarity, punctuation and readable clause boundaries.
+- Distinguish embedding from simple coordination and from a subordinate clause merely placed before or after a main clause.
+
+PREREQUISITES:
+- Subject and predicate.
+- Finite verb and clause recognition.
+- Independent/dependent clauses.
+- Coordinating and subordinating conjunction meanings.
+- Simple, compound and complex sentence distinction.
+- Noun groups and relative pronouns.
+
+NEW YEAR-6 DEPTH:
+- Move from identifying clause types to inserting, moving, reducing, expanding and editing embedded clauses.
+- Compare how different embeddings change precision, emphasis and flow.
+- Use relative clauses, content clauses and accessible non-finite clauses in original sentences and short texts.
+- Detect ambiguous attachment and unclear pronoun reference.
+
+VOCABULARY:
+clause; independent clause; dependent clause; embedded clause; main clause; relative clause; relative pronoun; finite verb; non-finite clause; elaborate; extend; explain; noun group; antecedent; conjunction; coordination; subordination; parallel structure.
+
+REPRESENTATIONS:
+- Colour-coded clause brackets.
+- Sentence-combining choices.
+- Drag/order clause strips.
+- Before-and-after sentence revisions.
+- Short paragraph editing.
+- Two-choice classification.
+- Multi-select clause identification.
+- Typed completion and independent construction.
+- Tables comparing structure, purpose and effect.
+
+COMMON MISCONCEPTIONS:
+- A phrase is a clause.
+- Every sentence containing and is compound.
+- Every dependent clause is embedded.
+- Relative pronouns always refer clearly to the nearest noun.
+- More clauses always improve writing.
+- Commas are required around every embedded clause.
+- Removing an embedded clause never changes essential meaning.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+- Clear model of clause versus phrase.
+- Simple/compound/complex recap.
+- Definition and visual model of embedding.
+- Relative, content and accessible non-finite embedded clauses.
+- Restrictive/non-restrictive meaning at an age-appropriate level.
+- Punctuation, reference clarity and editing.
+- Worked expansion and reduction examples.
+- Misconception checks and original exit ticket.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+- Learning intention and success criteria.
+- Clause-boundary warm-up.
+- Teacher modelling with sentence brackets.
+- Guided sentence combining.
+- Collaborative revision and effect discussion.
+- Support/core/extension pathways.
+- Check-for-understanding prompts and model answers.
+
+REQUIRED WORKSHEET COVERAGE:
+- Clause/phrase sorting.
+- Identify main and embedded clauses.
+- Match embeddings to purpose.
+- Combine sentences in more than one valid way.
+- Repair agreement, reference and punctuation.
+- Expand a short paragraph.
+- Explain the effect of a chosen structure.
+- Independent original writing.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+- 6 clause-versus-phrase and boundary items.
+- 6 simple/compound/complex prerequisite checks.
+- 8 identify embedded relative/content/non-finite clauses.
+- 8 choose the best embedding for elaboration, extension or explanation.
+- 8 sentence-combining and typed completion items.
+- 6 punctuation/reference/agreement repair items.
+- 4 compare effect/emphasis items.
+- 2 short paragraph revisions.
+Total: 48 original items with varied formats and contexts.
+
+16-TEST-BANK COVERAGE PLAN:
+- 3 clause-boundary and classification items.
+- 4 identify and explain embedded-clause function.
+- 4 construct/combine sentences.
+- 3 edit ambiguity, agreement or punctuation.
+- 2 short transfer tasks requiring original revision and explanation.
+Total: 16 independent original items, with no practice-bank duplicates.
+
+CONTENT BOUNDARIES:
+- Do not reduce AC9E6LA05 to conjunction vocabulary or sentence labels.
+- Do not teach high-school-level terminology where it obscures the Year 6 goal.
+- Do not copy IXL or Khan wording, names, scenarios or answer sets.
+- Do not claim sampled early questions represent full adaptive mastery.
+- Do not claim Khan is aligned to Australian Curriculum v9.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/standards/english/year-6
+- https://au.ixl.com/english/year-6/is-the-sentence-simple-compound-or-complex
+- https://au.ixl.com/english/year-6/use-coordinating-conjunctions
+- https://au.ixl.com/english/year-6/identify-coordinating-conjunctions
+- https://au.ixl.com/english/year-6/identify-subordinating-conjunctions
+- https://au.ixl.com/english/year-6/use-the-correct-pair-of-correlative-conjunctions
+- https://au.ixl.com/english/year-6/fill-in-the-missing-correlative-conjunction
+- https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions
+- https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-preposition-and-the-conjunction/introduction-to-conjunctions/e/coordinating-and-subordinating-conjunctions
+
+RESEARCH STATUS:
+AUTHORING-READY.
+The mapped benchmark patterns are sufficiently established and the curriculum gap is explicitly bounded. Original authoring must supply the embedded-clause construction depth absent from the sampled recognition tasks.
