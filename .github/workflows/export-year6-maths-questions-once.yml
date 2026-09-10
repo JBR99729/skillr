@@ -23,7 +23,6 @@ jobs:
           node <<'NODE'
           const fs=require('fs');
           const vm=require('vm');
-          const path=require('path');
           const codes=[
             ...Array.from({length:9},(_,i)=>`AC9M6N${String(i+1).padStart(2,'0')}`),
             ...Array.from({length:3},(_,i)=>`AC9M6A${String(i+1).padStart(2,'0')}`),
@@ -33,7 +32,7 @@ jobs:
             ...Array.from({length:2},(_,i)=>`AC9M6P${String(i+1).padStart(2,'0')}`)
           ];
           const out=[];
-          const json={generatedAt:new Date().toISOString(),source:'JBR99729/skillr main',codes:[]};
+          const json={generatedAt:new Date().toISOString(),source:'JBR99729/skillr main',codes:[],countAudit:[]};
           let total=0;
           out.push('SKILLRHUB YEAR 6 MATHEMATICS — ALL LIVE QUESTIONS');
           out.push('Source: JBR99729/skillr main');
@@ -43,18 +42,18 @@ jobs:
           for(const code of codes){
             const lower=code.toLowerCase();
             const codeObj={code,practice:[],test:[]};
-            out.push('='.repeat(88));
-            out.push(code);
-            out.push('='.repeat(88));
+            const audit={code};
+            out.push('='.repeat(88)); out.push(code); out.push('='.repeat(88));
             for(const mode of ['practice','test']){
               const file=`quiz/year-6/math/${lower}/${mode}/questions.js`;
               if(!fs.existsSync(file)) throw new Error(`Missing ${file}`);
               const box={window:{}}; vm.createContext(box);
               vm.runInContext(fs.readFileSync(file,'utf8'),box,{filename:file});
               const arr=mode==='practice'?(box.window.skillrPracticeQuestions||box.window.quizQuestions):(box.window.skillrTestQuestions||box.window.quizQuestions);
-              if(!Array.isArray(arr)) throw new Error(`No ${mode} array in ${file}`);
-              const expected=mode==='practice'?48:16;
-              if(arr.length!==expected) throw new Error(`${code} ${mode}: expected ${expected}, found ${arr.length}`);
+              if(!Array.isArray(arr) || !arr.length) throw new Error(`No usable ${mode} array in ${file}`);
+              audit[mode]=arr.length;
+              audit[`${mode}Target`]=mode==='practice'?48:16;
+              audit[`${mode}TargetMet`]=arr.length===audit[`${mode}Target`];
               out.push(''); out.push(`${mode.toUpperCase()} — ${arr.length} QUESTIONS`); out.push('-'.repeat(88));
               arr.forEach((q,idx)=>{
                 const item={id:q.id||`${lower}-${mode}-${idx+1}`,question:q.question||'',answers:Array.isArray(q.answers)?q.answers:[],correctIndex:Number.isInteger(q.correct)?q.correct:(Number.isInteger(q.correctIndex)?q.correctIndex:null),explanation:q.structuredExplanation?.summary||q.explanation||'',hint:q.structuredExplanation?.hint||''};
@@ -72,15 +71,19 @@ jobs:
                 out.push('');
               });
             }
-            json.codes.push(codeObj);
+            json.codes.push(codeObj); json.countAudit.push(audit);
           }
-          if(total!==1536) throw new Error(`Expected 1536 total questions, found ${total}`);
-          out.unshift(`Total questions: ${total}`,'');
+          const short=json.countAudit.filter(x=>!x.practiceTargetMet||!x.testTargetMet);
+          out.unshift(`Total live questions: ${total}`,`Codes: ${codes.length}`,'');
+          out.push('='.repeat(88)); out.push('COUNT AUDIT'); out.push('='.repeat(88));
+          json.countAudit.forEach(x=>out.push(`${x.code}: Practice ${x.practice}/${x.practiceTarget}; Test ${x.test}/${x.testTarget}${x.practiceTargetMet&&x.testTargetMet?'':'  <-- BELOW TARGET'}`));
           fs.mkdirSync('question-export',{recursive:true});
           fs.writeFileSync('question-export/year6-maths-all-questions.txt',out.join('\n'));
           fs.writeFileSync('question-export/year6-maths-all-questions.json',JSON.stringify(json,null,2));
-          fs.writeFileSync('question-export/README.txt',`Year 6 Maths live question export\nQuestions: ${total}\nCodes: ${codes.length}\nPractice per code: 48\nTest per code: 16\n`);
-          console.log(`Exported ${total} questions across ${codes.length} codes.`);
+          fs.writeFileSync('question-export/README.txt',[`Year 6 Maths live question export`,`Total live questions: ${total}`,`Codes: ${codes.length}`,`Banks below 48/16 target: ${short.length}`,...short.map(x=>`${x.code}: Practice ${x.practice}/48, Test ${x.test}/16`)].join('\n')+'\n');
+          console.log(`Exported ${total} live questions across ${codes.length} codes.`);
+          console.log(`Banks below target: ${short.length}`);
+          short.forEach(x=>console.log(`${x.code}: practice ${x.practice}, test ${x.test}`));
           NODE
       - name: Upload question export
         uses: actions/upload-artifact@v4
