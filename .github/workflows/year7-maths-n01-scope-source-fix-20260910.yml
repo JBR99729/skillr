@@ -1,0 +1,56 @@
+name: Fix residual AC9M7N01 source scope 2026-09-10
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/year7-maths-n01-scope-source-fix-20260910.yml']
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22}
+      - name: Remove residual non-perfect-root teaching and rebuild
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('scripts/year7-maths-topic-v2-number-a01-overrides.mjs')
+          s=p.read_text()
+          # Worked example and question.
+          s=s.replace('ex("Bound a non-perfect square root",["Find the perfect square below 70: 8² = 64.","Find the next perfect square: 9² = 81.","Write 64 < 70 < 81.","Take roots to obtain 8 < √70 < 9."],"The square root of 70 lies between 8 and 9.","Squaring both bounds gives 64 < 70 < 81.")','ex("Use a square root in a problem",["Identify the square area: 324 m².","Use side = √area.","Because 18² = 324, the side is 18 m.","Perimeter = 4 × 18 = 72 m."],"The side is 18 m and the perimeter is 72 m.","Check 18 × 18 = 324 before calculating the perimeter.")')
+          s=s.replace('q(2,"Place √50 between consecutive whole numbers.","7 < √50 < 8 because 49 < 50 < 64.","Adjacent perfect squares bound the root.","Compare 50 with 7² and 8².")','q(2,"A square has area 529 cm². Find its side length and explain the inverse relationship used.","23 cm, because 23² = 529, so √529 = 23.","Square root reverses squaring for a perfect square.","Find the whole number whose square is 529.")')
+          # Guide-layer prose and topic-focus wording.
+          s=s.replace('The principal square root reverses squaring by identifying the non-negative side length. Therefore √144 = 12, while a non-perfect root such as √70 can be bounded between nearby perfect squares.','The principal square root reverses squaring by identifying the non-negative side length. Therefore √144 = 12 because 12² = 144; exact square roots of perfect squares recover whole-number side lengths.')
+          s=s.replace('I can bound a non-perfect root and solve related area or perimeter problems.','I can use exact square roots of perfect squares to solve related area or perimeter problems.')
+          # Defensive N01-only guard: no non-perfect-root teaching may remain in this override block.
+          start=s.index('AC9M7N01:')
+          end=s.index('AC9M7N02:',start)
+          block=s[start:end]
+          for bad in ['√70','√50','non-perfect square root','non-perfect root']:
+              if bad in block:
+                  raise SystemExit(f'Residual N01 source scope term: {bad}')
+          p.write_text(s)
+          b=Path('scripts/build_year7_maths_topic_modules_v2.mjs')
+          t=b.read_text()
+          t=t.replace('visualBlock("rootBounds", { value: 70, lower: 64, upper: 81, lowerRoot: 8, upperRoot: 9, label: "Bound √70 between consecutive whole numbers" })','visualBlock("squareArray", { rows: 18, cols: 18, value: 324, label: "18 × 18 = 324, so √324 = 18" })')
+          b.write_text(t)
+          PY
+          node scripts/build_year7_maths_topic_modules_v2.mjs
+      - name: Verify generated N01 surfaces are inside scope
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const files=['year7/maths/ac9m7n01-the-relationship-between-perfect-square-numbers-and-square/index.html','year7/maths/ac9m7n01-the-relationship-between-perfect-square-numbers-and-square/teacher-slides/index.html','quiz/year-7/math/ac9m7n01/worksheet/index.html'];
+          const text=files.map(f=>fs.readFileSync(f,'utf8')).join('\n');
+          if(/√70|√50|non-perfect square root|non-perfect root|bound a non-perfect/i.test(text)) throw new Error('Residual out-of-scope N01 generated content');
+          console.log('AC9M7N01_GENERATED_SCOPE_PASS');
+          NODE
+      - name: Commit N01 source alignment
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add scripts/year7-maths-topic-v2-number-a01-overrides.mjs scripts/build_year7_maths_topic_modules_v2.mjs year7/maths quiz/year-7/math/ac9m7n01/worksheet/index.html
+          git commit -m 'Align AC9M7N01 learning surfaces to research boundary'
+          git push
