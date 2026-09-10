@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LE04
-NEXT_CODE: AC9E6LE05
+CURRENT_CODE: AC9E6LE05
+NEXT_CODE: AC9E6LY01
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -1205,3 +1205,91 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 No material IXL/Khan mapping exists. The NSW Stage 3 professional learning supplies a detailed, age-appropriate author-craft framework, and the ABC poet series reinforces individual combinations of shared techniques. Scope, progression and original authoring patterns are fully defined.
+
+
+==================================================
+CODE: AC9E6LE04
+DESCRIPTOR: Explain the way authors use sound and imagery to create meaning and effect in poetry.
+==================================================
+
+IXL MAPPINGS:
+IXL-MAPPED to 6-F.3 Analyse the effects of figures of speech on meaning and tone.
+
+IXL SKILLS INVESTIGATED:
+F.3 — IXL-INTERACTIVE-VERIFIED under AC9E6LA08, including its “Learn with an example”; evidence reused without repetition.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+F.3 embeds figurative language in a substantial literary passage, asks learners to select exact evidence, then links the device to nonliteral meaning and tone. The pattern supports imagery analysis but does not fully cover poetic sound.
+
+IXL DIFFICULTY PROGRESSION:
+Identify sound/image evidence → name technique → paraphrase literal meaning → describe sensory/aural pattern → explain meaning, mood, emphasis and reader effect → trace a pattern across a poem → compare alternative readings.
+
+IXL MISCONCEPTIONS/TRAPS:
+Imagery means only sight; rhyme is always at line ends; any repeated letter is alliteration; device naming equals analysis; sound effects are decoration; the poet’s effect has one fixed answer; onomatopoeia is the only sound device.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+Keep the whole text visible, isolate exact evidence, translate nonliteral wording, and connect the technique to contextual tone/effect. Poetry teaching must add read-aloud noticing and repeated-pattern analysis.
+
+KHAN MAPPINGS:
+KHAN STATUS: SUPPLEMENTARY / NOT AC9-MAPPED. General figurative-language lessons support literal/nonliteral meaning but do not provide an Australian Year 6 poetry sequence.
+
+KHAN EVIDENCE:
+No additional Khan research required beyond the LA08 figurative-language evidence.
+
+OTHER FREE SOURCES:
+- ABC Education, Poetic Devices six-part series, Upper Primary–Lower Secondary.
+- Red Room Poetry/ClickView Poetic Devices resources and teacher pack, Years 3–6.
+- NSW Department of Education Stage 3 Narrative professional learning, including analysis of an Australian narrative poem.
+
+FREE-SOURCE EVIDENCE:
+- ABC sequences poet-led episodes on simile, metaphor, personification, alliteration, onomatopoeia and imagery, connecting technique to a meaningful object.
+- Red Room’s model activates prior knowledge, listens/responds before naming technique, then moves into discussion and creation.
+- NSW’s worked poetry analysis links cadence, line length, rhyme, repetition, assonance, alliteration, point of view and hyperbole to rhythm, scale, adventure and character perspective.
+- Teaching pattern: listen without text → mark sound noticed → reread visually → identify imagery/sound pattern → explain what it emphasises or makes the reader imagine/feel → test by changing/removing it.
+- Do not reproduce poems, transcripts or proprietary questions; author original poems.
+
+CURRICULUM REQUIREMENTS:
+Explain how rhythm, rhyme, repetition, alliteration, assonance, consonance and onomatopoeia work with visual, auditory and other sensory imagery; use evidence; discuss cumulative patterns, meaning, mood, pace, emphasis and memorability; create/revise original poetry.
+
+PREREQUISITES:
+Literal/nonliteral language; simile, metaphor, personification; syllable, line, stanza; rhyme; sensory vocabulary; tone/mood; textual evidence.
+
+NEW YEAR-6 DEPTH:
+Move from identification to causal explanation; analyse several lines; distinguish sound from spelling; recognise partial/internal rhyme and free verse; connect sound pace/texture to imagery and meaning; compare versions.
+
+VOCABULARY:
+imagery; sensory detail; visual; auditory; tactile; rhythm; beat; cadence; rhyme; internal rhyme; repetition; refrain; alliteration; assonance; consonance; onomatopoeia; line break; stanza; pace; mood; effect.
+
+REPRESENTATIONS:
+Original poems with audio/read-aloud directions; sound-colour annotations; sensory maps; rhyme/repetition patterns; before/after line revisions; performance choices; evidence–technique–meaning–effect tables.
+
+COMMON MISCONCEPTIONS:
+Poetry must rhyme; imagery is a picture only; alliteration requires every word; repeated sound guarantees the same effect; faster rhythm always means happiness; personal reaction needs no evidence.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Sound-device definitions with audio cues; multisensory imagery; evidence-to-effect model; cumulative pattern; pace/mood/meaning; free verse; comparison and revision; worked examples and misconception checks.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Listen-first warm-up; choral reading; teacher annotation; sound/imagery stations; performance comparison; collaborative line revision; support/core/extension and exit explanation.
+
+REQUIRED WORKSHEET COVERAGE:
+Mark sound patterns; map sensory imagery; match evidence/effect; analyse stanza/whole poem; compare two versions/performances; revise weak lines; compose and explain an original stanza.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 sensory imagery; 6 rhyme/rhythm; 6 repetition/refrain; 6 alliteration; 5 assonance/consonance; 5 onomatopoeia; 8 combined stanza effects; 6 revision/composition explanations. Total 48 original items.
+
+16-TEST-BANK COVERAGE PLAN:
+3 imagery; 4 sound techniques; 5 combined poem analysis; 2 comparison; 2 independent creation/revision explanations. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not copy source poems; do not force one interpretation; require evidence; keep scansion terminology optional; distinguish author text from performance choices; use original recordings only.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/english/year-6/analyse-the-effects-of-figures-of-speech-on-meaning-and-tone
+- https://www.abc.net.au/education/tv-guide/poetic-devices/102529624
+- https://redroompoetry.org/projects/poetry-object-clickview-resources/
+- https://education.nsw.gov.au/teaching-and-learning/curriculum/english/textual-concepts/narrative
+
+RESEARCH STATUS:
+AUTHORING-READY.
+Mapped IXL evidence was genuinely collected earlier and reused. The selected Australian poetry resources supply the missing sound, performance, imagery and composition depth.
