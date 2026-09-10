@@ -209,3 +209,55 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 The mapped benchmark patterns are sufficiently established and the curriculum gap is explicitly bounded. Original authoring must supply the embedded-clause construction depth absent from the sampled recognition tasks.
+
+
+==================================================
+CODE: AC9E6LA06
+DESCRIPTOR: Understand how ideas can be expanded and sharpened through careful choice of verbs, elaborated tenses and a range of adverb groups.
+STATUS: RESEARCHING
+==================================================
+
+IXL MAPPINGS:
+Live AC v9 mapping lists DD.1, DD.2, DD.4, DD.5, DD.7, DD.8, EE.3, EE.4, EE.9 and EE.10.
+
+IXL SKILLS INVESTIGATED:
+- 6-DD.2 Simple past, present and future tense: review — IXL-INTERACTIVE-VERIFIED; research continues.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+- DD.2 uses typed verb production. The prompt names a target tense, supplies a base verb and embeds a textbox inside a complete sentence.
+- The first actual task required present tense with a compound subject, adding an agreement check rather than tense selection alone.
+- The worked example for future tense teaches the invariant “will + base verb” construction, then supplies the completed verb group.
+- Prerequisite links step back to tense identification, changing sentences to future, regular past and irregular-past review.
+
+IXL DIFFICULTY PROGRESSION:
+- Initial evidence shows movement from identifying time reference to producing the correct inflected or auxiliary verb group in context.
+- Further evidence is required for irregular, progressive, perfect and adverb-group progression.
+
+IXL MISCONCEPTIONS/TRAPS:
+- Copying the base verb without changing tense.
+- Applying singular agreement to a compound subject.
+- Treating future tense as an inflected one-word form rather than will + base.
+- Choosing a grammatically possible tense that conflicts with the prompt.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+- State the time meaning first, then display the formation rule, then reconstruct the complete sentence.
+- Keep tense formation and subject–verb agreement visible together.
+
+KHAN MAPPINGS:
+Pending for AC9E6LA06.
+
+KHAN EVIDENCE:
+Pending.
+
+OTHER FREE SOURCES:
+Pending.
+
+FREE-SOURCE EVIDENCE:
+Pending.
+
+CURRICULUM REQUIREMENTS:
+Pending synthesis after remaining mapped verb and adverb skills.
+
+RESEARCH STATUS:
+MORE-RESEARCH-REQUIRED.
+Next action: continue DD tense skills, then EE adverb skills before deciding authoring readiness.
