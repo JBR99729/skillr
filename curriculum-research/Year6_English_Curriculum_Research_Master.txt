@@ -1,25 +1,41 @@
 # SkillrHub — Year 6 English Curriculum Research Master
 
-Run: Year 6 English
-Status: Phase 1 in progress
+PROJECT_STATUS: IN_PROGRESS
+CURRENT_PHASE: RESEARCH
+CURRENT_CODE: AC9E6LA01
+LAST_COMPLETED_CODE: NONE
+NEXT_CODE: AC9E6LA02
+AUTHORING_STARTED: NO
+CONTENT_VERIFIED_COUNT: 0
+BLOCKER: NONE
 
-Verified IXL Australia mapping source: National curriculum > English > Year 6, Australian Curriculum v9.0. The mapping lists 23 Year 6 English descriptors: AC9E6LA01–AC9E6LA09, AC9E6LE01–AC9E6LE05 and AC9E6LY01–AC9E6LY09.
+CURRICULUM CODE SEQUENCE
+AC9E6LA01, AC9E6LA02, AC9E6LA03, AC9E6LA04, AC9E6LA05, AC9E6LA06, AC9E6LA07, AC9E6LA08, AC9E6LA09, AC9E6LE01, AC9E6LE02, AC9E6LE03, AC9E6LE04, AC9E6LE05, AC9E6LY01, AC9E6LY02, AC9E6LY03, AC9E6LY04, AC9E6LY05, AC9E6LY06, AC9E6LY07, AC9E6LY08, AC9E6LY09.
 
-Research approach: IXL interactive catalogue and mappings; Khan Academy is supplementary and not AC v9 code-mapped; ABC Education and other public educational resources are used for scope/context only. SkillrHub questions and passages will be original.
-
-Existing Year 6 English repository audit: each code already has a topic guide, Classroom View, worksheet/homework, practice bank and separate test bank. Existing question-bank files require expansion and code-level QA to meet the requested 48 practice and 16 test questions.
+SOURCE EVIDENCE
+- IXL Australia National curriculum > English > Year 6, Australian Curriculum v9.0. Authenticated Parent profile available; one IXL tab only.
+- Khan Academy authenticated account available; one Khan tab only. It does not map to Australian Curriculum v9 codes, so it is supplementary only.
+- ABC Education and other public resources are scope/context sources only. All SkillrHub content must be original.
 
 ==================================================
 CODE: AC9E6LA01
 DESCRIPTOR: Understand that language varies as levels of formality and social distance increase.
-STATUS: RESEARCHING
+STATUS: AUTHORING-READY
 ==================================================
-1. Curriculum intent: Students select and explain language choices that fit formality, relationship and communicative purpose; a language variety is not inherently better or worse outside its context.
-2. Required knowledge: register, formality, social distance, audience, purpose, tone, vocabulary, terms of address, modality, sentence choice.
-3. Prior-year foundations: identifying purpose and formality; fact/opinion and connotation.
-4. IXL evidence: Year 6 v9 mapping links “Which sentence is more formal?”, “Compare passages for tone”, “Distinguish facts from opinions”, “Describe the difference between related words”, and “Positive and negative connotation”. Task families use short contextual excerpts and contrasting options; key traps are judging a sentence by one sophisticated word or treating informal language as incorrect.
-5. Khan Academy evidence: authenticated Khan Academy 6th Grade Reading & Vocabulary, Unit 1, “Making inferences in informational texts” opened. It models conclusions from multiple textual clues plus relevant world knowledge, and explicitly distinguishes an inference from a guess. This supports the evidence-based explanation component of register/tone analysis, but is not a direct AC v9 code mapping.
-6. Authoring implications: use paired messages/email, dialogue, notices and spoken prompts; require students to identify language evidence and explain its effect on relationship/formality. Include revision tasks that improve suitability without erasing a speaker’s identity.
-7. Boundaries: do not prescribe one “correct” dialect or add advanced sociolinguistic theory.
-8. Source references: IXL Australia Year 6 English v9 alignment; Khan Academy 6th Grade Reading & Vocabulary, Unit 1, Close reading: informational text.
-RESEARCH STATUS: CONTINUING.
+1. Curriculum intent: Select and explain language choices that fit formality, relationship and purpose; a language variety is not inherently better or worse outside its context.
+2. Required knowledge: register, formality, social distance, audience, purpose, tone, vocabulary, terms of address, modality and sentence choice.
+3. Prior-year foundations: identifying purpose/formality; fact/opinion and connotation.
+4. New Year 6 extension: explain a pattern of choices and its relationship effect, not just label a sentence formal/informal.
+5. IXL evidence: Year 6 v9 mapping links Which sentence is more formal?, Compare passages for tone, Distinguish facts from opinions, Describe the difference between related words, and Positive and negative connotation. Task families use short contextual excerpts and contrasting options. Traps: judging by one sophisticated word; treating informal language as incorrect.
+6. Khan evidence: 6th Grade Reading & Vocabulary, Unit 1, Making inferences in informational texts, models conclusions based on multiple textual clues plus relevant knowledge and distinguishes inference from guessing. Supplementary only, not an AC v9 map.
+7. Other sources: ABC Education author/media resources support audience and language-choice discussion; use for teaching context only.
+8. Required representations: paired email/message, dialogue, notice, meeting excerpt, spoken prompt, revision comparison.
+9. Vocabulary: register, formal, informal, social distance, audience, purpose, tone, modality, address.
+10. Easy patterns: identify a suitable wording for context; match key terms.
+11. Medium patterns: compare two choices and identify evidence.
+12. Hard patterns: revise an unsuitable message and justify changes without denigrating language varieties.
+13. Practice coverage: 48 original items across recognition, comparison, revision, evidence explanation and transfer.
+14. Test coverage: 16 independent items including an unfamiliar multi-message context.
+15. Boundaries: no prescriptive “correct dialect” claims; no advanced sociolinguistics.
+16. Source references: IXL Australia Year 6 English v9 mapping; Khan Academy 6th Grade Reading & Vocabulary Unit 1.
+RESEARCH STATUS: AUTHORING-READY
