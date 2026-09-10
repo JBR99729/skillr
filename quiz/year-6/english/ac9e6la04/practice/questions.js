@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "Use technical repetition when precision matters; use substitution only where reference remains unmistakable."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA04-P-041",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "track lexical cohesion",
+    "printable": true,
+    "type": "single",
+    "question": "Which pair most clearly creates a word association that links ideas about a harbour?",
+    "audioPrompt": "Which pair most clearly creates a word association that links ideas about a harbour?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "tide and shoreline",
+      "pencil and whisper",
+      "recipe and helmet",
+      "planet and violin"
+    ],
+    "correct": 0,
+    "explanation": "“Tide” and “shoreline” belong to the same semantic field and help maintain the harbour topic.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "“Tide” and “shoreline” belong to the same semantic field and help maintain the harbour topic.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA04-P-042",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "use deliberate repetition",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision uses repetition effectively for emphasis?",
+    "audioPrompt": "Which revision uses repetition effectively for emphasis?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "We need safer paths—safer paths for walkers, riders and families.",
+      "We need paths paths paths paths everywhere.",
+      "Paths exist. Paths are nouns. Paths rhyme with baths.",
+      "We need a route, and the weather is warm."
+    ],
+    "correct": 0,
+    "explanation": "The repeated phrase is controlled and develops the central appeal rather than sounding accidental.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The repeated phrase is controlled and develops the central appeal rather than sounding accidental.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA04-P-043",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "identify reference chain",
+    "printable": true,
+    "type": "single",
+    "question": "In “Aisha found an injured magpie. The bird remained calm while she called a carer,” which words form a cohesive chain?",
+    "audioPrompt": "In “Aisha found an injured magpie. The bird remained calm while she called a carer,” which words form a cohesive chain?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "magpie—bird—she",
+      "found—while—called",
+      "injured—calm—carer",
+      "Aisha—magpie—called"
+    ],
+    "correct": 0,
+    "explanation": "“Magpie” and “the bird” track the animal, while “she” refers back to Aisha.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "“Magpie” and “the bird” track the animal, while “she” refers back to Aisha.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA04-P-044",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "avoid vague substitution",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence repairs the vague wording in “The machine entered the tunnel. This made it difficult”?",
+    "audioPrompt": "Which sentence repairs the vague wording in “The machine entered the tunnel. This made it difficult”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The machine’s width made movement through the narrow tunnel difficult.",
+      "The machine entered it, and this was that.",
+      "Something about the machine was difficult.",
+      "The tunnel did a thing to it."
+    ],
+    "correct": 0,
+    "explanation": "The revision names the exact association—width and narrowness—so the connection is clear.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The revision names the exact association—width and narrowness—so the connection is clear.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA04-P-045",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "build synonym chain",
+    "printable": true,
+    "type": "single",
+    "question": "Which sequence maintains a topic without awkward repetition?",
+    "audioPrompt": "Which sequence maintains a topic without awkward repetition?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "the expedition—the journey—the venture",
+      "the expedition—the sandwich—the venture",
+      "the expedition—the expeditionary—the expeditious",
+      "the expedition—it—things"
+    ],
+    "correct": 0,
+    "explanation": "The near-synonyms create a coherent lexical chain while preserving the same referent.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The near-synonyms create a coherent lexical chain while preserving the same referent.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA04-P-046",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "use antonym contrast",
+    "printable": true,
+    "type": "single",
+    "question": "How does “The valley seemed silent by day but thunderous after dark” create cohesion?",
+    "audioPrompt": "How does “The valley seemed silent by day but thunderous after dark” create cohesion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The antonyms organise a contrast around the same setting.",
+      "The adjectives introduce unrelated topics.",
+      "The conjunction removes the contrast.",
+      "The sentence has no word association."
+    ],
+    "correct": 0,
+    "explanation": "“Silent” and “thunderous” form an opposing pair that links the two time phases.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "“Silent” and “thunderous” form an opposing pair that links the two time phases.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA04-P-047",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "diagnose over-repetition",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best improves “The robot moved. The robot stopped. The robot turned”?",
+    "audioPrompt": "Which revision best improves “The robot moved. The robot stopped. The robot turned”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The robot moved, stopped and then turned.",
+      "It moved. Something stopped. They turned.",
+      "The machine moved. The device stopped. The invention turned.",
+      "The robot, robotically robotic, moved."
+    ],
+    "correct": 0,
+    "explanation": "Combining the actions keeps the participant clear and removes mechanical repetition.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "Combining the actions keeps the participant clear and removes mechanical repetition.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA04-P-048",
+    "curriculumCode": "AC9E6LA04",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choose associative vocabulary",
+    "printable": true,
+    "type": "single",
+    "question": "A paragraph explains bushfire recovery. Which set best strengthens cohesion?",
+    "audioPrompt": "A paragraph explains bushfire recovery. Which set best strengthens cohesion?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "regrowth, seedlings, habitat, recovery",
+      "regrowth, keyboard, orbit, recipe",
+      "fast, blue, perhaps, under",
+      "fire, firefighter, firefly, firewall"
+    ],
+    "correct": 0,
+    "explanation": "The first set forms a meaningful recovery-and-ecosystem semantic field.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The first set forms a meaningful recovery-and-ecosystem semantic field.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
