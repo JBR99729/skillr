@@ -2,9 +2,9 @@
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9E6LA03
-LAST_COMPLETED_CODE: AC9E6LA02
-NEXT_CODE: AC9E6LA04
+CURRENT_CODE: AC9E6LA04
+LAST_COMPLETED_CODE: AC9E6LA03
+NEXT_CODE: AC9E6LA05
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
@@ -13,42 +13,36 @@ CURRICULUM CODE SEQUENCE
 AC9E6LA01, AC9E6LA02, AC9E6LA03, AC9E6LA04, AC9E6LA05, AC9E6LA06, AC9E6LA07, AC9E6LA08, AC9E6LA09, AC9E6LE01, AC9E6LE02, AC9E6LE03, AC9E6LE04, AC9E6LE05, AC9E6LY01, AC9E6LY02, AC9E6LY03, AC9E6LY04, AC9E6LY05, AC9E6LY06, AC9E6LY07, AC9E6LY08, AC9E6LY09.
 
 SOURCE EVIDENCE
-- IXL Australia National curriculum > English > Year 6, Australian Curriculum v9.0. Authenticated Parent profile available; one IXL tab only.
-- Khan Academy authenticated account available; one Khan tab only. It does not map to Australian Curriculum v9 codes, so it is supplementary only.
-- ABC Education and other public resources are scope/context sources only. All SkillrHub content must be original.
+- IXL Australia v9 Year 6 English mapping and interactive worked examples. One IXL tab only.
+- Khan Academy authenticated account available; one Khan tab only. No Australian Curriculum v9 mapping.
+- Public resources provide scope/context only. All SkillrHub content original.
 
 ==================================================
 CODE: AC9E6LA01
 DESCRIPTOR: Understand that language varies as levels of formality and social distance increase.
 STATUS: AUTHORING-READY
 ==================================================
-Curriculum intent: Select and explain language choices that fit formality, relationship and purpose; a language variety is not inherently better or worse outside its context.
-Knowledge/skills: register, formality, social distance, audience, purpose, tone, modality and evidence-based explanation.
-IXL evidence: Which sentence is more formal?, Compare passages for tone, Distinguish facts from opinions, Describe the difference between related words, Positive and negative connotation.
-Khan evidence: 6th Grade Reading & Vocabulary Unit 1 “Making inferences in informational texts” models conclusions from text clues, not guesses; supplementary only.
-Misconceptions: decide formality from one word; call informal varieties incorrect.
-Coverage: paired messages, dialogue, notices, spoken prompts and revision comparisons; 48 practice and 16 independent test questions.
-Boundary: no prescriptive “correct dialect” claims.
-RESEARCH STATUS: AUTHORING-READY
+Scope: register, formality, social distance, audience, purpose, tone, modality and evidence-based explanation. IXL: formality, tone, fact/opinion, related-word difference and connotation. Khan: inference from textual clues, supplementary only. Traps: one-word judgements and calling informal varieties incorrect. Build original paired messages/dialogue/notices, revision and justification tasks; 48 practice/16 separate test. Boundary: no prescriptive dialect claims.
 
 ==================================================
 CODE: AC9E6LA02
 DESCRIPTOR: Understand the uses of objective and subjective language, and identify bias.
 STATUS: AUTHORING-READY
 ==================================================
-1. Curriculum intent: distinguish verifiable/objective wording from evaluative/subjective wording, identify how selection and wording can create bias, and explain their effect on a reader.
-2. Required knowledge: fact, opinion, objective, subjective, evaluative language, connotation, bias, claim, evidence, source, audience.
-3. Prior-year foundations: Year 5 fact/opinion and formal language; extend to deliberate wording/omission and fairness.
-4. IXL mapping/evidence: v9 map links Which sentence is more formal?, Compare passages for tone, Distinguish facts from opinions, Describe the difference between related words, and Positive and negative connotation. Worked example opened for Distinguish facts from opinions: it contrasts a research-verifiable film description with an evaluative claim and explains that evaluative wording signals belief rather than proof. Pattern: select/explain a statement using verifiability, not topic familiarity.
-5. Khan Academy: supplementary reading/vocabulary course supports evidence-based inference; SOURCE-NOT-MAPPED for AC v9 bias/subjective-language descriptor.
-6. Other resource direction: use original headline, review, advertisement, report and social-post excerpts; ABC media-literacy resources can inform teaching context but must not be copied.
-7. Misconceptions/traps: objective tone does not guarantee absence of bias; a fact can be selectively chosen; emotive language is not evidence; a claim may be plausible but still subjective.
-8. Required representations: paired headlines, source extract comparison, adjective/connotation scale, evidence table, revised neutral wording.
-9. Easy patterns: classify objective/subjctive wording; identify an evaluative word.
-10. Medium patterns: compare tone/connotation and select evidence for a stated claim.
-11. Hard patterns: identify a biasing omission/selection, rewrite for greater balance, explain reader effect with evidence.
-12. Practice-bank requirement: 48 original items across classification, connotation, source comparison, revision, bias explanation and unfamiliar contexts.
-13. Test-bank requirement: 16 separate questions including a short paired-text analysis; no copied source material.
-14. Boundaries: do not demand formal media-studies terminology beyond bias/objective/subjective/evidence; distinguish bias from a merely stated opinion.
-15. Source references: IXL Australia Year 6 English v9 mapping and worked example; Khan Academy Year 6 reading course (supplementary only).
+Scope: fact, opinion, objective/subjective wording, evaluative language, connotation, bias, claim and evidence. IXL worked example checked: facts are verifiable; evaluative wording signals an opinion. Traps: objective tone can still select biased facts; plausible is not the same as verifiable; emotive wording is not evidence. Build original headline/review/report/social-post comparisons, connotation scales, neutral revision and reader-effect explanation; 48 practice/16 separate test. Boundary: bias is not merely any stated opinion.
+
+==================================================
+CODE: AC9E6LA03
+DESCRIPTOR: Explain how texts across the curriculum are typically organised into characteristic stages and phases depending on purposes, recognising how authors often adapt text structures and language features.
+STATUS: AUTHORING-READY
+==================================================
+1. Intent: explain why a purpose-led text uses particular stages, structures and language features; recognise adaptation rather than applying a rigid formula.
+2. Knowledge: purpose, audience, stage, phase, introduction, development, conclusion, sequence, cause/effect, compare/contrast, problem/solution, feature, cohesion.
+3. IXL mapping: formality/tone/purpose; compare/contrast; cause/effect; problem/solution; identify text structures; figure-of-speech effect; compare genres.
+4. Worked example checked: IXL “Identify text structures” uses an informational health passage. The explanation identifies cause/effect through relationship language and represents it in a cause/effect table. It contrasts the structural signals for cause/effect, compare/contrast, problem/solution and sequence.
+5. Misconceptions: identify one connective then ignore the whole-text relationship; assume every text fits one pure structure; confuse topic with purpose.
+6. Representations: annotated text, stage/phase flow, structure-signal table, two genre versions of one topic, paragraph reorder.
+7. Coverage: identify/justify structure; match purpose to stages; compare adapted structures; revise for clearer staging; use language evidence. 48 practice and 16 independent test items must include literary, informative and persuasive texts.
+8. Boundary: do not require a fixed five-paragraph formula or advanced discourse analysis.
+9. Sources: IXL Australia Year 6 v9 mapping and E.4 worked example; Khan supplementary reading course.
 RESEARCH STATUS: AUTHORING-READY
