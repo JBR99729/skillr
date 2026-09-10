@@ -1,4 +1,4 @@
-name: Year 7 Maths final close v4 2026-09-10
+name: Year 7 Maths final close v5 2026-09-10
 on:
   push:
     branches: [main]
@@ -25,16 +25,13 @@ jobs:
           for line in src[start:end].splitlines():
               lines.append(line[10:] if line.startswith('          ') else line)
           js='\n'.join(lines)+'\n'
-          # Current repo only. Candidate inventory already proved 21/30 have sufficient current authored material.
           a=js.index("const refs=")
           b=js.index(";",a)+1
           js=js[:a]+"const refs=['HEAD'];"+js[b:]
-          # Use the exact VM pattern proven by the N07 diagnostics: window aliases the context itself.
           old="function jsItems(text,file){if(!text)return[];const ctx={window:{},console};vm.createContext(ctx);try{vm.runInContext(text,ctx,{filename,timeout:3000})}catch{return[]};const vals=[];for(const v of Object.values(ctx.window))if(Array.isArray(v))vals.push(...v);if(Array.isArray(ctx.quizQuestions))vals.push(...ctx.quizQuestions);return vals.filter(x=>x&&typeof x==='object')}"
-          new="function jsItems(text,file){if(!text)return[];const ctx={console};ctx.window=ctx;vm.createContext(ctx);try{vm.runInContext(text,ctx,{filename,timeout:3000})}catch(e){console.error('VMFAIL',file,e.message);return[]};const vals=[];for(const v of Object.values(ctx))if(Array.isArray(v))vals.push(...v);return vals.filter(x=>x&&typeof x==='object')}"
+          new="function jsItems(text,file){if(!text)return[];const ctx={console};ctx.window=ctx;vm.createContext(ctx);try{vm.runInContext(text,ctx,{filename:file,timeout:3000})}catch(e){console.error('VMFAIL',file,e.message);return[]};const vals=[];for(const v of Object.values(ctx))if(Array.isArray(v))vals.push(...v);return vals.filter(x=>x&&typeof x==='object')}"
           if old not in js: raise SystemExit('jsItems target not found')
           js=js.replace(old,new)
-          # Remove historical git-show noise and fix one N06 duplicate-distractor fallback edge.
           js=js.replace("{encoding:'utf8',maxBuffer:20*1024*1024}","{encoding:'utf8',maxBuffer:20*1024*1024,stdio:['ignore','pipe','ignore']}")
           js=js.replace("[`${a*c}/${d*e}`,`${a+c}/${d+e}`,`${a* c}/${d*e}`]","[`${a*c}/${d*e}`,`${a+c}/${d+e}`,`${a}/${d}`]")
           Path('/tmp/y7close.js').write_text(js)
@@ -62,7 +59,7 @@ jobs:
           const codes=[...Array.from({length:9},(_,i)=>`AC9M7N${String(i+1).padStart(2,'0')}`),...Array.from({length:6},(_,i)=>`AC9M7A${String(i+1).padStart(2,'0')}`),...Array.from({length:6},(_,i)=>`AC9M7M${String(i+1).padStart(2,'0')}`),...Array.from({length:4},(_,i)=>`AC9M7SP${String(i+1).padStart(2,'0')}`),...Array.from({length:3},(_,i)=>`AC9M7ST${String(i+1).padStart(2,'0')}`),...Array.from({length:2},(_,i)=>`AC9M7P${String(i+1).padStart(2,'0')}`)];
           const norm=s=>String(s||'').toLowerCase().replace(/<[^>]+>/g,' ').replace(/[^a-z0-9%√π]+/g,' ').replace(/\s+/g,' ').trim();
           const failures=[];
-          function live(file,name){const c={};c.window=c;vm.createContext(c);vm.runInContext(fs.readFileSync(file,'utf8'),c);return c[name]||c.quizQuestions||[]}
+          function live(file,name){const c={};c.window=c;vm.createContext(c);vm.runInContext(fs.readFileSync(file,'utf8'),c,{filename:file});return c[name]||c.quizQuestions||[]}
           for(const code of codes){
             const l=code.toLowerCase(),a=JSON.parse(fs.readFileSync(`assets/assessment-banks/year7/math/${l}.json`,'utf8')),P=a.filter(x=>x.bank==='practice'),T=a.filter(x=>x.bank==='test');
             const ps=P.map(x=>norm(x.question)),ts=T.map(x=>norm(x.question)),pSet=new Set(ps);
