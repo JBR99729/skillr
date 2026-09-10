@@ -5,7 +5,7 @@ Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
 CURRENT_CODE: RESEARCH-COMPLETE
-NEXT_CODE: AUTHORING-AC9E6LA01
+NEXT_CODE: AUTHORING-AC9E6LA02
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — IXL curriculum page rechecked: no mapped IXL skill; Learn-with-an-example is not applicable.
