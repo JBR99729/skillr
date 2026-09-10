@@ -1,98 +1,10 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9m6n02-p-001",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "Classify 7 as prime, composite or neither.",
-    "audioPrompt": "Classify 7 as prime, composite or neither.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {"type":"none","asset_path":"","alt_text":""},
-    "answers": ["composite", "prime", "neither"],
-    "correct": 1,
-    "explanation": "prime.\nHint: Use factors, prime-factor structure or square-number reasoning. Check special cases such as 1 and 2.",
-    "structuredExplanation": {"summary":"prime.","hint":"Use factors, prime-factor structure or square-number reasoning. Check special cases such as 1 and 2."},
-    "qualitySchema": "production-v1",
-    "difficulty": "easy"
-  },
-  {
-    "id": "ac9m6n02-p-002",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "Classify 10 as prime, composite or neither.",
-    "audioPrompt": "Classify 10 as prime, composite or neither.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {"type":"none","asset_path":"","alt_text":""},
-    "answers": ["prime", "neither", "composite"],
-    "correct": 2,
-    "explanation": "composite.\nHint: Use factors, prime-factor structure or square-number reasoning. Check special cases such as 1 and 2.",
-    "structuredExplanation": {"summary":"composite.","hint":"Use factors, prime-factor structure or square-number reasoning. Check special cases such as 1 and 2."},
-    "qualitySchema": "production-v1",
-    "difficulty": "easy"
-  },
-  {
-    "id": "ac9m6n02-p-003",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "Classify 1 as prime, composite or neither.",
-    "audioPrompt": "Classify 1 as prime, composite or neither.",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {"type":"none","asset_path":"","alt_text":""},
-    "answers": ["neither", "composite", "prime"],
-    "correct": 0,
-    "explanation": "neither.\nHint: Use factors, prime-factor structure or square-number reasoning. Check special cases such as 1 and 2.",
-    "structuredExplanation": {"summary":"neither.","hint":"Use factors, prime-factor structure or square-number reasoning. Check special cases such as 1 and 2."},
-    "qualitySchema": "production-v1",
-    "difficulty": "easy"
-  },
-  {
-    "id": "ac9m6n02-p-004",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "Which number is prime: 8, 11, 14, 20?",
-    "audioPrompt": "Which number is prime: 8, 11, 14, 20?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {"type":"none","asset_path":"","alt_text":""},
-    "answers": ["21", "11", "25"],
-    "correct": 1,
-    "explanation": "11.\nHint: Use factors, prime-factor structure or square-number reasoning. Check special cases such as 1 and 2.",
-    "structuredExplanation": {"summary":"11.","hint":"Use factors, prime-factor structure or square-number reasoning. Check special cases such as 1 and 2."},
-    "qualitySchema": "production-v1",
-    "difficulty": "easy"
-  },
-  {
-    "id": "ac9m6n02-p-005",
-    "curriculumCode": "AC9M6N02",
-    "bank": "practice",
-    "skill": "prime composite and square numbers",
-    "printable": true,
-    "type": "single",
-    "question": "Which number is composite: 13, 17, 19, 21?",
-    "audioPrompt": "Which number is composite: 13, 17, 19, 21?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {"type":"none","asset_path":"","alt_text":""},
-    "answers": ["36", "21", "49"],
-    "correct": 1,
-    "explanation": "21.\nHint: Use factors, prime-factor structure or square-number reasoning. Check special cases such as 1 and 2.",
-    "structuredExplanation": {"summary":"21.","hint":"Use factors, prime-factor structure or square-number reasoning. Check special cases such as 1 and 2."},
-    "qualitySchema": "production-v1",
-    "difficulty": "easy"
-  }
-];
+(()=>{
+const D=[["Easy","Classify 7 as prime, composite or neither.","prime"],["Easy","Classify 10 as prime, composite or neither.","composite"],["Easy","Classify 1 as prime, composite or neither.","neither"],["Easy","Which number is prime: 8, 11, 14, 20?","11"],["Easy","Which number is composite: 13, 17, 19, 21?","21"],["Easy","Select all primes: 2, 3, 6, 9.","2, 3"],["Easy","Select all composites: 4, 5, 8, 11.","4, 8"],["Easy","Which is a factor of 18: 4, 6, 7, 8?","6"],["Easy","Give one factor of 20 other than 1 and 20.","2, 4, 5 or 10"],["Easy","Complete 5 × 5.","25"],["Easy","Complete 9 × 9.","81"],["Easy","Which is a square number: 18, 25, 30, 40?","25"],["Medium","List all factors of 28.","1,2,4,7,14,28"],["Medium","List all unique factor pairs of 32.","1×32, 2×16, 4×8"],["Medium","Classify 49 and give one reason.","composite and square; 7×7"],["Medium","Classify 37 and justify using factors.","prime; only factors 1 and 37"],["Medium","Prime-factorise 20.","2×2×5"],["Medium","Prime-factorise 27.","3×3×3"],["Medium","Prime-factorise 42.","2×3×7"],["Medium","Which is a complete prime factorisation of 24: 2×12, 2×2×6, 2×2×2×3, 3×8?","2×2×2×3"],["Medium","Find the missing prime factor: 30 = 2 × 3 × ___.","5"],["Medium","Which has more factors, 16 or 17?","16"],["Medium","List all square numbers between 20 and 70.","25,36,49,64"],["Medium","Is 91 prime or composite? Give a factor-based reason.","composite; 7×13"],["Hard","Which number is prime: 57, 59, 63, 69? Show efficient elimination.","59"],["Hard","Find all factors of 60 and state how many factors it has.","1,2,3,4,5,6,10,12,15,20,30,60; 12 factors"],["Hard","A student says 2×2×15 is the prime factorisation of 60. Diagnose the error and correct it.","15 is composite; 2×2×3×5"],["Hard","Find a number between 30 and 50 that is both odd and square.","49"],["Hard","Find a number less than 50 that has exactly three positive factors and is a square number.","e.g. 4, 9, 25, 49"],["Hard","Which has more unique factor pairs: 36 or 40? Show them.","36 has 5; 40 has 4"],["Hard","Use prime factors to decide whether 84 is divisible by 6.","yes; 84=2×2×3×7 contains 2×3"],["Hard","A number has prime factorisation 2×2×3×5. What is the number?","60"],["Hard","A square number has side length 12 in an array. How many objects are in the array?","144"],["Hard","Explain why 87 is composite without listing all factors.","digit sum 15, so divisible by 3"],["Hard","Find the smallest composite number greater than 20 that is also a square number.","25"],["Hard","Which statement is always true: A) odd means prime B) prime means odd C) an even number greater than 2 is composite D) square means prime?","C"],["Super Hard","Find the smallest number greater than 50 that is both a square number and composite.","64"],["Super Hard","A number between 70 and 90 is odd, composite and divisible by 7. Give all possible numbers.","77"],["Super Hard","Find a two-digit number that is a square, has exactly three positive factors, and is greater than 20.","25 or 49"],["Super Hard","A number has exactly the factor pairs 1×p and no others. What can you conclude about p? Explain.","p is prime"],["Super Hard","Without fully factorising, explain why 143 is composite.","11×13=143"],["Super Hard","The prime factorisation of N is 2×2×2×3×3. Find N and decide whether N is a square.","72; not a square"],["Super Hard","Find the smallest number that is divisible by 2, 3 and 5 and has no prime factors other than 2, 3 and 5.","30"],["Super Hard","A student claims 121 is prime because it is odd and not divisible by 3 or 5. Explain why the test is incomplete and classify 121.","11×11; composite and square"],["Super Hard","Find a square number between 80 and 130 and give its complete prime factorisation.","81=3×3×3×3, 100=2×2×5×5, or 121=11×11"],["Super Hard","Which number has exactly three positive factors: 16, 25, 27, 32? Justify.","25; factors 1,5,25"],["Super Hard","A number is less than 100, divisible by 6, and has prime factorisation containing exactly three prime factors counted with repetition. Give two possible numbers.","e.g. 12=2×2×3 and 18=2×3×3"],["Super Hard","Explain why a prime number greater than 2 can never be a square number.","any square n² with n>1 has at least 1,n,n² as factors"]];
+const F=["1 is prime.","Every odd number is prime.","Squaring means doubling.","Not enough information."];
+const H="Use factors, prime-factor structure or square-number reasoning.";
+const C=a=>a.includes("$")?"money":a.includes("/")&&a.length<90?"fraction":/^-?[\d,.]+(?:\s*(?:km|m|L|cm|mm))?$/.test(a)?"number":a.length<45?"short":"long";
+const pool=c=>D.map(x=>x[2]).filter(a=>C(a)===c);
+const make=(x,i)=>{const [level,q,a]=x,c=C(a),p=pool(c).filter(v=>v!==a),w=[];for(const v of [...p,...F])if(v!==a&&!w.includes(v))w.push(v);const d1=w[(i*3)%w.length],d2=w[(i*7+1)%w.length]===d1?w[(i*7+2)%w.length]:w[(i*7+1)%w.length];let answers=[a,d1,d2];const r=(i*5+1)%3;answers=[...answers.slice(r),...answers.slice(0,r)];const correct=answers.indexOf(a),summary=a.endsWith(".")?a:a+".";return{id:"ac9m6n02-p-"+String(i+1).padStart(3,"0"),curriculumCode:"AC9M6N02",bank:"practice",skill:"prime composite and square numbers",printable:true,type:"single",question:q,audioPrompt:q,visual:"",visualHtml:"",visualMeta:{type:"none",asset_path:"",alt_text:""},answers,correct,explanation:summary+"\nHint: "+H,structuredExplanation:{summary,hint:H},qualitySchema:"production-v1",...(level?{difficulty:level.toLowerCase().replace(/ /g,"-")}:{})};};
+window.skillrPracticeQuestions=D.map(make);
+})();
