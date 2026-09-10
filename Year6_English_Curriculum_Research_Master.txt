@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LA07
-NEXT_CODE: AC9E6LA08
+CURRENT_CODE: AC9E6LA08
+NEXT_CODE: AC9E6LA09
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -413,3 +413,153 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 All mapped IXL skills are interactively verified at representative pattern level. Khan contributes the conceptual aspect/comparison sequence, and the Australian elaborations supply the essential verb-choice and adverb-group effect depth that benchmark grammar items do not cover.
+
+
+==================================================
+CODE: AC9E6LA07
+DESCRIPTOR: Identify and explain how images, figures, tables, diagrams, maps and graphs contribute to meaning.
+==================================================
+
+IXL MAPPINGS:
+IXL STATUS: NOT MAPPED on the inspected Year 6 Australian Curriculum v9 alignment. No IXL skill is represented as interactive evidence for this code.
+
+IXL SKILLS INVESTIGATED:
+None. This descriptor requires integrated visual-text interpretation rather than an inferred grammar or mathematics substitute.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+Not applicable.
+
+IXL DIFFICULTY PROGRESSION:
+Not applicable. Original authoring progression is derived from the curriculum requirement and inspected free resources below.
+
+IXL MISCONCEPTIONS/TRAPS:
+- Treating a visual as decoration rather than evidence.
+- Reading a graph numerically without explaining its contribution to the surrounding text.
+- Assuming an IXL mathematics graph-reading skill would fully address the English-language meaning-making requirement.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+Not applicable.
+
+KHAN MAPPINGS:
+KHAN STATUS: NOT MAPPED / NOT MATERIAL.
+Khan graph and map lessons primarily teach mathematical or geographic procedures, not how visual elements interact with prose to shape meaning in a Year 6 English text. No forced mapping is used.
+
+KHAN EVIDENCE:
+No materially aligned English lesson or exercise was identified.
+
+OTHER FREE SOURCES:
+- Australian Curriculum v9 descriptor AC9E6LA07, cross-checked through indexed Australian Curriculum browser records.
+- ABC Education, “MathXplosion, Ep 33: On the grid” (Years 5–6), inspected as a representative free Australian multimodal resource combining spoken explanation, a treasure-map image, grids, labelled axes, ordered pairs and intersection points.
+- ABC Education resource metadata and copyright statement were inspected; source content is for analysis and linking, not wholesale republication.
+
+FREE-SOURCE EVIDENCE:
+- The ABC resource demonstrates that a map/grid can convey spatial relationships and exact locations more efficiently than prose alone; labels, axes and symbols must be interpreted together.
+- Its short-video format also shows multimodal sequencing: narration directs attention while the image supplies the spatial representation.
+- This supports original questions asking what information is added, clarified, summarised, compared or made easier to locate by a visual.
+- Curriculum depth must include cross-checking prose, captions, keys, headings, scales and visual data; noticing agreement, omission or contradiction; and explaining why the author selected a representation.
+- Suitable teaching moves are notice–name–connect–explain: notice a feature, name the representation/convention, connect it to a textual claim, then explain its effect on meaning.
+- Free access does not confer permission to republish ABC video frames or wording. SkillrHub assets and datasets must be original.
+
+CURRICULUM REQUIREMENTS:
+- Identify the type and purpose of images, figures, tables, diagrams, maps and graphs.
+- Read titles, captions, labels, keys/legends, scales, axes, arrows, colour coding and layout.
+- Retrieve and infer information from a representation.
+- Integrate visual information with nearby prose rather than treating modes separately.
+- Explain contribution to meaning: illustrate, locate, sequence, classify, compare, quantify, summarise, show relationship, clarify a process, evoke a response or supply evidence.
+- Evaluate relevance, clarity, limitations and possible misleading choices at an age-appropriate level.
+- Select or design an appropriate representation for a communication purpose.
+
+PREREQUISITES:
+Literal comprehension; headings/captions; basic tables and common graph types; map keys and scale awareness; labelled diagrams; sequence/cause-and-effect; compare/contrast; distinguishing observation from inference.
+
+NEW YEAR-6 DEPTH:
+- Move from reading a visual to explaining its relationship with written claims.
+- Compare what prose and visuals each contribute and what would be lost if one were removed.
+- Synthesise across two representations.
+- Detect inconsistencies, selective scales, missing labels or decorative images that add little information.
+- Justify the best representation for audience and purpose.
+
+VOCABULARY:
+multimodal; representation; image; figure; table; diagram; map; graph; caption; label; legend/key; scale; axis; symbol; data; trend; distribution; sequence; spatial relationship; evidence; clarify; summarise; emphasise; complement; contradict; omission; audience; purpose.
+
+REPRESENTATIONS:
+- Original photographs/illustrations paired with captions.
+- Tables, bar/line graphs and simple pictographs using original data.
+- Process, cycle, cause-effect and labelled-part diagrams.
+- Route, thematic and grid maps with original places/data.
+- Short information reports, news-style passages and explanations containing integrated visuals.
+- Side-by-side alternative representations and flawed/misleading examples.
+
+COMMON MISCONCEPTIONS:
+- Every image adds factual information.
+- A caption merely repeats the image.
+- The tallest-looking bar always represents the greatest meaningful difference.
+- All maps show distance and direction at the same scale.
+- A graph proves causation.
+- One data point establishes a trend.
+- Visual information overrides contradictory prose automatically.
+- Explaining contribution means restating the visible content without naming its effect.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+- Six representation families and their common conventions.
+- A repeatable visual-text integration strategy.
+- Worked examples explaining contribution, not merely retrieving facts.
+- Caption/key/axis/scale reading.
+- Complement, extend, summarise, emphasise and contradict relationships.
+- Relevance, omission and misleading-design checks.
+- Choosing a representation for audience and purpose.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+- Learning intention and contribution-to-meaning success criteria.
+- Visual notice-and-wonder warm-up.
+- Teacher think-aloud connecting one visual feature to one textual claim.
+- Guided jigsaw across image, table, diagram, map and graph stations.
+- Pair explanations using evidence sentence stems.
+- Support/core/extension tasks and an exit explanation.
+
+REQUIRED WORKSHEET COVERAGE:
+- Match representation to purpose.
+- Read conventions and retrieve evidence.
+- Complete missing captions, labels, legends or headings.
+- Connect visual evidence to prose claims.
+- Compare two representations of the same original information.
+- Diagnose an unclear or misleading visual.
+- Choose/design a representation and justify its contribution.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+- 6 image/caption contribution items.
+- 6 table interpretation/integration items.
+- 8 diagram/process/relationship items.
+- 8 map/key/scale/spatial-meaning items.
+- 8 graph/trend/comparison items.
+- 6 cross-modal agreement, omission or contradiction items.
+- 4 choose-the-best-representation items.
+- 2 short constructed explanations/design tasks.
+Total: 48 original items using original visuals and datasets.
+
+16-TEST-BANK COVERAGE PLAN:
+- 2 image/caption items.
+- 2 table items.
+- 3 diagram items.
+- 3 map items.
+- 3 graph items.
+- 2 cross-modal synthesis/evaluation items.
+- 1 independent representation-choice explanation.
+Total: 16 independent original items, with new contexts and no practice duplicates.
+
+CONTENT BOUNDARIES:
+- This is English visual literacy, not a substitute mathematics unit.
+- Numerical calculations should remain simple and serve interpretation.
+- Include informative, persuasive and imaginative contexts, not graphs alone.
+- Do not use copyrighted screenshots, video frames, proprietary maps or source questions.
+- Use original data and visuals with readable labels and accessible colour contrast.
+- Do not claim IXL or Khan verification where no material mapping exists.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/standards/english/year-6
+- https://www.abc.net.au/education/mathxplosion-ep-33-on-the-grid-video/13583534
+- Australian Curriculum v9 AC9E6LA07 descriptor (official curriculum wording; cross-checked through indexed curriculum browser records)
+
+RESEARCH STATUS:
+AUTHORING-READY.
+There is no material IXL/Khan mapping to investigate. The descriptor, Australian multimodal example and explicit visual-literacy synthesis establish sufficient scope, progression, misconceptions, representations and bank coverage for original authoring.
