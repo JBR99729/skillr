@@ -1,0 +1,1211 @@
+SKILLRHUB YEAR 6 MATHEMATICS — ALL COMMITTED QUESTIONS
+========================================================================
+Source branch: main
+Source commit: bf27d920a27ae8e4132dd88694ff7bf7711f02e0
+Canonical source: assets/assessment-banks/year6/math/*.json
+Curriculum codes: 24
+Practice questions: 576
+Test questions: 384
+Total questions: 960
+
+
+
+AC9M6A01
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6a01-p-001] [] During a class investigation, a student reasons, “Rule describes only the next term”. Which response corrects the error?
+02. [ac9m6a01-p-002] [] At the school market, a student reasons, “Constant part omitted”. Which response corrects the error?
+03. [ac9m6a01-p-003] [] While planning a garden, a student reasons, “Rule accepted from two terms only”. Which response corrects the error?
+04. [ac9m6a01-p-004] [] In a robotics challenge, a student reasons, “Term number confused with term value”. Which response corrects the error?
+05. [ac9m6a01-p-005] [] During sports-day planning, a Growing Patterns and Rational-number Rules organiser labels a row “tiles”. Which entry belongs in that row?
+06. [ac9m6a01-p-006] [] At a wildlife centre, a Growing Patterns and Rational-number Rules organiser labels a row “growth”. Which entry belongs in that row?
+07. [ac9m6a01-p-007] [] While checking a map, a Growing Patterns and Rational-number Rules organiser labels a row “3/4, 1, 1 1/4, 1 1/2”. Which entry belongs in that row?
+08. [ac9m6a01-p-008] [] In the makerspace, a Growing Patterns and Rational-number Rules organiser labels a row “visual border growth”. Which entry belongs in that row?
+09. [ac9m6a01-p-009] [] During a cooking project, a Growing Patterns and Rational-number Rules organiser labels a row “digital table”. Which entry belongs in that row?
+10. [ac9m6a01-p-010] [] At the community fair, Which direct rule generates 5, 8, 11, 14 for n = 1,2,3,4?
+11. [ac9m6a01-p-011] [] While organising a library display, What is term 20 of 3n + 2?
+12. [ac9m6a01-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Rule describes only the next term”. Which response corrects the error?
+13. [ac9m6a01-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Constant part omitted”. Which response corrects the error?
+14. [ac9m6a01-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Rule accepted from two terms only”. Which response corrects the error?
+15. [ac9m6a01-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Term number confused with term value”. Which response corrects the error?
+16. [ac9m6a01-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Growing Patterns and Rational-number Rules organiser labels a row “tiles”. Which entry belongs in that row?
+17. [ac9m6a01-p-017] [] During a building project. The quantities or representation come from a fresh example. a Growing Patterns and Rational-number Rules organiser labels a row “growth”. Which entry belongs in that row?
+18. [ac9m6a01-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Growing Patterns and Rational-number Rules organiser labels a row “3/4, 1, 1 1/4, 1 1/2”. Which entry belongs in that row?
+19. [ac9m6a01-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Growing Patterns and Rational-number Rules organiser labels a row “visual border growth”. Which entry belongs in that row?
+20. [ac9m6a01-p-020] [] In a games club. The quantities or representation come from a fresh example. a Growing Patterns and Rational-number Rules organiser labels a row “digital table”. Which entry belongs in that row?
+21. [ac9m6a01-p-021] [] During an art project. The quantities or representation come from a fresh example. Which direct rule generates 5, 8, 11, 14 for n = 1,2,3,4?
+22. [ac9m6a01-p-022] [] At the recycling station. The quantities or representation come from a fresh example. What is term 20 of 3n + 2?
+23. [ac9m6a01-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Rule describes only the next term”. Which response corrects the error?
+24. [ac9m6a01-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Constant part omitted”. Which response corrects the error?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6a01-t-001] [] At a coastal research station, another student selected “60”. Reconsider the evidence: What is term 20 of 3n + 2?
+02. [ac9m6a01-t-002] [] During a museum challenge, another student selected “3n”. Reconsider the evidence: Which direct rule generates 5, 8, 11, 14 for n = 1,2,3,4?
+03. [ac9m6a01-t-003] [] While planning a charity event, a Growing Patterns and Rational-number Rules organiser contains “test many terms after defining rule”. Which heading best identifies that information?
+04. [ac9m6a01-t-004] [] In an engineering workshop, a Growing Patterns and Rational-number Rules organiser contains “count repeated section plus fixed corners”. Which heading best identifies that information?
+05. [ac9m6a01-t-005] [] At a regional sports carnival, a Growing Patterns and Rational-number Rules organiser contains “add 1/4; term = n/4 + 1/2”. Which heading best identifies that information?
+06. [ac9m6a01-t-006] [] During a farm survey, a Growing Patterns and Rational-number Rules organiser contains “; +3; +3; +3; constant +3”. Which heading best identifies that information?
+07. [ac9m6a01-t-007] [] While interpreting a trail guide, a Growing Patterns and Rational-number Rules organiser contains “5; 8; 11; 14; 3n + 2”. Which heading best identifies that information?
+08. [ac9m6a01-t-008] [] In an architecture studio, a review recommends, “Keep input n separate from output.” Which claim most clearly needs that correction?
+09. [ac9m6a01-t-009] [] During a food-truck project, a review recommends, “Test several terms and the visual structure.” Which claim most clearly needs that correction?
+10. [ac9m6a01-t-010] [] At a music festival, a review recommends, “Visual patterns often contain repeated growth plus fixed pieces.” Which claim most clearly needs that correction?
+11. [ac9m6a01-t-011] [] While organising a book drive, a review recommends, “A direct rule should work for any term number.” Which claim most clearly needs that correction?
+12. [ac9m6a01-t-012] [] In an environmental study. The quantities or representation come from a fresh example. another student selected “60”. Reconsider the evidence: What is term 20 of 3n + 2?
+13. [ac9m6a01-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. another student selected “3n”. Reconsider the evidence: Which direct rule generates 5, 8, 11, 14 for n = 1,2,3,4?
+14. [ac9m6a01-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Growing Patterns and Rational-number Rules organiser contains “test many terms after defining rule”. Which heading best identifies that information?
+15. [ac9m6a01-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a Growing Patterns and Rational-number Rules organiser contains “count repeated section plus fixed corners”. Which heading best identifies that information?
+16. [ac9m6a01-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Growing Patterns and Rational-number Rules organiser contains “add 1/4; term = n/4 + 1/2”. Which heading best identifies that information?
+
+AC9M6A02
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6a02-p-001] [] During a class investigation, a student reasons, “Operations undone in written order”. Which response corrects the error?
+02. [ac9m6a02-p-002] [] At the school market, a student reasons, “Bracket ignored”. Which response corrects the error?
+03. [ac9m6a02-p-003] [] While planning a garden, a student reasons, “Subtraction assumed commutative”. Which response corrects the error?
+04. [ac9m6a02-p-004] [] In a robotics challenge, a student reasons, “Check performed on a simplified but altered equation”. Which response corrects the error?
+05. [ac9m6a02-p-005] [] During sports-day planning, a Unknown Values with Brackets and Mixed Operations organiser labels a row “Undo ×4”. Which entry belongs in that row?
+06. [ac9m6a02-p-006] [] At a wildlife centre, a Unknown Values with Brackets and Mixed Operations organiser labels a row “Undo +7”. Which entry belongs in that row?
+07. [ac9m6a02-p-007] [] While checking a map, a Unknown Values with Brackets and Mixed Operations organiser labels a row “Substitute”. Which entry belongs in that row?
+08. [ac9m6a02-p-008] [] In the makerspace, a Unknown Values with Brackets and Mixed Operations organiser labels a row “Confirm”. Which entry belongs in that row?
+09. [ac9m6a02-p-009] [] During a cooking project, a Unknown Values with Brackets and Mixed Operations organiser labels a row “3□ + 5□ = 96”. Which entry belongs in that row?
+10. [ac9m6a02-p-010] [] At the community fair, a Unknown Values with Brackets and Mixed Operations organiser labels a row “5(20 − □) = 35”. Which entry belongs in that row?
+11. [ac9m6a02-p-011] [] While organising a library display, a Unknown Values with Brackets and Mixed Operations organiser labels a row “(□ + 8) ÷ 4 = 9”. Which entry belongs in that row?
+12. [ac9m6a02-p-012] [] In a science notebook, What is the unknown in 4(□ + 7) = 100?
+13. [ac9m6a02-p-013] [] During a design challenge, What is the unknown in (□ + 8) ÷ 4 = 9?
+14. [ac9m6a02-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Operations undone in written order”. Which response corrects the error?
+15. [ac9m6a02-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Bracket ignored”. Which response corrects the error?
+16. [ac9m6a02-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Subtraction assumed commutative”. Which response corrects the error?
+17. [ac9m6a02-p-017] [] During a building project. The quantities or representation come from a fresh example. a student reasons, “Check performed on a simplified but altered equation”. Which response corrects the error?
+18. [ac9m6a02-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Unknown Values with Brackets and Mixed Operations organiser labels a row “Undo ×4”. Which entry belongs in that row?
+19. [ac9m6a02-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Unknown Values with Brackets and Mixed Operations organiser labels a row “Undo +7”. Which entry belongs in that row?
+20. [ac9m6a02-p-020] [] In a games club. The quantities or representation come from a fresh example. a Unknown Values with Brackets and Mixed Operations organiser labels a row “Substitute”. Which entry belongs in that row?
+21. [ac9m6a02-p-021] [] During an art project. The quantities or representation come from a fresh example. a Unknown Values with Brackets and Mixed Operations organiser labels a row “Confirm”. Which entry belongs in that row?
+22. [ac9m6a02-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a Unknown Values with Brackets and Mixed Operations organiser labels a row “3□ + 5□ = 96”. Which entry belongs in that row?
+23. [ac9m6a02-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Unknown Values with Brackets and Mixed Operations organiser labels a row “5(20 − □) = 35”. Which entry belongs in that row?
+24. [ac9m6a02-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Unknown Values with Brackets and Mixed Operations organiser labels a row “(□ + 8) ÷ 4 = 9”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6a02-t-001] [] At a coastal research station, another student selected “44”. Reconsider the evidence: What is the unknown in (□ + 8) ÷ 4 = 9?
+02. [ac9m6a02-t-002] [] During a museum challenge, another student selected “32”. Reconsider the evidence: What is the unknown in 4(□ + 7) = 100?
+03. [ac9m6a02-t-003] [] While planning a charity event, a Unknown Values with Brackets and Mixed Operations organiser contains “multiply by 4, then subtract 8”. Which heading best identifies that information?
+04. [ac9m6a02-t-004] [] In an engineering workshop, a Unknown Values with Brackets and Mixed Operations organiser contains “divide, then solve 20 − □ = 7”. Which heading best identifies that information?
+05. [ac9m6a02-t-005] [] At a regional sports carnival, a Unknown Values with Brackets and Mixed Operations organiser contains “combine like multiplicative groups: 8□ = 96”. Which heading best identifies that information?
+06. [ac9m6a02-t-006] [] During a farm survey, a Unknown Values with Brackets and Mixed Operations organiser contains “both sides equal”. Which heading best identifies that information?
+07. [ac9m6a02-t-007] [] While interpreting a trail guide, a Unknown Values with Brackets and Mixed Operations organiser contains “4(18 + 7) = 100”. Which heading best identifies that information?
+08. [ac9m6a02-t-008] [] In an architecture studio, a Unknown Values with Brackets and Mixed Operations organiser contains “□ = 18”. Which heading best identifies that information?
+09. [ac9m6a02-t-009] [] During a food-truck project, a Unknown Values with Brackets and Mixed Operations organiser contains “□ + 7 = 25”. Which heading best identifies that information?
+10. [ac9m6a02-t-010] [] At a music festival, a review recommends, “Substitute into the original.” Which claim most clearly needs that correction?
+11. [ac9m6a02-t-011] [] While organising a book drive, a review recommends, “20 − x is not x − 20.” Which claim most clearly needs that correction?
+12. [ac9m6a02-t-012] [] In an environmental study, a review recommends, “Treat the grouped expression as one quantity.” Which claim most clearly needs that correction?
+13. [ac9m6a02-t-013] [] During a playground redesign, a review recommends, “Undo the outer operation first.” Which claim most clearly needs that correction?
+14. [ac9m6a02-t-014] [] At a transport depot. The quantities or representation come from a fresh example. another student selected “44”. Reconsider the evidence: What is the unknown in (□ + 8) ÷ 4 = 9?
+15. [ac9m6a02-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “32”. Reconsider the evidence: What is the unknown in 4(□ + 7) = 100?
+16. [ac9m6a02-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Unknown Values with Brackets and Mixed Operations organiser contains “multiply by 4, then subtract 8”. Which heading best identifies that information?
+
+AC9M6A03
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6a03-p-001] [] During a class investigation, a student reasons, “Only the yes branch defined”. Which response corrects the error?
+02. [ac9m6a03-p-002] [] At the school market, a student reasons, “Order of operations unspecified”. Which response corrects the error?
+03. [ac9m6a03-p-003] [] While planning a garden, a student reasons, “Loop has no stopping condition”. Which response corrects the error?
+04. [ac9m6a03-p-004] [] In a robotics challenge, a student reasons, “Output pattern described without input rule”. Which response corrects the error?
+05. [ac9m6a03-p-005] [] During sports-day planning, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Decision”. Which entry belongs in that row?
+06. [ac9m6a03-p-006] [] At a wildlife centre, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Even branch”. Which entry belongs in that row?
+07. [ac9m6a03-p-007] [] While checking a map, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Odd branch”. Which entry belongs in that row?
+08. [ac9m6a03-p-008] [] In the makerspace, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Record”. Which entry belongs in that row?
+09. [ac9m6a03-p-009] [] During a cooking project, a Algorithms, Decisions and Emerging Patterns organiser labels a row “Analyse”. Which entry belongs in that row?
+10. [ac9m6a03-p-010] [] At the community fair, a Algorithms, Decisions and Emerging Patterns organiser labels a row “no ‘no’ branch”. Which entry belongs in that row?
+11. [ac9m6a03-p-011] [] While organising a library display, a Algorithms, Decisions and Emerging Patterns organiser labels a row “loop never stops”. Which entry belongs in that row?
+12. [ac9m6a03-p-012] [] In a science notebook, a Algorithms, Decisions and Emerging Patterns organiser labels a row “step order ambiguous”. Which entry belongs in that row?
+13. [ac9m6a03-p-013] [] During a design challenge, a Algorithms, Decisions and Emerging Patterns organiser labels a row “pattern from 3 outputs”. Which entry belongs in that row?
+14. [ac9m6a03-p-014] [] At the school canteen, a Algorithms, Decisions and Emerging Patterns organiser labels a row “digital result only”. Which entry belongs in that row?
+15. [ac9m6a03-p-015] [] While comparing travel plans, What must a decision algorithm provide?
+16. [ac9m6a03-p-016] [] In a data workshop, Why does a loop need a stopping condition?
+17. [ac9m6a03-p-017] [] During a building project. The quantities or representation come from a fresh example. a student reasons, “Only the yes branch defined”. Which response corrects the error?
+18. [ac9m6a03-p-018] [] At the local pool. The quantities or representation come from a fresh example. a student reasons, “Order of operations unspecified”. Which response corrects the error?
+19. [ac9m6a03-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Loop has no stopping condition”. Which response corrects the error?
+20. [ac9m6a03-p-020] [] In a games club. The quantities or representation come from a fresh example. a student reasons, “Output pattern described without input rule”. Which response corrects the error?
+21. [ac9m6a03-p-021] [] During an art project. The quantities or representation come from a fresh example. a Algorithms, Decisions and Emerging Patterns organiser labels a row “Decision”. Which entry belongs in that row?
+22. [ac9m6a03-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a Algorithms, Decisions and Emerging Patterns organiser labels a row “Even branch”. Which entry belongs in that row?
+23. [ac9m6a03-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Algorithms, Decisions and Emerging Patterns organiser labels a row “Odd branch”. Which entry belongs in that row?
+24. [ac9m6a03-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Algorithms, Decisions and Emerging Patterns organiser labels a row “Record”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6a03-t-001] [] At a coastal research station, another student selected “To make every output even”. Reconsider the evidence: Why does a loop need a stopping condition?
+02. [ac9m6a03-t-002] [] During a museum challenge, another student selected “Only the preferred branch”. Reconsider the evidence: What must a decision algorithm provide?
+03. [ac9m6a03-t-003] [] While planning a charity event, a Algorithms, Decisions and Emerging Patterns organiser contains “trace sample inputs manually”. Which heading best identifies that information?
+04. [ac9m6a03-t-004] [] In an engineering workshop, a Algorithms, Decisions and Emerging Patterns organiser contains “test more inputs and seek reasoning”. Which heading best identifies that information?
+05. [ac9m6a03-t-005] [] At a regional sports carnival, a Algorithms, Decisions and Emerging Patterns organiser contains “number instructions and define operations”. Which heading best identifies that information?
+06. [ac9m6a03-t-006] [] During a farm survey, a Algorithms, Decisions and Emerging Patterns organiser contains “add stopping condition”. Which heading best identifies that information?
+07. [ac9m6a03-t-007] [] While interpreting a trail guide, a Algorithms, Decisions and Emerging Patterns organiser contains “define action for false condition”. Which heading best identifies that information?
+08. [ac9m6a03-t-008] [] In an architecture studio, a Algorithms, Decisions and Emerging Patterns organiser contains “compare parity and differences”. Which heading best identifies that information?
+09. [ac9m6a03-t-009] [] During a food-truck project, a Algorithms, Decisions and Emerging Patterns organiser contains “place output in table”. Which heading best identifies that information?
+10. [ac9m6a03-t-010] [] At a music festival, a Algorithms, Decisions and Emerging Patterns organiser contains “output 3n + 1”. Which heading best identifies that information?
+11. [ac9m6a03-t-011] [] While organising a book drive, a Algorithms, Decisions and Emerging Patterns organiser contains “output 3n”. Which heading best identifies that information?
+12. [ac9m6a03-t-012] [] In an environmental study, a Algorithms, Decisions and Emerging Patterns organiser contains “Is n even?”. Which heading best identifies that information?
+13. [ac9m6a03-t-013] [] During a playground redesign, a review recommends, “Connect pattern to algorithm structure.” Which claim most clearly needs that correction?
+14. [ac9m6a03-t-014] [] At a transport depot, a review recommends, “Ensure termination.” Which claim most clearly needs that correction?
+15. [ac9m6a03-t-015] [] While preparing a camping trip, a review recommends, “Use exact language and brackets.” Which claim most clearly needs that correction?
+16. [ac9m6a03-t-016] [] In a strategy tournament, a review recommends, “Include every outcome.” Which claim most clearly needs that correction?
+
+AC9M6M01
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6m01-p-001] [] During a class investigation, a student reasons, “Numeral changes in the wrong direction”. Which response corrects the error?
+02. [ac9m6m01-p-002] [] At the school market, a student reasons, “Quantity and unit both changed inconsistently”. Which response corrects the error?
+03. [ac9m6m01-p-003] [] While planning a garden, a student reasons, “Rounding before conversion”. Which response corrects the error?
+04. [ac9m6m01-p-004] [] In a robotics challenge, a student reasons, “False precision added”. Which response corrects the error?
+05. [ac9m6m01-p-005] [] During sports-day planning, a Metric Conversions with Decimal Measurements organiser labels a row “length”. Which entry belongs in that row?
+06. [ac9m6m01-p-006] [] At a wildlife centre, a Metric Conversions with Decimal Measurements organiser labels a row “mass”. Which entry belongs in that row?
+07. [ac9m6m01-p-007] [] While checking a map, a Metric Conversions with Decimal Measurements organiser labels a row “capacity”. Which entry belongs in that row?
+08. [ac9m6m01-p-008] [] In the makerspace, a Metric Conversions with Decimal Measurements organiser labels a row “length”. Which entry belongs in that row?
+09. [ac9m6m01-p-009] [] During a cooking project, a Metric Conversions with Decimal Measurements organiser labels a row “object thickness”. Which entry belongs in that row?
+10. [ac9m6m01-p-010] [] At the community fair, a Metric Conversions with Decimal Measurements organiser labels a row “medicine volume”. Which entry belongs in that row?
+11. [ac9m6m01-p-011] [] While organising a library display, a Metric Conversions with Decimal Measurements organiser labels a row “shipping mass”. Which entry belongs in that row?
+12. [ac9m6m01-p-012] [] In a science notebook, What is 2.375 m in millimetres?
+13. [ac9m6m01-p-013] [] During a design challenge, Which unit is most suitable for a thin card’s thickness?
+14. [ac9m6m01-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Numeral changes in the wrong direction”. Which response corrects the error?
+15. [ac9m6m01-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Quantity and unit both changed inconsistently”. Which response corrects the error?
+16. [ac9m6m01-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Rounding before conversion”. Which response corrects the error?
+17. [ac9m6m01-p-017] [] During a building project. The quantities or representation come from a fresh example. a student reasons, “False precision added”. Which response corrects the error?
+18. [ac9m6m01-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Metric Conversions with Decimal Measurements organiser labels a row “length”. Which entry belongs in that row?
+19. [ac9m6m01-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Metric Conversions with Decimal Measurements organiser labels a row “mass”. Which entry belongs in that row?
+20. [ac9m6m01-p-020] [] In a games club. The quantities or representation come from a fresh example. a Metric Conversions with Decimal Measurements organiser labels a row “capacity”. Which entry belongs in that row?
+21. [ac9m6m01-p-021] [] During an art project. The quantities or representation come from a fresh example. a Metric Conversions with Decimal Measurements organiser labels a row “length”. Which entry belongs in that row?
+22. [ac9m6m01-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a Metric Conversions with Decimal Measurements organiser labels a row “object thickness”. Which entry belongs in that row?
+23. [ac9m6m01-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Metric Conversions with Decimal Measurements organiser labels a row “medicine volume”. Which entry belongs in that row?
+24. [ac9m6m01-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Metric Conversions with Decimal Measurements organiser labels a row “shipping mass”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6m01-t-001] [] At a coastal research station, another student selected “kilometres”. Reconsider the evidence: Which unit is most suitable for a thin card’s thickness?
+02. [ac9m6m01-t-002] [] During a museum challenge, another student selected “237.5 mm”. Reconsider the evidence: What is 2.375 m in millimetres?
+03. [ac9m6m01-t-003] [] While planning a charity event, a Metric Conversions with Decimal Measurements organiser contains “kg or tonnes based on scale”. Which heading best identifies that information?
+04. [ac9m6m01-t-004] [] In an engineering workshop, a Metric Conversions with Decimal Measurements organiser contains “mL and instrument precision matter”. Which heading best identifies that information?
+05. [ac9m6m01-t-005] [] At a regional sports carnival, a Metric Conversions with Decimal Measurements organiser contains “4.6 mm more useful than 0.0046 m”. Which heading best identifies that information?
+06. [ac9m6m01-t-006] [] During a farm survey, a Metric Conversions with Decimal Measurements organiser contains “0.045 km; 45 m”. Which heading best identifies that information?
+07. [ac9m6m01-t-007] [] While interpreting a trail guide, a Metric Conversions with Decimal Measurements organiser contains “1.625 L; 1 625 mL”. Which heading best identifies that information?
+08. [ac9m6m01-t-008] [] In an architecture studio, a Metric Conversions with Decimal Measurements organiser contains “3.48 kg; 3 480 g”. Which heading best identifies that information?
+09. [ac9m6m01-t-009] [] During a food-truck project, a Metric Conversions with Decimal Measurements organiser contains “2.375 m; 2 375 mm”. Which heading best identifies that information?
+10. [ac9m6m01-t-010] [] At a music festival, a review recommends, “Match instrument capability.” Which claim most clearly needs that correction?
+11. [ac9m6m01-t-011] [] While organising a book drive, a review recommends, “Keep exact value until final presentation.” Which claim most clearly needs that correction?
+12. [ac9m6m01-t-012] [] In an environmental study, a review recommends, “Use a conversion relationship.” Which claim most clearly needs that correction?
+13. [ac9m6m01-t-013] [] During a playground redesign, a review recommends, “Smaller units produce larger numerals.” Which claim most clearly needs that correction?
+14. [ac9m6m01-t-014] [] At a transport depot. The quantities or representation come from a fresh example. another student selected “kilometres”. Reconsider the evidence: Which unit is most suitable for a thin card’s thickness?
+15. [ac9m6m01-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “237.5 mm”. Reconsider the evidence: What is 2.375 m in millimetres?
+16. [ac9m6m01-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Metric Conversions with Decimal Measurements organiser contains “kg or tonnes based on scale”. Which heading best identifies that information?
+
+AC9M6M02
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6m02-p-001] [] During a class investigation, a student reasons, “Perimeter formula used”. Which response corrects the error?
+02. [ac9m6m02-p-002] [] At the school market, a student reasons, “Units not squared”. Which response corrects the error?
+03. [ac9m6m02-p-003] [] While planning a garden, a student reasons, “Length and width in different units”. Which response corrects the error?
+04. [ac9m6m02-p-004] [] In a robotics challenge, a student reasons, “Tile count left fractional”. Which response corrects the error?
+05. [ac9m6m02-p-005] [] During sports-day planning, a Establishing and Applying the Rectangle Area Formula organiser labels a row “6 cm × 4 cm”. Which entry belongs in that row?
+06. [ac9m6m02-p-006] [] At a wildlife centre, a Establishing and Applying the Rectangle Area Formula organiser labels a row “l × w”. Which entry belongs in that row?
+07. [ac9m6m02-p-007] [] While checking a map, a Establishing and Applying the Rectangle Area Formula organiser labels a row “area 72 m², width 8 m”. Which entry belongs in that row?
+08. [ac9m6m02-p-008] [] In the makerspace, a Establishing and Applying the Rectangle Area Formula organiser labels a row “L-shape”. Which entry belongs in that row?
+09. [ac9m6m02-p-009] [] During a cooking project, a Establishing and Applying the Rectangle Area Formula organiser labels a row “tiles”. Which entry belongs in that row?
+10. [ac9m6m02-p-010] [] At the community fair, What is the area of an 8 m × 5.5 m rectangle?
+11. [ac9m6m02-p-011] [] While organising a library display, A rectangle has area 72 m² and width 8 m. What is its length?
+12. [ac9m6m02-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Perimeter formula used”. Which response corrects the error?
+13. [ac9m6m02-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Units not squared”. Which response corrects the error?
+14. [ac9m6m02-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Length and width in different units”. Which response corrects the error?
+15. [ac9m6m02-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Tile count left fractional”. Which response corrects the error?
+16. [ac9m6m02-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “6 cm × 4 cm”. Which entry belongs in that row?
+17. [ac9m6m02-p-017] [] During a building project. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “l × w”. Which entry belongs in that row?
+18. [ac9m6m02-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “area 72 m², width 8 m”. Which entry belongs in that row?
+19. [ac9m6m02-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “L-shape”. Which entry belongs in that row?
+20. [ac9m6m02-p-020] [] In a games club. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser labels a row “tiles”. Which entry belongs in that row?
+21. [ac9m6m02-p-021] [] During an art project. The quantities or representation come from a fresh example. What is the area of an 8 m × 5.5 m rectangle?
+22. [ac9m6m02-p-022] [] At the recycling station. The quantities or representation come from a fresh example. A rectangle has area 72 m² and width 8 m. What is its length?
+23. [ac9m6m02-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Perimeter formula used”. Which response corrects the error?
+24. [ac9m6m02-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Units not squared”. Which response corrects the error?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6m02-t-001] [] At a coastal research station, another student selected “64 m”. Reconsider the evidence: A rectangle has area 72 m² and width 8 m. What is its length?
+02. [ac9m6m02-t-002] [] During a museum challenge, another student selected “27 m²”. Reconsider the evidence: What is the area of an 8 m × 5.5 m rectangle?
+03. [ac9m6m02-t-003] [] While planning a charity event, a Establishing and Applying the Rectangle Area Formula organiser contains “area ÷ tile area; round for whole tiles and waste”. Which heading best identifies that information?
+04. [ac9m6m02-t-004] [] In an engineering workshop, a Establishing and Applying the Rectangle Area Formula organiser contains “large rectangle − missing rectangle”. Which heading best identifies that information?
+05. [ac9m6m02-t-005] [] At a regional sports carnival, a Establishing and Applying the Rectangle Area Formula organiser contains “length = 9 m”. Which heading best identifies that information?
+06. [ac9m6m02-t-006] [] During a farm survey, a Establishing and Applying the Rectangle Area Formula organiser contains “w rows; l per row; lw square units”. Which heading best identifies that information?
+07. [ac9m6m02-t-007] [] While interpreting a trail guide, a Establishing and Applying the Rectangle Area Formula organiser contains “4; 6; 24 cm²”. Which heading best identifies that information?
+08. [ac9m6m02-t-008] [] In an architecture studio, a review recommends, “Interpret whole items and allowance.” Which claim most clearly needs that correction?
+09. [ac9m6m02-t-009] [] During a food-truck project, a review recommends, “Convert before multiplying.” Which claim most clearly needs that correction?
+10. [ac9m6m02-t-010] [] At a music festival, a review recommends, “Use cm², m² and related square units.” Which claim most clearly needs that correction?
+11. [ac9m6m02-t-011] [] While organising a book drive, a review recommends, “Area counts covering; perimeter traces boundary.” Which claim most clearly needs that correction?
+12. [ac9m6m02-t-012] [] In an environmental study. The quantities or representation come from a fresh example. another student selected “64 m”. Reconsider the evidence: A rectangle has area 72 m² and width 8 m. What is its length?
+13. [ac9m6m02-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. another student selected “27 m²”. Reconsider the evidence: What is the area of an 8 m × 5.5 m rectangle?
+14. [ac9m6m02-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser contains “area ÷ tile area; round for whole tiles and waste”. Which heading best identifies that information?
+15. [ac9m6m02-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser contains “large rectangle − missing rectangle”. Which heading best identifies that information?
+16. [ac9m6m02-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Establishing and Applying the Rectangle Area Formula organiser contains “length = 9 m”. Which heading best identifies that information?
+
+AC9M6M03
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6m03-p-001] [] During a class investigation, a student reasons, “Travel times added but waits omitted”. Which response corrects the error?
+02. [ac9m6m03-p-002] [] At the school market, a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?
+03. [ac9m6m03-p-003] [] While planning a garden, a student reasons, “Arrival before departure ignored”. Which response corrects the error?
+04. [ac9m6m03-p-004] [] In a robotics challenge, a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?
+05. [ac9m6m03-p-005] [] During sports-day planning, a Timetables, Itineraries and Journey Duration organiser labels a row “bus”. Which entry belongs in that row?
+06. [ac9m6m03-p-006] [] At a wildlife centre, a Timetables, Itineraries and Journey Duration organiser labels a row “transfer”. Which entry belongs in that row?
+07. [ac9m6m03-p-007] [] While checking a map, a Timetables, Itineraries and Journey Duration organiser labels a row “train”. Which entry belongs in that row?
+08. [ac9m6m03-p-008] [] In the makerspace, a Timetables, Itineraries and Journey Duration organiser labels a row “total”. Which entry belongs in that row?
+09. [ac9m6m03-p-009] [] During a cooking project, What is the total duration from 08:35 to 11:05?
+10. [ac9m6m03-p-010] [] At the community fair, Which itinerary is feasible?
+11. [ac9m6m03-p-011] [] While organising a library display. The quantities or representation come from a fresh example. a student reasons, “Travel times added but waits omitted”. Which response corrects the error?
+12. [ac9m6m03-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?
+13. [ac9m6m03-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Arrival before departure ignored”. Which response corrects the error?
+14. [ac9m6m03-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?
+15. [ac9m6m03-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “bus”. Which entry belongs in that row?
+16. [ac9m6m03-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “transfer”. Which entry belongs in that row?
+17. [ac9m6m03-p-017] [] During a building project. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “train”. Which entry belongs in that row?
+18. [ac9m6m03-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser labels a row “total”. Which entry belongs in that row?
+19. [ac9m6m03-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. What is the total duration from 08:35 to 11:05?
+20. [ac9m6m03-p-020] [] In a games club. The quantities or representation come from a fresh example. Which itinerary is feasible?
+21. [ac9m6m03-p-021] [] During an art project. The quantities or representation come from a fresh example. a student reasons, “Travel times added but waits omitted”. Which response corrects the error?
+22. [ac9m6m03-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Clock digits subtracted as decimals”. Which response corrects the error?
+23. [ac9m6m03-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Arrival before departure ignored”. Which response corrects the error?
+24. [ac9m6m03-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Minimum transfer assumed safe”. Which response corrects the error?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6m03-t-001] [] At a coastal research station, another student selected “A service leaving before arrival”. Reconsider the evidence: Which itinerary is feasible?
+02. [ac9m6m03-t-002] [] During a museum challenge, another student selected “3 h 30 min”. Reconsider the evidence: What is the total duration from 08:35 to 11:05?
+03. [ac9m6m03-t-003] [] While planning a charity event, a Timetables, Itineraries and Journey Duration organiser contains “08:35; 11:05; 2 h 30 min”. Which heading best identifies that information?
+04. [ac9m6m03-t-004] [] In an engineering workshop, a Timetables, Itineraries and Journey Duration organiser contains “09:28; 11:05; 1 h 37 min”. Which heading best identifies that information?
+05. [ac9m6m03-t-005] [] At a regional sports carnival, a Timetables, Itineraries and Journey Duration organiser contains “09:12; 09:28; 16 min”. Which heading best identifies that information?
+06. [ac9m6m03-t-006] [] During a farm survey, a Timetables, Itineraries and Journey Duration organiser contains “08:35; 09:12; 37 min”. Which heading best identifies that information?
+07. [ac9m6m03-t-007] [] While interpreting a trail guide, a review recommends, “Consider practical buffer when planning.” Which claim most clearly needs that correction?
+08. [ac9m6m03-t-008] [] In an architecture studio, a review recommends, “Check date, midnight and time zone.” Which claim most clearly needs that correction?
+09. [ac9m6m03-t-009] [] During a food-truck project, a review recommends, “Use 60-minute hours and timelines.” Which claim most clearly needs that correction?
+10. [ac9m6m03-t-010] [] At a music festival, a review recommends, “Include every interval from start to finish.” Which claim most clearly needs that correction?
+11. [ac9m6m03-t-011] [] While organising a book drive. The quantities or representation come from a fresh example. another student selected “A service leaving before arrival”. Reconsider the evidence: Which itinerary is feasible?
+12. [ac9m6m03-t-012] [] In an environmental study. The quantities or representation come from a fresh example. another student selected “3 h 30 min”. Reconsider the evidence: What is the total duration from 08:35 to 11:05?
+13. [ac9m6m03-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 11:05; 2 h 30 min”. Which heading best identifies that information?
+14. [ac9m6m03-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “09:28; 11:05; 1 h 37 min”. Which heading best identifies that information?
+15. [ac9m6m03-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “09:12; 09:28; 16 min”. Which heading best identifies that information?
+16. [ac9m6m03-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Timetables, Itineraries and Journey Duration organiser contains “08:35; 09:12; 37 min”. Which heading best identifies that information?
+
+AC9M6M04
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6m04-p-001] [] During a class investigation, a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?
+02. [ac9m6m04-p-002] [] At the school market, a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?
+03. [ac9m6m04-p-003] [] While planning a garden, a student reasons, “180° used around a point”. Which response corrects the error?
+04. [ac9m6m04-p-004] [] In a robotics challenge, a student reasons, “Reflex angle omitted”. Which response corrects the error?
+05. [ac9m6m04-p-005] [] During sports-day planning, a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?
+06. [ac9m6m04-p-006] [] At a wildlife centre, a Angle Relationships on Lines and at Points organiser labels a row “angles at a point”. Which entry belongs in that row?
+07. [ac9m6m04-p-007] [] While checking a map, a Angle Relationships on Lines and at Points organiser labels a row “vertically opposite”. Which entry belongs in that row?
+08. [ac9m6m04-p-008] [] In the makerspace, a Angle Relationships on Lines and at Points organiser labels a row “right angle”. Which entry belongs in that row?
+09. [ac9m6m04-p-009] [] During a cooking project, a Angle Relationships on Lines and at Points organiser labels a row “125”. Which entry belongs in that row?
+10. [ac9m6m04-p-010] [] At the community fair, a Angle Relationships on Lines and at Points organiser labels a row “90”. Which entry belongs in that row?
+11. [ac9m6m04-p-011] [] While organising a library display, a Angle Relationships on Lines and at Points organiser labels a row “235”. Which entry belongs in that row?
+12. [ac9m6m04-p-012] [] In a science notebook, An angle on a straight line is 55°. What is the adjacent angle?
+13. [ac9m6m04-p-013] [] During a design challenge, If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?
+14. [ac9m6m04-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Diagram measured instead of relationship used”. Which response corrects the error?
+15. [ac9m6m04-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Adjacent and vertically opposite confused”. Which response corrects the error?
+16. [ac9m6m04-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a student reasons, “180° used around a point”. Which response corrects the error?
+17. [ac9m6m04-p-017] [] During a building project. The quantities or representation come from a fresh example. a student reasons, “Reflex angle omitted”. Which response corrects the error?
+18. [ac9m6m04-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “straight line”. Which entry belongs in that row?
+19. [ac9m6m04-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “angles at a point”. Which entry belongs in that row?
+20. [ac9m6m04-p-020] [] In a games club. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “vertically opposite”. Which entry belongs in that row?
+21. [ac9m6m04-p-021] [] During an art project. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “right angle”. Which entry belongs in that row?
+22. [ac9m6m04-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “125”. Which entry belongs in that row?
+23. [ac9m6m04-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “90”. Which entry belongs in that row?
+24. [ac9m6m04-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser labels a row “235”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6m04-t-001] [] At a coastal research station, another student selected “108°”. Reconsider the evidence: If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?
+02. [ac9m6m04-t-002] [] During a museum challenge, another student selected “55°”. Reconsider the evidence: An angle on a straight line is 55°. What is the adjacent angle?
+03. [ac9m6m04-t-003] [] While planning a charity event, a Angle Relationships on Lines and at Points organiser contains “reflex at point”. Which heading best identifies that information?
+04. [ac9m6m04-t-004] [] In an engineering workshop, a Angle Relationships on Lines and at Points organiser contains “right”. Which heading best identifies that information?
+05. [ac9m6m04-t-005] [] At a regional sports carnival, a Angle Relationships on Lines and at Points organiser contains “125° supplement”. Which heading best identifies that information?
+06. [ac9m6m04-t-006] [] During a farm survey, a Angle Relationships on Lines and at Points organiser contains “parts total 90°”. Which heading best identifies that information?
+07. [ac9m6m04-t-007] [] While interpreting a trail guide, a Angle Relationships on Lines and at Points organiser contains “a = c and b = d”. Which heading best identifies that information?
+08. [ac9m6m04-t-008] [] In an architecture studio, a Angle Relationships on Lines and at Points organiser contains “a + b + c + and continuing = 360°”. Which heading best identifies that information?
+09. [ac9m6m04-t-009] [] During a food-truck project, a Angle Relationships on Lines and at Points organiser contains “a + b = 180°”. Which heading best identifies that information?
+10. [ac9m6m04-t-010] [] At a music festival, a review recommends, “Include the stated turn region.” Which claim most clearly needs that correction?
+11. [ac9m6m04-t-011] [] While organising a book drive, a review recommends, “A full turn totals 360°.” Which claim most clearly needs that correction?
+12. [ac9m6m04-t-012] [] In an environmental study, a review recommends, “Opposite angles do not share a side.” Which claim most clearly needs that correction?
+13. [ac9m6m04-t-013] [] During a playground redesign, a review recommends, “Use given values and geometric facts.” Which claim most clearly needs that correction?
+14. [ac9m6m04-t-014] [] At a transport depot. The quantities or representation come from a fresh example. another student selected “108°”. Reconsider the evidence: If one angle formed by intersecting lines is 72°, what is its vertically opposite angle?
+15. [ac9m6m04-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “55°”. Reconsider the evidence: An angle on a straight line is 55°. What is the adjacent angle?
+16. [ac9m6m04-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Angle Relationships on Lines and at Points organiser contains “reflex at point”. Which heading best identifies that information?
+
+AC9M6N01
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n01-p-001] [] During a class investigation, a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?
+02. [ac9m6n01-p-002] [] At the school market, a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?
+03. [ac9m6n01-p-003] [] While planning a garden, a student reasons, “Coordinates are read y then x”. Which response corrects the error?
+04. [ac9m6n01-p-004] [] In a robotics challenge, a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?
+05. [ac9m6n01-p-005] [] During sports-day planning, Which integer is greatest?
+06. [ac9m6n01-p-006] [] At a wildlife centre, Which point lies in Quadrant II?
+07. [ac9m6n01-p-007] [] While checking a map. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?
+08. [ac9m6n01-p-008] [] In the makerspace. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?
+09. [ac9m6n01-p-009] [] During a cooking project. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?
+10. [ac9m6n01-p-010] [] At the community fair. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?
+11. [ac9m6n01-p-011] [] While organising a library display. The quantities or representation come from a fresh example. Which integer is greatest?
+12. [ac9m6n01-p-012] [] In a science notebook. The quantities or representation come from a fresh example. Which point lies in Quadrant II?
+13. [ac9m6n01-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?
+14. [ac9m6n01-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?
+15. [ac9m6n01-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?
+16. [ac9m6n01-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?
+17. [ac9m6n01-p-017] [] During a building project. The quantities or representation come from a fresh example. Which integer is greatest?
+18. [ac9m6n01-p-018] [] At the local pool. The quantities or representation come from a fresh example. Which point lies in Quadrant II?
+19. [ac9m6n01-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “−8 is greater than −3 because 8 is greater than 3”. Which response corrects the error?
+20. [ac9m6n01-p-020] [] In a games club. The quantities or representation come from a fresh example. a student reasons, “Negative means a physically impossible quantity”. Which response corrects the error?
+21. [ac9m6n01-p-021] [] During an art project. The quantities or representation come from a fresh example. a student reasons, “Coordinates are read y then x”. Which response corrects the error?
+22. [ac9m6n01-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Absolute distance confused with signed position”. Which response corrects the error?
+23. [ac9m6n01-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. Which integer is greatest?
+24. [ac9m6n01-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. Which point lies in Quadrant II?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n01-t-001] [] At a coastal research station, another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?
+02. [ac9m6n01-t-002] [] During a museum challenge, another student selected “−7”. Reconsider the evidence: Which integer is greatest?
+03. [ac9m6n01-t-003] [] While planning a charity event, a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?
+04. [ac9m6n01-t-004] [] In an engineering workshop, a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?
+05. [ac9m6n01-t-005] [] At a regional sports carnival, a review recommends, “Integers model debt, below-zero temperature, depth and change.” Which claim most clearly needs that correction?
+06. [ac9m6n01-t-006] [] During a farm survey, a review recommends, “On the number line, −8 lies farther left and is smaller.” Which claim most clearly needs that correction?
+07. [ac9m6n01-t-007] [] While interpreting a trail guide. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?
+08. [ac9m6n01-t-008] [] In an architecture studio. The quantities or representation come from a fresh example. another student selected “−7”. Reconsider the evidence: Which integer is greatest?
+09. [ac9m6n01-t-009] [] During a food-truck project. The quantities or representation come from a fresh example. a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?
+10. [ac9m6n01-t-010] [] At a music festival. The quantities or representation come from a fresh example. a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?
+11. [ac9m6n01-t-011] [] While organising a book drive. The quantities or representation come from a fresh example. a review recommends, “Integers model debt, below-zero temperature, depth and change.” Which claim most clearly needs that correction?
+12. [ac9m6n01-t-012] [] In an environmental study. The quantities or representation come from a fresh example. a review recommends, “On the number line, −8 lies farther left and is smaller.” Which claim most clearly needs that correction?
+13. [ac9m6n01-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: Which point lies in Quadrant II?
+14. [ac9m6n01-t-014] [] At a transport depot. The quantities or representation come from a fresh example. another student selected “−7”. Reconsider the evidence: Which integer is greatest?
+15. [ac9m6n01-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Distance from zero is non-negative; position keeps its sign.” Which claim most clearly needs that correction?
+16. [ac9m6n01-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Read x first, then y.” Which claim most clearly needs that correction?
+
+AC9M6N02
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n02-p-001] [] Which number is a prime number?
+02. [ac9m6n02-p-002] [] Which number is a composite number?
+03. [ac9m6n02-p-003] [] Which number is a square number?
+04. [ac9m6n02-p-004] [] Which number is a prime number?
+05. [ac9m6n02-p-005] [] Which number is a composite number?
+06. [ac9m6n02-p-006] [] Which number is a square number?
+07. [ac9m6n02-p-007] [] Which number is a prime number?
+08. [ac9m6n02-p-008] [] Which number is a composite number?
+09. [ac9m6n02-p-009] [] Which number is a square number?
+10. [ac9m6n02-p-010] [] Which number is a prime number?
+11. [ac9m6n02-p-011] [] Which number is a composite number?
+12. [ac9m6n02-p-012] [] Which number is a square number?
+13. [ac9m6n02-p-013] [] Which number is a prime number?
+14. [ac9m6n02-p-014] [] Which number is a composite number?
+15. [ac9m6n02-p-015] [] Which number is a square number?
+16. [ac9m6n02-p-016] [] Which number is a prime number?
+17. [ac9m6n02-p-017] [] Which number is a composite number?
+18. [ac9m6n02-p-018] [] Which number is a square number?
+19. [ac9m6n02-p-019] [] Which number is a prime number?
+20. [ac9m6n02-p-020] [] Which number is a composite number?
+21. [ac9m6n02-p-021] [] Which number is a square number?
+22. [ac9m6n02-p-022] [] Which number is a prime number?
+23. [ac9m6n02-p-023] [] Which number is a composite number?
+24. [ac9m6n02-p-024] [] Which number is a square number?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n02-t-001] [] Which number is a prime number?
+02. [ac9m6n02-t-002] [] Which number is a square number?
+03. [ac9m6n02-t-003] [] Which number is a composite number?
+04. [ac9m6n02-t-004] [] Which number is a prime number?
+05. [ac9m6n02-t-005] [] Which number is a square number?
+06. [ac9m6n02-t-006] [] Which number is a composite number?
+07. [ac9m6n02-t-007] [] Which number is a prime number?
+08. [ac9m6n02-t-008] [] Which number is a square number?
+09. [ac9m6n02-t-009] [] Which number is a composite number?
+10. [ac9m6n02-t-010] [] Which number is a prime number?
+11. [ac9m6n02-t-011] [] Which number is a square number?
+12. [ac9m6n02-t-012] [] Which number is a composite number?
+13. [ac9m6n02-t-013] [] Which number is a prime number?
+14. [ac9m6n02-t-014] [] Which number is a square number?
+15. [ac9m6n02-t-015] [] Which number is a composite number?
+16. [ac9m6n02-t-016] [] Which number is a prime number?
+
+AC9M6N03
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n03-p-001] [] During a class investigation, a student reasons, “Larger denominator means larger value”. Which response corrects the error?
+02. [ac9m6n03-p-002] [] At the school market, a student reasons, “Different wholes compared”. Which response corrects the error?
+03. [ac9m6n03-p-003] [] While planning a garden, a student reasons, “Improper fraction placed below one”. Which response corrects the error?
+04. [ac9m6n03-p-004] [] In a robotics challenge, a student reasons, “Number-line intervals drawn unequally”. Which response corrects the error?
+05. [ac9m6n03-p-005] [] During sports-day planning, Which fraction is greatest?
+06. [ac9m6n03-p-006] [] At a wildlife centre, Which mixed numeral equals 7/4?
+07. [ac9m6n03-p-007] [] While checking a map. The quantities or representation come from a fresh example. a student reasons, “Larger denominator means larger value”. Which response corrects the error?
+08. [ac9m6n03-p-008] [] In the makerspace. The quantities or representation come from a fresh example. a student reasons, “Different wholes compared”. Which response corrects the error?
+09. [ac9m6n03-p-009] [] During a cooking project. The quantities or representation come from a fresh example. a student reasons, “Improper fraction placed below one”. Which response corrects the error?
+10. [ac9m6n03-p-010] [] At the community fair. The quantities or representation come from a fresh example. a student reasons, “Number-line intervals drawn unequally”. Which response corrects the error?
+11. [ac9m6n03-p-011] [] While organising a library display. The quantities or representation come from a fresh example. Which fraction is greatest?
+12. [ac9m6n03-p-012] [] In a science notebook. The quantities or representation come from a fresh example. Which mixed numeral equals 7/4?
+13. [ac9m6n03-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Larger denominator means larger value”. Which response corrects the error?
+14. [ac9m6n03-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Different wholes compared”. Which response corrects the error?
+15. [ac9m6n03-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Improper fraction placed below one”. Which response corrects the error?
+16. [ac9m6n03-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Number-line intervals drawn unequally”. Which response corrects the error?
+17. [ac9m6n03-p-017] [] During a building project. The quantities or representation come from a fresh example. Which fraction is greatest?
+18. [ac9m6n03-p-018] [] At the local pool. The quantities or representation come from a fresh example. Which mixed numeral equals 7/4?
+19. [ac9m6n03-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Larger denominator means larger value”. Which response corrects the error?
+20. [ac9m6n03-p-020] [] In a games club. The quantities or representation come from a fresh example. a student reasons, “Different wholes compared”. Which response corrects the error?
+21. [ac9m6n03-p-021] [] During an art project. The quantities or representation come from a fresh example. a student reasons, “Improper fraction placed below one”. Which response corrects the error?
+22. [ac9m6n03-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Number-line intervals drawn unequally”. Which response corrects the error?
+23. [ac9m6n03-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. Which fraction is greatest?
+24. [ac9m6n03-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. Which mixed numeral equals 7/4?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n03-t-001] [] At a coastal research station, another student selected “1 7/4”. Reconsider the evidence: Which mixed numeral equals 7/4?
+02. [ac9m6n03-t-002] [] During a museum challenge, another student selected “3/4”. Reconsider the evidence: Which fraction is greatest?
+03. [ac9m6n03-t-003] [] While planning a charity event, a review recommends, “Equal numerical steps require equal spacing.” Which claim most clearly needs that correction?
+04. [ac9m6n03-t-004] [] In an engineering workshop, a review recommends, “Compare numerator with denominator first.” Which claim most clearly needs that correction?
+05. [ac9m6n03-t-005] [] At a regional sports carnival, a review recommends, “Fractions must refer to equal-sized wholes.” Which claim most clearly needs that correction?
+06. [ac9m6n03-t-006] [] During a farm survey, a review recommends, “For the same numerator, more parts means smaller parts.” Which claim most clearly needs that correction?
+07. [ac9m6n03-t-007] [] While interpreting a trail guide. The quantities or representation come from a fresh example. another student selected “1 7/4”. Reconsider the evidence: Which mixed numeral equals 7/4?
+08. [ac9m6n03-t-008] [] In an architecture studio. The quantities or representation come from a fresh example. another student selected “3/4”. Reconsider the evidence: Which fraction is greatest?
+09. [ac9m6n03-t-009] [] During a food-truck project. The quantities or representation come from a fresh example. a review recommends, “Equal numerical steps require equal spacing.” Which claim most clearly needs that correction?
+10. [ac9m6n03-t-010] [] At a music festival. The quantities or representation come from a fresh example. a review recommends, “Compare numerator with denominator first.” Which claim most clearly needs that correction?
+11. [ac9m6n03-t-011] [] While organising a book drive. The quantities or representation come from a fresh example. a review recommends, “Fractions must refer to equal-sized wholes.” Which claim most clearly needs that correction?
+12. [ac9m6n03-t-012] [] In an environmental study. The quantities or representation come from a fresh example. a review recommends, “For the same numerator, more parts means smaller parts.” Which claim most clearly needs that correction?
+13. [ac9m6n03-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. another student selected “1 7/4”. Reconsider the evidence: Which mixed numeral equals 7/4?
+14. [ac9m6n03-t-014] [] At a transport depot. The quantities or representation come from a fresh example. another student selected “3/4”. Reconsider the evidence: Which fraction is greatest?
+15. [ac9m6n03-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Equal numerical steps require equal spacing.” Which claim most clearly needs that correction?
+16. [ac9m6n03-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Compare numerator with denominator first.” Which claim most clearly needs that correction?
+
+AC9M6N04
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n04-p-001] [] During a class investigation, a student reasons, “Decimal points not aligned”. Which response corrects the error?
+02. [ac9m6n04-p-002] [] At the school market, a student reasons, “Zeros added to the left or inside incorrectly”. Which response corrects the error?
+03. [ac9m6n04-p-003] [] While planning a garden, a student reasons, “Estimate omitted”. Which response corrects the error?
+04. [ac9m6n04-p-004] [] In a robotics challenge, a student reasons, “Calculator result accepted without context”. Which response corrects the error?
+05. [ac9m6n04-p-005] [] During sports-day planning, a Adding and Subtracting Decimals organiser labels a row “1”. Which entry belongs in that row?
+06. [ac9m6n04-p-006] [] At a wildlife centre, a Adding and Subtracting Decimals organiser labels a row “2”. Which entry belongs in that row?
+07. [ac9m6n04-p-007] [] While checking a map, a Adding and Subtracting Decimals organiser labels a row “19.95 + 7.60”. Which entry belongs in that row?
+08. [ac9m6n04-p-008] [] In the makerspace, a Adding and Subtracting Decimals organiser labels a row “48.6 − 19.9”. Which entry belongs in that row?
+09. [ac9m6n04-p-009] [] During a cooking project, a Adding and Subtracting Decimals organiser labels a row “digital tool”. Which entry belongs in that row?
+10. [ac9m6n04-p-010] [] At the community fair, What is 18.375 + 6.84?
+11. [ac9m6n04-p-011] [] While organising a library display, Which estimate best checks 48.6 − 19.9?
+12. [ac9m6n04-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Decimal points not aligned”. Which response corrects the error?
+13. [ac9m6n04-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Zeros added to the left or inside incorrectly”. Which response corrects the error?
+14. [ac9m6n04-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Estimate omitted”. Which response corrects the error?
+15. [ac9m6n04-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Calculator result accepted without context”. Which response corrects the error?
+16. [ac9m6n04-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “1”. Which entry belongs in that row?
+17. [ac9m6n04-p-017] [] During a building project. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “2”. Which entry belongs in that row?
+18. [ac9m6n04-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “19.95 + 7.60”. Which entry belongs in that row?
+19. [ac9m6n04-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “48.6 − 19.9”. Which entry belongs in that row?
+20. [ac9m6n04-p-020] [] In a games club. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser labels a row “digital tool”. Which entry belongs in that row?
+21. [ac9m6n04-p-021] [] During an art project. The quantities or representation come from a fresh example. What is 18.375 + 6.84?
+22. [ac9m6n04-p-022] [] At the recycling station. The quantities or representation come from a fresh example. Which estimate best checks 48.6 − 19.9?
+23. [ac9m6n04-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Decimal points not aligned”. Which response corrects the error?
+24. [ac9m6n04-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Zeros added to the left or inside incorrectly”. Which response corrects the error?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n04-t-001] [] At a coastal research station, another student selected “about 68”. Reconsider the evidence: Which estimate best checks 48.6 − 19.9?
+02. [ac9m6n04-t-002] [] During a museum challenge, another student selected “24.215”. Reconsider the evidence: What is 18.375 + 6.84?
+03. [ac9m6n04-t-003] [] While planning a charity event, a Adding and Subtracting Decimals organiser contains “verify after setup and estimation”. Which heading best identifies that information?
+04. [ac9m6n04-t-004] [] In an engineering workshop, a Adding and Subtracting Decimals organiser contains “subtract 20, then add 0.1”. Which heading best identifies that information?
+05. [ac9m6n04-t-005] [] At a regional sports carnival, a Adding and Subtracting Decimals organiser contains “compensation: 20 + 7.60 − 0.05”. Which heading best identifies that information?
+06. [ac9m6n04-t-006] [] During a farm survey, a Adding and Subtracting Decimals organiser contains “5; 2; 1; 5”. Which heading best identifies that information?
+07. [ac9m6n04-t-007] [] While interpreting a trail guide, a Adding and Subtracting Decimals organiser contains “8; 3; 7; 5”. Which heading best identifies that information?
+08. [ac9m6n04-t-008] [] In an architecture studio, a review recommends, “Check operation, input and magnitude.” Which claim most clearly needs that correction?
+09. [ac9m6n04-t-009] [] During a food-truck project, a review recommends, “Use it to detect misplaced decimal points.” Which claim most clearly needs that correction?
+10. [ac9m6n04-t-010] [] At a music festival, a review recommends, “Only trailing placeholder zeros preserve a decimal’s value.” Which claim most clearly needs that correction?
+11. [ac9m6n04-t-011] [] While organising a book drive, a review recommends, “Align place values, not final digits.” Which claim most clearly needs that correction?
+12. [ac9m6n04-t-012] [] In an environmental study. The quantities or representation come from a fresh example. another student selected “about 68”. Reconsider the evidence: Which estimate best checks 48.6 − 19.9?
+13. [ac9m6n04-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. another student selected “24.215”. Reconsider the evidence: What is 18.375 + 6.84?
+14. [ac9m6n04-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser contains “verify after setup and estimation”. Which heading best identifies that information?
+15. [ac9m6n04-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser contains “subtract 20, then add 0.1”. Which heading best identifies that information?
+16. [ac9m6n04-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Adding and Subtracting Decimals organiser contains “compensation: 20 + 7.60 − 0.05”. Which heading best identifies that information?
+
+AC9M6N05
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n05-p-001] [] During a class investigation, a student reasons, “Numerators and denominators both added”. Which response corrects the error?
+02. [ac9m6n05-p-002] [] At the school market, a student reasons, “Fractions combined before renaming”. Which response corrects the error?
+03. [ac9m6n05-p-003] [] While planning a garden, a student reasons, “Whole part lost during subtraction”. Which response corrects the error?
+04. [ac9m6n05-p-004] [] In a robotics challenge, a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?
+05. [ac9m6n05-p-005] [] During sports-day planning, a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?
+06. [ac9m6n05-p-006] [] At a wildlife centre, a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?
+07. [ac9m6n05-p-007] [] While checking a map, a Adding and Subtracting Fractions organiser labels a row “5/12 + 1/3”. Which entry belongs in that row?
+08. [ac9m6n05-p-008] [] In the makerspace, What is 5/6 − 1/4?
+09. [ac9m6n05-p-009] [] During a cooking project, What is 3/4 + 5/8?
+10. [ac9m6n05-p-010] [] At the community fair. The quantities or representation come from a fresh example. a student reasons, “Numerators and denominators both added”. Which response corrects the error?
+11. [ac9m6n05-p-011] [] While organising a library display. The quantities or representation come from a fresh example. a student reasons, “Fractions combined before renaming”. Which response corrects the error?
+12. [ac9m6n05-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Whole part lost during subtraction”. Which response corrects the error?
+13. [ac9m6n05-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?
+14. [ac9m6n05-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?
+15. [ac9m6n05-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?
+16. [ac9m6n05-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “5/12 + 1/3”. Which entry belongs in that row?
+17. [ac9m6n05-p-017] [] During a building project. The quantities or representation come from a fresh example. What is 5/6 − 1/4?
+18. [ac9m6n05-p-018] [] At the local pool. The quantities or representation come from a fresh example. What is 3/4 + 5/8?
+19. [ac9m6n05-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Numerators and denominators both added”. Which response corrects the error?
+20. [ac9m6n05-p-020] [] In a games club. The quantities or representation come from a fresh example. a student reasons, “Fractions combined before renaming”. Which response corrects the error?
+21. [ac9m6n05-p-021] [] During an art project. The quantities or representation come from a fresh example. a student reasons, “Whole part lost during subtraction”. Which response corrects the error?
+22. [ac9m6n05-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Final fraction simplified incorrectly”. Which response corrects the error?
+23. [ac9m6n05-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “7/10 + 3/10”. Which entry belongs in that row?
+24. [ac9m6n05-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser labels a row “1 1/3 − 5/6”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n05-t-001] [] At a coastal research station, another student selected “8/12”. Reconsider the evidence: What is 3/4 + 5/8?
+02. [ac9m6n05-t-002] [] During a museum challenge, another student selected “4/2”. Reconsider the evidence: What is 5/6 − 1/4?
+03. [ac9m6n05-t-003] [] While planning a charity event, a Adding and Subtracting Fractions organiser contains “rename 1/3 as 4/12”. Which heading best identifies that information?
+04. [ac9m6n05-t-004] [] In an engineering workshop, a Adding and Subtracting Fractions organiser contains “rename whole and thirds as sixths”. Which heading best identifies that information?
+05. [ac9m6n05-t-005] [] At a regional sports carnival, a Adding and Subtracting Fractions organiser contains “complete one whole”. Which heading best identifies that information?
+06. [ac9m6n05-t-006] [] During a farm survey, a review recommends, “Divide numerator and denominator by the same factor.” Which claim most clearly needs that correction?
+07. [ac9m6n05-t-007] [] While interpreting a trail guide, a review recommends, “Regroup one whole as denominator-sized parts.” Which claim most clearly needs that correction?
+08. [ac9m6n05-t-008] [] In an architecture studio, a review recommends, “Different denominators name different-sized parts.” Which claim most clearly needs that correction?
+09. [ac9m6n05-t-009] [] During a food-truck project, a review recommends, “The common denominator names the unchanged part size.” Which claim most clearly needs that correction?
+10. [ac9m6n05-t-010] [] At a music festival. The quantities or representation come from a fresh example. another student selected “8/12”. Reconsider the evidence: What is 3/4 + 5/8?
+11. [ac9m6n05-t-011] [] While organising a book drive. The quantities or representation come from a fresh example. another student selected “4/2”. Reconsider the evidence: What is 5/6 − 1/4?
+12. [ac9m6n05-t-012] [] In an environmental study. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “rename 1/3 as 4/12”. Which heading best identifies that information?
+13. [ac9m6n05-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “rename whole and thirds as sixths”. Which heading best identifies that information?
+14. [ac9m6n05-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Adding and Subtracting Fractions organiser contains “complete one whole”. Which heading best identifies that information?
+15. [ac9m6n05-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Divide numerator and denominator by the same factor.” Which claim most clearly needs that correction?
+16. [ac9m6n05-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Regroup one whole as denominator-sized parts.” Which claim most clearly needs that correction?
+
+AC9M6N06
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n06-p-001] [] During a class investigation, a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?
+02. [ac9m6n06-p-002] [] At the school market, a student reasons, “Decimal point said to move”. Which response corrects the error?
+03. [ac9m6n06-p-003] [] While planning a garden, a student reasons, “Factor 300 treated as 3”. Which response corrects the error?
+04. [ac9m6n06-p-004] [] In a robotics challenge, a student reasons, “Division estimate omitted”. Which response corrects the error?
+05. [ac9m6n06-p-005] [] During sports-day planning, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?
+06. [ac9m6n06-p-006] [] At a wildlife centre, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?
+07. [ac9m6n06-p-007] [] While checking a map, a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 ÷ 10”. Which entry belongs in that row?
+08. [ac9m6n06-p-008] [] In the makerspace, What is 4.275 × 100?
+09. [ac9m6n06-p-009] [] During a cooking project, Which expression is equivalent to 2.4 × 300?
+10. [ac9m6n06-p-010] [] At the community fair. The quantities or representation come from a fresh example. a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?
+11. [ac9m6n06-p-011] [] While organising a library display. The quantities or representation come from a fresh example. a student reasons, “Decimal point said to move”. Which response corrects the error?
+12. [ac9m6n06-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Factor 300 treated as 3”. Which response corrects the error?
+13. [ac9m6n06-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Division estimate omitted”. Which response corrects the error?
+14. [ac9m6n06-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?
+15. [ac9m6n06-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?
+16. [ac9m6n06-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 ÷ 10”. Which entry belongs in that row?
+17. [ac9m6n06-p-017] [] During a building project. The quantities or representation come from a fresh example. What is 4.275 × 100?
+18. [ac9m6n06-p-018] [] At the local pool. The quantities or representation come from a fresh example. Which expression is equivalent to 2.4 × 300?
+19. [ac9m6n06-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Add zeros rule used with decimals”. Which response corrects the error?
+20. [ac9m6n06-p-020] [] In a games club. The quantities or representation come from a fresh example. a student reasons, “Decimal point said to move”. Which response corrects the error?
+21. [ac9m6n06-p-021] [] During an art project. The quantities or representation come from a fresh example. a student reasons, “Factor 300 treated as 3”. Which response corrects the error?
+22. [ac9m6n06-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Division estimate omitted”. Which response corrects the error?
+23. [ac9m6n06-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 10”. Which entry belongs in that row?
+24. [ac9m6n06-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser labels a row “4.275 × 100”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n06-t-001] [] At a coastal research station, another student selected “2.4 × 3”. Reconsider the evidence: Which expression is equivalent to 2.4 × 300?
+02. [ac9m6n06-t-002] [] During a museum challenge, another student selected “42.75”. Reconsider the evidence: What is 4.275 × 100?
+03. [ac9m6n06-t-003] [] While planning a charity event, a Multiplying and Dividing Decimals by Powers of 10 organiser contains “0.4275; one tenth as much”. Which heading best identifies that information?
+04. [ac9m6n06-t-004] [] In an engineering workshop, a Multiplying and Dividing Decimals by Powers of 10 organiser contains “427.5; 100 times as much”. Which heading best identifies that information?
+05. [ac9m6n06-t-005] [] At a regional sports carnival, a Multiplying and Dividing Decimals by Powers of 10 organiser contains “42.75; each digit worth 10 times as much”. Which heading best identifies that information?
+06. [ac9m6n06-t-006] [] During a farm survey, a review recommends, “Check quotient magnitude before accepting.” Which claim most clearly needs that correction?
+07. [ac9m6n06-t-007] [] While interpreting a trail guide, a review recommends, “Include the factor of 100.” Which claim most clearly needs that correction?
+08. [ac9m6n06-t-008] [] In an architecture studio, a review recommends, “Digits change place value relative to the fixed point.” Which claim most clearly needs that correction?
+09. [ac9m6n06-t-009] [] During a food-truck project, a review recommends, “Use place value; zeros may be placeholders, not a universal rule.” Which claim most clearly needs that correction?
+10. [ac9m6n06-t-010] [] At a music festival. The quantities or representation come from a fresh example. another student selected “2.4 × 3”. Reconsider the evidence: Which expression is equivalent to 2.4 × 300?
+11. [ac9m6n06-t-011] [] While organising a book drive. The quantities or representation come from a fresh example. another student selected “42.75”. Reconsider the evidence: What is 4.275 × 100?
+12. [ac9m6n06-t-012] [] In an environmental study. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “0.4275; one tenth as much”. Which heading best identifies that information?
+13. [ac9m6n06-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “427.5; 100 times as much”. Which heading best identifies that information?
+14. [ac9m6n06-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Multiplying and Dividing Decimals by Powers of 10 organiser contains “42.75; each digit worth 10 times as much”. Which heading best identifies that information?
+15. [ac9m6n06-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Check quotient magnitude before accepting.” Which claim most clearly needs that correction?
+16. [ac9m6n06-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Include the factor of 100.” Which claim most clearly needs that correction?
+
+AC9M6N07
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n07-p-001] [] During a class investigation, a student reasons, “Discount amount reported as final price”. Which response corrects the error?
+02. [ac9m6n07-p-002] [] At the school market, a student reasons, “Percent converted to whole number multiplier”. Which response corrects the error?
+03. [ac9m6n07-p-003] [] While planning a garden, a student reasons, “Quantity divided by percentage number only”. Which response corrects the error?
+04. [ac9m6n07-p-004] [] In a robotics challenge, a student reasons, “Whole not identified”. Which response corrects the error?
+05. [ac9m6n07-p-005] [] During sports-day planning, a Fractions, Decimals and Percentages of Quantities organiser labels a row “25% = 1/4”. Which entry belongs in that row?
+06. [ac9m6n07-p-006] [] At a wildlife centre, a Fractions, Decimals and Percentages of Quantities organiser labels a row “40% = 4/10”. Which entry belongs in that row?
+07. [ac9m6n07-p-007] [] While checking a map, a Fractions, Decimals and Percentages of Quantities organiser labels a row “75% = 3/4”. Which entry belongs in that row?
+08. [ac9m6n07-p-008] [] In the makerspace, a Fractions, Decimals and Percentages of Quantities organiser labels a row “10% of 360”. Which entry belongs in that row?
+09. [ac9m6n07-p-009] [] During a cooking project, a Fractions, Decimals and Percentages of Quantities organiser labels a row “0.5 of 74”. Which entry belongs in that row?
+10. [ac9m6n07-p-010] [] At the community fair, a Fractions, Decimals and Percentages of Quantities organiser labels a row “3/5 of 90”. Which entry belongs in that row?
+11. [ac9m6n07-p-011] [] While organising a library display, a Fractions, Decimals and Percentages of Quantities organiser labels a row “digital tool”. Which entry belongs in that row?
+12. [ac9m6n07-p-012] [] In a science notebook, What is 25% of $240?
+13. [ac9m6n07-p-013] [] During a design challenge, A $240 item has 25% off. What is the sale price?
+14. [ac9m6n07-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Discount amount reported as final price”. Which response corrects the error?
+15. [ac9m6n07-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Percent converted to whole number multiplier”. Which response corrects the error?
+16. [ac9m6n07-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Quantity divided by percentage number only”. Which response corrects the error?
+17. [ac9m6n07-p-017] [] During a building project. The quantities or representation come from a fresh example. a student reasons, “Whole not identified”. Which response corrects the error?
+18. [ac9m6n07-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser labels a row “25% = 1/4”. Which entry belongs in that row?
+19. [ac9m6n07-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser labels a row “40% = 4/10”. Which entry belongs in that row?
+20. [ac9m6n07-p-020] [] In a games club. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser labels a row “75% = 3/4”. Which entry belongs in that row?
+21. [ac9m6n07-p-021] [] During an art project. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser labels a row “10% of 360”. Which entry belongs in that row?
+22. [ac9m6n07-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser labels a row “0.5 of 74”. Which entry belongs in that row?
+23. [ac9m6n07-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser labels a row “3/5 of 90”. Which entry belongs in that row?
+24. [ac9m6n07-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser labels a row “digital tool”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n07-t-001] [] At a coastal research station, another student selected “$60”. Reconsider the evidence: A $240 item has 25% off. What is the sale price?
+02. [ac9m6n07-t-002] [] During a museum challenge, another student selected “$180”. Reconsider the evidence: What is 25% of $240?
+03. [ac9m6n07-t-003] [] While planning a charity event, a Fractions, Decimals and Percentages of Quantities organiser contains “compare many prices after formula is set”. Which heading best identifies that information?
+04. [ac9m6n07-t-004] [] In an engineering workshop, a Fractions, Decimals and Percentages of Quantities organiser contains “54”. Which heading best identifies that information?
+05. [ac9m6n07-t-005] [] At a regional sports carnival, a Fractions, Decimals and Percentages of Quantities organiser contains “37”. Which heading best identifies that information?
+06. [ac9m6n07-t-006] [] During a farm survey, a Fractions, Decimals and Percentages of Quantities organiser contains “36”. Which heading best identifies that information?
+07. [ac9m6n07-t-007] [] While interpreting a trail guide, a Fractions, Decimals and Percentages of Quantities organiser contains “240 ÷ 4 × 3; $180”. Which heading best identifies that information?
+08. [ac9m6n07-t-008] [] In an architecture studio, a Fractions, Decimals and Percentages of Quantities organiser contains “240 ÷ 10 × 4; $96”. Which heading best identifies that information?
+09. [ac9m6n07-t-009] [] During a food-truck project, a Fractions, Decimals and Percentages of Quantities organiser contains “240 ÷ 4; $60”. Which heading best identifies that information?
+10. [ac9m6n07-t-010] [] At a music festival, a review recommends, “State the original total before finding a part.” Which claim most clearly needs that correction?
+11. [ac9m6n07-t-011] [] While organising a book drive, a review recommends, “Use a fraction, decimal or benchmark strategy.” Which claim most clearly needs that correction?
+12. [ac9m6n07-t-012] [] In an environmental study, a review recommends, “20% = 0.20, not 20.” Which claim most clearly needs that correction?
+13. [ac9m6n07-t-013] [] During a playground redesign, a review recommends, “Subtract the discount from the original.” Which claim most clearly needs that correction?
+14. [ac9m6n07-t-014] [] At a transport depot. The quantities or representation come from a fresh example. another student selected “$60”. Reconsider the evidence: A $240 item has 25% off. What is the sale price?
+15. [ac9m6n07-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “$180”. Reconsider the evidence: What is 25% of $240?
+16. [ac9m6n07-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Fractions, Decimals and Percentages of Quantities organiser contains “compare many prices after formula is set”. Which heading best identifies that information?
+
+AC9M6N08
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n08-p-001] [] During a class investigation, a student reasons, “Nearest rounding used automatically”. Which response corrects the error?
+02. [ac9m6n08-p-002] [] At the school market, a student reasons, “Estimate reported as exact”. Which response corrects the error?
+03. [ac9m6n08-p-003] [] While planning a garden, a student reasons, “Bounds direction ignored”. Which response corrects the error?
+04. [ac9m6n08-p-004] [] In a robotics challenge, a student reasons, “Early rounding compounds error”. Which response corrects the error?
+05. [ac9m6n08-p-005] [] During sports-day planning, a Estimating with Rational Numbers and Percentages organiser labels a row “18.7% of 398”. Which entry belongs in that row?
+06. [ac9m6n08-p-006] [] At a wildlife centre, a Estimating with Rational Numbers and Percentages organiser labels a row “63.4 ÷ 7.9”. Which entry belongs in that row?
+07. [ac9m6n08-p-007] [] While checking a map, a Estimating with Rational Numbers and Percentages organiser labels a row “$29.95 + $18.60 + $7.85”. Which entry belongs in that row?
+08. [ac9m6n08-p-008] [] In the makerspace, a Estimating with Rational Numbers and Percentages organiser labels a row “3/8 of 79”. Which entry belongs in that row?
+09. [ac9m6n08-p-009] [] During a cooking project, a Estimating with Rational Numbers and Percentages organiser labels a row “minimum capacity”. Which entry belongs in that row?
+10. [ac9m6n08-p-010] [] At the community fair, a Estimating with Rational Numbers and Percentages organiser labels a row “quick reasonableness”. Which entry belongs in that row?
+11. [ac9m6n08-p-011] [] While organising a library display, a Estimating with Rational Numbers and Percentages organiser labels a row “range estimate”. Which entry belongs in that row?
+12. [ac9m6n08-p-012] [] In a science notebook, Which is a useful estimate for 18.7% of 398?
+13. [ac9m6n08-p-013] [] During a design challenge, Which estimate is safest for checking cash required?
+14. [ac9m6n08-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Nearest rounding used automatically”. Which response corrects the error?
+15. [ac9m6n08-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Estimate reported as exact”. Which response corrects the error?
+16. [ac9m6n08-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Bounds direction ignored”. Which response corrects the error?
+17. [ac9m6n08-p-017] [] During a building project. The quantities or representation come from a fresh example. a student reasons, “Early rounding compounds error”. Which response corrects the error?
+18. [ac9m6n08-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “18.7% of 398”. Which entry belongs in that row?
+19. [ac9m6n08-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “63.4 ÷ 7.9”. Which entry belongs in that row?
+20. [ac9m6n08-p-020] [] In a games club. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “$29.95 + $18.60 + $7.85”. Which entry belongs in that row?
+21. [ac9m6n08-p-021] [] During an art project. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “3/8 of 79”. Which entry belongs in that row?
+22. [ac9m6n08-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “minimum capacity”. Which entry belongs in that row?
+23. [ac9m6n08-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “quick reasonableness”. Which entry belongs in that row?
+24. [ac9m6n08-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser labels a row “range estimate”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n08-t-001] [] At a coastal research station, another student selected “Round every cost down”. Reconsider the evidence: Which estimate is safest for checking cash required?
+02. [ac9m6n08-t-002] [] During a museum challenge, another student selected “2% of 40 = 0.8”. Reconsider the evidence: Which is a useful estimate for 18.7% of 398?
+03. [ac9m6n08-t-003] [] While planning a charity event, a Estimating with Rational Numbers and Percentages organiser contains “calculate plausible lower and upper values”. Which heading best identifies that information?
+04. [ac9m6n08-t-004] [] In an engineering workshop, a Estimating with Rational Numbers and Percentages organiser contains “round to one useful place”. Which heading best identifies that information?
+05. [ac9m6n08-t-005] [] At a regional sports carnival, a Estimating with Rational Numbers and Percentages organiser contains “round demand upward”. Which heading best identifies that information?
+06. [ac9m6n08-t-006] [] During a farm survey, a Estimating with Rational Numbers and Percentages organiser contains “about 3/8 of 80 = 30”. Which heading best identifies that information?
+07. [ac9m6n08-t-007] [] While interpreting a trail guide, a Estimating with Rational Numbers and Percentages organiser contains “safe budget: $30 + $19 + $8 = $57”. Which heading best identifies that information?
+08. [ac9m6n08-t-008] [] In an architecture studio, a Estimating with Rational Numbers and Percentages organiser contains “about 64 ÷ 8 = 8”. Which heading best identifies that information?
+09. [ac9m6n08-t-009] [] During a food-truck project, a Estimating with Rational Numbers and Percentages organiser contains “about 20% of 400 = 80”. Which heading best identifies that information?
+10. [ac9m6n08-t-010] [] At a music festival, a review recommends, “Keep exact values when later accuracy matters.” Which claim most clearly needs that correction?
+11. [ac9m6n08-t-011] [] While organising a book drive, a review recommends, “A safe budget estimate should not underestimate.” Which claim most clearly needs that correction?
+12. [ac9m6n08-t-012] [] In an environmental study, a review recommends, “Use approximation language and precision.” Which claim most clearly needs that correction?
+13. [ac9m6n08-t-013] [] During a playground redesign, a review recommends, “Choose strategy from purpose.” Which claim most clearly needs that correction?
+14. [ac9m6n08-t-014] [] At a transport depot. The quantities or representation come from a fresh example. another student selected “Round every cost down”. Reconsider the evidence: Which estimate is safest for checking cash required?
+15. [ac9m6n08-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “2% of 40 = 0.8”. Reconsider the evidence: Which is a useful estimate for 18.7% of 398?
+16. [ac9m6n08-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Estimating with Rational Numbers and Percentages organiser contains “calculate plausible lower and upper values”. Which heading best identifies that information?
+
+AC9M6N09
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n09-p-001] [] During a class investigation, a student reasons, “Every number in the context used”. Which response corrects the error?
+02. [ac9m6n09-p-002] [] At the school market, a student reasons, “Percentage fee calculated from the wrong base”. Which response corrects the error?
+03. [ac9m6n09-p-003] [] While planning a garden, a student reasons, “Cheapest option selected without constraints”. Which response corrects the error?
+04. [ac9m6n09-p-004] [] In a robotics challenge, a student reasons, “Spreadsheet output accepted without formula audit”. Which response corrects the error?
+05. [ac9m6n09-p-005] [] During sports-day planning, a Mathematical Modelling with Rational Numbers and Percentages organiser labels a row “A: 180 tickets at $12”. Which entry belongs in that row?
+06. [ac9m6n09-p-006] [] At a wildlife centre, a Mathematical Modelling with Rational Numbers and Percentages organiser labels a row “B: 150 tickets at $15”. Which entry belongs in that row?
+07. [ac9m6n09-p-007] [] While checking a map, a Mathematical Modelling with Rational Numbers and Percentages organiser labels a row “decision”. Which entry belongs in that row?
+08. [ac9m6n09-p-008] [] In the makerspace, What should a mathematical model identify before calculation?
+09. [ac9m6n09-p-009] [] During a cooking project, What does a sensitivity check do?
+10. [ac9m6n09-p-010] [] At the community fair. The quantities or representation come from a fresh example. a student reasons, “Every number in the context used”. Which response corrects the error?
+11. [ac9m6n09-p-011] [] While organising a library display. The quantities or representation come from a fresh example. a student reasons, “Percentage fee calculated from the wrong base”. Which response corrects the error?
+12. [ac9m6n09-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Cheapest option selected without constraints”. Which response corrects the error?
+13. [ac9m6n09-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Spreadsheet output accepted without formula audit”. Which response corrects the error?
+14. [ac9m6n09-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a Mathematical Modelling with Rational Numbers and Percentages organiser labels a row “A: 180 tickets at $12”. Which entry belongs in that row?
+15. [ac9m6n09-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a Mathematical Modelling with Rational Numbers and Percentages organiser labels a row “B: 150 tickets at $15”. Which entry belongs in that row?
+16. [ac9m6n09-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Mathematical Modelling with Rational Numbers and Percentages organiser labels a row “decision”. Which entry belongs in that row?
+17. [ac9m6n09-p-017] [] During a building project. The quantities or representation come from a fresh example. What should a mathematical model identify before calculation?
+18. [ac9m6n09-p-018] [] At the local pool. The quantities or representation come from a fresh example. What does a sensitivity check do?
+19. [ac9m6n09-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Every number in the context used”. Which response corrects the error?
+20. [ac9m6n09-p-020] [] In a games club. The quantities or representation come from a fresh example. a student reasons, “Percentage fee calculated from the wrong base”. Which response corrects the error?
+21. [ac9m6n09-p-021] [] During an art project. The quantities or representation come from a fresh example. a student reasons, “Cheapest option selected without constraints”. Which response corrects the error?
+22. [ac9m6n09-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a student reasons, “Spreadsheet output accepted without formula audit”. Which response corrects the error?
+23. [ac9m6n09-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Mathematical Modelling with Rational Numbers and Percentages organiser labels a row “A: 180 tickets at $12”. Which entry belongs in that row?
+24. [ac9m6n09-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Mathematical Modelling with Rational Numbers and Percentages organiser labels a row “B: 150 tickets at $15”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6n09-t-001] [] At a coastal research station, another student selected “Deletes inconvenient data”. Reconsider the evidence: What does a sensitivity check do?
+02. [ac9m6n09-t-002] [] During a museum challenge, another student selected “every number whether relevant or not”. Reconsider the evidence: What should a mathematical model identify before calculation?
+03. [ac9m6n09-t-003] [] While planning a charity event, a Mathematical Modelling with Rational Numbers and Percentages organiser contains “A higher net; but test attendance assumptions;”. Which heading best identifies that information?
+04. [ac9m6n09-t-004] [] In an engineering workshop, a Mathematical Modelling with Rational Numbers and Percentages organiser contains “$2 250; $1 050 fixed + 8% fee; $1 020”. Which heading best identifies that information?
+05. [ac9m6n09-t-005] [] At a regional sports carnival, a Mathematical Modelling with Rational Numbers and Percentages organiser contains “$2 160; $780 fixed + 15% fee; $1 056”. Which heading best identifies that information?
+06. [ac9m6n09-t-006] [] During a farm survey, a review recommends, “Explain and verify formulas.” Which claim most clearly needs that correction?
+07. [ac9m6n09-t-007] [] While interpreting a trail guide, a review recommends, “Check capacity, quality and requirements.” Which claim most clearly needs that correction?
+08. [ac9m6n09-t-008] [] In an architecture studio, a review recommends, “Identify whether it applies to revenue, cost or balance.” Which claim most clearly needs that correction?
+09. [ac9m6n09-t-009] [] During a food-truck project, a review recommends, “Include only relevant quantities and relationships.” Which claim most clearly needs that correction?
+10. [ac9m6n09-t-010] [] At a music festival. The quantities or representation come from a fresh example. another student selected “Deletes inconvenient data”. Reconsider the evidence: What does a sensitivity check do?
+11. [ac9m6n09-t-011] [] While organising a book drive. The quantities or representation come from a fresh example. another student selected “every number whether relevant or not”. Reconsider the evidence: What should a mathematical model identify before calculation?
+12. [ac9m6n09-t-012] [] In an environmental study. The quantities or representation come from a fresh example. a Mathematical Modelling with Rational Numbers and Percentages organiser contains “A higher net; but test attendance assumptions;”. Which heading best identifies that information?
+13. [ac9m6n09-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. a Mathematical Modelling with Rational Numbers and Percentages organiser contains “$2 250; $1 050 fixed + 8% fee; $1 020”. Which heading best identifies that information?
+14. [ac9m6n09-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Mathematical Modelling with Rational Numbers and Percentages organiser contains “$2 160; $780 fixed + 15% fee; $1 056”. Which heading best identifies that information?
+15. [ac9m6n09-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a review recommends, “Explain and verify formulas.” Which claim most clearly needs that correction?
+16. [ac9m6n09-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a review recommends, “Check capacity, quality and requirements.” Which claim most clearly needs that correction?
+
+AC9M6P01
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6p01-p-001] [] During a class investigation, a student reasons, “Probability treated as a count”. Which response corrects the error?
+02. [ac9m6p01-p-002] [] At the school market, a student reasons, “80% written as 80”. Which response corrects the error?
+03. [ac9m6p01-p-003] [] While planning a garden, a student reasons, “Likely confused with certain”. Which response corrects the error?
+04. [ac9m6p01-p-004] [] In a robotics challenge, a student reasons, “Context assumptions omitted”. Which response corrects the error?
+05. [ac9m6p01-p-005] [] During sports-day planning, a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?
+06. [ac9m6p01-p-006] [] At a wildlife centre, a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?
+07. [ac9m6p01-p-007] [] While checking a map, a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?
+08. [ac9m6p01-p-008] [] In the makerspace, a Probability on a Scale from 0 to 1 organiser labels a row “4/5”. Which entry belongs in that row?
+09. [ac9m6p01-p-009] [] During a cooking project, a Probability on a Scale from 0 to 1 organiser labels a row “1”. Which entry belongs in that row?
+10. [ac9m6p01-p-010] [] At the community fair, Which probability represents an even chance?
+11. [ac9m6p01-p-011] [] While organising a library display, Which event is more likely?
+12. [ac9m6p01-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Probability treated as a count”. Which response corrects the error?
+13. [ac9m6p01-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “80% written as 80”. Which response corrects the error?
+14. [ac9m6p01-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Likely confused with certain”. Which response corrects the error?
+15. [ac9m6p01-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Context assumptions omitted”. Which response corrects the error?
+16. [ac9m6p01-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/4”. Which entry belongs in that row?
+17. [ac9m6p01-p-017] [] During a building project. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1/2”. Which entry belongs in that row?
+18. [ac9m6p01-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “3/5”. Which entry belongs in that row?
+19. [ac9m6p01-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “4/5”. Which entry belongs in that row?
+20. [ac9m6p01-p-020] [] In a games club. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser labels a row “1”. Which entry belongs in that row?
+21. [ac9m6p01-p-021] [] During an art project. The quantities or representation come from a fresh example. Which probability represents an even chance?
+22. [ac9m6p01-p-022] [] At the recycling station. The quantities or representation come from a fresh example. Which event is more likely?
+23. [ac9m6p01-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Probability treated as a count”. Which response corrects the error?
+24. [ac9m6p01-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “80% written as 80”. Which response corrects the error?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6p01-t-001] [] At a coastal research station, another student selected “65%”. Reconsider the evidence: Which event is more likely?
+02. [ac9m6p01-t-002] [] During a museum challenge, another student selected “0”. Reconsider the evidence: Which probability represents an even chance?
+03. [ac9m6p01-t-003] [] While planning a charity event, a Probability on a Scale from 0 to 1 organiser contains “1.0; 100%”. Which heading best identifies that information?
+04. [ac9m6p01-t-004] [] In an engineering workshop, a Probability on a Scale from 0 to 1 organiser contains “0.8; 80%”. Which heading best identifies that information?
+05. [ac9m6p01-t-005] [] At a regional sports carnival, a Probability on a Scale from 0 to 1 organiser contains “0.6; 60%”. Which heading best identifies that information?
+06. [ac9m6p01-t-006] [] During a farm survey, a Probability on a Scale from 0 to 1 organiser contains “0.5; 50%”. Which heading best identifies that information?
+07. [ac9m6p01-t-007] [] While interpreting a trail guide, a Probability on a Scale from 0 to 1 organiser contains “0.25; 25%”. Which heading best identifies that information?
+08. [ac9m6p01-t-008] [] In an architecture studio, a review recommends, “State the chance model.” Which claim most clearly needs that correction?
+09. [ac9m6p01-t-009] [] During a food-truck project, a review recommends, “A likely event can fail.” Which claim most clearly needs that correction?
+10. [ac9m6p01-t-010] [] At a music festival, a review recommends, “Write 0.8 on the probability scale.” Which claim most clearly needs that correction?
+11. [ac9m6p01-t-011] [] While organising a book drive, a review recommends, “It is a relative value from 0 to 1.” Which claim most clearly needs that correction?
+12. [ac9m6p01-t-012] [] In an environmental study. The quantities or representation come from a fresh example. another student selected “65%”. Reconsider the evidence: Which event is more likely?
+13. [ac9m6p01-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. another student selected “0”. Reconsider the evidence: Which probability represents an even chance?
+14. [ac9m6p01-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser contains “1.0; 100%”. Which heading best identifies that information?
+15. [ac9m6p01-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser contains “0.8; 80%”. Which heading best identifies that information?
+16. [ac9m6p01-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Probability on a Scale from 0 to 1 organiser contains “0.6; 60%”. Which heading best identifies that information?
+
+AC9M6P02
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6p02-p-001] [] During a class investigation, a student reasons, “Expected frequency treated as guaranteed”. Which response corrects the error?
+02. [ac9m6p02-p-002] [] At the school market, a student reasons, “Raw counts compared across unequal totals”. Which response corrects the error?
+03. [ac9m6p02-p-003] [] While planning a garden, a student reasons, “Unwanted outcomes deleted”. Which response corrects the error?
+04. [ac9m6p02-p-004] [] In a robotics challenge, a student reasons, “Simulation settings assumed correct”. Which response corrects the error?
+05. [ac9m6p02-p-005] [] During sports-day planning, a Repeated Chance Experiments and Simulations organiser labels a row “10”. Which entry belongs in that row?
+06. [ac9m6p02-p-006] [] At a wildlife centre, a Repeated Chance Experiments and Simulations organiser labels a row “50”. Which entry belongs in that row?
+07. [ac9m6p02-p-007] [] While checking a map, a Repeated Chance Experiments and Simulations organiser labels a row “200”. Which entry belongs in that row?
+08. [ac9m6p02-p-008] [] In the makerspace, a Repeated Chance Experiments and Simulations organiser labels a row “1 000”. Which entry belongs in that row?
+09. [ac9m6p02-p-009] [] During a cooking project, a Repeated Chance Experiments and Simulations organiser labels a row “expected”. Which entry belongs in that row?
+10. [ac9m6p02-p-010] [] At the community fair, a Repeated Chance Experiments and Simulations organiser labels a row “physical trial”. Which entry belongs in that row?
+11. [ac9m6p02-p-011] [] While organising a library display, a Repeated Chance Experiments and Simulations organiser labels a row “digital simulation”. Which entry belongs in that row?
+12. [ac9m6p02-p-012] [] In a science notebook, a Repeated Chance Experiments and Simulations organiser labels a row “comparison”. Which entry belongs in that row?
+13. [ac9m6p02-p-013] [] During a design challenge, a Repeated Chance Experiments and Simulations organiser labels a row “variation”. Which entry belongs in that row?
+14. [ac9m6p02-p-014] [] At the school canteen, If P(red)=0.3, what is the expected red frequency in 200 trials?
+15. [ac9m6p02-p-015] [] While comparing travel plans, Why do observed frequencies differ from expected values?
+16. [ac9m6p02-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Expected frequency treated as guaranteed”. Which response corrects the error?
+17. [ac9m6p02-p-017] [] During a building project. The quantities or representation come from a fresh example. a student reasons, “Raw counts compared across unequal totals”. Which response corrects the error?
+18. [ac9m6p02-p-018] [] At the local pool. The quantities or representation come from a fresh example. a student reasons, “Unwanted outcomes deleted”. Which response corrects the error?
+19. [ac9m6p02-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Simulation settings assumed correct”. Which response corrects the error?
+20. [ac9m6p02-p-020] [] In a games club. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “10”. Which entry belongs in that row?
+21. [ac9m6p02-p-021] [] During an art project. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “50”. Which entry belongs in that row?
+22. [ac9m6p02-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “200”. Which entry belongs in that row?
+23. [ac9m6p02-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “1 000”. Which entry belongs in that row?
+24. [ac9m6p02-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Repeated Chance Experiments and Simulations organiser labels a row “expected”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6p02-t-001] [] At a coastal research station, another student selected “Expected values are commands”. Reconsider the evidence: Why do observed frequencies differ from expected values?
+02. [ac9m6p02-t-002] [] During a museum challenge, another student selected “30”. Reconsider the evidence: If P(red)=0.3, what is the expected red frequency in 200 trials?
+03. [ac9m6p02-t-003] [] While planning a charity event, a Repeated Chance Experiments and Simulations organiser contains “describe difference without changing data”. Which heading best identifies that information?
+04. [ac9m6p02-t-004] [] In an engineering workshop, a Repeated Chance Experiments and Simulations organiser contains “use relative frequency when totals differ”. Which heading best identifies that information?
+05. [ac9m6p02-t-005] [] At a regional sports carnival, a Repeated Chance Experiments and Simulations organiser contains “check probability settings and trial count”. Which heading best identifies that information?
+06. [ac9m6p02-t-006] [] During a farm survey, a Repeated Chance Experiments and Simulations organiser contains “check device and consistent procedure”. Which heading best identifies that information?
+07. [ac9m6p02-t-007] [] While interpreting a trail guide, a Repeated Chance Experiments and Simulations organiser contains “; 0.5”. Which heading best identifies that information?
+08. [ac9m6p02-t-008] [] In an architecture studio, a Repeated Chance Experiments and Simulations organiser contains “498; 0.498”. Which heading best identifies that information?
+09. [ac9m6p02-t-009] [] During a food-truck project, a Repeated Chance Experiments and Simulations organiser contains “103; 0.515”. Which heading best identifies that information?
+10. [ac9m6p02-t-010] [] At a music festival, a Repeated Chance Experiments and Simulations organiser contains “27; 0.54”. Which heading best identifies that information?
+11. [ac9m6p02-t-011] [] While organising a book drive, a Repeated Chance Experiments and Simulations organiser contains “7; 0.70”. Which heading best identifies that information?
+12. [ac9m6p02-t-012] [] In an environmental study, a review recommends, “Audit the model.” Which claim most clearly needs that correction?
+13. [ac9m6p02-t-013] [] During a playground redesign, a review recommends, “Record all valid trials.” Which claim most clearly needs that correction?
+14. [ac9m6p02-t-014] [] At a transport depot, a review recommends, “Use proportions.” Which claim most clearly needs that correction?
+15. [ac9m6p02-t-015] [] While preparing a camping trip, a review recommends, “It is a long-run prediction.” Which claim most clearly needs that correction?
+16. [ac9m6p02-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. another student selected “Expected values are commands”. Reconsider the evidence: Why do observed frequencies differ from expected values?
+
+AC9M6SP01
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6sp01-p-001] [] During a class investigation, a student reasons, “Every slice matches the base”. Which response corrects the error?
+02. [ac9m6sp01-p-002] [] At the school market, a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?
+03. [ac9m6sp01-p-003] [] While planning a garden, a student reasons, “Cross-section called a face of the original object”. Which response corrects the error?
+04. [ac9m6sp01-p-004] [] In a robotics challenge, a student reasons, “Orientation omitted”. Which response corrects the error?
+05. [ac9m6sp01-p-005] [] During sports-day planning, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “rectangular prism”. Which entry belongs in that row?
+06. [ac9m6sp01-p-006] [] At a wildlife centre, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “triangular prism”. Which entry belongs in that row?
+07. [ac9m6sp01-p-007] [] While checking a map, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cylinder”. Which entry belongs in that row?
+08. [ac9m6sp01-p-008] [] In the makerspace, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “square pyramid”. Which entry belongs in that row?
+09. [ac9m6sp01-p-009] [] During a cooking project, a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cone”. Which entry belongs in that row?
+10. [ac9m6sp01-p-010] [] At the community fair, What is a cross-section parallel to the base of a triangular prism?
+11. [ac9m6sp01-p-011] [] While organising a library display, How do parallel cross-sections of a square pyramid change toward the apex?
+12. [ac9m6sp01-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Every slice matches the base”. Which response corrects the error?
+13. [ac9m6sp01-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?
+14. [ac9m6sp01-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Cross-section called a face of the original object”. Which response corrects the error?
+15. [ac9m6sp01-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Orientation omitted”. Which response corrects the error?
+16. [ac9m6sp01-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “rectangular prism”. Which entry belongs in that row?
+17. [ac9m6sp01-p-017] [] During a building project. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “triangular prism”. Which entry belongs in that row?
+18. [ac9m6sp01-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cylinder”. Which entry belongs in that row?
+19. [ac9m6sp01-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “square pyramid”. Which entry belongs in that row?
+20. [ac9m6sp01-p-020] [] In a games club. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser labels a row “cone”. Which entry belongs in that row?
+21. [ac9m6sp01-p-021] [] During an art project. The quantities or representation come from a fresh example. What is a cross-section parallel to the base of a triangular prism?
+22. [ac9m6sp01-p-022] [] At the recycling station. The quantities or representation come from a fresh example. How do parallel cross-sections of a square pyramid change toward the apex?
+23. [ac9m6sp01-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Every slice matches the base”. Which response corrects the error?
+24. [ac9m6sp01-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Prism and pyramid treated alike”. Which response corrects the error?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6sp01-t-001] [] At a coastal research station, another student selected “They remain congruent”. Reconsider the evidence: How do parallel cross-sections of a square pyramid change toward the apex?
+02. [ac9m6sp01-t-002] [] During a museum challenge, another student selected “A circle”. Reconsider the evidence: What is a cross-section parallel to the base of a triangular prism?
+03. [ac9m6sp01-t-003] [] While planning a charity event, a Parallel Cross-sections of Three-dimensional Objects organiser contains “circle; smaller/larger circle”. Which heading best identifies that information?
+04. [ac9m6sp01-t-004] [] In an engineering workshop, a Parallel Cross-sections of Three-dimensional Objects organiser contains “square; smaller/larger similar square”. Which heading best identifies that information?
+05. [ac9m6sp01-t-005] [] At a regional sports carnival, a Parallel Cross-sections of Three-dimensional Objects organiser contains “circle; congruent circle”. Which heading best identifies that information?
+06. [ac9m6sp01-t-006] [] During a farm survey, a Parallel Cross-sections of Three-dimensional Objects organiser contains “triangle; congruent triangle”. Which heading best identifies that information?
+07. [ac9m6sp01-t-007] [] While interpreting a trail guide, a Parallel Cross-sections of Three-dimensional Objects organiser contains “rectangle; congruent rectangle”. Which heading best identifies that information?
+08. [ac9m6sp01-t-008] [] In an architecture studio, a review recommends, “State the cutting plane’s direction.” Which claim most clearly needs that correction?
+09. [ac9m6sp01-t-009] [] During a food-truck project, a review recommends, “It is created by the cut.” Which claim most clearly needs that correction?
+10. [ac9m6sp01-t-010] [] At a music festival, a review recommends, “Prism sections stay congruent; pyramid sections scale.” Which claim most clearly needs that correction?
+11. [ac9m6sp01-t-011] [] While organising a book drive, a review recommends, “Only slices parallel to the base have the stated relationship.” Which claim most clearly needs that correction?
+12. [ac9m6sp01-t-012] [] In an environmental study. The quantities or representation come from a fresh example. another student selected “They remain congruent”. Reconsider the evidence: How do parallel cross-sections of a square pyramid change toward the apex?
+13. [ac9m6sp01-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. another student selected “A circle”. Reconsider the evidence: What is a cross-section parallel to the base of a triangular prism?
+14. [ac9m6sp01-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser contains “circle; smaller/larger circle”. Which heading best identifies that information?
+15. [ac9m6sp01-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser contains “square; smaller/larger similar square”. Which heading best identifies that information?
+16. [ac9m6sp01-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Parallel Cross-sections of Three-dimensional Objects organiser contains “circle; congruent circle”. Which heading best identifies that information?
+
+AC9M6SP02
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6sp02-p-001] [] During a class investigation, a student reasons, “Coordinate order reversed”. Which response corrects the error?
+02. [ac9m6sp02-p-002] [] At the school market, a student reasons, “Negative direction ignored”. Which response corrects the error?
+03. [ac9m6sp02-p-003] [] While planning a garden, a student reasons, “Point on an axis assigned a quadrant”. Which response corrects the error?
+04. [ac9m6sp02-p-004] [] In a robotics challenge, a student reasons, “Reflection rule guessed”. Which response corrects the error?
+05. [ac9m6sp02-p-005] [] During sports-day planning, a Coordinates in Four Quadrants organiser labels a row “4 right”. Which entry belongs in that row?
+06. [ac9m6sp02-p-006] [] At a wildlife centre, a Coordinates in Four Quadrants organiser labels a row “3 down”. Which entry belongs in that row?
+07. [ac9m6sp02-p-007] [] While checking a map, a Coordinates in Four Quadrants organiser labels a row “reflect in y-axis”. Which entry belongs in that row?
+08. [ac9m6sp02-p-008] [] In the makerspace, a Coordinates in Four Quadrants organiser labels a row “reflect in x-axis”. Which entry belongs in that row?
+09. [ac9m6sp02-p-009] [] During a cooking project, a Coordinates in Four Quadrants organiser labels a row “half-turn about origin”. Which entry belongs in that row?
+10. [ac9m6sp02-p-010] [] At the community fair, Which point lies in Quadrant III?
+11. [ac9m6sp02-p-011] [] While organising a library display, What is the reflection of (3,−4) in the y-axis?
+12. [ac9m6sp02-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Coordinate order reversed”. Which response corrects the error?
+13. [ac9m6sp02-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Negative direction ignored”. Which response corrects the error?
+14. [ac9m6sp02-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Point on an axis assigned a quadrant”. Which response corrects the error?
+15. [ac9m6sp02-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Reflection rule guessed”. Which response corrects the error?
+16. [ac9m6sp02-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser labels a row “4 right”. Which entry belongs in that row?
+17. [ac9m6sp02-p-017] [] During a building project. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser labels a row “3 down”. Which entry belongs in that row?
+18. [ac9m6sp02-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser labels a row “reflect in y-axis”. Which entry belongs in that row?
+19. [ac9m6sp02-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser labels a row “reflect in x-axis”. Which entry belongs in that row?
+20. [ac9m6sp02-p-020] [] In a games club. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser labels a row “half-turn about origin”. Which entry belongs in that row?
+21. [ac9m6sp02-p-021] [] During an art project. The quantities or representation come from a fresh example. Which point lies in Quadrant III?
+22. [ac9m6sp02-p-022] [] At the recycling station. The quantities or representation come from a fresh example. What is the reflection of (3,−4) in the y-axis?
+23. [ac9m6sp02-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Coordinate order reversed”. Which response corrects the error?
+24. [ac9m6sp02-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Negative direction ignored”. Which response corrects the error?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6sp02-t-001] [] At a coastal research station, another student selected “(3,4)”. Reconsider the evidence: What is the reflection of (3,−4) in the y-axis?
+02. [ac9m6sp02-t-002] [] During a museum challenge, another student selected “(4,−2)”. Reconsider the evidence: Which point lies in Quadrant III?
+03. [ac9m6sp02-t-003] [] While planning a charity event, a Coordinates in Four Quadrants organiser contains “(x,y) → (−x,−y)”. Which heading best identifies that information?
+04. [ac9m6sp02-t-004] [] In an engineering workshop, a Coordinates in Four Quadrants organiser contains “(x,y) → (x,−y)”. Which heading best identifies that information?
+05. [ac9m6sp02-t-005] [] At a regional sports carnival, a Coordinates in Four Quadrants organiser contains “(x,y) → (−x,y)”. Which heading best identifies that information?
+06. [ac9m6sp02-t-006] [] During a farm survey, a Coordinates in Four Quadrants organiser contains “(x,y) → (x,y−3)”. Which heading best identifies that information?
+07. [ac9m6sp02-t-007] [] While interpreting a trail guide, a Coordinates in Four Quadrants organiser contains “(x,y) → (x+4,y)”. Which heading best identifies that information?
+08. [ac9m6sp02-t-008] [] In an architecture studio, a review recommends, “Identify which coordinate changes sign.” Which claim most clearly needs that correction?
+09. [ac9m6sp02-t-009] [] During a food-truck project, a review recommends, “Axis points are not inside a quadrant.” Which claim most clearly needs that correction?
+10. [ac9m6sp02-t-010] [] At a music festival, a review recommends, “Left and down are negative on a standard plane.” Which claim most clearly needs that correction?
+11. [ac9m6sp02-t-011] [] While organising a book drive, a review recommends, “Read x then y.” Which claim most clearly needs that correction?
+12. [ac9m6sp02-t-012] [] In an environmental study. The quantities or representation come from a fresh example. another student selected “(3,4)”. Reconsider the evidence: What is the reflection of (3,−4) in the y-axis?
+13. [ac9m6sp02-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. another student selected “(4,−2)”. Reconsider the evidence: Which point lies in Quadrant III?
+14. [ac9m6sp02-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser contains “(x,y) → (−x,−y)”. Which heading best identifies that information?
+15. [ac9m6sp02-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser contains “(x,y) → (x,−y)”. Which heading best identifies that information?
+16. [ac9m6sp02-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Coordinates in Four Quadrants organiser contains “(x,y) → (−x,y)”. Which heading best identifies that information?
+
+AC9M6SP03
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6sp03-p-001] [] During a class investigation, a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?
+02. [ac9m6sp03-p-002] [] At the school market, a student reasons, “Shape resized during repetition”. Which response corrects the error?
+03. [ac9m6sp03-p-003] [] While planning a garden, a student reasons, “Transformation described vaguely as move”. Which response corrects the error?
+04. [ac9m6sp03-p-004] [] In a robotics challenge, a student reasons, “Vertex angle condition ignored”. Which response corrects the error?
+05. [ac9m6sp03-p-005] [] During sports-day planning, a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?
+06. [ac9m6sp03-p-006] [] At a wildlife centre, a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?
+07. [ac9m6sp03-p-007] [] While checking a map, a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?
+08. [ac9m6sp03-p-008] [] In the makerspace, a Transformations and Tessellations organiser labels a row “glide reflection”. Which entry belongs in that row?
+09. [ac9m6sp03-p-009] [] During a cooking project, a Transformations and Tessellations organiser labels a row “vertex test”. Which entry belongs in that row?
+10. [ac9m6sp03-p-010] [] At the community fair, What must be true of a tessellation?
+11. [ac9m6sp03-p-011] [] While organising a library display, Which transformation preserves size and shape?
+12. [ac9m6sp03-p-012] [] In a science notebook. The quantities or representation come from a fresh example. a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?
+13. [ac9m6sp03-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Shape resized during repetition”. Which response corrects the error?
+14. [ac9m6sp03-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Transformation described vaguely as move”. Which response corrects the error?
+15. [ac9m6sp03-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Vertex angle condition ignored”. Which response corrects the error?
+16. [ac9m6sp03-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “translation”. Which entry belongs in that row?
+17. [ac9m6sp03-p-017] [] During a building project. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “rotation”. Which entry belongs in that row?
+18. [ac9m6sp03-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “reflection”. Which entry belongs in that row?
+19. [ac9m6sp03-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “glide reflection”. Which entry belongs in that row?
+20. [ac9m6sp03-p-020] [] In a games club. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser labels a row “vertex test”. Which entry belongs in that row?
+21. [ac9m6sp03-p-021] [] During an art project. The quantities or representation come from a fresh example. What must be true of a tessellation?
+22. [ac9m6sp03-p-022] [] At the recycling station. The quantities or representation come from a fresh example. Which transformation preserves size and shape?
+23. [ac9m6sp03-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a student reasons, “Pattern with gaps called tessellation”. Which response corrects the error?
+24. [ac9m6sp03-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a student reasons, “Shape resized during repetition”. Which response corrects the error?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6sp03-t-001] [] At a coastal research station, another student selected “enlargement”. Reconsider the evidence: Which transformation preserves size and shape?
+02. [ac9m6sp03-t-002] [] During a museum challenge, another student selected “Every tile is a circle”. Reconsider the evidence: What must be true of a tessellation?
+03. [ac9m6sp03-t-003] [] While planning a charity event, a Transformations and Tessellations organiser contains “meeting angles total 360°”. Which heading best identifies that information?
+04. [ac9m6sp03-t-004] [] In an engineering workshop, a Transformations and Tessellations organiser contains “reflect, then translate along the line”. Which heading best identifies that information?
+05. [ac9m6sp03-t-005] [] At a regional sports carnival, a Transformations and Tessellations organiser contains “flip motif across a line”. Which heading best identifies that information?
+06. [ac9m6sp03-t-006] [] During a farm survey, a Transformations and Tessellations organiser contains “turn motif about a vertex”. Which heading best identifies that information?
+07. [ac9m6sp03-t-007] [] While interpreting a trail guide, a Transformations and Tessellations organiser contains “slide motif by a fixed vector”. Which heading best identifies that information?
+08. [ac9m6sp03-t-008] [] In an architecture studio, a review recommends, “Use 360° to test feasibility.” Which claim most clearly needs that correction?
+09. [ac9m6sp03-t-009] [] During a food-truck project, a review recommends, “Name direction, distance, centre, angle or line.” Which claim most clearly needs that correction?
+10. [ac9m6sp03-t-010] [] At a music festival, a review recommends, “Rigid transformations preserve congruence.” Which claim most clearly needs that correction?
+11. [ac9m6sp03-t-011] [] While organising a book drive, a review recommends, “The plane must be covered continuously.” Which claim most clearly needs that correction?
+12. [ac9m6sp03-t-012] [] In an environmental study. The quantities or representation come from a fresh example. another student selected “enlargement”. Reconsider the evidence: Which transformation preserves size and shape?
+13. [ac9m6sp03-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. another student selected “Every tile is a circle”. Reconsider the evidence: What must be true of a tessellation?
+14. [ac9m6sp03-t-014] [] At a transport depot. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser contains “meeting angles total 360°”. Which heading best identifies that information?
+15. [ac9m6sp03-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser contains “reflect, then translate along the line”. Which heading best identifies that information?
+16. [ac9m6sp03-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Transformations and Tessellations organiser contains “flip motif across a line”. Which heading best identifies that information?
+
+AC9M6ST01
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6st01-p-001] [] During a class investigation, a student reasons, “Ordinal categories treated as equal numerical intervals”. Which response corrects the error?
+02. [ac9m6st01-p-002] [] At the school market, a student reasons, “Range used as complete description”. Which response corrects the error?
+03. [ac9m6st01-p-003] [] While planning a garden, a student reasons, “Different graph scales compared visually”. Which response corrects the error?
+04. [ac9m6st01-p-004] [] In a robotics challenge, a student reasons, “Cause inferred from group difference”. Which response corrects the error?
+05. [ac9m6st01-p-005] [] During sports-day planning, a Comparing Categorical and Numerical Data Sets organiser labels a row “mode”. Which entry belongs in that row?
+06. [ac9m6st01-p-006] [] At a wildlife centre, a Comparing Categorical and Numerical Data Sets organiser labels a row “range”. Which entry belongs in that row?
+07. [ac9m6st01-p-007] [] While checking a map, a Comparing Categorical and Numerical Data Sets organiser labels a row “shape”. Which entry belongs in that row?
+08. [ac9m6st01-p-008] [] In the makerspace, a Comparing Categorical and Numerical Data Sets organiser labels a row “variation”. Which entry belongs in that row?
+09. [ac9m6st01-p-009] [] During a cooking project, a Comparing Categorical and Numerical Data Sets organiser labels a row “ordinal ratings”. Which entry belongs in that row?
+10. [ac9m6st01-p-010] [] At the community fair, a Comparing Categorical and Numerical Data Sets organiser labels a row “discrete numerical”. Which entry belongs in that row?
+11. [ac9m6st01-p-011] [] While organising a library display, a Comparing Categorical and Numerical Data Sets organiser labels a row “continuous numerical”. Which entry belongs in that row?
+12. [ac9m6st01-p-012] [] In a science notebook, a Comparing Categorical and Numerical Data Sets organiser labels a row “two distributions”. Which entry belongs in that row?
+13. [ac9m6st01-p-013] [] During a design challenge, Which variable is ordinal categorical?
+14. [ac9m6st01-p-014] [] At the school canteen, Which comparison is strongest?
+15. [ac9m6st01-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Ordinal categories treated as equal numerical intervals”. Which response corrects the error?
+16. [ac9m6st01-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Range used as complete description”. Which response corrects the error?
+17. [ac9m6st01-p-017] [] During a building project. The quantities or representation come from a fresh example. a student reasons, “Different graph scales compared visually”. Which response corrects the error?
+18. [ac9m6st01-p-018] [] At the local pool. The quantities or representation come from a fresh example. a student reasons, “Cause inferred from group difference”. Which response corrects the error?
+19. [ac9m6st01-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Comparing Categorical and Numerical Data Sets organiser labels a row “mode”. Which entry belongs in that row?
+20. [ac9m6st01-p-020] [] In a games club. The quantities or representation come from a fresh example. a Comparing Categorical and Numerical Data Sets organiser labels a row “range”. Which entry belongs in that row?
+21. [ac9m6st01-p-021] [] During an art project. The quantities or representation come from a fresh example. a Comparing Categorical and Numerical Data Sets organiser labels a row “shape”. Which entry belongs in that row?
+22. [ac9m6st01-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a Comparing Categorical and Numerical Data Sets organiser labels a row “variation”. Which entry belongs in that row?
+23. [ac9m6st01-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Comparing Categorical and Numerical Data Sets organiser labels a row “ordinal ratings”. Which entry belongs in that row?
+24. [ac9m6st01-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Comparing Categorical and Numerical Data Sets organiser labels a row “discrete numerical”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6st01-t-001] [] At a coastal research station, another student selected “Class A is better”. Reconsider the evidence: Which comparison is strongest?
+02. [ac9m6st01-t-002] [] During a museum challenge, another student selected “favourite colour”. Reconsider the evidence: Which variable is ordinal categorical?
+03. [ac9m6st01-t-003] [] While planning a charity event, a Comparing Categorical and Numerical Data Sets organiser contains “same scale and aligned categories”. Which heading best identifies that information?
+04. [ac9m6st01-t-004] [] In an engineering workshop, a Comparing Categorical and Numerical Data Sets organiser contains “grouped display or line-related context”. Which heading best identifies that information?
+05. [ac9m6st01-t-005] [] At a regional sports carnival, a Comparing Categorical and Numerical Data Sets organiser contains “dot plot or column graph”. Which heading best identifies that information?
+06. [ac9m6st01-t-006] [] During a farm survey, a Comparing Categorical and Numerical Data Sets organiser contains “ordered columns”. Which heading best identifies that information?
+07. [ac9m6st01-t-007] [] While interpreting a trail guide, a Comparing Categorical and Numerical Data Sets organiser contains “greater; smaller”. Which heading best identifies that information?
+08. [ac9m6st01-t-008] [] In an architecture studio, a Comparing Categorical and Numerical Data Sets organiser contains “clustered 11–14, one high value; more even 11–16”. Which heading best identifies that information?
+09. [ac9m6st01-t-009] [] During a food-truck project, a Comparing Categorical and Numerical Data Sets organiser contains “9; 5”. Which heading best identifies that information?
+10. [ac9m6st01-t-010] [] At a music festival, a Comparing Categorical and Numerical Data Sets organiser contains “12; 12 and 15”. Which heading best identifies that information?
+11. [ac9m6st01-t-011] [] While organising a book drive, a review recommends, “Data comparison alone does not establish cause.” Which claim most clearly needs that correction?
+12. [ac9m6st01-t-012] [] In an environmental study, a review recommends, “Read actual values.” Which claim most clearly needs that correction?
+13. [ac9m6st01-t-013] [] During a playground redesign, a review recommends, “Also discuss concentration and shape.” Which claim most clearly needs that correction?
+14. [ac9m6st01-t-014] [] At a transport depot, a review recommends, “Order is meaningful, spacing may not be.” Which claim most clearly needs that correction?
+15. [ac9m6st01-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. another student selected “Class A is better”. Reconsider the evidence: Which comparison is strongest?
+16. [ac9m6st01-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. another student selected “favourite colour”. Reconsider the evidence: Which variable is ordinal categorical?
+
+AC9M6ST02
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6st02-p-001] [] During a class investigation, a student reasons, “Any percentage treated as strong evidence”. Which response corrects the error?
+02. [ac9m6st02-p-002] [] At the school market, a student reasons, “Graph style trusted without values”. Which response corrects the error?
+03. [ac9m6st02-p-003] [] While planning a garden, a student reasons, “Mean considered typical automatically”. Which response corrects the error?
+04. [ac9m6st02-p-004] [] In a robotics challenge, a student reasons, “Correlation described as cause”. Which response corrects the error?
+05. [ac9m6st02-p-005] [] During sports-day planning, a Evaluating Statistically Informed Arguments organiser labels a row “Source”. Which entry belongs in that row?
+06. [ac9m6st02-p-006] [] At a wildlife centre, a Evaluating Statistically Informed Arguments organiser labels a row “Sample”. Which entry belongs in that row?
+07. [ac9m6st02-p-007] [] While checking a map, a Evaluating Statistically Informed Arguments organiser labels a row “Question”. Which entry belongs in that row?
+08. [ac9m6st02-p-008] [] In the makerspace, a Evaluating Statistically Informed Arguments organiser labels a row “Display”. Which entry belongs in that row?
+09. [ac9m6st02-p-009] [] During a cooking project, a Evaluating Statistically Informed Arguments organiser labels a row “Statistic”. Which entry belongs in that row?
+10. [ac9m6st02-p-010] [] At the community fair, a Evaluating Statistically Informed Arguments organiser labels a row “Conclusion”. Which entry belongs in that row?
+11. [ac9m6st02-p-011] [] While organising a library display, a Evaluating Statistically Informed Arguments organiser labels a row “truncated axis”. Which entry belongs in that row?
+12. [ac9m6st02-p-012] [] In a science notebook, a Evaluating Statistically Informed Arguments organiser labels a row “small voluntary sample”. Which entry belongs in that row?
+13. [ac9m6st02-p-013] [] During a design challenge, a Evaluating Statistically Informed Arguments organiser labels a row “percentage without denominator”. Which entry belongs in that row?
+14. [ac9m6st02-p-014] [] At the school canteen, a Evaluating Statistically Informed Arguments organiser labels a row “average without distribution”. Which entry belongs in that row?
+15. [ac9m6st02-p-015] [] While comparing travel plans, a Evaluating Statistically Informed Arguments organiser labels a row “association phrased as cause”. Which entry belongs in that row?
+16. [ac9m6st02-p-016] [] In a data workshop, What information is essential for interpreting ‘90% agreed’?
+17. [ac9m6st02-p-017] [] During a building project, What is a risk of a truncated vertical axis?
+18. [ac9m6st02-p-018] [] At the local pool. The quantities or representation come from a fresh example. a student reasons, “Any percentage treated as strong evidence”. Which response corrects the error?
+19. [ac9m6st02-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a student reasons, “Graph style trusted without values”. Which response corrects the error?
+20. [ac9m6st02-p-020] [] In a games club. The quantities or representation come from a fresh example. a student reasons, “Mean considered typical automatically”. Which response corrects the error?
+21. [ac9m6st02-p-021] [] During an art project. The quantities or representation come from a fresh example. a student reasons, “Correlation described as cause”. Which response corrects the error?
+22. [ac9m6st02-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a Evaluating Statistically Informed Arguments organiser labels a row “Source”. Which entry belongs in that row?
+23. [ac9m6st02-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. a Evaluating Statistically Informed Arguments organiser labels a row “Sample”. Which entry belongs in that row?
+24. [ac9m6st02-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. a Evaluating Statistically Informed Arguments organiser labels a row “Question”. Which entry belongs in that row?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6st02-t-001] [] At a coastal research station, another student selected “It always changes the data values”. Reconsider the evidence: What is a risk of a truncated vertical axis?
+02. [ac9m6st02-t-002] [] During a museum challenge, another student selected “The font colour”. Reconsider the evidence: What information is essential for interpreting ‘90% agreed’?
+03. [ac9m6st02-t-003] [] While planning a charity event, a Evaluating Statistically Informed Arguments organiser contains “overstates evidence”. Which heading best identifies that information?
+04. [ac9m6st02-t-004] [] In an engineering workshop, a Evaluating Statistically Informed Arguments organiser contains “hides spread or extremes”. Which heading best identifies that information?
+05. [ac9m6st02-t-005] [] At a regional sports carnival, a Evaluating Statistically Informed Arguments organiser contains “hides sample size”. Which heading best identifies that information?
+06. [ac9m6st02-t-006] [] During a farm survey, a Evaluating Statistically Informed Arguments organiser contains “selection bias”. Which heading best identifies that information?
+07. [ac9m6st02-t-007] [] While interpreting a trail guide, a Evaluating Statistically Informed Arguments organiser contains “exaggerates visual difference”. Which heading best identifies that information?
+08. [ac9m6st02-t-008] [] In an architecture studio, a Evaluating Statistically Informed Arguments organiser contains “What is actually supported?”. Which heading best identifies that information?
+09. [ac9m6st02-t-009] [] During a food-truck project, a Evaluating Statistically Informed Arguments organiser contains “Count, percentage, mean, mode?”. Which heading best identifies that information?
+10. [ac9m6st02-t-010] [] At a music festival, a Evaluating Statistically Informed Arguments organiser contains “Are scales and categories complete?”. Which heading best identifies that information?
+11. [ac9m6st02-t-011] [] While organising a book drive, a Evaluating Statistically Informed Arguments organiser contains “Was wording leading?”. Which heading best identifies that information?
+12. [ac9m6st02-t-012] [] In an environmental study, a Evaluating Statistically Informed Arguments organiser contains “How many, selected how, from where?”. Which heading best identifies that information?
+13. [ac9m6st02-t-013] [] During a playground redesign, a Evaluating Statistically Informed Arguments organiser contains “Who conducted and funded it?”. Which heading best identifies that information?
+14. [ac9m6st02-t-014] [] At a transport depot, a review recommends, “Causal claims need stronger design and reasoning.” Which claim most clearly needs that correction?
+15. [ac9m6st02-t-015] [] While preparing a camping trip, a review recommends, “Inspect distribution and outliers.” Which claim most clearly needs that correction?
+16. [ac9m6st02-t-016] [] In a strategy tournament, a review recommends, “Read axes and labels.” Which claim most clearly needs that correction?
+
+AC9M6ST03
+------------------------------------------------------------------------
+Practice: 24 | Test: 16 | Total: 40
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6st03-p-001] [] During a class investigation, a student reasons, “Question has one fixed answer”. Which response corrects the error?
+02. [ac9m6st03-p-002] [] At the school market, a student reasons, “Convenience sample generalised broadly”. Which response corrects the error?
+03. [ac9m6st03-p-003] [] While planning a garden, a student reasons, “Data cleaned by changing inconvenient values”. Which response corrects the error?
+04. [ac9m6st03-p-004] [] In a robotics challenge, a student reasons, “Conclusion written before analysis”. Which response corrects the error?
+05. [ac9m6st03-p-005] [] During sports-day planning, a Planning and Conducting Statistical Investigations organiser labels a row “population”. Which entry belongs in that row?
+06. [ac9m6st03-p-006] [] At a wildlife centre, a Planning and Conducting Statistical Investigations organiser labels a row “sample”. Which entry belongs in that row?
+07. [ac9m6st03-p-007] [] While checking a map, a Planning and Conducting Statistical Investigations organiser labels a row “variable”. Which entry belongs in that row?
+08. [ac9m6st03-p-008] [] In the makerspace, a Planning and Conducting Statistical Investigations organiser labels a row “measurement”. Which entry belongs in that row?
+09. [ac9m6st03-p-009] [] During a cooking project, a Planning and Conducting Statistical Investigations organiser labels a row “cleaning”. Which entry belongs in that row?
+10. [ac9m6st03-p-010] [] At the community fair, a Planning and Conducting Statistical Investigations organiser labels a row “report”. Which entry belongs in that row?
+11. [ac9m6st03-p-011] [] While organising a library display, Which is a statistical question?
+12. [ac9m6st03-p-012] [] In a science notebook, Which sample is most likely representative of a whole year level?
+13. [ac9m6st03-p-013] [] During a design challenge. The quantities or representation come from a fresh example. a student reasons, “Question has one fixed answer”. Which response corrects the error?
+14. [ac9m6st03-p-014] [] At the school canteen. The quantities or representation come from a fresh example. a student reasons, “Convenience sample generalised broadly”. Which response corrects the error?
+15. [ac9m6st03-p-015] [] While comparing travel plans. The quantities or representation come from a fresh example. a student reasons, “Data cleaned by changing inconvenient values”. Which response corrects the error?
+16. [ac9m6st03-p-016] [] In a data workshop. The quantities or representation come from a fresh example. a student reasons, “Conclusion written before analysis”. Which response corrects the error?
+17. [ac9m6st03-p-017] [] During a building project. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser labels a row “population”. Which entry belongs in that row?
+18. [ac9m6st03-p-018] [] At the local pool. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser labels a row “sample”. Which entry belongs in that row?
+19. [ac9m6st03-p-019] [] While preparing an excursion. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser labels a row “variable”. Which entry belongs in that row?
+20. [ac9m6st03-p-020] [] In a games club. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser labels a row “measurement”. Which entry belongs in that row?
+21. [ac9m6st03-p-021] [] During an art project. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser labels a row “cleaning”. Which entry belongs in that row?
+22. [ac9m6st03-p-022] [] At the recycling station. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser labels a row “report”. Which entry belongs in that row?
+23. [ac9m6st03-p-023] [] While planning a class survey. The quantities or representation come from a fresh example. Which is a statistical question?
+24. [ac9m6st03-p-024] [] In a coding lesson. The quantities or representation come from a fresh example. Which sample is most likely representative of a whole year level?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [ac9m6st03-t-001] [] At a coastal research station, another student selected “Only the first five volunteers”. Reconsider the evidence: Which sample is most likely representative of a whole year level?
+02. [ac9m6st03-t-002] [] During a museum challenge, another student selected “What is 4 + 6?”. Reconsider the evidence: Which is a statistical question?
+03. [ac9m6st03-t-003] [] While planning a charity event, a Planning and Conducting Statistical Investigations organiser contains “Finding, uncertainty and limitation?”. Which heading best identifies that information?
+04. [ac9m6st03-t-004] [] In an engineering workshop, a Planning and Conducting Statistical Investigations organiser contains “Duplicates, missing values, categories?”. Which heading best identifies that information?
+05. [ac9m6st03-t-005] [] At a regional sports carnival, a Planning and Conducting Statistical Investigations organiser contains “Unit, precision and consistency?”. Which heading best identifies that information?
+06. [ac9m6st03-t-006] [] During a farm survey, a Planning and Conducting Statistical Investigations organiser contains “Categorical, discrete or continuous?”. Which heading best identifies that information?
+07. [ac9m6st03-t-007] [] While interpreting a trail guide, a Planning and Conducting Statistical Investigations organiser contains “How can selection be fair and practical?”. Which heading best identifies that information?
+08. [ac9m6st03-t-008] [] In an architecture studio, a Planning and Conducting Statistical Investigations organiser contains “Who or what is the conclusion about?”. Which heading best identifies that information?
+09. [ac9m6st03-t-009] [] During a food-truck project, a review recommends, “Let evidence guide it.” Which claim most clearly needs that correction?
+10. [ac9m6st03-t-010] [] At a music festival, a review recommends, “Correct only documented errors.” Which claim most clearly needs that correction?
+11. [ac9m6st03-t-011] [] While organising a book drive, a review recommends, “State selection limitations.” Which claim most clearly needs that correction?
+12. [ac9m6st03-t-012] [] In an environmental study, a review recommends, “Statistical questions expect variability.” Which claim most clearly needs that correction?
+13. [ac9m6st03-t-013] [] During a playground redesign. The quantities or representation come from a fresh example. another student selected “Only the first five volunteers”. Reconsider the evidence: Which sample is most likely representative of a whole year level?
+14. [ac9m6st03-t-014] [] At a transport depot. The quantities or representation come from a fresh example. another student selected “What is 4 + 6?”. Reconsider the evidence: Which is a statistical question?
+15. [ac9m6st03-t-015] [] While preparing a camping trip. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser contains “Finding, uncertainty and limitation?”. Which heading best identifies that information?
+16. [ac9m6st03-t-016] [] In a strategy tournament. The quantities or representation come from a fresh example. a Planning and Conducting Statistical Investigations organiser contains “Duplicates, missing values, categories?”. Which heading best identifies that information?

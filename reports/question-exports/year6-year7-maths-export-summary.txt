@@ -1,0 +1,66 @@
+YEAR 6 + YEAR 7 MATHS QUESTION EXPORT SUMMARY
+========================================================================
+Source branch: main
+Source commit: bf27d920a27ae8e4132dd88694ff7bf7711f02e0
+
+Year 6: 24 codes | 576 Practice | 384 Test | 960 total
+Year 7: 30 codes | 1440 Practice | 480 Test | 1920 total
+Combined total: 2880 questions
+
+YEAR 6 CODE COUNTS
+AC9M6A01: 24 Practice + 16 Test = 40
+AC9M6A02: 24 Practice + 16 Test = 40
+AC9M6A03: 24 Practice + 16 Test = 40
+AC9M6M01: 24 Practice + 16 Test = 40
+AC9M6M02: 24 Practice + 16 Test = 40
+AC9M6M03: 24 Practice + 16 Test = 40
+AC9M6M04: 24 Practice + 16 Test = 40
+AC9M6N01: 24 Practice + 16 Test = 40
+AC9M6N02: 24 Practice + 16 Test = 40
+AC9M6N03: 24 Practice + 16 Test = 40
+AC9M6N04: 24 Practice + 16 Test = 40
+AC9M6N05: 24 Practice + 16 Test = 40
+AC9M6N06: 24 Practice + 16 Test = 40
+AC9M6N07: 24 Practice + 16 Test = 40
+AC9M6N08: 24 Practice + 16 Test = 40
+AC9M6N09: 24 Practice + 16 Test = 40
+AC9M6P01: 24 Practice + 16 Test = 40
+AC9M6P02: 24 Practice + 16 Test = 40
+AC9M6SP01: 24 Practice + 16 Test = 40
+AC9M6SP02: 24 Practice + 16 Test = 40
+AC9M6SP03: 24 Practice + 16 Test = 40
+AC9M6ST01: 24 Practice + 16 Test = 40
+AC9M6ST02: 24 Practice + 16 Test = 40
+AC9M6ST03: 24 Practice + 16 Test = 40
+
+YEAR 7 CODE COUNTS
+AC9M7A01: 48 Practice + 16 Test = 64
+AC9M7A02: 48 Practice + 16 Test = 64
+AC9M7A03: 48 Practice + 16 Test = 64
+AC9M7A04: 48 Practice + 16 Test = 64
+AC9M7A05: 48 Practice + 16 Test = 64
+AC9M7A06: 48 Practice + 16 Test = 64
+AC9M7M01: 48 Practice + 16 Test = 64
+AC9M7M02: 48 Practice + 16 Test = 64
+AC9M7M03: 48 Practice + 16 Test = 64
+AC9M7M04: 48 Practice + 16 Test = 64
+AC9M7M05: 48 Practice + 16 Test = 64
+AC9M7M06: 48 Practice + 16 Test = 64
+AC9M7N01: 48 Practice + 16 Test = 64
+AC9M7N02: 48 Practice + 16 Test = 64
+AC9M7N03: 48 Practice + 16 Test = 64
+AC9M7N04: 48 Practice + 16 Test = 64
+AC9M7N05: 48 Practice + 16 Test = 64
+AC9M7N06: 48 Practice + 16 Test = 64
+AC9M7N07: 48 Practice + 16 Test = 64
+AC9M7N08: 48 Practice + 16 Test = 64
+AC9M7N09: 48 Practice + 16 Test = 64
+AC9M7P01: 48 Practice + 16 Test = 64
+AC9M7P02: 48 Practice + 16 Test = 64
+AC9M7SP01: 48 Practice + 16 Test = 64
+AC9M7SP02: 48 Practice + 16 Test = 64
+AC9M7SP03: 48 Practice + 16 Test = 64
+AC9M7SP04: 48 Practice + 16 Test = 64
+AC9M7ST01: 48 Practice + 16 Test = 64
+AC9M7ST02: 48 Practice + 16 Test = 64
+AC9M7ST03: 48 Practice + 16 Test = 64

@@ -1,0 +1,2231 @@
+SKILLRHUB YEAR 7 MATHEMATICS — ALL COMMITTED QUESTIONS
+========================================================================
+Source branch: main
+Source commit: bf27d920a27ae8e4132dd88694ff7bf7711f02e0
+Canonical source: assets/assessment-banks/year7/math/*.json
+Curriculum codes: 30
+Practice questions: 1440
+Test questions: 480
+Total questions: 1920
+
+
+
+AC9M7A01
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A01-P-001] [easy] In A = l × w, what does l represent?
+02. [AC9M7A01-P-002] [easy] In p = 6g + b for Australian football scoring, what does g represent?
+03. [AC9M7A01-P-003] [easy] In p = 6g + b, what does the 6 mean?
+04. [AC9M7A01-P-004] [easy] In C = 2πr, what does r represent?
+05. [AC9M7A01-P-005] [easy] In V = lwh, what does h represent?
+06. [AC9M7A01-P-006] [easy] If g = 0 in p = 6g + b, which expression gives the score?
+07. [AC9M7A01-P-007] [easy] In A = lw, width stays fixed and length doubles. What happens to A?
+08. [AC9M7A01-P-008] [easy] Which is the correct density formula?
+09. [AC9M7A01-P-009] [easy] In W = b + 1.5rh, what does h represent?
+10. [AC9M7A01-P-010] [easy] In HRmax = 220 − age, what quantity is subtracted from 220?
+11. [AC9M7A01-P-011] [easy] Find A when l=9 cm and w=7 cm in A=lw.
+12. [AC9M7A01-P-012] [easy] Find p when g=4 and b=5 in p=6g+b.
+13. [AC9M7A01-P-013] [medium] Using d=m/v, find density when m=300 g and v=50 cm³.
+14. [AC9M7A01-P-014] [medium] Find W if b=$500, r=$25/h and h=4 in W=b+1.5rh.
+15. [AC9M7A01-P-015] [medium] Find HRmax for a 16-year-old using HRmax=220−age.
+16. [AC9M7A01-P-016] [medium] If HRtarget=0.7HRmax and HRmax=200, find HRtarget.
+17. [AC9M7A01-P-017] [medium] Find C if r=7 in C=2πr.
+18. [AC9M7A01-P-018] [medium] Find V if l=5, w=4 and h=3 in V=lwh.
+19. [AC9M7A01-P-019] [medium] A channel has cross-sectional area A=12 m² and water velocity v=1.8 m/s. Using Q=Av, find Q.
+20. [AC9M7A01-P-020] [medium] In Q=Av, velocity doubles while area stays fixed. What happens to Q?
+21. [AC9M7A01-P-021] [medium] If A=72 cm² and l=9 cm in A=lw, find w.
+22. [AC9M7A01-P-022] [medium] If p=41 and g=6 in p=6g+b, find b.
+23. [AC9M7A01-P-023] [medium] If d=5 g/cm³ and m=250 g, find v using d=m/v.
+24. [AC9M7A01-P-024] [medium] If W=$900, b=$720 and r=$24/h in W=b+1.5rh, find h.
+25. [AC9M7A01-P-025] [medium] If HRmax=195 and HRmax=220−age, find age.
+26. [AC9M7A01-P-026] [medium] If C=18π and C=2πr, find r.
+27. [AC9M7A01-P-027] [medium] If V=96, l=8 and w=4 in V=lwh, find h.
+28. [AC9M7A01-P-028] [medium] If p=50 and b=8 in p=6g+b, find g.
+29. [AC9M7A01-P-029] [medium] If d=3 g/cm³ and v=40 cm³, find m using d=m/v.
+30. [AC9M7A01-P-030] [medium] If HRtarget=140 and HRtarget=0.7HRmax, find HRmax.
+31. [AC9M7A01-P-031] [hard] If both l and w double in A=lw, what happens to area?
+32. [AC9M7A01-P-032] [hard] Using d=m/v, mass doubles while volume stays fixed. What happens to density?
+33. [AC9M7A01-P-033] [hard] Using d=m/v, both mass and volume double. What happens to density?
+34. [AC9M7A01-P-034] [hard] In W=b+1.5rh, h doubles while b and r stay fixed. Which statement is correct?
+35. [AC9M7A01-P-035] [hard] In Q=Av, A decreases while v increases. What can be concluded about Q without knowing the factors?
+36. [AC9M7A01-P-036] [hard] Using HRmax=220−age, what happens to predicted HRmax as age increases?
+37. [AC9M7A01-P-037] [hard] A student uses d=mv and gets 24,000 for m=300 g and v=80 cm³. What is the key error?
+38. [AC9M7A01-P-038] [hard] Which formula best models the total cost C of n tickets costing $12 each plus a fixed $5 booking fee?
+39. [AC9M7A01-P-039] [hard] A taxi charges a $4 start fee plus $2.50 per kilometre k. Which formula gives cost C?
+40. [AC9M7A01-P-040] [hard] A hypothetical water-monitoring model uses Q=Av. Which statement best describes the variables?
+41. [AC9M7A01-P-041] [hard] Use C=4.5+2.2d with the input value 8. What is the output?
+42. [AC9M7A01-P-042] [hard] Use m=ρV with ρ=2.5,V=8. What is the output?
+43. [AC9M7A01-P-043] [super-hard] Use A=bh. Given A=54,b=9, find the unknown.
+44. [AC9M7A01-P-044] [super-hard] Use P=2l+2w with l=8,w=5. What is the output?
+45. [AC9M7A01-P-045] [super-hard] Use F=1.8C+32 with the input value 20. What is the output?
+46. [AC9M7A01-P-046] [super-hard] Use d=rt. Given d=150,t=3, find the unknown.
+47. [AC9M7A01-P-047] [super-hard] Use A=lw with l=12,w=7. What is the output?
+48. [AC9M7A01-P-048] [super-hard] Use W=b+1.5hr with b=600,h=4,r=30. What is the output?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A01-T-001] [easy] A rectangle has A=lw. If A=162 m² and l=18 m, what is w?
+02. [AC9M7A01-T-002] [easy] A team scores p=6g+b. If p=47 and g=5, how many behinds were scored?
+03. [AC9M7A01-T-003] [easy] Using W=b+1.5rh, b=$720, r=$24 and W=$900. Find h.
+04. [AC9M7A01-T-004] [easy] Using d=m/v, d=4.5 g/cm³ and m=360 g. Find v.
+05. [AC9M7A01-T-005] [medium] For age 15, HRmax=220−age and HRtarget=0.7HRmax. Find HRtarget.
+06. [AC9M7A01-T-006] [medium] A streaming plan costs $11 per month plus $3 for each movie m. Which formula models monthly cost C?
+07. [AC9M7A01-T-007] [medium] Two plans are C=8+4n and D=20+2n. At n=6, which statement is correct?
+08. [AC9M7A01-T-008] [medium] For V=lwh, l doubles and h halves while w is unchanged. What happens to V?
+09. [AC9M7A01-T-009] [medium] A student calculates C=2πr with r=6 and reports C=12 cm. What is missing?
+10. [AC9M7A01-T-010] [medium] In T=18+0.6d, what does 18 most likely represent if T is taxi fare and d is distance?
+11. [AC9M7A01-T-011] [hard] For Q=Av, Q=30 m³/s and A=12 m². Find v.
+12. [AC9M7A01-T-012] [hard] For d=m/v, m is tripled and v is halved. How does d change?
+13. [AC9M7A01-T-013] [hard] A source gives F=1.8C+32. What is F when C=20?
+14. [AC9M7A01-T-014] [hard] Using F=1.8C+32, find C when F=77.
+15. [AC9M7A01-T-015] [super-hard] Which is the best reason to include units when interpreting a formula result?
+16. [AC9M7A01-T-016] [super-hard] A hypothetical channel model uses Q=Av. If A=15 m² and v=1.6 m/s, which interpretation is correct?
+
+AC9M7A02
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A02-P-001] [easy] Which expression represents a+a+a+a+a+a+a?
+02. [AC9M7A02-P-002] [easy] Which expression means 12 multiplied by k?
+03. [AC9M7A02-P-003] [easy] Which expression is equivalent to 4(x+x+x)?
+04. [AC9M7A02-P-004] [easy] Which expression is NOT equivalent to 3(x+5)?
+05. [AC9M7A02-P-005] [easy] For x=12, which is larger?
+06. [AC9M7A02-P-006] [easy] Simplify n+(n+2)+(n+4).
+07. [AC9M7A02-P-007] [easy] Simplify x+2x+4x+8x.
+08. [AC9M7A02-P-008] [easy] Expand 7(x-3).
+09. [AC9M7A02-P-009] [easy] Expand 4(2x+5).
+10. [AC9M7A02-P-010] [easy] Which expression is equivalent to 5(x+2)+3x?
+11. [AC9M7A02-P-011] [easy] Seven less than triple a number x is:
+12. [AC9M7A02-P-012] [easy] Half the sum of x and 9 is:
+13. [AC9M7A02-P-013] [medium] Five times a number, then subtract twice the number is:
+14. [AC9M7A02-P-014] [medium] Add 4 to x, then multiply the result by 6.
+15. [AC9M7A02-P-015] [medium] Subtract 8 from x, then divide by 3.
+16. [AC9M7A02-P-016] [medium] The product of a number and its successor is:
+17. [AC9M7A02-P-017] [medium] Four times the sum of a number and its double is:
+18. [AC9M7A02-P-018] [medium] Square a number, then subtract triple the number.
+19. [AC9M7A02-P-019] [medium] Add 6 to a number, then multiply by the original number.
+20. [AC9M7A02-P-020] [medium] Which expression is the sum of three consecutive integers starting at n?
+21. [AC9M7A02-P-021] [medium] What best describes a variable?
+22. [AC9M7A02-P-022] [medium] As x increases, what happens to 3x+4?
+23. [AC9M7A02-P-023] [medium] Which expression decreases as x increases?
+24. [AC9M7A02-P-024] [medium] If A=lw and l is fixed, what happens when w doubles?
+25. [AC9M7A02-P-025] [medium] If p=6g+b, what happens to p when b increases by 4 and g stays fixed?
+26. [AC9M7A02-P-026] [medium] For d=m/v, if m doubles and v stays fixed, what happens to d?
+27. [AC9M7A02-P-027] [medium] For Q=Av, if A is halved and v is unchanged, what happens to Q?
+28. [AC9M7A02-P-028] [medium] In Q=Av for water flow, what does v most reasonably represent?
+29. [AC9M7A02-P-029] [medium] Which is an appropriate use of a variable in a Country/Place model?
+30. [AC9M7A02-P-030] [medium] In 3(x+4), what is 3?
+31. [AC9M7A02-P-031] [hard] For x=20, which is larger?
+32. [AC9M7A02-P-032] [hard] For positive whole-number x greater than 5, which expression grows fastest as x continues to increase?
+33. [AC9M7A02-P-033] [hard] Which means subtract 4 from x, then triple the result?
+34. [AC9M7A02-P-034] [hard] Which means add 4 to x, then triple the result?
+35. [AC9M7A02-P-035] [hard] The square of a number plus 5 is:
+36. [AC9M7A02-P-036] [hard] Five less than the product of x and 7 is:
+37. [AC9M7A02-P-037] [hard] Double the sum of x and 8 is:
+38. [AC9M7A02-P-038] [hard] The product of x and (x-3) is:
+39. [AC9M7A02-P-039] [hard] A student translates 'three times a number then subtract 12' as 3(x-12). What is the error?
+40. [AC9M7A02-P-040] [hard] Simplify the sum of a number and its double.
+41. [AC9M7A02-P-041] [hard] A kayak hire costs $18 plus $7 for each hour h. Which expression models the situation?
+42. [AC9M7A02-P-042] [hard] A rectangle has length x centimetres and width 6 centimetres. Write its perimeter. Which expression models the situation?
+43. [AC9M7A02-P-043] [super-hard] A team scores 3 points for each goal g and loses 2 penalty points. Which expression models the situation?
+44. [AC9M7A02-P-044] [super-hard] A box contains n packets with 8 cards in each packet and 5 loose cards. Which expression models the situation?
+45. [AC9M7A02-P-045] [super-hard] A runner completes d kilometres on each of 4 days, then runs 3 extra kilometres. Which expression models the situation?
+46. [AC9M7A02-P-046] [super-hard] A cinema charges $12 per ticket t and a single $4 booking fee. Which expression models the situation?
+47. [AC9M7A02-P-047] [super-hard] A ribbon of length L centimetres is cut into 5 equal pieces. Which expression models the situation?
+48. [AC9M7A02-P-048] [super-hard] A temperature starts at x degrees and falls by 9 degrees. Which expression models the situation?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A02-T-001] [easy] Simplify 2a+5a+3a.
+02. [AC9M7A02-T-002] [easy] Which expression means five times the difference between x and 6?
+03. [AC9M7A02-T-003] [easy] Three more than twice a number is:
+04. [AC9M7A02-T-004] [easy] One third of the sum of n and 12 is:
+05. [AC9M7A02-T-005] [medium] Which is equivalent to 6(x+2)-2x?
+06. [AC9M7A02-T-006] [medium] A student writes 'double the sum of x and 7' as 2x+7. What is the best correction?
+07. [AC9M7A02-T-007] [medium] Which expression gives the sum of four consecutive integers starting at n?
+08. [AC9M7A02-T-008] [medium] For x=6, what is the difference between 4(x+3) and 4x+3?
+09. [AC9M7A02-T-009] [medium] If y=5x-2, what happens to y when x increases by 3?
+10. [AC9M7A02-T-010] [medium] For A=lw, l=8 and w changes from 3 to 5. How much does A increase?
+11. [AC9M7A02-T-011] [hard] A walking track costs $12 fixed plus $4 per participant. Which expression gives total cost C for p participants?
+12. [AC9M7A02-T-012] [hard] A water tank starts with 500 L and loses r litres per hour for h hours. Which expression gives the remaining volume?
+13. [AC9M7A02-T-013] [hard] Which expression is always 8 greater than 3x?
+14. [AC9M7A02-T-014] [hard] Which represents a number multiplied by two more than itself?
+15. [AC9M7A02-T-015] [super-hard] Which statement about 3x+4 and 3(x+4) is true for every x?
+16. [AC9M7A02-T-016] [super-hard] A pattern has term value 5n+2. What is the change in value when n increases by 1?
+
+AC9M7A03
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A03-P-001] [easy] Is x=5 a solution to 3x+4=19?
+02. [AC9M7A03-P-002] [easy] Is x=7 a solution to 5x-6=29?
+03. [AC9M7A03-P-003] [easy] Is x=9 a solution to 2x+3=21?
+04. [AC9M7A03-P-004] [easy] Is x=4 a solution to 7x-5=23?
+05. [AC9M7A03-P-005] [easy] Which value does NOT satisfy 4x+1=33?
+06. [AC9M7A03-P-006] [easy] Is x=6 a solution to 9x-10=44?
+07. [AC9M7A03-P-007] [easy] Which value satisfies 8x+2=26?
+08. [AC9M7A03-P-008] [easy] Which statement verifies x=10 for 6x-8=52?
+09. [AC9M7A03-P-009] [easy] Does x=2 satisfy 12x+5=29?
+10. [AC9M7A03-P-010] [easy] Which value satisfies 3x+7=40?
+11. [AC9M7A03-P-011] [easy] Solve 3x+7=19.
+12. [AC9M7A03-P-012] [easy] Solve 5x-9=21.
+13. [AC9M7A03-P-013] [medium] Solve 8x+4=36.
+14. [AC9M7A03-P-014] [medium] Solve 9x-3=42.
+15. [AC9M7A03-P-015] [medium] Solve 7x+2=30.
+16. [AC9M7A03-P-016] [medium] Solve 4(x-3)=20.
+17. [AC9M7A03-P-017] [medium] Solve 6(x+2)=48.
+18. [AC9M7A03-P-018] [medium] Solve 10x-15=35.
+19. [AC9M7A03-P-019] [medium] Solve 3(x-5)=27.
+20. [AC9M7A03-P-020] [medium] Solve 2x+9=31.
+21. [AC9M7A03-P-021] [medium] Solve 8x+12=3x+37.
+22. [AC9M7A03-P-022] [medium] Solve 9x-4=5x+28.
+23. [AC9M7A03-P-023] [medium] Solve 6(x-2)+4=40.
+24. [AC9M7A03-P-024] [medium] Solve 4x-15=29.
+25. [AC9M7A03-P-025] [medium] Solve 12x+8=4x+40.
+26. [AC9M7A03-P-026] [medium] Solve 7(x+3)=63.
+27. [AC9M7A03-P-027] [medium] Solve 5(x-4)+9=34.
+28. [AC9M7A03-P-028] [medium] Solve 3x+12=2x+30.
+29. [AC9M7A03-P-029] [medium] Solve 11x-33=55.
+30. [AC9M7A03-P-030] [medium] Solve 15x+5=80.
+31. [AC9M7A03-P-031] [hard] Which value satisfies 4x-7=29?
+32. [AC9M7A03-P-032] [hard] Which value satisfies 6x+5=41?
+33. [AC9M7A03-P-033] [hard] Which operation preserves equality?
+34. [AC9M7A03-P-034] [hard] For 9x+4=40, what is the most efficient first step?
+35. [AC9M7A03-P-035] [hard] Which value satisfies 7x-2=47?
+36. [AC9M7A03-P-036] [hard] Which value satisfies 3x+11=32?
+37. [AC9M7A03-P-037] [hard] Which value satisfies 10x-20=60?
+38. [AC9M7A03-P-038] [hard] A number is multiplied by 5 then increased by 17 to give 62. Which equation models this?
+39. [AC9M7A03-P-039] [hard] A student solves 6x+12=30 by dividing both sides by 6 first and writes x+12=5. What is the error?
+40. [AC9M7A03-P-040] [hard] What does it mean for x=4 to be a solution of an equation?
+41. [AC9M7A03-P-041] [hard] Solve 3x + 4 = 19. What is x?
+42. [AC9M7A03-P-042] [hard] Solve 4x + 2 = 30. What is x?
+43. [AC9M7A03-P-043] [super-hard] Solve 2x + 8 = 26. What is x?
+44. [AC9M7A03-P-044] [super-hard] Solve 5x + 1 = 31. What is x?
+45. [AC9M7A03-P-045] [super-hard] Solve 3x + 7 = 40. What is x?
+46. [AC9M7A03-P-046] [super-hard] Solve 6x + 5 = 53. What is x?
+47. [AC9M7A03-P-047] [super-hard] Solve 2x + 9 = 33. What is x?
+48. [AC9M7A03-P-048] [super-hard] Solve 7x + 3 = 31. What is x?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A03-T-001] [easy] Which value satisfies 5x-7=38?
+02. [AC9M7A03-T-002] [easy] Solve 7x-11=24.
+03. [AC9M7A03-T-003] [easy] Solve 4(x-6)=40.
+04. [AC9M7A03-T-004] [easy] Which line correctly verifies x=9 for 3x+14=41?
+05. [AC9M7A03-T-005] [medium] Solve 2x+5=3x-12.
+06. [AC9M7A03-T-006] [medium] Solve 9x+18=4x+63.
+07. [AC9M7A03-T-007] [medium] Solve 6x-27=45.
+08. [AC9M7A03-T-008] [medium] Solve 7(x-3)+5=61.
+09. [AC9M7A03-T-009] [medium] A number is multiplied by 8 then decreased by 19 to give 53. What is the number?
+10. [AC9M7A03-T-010] [medium] Solve 11x-7=6x+48.
+11. [AC9M7A03-T-011] [hard] Which method is most direct for 4x-15=29?
+12. [AC9M7A03-T-012] [hard] Why must the same operation be applied to both sides of an equation?
+13. [AC9M7A03-T-013] [hard] A student changes 5x+8=33 to 5x=33. What did they forget?
+14. [AC9M7A03-T-014] [hard] An equation has solution x=6. Which equation is true?
+15. [AC9M7A03-T-015] [super-hard] A water-height model gives 5h+32=3h+88. What is h?
+16. [AC9M7A03-T-016] [super-hard] After solving an equation, what is the strongest check?
+
+AC9M7A04
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A04-P-001] [easy] An electricity-use graph rises sharply at 7 pm. What does this show?
+02. [AC9M7A04-P-002] [easy] A gas-use graph is horizontal from midnight to 5 am. What can be concluded from the graph alone?
+03. [AC9M7A04-P-003] [easy] A temperature graph has a steep negative slope from 2 am to 4 am. What does this mean?
+04. [AC9M7A04-P-004] [easy] A share-price graph has a shallow upward slope over 10 days. Which description is best?
+05. [AC9M7A04-P-005] [easy] A graph is flat from 9 am to 4 pm. What does the flat segment mean?
+06. [AC9M7A04-P-006] [easy] A temperature reading appears as an almost vertical jump between two very close time measurements while nearby readings change smoothly. What should you do first?
+07. [AC9M7A04-P-007] [easy] A stock graph falls steeply over one hour. Which conclusion is supported?
+08. [AC9M7A04-P-008] [easy] A household gas-use graph spikes at 6 am. Which is a plausible interpretation, not a certainty?
+09. [AC9M7A04-P-009] [easy] An electricity graph reaches its lowest point at 3 am. What can be concluded?
+10. [AC9M7A04-P-010] [easy] A temperature graph is horizontal from 1 pm to 2 pm. What does this show?
+11. [AC9M7A04-P-011] [easy] On a distance-time graph, a steeper straight segment represents what?
+12. [AC9M7A04-P-012] [easy] A distance-time graph is horizontal for 8 minutes. What happened?
+13. [AC9M7A04-P-013] [medium] On a distance-from-home versus time graph, the line slopes downward. What does this indicate?
+14. [AC9M7A04-P-014] [medium] Two straight distance-time segments cover the same time. Segment A rises 120 m and segment B rises 60 m. Which is true?
+15. [AC9M7A04-P-015] [medium] A distance-time graph shows steep rise → horizontal → shallow rise. Which story matches?
+16. [AC9M7A04-P-016] [medium] A curved distance-time graph becomes progressively steeper. What does that indicate?
+17. [AC9M7A04-P-017] [medium] A distance-time curve becomes progressively less steep while still rising. What is happening?
+18. [AC9M7A04-P-018] [medium] A distance-from-home graph rises from zero and later returns to zero. What does that indicate?
+19. [AC9M7A04-P-019] [medium] A distance-time graph alternates between steep and shallow rising segments. What is changing?
+20. [AC9M7A04-P-020] [medium] Which graph feature most clearly represents a long stop on a distance-time graph?
+21. [AC9M7A04-P-021] [medium] A volume-versus-time graph starts shallow and becomes steep. What does this show?
+22. [AC9M7A04-P-022] [medium] A tank-volume graph is still rising but gradually flattens. What does this imply?
+23. [AC9M7A04-P-023] [medium] A water-volume graph has a steep negative slope. What is happening?
+24. [AC9M7A04-P-024] [medium] A volume-time graph shows steep rise → shallow rise → flat. Which story fits?
+25. [AC9M7A04-P-025] [medium] What does a changing slope generally indicate on a graph of one quantity against time?
+26. [AC9M7A04-P-026] [medium] A height-of-liquid graph steepens while liquid is poured at a constant volume rate. Which explanation is plausible?
+27. [AC9M7A04-P-027] [medium] A distance-from-home graph rises quickly, rises slowly, then falls quickly. Which story matches?
+28. [AC9M7A04-P-028] [medium] A temperature graph is flat, then rises steeply, then falls steeply. Which description is best?
+29. [AC9M7A04-P-029] [medium] Gas usage rises rapidly at 6 am, stays roughly constant through the day, then falls rapidly at 10 pm. Which interpretation best matches?
+30. [AC9M7A04-P-030] [medium] Electricity use shows shallow rise → steep rise → shallow fall. What does this mean?
+31. [AC9M7A04-P-031] [hard] In a linear model y = 2.5x + 10, what does 2.5 represent?
+32. [AC9M7A04-P-032] [hard] In y = 2.5x + 10, what does 10 represent?
+33. [AC9M7A04-P-033] [hard] Data points lie close to a fitted line with small vertical gaps. What does this suggest?
+34. [AC9M7A04-P-034] [hard] A data point lies far from the overall trend and fitted line. What is it commonly called?
+35. [AC9M7A04-P-035] [hard] Model A has slope 5 and widely scattered points; Model B has slope 1 and points tightly clustered around its line. Which statement is best?
+36. [AC9M7A04-P-036] [hard] An evaporation-rate graph is nearly flat for several hours. What does this show?
+37. [AC9M7A04-P-037] [hard] An evaporation-rate graph rises sharply during a hot period, drops after cloud cover, then becomes nearly flat in the evening. Which story is most consistent?
+38. [AC9M7A04-P-038] [hard] Evaporation rate increases across several hotter, drier weeks. Which conclusion is directly supported?
+39. [AC9M7A04-P-039] [hard] A fitted line slopes upward. What does the model predict, all else equal?
+40. [AC9M7A04-P-040] [hard] Why should axes, units and scale be checked before telling the story of a graph?
+41. [AC9M7A04-P-041] [hard] A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36. Which interpretation is supported?
+42. [AC9M7A04-P-042] [hard] A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23. Which interpretation is supported?
+43. [AC9M7A04-P-043] [super-hard] A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35. Which interpretation is supported?
+44. [AC9M7A04-P-044] [super-hard] Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115. Which interpretation is supported?
+45. [AC9M7A04-P-045] [super-hard] A share price ($) over five days is 24, 27, 25, 29, 28. Which interpretation is supported?
+46. [AC9M7A04-P-046] [super-hard] A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150. Which interpretation is supported?
+47. [AC9M7A04-P-047] [super-hard] Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10. Which interpretation is supported?
+48. [AC9M7A04-P-048] [super-hard] A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6. Which interpretation is supported?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A04-T-001] [easy] A building-use graph is low overnight, rises sharply at 7 am, stays nearly flat from 9 am to 5 pm, then peaks at 6 pm. Which statement is best supported?
+02. [AC9M7A04-T-002] [easy] A distance-from-home graph rises steeply for 10 minutes, is horizontal for 5 minutes, then falls gently to zero. Which story matches?
+03. [AC9M7A04-T-003] [easy] On a distance-time graph, segment A rises 150 m in 3 min and segment B rises 180 m in 6 min. Which segment represents greater speed?
+04. [AC9M7A04-T-004] [easy] A graph of water volume versus time is horizontal from 12 to 15 minutes. What does this mean?
+05. [AC9M7A04-T-005] [medium] A volume-time curve becomes less steep but continues upward. What is happening?
+06. [AC9M7A04-T-006] [medium] One point on a smooth temperature trend lies far above all neighbouring points. What is the most appropriate first response?
+07. [AC9M7A04-T-007] [medium] A fitted model is y = 4x + 12. What does the coefficient 4 mean?
+08. [AC9M7A04-T-008] [medium] For y = 4x + 12, what is the model prediction when x = 0?
+09. [AC9M7A04-T-009] [medium] Which situation best suggests a fitted straight line represents the observed data well?
+10. [AC9M7A04-T-010] [medium] Why can one extreme outlier matter when interpreting a trend?
+11. [AC9M7A04-T-011] [hard] An evaporation-rate graph rises sharply during a hot afternoon and then falls after cloud cover. Which wording is most scientifically careful?
+12. [AC9M7A04-T-012] [hard] Two graphs display the same data but use different vertical-axis scales. One looks much steeper. What should a student conclude?
+13. [AC9M7A04-T-013] [hard] A distance-from-school graph starts at 0, rises, stays flat, rises again, then returns to 0. Which interpretation is possible?
+14. [AC9M7A04-T-014] [hard] An evaporation-rate graph is horizontal at 5 mm/day. Which statement is correct?
+15. [AC9M7A04-T-015] [super-hard] Which claim goes beyond what a stock-price graph alone can establish?
+16. [AC9M7A04-T-016] [super-hard] A graph compares temperature and evaporation over time. Both rise through midday, then evaporation falls sooner than temperature. What is the best conclusion?
+
+AC9M7A05
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A05-P-001] [easy] For y = 3x + 2, what is y when x = 5?
+02. [AC9M7A05-P-002] [easy] Which table is linear with a non-zero constant difference?
+03. [AC9M7A05-P-003] [easy] A table's y-values increase by 6 whenever x increases by 1. Which form must its rule have?
+04. [AC9M7A05-P-004] [easy] Which rule produces a straight-line graph?
+05. [AC9M7A05-P-005] [easy] For y=2x, what is y when x=5?
+06. [AC9M7A05-P-006] [easy] Which table matches y=5x?
+07. [AC9M7A05-P-007] [easy] If y rises by 9 for every increase of 1 in x, what is the slope?
+08. [AC9M7A05-P-008] [easy] Which table is NOT linear?
+09. [AC9M7A05-P-009] [easy] In y=4x+1, what is the slope?
+10. [AC9M7A05-P-010] [easy] In y=3x−7, what is the y-intercept?
+11. [AC9M7A05-P-011] [easy] A machine multiplies by 4 then adds 3. What is the output for input 6?
+12. [AC9M7A05-P-012] [easy] Which rule means 'double then subtract 5'?
+13. [AC9M7A05-P-013] [medium] For y=x+7, what is the output when x=12?
+14. [AC9M7A05-P-014] [medium] A machine multiplies by 3 then divides by 2. What is the output for input 10?
+15. [AC9M7A05-P-015] [medium] Which rule means 'subtract 4, then triple the result'?
+16. [AC9M7A05-P-016] [medium] A machine squares the input then adds 1. What is the output for input 5?
+17. [AC9M7A05-P-017] [medium] Which rule means 'divide by 3, then add 10'?
+18. [AC9M7A05-P-018] [medium] A machine multiplies by 6 then subtracts 2. What is the output for input 7?
+19. [AC9M7A05-P-019] [medium] Which rule means 'add 8, then halve the result'?
+20. [AC9M7A05-P-020] [medium] A machine triples then adds 12. What is the output for input 9?
+21. [AC9M7A05-P-021] [medium] A pattern increases by 5 every step. Which rule form fits the pattern?
+22. [AC9M7A05-P-022] [medium] What is the constant difference in 4, 9, 14, 19, …?
+23. [AC9M7A05-P-023] [medium] If term 1 is 10 and each new term adds 5, which rule gives term n?
+24. [AC9M7A05-P-024] [medium] A linear growth pattern plotted against step number forms what shape?
+25. [AC9M7A05-P-025] [medium] Which rule gives 3, 6, 9, 12, … for n=1,2,3,4?
+26. [AC9M7A05-P-026] [medium] What is the constant difference in 2, 7, 12, 17, …?
+27. [AC9M7A05-P-027] [medium] Which rule gives 1, 4, 7, 10, … for n=1,2,3,4?
+28. [AC9M7A05-P-028] [medium] Which statement is true for a sequence with constant first difference?
+29. [AC9M7A05-P-029] [medium] What is the constant difference in 5, 11, 17, 23, …?
+30. [AC9M7A05-P-030] [medium] Which rule gives 8, 16, 24, 32, …?
+31. [AC9M7A05-P-031] [hard] An algorithm has term 1 = 2 and adds 7 each new step. Which explicit rule is correct?
+32. [AC9M7A05-P-032] [hard] An algorithm has term 1=10 and adds 4 each new step. What is term 5?
+33. [AC9M7A05-P-033] [hard] An algorithm adds the same constant at every step. What graph does term number versus value produce?
+34. [AC9M7A05-P-034] [hard] An algorithm starts at 3 and multiplies by 2 each step. What type of pattern is it?
+35. [AC9M7A05-P-035] [hard] An algorithm has term 1=5 and adds 9 each step. What is term 4?
+36. [AC9M7A05-P-036] [hard] A sequence starts at 1, then adds 1, then 2, then 3, then 4, … . How should it be classified?
+37. [AC9M7A05-P-037] [hard] An algorithm has term 1=2 and adds 5 each step. What graph shape results?
+38. [AC9M7A05-P-038] [hard] A sequence has term 1=12 and adds 12 each step. Which rule gives term n?
+39. [AC9M7A05-P-039] [hard] An algorithm has term 1=4 and adds 3 each step. What is term 7?
+40. [AC9M7A05-P-040] [hard] An algorithm starts at 6 and multiplies by 3 each step. What type of pattern is it?
+41. [AC9M7A05-P-041] [hard] A pattern follows y = 2n + 3. How many tiles are in figure 5?
+42. [AC9M7A05-P-042] [hard] A pattern follows y = 3n + 1. How many tiles are in figure 5?
+43. [AC9M7A05-P-043] [super-hard] A pattern follows y = 4n + 2. How many tiles are in figure 5?
+44. [AC9M7A05-P-044] [super-hard] A pattern follows y = 5n + 4. How many tiles are in figure 5?
+45. [AC9M7A05-P-045] [super-hard] A pattern follows y = 6n + 1. How many tiles are in figure 5?
+46. [AC9M7A05-P-046] [super-hard] A pattern follows y = 7n + 3. How many tiles are in figure 5?
+47. [AC9M7A05-P-047] [super-hard] Figures 1 to 4 contain 5, 8, 11, 14 tiles. Which rule and next value fit the pattern?
+48. [AC9M7A05-P-048] [super-hard] Figures 1 to 4 contain 7, 11, 15, 19 tiles. Which rule and next value fit the pattern?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A05-T-001] [easy] For y=4x−3, what is y when x=6?
+02. [AC9M7A05-T-002] [easy] A table has points (1,7), (2,11), (3,15). Which rule fits?
+03. [AC9M7A05-T-003] [easy] Which sequence has a linear step-number relationship?
+04. [AC9M7A05-T-004] [easy] Which rule means 'add 5 to the input, then multiply the result by 4'?
+05. [AC9M7A05-T-005] [medium] A function machine uses y=(x+8)/2. What is the output for x=14?
+06. [AC9M7A05-T-006] [medium] A growing pattern has 7, 11, 15, 19, … tiles. Which rule gives tiles T at step n?
+07. [AC9M7A05-T-007] [medium] The rule is y=5x−2. The table has x=1,2,4 and y=3,8,?. What is missing?
+08. [AC9M7A05-T-008] [medium] A line represents C=2.5n+12, where C is cost in dollars and n is number of tickets. What does 2.5 represent?
+09. [AC9M7A05-T-009] [medium] For y=6x−4, which point is the y-intercept?
+10. [AC9M7A05-T-010] [medium] A sequence has term 1=10 and adds 6 each step. Which expression gives term n?
+11. [AC9M7A05-T-011] [hard] Term 1 is 3 and each new term adds 8. What is term 12?
+12. [AC9M7A05-T-012] [hard] Which algorithm will NOT produce a straight line when term value is plotted against term number?
+13. [AC9M7A05-T-013] [hard] Which rule represents a proportional relationship through the origin?
+14. [AC9M7A05-T-014] [hard] A linear pattern has rule y=7n−5. At which step is y=44?
+15. [AC9M7A05-T-015] [super-hard] A student says the sequence 5,9,13,17 has rule y=4n+5. What is the best correction?
+16. [AC9M7A05-T-016] [super-hard] A water tank contains 12 L at cycle 1 and gains 7 L each cycle. Which pair correctly gives the rule and cycle-8 value?
+
+AC9M7A06
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A06-P-001] [easy] For V = lwh, l = 10 and w = 4 are fixed. What happens to V if h doubles?
+02. [AC9M7A06-P-002] [easy] For V = lwh with l = 8 and w = 5, what volumes correspond to h = 1, 2, 3, 4?
+03. [AC9M7A06-P-003] [easy] If width increases while length and height stay positive and fixed, what happens to volume?
+04. [AC9M7A06-P-004] [easy] For l = 12 cm and w = 3 cm, which height gives the greatest volume?
+05. [AC9M7A06-P-005] [easy] If l and w are fixed positive constants, the graph of V against h is what type?
+06. [AC9M7A06-P-006] [easy] For V = lwh, which statement about the 'strongest' variable is most accurate?
+07. [AC9M7A06-P-007] [easy] For l = 6, w = 2 and h = 2, 4, 6, which volumes are correct?
+08. [AC9M7A06-P-008] [easy] If only one positive dimension of a rectangular prism is doubled while the other two remain fixed, volume becomes:
+09. [AC9M7A06-P-009] [easy] For l = 5 and w = 5, what volumes correspond to h = 1, 2, 3?
+10. [AC9M7A06-P-010] [easy] A prism has l = 8 cm, w = 3 cm and volume 144 cm³. What is h?
+11. [AC9M7A06-P-011] [easy] A spreadsheet cell contains =A1*B1. If A1 = 7 and B1 = 9, what is the output?
+12. [AC9M7A06-P-012] [easy] In =A1*B1, B1 is a fixed positive value. What happens to the output as A1 increases?
+13. [AC9M7A06-P-013] [medium] What does =A1+3*B1 mean?
+14. [AC9M7A06-P-014] [medium] For output = 4A + B, if A and B use comparable units, which one-unit increase changes the output more?
+15. [AC9M7A06-P-015] [medium] For y = 2A + 5B, A stays fixed and B increases from 3 to 6. By how much does y change?
+16. [AC9M7A06-P-016] [medium] What does =A1^2+B1 mean?
+17. [AC9M7A06-P-017] [medium] If A = 4 and B = 10, evaluate 3A − 2B.
+18. [AC9M7A06-P-018] [medium] In y = 10A − B, A is fixed. What happens as B increases?
+19. [AC9M7A06-P-019] [medium] What does =A1*B1+4 calculate?
+20. [AC9M7A06-P-020] [medium] For y = 5A + 5B, both A and B increase by 2. By how much does y increase?
+21. [AC9M7A06-P-021] [medium] Using d = st, find d when s = 50 km/h and t = 4 h.
+22. [AC9M7A06-P-022] [medium] If time is fixed at 3 h and speed increases, distance travelled:
+23. [AC9M7A06-P-023] [medium] If speed stays fixed and time doubles, distance:
+24. [AC9M7A06-P-024] [medium] At a fixed time of 3 h, speeds 20, 40 and 60 km/h give distances:
+25. [AC9M7A06-P-025] [medium] For d = st, which statement is correct about equal percentage changes?
+26. [AC9M7A06-P-026] [medium] If speed is fixed at 70 km/h, which rule relates distance d to time t?
+27. [AC9M7A06-P-027] [medium] At 70 km/h for 2 h, what distance is travelled?
+28. [AC9M7A06-P-028] [medium] Which journey covers the greatest distance?
+29. [AC9M7A06-P-029] [medium] For d = st, what are d values for paired (s,t) values (30,1), (60,2), (90,3)?
+30. [AC9M7A06-P-030] [medium] A journey's speed doubles and its travel time triples. Assuming d = st, distance becomes:
+31. [AC9M7A06-P-031] [hard] In y = 3a + 2b, b is fixed. Increasing a by 5 changes y by:
+32. [AC9M7A06-P-032] [hard] For y = 4x − z, with x and z on comparable scales, which one-unit change has larger absolute effect on y?
+33. [AC9M7A06-P-033] [hard] What is the main purpose of one-variable-at-a-time sensitivity analysis?
+34. [AC9M7A06-P-034] [hard] Why can sensitivity tables improve model explainability?
+35. [AC9M7A06-P-035] [hard] For F = 5x + 10y − 2z, increasing y by 1 while x and z stay fixed changes F by:
+36. [AC9M7A06-P-036] [hard] Which statement about a large coefficient is safest?
+37. [AC9M7A06-P-037] [hard] In P = 2a + 5b − c, which variable lowers P when it increases and the others stay fixed?
+38. [AC9M7A06-P-038] [hard] In F = 3x + 2y − 4z, what happens when z increases by 3 with x and y fixed?
+39. [AC9M7A06-P-039] [hard] In a linear rule, a variable with coefficient 0 has what direct effect on the output?
+40. [AC9M7A06-P-040] [hard] For F = 3x + 2y − 4z + 15, x rises by 2, y falls by 1 and z rises by 1. What is the net change in F?
+41. [AC9M7A06-P-041] [hard] For V = lwh, length l doubles while w and h stay fixed. What happens to the output?
+42. [AC9M7A06-P-042] [hard] For A = bh ÷ 2, height h triples while b stays fixed. What happens to the output?
+43. [AC9M7A06-P-043] [super-hard] For d = rt, time t halves while r stays fixed. What happens to the output?
+44. [AC9M7A06-P-044] [super-hard] For C = 2l + 2w, length l increases by 3 while w stays fixed. What happens to the output?
+45. [AC9M7A06-P-045] [super-hard] For m = ρV, volume V doubles while density ρ stays fixed. What happens to the output?
+46. [AC9M7A06-P-046] [super-hard] For E = pt, power p triples while time t stays fixed. What happens to the output?
+47. [AC9M7A06-P-047] [super-hard] For A = lw, both l and w double. What happens to the output?
+48. [AC9M7A06-P-048] [super-hard] For V = lwh, l, w and h all double. What happens to the output?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7A06-T-001] [easy] For V=lwh, find V when l=9 cm, w=4 cm and h=6 cm.
+02. [AC9M7A06-T-002] [easy] For V=lwh, l=5 and w=8 are fixed. If h changes from 3 to 7, by how much does V increase?
+03. [AC9M7A06-T-003] [easy] A prism has V=420 cm³, l=10 cm and w=7 cm. Find h.
+04. [AC9M7A06-T-004] [easy] A spreadsheet uses =2*A1-3*B1. If A1=9 and B1=4, what is the result?
+05. [AC9M7A06-T-005] [medium] For P=2a+5b−c, a and c stay fixed. If b increases by 4, how does P change?
+06. [AC9M7A06-T-006] [medium] A vehicle travels 75 km/h for 2.5 h. What distance does d=st predict?
+07. [AC9M7A06-T-007] [medium] In d=st, speed is multiplied by 1.5 and time by 2. What happens to distance?
+08. [AC9M7A06-T-008] [medium] At fixed time 4 h, distances are 120, 200 and 280 km. Which speeds produced them?
+09. [AC9M7A06-T-009] [medium] For y=7x−2z+5, x increases by 3 and z stays fixed. What is Δy?
+10. [AC9M7A06-T-010] [medium] For y=7x−2z+5, z increases by 4 and x stays fixed. What is Δy?
+11. [AC9M7A06-T-011] [hard] Which statement is valid for y=6a+b when a and b are measured on comparable scales?
+12. [AC9M7A06-T-012] [hard] Why hold other variables constant during a sensitivity test?
+13. [AC9M7A06-T-013] [hard] For F=4x+3y−2z, x rises by 1, y rises by 2 and z falls by 3. What is ΔF?
+14. [AC9M7A06-T-014] [hard] A student says doubling both l and w in V=lwh doubles V when h is fixed. What is correct?
+15. [AC9M7A06-T-015] [super-hard] A sensitivity table shows output changes of +2, +5 and −7 for one-unit increases in x, y and z respectively. Which input has greatest absolute one-unit effect?
+16. [AC9M7A06-T-016] [super-hard] For F=3x+2y−4z+15, which change leaves F unchanged?
+
+AC9M7M01
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M01-P-001] [easy] Why is the area of a triangle with base b and perpendicular height h equal to 1/2 bh?
+02. [AC9M7M01-P-002] [easy] Which formula gives the area of a parallelogram?
+03. [AC9M7M01-P-003] [easy] A rectangle is cut along a diagonal. What is the area of each triangle?
+04. [AC9M7M01-P-004] [easy] Which measurement must be used as h in A=1/2 bh?
+05. [AC9M7M01-P-005] [easy] A parallelogram is cut and rearranged into a rectangle. Which measurements stay relevant to area?
+06. [AC9M7M01-P-006] [easy] A triangle has measurements in metres. What units should its area use?
+07. [AC9M7M01-P-007] [easy] A triangle's base stays 12 cm and its top vertex slides along a line parallel to the base. What happens to its area?
+08. [AC9M7M01-P-008] [easy] A parallelogram's base is fixed and its top edge slides sideways while remaining parallel to the base. Its perpendicular height stays fixed. What happens to area?
+09. [AC9M7M01-P-009] [easy] A triangle's base doubles while its height stays fixed. How does area change?
+10. [AC9M7M01-P-010] [easy] A triangle's base doubles and its height halves. What happens to its area?
+11. [AC9M7M01-P-011] [easy] Find the area of a triangle with base 12 cm and perpendicular height 9 cm.
+12. [AC9M7M01-P-012] [easy] Find the area of a parallelogram with base 15 m and perpendicular height 8 m.
+13. [AC9M7M01-P-013] [medium] A triangular shade sail has area 32 m² and material costs $12 per m². What is the material cost?
+14. [AC9M7M01-P-014] [medium] Which triangle has the greatest area?
+15. [AC9M7M01-P-015] [medium] Which parallelogram has the smallest area?
+16. [AC9M7M01-P-016] [medium] A triangle has area 40 cm² and base 10 cm. What is its perpendicular height?
+17. [AC9M7M01-P-017] [medium] A parallelogram has area 96 cm² and base 12 cm. What is its height?
+18. [AC9M7M01-P-018] [medium] Which pair has equal area?
+19. [AC9M7M01-P-019] [medium] Which triangle has area 50 cm²?
+20. [AC9M7M01-P-020] [medium] Which parallelogram has area 84 cm²?
+21. [AC9M7M01-P-021] [medium] A student uses the 13 cm slanted side as the height of a parallelogram with base 10 cm. Why may this be wrong?
+22. [AC9M7M01-P-022] [medium] A student calculates a triangle's area as 12×7=84 cm². What is the likely error?
+23. [AC9M7M01-P-023] [medium] A triangle is dragged so its shape changes but base and perpendicular height remain 10 cm and 6 cm. What area should the software continue to show?
+24. [AC9M7M01-P-024] [medium] A parallelogram has base 9 cm and height 5 cm. Its slant changes. What area remains invariant?
+25. [AC9M7M01-P-025] [medium] A triangular sail must have area 48 m² and base 12 m. What height is required?
+26. [AC9M7M01-P-026] [medium] A parallelogram paving section must cover 150 m² with base 25 m. What perpendicular height is needed?
+27. [AC9M7M01-P-027] [medium] A 20 cm × 12 cm rectangle is split diagonally. What is the area of one triangle?
+28. [AC9M7M01-P-028] [medium] Shade cloth costs $15 per m². A triangular sail has base 10 m and height 6 m. What is the cost?
+29. [AC9M7M01-P-029] [medium] Two triangles have the same base and the same perpendicular height but different sloping sides. Which statement is true?
+30. [AC9M7M01-P-030] [medium] Two parallelograms have the same base and perpendicular height but different angles. Which statement is true?
+31. [AC9M7M01-P-031] [hard] A triangle's base is multiplied by 3 and height by 2. By what factor does area change?
+32. [AC9M7M01-P-032] [hard] A parallelogram's base is halved and height tripled. By what factor does area change?
+33. [AC9M7M01-P-033] [hard] A triangle and parallelogram share base 14 cm and height 8 cm. How are their areas related?
+34. [AC9M7M01-P-034] [hard] A triangle has area 72 cm² and height 12 cm. What is its base?
+35. [AC9M7M01-P-035] [hard] A triangular garden has base 18 m and height 10 m. Fertiliser covers 30 m² per bag. How many whole bags are needed?
+36. [AC9M7M01-P-036] [hard] A parallelogram floor has base 14 m and height 9 m. Tiles cover 7 m² per box. How many boxes are needed?
+37. [AC9M7M01-P-037] [hard] Which condition guarantees a triangle keeps the same area while its top vertex moves?
+38. [AC9M7M01-P-038] [hard] Which condition guarantees a parallelogram keeps the same area while its slant changes?
+39. [AC9M7M01-P-039] [hard] A triangle has base 20 cm and height 5 cm. A student reports area 100 cm². Which evaluation is correct?
+40. [AC9M7M01-P-040] [hard] A triangle's height increases from 6 cm to 9 cm while base stays fixed. By what factor does area change?
+41. [AC9M7M01-P-041] [hard] A Year 7 student is solving a problem involving find a triangle area. Which option is mathematically valid?
+42. [AC9M7M01-P-042] [hard] A Year 7 student is solving a problem involving choose perpendicular height. Which option is mathematically valid?
+43. [AC9M7M01-P-043] [super-hard] A Year 7 student is solving a problem involving find a missing dimension. Which option is mathematically valid?
+44. [AC9M7M01-P-044] [super-hard] A Year 7 student is solving a problem involving decompose a composite shape. Which option is mathematically valid?
+45. [AC9M7M01-P-045] [super-hard] Which statement correctly identifies base in area of triangles and parallelograms?
+46. [AC9M7M01-P-046] [super-hard] Which choice best describes square unit in area of triangles and parallelograms?
+47. [AC9M7M01-P-047] [super-hard] What does correct use require for perpendicular height in area of triangles and parallelograms?
+48. [AC9M7M01-P-048] [super-hard] Reasoning 1: A parallelogram has area 72 cm² and perpendicular height 6 cm. Find its base.
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M01-T-001] [easy] Which statement best explains A=1/2 bh for a triangle?
+02. [AC9M7M01-T-002] [easy] A parallelogram has base 18 cm, slanted side 11 cm and perpendicular height 7 cm. What is its area?
+03. [AC9M7M01-T-003] [easy] A triangle has base 16 cm and perpendicular height 13 cm. Find its area.
+04. [AC9M7M01-T-004] [easy] A triangle has area 63 m² and base 14 m. Find its height.
+05. [AC9M7M01-T-005] [medium] A parallelogram has area 132 cm² and height 11 cm. Find its base.
+06. [AC9M7M01-T-006] [medium] A triangle keeps base 20 cm and height 9 cm while its top vertex slides sideways. Which statement is correct?
+07. [AC9M7M01-T-007] [medium] A triangle and parallelogram share base 10 cm and height 12 cm. What is the difference between their areas?
+08. [AC9M7M01-T-008] [medium] A triangle's base is tripled while its height is reduced to one third. What happens to area?
+09. [AC9M7M01-T-009] [medium] A triangular shade sail has base 14 m and height 8 m. Fabric costs $18 per m². What is the cost?
+10. [AC9M7M01-T-010] [medium] A parallelogram lawn has base 20 m and height 12 m. One bag treats 40 m². How many bags are needed?
+11. [AC9M7M01-T-011] [hard] A student calculates a parallelogram's area using base × slanted side. What should they use instead?
+12. [AC9M7M01-T-012] [hard] Which triangle has the same area as a parallelogram with base 6 cm and height 10 cm?
+13. [AC9M7M01-T-013] [hard] Which change can alter a triangle's shape without altering its area?
+14. [AC9M7M01-T-014] [hard] A triangular garden has area 96 m² and height 12 m. Fencing is not relevant; what base length gives this area?
+15. [AC9M7M01-T-015] [super-hard] A parallelogram has fixed base. Its height increases by 25%. How does its area change?
+16. [AC9M7M01-T-016] [super-hard] Triangle A has base 18 cm and height 8 cm. Triangle B has base 12 cm. What height gives Triangle B the same area?
+
+AC9M7M02
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M02-P-001] [easy] Which formula gives the volume V of any prism with constant cross-sectional area B and perpendicular prism length h?
+02. [AC9M7M02-P-002] [easy] A rectangular prism is 3 cm by 4 cm by 5 cm. How many 1 cm³ cubes exactly fill it?
+03. [AC9M7M02-P-003] [easy] A triangular prism has triangular cross-section base 10 cm and perpendicular height 6 cm, and prism length 12 cm. What is its volume?
+04. [AC9M7M02-P-004] [easy] A prism has cross-sectional area 24 cm² and perpendicular length 10 cm. What is its volume?
+05. [AC9M7M02-P-005] [easy] Which expression gives the volume of a triangular prism with triangle base b, triangle height h and prism length L?
+06. [AC9M7M02-P-006] [easy] A 2×3×4 rectangular prism is packed with 1 cm³ cubes. How many cubes are in one 2×3 layer, and how many such layers are stacked?
+07. [AC9M7M02-P-007] [easy] A triangular cross-section has base 12 cm and perpendicular height 10 cm. What is its area?
+08. [AC9M7M02-P-008] [easy] A prism has volume 360 cm³ and perpendicular length 12 cm. What is its cross-sectional area?
+09. [AC9M7M02-P-009] [easy] A rectangular prism is 9 cm long, 5 cm wide and 4 cm high. What is its volume?
+10. [AC9M7M02-P-010] [easy] What does the base area B represent in V = Bh?
+11. [AC9M7M02-P-011] [easy] If a prism's cross-sectional area doubles while its perpendicular length stays fixed, what happens to volume?
+12. [AC9M7M02-P-012] [easy] If the perpendicular length doubles while cross-sectional area stays fixed, what happens to volume?
+13. [AC9M7M02-P-013] [medium] Prism A has B=30 cm²,h=9 cm. Prism B has B=25 cm²,h=10 cm. Which has greater volume?
+14. [AC9M7M02-P-014] [medium] Which pair of prisms has equal volume?
+15. [AC9M7M02-P-015] [medium] A prism's cross-sectional area increases by 50% while its length decreases by 20%. What happens to volume?
+16. [AC9M7M02-P-016] [medium] A triangular prism has volume 540 cm³ and length 15 cm. Its triangular cross-section has base 12 cm. Find the triangle's perpendicular height.
+17. [AC9M7M02-P-017] [medium] A prism has constant cross-sectional area 18 cm². Its length changes from 7 cm to 11 cm. By how much does volume increase?
+18. [AC9M7M02-P-018] [medium] Which statement best explains why V=Bh works for prisms?
+19. [AC9M7M02-P-019] [medium] A student says a more slanted prism must have larger volume because its side edges are longer. What is the key correction?
+20. [AC9M7M02-P-020] [medium] A prism has B=15 cm²,h=15 cm. Another has B=25 cm²,h=9 cm. Compare their volumes.
+21. [AC9M7M02-P-021] [medium] A room has floor area 200 m² and ceiling height 3 m. What is its volume?
+22. [AC9M7M02-P-022] [medium] A building has identical floors of area 120 m² and each storey is 3 m high. For 8 storeys, what prism-model volume is obtained?
+23. [AC9M7M02-P-023] [medium] Why is floor area × number of floors not, by itself, a volume in cubic metres?
+24. [AC9M7M02-P-024] [medium] A warehouse has floor area 450 m² and height 8 m. What is its approximate volume?
+25. [AC9M7M02-P-025] [medium] Two buildings have the same floor area. X is 18 m high and Y is 24 m high. Which is true under a prism model?
+26. [AC9M7M02-P-026] [medium] A tank is 2.5 m long, 1.8 m wide and 1.2 m deep. What is its volume?
+27. [AC9M7M02-P-027] [medium] The 5.4 m³ tank holds how many litres? (1 m³=1000 L)
+28. [AC9M7M02-P-028] [medium] A triangular-prism channel has cross-sectional area 0.45 m² and length 18 m. What volume does it hold?
+29. [AC9M7M02-P-029] [medium] A prism's volume is 864 cm³ and B=48 cm². Find its length.
+30. [AC9M7M02-P-030] [medium] A rectangular prism has volume 600 cm³, length 10 cm and width 5 cm. Find height.
+31. [AC9M7M02-P-031] [hard] When can a prism change shape but keep the same volume?
+32. [AC9M7M02-P-032] [hard] A dynamic model shears a prism sideways without changing cross-sectional area or perpendicular separation. What happens to volume?
+33. [AC9M7M02-P-033] [hard] Which statement is false?
+34. [AC9M7M02-P-034] [hard] A prism has B=32 cm²,h=14 cm. If B becomes 24 cm² but volume must remain unchanged, what new h is needed?
+35. [AC9M7M02-P-035] [hard] A triangular prism has cross-section b=16 cm, h=9 cm and length 20 cm. A second has same volume and length 15 cm. What cross-sectional area must it have?
+36. [AC9M7M02-P-036] [hard] Which measurement is irrelevant to volume once B and perpendicular prism length h are known?
+37. [AC9M7M02-P-037] [hard] A prism's base area is in cm² and its length is in metres. What should you do before multiplying?
+38. [AC9M7M02-P-038] [hard] A prism has B=250 cm² and length 0.8 m. What is its volume in cm³?
+39. [AC9M7M02-P-039] [hard] A student calculates triangular-prism volume as b×h×L. Their answer is twice the correct value. What did they forget?
+40. [AC9M7M02-P-040] [hard] If cross-sectional area doubles and perpendicular length halves, what happens to volume?
+41. [AC9M7M02-P-041] [hard] A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?
+42. [AC9M7M02-P-042] [hard] A Year 7 student is solving a problem involving find a triangular prism volume. Which option is mathematically valid?
+43. [AC9M7M02-P-043] [super-hard] A Year 7 student is solving a problem involving convert cm to ml. Which option is mathematically valid?
+44. [AC9M7M02-P-044] [super-hard] A Year 7 student is solving a problem involving find missing length. Which option is mathematically valid?
+45. [AC9M7M02-P-045] [super-hard] Which statement correctly identifies cross-section in volume of right prisms?
+46. [AC9M7M02-P-046] [super-hard] Which choice best describes volume in volume of right prisms?
+47. [AC9M7M02-P-047] [super-hard] What does correct use require for right prism in volume of right prisms?
+48. [AC9M7M02-P-048] [super-hard] Reasoning 1: A triangular prism has triangular base area 18 cm² and length 5 cm. Find its volume.
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M02-T-001] [easy] A triangular prism has triangle base 14 cm, perpendicular triangle height 8 cm and prism length 9 cm. Find its volume.
+02. [AC9M7M02-T-002] [easy] A prism has volume 728 cm³ and length 14 cm. What is its cross-sectional area?
+03. [AC9M7M02-T-003] [easy] A rectangular prism has volume 960 cm³, width 8 cm and height 10 cm. Find its length.
+04. [AC9M7M02-T-004] [easy] A triangular prism has volume 420 cm³ and length 10 cm. Its triangular base is 14 cm. Find the perpendicular height of the triangle.
+05. [AC9M7M02-T-005] [medium] Prism A has B=36 cm²,h=8 cm. Prism B has B=24 cm²,h=12 cm. Which statement is correct?
+06. [AC9M7M02-T-006] [medium] A prism's base area rises by 25% and its perpendicular length rises by 20%. By what percentage does volume change?
+07. [AC9M7M02-T-007] [medium] A tank has base area 3.6 m² and depth 1.5 m. What volume does it hold?
+08. [AC9M7M02-T-008] [medium] A 7.2 m³ tank is filled to 75% capacity. How much water is in it?
+09. [AC9M7M02-T-009] [medium] A prism has cross-sectional area 0.32 m² and length 250 cm. Find volume in m³.
+10. [AC9M7M02-T-010] [medium] A student uses surface area instead of cross-sectional area in V=Bh. Why is this wrong?
+11. [AC9M7M02-T-011] [hard] If a prism is sheared while cross-sectional area and perpendicular separation remain fixed, which quantity definitely remains unchanged?
+12. [AC9M7M02-T-012] [hard] A prism has B=45 cm² and h=16 cm. To keep volume constant while h increases to 20 cm, what must B become?
+13. [AC9M7M02-T-013] [hard] A building floor is 240 m² and each storey is 3.2 m high. Estimate the enclosed volume for 5 identical storeys.
+14. [AC9M7M02-T-014] [hard] Which unit is appropriate for prism volume when all lengths are measured in millimetres?
+15. [AC9M7M02-T-015] [super-hard] A prism has volume 1500 cm³ and B=75 cm². If its length is reduced by 4 cm while B stays fixed, what is the new volume?
+16. [AC9M7M02-T-016] [super-hard] A triangular prism and a rectangular prism both have length 20 cm and volume 1200 cm³. What must be true?
+
+AC9M7M03
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M03-P-001] [easy] Which statement about the radius and diameter is always true?
+02. [AC9M7M03-P-002] [easy] The diameter of a circle is 18 cm. What is the radius?
+03. [AC9M7M03-P-003] [easy] Which feature of a circle is the distance around it?
+04. [AC9M7M03-P-004] [easy] If the radius is 7 cm, what is the diameter?
+05. [AC9M7M03-P-005] [easy] Which pair shows correctly related circle features?
+06. [AC9M7M03-P-006] [easy] The centre of a circle is best described as:
+07. [AC9M7M03-P-007] [easy] When comparing circles using string, the string wrapped once around a circle represents its:
+08. [AC9M7M03-P-008] [easy] If two circles have different radii, the circle with the larger radius will always have:
+09. [AC9M7M03-P-009] [easy] A student draws circles with radii 3 cm, 5 cm and 8 cm. Which circle has the greatest circumference?
+10. [AC9M7M03-P-010] [easy] How does circumference change as radius increases?
+11. [AC9M7M03-P-011] [easy] If the diameter of a circle doubles, its circumference:
+12. [AC9M7M03-P-012] [easy] A circle has diameter 10 cm. Approximate its circumference using π ≈ 3.14.
+13. [AC9M7M03-P-013] [medium] π represents the ratio between:
+14. [AC9M7M03-P-014] [medium] Which value is a well-known Babylonian approximation of π?
+15. [AC9M7M03-P-015] [medium] An ancient Egyptian approximation derived from the Rhind Mathematical Papyrus is closest to:
+16. [AC9M7M03-P-016] [medium] Archimedes showed that π lies approximately:
+17. [AC9M7M03-P-017] [medium] Which statement about π is true?
+18. [AC9M7M03-P-018] [medium] Aryabhata's approximation of π was close to:
+19. [AC9M7M03-P-019] [medium] In a circular woven design, which measurements can be used to describe its size accurately?
+20. [AC9M7M03-P-020] [medium] Why is identifying the centre useful when constructing a circular design?
+21. [AC9M7M03-P-021] [medium] For a circular shelter footprint, the radius is the distance:
+22. [AC9M7M03-P-022] [medium] If you need to know the distance around a circular meeting area, which measurement do you need?
+23. [AC9M7M03-P-023] [medium] In some First Nations Australian visual traditions, circles may be used to represent:
+24. [AC9M7M03-P-024] [medium] If the radius of a circular woven mat increases while its shape remains circular, what happens to its circumference?
+25. [AC9M7M03-P-025] [medium] A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?
+26. [AC9M7M03-P-026] [medium] A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?
+27. [AC9M7M03-P-027] [medium] A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?
+28. [AC9M7M03-P-028] [medium] A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?
+29. [AC9M7M03-P-029] [medium] Which statement correctly identifies diameter in circle features and circumference?
+30. [AC9M7M03-P-030] [medium] Which choice best describes circumference in circle features and circumference?
+31. [AC9M7M03-P-031] [hard] What does correct use require for radius in circle features and circumference?
+32. [AC9M7M03-P-032] [hard] Circumference 1: A circle has radius 3 cm. Find its circumference in terms of π.
+33. [AC9M7M03-P-033] [hard] Inverse 2: A circle has circumference 8π cm. Find its radius.
+34. [AC9M7M03-P-034] [hard] Relationship 3: If a circle's diameter doubles, what happens to its circumference?
+35. [AC9M7M03-P-035] [hard] Circumference 4: A circle has radius 6 cm. Find its circumference in terms of π.
+36. [AC9M7M03-P-036] [hard] Inverse 5: A circle has circumference 14π cm. Find its radius.
+37. [AC9M7M03-P-037] [hard] Relationship 6: If a circle's diameter doubles, what happens to its circumference?
+38. [AC9M7M03-P-038] [hard] Circumference 7: A circle has radius 9 cm. Find its circumference in terms of π.
+39. [AC9M7M03-P-039] [hard] Inverse 8: A circle has circumference 20π cm. Find its radius.
+40. [AC9M7M03-P-040] [hard] Relationship 9: If a circle's diameter doubles, what happens to its circumference?
+41. [AC9M7M03-P-041] [hard] Circumference 10: A circle has radius 12 cm. Find its circumference in terms of π.
+42. [AC9M7M03-P-042] [hard] Inverse 11: A circle has circumference 6π cm. Find its radius.
+43. [AC9M7M03-P-043] [super-hard] Relationship 12: If a circle's diameter doubles, what happens to its circumference?
+44. [AC9M7M03-P-044] [super-hard] Circumference 13: A circle has radius 5 cm. Find its circumference in terms of π.
+45. [AC9M7M03-P-045] [super-hard] Inverse 14: A circle has circumference 12π cm. Find its radius.
+46. [AC9M7M03-P-046] [super-hard] Relationship 15: If a circle's diameter doubles, what happens to its circumference?
+47. [AC9M7M03-P-047] [super-hard] Circumference 16: A circle has radius 8 cm. Find its circumference in terms of π.
+48. [AC9M7M03-P-048] [super-hard] Inverse 17: A circle has circumference 18π cm. Find its radius.
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M03-T-001] [easy] Which measurement is needed to calculate circumference using C = 2πr?
+02. [AC9M7M03-T-002] [easy] A circle has circumference 31.4 cm. What is its radius? Use π ≈ 3.14.
+03. [AC9M7M03-T-003] [easy] Which statement is correct?
+04. [AC9M7M03-T-004] [easy] If the circumference C is known, which formula finds the radius r?
+05. [AC9M7M03-T-005] [medium] Which tool is most useful for physically approximating the circumference of a circular object?
+06. [AC9M7M03-T-006] [medium] A student measures a circumference of 40 cm and a diameter of 12.7 cm. What value of π does this experiment approximate?
+07. [AC9M7M03-T-007] [medium] Which comparison is correct?
+08. [AC9M7M03-T-008] [medium] Which experiment best helps students discover the circumference–diameter relationship?
+09. [AC9M7M03-T-009] [medium] Zu Chongzhi is famous for the approximation 355/113. This is closest to:
+10. [AC9M7M03-T-010] [medium] π is best described as:
+11. [AC9M7M03-T-011] [hard] Why is π important in circle mathematics?
+12. [AC9M7M03-T-012] [hard] Which ratio always equals π for a circle?
+13. [AC9M7M03-T-013] [hard] If several points are intended to lie on the same circle, what must be true?
+14. [AC9M7M03-T-014] [hard] What does the diameter tell you about a circular design?
+15. [AC9M7M03-T-015] [super-hard] A circular basket rim has a diameter of 30 cm. Which calculation gives the rim's circumference?
+16. [AC9M7M03-T-016] [super-hard] Why is π relevant when measuring circular cultural or everyday designs?
+
+AC9M7M04
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M04-P-001] [easy] Angles in matching corners when a transversal crosses parallel lines are called:
+02. [AC9M7M04-P-002] [easy] Angles on opposite sides of the transversal and inside the parallel lines are:
+03. [AC9M7M04-P-003] [easy] Angles on the same side of the transversal and inside the parallel lines are:
+04. [AC9M7M04-P-004] [easy] Corresponding angles are always:
+05. [AC9M7M04-P-005] [easy] Alternate interior angles are always:
+06. [AC9M7M04-P-006] [easy] Co-interior angles always sum to:
+07. [AC9M7M04-P-007] [easy] Which angle pair is supplementary?
+08. [AC9M7M04-P-008] [easy] Vertical angles are:
+09. [AC9M7M04-P-009] [easy] Which angle pair can be used to prove lines are parallel when the pair is equal?
+10. [AC9M7M04-P-010] [easy] If alternate interior angles are not equal, the lines are:
+11. [AC9M7M04-P-011] [easy] If a corresponding angle is 75°, the matching corresponding angle is:
+12. [AC9M7M04-P-012] [easy] If an alternate interior angle is 48°, the other alternate interior angle is:
+13. [AC9M7M04-P-013] [medium] If one co-interior angle is 110°, the other is:
+14. [AC9M7M04-P-014] [medium] If a transversal creates a 130° angle, the adjacent angle on the straight line is:
+15. [AC9M7M04-P-015] [medium] If one angle in an equal corresponding pair is 40°, the co-interior angle on the same side is:
+16. [AC9M7M04-P-016] [medium] If a vertical angle is 92°, its opposite angle is:
+17. [AC9M7M04-P-017] [medium] If one co-interior angle is 150°, the other co-interior angle is:
+18. [AC9M7M04-P-018] [medium] If an angle is 120°, its supplementary adjacent angle is:
+19. [AC9M7M04-P-019] [medium] If an alternate interior angle is 65°, the corresponding angle in the same equal-angle family is:
+20. [AC9M7M04-P-020] [medium] If one co-interior angle is 95°, the other is:
+21. [AC9M7M04-P-021] [medium] Which tool is most useful for constructing parallel lines by sliding without rotating?
+22. [AC9M7M04-P-022] [medium] Which tool directly provides a 90° corner for constructing perpendicular lines?
+23. [AC9M7M04-P-023] [medium] Dynamic geometry software is useful for this topic because students can:
+24. [AC9M7M04-P-024] [medium] Dragging a transversal across two fixed parallel lines shows that corresponding angles:
+25. [AC9M7M04-P-025] [medium] Which observation can establish that two lines cut by a transversal are parallel?
+26. [AC9M7M04-P-026] [medium] Dynamic geometry helps students generalise angle rules because it:
+27. [AC9M7M04-P-027] [medium] Which construction method is reliable for drawing parallel lines?
+28. [AC9M7M04-P-028] [medium] Which construction produces perpendicular lines?
+29. [AC9M7M04-P-029] [medium] When a valid dynamic construction is dragged, parallel lines should:
+30. [AC9M7M04-P-030] [medium] Why is measuring just one static diagram not enough to prove an angle rule?
+31. [AC9M7M04-P-031] [hard] Scissor-lift linkages use repeated angle relationships mainly to support:
+32. [AC9M7M04-P-032] [hard] Folding umbrella linkages are designed so repeated bars open with:
+33. [AC9M7M04-P-033] [hard] Toolbox linkages with paired arms use geometry mainly to:
+34. [AC9M7M04-P-034] [hard] Cherry-picker linkages use angle relationships so that their motion is:
+35. [AC9M7M04-P-035] [hard] Parallel bars in mechanical linkages create predictable:
+36. [AC9M7M04-P-036] [hard] Which statement best describes the role of corresponding angles in a parallel linkage?
+37. [AC9M7M04-P-037] [hard] Which statement best describes the role of co-interior angles in a parallel linkage?
+38. [AC9M7M04-P-038] [hard] Why can geometry help engineers predict linkage movement?
+39. [AC9M7M04-P-039] [hard] Which real-world device is explicitly suitable for exploring parallel-line angle relationships?
+40. [AC9M7M04-P-040] [hard] Which statement is the best geometric conclusion when a mechanism preserves two parallel rails while a crossbar rotates?
+41. [AC9M7M04-P-041] [hard] A Year 7 student is solving a problem involving name corresponding pair. Which option is mathematically valid?
+42. [AC9M7M04-P-042] [hard] A Year 7 student is solving a problem involving use alternate equality. Which option is mathematically valid?
+43. [AC9M7M04-P-043] [super-hard] A Year 7 student is solving a problem involving find co interior supplement. Which option is mathematically valid?
+44. [AC9M7M04-P-044] [super-hard] A Year 7 student is solving a problem involving add vertical opposite step. Which option is mathematically valid?
+45. [AC9M7M04-P-045] [super-hard] Which statement correctly identifies alternate angles in angles in parallel lines?
+46. [AC9M7M04-P-046] [super-hard] Which choice best describes co-interior angles in angles in parallel lines?
+47. [AC9M7M04-P-047] [super-hard] What does correct use require for transversal in angles in parallel lines?
+48. [AC9M7M04-P-048] [super-hard] Angle proof 1: Parallel lines are cut by a transversal. One co-interior angle is 110°. Find the other and name the relationship.
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M04-T-001] [easy] Which angle pair guarantees parallel lines when equal?
+02. [AC9M7M04-T-002] [easy] Angles on opposite sides of a transversal but outside the parallel lines are:
+03. [AC9M7M04-T-003] [easy] Which angle pair is not necessarily equal when lines are parallel?
+04. [AC9M7M04-T-004] [easy] If two angles lie in matching positions relative to a transversal, they are:
+05. [AC9M7M04-T-005] [medium] Which angle pair is supplementary because two parallel lines are cut by a transversal?
+06. [AC9M7M04-T-006] [medium] Which angle pair is always equal regardless of whether the other lines are parallel?
+07. [AC9M7M04-T-007] [medium] If alternate interior angles are equal, the two lines are:
+08. [AC9M7M04-T-008] [medium] Which description defines a linear pair?
+09. [AC9M7M04-T-009] [medium] Which angle pair is equal only when the two lines cut by the transversal are parallel?
+10. [AC9M7M04-T-010] [medium] Which angle pair sums to 180° because the two lines are parallel?
+11. [AC9M7M04-T-011] [hard] If a corresponding angle is 127°, what is the equal alternate interior angle in the same obtuse-angle family?
+12. [AC9M7M04-T-012] [hard] If an alternate exterior angle is 41°, the adjacent supplementary angle is:
+13. [AC9M7M04-T-013] [hard] If one co-interior angle is 118°, the other co-interior angle is:
+14. [AC9M7M04-T-014] [hard] A 146° angle is formed at one intersection. Which value occurs at every corresponding or alternate position in the same obtuse-angle family?
+15. [AC9M7M04-T-015] [super-hard] If a corresponding angle is 32°, the adjacent supplementary angle is:
+16. [AC9M7M04-T-016] [super-hard] An alternate interior angle is 3x°. What is the corresponding angle in the same equal-angle family?
+
+AC9M7M05
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M05-P-001] [easy] The sum of the interior angles of any triangle is:
+02. [AC9M7M05-P-002] [easy] A triangle has angles 50°, 60° and x°. Find x.
+03. [AC9M7M05-P-003] [easy] A triangle has angles 35°, 75° and x°. Find x.
+04. [AC9M7M05-P-004] [easy] A triangle has angles 90°, 45° and x°. Find x.
+05. [AC9M7M05-P-005] [easy] A triangle has angles 2x°, 3x° and 4x°. Find x.
+06. [AC9M7M05-P-006] [easy] A triangle has angles x°, x° and 40°. Find x.
+07. [AC9M7M05-P-007] [easy] A triangle has angles 3x°, 3x° and 6x°. Find x.
+08. [AC9M7M05-P-008] [easy] A triangle has angles 40°, x° and (x+20)°. Find x.
+09. [AC9M7M05-P-009] [easy] A triangle has angles 2x°, 4x° and 6x°. What is the angle measuring 4x°?
+10. [AC9M7M05-P-010] [easy] A triangle has angles 30°, 70° and x°. Find x.
+11. [AC9M7M05-P-011] [easy] Tearing the three corners off a paper triangle and placing them together shows they form:
+12. [AC9M7M05-P-012] [easy] The straight line formed by the three angles of a triangle represents:
+13. [AC9M7M05-P-013] [medium] The triangle angle sum is used as a basis to find angle sums of:
+14. [AC9M7M05-P-014] [medium] The triangle angle sum is an example of:
+15. [AC9M7M05-P-015] [medium] Angles located inside a polygon at its vertices are called:
+16. [AC9M7M05-P-016] [medium] Why is the interior-angle sum 180° for every triangle in the plane?
+17. [AC9M7M05-P-017] [medium] Using several paper triangles to investigate angle sums is an example of:
+18. [AC9M7M05-P-018] [medium] The triangle angle-sum rule holds for:
+19. [AC9M7M05-P-019] [medium] A triangle with angles 0°, 90° and 90° is:
+20. [AC9M7M05-P-020] [medium] A triangle with angles 100°, 50° and 40° is:
+21. [AC9M7M05-P-021] [medium] The interior angle sum of a quadrilateral is:
+22. [AC9M7M05-P-022] [medium] The interior angle sum of a pentagon is:
+23. [AC9M7M05-P-023] [medium] The interior angle sum of a hexagon is:
+24. [AC9M7M05-P-024] [medium] The general formula for the interior angle sum of an n-sided polygon is:
+25. [AC9M7M05-P-025] [medium] The interior angle sum of an octagon is:
+26. [AC9M7M05-P-026] [medium] A polygon has interior angle sum 900°. How many sides does it have?
+27. [AC9M7M05-P-027] [medium] A polygon has interior angle sum 1260°. How many sides does it have?
+28. [AC9M7M05-P-028] [medium] The interior angle sum of a triangle can be written as:
+29. [AC9M7M05-P-029] [medium] The interior angle sum of a decagon is:
+30. [AC9M7M05-P-030] [medium] The expression 180n−360 is equivalent to:
+31. [AC9M7M05-P-031] [hard] A quadrilateral has angles 90°, 80°, 70° and x°. Find x.
+32. [AC9M7M05-P-032] [hard] A pentagon has angles 100°, 120°, 95°, 85° and x°. Find x.
+33. [AC9M7M05-P-033] [hard] A hexagon has angles 100°, 110°, 120°, 130°, 140° and x°. Find x.
+34. [AC9M7M05-P-034] [hard] A quadrilateral has angles x°, x°, 90° and 120°. Find x.
+35. [AC9M7M05-P-035] [hard] A pentagon has angles 3x°, 3x°, 4x°, 5x° and 6x°. Find x to the nearest tenth of a degree.
+36. [AC9M7M05-P-036] [hard] A quadrilateral has angles 2x°, 3x°, 4x° and 5x°. Find x to the nearest tenth of a degree.
+37. [AC9M7M05-P-037] [hard] A quadrilateral has angles 90°, 90°, 90° and x°. Find x.
+38. [AC9M7M05-P-038] [hard] A regular pentagon has equal interior angles. Each interior angle is:
+39. [AC9M7M05-P-039] [hard] A regular hexagon has equal interior angles. Each interior angle is:
+40. [AC9M7M05-P-040] [hard] A regular octagon has equal interior angles. Each interior angle is:
+41. [AC9M7M05-P-041] [hard] A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?
+42. [AC9M7M05-P-042] [hard] A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?
+43. [AC9M7M05-P-043] [super-hard] A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?
+44. [AC9M7M05-P-044] [super-hard] A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?
+45. [AC9M7M05-P-045] [super-hard] Which statement correctly identifies exterior angle in triangle angle sum and unknown angles?
+46. [AC9M7M05-P-046] [super-hard] Which choice best describes Euclidean geometry in triangle angle sum and unknown angles?
+47. [AC9M7M05-P-047] [super-hard] What does correct use require for interior angle in triangle angle sum and unknown angles?
+48. [AC9M7M05-P-048] [super-hard] Polygon 1: What is the interior-angle sum of a 5-gon?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M05-T-001] [easy] A triangle has angles (x+10)°, 2x° and 3x°. Find x.
+02. [AC9M7M05-T-002] [easy] An isosceles triangle has a vertex angle of 38°. What is each base angle?
+03. [AC9M7M05-T-003] [easy] A triangle has one angle twice a second angle. The third angle is 45°. If the smaller of the first two angles is x°, find x.
+04. [AC9M7M05-T-004] [easy] A triangle has angles in the ratio 2:3:4. What is the largest angle?
+05. [AC9M7M05-T-005] [medium] Which statement best explains why tearing the corners from several different triangles is useful?
+06. [AC9M7M05-T-006] [medium] A quadrilateral is divided by one diagonal. How many triangles are formed?
+07. [AC9M7M05-T-007] [medium] A heptagon is decomposed into triangles from one vertex. How many triangles are formed?
+08. [AC9M7M05-T-008] [medium] Which expression gives the interior angle sum of a 12-gon?
+09. [AC9M7M05-T-009] [medium] The interior angle sum of a polygon is 1620°. How many sides does it have?
+10. [AC9M7M05-T-010] [medium] The interior angle sum of a polygon is 1980°. How many sides does it have?
+11. [AC9M7M05-T-011] [hard] A pentagon has angles 90°, 110°, 125°, 95° and x°. Find x.
+12. [AC9M7M05-T-012] [hard] A hexagon has four angles of 120°, one angle of 110°, and one angle x°. Find x.
+13. [AC9M7M05-T-013] [hard] A quadrilateral has angles x°, 2x°, 3x° and 4x°. Find the largest angle.
+14. [AC9M7M05-T-014] [hard] A pentagon has angles x°, x°, x°, 120° and 150°. Find x.
+15. [AC9M7M05-T-015] [super-hard] A regular polygon has an interior angle of 120°. Which polygon is it?
+16. [AC9M7M05-T-016] [super-hard] A regular polygon has an interior angle of 135°. Which polygon is it?
+
+AC9M7M06
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M06-P-001] [easy] Ratio 4:9 represents how many total parts?
+02. [AC9M7M06-P-002] [easy] In the ratio 2:7, what fraction of the whole is the first part?
+03. [AC9M7M06-P-003] [easy] Simplify 12:3.
+04. [AC9M7M06-P-004] [easy] In the ratio 5:5, what fraction of the whole is the first part?
+05. [AC9M7M06-P-005] [easy] A:B = 3:2. What fraction of the whole is B?
+06. [AC9M7M06-P-006] [easy] Simplify 9:6.
+07. [AC9M7M06-P-007] [easy] In the ratio 7:1, what fraction of the whole is the larger part?
+08. [AC9M7M06-P-008] [easy] Simplify 15:10.
+09. [AC9M7M06-P-009] [easy] In the ratio 4:1, what fraction of the whole is the second part?
+10. [AC9M7M06-P-010] [easy] Simplify 2:8.
+11. [AC9M7M06-P-011] [easy] A class has boys:girls = 3:4. What fraction of the class are girls?
+12. [AC9M7M06-P-012] [easy] A mixture has red:blue = 5:1. What fraction of the mixture is red?
+13. [AC9M7M06-P-013] [medium] Concrete uses cement:sand:gravel = 1:2:3. How many total parts are in the ratio?
+14. [AC9M7M06-P-014] [medium] A 1:2:3 concrete mix has a total mass of 30 kg. How much cement is needed?
+15. [AC9M7M06-P-015] [medium] Salad dressing uses oil:vinegar = 3:1. If the total volume is 200 mL, how much vinegar is used?
+16. [AC9M7M06-P-016] [medium] A dye mix uses red:yellow = 4:1. If the total is 250 mL, how much red dye is used?
+17. [AC9M7M06-P-017] [medium] A recipe uses sugar:flour = 2:3. If flour is 600 g, how much sugar is needed?
+18. [AC9M7M06-P-018] [medium] A rectangle is designed in the ratio short:long = 1:1.618. If the short side is 10 cm, what is the long side?
+19. [AC9M7M06-P-019] [medium] A drink uses juice:water = 1:4. If the total is 500 mL, how much water is used?
+20. [AC9M7M06-P-020] [medium] Sand:gravel = 2:5. If gravel is 20 kg, how much sand is needed?
+21. [AC9M7M06-P-021] [medium] Cocoa:sugar = 1:3. If sugar is 150 g, how much cocoa is needed?
+22. [AC9M7M06-P-022] [medium] Blue:white paint = 2:3. If the total is 250 mL, how much blue paint is needed?
+23. [AC9M7M06-P-023] [medium] A bar model has 6 equal blocks for A and 2 for B. What is the simplest ratio A:B?
+24. [AC9M7M06-P-024] [medium] A diagram has 2 shaded parts and 3 unshaded parts. What is shaded:unshaded?
+25. [AC9M7M06-P-025] [medium] A strip has 8 equal parts, with 3 shaded. What fraction is shaded?
+26. [AC9M7M06-P-026] [medium] A pie model shows 1/4 shaded. What is the ratio shaded:unshaded?
+27. [AC9M7M06-P-027] [medium] A colour model uses 2 yellow counters and 6 red counters. What is the simplest ratio red:yellow?
+28. [AC9M7M06-P-028] [medium] A bar model shows 10 equal blocks, 4 shaded. What is the simplest ratio shaded:unshaded?
+29. [AC9M7M06-P-029] [medium] A colour mix uses red:yellow = 1:5 and totals 180 mL. How much red is needed?
+30. [AC9M7M06-P-030] [medium] A 12-part strip has 9 shaded parts. What fraction is shaded in simplest form?
+31. [AC9M7M06-P-031] [hard] A concrete mix uses 1:2:4 and totals 56 kg. How much cement is required?
+32. [AC9M7M06-P-032] [hard] Oil:vinegar = 5:2. If the total dressing is 210 mL, how much vinegar is used?
+33. [AC9M7M06-P-033] [hard] Blue:red dye = 3:1. If red is 40 mL, how much blue is used?
+34. [AC9M7M06-P-034] [hard] Sugar:flour = 1:4. If sugar is 50 g, how much flour is needed?
+35. [AC9M7M06-P-035] [hard] A golden-ratio design has long side 32.36 cm and ratio short:long = 1:1.618. What is the short side?
+36. [AC9M7M06-P-036] [hard] Syrup:water = 1:5. If the drink totals 360 mL, how much syrup is used?
+37. [AC9M7M06-P-037] [hard] Gravel:sand = 7:3. If sand is 12 kg, how much gravel is needed?
+38. [AC9M7M06-P-038] [hard] Cocoa:sugar = 2:5. If the mixture totals 350 g, how much cocoa is used?
+39. [AC9M7M06-P-039] [hard] White:black paint = 4:1. If the total is 250 mL, how much black paint is used?
+40. [AC9M7M06-P-040] [hard] A student represents 3:2 using counters. Which model is correct?
+41. [AC9M7M06-P-041] [hard] Which representation best shows a part-whole interpretation of 3:2?
+42. [AC9M7M06-P-042] [hard] Why is a bar model useful for ratio problems?
+43. [AC9M7M06-P-043] [super-hard] A recipe is doubled from a ratio 2:3. Which ratio keeps the same proportions?
+44. [AC9M7M06-P-044] [super-hard] Which pair of ratios is equivalent?
+45. [AC9M7M06-P-045] [super-hard] A model uses 4 parts extract and 6 parts water. What percentage of the mixture is extract?
+46. [AC9M7M06-P-046] [super-hard] A product formulation is scaled from 2:3 to a total of 25 L. How much belongs to the first part?
+47. [AC9M7M06-P-047] [super-hard] Which statement best describes mathematical modelling with ratios?
+48. [AC9M7M06-P-048] [super-hard] When a ratio model gives 2.4 kg of an ingredient but the ingredient is sold only in whole-kilogram bags, what should you do?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7M06-T-001] [easy] A paint mix uses red:blue = 3:5. If 320 mL of paint is made, how much red paint is required?
+02. [AC9M7M06-T-002] [easy] A recipe uses flour:sugar = 7:2. If 560 g of flour is used, how much sugar is needed?
+03. [AC9M7M06-T-003] [easy] A concrete mix has cement:sand:gravel = 2:3:5 and totals 80 kg. How much gravel is used?
+04. [AC9M7M06-T-004] [easy] A drink uses concentrate:water = 2:7. If 630 mL of water is used, what is the total volume?
+05. [AC9M7M06-T-005] [medium] A ratio 5:3 is scaled so the first quantity becomes 45. What is the second quantity?
+06. [AC9M7M06-T-006] [medium] The ratio A:B is 4:7. If B is 21, what fraction of the whole is A?
+07. [AC9M7M06-T-007] [medium] A mixture is 30% blue and the rest white. What is the simplest ratio blue:white?
+08. [AC9M7M06-T-008] [medium] A 2:5 ratio is represented by 42 counters in total. How many counters represent the larger part?
+09. [AC9M7M06-T-009] [medium] Which equation correctly models a 3:4 ratio with a total of 56?
+10. [AC9M7M06-T-010] [medium] For 3x + 4x = 56, what is x?
+11. [AC9M7M06-T-011] [hard] A 1:1.618 design has a short side of 18 cm. Which is the best estimate for the long side?
+12. [AC9M7M06-T-012] [hard] A designer wants the long side to be about 48.54 cm in a 1:1.618 ratio. What should the short side be?
+13. [AC9M7M06-T-013] [hard] A model predicts 126 mL of dye, but measuring equipment is marked every 5 mL. Which practical amount is most reasonable?
+14. [AC9M7M06-T-014] [hard] A recipe is written as oil:vinegar = 4:1. A student uses 300 mL oil and 100 mL vinegar. What should they conclude?
+15. [AC9M7M06-T-015] [super-hard] A mixture uses A:B:C = 2:3:5. Which fraction of the mixture is B?
+16. [AC9M7M06-T-016] [super-hard] A 2:3:5 mixture totals 1.5 kg. How much is the smallest component?
+
+AC9M7N01
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N01-P-001] [1] Which number is a perfect square?
+02. [AC9M7N01-P-002] [1] What is √81?
+03. [AC9M7N01-P-003] [1] Which pair correctly shows inverse operations?
+04. [AC9M7N01-P-004] [1] What does 12² mean?
+05. [AC9M7N01-P-005] [1] Which statement is true?
+06. [AC9M7N01-P-006] [1] What is √144?
+07. [AC9M7N01-P-007] [1] Complete: 11² = 121, so √121 = ___.
+08. [AC9M7N01-P-008] [1] Which is NOT a perfect square?
+09. [AC9M7N01-P-009] [1] A square has area 100 cm². What is its side length?
+10. [AC9M7N01-P-010] [1] A square playground has side length 13 m. What is its area?
+11. [AC9M7N01-P-011] [1] A student says √36 = 18 because 36 ÷ 2 = 18. What is the best correction?
+12. [AC9M7N01-P-012] [1] Which value equals √196?
+13. [AC9M7N01-P-013] [2] What number completes □² = 324?
+14. [AC9M7N01-P-014] [2] Complete: √□ = 17.
+15. [AC9M7N01-P-015] [2] Which is greatest?
+16. [AC9M7N01-P-016] [2] 81 < n < 100. If n is a perfect square, what is n?
+17. [AC9M7N01-P-017] [2] A square mosaic covers 256 identical 1 cm² tiles. How many tiles are along each side?
+18. [AC9M7N01-P-018] [2] A square vegetable bed has area 361 m². What length of edging is needed for one side?
+19. [AC9M7N01-P-019] [2] Which statement must follow from 19² = 361?
+20. [AC9M7N01-P-020] [2] A learner writes √169 = ±13. Why is this unsuitable when the expression is exactly √169?
+21. [AC9M7N01-P-021] [2] Without multiplying fully, which is larger?
+22. [AC9M7N01-P-022] [2] Which perfect square comes immediately after 196?
+23. [AC9M7N01-P-023] [2] A square display has 22 items along each side. How many items are in the full square?
+24. [AC9M7N01-P-024] [2] A student claims √625 = 35. Which check shows the claim is incorrect?
+25. [AC9M7N01-P-025] [3] A square courtyard has area 484 m². A 2 m-wide gate replaces part of one side. How many metres of fencing are needed for the remaining boundary?
+26. [AC9M7N01-P-026] [3] A square photo has area 225 cm². A border increases each side length by 2 cm. What is the side length including the border?
+27. [AC9M7N01-P-027] [3] A whole number has a square between 400 and 500. Which value could the number be?
+28. [AC9M7N01-P-028] [3] Which statement is sufficient to prove √576 = 24?
+29. [AC9M7N01-P-029] [3] 576 square tiles are arranged to make the largest possible square using every tile. How many tiles are in each row?
+30. [AC9M7N01-P-030] [3] Which pair represents the same value?
+31. [AC9M7N01-P-031] [3] A perfect square lies strictly between 500 and 550. Which one is it?
+32. [AC9M7N01-P-032] [3] A square stage has side 18 m. A smaller square mat of side 6 m is placed on it. What area of the stage remains uncovered?
+33. [AC9M7N01-P-033] [3] A square has perimeter 60 cm. What is its area?
+34. [AC9M7N01-P-034] [3] Evaluate √(12²).
+35. [AC9M7N01-P-035] [3] Why is √49 different from solving x² = 49?
+36. [AC9M7N01-P-036] [3] A square storage area is 729 m². Its side length is increased by 3 m. What is the new area?
+37. [AC9M7N01-P-037] [3] Which estimate best helps check √361 = 19?
+38. [AC9M7N01-P-038] [4] A square has a whole-number side length, area greater than 700 m² but less than 760 m². What is its side length?
+39. [AC9M7N01-P-039] [4] Two square gardens have side lengths 18 m and 12 m. By how much do their areas differ?
+40. [AC9M7N01-P-040] [4] A square panel has area 1024 cm². It is cut into 4 equal square panels. What is the side length of each small panel?
+41. [AC9M7N01-P-041] [4] If n² = 841 for a positive whole number n, what is n + 1?
+42. [AC9M7N01-P-042] [4] A square side length is doubled. How does its area change?
+43. [AC9M7N01-P-043] [4] A square area is 144 cm². Another square has 9 times the area. What is the second square’s side length?
+44. [AC9M7N01-P-044] [4] A student says there is a perfect square strictly between 24² and 25². What is the best response?
+45. [AC9M7N01-P-045] [4] A square has area 900 m². A path follows three complete sides only. How long is the path?
+46. [AC9M7N01-P-046] [4] A square grid contains 1600 cells. After removing one complete row and one complete column from the original grid, how many cells remain?
+47. [AC9M7N01-P-048] [4] A square area is a perfect square between 30² and 35². Which list contains every possible area?
+48. [AC9M7N01-P-049] [4] Square A has area 441 cm². Square B has side length 3 cm longer than Square A. What is Square B’s area?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N01-T-001] [1] Which value is a perfect square?
+02. [AC9M7N01-T-002] [1] Evaluate √324.
+03. [AC9M7N01-T-003] [1] Which statement correctly reverses 16² = 256?
+04. [AC9M7N01-T-004] [1] A square has side 14 cm. What is its area?
+05. [AC9M7N01-T-005] [2] Complete: □² = 676.
+06. [AC9M7N01-T-006] [2] A square tile arrangement uses 841 tiles. How many tiles are along one side?
+07. [AC9M7N01-T-007] [2] Which fact best checks √529 = 23?
+08. [AC9M7N01-T-008] [2] Which perfect square lies strictly between 15² and 17²?
+09. [AC9M7N01-T-009] [3] A square field has area 625 m². Fencing is needed around three sides. How much fencing is required?
+10. [AC9M7N01-T-010] [3] A square perimeter is 72 cm. What is its area?
+11. [AC9M7N01-T-011] [3] A student writes √225 = ±15. Which statement is most precise?
+12. [AC9M7N01-T-012] [3] A whole number n satisfies n² = 961. What is n?
+13. [AC9M7N01-T-013] [4] A square sign has area 400 cm². A frame adds 5 cm to each side length of the sign. What is the area enclosed by the outer edge of the frame?
+14. [AC9M7N01-T-014] [4] Square B has 16 times the area of Square A. If Square A has side 7 cm, what is Square B’s side length?
+15. [AC9M7N01-T-015] [4] A 36×36 square grid loses its outermost one-cell border. How many cells remain?
+16. [AC9M7N01-T-016] [4] A perfect-square area is greater than 1000 but less than 1050. What is the side length of the square?
+
+AC9M7N02
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N02-P-001] [easy] What is the prime factorisation of 360?
+02. [AC9M7N02-P-002] [easy] Which number has prime factorisation 2⁴ × 3²?
+03. [AC9M7N02-P-003] [easy] What is the prime factorisation of 840?
+04. [AC9M7N02-P-004] [easy] Which number equals 3³ × 5²?
+05. [AC9M7N02-P-005] [easy] What is the prime factorisation of 504?
+06. [AC9M7N02-P-006] [easy] Which number has exactly four distinct prime factors?
+07. [AC9M7N02-P-007] [easy] Which number has exactly three distinct prime factors?
+08. [AC9M7N02-P-008] [easy] Which number is NOT a power of 2?
+09. [AC9M7N02-P-009] [easy] Which number is a power of 3?
+10. [AC9M7N02-P-010] [easy] Which number equals 5⁴?
+11. [AC9M7N02-P-011] [easy] Which number equals 5³ × 2²?
+12. [AC9M7N02-P-012] [easy] Which number equals 3² × 2⁴?
+13. [AC9M7N02-P-013] [medium] Find the HCF of 48 and 180.
+14. [AC9M7N02-P-014] [medium] Find the LCM of 24 and 90.
+15. [AC9M7N02-P-015] [medium] Find the HCF of 84 and 210.
+16. [AC9M7N02-P-016] [medium] Find the LCM of 18 and 30.
+17. [AC9M7N02-P-017] [medium] 48 = 2⁴×3 and 180 = 2²×3²×5. What is 48:180 in simplest form?
+18. [AC9M7N02-P-018] [medium] A bell rings every 18 minutes and another every 30 minutes. If they ring together now, when will they next ring together?
+19. [AC9M7N02-P-019] [medium] If N = 2³ × 3² × 5, which number is definitely a factor of N?
+20. [AC9M7N02-P-020] [medium] If A = 2⁴×3 and B = 2²×3³, what is HCF(A,B)?
+21. [AC9M7N02-P-021] [medium] If A = 2³×5² and B = 2⁵×5, what is LCM(A,B)?
+22. [AC9M7N02-P-022] [medium] 360 = 2³×3²×5. How many positive factors does 360 have?
+23. [AC9M7N02-P-023] [medium] N = 2⁴×5². Is N divisible by 40?
+24. [AC9M7N02-P-024] [medium] Which number has the largest HCF with 180?
+25. [AC9M7N02-P-025] [medium] What is the prime factorisation of 24?
+26. [AC9M7N02-P-026] [medium] What is the prime factorisation of 180?
+27. [AC9M7N02-P-027] [medium] What is 3^4?
+28. [AC9M7N02-P-028] [medium] What is the prime factorisation of 36?
+29. [AC9M7N02-P-029] [medium] What is the prime factorisation of 252?
+30. [AC9M7N02-P-030] [medium] What is 3^6?
+31. [AC9M7N02-P-031] [hard] What is the prime factorisation of 48?
+32. [AC9M7N02-P-032] [hard] What is 5^3?
+33. [AC9M7N02-P-033] [hard] What is the prime factorisation of 60?
+34. [AC9M7N02-P-034] [hard] What is 5^4?
+35. [AC9M7N02-P-035] [hard] What is the prime factorisation of 72?
+36. [AC9M7N02-P-036] [hard] What is 2^5?
+37. [AC9M7N02-P-037] [hard] What is 7^2?
+38. [AC9M7N02-P-038] [hard] What is the prime factorisation of 84?
+39. [AC9M7N02-P-039] [hard] What is 2^7?
+40. [AC9M7N02-P-040] [hard] What is 11^2?
+41. [AC9M7N02-P-041] [hard] What is the prime factorisation of 90?
+42. [AC9M7N02-P-042] [hard] What is 2^9?
+43. [AC9M7N02-P-043] [super-hard] Find the highest common factor of 18 and 24.
+44. [AC9M7N02-P-044] [super-hard] What is the prime factorisation of 120?
+45. [AC9M7N02-P-045] [super-hard] What is 3^3?
+46. [AC9M7N02-P-046] [super-hard] Find the highest common factor of 24 and 36.
+47. [AC9M7N02-P-047] [super-hard] Challenge 1: Which prime-power factorisation equals 72?
+48. [AC9M7N02-P-048] [super-hard] Challenge 2: Which prime-power factorisation equals 90?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N02-T-001] [easy] What is the prime factorisation of 1152?
+02. [AC9M7N02-T-002] [easy] What is the prime factorisation of 945?
+03. [AC9M7N02-T-003] [easy] Which number equals 2⁴×3×11?
+04. [AC9M7N02-T-004] [easy] Find the HCF of 270 and 630.
+05. [AC9M7N02-T-005] [medium] Find the LCM of 56 and 98.
+06. [AC9M7N02-T-006] [medium] Find the HCF of 128 and 160.
+07. [AC9M7N02-T-007] [medium] Find the LCM of 72 and 90.
+08. [AC9M7N02-T-008] [medium] If N=2⁶×3², which number is a factor of N?
+09. [AC9M7N02-T-009] [medium] A=2⁴×7 and B=2²×7². What is HCF(A,B)?
+10. [AC9M7N02-T-010] [medium] A=2⁵×3²×7 and B=2³×3³×5. What is LCM(A,B)?
+11. [AC9M7N02-T-011] [hard] N=2³×3⁴. How many positive factors does N have?
+12. [AC9M7N02-T-012] [hard] Three lights flash every 12 s, 18 s and 30 s. If they flash together now, after how many seconds will they next flash together?
+13. [AC9M7N02-T-013] [hard] 84 red beads and 126 blue beads are packed into identical groups with no beads left over. What is the greatest possible number of groups?
+14. [AC9M7N02-T-014] [hard] The smallest positive integer divisible by 84, 90 and 126 is which value?
+15. [AC9M7N02-T-015] [super-hard] A=2⁵×3²×7 and B=2³×3³×5. Which statement is true?
+16. [AC9M7N02-T-016] [super-hard] Find the highest common factor of 30 and 45.
+
+AC9M7N03
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N03-P-001] [easy] What is 10^0?
+02. [AC9M7N03-P-002] [easy] What is 10^1?
+03. [AC9M7N03-P-003] [easy] What is 10^2?
+04. [AC9M7N03-P-004] [easy] What is 10^3?
+05. [AC9M7N03-P-005] [easy] What is 10^4?
+06. [AC9M7N03-P-006] [easy] What is 10^5?
+07. [AC9M7N03-P-007] [easy] What is 10^6?
+08. [AC9M7N03-P-008] [easy] What is 10^7?
+09. [AC9M7N03-P-009] [easy] What is 10^8?
+10. [AC9M7N03-P-010] [easy] What is 10^9?
+11. [AC9M7N03-P-011] [easy] In 7,052,304, what value is represented by the digit 7 identified in 10^6 place?
+12. [AC9M7N03-P-012] [easy] In 7,052,304, what value is represented by the digit 5 identified in 10^4 place?
+13. [AC9M7N03-P-013] [medium] In 4,080,019, what value is represented by the digit 8 identified in 10^4 place?
+14. [AC9M7N03-P-014] [medium] In 4,080,019, what value is represented by the digit 1 identified in 10^1 place?
+15. [AC9M7N03-P-015] [medium] In 9,306,042, what value is represented by the digit 3 identified in 10^4 place?
+16. [AC9M7N03-P-016] [medium] In 9,306,042, what value is represented by the digit 6 identified in 10^3 place?
+17. [AC9M7N03-P-017] [medium] In 512,080, what value is represented by the digit 1 identified in 10^4 place?
+18. [AC9M7N03-P-018] [medium] In 512,080, what value is represented by the digit 8 identified in 10^1 place?
+19. [AC9M7N03-P-019] [medium] In 68,004,005, what value is represented by the digit 4 identified in 10^3 place?
+20. [AC9M7N03-P-020] [medium] In 68,004,005, what value is represented by the digit 5 identified in 10^0 place?
+21. [AC9M7N03-P-021] [medium] In 207,030,400, what value is represented by the digit 7 identified in 10^6 place?
+22. [AC9M7N03-P-022] [medium] In 207,030,400, what value is represented by the digit 3 identified in 10^4 place?
+23. [AC9M7N03-P-023] [medium] Which numeral equals 4×10⁶ + 8×10⁴ + 1×10 + 9?
+24. [AC9M7N03-P-024] [medium] Which numeral equals 7×10⁵ + 2×10³ + 6×10 + 4?
+25. [AC9M7N03-P-025] [medium] Transfer 1: Write 4,080,019 in expanded notation using powers of 10.
+26. [AC9M7N03-P-026] [medium] Reasoning 2: In 7,052,304, what power of 10 belongs to the leftmost digit?
+27. [AC9M7N03-P-027] [medium] Check 3: Which method best verifies an expanded power-of-10 form?
+28. [AC9M7N03-P-028] [medium] Transfer 4: Write 50,400,801 in expanded notation using powers of 10.
+29. [AC9M7N03-P-029] [medium] Reasoning 5: In 3,000,207, what power of 10 belongs to the leftmost digit?
+30. [AC9M7N03-P-030] [medium] Check 6: Which method best verifies an expanded power-of-10 form?
+31. [AC9M7N03-P-031] [hard] Transfer 7: Write 200,005,004 in expanded notation using powers of 10.
+32. [AC9M7N03-P-032] [hard] Reasoning 8: In 70,707, what power of 10 belongs to the leftmost digit?
+33. [AC9M7N03-P-033] [hard] Check 9: Which method best verifies an expanded power-of-10 form?
+34. [AC9M7N03-P-034] [hard] Transfer 10: Write 900,099 in expanded notation using powers of 10.
+35. [AC9M7N03-P-035] [hard] Reasoning 11: In 4,080,019, what power of 10 belongs to the leftmost digit?
+36. [AC9M7N03-P-036] [hard] Check 12: Which method best verifies an expanded power-of-10 form?
+37. [AC9M7N03-P-037] [hard] Transfer 13: Write 9,300,500 in expanded notation using powers of 10.
+38. [AC9M7N03-P-038] [hard] Reasoning 14: In 50,400,801, what power of 10 belongs to the leftmost digit?
+39. [AC9M7N03-P-039] [hard] Check 15: Which method best verifies an expanded power-of-10 form?
+40. [AC9M7N03-P-040] [hard] Transfer 16: Write 890,060 in expanded notation using powers of 10.
+41. [AC9M7N03-P-041] [hard] Reasoning 17: In 200,005,004, what power of 10 belongs to the leftmost digit?
+42. [AC9M7N03-P-042] [hard] Check 18: Which method best verifies an expanded power-of-10 form?
+43. [AC9M7N03-P-043] [super-hard] Transfer 19: Write 4,004,004 in expanded notation using powers of 10.
+44. [AC9M7N03-P-044] [super-hard] Reasoning 20: In 900,099, what power of 10 belongs to the leftmost digit?
+45. [AC9M7N03-P-045] [super-hard] Check 21: Which method best verifies an expanded power-of-10 form?
+46. [AC9M7N03-P-046] [super-hard] Transfer 22: Write 7,052,304 in expanded notation using powers of 10.
+47. [AC9M7N03-P-047] [super-hard] Reasoning 23: In 9,300,500, what power of 10 belongs to the leftmost digit?
+48. [AC9M7N03-P-048] [super-hard] Check 24: Which method best verifies an expanded power-of-10 form?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N03-T-001] [easy] Which numeral equals 9×10⁶ + 3×10⁵ + 5×10²?
+02. [AC9M7N03-T-002] [easy] Which numeral equals 6×10⁴ + 7×10³ + 2?
+03. [AC9M7N03-T-003] [easy] Which numeral equals 5×10⁷ + 4×10⁵ + 8×10² + 1?
+04. [AC9M7N03-T-004] [easy] Which numeral equals 3×10⁶ + 2×10² + 7?
+05. [AC9M7N03-T-005] [medium] Which numeral equals 8×10⁵ + 9×10⁴ + 6×10?
+06. [AC9M7N03-T-006] [medium] Which numeral equals 2×10⁸ + 5×10³ + 4?
+07. [AC9M7N03-T-007] [medium] Which numeral equals 7×10⁴ + 7×10² + 7?
+08. [AC9M7N03-T-008] [medium] Which numeral equals 4×10⁶ + 4×10³ + 4?
+09. [AC9M7N03-T-009] [medium] Which numeral equals 1×10⁷ + 2×10⁶ + 3×10⁵ + 4?
+10. [AC9M7N03-T-010] [medium] Which numeral equals 9×10⁵ + 9×10 + 9?
+11. [AC9M7N03-T-011] [hard] Which is the standard expanded form of 4,080,019?
+12. [AC9M7N03-T-012] [hard] Which is the standard expanded form of 702,064?
+13. [AC9M7N03-T-013] [hard] Which is the standard expanded form of 9,300,500?
+14. [AC9M7N03-T-014] [hard] Which is the standard expanded form of 67,002?
+15. [AC9M7N03-T-015] [super-hard] Which is the standard expanded form of 50,400,801?
+16. [AC9M7N03-T-016] [super-hard] Which is the standard expanded form of 3,000,207?
+
+AC9M7N04
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N04-P-001] [easy] Which decimal and percentage are equivalent to 1/2?
+02. [AC9M7N04-P-002] [easy] Which decimal and percentage are equivalent to 3/8?
+03. [AC9M7N04-P-003] [easy] Simplify 6/8.
+04. [AC9M7N04-P-004] [easy] Which decimal and percentage are equivalent to 1/4?
+05. [AC9M7N04-P-005] [easy] Which decimal and percentage are equivalent to 5/8?
+06. [AC9M7N04-P-006] [easy] Simplify 12/18.
+07. [AC9M7N04-P-007] [easy] Which decimal and percentage are equivalent to 3/4?
+08. [AC9M7N04-P-008] [easy] Which decimal and percentage are equivalent to 7/8?
+09. [AC9M7N04-P-009] [easy] Simplify 15/25.
+10. [AC9M7N04-P-010] [easy] Which decimal and percentage are equivalent to 1/5?
+11. [AC9M7N04-P-011] [easy] Which decimal and percentage are equivalent to 1/10?
+12. [AC9M7N04-P-012] [easy] Simplify 18/24.
+13. [AC9M7N04-P-013] [medium] Which decimal and percentage are equivalent to 2/5?
+14. [AC9M7N04-P-014] [medium] Which decimal and percentage are equivalent to 3/20?
+15. [AC9M7N04-P-015] [medium] Simplify 21/28.
+16. [AC9M7N04-P-016] [medium] Which decimal and percentage are equivalent to 3/5?
+17. [AC9M7N04-P-017] [medium] Which decimal and percentage are equivalent to 7/20?
+18. [AC9M7N04-P-018] [medium] Simplify 24/36.
+19. [AC9M7N04-P-019] [medium] Which decimal and percentage are equivalent to 4/5?
+20. [AC9M7N04-P-020] [medium] Which decimal and percentage are equivalent to 9/20?
+21. [AC9M7N04-P-021] [medium] Simplify 30/45.
+22. [AC9M7N04-P-022] [medium] Which decimal and percentage are equivalent to 1/8?
+23. [AC9M7N04-P-023] [medium] Which decimal and percentage are equivalent to 4/25?
+24. [AC9M7N04-P-024] [medium] Simplify 35/49.
+25. [AC9M7N04-P-025] [medium] Representation 1: Convert 3/8 to a decimal and percentage.
+26. [AC9M7N04-P-026] [medium] Order 2: Which value is greatest: 7/20, 0.32, or 34%?
+27. [AC9M7N04-P-027] [medium] Number-line 3: 11/25 lies between which consecutive tenths?
+28. [AC9M7N04-P-028] [medium] Representation 4: Convert 13/20 to a decimal and percentage.
+29. [AC9M7N04-P-029] [medium] Order 5: Which value is greatest: 17/40, 0.40, or 42%?
+30. [AC9M7N04-P-030] [medium] Number-line 6: 9/16 lies between which consecutive tenths?
+31. [AC9M7N04-P-031] [hard] Representation 7: Convert 21/50 to a decimal and percentage.
+32. [AC9M7N04-P-032] [hard] Order 8: Which value is greatest: 7/10, 0.67, or 69%?
+33. [AC9M7N04-P-033] [hard] Number-line 9: 3/8 lies between which consecutive tenths?
+34. [AC9M7N04-P-034] [hard] Representation 10: Convert 7/20 to a decimal and percentage.
+35. [AC9M7N04-P-035] [hard] Order 11: Which value is greatest: 11/25, 0.41, or 43%?
+36. [AC9M7N04-P-036] [hard] Number-line 12: 13/20 lies between which consecutive tenths?
+37. [AC9M7N04-P-037] [hard] Representation 13: Convert 17/40 to a decimal and percentage.
+38. [AC9M7N04-P-038] [hard] Order 14: Which value is greatest: 9/16, 0.53, or 55%?
+39. [AC9M7N04-P-039] [hard] Number-line 15: 21/50 lies between which consecutive tenths?
+40. [AC9M7N04-P-040] [hard] Representation 16: Convert 7/10 to a decimal and percentage.
+41. [AC9M7N04-P-041] [hard] Order 17: Which value is greatest: 3/8, 0.34, or 37%?
+42. [AC9M7N04-P-042] [hard] Number-line 18: 7/20 lies between which consecutive tenths?
+43. [AC9M7N04-P-043] [super-hard] Representation 19: Convert 11/25 to a decimal and percentage.
+44. [AC9M7N04-P-044] [super-hard] Order 20: Which value is greatest: 13/20, 0.62, or 64%?
+45. [AC9M7N04-P-045] [super-hard] Number-line 21: 17/40 lies between which consecutive tenths?
+46. [AC9M7N04-P-046] [super-hard] Representation 22: Convert 9/16 to a decimal and percentage.
+47. [AC9M7N04-P-047] [super-hard] Order 23: Which value is greatest: 21/50, 0.39, or 41%?
+48. [AC9M7N04-P-048] [super-hard] Number-line 24: 7/10 lies between which consecutive tenths?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N04-T-001] [easy] Simplify 42/56.
+02. [AC9M7N04-T-002] [easy] Which is smaller: -65% and -0.6?
+03. [AC9M7N04-T-003] [easy] Simplify 45/60.
+04. [AC9M7N04-T-004] [easy] Which is smaller: 5/8 and 0.6?
+05. [AC9M7N04-T-005] [medium] Simplify 54/72.
+06. [AC9M7N04-T-006] [medium] Which is smaller: 1.2 and 115%?
+07. [AC9M7N04-T-007] [medium] Simplify 63/81.
+08. [AC9M7N04-T-008] [medium] Which is smaller: -3/4 and -0.8?
+09. [AC9M7N04-T-009] [medium] Which is smaller: -0.8 and -0.3?
+10. [AC9M7N04-T-010] [medium] Which is smaller: 7/10 and 68%?
+11. [AC9M7N04-T-011] [hard] Which is smaller: -2/3 and -0.6?
+12. [AC9M7N04-T-012] [hard] Which is smaller: -0.45 and -2/5?
+13. [AC9M7N04-T-013] [hard] Which is smaller: 35% and 0.4?
+14. [AC9M7N04-T-014] [hard] Which is smaller: 9/8 and 1.1?
+15. [AC9M7N04-T-015] [super-hard] Which is smaller: 3/4 and 0.72?
+16. [AC9M7N04-T-016] [super-hard] Which is smaller: -1.25 and -6/5?
+
+AC9M7N05
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N05-P-001] [easy] Round 47.386 to the nearest whole number.
+02. [AC9M7N05-P-002] [easy] Round 306.449 to 1 decimal place.
+03. [AC9M7N05-P-003] [easy] Round 5.444 to 2 decimal places.
+04. [AC9M7N05-P-004] [easy] Round 47.386 to 1 decimal place.
+05. [AC9M7N05-P-005] [easy] Round 19.951 to 2 decimal places.
+06. [AC9M7N05-P-006] [easy] Round 5.445 to 2 decimal places.
+07. [AC9M7N05-P-007] [easy] Round 47.386 to 2 decimal places.
+08. [AC9M7N05-P-008] [easy] Round 2.675 to 2 decimal places.
+09. [AC9M7N05-P-009] [easy] Round 0.8501 to 2 decimal places.
+10. [AC9M7N05-P-010] [easy] Round 8.746 to 1 decimal place.
+11. [AC9M7N05-P-011] [easy] Round 0.0996 to 3 decimal places.
+12. [AC9M7N05-P-012] [easy] Round 99.949 to 1 decimal place.
+13. [AC9M7N05-P-013] [medium] Round 8.746 to 2 decimal places.
+14. [AC9M7N05-P-014] [medium] Round 784.51 to the nearest whole number.
+15. [AC9M7N05-P-015] [medium] Which is the best estimate of 48.7 × 19.8?
+16. [AC9M7N05-P-016] [medium] Round 0.004768 to 3 decimal places.
+17. [AC9M7N05-P-017] [medium] Round 65.0504 to 2 decimal places.
+18. [AC9M7N05-P-018] [medium] Which is the best estimate of 19.6 × 5.1?
+19. [AC9M7N05-P-019] [medium] Round 12.995 to 2 decimal places.
+20. [AC9M7N05-P-020] [medium] Round 9.999 to 2 decimal places.
+21. [AC9M7N05-P-021] [medium] Which is the best estimate of 203.4 × 9.8?
+22. [AC9M7N05-P-022] [medium] Round 306.449 to the nearest whole number.
+23. [AC9M7N05-P-023] [medium] Round 123.4567 to 3 decimal places.
+24. [AC9M7N05-P-024] [medium] Which is the best estimate of 6.02 × 49.7?
+25. [AC9M7N05-P-025] [medium] Rounding 1: Round 47.386 to 1 decimal place.
+26. [AC9M7N05-P-026] [medium] Reasonableness 2: Which estimate best checks 48.7 × 21?
+27. [AC9M7N05-P-027] [medium] Error check 3: A result is reported to 2 decimal places. What is the maximum rounding error?
+28. [AC9M7N05-P-028] [medium] Rounding 4: Round 0.9846 to 1 decimal place.
+29. [AC9M7N05-P-029] [medium] Reasonableness 5: Which estimate best checks 48.7 × 24?
+30. [AC9M7N05-P-030] [medium] Error check 6: A result is reported to 2 decimal places. What is the maximum rounding error?
+31. [AC9M7N05-P-031] [hard] Rounding 7: Round 305.049 to 1 decimal place.
+32. [AC9M7N05-P-032] [hard] Reasonableness 8: Which estimate best checks 48.7 × 27?
+33. [AC9M7N05-P-033] [hard] Error check 9: A result is reported to 2 decimal places. What is the maximum rounding error?
+34. [AC9M7N05-P-034] [hard] Rounding 10: Round 8.749 to 1 decimal place.
+35. [AC9M7N05-P-035] [hard] Reasonableness 11: Which estimate best checks 48.7 × 30?
+36. [AC9M7N05-P-036] [hard] Error check 12: A result is reported to 2 decimal places. What is the maximum rounding error?
+37. [AC9M7N05-P-037] [hard] Rounding 13: Round 62.451 to 1 decimal place.
+38. [AC9M7N05-P-038] [hard] Reasonableness 14: Which estimate best checks 48.7 × 33?
+39. [AC9M7N05-P-039] [hard] Error check 15: A result is reported to 2 decimal places. What is the maximum rounding error?
+40. [AC9M7N05-P-040] [hard] Rounding 16: Round 7.865 to 1 decimal place.
+41. [AC9M7N05-P-041] [hard] Reasonableness 17: Which estimate best checks 48.7 × 36?
+42. [AC9M7N05-P-042] [hard] Error check 18: A result is reported to 2 decimal places. What is the maximum rounding error?
+43. [AC9M7N05-P-043] [super-hard] Rounding 19: Round 103.056 to 1 decimal place.
+44. [AC9M7N05-P-044] [super-hard] Reasonableness 20: Which estimate best checks 48.7 × 39?
+45. [AC9M7N05-P-045] [super-hard] Error check 21: A result is reported to 2 decimal places. What is the maximum rounding error?
+46. [AC9M7N05-P-046] [super-hard] Rounding 22: Round 19.995 to 1 decimal place.
+47. [AC9M7N05-P-047] [super-hard] Reasonableness 23: Which estimate best checks 48.7 × 42?
+48. [AC9M7N05-P-048] [super-hard] Error check 24: A result is reported to 2 decimal places. What is the maximum rounding error?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N05-T-001] [easy] Which is the best estimate of 398 × 21?
+02. [AC9M7N05-T-002] [easy] A value rounds to 6.2 to the nearest 0.1. Which bounds describe the original value x?
+03. [AC9M7N05-T-003] [easy] Which is the best estimate of 0.49 × 198?
+04. [AC9M7N05-T-004] [easy] A value rounds to 4.36 to the nearest 0.01. Which bounds describe the original value x?
+05. [AC9M7N05-T-005] [medium] Which is the best estimate of 82.1 × 3.9?
+06. [AC9M7N05-T-006] [medium] A value rounds to 18 to the nearest 1. Which bounds describe the original value x?
+07. [AC9M7N05-T-007] [medium] Which is the best estimate of 149.8 × 0.21?
+08. [AC9M7N05-T-008] [medium] A value rounds to 2.7 to the nearest 0.1. Which bounds describe the original value x?
+09. [AC9M7N05-T-009] [medium] Which is the best estimate of 29.7 × 31.2?
+10. [AC9M7N05-T-010] [medium] A value rounds to 0.84 to the nearest 0.01. Which bounds describe the original value x?
+11. [AC9M7N05-T-011] [hard] Which is the best estimate of 504 × 1.98?
+12. [AC9M7N05-T-012] [hard] A value rounds to 125 to the nearest 1. Which bounds describe the original value x?
+13. [AC9M7N05-T-013] [hard] Which is the best estimate of 7.91 × 12.2?
+14. [AC9M7N05-T-014] [hard] A value rounds to 9.8 to the nearest 0.1. Which bounds describe the original value x?
+15. [AC9M7N05-T-015] [super-hard] Which is the best estimate of 0.098 × 503?
+16. [AC9M7N05-T-016] [super-hard] A value rounds to 3.05 to the nearest 0.01. Which bounds describe the original value x?
+
+AC9M7N06
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N06-P-001] [easy] Calculate 3/4 + 0.35.
+02. [AC9M7N06-P-002] [easy] Calculate 1.75 + 3/8.
+03. [AC9M7N06-P-003] [easy] Calculate 1.25 × 3/5.
+04. [AC9M7N06-P-004] [easy] Calculate 2/5 + 0.65.
+05. [AC9M7N06-P-005] [easy] Calculate 2.4 - 7/20.
+06. [AC9M7N06-P-006] [easy] Calculate 2.1 ÷ 7/10.
+07. [AC9M7N06-P-007] [easy] Calculate 7/8 - 0.375.
+08. [AC9M7N06-P-008] [easy] Calculate 5/12 + 0.25.
+09. [AC9M7N06-P-009] [easy] Calculate 9/10 + 35%.
+10. [AC9M7N06-P-010] [easy] Calculate 1.2 - 3/10.
+11. [AC9M7N06-P-011] [easy] Calculate 0.9 - 2/5.
+12. [AC9M7N06-P-012] [easy] Calculate 125% - 3/4.
+13. [AC9M7N06-P-013] [medium] Calculate 5/6 + 1/3.
+14. [AC9M7N06-P-014] [medium] Calculate 3/4 × 2/3.
+15. [AC9M7N06-P-015] [medium] What is 25% of 64?
+16. [AC9M7N06-P-016] [medium] Calculate 7/10 - 1/4.
+17. [AC9M7N06-P-017] [medium] Calculate 5/6 × 9/10.
+18. [AC9M7N06-P-018] [medium] What is 10% of 350?
+19. [AC9M7N06-P-019] [medium] Calculate 3/5 × 0.5.
+20. [AC9M7N06-P-020] [medium] Calculate 7/8 ÷ 1/4.
+21. [AC9M7N06-P-021] [medium] What is 15% of 240?
+22. [AC9M7N06-P-022] [medium] Calculate 4/5 ÷ 0.2.
+23. [AC9M7N06-P-023] [medium] Calculate 2/3 ÷ 4/9.
+24. [AC9M7N06-P-024] [medium] What is 20% of 85?
+25. [AC9M7N06-P-025] [medium] Fraction 1: Calculate 2/3 + 3/5.
+26. [AC9M7N06-P-026] [medium] Division 2: Calculate 3/4 ÷ 2/7.
+27. [AC9M7N06-P-027] [medium] Percentage 3: Find 30% of 140.
+28. [AC9M7N06-P-028] [medium] Mixed 4: Which operation should be completed first in 3/4 + 0.5 × 20%?
+29. [AC9M7N06-P-029] [medium] Fraction 5: Calculate 9/20 + 2/3.
+30. [AC9M7N06-P-030] [medium] Division 6: Calculate 11/12 ÷ 3/4.
+31. [AC9M7N06-P-031] [hard] Percentage 7: Find 25% of 180.
+32. [AC9M7N06-P-032] [hard] Mixed 8: Which operation should be completed first in 3/4 + 0.5 × 20%?
+33. [AC9M7N06-P-033] [hard] Fraction 9: Calculate 5/6 + 3/8.
+34. [AC9M7N06-P-034] [hard] Division 10: Calculate 7/10 ÷ 4/5.
+35. [AC9M7N06-P-035] [hard] Percentage 11: Find 20% of 220.
+36. [AC9M7N06-P-036] [hard] Mixed 12: Which operation should be completed first in 3/4 + 0.5 × 20%?
+37. [AC9M7N06-P-037] [hard] Fraction 13: Calculate 2/3 + 3/5.
+38. [AC9M7N06-P-038] [hard] Division 14: Calculate 3/4 ÷ 2/7.
+39. [AC9M7N06-P-039] [hard] Percentage 15: Find 40% of 260.
+40. [AC9M7N06-P-040] [hard] Mixed 16: Which operation should be completed first in 3/4 + 0.5 × 20%?
+41. [AC9M7N06-P-041] [hard] Fraction 17: Calculate 9/20 + 2/3.
+42. [AC9M7N06-P-042] [hard] Division 18: Calculate 11/12 ÷ 3/4.
+43. [AC9M7N06-P-043] [super-hard] Percentage 19: Find 35% of 300.
+44. [AC9M7N06-P-044] [super-hard] Mixed 20: Which operation should be completed first in 3/4 + 0.5 × 20%?
+45. [AC9M7N06-P-045] [super-hard] Fraction 21: Calculate 5/6 + 3/8.
+46. [AC9M7N06-P-046] [super-hard] Division 22: Calculate 7/10 ÷ 4/5.
+47. [AC9M7N06-P-047] [super-hard] Percentage 23: Find 30% of 340.
+48. [AC9M7N06-P-048] [super-hard] Mixed 24: Which operation should be completed first in 3/4 + 0.5 × 20%?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N06-T-001] [easy] What is 12.5% of 80?
+02. [AC9M7N06-T-002] [easy] Calculate 4.8 ÷ 0.12.
+03. [AC9M7N06-T-003] [easy] What is 17.5% of 240?
+04. [AC9M7N06-T-004] [easy] Calculate 2.4 ÷ 0.06.
+05. [AC9M7N06-T-005] [medium] What is 30% of 150?
+06. [AC9M7N06-T-006] [medium] Calculate 7.2 ÷ 0.3.
+07. [AC9M7N06-T-007] [medium] What is 35% of 200?
+08. [AC9M7N06-T-008] [medium] Calculate 1.75 ÷ 0.25.
+09. [AC9M7N06-T-009] [medium] What is 40% of 95?
+10. [AC9M7N06-T-010] [medium] Calculate 0.84 ÷ 0.07.
+11. [AC9M7N06-T-011] [hard] What is 62.5% of 80?
+12. [AC9M7N06-T-012] [hard] Calculate 6.4 × 0.25.
+13. [AC9M7N06-T-013] [hard] What is 75% of 48?
+14. [AC9M7N06-T-014] [hard] Calculate 3.6 × 1.5.
+15. [AC9M7N06-T-015] [super-hard] What is 120% of 45?
+16. [AC9M7N06-T-016] [super-hard] Calculate 0.48 × 2.5.
+
+AC9M7N07
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N07-P-001] [easy] Which statement is true?
+02. [AC9M7N07-P-002] [easy] Which integer is greater?
+03. [AC9M7N07-P-003] [easy] Which comparison is correct?
+04. [AC9M7N07-P-004] [easy] Order −4, 3 and −1 from least to greatest.
+05. [AC9M7N07-P-005] [easy] Order 0, −7 and 5 from least to greatest.
+06. [AC9M7N07-P-006] [easy] Order −9, −2 and −5 from least to greatest.
+07. [AC9M7N07-P-007] [easy] Which integer has the greatest magnitude?
+08. [AC9M7N07-P-008] [easy] Which value has the smallest magnitude?
+09. [AC9M7N07-P-009] [easy] Which statement about −12 is correct?
+10. [AC9M7N07-P-010] [easy] What is the distance between −3 and 5 on a number line?
+11. [AC9M7N07-P-011] [easy] On a number line, what does adding −4 mean?
+12. [AC9M7N07-P-012] [easy] On a number line, what does subtracting −6 do?
+13. [AC9M7N07-P-013] [medium] Evaluate −5 + 3.
+14. [AC9M7N07-P-014] [medium] Evaluate 7 − (−4).
+15. [AC9M7N07-P-015] [medium] Evaluate −6 + (−2).
+16. [AC9M7N07-P-016] [medium] Evaluate −3 − 5.
+17. [AC9M7N07-P-017] [medium] Evaluate −9 − (−3).
+18. [AC9M7N07-P-018] [medium] Evaluate −2 − (−9).
+19. [AC9M7N07-P-019] [medium] Evaluate 8 + (−8).
+20. [AC9M7N07-P-020] [medium] Evaluate −10 − 4.
+21. [AC9M7N07-P-021] [medium] Starting at −3 and moving 5 units right gives which integer?
+22. [AC9M7N07-P-022] [medium] Starting at 6 and moving 9 units left gives which integer?
+23. [AC9M7N07-P-023] [medium] Start at −7, move 4 right, then 6 left. Where do you finish?
+24. [AC9M7N07-P-024] [medium] Start at 2, move 6 left, then 9 right. Where do you finish?
+25. [AC9M7N07-P-025] [medium] The temperature is −4°C and drops by 7°C. What is the new temperature?
+26. [AC9M7N07-P-026] [medium] At dawn it is −6°C. By midday it rises 11°C. What is the temperature?
+27. [AC9M7N07-P-027] [medium] A bank balance is −$18. A deposit of $25 is made. What is the new balance?
+28. [AC9M7N07-P-028] [medium] A balance is $12. A $19 payment is made. What is the new balance?
+29. [AC9M7N07-P-029] [medium] A diver is at −14 m and rises 9 m. What is the new position?
+30. [AC9M7N07-P-030] [medium] A hiker is at +6 m relative to a reference level, descends 15 m, then climbs 4 m. Final position?
+31. [AC9M7N07-P-031] [hard] A student says −8+5=3 because 8−5=3. What is the error?
+32. [AC9M7N07-P-032] [hard] A student evaluates 4−(−7) as −3. Which correction is best?
+33. [AC9M7N07-P-033] [hard] Which pair has the same magnitude but opposite signs?
+34. [AC9M7N07-P-034] [hard] Which expression gives the distance between −9 and 4?
+35. [AC9M7N07-P-035] [hard] Evaluate −12 + 7 − (−5) − 9.
+36. [AC9M7N07-P-036] [hard] Evaluate 14 − 20 + (−6) − (−9).
+37. [AC9M7N07-P-037] [hard] Which integer makes x + (−7) = 3 true?
+38. [AC9M7N07-P-038] [hard] Which integer makes −5 − x = 2 true?
+39. [AC9M7N07-P-039] [hard] City A is −8°C and City B is −2°C. Which statement is correct?
+40. [AC9M7N07-P-040] [hard] A submarine moves from −35 m to −12 m, then to −28 m. What is the total distance travelled?
+41. [AC9M7N07-P-041] [hard] Order -7, -2, 0, 5 from smallest to largest.
+42. [AC9M7N07-P-042] [hard] Order -6, -7, -5, -8 from smallest to largest.
+43. [AC9M7N07-P-043] [super-hard] Calculate -25 + (40).
+44. [AC9M7N07-P-044] [super-hard] Order -1, -9, 4, 0 from smallest to largest.
+45. [AC9M7N07-P-045] [super-hard] Order 12, -12, 2, -2 from smallest to largest.
+46. [AC9M7N07-P-046] [super-hard] Calculate 18 + (-7).
+47. [AC9M7N07-P-047] [super-hard] Order -12, -3, -8, 2 from smallest to largest.
+48. [AC9M7N07-P-048] [super-hard] Order -30, 0, -3, 30 from smallest to largest.
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N07-T-001] [easy] Which list is ordered from least to greatest?
+02. [AC9M7N07-T-002] [easy] What is the distance between −11 and 6?
+03. [AC9M7N07-T-003] [easy] Evaluate −13 − (−8).
+04. [AC9M7N07-T-004] [easy] Evaluate −17 + 9.
+05. [AC9M7N07-T-005] [medium] Evaluate 9 − 14 − (−6) + (−3).
+06. [AC9M7N07-T-006] [medium] A town is −7°C at 6 am. It warms by 9°C, then cools by 5°C. Final temperature?
+07. [AC9M7N07-T-007] [medium] A balance is −$24. A deposit of $40 is followed by a $19 payment. What is the balance?
+08. [AC9M7N07-T-008] [medium] A lift starts on floor −3, rises 8 floors, then descends 6 floors. Where does it stop?
+09. [AC9M7N07-T-009] [medium] A student claims −4−(−9)=−13. What is the correct evaluation?
+10. [AC9M7N07-T-010] [medium] Find x if x−(−6)=−2.
+11. [AC9M7N07-T-011] [hard] Find x if −7+x=5.
+12. [AC9M7N07-T-012] [hard] Which statement must be true if a<b?
+13. [AC9M7N07-T-013] [hard] A diver moves from −20 m to −5 m, then to −18 m. What total distance is travelled?
+14. [AC9M7N07-T-014] [hard] A game score starts at 4. Penalties change it by −7, −5 and +9. What is the final score?
+15. [AC9M7N07-T-015] [super-hard] Two integers have a difference of 12 and one is −7. Which could be the other integer?
+16. [AC9M7N07-T-016] [super-hard] Calculate 7 + (-3).
+
+AC9M7N08
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N08-P-001] [easy] What does the ratio 1:4 mean?
+02. [AC9M7N08-P-002] [easy] How many total parts are in the ratio 3:5?
+03. [AC9M7N08-P-003] [easy] How many total parts are in 1:1:2?
+04. [AC9M7N08-P-004] [easy] A diagram shows 2 red and 6 blue counters. What is the ratio red:blue in simplest form?
+05. [AC9M7N08-P-005] [easy] Which ratio is equivalent to 2:3?
+06. [AC9M7N08-P-006] [easy] A mix has 5 red and 10 green beads. What is red:green in simplest form?
+07. [AC9M7N08-P-007] [easy] Which is a part-part ratio?
+08. [AC9M7N08-P-008] [easy] Which is a part-whole ratio?
+09. [AC9M7N08-P-009] [easy] Scale 3:7 by a factor of 2.
+10. [AC9M7N08-P-010] [easy] Which statement about 4:4:8 is true?
+11. [AC9M7N08-P-011] [easy] In the ratio 1:2, what fraction of the whole is the larger part?
+12. [AC9M7N08-P-012] [easy] In the ratio 2:3, what fraction of the whole is the smaller part?
+13. [AC9M7N08-P-013] [medium] In the ratio 4:1, what fraction of the whole is the larger part?
+14. [AC9M7N08-P-014] [medium] In the ratio 3:7, what fraction of the whole is represented by the 3-part group?
+15. [AC9M7N08-P-015] [medium] In the ratio 5:5:10, what fraction of the whole is the largest part?
+16. [AC9M7N08-P-016] [medium] In the ratio 2:3:5, what fraction of the whole is the 3-part group?
+17. [AC9M7N08-P-017] [medium] In a 1:4 ratio, what fraction of the whole is the smaller part?
+18. [AC9M7N08-P-018] [medium] In a 7:3 ratio, what fraction of the whole is the larger part?
+19. [AC9M7N08-P-019] [medium] In a 2:8 ratio, what fraction of the whole is the smaller part in simplest form?
+20. [AC9M7N08-P-020] [medium] How many total parts are in 4:6:10?
+21. [AC9M7N08-P-021] [medium] Share $20 in the ratio 2:3. How much is the larger share?
+22. [AC9M7N08-P-022] [medium] Share 60 in the ratio 1:2. What is the larger share?
+23. [AC9M7N08-P-023] [medium] Share 120 in the ratio 3:5:4. What is the largest share?
+24. [AC9M7N08-P-024] [medium] Share 72 in the ratio 2:6. What is the larger share?
+25. [AC9M7N08-P-025] [medium] Share 150 in the ratio 5:10. What is the smaller share?
+26. [AC9M7N08-P-026] [medium] Share 120 in the ratio 4:1. What is the larger share?
+27. [AC9M7N08-P-027] [medium] Share 84 in the ratio 3:4:5. What is the middle share?
+28. [AC9M7N08-P-028] [medium] Share 200 in the ratio 1:3:6. What is the largest share?
+29. [AC9M7N08-P-029] [medium] Share $45 in the ratio 2:1. What is the larger share?
+30. [AC9M7N08-P-030] [medium] Share $300 in the ratio 3:2. What is the smaller share?
+31. [AC9M7N08-P-031] [hard] A 500 mL mixture has concentrate:water = 1:4. How much concentrate is used?
+32. [AC9M7N08-P-032] [hard] A 500 mL mixture has concentrate:water = 1:4. How much water is used?
+33. [AC9M7N08-P-033] [hard] A drink concentrate is mixed with water in the ratio 1:5. What fraction of the final mixture is concentrate?
+34. [AC9M7N08-P-034] [hard] A 1:3 concentrate:water mix has total volume 800 mL. How much concentrate is needed?
+35. [AC9M7N08-P-035] [hard] A 1:3 concentrate:water mix has total volume 800 mL. How much water is needed?
+36. [AC9M7N08-P-036] [hard] Oil:vinegar = 2:3 in a 250 mL dressing. How much vinegar is used?
+37. [AC9M7N08-P-037] [hard] A mix uses red:blue:white paint = 1:2:3 and totals 600 mL. How much of the largest component is used?
+38. [AC9M7N08-P-038] [hard] A paint mix uses yellow:blue = 3:7 and totals 500 mL. How much of the larger component is used?
+39. [AC9M7N08-P-039] [hard] A student shares $84 in the ratio 3:4 by calculating 84÷4. What is the error?
+40. [AC9M7N08-P-040] [hard] Red:blue = 2:5. If there are 30 blue counters, how many red counters are there?
+41. [AC9M7N08-P-041] [hard] Simplify the ratio 18:24.
+42. [AC9M7N08-P-042] [hard] Simplify the ratio 24:90.
+43. [AC9M7N08-P-043] [super-hard] Scale 7:10 by a factor of 5.
+44. [AC9M7N08-P-044] [super-hard] Simplify the ratio 15:25.
+45. [AC9M7N08-P-045] [super-hard] Simplify the ratio 70:105.
+46. [AC9M7N08-P-046] [super-hard] Scale 3:4 by a factor of 9.
+47. [AC9M7N08-P-047] [super-hard] Simplify the ratio 28:42.
+48. [AC9M7N08-P-048] [super-hard] Simplify the ratio 84:126.
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N08-T-001] [easy] Which ratio is equivalent to 6:15?
+02. [AC9M7N08-T-002] [easy] The ratio cats:dogs is 3:7. What fraction of all pets are cats?
+03. [AC9M7N08-T-003] [easy] Share $132 in the ratio 5:6. What is the larger share?
+04. [AC9M7N08-T-004] [easy] Orange:purple = 4:7. If there are 28 orange counters, how many purple counters are there?
+05. [AC9M7N08-T-005] [medium] A class vote is in the ratio 2:3:5 and there are 50 votes. How many votes belong to the 3-part group?
+06. [AC9M7N08-T-006] [medium] A 900 mL mixture has syrup:water = 2:7. How much syrup is needed?
+07. [AC9M7N08-T-007] [medium] A recipe uses flour:sugar = 5:2. If 350 g of flour is used, how much sugar is needed?
+08. [AC9M7N08-T-008] [medium] There are 18 red and 30 blue beads. What is red:blue in simplest form?
+09. [AC9M7N08-T-009] [medium] A student says that in a 2:3 ratio, the first group is 2/3 of the whole. What is the best correction?
+10. [AC9M7N08-T-010] [medium] A $420 prize is shared in the ratio 2:3:5. How much does the largest share receive?
+11. [AC9M7N08-T-011] [hard] A ratio is 3:5. Which pair correctly gives the fractions of the whole?
+12. [AC9M7N08-T-012] [hard] A sports drink uses powder:water = 1:9. How much powder is needed to make 2.5 L of drink?
+13. [AC9M7N08-T-013] [hard] Which mixture has the greatest proportion of concentrate?
+14. [AC9M7N08-T-014] [hard] Red:blue = 3:4 and there are 28 blue counters. How many counters are there altogether?
+15. [AC9M7N08-T-015] [super-hard] A 1.8 L paint blend uses red:yellow:white = 2:3:4. How much white paint is required?
+16. [AC9M7N08-T-016] [super-hard] A ratio 4:6 is scaled so the second quantity becomes 45. What is the first quantity?
+
+AC9M7N09
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N09-P-001] [easy] A lift starts at floor 0, goes up 5 floors, then down 8 floors. What is the final floor?
+02. [AC9M7N09-P-002] [easy] A hiker is at −120 m relative to sea level and climbs 85 m. What is the new altitude?
+03. [AC9M7N09-P-003] [easy] A submarine at −300 m rises 120 m then descends 50 m. What is its final depth?
+04. [AC9M7N09-P-004] [easy] A drone is 40 m above a reference level, rises 25 m, then drops 90 m. Where is it now?
+05. [AC9M7N09-P-005] [easy] A diver moves from −15 m to +2 m. Which change models the movement?
+06. [AC9M7N09-P-006] [easy] 55% of 400 students attended an event. How many attended?
+07. [AC9M7N09-P-007] [easy] 23% of 900 students voted yes. How many students is this?
+08. [AC9M7N09-P-008] [easy] 35% of a 1200 m² school site is green space. What area is green space?
+09. [AC9M7N09-P-009] [easy] 240 students represent 75% of a cohort. How many students are in the cohort?
+10. [AC9M7N09-P-010] [easy] A survey result is 18% of 900 people. Which equation correctly models the number x?
+11. [AC9M7N09-P-011] [easy] A fundraiser earns $480 and costs $360. What is the profit?
+12. [AC9M7N09-P-012] [easy] A fundraiser costs $360 and makes a $120 profit. What is the percentage profit on cost?
+13. [AC9M7N09-P-013] [medium] An event earns $500 but costs $650. What is the loss?
+14. [AC9M7N09-P-014] [medium] A project costs $650 and loses $150. What is the percentage loss on cost, to the nearest whole percent?
+15. [AC9M7N09-P-015] [medium] A bank balance starts at $200. A $75 debit is followed by a $40 credit. What is the final balance?
+16. [AC9M7N09-P-016] [medium] A club starts with $500, loses $120, then gains $80. Which expression and result are correct?
+17. [AC9M7N09-P-017] [medium] A stall has fixed and food costs of $720. It earns $9 per item sold. How many items must be sold to break even?
+18. [AC9M7N09-P-018] [medium] Event A makes $150 profit on $750 cost. Event B makes $120 profit on $480 cost. Which has the higher percentage profit?
+19. [AC9M7N09-P-019] [medium] A student says a $90 profit on a $300 cost is a 90% profit. What is the best correction?
+20. [AC9M7N09-P-020] [medium] Which representation is most useful for comparing attendance at two schools of different sizes?
+21. [AC9M7N09-P-021] [medium] A school estimates event attendance using last year's 55% attendance rate. Which is an important modelling assumption?
+22. [AC9M7N09-P-022] [medium] A cohort has 598 students and about 41% are expected to attend. Which estimate is most reasonable?
+23. [AC9M7N09-P-023] [medium] A fundraiser made a $180 profit after costs of $720. What revenue did it earn?
+24. [AC9M7N09-P-024] [medium] Which model best represents a balance that starts at $350, receives a $90 credit and then a $125 debit?
+25. [AC9M7N09-P-025] [medium] In a hypothetical land-use model, 18% of a 2,000,000 km² region is classified as Area A. What area is this?
+26. [AC9M7N09-P-026] [medium] In the same hypothetical model, Area B is 25% of 2,000,000 km². What is its area?
+27. [AC9M7N09-P-027] [medium] If Area A is 360,000 km² and Area B is 500,000 km², what is the difference?
+28. [AC9M7N09-P-028] [medium] Area A is 360,000 km² and Area B is 500,000 km². Area A is what percentage of Area B?
+29. [AC9M7N09-P-029] [medium] Why can percentages be more informative than raw areas when comparing differently sized regions?
+30. [AC9M7N09-P-030] [medium] A map reports that 30% of a 1.5 million km² study region meets a criterion. Which calculation is correct?
+31. [AC9M7N09-P-031] [hard] A school has 800 students. 65% respond to a survey, and 40% of respondents vote yes. How many vote yes?
+32. [AC9M7N09-P-032] [hard] A stall costs $640 to run and earns $880. It donates 25% of its profit. How much is donated?
+33. [AC9M7N09-P-033] [hard] A student finds 35% of 1200 by calculating 1200÷35. What is the key error?
+34. [AC9M7N09-P-034] [hard] Which final statement best communicates a solution to a modelling problem?
+35. [AC9M7N09-P-035] [hard] When is a spreadsheet especially useful in this topic?
+36. [AC9M7N09-P-036] [hard] A fundraiser's cost estimate rises from $600 to $660 while expected revenue stays $750. What happens to expected profit?
+37. [AC9M7N09-P-037] [hard] Plan A predicts 60% of 500 students attend. Plan B predicts 45% of 700. Which predicts more attendees?
+38. [AC9M7N09-P-038] [hard] A club's profit rises from $200 to $250. What is the percentage increase relative to the original profit?
+39. [AC9M7N09-P-039] [hard] A fundraiser must make at least $300 profit. If costs are $900, what minimum revenue is required?
+40. [AC9M7N09-P-040] [hard] Which question best evaluates whether a mathematical model is useful?
+41. [AC9M7N09-P-041] [hard] An item costs $480 and is discounted by 15%. What is the sale price?
+42. [AC9M7N09-P-042] [hard] An item costs $95 and is discounted by 30%. What is the sale price?
+43. [AC9M7N09-P-043] [super-hard] A fundraiser costs $320 and earns $288. What is the percentage profit or loss?
+44. [AC9M7N09-P-044] [super-hard] An item costs $250 and is discounted by 20%. What is the sale price?
+45. [AC9M7N09-P-045] [super-hard] An item costs $420 and is discounted by 22%. What is the sale price?
+46. [AC9M7N09-P-046] [super-hard] A fundraiser costs $150 and earns $180. What is the percentage profit or loss?
+47. [AC9M7N09-P-047] [super-hard] An item costs $360 and is discounted by 25%. What is the sale price?
+48. [AC9M7N09-P-048] [super-hard] An item costs $56 and is discounted by 25%. What is the sale price?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7N09-T-001] [easy] A lift starts at floor −3, rises 11 floors, then descends 6. What is the final floor?
+02. [AC9M7N09-T-002] [easy] A climber moves from −45 m to +25 m relative to sea level. What is the total change in altitude?
+03. [AC9M7N09-T-003] [easy] 62% of 750 students attend an event. How many attend?
+04. [AC9M7N09-T-004] [easy] 294 students represent 70% of a cohort. What is the cohort size?
+05. [AC9M7N09-T-005] [medium] A stall earns $1380 and costs $920. What is its percentage profit on cost?
+06. [AC9M7N09-T-006] [medium] A club event costs $840 and earns $714. What is the percentage loss on cost?
+07. [AC9M7N09-T-007] [medium] 80% of 600 students respond to a survey, and 35% of respondents choose option A. How many choose A?
+08. [AC9M7N09-T-008] [medium] An account starts at $450. Transactions are −$120, +$85, −$60 and +$25. Final balance?
+09. [AC9M7N09-T-009] [medium] A model predicts attendance using last year's 48% rate. Which statement is most important when reporting the answer?
+10. [AC9M7N09-T-010] [medium] In a hypothetical comparison, Region A is 24% of 1.8 million km² and Region B is 30% of the same total. How much larger is B?
+11. [AC9M7N09-T-011] [hard] Area A is 432,000 km² and Area B is 540,000 km². A is what percentage of B?
+12. [AC9M7N09-T-012] [hard] A student claims 41% of 598 is 410. Which is the strongest reason the answer is unreasonable?
+13. [AC9M7N09-T-013] [hard] A fundraiser has costs of $1050 and earns $15 per ticket. What is the minimum number of tickets needed to break even?
+14. [AC9M7N09-T-014] [hard] Plan A expects 58% of 500 people to attend. Plan B expects 44% of 700. Which predicts more attendees?
+15. [AC9M7N09-T-015] [super-hard] Expected revenue stays at $1200 while costs rise from $800 to $900. How does percentage profit on cost change?
+16. [AC9M7N09-T-016] [super-hard] Which conclusion best demonstrates mathematical modelling rather than calculation alone?
+
+AC9M7P01
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7P01-P-001] [easy] What is a sample space?
+02. [AC9M7P01-P-002] [easy] What is an event?
+03. [AC9M7P01-P-003] [easy] What is one trial?
+04. [AC9M7P01-P-004] [easy] Probability values must lie:
+05. [AC9M7P01-P-005] [easy] A probability of 0 means:
+06. [AC9M7P01-P-006] [easy] A probability of 1 means:
+07. [AC9M7P01-P-007] [easy] The sample space for one fair coin toss is:
+08. [AC9M7P01-P-008] [easy] The sample space for one fair six-sided die roll is:
+09. [AC9M7P01-P-009] [easy] A spinner has four labelled outcomes Red, Blue, Green, Yellow and equal sectors. Its sample space is:
+10. [AC9M7P01-P-010] [easy] A lucky dip has five distinct prizes A–E, one of each and each equally likely to be drawn. P(C) is:
+11. [AC9M7P01-P-011] [easy] P(rolling a 6 on a fair die) is:
+12. [AC9M7P01-P-012] [easy] P(heads on a fair coin) is:
+13. [AC9M7P01-P-013] [medium] P(even number on a fair die) is:
+14. [AC9M7P01-P-014] [medium] P(number greater than 4 on a fair die) is:
+15. [AC9M7P01-P-015] [medium] P(number less than 3 on a fair die) is:
+16. [AC9M7P01-P-016] [medium] P(prime number on a fair die) is:
+17. [AC9M7P01-P-017] [medium] If the equally likely outcomes are {A,B,C,D,E}, P(vowel) is:
+18. [AC9M7P01-P-018] [medium] Selecting a random day of the week, P(weekend) is:
+19. [AC9M7P01-P-019] [medium] A bag has 2 blue and 1 red identical marble, well mixed. P(blue) is:
+20. [AC9M7P01-P-020] [medium] For equally likely elementary outcomes, event probability is:
+21. [AC9M7P01-P-021] [medium] Which check must hold for probabilities of all mutually exclusive elementary outcomes in the sample space?
+22. [AC9M7P01-P-022] [medium] If P(A)=0.35, P(not A) is:
+23. [AC9M7P01-P-023] [medium] If P(red)=1/4, expected red outcomes in 80 trials are:
+24. [AC9M7P01-P-024] [medium] If P(6)=1/6, expected sixes in 60 rolls are:
+25. [AC9M7P01-P-025] [medium] An expected frequency is:
+26. [AC9M7P01-P-026] [medium] Relative frequency is:
+27. [AC9M7P01-P-027] [medium] Heads occurs 40 times in 100 tosses. Relative frequency is:
+28. [AC9M7P01-P-028] [medium] An event occurs 25 times in 50 trials. Relative frequency is:
+29. [AC9M7P01-P-029] [medium] A spinner lands red 30 times in 100 spins. Experimental probability of red is:
+30. [AC9M7P01-P-030] [medium] As the number of independent repeated trials becomes large, relative frequency often:
+31. [AC9M7P01-P-031] [hard] A fair coin gives 47 heads in 100 tosses. Which statement is best?
+32. [AC9M7P01-P-032] [hard] Using theoretical probability 0.5, predicted heads in 300 fair-coin tosses are:
+33. [AC9M7P01-P-033] [hard] Using an observed relative frequency 0.47 as an estimate, predicted heads in 300 similar trials are:
+34. [AC9M7P01-P-034] [hard] If probability of an event is 0.3, expected occurrences in 100 trials are:
+35. [AC9M7P01-P-035] [hard] If probability of winning is 1/4, expected wins in 80 games are:
+36. [AC9M7P01-P-036] [hard] A spinner has one red sector covering half the circle and two other colours each covering a quarter. P(red) is:
+37. [AC9M7P01-P-037] [hard] Why is '3 colours means each has probability 1/3' sometimes wrong?
+38. [AC9M7P01-P-038] [hard] A bag has 4 red and 6 blue identical counters. P(red) is:
+39. [AC9M7P01-P-039] [hard] For the same bag, P(not red) is:
+40. [AC9M7P01-P-040] [hard] Which phrase correctly describes a favourable outcome?
+41. [AC9M7P01-P-041] [hard] Predictive systems can use observed relative frequencies because:
+42. [AC9M7P01-P-042] [hard] If a word appears 52 times in 1000 observations, its relative frequency is:
+43. [AC9M7P01-P-043] [super-hard] If 'and' appears 30 times in 1000 observations, its relative frequency is:
+44. [AC9M7P01-P-044] [super-hard] Which statement about predictive text is mathematically safest?
+45. [AC9M7P01-P-045] [super-hard] A die is rolled 60 times and six appears 8 times. Relative frequency of six is:
+46. [AC9M7P01-P-046] [super-hard] Compared with theoretical 1/6≈0.167, 8/60≈0.133 is:
+47. [AC9M7P01-P-047] [super-hard] Which experiment is single-stage?
+48. [AC9M7P01-P-048] [super-hard] Which sample space is appropriate for one random letter chosen from A,B,C?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7P01-T-001] [easy] A spinner has sectors with probabilities Red 0.45, Blue 0.30, Green 0.25. Which check confirms a complete probability model?
+02. [AC9M7P01-T-002] [easy] A spinner has P(red)=0.4 and P(blue)=0.35. If green is the only other outcome, P(green)=
+03. [AC9M7P01-T-003] [easy] A bag contains 3 red, 5 blue and 2 green identical counters. P(not blue)=
+04. [AC9M7P01-T-004] [easy] For the same bag, expected blue counters in 120 draws with replacement are:
+05. [AC9M7P01-T-005] [medium] Why is 'expected 60 blue' not a guarantee?
+06. [AC9M7P01-T-006] [medium] A fair die is rolled 240 times. Expected results greater than 4:
+07. [AC9M7P01-T-007] [medium] A fair die is rolled 240 times and numbers greater than 4 occur 91 times. Relative frequency is approximately:
+08. [AC9M7P01-T-008] [medium] Which conclusion is strongest?
+09. [AC9M7P01-T-009] [medium] A coin produces 520 heads in 1000 tosses. Which statement is best?
+10. [AC9M7P01-T-010] [medium] Which result gives stronger experimental evidence about a coin's long-run behaviour?
+11. [AC9M7P01-T-011] [hard] A spinner has four equal sectors but labels R,R,B,G. What is P(R)?
+12. [AC9M7P01-T-012] [hard] Why is the sample space {R,B,G} alone insufficient to infer equal probabilities in that spinner?
+13. [AC9M7P01-T-013] [hard] A lucky dip contains prize labels A,A,A,B,C. If each ticket is equally likely, P(A)=
+14. [AC9M7P01-T-014] [hard] For that lucky dip, which is the most useful elementary sample space if tickets are physically distinct?
+15. [AC9M7P01-T-015] [super-hard] An event has probability 0.72. Its complement has probability:
+16. [AC9M7P01-T-016] [super-hard] If P(not rain)=0.65, then P(rain)=
+
+AC9M7P02
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7P02-P-001] [easy] A coin simulator runs 50 trials and gives 22 heads. Relative frequency of heads is:
+02. [AC9M7P02-P-002] [easy] A fair die is rolled 120 times. Expected number of sixes:
+03. [AC9M7P02-P-003] [easy] A spinner has 4 equal colours and is spun 80 times. Expected frequency of one colour:
+04. [AC9M7P02-P-004] [easy] A simulator gives 31 fives in 200 fair-die rolls. Relative frequency:
+05. [AC9M7P02-P-005] [easy] A fair coin is tossed 30 times and gives 11 tails. Expected tails are:
+06. [AC9M7P02-P-006] [easy] For that experiment, observed tails differ from expected by:
+07. [AC9M7P02-P-007] [easy] Experimental probability is based on:
+08. [AC9M7P02-P-008] [easy] Theoretical probability is based on:
+09. [AC9M7P02-P-009] [easy] Relative frequency equals:
+10. [AC9M7P02-P-010] [easy] Predicted frequency equals:
+11. [AC9M7P02-P-011] [easy] Why run repeated experiments?
+12. [AC9M7P02-P-012] [easy] A fair coin tossed 10 times is most likely to show:
+13. [AC9M7P02-P-013] [medium] A fair coin tossed 1000 times will usually have relative frequency of heads:
+14. [AC9M7P02-P-014] [medium] The law of large numbers is best described as:
+15. [AC9M7P02-P-015] [medium] If P(6)=1/6, 600 fair-die rolls are expected to give about:
+16. [AC9M7P02-P-016] [medium] A simulation gives 98 sixes in 600 rolls. Relative frequency is approximately:
+17. [AC9M7P02-P-017] [medium] Compared with 1/6≈0.167, 0.163 is:
+18. [AC9M7P02-P-018] [medium] A coin simulation gives 520 heads in 1000 tosses. Relative frequency:
+19. [AC9M7P02-P-019] [medium] Which is the best interpretation of 0.52 versus theoretical 0.5?
+20. [AC9M7P02-P-020] [medium] Digital simulations are especially useful because they can:
+21. [AC9M7P02-P-021] [medium] A digital simulation is only useful if:
+22. [AC9M7P02-P-022] [medium] What should be checked when auditing a simulation?
+23. [AC9M7P02-P-023] [medium] A fair four-colour spinner is simulated 400 times: R90,B110,G100,Y100. Relative frequency of Blue:
+24. [AC9M7P02-P-024] [medium] Theoretical P(Blue) for that spinner is:
+25. [AC9M7P02-P-025] [medium] Why can 0.275 differ from 0.25?
+26. [AC9M7P02-P-026] [medium] A fair die simulation of 300 rolls records face 5 exactly 54 times. Relative frequency:
+27. [AC9M7P02-P-027] [medium] The expected count of each face in 300 fair-die rolls is:
+28. [AC9M7P02-P-028] [medium] Observed 54 versus expected 50 should be described as:
+29. [AC9M7P02-P-029] [medium] When comparing experiments with 50 and 500 trials, which is fairer than comparing raw event counts?
+30. [AC9M7P02-P-030] [medium] A coin experiment has 24 heads in 50 tosses and another has 241 heads in 500. Which has higher relative frequency?
+31. [AC9M7P02-P-031] [hard] Which corrected comparison is true for 24/50 and 241/500?
+32. [AC9M7P02-P-032] [hard] A simulator runs 500 coin tosses: H241,T259. Relative frequency of heads:
+33. [AC9M7P02-P-033] [hard] Using theoretical probability, expected heads in 2000 fair tosses:
+34. [AC9M7P02-P-034] [hard] Using observed 0.482 as an estimate, predicted heads in 2000 similar trials:
+35. [AC9M7P02-P-035] [hard] A five-colour equal spinner is spun 400 times. Expected frequency of each colour:
+36. [AC9M7P02-P-036] [hard] Yellow occurs 85 times in 400 spins. Relative frequency:
+37. [AC9M7P02-P-037] [hard] A small sample differs greatly from theory. Which explanation is often plausible?
+38. [AC9M7P02-P-038] [hard] If a large simulation still differs substantially from the intended model, what should you do?
+39. [AC9M7P02-P-039] [hard] A simulation's outcome counts total 497 when 500 trials were requested. What does this suggest?
+40. [AC9M7P02-P-040] [hard] Which statement about large trials is correct?
+41. [AC9M7P02-P-041] [hard] A physical experiment and a digital simulation use the same fair-coin model. Which comparison is most meaningful?
+42. [AC9M7P02-P-042] [hard] Real coin tosses: 300 trials, 139 heads. Relative frequency:
+43. [AC9M7P02-P-043] [super-hard] Digital coin simulation: 5000 trials, 2488 heads. Relative frequency:
+44. [AC9M7P02-P-044] [super-hard] Which result is closer to theoretical 0.5?
+45. [AC9M7P02-P-045] [super-hard] Does this single comparison prove digital simulation is always more accurate than physical experiments?
+46. [AC9M7P02-P-046] [super-hard] Expected heads in 20,000 fair-coin simulations:
+47. [AC9M7P02-P-047] [super-hard] Which statement about convergence is safest?
+48. [AC9M7P02-P-048] [super-hard] Why are simulations useful for rare events?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7P02-T-001] [easy] A fair coin is tossed 200 times. Expected heads are 100; observed heads are 94. Which comparison is correct?
+02. [AC9M7P02-T-002] [easy] The relative frequency of heads in that experiment is:
+03. [AC9M7P02-T-003] [easy] A 2000-trial fair-coin simulation gives 1012 heads. Relative frequency:
+04. [AC9M7P02-T-004] [easy] Which of the two relative frequencies 0.47 and 0.506 is closer to 0.5?
+05. [AC9M7P02-T-005] [medium] Why should you avoid saying the 2000-trial simulation is closer solely because it is digital?
+06. [AC9M7P02-T-006] [medium] A fair die is simulated 300 times with counts 44,52,49,51,54,50. Do the counts pass a basic total check?
+07. [AC9M7P02-T-007] [medium] For that simulation, relative frequency of rolling 5 is:
+08. [AC9M7P02-T-008] [medium] Difference from theoretical 1/6≈0.1667 is approximately:
+09. [AC9M7P02-T-009] [medium] Which conclusion is justified?
+10. [AC9M7P02-T-010] [medium] A five-colour equal spinner gives counts 78,82,75,85,80 in 400 spins. What basic check should be done first?
+11. [AC9M7P02-T-011] [hard] Relative frequency of Yellow is:
+12. [AC9M7P02-T-012] [hard] Expected Yellow count is:
+13. [AC9M7P02-T-013] [hard] Observed Yellow exceeds expected by:
+14. [AC9M7P02-T-014] [hard] Which statement best explains that difference?
+15. [AC9M7P02-T-015] [super-hard] A two-dice simulation records sum 8 on 78 of 600 trials. Relative frequency:
+16. [AC9M7P02-T-016] [super-hard] Theoretical probability of sum 8 with two fair dice is 5/36≈0.1389. Difference from observed is about:
+
+AC9M7SP01
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7SP01-P-001] [easy] A net is best described as:
+02. [AC9M7SP01-P-002] [easy] How many different nets does a cube have?
+03. [AC9M7SP01-P-003] [easy] A triangular prism net must contain:
+04. [AC9M7SP01-P-004] [easy] A square pyramid net contains:
+05. [AC9M7SP01-P-005] [easy] Which arrangement definitely cannot fold into a cube?
+06. [AC9M7SP01-P-006] [easy] Deconstructing a cereal box is useful because it reveals:
+07. [AC9M7SP01-P-007] [easy] Which object has no exact flat net made from ordinary plane regions without stretching or distortion?
+08. [AC9M7SP01-P-008] [easy] A net is especially useful when planning:
+09. [AC9M7SP01-P-009] [easy] An aerial view of a building mainly shows its:
+10. [AC9M7SP01-P-010] [easy] A vertical cylindrical water tank has which top-view footprint?
+11. [AC9M7SP01-P-011] [easy] A rectangular-prism building usually has which footprint?
+12. [AC9M7SP01-P-012] [easy] A house can often be approximated using:
+13. [AC9M7SP01-P-013] [medium] What important information is usually missing from an aerial footprint?
+14. [AC9M7SP01-P-014] [medium] Which representation is most useful for showing where several buildings sit on a site?
+15. [AC9M7SP01-P-015] [medium] An isometric drawing is designed to show:
+16. [AC9M7SP01-P-016] [medium] In a standard isometric drawing, the three principal axes are separated by:
+17. [AC9M7SP01-P-017] [medium] Perspective drawing creates realistic depth mainly by using:
+18. [AC9M7SP01-P-018] [medium] Which representation usually looks most like normal human vision?
+19. [AC9M7SP01-P-019] [medium] Which is a limitation of perspective drawings?
+20. [AC9M7SP01-P-020] [medium] Which is a major advantage of isometric drawings?
+21. [AC9M7SP01-P-021] [medium] An orthographic drawing represents an object using:
+22. [AC9M7SP01-P-022] [medium] Which view normally shows width and height but not depth?
+23. [AC9M7SP01-P-023] [medium] Which view normally shows width and depth but not height?
+24. [AC9M7SP01-P-024] [medium] Why can one orthographic view be ambiguous?
+25. [AC9M7SP01-P-025] [medium] If two objects have the same front view but different depths, which extra view is most useful?
+26. [AC9M7SP01-P-026] [medium] A top view of three unit cubes placed in one vertical stack shows:
+27. [AC9M7SP01-P-027] [medium] A front view of three cubes placed side by side in one row shows:
+28. [AC9M7SP01-P-028] [medium] Which representation is best when a manufacturer needs the shape of every face before cutting cardboard?
+29. [AC9M7SP01-P-029] [medium] Which representation is best for communicating a product's realistic appearance to a customer?
+30. [AC9M7SP01-P-030] [medium] Which representation is best for checking exact front width and height?
+31. [AC9M7SP01-P-031] [hard] Which statement about 2D representations is most accurate?
+32. [AC9M7SP01-P-032] [hard] A student says, 'This perspective edge looks 4 cm long, so the real edge must be 4 cm.' What is the best response?
+33. [AC9M7SP01-P-033] [hard] A student builds a model from an isometric drawing. What skill are they using?
+34. [AC9M7SP01-P-034] [hard] Which pair of representations gives complementary information about a box?
+35. [AC9M7SP01-P-035] [hard] A net has two congruent triangles joined through three rectangles. Which object should it make?
+36. [AC9M7SP01-P-036] [hard] A net has one square with a triangle attached to each side. Which object should it make?
+37. [AC9M7SP01-P-037] [hard] Why is folding a paper net a useful check?
+38. [AC9M7SP01-P-038] [hard] A building has a rectangular footprint but a pitched roof. Why can one prism be an imperfect model?
+39. [AC9M7SP01-P-039] [hard] When drawing an orthographic side view, you should imagine looking:
+40. [AC9M7SP01-P-040] [hard] Which statement best compares a net and an aerial view?
+41. [AC9M7SP01-P-041] [hard] Which statement best compares isometric and perspective drawings?
+42. [AC9M7SP01-P-042] [hard] A square-grid drawing of front, side and top views is an example of:
+43. [AC9M7SP01-P-043] [super-hard] A map or artwork can communicate relationships between places without being a literal 3D picture. What does this show?
+44. [AC9M7SP01-P-044] [super-hard] When studying First Nations Australian artworks or cultural maps of Country/Place, the most appropriate approach is to:
+45. [AC9M7SP01-P-045] [super-hard] Which question best evaluates a representation?
+46. [AC9M7SP01-P-046] [super-hard] A designer needs both exact dimensions and an easy-to-visualise overall shape. Which combination is strongest?
+47. [AC9M7SP01-P-047] [super-hard] A top view is identical for two block structures, but one has cubes stacked higher. What conclusion is valid?
+48. [AC9M7SP01-P-048] [super-hard] Why might a net be poor for showing what a finished package looks like on a shelf?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7SP01-T-001] [easy] A company must print artwork on every face of a carton before folding it. Which representation should the printer request?
+02. [AC9M7SP01-T-002] [easy] Two block structures have identical front and side views but different top views. What must be true?
+03. [AC9M7SP01-T-003] [easy] A top view shows four occupied grid squares. Can you conclude the object contains exactly four cubes?
+04. [AC9M7SP01-T-004] [easy] A front view is a 3-by-2 rectangle and the top view is a 3-by-5 rectangle. Which dimensions are supported?
+05. [AC9M7SP01-T-005] [medium] Why can six connected squares still fail to be a cube net?
+06. [AC9M7SP01-T-006] [medium] Which evidence is strongest that a proposed cube net is valid?
+07. [AC9M7SP01-T-007] [medium] A triangular-prism package is cut from cardboard. Which face inventory must its net contain?
+08. [AC9M7SP01-T-008] [medium] A student chooses perspective instead of orthographic views for a workshop drawing. What is the main risk?
+09. [AC9M7SP01-T-009] [medium] An architect wants a client to understand appearance and a builder to read dimensions. What is the best solution?
+10. [AC9M7SP01-T-010] [medium] A structure is modelled as a rectangular prism although its roof is curved. What kind of decision is this?
+11. [AC9M7SP01-T-011] [hard] Which representation most directly reveals whether a building footprint is L-shaped?
+12. [AC9M7SP01-T-012] [hard] A tall cylinder and a short cylinder with equal base radii have identical top views. What does this demonstrate?
+13. [AC9M7SP01-T-013] [hard] A perspective drawing shows two rails converging in the distance. Are the real rails necessarily converging?
+14. [AC9M7SP01-T-014] [hard] Which feature is deliberately preserved in a standard isometric construction?
+15. [AC9M7SP01-T-015] [super-hard] An object has a square front view and square side view. Which conclusion is safest?
+16. [AC9M7SP01-T-016] [super-hard] A packaging designer needs to minimise cardboard waste around a net. What information does the net provide that an isometric sketch does not provide as directly?
+
+AC9M7SP02
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7SP02-P-001] [easy] Why is a triangle made from fixed-length hinged strips rigid?
+02. [AC9M7SP02-P-002] [easy] Why can a hinged quadrilateral flex while keeping its side lengths fixed?
+03. [AC9M7SP02-P-003] [easy] What is a common way to make a flexible quadrilateral frame rigid?
+04. [AC9M7SP02-P-004] [easy] Which shape is most naturally used for rigid bracing?
+05. [AC9M7SP02-P-005] [easy] A square frame made from four hinged equal strips can become a rhombus without changing side lengths. This demonstrates:
+06. [AC9M7SP02-P-006] [easy] Which statement about a hinged triangle is correct?
+07. [AC9M7SP02-P-007] [easy] Which condition is sufficient to check whether three positive lengths can form a triangle?
+08. [AC9M7SP02-P-008] [easy] Can 3 cm, 4 cm and 10 cm form a triangle?
+09. [AC9M7SP02-P-009] [easy] Can 6 cm, 7 cm and 12 cm form a triangle?
+10. [AC9M7SP02-P-010] [easy] Can 1 cm, 2 cm and 3 cm form a non-degenerate triangle?
+11. [AC9M7SP02-P-011] [easy] Which set can form a triangle?
+12. [AC9M7SP02-P-012] [easy] If two sides are 5 cm and 8 cm, which could be the third side?
+13. [AC9M7SP02-P-013] [medium] If two sides are 4 cm and 9 cm, which third side is impossible?
+14. [AC9M7SP02-P-014] [medium] A triangle has sides 4 cm, 4 cm and 7 cm. Classify it by sides.
+15. [AC9M7SP02-P-015] [medium] A triangle has sides 5 cm, 6 cm and 7 cm. Classify it by sides.
+16. [AC9M7SP02-P-016] [medium] A triangle has sides 8 cm, 8 cm and 8 cm. Classify it by sides.
+17. [AC9M7SP02-P-017] [medium] A triangle has angles 60°, 60°, 60°. Which classification is most complete?
+18. [AC9M7SP02-P-018] [medium] A triangle has angles 30°, 60°, 90°. Classify it by angles.
+19. [AC9M7SP02-P-019] [medium] A triangle has angles 110°, 40°, 30°. Classify it by angles.
+20. [AC9M7SP02-P-020] [medium] A triangle has angles 70°, 60°, 50°. Classify it by angles.
+21. [AC9M7SP02-P-021] [medium] Can a triangle be both isosceles and right-angled?
+22. [AC9M7SP02-P-022] [medium] Can an equilateral triangle be obtuse?
+23. [AC9M7SP02-P-023] [medium] Which markings are best evidence that a drawn triangle is isosceles?
+24. [AC9M7SP02-P-024] [medium] Which statement about orientation is correct?
+25. [AC9M7SP02-P-025] [medium] Which property defines a rectangle?
+26. [AC9M7SP02-P-026] [medium] Which property defines a rhombus?
+27. [AC9M7SP02-P-027] [medium] Which property defines a parallelogram?
+28. [AC9M7SP02-P-028] [medium] Which property describes a kite?
+29. [AC9M7SP02-P-029] [medium] Using the Australian school convention in this unit, a trapezium has:
+30. [AC9M7SP02-P-030] [medium] Which statement is always true?
+31. [AC9M7SP02-P-031] [hard] Which description identifies a square most completely?
+32. [AC9M7SP02-P-032] [hard] A quadrilateral has four equal sides but angles are not all 90°. It is definitely a:
+33. [AC9M7SP02-P-033] [hard] A quadrilateral has four right angles but its adjacent sides have different lengths. It is a:
+34. [AC9M7SP02-P-034] [hard] A quadrilateral has both pairs of opposite sides parallel and four equal sides. Which classification is guaranteed?
+35. [AC9M7SP02-P-035] [hard] A quadrilateral has both pairs of opposite sides parallel and four right angles. Which classification is guaranteed?
+36. [AC9M7SP02-P-036] [hard] Why is a square a useful example of overlapping shape classes?
+37. [AC9M7SP02-P-037] [hard] Which is a valid counterexample to the claim 'Every parallelogram is a rectangle'?
+38. [AC9M7SP02-P-038] [hard] Which is a valid counterexample to 'Every rhombus is a square'?
+39. [AC9M7SP02-P-039] [hard] Which information is NOT enough by itself to prove a quadrilateral is a square?
+40. [AC9M7SP02-P-040] [hard] Which information is NOT enough by itself to prove a quadrilateral is a rectangle?
+41. [AC9M7SP02-P-041] [hard] A quadrilateral frame becomes rigid after one diagonal is fixed. Why?
+42. [AC9M7SP02-P-042] [hard] Which side lengths form an isosceles triangle?
+43. [AC9M7SP02-P-043] [super-hard] Which side lengths form an equilateral triangle?
+44. [AC9M7SP02-P-044] [super-hard] Which side lengths cannot form a triangle?
+45. [AC9M7SP02-P-045] [super-hard] If a triangle has exactly two equal angles, what can you conclude?
+46. [AC9M7SP02-P-046] [super-hard] A shape is drawn like a 'diamond' with four equal sides. What should you call it based on properties rather than orientation?
+47. [AC9M7SP02-P-047] [super-hard] Which reasoning is strongest when classifying a polygon?
+48. [AC9M7SP02-P-048] [super-hard] A regular polygon has:
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7SP02-T-001] [easy] A hinged frame has sides 5, 7, 5 and 7 cm. It can be pushed into several shapes without changing side lengths. What is the best explanation?
+02. [AC9M7SP02-T-002] [easy] Why does adding one diagonal brace to a rectangular frame increase rigidity?
+03. [AC9M7SP02-T-003] [easy] A builder has rods 4 m, 6 m and x m. Which value of x cannot make a triangle?
+04. [AC9M7SP02-T-004] [easy] Two sides of a triangle are 7 cm and 11 cm. Which range must the third side x satisfy?
+05. [AC9M7SP02-T-005] [medium] Which set forms a valid isosceles triangle?
+06. [AC9M7SP02-T-006] [medium] A student claims 2, 5 and 7 cm make a triangle because 2 + 5 = 7. What is wrong?
+07. [AC9M7SP02-T-007] [medium] A triangle has angles 45°, 45°, 90°. Which classification is complete?
+08. [AC9M7SP02-T-008] [medium] A triangle has angles 100°, 40°, 40°. Which classification is complete?
+09. [AC9M7SP02-T-009] [medium] A triangle is equilateral. Which additional classification must be true?
+10. [AC9M7SP02-T-010] [medium] A triangle is right-angled. Which side-based classification is impossible?
+11. [AC9M7SP02-T-011] [hard] Which observation alone is enough to classify a triangle as isosceles?
+12. [AC9M7SP02-T-012] [hard] A triangle has three different side lengths. What can be concluded about its angles?
+13. [AC9M7SP02-T-013] [hard] A quadrilateral has four right angles and four equal sides. Which list contains only valid classifications?
+14. [AC9M7SP02-T-014] [hard] A quadrilateral has four equal sides and no right angles. Which statement is true?
+15. [AC9M7SP02-T-015] [super-hard] A quadrilateral has four right angles and two different side lengths. Which statement is true?
+16. [AC9M7SP02-T-016] [super-hard] Which property would turn a general parallelogram into a rectangle?
+
+AC9M7SP03
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7SP03-P-001] [easy] A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?
+02. [AC9M7SP03-P-002] [easy] A Year 7 student is solving a problem involving reflect in y axis. Which option is mathematically valid?
+03. [AC9M7SP03-P-003] [easy] A Year 7 student is solving a problem involving rotate 90. Which option is mathematically valid?
+04. [AC9M7SP03-P-004] [easy] A Year 7 student is solving a problem involving identify orientation change. Which option is mathematically valid?
+05. [AC9M7SP03-P-005] [easy] Which statement correctly identifies invariant in coordinate transformations?
+06. [AC9M7SP03-P-006] [easy] Which choice best describes coordinate rule in coordinate transformations?
+07. [AC9M7SP03-P-007] [easy] What does correct use require for image in coordinate transformations?
+08. [AC9M7SP03-P-008] [easy] The rule (x,y) → (x+3,y−2) describes:
+09. [AC9M7SP03-P-009] [easy] What translation maps (2,4) to (7,9)?
+10. [AC9M7SP03-P-010] [easy] Translate (−3,2) by (0,−7).
+11. [AC9M7SP03-P-011] [easy] Which rule moves every point 5 units left?
+12. [AC9M7SP03-P-012] [easy] A triangle has A(1,2), B(4,2), C(4,6). After translation (+3,−1), A' is:
+13. [AC9M7SP03-P-013] [medium] Under the same translation (+3,−1), B(4,2) maps to:
+14. [AC9M7SP03-P-014] [medium] A translation preserves:
+15. [AC9M7SP03-P-015] [medium] Reflect (3,5) in the x-axis.
+16. [AC9M7SP03-P-016] [medium] Reflect (−4,7) in the y-axis.
+17. [AC9M7SP03-P-017] [medium] Which rule is reflection in the x-axis?
+18. [AC9M7SP03-P-018] [medium] Which rule is reflection in the y-axis?
+19. [AC9M7SP03-P-019] [medium] A point (6,−2) is reflected in the x-axis. Its image is:
+20. [AC9M7SP03-P-020] [medium] A reflection preserves size and shape but:
+21. [AC9M7SP03-P-021] [medium] Which point is fixed by reflection in the x-axis?
+22. [AC9M7SP03-P-022] [medium] Which point is fixed by reflection in the y-axis?
+23. [AC9M7SP03-P-023] [medium] Rotate (3,2) 90° anticlockwise about the origin.
+24. [AC9M7SP03-P-024] [medium] Rotate (4,−7) 180° about the origin.
+25. [AC9M7SP03-P-025] [medium] Rotate (−5,1) 270° anticlockwise about the origin.
+26. [AC9M7SP03-P-026] [medium] A 90° clockwise rotation is equivalent to:
+27. [AC9M7SP03-P-027] [medium] Rotate (−1,4) 90° anticlockwise.
+28. [AC9M7SP03-P-028] [medium] Rotate (6,0) 270° anticlockwise.
+29. [AC9M7SP03-P-029] [medium] For a rotation to be described completely, you should state:
+30. [AC9M7SP03-P-030] [medium] Which transformation keeps every point the same distance from a fixed centre?
+31. [AC9M7SP03-P-031] [hard] Which transformations here are rigid?
+32. [AC9M7SP03-P-032] [hard] Which transformation reverses orientation?
+33. [AC9M7SP03-P-033] [hard] A figure and its translated image are always:
+34. [AC9M7SP03-P-034] [hard] Two reflections in parallel vertical lines x=1 then x=5 produce a net:
+35. [AC9M7SP03-P-035] [hard] Point (2,3) is reflected in x=1, giving:
+36. [AC9M7SP03-P-036] [hard] Then reflecting (0,3) in x=5 gives:
+37. [AC9M7SP03-P-037] [hard] Two reflections in intersecting lines produce a:
+38. [AC9M7SP03-P-038] [hard] Reflection in the x-axis followed by reflection in the y-axis is equivalent to:
+39. [AC9M7SP03-P-039] [hard] A repeated motif produced by sliding the same vector uses:
+40. [AC9M7SP03-P-040] [hard] A motif repeated around one centre uses:
+41. [AC9M7SP03-P-041] [hard] A mirror-symmetric pattern is naturally produced using:
+42. [AC9M7SP03-P-042] [hard] Which sequence produces a glide-reflection-type effect?
+43. [AC9M7SP03-P-043] [super-hard] A point (3,−4) is rotated 90° anticlockwise then reflected in the x-axis. Final point:
+44. [AC9M7SP03-P-044] [super-hard] Point (6,−1) is rotated 180° then translated (−3,+2). Final point:
+45. [AC9M7SP03-P-045] [super-hard] Which is the best way to check a coordinate transformation of a polygon?
+46. [AC9M7SP03-P-046] [super-hard] Digital geometry tools are useful because they allow students to:
+47. [AC9M7SP03-P-047] [super-hard] If a shape is translated repeatedly by (+4,0), what pattern property appears?
+48. [AC9M7SP03-P-048] [super-hard] If a motif repeats every quarter-turn around a centre, the smallest rotational angle is:
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7SP03-T-001] [easy] A translation maps P(−3,4) to P'(5,−2). Which rule describes it?
+02. [AC9M7SP03-T-002] [easy] Triangle A(−2,1), B(1,1), C(0,4) is translated by (+5,−3). What is C'?
+03. [AC9M7SP03-T-003] [easy] A point is translated by vector (a,b) and then by (−a,−b). Net effect:
+04. [AC9M7SP03-T-004] [easy] Which information uniquely describes a translation?
+05. [AC9M7SP03-T-005] [medium] Reflect (−6,3) in the y-axis, then in the x-axis. Final point:
+06. [AC9M7SP03-T-006] [medium] The previous two reflections are equivalent to:
+07. [AC9M7SP03-T-007] [medium] Reflecting a point in x=2 then x=7 gives what horizontal translation?
+08. [AC9M7SP03-T-008] [medium] Reflecting first in x=7 then x=2 gives:
+09. [AC9M7SP03-T-009] [medium] A point (4,1) is reflected in x=2. Its image is:
+10. [AC9M7SP03-T-010] [medium] Then reflect (0,1) in x=7. The image is:
+11. [AC9M7SP03-T-011] [hard] Rotate (2,5) 90° clockwise about the origin.
+12. [AC9M7SP03-T-012] [hard] Rotate (−3,−4) 90° anticlockwise.
+13. [AC9M7SP03-T-013] [hard] A 90° anticlockwise rotation followed by another 90° anticlockwise rotation equals:
+14. [AC9M7SP03-T-014] [hard] A 270° anticlockwise rotation followed by 90° anticlockwise about the same centre equals:
+15. [AC9M7SP03-T-015] [super-hard] Which point remains fixed under any rotation about the origin?
+16. [AC9M7SP03-T-016] [super-hard] A point (3,4) and its 90° rotated image are both how far from the origin?
+
+AC9M7SP04
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7SP04-P-001] [easy] A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?
+02. [AC9M7SP04-P-002] [easy] A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?
+03. [AC9M7SP04-P-003] [easy] A Year 7 student is solving a problem involving set a stopping condition. Which option is mathematically valid?
+04. [AC9M7SP04-P-004] [easy] A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?
+05. [AC9M7SP04-P-005] [easy] Which statement correctly identifies iteration in spatial algorithms and decision processes?
+06. [AC9M7SP04-P-006] [easy] Which choice best describes decision branch in spatial algorithms and decision processes?
+07. [AC9M7SP04-P-007] [easy] What does correct use require for algorithm in spatial algorithms and decision processes?
+08. [AC9M7SP04-P-008] [easy] In a triangle-classification algorithm, which question best identifies an equilateral triangle?
+09. [AC9M7SP04-P-009] [easy] A triangle has sides 5,5,8. Which branch should a side-based algorithm follow?
+10. [AC9M7SP04-P-010] [easy] A triangle has sides 4,6,7. Which branch should the side algorithm follow?
+11. [AC9M7SP04-P-011] [easy] A triangle has one angle of 90°. Which angle branch applies?
+12. [AC9M7SP04-P-012] [easy] A triangle has one angle of 110°. Which angle branch applies?
+13. [AC9M7SP04-P-013] [medium] A triangle has angles 50°,60°,70°. Which angle branch applies?
+14. [AC9M7SP04-P-014] [medium] Which is the best first stage of a triangle algorithm that classifies by both sides and angles?
+15. [AC9M7SP04-P-015] [medium] A flow chart asks: 'Are all sides equal?' YES → equilateral. What should the NO branch reasonably test next?
+16. [AC9M7SP04-P-016] [medium] A triangle is equilateral. Which angle result should a complete algorithm also return?
+17. [AC9M7SP04-P-017] [medium] Which output is most complete for a triangle with sides 6,6,9 and angles 40°,40°,100°?
+18. [AC9M7SP04-P-018] [medium] A quadrilateral has exactly one pair of parallel sides. Under this unit's convention, classify it as:
+19. [AC9M7SP04-P-019] [medium] A quadrilateral has two pairs of opposite sides parallel. First classify it as:
+20. [AC9M7SP04-P-020] [medium] Inside the parallelogram branch, which question identifies a rectangle?
+21. [AC9M7SP04-P-021] [medium] Inside the parallelogram branch, which question identifies a rhombus?
+22. [AC9M7SP04-P-022] [medium] A parallelogram has all sides equal and all angles 90°. Final classification:
+23. [AC9M7SP04-P-023] [medium] A quadrilateral has two pairs of adjacent equal sides. Which classification should an algorithm consider?
+24. [AC9M7SP04-P-024] [medium] Which algorithm error would classify every square only as a rhombus?
+25. [AC9M7SP04-P-025] [medium] Which algorithm error would classify every rectangle as a square?
+26. [AC9M7SP04-P-026] [medium] Which property should usually be checked before deciding between trapezium and parallelogram?
+27. [AC9M7SP04-P-027] [medium] A hierarchy shows square under both rectangle and rhombus. Why?
+28. [AC9M7SP04-P-028] [medium] A polygon has 5 sides. First classification:
+29. [AC9M7SP04-P-029] [medium] A polygon has 8 sides. First classification:
+30. [AC9M7SP04-P-030] [medium] Which condition defines a regular polygon?
+31. [AC9M7SP04-P-031] [hard] A polygon has one interior angle greater than 180°. It is:
+32. [AC9M7SP04-P-032] [hard] A polygon has every interior angle less than 180°. It is:
+33. [AC9M7SP04-P-033] [hard] Which sequence is sensible for a general polygon-classification algorithm?
+34. [AC9M7SP04-P-034] [hard] A regular hexagon is best classified as:
+35. [AC9M7SP04-P-035] [hard] An arrowhead-shaped simple quadrilateral with one reflex interior angle is:
+36. [AC9M7SP04-P-036] [hard] Which polygon category is impossible for a simple regular polygon in this Year 7 context?
+37. [AC9M7SP04-P-037] [hard] A polygon has equal sides but unequal angles. Is it regular?
+38. [AC9M7SP04-P-038] [hard] In a flow chart, a diamond usually represents:
+39. [AC9M7SP04-P-039] [hard] In a flow chart, a rectangle usually represents:
+40. [AC9M7SP04-P-040] [hard] A decision tree is useful because it:
+41. [AC9M7SP04-P-041] [hard] A good classification algorithm should be:
+42. [AC9M7SP04-P-042] [hard] Which question is too vague for a reliable shape algorithm?
+43. [AC9M7SP04-P-043] [super-hard] Which is a better algorithm condition than 'looks square'?
+44. [AC9M7SP04-P-044] [super-hard] Why should algorithm branches cover all possible outcomes?
+45. [AC9M7SP04-P-045] [super-hard] A triangle algorithm asks 'Are all sides equal?' then immediately outputs 'scalene' for NO. What is missing?
+46. [AC9M7SP04-P-046] [super-hard] A quadrilateral algorithm checks only whether all sides are equal. Why is this insufficient?
+47. [AC9M7SP04-P-047] [super-hard] A polygon algorithm checks only number of sides. What information remains unknown?
+48. [AC9M7SP04-P-048] [super-hard] Which test best checks whether a classification algorithm works?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7SP04-T-001] [easy] A triangle algorithm checks 'all sides equal?' then 'two sides equal?'. Why is this order efficient?
+02. [AC9M7SP04-T-002] [easy] A triangle has sides 7,7,7 and angles 60°,60°,60°. A complete algorithm should output:
+03. [AC9M7SP04-T-003] [easy] A triangle has sides 5,5,8 and one 100° angle. The best combined output is:
+04. [AC9M7SP04-T-004] [easy] A student writes: IF one angle is 90° THEN right ELSE acute. What case is missing?
+05. [AC9M7SP04-T-005] [medium] A student writes: IF all sides equal THEN equilateral ELSE scalene. What case is missing?
+06. [AC9M7SP04-T-006] [medium] Which decision tree is logically complete for side classification?
+07. [AC9M7SP04-T-007] [medium] A quadrilateral has two parallel pairs, all sides equal, but no right angles. A correct hierarchy outputs:
+08. [AC9M7SP04-T-008] [medium] A quadrilateral has two parallel pairs and four right angles, but adjacent sides differ. Output:
+09. [AC9M7SP04-T-009] [medium] A quadrilateral has two parallel pairs, four equal sides and four right angles. Which output is most specific?
+10. [AC9M7SP04-T-010] [medium] Why should a hierarchy allow a square to pass through both rectangle and rhombus branches?
+11. [AC9M7SP04-T-011] [hard] An algorithm checks parallel pairs first. It sees 0 pairs, then checks two pairs of adjacent equal sides. Why?
+12. [AC9M7SP04-T-012] [hard] Under the exclusive trapezium convention used in this unit, which branch should a shape with two parallel pairs follow?
+13. [AC9M7SP04-T-013] [hard] A square is misclassified as rectangle and the algorithm stops. What improvement is best?
+14. [AC9M7SP04-T-014] [hard] A rhombus is misclassified as square. Which likely test is faulty?
+15. [AC9M7SP04-T-015] [super-hard] A polygon has 7 sides, unequal sides/angles, all interior angles below 180°. Output:
+16. [AC9M7SP04-T-016] [super-hard] A polygon has 6 sides and one reflex interior angle. What can you conclude immediately?
+
+AC9M7ST01
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7ST01-P-001] [easy] What is the mean of a numerical data set?
+02. [AC9M7ST01-P-002] [easy] What is the median?
+03. [AC9M7ST01-P-003] [easy] What is the mode?
+04. [AC9M7ST01-P-004] [easy] What does the range measure?
+05. [AC9M7ST01-P-005] [easy] Which measure of centre is usually most affected by an extreme outlier?
+06. [AC9M7ST01-P-006] [easy] Which measure of centre is often preferred for strongly skewed data?
+07. [AC9M7ST01-P-007] [easy] Which measure is meaningful for identifying the most common category?
+08. [AC9M7ST01-P-008] [easy] Which calculation requires adding every numerical value?
+09. [AC9M7ST01-P-009] [easy] Find the median of 4, 7, 9, 10, 12.
+10. [AC9M7ST01-P-010] [easy] Find the mode of 3, 5, 5, 6, 7.
+11. [AC9M7ST01-P-011] [easy] Find the range of 2, 8, 11, 15.
+12. [AC9M7ST01-P-012] [easy] Find the mean of 10, 20, 30.
+13. [AC9M7ST01-P-013] [medium] Find the mean of 12, 14, 15, 15, 18.
+14. [AC9M7ST01-P-014] [medium] Find the median of 12, 14, 15, 15, 18.
+15. [AC9M7ST01-P-015] [medium] Find the mode and range of 3, 5, 5, 7, 10.
+16. [AC9M7ST01-P-016] [medium] Which data set has range 0?
+17. [AC9M7ST01-P-017] [medium] Which data set has no mode?
+18. [AC9M7ST01-P-018] [medium] Which data set is bimodal?
+19. [AC9M7ST01-P-019] [medium] The data 5,7,7,8,9,10,10,11,12,12,13,30 contain an obvious high outlier. Which measure is likely to better represent a typical value?
+20. [AC9M7ST01-P-020] [medium] Adding a very large value to a data set will usually:
+21. [AC9M7ST01-P-021] [medium] Which statement about the median and outliers is most accurate?
+22. [AC9M7ST01-P-022] [medium] A distribution has a long tail to the right. It is:
+23. [AC9M7ST01-P-023] [medium] In a strongly right-skewed distribution, which relationship is common?
+24. [AC9M7ST01-P-024] [medium] In a strongly left-skewed distribution, which relationship is common?
+25. [AC9M7ST01-P-025] [medium] A data set has mean 20 and median 12. What does this suggest?
+26. [AC9M7ST01-P-026] [medium] A data set has mean 50 and median 50. Can its range still be 120?
+27. [AC9M7ST01-P-027] [medium] Two data sets have the same mean. What is guaranteed?
+28. [AC9M7ST01-P-028] [medium] Two data sets have the same median. What is guaranteed?
+29. [AC9M7ST01-P-029] [medium] Data sets 8,10,12 and 1,10,19 both have mean and median 10. Which has greater spread by range?
+30. [AC9M7ST01-P-030] [medium] Which measure is most directly used here to compare simple spread?
+31. [AC9M7ST01-P-031] [hard] Which variable is discrete?
+32. [AC9M7ST01-P-032] [hard] Which variable is continuous?
+33. [AC9M7ST01-P-033] [hard] Reaction times 0.45, 0.48, 0.50 and 0.52 seconds are:
+34. [AC9M7ST01-P-034] [hard] Plant heights measured in centimetres are normally treated as:
+35. [AC9M7ST01-P-035] [hard] A science experiment records 22.1,22.3,22.4,22.5,22.4,22.3,30.0 °C. Which value is anomalous?
+36. [AC9M7ST01-P-036] [hard] What should a student do with an anomalous measurement?
+37. [AC9M7ST01-P-037] [hard] For 0.45,0.48,0.47,0.46,0.49,1.20 seconds, why may the median be preferable?
+38. [AC9M7ST01-P-038] [hard] Class A: 4000,4500,4700,4800,5000. Class B replaces 5000 with 20000. Which class is more consistent by range?
+39. [AC9M7ST01-P-039] [hard] A movie system records viewing times 10,12,15,15,20,22,25,200. Which statistic is most inflated by 200?
+40. [AC9M7ST01-P-040] [hard] For those viewing times, the median is:
+41. [AC9M7ST01-P-041] [hard] For those viewing times, the mode is:
+42. [AC9M7ST01-P-042] [hard] For those viewing times, the range is:
+43. [AC9M7ST01-P-043] [super-hard] How can descriptive statistics help an AI or recommendation system?
+44. [AC9M7ST01-P-044] [super-hard] Why should an AI system not automatically delete every outlier?
+45. [AC9M7ST01-P-045] [super-hard] A customer-ratings set is 4,4,5,5,5,5,1. What is the mode?
+46. [AC9M7ST01-P-046] [super-hard] Which statement about a large range is valid?
+47. [AC9M7ST01-P-047] [super-hard] Which statement about a small range is valid?
+48. [AC9M7ST01-P-048] [super-hard] Which pair of statistics is useful when discussing possible skewness?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7ST01-T-001] [easy] For 5,7,7,8,9,10,10,11,12,12,13,30, which pair is correct?
+02. [AC9M7ST01-T-002] [easy] Which option correctly fixes the previous calculation?
+03. [AC9M7ST01-T-003] [easy] For 12,13,14,15,16,17,60, the mean is approximately:
+04. [AC9M7ST01-T-004] [easy] For the same plant heights, the median is:
+05. [AC9M7ST01-T-005] [medium] Which statistic best represents typical plant height in 12,13,14,15,16,17,60?
+06. [AC9M7ST01-T-006] [medium] Class A: 4000,4500,4700,4800,5000. What is its mean?
+07. [AC9M7ST01-T-007] [medium] Class B: 4000,4500,4700,4800,20000. What is its median?
+08. [AC9M7ST01-T-008] [medium] Which comparison is valid for those classes?
+09. [AC9M7ST01-T-009] [medium] Data sets A=8,10,12 and B=1,10,19 have:
+10. [AC9M7ST01-T-010] [medium] What does this example demonstrate?
+11. [AC9M7ST01-T-011] [hard] Constructing a data set with mean 20 and range 0 requires:
+12. [AC9M7ST01-T-012] [hard] A set has mean 50, median 50 and range 120. Which statement is justified?
+13. [AC9M7ST01-T-013] [hard] Temperatures are 22.1,22.3,22.4,22.5,22.4,22.3,30.0. What is the range?
+14. [AC9M7ST01-T-014] [hard] For those temperatures, what is the median?
+15. [AC9M7ST01-T-015] [super-hard] For those temperatures, the mean is approximately:
+16. [AC9M7ST01-T-016] [super-hard] Why should 30.0°C be investigated?
+
+AC9M7ST02
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7ST02-P-001] [easy] A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?
+02. [AC9M7ST02-P-002] [easy] A Year 7 student is solving a problem involving find median from display. Which option is mathematically valid?
+03. [AC9M7ST02-P-003] [easy] A Year 7 student is solving a problem involving compare ranges. Which option is mathematically valid?
+04. [AC9M7ST02-P-004] [easy] A Year 7 student is solving a problem involving describe skew cluster gap. Which option is mathematically valid?
+05. [AC9M7ST02-P-005] [easy] Which statement correctly identifies stem-and-leaf plot in numerical data displays and distribution comparison?
+06. [AC9M7ST02-P-006] [easy] Which choice best describes skew in numerical data displays and distribution comparison?
+07. [AC9M7ST02-P-007] [easy] What does correct use require for distribution in numerical data displays and distribution comparison?
+08. [AC9M7ST02-P-008] [easy] Display 1: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
+09. [AC9M7ST02-P-009] [easy] Centre 2: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?
+10. [AC9M7ST02-P-010] [easy] Stem-and-leaf 3: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?
+11. [AC9M7ST02-P-011] [easy] Outlier 4: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?
+12. [AC9M7ST02-P-012] [easy] Comparison 5: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?
+13. [AC9M7ST02-P-013] [medium] Choice 6: Why is a stem-and-leaf plot useful for a small numerical dataset?
+14. [AC9M7ST02-P-014] [medium] Display 7: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
+15. [AC9M7ST02-P-015] [medium] Centre 8: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?
+16. [AC9M7ST02-P-016] [medium] Stem-and-leaf 9: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?
+17. [AC9M7ST02-P-017] [medium] Outlier 10: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?
+18. [AC9M7ST02-P-018] [medium] Comparison 11: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?
+19. [AC9M7ST02-P-019] [medium] Choice 12: Why is a stem-and-leaf plot useful for a small numerical dataset?
+20. [AC9M7ST02-P-020] [medium] Display 13: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
+21. [AC9M7ST02-P-021] [medium] Centre 14: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?
+22. [AC9M7ST02-P-022] [medium] Stem-and-leaf 15: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?
+23. [AC9M7ST02-P-023] [medium] Outlier 16: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?
+24. [AC9M7ST02-P-024] [medium] Comparison 17: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?
+25. [AC9M7ST02-P-025] [medium] Choice 18: Why is a stem-and-leaf plot useful for a small numerical dataset?
+26. [AC9M7ST02-P-026] [medium] Display 19: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
+27. [AC9M7ST02-P-027] [medium] Centre 20: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?
+28. [AC9M7ST02-P-028] [medium] Stem-and-leaf 21: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?
+29. [AC9M7ST02-P-029] [medium] Outlier 22: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?
+30. [AC9M7ST02-P-030] [medium] Comparison 23: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?
+31. [AC9M7ST02-P-031] [hard] Choice 24: Why is a stem-and-leaf plot useful for a small numerical dataset?
+32. [AC9M7ST02-P-032] [hard] Display 25: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
+33. [AC9M7ST02-P-033] [hard] Centre 26: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?
+34. [AC9M7ST02-P-034] [hard] Stem-and-leaf 27: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?
+35. [AC9M7ST02-P-035] [hard] Outlier 28: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?
+36. [AC9M7ST02-P-036] [hard] Comparison 29: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?
+37. [AC9M7ST02-P-037] [hard] Choice 30: Why is a stem-and-leaf plot useful for a small numerical dataset?
+38. [AC9M7ST02-P-038] [hard] Display 31: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
+39. [AC9M7ST02-P-039] [hard] Centre 32: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?
+40. [AC9M7ST02-P-040] [hard] Stem-and-leaf 33: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?
+41. [AC9M7ST02-P-041] [hard] Outlier 34: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?
+42. [AC9M7ST02-P-042] [hard] Comparison 35: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?
+43. [AC9M7ST02-P-043] [super-hard] Choice 36: Why is a stem-and-leaf plot useful for a small numerical dataset?
+44. [AC9M7ST02-P-044] [super-hard] Display 37: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
+45. [AC9M7ST02-P-045] [super-hard] Centre 38: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?
+46. [AC9M7ST02-P-046] [super-hard] Stem-and-leaf 39: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?
+47. [AC9M7ST02-P-047] [super-hard] Outlier 40: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?
+48. [AC9M7ST02-P-048] [super-hard] Comparison 41: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7ST02-T-001] [easy] A Year 7 student is solving a problem involving choose an effective display. Which option is mathematically valid?
+02. [AC9M7ST02-T-002] [easy] What should be checked when applying compare ranges in numerical data displays and distribution comparison?
+03. [AC9M7ST02-T-003] [easy] Which response best uses describe skew/cluster/gap in numerical data displays and distribution comparison?
+04. [AC9M7ST02-T-004] [easy] Assessment 1: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
+05. [AC9M7ST02-T-005] [medium] Assessment 2: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?
+06. [AC9M7ST02-T-006] [medium] Assessment 3: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?
+07. [AC9M7ST02-T-007] [medium] Assessment 4: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?
+08. [AC9M7ST02-T-008] [medium] Assessment 5: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?
+09. [AC9M7ST02-T-009] [medium] Assessment 6: Why is a stem-and-leaf plot useful for a small numerical dataset?
+10. [AC9M7ST02-T-010] [medium] Assessment 7: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
+11. [AC9M7ST02-T-011] [hard] Assessment 8: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?
+12. [AC9M7ST02-T-012] [hard] Assessment 9: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?
+13. [AC9M7ST02-T-013] [hard] Assessment 10: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?
+14. [AC9M7ST02-T-014] [hard] Assessment 11: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?
+15. [AC9M7ST02-T-015] [super-hard] Assessment 12: Why is a stem-and-leaf plot useful for a small numerical dataset?
+16. [AC9M7ST02-T-016] [super-hard] Assessment 13: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
+
+AC9M7ST03
+------------------------------------------------------------------------
+Practice: 48 | Test: 16 | Total: 64
+
+PRACTICE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7ST03-P-001] [easy] What is the first step in a statistical investigation?
+02. [AC9M7ST03-P-002] [easy] Which is the strongest investigation question?
+03. [AC9M7ST03-P-003] [easy] Reaction time is usually:
+04. [AC9M7ST03-P-004] [easy] Number of successful robot-arm lifts is:
+05. [AC9M7ST03-P-005] [easy] Which type of data is obtained by measurement?
+06. [AC9M7ST03-P-006] [easy] Which variable is discrete?
+07. [AC9M7ST03-P-007] [easy] Which variable is continuous?
+08. [AC9M7ST03-P-008] [easy] A survey response on a 1–5 agreement scale is best described as:
+09. [AC9M7ST03-P-009] [easy] Which is an example of secondary data?
+10. [AC9M7ST03-P-010] [easy] A good investigation plan should identify:
+11. [AC9M7ST03-P-011] [easy] What does the mean describe?
+12. [AC9M7ST03-P-012] [easy] What does the median describe?
+13. [AC9M7ST03-P-013] [medium] What does the mode describe?
+14. [AC9M7ST03-P-014] [medium] What does the range describe?
+15. [AC9M7ST03-P-015] [medium] Which statistic is usually most affected by an extreme outlier?
+16. [AC9M7ST03-P-016] [medium] A symmetric distribution commonly has:
+17. [AC9M7ST03-P-017] [medium] A right-skewed distribution has:
+18. [AC9M7ST03-P-018] [medium] A left-skewed distribution has:
+19. [AC9M7ST03-P-019] [medium] A bimodal distribution has:
+20. [AC9M7ST03-P-020] [medium] An outlier often appears as:
+21. [AC9M7ST03-P-021] [medium] Which measure is often more representative when a distribution is strongly skewed?
+22. [AC9M7ST03-P-022] [medium] Which simple statistic helps compare consistency?
+23. [AC9M7ST03-P-023] [medium] Two groups have the same median but different ranges. What differs?
+24. [AC9M7ST03-P-024] [medium] Two groups have different means but the same range. What differs?
+25. [AC9M7ST03-P-025] [medium] If one group has a lower median reaction time, that group is:
+26. [AC9M7ST03-P-026] [medium] A long right tail in reaction-time data may indicate:
+27. [AC9M7ST03-P-027] [medium] In a before-and-after STEM investigation, what should be kept as consistent as possible?
+28. [AC9M7ST03-P-028] [medium] If completion time decreases after a design modification, performance may have:
+29. [AC9M7ST03-P-029] [medium] If range decreases after a design modification, the performance became:
+30. [AC9M7ST03-P-030] [medium] Which conclusion is strongest?
+31. [AC9M7ST03-P-031] [hard] What belongs in a complete statistical report?
+32. [AC9M7ST03-P-032] [hard] Why should limitations be reported?
+33. [AC9M7ST03-P-033] [hard] A small sample mainly limits:
+34. [AC9M7ST03-P-034] [hard] Measurement error is a limitation because it can:
+35. [AC9M7ST03-P-035] [hard] Why is it important to state how data were collected?
+36. [AC9M7ST03-P-036] [hard] Which conclusion is appropriately cautious?
+37. [AC9M7ST03-P-037] [hard] A published large-scale survey can be useful because it:
+38. [AC9M7ST03-P-038] [hard] When using published survey data, students should:
+39. [AC9M7ST03-P-039] [hard] Which is inappropriate when interpreting group data?
+40. [AC9M7ST03-P-040] [hard] Which display is useful for showing individual numerical values and clusters?
+41. [AC9M7ST03-P-041] [hard] Which display is useful for comparing distribution summaries between groups?
+42. [AC9M7ST03-P-042] [hard] Which statement about histograms is correct?
+43. [AC9M7ST03-P-043] [super-hard] Which statement about stem-and-leaf plots is correct?
+44. [AC9M7ST03-P-044] [super-hard] Why is context necessary when interpreting an outlier?
+45. [AC9M7ST03-P-045] [super-hard] If mean and median differ greatly, what should you investigate?
+46. [AC9M7ST03-P-046] [super-hard] What does 'centre' refer to in a distribution?
+47. [AC9M7ST03-P-047] [super-hard] What does 'spread' refer to?
+48. [AC9M7ST03-P-048] [super-hard] A conclusion should be based on:
+
+TEST
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+01. [AC9M7ST03-T-001] [easy] A class wants to compare reaction times between two groups. Which plan is strongest?
+02. [AC9M7ST03-T-002] [easy] Why can a convenience sample weaken an investigation?
+03. [AC9M7ST03-T-003] [easy] A very large biased sample is:
+04. [AC9M7ST03-T-004] [easy] What is the population?
+05. [AC9M7ST03-T-005] [medium] What is a sample?
+06. [AC9M7ST03-T-006] [medium] Which sampling method can reduce selection bias when implemented well?
+07. [AC9M7ST03-T-007] [medium] Why can nonresponse matter?
+08. [AC9M7ST03-T-008] [medium] Which conclusion is too strong for an observational comparison?
+09. [AC9M7ST03-T-009] [medium] A study finds Group A has mean reaction time 0.42 s and Group B 0.47 s, with similar spreads. Which conclusion is best?
+10. [AC9M7ST03-T-010] [medium] Group A median is 0.40 s and range 0.08 s; Group B median 0.42 s and range 0.25 s. Which statement is strongest?
+11. [AC9M7ST03-T-011] [hard] Why might mean and median disagree strongly in reaction-time data?
+12. [AC9M7ST03-T-012] [hard] Which display most directly shows individual trial values, clusters and gaps?
+13. [AC9M7ST03-T-013] [hard] Which display is useful for compactly comparing centre and spread between two numerical groups?
+14. [AC9M7ST03-T-014] [hard] Which graph type groups continuous numerical values into intervals?
+15. [AC9M7ST03-T-015] [super-hard] Why should histogram bin widths be chosen carefully?
+16. [AC9M7ST03-T-016] [super-hard] A distribution has two clear clusters or peaks. It is described as:
