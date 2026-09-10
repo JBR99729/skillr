@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LE05
-NEXT_CODE: AC9E6LY01
+CURRENT_CODE: AC9E6LY01
+NEXT_CODE: AC9E6LY02
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -1293,3 +1293,90 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 Mapped IXL evidence was genuinely collected earlier and reused. The selected Australian poetry resources supply the missing sound, performance, imagery and composition depth.
+
+
+==================================================
+CODE: AC9E6LE05
+DESCRIPTOR: Create and edit literary texts that adapt plot structure, characters, settings and/or ideas from texts students have experienced, and experiment with literary devices.
+==================================================
+
+IXL MAPPINGS:
+IXL-MAPPED to 6-M.1 Use personification.
+
+IXL SKILLS INVESTIGATED:
+M.1 — IXL-INTERACTIVE-VERIFIED under AC9E6LA08, including “Learn with an example”; reused without repetition.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+M.1 uses two grammatically plausible completions and asks which deliberately gives a nonhuman subject a human action/quality. A live item was answered correctly. Worked teaching defines the device, identifies the human characteristic and connects it to emphasis/interest.
+
+IXL DIFFICULTY PROGRESSION:
+Choose a literary device → alter one sentence → adapt one story element while preserving coherence → adapt multiple elements and structure → draft, receive feedback, edit for deliberate effect → explain transformation choices.
+
+IXL MISCONCEPTIONS/TRAPS:
+Adapt means copy; changing names alone is transformation; adding devices automatically improves writing; a setting change need not affect events; plot changes can ignore motivation; editing means correcting spelling only.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+Contrast a plain and crafted option, name the human quality/device, then explain the effect. Extend this to before/after story models showing what changed, what stayed and why.
+
+KHAN MAPPINGS:
+KHAN STATUS: NOT MAPPED / NOT MATERIAL. No Khan activity authentically covers Australian Year 6 literary adaptation and iterative editing.
+
+KHAN EVIDENCE:
+No forced mapping.
+
+OTHER FREE SOURCES:
+- NSW Department of Education, Stage 3 Narrative professional learning.
+- ABC Education/Red Room Poetry Poetic Devices resources previously inspected.
+
+FREE-SOURCE EVIDENCE:
+- NSW guidance treats plot, character wants, complication, climax, resolution, coda, point of view, mood and structure as selectable narrative conventions.
+- It models linear, circular, parallel and frame structures and proposes “what if?” transformations that change viewpoint and scale.
+- It stresses alignment of conceptual knowledge, quality texts, activities and assessment and recommends co-developing success criteria.
+- ABC/Red Room sequences encounter, discuss, analyse, create and revise literary devices in personally meaningful writing.
+- Teaching implication: use abstract transformation cards rather than source wording; students record source inspiration, planned changes and independent contribution.
+
+CURRICULUM REQUIREMENTS:
+Plan, create and edit original literary texts; adapt plot structure, character, setting and/or ideas from experienced texts; maintain cause, motivation and consistency after changes; experiment with devices; revise for reader effect; acknowledge inspiration without copying.
+
+PREREQUISITES:
+Narrative elements; plot arc; character motivation; setting; point of view; theme; paragraphing/dialogue; figurative and sound devices; drafting and editing.
+
+NEW YEAR-6 DEPTH:
+Purposeful transformation rather than retelling; structural experimentation; cascading consequences of changed elements; device choice tied to mood/meaning; substantive editing; explanation of creative decisions and ethical source use.
+
+VOCABULARY:
+adapt; transform; inspiration; plot; structure; linear; circular; parallel; frame; character arc; motivation; setting; viewpoint; literary device; draft; feedback; revise; edit; coherence; originality.
+
+REPRESENTATIONS:
+Transformation matrices; original mentor summaries; plot diagrams; character/setting consequence chains; before/after drafts; revision checklists; peer-feedback protocols; prose/poetry/script options.
+
+COMMON MISCONCEPTIONS:
+Copying is adaptation; every source feature must remain; surface substitutions are enough; devices are decoration; first draft is final; editing concerns only mechanics; feedback must all be accepted.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Adaptation versus copying; choose-change-consequence model; plot/character/setting/idea transformations; structural options; device experimentation; drafting/revision/editing; originality and acknowledgement; worked transformation.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Mentor-feature notice; transformation-card demonstration; planning conference; guided drafting; peer feedback tied to criteria; revision modelling; support/core/extension and author reflection.
+
+REQUIRED WORKSHEET COVERAGE:
+Identify adaptable features; plan changes/consequences; repair incoherent adaptations; experiment with devices; draft a scene; revise structure/language; edit conventions; explain originality and source inspiration.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 adaptation ethics/concepts; 8 plot transformations; 8 character transformations; 6 setting transformations; 6 idea/viewpoint transformations; 6 device experiments; 8 drafting/revision/editing tasks. Total 48 original items.
+
+16-TEST-BANK COVERAGE PLAN:
+2 concept/ethics; 3 plot/structure; 3 character/setting consequence; 3 device choice; 3 revision/editing; 2 independent adaptation-and-rationale tasks. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+No copyrighted passage imitation; use original/public-domain summaries only; distinguish inspiration from copying; do not require trauma disclosure; assess coherence and deliberate craft, not one preferred creative answer.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/english/year-6/use-personification
+- https://education.nsw.gov.au/teaching-and-learning/curriculum/english/textual-concepts/narrative
+- https://www.abc.net.au/education/tv-guide/poetic-devices/102529624
+- https://redroompoetry.org/projects/poetry-object-clickview-resources/
+
+RESEARCH STATUS:
+AUTHORING-READY.
+The mapped personification pattern is verified and reused. NSW Stage 3 narrative guidance and the selected poetry sequence establish sufficient transformation, craft and editing depth.
