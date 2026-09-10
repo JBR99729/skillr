@@ -2182,7 +2182,40 @@ YEAR 6 ENGLISH RESEARCH PHASE:
 COMPLETE — ALL CODES AUTHORING-READY.
 
 AUTHORING CURRENT_CODE:
-AC9E6LA01
+AC9E6LA02
 
 AUTHORING NEXT_CODE:
+AC9E6LA03
+
+
+
+==================================================
+AUTHORING QA:
+AC9E6LA01
+
+TOPIC PAGE:
+VERIFIED — existing topic guide covers formality continuum, social distance, authority, audience/purpose, evidence, worked reasoning and misconceptions.
+
+CLASSROOM VIEW:
+VERIFIED — existing teacher-slide resource provides an explicit classroom sequence and curriculum-linked instruction.
+
+HOMEWORK/WORKSHEET:
+VERIFIED — existing printable homework route uses the shared practice bank and links back to the concept model and Classroom View.
+
+PRACTICE QUESTIONS:
+CONTENT VERIFIED — expanded from 40 to exactly 48 original questions. The added items cover collaborative authority, social distance, register adaptation, respectful resistance, audience fit, modality, relationship shifts and evidence-based evaluation.
+
+TEST QUESTIONS:
+CONTENT VERIFIED — exactly 16 separate original test questions; automated text comparison found no duplicate question stems across the practice and test banks.
+
+ANSWERS AND EXPLANATIONS:
+VERIFIED — all added questions include an indexed correct answer, concise evidence-based explanation, misconception hint and structured explanation.
+
+CURRICULUM QA:
+VERIFIED — practice spans recognition, analysis, application and evaluation; it treats formality as contextual rather than a polite/rude binary and includes accepted, negotiated and resisted authority.
+
+CONTENT STATUS:
+CONTENT VERIFIED.
+
+NEXT AUTHORING CODE:
 AC9E6LA02
