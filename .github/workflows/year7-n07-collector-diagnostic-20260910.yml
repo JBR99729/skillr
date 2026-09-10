@@ -1,0 +1,23 @@
+name: Year 7 N07 collector diagnostic 2026-09-10
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/year7-n07-collector-diagnostic-20260910.yml']
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22}
+      - run: |
+          node <<'NODE'
+          const fs=require('fs'),vm=require('vm');
+          const file='quiz/year-7/math/ac9m7n07/practice/questions.js';
+          let text=fs.readFileSync(file,'utf8');
+          function run(label,text){const ctx={console};ctx.window=ctx;vm.createContext(ctx);try{vm.runInContext(text,ctx,{filename:file,timeout:3000});console.log(label,'OK keys',Object.keys(ctx));console.log(label,'skillr',Array.isArray(ctx.skillrPracticeQuestions)?ctx.skillrPracticeQuestions.length:'none','quiz',Array.isArray(ctx.quizQuestions)?ctx.quizQuestions.length:'none');const first=ctx.skillrPracticeQuestions?.[0];console.log('first',JSON.stringify(first));}catch(e){console.error(label,'ERR',e.stack)}}
+          run('RAW',text);
+          text=text.replace(/^(\s*)(?:const|let|var)\s+([A-Za-z_$][\w$]*)\s*=\s*\[/gm,'$1window.$2 = [');
+          run('TRANSFORMED',text);
+          const canon=JSON.parse(fs.readFileSync('assets/assessment-banks/year7/math/ac9m7n07.json','utf8'));console.log('canonical practice',canon.filter(x=>x.bank==='practice').length);
+          NODE
