@@ -2315,3 +2315,24 @@ BATCH RESULT:
 5/5 codes CONTENT VERIFIED.
 AUTHORING CURRENT_CODE: AC9E6LA07
 AUTHORING NEXT_CODE: AC9E6LA08
+
+
+
+==================================================
+TOPIC-PAGE DEPTH REAUDIT — AC9E6LA02 TO AC9E6LA06
+
+Finding:
+The existing pages had strong navigation and generic evidence-to-effect scaffolding, but their student-facing explanations were too generic to function as the primary lesson. The earlier statement that they required no substantive change is superseded by this reaudit.
+
+Updates completed:
+- AC9E6LA02: added explicit objective/subjective distinction, four mechanisms of bias, neutral rewriting, evidence-selection checks and a complete worked example.
+- AC9E6LA03: added stage/phase definitions, characteristic structures for five text purposes, embedded structures, purposeful adaptations and a mixed-structure worked example.
+- AC9E6LA04: added controlled repetition, synonym/antonym/reference/semantic-field chains, vague-reference repair and a cohesive paragraph worked example.
+- AC9E6LA05: added clause definition, relative/content/non-finite embeddings, restrictive/non-restrictive punctuation, reference checks and sentence-combining worked example.
+- AC9E6LA06: added precise verb selection, simple/progressive/perfect/perfect-progressive tense meanings, modality, adverb groups and a worked revision.
+
+Student-learning QA:
+Each upgraded page now includes definitions, age-appropriate original examples, a repeatable reasoning routine, common traps and a mastery check aligned to the research master.
+
+STATUS:
+AC9E6LA02–AC9E6LA06 TOPIC PAGES CONTENT VERIFIED.
