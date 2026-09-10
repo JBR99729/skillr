@@ -5,50 +5,7 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "square meaning and notation",
-    "elaborations": [
-      "E1"
-    ],
-    "question": "A square array has 9 rows of 9 tiles. Which statement is correct?",
-    "audio_prompt": "A square array has 9 rows of 9 tiles. Which statement is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "A 9 by 9 square array."
-    },
-    "answers": [
-      {
-        "text": "It contains 81 tiles, so 9² = 81",
-        "is_correct": true
-      },
-      {
-        "text": "It contains 18 tiles, so 9² = 18",
-        "is_correct": false
-      },
-      {
-        "text": "It contains 27 tiles, so 9² = 27",
-        "is_correct": false
-      },
-      {
-        "text": "It contains 72 tiles, so 9² = 72",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A 9-by-9 array contains 9 × 9 = 81 tiles, so 9² = 81.",
-      "hint": "Count rows × tiles per row."
-    },
-    "difficulty": 1,
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N01-P-002",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "square meaning and notation",
+    "skill": "perfect-square recognition",
     "elaborations": [
       "E1"
     ],
@@ -59,7 +16,7 @@
     },
     "answers": [
       {
-        "text": "45",
+        "text": "48",
         "is_correct": false
       },
       {
@@ -67,21 +24,62 @@
         "is_correct": false
       },
       {
+        "text": "72",
+        "is_correct": false
+      },
+      {
         "text": "64",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "64 is 8², so it is a perfect square.",
+      "hint": "Look for a whole number multiplied by itself."
+    },
+    "difficulty": 1,
+    "sequence_priority": 1
+  },
+  {
+    "id": "AC9M7N01-P-002",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "square-root meaning",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "What is √81?",
+    "audio_prompt": "What is √81?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "40.5",
+        "is_correct": false
+      },
+      {
+        "text": "9",
         "is_correct": true
       },
       {
-        "text": "72",
+        "text": "8",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "64 is a perfect square because 8 × 8 = 64.",
-      "hint": "Look for a number that can be written as n²."
+      "summary": "Because 9² = 81, √81 = 9.",
+      "hint": "Ask which non-negative whole number squares to 81."
     },
     "difficulty": 1,
-    "sequence_priority": 1
+    "sequence_priority": 2
   },
   {
     "id": "AC9M7N01-P-003",
@@ -89,40 +87,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "square meaning and notation",
+    "skill": "inverse relationship",
     "elaborations": [
       "E1"
     ],
-    "question": "What does √121 represent?",
-    "audio_prompt": "What does √121 represent?",
+    "question": "Which pair correctly shows inverse operations?",
+    "audio_prompt": "Which pair correctly shows inverse operations?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "121 divided by 2",
+        "text": "√49 = 14 and 14² = 49",
         "is_correct": false
       },
       {
-        "text": "The non-negative number whose square is 121",
+        "text": "7² = 49 and √49 = 7",
         "is_correct": true
       },
       {
-        "text": "Both 11 and −11",
+        "text": "7² = 14 and √14 = 7",
         "is_correct": false
       },
       {
-        "text": "The area of every square with perimeter 121",
+        "text": "49² = 7 and √7 = 49",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The radical symbol √ denotes the principal, non-negative square root; √121 = 11.",
-      "hint": "Ask which non-negative number squares to 121."
+      "summary": "Squaring 7 gives 49 and the principal square root returns 7.",
+      "hint": "Check both directions."
     },
-    "difficulty": 2,
-    "sequence_priority": 1
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9M7N01-P-004",
@@ -130,40 +128,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "square meaning and notation",
+    "skill": "square notation",
     "elaborations": [
       "E1"
     ],
-    "question": "A student writes 13² = 26. What mistake was made?",
-    "audio_prompt": "A student writes 13² = 26. What mistake was made?",
+    "question": "What does 12² mean?",
+    "audio_prompt": "What does 12² mean?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "They found √13",
-        "is_correct": false
-      },
-      {
-        "text": "They doubled 13 instead of multiplying 13 by itself",
+        "text": "12 × 12",
         "is_correct": true
       },
       {
-        "text": "They multiplied 13 by 3",
+        "text": "12 × 2",
         "is_correct": false
       },
       {
-        "text": "They subtracted 13 twice",
+        "text": "12 + 12",
+        "is_correct": false
+      },
+      {
+        "text": "2 × 2 × 2 × 2 × 2 × 2",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Squaring 13 means 13 × 13, not 13 × 2.",
-      "hint": "Translate the exponent into repeated multiplication."
+      "summary": "The exponent 2 means multiply 12 by itself.",
+      "hint": "Do not confuse squaring with doubling."
     },
-    "difficulty": 2,
-    "sequence_priority": 1
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9M7N01-P-005",
@@ -171,40 +169,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "square meaning and notation",
+    "skill": "perfect-square recognition",
     "elaborations": [
       "E1"
     ],
-    "question": "Which pair shows inverse operations correctly?",
-    "audio_prompt": "Which pair shows inverse operations correctly?",
+    "question": "Which statement is true?",
+    "audio_prompt": "Which statement is true?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "12² = 144 and √144 = 12",
+        "text": "15² = 30",
+        "is_correct": false
+      },
+      {
+        "text": "√225 = 30",
+        "is_correct": false
+      },
+      {
+        "text": "225² = 15",
+        "is_correct": false
+      },
+      {
+        "text": "15² = 225",
         "is_correct": true
-      },
-      {
-        "text": "12² = 24 and √24 = 12",
-        "is_correct": false
-      },
-      {
-        "text": "√144 = 72 and 72² = 144",
-        "is_correct": false
-      },
-      {
-        "text": "12² = 144 and √12 = 144",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Squaring 12 gives 144, and the principal square root reverses that operation.",
-      "hint": "Check both statements."
+      "summary": "15 × 15 = 225.",
+      "hint": "Translate the square into multiplication."
     },
-    "difficulty": 2,
-    "sequence_priority": 1
+    "difficulty": 1,
+    "sequence_priority": 5
   },
   {
     "id": "AC9M7N01-P-006",
@@ -212,42 +210,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "two-digit squares with area models",
+    "skill": "square-root meaning",
     "elaborations": [
-      "E2"
+      "E1"
     ],
-    "question": "Which expression correctly expands 23² using 23 = 20 + 3?",
-    "audio_prompt": "Which expression correctly expands 23² using 23 = 20 + 3?",
+    "question": "What is √144?",
+    "audio_prompt": "What is √144?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#split",
-      "alt_text": "A 23 by 23 square split into side lengths 20 and 3."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "20² + 3²",
+        "text": "72",
         "is_correct": false
       },
       {
-        "text": "20² + 20 × 3 + 3²",
+        "text": "288",
         "is_correct": false
       },
       {
-        "text": "20² + 2 × 20 × 3 + 3²",
+        "text": "12",
         "is_correct": true
       },
       {
-        "text": "2 × 20² + 3²",
+        "text": "14",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A 23-by-23 area model contains a 20² square, two 20-by-3 rectangles and a 3² square.",
-      "hint": "Account for all four regions."
+      "summary": "12² = 144, so √144 = 12.",
+      "hint": "Find the side length of a square with area 144."
     },
-    "difficulty": 2,
-    "sequence_priority": 1
+    "difficulty": 1,
+    "sequence_priority": 6
   },
   {
     "id": "AC9M7N01-P-007",
@@ -255,229 +251,18 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "two-digit squares with area models",
+    "skill": "inverse relationship",
     "elaborations": [
-      "E2"
+      "E1"
     ],
-    "question": "Which calculation uses 20² to find 19²?",
-    "audio_prompt": "Which calculation uses 20² to find 19²?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#split",
-      "alt_text": "A 20 by 20 square adjusted to form a 19 by 19 square."
-    },
-    "answers": [
-      {
-        "text": "400 − 1",
-        "is_correct": false
-      },
-      {
-        "text": "400 − 19",
-        "is_correct": false
-      },
-      {
-        "text": "400 − 2 × 20 + 1",
-        "is_correct": true
-      },
-      {
-        "text": "400 − 2 × 19",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "(20 − 1)² = 20² − 2 × 20 × 1 + 1² = 361.",
-      "hint": "Use (a − b)²."
-    },
-    "difficulty": 2,
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N01-P-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "two-digit squares with area models",
-    "elaborations": [
-      "E2"
-    ],
-    "question": "A student claims 32² = 30² + 2². What has been omitted?",
-    "audio_prompt": "A student claims 32² = 30² + 2². What has been omitted?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#split",
-      "alt_text": "A 32 by 32 square partitioned into 30 and 2 along each side."
-    },
-    "answers": [
-      {
-        "text": "The 30² term",
-        "is_correct": false
-      },
-      {
-        "text": "The 2² term",
-        "is_correct": false
-      },
-      {
-        "text": "Two 30-by-2 rectangles",
-        "is_correct": true
-      },
-      {
-        "text": "A square root",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "(30 + 2)² includes two cross rectangles: 30² + 2 × 30 × 2 + 2².",
-      "hint": "Use an area model to locate every region."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-009",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "two-digit squares with area models",
-    "elaborations": [
-      "E2"
-    ],
-    "question": "Calculate 34² by writing 34 = 30 + 4.",
-    "audio_prompt": "Calculate 34² by writing 34 = 30 + 4.",
+    "question": "Complete: 11² = 121, so √121 = ___.",
+    "audio_prompt": "Complete: 11² = 121, so √121 = ___.",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "916",
-        "is_correct": false
-      },
-      {
-        "text": "1056",
-        "is_correct": false
-      },
-      {
-        "text": "1156",
-        "is_correct": true
-      },
-      {
-        "text": "1256",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "34² = 30² + 2 × 30 × 4 + 4² = 900 + 240 + 16 = 1156.",
-      "hint": "Include both cross-products."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N01-P-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "bounding square roots",
-    "elaborations": [
-      "E3"
-    ],
-    "question": "Between which consecutive whole numbers does √70 lie?",
-    "audio_prompt": "Between which consecutive whole numbers does √70 lie?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#numberline",
-      "alt_text": "A number line showing 64, 70 and 81."
-    },
-    "answers": [
-      {
-        "text": "7 and 8",
-        "is_correct": false
-      },
-      {
-        "text": "8 and 9",
-        "is_correct": true
-      },
-      {
-        "text": "9 and 10",
-        "is_correct": false
-      },
-      {
-        "text": "10 and 11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Because 8² = 64 and 9² = 81, 8 < √70 < 9.",
-      "hint": "Bracket 70 between neighbouring squares."
-    },
-    "difficulty": 2,
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N01-P-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "bounding square roots",
-    "elaborations": [
-      "E3"
-    ],
-    "question": "Which inequality is correct?",
-    "audio_prompt": "Which inequality is correct?",
-    "visual": {
-      "type": "none"
-    },
-    "answers": [
-      {
-        "text": "6 < √35 < 7",
-        "is_correct": false
-      },
-      {
-        "text": "5 < √35 < 6",
-        "is_correct": true
-      },
-      {
-        "text": "4 < √35 < 5",
-        "is_correct": false
-      },
-      {
-        "text": "35 < √35 < 36",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "25 < 35 < 36, so 5 < √35 < 6.",
-      "hint": "Compare 35 with 5² and 6²."
-    },
-    "difficulty": 2,
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N01-P-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N01",
-    "bank": "practice",
-    "skill": "bounding square roots",
-    "elaborations": [
-      "E3"
-    ],
-    "question": "A whole-number estimate for √130 must be closest to which value?",
-    "audio_prompt": "A whole-number estimate for √130 must be closest to which value?",
-    "visual": {
-      "type": "none"
-    },
-    "answers": [
-      {
-        "text": "10",
+        "text": "121",
         "is_correct": false
       },
       {
@@ -485,21 +270,226 @@
         "is_correct": true
       },
       {
-        "text": "12",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "13",
+        "text": "22",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "11² = 121 and 12² = 144; 130 is closer to 121, so √130 is closer to 11.",
-      "hint": "Compare distances from neighbouring perfect squares."
+      "summary": "Square and square root undo one another for non-negative values.",
+      "hint": "Use the given square fact."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "sequence_priority": 7
+  },
+  {
+    "id": "AC9M7N01-P-008",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "perfect-square recognition",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "Which is NOT a perfect square?",
+    "audio_prompt": "Which is NOT a perfect square?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "50",
+        "is_correct": true
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "49",
+        "is_correct": false
+      },
+      {
+        "text": "81",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "50 cannot be written as n² for a whole number n.",
+      "hint": "Recall consecutive squares around 50: 7² and 8²."
+    },
+    "difficulty": 1,
+    "sequence_priority": 8
+  },
+  {
+    "id": "AC9M7N01-P-009",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "square-root meaning",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square has area 100 cm². What is its side length?",
+    "audio_prompt": "A square has area 100 cm². What is its side length?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "20 cm",
+        "is_correct": false
+      },
+      {
+        "text": "25 cm",
+        "is_correct": false
+      },
+      {
+        "text": "50 cm",
+        "is_correct": false
+      },
+      {
+        "text": "10 cm",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The side length is √100 = 10 cm.",
+      "hint": "Area of a square is side²."
+    },
+    "difficulty": 1,
+    "sequence_priority": 9
+  },
+  {
+    "id": "AC9M7N01-P-010",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "square meaning",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square playground has side length 13 m. What is its area?",
+    "audio_prompt": "A square playground has side length 13 m. What is its area?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "52 m²",
+        "is_correct": false
+      },
+      {
+        "text": "156 m²",
+        "is_correct": false
+      },
+      {
+        "text": "169 m²",
+        "is_correct": true
+      },
+      {
+        "text": "26 m²",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "13² = 169, so the area is 169 m².",
+      "hint": "Square the side length."
+    },
+    "difficulty": 1,
+    "sequence_priority": 10
+  },
+  {
+    "id": "AC9M7N01-P-011",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "misconception diagnosis",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A student says √36 = 18 because 36 ÷ 2 = 18. What is the best correction?",
+    "audio_prompt": "A student says √36 = 18 because 36 ÷ 2 = 18. What is the best correction?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "√36 = 3 because 3 × 12 = 36",
+        "is_correct": false
+      },
+      {
+        "text": "√36 = 6 because 6² = 36",
+        "is_correct": true
+      },
+      {
+        "text": "√36 = 18 because square root means halve",
+        "is_correct": false
+      },
+      {
+        "text": "√36 = 72 because square root means double",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Square root asks for a number that squares to the original number.",
+      "hint": "Check the proposed answer by squaring it."
+    },
+    "difficulty": 1,
+    "sequence_priority": 11
+  },
+  {
+    "id": "AC9M7N01-P-012",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "principal square root",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "Which value equals √196?",
+    "audio_prompt": "Which value equals √196?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": true
+      },
+      {
+        "text": "-14",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": false
+      },
+      {
+        "text": "98",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The radical symbol √ gives the principal non-negative square root, 14.",
+      "hint": "14² = 196."
+    },
+    "difficulty": 1,
+    "sequence_priority": 12
   },
   {
     "id": "AC9M7N01-P-013",
@@ -507,40 +497,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "bounding square roots",
+    "skill": "missing square",
     "elaborations": [
-      "E3"
+      "E1"
     ],
-    "question": "Which value could equal √n if 144 < n < 169?",
-    "audio_prompt": "Which value could equal √n if 144 < n < 169?",
+    "question": "What number completes □² = 324?",
+    "audio_prompt": "What number completes □² = 324?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "11.8",
+        "text": "16",
         "is_correct": false
       },
       {
-        "text": "12.4",
+        "text": "162",
+        "is_correct": false
+      },
+      {
+        "text": "648",
+        "is_correct": false
+      },
+      {
+        "text": "18",
         "is_correct": true
-      },
-      {
-        "text": "13.2",
-        "is_correct": false
-      },
-      {
-        "text": "14.1",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Taking principal roots gives 12 < √n < 13, so 12.4 is possible.",
-      "hint": "Take the roots of both bounds."
+      "summary": "18² = 324.",
+      "hint": "Use the inverse square-root relationship."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 13
   },
   {
     "id": "AC9M7N01-P-014",
@@ -548,42 +538,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "patterns in perfect squares",
+    "skill": "missing radicand",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "question": "The square numbers are 1, 4, 9, 16, 25. What are the successive differences?",
-    "audio_prompt": "The square numbers are 1, 4, 9, 16, 25. What are the successive differences?",
+    "question": "Complete: √□ = 17.",
+    "audio_prompt": "Complete: √□ = 17.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#pattern",
-      "alt_text": "Square arrays growing from 1 squared to 5 squared."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "2, 4, 6, 8",
+        "text": "144",
         "is_correct": false
       },
       {
-        "text": "3, 5, 7, 9",
+        "text": "578",
+        "is_correct": false
+      },
+      {
+        "text": "289",
         "is_correct": true
       },
       {
-        "text": "3, 6, 9, 12",
-        "is_correct": false
-      },
-      {
-        "text": "4, 5, 6, 7",
+        "text": "34",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Consecutive square numbers differ by consecutive odd numbers: 3, 5, 7, 9.",
-      "hint": "Subtract neighbouring terms."
+      "summary": "If √n = 17, then n = 17² = 289.",
+      "hint": "Square both sides conceptually."
     },
     "difficulty": 2,
-    "sequence_priority": 1
+    "sequence_priority": 14
   },
   {
     "id": "AC9M7N01-P-015",
@@ -591,40 +579,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "patterns in perfect squares",
+    "skill": "ordering square roots",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "question": "Which digit cannot be the final digit of a perfect square?",
-    "audio_prompt": "Which digit cannot be the final digit of a perfect square?",
+    "question": "Which is greatest?",
+    "audio_prompt": "Which is greatest?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "0",
+        "text": "√144",
         "is_correct": false
       },
       {
-        "text": "1",
-        "is_correct": false
-      },
-      {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "7",
+        "text": "√225",
         "is_correct": true
+      },
+      {
+        "text": "√169",
+        "is_correct": false
+      },
+      {
+        "text": "√196",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
+    "correct_index": 1,
     "explanation": {
-      "summary": "A perfect square cannot end in 7. Possible final digits are 0, 1, 4, 5, 6 and 9.",
-      "hint": "Check the squares of digits 0 to 9."
+      "summary": "The roots are 15, 13, 14 and 12 respectively.",
+      "hint": "Evaluate each perfect-square root before comparing."
     },
     "difficulty": 2,
-    "sequence_priority": 1
+    "sequence_priority": 15
   },
   {
     "id": "AC9M7N01-P-016",
@@ -632,40 +620,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "patterns in perfect squares",
+    "skill": "between consecutive squares",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "question": "For 4, 9, 16, 25, 36, the first differences are 5, 7, 9, 11. What is constant about the second differences?",
-    "audio_prompt": "For 4, 9, 16, 25, 36, the first differences are 5, 7, 9, 11. What is constant about the second differences?",
+    "question": "81 < n < 100. If n is a perfect square, what is n?",
+    "audio_prompt": "81 < n < 100. If n is a perfect square, what is n?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "They are all 1",
-        "is_correct": false
-      },
-      {
-        "text": "They are all 2",
+        "text": "There is no perfect square strictly between them",
         "is_correct": true
       },
       {
-        "text": "They are all odd",
+        "text": "90",
         "is_correct": false
       },
       {
-        "text": "They equal the square numbers",
+        "text": "91",
+        "is_correct": false
+      },
+      {
+        "text": "99",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The first differences increase by 2 each time, so the second difference is constantly 2.",
-      "hint": "Subtract consecutive first differences."
+      "summary": "81 = 9² and 100 = 10² are consecutive perfect squares.",
+      "hint": "Consecutive whole numbers have consecutive perfect squares."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 16
   },
   {
     "id": "AC9M7N01-P-017",
@@ -673,40 +661,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "patterns in perfect squares",
+    "skill": "square-area context",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "question": "Without multiplying 16 × 16, use 15² = 225 to find 16².",
-    "audio_prompt": "Without multiplying 16 × 16, use 15² = 225 to find 16².",
+    "question": "A square mosaic covers 256 identical 1 cm² tiles. How many tiles are along each side?",
+    "audio_prompt": "A square mosaic covers 256 identical 1 cm² tiles. How many tiles are along each side?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "225 + 16",
+        "text": "8",
         "is_correct": false
       },
       {
-        "text": "225 + 30",
+        "text": "32",
         "is_correct": false
       },
       {
-        "text": "225 + 31",
+        "text": "64",
+        "is_correct": false
+      },
+      {
+        "text": "16",
         "is_correct": true
-      },
-      {
-        "text": "225 + 32",
-        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The next square increases by the next odd number: 16² = 15² + 31 = 256.",
-      "hint": "n² − (n−1)² = 2n−1."
+      "summary": "A 16 × 16 square contains 256 tiles.",
+      "hint": "Find √256."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 17
   },
   {
     "id": "AC9M7N01-P-018",
@@ -714,42 +702,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "square area, side and perimeter",
+    "skill": "square-area context",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "question": "A square floor contains 144 unit tiles. What is its perimeter in tile lengths?",
-    "audio_prompt": "A square floor contains 144 unit tiles. What is its perimeter in tile lengths?",
+    "question": "A square vegetable bed has area 361 m². What length of edging is needed for one side?",
+    "audio_prompt": "A square vegetable bed has area 361 m². What length of edging is needed for one side?",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#square",
-      "alt_text": "A 12 by 12 tiled square floor."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "12",
+        "text": "38 m",
         "is_correct": false
       },
       {
-        "text": "24",
+        "text": "90.25 m",
         "is_correct": false
       },
       {
-        "text": "48",
+        "text": "19 m",
         "is_correct": true
       },
       {
-        "text": "144",
+        "text": "18 m",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The side is √144 = 12 tiles, so the perimeter is 4 × 12 = 48 tile lengths.",
-      "hint": "Find the side before the perimeter."
+      "summary": "The side length is √361 = 19 m.",
+      "hint": "Area determines side length through square root."
     },
     "difficulty": 2,
-    "sequence_priority": 1
+    "sequence_priority": 18
   },
   {
     "id": "AC9M7N01-P-019",
@@ -757,40 +743,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "square area, side and perimeter",
+    "skill": "inverse relationship",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "question": "A square garden has perimeter 44 m. What is its area?",
-    "audio_prompt": "A square garden has perimeter 44 m. What is its area?",
+    "question": "Which statement must follow from 19² = 361?",
+    "audio_prompt": "Which statement must follow from 19² = 361?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "11 m²",
+        "text": "√361 = 180.5",
         "is_correct": false
       },
       {
-        "text": "44 m²",
-        "is_correct": false
-      },
-      {
-        "text": "121 m²",
+        "text": "√361 = 19",
         "is_correct": true
       },
       {
-        "text": "176 m²",
+        "text": "√19 = 361",
+        "is_correct": false
+      },
+      {
+        "text": "361² = 19",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "Each side is 44 ÷ 4 = 11 m, so the area is 11² = 121 m².",
-      "hint": "Convert perimeter to side length first."
+      "summary": "Square root reverses the squaring operation.",
+      "hint": "Reverse the given fact."
     },
     "difficulty": 2,
-    "sequence_priority": 1
+    "sequence_priority": 19
   },
   {
     "id": "AC9M7N01-P-020",
@@ -798,40 +784,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "square area, side and perimeter",
+    "skill": "error diagnosis",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "question": "Two square mats have areas 81 cm² and 144 cm². How much greater is the larger perimeter?",
-    "audio_prompt": "Two square mats have areas 81 cm² and 144 cm². How much greater is the larger perimeter?",
+    "question": "A learner writes √169 = ±13. Why is this unsuitable when the expression is exactly √169?",
+    "audio_prompt": "A learner writes √169 = ±13. Why is this unsuitable when the expression is exactly √169?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "3 cm",
-        "is_correct": false
-      },
-      {
-        "text": "12 cm",
+        "text": "The radical symbol denotes the principal non-negative root, so √169 = 13",
         "is_correct": true
       },
       {
-        "text": "24 cm",
+        "text": "Negative roots never exist in equations",
         "is_correct": false
       },
       {
-        "text": "63 cm",
+        "text": "169 has only one factor",
+        "is_correct": false
+      },
+      {
+        "text": "13² is not 169",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Their sides are 9 cm and 12 cm; their perimeters are 36 cm and 48 cm, a difference of 12 cm.",
-      "hint": "Take both square roots, then compare perimeters."
+      "summary": "The equation x²=169 has two solutions, but √169 denotes 13.",
+      "hint": "Distinguish an equation from the radical expression."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 20
   },
   {
     "id": "AC9M7N01-P-021",
@@ -839,40 +825,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "square area, side and perimeter",
+    "skill": "square comparison",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "question": "A rectangular floor has 12 rows of 10 tiles. Why can √120 not be used as a whole-number side length?",
-    "audio_prompt": "A rectangular floor has 12 rows of 10 tiles. Why can √120 not be used as a whole-number side length?",
+    "question": "Without multiplying fully, which is larger?",
+    "audio_prompt": "Without multiplying fully, which is larger?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "120 is odd",
+        "text": "17²",
         "is_correct": false
       },
       {
-        "text": "The floor is not square and 120 is not a perfect square",
+        "text": "√324",
+        "is_correct": false
+      },
+      {
+        "text": "300",
+        "is_correct": false
+      },
+      {
+        "text": "18²",
         "is_correct": true
-      },
-      {
-        "text": "Square roots apply only to centimetres",
-        "is_correct": false
-      },
-      {
-        "text": "The perimeter must equal 120",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "The square-root side method applies to a square area; 120 tiles form the stated 12-by-10 rectangle and 120 is not a perfect square.",
-      "hint": "Check the shape and whether the area is a perfect square."
+      "summary": "18² = 324, while 17² = 289 and √324 = 18.",
+      "hint": "Compare meanings and magnitudes, not just symbols."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 21
   },
   {
     "id": "AC9M7N01-P-022",
@@ -880,40 +866,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "two-digit squares with area models",
+    "skill": "perfect-square gap",
     "elaborations": [
-      "E2"
+      "E1"
     ],
-    "question": "A square has side length 41 cm. Which efficient calculation gives its area?",
-    "audio_prompt": "A square has side length 41 cm. Which efficient calculation gives its area?",
+    "question": "Which perfect square comes immediately after 196?",
+    "audio_prompt": "Which perfect square comes immediately after 196?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "40² + 1",
+        "text": "210",
         "is_correct": false
       },
       {
-        "text": "40² + 40 + 1",
+        "text": "392",
         "is_correct": false
       },
       {
-        "text": "40² + 2 × 40 + 1",
+        "text": "225",
         "is_correct": true
       },
       {
-        "text": "2 × 40² + 1",
+        "text": "197",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "41² = (40 + 1)² = 40² + 2 × 40 + 1.",
-      "hint": "The two cross strips are both 40 by 1."
+      "summary": "196 = 14², so the next is 15² = 225.",
+      "hint": "Move to the next whole-number base."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 22
   },
   {
     "id": "AC9M7N01-P-023",
@@ -921,40 +907,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "patterns in perfect squares",
+    "skill": "reverse context",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "question": "Which statement about perfect-square patterns is always true?",
-    "audio_prompt": "Which statement about perfect-square patterns is always true?",
+    "question": "A square display has 22 items along each side. How many items are in the full square?",
+    "audio_prompt": "A square display has 22 items along each side. How many items are in the full square?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "Consecutive squares differ by even numbers",
+        "text": "440",
         "is_correct": false
       },
       {
-        "text": "The second difference is 2",
+        "text": "484",
         "is_correct": true
       },
       {
-        "text": "Every square ends in 1, 4 or 9",
+        "text": "44",
         "is_correct": false
       },
       {
-        "text": "Every odd number is a square",
+        "text": "242",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Consecutive square numbers have odd first differences that rise by 2, giving constant second difference 2.",
-      "hint": "Distinguish a pattern that is always true."
+      "summary": "22² = 484.",
+      "hint": "Multiply the side length by itself."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 23
   },
   {
     "id": "AC9M7N01-P-024",
@@ -962,40 +948,1024 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "practice",
-    "skill": "square area, side and perimeter",
+    "skill": "reasonableness",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "question": "A square courtyard has area between 120 m² and 130 m² and a whole-number side. What is its side length?",
-    "audio_prompt": "A square courtyard has area between 120 m² and 130 m² and a whole-number side. What is its side length?",
+    "question": "A student claims √625 = 35. Which check shows the claim is incorrect?",
+    "audio_prompt": "A student claims √625 = 35. Which check shows the claim is incorrect?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "10 m",
-        "is_correct": false
-      },
-      {
-        "text": "11 m",
+        "text": "35² = 1225, not 625",
         "is_correct": true
       },
       {
-        "text": "12 m",
+        "text": "625 ÷ 5 = 125",
         "is_correct": false
       },
       {
-        "text": "13 m",
+        "text": "35 + 35 = 70",
+        "is_correct": false
+      },
+      {
+        "text": "625 is odd",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Squaring the proposed root is the direct inverse-operation check.",
+      "hint": "Verify by squaring 35."
+    },
+    "difficulty": 2,
+    "sequence_priority": 24
+  },
+  {
+    "id": "AC9M7N01-P-025",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "multi-step square context",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square courtyard has area 484 m². A 2 m-wide gate replaces part of one side. How many metres of fencing are needed for the remaining boundary?",
+    "audio_prompt": "A square courtyard has area 484 m². A 2 m-wide gate replaces part of one side. How many metres of fencing are needed for the remaining boundary?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "84 m",
+        "is_correct": false
+      },
+      {
+        "text": "88 m",
+        "is_correct": false
+      },
+      {
+        "text": "94 m",
+        "is_correct": false
+      },
+      {
+        "text": "86 m",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "√484 = 22 m, so perimeter = 88 m; subtract the 2 m gate to get 86 m.",
+      "hint": "Find the side first, then the perimeter."
+    },
+    "difficulty": 3,
+    "sequence_priority": 25
+  },
+  {
+    "id": "AC9M7N01-P-026",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "multi-step square context",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square photo has area 225 cm². A border increases each side length by 2 cm. What is the side length including the border?",
+    "audio_prompt": "A square photo has area 225 cm². A border increases each side length by 2 cm. What is the side length including the border?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "19 cm",
+        "is_correct": false
+      },
+      {
+        "text": "29 cm",
+        "is_correct": false
+      },
+      {
+        "text": "17 cm",
+        "is_correct": true
+      },
+      {
+        "text": "13 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The photo side is √225 = 15 cm, then 2 cm is added to that side length.",
+      "hint": "Square root first; then apply the stated change."
+    },
+    "difficulty": 3,
+    "sequence_priority": 26
+  },
+  {
+    "id": "AC9M7N01-P-027",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "inverse reasoning",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A whole number has a square between 400 and 500. Which value could the number be?",
+    "audio_prompt": "A whole number has a square between 400 and 500. Which value could the number be?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "21",
+        "is_correct": true
+      },
+      {
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "23",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "11² = 121 is the only perfect square between 120 and 130.",
-      "hint": "Find the perfect square in the interval."
+      "summary": "21² = 441, which lies between 400 and 500.",
+      "hint": "Compare nearby benchmark squares: 20² and 22²."
     },
     "difficulty": 3,
-    "sequence_priority": 2
+    "sequence_priority": 27
+  },
+  {
+    "id": "AC9M7N01-P-028",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "benchmark squares",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "Which statement is sufficient to prove √576 = 24?",
+    "audio_prompt": "Which statement is sufficient to prove √576 = 24?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "24² = 576",
+        "is_correct": true
+      },
+      {
+        "text": "24 × 2 = 48",
+        "is_correct": false
+      },
+      {
+        "text": "576 ÷ 2 = 288",
+        "is_correct": false
+      },
+      {
+        "text": "24 + 576 = 600",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A square-root claim is verified by squaring the proposed root.",
+      "hint": "Use the inverse operation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 28
+  },
+  {
+    "id": "AC9M7N01-P-029",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "square tiling",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "576 square tiles are arranged to make the largest possible square using every tile. How many tiles are in each row?",
+    "audio_prompt": "576 square tiles are arranged to make the largest possible square using every tile. How many tiles are in each row?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "288",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A 24 × 24 square uses 576 tiles.",
+      "hint": "Find √576."
+    },
+    "difficulty": 3,
+    "sequence_priority": 29
+  },
+  {
+    "id": "AC9M7N01-P-030",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "compare representations",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "Which pair represents the same value?",
+    "audio_prompt": "Which pair represents the same value?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "√20 and 400",
+        "is_correct": false
+      },
+      {
+        "text": "400² and 20",
+        "is_correct": false
+      },
+      {
+        "text": "√400 and 20",
+        "is_correct": true
+      },
+      {
+        "text": "20² and 20",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "√400 = 20.",
+      "hint": "Evaluate each expression before comparing."
+    },
+    "difficulty": 3,
+    "sequence_priority": 30
+  },
+  {
+    "id": "AC9M7N01-P-031",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "reasoning from interval",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A perfect square lies strictly between 500 and 550. Which one is it?",
+    "audio_prompt": "A perfect square lies strictly between 500 and 550. Which one is it?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "540",
+        "is_correct": false
+      },
+      {
+        "text": "529",
+        "is_correct": true
+      },
+      {
+        "text": "510",
+        "is_correct": false
+      },
+      {
+        "text": "525",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "23² = 529, while 22² = 484 and 24² = 576.",
+      "hint": "Bracket the interval using consecutive squares."
+    },
+    "difficulty": 3,
+    "sequence_priority": 31
+  },
+  {
+    "id": "AC9M7N01-P-032",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "multi-step area",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square stage has side 18 m. A smaller square mat of side 6 m is placed on it. What area of the stage remains uncovered?",
+    "audio_prompt": "A square stage has side 18 m. A smaller square mat of side 6 m is placed on it. What area of the stage remains uncovered?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "288 m²",
+        "is_correct": true
+      },
+      {
+        "text": "252 m²",
+        "is_correct": false
+      },
+      {
+        "text": "324 m²",
+        "is_correct": false
+      },
+      {
+        "text": "360 m²",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "18² − 6² = 324 − 36 = 288 m².",
+      "hint": "Find each square area, then subtract."
+    },
+    "difficulty": 3,
+    "sequence_priority": 32
+  },
+  {
+    "id": "AC9M7N01-P-033",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "reverse perimeter and square",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square has perimeter 60 cm. What is its area?",
+    "audio_prompt": "A square has perimeter 60 cm. What is its area?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "120 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "900 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "15 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "225 cm²",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Each side is 60 ÷ 4 = 15 cm, so area = 15² = 225 cm².",
+      "hint": "Perimeter gives the side before you square it."
+    },
+    "difficulty": 3,
+    "sequence_priority": 33
+  },
+  {
+    "id": "AC9M7N01-P-034",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "square-root chain",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "Evaluate √(12²).",
+    "audio_prompt": "Evaluate √(12²).",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "144",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "-12",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "12² = 144 and √144 = 12.",
+      "hint": "The principal square root reverses squaring a non-negative number."
+    },
+    "difficulty": 3,
+    "sequence_priority": 34
+  },
+  {
+    "id": "AC9M7N01-P-035",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "misconception comparison",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "Why is √49 different from solving x² = 49?",
+    "audio_prompt": "Why is √49 different from solving x² = 49?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "x² = 49 has only x = 7",
+        "is_correct": false
+      },
+      {
+        "text": "√49 is 7, while x² = 49 has x = 7 or x = −7",
+        "is_correct": true
+      },
+      {
+        "text": "They are identical and both equal ±7",
+        "is_correct": false
+      },
+      {
+        "text": "√49 is −7 only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The radical symbol names the principal root; an equation can have two signed solutions.",
+      "hint": "Separate evaluating an expression from solving an equation."
+    },
+    "difficulty": 3,
+    "sequence_priority": 35
+  },
+  {
+    "id": "AC9M7N01-P-036",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "square-root context",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square storage area is 729 m². Its side length is increased by 3 m. What is the new area?",
+    "audio_prompt": "A square storage area is 729 m². Its side length is increased by 3 m. What is the new area?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "900 m²",
+        "is_correct": true
+      },
+      {
+        "text": "732 m²",
+        "is_correct": false
+      },
+      {
+        "text": "756 m²",
+        "is_correct": false
+      },
+      {
+        "text": "1089 m²",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "√729 = 27 m; new side = 30 m; 30² = 900 m².",
+      "hint": "Work from area to side, change the side, then square again."
+    },
+    "difficulty": 3,
+    "sequence_priority": 36
+  },
+  {
+    "id": "AC9M7N01-P-037",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "reasonableness",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "Which estimate best helps check √361 = 19?",
+    "audio_prompt": "Which estimate best helps check √361 = 19?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "361 ÷ 2 = 180.5",
+        "is_correct": false
+      },
+      {
+        "text": "19 + 19 = 38",
+        "is_correct": false
+      },
+      {
+        "text": "400 ÷ 19 ≈ 21",
+        "is_correct": false
+      },
+      {
+        "text": "20² = 400, so a root just below 20 is reasonable",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Nearby perfect squares provide a magnitude check.",
+      "hint": "Use benchmark squares around 361."
+    },
+    "difficulty": 3,
+    "sequence_priority": 37
+  },
+  {
+    "id": "AC9M7N01-P-038",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "multi-constraint square",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square has a whole-number side length, area greater than 700 m² but less than 760 m². What is its side length?",
+    "audio_prompt": "A square has a whole-number side length, area greater than 700 m² but less than 760 m². What is its side length?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "28 m",
+        "is_correct": false
+      },
+      {
+        "text": "29 m",
+        "is_correct": false
+      },
+      {
+        "text": "27 m",
+        "is_correct": true
+      },
+      {
+        "text": "26 m",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "26²=676, 27²=729 and 28²=784, so only 27 m fits.",
+      "hint": "Bracket the area with nearby squares."
+    },
+    "difficulty": 4,
+    "sequence_priority": 38
+  },
+  {
+    "id": "AC9M7N01-P-039",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "reverse square difference",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "Two square gardens have side lengths 18 m and 12 m. By how much do their areas differ?",
+    "audio_prompt": "Two square gardens have side lengths 18 m and 12 m. By how much do their areas differ?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "216 m²",
+        "is_correct": false
+      },
+      {
+        "text": "180 m²",
+        "is_correct": true
+      },
+      {
+        "text": "6 m²",
+        "is_correct": false
+      },
+      {
+        "text": "36 m²",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "18² − 12² = 324 − 144 = 180 m².",
+      "hint": "Compare areas, not side lengths."
+    },
+    "difficulty": 4,
+    "sequence_priority": 39
+  },
+  {
+    "id": "AC9M7N01-P-040",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "square-root multi-step",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square panel has area 1024 cm². It is cut into 4 equal square panels. What is the side length of each small panel?",
+    "audio_prompt": "A square panel has area 1024 cm². It is cut into 4 equal square panels. What is the side length of each small panel?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "16 cm",
+        "is_correct": true
+      },
+      {
+        "text": "8 cm",
+        "is_correct": false
+      },
+      {
+        "text": "32 cm",
+        "is_correct": false
+      },
+      {
+        "text": "64 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each small square has area 1024 ÷ 4 = 256 cm², so side = √256 = 16 cm.",
+      "hint": "Divide the area before taking the square root."
+    },
+    "difficulty": 4,
+    "sequence_priority": 40
+  },
+  {
+    "id": "AC9M7N01-P-041",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "inverse pattern reasoning",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "If n² = 841 for a positive whole number n, what is n + 1?",
+    "audio_prompt": "If n² = 841 for a positive whole number n, what is n + 1?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "28",
+        "is_correct": false
+      },
+      {
+        "text": "29",
+        "is_correct": false
+      },
+      {
+        "text": "841",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "29² = 841, so n = 29 and n+1 = 30.",
+      "hint": "Use the square root to recover n first."
+    },
+    "difficulty": 4,
+    "sequence_priority": 41
+  },
+  {
+    "id": "AC9M7N01-P-042",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "area scaling",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square side length is doubled. How does its area change?",
+    "audio_prompt": "A square side length is doubled. How does its area change?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "It increases by 2 square units",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes 8 times as large",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes 4 times as large",
+        "is_correct": true
+      },
+      {
+        "text": "It doubles",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "If side s becomes 2s, area changes from s² to (2s)² = 4s².",
+      "hint": "Square the scale factor."
+    },
+    "difficulty": 4,
+    "sequence_priority": 42
+  },
+  {
+    "id": "AC9M7N01-P-043",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "area scaling",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square area is 144 cm². Another square has 9 times the area. What is the second square’s side length?",
+    "audio_prompt": "A square area is 144 cm². Another square has 9 times the area. What is the second square’s side length?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "1296 cm",
+        "is_correct": false
+      },
+      {
+        "text": "36 cm",
+        "is_correct": true
+      },
+      {
+        "text": "18 cm",
+        "is_correct": false
+      },
+      {
+        "text": "108 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Nine times 144 is 1296, and √1296 = 36; equivalently the side scale factor is √9 = 3.",
+      "hint": "Area scale factors square the side scale factor."
+    },
+    "difficulty": 4,
+    "sequence_priority": 43
+  },
+  {
+    "id": "AC9M7N01-P-044",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "proof by contradiction check",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A student says there is a perfect square strictly between 24² and 25². What is the best response?",
+    "audio_prompt": "A student says there is a perfect square strictly between 24² and 25². What is the best response?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "Impossible: consecutive whole-number squares have no other whole-number square between them",
+        "is_correct": true
+      },
+      {
+        "text": "True: 24.5² is a perfect square",
+        "is_correct": false
+      },
+      {
+        "text": "True: 600 is always a perfect square",
+        "is_correct": false
+      },
+      {
+        "text": "Impossible because 24² = 25²",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Perfect squares of whole numbers occur at integer bases; 24 and 25 are consecutive.",
+      "hint": "Focus on the whole-number bases."
+    },
+    "difficulty": 4,
+    "sequence_priority": 44
+  },
+  {
+    "id": "AC9M7N01-P-045",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "multi-step perimeter",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square has area 900 m². A path follows three complete sides only. How long is the path?",
+    "audio_prompt": "A square has area 900 m². A path follows three complete sides only. How long is the path?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "30 m",
+        "is_correct": false
+      },
+      {
+        "text": "120 m",
+        "is_correct": false
+      },
+      {
+        "text": "2700 m",
+        "is_correct": false
+      },
+      {
+        "text": "90 m",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "√900 = 30 m per side; three sides total 90 m.",
+      "hint": "Recover the side before multiplying by 3."
+    },
+    "difficulty": 4,
+    "sequence_priority": 45
+  },
+  {
+    "id": "AC9M7N01-P-046",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "reverse square context",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square grid contains 1600 cells. After removing one complete row and one complete column from the original grid, how many cells remain?",
+    "audio_prompt": "A square grid contains 1600 cells. After removing one complete row and one complete column from the original grid, how many cells remain?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "1560",
+        "is_correct": false
+      },
+      {
+        "text": "1598",
+        "is_correct": false
+      },
+      {
+        "text": "1521",
+        "is_correct": true
+      },
+      {
+        "text": "1520",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The original side is √1600=40. Removing one row and one column leaves a 39×39 grid = 1521 cells.",
+      "hint": "Think about the new side length, not simply subtracting 80."
+    },
+    "difficulty": 4,
+    "sequence_priority": 46
+  },
+  {
+    "id": "AC9M7N01-P-048",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "reasoning with consecutive squares",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "A square area is a perfect square between 30² and 35². Which list contains every possible area?",
+    "audio_prompt": "A square area is a perfect square between 30² and 35². Which list contains every possible area?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "31², 32², 33², 34²",
+        "is_correct": true
+      },
+      {
+        "text": "30², 31², 32², 33², 34², 35²",
+        "is_correct": false
+      },
+      {
+        "text": "31, 32, 33, 34",
+        "is_correct": false
+      },
+      {
+        "text": "32², 33² only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Strictly between the endpoint squares, the whole-number side lengths are 31, 32, 33 and 34.",
+      "hint": "List the possible side lengths first."
+    },
+    "difficulty": 4,
+    "sequence_priority": 48
+  },
+  {
+    "id": "AC9M7N01-P-049",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N01",
+    "bank": "practice",
+    "skill": "multi-step square-root comparison",
+    "elaborations": [
+      "E1"
+    ],
+    "question": "Square A has area 441 cm². Square B has side length 3 cm longer than Square A. What is Square B’s area?",
+    "audio_prompt": "Square A has area 441 cm². Square B has side length 3 cm longer than Square A. What is Square B’s area?",
+    "visual": {
+      "type": "none"
+    },
+    "answers": [
+      {
+        "text": "444 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "504 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "882 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "576 cm²",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Square A side = √441 = 21 cm; Square B side = 24 cm; 24² = 576 cm².",
+      "hint": "Convert area to side, change the side, then square."
+    },
+    "difficulty": 4,
+    "sequence_priority": 49
   },
   {
     "id": "AC9M7N01-T-001",
@@ -1003,40 +1973,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "square meaning and notation",
+    "skill": "perfect-square recognition",
     "elaborations": [
       "E1"
     ],
-    "question": "A student says √196 = −14 because (−14)² = 196. What is the best correction?",
-    "audio_prompt": "A student says √196 = −14 because (−14)² = 196. What is the best correction?",
+    "question": "Which value is a perfect square?",
+    "audio_prompt": "Which value is a perfect square?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "The radical symbol gives the principal root, so √196 = 14",
+        "text": "156",
+        "is_correct": false
+      },
+      {
+        "text": "175",
+        "is_correct": false
+      },
+      {
+        "text": "182",
+        "is_correct": false
+      },
+      {
+        "text": "169",
         "is_correct": true
-      },
-      {
-        "text": "Negative numbers cannot be squared",
-        "is_correct": false
-      },
-      {
-        "text": "Both 14 and −14 are written as √196",
-        "is_correct": false
-      },
-      {
-        "text": "√196 = 98",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Although both 14 and −14 solve x² = 196, √196 denotes the principal, non-negative root.",
-      "hint": "Distinguish an equation's solutions from the radical symbol."
+      "summary": "169 = 13².",
+      "hint": "Look for a whole-number square."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "sequence_priority": 1
   },
   {
     "id": "AC9M7N01-T-002",
@@ -1044,41 +2014,39 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "two-digit squares with area models",
+    "skill": "square-root meaning",
     "elaborations": [
-      "E2"
+      "E1"
     ],
-    "question": "A 47 cm square is split using 47 = 40 + 7. Which total gives its area?",
-    "audio_prompt": "A 47 cm square is split using 47 = 40 + 7. Which total gives its area?",
+    "question": "Evaluate √324.",
+    "audio_prompt": "Evaluate √324.",
     "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#split",
-      "alt_text": "A 47 by 47 square partitioned into 40 and 7."
+      "type": "none"
     },
     "answers": [
       {
-        "text": "1600 + 280 + 49",
+        "text": "36",
         "is_correct": false
       },
       {
-        "text": "1600 + 560 + 49",
+        "text": "162",
+        "is_correct": false
+      },
+      {
+        "text": "18",
         "is_correct": true
       },
       {
-        "text": "1600 + 47",
-        "is_correct": false
-      },
-      {
-        "text": "1880 + 49",
+        "text": "16",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "47² = 40² + 2 × 40 × 7 + 7² = 1600 + 560 + 49 = 2209.",
-      "hint": "Include two 40-by-7 rectangles."
+      "summary": "18² = 324.",
+      "hint": "Use the inverse relationship."
     },
-    "difficulty": 4,
+    "difficulty": 1,
     "sequence_priority": 2
   },
   {
@@ -1087,40 +2055,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "two-digit squares with area models",
+    "skill": "inverse relationship",
     "elaborations": [
-      "E2"
+      "E1"
     ],
-    "question": "A student calculates 28² as 30² − 2² = 896. Which correction is valid?",
-    "audio_prompt": "A student calculates 28² as 30² − 2² = 896. Which correction is valid?",
+    "question": "Which statement correctly reverses 16² = 256?",
+    "audio_prompt": "Which statement correctly reverses 16² = 256?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "Use 30² − 2 × 30 × 2 + 2² = 784",
+        "text": "√256 = 128",
+        "is_correct": false
+      },
+      {
+        "text": "√256 = 16",
         "is_correct": true
       },
       {
-        "text": "Use 30² − 30 × 2 = 840",
+        "text": "√16 = 256",
         "is_correct": false
       },
       {
-        "text": "Use 28 × 2 = 56",
-        "is_correct": false
-      },
-      {
-        "text": "Use 30² − 4 = 896",
+        "text": "256² = 16",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 1,
     "explanation": {
-      "summary": "(30 − 2)² = 30² − 2 × 30 × 2 + 2² = 784.",
-      "hint": "Apply the complete square-of-a-difference identity."
+      "summary": "Square root reverses squaring for the principal non-negative root.",
+      "hint": "Reverse the given fact."
     },
-    "difficulty": 4,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "sequence_priority": 3
   },
   {
     "id": "AC9M7N01-T-004",
@@ -1128,40 +2096,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "bounding square roots",
+    "skill": "square context",
     "elaborations": [
-      "E3"
+      "E1"
     ],
-    "question": "Without a calculator, which is the tightest whole-number interval for √210?",
-    "audio_prompt": "Without a calculator, which is the tightest whole-number interval for √210?",
+    "question": "A square has side 14 cm. What is its area?",
+    "audio_prompt": "A square has side 14 cm. What is its area?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "13 < √210 < 14",
-        "is_correct": false
-      },
-      {
-        "text": "14 < √210 < 15",
+        "text": "196 cm²",
         "is_correct": true
       },
       {
-        "text": "15 < √210 < 16",
+        "text": "28 cm²",
         "is_correct": false
       },
       {
-        "text": "16 < √210 < 17",
+        "text": "56 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "192 cm²",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "14² = 196 and 15² = 225, so 14 < √210 < 15.",
-      "hint": "Find consecutive squares around 210."
+      "summary": "14² = 196.",
+      "hint": "Square the side length."
     },
-    "difficulty": 4,
-    "sequence_priority": 2
+    "difficulty": 1,
+    "sequence_priority": 4
   },
   {
     "id": "AC9M7N01-T-005",
@@ -1169,40 +2137,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "bounding square roots",
+    "skill": "missing square",
     "elaborations": [
-      "E3"
+      "E1"
     ],
-    "question": "A square has area A where 82 < A < 90. Which statement about its side s is guaranteed?",
-    "audio_prompt": "A square has area A where 82 < A < 90. Which statement about its side s is guaranteed?",
+    "question": "Complete: □² = 676.",
+    "audio_prompt": "Complete: □² = 676.",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "8 < s < 9",
+        "text": "24",
         "is_correct": false
       },
       {
-        "text": "9 < s < 10",
+        "text": "52",
+        "is_correct": false
+      },
+      {
+        "text": "338",
+        "is_correct": false
+      },
+      {
+        "text": "26",
         "is_correct": true
-      },
-      {
-        "text": "s = 9",
-        "is_correct": false
-      },
-      {
-        "text": "s > 10",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Because 81 < 82 < A < 90 < 100, taking principal roots gives 9 < s < 10.",
-      "hint": "Bracket the entire area interval between consecutive perfect squares."
+      "summary": "26² = 676.",
+      "hint": "Take √676."
     },
-    "difficulty": 4,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 5
   },
   {
     "id": "AC9M7N01-T-006",
@@ -1210,40 +2178,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "patterns in perfect squares",
+    "skill": "square-root context",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "question": "The differences between consecutive square numbers are 3, 5, 7, 9, …. What is the difference between 24² and 23²?",
-    "audio_prompt": "The differences between consecutive square numbers are 3, 5, 7, 9, …. What is the difference between 24² and 23²?",
+    "question": "A square tile arrangement uses 841 tiles. How many tiles are along one side?",
+    "audio_prompt": "A square tile arrangement uses 841 tiles. How many tiles are along one side?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "23",
+        "text": "28",
         "is_correct": false
       },
       {
-        "text": "24",
+        "text": "58",
         "is_correct": false
       },
       {
-        "text": "47",
+        "text": "29",
         "is_correct": true
       },
       {
-        "text": "48",
+        "text": "20",
         "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "n² − (n−1)² = 2n−1, so 24² − 23² = 47.",
-      "hint": "Use the next odd difference."
+      "summary": "√841 = 29.",
+      "hint": "The side is the square root of the total square area/count."
     },
-    "difficulty": 4,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 6
   },
   {
     "id": "AC9M7N01-T-007",
@@ -1251,40 +2219,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "patterns in perfect squares",
+    "skill": "reasonableness",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "question": "A number ends in 8. What can be concluded?",
-    "audio_prompt": "A number ends in 8. What can be concluded?",
+    "question": "Which fact best checks √529 = 23?",
+    "audio_prompt": "Which fact best checks √529 = 23?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "It must be a perfect square",
+        "text": "23 + 529 = 552",
         "is_correct": false
       },
       {
-        "text": "It cannot be a perfect square",
+        "text": "23² = 529",
         "is_correct": true
       },
       {
-        "text": "Its square root is 4",
+        "text": "23 × 2 = 46",
         "is_correct": false
       },
       {
-        "text": "It is between two odd squares",
+        "text": "529 ÷ 2 = 264.5",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "No perfect square ends in 8, as checking the squares of final digits 0–9 shows.",
-      "hint": "Use the possible final digits of squares."
+      "summary": "Squaring the proposed root verifies it directly.",
+      "hint": "Use the inverse operation."
     },
-    "difficulty": 4,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 7
   },
   {
     "id": "AC9M7N01-T-008",
@@ -1292,40 +2260,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "patterns in perfect squares",
+    "skill": "consecutive squares",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "question": "A sequence begins 9, 16, 25, 36. Which evidence best shows it is a square-number sequence?",
-    "audio_prompt": "A sequence begins 9, 16, 25, 36. Which evidence best shows it is a square-number sequence?",
+    "question": "Which perfect square lies strictly between 15² and 17²?",
+    "audio_prompt": "Which perfect square lies strictly between 15² and 17²?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "Terms increase",
-        "is_correct": false
-      },
-      {
-        "text": "First differences are 7, 9, 11 and the second difference is 2",
+        "text": "256",
         "is_correct": true
       },
       {
-        "text": "Every term is odd",
+        "text": "240",
         "is_correct": false
       },
       {
-        "text": "The ratio is constant",
+        "text": "272",
+        "is_correct": false
+      },
+      {
+        "text": "289",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The terms are consecutive squares; their odd first differences rise by 2, producing constant second difference 2.",
-      "hint": "Compare differences, not ratios."
+      "summary": "16² = 256 is the only whole-number square between 15² and 17².",
+      "hint": "The only whole-number base between 15 and 17 is 16."
     },
-    "difficulty": 4,
-    "sequence_priority": 2
+    "difficulty": 2,
+    "sequence_priority": 8
   },
   {
     "id": "AC9M7N01-T-009",
@@ -1333,40 +2301,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "square area, side and perimeter",
+    "skill": "multi-step square context",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "question": "A square tiled floor has perimeter 68 tile lengths. How many tiles cover it?",
-    "audio_prompt": "A square tiled floor has perimeter 68 tile lengths. How many tiles cover it?",
+    "question": "A square field has area 625 m². Fencing is needed around three sides. How much fencing is required?",
+    "audio_prompt": "A square field has area 625 m². Fencing is needed around three sides. How much fencing is required?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "17",
+        "text": "25 m",
         "is_correct": false
       },
       {
-        "text": "34",
+        "text": "100 m",
         "is_correct": false
       },
       {
-        "text": "136",
+        "text": "1875 m",
         "is_correct": false
       },
       {
-        "text": "289",
+        "text": "75 m",
         "is_correct": true
       }
     ],
     "correct_index": 3,
     "explanation": {
-      "summary": "The side is 68 ÷ 4 = 17 tiles, so the area is 17² = 289 tiles.",
-      "hint": "Reverse perimeter to side, then square."
+      "summary": "√625 = 25 m per side; three sides need 75 m.",
+      "hint": "Find the side first."
     },
-    "difficulty": 4,
-    "sequence_priority": 2
+    "difficulty": 3,
+    "sequence_priority": 9
   },
   {
     "id": "AC9M7N01-T-010",
@@ -1374,40 +2342,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "square area, side and perimeter",
+    "skill": "reverse perimeter",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "question": "A square lawn has area 324 m². A 1 m-wide path is built inside along every edge. What area remains as lawn?",
-    "audio_prompt": "A square lawn has area 324 m². A 1 m-wide path is built inside along every edge. What area remains as lawn?",
+    "question": "A square perimeter is 72 cm. What is its area?",
+    "audio_prompt": "A square perimeter is 72 cm. What is its area?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "256 m²",
+        "text": "144 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "5184 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "324 cm²",
         "is_correct": true
       },
       {
-        "text": "288 m²",
-        "is_correct": false
-      },
-      {
-        "text": "289 m²",
-        "is_correct": false
-      },
-      {
-        "text": "322 m²",
+        "text": "18 cm²",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "The original side is √324 = 18 m. Removing 1 m from both ends of each dimension leaves a 16 m square, with area 256 m².",
-      "hint": "The inner side is 18 − 2."
+      "summary": "Side = 72÷4 = 18 cm, so area = 18² = 324 cm².",
+      "hint": "Perimeter → side → square."
     },
-    "difficulty": 4,
-    "sequence_priority": 2
+    "difficulty": 3,
+    "sequence_priority": 10
   },
   {
     "id": "AC9M7N01-T-011",
@@ -1415,40 +2383,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "two-digit squares with area models",
+    "skill": "misconception diagnosis",
     "elaborations": [
-      "E2"
+      "E1"
     ],
-    "question": "Which expression is equal to 31² and shows why?",
-    "audio_prompt": "Which expression is equal to 31² and shows why?",
+    "question": "A student writes √225 = ±15. Which statement is most precise?",
+    "audio_prompt": "A student writes √225 = ±15. Which statement is most precise?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "30² + 1",
+        "text": "225 has no negative square root relationship",
         "is_correct": false
       },
       {
-        "text": "30² + 30 + 1",
-        "is_correct": false
-      },
-      {
-        "text": "30² + 2 × 30 + 1",
+        "text": "√225 = 15; the equation x²=225 has solutions ±15",
         "is_correct": true
       },
       {
-        "text": "31 × 2",
+        "text": "√225 = −15 only",
+        "is_correct": false
+      },
+      {
+        "text": "The student is fully correct because every radical has two values",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 1,
     "explanation": {
-      "summary": "(30 + 1)² contains two 30-by-1 strips and one 1-by-1 square.",
-      "hint": "Use the area model."
+      "summary": "The radical symbol denotes the principal non-negative root.",
+      "hint": "Distinguish evaluating √225 from solving x²=225."
     },
-    "difficulty": 4,
-    "sequence_priority": 2
+    "difficulty": 3,
+    "sequence_priority": 11
   },
   {
     "id": "AC9M7N01-T-012",
@@ -1456,40 +2424,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "square area, side and perimeter",
+    "skill": "benchmark reasoning",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "question": "A square photograph is enlarged so each side is three times as long. How does its area change?",
-    "audio_prompt": "A square photograph is enlarged so each side is three times as long. How does its area change?",
+    "question": "A whole number n satisfies n² = 961. What is n?",
+    "audio_prompt": "A whole number n satisfies n² = 961. What is n?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "It triples",
-        "is_correct": false
-      },
-      {
-        "text": "It increases by 6",
-        "is_correct": false
-      },
-      {
-        "text": "It becomes 9 times as large",
+        "text": "31",
         "is_correct": true
       },
       {
-        "text": "It becomes 12 times as large",
+        "text": "29",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "32",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Area depends on side², so multiplying each side by 3 multiplies area by 3² = 9.",
-      "hint": "Square the scale factor."
+      "summary": "31² = 961.",
+      "hint": "Use nearby benchmarks: 30²=900."
     },
-    "difficulty": 4,
-    "sequence_priority": 2
+    "difficulty": 3,
+    "sequence_priority": 12
   },
   {
     "id": "AC9M7N01-T-013",
@@ -1497,40 +2465,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "square meaning and notation",
+    "skill": "multi-step area",
     "elaborations": [
       "E1"
     ],
-    "question": "Which list contains only perfect squares?",
-    "audio_prompt": "Which list contains only perfect squares?",
+    "question": "A square sign has area 400 cm². A frame adds 5 cm to each side length of the sign. What is the area enclosed by the outer edge of the frame?",
+    "audio_prompt": "A square sign has area 400 cm². A frame adds 5 cm to each side length of the sign. What is the area enclosed by the outer edge of the frame?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "36, 49, 64, 81",
+        "text": "405 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "500 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "900 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "625 cm²",
         "is_correct": true
-      },
-      {
-        "text": "25, 45, 65, 85",
-        "is_correct": false
-      },
-      {
-        "text": "16, 32, 48, 64",
-        "is_correct": false
-      },
-      {
-        "text": "1, 9, 27, 81",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "36 = 6², 49 = 7², 64 = 8² and 81 = 9².",
-      "hint": "Verify every entry."
+      "summary": "Sign side = √400=20 cm; outer side =25 cm; area=25²=625 cm².",
+      "hint": "Recover the side, change it, then square."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "difficulty": 4,
+    "sequence_priority": 13
   },
   {
     "id": "AC9M7N01-T-014",
@@ -1538,40 +2506,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "bounding square roots",
+    "skill": "area scaling",
     "elaborations": [
-      "E3"
+      "E1"
     ],
-    "question": "A square storage area must cover at least 200 m² using a whole-number side. What is the shortest possible side?",
-    "audio_prompt": "A square storage area must cover at least 200 m² using a whole-number side. What is the shortest possible side?",
+    "question": "Square B has 16 times the area of Square A. If Square A has side 7 cm, what is Square B’s side length?",
+    "audio_prompt": "Square B has 16 times the area of Square A. If Square A has side 7 cm, what is Square B’s side length?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "14 m",
+        "text": "56 cm",
         "is_correct": false
       },
       {
-        "text": "15 m",
+        "text": "112 cm",
+        "is_correct": false
+      },
+      {
+        "text": "28 cm",
         "is_correct": true
       },
       {
-        "text": "16 m",
-        "is_correct": false
-      },
-      {
-        "text": "20 m",
+        "text": "14 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "14² = 196 is too small, while 15² = 225 meets the requirement.",
-      "hint": "Test consecutive whole-number sides around √200."
+      "summary": "An area scale factor of 16 corresponds to a side scale factor of √16=4; 7×4=28.",
+      "hint": "Take the square root of the area scale factor."
     },
     "difficulty": 4,
-    "sequence_priority": 2
+    "sequence_priority": 14
   },
   {
     "id": "AC9M7N01-T-015",
@@ -1579,40 +2547,40 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "patterns in perfect squares",
+    "skill": "grid transformation",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "question": "A student claims every number ending in 5 is a perfect square. Which counterexample disproves the claim?",
-    "audio_prompt": "A student claims every number ending in 5 is a perfect square. Which counterexample disproves the claim?",
+    "question": "A 36×36 square grid loses its outermost one-cell border. How many cells remain?",
+    "audio_prompt": "A 36×36 square grid loses its outermost one-cell border. How many cells remain?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "5",
+        "text": "1369",
         "is_correct": false
       },
       {
-        "text": "15",
+        "text": "1156",
         "is_correct": true
       },
       {
-        "text": "25",
+        "text": "1224",
         "is_correct": false
       },
       {
-        "text": "225",
+        "text": "1294",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "15 ends in 5 but is not a perfect square.",
-      "hint": "One valid counterexample disproves an always claim."
+      "summary": "Removing one cell from each edge reduces the side by 2: 34×34=1156.",
+      "hint": "Track the new side length."
     },
     "difficulty": 4,
-    "sequence_priority": 2
+    "sequence_priority": 15
   },
   {
     "id": "AC9M7N01-T-016",
@@ -1620,39 +2588,39 @@
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N01",
     "bank": "test",
-    "skill": "square area, side and perimeter",
+    "skill": "reasoning interval",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "question": "A square has area 400 cm². Its side is reduced by 10%, then reduced by another 2 cm. What is the new area?",
-    "audio_prompt": "A square has area 400 cm². Its side is reduced by 10%, then reduced by another 2 cm. What is the new area?",
+    "question": "A perfect-square area is greater than 1000 but less than 1050. What is the side length of the square?",
+    "audio_prompt": "A perfect-square area is greater than 1000 but less than 1050. What is the side length of the square?",
     "visual": {
       "type": "none"
     },
     "answers": [
       {
-        "text": "256 cm²",
+        "text": "32",
         "is_correct": true
       },
       {
-        "text": "289 cm²",
+        "text": "31",
         "is_correct": false
       },
       {
-        "text": "324 cm²",
+        "text": "33",
         "is_correct": false
       },
       {
-        "text": "361 cm²",
+        "text": "34",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The original side is 20 cm. Reducing by 10% gives 18 cm, then by 2 cm gives 16 cm; 16² = 256 cm².",
-      "hint": "Apply each side-length change before squaring."
+      "summary": "31²=961, 32²=1024 and 33²=1089, so only 32 fits.",
+      "hint": "Bracket the interval with consecutive squares."
     },
-    "difficulty": 5,
-    "sequence_priority": 2
+    "difficulty": 4,
+    "sequence_priority": 16
   }
 ]

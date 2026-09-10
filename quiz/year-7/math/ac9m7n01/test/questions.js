@@ -4,26 +4,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-001",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "square meaning and notation",
+    "skill": "perfect-square recognition",
     "elaborations": [
       "E1"
     ],
-    "difficulty": 3,
+    "difficulty": 1,
     "printable": true,
     "type": "single",
-    "question": "A student says √196 = −14 because (−14)² = 196. What is the best correction?",
-    "audioPrompt": "A student says √196 = −14 because (−14)² = 196. What is the best correction?",
+    "question": "Which value is a perfect square?",
+    "audioPrompt": "Which value is a perfect square?",
     "answers": [
-      "The radical symbol gives the principal root, so √196 = 14",
-      "Negative numbers cannot be squared",
-      "Both 14 and −14 are written as √196",
-      "√196 = 98"
+      "156",
+      "175",
+      "182",
+      "169"
     ],
-    "correct": 0,
-    "explanation": "Although both 14 and −14 solve x² = 196, √196 denotes the principal, non-negative root.\nHint: Distinguish an equation's solutions from the radical symbol.",
+    "correct": 3,
+    "explanation": "169 = 13².\nHint: Look for a whole-number square.",
     "structuredExplanation": {
-      "summary": "Although both 14 and −14 solve x² = 196, √196 denotes the principal, non-negative root.",
-      "hint": "Distinguish an equation's solutions from the radical symbol."
+      "summary": "169 = 13².",
+      "hint": "Look for a whole-number square."
     },
     "qualitySchema": "production-v2"
   },
@@ -31,33 +31,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-002",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "two-digit squares with area models",
+    "skill": "square-root meaning",
     "elaborations": [
-      "E2"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 1,
     "printable": true,
     "type": "single",
-    "question": "A 47 cm square is split using 47 = 40 + 7. Which total gives its area?",
-    "audioPrompt": "A 47 cm square is split using 47 = 40 + 7. Which total gives its area?",
-    "visual": "A 47 by 47 square partitioned into 40 and 7.",
-    "visualHtml": "<svg viewBox=\"0 0 640 300\" role=\"img\" aria-label=\"A 47 by 47 square partitioned into 40 and 7.\"><use href=\"/assets/assessment-visuals/year7/maths/ac9m7n01.svg#split\"></use></svg>",
-    "visualMeta": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/ac9m7n01.svg#split",
-      "alt_text": "A 47 by 47 square partitioned into 40 and 7."
-    },
+    "question": "Evaluate √324.",
+    "audioPrompt": "Evaluate √324.",
     "answers": [
-      "1600 + 280 + 49",
-      "1600 + 560 + 49",
-      "1600 + 47",
-      "1880 + 49"
+      "36",
+      "162",
+      "18",
+      "16"
     ],
-    "correct": 1,
-    "explanation": "47² = 40² + 2 × 40 × 7 + 7² = 1600 + 560 + 49 = 2209.\nHint: Include two 40-by-7 rectangles.",
+    "correct": 2,
+    "explanation": "18² = 324.\nHint: Use the inverse relationship.",
     "structuredExplanation": {
-      "summary": "47² = 40² + 2 × 40 × 7 + 7² = 1600 + 560 + 49 = 2209.",
-      "hint": "Include two 40-by-7 rectangles."
+      "summary": "18² = 324.",
+      "hint": "Use the inverse relationship."
     },
     "qualitySchema": "production-v2"
   },
@@ -65,26 +58,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-003",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "two-digit squares with area models",
+    "skill": "inverse relationship",
     "elaborations": [
-      "E2"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 1,
     "printable": true,
     "type": "single",
-    "question": "A student calculates 28² as 30² − 2² = 896. Which correction is valid?",
-    "audioPrompt": "A student calculates 28² as 30² − 2² = 896. Which correction is valid?",
+    "question": "Which statement correctly reverses 16² = 256?",
+    "audioPrompt": "Which statement correctly reverses 16² = 256?",
     "answers": [
-      "Use 30² − 2 × 30 × 2 + 2² = 784",
-      "Use 30² − 30 × 2 = 840",
-      "Use 28 × 2 = 56",
-      "Use 30² − 4 = 896"
+      "√256 = 128",
+      "√256 = 16",
+      "√16 = 256",
+      "256² = 16"
     ],
-    "correct": 0,
-    "explanation": "(30 − 2)² = 30² − 2 × 30 × 2 + 2² = 784.\nHint: Apply the complete square-of-a-difference identity.",
+    "correct": 1,
+    "explanation": "Square root reverses squaring for the principal non-negative root.\nHint: Reverse the given fact.",
     "structuredExplanation": {
-      "summary": "(30 − 2)² = 30² − 2 × 30 × 2 + 2² = 784.",
-      "hint": "Apply the complete square-of-a-difference identity."
+      "summary": "Square root reverses squaring for the principal non-negative root.",
+      "hint": "Reverse the given fact."
     },
     "qualitySchema": "production-v2"
   },
@@ -92,26 +85,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-004",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "bounding square roots",
+    "skill": "square context",
     "elaborations": [
-      "E3"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 1,
     "printable": true,
     "type": "single",
-    "question": "Without a calculator, which is the tightest whole-number interval for √210?",
-    "audioPrompt": "Without a calculator, which is the tightest whole-number interval for √210?",
+    "question": "A square has side 14 cm. What is its area?",
+    "audioPrompt": "A square has side 14 cm. What is its area?",
     "answers": [
-      "13 < √210 < 14",
-      "14 < √210 < 15",
-      "15 < √210 < 16",
-      "16 < √210 < 17"
+      "196 cm²",
+      "28 cm²",
+      "56 cm²",
+      "192 cm²"
     ],
-    "correct": 1,
-    "explanation": "14² = 196 and 15² = 225, so 14 < √210 < 15.\nHint: Find consecutive squares around 210.",
+    "correct": 0,
+    "explanation": "14² = 196.\nHint: Square the side length.",
     "structuredExplanation": {
-      "summary": "14² = 196 and 15² = 225, so 14 < √210 < 15.",
-      "hint": "Find consecutive squares around 210."
+      "summary": "14² = 196.",
+      "hint": "Square the side length."
     },
     "qualitySchema": "production-v2"
   },
@@ -119,26 +112,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-005",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "bounding square roots",
+    "skill": "missing square",
     "elaborations": [
-      "E3"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 2,
     "printable": true,
     "type": "single",
-    "question": "A square has area A where 82 < A < 90. Which statement about its side s is guaranteed?",
-    "audioPrompt": "A square has area A where 82 < A < 90. Which statement about its side s is guaranteed?",
+    "question": "Complete: □² = 676.",
+    "audioPrompt": "Complete: □² = 676.",
     "answers": [
-      "8 < s < 9",
-      "9 < s < 10",
-      "s = 9",
-      "s > 10"
+      "24",
+      "52",
+      "338",
+      "26"
     ],
-    "correct": 1,
-    "explanation": "Because 81 < 82 < A < 90 < 100, taking principal roots gives 9 < s < 10.\nHint: Bracket the entire area interval between consecutive perfect squares.",
+    "correct": 3,
+    "explanation": "26² = 676.\nHint: Take √676.",
     "structuredExplanation": {
-      "summary": "Because 81 < 82 < A < 90 < 100, taking principal roots gives 9 < s < 10.",
-      "hint": "Bracket the entire area interval between consecutive perfect squares."
+      "summary": "26² = 676.",
+      "hint": "Take √676."
     },
     "qualitySchema": "production-v2"
   },
@@ -146,26 +139,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-006",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "patterns in perfect squares",
+    "skill": "square-root context",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 2,
     "printable": true,
     "type": "single",
-    "question": "The differences between consecutive square numbers are 3, 5, 7, 9, …. What is the difference between 24² and 23²?",
-    "audioPrompt": "The differences between consecutive square numbers are 3, 5, 7, 9, …. What is the difference between 24² and 23²?",
+    "question": "A square tile arrangement uses 841 tiles. How many tiles are along one side?",
+    "audioPrompt": "A square tile arrangement uses 841 tiles. How many tiles are along one side?",
     "answers": [
-      "23",
-      "24",
-      "47",
-      "48"
+      "28",
+      "58",
+      "29",
+      "20"
     ],
     "correct": 2,
-    "explanation": "n² − (n−1)² = 2n−1, so 24² − 23² = 47.\nHint: Use the next odd difference.",
+    "explanation": "√841 = 29.\nHint: The side is the square root of the total square area/count.",
     "structuredExplanation": {
-      "summary": "n² − (n−1)² = 2n−1, so 24² − 23² = 47.",
-      "hint": "Use the next odd difference."
+      "summary": "√841 = 29.",
+      "hint": "The side is the square root of the total square area/count."
     },
     "qualitySchema": "production-v2"
   },
@@ -173,26 +166,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-007",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "patterns in perfect squares",
+    "skill": "reasonableness",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 2,
     "printable": true,
     "type": "single",
-    "question": "A number ends in 8. What can be concluded?",
-    "audioPrompt": "A number ends in 8. What can be concluded?",
+    "question": "Which fact best checks √529 = 23?",
+    "audioPrompt": "Which fact best checks √529 = 23?",
     "answers": [
-      "It must be a perfect square",
-      "It cannot be a perfect square",
-      "Its square root is 4",
-      "It is between two odd squares"
+      "23 + 529 = 552",
+      "23² = 529",
+      "23 × 2 = 46",
+      "529 ÷ 2 = 264.5"
     ],
     "correct": 1,
-    "explanation": "No perfect square ends in 8, as checking the squares of final digits 0–9 shows.\nHint: Use the possible final digits of squares.",
+    "explanation": "Squaring the proposed root verifies it directly.\nHint: Use the inverse operation.",
     "structuredExplanation": {
-      "summary": "No perfect square ends in 8, as checking the squares of final digits 0–9 shows.",
-      "hint": "Use the possible final digits of squares."
+      "summary": "Squaring the proposed root verifies it directly.",
+      "hint": "Use the inverse operation."
     },
     "qualitySchema": "production-v2"
   },
@@ -200,26 +193,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-008",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "patterns in perfect squares",
+    "skill": "consecutive squares",
     "elaborations": [
-      "E4"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 2,
     "printable": true,
     "type": "single",
-    "question": "A sequence begins 9, 16, 25, 36. Which evidence best shows it is a square-number sequence?",
-    "audioPrompt": "A sequence begins 9, 16, 25, 36. Which evidence best shows it is a square-number sequence?",
+    "question": "Which perfect square lies strictly between 15² and 17²?",
+    "audioPrompt": "Which perfect square lies strictly between 15² and 17²?",
     "answers": [
-      "Terms increase",
-      "First differences are 7, 9, 11 and the second difference is 2",
-      "Every term is odd",
-      "The ratio is constant"
+      "256",
+      "240",
+      "272",
+      "289"
     ],
-    "correct": 1,
-    "explanation": "The terms are consecutive squares; their odd first differences rise by 2, producing constant second difference 2.\nHint: Compare differences, not ratios.",
+    "correct": 0,
+    "explanation": "16² = 256 is the only whole-number square between 15² and 17².\nHint: The only whole-number base between 15 and 17 is 16.",
     "structuredExplanation": {
-      "summary": "The terms are consecutive squares; their odd first differences rise by 2, producing constant second difference 2.",
-      "hint": "Compare differences, not ratios."
+      "summary": "16² = 256 is the only whole-number square between 15² and 17².",
+      "hint": "The only whole-number base between 15 and 17 is 16."
     },
     "qualitySchema": "production-v2"
   },
@@ -227,26 +220,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-009",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "square area, side and perimeter",
+    "skill": "multi-step square context",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 3,
     "printable": true,
     "type": "single",
-    "question": "A square tiled floor has perimeter 68 tile lengths. How many tiles cover it?",
-    "audioPrompt": "A square tiled floor has perimeter 68 tile lengths. How many tiles cover it?",
+    "question": "A square field has area 625 m². Fencing is needed around three sides. How much fencing is required?",
+    "audioPrompt": "A square field has area 625 m². Fencing is needed around three sides. How much fencing is required?",
     "answers": [
-      "17",
-      "34",
-      "136",
-      "289"
+      "25 m",
+      "100 m",
+      "1875 m",
+      "75 m"
     ],
     "correct": 3,
-    "explanation": "The side is 68 ÷ 4 = 17 tiles, so the area is 17² = 289 tiles.\nHint: Reverse perimeter to side, then square.",
+    "explanation": "√625 = 25 m per side; three sides need 75 m.\nHint: Find the side first.",
     "structuredExplanation": {
-      "summary": "The side is 68 ÷ 4 = 17 tiles, so the area is 17² = 289 tiles.",
-      "hint": "Reverse perimeter to side, then square."
+      "summary": "√625 = 25 m per side; three sides need 75 m.",
+      "hint": "Find the side first."
     },
     "qualitySchema": "production-v2"
   },
@@ -254,26 +247,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-010",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "square area, side and perimeter",
+    "skill": "reverse perimeter",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 3,
     "printable": true,
     "type": "single",
-    "question": "A square lawn has area 324 m². A 1 m-wide path is built inside along every edge. What area remains as lawn?",
-    "audioPrompt": "A square lawn has area 324 m². A 1 m-wide path is built inside along every edge. What area remains as lawn?",
+    "question": "A square perimeter is 72 cm. What is its area?",
+    "audioPrompt": "A square perimeter is 72 cm. What is its area?",
     "answers": [
-      "256 m²",
-      "288 m²",
-      "289 m²",
-      "322 m²"
+      "144 cm²",
+      "5184 cm²",
+      "324 cm²",
+      "18 cm²"
     ],
-    "correct": 0,
-    "explanation": "The original side is √324 = 18 m. Removing 1 m from both ends of each dimension leaves a 16 m square, with area 256 m².\nHint: The inner side is 18 − 2.",
+    "correct": 2,
+    "explanation": "Side = 72÷4 = 18 cm, so area = 18² = 324 cm².\nHint: Perimeter → side → square.",
     "structuredExplanation": {
-      "summary": "The original side is √324 = 18 m. Removing 1 m from both ends of each dimension leaves a 16 m square, with area 256 m².",
-      "hint": "The inner side is 18 − 2."
+      "summary": "Side = 72÷4 = 18 cm, so area = 18² = 324 cm².",
+      "hint": "Perimeter → side → square."
     },
     "qualitySchema": "production-v2"
   },
@@ -281,26 +274,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-011",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "two-digit squares with area models",
+    "skill": "misconception diagnosis",
     "elaborations": [
-      "E2"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 3,
     "printable": true,
     "type": "single",
-    "question": "Which expression is equal to 31² and shows why?",
-    "audioPrompt": "Which expression is equal to 31² and shows why?",
+    "question": "A student writes √225 = ±15. Which statement is most precise?",
+    "audioPrompt": "A student writes √225 = ±15. Which statement is most precise?",
     "answers": [
-      "30² + 1",
-      "30² + 30 + 1",
-      "30² + 2 × 30 + 1",
-      "31 × 2"
+      "225 has no negative square root relationship",
+      "√225 = 15; the equation x²=225 has solutions ±15",
+      "√225 = −15 only",
+      "The student is fully correct because every radical has two values"
     ],
-    "correct": 2,
-    "explanation": "(30 + 1)² contains two 30-by-1 strips and one 1-by-1 square.\nHint: Use the area model.",
+    "correct": 1,
+    "explanation": "The radical symbol denotes the principal non-negative root.\nHint: Distinguish evaluating √225 from solving x²=225.",
     "structuredExplanation": {
-      "summary": "(30 + 1)² contains two 30-by-1 strips and one 1-by-1 square.",
-      "hint": "Use the area model."
+      "summary": "The radical symbol denotes the principal non-negative root.",
+      "hint": "Distinguish evaluating √225 from solving x²=225."
     },
     "qualitySchema": "production-v2"
   },
@@ -308,26 +301,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-012",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "square area, side and perimeter",
+    "skill": "benchmark reasoning",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "difficulty": 4,
+    "difficulty": 3,
     "printable": true,
     "type": "single",
-    "question": "A square photograph is enlarged so each side is three times as long. How does its area change?",
-    "audioPrompt": "A square photograph is enlarged so each side is three times as long. How does its area change?",
+    "question": "A whole number n satisfies n² = 961. What is n?",
+    "audioPrompt": "A whole number n satisfies n² = 961. What is n?",
     "answers": [
-      "It triples",
-      "It increases by 6",
-      "It becomes 9 times as large",
-      "It becomes 12 times as large"
+      "31",
+      "29",
+      "30",
+      "32"
     ],
-    "correct": 2,
-    "explanation": "Area depends on side², so multiplying each side by 3 multiplies area by 3² = 9.\nHint: Square the scale factor.",
+    "correct": 0,
+    "explanation": "31² = 961.\nHint: Use nearby benchmarks: 30²=900.",
     "structuredExplanation": {
-      "summary": "Area depends on side², so multiplying each side by 3 multiplies area by 3² = 9.",
-      "hint": "Square the scale factor."
+      "summary": "31² = 961.",
+      "hint": "Use nearby benchmarks: 30²=900."
     },
     "qualitySchema": "production-v2"
   },
@@ -335,26 +328,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-013",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "square meaning and notation",
+    "skill": "multi-step area",
     "elaborations": [
       "E1"
     ],
-    "difficulty": 3,
+    "difficulty": 4,
     "printable": true,
     "type": "single",
-    "question": "Which list contains only perfect squares?",
-    "audioPrompt": "Which list contains only perfect squares?",
+    "question": "A square sign has area 400 cm². A frame adds 5 cm to each side length of the sign. What is the area enclosed by the outer edge of the frame?",
+    "audioPrompt": "A square sign has area 400 cm². A frame adds 5 cm to each side length of the sign. What is the area enclosed by the outer edge of the frame?",
     "answers": [
-      "36, 49, 64, 81",
-      "25, 45, 65, 85",
-      "16, 32, 48, 64",
-      "1, 9, 27, 81"
+      "405 cm²",
+      "500 cm²",
+      "900 cm²",
+      "625 cm²"
     ],
-    "correct": 0,
-    "explanation": "36 = 6², 49 = 7², 64 = 8² and 81 = 9².\nHint: Verify every entry.",
+    "correct": 3,
+    "explanation": "Sign side = √400=20 cm; outer side =25 cm; area=25²=625 cm².\nHint: Recover the side, change it, then square.",
     "structuredExplanation": {
-      "summary": "36 = 6², 49 = 7², 64 = 8² and 81 = 9².",
-      "hint": "Verify every entry."
+      "summary": "Sign side = √400=20 cm; outer side =25 cm; area=25²=625 cm².",
+      "hint": "Recover the side, change it, then square."
     },
     "qualitySchema": "production-v2"
   },
@@ -362,26 +355,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-014",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "bounding square roots",
+    "skill": "area scaling",
     "elaborations": [
-      "E3"
+      "E1"
     ],
     "difficulty": 4,
     "printable": true,
     "type": "single",
-    "question": "A square storage area must cover at least 200 m² using a whole-number side. What is the shortest possible side?",
-    "audioPrompt": "A square storage area must cover at least 200 m² using a whole-number side. What is the shortest possible side?",
+    "question": "Square B has 16 times the area of Square A. If Square A has side 7 cm, what is Square B’s side length?",
+    "audioPrompt": "Square B has 16 times the area of Square A. If Square A has side 7 cm, what is Square B’s side length?",
     "answers": [
-      "14 m",
-      "15 m",
-      "16 m",
-      "20 m"
+      "56 cm",
+      "112 cm",
+      "28 cm",
+      "14 cm"
     ],
-    "correct": 1,
-    "explanation": "14² = 196 is too small, while 15² = 225 meets the requirement.\nHint: Test consecutive whole-number sides around √200.",
+    "correct": 2,
+    "explanation": "An area scale factor of 16 corresponds to a side scale factor of √16=4; 7×4=28.\nHint: Take the square root of the area scale factor.",
     "structuredExplanation": {
-      "summary": "14² = 196 is too small, while 15² = 225 meets the requirement.",
-      "hint": "Test consecutive whole-number sides around √200."
+      "summary": "An area scale factor of 16 corresponds to a side scale factor of √16=4; 7×4=28.",
+      "hint": "Take the square root of the area scale factor."
     },
     "qualitySchema": "production-v2"
   },
@@ -389,26 +382,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-015",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "patterns in perfect squares",
+    "skill": "grid transformation",
     "elaborations": [
-      "E4"
+      "E1"
     ],
     "difficulty": 4,
     "printable": true,
     "type": "single",
-    "question": "A student claims every number ending in 5 is a perfect square. Which counterexample disproves the claim?",
-    "audioPrompt": "A student claims every number ending in 5 is a perfect square. Which counterexample disproves the claim?",
+    "question": "A 36×36 square grid loses its outermost one-cell border. How many cells remain?",
+    "audioPrompt": "A 36×36 square grid loses its outermost one-cell border. How many cells remain?",
     "answers": [
-      "5",
-      "15",
-      "25",
-      "225"
+      "1369",
+      "1156",
+      "1224",
+      "1294"
     ],
     "correct": 1,
-    "explanation": "15 ends in 5 but is not a perfect square.\nHint: One valid counterexample disproves an always claim.",
+    "explanation": "Removing one cell from each edge reduces the side by 2: 34×34=1156.\nHint: Track the new side length.",
     "structuredExplanation": {
-      "summary": "15 ends in 5 but is not a perfect square.",
-      "hint": "One valid counterexample disproves an always claim."
+      "summary": "Removing one cell from each edge reduces the side by 2: 34×34=1156.",
+      "hint": "Track the new side length."
     },
     "qualitySchema": "production-v2"
   },
@@ -416,26 +409,26 @@ window.skillrTestQuestions = [
     "id": "ac9m7n01-t-016",
     "curriculumCode": "AC9M7N01",
     "bank": "test",
-    "skill": "square area, side and perimeter",
+    "skill": "reasoning interval",
     "elaborations": [
-      "E5"
+      "E1"
     ],
-    "difficulty": 5,
+    "difficulty": 4,
     "printable": true,
     "type": "single",
-    "question": "A square has area 400 cm². Its side is reduced by 10%, then reduced by another 2 cm. What is the new area?",
-    "audioPrompt": "A square has area 400 cm². Its side is reduced by 10%, then reduced by another 2 cm. What is the new area?",
+    "question": "A perfect-square area is greater than 1000 but less than 1050. What is the side length of the square?",
+    "audioPrompt": "A perfect-square area is greater than 1000 but less than 1050. What is the side length of the square?",
     "answers": [
-      "256 cm²",
-      "289 cm²",
-      "324 cm²",
-      "361 cm²"
+      "32",
+      "31",
+      "33",
+      "34"
     ],
     "correct": 0,
-    "explanation": "The original side is 20 cm. Reducing by 10% gives 18 cm, then by 2 cm gives 16 cm; 16² = 256 cm².\nHint: Apply each side-length change before squaring.",
+    "explanation": "31²=961, 32²=1024 and 33²=1089, so only 32 fits.\nHint: Bracket the interval with consecutive squares.",
     "structuredExplanation": {
-      "summary": "The original side is 20 cm. Reducing by 10% gives 18 cm, then by 2 cm gives 16 cm; 16² = 256 cm².",
-      "hint": "Apply each side-length change before squaring."
+      "summary": "31²=961, 32²=1024 and 33²=1089, so only 32 fits.",
+      "hint": "Bracket the interval with consecutive squares."
     },
     "qualitySchema": "production-v2"
   }
