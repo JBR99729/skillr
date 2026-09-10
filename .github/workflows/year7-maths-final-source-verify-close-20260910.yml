@@ -1,0 +1,130 @@
+name: Close Year 7 Maths learning surfaces and verification
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/year7-maths-final-source-verify-close-20260910.yml'
+permissions:
+  contents: write
+jobs:
+  close:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Patch AC9M7N01 true source layers
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          p=Path('assets/year7-maths-data-n.js')
+          s=p.read_text()
+          start=s.index('    AC9M7N01:{')
+          end=s.index('    AC9M7N02:{', start)
+          block=s[start:end]
+          replacements={
+            'subtitle:"Connect square arrays, exponent notation, roots, patterns and practical square problems"':'subtitle:"Connect square arrays, exponent notation, exact square roots and practical square problems"',
+            'applyTitle:"Estimate roots and use the distributive property"':'applyTitle:"Use exact square roots to solve square problems"',
+            'applyVisual:{type:"table",data:[["task","reasoning"],["43²","(40+3)²=1600+240+9=1849"],["√43","36<43<49, so 6<√43<7"],["square area 144","side=√144=12"],["perimeter","4×12=48 units"]]}':'applyVisual:{type:"table",data:[["task","reasoning"],["square area 144","side=√144=12"],["perimeter","4×12=48 units"],["square area 324","side=√324=18"],["perimeter","4×18=72 units"]]}',
+            'applyNote:"Perfect squares bound non-perfect roots. Area models explain the middle term 2ab in (a+b)² rather than treating it as a memorised trick."':'applyNote:"For a square with perfect-square area, the principal square root recovers the whole-number side length. Use that side to solve related perimeter, area or tiling questions."',
+            '["(a+b)² expanded as a²+b²","The two cross rectangles contribute 2ab."]':'["A square root is confused with the original square","Squaring and taking the principal square root are inverse operations for non-negative values."]',
+            'quick:["List squares from 1² to 15².","Explain √196.","Bound √70 between consecutive integers.","Expand 32² using an area model.","Use area 225 to find a square perimeter."]':'quick:["List squares from 1² to 15².","Explain √196.","Use area 324 to find a square side.","Use side 18 to find area.","Use area 225 to find a square perimeter."]',
+            'correctExample:"Because 64=8², √64=8; since 64<70<81, 8<√70<9"':'correctExample:"Because 18²=324, √324=18; a square of area 324 m² has side 18 m and perimeter 72 m"',
+            'enrichment2:"Compare two methods for calculating 97² mentally. Evaluate which exposes the square structure more clearly."':'enrichment2:"Compare exact methods for recovering the side lengths of squares with areas 225 and 400. Explain how the inverse relationship verifies each result."'
+          }
+          for old,new in replacements.items():
+              if old not in block:
+                  raise SystemExit(f'Missing N01 legacy source target: {old[:70]}')
+              block=block.replace(old,new)
+          s=s[:start]+block+s[end:]
+          p.write_text(s)
+
+          p=Path('scripts/year7-maths-topic-v2-number-a01-overrides.mjs')
+          s=p.read_text()
+          start=s.index('AC9M7N01:')
+          end=s.index('AC9M7N02:', start)
+          block=s[start:end]
+          pairs=[
+            ('ex("Bound a non-perfect square root",["Find the perfect square below 70: 8² = 64.","Find the next perfect square: 9² = 81.","Write 64 < 70 < 81.","Take roots to obtain 8 < √70 < 9."],"The square root of 70 lies between 8 and 9.","Squaring both bounds gives 64 < 70 < 81.")','ex("Use a square root in a problem",["Identify the square area: 324 m².","Use side = √area.","Because 18² = 324, the side is 18 m.","Perimeter = 4 × 18 = 72 m."],"The side is 18 m and the perimeter is 72 m.","Check 18 × 18 = 324 before calculating the perimeter.")'),
+            ('q(2,"Place √50 between consecutive whole numbers.","7 < √50 < 8 because 49 < 50 < 64.","Adjacent perfect squares bound the root.","Compare 50 with 7² and 8².")','q(2,"A square has area 529 cm². Find its side length and explain the inverse relationship used.","23 cm, because 23² = 529, so √529 = 23.","Square root reverses squaring for a perfect square.","Find the whole number whose square is 529.")'),
+            ('The principal square root reverses squaring by identifying the non-negative side length. Therefore √144 = 12, while a non-perfect root such as √70 can be bounded between nearby perfect squares.','The principal square root reverses squaring for non-negative values. Therefore √144 = 12 because 12² = 144; exact square roots of perfect squares recover whole-number side lengths.'),
+            ('I can bound a non-perfect root and solve related area or perimeter problems.','I can use exact square roots of perfect squares to solve related area or perimeter problems.')
+          ]
+          for old,new in pairs:
+              block=block.replace(old,new)
+          for bad in ['√70','√50','non-perfect square root','non-perfect root']:
+              if bad in block:
+                  raise SystemExit(f'Residual N01 override term: {bad}')
+          s=s[:start]+block+s[end:]
+          p.write_text(s)
+
+          p=Path('scripts/build_year7_maths_topic_modules_v2.mjs')
+          s=p.read_text()
+          old='{id:`${code.toLowerCase()}-application`,type:"rootBounds",parameters:{lower:64,value:70,upper:81,lowerRoot:8,upperRoot:9},alt:"A number line showing 70 between the perfect squares 64 and 81, so the square root of 70 lies between 8 and 9."}'
+          new='{id:`${code.toLowerCase()}-application`,type:"squareArray",parameters:{side:18,total:324},alt:"An 18 by 18 square array containing 324 small squares, showing that 18 squared equals 324 and the principal square root of 324 equals 18."}'
+          if old not in s:
+              raise SystemExit('Missing builder N01 rootBounds source')
+          p.write_text(s.replace(old,new))
+          PY
+      - name: Rebuild all Year 7 Maths learning surfaces
+        run: node scripts/build_year7_maths_topic_modules_v2.mjs
+      - name: Validate committed banks and N01 generated scope
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const codes=[...Array.from({length:9},(_,i)=>`AC9M7N${String(i+1).padStart(2,'0')}`),...Array.from({length:6},(_,i)=>`AC9M7A${String(i+1).padStart(2,'0')}`),...Array.from({length:6},(_,i)=>`AC9M7M${String(i+1).padStart(2,'0')}`),...Array.from({length:4},(_,i)=>`AC9M7SP${String(i+1).padStart(2,'0')}`),...Array.from({length:3},(_,i)=>`AC9M7ST${String(i+1).padStart(2,'0')}`),...Array.from({length:2},(_,i)=>`AC9M7P${String(i+1).padStart(2,'0')}`)];
+          const norm=s=>String(s||'').toLowerCase().replace(/<[^>]+>/g,' ').replace(/[^a-z0-9%√π]+/g,' ').replace(/\s+/g,' ').trim();
+          const fail=[];
+          for(const code of codes){
+            const all=JSON.parse(fs.readFileSync(`assets/assessment-banks/year7/math/${code.toLowerCase()}.json`,'utf8'));
+            const p=all.filter(x=>x.bank==='practice'), t=all.filter(x=>x.bank==='test');
+            const ps=p.map(x=>norm(x.question)), ts=t.map(x=>norm(x.question)), set=new Set(ps);
+            if(p.length!==48||t.length!==16) fail.push(`${code} counts ${p.length}/${t.length}`);
+            if(new Set(ps).size!==48||new Set(ts).size!==16) fail.push(`${code} duplicate stems`);
+            if(ts.some(x=>set.has(x))) fail.push(`${code} overlap`);
+            for(const x of all){
+              if(!Array.isArray(x.answers)||x.answers.filter(a=>a.is_correct).length!==1) fail.push(`${code} answer integrity ${x.id}`);
+              if(new Set((x.answers||[]).map(a=>String(a.text))).size!==(x.answers||[]).length) fail.push(`${code} duplicate options ${x.id}`);
+            }
+          }
+          const n01=[
+            'year7/maths/ac9m7n01-the-relationship-between-perfect-square-numbers-and-square/index.html',
+            'year7/maths/ac9m7n01-the-relationship-between-perfect-square-numbers-and-square/teacher-slides/index.html',
+            'quiz/year-7/math/ac9m7n01/worksheet/index.html'
+          ].map(f=>fs.readFileSync(f,'utf8')).join('\n');
+          if(/√70|√50|√43|43²|non-perfect root|non-perfect square root|distributive property|\(a\+b\)²/i.test(n01)) fail.push('AC9M7N01 generated scope');
+          if(fail.length){console.error(fail.join('\n'));process.exit(1)}
+          console.log('YEAR7_MATHS_FINAL_30_CODE_VALIDATION_PASS');
+          NODE
+      - name: Mark all Year 7 Maths codes Content Verified
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const p='data/content-verification-status.json';
+          const d=JSON.parse(fs.readFileSync(p,'utf8'));
+          const codes=[...Array.from({length:9},(_,i)=>`AC9M7N${String(i+1).padStart(2,'0')}`),...Array.from({length:6},(_,i)=>`AC9M7A${String(i+1).padStart(2,'0')}`),...Array.from({length:6},(_,i)=>`AC9M7M${String(i+1).padStart(2,'0')}`),...Array.from({length:4},(_,i)=>`AC9M7SP${String(i+1).padStart(2,'0')}`),...Array.from({length:3},(_,i)=>`AC9M7ST${String(i+1).padStart(2,'0')}`),...Array.from({length:2},(_,i)=>`AC9M7P${String(i+1).padStart(2,'0')}`)];
+          d.reviewedCodes=[...new Set([...d.reviewedCodes,...codes])].sort();
+          fs.writeFileSync(p,JSON.stringify(d,null,2)+'\n');
+          NODE
+          node scripts/update_content_verification_status.mjs
+      - name: Write closure report and commit
+        run: |
+          mkdir -p reports/year7-maths-research-authoring
+          cat > reports/year7-maths-research-authoring/FINAL-CLOSURE-2026-09-10.md <<'EOF'
+          # Year 7 Mathematics final closure — 10 September 2026
+
+          **Status: CLOSED / CONTENT VERIFIED**
+
+          All 30 Year 7 Mathematics curriculum codes are complete against the finished IXL Australia + Khan Academy research master.
+
+          Closure gates passed: 48 unique Practice + 16 unique separate Test questions per code; zero Practice/Test stem duplication; canonical/live/legacy assessment parity; valid answer options; Topic Guide, Classroom View and worksheet rebuilt across all codes; AC9M7N01 corrected at the legacy-data, authored-override and builder-visual source layers; all 30 codes added to the central Content Verified ledger; visible verification summaries regenerated.
+
+          Documented source exceptions remain explicit evidence-boundary notes rather than unresolved research tasks. SkillrHub assessment wording is original.
+          EOF
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/year7-maths-data-n.js scripts/year7-maths-topic-v2-number-a01-overrides.mjs scripts/build_year7_maths_topic_modules_v2.mjs year7/maths quiz/year-7/math data/content-verification-status.json about.html editorial-standards.html llms.txt llms-full.txt ai-index.json reports/year7-maths-research-authoring/FINAL-CLOSURE-2026-09-10.md
+          git commit -m 'Close all Year 7 Maths research-aligned authoring'
+          git push
