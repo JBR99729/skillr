@@ -2,9 +2,9 @@
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9E6LA04
-LAST_COMPLETED_CODE: AC9E6LA03
-NEXT_CODE: AC9E6LA05
+CURRENT_CODE: AC9E6LA05
+LAST_COMPLETED_CODE: AC9E6LA04
+NEXT_CODE: AC9E6LA06
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
@@ -36,13 +36,19 @@ CODE: AC9E6LA03
 DESCRIPTOR: Explain how texts across the curriculum are typically organised into characteristic stages and phases depending on purposes, recognising how authors often adapt text structures and language features.
 STATUS: AUTHORING-READY
 ==================================================
-1. Intent: explain why a purpose-led text uses particular stages, structures and language features; recognise adaptation rather than applying a rigid formula.
-2. Knowledge: purpose, audience, stage, phase, introduction, development, conclusion, sequence, cause/effect, compare/contrast, problem/solution, feature, cohesion.
-3. IXL mapping: formality/tone/purpose; compare/contrast; cause/effect; problem/solution; identify text structures; figure-of-speech effect; compare genres.
-4. Worked example checked: IXL “Identify text structures” uses an informational health passage. The explanation identifies cause/effect through relationship language and represents it in a cause/effect table. It contrasts the structural signals for cause/effect, compare/contrast, problem/solution and sequence.
-5. Misconceptions: identify one connective then ignore the whole-text relationship; assume every text fits one pure structure; confuse topic with purpose.
-6. Representations: annotated text, stage/phase flow, structure-signal table, two genre versions of one topic, paragraph reorder.
-7. Coverage: identify/justify structure; match purpose to stages; compare adapted structures; revise for clearer staging; use language evidence. 48 practice and 16 independent test items must include literary, informative and persuasive texts.
-8. Boundary: do not require a fixed five-paragraph formula or advanced discourse analysis.
-9. Sources: IXL Australia Year 6 v9 mapping and E.4 worked example; Khan supplementary reading course.
+Scope: purpose, audience, stage/phase, structure and language features. IXL evidence: purpose, formality/tone, compare/contrast, cause/effect, problem/solution, text structures, figure-of-speech effect and genre comparison. Worked example: an informational health text was classified cause/effect, with relationship language represented in a cause/effect table. Traps: one connective mistaken for the whole-text relationship; rigid one-structure assumption; topic confused with purpose. Build annotated text, stage flow, comparison and revision tasks; 48 practice/16 separate test. Boundary: no fixed five-paragraph formula.
+
+==================================================
+CODE: AC9E6LA04
+DESCRIPTOR: Understand that cohesion can be created by the intentional use of repetition, and the use of word associations.
+STATUS: AUTHORING-READY
+==================================================
+1. Intent: explain how repeated key terms, synonyms, pronouns and associated-word fields guide a reader through a text.
+2. Knowledge: cohesion, repetition, lexical chain, synonym, antonym, association, reference, topic, paragraph link.
+3. IXL mapping: Choose synonym, Find synonyms in context, Choose antonym, Find antonyms in context. Worked evidence opened: Find synonyms in context explains that synonyms have the same or near-same meaning and requires a context-fit choice rather than isolated word matching.
+4. Misconceptions: repetition always makes writing poor; any two related words create cohesion; use of a synonym that changes the precise meaning.
+5. Representations: colour-coded lexical chains, paragraph-link map, word-field sort, revised cohesive/non-cohesive versions.
+6. Coverage: identify link words; trace chains; choose a context-accurate substitution; revise/reorder a paragraph; explain reader guidance. 48 practice/16 independent test.
+7. Boundary: do not require advanced systemic-functional terminology.
+8. Sources: IXL Australia Year 6 v9 mapping and R.2 interactive example; Khan supplementary only.
 RESEARCH STATUS: AUTHORING-READY
