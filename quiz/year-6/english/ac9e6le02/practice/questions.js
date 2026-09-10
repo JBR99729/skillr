@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "Use balanced evidence. Avoid writing one paragraph about each text with no direct comparison."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE02-P-041",
+    "curriculumCode": "AC9E6LE02",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "distinguish topic and theme",
+    "printable": true,
+    "type": "single",
+    "question": "Two stories are about journeys. Which statement is a theme rather than a topic?",
+    "audioPrompt": "Two stories are about journeys. Which statement is a theme rather than a topic?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Courage grows when people accept help.",
+      "Journeys",
+      "Two travellers",
+      "A mountain path"
+    ],
+    "correct": 0,
+    "explanation": "A theme is a complete idea the text develops, not a one-word subject.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "A theme is a complete idea the text develops, not a one-word subject.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE02-P-042",
+    "curriculumCode": "AC9E6LE02",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "compare same theme",
+    "printable": true,
+    "type": "single",
+    "question": "Both stories develop the idea that trust must be earned. What should a strong comparison explain?",
+    "audioPrompt": "Both stories develop the idea that trust must be earned. What should a strong comparison explain?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "How different characters and events develop that idea in each story",
+      "Which story has more words",
+      "Only the first story’s ending",
+      "Whether both use the word trust"
+    ],
+    "correct": 0,
+    "explanation": "Comparison requires evidence from both texts and attention to how each develops the shared theme.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Comparison requires evidence from both texts and attention to how each develops the shared theme.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE02-P-043",
+    "curriculumCode": "AC9E6LE02",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "compare plot structure",
+    "printable": true,
+    "type": "single",
+    "question": "Story A reveals the danger immediately; Story B reveals it near the climax. What is the key difference?",
+    "audioPrompt": "Story A reveals the danger immediately; Story B reveals it near the climax. What is the key difference?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The placement of the central threat in the plot",
+      "The topic of both stories",
+      "The number of letters in each title",
+      "The definition of danger"
+    ],
+    "correct": 0,
+    "explanation": "The stories differ in when the threat becomes clear, which changes suspense.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The stories differ in when the threat becomes clear, which changes suspense.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE02-P-044",
+    "curriculumCode": "AC9E6LE02",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "use parallel evidence",
+    "printable": true,
+    "type": "single",
+    "question": "Which comparison is strongest?",
+    "audioPrompt": "Which comparison is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "In A, Mara returns the map despite the risk; in B, Jun hides it, so the stories treat honesty differently.",
+      "A is good, but B is also a story.",
+      "Both have characters.",
+      "A has a map."
+    ],
+    "correct": 0,
+    "explanation": "It uses matched evidence from both texts and explains a meaningful difference.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "It uses matched evidence from both texts and explains a meaningful difference.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE02-P-045",
+    "curriculumCode": "AC9E6LE02",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "compare across genres",
+    "printable": true,
+    "type": "single",
+    "question": "A poem and a short story both explore belonging. What can be compared?",
+    "audioPrompt": "A poem and a short story both explore belonging. What can be compared?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "How imagery, voice and events develop the shared idea",
+      "Whether a poem must have a villain",
+      "Only their line counts",
+      "Whether both use identical structures"
+    ],
+    "correct": 0,
+    "explanation": "Cross-genre comparison focuses on how each form uses different resources to develop meaning.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Cross-genre comparison focuses on how each form uses different resources to develop meaning.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE02-P-046",
+    "curriculumCode": "AC9E6LE02",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "infer theme from outcome",
+    "printable": true,
+    "type": "single",
+    "question": "A character repeatedly refuses help, fails alone, then succeeds after cooperating. Which theme is best supported?",
+    "audioPrompt": "A character repeatedly refuses help, fails alone, then succeeds after cooperating. Which theme is best supported?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Collaboration can make difficult goals achievable.",
+      "Winning always requires luck.",
+      "People should avoid challenges.",
+      "Help is a sign of weakness."
+    ],
+    "correct": 0,
+    "explanation": "The repeated contrast between isolation and cooperation supports the theme about collaboration.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The repeated contrast between isolation and cooperation supports the theme about collaboration.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE02-P-047",
+    "curriculumCode": "AC9E6LE02",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "avoid false similarity",
+    "printable": true,
+    "type": "single",
+    "question": "Two texts include storms, but one treats the storm as danger and the other as renewal. What is the best judgement?",
+    "audioPrompt": "Two texts include storms, but one treats the storm as danger and the other as renewal. What is the best judgement?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "They share a topic but develop different meanings.",
+      "They must have the same theme.",
+      "Their plots are identical.",
+      "The weather detail is irrelevant."
+    ],
+    "correct": 0,
+    "explanation": "A shared subject does not guarantee a shared theme or treatment.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "A shared subject does not guarantee a shared theme or treatment.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE02-P-048",
+    "curriculumCode": "AC9E6LE02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "write comparative claim",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence provides a useful comparative claim?",
+    "audioPrompt": "Which sentence provides a useful comparative claim?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Both texts value persistence, but one presents it as private endurance and the other as collective action.",
+      "Text A is interesting and Text B is long.",
+      "There are similarities and differences.",
+      "I liked both texts a lot."
+    ],
+    "correct": 0,
+    "explanation": "The claim names a shared theme and a precise difference that can be supported with parallel evidence.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The claim names a shared theme and a precise difference that can be supported with parallel evidence.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
