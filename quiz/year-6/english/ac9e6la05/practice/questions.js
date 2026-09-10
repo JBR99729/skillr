@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "Comma choices can change meaning. Ensure the embedded clause has a clear head noun and does not create a fragment."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-041",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "identify embedded clause",
+    "printable": true,
+    "type": "single",
+    "question": "Which words form the embedded clause in “The drone that surveyed the reef transmitted clear images”?",
+    "audioPrompt": "Which words form the embedded clause in “The drone that surveyed the reef transmitted clear images”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "that surveyed the reef",
+      "The drone",
+      "transmitted clear images",
+      "the reef transmitted"
+    ],
+    "correct": 0,
+    "explanation": "The relative clause “that surveyed the reef” is embedded in the noun group and elaborates “drone”.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The relative clause “that surveyed the reef” is embedded in the noun group and elaborates “drone”.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-042",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "combine with relative clause",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence combines the ideas clearly: “Mira designed the shelter. The shelter collects rainwater”?",
+    "audioPrompt": "Which sentence combines the ideas clearly: “Mira designed the shelter. The shelter collects rainwater”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Mira designed the shelter that collects rainwater.",
+      "Mira designed that the shelter collects rainwater.",
+      "Collects rainwater Mira designed the shelter.",
+      "Mira, and the shelter, because rainwater."
+    ],
+    "correct": 0,
+    "explanation": "The embedded relative clause adds information about the shelter within one clear noun group.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The embedded relative clause adds information about the shelter within one clear noun group.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-043",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "distinguish embedding",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence contains a dependent clause embedded inside a noun group?",
+    "audioPrompt": "Which sentence contains a dependent clause embedded inside a noun group?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The scientist who led the survey presented the results.",
+      "Although the survey ended, the scientist stayed.",
+      "The scientist presented the results and answered questions.",
+      "During the survey, the scientist took notes."
+    ],
+    "correct": 0,
+    "explanation": "“Who led the survey” sits inside the noun group headed by “scientist”.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "“Who led the survey” sits inside the noun group headed by “scientist”.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-044",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "clarify reference",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision removes ambiguity from “Leo thanked Arun after he finished the model” if Arun finished it?",
+    "audioPrompt": "Which revision removes ambiguity from “Leo thanked Arun after he finished the model” if Arun finished it?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Leo thanked Arun after Arun finished the model.",
+      "After he finished, Leo thanked Arun.",
+      "Leo thanked him after he finished it.",
+      "Finishing the model, he was thanked."
+    ],
+    "correct": 0,
+    "explanation": "Repeating Arun’s name makes the embedded timing information attach to the intended person.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "Repeating Arun’s name makes the embedded timing information attach to the intended person.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-045",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "choose restrictive meaning",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence means that only the batteries stored in the cabinet were checked?",
+    "audioPrompt": "Which sentence means that only the batteries stored in the cabinet were checked?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The batteries that were stored in the cabinet were checked.",
+      "The batteries, which were stored in the cabinet, were checked.",
+      "The batteries were checked, which were stored.",
+      "Stored in the cabinet, the checking batteries."
+    ],
+    "correct": 0,
+    "explanation": "The unpunctuated restrictive clause identifies which batteries were checked.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The unpunctuated restrictive clause identifies which batteries were checked.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-046",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "explain punctuation effect",
+    "printable": true,
+    "type": "single",
+    "question": "What do commas signal in “Our guide, who grew up nearby, knew every track”?",
+    "audioPrompt": "What do commas signal in “Our guide, who grew up nearby, knew every track”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The embedded information is additional, not essential for identifying the guide.",
+      "The guide is one of several people being restricted.",
+      "The words are direct speech.",
+      "The sentence contains no clause."
+    ],
+    "correct": 0,
+    "explanation": "The commas mark a non-restrictive relative clause adding supplementary information.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The commas mark a non-restrictive relative clause adding supplementary information.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-047",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "reduce an embedded clause",
+    "printable": true,
+    "type": "single",
+    "question": "Which concise revision preserves the meaning of “The samples that were collected yesterday are frozen”?",
+    "audioPrompt": "Which concise revision preserves the meaning of “The samples that were collected yesterday are frozen”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The samples collected yesterday are frozen.",
+      "The samples yesterday collecting are frozen.",
+      "Yesterday are the samples frozen collecting.",
+      "The samples are frozen because yesterday."
+    ],
+    "correct": 0,
+    "explanation": "The reduced non-finite clause “collected yesterday” still elaborates “samples” clearly.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The reduced non-finite clause “collected yesterday” still elaborates “samples” clearly.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA05-P-048",
+    "curriculumCode": "AC9E6LA05",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "avoid overload",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision best improves a sentence containing four confusing embedded clauses?",
+    "audioPrompt": "Which revision best improves a sentence containing four confusing embedded clauses?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Keep the most useful embedded detail and move the others into a new sentence.",
+      "Add two more clauses to sound advanced.",
+      "Remove every verb.",
+      "Join all clauses with and."
+    ],
+    "correct": 0,
+    "explanation": "Embedding should clarify and elaborate; separating excess information improves reference and readability.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "Embedding should clarify and elaborate; separating excess information improves reference and readability.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
