@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "Do not label dialects or community varieties as deficient. Evaluate suitability for the specific purpose and relationship."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-P-041",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "compare authority cues",
+    "printable": true,
+    "type": "single",
+    "question": "A student council chair says, “We need everyone’s ideas before we decide.” What does this language construct?",
+    "audioPrompt": "A student council chair says, “We need everyone’s ideas before we decide.” What does this language construct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Collaborative authority",
+      "Greater social distance",
+      "Unquestionable command",
+      "Casual indifference"
+    ],
+    "correct": 0,
+    "explanation": "The inclusive pronoun “we” and invitation for ideas construct collaborative authority.\nHint: Judge the language by its audience, purpose, relationship and effect—not by formality alone.",
+    "structuredExplanation": {
+      "summary": "The inclusive pronoun “we” and invitation for ideas construct collaborative authority.",
+      "hint": "Judge the language by its audience, purpose, relationship and effect—not by formality alone."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-P-042",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "identify social distance",
+    "printable": true,
+    "type": "single",
+    "question": "Which reply most clearly reduces social distance while remaining respectful?",
+    "audioPrompt": "Which reply most clearly reduces social distance while remaining respectful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Thanks, Mia—your suggestion really helped our group.",
+      "Your submission has been formally acknowledged.",
+      "Compliance is required immediately.",
+      "The aforementioned response is acceptable."
+    ],
+    "correct": 0,
+    "explanation": "Using the person’s name, direct thanks and shared-group reference creates respectful closeness.\nHint: Judge the language by its audience, purpose, relationship and effect—not by formality alone.",
+    "structuredExplanation": {
+      "summary": "Using the person’s name, direct thanks and shared-group reference creates respectful closeness.",
+      "hint": "Judge the language by its audience, purpose, relationship and effect—not by formality alone."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-P-043",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapt register",
+    "printable": true,
+    "type": "single",
+    "question": "A student must turn the casual message “Hey, can you fix this?” into a suitable request to the principal. Which revision is strongest?",
+    "audioPrompt": "A student must turn the casual message “Hey, can you fix this?” into a suitable request to the principal. Which revision is strongest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Could you please help us resolve this issue?",
+      "Fix this right now.",
+      "Hey Principal, sort it out.",
+      "This issue needs fixing, okay?"
+    ],
+    "correct": 0,
+    "explanation": "The revision uses a courteous modal request, clear wording and an appropriate level of formality.\nHint: Judge the language by its audience, purpose, relationship and effect—not by formality alone.",
+    "structuredExplanation": {
+      "summary": "The revision uses a courteous modal request, clear wording and an appropriate level of formality.",
+      "hint": "Judge the language by its audience, purpose, relationship and effect—not by formality alone."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-P-044",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "interpret resistance",
+    "printable": true,
+    "type": "single",
+    "question": "In a debate, a speaker says, “We should examine the evidence before accepting that instruction.” How is authority being negotiated?",
+    "audioPrompt": "In a debate, a speaker says, “We should examine the evidence before accepting that instruction.” How is authority being negotiated?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The speaker respectfully questions authority through evidence.",
+      "The speaker accepts the instruction without question.",
+      "The speaker creates intimacy through slang.",
+      "The speaker avoids expressing any position."
+    ],
+    "correct": 0,
+    "explanation": "The speaker challenges the instruction respectfully by making evidence the basis for agreement.\nHint: Judge the language by its audience, purpose, relationship and effect—not by formality alone.",
+    "structuredExplanation": {
+      "summary": "The speaker challenges the instruction respectfully by making evidence the basis for agreement.",
+      "hint": "Judge the language by its audience, purpose, relationship and effect—not by formality alone."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-P-045",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "evaluate audience fit",
+    "printable": true,
+    "type": "single",
+    "question": "Which opening best suits an information session for families new to the school?",
+    "audioPrompt": "Which opening best suits an information session for families new to the school?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Welcome. We will explain each step and answer your questions.",
+      "Attention: all entrants must comply with institutional protocols.",
+      "Hey mates, you know how everything works.",
+      "Obviously, this process needs no explanation."
+    ],
+    "correct": 0,
+    "explanation": "The welcoming, explicit wording respects an unfamiliar audience without creating unnecessary distance.\nHint: Judge the language by its audience, purpose, relationship and effect—not by formality alone.",
+    "structuredExplanation": {
+      "summary": "The welcoming, explicit wording respects an unfamiliar audience without creating unnecessary distance.",
+      "hint": "Judge the language by its audience, purpose, relationship and effect—not by formality alone."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-P-046",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "compare modality",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence gives firm guidance without sounding absolute?",
+    "audioPrompt": "Which sentence gives firm guidance without sounding absolute?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Students should check their sources before publishing.",
+      "Students might possibly look at sources someday.",
+      "Students must never question any source.",
+      "Check it, I guess."
+    ],
+    "correct": 0,
+    "explanation": "“Should” expresses clear expectation while allowing reasoned judgement, unlike weak uncertainty or absolute prohibition.\nHint: Judge the language by its audience, purpose, relationship and effect—not by formality alone.",
+    "structuredExplanation": {
+      "summary": "“Should” expresses clear expectation while allowing reasoned judgement, unlike weak uncertainty or absolute prohibition.",
+      "hint": "Judge the language by its audience, purpose, relationship and effect—not by formality alone."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-P-047",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "shift relationship",
+    "printable": true,
+    "type": "single",
+    "question": "A coach wants to sound more collaborative. Which revision best changes “You must follow my plan”?",
+    "audioPrompt": "A coach wants to sound more collaborative. Which revision best changes “You must follow my plan”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Let’s review the plan together and agree on our next step.",
+      "The plan is mandatory and not open to discussion.",
+      "Do what I told you.",
+      "One may wish to comply with the plan."
+    ],
+    "correct": 0,
+    "explanation": "Inclusive “let’s”, shared review and agreement shift authority towards collaboration.\nHint: Judge the language by its audience, purpose, relationship and effect—not by formality alone.",
+    "structuredExplanation": {
+      "summary": "Inclusive “let’s”, shared review and agreement shift authority towards collaboration.",
+      "hint": "Judge the language by its audience, purpose, relationship and effect—not by formality alone."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA01-P-048",
+    "curriculumCode": "AC9E6LA01",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "justify language choice",
+    "printable": true,
+    "type": "single",
+    "question": "Two notices give the same safety rule. Notice A says, “Stay behind the line, please.” Notice B says, “Patrons are required to remain behind the designated boundary.” Which judgement is best?",
+    "audioPrompt": "Two notices give the same safety rule. Notice A says, “Stay behind the line, please.” Notice B says, “Patrons are required to remain behind the designated boundary.” Which judgement is best?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A suits young visitors; B may suit a formal venue policy.",
+      "B is always better because it has longer words.",
+      "A is rude because it uses an imperative.",
+      "The notices create exactly the same relationship."
+    ],
+    "correct": 0,
+    "explanation": "Both can be appropriate: the clearer direct version suits young visitors, while the institutional wording creates greater formality and distance.\nHint: Judge the language by its audience, purpose, relationship and effect—not by formality alone.",
+    "structuredExplanation": {
+      "summary": "Both can be appropriate: the clearer direct version suits young visitors, while the institutional wording creates greater formality and distance.",
+      "hint": "Judge the language by its audience, purpose, relationship and effect—not by formality alone."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
