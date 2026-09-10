@@ -1,0 +1,84 @@
+name: Export all committed Year 6 and Year 7 Maths live questions 2026-09-10
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/export-year6-year7-maths-live-questions-20260910.yml']
+permissions:
+  contents: write
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Export all live committed Maths question banks
+        run: |
+          node <<'NODE'
+          const fs=require('fs'), path=require('path'), vm=require('vm');
+          const outdir='reports/question-exports'; fs.mkdirSync(outdir,{recursive:true});
+          const source=process.env.GITHUB_SHA||'unknown';
+          const norm=s=>String(s??'').replace(/\r?\n/g,' ').replace(/\s+/g,' ').trim();
+          function load(file,preferred){
+            const ctx={console}; ctx.window=ctx; vm.createContext(ctx);
+            vm.runInContext(fs.readFileSync(file,'utf8'),ctx,{filename:file,timeout:5000});
+            for(const key of preferred){ if(Array.isArray(ctx[key])) return ctx[key]; }
+            for(const value of Object.values(ctx)){ if(Array.isArray(value)&&value.length&&typeof value[0]==='object'&&('question' in value[0]||'prompt' in value[0])) return value; }
+            return [];
+          }
+          function exportYear(year){
+            const base=`quiz/year-${year}/math`;
+            const dirs=fs.readdirSync(base,{withFileTypes:true}).filter(d=>d.isDirectory()&&/^ac9m\d/i.test(d.name)).map(d=>d.name).sort();
+            let total=0, pc=0, tc=0; const summaries=[];
+            const lines=[
+              `SKILLRHUB YEAR ${year} MATHEMATICS — ALL COMMITTED LIVE QUESTIONS`,
+              '='.repeat(78),
+              'Source branch: main',
+              `Source commit: ${source}`,
+              `Production source: ${base}/<code>/practice/questions.js and test/questions.js`,
+              ''
+            ];
+            for(const codeLower of dirs){
+              const pfile=`${base}/${codeLower}/practice/questions.js`;
+              const tfile=`${base}/${codeLower}/test/questions.js`;
+              if(!fs.existsSync(pfile)||!fs.existsSync(tfile)) continue;
+              const P=load(pfile,['skillrPracticeQuestions','quizQuestions']);
+              const T=load(tfile,['skillrTestQuestions','skillrExamQuestions','quizQuestions']);
+              const code=(P[0]?.curriculum_code||T[0]?.curriculum_code||codeLower).toUpperCase();
+              summaries.push([code,P.length,T.length]); pc+=P.length; tc+=T.length; total+=P.length+T.length;
+              lines.push('',code,'-'.repeat(78),`Practice: ${P.length} | Test: ${T.length} | Total: ${P.length+T.length}`,'','PRACTICE','~'.repeat(78));
+              P.forEach((q,i)=>lines.push(`${String(i+1).padStart(2,'0')}. [${norm(q.id)}] [${norm(q.difficulty)}] ${norm(q.question??q.prompt)}`));
+              lines.push('','TEST','~'.repeat(78));
+              T.forEach((q,i)=>lines.push(`${String(i+1).padStart(2,'0')}. [${norm(q.id)}] [${norm(q.difficulty)}] ${norm(q.question??q.prompt)}`));
+            }
+            lines.splice(5,0,`Curriculum codes exported: ${summaries.length}`,`Practice questions: ${pc}`,`Test questions: ${tc}`,`Total questions: ${total}`,'');
+            const text=lines.join('\n').trimEnd()+'\n';
+            fs.writeFileSync(`${outdir}/year${year}-maths-all-questions-main.txt`,text);
+            return {text,summaries,pc,tc,total};
+          }
+          const y6=exportYear(6), y7=exportYear(7);
+          fs.writeFileSync(`${outdir}/year6-year7-maths-all-questions-main.txt`,y6.text+'\n\n'+y7.text);
+          const summary=[
+            'YEAR 6 + YEAR 7 MATHS — ALL COMMITTED LIVE QUESTIONS',
+            '='.repeat(78),
+            'Source branch: main',
+            `Source commit: ${source}`,'',
+            `Year 6: ${y6.summaries.length} codes | ${y6.pc} Practice | ${y6.tc} Test | ${y6.total} total`,
+            `Year 7: ${y7.summaries.length} codes | ${y7.pc} Practice | ${y7.tc} Test | ${y7.total} total`,
+            `Combined total: ${y6.total+y7.total} questions`,'','YEAR 6 CODE COUNTS',
+            ...y6.summaries.map(([c,p,t])=>`${c}: ${p} Practice + ${t} Test = ${p+t}`),'','YEAR 7 CODE COUNTS',
+            ...y7.summaries.map(([c,p,t])=>`${c}: ${p} Practice + ${t} Test = ${p+t}`)
+          ];
+          fs.writeFileSync(`${outdir}/year6-year7-maths-export-summary.txt`,summary.join('\n')+'\n');
+          console.log(`YEAR6 ${y6.summaries.length} codes ${y6.pc} practice ${y6.tc} test total ${y6.total}`);
+          console.log(`YEAR7 ${y7.summaries.length} codes ${y7.pc} practice ${y7.tc} test total ${y7.total}`);
+          console.log(`COMBINED ${y6.total+y7.total}`);
+          NODE
+      - name: Commit corrected live-bank exports
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports/question-exports/
+          git commit -m 'Export all committed Year 6 and Year 7 Maths live questions'
+          git push
