@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LY01
-NEXT_CODE: AC9E6LY02
+CURRENT_CODE: AC9E6LY02
+NEXT_CODE: AC9E6LY03
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -1380,3 +1380,93 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 The mapped personification pattern is verified and reused. NSW Stage 3 narrative guidance and the selected poetry sequence establish sufficient transformation, craft and editing depth.
+
+
+==================================================
+CODE: AC9E6LY01
+DESCRIPTOR: Examine texts including media texts that represent ideas and events, and identify how they reflect the context in which they were created.
+==================================================
+
+IXL MAPPINGS:
+IXL-MAPPED to 6-J.1 Compare illustrations of literary and historical subjects.
+
+IXL SKILLS INVESTIGATED:
+J.1 — IXL-INTERACTIVE-VERIFIED; “Learn with an example” explicitly opened and inspected.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+- Two artworks portray the same literary/historical subject; a short context statement supplies the interpretive focus.
+- The learner selects the image that foregrounds a specified idea/feeling using pose, expression, movement, clothing, objects and composition.
+- A live item contrasted a calm standing representation with a bent/kneeling grieving representation; the evidence-supported image was selected and submitted correctly.
+- Worked feedback describes observable evidence in both images and connects artistic choices to energy/movement rather than relying on preference.
+- The task uses labelled public-domain artworks and image alt text, two-choice selection and comparative explanation.
+
+IXL DIFFICULTY PROGRESSION:
+Observe details → infer represented feeling/idea → compare two depictions → connect differences to purpose/context → examine media production date, audience, institution and available conventions → evaluate omissions/stereotypes.
+
+IXL MISCONCEPTIONS/TRAPS:
+Description equals analysis; older images are neutral records; representation equals reality; one visual detail proves intent; personal preference is evidence; context means setting inside the image only; modern values can be applied without acknowledging historical context.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+Begin with colour/composition/details; compare the same subject to control content; link visible evidence to highlighted idea/feeling; explain the unselected image too; avoid unsupported claims about the creator.
+
+KHAN MAPPINGS:
+KHAN STATUS: NOT MAPPED / NOT MATERIAL. Art-history material can model observation but does not supply the Australian Year 6 media-context framework.
+
+KHAN EVIDENCE:
+No forced mapping.
+
+OTHER FREE SOURCES:
+- ABC Education, Teaching media literacy in the Australian Curriculum (Years 3–10).
+- ABC Education, This Day Tonight: Using visual language to represent status (archival 1967 media text).
+
+FREE-SOURCE EVIDENCE:
+- ABC presents the TRAILR media-literacy framework: technologies, representations, audiences, institutions, languages and relationships.
+- It recommends analysing how characters/people are constructed through media language rather than treating media as transparent reality.
+- The archival clip activity asks learners to compare audio/visual language across suburbs, connect clothing, speech, setting, background sound and shot choice to representations, and propose a stereotype-reducing alternative.
+- This supplies the essential context dimension absent from J.1: when/where, creator/institution, purpose, intended audience, technology/conventions and social assumptions.
+- Teaching pattern: source the text → observe choices → identify representation → connect to creation context → compare with another context → evaluate impact/omission.
+
+CURRICULUM REQUIREMENTS:
+Examine literary, informational and media texts; identify represented ideas/events/people/places; distinguish event from representation; identify creation context; explain how language, image, sound and selection reflect context; recognise stereotypes/omissions; support analysis with evidence.
+
+PREREQUISITES:
+Creator, audience, purpose, image detail, composition, tone, viewpoint, fact/opinion, inference, source/date, media text.
+
+NEW YEAR-6 DEPTH:
+Move from visual comparison to contextual explanation; analyse historical and contemporary media; consider institution/technology/audience; distinguish inference from creator-intent certainty; redesign representation responsibly.
+
+VOCABULARY:
+representation; context; historical; social; cultural; creator; institution; audience; purpose; medium; convention; composition; framing; portrayal; stereotype; omission; selection; archival; perspective; evidence.
+
+REPRESENTATIONS:
+Paired public-domain artworks; original news/video-storyboards; archival-versus-modern text pairs; source/context cards; TRAILR grid; shot/caption/audio tables; redesign tasks.
+
+COMMON MISCONCEPTIONS:
+Media simply records reality; context is background setting; all old texts endorse old attitudes; representation analysis attacks the creator; omitted material is irrelevant; one image feature has a universal meaning.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Representation versus reality; context categories; visual/audio/written choices; evidence-based claims; same-subject comparison; stereotypes and omission; archival/current media; TRAILR-style questioning.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Image comparison warm-up; source/context reveal; teacher think-aloud; media-feature stations; archival comparison; respectful stereotype discussion; redesign and exit explanation.
+
+REQUIRED WORKSHEET COVERAGE:
+Observe/infer/justify; compare depictions; identify source/audience/purpose/context; analyse media language; detect omission/stereotype; compare eras; redesign representation with rationale.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 observation/inference; 8 paired illustrations; 8 creator/audience/purpose; 8 historical/social/cultural context; 8 media-language representation; 6 omission/stereotype evaluation; 4 redesign explanations. Total 48 original items.
+
+16-TEST-BANK COVERAGE PLAN:
+3 visual evidence; 3 paired representation; 4 context explanation; 3 media-text analysis; 2 evaluation; 1 redesign rationale. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Use original/public-domain visuals; do not reproduce ABC footage; avoid mind-reading creator intent; distinguish evidence/inference; contextualise without excusing harm; avoid stereotypes in examples.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/english/year-6/compare-illustrations-of-literary-and-historical-subjects
+- https://www.abc.net.au/education/teaching-media-literacy-in-the-australian-curriculum/104791068
+- https://www.abc.net.au/education/this-day-tonight-using-visual-language-to-represent-status/13722184
+
+RESEARCH STATUS:
+AUTHORING-READY.
+IXL’s visual comparison and worked example are interactively verified. ABC’s Australian media-literacy framework and archival case supply the required creation-context and representation depth.
