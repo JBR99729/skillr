@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "Adverbial placement changes emphasis and may create ambiguity. Keep the actor clear in introductory phrases."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-P-041",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "choose precise verb",
+    "printable": true,
+    "type": "single",
+    "question": "Which verb most sharply describes a falcon moving towards its prey?",
+    "audioPrompt": "Which verb most sharply describes a falcon moving towards its prey?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "dived",
+      "went",
+      "did",
+      "was"
+    ],
+    "correct": 0,
+    "explanation": "“Dived” names the movement precisely and creates a clearer image.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "“Dived” names the movement precisely and creates a clearer image.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-P-042",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "expand verb group",
+    "printable": true,
+    "type": "single",
+    "question": "Which verb group shows cautious possibility in the future?",
+    "audioPrompt": "Which verb group shows cautious possibility in the future?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "might have been improving",
+      "improves",
+      "must improve",
+      "improved"
+    ],
+    "correct": 0,
+    "explanation": "The expanded group combines modality, perfect and progressive aspects to express tentative ongoing change.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The expanded group combines modality, perfect and progressive aspects to express tentative ongoing change.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-P-043",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "interpret progressive tense",
+    "printable": true,
+    "type": "single",
+    "question": "What does “The engineers were testing the bridge” emphasise?",
+    "audioPrompt": "What does “The engineers were testing the bridge” emphasise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The testing was in progress at a past time.",
+      "The testing will certainly occur.",
+      "The testing is permanently complete.",
+      "The bridge performed the testing."
+    ],
+    "correct": 0,
+    "explanation": "Past progressive presents the action as ongoing around a past reference point.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "Past progressive presents the action as ongoing around a past reference point.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-P-044",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "interpret perfect tense",
+    "printable": true,
+    "type": "single",
+    "question": "What does “By noon, the team had repaired the leak” show?",
+    "audioPrompt": "What does “By noon, the team had repaired the leak” show?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The repair was completed before another past time.",
+      "The repair is happening now.",
+      "The repair may happen next year.",
+      "The repair never occurred."
+    ],
+    "correct": 0,
+    "explanation": "Past perfect places the completed repair before the past reference time “by noon”.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "Past perfect places the completed repair before the past reference time “by noon”.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-P-045",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choose adverb group",
+    "printable": true,
+    "type": "single",
+    "question": "Which adverb group best tells how the turtle crossed the road?",
+    "audioPrompt": "Which adverb group best tells how the turtle crossed the road?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "with slow, deliberate movements",
+      "the old green road",
+      "a patient turtle",
+      "because the road closed"
+    ],
+    "correct": 0,
+    "explanation": "The prepositional adverb group modifies the crossing by describing manner.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The prepositional adverb group modifies the crossing by describing manner.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-P-046",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "maintain tense",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision fixes the tense shift? “Yesterday we measured the plot and record every plant”",
+    "audioPrompt": "Which revision fixes the tense shift? “Yesterday we measured the plot and record every plant”",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Yesterday we measured the plot and recorded every plant.",
+      "Yesterday we measure the plot and recorded every plant.",
+      "Yesterday we will measure and record every plant.",
+      "Yesterday measuring the plot records plants."
+    ],
+    "correct": 0,
+    "explanation": "Both coordinated past actions should use consistent simple-past forms.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "Both coordinated past actions should use consistent simple-past forms.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-P-047",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "sharpen with verb and adverb",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision is most precise?",
+    "audioPrompt": "Which revision is most precise?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The current surged suddenly through the narrow channel.",
+      "The current went very much.",
+      "The current was a thing in water.",
+      "Suddenly narrow was the current."
+    ],
+    "correct": 0,
+    "explanation": "The precise verb and manner adverb sharpen both action and timing.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The precise verb and manner adverb sharpen both action and timing.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA06-P-048",
+    "curriculumCode": "AC9E6LA06",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "compare aspect",
+    "printable": true,
+    "type": "single",
+    "question": "Why might a writer choose “has been monitoring” instead of “monitored”?",
+    "audioPrompt": "Why might a writer choose “has been monitoring” instead of “monitored”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "To show an activity began earlier and continues or remains relevant now",
+      "To show a single finished action with no present link",
+      "To remove the subject from the sentence",
+      "To describe a future command"
+    ],
+    "correct": 0,
+    "explanation": "Present perfect progressive connects an earlier start with continuing duration or present relevance.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "Present perfect progressive connects an earlier start with continuing duration or present relevance.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
