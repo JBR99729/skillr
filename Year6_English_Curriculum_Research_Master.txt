@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LE02
-NEXT_CODE: AC9E6LE03
+CURRENT_CODE: AC9E6LE03
+NEXT_CODE: AC9E6LE04
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -1019,3 +1019,100 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 The mapped IXL inference pattern and worked example are verified. The selected First Nations-led ABC resources provide the missing cultural-context, response and culturally safe pedagogy required for original authoring.
+
+
+==================================================
+CODE: AC9E6LE02
+DESCRIPTOR: Identify similarities and differences in literary texts on similar topics, themes or plots.
+==================================================
+
+IXL MAPPINGS:
+6-B.1 Match the quotations with their themes; 6-B.2 Determine the themes of short stories; 6-G.1 Analyse short stories; 6-I.1 Compare two texts with different genres.
+
+IXL SKILLS INVESTIGATED:
+IXL-INTERACTIVE-VERIFIED: B.1, B.2 and I.1; their “Learn with an example” experiences were explicitly opened. G.1 evidence was reused from AC9E6LE01 and not repeated.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+- B.1 matches multiple literary quotations to theme statements. The live/worked item required mapping two quotations from one novel to two close but distinct lessons.
+- B.1 teaches: important dialogue/action/narrator observation → inference about values → generalise to a wider-world lesson. It warns that one work can contain several themes.
+- B.2 presents a full short story and asks which theme is developed, requiring evidence across events rather than one quotation. Its long-form practice/worked-example interface was opened; content is visually rendered and was not copied.
+- G.1 contributes whole-story character/event inference and evidence-location patterns already verified.
+- I.1 presents two texts in different genres about related material and asks comparison questions. Its full interactive and worked-example experiences were opened; the rendered text content was not retained.
+- Formats progress from matching, to three-choice theme judgement, to cross-text comparison using longer paired texts.
+
+IXL DIFFICULTY PROGRESSION:
+Match explicit moments to lessons → infer a theme from one quotation → trace theme across a whole plot → compare how two genres treat a similar topic/theme/plot → explain similarity and difference with evidence from both.
+
+IXL MISCONCEPTIONS/TRAPS:
+Theme equals one-word topic; theme equals plot summary; any moral-sounding statement fits; one quotation proves an unrelated theme; texts must share genre to be compared; comparison lists features without explaining significance; evidence comes from only one text.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+Separate topic, inference and transferable theme; use character values/decisions and narrator observations; apply an inference to the wider world; organise comparison with a consistent dimension and evidence from both texts.
+
+KHAN MAPPINGS:
+KHAN STATUS: SUPPLEMENTARY / NOT AC9-MAPPED.
+Inspected relevant results: “Understanding theme” (Grade 3) and “Developing themes” (Grade 10). They bracket useful prerequisite and extension ideas but are not an Australian Year 6 mapping.
+
+KHAN EVIDENCE:
+- Theme is a message woven through a story and is deeper than plot/summary.
+- Repeated symbols, setting effects, dialogue and important decisions can develop theme.
+- Useful sequence, but IXL and Australian material better match Year 6 comparison depth.
+
+OTHER FREE SOURCES:
+- ABC Education, Phenomenom Ep 12: The one with the dumplings (Years 3–6), including its linked Bookweek Buzz lesson-plan context.
+
+FREE-SOURCE EVIDENCE:
+- The resource compares food references across favourite fiction and asks how a recurring narrative device advances plot, reveals character and communicates culture.
+- A student response connects an historical-fantasy setting, food scarcity/luxury and a journey beyond limitations, then compares motifs from other books.
+- This adds authentic comparison dimensions: common topic/device, differing cultural setting, character revelation, plot function and reader response.
+- Teaching pattern: establish common comparison focus → gather parallel evidence → state a meaningful similarity → state a meaningful difference → explain how genre/context changes treatment.
+- Do not reproduce book passages or video dialogue; use original paired texts.
+
+CURRICULUM REQUIREMENTS:
+Identify topic/theme/plot accurately; compare two or more literary texts; include similarity and difference; use evidence from each; compare within/across genres; explain how context, character, structure and author choices shape treatment.
+
+PREREQUISITES:
+Topic, plot, character, setting, conflict, resolution, theme, genre, quotation, evidence, inference, compare/contrast.
+
+NEW YEAR-6 DEPTH:
+Move beyond Venn-listing to analytical comparison; distinguish shared topic from theme statement; compare treatment rather than surface details; handle cross-genre pairs; synthesise both texts in one response.
+
+VOCABULARY:
+topic; theme; plot; motif; genre; treatment; similarity; difference; comparison dimension; evidence; inference; message; character arc; conflict; resolution; perspective; context.
+
+REPRESENTATIONS:
+Paired original micro-stories/poems/plays; quotation-theme matching; plot arcs; theme-evidence matrices; Venn diagrams followed by analytical writing; same-topic different-genre pairs.
+
+COMMON MISCONCEPTIONS:
+Theme is one word; plot is theme; texts are similar because both have characters; different endings mean no shared theme; comparison can discuss only one text; genre alone determines message.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Topic/theme/plot distinctions; theme inference; comparison dimensions; same-theme/different-treatment; cross-genre comparison; evidence from both; comparative paragraph model and misconception checks.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Theme warm-up; teacher model using parallel evidence; paired-text jigsaw; comparison talk frames; Venn-to-paragraph transition; support/core/extension and exit comparison.
+
+REQUIRED WORKSHEET COVERAGE:
+Match quotations/themes; determine theme from plot; sequence plot; complete two-text evidence matrix; compare similar topic/theme/plot within and across genres; write/edit a comparative response.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 topic/theme/plot distinctions; 8 quotation-theme; 8 whole-story theme; 6 plot comparison; 6 topic-treatment comparison; 8 cross-genre comparison; 6 comparative explanation tasks. Total 48 original items.
+
+16-TEST-BANK COVERAGE PLAN:
+2 concept distinctions; 3 theme inference; 3 plot/topic comparisons; 5 paired-text evidence questions; 3 independent comparative responses. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not copy published quotations/stories; do not treat theme as a single noun; require both texts in comparisons; keep texts Year 6 accessible while offering genuine interpretive ambiguity; do not claim Khan AC9 alignment.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/english/year-6/match-the-quotations-with-their-themes
+- https://au.ixl.com/english/year-6/determine-the-themes-of-short-stories
+- https://au.ixl.com/english/year-6/analyse-short-stories
+- https://au.ixl.com/english/year-6/compare-two-texts-with-different-genres
+- https://www.khanacademy.org/ela/cc-3rd-reading-vocab/xaf0c1b5d7010608e:cc-3rd-extreme-environments/xaf0c1b5d7010608e:extreme-environments-close-reading-fiction/v/understanding-theme-reading
+- https://www.khanacademy.org/ela/10th-grade-reading-vocab-indiana/xc7dfd10d0846d1af:into-the-unknown-10-indiana/xc7dfd10d0846d1af:analyzing-themes-10-indiana/v/developing-themes-reading
+- https://www.abc.net.au/education/phenomenom-ep-12-the-one-with-the-dumplings/13916704
+
+RESEARCH STATUS:
+AUTHORING-READY.
+All new mapped IXL skills and worked-example experiences were investigated; prior G.1 evidence was reused. Khan and one strong Australian cross-text resource complete the theme and comparison sequence.
