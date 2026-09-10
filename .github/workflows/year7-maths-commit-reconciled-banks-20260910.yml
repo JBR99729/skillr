@@ -1,0 +1,54 @@
+name: Commit reconciled Year 7 Maths banks 2026-09-10
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/year7-maths-commit-reconciled-banks-20260910.yml'
+permissions:
+  contents: write
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Run proven reconciliation and bank repair
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          src=Path('.github/workflows/year7-maths-final-close-v6-20260910.yml').read_text().splitlines()
+          names=['Reconcile current authored banks and fill genuine gaps','Repair duplicate distractors and synchronise every bank surface']
+          for n,name in enumerate(names,1):
+              i=next(i for i,x in enumerate(src) if x.strip()==f'- name: {name}')
+              j=next(j for j in range(i+1,len(src)) if src[j].startswith('        run: |'))+1
+              body=[]
+              while j<len(src) and not src[j].startswith('      - name: ') and not src[j].startswith('      - uses: '):
+                  body.append(src[j][10:] if src[j].startswith('          ') else src[j]); j+=1
+              Path(f'/tmp/y7bank{n}.sh').write_text('set -euo pipefail\n'+'\n'.join(body)+'\n')
+          PY
+          bash /tmp/y7bank1.sh
+          bash /tmp/y7bank2.sh
+      - name: Validate counts separation and parity
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs=require('fs'),vm=require('vm');
+          const codes=[...Array.from({length:9},(_,i)=>`AC9M7N${String(i+1).padStart(2,'0')}`),...Array.from({length:6},(_,i)=>`AC9M7A${String(i+1).padStart(2,'0')}`),...Array.from({length:6},(_,i)=>`AC9M7M${String(i+1).padStart(2,'0')}`),...Array.from({length:4},(_,i)=>`AC9M7SP${String(i+1).padStart(2,'0')}`),...Array.from({length:3},(_,i)=>`AC9M7ST${String(i+1).padStart(2,'0')}`),...Array.from({length:2},(_,i)=>`AC9M7P${String(i+1).padStart(2,'0')}`)];
+          const norm=s=>String(s||'').toLowerCase().replace(/<[^>]+>/g,' ').replace(/[^a-z0-9%√π]+/g,' ').replace(/\s+/g,' ').trim();
+          const fail=[];
+          function read(file,name){const c={};c.window=c;vm.createContext(c);vm.runInContext(fs.readFileSync(file,'utf8'),c,{filename:file});return c[name]||c.quizQuestions||[]}
+          for(const code of codes){const l=code.toLowerCase(),all=JSON.parse(fs.readFileSync(`assets/assessment-banks/year7/math/${l}.json`,'utf8')),P=all.filter(x=>x.bank==='practice'),T=all.filter(x=>x.bank==='test'),ps=P.map(x=>norm(x.question)),ts=T.map(x=>norm(x.question)),set=new Set(ps);if(P.length!==48||T.length!==16)fail.push(`${code} ${P.length}/${T.length}`);if(new Set(ps).size!==48||new Set(ts).size!==16)fail.push(`${code} duplicate stems`);if(ts.some(x=>set.has(x)))fail.push(`${code} overlap`);for(const x of all){if(!Array.isArray(x.answers)||x.answers.filter(a=>a.is_correct).length!==1)fail.push(`${code} answer ${x.id}`);if(new Set((x.answers||[]).map(a=>String(a.text))).size!==(x.answers||[]).length)fail.push(`${code} options ${x.id}`)}const lp=read(`quiz/year-7/math/${l}/practice/questions.js`,'skillrPracticeQuestions'),lg=read(`quiz/year-7/math/${l}/practice/practice-questions.js`,'skillrPracticeQuestions'),lt=read(`quiz/year-7/math/${l}/test/questions.js`,'skillrTestQuestions');if(lp.length!==48||lg.length!==48||lt.length!==16)fail.push(`${code} live counts`);if(lp.map(x=>norm(x.question)).join('|')!==ps.join('|')||lg.map(x=>norm(x.question)).join('|')!==ps.join('|')||lt.map(x=>norm(x.question)).join('|')!==ts.join('|'))fail.push(`${code} parity`)}
+          if(fail.length){console.error(fail.join('\n'));process.exit(1)}
+          console.log('YEAR7_BANKS_30_CODES_PASS');
+          NODE
+      - name: Commit reconciled production banks
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/assessment-banks/year7/math quiz/year-7/math
+          git commit -m 'Reconcile all Year 7 Maths assessment banks'
+          git push
