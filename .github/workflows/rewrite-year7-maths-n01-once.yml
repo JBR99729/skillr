@@ -1,0 +1,149 @@
+name: Rewrite Year 7 Maths N01 once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rewrite-year7-maths-n01-once.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rewrite:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Re-author AC9M7N01 from research scope
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const code='AC9M7N01', lower=code.toLowerCase();
+          const squares=Array.from({length:20},(_,i)=>(i+1)**2);
+          const roots=n=>Math.sqrt(n);
+          const choices=(correct,wrong)=>[correct,...wrong].map(String);
+          const rotate=(arr,k)=>arr.map((_,i)=>arr[(i+k)%arr.length]);
+          const make=(bank,index,difficulty,skill,q,correct,wrong,summary,hint)=>{
+            let ans=choices(correct,wrong);
+            const shift=index%4; ans=rotate(ans,shift); const ci=ans.indexOf(String(correct));
+            const id=`${code}-${bank==='practice'?'P':'T'}-${String(index).padStart(3,'0')}`;
+            return {id,subject:'math',year_level:'Year 7',curriculum_code:code,bank,skill,elaborations:['E1'],question:q,audio_prompt:q,visual:{type:'none'},answers:ans.map((text,i)=>({text,is_correct:i===ci})),correct_index:ci,explanation:{summary,hint},difficulty,sequence_priority:index};
+          };
+          const P=[]; let i=1;
+          function add(d,s,q,c,w,ex,h){P.push(make('practice',i++,d,s,q,c,w,ex,h));}
+          // EASY 1–12: meaning, recognition, direct inverse facts
+          add(1,'perfect-square recognition','Which number is a perfect square?',64,[48,54,72],'64 is 8², so it is a perfect square.','Look for a whole number multiplied by itself.');
+          add(1,'square-root meaning','What is √81?',9,[8,18,40.5],'Because 9² = 81, √81 = 9.','Ask which non-negative whole number squares to 81.');
+          add(1,'inverse relationship','Which pair correctly shows inverse operations?','7² = 49 and √49 = 7',['7² = 14 and √14 = 7','49² = 7 and √7 = 49','√49 = 14 and 14² = 49'],'Squaring 7 gives 49 and the principal square root returns 7.','Check both directions.');
+          add(1,'square notation','What does 12² mean?','12 × 12',['12 × 2','12 + 12','2 × 2 × 2 × 2 × 2 × 2'],'The exponent 2 means multiply 12 by itself.','Do not confuse squaring with doubling.');
+          add(1,'perfect-square recognition','Which statement is true?','15² = 225',['15² = 30','√225 = 30','225² = 15'],'15 × 15 = 225.','Translate the square into multiplication.');
+          add(1,'square-root meaning','What is √144?',12,[14,72,288],'12² = 144, so √144 = 12.','Find the side length of a square with area 144.');
+          add(1,'inverse relationship','Complete: 11² = 121, so √121 = ___.',11,[10,22,121],'Square and square root undo one another for non-negative values.','Use the given square fact.');
+          add(1,'perfect-square recognition','Which is NOT a perfect square?',50,[36,49,81],'50 cannot be written as n² for a whole number n.','Recall consecutive squares around 50: 7² and 8².');
+          add(1,'square-root meaning','A square has area 100 cm². What is its side length?','10 cm',['20 cm','25 cm','50 cm'],'The side length is √100 = 10 cm.','Area of a square is side².');
+          add(1,'square meaning','A square playground has side length 13 m. What is its area?','169 m²',['26 m²','52 m²','156 m²'],'13² = 169, so the area is 169 m².','Square the side length.');
+          add(1,'misconception diagnosis','A student says √36 = 18 because 36 ÷ 2 = 18. What is the best correction?','√36 = 6 because 6² = 36',['√36 = 18 because square root means halve','√36 = 72 because square root means double','√36 = 3 because 3 × 12 = 36'],'Square root asks for a number that squares to the original number.','Check the proposed answer by squaring it.');
+          add(1,'principal square root','Which value equals √196?',14,[-14,28,98],'The radical symbol √ gives the principal non-negative square root, 14.','14² = 196.');
+          // MEDIUM 13–24: missing values, ordering, contexts
+          add(2,'missing square','What number completes □² = 324?',18,[16,162,648],'18² = 324.','Use the inverse square-root relationship.');
+          add(2,'missing radicand','Complete: √□ = 17.',289,[34,144,578],'If √n = 17, then n = 17² = 289.','Square both sides conceptually.');
+          add(2,'ordering square roots','Which is greatest?','√225',['√169','√196','√144'],'The roots are 15, 13, 14 and 12 respectively.','Evaluate each perfect-square root before comparing.');
+          add(2,'between consecutive squares','81 < n < 100. If n is a perfect square, what is n?', 'There is no perfect square strictly between them',['90','91','99'],'81 = 9² and 100 = 10² are consecutive perfect squares.','Consecutive whole numbers have consecutive perfect squares.');
+          add(2,'square-area context','A square mosaic covers 256 identical 1 cm² tiles. How many tiles are along each side?',16,[8,32,64],'A 16 × 16 square contains 256 tiles.','Find √256.');
+          add(2,'square-area context','A square vegetable bed has area 361 m². What length of edging is needed for one side?', '19 m',['18 m','38 m','90.25 m'],'The side length is √361 = 19 m.','Area determines side length through square root.');
+          add(2,'inverse relationship','Which statement must follow from 19² = 361?','√361 = 19',['√19 = 361','361² = 19','√361 = 180.5'],'Square root reverses the squaring operation.','Reverse the given fact.');
+          add(2,'error diagnosis','A learner writes √169 = ±13. Why is this unsuitable when the expression is exactly √169?','The radical symbol denotes the principal non-negative root, so √169 = 13',['Negative roots never exist in equations','169 has only one factor','13² is not 169'],'The equation x²=169 has two solutions, but √169 denotes 13.','Distinguish an equation from the radical expression.');
+          add(2,'square comparison','Without multiplying fully, which is larger?','18²',['17²','√324','300'],'18² = 324, while 17² = 289 and √324 = 18.','Compare meanings and magnitudes, not just symbols.');
+          add(2,'perfect-square gap','Which perfect square comes immediately after 196?',225,[197,210,392],'196 = 14², so the next is 15² = 225.','Move to the next whole-number base.');
+          add(2,'reverse context','A square display has 22 items along each side. How many items are in the full square?',484,[44,242,440],'22² = 484.','Multiply the side length by itself.');
+          add(2,'reasonableness','A student claims √625 = 35. Which check shows the claim is incorrect?','35² = 1225, not 625',['625 ÷ 5 = 125','35 + 35 = 70','625 is odd'],'Squaring the proposed root is the direct inverse-operation check.','Verify by squaring 35.');
+          // HARD 25–36: multi-step reasoning and contextual selection
+          add(3,'multi-step square context','A square courtyard has area 484 m². A 2 m-wide gate replaces part of one side. How many metres of fencing are needed for the remaining boundary?','86 m',['84 m','88 m','94 m'],'√484 = 22 m, so perimeter = 88 m; subtract the 2 m gate to get 86 m.','Find the side first, then the perimeter.');
+          add(3,'multi-step square context','A square photo has area 225 cm². A border increases each side length by 2 cm. What is the side length including the border?','17 cm',['13 cm','19 cm','29 cm'],'The photo side is √225 = 15 cm, then 2 cm is added to that side length.','Square root first; then apply the stated change.');
+          add(3,'inverse reasoning','A whole number has a square between 400 and 500. Which value could the number be?',21,[19,23,25],'21² = 441, which lies between 400 and 500.','Compare nearby benchmark squares: 20² and 22².');
+          add(3,'benchmark squares','Which statement is sufficient to prove √576 = 24?','24² = 576',['24 × 2 = 48','576 ÷ 2 = 288','24 + 576 = 600'],'A square-root claim is verified by squaring the proposed root.','Use the inverse operation.');
+          add(3,'square tiling','576 square tiles are arranged to make the largest possible square using every tile. How many tiles are in each row?',24,[12,48,288],'A 24 × 24 square uses 576 tiles.','Find √576.');
+          add(3,'compare representations','Which pair represents the same value?','√400 and 20',['20² and 20','√20 and 400','400² and 20'],'√400 = 20.','Evaluate each expression before comparing.');
+          add(3,'reasoning from interval','A perfect square lies between 500 and 600. Which one is it?',529,[510,550,576],'23² = 529 and 24² = 576; both are perfect squares, so the question as written has two candidates.','Check all nearby squares, not just the first one.');
+          // deliberately repair ambiguity by replacing previous item below
+          P.pop(); i--; add(3,'reasoning from interval','A perfect square lies strictly between 500 and 550. Which one is it?',529,[510,525,540],'23² = 529, while 22² = 484 and 24² = 576.','Bracket the interval using consecutive squares.');
+          add(3,'multi-step area','A square stage has side 18 m. A smaller square mat of side 6 m is placed on it. What area of the stage remains uncovered?','288 m²',['252 m²','324 m²','360 m²'],'18² − 6² = 324 − 36 = 288 m².','Find each square area, then subtract.');
+          add(3,'reverse perimeter and square','A square has perimeter 60 cm. What is its area?','225 cm²',['120 cm²','900 cm²','15 cm²'],'Each side is 60 ÷ 4 = 15 cm, so area = 15² = 225 cm².','Perimeter gives the side before you square it.');
+          add(3,'square-root chain','Evaluate √(12²).',12,[-12,24,144],'12² = 144 and √144 = 12.','The principal square root reverses squaring a non-negative number.');
+          add(3,'misconception comparison','Why is √49 different from solving x² = 49?','√49 is 7, while x² = 49 has x = 7 or x = −7',['They are identical and both equal ±7','√49 is −7 only','x² = 49 has only x = 7'],'The radical symbol names the principal root; an equation can have two signed solutions.','Separate evaluating an expression from solving an equation.');
+          add(3,'square-root context','A square storage area is 729 m². Its side length is increased by 3 m. What is the new area?','900 m²',['732 m²','756 m²','1089 m²'],'√729 = 27 m; new side = 30 m; 30² = 900 m².','Work from area to side, change the side, then square again.');
+          add(3,'reasonableness','Which estimate best helps check √361 = 19?','20² = 400, so a root just below 20 is reasonable',['361 ÷ 2 = 180.5','19 + 19 = 38','400 ÷ 19 ≈ 21'],'Nearby perfect squares provide a magnitude check.','Use benchmark squares around 361.');
+          // SUPER HARD 37–48: transfer, reverse/multi-constraint reasoning
+          add(4,'multi-constraint square','A square has a whole-number side length and area greater than 700 m² but less than 800 m². What side length is possible?','27 m',['26 m','28 m','29 m'],'26²=676, 27²=729 and 28²=784; both 27 and 28 satisfy, so we need another constraint.','Test consecutive squares in the interval.');
+          P.pop(); i--; add(4,'multi-constraint square','A square has a whole-number side length, area greater than 700 m² but less than 760 m². What is its side length?','27 m',['26 m','28 m','29 m'],'26²=676, 27²=729 and 28²=784, so only 27 m fits.','Bracket the area with nearby squares.');
+          add(4,'reverse square difference','Two square gardens have side lengths 18 m and 12 m. By how much do their areas differ?','180 m²',['6 m²','36 m²','216 m²'],'18² − 12² = 324 − 144 = 180 m².','Compare areas, not side lengths.');
+          add(4,'square-root multi-step','A square panel has area 1024 cm². It is cut into 4 equal square panels. What is the side length of each small panel?','16 cm',['8 cm','32 cm','64 cm'],'Each small square has area 1024 ÷ 4 = 256 cm², so side = √256 = 16 cm.','Divide the area before taking the square root.');
+          add(4,'inverse pattern reasoning','If n² = 841 for a positive whole number n, what is n + 1?',30,[28,29,841],'29² = 841, so n = 29 and n+1 = 30.','Use the square root to recover n first.');
+          add(4,'area scaling','A square side length is doubled. How does its area change?','It becomes 4 times as large',['It doubles','It increases by 2 square units','It becomes 8 times as large'],'If side s becomes 2s, area changes from s² to (2s)² = 4s².','Square the scale factor.');
+          add(4,'area scaling','A square area is 144 cm². Another square has 9 times the area. What is the second square’s side length?','36 cm',['18 cm','108 cm','1296 cm'],'Nine times 144 is 1296, and √1296 = 36; equivalently the side scale factor is √9 = 3.','Area scale factors square the side scale factor.');
+          add(4,'proof by contradiction check','A student says there is a perfect square strictly between 24² and 25². What is the best response?','Impossible: consecutive whole-number squares have no other whole-number square between them',['True: 24.5² is a perfect square','True: 600 is always a perfect square','Impossible because 24² = 25²'],'Perfect squares of whole numbers occur at integer bases; 24 and 25 are consecutive.','Focus on the whole-number bases.');
+          add(4,'multi-step perimeter','A square has area 900 m². A path follows three complete sides only. How long is the path?','90 m',['30 m','120 m','2700 m'],'√900 = 30 m per side; three sides total 90 m.','Recover the side before multiplying by 3.');
+          add(4,'reverse square context','A square grid contains 1600 cells. After removing one complete row and one complete column from the original grid, how many cells remain?','1521',['1520','1560','1598'],'The original side is √1600=40. Removing one row and one column leaves a 39×39 grid = 1521 cells.','Think about the new side length, not simply subtracting 80.');
+          add(4,'square-root structure','Which expression is equal to 25 without first calculating a large square?','√(25²)',['√25² interpreted as √25 then squared only','25²','√50'],'For non-negative 25, √(25²)=25.','Squaring and principal square root undo each other.');
+          add(4,'reasoning with consecutive squares','A square area is a perfect square between 30² and 35². Which list contains every possible area?','31², 32², 33², 34²',['30², 31², 32², 33², 34², 35²','31, 32, 33, 34','32², 33² only'],'Strictly between the endpoint squares, the whole-number side lengths are 31, 32, 33 and 34.','List the possible side lengths first.');
+          add(4,'multi-step square-root comparison','Square A has area 441 cm². Square B has side length 3 cm longer than Square A. What is Square B’s area?','576 cm²',['444 cm²','504 cm²','882 cm²'],'Square A side = √441 = 21 cm; Square B side = 24 cm; 24² = 576 cm².','Convert area to side, change the side, then square.');
+          const T=[]; let t=1;
+          function test(d,s,q,c,w,ex,h){T.push(make('test',t++,d,s,q,c,w,ex,h));}
+          test(1,'perfect-square recognition','Which value is a perfect square?',169,[156,175,182],'169 = 13².','Look for a whole-number square.');
+          test(1,'square-root meaning','Evaluate √324.',18,[16,36,162],'18² = 324.','Use the inverse relationship.');
+          test(1,'inverse relationship','Which statement correctly reverses 16² = 256?','√256 = 16',['√16 = 256','256² = 16','√256 = 128'],'Square root reverses squaring for the principal non-negative root.','Reverse the given fact.');
+          test(1,'square context','A square has side 14 cm. What is its area?','196 cm²',['28 cm²','56 cm²','192 cm²'],'14² = 196.','Square the side length.');
+          test(2,'missing square','Complete: □² = 676.',26,[24,52,338],'26² = 676.','Take √676.');
+          test(2,'square-root context','A square tile arrangement uses 841 tiles. How many tiles are along one side?',29,[20,28,58],'√841 = 29.','The side is the square root of the total square area/count.');
+          test(2,'reasonableness','Which fact best checks √529 = 23?','23² = 529',['23 × 2 = 46','529 ÷ 2 = 264.5','23 + 529 = 552'],'Squaring the proposed root verifies it directly.','Use the inverse operation.');
+          test(2,'consecutive squares','Which perfect square lies strictly between 15² and 17²?',256,[240,272,289],'16² = 256 is the only whole-number square between 15² and 17².','The only whole-number base between 15 and 17 is 16.');
+          test(3,'multi-step square context','A square field has area 625 m². Fencing is needed around three sides. How much fencing is required?','75 m',['25 m','100 m','1875 m'],'√625 = 25 m per side; three sides need 75 m.','Find the side first.');
+          test(3,'reverse perimeter','A square perimeter is 72 cm. What is its area?','324 cm²',['18 cm²','144 cm²','5184 cm²'],'Side = 72÷4 = 18 cm, so area = 18² = 324 cm².','Perimeter → side → square.');
+          test(3,'misconception diagnosis','A student writes √225 = ±15. Which statement is most precise?','√225 = 15; the equation x²=225 has solutions ±15',['√225 = −15 only','The student is fully correct because every radical has two values','225 has no negative square root relationship'],'The radical symbol denotes the principal non-negative root.','Distinguish evaluating √225 from solving x²=225.');
+          test(3,'benchmark reasoning','A whole number n satisfies n² = 961. What is n?',31,[29,30,32],'31² = 961.','Use nearby benchmarks: 30²=900.');
+          test(4,'multi-step area','A square sign has area 400 cm². A frame adds 5 cm to each side length of the sign. What is the area enclosed by the outer edge of the frame?','625 cm²',['405 cm²','500 cm²','900 cm²'],'Sign side = √400=20 cm; outer side =25 cm; area=25²=625 cm².','Recover the side, change it, then square.');
+          test(4,'area scaling','Square B has 16 times the area of Square A. If Square A has side 7 cm, what is Square B’s side length?','28 cm',['14 cm','56 cm','112 cm'],'An area scale factor of 16 corresponds to a side scale factor of √16=4; 7×4=28.','Take the square root of the area scale factor.');
+          test(4,'grid transformation','A 36×36 square grid loses its outermost one-cell border. How many cells remain?','1156',['1224','1294','1369'],'Removing one cell from each edge reduces the side by 2: 34×34=1156.','Track the new side length.');
+          test(4,'reasoning interval','A perfect-square area is greater than 1000 but less than 1100. What is the side length of the square?','32',['31','33','34'],'31²=961, 32²=1024 and 33²=1089; both 32 and 33 fit, so the interval needs tightening.','Check every nearby square.');
+          T.pop(); t--; test(4,'reasoning interval','A perfect-square area is greater than 1000 but less than 1050. What is the side length of the square?','32',['31','33','34'],'31²=961, 32²=1024 and 33²=1089, so only 32 fits.','Bracket the interval with consecutive squares.');
+          if(P.length!==48||T.length!==16) throw new Error(`counts ${P.length}/${T.length}`);
+          const norm=s=>String(s).toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+          const pset=new Set(P.map(x=>norm(x.question))), tset=new Set(T.map(x=>norm(x.question)));
+          if(pset.size!==48||tset.size!==16) throw new Error('duplicate stems within a bank');
+          if([...tset].some(x=>pset.has(x))) throw new Error('practice/test stem overlap');
+          const all=[...P,...T];
+          const canonical=JSON.stringify(all,null,2)+'\n';
+          const live=q=>{const item={id:q.id.toLowerCase(),curriculumCode:q.curriculum_code,bank:q.bank,skill:q.skill,elaborations:q.elaborations,difficulty:q.difficulty,printable:true,type:'single',question:q.question,audioPrompt:q.audio_prompt,answers:q.answers.map(a=>a.text),correct:q.correct_index,explanation:`${q.explanation.summary}\nHint: ${q.explanation.hint}`,structuredExplanation:q.explanation,qualitySchema:'production-v2'};return item};
+          const practice='"use strict";\nwindow.skillrPracticeQuestions = '+JSON.stringify(P.map(live),null,2)+';\nwindow.quizQuestions = window.skillrPracticeQuestions;\n';
+          const test='"use strict";\nwindow.skillrTestQuestions = '+JSON.stringify(T.map(live),null,2)+';\nwindow.skillrExamQuestions = window.skillrTestQuestions;\nwindow.quizQuestions = window.skillrTestQuestions;\n';
+          fs.writeFileSync(`assets/assessment-banks/year7/math/${lower}.json`,canonical);
+          fs.writeFileSync(`quiz/year-7/math/${lower}/practice/questions.js`,practice);
+          fs.writeFileSync(`quiz/year-7/math/${lower}/practice/practice-questions.js`,practice);
+          fs.writeFileSync(`quiz/year-7/math/${lower}/test/questions.js`,test);
+          fs.mkdirSync('reports/year7-maths-research-authoring',{recursive:true});
+          fs.writeFileSync('reports/year7-maths-research-authoring/AC9M7N01.md',`# AC9M7N01 research-aligned authoring\n\nStatus: AUTHORING COMPLETE — verification ledger intentionally not updated until wider Year 7 QA.\n\nResearch scope used: relationship between perfect squares and principal square roots; use inverse relationship in problems. Context transfer was the documented source gap and is deliberately represented with original square-area, perimeter, tiling and scaling problems.\n\nRemoved from prior bank scope: algebraic two-digit square expansion/identity work such as (a±b)^2, which is not required by this descriptor.\n\nBank counts: Practice 48; Test 16. Practice/Test normalised stem overlap: 0.\n\nDifficulty progression: 1–12 direct meaning/recognition, 13–24 inverse/missing-value/context, 25–36 multi-step reasoning, 37–48 transfer/challenge. Test independently samples the same curriculum scope with unseen stems.\n`);
+          console.log({practice:P.length,test:T.length,overlap:0});
+          NODE
+      - name: Validate generated JavaScript
+        run: |
+          node --check quiz/year-7/math/ac9m7n01/practice/questions.js
+          node --check quiz/year-7/math/ac9m7n01/test/questions.js
+          node - <<'NODE'
+          global.window={}; require('./quiz/year-7/math/ac9m7n01/practice/questions.js');
+          if(window.skillrPracticeQuestions.length!==48) throw new Error('practice count');
+          global.window={}; require('./quiz/year-7/math/ac9m7n01/test/questions.js');
+          if(window.skillrTestQuestions.length!==16) throw new Error('test count');
+          NODE
+      - name: Commit N01 re-authoring
+        run: |
+          git config user.name 'SkillrHub Authoring Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add assets/assessment-banks/year7/math/ac9m7n01.json quiz/year-7/math/ac9m7n01/practice/questions.js quiz/year-7/math/ac9m7n01/practice/practice-questions.js quiz/year-7/math/ac9m7n01/test/questions.js reports/year7-maths-research-authoring/AC9M7N01.md
+          git commit -m 'Re-author AC9M7N01 from Year 7 research master'
+          git push origin main
