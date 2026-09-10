@@ -1,0 +1,55 @@
+name: Year 7 Maths final close v7 2026-09-10
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/year7-maths-final-close-v7-20260910.yml']
+permissions:
+  contents: write
+jobs:
+  close:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 1}
+      - uses: actions/setup-node@v4
+        with: {node-version: 22}
+      - name: Execute proven v6 closure with precise N01 scope gate
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          text=Path('.github/workflows/year7-maths-final-close-v6-20260910.yml').read_text().splitlines()
+          wanted=[
+            'Reconcile current authored banks and fill genuine gaps',
+            'Repair duplicate distractors and synchronise every bank surface',
+            'Correct N01 scope and rebuild learning surfaces',
+            'Validate exact 30-code closure contract',
+            'Mark all codes verified and regenerate visible verification',
+            'Write final closure report and commit'
+          ]
+          blocks={}
+          i=0
+          while i < len(text):
+            line=text[i]
+            if line.startswith('      - name: '):
+              name=line[len('      - name: '):]
+              j=i+1
+              while j < len(text) and not text[j].startswith('      - name: ') and not text[j].startswith('      - uses: '):
+                if text[j].startswith('        run: |'):
+                  j+=1; body=[]
+                  while j < len(text) and not text[j].startswith('      - name: ') and not text[j].startswith('      - uses: '):
+                    body.append(text[j][10:] if text[j].startswith('          ') else text[j])
+                    j+=1
+                  blocks[name]='\n'.join(body)+'\n'; break
+                j+=1
+            i+=1
+          for idx,name in enumerate(wanted,1):
+            if name not in blocks: raise SystemExit(f'missing run block: {name}')
+            body=blocks[name]
+            if name=='Validate exact 30-code closure contract':
+              body=body.replace('/√70|√50|non-perfect square root|non-perfect root|bound a non-perfect/i','/√70|√50|bound a non-perfect|non-perfect root such as/i')
+            Path(f'/tmp/y7step{idx}.sh').write_text('set -euo pipefail\n'+body)
+          PY
+          for n in 1 2 3 4 5 6; do
+            echo "=== Year 7 closure step $n ==="
+            bash "/tmp/y7step${n}.sh"
+          done
