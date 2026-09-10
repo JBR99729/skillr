@@ -4,12 +4,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-001",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "check sources and attribution",
+    "stage": "recognise",
+    "skill": "fact or opinion",
     "printable": true,
     "type": "single",
-    "question": "A community radio segment includes “check sources and attribution”. Which description best fits this wording?",
-    "audioPrompt": "A community radio segment includes “check sources and attribution”. Which description best fits this wording?",
+    "question": "Which claim is directly verifiable?",
+    "audioPrompt": "Which claim is directly verifiable?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,16 +17,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "objective-style",
-      "subjective",
-      "check sources and attribution",
-      "attributed opinion"
+      "The archive lists 746 photographs.",
+      "The archive is fascinating.",
+      "The curator made a wonderful choice.",
+      "No visitor could dislike the display."
     ],
-    "correct": 2,
-    "explanation": "The wording best matches check sources and attribution.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "The catalogue count can be checked against the archive record.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The wording best matches check sources and attribution.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "The catalogue count can be checked against the archive record.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -34,12 +34,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-002",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "objective language",
+    "stage": "analyse",
+    "skill": "subjective wording",
     "printable": true,
     "type": "single",
-    "question": "In a wildlife-centre report, which term matches this meaning: “wording centred on verifiable information”?",
-    "audioPrompt": "In a wildlife-centre report, which term matches this meaning: “wording centred on verifiable information”?",
+    "question": "Which phrase most strongly reveals judgement?",
+    "audioPrompt": "Which phrase most strongly reveals judgement?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,16 +47,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "subjective language",
-      "bias",
-      "It does not match the evidence in the example.",
-      "objective language"
+      "a disgraceful waste",
+      "a cost of $4,000",
+      "a meeting on Monday",
+      "a six-page report"
     ],
-    "correct": 3,
-    "explanation": "objective language is the precise term for wording centred on verifiable information.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 0,
+    "explanation": "“Disgraceful waste” evaluates the spending rather than simply reporting it.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "objective language is the precise term for wording centred on verifiable information.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "“Disgraceful waste” evaluates the spending rather than simply reporting it.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -64,12 +64,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-003",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "objective subjective and biased language",
+    "stage": "analyse",
+    "skill": "connotation",
     "printable": true,
     "type": "single",
-    "question": "For a regional youth forum, which sentence is most objective?",
-    "audioPrompt": "For a regional youth forum, which sentence is most objective?",
+    "question": "Which word makes a quiet speaker seem negatively uncertain?",
+    "audioPrompt": "Which word makes a quiet speaker seem negatively uncertain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,16 +77,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The survey included 240 respondents",
-      "The ridiculous survey wasted everyone’s time",
-      "The brilliant result proves everything",
-      "Everyone hated the survey"
+      "hesitant",
+      "measured",
+      "calm",
+      "thoughtful"
     ],
     "correct": 0,
-    "explanation": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "explanation": "“Hesitant” suggests unhelpful uncertainty rather than controlled calm.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "“Hesitant” suggests unhelpful uncertainty rather than controlled calm.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -94,12 +94,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-004",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "analyse",
+    "skill": "bias by omission",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a coastal-monitoring update says, “Neutral tone proves no bias”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a coastal-monitoring update says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "question": "A review lists a battery’s fast charging time but omits that it lasts only one hour. What is the concern?",
+    "audioPrompt": "A review lists a battery’s fast charging time but omits that it lasts only one hour. What is the concern?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,16 +107,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Any adjective is subjective",
-      "Selection and omission can position readers.",
-      "Neutral tone proves no bias",
-      "Quoted opinion becomes fact"
+      "A relevant limitation is omitted.",
+      "The charging time cannot be measured.",
+      "Every review must be negative.",
+      "The sentence uses a technical noun."
     ],
-    "correct": 1,
-    "explanation": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "Omitting a major limitation creates an incomplete and potentially biased impression.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Omitting a major limitation creates an incomplete and potentially biased impression.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -124,12 +124,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-005",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "write limited judgement",
+    "stage": "analyse",
+    "skill": "sample bias",
     "printable": true,
     "type": "single",
-    "question": "A heritage trail guide includes “write limited judgement”. Which description best fits this wording?",
-    "audioPrompt": "A heritage trail guide includes “write limited judgement”. Which description best fits this wording?",
+    "question": "A survey about after-school sport includes only members of the athletics club. Why may it be biased?",
+    "audioPrompt": "A survey about after-school sport includes only members of the athletics club. Why may it be biased?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,16 +137,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "objective-style",
-      "subjective",
-      "write limited judgement",
-      "attributed opinion"
+      "The sample is unlikely to represent all students.",
+      "Club members cannot answer questions.",
+      "Sports cannot be surveyed.",
+      "The sample is too easy to spell."
     ],
-    "correct": 2,
-    "explanation": "The wording best matches write limited judgement.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "Athletics-club members may hold systematically different views from the whole student population.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The wording best matches write limited judgement.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "Athletics-club members may hold systematically different views from the whole student population.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -154,12 +154,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-006",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "subjective language",
+    "stage": "apply",
+    "skill": "attribute viewpoint",
     "printable": true,
     "type": "single",
-    "question": "In a public-transport survey, which term matches this meaning: “wording expressing evaluation, feeling or viewpoint”?",
-    "audioPrompt": "In a public-transport survey, which term matches this meaning: “wording expressing evaluation, feeling or viewpoint”?",
+    "question": "Which sentence reports an opinion responsibly?",
+    "audioPrompt": "Which sentence reports an opinion responsibly?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,16 +167,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "objective language",
-      "bias",
-      "It does not match the evidence in the example.",
-      "subjective language"
+      "The developer claims the design will reduce traffic.",
+      "The design will certainly end all traffic.",
+      "Traffic is obviously the worst problem.",
+      "Everyone supports the developer."
     ],
-    "correct": 3,
-    "explanation": "subjective language is the precise term for wording expressing evaluation, feeling or viewpoint.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 0,
+    "explanation": "“Claims” identifies the source and keeps the prediction distinguishable from established fact.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "subjective language is the precise term for wording expressing evaluation, feeling or viewpoint.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "“Claims” identifies the source and keeps the prediction distinguishable from established fact.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -184,12 +184,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-007",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "objective subjective and biased language",
+    "stage": "evaluate",
+    "skill": "balanced representation",
     "printable": true,
     "type": "single",
-    "question": "For a festival review, which sentence is most objective?",
-    "audioPrompt": "For a festival review, which sentence is most objective?",
+    "question": "Which sentence is most balanced?",
+    "audioPrompt": "Which sentence is most balanced?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,16 +197,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The survey included 240 respondents",
-      "The ridiculous survey wasted everyone’s time",
-      "The brilliant result proves everything",
-      "Everyone hated the survey"
+      "Residents welcomed the jobs, while conservation groups questioned habitat loss.",
+      "The brilliant project defeated foolish objections.",
+      "Only opponents were interviewed.",
+      "The project is either perfect or useless."
     ],
     "correct": 0,
-    "explanation": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "explanation": "The sentence attributes two positions and gives the reason each foregrounds.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "The sentence attributes two positions and gives the reason each foregrounds.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -214,12 +214,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-008",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "verify",
-    "skill": "independent misconception check",
+    "stage": "analyse",
+    "skill": "framing",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a emergency-preparedness talk says, “Neutral tone proves no bias”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a emergency-preparedness talk says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "question": "Two headlines describe the same vote: “Council protects park” and “Council blocks homes”. What differs most?",
+    "audioPrompt": "Two headlines describe the same vote: “Council protects park” and “Council blocks homes”. What differs most?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,16 +227,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Any adjective is subjective",
-      "Selection and omission can position readers.",
-      "Neutral tone proves no bias",
-      "Quoted opinion becomes fact"
+      "The framing and selected consequence",
+      "The date of the vote",
+      "The number of councillors",
+      "The spelling of council"
     ],
-    "correct": 1,
-    "explanation": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "Each headline foregrounds a different consequence and guides readers towards a different interpretation.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "Each headline foregrounds a different consequence and guides readers towards a different interpretation.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -245,11 +245,11 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
     "stage": "apply",
-    "skill": "identify omitted viewpoints data",
+    "skill": "neutral revision",
     "printable": true,
     "type": "single",
-    "question": "A water-saving brochure includes “identify omitted viewpoints/data”. Which description best fits this wording?",
-    "audioPrompt": "A water-saving brochure includes “identify omitted viewpoints/data”. Which description best fits this wording?",
+    "question": "Which revision is most objective: “The greedy company grabbed another 20 hectares”?",
+    "audioPrompt": "Which revision is most objective: “The greedy company grabbed another 20 hectares”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,16 +257,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "objective-style",
-      "subjective",
-      "identify omitted viewpoints/data",
-      "attributed opinion"
+      "The company purchased an additional 20 hectares.",
+      "The wonderful company gained land.",
+      "The company greedily stole everything.",
+      "Everyone hated the purchase."
     ],
-    "correct": 2,
-    "explanation": "The wording best matches identify omitted viewpoints/data.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "The revision states the action and quantity without assuming motive.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The wording best matches identify omitted viewpoints/data.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "The revision states the action and quantity without assuming motive.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -274,12 +274,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-010",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "bias",
+    "stage": "evaluate",
+    "skill": "data language",
     "printable": true,
     "type": "single",
-    "question": "In a local council submission, which term matches this meaning: “systematic positioning or imbalance affecting representation”?",
-    "audioPrompt": "In a local council submission, which term matches this meaning: “systematic positioning or imbalance affecting representation”?",
+    "question": "A graph shows a rise from 50 to 52. Which description is most responsible?",
+    "audioPrompt": "A graph shows a rise from 50 to 52. Which description is most responsible?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,16 +287,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "objective language",
-      "subjective language",
-      "It does not match the evidence in the example.",
-      "bias"
+      "The value increased by two units.",
+      "The value skyrocketed.",
+      "The result proves permanent success.",
+      "The change is unbelievable."
     ],
-    "correct": 3,
-    "explanation": "bias is the precise term for systematic positioning or imbalance affecting representation.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 0,
+    "explanation": "The neutral description matches the size of the recorded change.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "bias is the precise term for systematic positioning or imbalance affecting representation.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "The neutral description matches the size of the recorded change.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -304,12 +304,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-011",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "objective subjective and biased language",
+    "stage": "analyse",
+    "skill": "fact-opinion blend",
     "printable": true,
     "type": "single",
-    "question": "For a marine-research diary, which sentence is most objective?",
-    "audioPrompt": "For a marine-research diary, which sentence is most objective?",
+    "question": "Which part of “The unsafe crossing recorded three accidents last year” is evaluative?",
+    "audioPrompt": "Which part of “The unsafe crossing recorded three accidents last year” is evaluative?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,16 +317,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The survey included 240 respondents",
-      "The ridiculous survey wasted everyone’s time",
-      "The brilliant result proves everything",
-      "Everyone hated the survey"
+      "unsafe",
+      "three",
+      "last year",
+      "recorded"
     ],
     "correct": 0,
-    "explanation": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "explanation": "The accident count is checkable, while “unsafe” interprets what that evidence means.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "The accident count is checkable, while “unsafe” interprets what that evidence means.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -334,12 +334,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-012",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "independent misconception check",
+    "stage": "evaluate",
+    "skill": "source interest",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a farmers market profile says, “Neutral tone proves no bias”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a farmers market profile says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "question": "Why should readers notice that a tourism company funded a study praising tourism growth?",
+    "audioPrompt": "Why should readers notice that a tourism company funded a study praising tourism growth?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,16 +347,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Any adjective is subjective",
-      "Selection and omission can position readers.",
-      "Neutral tone proves no bias",
-      "Quoted opinion becomes fact"
+      "The funder may have an interest in the conclusion.",
+      "Funding makes all data false.",
+      "Tourism cannot be studied.",
+      "Companies cannot publish reports."
     ],
-    "correct": 1,
-    "explanation": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "An interested funder does not disprove the evidence, but it is relevant when evaluating possible bias.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "An interested funder does not disprove the evidence, but it is relevant when evaluating possible bias.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -364,12 +364,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-013",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "identify claim",
+    "stage": "analyse",
+    "skill": "visual bias",
     "printable": true,
     "type": "single",
-    "question": "A astronomy exhibition includes “identify claim”. Which description best fits this wording?",
-    "audioPrompt": "A astronomy exhibition includes “identify claim”. Which description best fits this wording?",
+    "question": "Which graph choice can exaggerate a small difference?",
+    "audioPrompt": "Which graph choice can exaggerate a small difference?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,16 +377,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "objective-style",
-      "subjective",
-      "identify claim",
-      "attributed opinion"
+      "A vertical axis covering only 97–100",
+      "Clearly labelled units",
+      "A source note",
+      "Equal-width bars"
     ],
-    "correct": 2,
-    "explanation": "The wording best matches identify claim.\nHint: Identify the language choice first, then check its effect in this context.",
+    "correct": 0,
+    "explanation": "A very narrow axis range can make a small numerical change look visually dramatic.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The wording best matches identify claim.",
-      "hint": "Identify the language choice first, then check its effect in this context."
+      "summary": "A very narrow axis range can make a small numerical change look visually dramatic.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -395,11 +395,11 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
     "stage": "apply",
-    "skill": "objective language",
+    "skill": "remove generalisation",
     "printable": true,
     "type": "single",
-    "question": "In a river-restoration update, which term matches this meaning: “wording centred on verifiable information”?",
-    "audioPrompt": "In a river-restoration update, which term matches this meaning: “wording centred on verifiable information”?",
+    "question": "Which revision improves “Teenagers never read reliable news”?",
+    "audioPrompt": "Which revision improves “Teenagers never read reliable news”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,16 +407,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "subjective language",
-      "bias",
-      "It does not match the evidence in the example.",
-      "objective language"
+      "The surveyed group relied mainly on social-media summaries.",
+      "Teenagers always behave badly.",
+      "Nobody reads news now.",
+      "Reliable news is boring."
     ],
-    "correct": 3,
-    "explanation": "objective language is the precise term for wording centred on verifiable information.\nHint: Distinguish closely related terms by their definitions.",
+    "correct": 0,
+    "explanation": "The revision limits the claim to observed evidence and avoids stereotyping a whole group.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "objective language is the precise term for wording centred on verifiable information.",
-      "hint": "Distinguish closely related terms by their definitions."
+      "summary": "The revision limits the claim to observed evidence and avoids stereotyping a whole group.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -424,12 +424,12 @@ window.skillrTestQuestions = [
     "id": "AC9E6LA02-T-015",
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
-    "stage": "apply",
-    "skill": "objective subjective and biased language",
+    "stage": "evaluate",
+    "skill": "compare versions",
     "printable": true,
     "type": "single",
-    "question": "For a cycling-safety campaign, which sentence is most objective?",
-    "audioPrompt": "For a cycling-safety campaign, which sentence is most objective?",
+    "question": "Version A calls a crowd “determined”; Version B calls it “stubborn”. What should an analysis explain?",
+    "audioPrompt": "Version A calls a crowd “determined”; Version B calls it “stubborn”. What should an analysis explain?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,16 +437,16 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The survey included 240 respondents",
-      "The ridiculous survey wasted everyone’s time",
-      "The brilliant result proves everything",
-      "Everyone hated the survey"
+      "The shared denotation and contrasting connotations",
+      "Only which word is longer",
+      "That both words are objective measurements",
+      "That connotation never affects tone"
     ],
     "correct": 0,
-    "explanation": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "explanation": "The words describe persistence but position the crowd positively or negatively.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“The survey included 240 respondents” is supported by the language evidence and purpose of the text.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "The words describe persistence but position the crowd positively or negatively.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -455,11 +455,11 @@ window.skillrTestQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "test",
     "stage": "apply",
-    "skill": "independent misconception check",
+    "skill": "synthesise bias analysis",
     "printable": true,
     "type": "single",
-    "question": "A writer preparing a neighbourhood history podcast says, “Neutral tone proves no bias”. Which response is most accurate?",
-    "audioPrompt": "A writer preparing a neighbourhood history podcast says, “Neutral tone proves no bias”. Which response is most accurate?",
+    "question": "Which response best analyses bias?",
+    "audioPrompt": "Which response best analyses bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,19 +467,18 @@ window.skillrTestQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Any adjective is subjective",
-      "Selection and omission can position readers.",
-      "Neutral tone proves no bias",
-      "Quoted opinion becomes fact"
+      "The article favours the proposal by quoting only supporters and calling objections “petty”.",
+      "The article is biased because I disagree.",
+      "The article contains paragraphs.",
+      "The article must be false."
     ],
-    "correct": 1,
-    "explanation": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.\nHint: Check whether the statement makes an unjustified always/never rule.",
+    "correct": 0,
+    "explanation": "The response identifies specific selection and wording evidence and explains the direction of bias.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Selection and omission can position readers. This response corrects the overgeneralisation and keeps the decision tied to evidence.",
-      "hint": "Check whether the statement makes an unjustified always/never rule."
+      "summary": "The response identifies specific selection and wording evidence and explains the direction of bias.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   }
 ];
-window.skillrExamQuestions = window.skillrTestQuestions;
 window.quizQuestions = window.skillrTestQuestions;
