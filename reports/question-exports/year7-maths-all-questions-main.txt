@@ -1,9 +1,9 @@
-SKILLRHUB YEAR 7 MATHEMATICS — ALL COMMITTED QUESTIONS
-========================================================================
+SKILLRHUB YEAR 7 MATHEMATICS — ALL COMMITTED LIVE QUESTIONS
+==============================================================================
 Source branch: main
-Source commit: bf27d920a27ae8e4132dd88694ff7bf7711f02e0
-Canonical source: assets/assessment-banks/year7/math/*.json
-Curriculum codes: 30
+Source commit: b7f3d5dac6583fcf13bc0cacf31f58a4241122a2
+Production source: quiz/year-7/math/<code>/practice/questions.js and test/questions.js
+Curriculum codes exported: 30
 Practice questions: 1440
 Test questions: 480
 Total questions: 1920
@@ -11,11 +11,11 @@ Total questions: 1920
 
 
 AC9M7A01
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A01-P-001] [easy] In A = l × w, what does l represent?
 02. [AC9M7A01-P-002] [easy] In p = 6g + b for Australian football scoring, what does g represent?
 03. [AC9M7A01-P-003] [easy] In p = 6g + b, what does the 6 mean?
@@ -66,7 +66,7 @@ PRACTICE
 48. [AC9M7A01-P-048] [super-hard] Use W=b+1.5hr with b=600,h=4,r=30. What is the output?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A01-T-001] [easy] A rectangle has A=lw. If A=162 m² and l=18 m, what is w?
 02. [AC9M7A01-T-002] [easy] A team scores p=6g+b. If p=47 and g=5, how many behinds were scored?
 03. [AC9M7A01-T-003] [easy] Using W=b+1.5rh, b=$720, r=$24 and W=$900. Find h.
@@ -85,11 +85,11 @@ TEST
 16. [AC9M7A01-T-016] [super-hard] A hypothetical channel model uses Q=Av. If A=15 m² and v=1.6 m/s, which interpretation is correct?
 
 AC9M7A02
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A02-P-001] [easy] Which expression represents a+a+a+a+a+a+a?
 02. [AC9M7A02-P-002] [easy] Which expression means 12 multiplied by k?
 03. [AC9M7A02-P-003] [easy] Which expression is equivalent to 4(x+x+x)?
@@ -140,7 +140,7 @@ PRACTICE
 48. [AC9M7A02-P-048] [super-hard] A temperature starts at x degrees and falls by 9 degrees. Which expression models the situation?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A02-T-001] [easy] Simplify 2a+5a+3a.
 02. [AC9M7A02-T-002] [easy] Which expression means five times the difference between x and 6?
 03. [AC9M7A02-T-003] [easy] Three more than twice a number is:
@@ -159,11 +159,11 @@ TEST
 16. [AC9M7A02-T-016] [super-hard] A pattern has term value 5n+2. What is the change in value when n increases by 1?
 
 AC9M7A03
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A03-P-001] [easy] Is x=5 a solution to 3x+4=19?
 02. [AC9M7A03-P-002] [easy] Is x=7 a solution to 5x-6=29?
 03. [AC9M7A03-P-003] [easy] Is x=9 a solution to 2x+3=21?
@@ -214,7 +214,7 @@ PRACTICE
 48. [AC9M7A03-P-048] [super-hard] Solve 7x + 3 = 31. What is x?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A03-T-001] [easy] Which value satisfies 5x-7=38?
 02. [AC9M7A03-T-002] [easy] Solve 7x-11=24.
 03. [AC9M7A03-T-003] [easy] Solve 4(x-6)=40.
@@ -233,11 +233,11 @@ TEST
 16. [AC9M7A03-T-016] [super-hard] After solving an equation, what is the strongest check?
 
 AC9M7A04
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A04-P-001] [easy] An electricity-use graph rises sharply at 7 pm. What does this show?
 02. [AC9M7A04-P-002] [easy] A gas-use graph is horizontal from midnight to 5 am. What can be concluded from the graph alone?
 03. [AC9M7A04-P-003] [easy] A temperature graph has a steep negative slope from 2 am to 4 am. What does this mean?
@@ -288,7 +288,7 @@ PRACTICE
 48. [AC9M7A04-P-048] [super-hard] A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6. Which interpretation is supported?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A04-T-001] [easy] A building-use graph is low overnight, rises sharply at 7 am, stays nearly flat from 9 am to 5 pm, then peaks at 6 pm. Which statement is best supported?
 02. [AC9M7A04-T-002] [easy] A distance-from-home graph rises steeply for 10 minutes, is horizontal for 5 minutes, then falls gently to zero. Which story matches?
 03. [AC9M7A04-T-003] [easy] On a distance-time graph, segment A rises 150 m in 3 min and segment B rises 180 m in 6 min. Which segment represents greater speed?
@@ -307,11 +307,11 @@ TEST
 16. [AC9M7A04-T-016] [super-hard] A graph compares temperature and evaporation over time. Both rise through midday, then evaporation falls sooner than temperature. What is the best conclusion?
 
 AC9M7A05
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A05-P-001] [easy] For y = 3x + 2, what is y when x = 5?
 02. [AC9M7A05-P-002] [easy] Which table is linear with a non-zero constant difference?
 03. [AC9M7A05-P-003] [easy] A table's y-values increase by 6 whenever x increases by 1. Which form must its rule have?
@@ -362,7 +362,7 @@ PRACTICE
 48. [AC9M7A05-P-048] [super-hard] Figures 1 to 4 contain 7, 11, 15, 19 tiles. Which rule and next value fit the pattern?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A05-T-001] [easy] For y=4x−3, what is y when x=6?
 02. [AC9M7A05-T-002] [easy] A table has points (1,7), (2,11), (3,15). Which rule fits?
 03. [AC9M7A05-T-003] [easy] Which sequence has a linear step-number relationship?
@@ -381,11 +381,11 @@ TEST
 16. [AC9M7A05-T-016] [super-hard] A water tank contains 12 L at cycle 1 and gains 7 L each cycle. Which pair correctly gives the rule and cycle-8 value?
 
 AC9M7A06
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A06-P-001] [easy] For V = lwh, l = 10 and w = 4 are fixed. What happens to V if h doubles?
 02. [AC9M7A06-P-002] [easy] For V = lwh with l = 8 and w = 5, what volumes correspond to h = 1, 2, 3, 4?
 03. [AC9M7A06-P-003] [easy] If width increases while length and height stay positive and fixed, what happens to volume?
@@ -436,7 +436,7 @@ PRACTICE
 48. [AC9M7A06-P-048] [super-hard] For V = lwh, l, w and h all double. What happens to the output?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7A06-T-001] [easy] For V=lwh, find V when l=9 cm, w=4 cm and h=6 cm.
 02. [AC9M7A06-T-002] [easy] For V=lwh, l=5 and w=8 are fixed. If h changes from 3 to 7, by how much does V increase?
 03. [AC9M7A06-T-003] [easy] A prism has V=420 cm³, l=10 cm and w=7 cm. Find h.
@@ -455,11 +455,11 @@ TEST
 16. [AC9M7A06-T-016] [super-hard] For F=3x+2y−4z+15, which change leaves F unchanged?
 
 AC9M7M01
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M01-P-001] [easy] Why is the area of a triangle with base b and perpendicular height h equal to 1/2 bh?
 02. [AC9M7M01-P-002] [easy] Which formula gives the area of a parallelogram?
 03. [AC9M7M01-P-003] [easy] A rectangle is cut along a diagonal. What is the area of each triangle?
@@ -510,7 +510,7 @@ PRACTICE
 48. [AC9M7M01-P-048] [super-hard] Reasoning 1: A parallelogram has area 72 cm² and perpendicular height 6 cm. Find its base.
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M01-T-001] [easy] Which statement best explains A=1/2 bh for a triangle?
 02. [AC9M7M01-T-002] [easy] A parallelogram has base 18 cm, slanted side 11 cm and perpendicular height 7 cm. What is its area?
 03. [AC9M7M01-T-003] [easy] A triangle has base 16 cm and perpendicular height 13 cm. Find its area.
@@ -529,11 +529,11 @@ TEST
 16. [AC9M7M01-T-016] [super-hard] Triangle A has base 18 cm and height 8 cm. Triangle B has base 12 cm. What height gives Triangle B the same area?
 
 AC9M7M02
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M02-P-001] [easy] Which formula gives the volume V of any prism with constant cross-sectional area B and perpendicular prism length h?
 02. [AC9M7M02-P-002] [easy] A rectangular prism is 3 cm by 4 cm by 5 cm. How many 1 cm³ cubes exactly fill it?
 03. [AC9M7M02-P-003] [easy] A triangular prism has triangular cross-section base 10 cm and perpendicular height 6 cm, and prism length 12 cm. What is its volume?
@@ -584,7 +584,7 @@ PRACTICE
 48. [AC9M7M02-P-048] [super-hard] Reasoning 1: A triangular prism has triangular base area 18 cm² and length 5 cm. Find its volume.
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M02-T-001] [easy] A triangular prism has triangle base 14 cm, perpendicular triangle height 8 cm and prism length 9 cm. Find its volume.
 02. [AC9M7M02-T-002] [easy] A prism has volume 728 cm³ and length 14 cm. What is its cross-sectional area?
 03. [AC9M7M02-T-003] [easy] A rectangular prism has volume 960 cm³, width 8 cm and height 10 cm. Find its length.
@@ -603,11 +603,11 @@ TEST
 16. [AC9M7M02-T-016] [super-hard] A triangular prism and a rectangular prism both have length 20 cm and volume 1200 cm³. What must be true?
 
 AC9M7M03
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M03-P-001] [easy] Which statement about the radius and diameter is always true?
 02. [AC9M7M03-P-002] [easy] The diameter of a circle is 18 cm. What is the radius?
 03. [AC9M7M03-P-003] [easy] Which feature of a circle is the distance around it?
@@ -658,7 +658,7 @@ PRACTICE
 48. [AC9M7M03-P-048] [super-hard] Inverse 17: A circle has circumference 18π cm. Find its radius.
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M03-T-001] [easy] Which measurement is needed to calculate circumference using C = 2πr?
 02. [AC9M7M03-T-002] [easy] A circle has circumference 31.4 cm. What is its radius? Use π ≈ 3.14.
 03. [AC9M7M03-T-003] [easy] Which statement is correct?
@@ -677,11 +677,11 @@ TEST
 16. [AC9M7M03-T-016] [super-hard] Why is π relevant when measuring circular cultural or everyday designs?
 
 AC9M7M04
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M04-P-001] [easy] Angles in matching corners when a transversal crosses parallel lines are called:
 02. [AC9M7M04-P-002] [easy] Angles on opposite sides of the transversal and inside the parallel lines are:
 03. [AC9M7M04-P-003] [easy] Angles on the same side of the transversal and inside the parallel lines are:
@@ -732,7 +732,7 @@ PRACTICE
 48. [AC9M7M04-P-048] [super-hard] Angle proof 1: Parallel lines are cut by a transversal. One co-interior angle is 110°. Find the other and name the relationship.
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M04-T-001] [easy] Which angle pair guarantees parallel lines when equal?
 02. [AC9M7M04-T-002] [easy] Angles on opposite sides of a transversal but outside the parallel lines are:
 03. [AC9M7M04-T-003] [easy] Which angle pair is not necessarily equal when lines are parallel?
@@ -751,11 +751,11 @@ TEST
 16. [AC9M7M04-T-016] [super-hard] An alternate interior angle is 3x°. What is the corresponding angle in the same equal-angle family?
 
 AC9M7M05
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M05-P-001] [easy] The sum of the interior angles of any triangle is:
 02. [AC9M7M05-P-002] [easy] A triangle has angles 50°, 60° and x°. Find x.
 03. [AC9M7M05-P-003] [easy] A triangle has angles 35°, 75° and x°. Find x.
@@ -806,7 +806,7 @@ PRACTICE
 48. [AC9M7M05-P-048] [super-hard] Polygon 1: What is the interior-angle sum of a 5-gon?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M05-T-001] [easy] A triangle has angles (x+10)°, 2x° and 3x°. Find x.
 02. [AC9M7M05-T-002] [easy] An isosceles triangle has a vertex angle of 38°. What is each base angle?
 03. [AC9M7M05-T-003] [easy] A triangle has one angle twice a second angle. The third angle is 45°. If the smaller of the first two angles is x°, find x.
@@ -825,11 +825,11 @@ TEST
 16. [AC9M7M05-T-016] [super-hard] A regular polygon has an interior angle of 135°. Which polygon is it?
 
 AC9M7M06
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M06-P-001] [easy] Ratio 4:9 represents how many total parts?
 02. [AC9M7M06-P-002] [easy] In the ratio 2:7, what fraction of the whole is the first part?
 03. [AC9M7M06-P-003] [easy] Simplify 12:3.
@@ -880,7 +880,7 @@ PRACTICE
 48. [AC9M7M06-P-048] [super-hard] When a ratio model gives 2.4 kg of an ingredient but the ingredient is sold only in whole-kilogram bags, what should you do?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7M06-T-001] [easy] A paint mix uses red:blue = 3:5. If 320 mL of paint is made, how much red paint is required?
 02. [AC9M7M06-T-002] [easy] A recipe uses flour:sugar = 7:2. If 560 g of flour is used, how much sugar is needed?
 03. [AC9M7M06-T-003] [easy] A concrete mix has cement:sand:gravel = 2:3:5 and totals 80 kg. How much gravel is used?
@@ -899,11 +899,11 @@ TEST
 16. [AC9M7M06-T-016] [super-hard] A 2:3:5 mixture totals 1.5 kg. How much is the smallest component?
 
 AC9M7N01
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N01-P-001] [1] Which number is a perfect square?
 02. [AC9M7N01-P-002] [1] What is √81?
 03. [AC9M7N01-P-003] [1] Which pair correctly shows inverse operations?
@@ -954,7 +954,7 @@ PRACTICE
 48. [AC9M7N01-P-049] [4] Square A has area 441 cm². Square B has side length 3 cm longer than Square A. What is Square B’s area?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N01-T-001] [1] Which value is a perfect square?
 02. [AC9M7N01-T-002] [1] Evaluate √324.
 03. [AC9M7N01-T-003] [1] Which statement correctly reverses 16² = 256?
@@ -973,11 +973,11 @@ TEST
 16. [AC9M7N01-T-016] [4] A perfect-square area is greater than 1000 but less than 1050. What is the side length of the square?
 
 AC9M7N02
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N02-P-001] [easy] What is the prime factorisation of 360?
 02. [AC9M7N02-P-002] [easy] Which number has prime factorisation 2⁴ × 3²?
 03. [AC9M7N02-P-003] [easy] What is the prime factorisation of 840?
@@ -1028,7 +1028,7 @@ PRACTICE
 48. [AC9M7N02-P-048] [super-hard] Challenge 2: Which prime-power factorisation equals 90?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N02-T-001] [easy] What is the prime factorisation of 1152?
 02. [AC9M7N02-T-002] [easy] What is the prime factorisation of 945?
 03. [AC9M7N02-T-003] [easy] Which number equals 2⁴×3×11?
@@ -1047,11 +1047,11 @@ TEST
 16. [AC9M7N02-T-016] [super-hard] Find the highest common factor of 30 and 45.
 
 AC9M7N03
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N03-P-001] [easy] What is 10^0?
 02. [AC9M7N03-P-002] [easy] What is 10^1?
 03. [AC9M7N03-P-003] [easy] What is 10^2?
@@ -1102,7 +1102,7 @@ PRACTICE
 48. [AC9M7N03-P-048] [super-hard] Check 24: Which method best verifies an expanded power-of-10 form?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N03-T-001] [easy] Which numeral equals 9×10⁶ + 3×10⁵ + 5×10²?
 02. [AC9M7N03-T-002] [easy] Which numeral equals 6×10⁴ + 7×10³ + 2?
 03. [AC9M7N03-T-003] [easy] Which numeral equals 5×10⁷ + 4×10⁵ + 8×10² + 1?
@@ -1121,11 +1121,11 @@ TEST
 16. [AC9M7N03-T-016] [super-hard] Which is the standard expanded form of 3,000,207?
 
 AC9M7N04
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N04-P-001] [easy] Which decimal and percentage are equivalent to 1/2?
 02. [AC9M7N04-P-002] [easy] Which decimal and percentage are equivalent to 3/8?
 03. [AC9M7N04-P-003] [easy] Simplify 6/8.
@@ -1176,7 +1176,7 @@ PRACTICE
 48. [AC9M7N04-P-048] [super-hard] Number-line 24: 7/10 lies between which consecutive tenths?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N04-T-001] [easy] Simplify 42/56.
 02. [AC9M7N04-T-002] [easy] Which is smaller: -65% and -0.6?
 03. [AC9M7N04-T-003] [easy] Simplify 45/60.
@@ -1195,11 +1195,11 @@ TEST
 16. [AC9M7N04-T-016] [super-hard] Which is smaller: -1.25 and -6/5?
 
 AC9M7N05
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N05-P-001] [easy] Round 47.386 to the nearest whole number.
 02. [AC9M7N05-P-002] [easy] Round 306.449 to 1 decimal place.
 03. [AC9M7N05-P-003] [easy] Round 5.444 to 2 decimal places.
@@ -1250,7 +1250,7 @@ PRACTICE
 48. [AC9M7N05-P-048] [super-hard] Error check 24: A result is reported to 2 decimal places. What is the maximum rounding error?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N05-T-001] [easy] Which is the best estimate of 398 × 21?
 02. [AC9M7N05-T-002] [easy] A value rounds to 6.2 to the nearest 0.1. Which bounds describe the original value x?
 03. [AC9M7N05-T-003] [easy] Which is the best estimate of 0.49 × 198?
@@ -1269,11 +1269,11 @@ TEST
 16. [AC9M7N05-T-016] [super-hard] A value rounds to 3.05 to the nearest 0.01. Which bounds describe the original value x?
 
 AC9M7N06
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N06-P-001] [easy] Calculate 3/4 + 0.35.
 02. [AC9M7N06-P-002] [easy] Calculate 1.75 + 3/8.
 03. [AC9M7N06-P-003] [easy] Calculate 1.25 × 3/5.
@@ -1324,7 +1324,7 @@ PRACTICE
 48. [AC9M7N06-P-048] [super-hard] Mixed 24: Which operation should be completed first in 3/4 + 0.5 × 20%?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N06-T-001] [easy] What is 12.5% of 80?
 02. [AC9M7N06-T-002] [easy] Calculate 4.8 ÷ 0.12.
 03. [AC9M7N06-T-003] [easy] What is 17.5% of 240?
@@ -1343,11 +1343,11 @@ TEST
 16. [AC9M7N06-T-016] [super-hard] Calculate 0.48 × 2.5.
 
 AC9M7N07
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N07-P-001] [easy] Which statement is true?
 02. [AC9M7N07-P-002] [easy] Which integer is greater?
 03. [AC9M7N07-P-003] [easy] Which comparison is correct?
@@ -1398,7 +1398,7 @@ PRACTICE
 48. [AC9M7N07-P-048] [super-hard] Order -30, 0, -3, 30 from smallest to largest.
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N07-T-001] [easy] Which list is ordered from least to greatest?
 02. [AC9M7N07-T-002] [easy] What is the distance between −11 and 6?
 03. [AC9M7N07-T-003] [easy] Evaluate −13 − (−8).
@@ -1417,11 +1417,11 @@ TEST
 16. [AC9M7N07-T-016] [super-hard] Calculate 7 + (-3).
 
 AC9M7N08
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N08-P-001] [easy] What does the ratio 1:4 mean?
 02. [AC9M7N08-P-002] [easy] How many total parts are in the ratio 3:5?
 03. [AC9M7N08-P-003] [easy] How many total parts are in 1:1:2?
@@ -1472,7 +1472,7 @@ PRACTICE
 48. [AC9M7N08-P-048] [super-hard] Simplify the ratio 84:126.
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N08-T-001] [easy] Which ratio is equivalent to 6:15?
 02. [AC9M7N08-T-002] [easy] The ratio cats:dogs is 3:7. What fraction of all pets are cats?
 03. [AC9M7N08-T-003] [easy] Share $132 in the ratio 5:6. What is the larger share?
@@ -1491,11 +1491,11 @@ TEST
 16. [AC9M7N08-T-016] [super-hard] A ratio 4:6 is scaled so the second quantity becomes 45. What is the first quantity?
 
 AC9M7N09
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N09-P-001] [easy] A lift starts at floor 0, goes up 5 floors, then down 8 floors. What is the final floor?
 02. [AC9M7N09-P-002] [easy] A hiker is at −120 m relative to sea level and climbs 85 m. What is the new altitude?
 03. [AC9M7N09-P-003] [easy] A submarine at −300 m rises 120 m then descends 50 m. What is its final depth?
@@ -1546,7 +1546,7 @@ PRACTICE
 48. [AC9M7N09-P-048] [super-hard] An item costs $56 and is discounted by 25%. What is the sale price?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7N09-T-001] [easy] A lift starts at floor −3, rises 11 floors, then descends 6. What is the final floor?
 02. [AC9M7N09-T-002] [easy] A climber moves from −45 m to +25 m relative to sea level. What is the total change in altitude?
 03. [AC9M7N09-T-003] [easy] 62% of 750 students attend an event. How many attend?
@@ -1565,11 +1565,11 @@ TEST
 16. [AC9M7N09-T-016] [super-hard] Which conclusion best demonstrates mathematical modelling rather than calculation alone?
 
 AC9M7P01
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7P01-P-001] [easy] What is a sample space?
 02. [AC9M7P01-P-002] [easy] What is an event?
 03. [AC9M7P01-P-003] [easy] What is one trial?
@@ -1620,7 +1620,7 @@ PRACTICE
 48. [AC9M7P01-P-048] [super-hard] Which sample space is appropriate for one random letter chosen from A,B,C?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7P01-T-001] [easy] A spinner has sectors with probabilities Red 0.45, Blue 0.30, Green 0.25. Which check confirms a complete probability model?
 02. [AC9M7P01-T-002] [easy] A spinner has P(red)=0.4 and P(blue)=0.35. If green is the only other outcome, P(green)=
 03. [AC9M7P01-T-003] [easy] A bag contains 3 red, 5 blue and 2 green identical counters. P(not blue)=
@@ -1639,11 +1639,11 @@ TEST
 16. [AC9M7P01-T-016] [super-hard] If P(not rain)=0.65, then P(rain)=
 
 AC9M7P02
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7P02-P-001] [easy] A coin simulator runs 50 trials and gives 22 heads. Relative frequency of heads is:
 02. [AC9M7P02-P-002] [easy] A fair die is rolled 120 times. Expected number of sixes:
 03. [AC9M7P02-P-003] [easy] A spinner has 4 equal colours and is spun 80 times. Expected frequency of one colour:
@@ -1694,7 +1694,7 @@ PRACTICE
 48. [AC9M7P02-P-048] [super-hard] Why are simulations useful for rare events?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7P02-T-001] [easy] A fair coin is tossed 200 times. Expected heads are 100; observed heads are 94. Which comparison is correct?
 02. [AC9M7P02-T-002] [easy] The relative frequency of heads in that experiment is:
 03. [AC9M7P02-T-003] [easy] A 2000-trial fair-coin simulation gives 1012 heads. Relative frequency:
@@ -1713,11 +1713,11 @@ TEST
 16. [AC9M7P02-T-016] [super-hard] Theoretical probability of sum 8 with two fair dice is 5/36≈0.1389. Difference from observed is about:
 
 AC9M7SP01
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7SP01-P-001] [easy] A net is best described as:
 02. [AC9M7SP01-P-002] [easy] How many different nets does a cube have?
 03. [AC9M7SP01-P-003] [easy] A triangular prism net must contain:
@@ -1768,7 +1768,7 @@ PRACTICE
 48. [AC9M7SP01-P-048] [super-hard] Why might a net be poor for showing what a finished package looks like on a shelf?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7SP01-T-001] [easy] A company must print artwork on every face of a carton before folding it. Which representation should the printer request?
 02. [AC9M7SP01-T-002] [easy] Two block structures have identical front and side views but different top views. What must be true?
 03. [AC9M7SP01-T-003] [easy] A top view shows four occupied grid squares. Can you conclude the object contains exactly four cubes?
@@ -1787,11 +1787,11 @@ TEST
 16. [AC9M7SP01-T-016] [super-hard] A packaging designer needs to minimise cardboard waste around a net. What information does the net provide that an isometric sketch does not provide as directly?
 
 AC9M7SP02
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7SP02-P-001] [easy] Why is a triangle made from fixed-length hinged strips rigid?
 02. [AC9M7SP02-P-002] [easy] Why can a hinged quadrilateral flex while keeping its side lengths fixed?
 03. [AC9M7SP02-P-003] [easy] What is a common way to make a flexible quadrilateral frame rigid?
@@ -1842,7 +1842,7 @@ PRACTICE
 48. [AC9M7SP02-P-048] [super-hard] A regular polygon has:
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7SP02-T-001] [easy] A hinged frame has sides 5, 7, 5 and 7 cm. It can be pushed into several shapes without changing side lengths. What is the best explanation?
 02. [AC9M7SP02-T-002] [easy] Why does adding one diagonal brace to a rectangular frame increase rigidity?
 03. [AC9M7SP02-T-003] [easy] A builder has rods 4 m, 6 m and x m. Which value of x cannot make a triangle?
@@ -1861,11 +1861,11 @@ TEST
 16. [AC9M7SP02-T-016] [super-hard] Which property would turn a general parallelogram into a rectangle?
 
 AC9M7SP03
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7SP03-P-001] [easy] A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?
 02. [AC9M7SP03-P-002] [easy] A Year 7 student is solving a problem involving reflect in y axis. Which option is mathematically valid?
 03. [AC9M7SP03-P-003] [easy] A Year 7 student is solving a problem involving rotate 90. Which option is mathematically valid?
@@ -1916,7 +1916,7 @@ PRACTICE
 48. [AC9M7SP03-P-048] [super-hard] If a motif repeats every quarter-turn around a centre, the smallest rotational angle is:
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7SP03-T-001] [easy] A translation maps P(−3,4) to P'(5,−2). Which rule describes it?
 02. [AC9M7SP03-T-002] [easy] Triangle A(−2,1), B(1,1), C(0,4) is translated by (+5,−3). What is C'?
 03. [AC9M7SP03-T-003] [easy] A point is translated by vector (a,b) and then by (−a,−b). Net effect:
@@ -1935,11 +1935,11 @@ TEST
 16. [AC9M7SP03-T-016] [super-hard] A point (3,4) and its 90° rotated image are both how far from the origin?
 
 AC9M7SP04
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7SP04-P-001] [easy] A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?
 02. [AC9M7SP04-P-002] [easy] A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?
 03. [AC9M7SP04-P-003] [easy] A Year 7 student is solving a problem involving set a stopping condition. Which option is mathematically valid?
@@ -1990,7 +1990,7 @@ PRACTICE
 48. [AC9M7SP04-P-048] [super-hard] Which test best checks whether a classification algorithm works?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7SP04-T-001] [easy] A triangle algorithm checks 'all sides equal?' then 'two sides equal?'. Why is this order efficient?
 02. [AC9M7SP04-T-002] [easy] A triangle has sides 7,7,7 and angles 60°,60°,60°. A complete algorithm should output:
 03. [AC9M7SP04-T-003] [easy] A triangle has sides 5,5,8 and one 100° angle. The best combined output is:
@@ -2009,11 +2009,11 @@ TEST
 16. [AC9M7SP04-T-016] [super-hard] A polygon has 6 sides and one reflex interior angle. What can you conclude immediately?
 
 AC9M7ST01
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7ST01-P-001] [easy] What is the mean of a numerical data set?
 02. [AC9M7ST01-P-002] [easy] What is the median?
 03. [AC9M7ST01-P-003] [easy] What is the mode?
@@ -2064,7 +2064,7 @@ PRACTICE
 48. [AC9M7ST01-P-048] [super-hard] Which pair of statistics is useful when discussing possible skewness?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7ST01-T-001] [easy] For 5,7,7,8,9,10,10,11,12,12,13,30, which pair is correct?
 02. [AC9M7ST01-T-002] [easy] Which option correctly fixes the previous calculation?
 03. [AC9M7ST01-T-003] [easy] For 12,13,14,15,16,17,60, the mean is approximately:
@@ -2083,11 +2083,11 @@ TEST
 16. [AC9M7ST01-T-016] [super-hard] Why should 30.0°C be investigated?
 
 AC9M7ST02
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7ST02-P-001] [easy] A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?
 02. [AC9M7ST02-P-002] [easy] A Year 7 student is solving a problem involving find median from display. Which option is mathematically valid?
 03. [AC9M7ST02-P-003] [easy] A Year 7 student is solving a problem involving compare ranges. Which option is mathematically valid?
@@ -2138,7 +2138,7 @@ PRACTICE
 48. [AC9M7ST02-P-048] [super-hard] Comparison 41: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7ST02-T-001] [easy] A Year 7 student is solving a problem involving choose an effective display. Which option is mathematically valid?
 02. [AC9M7ST02-T-002] [easy] What should be checked when applying compare ranges in numerical data displays and distribution comparison?
 03. [AC9M7ST02-T-003] [easy] Which response best uses describe skew/cluster/gap in numerical data displays and distribution comparison?
@@ -2157,11 +2157,11 @@ TEST
 16. [AC9M7ST02-T-016] [super-hard] Assessment 13: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?
 
 AC9M7ST03
-------------------------------------------------------------------------
+------------------------------------------------------------------------------
 Practice: 48 | Test: 16 | Total: 64
 
 PRACTICE
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7ST03-P-001] [easy] What is the first step in a statistical investigation?
 02. [AC9M7ST03-P-002] [easy] Which is the strongest investigation question?
 03. [AC9M7ST03-P-003] [easy] Reaction time is usually:
@@ -2212,7 +2212,7 @@ PRACTICE
 48. [AC9M7ST03-P-048] [super-hard] A conclusion should be based on:
 
 TEST
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 01. [AC9M7ST03-T-001] [easy] A class wants to compare reaction times between two groups. Which plan is strongest?
 02. [AC9M7ST03-T-002] [easy] Why can a convenience sample weaken an investigation?
 03. [AC9M7ST03-T-003] [easy] A very large biased sample is:
