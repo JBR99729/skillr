@@ -1,613 +1,2050 @@
 [
   {
-    "id": "ac9m7st01-p-001",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
     "bank": "practice",
-    "skill": "classify_variable_type",
-    "question": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "What is the mean of a numerical data set?",
     "answers": [
       {
-        "text": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
+        "text": "sum of all values divided by the number of values",
         "is_correct": true
       },
       {
-        "text": "Median found before ordering",
+        "text": "middle ordered value",
         "is_correct": false
       },
       {
-        "text": "Sort values first",
+        "text": "most frequent value",
         "is_correct": false
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "largest minus smallest",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
-      "hint": "Sort values first."
+      "summary": "The mean is the arithmetic average.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7ST01-P-001"
   },
   {
-    "id": "ac9m7st01-p-002",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
     "bank": "practice",
-    "skill": "calculate_mean_median_mode_range",
-    "question": "A Year 7 student is solving a problem involving calculate mean median mode range. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving calculate mean median mode range. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "What is the median?",
     "answers": [
       {
-        "text": "Mode assumed unique",
-        "is_correct": false
-      },
-      {
-        "text": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
+        "text": "middle value when the data are ordered",
         "is_correct": true
       },
       {
-        "text": "A set can have multiple modes or none",
+        "text": "most frequent value",
         "is_correct": false
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "sum divided by count",
+        "is_correct": false
+      },
+      {
+        "text": "largest value",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
-      "hint": "A set can have multiple modes or none."
+      "summary": "Order the values first, then locate the middle.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7ST01-P-002"
   },
   {
-    "id": "ac9m7st01-p-003",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
     "bank": "practice",
-    "skill": "interpret_an_outlier",
-    "question": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "What is the mode?",
     "answers": [
       {
-        "text": "Range called a centre",
-        "is_correct": false
-      },
-      {
-        "text": "It describes spread",
-        "is_correct": false
-      },
-      {
-        "text": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
+        "text": "most frequent value",
         "is_correct": true
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "middle value",
+        "is_correct": false
+      },
+      {
+        "text": "arithmetic average",
+        "is_correct": false
+      },
+      {
+        "text": "largest minus smallest",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
-      "hint": "It describes spread."
+      "summary": "A data set can have one mode, multiple modes or no mode.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7ST01-P-003"
   },
   {
-    "id": "ac9m7st01-p-004",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
     "bank": "practice",
-    "skill": "clean_a_data_table",
-    "question": "A Year 7 student is solving a problem involving clean a data table. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving clean a data table. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "What does the range measure?",
     "answers": [
       {
-        "text": "Mean compared across incompatible units or groups",
-        "is_correct": false
-      },
-      {
-        "text": "Check context and sample size",
-        "is_correct": false
-      },
-      {
-        "text": "Sum of values divided by number of values",
-        "is_correct": false
-      },
-      {
-        "text": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
+        "text": "spread from minimum to maximum",
         "is_correct": true
+      },
+      {
+        "text": "central location",
+        "is_correct": false
+      },
+      {
+        "text": "frequency only",
+        "is_correct": false
+      },
+      {
+        "text": "sample size",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
-      "hint": "Check context and sample size."
+      "summary": "Range = maximum − minimum.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7ST01-P-004"
   },
   {
-    "id": "ac9m7st01-p-005",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
     "bank": "practice",
-    "skill": "audit_a_spreadsheet_formula",
-    "question": "Which statement correctly identifies median in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which statement correctly identifies median in acquiring numerical data and measures of centre?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "Which measure of centre is usually most affected by an extreme outlier?",
     "answers": [
       {
-        "text": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
+        "text": "mean",
         "is_correct": true
       },
       {
-        "text": "Median found before ordering",
+        "text": "median",
         "is_correct": false
       },
       {
-        "text": "Sort values first",
+        "text": "mode",
         "is_correct": false
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "all equally",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
-      "hint": "Sort values first."
+      "summary": "The mean uses every numerical value.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7ST01-P-005"
   },
   {
-    "id": "ac9m7st01-p-006",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
     "bank": "practice",
-    "skill": "classify_variable_type",
-    "question": "Which choice best describes range in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which choice best describes range in acquiring numerical data and measures of centre?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "Which measure of centre is often preferred for strongly skewed data?",
     "answers": [
       {
-        "text": "Mode assumed unique",
-        "is_correct": false
-      },
-      {
-        "text": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
+        "text": "median",
         "is_correct": true
       },
       {
-        "text": "A set can have multiple modes or none",
+        "text": "mean",
         "is_correct": false
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "range",
+        "is_correct": false
+      },
+      {
+        "text": "maximum",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
-      "hint": "A set can have multiple modes or none."
+      "summary": "The median is resistant to extreme values.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7ST01-P-006"
   },
   {
-    "id": "ac9m7st01-p-007",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
     "bank": "practice",
-    "skill": "calculate_mean_median_mode_range",
-    "question": "What does correct use require for mean in acquiring numerical data and measures of centre?",
-    "audio_prompt": "What does correct use require for mean in acquiring numerical data and measures of centre?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "Which measure is meaningful for identifying the most common category?",
     "answers": [
       {
-        "text": "Range called a centre",
-        "is_correct": false
-      },
-      {
-        "text": "It describes spread",
-        "is_correct": false
-      },
-      {
-        "text": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
+        "text": "mode",
         "is_correct": true
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "mean",
+        "is_correct": false
+      },
+      {
+        "text": "median",
+        "is_correct": false
+      },
+      {
+        "text": "range",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
-      "hint": "It describes spread."
+      "summary": "The mode can be used with categorical as well as numerical data.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7ST01-P-007"
   },
   {
-    "id": "ac9m7st01-p-008",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
     "bank": "practice",
-    "skill": "interpret_an_outlier",
-    "question": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving interpret an outlier. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "Which calculation requires adding every numerical value?",
     "answers": [
       {
-        "text": "Mean compared across incompatible units or groups",
-        "is_correct": false
-      },
-      {
-        "text": "Check context and sample size",
-        "is_correct": false
-      },
-      {
-        "text": "Sum of values divided by number of values",
-        "is_correct": false
-      },
-      {
-        "text": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
+        "text": "mean",
         "is_correct": true
+      },
+      {
+        "text": "median",
+        "is_correct": false
+      },
+      {
+        "text": "mode",
+        "is_correct": false
+      },
+      {
+        "text": "range",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
-      "hint": "Check context and sample size."
+      "summary": "The numerator of the mean is the sum of all observations.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7ST01-P-008"
   },
   {
-    "id": "ac9m7st01-t-001",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "clean_a_data_table",
-    "question": "A Year 7 student is solving a problem involving clean a data table. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving clean a data table. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "Find the median of 4, 7, 9, 10, 12.",
     "answers": [
       {
-        "text": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
+        "text": "9",
         "is_correct": true
       },
       {
-        "text": "Median found before ordering",
+        "text": "7",
         "is_correct": false
       },
       {
-        "text": "Sort values first",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "8.4",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
-      "hint": "Sort values first."
-    }
+      "summary": "There are five ordered values, so the third is the median.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-009"
   },
   {
-    "id": "ac9m7st01-t-002",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "audit_a_spreadsheet_formula",
-    "question": "A Year 7 student is solving a problem involving audit a spreadsheet formula. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving audit a spreadsheet formula. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "Find the mode of 3, 5, 5, 6, 7.",
     "answers": [
       {
-        "text": "Mode assumed unique",
-        "is_correct": false
-      },
-      {
-        "text": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "A set can have multiple modes or none",
+        "text": "3",
         "is_correct": false
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "no mode",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
-      "hint": "A set can have multiple modes or none."
-    }
+      "summary": "5 occurs more often than any other value.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-010"
   },
   {
-    "id": "ac9m7st01-t-003",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "classify_variable_type",
-    "question": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "Find the range of 2, 8, 11, 15.",
     "answers": [
       {
-        "text": "Range called a centre",
-        "is_correct": false
-      },
-      {
-        "text": "It describes spread",
-        "is_correct": false
-      },
-      {
-        "text": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
+        "text": "13",
         "is_correct": true
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "17",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
-      "hint": "It describes spread."
-    }
+      "summary": "15−2=13.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-011"
   },
   {
-    "id": "ac9m7st01-t-004",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "calculate_mean_median_mode_range",
-    "question": "A Year 7 student is solving a problem involving calculate mean median mode range. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving calculate mean median mode range. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "Find the mean of 10, 20, 30.",
     "answers": [
       {
-        "text": "Mean compared across incompatible units or groups",
-        "is_correct": false
-      },
-      {
-        "text": "Check context and sample size",
-        "is_correct": false
-      },
-      {
-        "text": "Sum of values divided by number of values",
-        "is_correct": false
-      },
-      {
-        "text": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
+        "text": "20",
         "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
-      "hint": "Check context and sample size."
-    }
+      "summary": "(10+20+30)÷3=20.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-012"
   },
   {
-    "id": "ac9m7st01-t-005",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "interpret_an_outlier",
-    "question": "What should be checked when applying interpret an outlier in acquiring numerical data and measures of centre?",
-    "audio_prompt": "What should be checked when applying interpret an outlier in acquiring numerical data and measures of centre?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Find the mean of 12, 14, 15, 15, 18.",
     "answers": [
       {
-        "text": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
+        "text": "14.8",
         "is_correct": true
       },
       {
-        "text": "Median found before ordering",
+        "text": "15",
         "is_correct": false
       },
       {
-        "text": "Sort values first",
+        "text": "14",
         "is_correct": false
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "16",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "For 4,5,5,7,9: mean 6, median 5, mode 5, range 5",
-      "hint": "Sort values first."
-    }
+      "summary": "74÷5=14.8.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-013"
   },
   {
-    "id": "ac9m7st01-t-006",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "clean_a_data_table",
-    "question": "Which response best uses clean a data table in acquiring numerical data and measures of centre?",
-    "audio_prompt": "Which response best uses clean a data table in acquiring numerical data and measures of centre?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Find the median of 12, 14, 15, 15, 18.",
     "answers": [
       {
-        "text": "Mode assumed unique",
-        "is_correct": false
-      },
-      {
-        "text": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
+        "text": "15",
         "is_correct": true
       },
       {
-        "text": "A set can have multiple modes or none",
+        "text": "14.8",
         "is_correct": false
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "18",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The mean uses every value and is affected by extremes; the median depends on ordered position; the mode is the most frequent value.",
-      "hint": "A set can have multiple modes or none."
-    }
+      "summary": "The middle ordered value is 15.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-014"
   },
   {
-    "id": "ac9m7st01-t-007",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "audit_a_spreadsheet_formula",
-    "question": "A Year 7 student is solving a problem involving audit a spreadsheet formula. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving audit a spreadsheet formula. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Find the mode and range of 3, 5, 5, 7, 10.",
     "answers": [
       {
-        "text": "Range called a centre",
-        "is_correct": false
-      },
-      {
-        "text": "It describes spread",
-        "is_correct": false
-      },
-      {
-        "text": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
+        "text": "mode 5, range 7",
         "is_correct": true
       },
       {
-        "text": "Sum of values divided by number of values",
+        "text": "mode 7, range 5",
+        "is_correct": false
+      },
+      {
+        "text": "mode 5, range 10",
+        "is_correct": false
+      },
+      {
+        "text": "no mode, range 7",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Digital tools accelerate calculations but require transparent formulas and careful source or measurement checks.",
-      "hint": "It describes spread."
-    }
+      "summary": "5 occurs twice; 10−3=7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-015"
   },
   {
-    "id": "ac9m7st01-t-008",
-    "curriculum_code": "AC9M7ST01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "classify_variable_type",
-    "question": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving classify variable type. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Which data set has range 0?",
     "answers": [
       {
-        "text": "Mean compared across incompatible units or groups",
-        "is_correct": false
-      },
-      {
-        "text": "Check context and sample size",
-        "is_correct": false
-      },
-      {
-        "text": "Sum of values divided by number of values",
-        "is_correct": false
-      },
-      {
-        "text": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
+        "text": "8,8,8,8",
         "is_correct": true
+      },
+      {
+        "text": "5,6,7",
+        "is_correct": false
+      },
+      {
+        "text": "0,8",
+        "is_correct": false
+      },
+      {
+        "text": "3,3,4",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Data type, collection method and measurement precision affect which summaries and conclusions are meaningful.",
-      "hint": "Check context and sample size."
-    }
+      "summary": "Range is zero only when maximum equals minimum.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Which data set has no mode?",
+    "answers": [
+      {
+        "text": "2,4,6,8",
+        "is_correct": true
+      },
+      {
+        "text": "2,2,4,6",
+        "is_correct": false
+      },
+      {
+        "text": "3,3,5,5,5",
+        "is_correct": false
+      },
+      {
+        "text": "1,1,2,2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Every value occurs once in the first set.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Which data set is bimodal?",
+    "answers": [
+      {
+        "text": "1,1,2,2,3",
+        "is_correct": true
+      },
+      {
+        "text": "1,2,3,4",
+        "is_correct": false
+      },
+      {
+        "text": "2,2,2,3",
+        "is_correct": false
+      },
+      {
+        "text": "5,6,6,7,8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "1 and 2 share the highest frequency.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "The data 5,7,7,8,9,10,10,11,12,12,13,30 contain an obvious high outlier. Which measure is likely to better represent a typical value?",
+    "answers": [
+      {
+        "text": "median",
+        "is_correct": true
+      },
+      {
+        "text": "mean",
+        "is_correct": false
+      },
+      {
+        "text": "range",
+        "is_correct": false
+      },
+      {
+        "text": "maximum",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The median is less influenced by the extreme value 30.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Adding a very large value to a data set will usually:",
+    "answers": [
+      {
+        "text": "increase the mean and range",
+        "is_correct": true
+      },
+      {
+        "text": "leave the mean unchanged",
+        "is_correct": false
+      },
+      {
+        "text": "decrease the range",
+        "is_correct": false
+      },
+      {
+        "text": "guarantee the median doubles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A high extreme contributes to the sum and raises the maximum.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Which statement about the median and outliers is most accurate?",
+    "answers": [
+      {
+        "text": "The median is generally less sensitive to extreme values than the mean",
+        "is_correct": true
+      },
+      {
+        "text": "The median can never change",
+        "is_correct": false
+      },
+      {
+        "text": "The median always equals the mode",
+        "is_correct": false
+      },
+      {
+        "text": "The median measures spread",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Median depends on ordered position rather than the size of every observation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "A distribution has a long tail to the right. It is:",
+    "answers": [
+      {
+        "text": "right-skewed",
+        "is_correct": true
+      },
+      {
+        "text": "left-skewed",
+        "is_correct": false
+      },
+      {
+        "text": "necessarily symmetric",
+        "is_correct": false
+      },
+      {
+        "text": "uniform",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Skewness is named for the direction of the longer tail.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "In a strongly right-skewed distribution, which relationship is common?",
+    "answers": [
+      {
+        "text": "mean greater than median",
+        "is_correct": true
+      },
+      {
+        "text": "mean less than median",
+        "is_correct": false
+      },
+      {
+        "text": "mean always equals median",
+        "is_correct": false
+      },
+      {
+        "text": "range equals mean",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Large high values pull the mean to the right.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "In a strongly left-skewed distribution, which relationship is common?",
+    "answers": [
+      {
+        "text": "mean less than median",
+        "is_correct": true
+      },
+      {
+        "text": "mean greater than median",
+        "is_correct": false
+      },
+      {
+        "text": "mean always equals mode",
+        "is_correct": false
+      },
+      {
+        "text": "range is zero",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Low extreme values pull the mean left.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "A data set has mean 20 and median 12. What does this suggest?",
+    "answers": [
+      {
+        "text": "possible right skew or high extreme values",
+        "is_correct": true
+      },
+      {
+        "text": "definitely left skew",
+        "is_correct": false
+      },
+      {
+        "text": "range must be 8",
+        "is_correct": false
+      },
+      {
+        "text": "there are no outliers",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A mean well above the median is evidence consistent with a right tail.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "A data set has mean 50 and median 50. Can its range still be 120?",
+    "answers": [
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No",
+        "is_correct": false
+      },
+      {
+        "text": "Only with categorical data",
+        "is_correct": false
+      },
+      {
+        "text": "Only if all values are 50",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Measures of centre do not determine spread.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Two data sets have the same mean. What is guaranteed?",
+    "answers": [
+      {
+        "text": "their arithmetic averages are equal",
+        "is_correct": true
+      },
+      {
+        "text": "their ranges are equal",
+        "is_correct": false
+      },
+      {
+        "text": "their shapes are equal",
+        "is_correct": false
+      },
+      {
+        "text": "their medians are equal",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Same mean alone says nothing definite about spread or shape.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Two data sets have the same median. What is guaranteed?",
+    "answers": [
+      {
+        "text": "their middle ordered value or midpoint is equal",
+        "is_correct": true
+      },
+      {
+        "text": "their means are equal",
+        "is_correct": false
+      },
+      {
+        "text": "their ranges are equal",
+        "is_correct": false
+      },
+      {
+        "text": "their frequencies match",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Median equality only establishes the same central ordered position value.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Data sets 8,10,12 and 1,10,19 both have mean and median 10. Which has greater spread by range?",
+    "answers": [
+      {
+        "text": "1,10,19",
+        "is_correct": true
+      },
+      {
+        "text": "8,10,12",
+        "is_correct": false
+      },
+      {
+        "text": "same range",
+        "is_correct": false
+      },
+      {
+        "text": "cannot determine",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Their ranges are 18 and 4 respectively.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Which measure is most directly used here to compare simple spread?",
+    "answers": [
+      {
+        "text": "range",
+        "is_correct": true
+      },
+      {
+        "text": "mean",
+        "is_correct": false
+      },
+      {
+        "text": "median",
+        "is_correct": false
+      },
+      {
+        "text": "mode",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range compares maximum-to-minimum spread.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "Which variable is discrete?",
+    "answers": [
+      {
+        "text": "number of pets in a household",
+        "is_correct": true
+      },
+      {
+        "text": "temperature",
+        "is_correct": false
+      },
+      {
+        "text": "height",
+        "is_correct": false
+      },
+      {
+        "text": "reaction time",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A count takes separate countable values.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "Which variable is continuous?",
+    "answers": [
+      {
+        "text": "temperature in °C",
+        "is_correct": true
+      },
+      {
+        "text": "number of siblings",
+        "is_correct": false
+      },
+      {
+        "text": "number of books",
+        "is_correct": false
+      },
+      {
+        "text": "number of goals",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Temperature is measured on a continuum.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "Reaction times 0.45, 0.48, 0.50 and 0.52 seconds are:",
+    "answers": [
+      {
+        "text": "continuous numerical data",
+        "is_correct": true
+      },
+      {
+        "text": "categorical data",
+        "is_correct": false
+      },
+      {
+        "text": "discrete counts",
+        "is_correct": false
+      },
+      {
+        "text": "ordinal categories",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Time is measured continuously.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "Plant heights measured in centimetres are normally treated as:",
+    "answers": [
+      {
+        "text": "continuous numerical data",
+        "is_correct": true
+      },
+      {
+        "text": "categorical data",
+        "is_correct": false
+      },
+      {
+        "text": "discrete counts only",
+        "is_correct": false
+      },
+      {
+        "text": "nominal data",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Height is a measurement that can take values within intervals.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "A science experiment records 22.1,22.3,22.4,22.5,22.4,22.3,30.0 °C. Which value is anomalous?",
+    "answers": [
+      {
+        "text": "30.0",
+        "is_correct": true
+      },
+      {
+        "text": "22.1",
+        "is_correct": false
+      },
+      {
+        "text": "22.4",
+        "is_correct": false
+      },
+      {
+        "text": "22.5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "30.0 is far from the cluster near 22–23°C.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "What should a student do with an anomalous measurement?",
+    "answers": [
+      {
+        "text": "investigate its cause before deciding whether to exclude it",
+        "is_correct": true
+      },
+      {
+        "text": "always delete it",
+        "is_correct": false
+      },
+      {
+        "text": "always keep it without comment",
+        "is_correct": false
+      },
+      {
+        "text": "replace it with the mean",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "An anomaly may be error or genuine variation; context matters.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "For 0.45,0.48,0.47,0.46,0.49,1.20 seconds, why may the median be preferable?",
+    "answers": [
+      {
+        "text": "1.20 is an extreme value that pulls the mean upward",
+        "is_correct": true
+      },
+      {
+        "text": "median uses every value more strongly",
+        "is_correct": false
+      },
+      {
+        "text": "range is a centre",
+        "is_correct": false
+      },
+      {
+        "text": "the data are categorical",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Median is more resistant to the extreme reaction time.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "Class A: 4000,4500,4700,4800,5000. Class B replaces 5000 with 20000. Which class is more consistent by range?",
+    "answers": [
+      {
+        "text": "Class A",
+        "is_correct": true
+      },
+      {
+        "text": "Class B",
+        "is_correct": false
+      },
+      {
+        "text": "same",
+        "is_correct": false
+      },
+      {
+        "text": "cannot compare",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Class B has a much larger range due to 20000.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "A movie system records viewing times 10,12,15,15,20,22,25,200. Which statistic is most inflated by 200?",
+    "answers": [
+      {
+        "text": "mean",
+        "is_correct": true
+      },
+      {
+        "text": "median",
+        "is_correct": false
+      },
+      {
+        "text": "mode",
+        "is_correct": false
+      },
+      {
+        "text": "middle positions only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The mean includes the full magnitude of the outlier.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "For those viewing times, the median is:",
+    "answers": [
+      {
+        "text": "17.5",
+        "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "39.875",
+        "is_correct": false
+      },
+      {
+        "text": "190",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The middle values are 15 and 20, so median=(15+20)/2=17.5.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "For those viewing times, the mode is:",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "17.5",
+        "is_correct": false
+      },
+      {
+        "text": "200",
+        "is_correct": false
+      },
+      {
+        "text": "no mode",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "15 occurs twice.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "For those viewing times, the range is:",
+    "answers": [
+      {
+        "text": "190",
+        "is_correct": true
+      },
+      {
+        "text": "185",
+        "is_correct": false
+      },
+      {
+        "text": "200",
+        "is_correct": false
+      },
+      {
+        "text": "17.5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "200−10=190.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "super-hard",
+    "question": "How can descriptive statistics help an AI or recommendation system?",
+    "answers": [
+      {
+        "text": "summarise typical behaviour, variation and unusual observations",
+        "is_correct": true
+      },
+      {
+        "text": "guarantee perfect predictions",
+        "is_correct": false
+      },
+      {
+        "text": "remove the need for data quality checks",
+        "is_correct": false
+      },
+      {
+        "text": "prove every outlier is an error",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Statistics summarise data but still require context and careful interpretation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "super-hard",
+    "question": "Why should an AI system not automatically delete every outlier?",
+    "answers": [
+      {
+        "text": "an outlier may represent genuine important behaviour",
+        "is_correct": true
+      },
+      {
+        "text": "outliers never affect statistics",
+        "is_correct": false
+      },
+      {
+        "text": "outliers are always the median",
+        "is_correct": false
+      },
+      {
+        "text": "range cannot detect extremes",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Extreme observations can be errors or meaningful rare cases.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "super-hard",
+    "question": "A customer-ratings set is 4,4,5,5,5,5,1. What is the mode?",
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "4.14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5 appears four times.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "super-hard",
+    "question": "Which statement about a large range is valid?",
+    "answers": [
+      {
+        "text": "the maximum and minimum are far apart",
+        "is_correct": true
+      },
+      {
+        "text": "the mean must be large",
+        "is_correct": false
+      },
+      {
+        "text": "the median must be small",
+        "is_correct": false
+      },
+      {
+        "text": "the data must be right-skewed",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range measures only the distance between extremes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "super-hard",
+    "question": "Which statement about a small range is valid?",
+    "answers": [
+      {
+        "text": "the maximum and minimum are close together",
+        "is_correct": true
+      },
+      {
+        "text": "there are no outliers under every definition",
+        "is_correct": false
+      },
+      {
+        "text": "the mean equals median",
+        "is_correct": false
+      },
+      {
+        "text": "the distribution is symmetric",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A small range indicates limited max-to-min spread.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "practice",
+    "skill": "ac9m7st01",
+    "difficulty": "super-hard",
+    "question": "Which pair of statistics is useful when discussing possible skewness?",
+    "answers": [
+      {
+        "text": "mean and median",
+        "is_correct": true
+      },
+      {
+        "text": "mode and sample name",
+        "is_correct": false
+      },
+      {
+        "text": "range and units only",
+        "is_correct": false
+      },
+      {
+        "text": "maximum and label",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Their relative positions can provide evidence about skewness.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-P-048"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "For 5,7,7,8,9,10,10,11,12,12,13,30, which pair is correct?",
+    "answers": [
+      {
+        "text": "median 9.5, range 25",
+        "is_correct": true
+      },
+      {
+        "text": "median 10, range 25",
+        "is_correct": false
+      },
+      {
+        "text": "median 9.5, range 30",
+        "is_correct": false
+      },
+      {
+        "text": "median 10, range 23",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 12 values: median=(10+10)/2=10, so wait—ordered positions 6 and 7 are 10 and 10. Correct median is 10; range=30−5=25.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "Which option correctly fixes the previous calculation?",
+    "answers": [
+      {
+        "text": "median 10, range 25",
+        "is_correct": true
+      },
+      {
+        "text": "median 9.5, range 25",
+        "is_correct": false
+      },
+      {
+        "text": "median 10, range 30",
+        "is_correct": false
+      },
+      {
+        "text": "median 12, range 25",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The two middle observations are both 10.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "For 12,13,14,15,16,17,60, the mean is approximately:",
+    "answers": [
+      {
+        "text": "21.0",
+        "is_correct": true
+      },
+      {
+        "text": "15.0",
+        "is_correct": false
+      },
+      {
+        "text": "16.0",
+        "is_correct": false
+      },
+      {
+        "text": "60.0",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "147÷7=21.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "easy",
+    "question": "For the same plant heights, the median is:",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The fourth of seven ordered values is 15.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Which statistic best represents typical plant height in 12,13,14,15,16,17,60?",
+    "answers": [
+      {
+        "text": "median",
+        "is_correct": true
+      },
+      {
+        "text": "mean",
+        "is_correct": false
+      },
+      {
+        "text": "range",
+        "is_correct": false
+      },
+      {
+        "text": "maximum",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "60 strongly raises the mean.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Class A: 4000,4500,4700,4800,5000. What is its mean?",
+    "answers": [
+      {
+        "text": "4600",
+        "is_correct": true
+      },
+      {
+        "text": "4700",
+        "is_correct": false
+      },
+      {
+        "text": "4500",
+        "is_correct": false
+      },
+      {
+        "text": "5000",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "23000÷5=4600.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Class B: 4000,4500,4700,4800,20000. What is its median?",
+    "answers": [
+      {
+        "text": "4700",
+        "is_correct": true
+      },
+      {
+        "text": "7600",
+        "is_correct": false
+      },
+      {
+        "text": "4800",
+        "is_correct": false
+      },
+      {
+        "text": "4500",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The middle ordered value remains 4700.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Which comparison is valid for those classes?",
+    "answers": [
+      {
+        "text": "Class B has the same median but much larger mean and range",
+        "is_correct": true
+      },
+      {
+        "text": "Class B has lower mean",
+        "is_correct": false
+      },
+      {
+        "text": "Both ranges are equal",
+        "is_correct": false
+      },
+      {
+        "text": "Class A is less consistent",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The extreme 20000 changes mean/range but not the central ordered position.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "Data sets A=8,10,12 and B=1,10,19 have:",
+    "answers": [
+      {
+        "text": "same mean and median but different ranges",
+        "is_correct": true
+      },
+      {
+        "text": "same range only",
+        "is_correct": false
+      },
+      {
+        "text": "different medians",
+        "is_correct": false
+      },
+      {
+        "text": "different means",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Both centre at 10; ranges are 4 and 18.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "medium",
+    "question": "What does this example demonstrate?",
+    "answers": [
+      {
+        "text": "identical measures of centre do not guarantee identical spread",
+        "is_correct": true
+      },
+      {
+        "text": "range determines mean",
+        "is_correct": false
+      },
+      {
+        "text": "median determines every value",
+        "is_correct": false
+      },
+      {
+        "text": "same mean implies same distribution",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Summary measures capture selected features, not the entire data set.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "Constructing a data set with mean 20 and range 0 requires:",
+    "answers": [
+      {
+        "text": "every value to equal 20",
+        "is_correct": true
+      },
+      {
+        "text": "maximum 20 and minimum 0",
+        "is_correct": false
+      },
+      {
+        "text": "median 0",
+        "is_correct": false
+      },
+      {
+        "text": "at least one outlier",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range 0 means all values are equal; their mean must therefore be that common value.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "A set has mean 50, median 50 and range 120. Which statement is justified?",
+    "answers": [
+      {
+        "text": "centre can be 50 despite widely separated extremes",
+        "is_correct": true
+      },
+      {
+        "text": "all values equal 50",
+        "is_correct": false
+      },
+      {
+        "text": "the range is impossible",
+        "is_correct": false
+      },
+      {
+        "text": "the set must have no extreme values",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Centre and spread are independent summaries.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "Temperatures are 22.1,22.3,22.4,22.5,22.4,22.3,30.0. What is the range?",
+    "answers": [
+      {
+        "text": "7.9°C",
+        "is_correct": true
+      },
+      {
+        "text": "8.0°C",
+        "is_correct": false
+      },
+      {
+        "text": "30.0°C",
+        "is_correct": false
+      },
+      {
+        "text": "22.4°C",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "30.0−22.1=7.9.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "hard",
+    "question": "For those temperatures, what is the median?",
+    "answers": [
+      {
+        "text": "22.4°C",
+        "is_correct": true
+      },
+      {
+        "text": "22.3°C",
+        "is_correct": false
+      },
+      {
+        "text": "23.6°C",
+        "is_correct": false
+      },
+      {
+        "text": "30.0°C",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Ordered values have 22.4 as the fourth observation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "super-hard",
+    "question": "For those temperatures, the mean is approximately:",
+    "answers": [
+      {
+        "text": "23.7°C",
+        "is_correct": true
+      },
+      {
+        "text": "22.4°C",
+        "is_correct": false
+      },
+      {
+        "text": "30.0°C",
+        "is_correct": false
+      },
+      {
+        "text": "21.9°C",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Sum 165.999... ≈166.0; ÷7≈23.71.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST01",
+    "bank": "test",
+    "skill": "ac9m7st01",
+    "difficulty": "super-hard",
+    "question": "Why should 30.0°C be investigated?",
+    "answers": [
+      {
+        "text": "It is far from the repeated cluster and may be an error or genuine event",
+        "is_correct": true
+      },
+      {
+        "text": "Every maximum is invalid",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the median undefined",
+        "is_correct": false
+      },
+      {
+        "text": "Continuous data cannot contain anomalies",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Anomalies require contextual investigation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST01-T-016"
   }
 ]

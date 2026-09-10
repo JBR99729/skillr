@@ -1,613 +1,2050 @@
 [
   {
-    "id": "ac9m7sp02-p-001",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
     "bank": "practice",
-    "skill": "classify_a_square_fully",
-    "question": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Why is a triangle made from fixed-length hinged strips rigid?",
     "answers": [
       {
-        "text": "Every square is a rectangle, but not every rectangle is a square",
+        "text": "Three fixed sides determine its shape",
         "is_correct": true
       },
       {
-        "text": "Square excluded from rectangles",
+        "text": "It has parallel sides",
         "is_correct": false
       },
       {
-        "text": "A square satisfies the rectangle definition",
+        "text": "Its angles can change freely",
         "is_correct": false
       },
       {
-        "text": "Condition required for class membership",
+        "text": "It has four vertices",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Every square is a rectangle, but not every rectangle is a square",
-      "hint": "A square satisfies the rectangle definition."
+      "summary": "With three fixed side lengths, the vertices cannot move without changing a side length.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP02-P-001"
   },
   {
-    "id": "ac9m7sp02-p-002",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
     "bank": "practice",
-    "skill": "compare_kite_rhombus",
-    "question": "A Year 7 student is solving a problem involving compare kite rhombus. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving compare kite rhombus. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Why can a hinged quadrilateral flex while keeping its side lengths fixed?",
     "answers": [
       {
-        "text": "Shape orientation used as a property",
-        "is_correct": false
-      },
-      {
-        "text": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
+        "text": "Its angles can change",
         "is_correct": true
       },
       {
-        "text": "Rotation does not change side or angle relationships",
+        "text": "It has curved sides",
         "is_correct": false
       },
       {
-        "text": "Condition required for class membership",
+        "text": "It has no vertices",
+        "is_correct": false
+      },
+      {
+        "text": "All quadrilaterals are squares",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
-      "hint": "Rotation does not change side or angle relationships."
+      "summary": "A four-sided hinged frame has freedom to change its angles.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7SP02-P-002"
   },
   {
-    "id": "ac9m7sp02-p-003",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
     "bank": "practice",
-    "skill": "classify_a_right_isosceles_triangle",
-    "question": "A Year 7 student is solving a problem involving classify a right isosceles triangle. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving classify a right isosceles triangle. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "What is a common way to make a flexible quadrilateral frame rigid?",
     "answers": [
       {
-        "text": "Exactly two substituted for at least two",
-        "is_correct": false
-      },
-      {
-        "text": "Inclusive isosceles definitions include equilateral triangles",
-        "is_correct": false
-      },
-      {
-        "text": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
+        "text": "Add a diagonal brace",
         "is_correct": true
       },
       {
-        "text": "Condition required for class membership",
+        "text": "Remove one side",
+        "is_correct": false
+      },
+      {
+        "text": "Make it larger",
+        "is_correct": false
+      },
+      {
+        "text": "Rotate it",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
-      "hint": "Inclusive isosceles definitions include equilateral triangles."
+      "summary": "A diagonal divides the frame into two rigid triangles.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP02-P-003"
   },
   {
-    "id": "ac9m7sp02-p-004",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
     "bank": "practice",
-    "skill": "define_regular_polygon",
-    "question": "A Year 7 student is solving a problem involving define regular polygon. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving define regular polygon. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Which shape is most naturally used for rigid bracing?",
     "answers": [
       {
-        "text": "Equal sides assumed from appearance",
-        "is_correct": false
-      },
-      {
-        "text": "Use markings or measurement",
-        "is_correct": false
-      },
-      {
-        "text": "Condition required for class membership",
-        "is_correct": false
-      },
-      {
-        "text": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
+        "text": "triangle",
         "is_correct": true
+      },
+      {
+        "text": "unbraced parallelogram",
+        "is_correct": false
+      },
+      {
+        "text": "unbraced rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "circle",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
-      "hint": "Use markings or measurement."
+      "summary": "Triangles resist shape change when side lengths are fixed.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP02-P-004"
   },
   {
-    "id": "ac9m7sp02-p-005",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
     "bank": "practice",
-    "skill": "use_a_counterexample",
-    "question": "Which statement correctly identifies inclusive definition in classifying polygons by properties?",
-    "audio_prompt": "Which statement correctly identifies inclusive definition in classifying polygons by properties?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "A square frame made from four hinged equal strips can become a rhombus without changing side lengths. This demonstrates:",
     "answers": [
       {
-        "text": "Every square is a rectangle, but not every rectangle is a square",
+        "text": "quadrilateral flexibility",
         "is_correct": true
       },
       {
-        "text": "Square excluded from rectangles",
+        "text": "triangle inequality",
         "is_correct": false
       },
       {
-        "text": "A square satisfies the rectangle definition",
+        "text": "parallel lines cannot move",
         "is_correct": false
       },
       {
-        "text": "Condition required for class membership",
+        "text": "all rhombuses are squares",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Every square is a rectangle, but not every rectangle is a square",
-      "hint": "A square satisfies the rectangle definition."
+      "summary": "The angles can change while all four side lengths remain fixed.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP02-P-005"
   },
   {
-    "id": "ac9m7sp02-p-006",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
     "bank": "practice",
-    "skill": "classify_a_square_fully",
-    "question": "Which choice best describes regular polygon in classifying polygons by properties?",
-    "audio_prompt": "Which choice best describes regular polygon in classifying polygons by properties?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Which statement about a hinged triangle is correct?",
     "answers": [
       {
-        "text": "Shape orientation used as a property",
-        "is_correct": false
-      },
-      {
-        "text": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
+        "text": "It cannot change shape unless a side length changes",
         "is_correct": true
       },
       {
-        "text": "Rotation does not change side or angle relationships",
+        "text": "It can become any quadrilateral",
         "is_correct": false
       },
       {
-        "text": "Condition required for class membership",
+        "text": "Its angles change independently",
+        "is_correct": false
+      },
+      {
+        "text": "It needs a diagonal to be a triangle",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
-      "hint": "Rotation does not change side or angle relationships."
+      "summary": "Three fixed sides constrain the shape.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP02-P-006"
   },
   {
-    "id": "ac9m7sp02-p-007",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
     "bank": "practice",
-    "skill": "compare_kite_rhombus",
-    "question": "What does correct use require for defining property in classifying polygons by properties?",
-    "audio_prompt": "What does correct use require for defining property in classifying polygons by properties?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Which condition is sufficient to check whether three positive lengths can form a triangle?",
     "answers": [
       {
-        "text": "Exactly two substituted for at least two",
-        "is_correct": false
-      },
-      {
-        "text": "Inclusive isosceles definitions include equilateral triangles",
-        "is_correct": false
-      },
-      {
-        "text": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
+        "text": "The longest length is less than the sum of the other two",
         "is_correct": true
       },
       {
-        "text": "Condition required for class membership",
+        "text": "All three lengths are different",
+        "is_correct": false
+      },
+      {
+        "text": "Two lengths are equal",
+        "is_correct": false
+      },
+      {
+        "text": "The longest length is greater than the other two",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
-      "hint": "Inclusive isosceles definitions include equilateral triangles."
+      "summary": "For positive lengths, checking that the two shorter sides sum to more than the longest is sufficient.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP02-P-007"
   },
   {
-    "id": "ac9m7sp02-p-008",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
     "bank": "practice",
-    "skill": "classify_a_right_isosceles_triangle",
-    "question": "A Year 7 student is solving a problem involving classify a right isosceles triangle. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving classify a right isosceles triangle. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Can 3 cm, 4 cm and 10 cm form a triangle?",
     "answers": [
       {
-        "text": "Equal sides assumed from appearance",
-        "is_correct": false
-      },
-      {
-        "text": "Use markings or measurement",
-        "is_correct": false
-      },
-      {
-        "text": "Condition required for class membership",
-        "is_correct": false
-      },
-      {
-        "text": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
+        "text": "No",
         "is_correct": true
+      },
+      {
+        "text": "Yes",
+        "is_correct": false
+      },
+      {
+        "text": "Only a right triangle",
+        "is_correct": false
+      },
+      {
+        "text": "Only an isosceles triangle",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
-      "hint": "Use markings or measurement."
+      "summary": "3 + 4 = 7, which is less than 10.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP02-P-008"
   },
   {
-    "id": "ac9m7sp02-t-001",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "define_regular_polygon",
-    "question": "A Year 7 student is solving a problem involving define regular polygon. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving define regular polygon. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Can 6 cm, 7 cm and 12 cm form a triangle?",
     "answers": [
       {
-        "text": "Every square is a rectangle, but not every rectangle is a square",
+        "text": "Yes",
         "is_correct": true
       },
       {
-        "text": "Square excluded from rectangles",
+        "text": "No",
         "is_correct": false
       },
       {
-        "text": "A square satisfies the rectangle definition",
+        "text": "Only if 6 = 7",
         "is_correct": false
       },
       {
-        "text": "Condition required for class membership",
+        "text": "Only if one side is shortened",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Every square is a rectangle, but not every rectangle is a square",
-      "hint": "A square satisfies the rectangle definition."
-    }
+      "summary": "6 + 7 = 13 > 12, so the sides can close.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-009"
   },
   {
-    "id": "ac9m7sp02-t-002",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "use_a_counterexample",
-    "question": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Can 1 cm, 2 cm and 3 cm form a non-degenerate triangle?",
     "answers": [
       {
-        "text": "Shape orientation used as a property",
-        "is_correct": false
-      },
-      {
-        "text": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
+        "text": "No",
         "is_correct": true
       },
       {
-        "text": "Rotation does not change side or angle relationships",
+        "text": "Yes",
         "is_correct": false
       },
       {
-        "text": "Condition required for class membership",
+        "text": "Only equilateral",
+        "is_correct": false
+      },
+      {
+        "text": "Only obtuse",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
-      "hint": "Rotation does not change side or angle relationships."
-    }
+      "summary": "1 + 2 = 3, so the sides form a straight line rather than a triangle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-010"
   },
   {
-    "id": "ac9m7sp02-t-003",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "classify_a_square_fully",
-    "question": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Which set can form a triangle?",
     "answers": [
       {
-        "text": "Exactly two substituted for at least two",
-        "is_correct": false
-      },
-      {
-        "text": "Inclusive isosceles definitions include equilateral triangles",
-        "is_correct": false
-      },
-      {
-        "text": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
+        "text": "5, 6, 7",
         "is_correct": true
       },
       {
-        "text": "Condition required for class membership",
+        "text": "2, 3, 6",
+        "is_correct": false
+      },
+      {
+        "text": "1, 4, 5",
+        "is_correct": false
+      },
+      {
+        "text": "3, 3, 7",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
-      "hint": "Inclusive isosceles definitions include equilateral triangles."
-    }
+      "summary": "5 + 6 > 7; the other sets fail the strict triangle inequality.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-011"
   },
   {
-    "id": "ac9m7sp02-t-004",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "compare_kite_rhombus",
-    "question": "A Year 7 student is solving a problem involving compare kite rhombus. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving compare kite rhombus. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "If two sides are 5 cm and 8 cm, which could be the third side?",
     "answers": [
       {
-        "text": "Equal sides assumed from appearance",
-        "is_correct": false
-      },
-      {
-        "text": "Use markings or measurement",
-        "is_correct": false
-      },
-      {
-        "text": "Condition required for class membership",
-        "is_correct": false
-      },
-      {
-        "text": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
+        "text": "6 cm",
         "is_correct": true
+      },
+      {
+        "text": "3 cm",
+        "is_correct": false
+      },
+      {
+        "text": "13 cm",
+        "is_correct": false
+      },
+      {
+        "text": "14 cm",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
-      "hint": "Use markings or measurement."
-    }
+      "summary": "The third side must be greater than 3 and less than 13.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-012"
   },
   {
-    "id": "ac9m7sp02-t-005",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "classify_a_right_isosceles_triangle",
-    "question": "What should be checked when applying classify a right isosceles triangle in classifying polygons by properties?",
-    "audio_prompt": "What should be checked when applying classify a right isosceles triangle in classifying polygons by properties?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "If two sides are 4 cm and 9 cm, which third side is impossible?",
     "answers": [
       {
-        "text": "Every square is a rectangle, but not every rectangle is a square",
+        "text": "5 cm",
         "is_correct": true
       },
       {
-        "text": "Square excluded from rectangles",
+        "text": "6 cm",
         "is_correct": false
       },
       {
-        "text": "A square satisfies the rectangle definition",
+        "text": "8 cm",
         "is_correct": false
       },
       {
-        "text": "Condition required for class membership",
+        "text": "10 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Every square is a rectangle, but not every rectangle is a square",
-      "hint": "A square satisfies the rectangle definition."
-    }
+      "summary": "4 + 5 = 9, so 5 cm gives a degenerate straight line.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-013"
   },
   {
-    "id": "ac9m7sp02-t-006",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "define_regular_polygon",
-    "question": "Which response best uses define regular polygon in classifying polygons by properties?",
-    "audio_prompt": "Which response best uses define regular polygon in classifying polygons by properties?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle has sides 4 cm, 4 cm and 7 cm. Classify it by sides.",
     "answers": [
       {
-        "text": "Shape orientation used as a property",
-        "is_correct": false
-      },
-      {
-        "text": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
+        "text": "isosceles",
         "is_correct": true
       },
       {
-        "text": "Rotation does not change side or angle relationships",
+        "text": "scalene",
         "is_correct": false
       },
       {
-        "text": "Condition required for class membership",
+        "text": "equilateral",
+        "is_correct": false
+      },
+      {
+        "text": "impossible",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "A square is both a rectangle and a rhombus under inclusive definitions. Non-defining visual features such as orientation do not change classification.",
-      "hint": "Rotation does not change side or angle relationships."
-    }
+      "summary": "Exactly two side lengths are equal.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-014"
   },
   {
-    "id": "ac9m7sp02-t-007",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "use_a_counterexample",
-    "question": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving use a counterexample. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle has sides 5 cm, 6 cm and 7 cm. Classify it by sides.",
     "answers": [
       {
-        "text": "Exactly two substituted for at least two",
-        "is_correct": false
-      },
-      {
-        "text": "Inclusive isosceles definitions include equilateral triangles",
-        "is_correct": false
-      },
-      {
-        "text": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
+        "text": "scalene",
         "is_correct": true
       },
       {
-        "text": "Condition required for class membership",
+        "text": "isosceles",
+        "is_correct": false
+      },
+      {
+        "text": "equilateral",
+        "is_correct": false
+      },
+      {
+        "text": "impossible",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Side-based and angle-based triangle classes can overlap; an isosceles triangle can also be right-angled.",
-      "hint": "Inclusive isosceles definitions include equilateral triangles."
-    }
+      "summary": "All three side lengths are different.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-015"
   },
   {
-    "id": "ac9m7sp02-t-008",
-    "curriculum_code": "AC9M7SP02",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "classify_a_square_fully",
-    "question": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving classify a square fully. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle has sides 8 cm, 8 cm and 8 cm. Classify it by sides.",
     "answers": [
       {
-        "text": "Equal sides assumed from appearance",
-        "is_correct": false
-      },
-      {
-        "text": "Use markings or measurement",
-        "is_correct": false
-      },
-      {
-        "text": "Condition required for class membership",
-        "is_correct": false
-      },
-      {
-        "text": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
+        "text": "equilateral",
         "is_correct": true
+      },
+      {
+        "text": "scalene",
+        "is_correct": false
+      },
+      {
+        "text": "right-angled",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Geometric classification uses defining properties; inclusive definitions allow a shape to belong to more than one class.",
-      "hint": "Use markings or measurement."
-    }
+      "summary": "All three sides are equal.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle has angles 60°, 60°, 60°. Which classification is most complete?",
+    "answers": [
+      {
+        "text": "equilateral and acute",
+        "is_correct": true
+      },
+      {
+        "text": "isosceles only",
+        "is_correct": false
+      },
+      {
+        "text": "right and scalene",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse and equilateral",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal 60° angles imply equal sides, and all angles are acute.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle has angles 30°, 60°, 90°. Classify it by angles.",
+    "answers": [
+      {
+        "text": "right-angled",
+        "is_correct": true
+      },
+      {
+        "text": "acute",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "equilateral",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It contains one 90° angle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle has angles 110°, 40°, 30°. Classify it by angles.",
+    "answers": [
+      {
+        "text": "obtuse",
+        "is_correct": true
+      },
+      {
+        "text": "acute",
+        "is_correct": false
+      },
+      {
+        "text": "right-angled",
+        "is_correct": false
+      },
+      {
+        "text": "equilateral",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It has one angle greater than 90°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle has angles 70°, 60°, 50°. Classify it by angles.",
+    "answers": [
+      {
+        "text": "acute",
+        "is_correct": true
+      },
+      {
+        "text": "obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "right-angled",
+        "is_correct": false
+      },
+      {
+        "text": "impossible",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "All three angles are less than 90°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Can a triangle be both isosceles and right-angled?",
+    "answers": [
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No",
+        "is_correct": false
+      },
+      {
+        "text": "Only if equilateral",
+        "is_correct": false
+      },
+      {
+        "text": "Only if obtuse",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A 45°-45°-90° triangle is both isosceles and right-angled.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Can an equilateral triangle be obtuse?",
+    "answers": [
+      {
+        "text": "No",
+        "is_correct": true
+      },
+      {
+        "text": "Yes",
+        "is_correct": false
+      },
+      {
+        "text": "Only if large",
+        "is_correct": false
+      },
+      {
+        "text": "Only if rotated",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Every equilateral triangle has three 60° angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Which markings are best evidence that a drawn triangle is isosceles?",
+    "answers": [
+      {
+        "text": "matching tick marks on two sides",
+        "is_correct": true
+      },
+      {
+        "text": "it looks symmetrical",
+        "is_correct": false
+      },
+      {
+        "text": "it points upward",
+        "is_correct": false
+      },
+      {
+        "text": "one side is horizontal",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Geometric markings communicate equal lengths reliably.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Which statement about orientation is correct?",
+    "answers": [
+      {
+        "text": "Rotating a shape does not change its classification",
+        "is_correct": true
+      },
+      {
+        "text": "A rotated square becomes a rhombus but is no longer a square",
+        "is_correct": false
+      },
+      {
+        "text": "A sideways triangle is not a triangle",
+        "is_correct": false
+      },
+      {
+        "text": "Only horizontal rectangles are rectangles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Classification depends on geometric properties, not page orientation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Which property defines a rectangle?",
+    "answers": [
+      {
+        "text": "four right angles",
+        "is_correct": true
+      },
+      {
+        "text": "four equal sides",
+        "is_correct": false
+      },
+      {
+        "text": "exactly one pair of parallel sides",
+        "is_correct": false
+      },
+      {
+        "text": "two pairs of adjacent equal sides only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A rectangle is a quadrilateral with four right angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Which property defines a rhombus?",
+    "answers": [
+      {
+        "text": "four equal sides",
+        "is_correct": true
+      },
+      {
+        "text": "four right angles",
+        "is_correct": false
+      },
+      {
+        "text": "exactly one pair of parallel sides",
+        "is_correct": false
+      },
+      {
+        "text": "no equal sides",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A rhombus has four equal sides.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Which property defines a parallelogram?",
+    "answers": [
+      {
+        "text": "both pairs of opposite sides parallel",
+        "is_correct": true
+      },
+      {
+        "text": "all sides equal",
+        "is_correct": false
+      },
+      {
+        "text": "all angles 90°",
+        "is_correct": false
+      },
+      {
+        "text": "exactly one pair of parallel sides",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Opposite sides are parallel in pairs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Which property describes a kite?",
+    "answers": [
+      {
+        "text": "two pairs of adjacent equal sides",
+        "is_correct": true
+      },
+      {
+        "text": "two pairs of opposite parallel sides",
+        "is_correct": false
+      },
+      {
+        "text": "four right angles",
+        "is_correct": false
+      },
+      {
+        "text": "four equal angles only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A kite has two pairs of adjacent equal sides under the usual school definition.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Using the Australian school convention in this unit, a trapezium has:",
+    "answers": [
+      {
+        "text": "one pair of parallel sides",
+        "is_correct": true
+      },
+      {
+        "text": "two pairs of parallel sides",
+        "is_correct": false
+      },
+      {
+        "text": "four equal sides",
+        "is_correct": false
+      },
+      {
+        "text": "four right angles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "This unit uses the exclusive convention: one pair of parallel sides.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Which statement is always true?",
+    "answers": [
+      {
+        "text": "Every square is a rectangle",
+        "is_correct": true
+      },
+      {
+        "text": "Every rectangle is a square",
+        "is_correct": false
+      },
+      {
+        "text": "Every parallelogram is a rhombus",
+        "is_correct": false
+      },
+      {
+        "text": "Every kite is a square",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A square has four right angles, so it satisfies the rectangle definition.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "Which description identifies a square most completely?",
+    "answers": [
+      {
+        "text": "a rectangle with four equal sides",
+        "is_correct": true
+      },
+      {
+        "text": "a quadrilateral with one right angle only",
+        "is_correct": false
+      },
+      {
+        "text": "a kite with no parallel sides",
+        "is_correct": false
+      },
+      {
+        "text": "a trapezium with equal diagonals",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A square combines the defining properties of a rectangle and rhombus.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "A quadrilateral has four equal sides but angles are not all 90°. It is definitely a:",
+    "answers": [
+      {
+        "text": "rhombus",
+        "is_correct": true
+      },
+      {
+        "text": "rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "square",
+        "is_correct": false
+      },
+      {
+        "text": "trapezium",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four equal sides define a rhombus; without four right angles it need not be a square.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "A quadrilateral has four right angles but its adjacent sides have different lengths. It is a:",
+    "answers": [
+      {
+        "text": "rectangle but not a square",
+        "is_correct": true
+      },
+      {
+        "text": "rhombus",
+        "is_correct": false
+      },
+      {
+        "text": "kite only",
+        "is_correct": false
+      },
+      {
+        "text": "trapezium",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four right angles make it a rectangle; unequal adjacent sides rule out a square.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "A quadrilateral has both pairs of opposite sides parallel and four equal sides. Which classification is guaranteed?",
+    "answers": [
+      {
+        "text": "rhombus",
+        "is_correct": true
+      },
+      {
+        "text": "rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "square",
+        "is_correct": false
+      },
+      {
+        "text": "trapezium",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four equal sides guarantee a rhombus; right angles would be needed to guarantee square.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "A quadrilateral has both pairs of opposite sides parallel and four right angles. Which classification is guaranteed?",
+    "answers": [
+      {
+        "text": "rectangle",
+        "is_correct": true
+      },
+      {
+        "text": "rhombus",
+        "is_correct": false
+      },
+      {
+        "text": "kite",
+        "is_correct": false
+      },
+      {
+        "text": "trapezium",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four right angles guarantee a rectangle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "Why is a square a useful example of overlapping shape classes?",
+    "answers": [
+      {
+        "text": "It satisfies the definitions of square, rectangle, rhombus and parallelogram",
+        "is_correct": true
+      },
+      {
+        "text": "It changes class when rotated",
+        "is_correct": false
+      },
+      {
+        "text": "It has no parallel sides",
+        "is_correct": false
+      },
+      {
+        "text": "It is not a quadrilateral",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Inclusive classification allows one shape to belong to several classes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "Which is a valid counterexample to the claim 'Every parallelogram is a rectangle'?",
+    "answers": [
+      {
+        "text": "a slanted parallelogram with no right angles",
+        "is_correct": true
+      },
+      {
+        "text": "a square",
+        "is_correct": false
+      },
+      {
+        "text": "a rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "an equilateral triangle",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A non-rectangular parallelogram disproves the universal claim.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "Which is a valid counterexample to 'Every rhombus is a square'?",
+    "answers": [
+      {
+        "text": "a rhombus with angles 60°,120°,60°,120°",
+        "is_correct": true
+      },
+      {
+        "text": "a square",
+        "is_correct": false
+      },
+      {
+        "text": "a rectangle with unequal sides",
+        "is_correct": false
+      },
+      {
+        "text": "a triangle",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It has four equal sides but not four right angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "Which information is NOT enough by itself to prove a quadrilateral is a square?",
+    "answers": [
+      {
+        "text": "four equal sides",
+        "is_correct": true
+      },
+      {
+        "text": "four equal sides and four right angles",
+        "is_correct": false
+      },
+      {
+        "text": "being both a rectangle and a rhombus",
+        "is_correct": false
+      },
+      {
+        "text": "four right angles plus all sides equal",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four equal sides prove rhombus, but right angles are also needed for square.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "Which information is NOT enough by itself to prove a quadrilateral is a rectangle?",
+    "answers": [
+      {
+        "text": "opposite sides parallel",
+        "is_correct": true
+      },
+      {
+        "text": "four right angles",
+        "is_correct": false
+      },
+      {
+        "text": "being a square",
+        "is_correct": false
+      },
+      {
+        "text": "four 90° angles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Opposite sides parallel only proves parallelogram.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "A quadrilateral frame becomes rigid after one diagonal is fixed. Why?",
+    "answers": [
+      {
+        "text": "It is split into two triangles",
+        "is_correct": true
+      },
+      {
+        "text": "It becomes a circle",
+        "is_correct": false
+      },
+      {
+        "text": "Its sides become curved",
+        "is_correct": false
+      },
+      {
+        "text": "All its sides become equal",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The diagonal creates two rigid triangular frames.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "Which side lengths form an isosceles triangle?",
+    "answers": [
+      {
+        "text": "6, 6, 9",
+        "is_correct": true
+      },
+      {
+        "text": "2, 2, 5",
+        "is_correct": false
+      },
+      {
+        "text": "3, 4, 5",
+        "is_correct": false
+      },
+      {
+        "text": "4, 7, 12",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "6 + 6 > 9 and two sides are equal.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "super-hard",
+    "question": "Which side lengths form an equilateral triangle?",
+    "answers": [
+      {
+        "text": "5, 5, 5",
+        "is_correct": true
+      },
+      {
+        "text": "5, 5, 10",
+        "is_correct": false
+      },
+      {
+        "text": "4, 5, 6",
+        "is_correct": false
+      },
+      {
+        "text": "3, 3, 4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "All three equal positive lengths form an equilateral triangle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "super-hard",
+    "question": "Which side lengths cannot form a triangle?",
+    "answers": [
+      {
+        "text": "4, 7, 12",
+        "is_correct": true
+      },
+      {
+        "text": "4, 7, 10",
+        "is_correct": false
+      },
+      {
+        "text": "6, 6, 10",
+        "is_correct": false
+      },
+      {
+        "text": "8, 9, 10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4 + 7 = 11 < 12.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "super-hard",
+    "question": "If a triangle has exactly two equal angles, what can you conclude?",
+    "answers": [
+      {
+        "text": "It has two equal opposite sides and is isosceles",
+        "is_correct": true
+      },
+      {
+        "text": "It is scalene",
+        "is_correct": false
+      },
+      {
+        "text": "It must be right-angled",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot exist",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal angles in a triangle are opposite equal sides.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "super-hard",
+    "question": "A shape is drawn like a 'diamond' with four equal sides. What should you call it based on properties rather than orientation?",
+    "answers": [
+      {
+        "text": "a rhombus; possibly a square if it also has four right angles",
+        "is_correct": true
+      },
+      {
+        "text": "a diamond only",
+        "is_correct": false
+      },
+      {
+        "text": "a kite only",
+        "is_correct": false
+      },
+      {
+        "text": "a trapezium only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "'Diamond' is informal; classification uses side and angle properties.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "super-hard",
+    "question": "Which reasoning is strongest when classifying a polygon?",
+    "answers": [
+      {
+        "text": "Use stated or marked side, angle and parallel properties",
+        "is_correct": true
+      },
+      {
+        "text": "Judge by how it looks",
+        "is_correct": false
+      },
+      {
+        "text": "Use its colour",
+        "is_correct": false
+      },
+      {
+        "text": "Use which way it points",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Geometric classification is property-based.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "practice",
+    "skill": "ac9m7sp02",
+    "difficulty": "super-hard",
+    "question": "A regular polygon has:",
+    "answers": [
+      {
+        "text": "all sides equal and all interior angles equal",
+        "is_correct": true
+      },
+      {
+        "text": "only equal sides",
+        "is_correct": false
+      },
+      {
+        "text": "only equal angles",
+        "is_correct": false
+      },
+      {
+        "text": "at least one right angle",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Regularity requires both equilateral and equiangular properties.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-P-048"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "A hinged frame has sides 5, 7, 5 and 7 cm. It can be pushed into several shapes without changing side lengths. What is the best explanation?",
+    "answers": [
+      {
+        "text": "It is a quadrilateral, so its angles are not fixed by the four side lengths alone",
+        "is_correct": true
+      },
+      {
+        "text": "Its sides are unequal",
+        "is_correct": false
+      },
+      {
+        "text": "It violates triangle inequality",
+        "is_correct": false
+      },
+      {
+        "text": "It must be a rectangle",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four side lengths alone do not generally fix a quadrilateral's angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Why does adding one diagonal brace to a rectangular frame increase rigidity?",
+    "answers": [
+      {
+        "text": "It creates two triangles whose fixed sides constrain the frame",
+        "is_correct": true
+      },
+      {
+        "text": "It removes two vertices",
+        "is_correct": false
+      },
+      {
+        "text": "It makes every side equal",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the frame circular",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Triangulation removes the quadrilateral's freedom to shear.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "A builder has rods 4 m, 6 m and x m. Which value of x cannot make a triangle?",
+    "answers": [
+      {
+        "text": "10 m",
+        "is_correct": true
+      },
+      {
+        "text": "7 m",
+        "is_correct": false
+      },
+      {
+        "text": "5 m",
+        "is_correct": false
+      },
+      {
+        "text": "3 m",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4 + 6 = 10, so x = 10 gives a degenerate straight line.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "easy",
+    "question": "Two sides of a triangle are 7 cm and 11 cm. Which range must the third side x satisfy?",
+    "answers": [
+      {
+        "text": "4 < x < 18",
+        "is_correct": true
+      },
+      {
+        "text": "x > 18",
+        "is_correct": false
+      },
+      {
+        "text": "x < 4",
+        "is_correct": false
+      },
+      {
+        "text": "7 < x < 11 only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Triangle inequality gives |11−7| < x < 11+7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "Which set forms a valid isosceles triangle?",
+    "answers": [
+      {
+        "text": "5, 5, 9",
+        "is_correct": true
+      },
+      {
+        "text": "4, 4, 8",
+        "is_correct": false
+      },
+      {
+        "text": "2, 2, 5",
+        "is_correct": false
+      },
+      {
+        "text": "3, 3, 7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5 + 5 > 9; the other equal pairs sum to no more than the third side.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A student claims 2, 5 and 7 cm make a triangle because 2 + 5 = 7. What is wrong?",
+    "answers": [
+      {
+        "text": "The sum must be strictly greater than the third side",
+        "is_correct": true
+      },
+      {
+        "text": "The sum must equal the third side",
+        "is_correct": false
+      },
+      {
+        "text": "All sides must be equal",
+        "is_correct": false
+      },
+      {
+        "text": "Only integer sides fail",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equality produces a straight-line degenerate case, not a triangle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle has angles 45°, 45°, 90°. Which classification is complete?",
+    "answers": [
+      {
+        "text": "right isosceles",
+        "is_correct": true
+      },
+      {
+        "text": "right scalene",
+        "is_correct": false
+      },
+      {
+        "text": "acute isosceles",
+        "is_correct": false
+      },
+      {
+        "text": "equilateral",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It has one right angle and two equal angles/sides.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle has angles 100°, 40°, 40°. Which classification is complete?",
+    "answers": [
+      {
+        "text": "obtuse isosceles",
+        "is_correct": true
+      },
+      {
+        "text": "obtuse scalene",
+        "is_correct": false
+      },
+      {
+        "text": "acute isosceles",
+        "is_correct": false
+      },
+      {
+        "text": "right isosceles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "One angle is obtuse and two angles are equal.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle is equilateral. Which additional classification must be true?",
+    "answers": [
+      {
+        "text": "acute",
+        "is_correct": true
+      },
+      {
+        "text": "right",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "scalene",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Its three angles are each 60°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "medium",
+    "question": "A triangle is right-angled. Which side-based classification is impossible?",
+    "answers": [
+      {
+        "text": "equilateral",
+        "is_correct": true
+      },
+      {
+        "text": "isosceles",
+        "is_correct": false
+      },
+      {
+        "text": "scalene",
+        "is_correct": false
+      },
+      {
+        "text": "none; all are possible",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "An equilateral triangle has only 60° angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "Which observation alone is enough to classify a triangle as isosceles?",
+    "answers": [
+      {
+        "text": "two marked equal sides",
+        "is_correct": true
+      },
+      {
+        "text": "it looks symmetrical",
+        "is_correct": false
+      },
+      {
+        "text": "one 60° angle",
+        "is_correct": false
+      },
+      {
+        "text": "one horizontal side",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Two equal sides meet the defining side property.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "A triangle has three different side lengths. What can be concluded about its angles?",
+    "answers": [
+      {
+        "text": "All three angles are different",
+        "is_correct": true
+      },
+      {
+        "text": "It must be right-angled",
+        "is_correct": false
+      },
+      {
+        "text": "It must be acute",
+        "is_correct": false
+      },
+      {
+        "text": "One angle must be 90°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "In a triangle, unequal sides are opposite unequal angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "A quadrilateral has four right angles and four equal sides. Which list contains only valid classifications?",
+    "answers": [
+      {
+        "text": "square, rectangle, rhombus, parallelogram, quadrilateral",
+        "is_correct": true
+      },
+      {
+        "text": "square only",
+        "is_correct": false
+      },
+      {
+        "text": "square and kite only",
+        "is_correct": false
+      },
+      {
+        "text": "rectangle and trapezium only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Under inclusive classification, a square belongs to all those broader classes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "hard",
+    "question": "A quadrilateral has four equal sides and no right angles. Which statement is true?",
+    "answers": [
+      {
+        "text": "It is a rhombus and parallelogram but not a square",
+        "is_correct": true
+      },
+      {
+        "text": "It is a rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "It is a square",
+        "is_correct": false
+      },
+      {
+        "text": "It has exactly one pair of parallel sides",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A non-square rhombus still has opposite sides parallel.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "super-hard",
+    "question": "A quadrilateral has four right angles and two different side lengths. Which statement is true?",
+    "answers": [
+      {
+        "text": "It is a rectangle and parallelogram but not a square",
+        "is_correct": true
+      },
+      {
+        "text": "It is a rhombus",
+        "is_correct": false
+      },
+      {
+        "text": "It is a kite only",
+        "is_correct": false
+      },
+      {
+        "text": "It is not a parallelogram",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four right angles define rectangle; unequal adjacent sides exclude square/rhombus.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP02",
+    "bank": "test",
+    "skill": "ac9m7sp02",
+    "difficulty": "super-hard",
+    "question": "Which property would turn a general parallelogram into a rectangle?",
+    "answers": [
+      {
+        "text": "one right angle",
+        "is_correct": true
+      },
+      {
+        "text": "one pair of equal adjacent sides only",
+        "is_correct": false
+      },
+      {
+        "text": "one diagonal",
+        "is_correct": false
+      },
+      {
+        "text": "one acute angle",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "In a parallelogram, one right angle forces all four angles to be right angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP02-T-016"
   }
 ]

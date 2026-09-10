@@ -1,18 +1,780 @@
 [
   {
-    "id": "AC9M7N02-P-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "What is the prime factorisation of 24?",
-    "audio_prompt": "What is the prime factorisation of 24?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "What is the prime factorisation of 360?",
+    "answers": [
+      {
+        "text": "2³ × 3² × 5",
+        "is_correct": true
+      },
+      {
+        "text": "2² × 3² × 5",
+        "is_correct": false
+      },
+      {
+        "text": "2³ × 3 × 5²",
+        "is_correct": false
+      },
+      {
+        "text": "2² × 3³ × 5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "360 = 8 × 9 × 5 = 2³ × 3² × 5.\nHint: Divide repeatedly by prime numbers.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7N02-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Which number has prime factorisation 2⁴ × 3²?",
+    "answers": [
+      {
+        "text": "144",
+        "is_correct": true
+      },
+      {
+        "text": "288",
+        "is_correct": false
+      },
+      {
+        "text": "324",
+        "is_correct": false
+      },
+      {
+        "text": "576",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2⁴ × 3² = 16 × 9 = 144.\nHint: Evaluate each prime power before multiplying.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "What is the prime factorisation of 840?",
+    "answers": [
+      {
+        "text": "2³ × 3 × 5 × 7",
+        "is_correct": true
+      },
+      {
+        "text": "2² × 3² × 5 × 7",
+        "is_correct": false
+      },
+      {
+        "text": "2³ × 3² × 5",
+        "is_correct": false
+      },
+      {
+        "text": "2⁴ × 3 × 5 × 7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "840 = 8 × 3 × 5 × 7 = 2³ × 3 × 5 × 7.\nHint: Check by multiplying the factors back.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Which number equals 3³ × 5²?",
+    "answers": [
+      {
+        "text": "675",
+        "is_correct": true
+      },
+      {
+        "text": "375",
+        "is_correct": false
+      },
+      {
+        "text": "1125",
+        "is_correct": false
+      },
+      {
+        "text": "225",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3³ × 5² = 27 × 25 = 675.\nHint: Calculate the powers first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "What is the prime factorisation of 504?",
+    "answers": [
+      {
+        "text": "2³ × 3² × 7",
+        "is_correct": true
+      },
+      {
+        "text": "2⁴ × 3 × 7",
+        "is_correct": false
+      },
+      {
+        "text": "2³ × 3³",
+        "is_correct": false
+      },
+      {
+        "text": "2² × 3² × 7²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "504 = 8 × 9 × 7 = 2³ × 3² × 7.\nHint: Use repeated division or a factor tree.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Which number has exactly four distinct prime factors?",
+    "answers": [
+      {
+        "text": "210",
+        "is_correct": true
+      },
+      {
+        "text": "180",
+        "is_correct": false
+      },
+      {
+        "text": "144",
+        "is_correct": false
+      },
+      {
+        "text": "200",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "210 = 2 × 3 × 5 × 7, so it has four distinct prime factors.\nHint: Count different prime bases, not repeated copies.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Which number has exactly three distinct prime factors?",
+    "answers": [
+      {
+        "text": "180",
+        "is_correct": true
+      },
+      {
+        "text": "144",
+        "is_correct": false
+      },
+      {
+        "text": "200",
+        "is_correct": false
+      },
+      {
+        "text": "343",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180 = 2² × 3² × 5, so its distinct primes are 2, 3 and 5.\nHint: Ignore repeated powers when counting distinct primes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Which number is NOT a power of 2?",
+    "answers": [
+      {
+        "text": "192",
+        "is_correct": true
+      },
+      {
+        "text": "128",
+        "is_correct": false
+      },
+      {
+        "text": "256",
+        "is_correct": false
+      },
+      {
+        "text": "512",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "192 = 3 × 64, whereas 128, 256 and 512 are powers of 2.\nHint: Recall 2⁷, 2⁸ and 2⁹.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Which number is a power of 3?",
+    "answers": [
+      {
+        "text": "243",
+        "is_correct": true
+      },
+      {
+        "text": "162",
+        "is_correct": false
+      },
+      {
+        "text": "108",
+        "is_correct": false
+      },
+      {
+        "text": "1620",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "243 = 3⁵.\nHint: Use the sequence 1, 3, 9, 27, 81, 243, …",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Which number equals 5⁴?",
+    "answers": [
+      {
+        "text": "625",
+        "is_correct": true
+      },
+      {
+        "text": "3125",
+        "is_correct": false
+      },
+      {
+        "text": "125",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5⁴ = 625.\nHint: 5² = 25, 5³ = 125, 5⁴ = 625.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Which number equals 5³ × 2²?",
+    "answers": [
+      {
+        "text": "500",
+        "is_correct": true
+      },
+      {
+        "text": "250",
+        "is_correct": false
+      },
+      {
+        "text": "625",
+        "is_correct": false
+      },
+      {
+        "text": "1000",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "125 × 4 = 500.\nHint: Evaluate each prime power separately.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Which number equals 3² × 2⁴?",
+    "answers": [
+      {
+        "text": "144",
+        "is_correct": true
+      },
+      {
+        "text": "96",
+        "is_correct": false
+      },
+      {
+        "text": "72",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "9 × 16 = 144.\nHint: Powers come before multiplication.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "Find the HCF of 48 and 180.",
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "48 = 2⁴×3 and 180 = 2²×3²×5; common lowest powers give 2²×3 = 12.\nHint: For HCF use common primes with the smaller exponents.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "Find the LCM of 24 and 90.",
+    "answers": [
+      {
+        "text": "360",
+        "is_correct": true
+      },
+      {
+        "text": "180",
+        "is_correct": false
+      },
+      {
+        "text": "720",
+        "is_correct": false
+      },
+      {
+        "text": "540",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "24 = 2³×3 and 90 = 2×3²×5; highest powers give 2³×3²×5 = 360.\nHint: For LCM use every prime at its largest exponent.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "Find the HCF of 84 and 210.",
+    "answers": [
+      {
+        "text": "42",
+        "is_correct": true
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "84 = 2²×3×7 and 210 = 2×3×5×7; HCF = 2×3×7 = 42.\nHint: Use only common prime factors.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "Find the LCM of 18 and 30.",
+    "answers": [
+      {
+        "text": "90",
+        "is_correct": true
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      },
+      {
+        "text": "180",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "18 = 2×3² and 30 = 2×3×5; LCM = 2×3²×5 = 90.\nHint: Take the highest exponent of each prime.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "48 = 2⁴×3 and 180 = 2²×3²×5. What is 48:180 in simplest form?",
+    "answers": [
+      {
+        "text": "4:15",
+        "is_correct": true
+      },
+      {
+        "text": "12:45",
+        "is_correct": false
+      },
+      {
+        "text": "8:30",
+        "is_correct": false
+      },
+      {
+        "text": "16:60",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "HCF = 12; dividing both terms by 12 gives 4:15.\nHint: Use the HCF to simplify both parts equally.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "A bell rings every 18 minutes and another every 30 minutes. If they ring together now, when will they next ring together?",
+    "answers": [
+      {
+        "text": "90 minutes",
+        "is_correct": true
+      },
+      {
+        "text": "60 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "48 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "180 minutes",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The next common time is LCM(18,30)=90 minutes.\nHint: A repeat-together problem usually uses LCM.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "If N = 2³ × 3² × 5, which number is definitely a factor of N?",
+    "answers": [
+      {
+        "text": "90",
+        "is_correct": true
+      },
+      {
+        "text": "240",
+        "is_correct": false
+      },
+      {
+        "text": "75",
+        "is_correct": false
+      },
+      {
+        "text": "54",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "90 = 2×3²×5 uses exponents no larger than those in N.\nHint: A factor cannot require a larger prime exponent than N has.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "If A = 2⁴×3 and B = 2²×3³, what is HCF(A,B)?",
+    "answers": [
+      {
+        "text": "2²×3",
+        "is_correct": true
+      },
+      {
+        "text": "2⁴×3",
+        "is_correct": false
+      },
+      {
+        "text": "2²×3³",
+        "is_correct": false
+      },
+      {
+        "text": "2⁴",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Use minimum exponents: 2²×3¹.\nHint: HCF takes the smaller power of each common prime.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "If A = 2³×5² and B = 2⁵×5, what is LCM(A,B)?",
+    "answers": [
+      {
+        "text": "2⁵×5²",
+        "is_correct": true
+      },
+      {
+        "text": "2³×5²",
+        "is_correct": false
+      },
+      {
+        "text": "2⁵×5",
+        "is_correct": false
+      },
+      {
+        "text": "2³×5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Use maximum exponents: 2⁵×5².\nHint: LCM takes the largest power needed.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "360 = 2³×3²×5. How many positive factors does 360 have?",
+    "answers": [
+      {
+        "text": "24",
+        "is_correct": true
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The factor count is (3+1)(2+1)(1+1)=24.\nHint: Choose exponents independently from 0 up to each maximum.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "N = 2⁴×5². Is N divisible by 40?",
+    "answers": [
+      {
+        "text": "Yes, because 40 = 2³×5 and N contains at least those powers",
+        "is_correct": true
+      },
+      {
+        "text": "No, because N has too many factors of 2",
+        "is_correct": false
+      },
+      {
+        "text": "No, because 5² is not divisible by 5",
+        "is_correct": false
+      },
+      {
+        "text": "Yes, because every even number is divisible by 40",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "40 = 2³×5 and N has 2⁴×5², so 40 divides N.\nHint: Compare required prime exponents.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "Which number has the largest HCF with 180?",
+    "answers": [
+      {
+        "text": "60",
+        "is_correct": true
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "75",
+        "is_correct": false
+      },
+      {
+        "text": "54",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "HCF(180,60)=60, larger than the HCFs with the other options.\nHint: Prime-factorise 180 and compare common structure.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "What is the prime factorisation of 24?",
     "answers": [
       {
         "text": "2³ × 3",
@@ -27,29 +789,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 24 = 2³ × 3.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N02-P-025"
   },
   {
-    "id": "AC9M7N02-P-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
     "question": "What is the prime factorisation of 180?",
-    "audio_prompt": "What is the prime factorisation of 180?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "180 × 1",
@@ -64,28 +817,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 180 = 2² × 3² × 5.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-026"
   },
   {
-    "id": "AC9M7N02-P-017",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
     "question": "What is 3^4?",
-    "audio_prompt": "What is 3^4?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "12",
@@ -100,28 +845,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "3^4 means 3 × 3 × 3 × 3 = 81.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-027"
   },
   {
-    "id": "AC9M7N02-P-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
     "question": "What is the prime factorisation of 36?",
-    "audio_prompt": "What is the prime factorisation of 36?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "2⁴ × 3",
@@ -136,29 +873,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 36 = 2² × 3².",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N02-P-028"
   },
   {
-    "id": "AC9M7N02-P-010",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
     "question": "What is the prime factorisation of 252?",
-    "audio_prompt": "What is the prime factorisation of 252?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "2² × 3² × 7",
@@ -173,28 +901,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 252 = 2² × 3² × 7.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-029"
   },
   {
-    "id": "AC9M7N02-P-018",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
     "question": "What is 3^6?",
-    "audio_prompt": "What is 3^6?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "732",
@@ -209,28 +929,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "3^6 means 3 × 3 × 3 × 3 × 3 × 3 = 729.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-030"
   },
   {
-    "id": "AC9M7N02-P-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is the prime factorisation of 48?",
-    "audio_prompt": "What is the prime factorisation of 48?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "48 × 1",
@@ -245,65 +957,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 48 = 2⁴ × 3.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N02-P-031"
   },
   {
-    "id": "AC9M7N02-P-011",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "What is the prime factorisation of 360?",
-    "audio_prompt": "What is the prime factorisation of 360?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "2³ × 3² × 7",
-        "is_correct": false
-      },
-      {
-        "text": "2³ × 3² × 5",
-        "is_correct": true
-      },
-      {
-        "text": "360 × 1",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Continue dividing until every factor is prime: 360 = 2³ × 3² × 5.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N02-P-019",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is 5^3?",
-    "audio_prompt": "What is 5^3?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "125",
@@ -318,28 +985,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "5^3 means 5 × 5 × 5 = 125.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-032"
   },
   {
-    "id": "AC9M7N02-P-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is the prime factorisation of 60?",
-    "audio_prompt": "What is the prime factorisation of 60?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "2² × 3 × 5",
@@ -354,65 +1013,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 60 = 2² × 3 × 5.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N02-P-033"
   },
   {
-    "id": "AC9M7N02-P-012",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "What is the prime factorisation of 504?",
-    "audio_prompt": "What is the prime factorisation of 504?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "504 × 1",
-        "is_correct": false
-      },
-      {
-        "text": "2³ × 3",
-        "is_correct": false
-      },
-      {
-        "text": "2³ × 3² × 7",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Continue dividing until every factor is prime: 504 = 2³ × 3² × 7.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N02-P-020",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is 5^4?",
-    "audio_prompt": "What is 5^4?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "20",
@@ -427,28 +1041,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "5^4 means 5 × 5 × 5 × 5 = 625.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-034"
   },
   {
-    "id": "AC9M7N02-P-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is the prime factorisation of 72?",
-    "audio_prompt": "What is the prime factorisation of 72?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "2² × 3 × 7",
@@ -463,29 +1069,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 72 = 2³ × 3².",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N02-P-035"
   },
   {
-    "id": "AC9M7N02-P-013",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is 2^5?",
-    "audio_prompt": "What is 2^5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "32",
@@ -500,28 +1097,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "2^5 means 2 × 2 × 2 × 2 × 2 = 32.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-036"
   },
   {
-    "id": "AC9M7N02-P-021",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is 7^2?",
-    "audio_prompt": "What is 7^2?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "56",
@@ -536,28 +1125,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "7^2 means 7 × 7 = 49.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-037"
   },
   {
-    "id": "AC9M7N02-P-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is the prime factorisation of 84?",
-    "audio_prompt": "What is the prime factorisation of 84?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "84 × 1",
@@ -572,29 +1153,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 84 = 2² × 3 × 7.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N02-P-038"
   },
   {
-    "id": "AC9M7N02-P-014",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is 2^7?",
-    "audio_prompt": "What is 2^7?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "14",
@@ -609,28 +1181,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "2^7 means 2 × 2 × 2 × 2 × 2 × 2 × 2 = 128.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-039"
   },
   {
-    "id": "AC9M7N02-P-022",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is 11^2?",
-    "audio_prompt": "What is 11^2?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "121",
@@ -645,28 +1209,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "11^2 means 11 × 11 = 121.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-040"
   },
   {
-    "id": "AC9M7N02-P-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is the prime factorisation of 90?",
-    "audio_prompt": "What is the prime factorisation of 90?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "2 × 3² × 5",
@@ -681,29 +1237,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 90 = 2 × 3² × 5.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N02-P-041"
   },
   {
-    "id": "AC9M7N02-P-015",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
     "question": "What is 2^9?",
-    "audio_prompt": "What is 2^9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "514",
@@ -718,28 +1265,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "2^9 means 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 × 2 = 512.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-042"
   },
   {
-    "id": "AC9M7N02-P-023",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "super-hard",
     "question": "Find the highest common factor of 18 and 24.",
-    "audio_prompt": "Find the highest common factor of 18 and 24.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "3",
@@ -754,28 +1293,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 6.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-043"
   },
   {
-    "id": "AC9M7N02-P-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "super-hard",
     "question": "What is the prime factorisation of 120?",
-    "audio_prompt": "What is the prime factorisation of 120?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "2² × 3² × 5",
@@ -790,29 +1321,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Continue dividing until every factor is prime: 120 = 2³ × 3 × 5.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N02-P-044"
   },
   {
-    "id": "AC9M7N02-P-016",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "super-hard",
     "question": "What is 3^3?",
-    "audio_prompt": "What is 3^3?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "27",
@@ -827,28 +1349,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "3^3 means 3 × 3 × 3 = 27.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-045"
   },
   {
-    "id": "AC9M7N02-P-024",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "practice",
-    "skill": "prime_factorisation_with_exponent_notation",
+    "skill": "ac9m7n02",
+    "difficulty": "super-hard",
     "question": "Find the highest common factor of 24 and 36.",
-    "audio_prompt": "Find the highest common factor of 24 and 36.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
     "answers": [
       {
         "text": "24",
@@ -863,28 +1377,564 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 12.",
       "hint": "Break the number into prime factors, then compare the required exponents."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N02-P-046"
   },
   {
-    "id": "AC9M7N02-T-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "super-hard",
+    "question": "Challenge 1: Which prime-power factorisation equals 72?",
+    "answers": [
+      {
+        "text": "2³ × 3²",
+        "is_correct": true
+      },
+      {
+        "text": "2² × 3 × 5",
+        "is_correct": false
+      },
+      {
+        "text": "2 × 3³ × 5",
+        "is_correct": false
+      },
+      {
+        "text": "3² × 5²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "72 is decomposed into prime factors and repeated factors are written with exponents.",
+      "hint": "Divide repeatedly by the smallest available prime."
+    },
+    "id": "AC9M7N02-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "practice",
+    "skill": "ac9m7n02",
+    "difficulty": "super-hard",
+    "question": "Challenge 2: Which prime-power factorisation equals 90?",
+    "answers": [
+      {
+        "text": "2 × 3² × 5",
+        "is_correct": true
+      },
+      {
+        "text": "2² × 3 × 5",
+        "is_correct": false
+      },
+      {
+        "text": "2 × 3³ × 5",
+        "is_correct": false
+      },
+      {
+        "text": "3² × 5²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "90 is decomposed into prime factors and repeated factors are written with exponents.",
+      "hint": "Divide repeatedly by the smallest available prime."
+    },
+    "id": "AC9M7N02-P-048"
+  },
+  {
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N02",
     "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the highest common factor of 30 and 45.",
-    "audio_prompt": "Find the highest common factor of 30 and 45.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "What is the prime factorisation of 1152?",
+    "answers": [
+      {
+        "text": "2⁷×3²",
+        "is_correct": true
+      },
+      {
+        "text": "2⁶×3²",
+        "is_correct": false
+      },
+      {
+        "text": "2⁵×3³",
+        "is_correct": false
+      },
+      {
+        "text": "2⁷×3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "1152 = 128×9 = 2⁷×3².\nHint: Check by multiplying the prime powers.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7N02-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "What is the prime factorisation of 945?",
+    "answers": [
+      {
+        "text": "3³×5×7",
+        "is_correct": true
+      },
+      {
+        "text": "3²×5×7",
+        "is_correct": false
+      },
+      {
+        "text": "3²×5²×7",
+        "is_correct": false
+      },
+      {
+        "text": "3×5×7²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "945 = 27×35 = 3³×5×7.\nHint: Use repeated division by 3, then 5 and 7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Which number equals 2⁴×3×11?",
+    "answers": [
+      {
+        "text": "528",
+        "is_correct": true
+      },
+      {
+        "text": "264",
+        "is_correct": false
+      },
+      {
+        "text": "352",
+        "is_correct": false
+      },
+      {
+        "text": "176",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "16×3×11 = 528.\nHint: Evaluate the prime power first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "easy",
+    "question": "Find the HCF of 270 and 630.",
+    "answers": [
+      {
+        "text": "90",
+        "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "45",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "270=2×3³×5 and 630=2×3²×5×7, so HCF=2×3²×5=90.\nHint: Use the lower exponent of each common prime.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "Find the LCM of 56 and 98.",
+    "answers": [
+      {
+        "text": "392",
+        "is_correct": true
+      },
+      {
+        "text": "196",
+        "is_correct": false
+      },
+      {
+        "text": "784",
+        "is_correct": false
+      },
+      {
+        "text": "112",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "56=2³×7 and 98=2×7², so LCM=2³×7²=392.\nHint: Use the higher exponent of each prime.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "Find the HCF of 128 and 160.",
+    "answers": [
+      {
+        "text": "32",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "64",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "128=2⁷ and 160=2⁵×5, so HCF=2⁵=32.\nHint: Take the smaller common power.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "Find the LCM of 72 and 90.",
+    "answers": [
+      {
+        "text": "360",
+        "is_correct": true
+      },
+      {
+        "text": "720",
+        "is_correct": false
+      },
+      {
+        "text": "180",
+        "is_correct": false
+      },
+      {
+        "text": "540",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "72=2³×3² and 90=2×3²×5, so LCM=2³×3²×5=360.\nHint: Include every prime at the highest required power.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "If N=2⁶×3², which number is a factor of N?",
+    "answers": [
+      {
+        "text": "288",
+        "is_correct": true
+      },
+      {
+        "text": "432",
+        "is_correct": false
+      },
+      {
+        "text": "216",
+        "is_correct": false
+      },
+      {
+        "text": "320",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "288=2⁵×3², which fits within N's exponents.\nHint: A factor's prime exponents cannot exceed those in N.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "A=2⁴×7 and B=2²×7². What is HCF(A,B)?",
+    "answers": [
+      {
+        "text": "2²×7",
+        "is_correct": true
+      },
+      {
+        "text": "2⁴×7",
+        "is_correct": false
+      },
+      {
+        "text": "2²×7²",
+        "is_correct": false
+      },
+      {
+        "text": "2⁴",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "HCF uses minimum exponents: 2²×7.\nHint: Compare exponents prime by prime.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "medium",
+    "question": "A=2⁵×3²×7 and B=2³×3³×5. What is LCM(A,B)?",
+    "answers": [
+      {
+        "text": "2⁵×3³×5×7",
+        "is_correct": true
+      },
+      {
+        "text": "2³×3²",
+        "is_correct": false
+      },
+      {
+        "text": "2⁵×3²×7",
+        "is_correct": false
+      },
+      {
+        "text": "2³×3³×5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "LCM takes the maximum exponent of every prime present.\nHint: Build the LCM from all prime bases.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
+    "question": "N=2³×3⁴. How many positive factors does N have?",
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "(3+1)(4+1)=20.\nHint: Each factor chooses an exponent from 0 to the maximum.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
+    "question": "Three lights flash every 12 s, 18 s and 30 s. If they flash together now, after how many seconds will they next flash together?",
+    "answers": [
+      {
+        "text": "180",
+        "is_correct": true
+      },
+      {
+        "text": "90",
+        "is_correct": false
+      },
+      {
+        "text": "360",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "LCM(12,18,30)=180.\nHint: Use highest prime powers across all three intervals.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
+    "question": "84 red beads and 126 blue beads are packed into identical groups with no beads left over. What is the greatest possible number of groups?",
+    "answers": [
+      {
+        "text": "42",
+        "is_correct": true
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "HCF(84,126)=42, so 42 equal groups are possible.\nHint: A greatest equal grouping problem uses HCF.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "hard",
+    "question": "The smallest positive integer divisible by 84, 90 and 126 is which value?",
+    "answers": [
+      {
+        "text": "1260",
+        "is_correct": true
+      },
+      {
+        "text": "2520",
+        "is_correct": false
+      },
+      {
+        "text": "630",
+        "is_correct": false
+      },
+      {
+        "text": "3780",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "84=2²×3×7, 90=2×3²×5, 126=2×3²×7; LCM=2²×3²×5×7=1260.\nHint: Take the highest exponent of each prime across all numbers.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "super-hard",
+    "question": "A=2⁵×3²×7 and B=2³×3³×5. Which statement is true?",
+    "answers": [
+      {
+        "text": "HCF(A,B)=2³×3² and LCM(A,B)=2⁵×3³×5×7",
+        "is_correct": true
+      },
+      {
+        "text": "HCF(A,B)=2⁵×3³ and LCM(A,B)=2³×3²×5×7",
+        "is_correct": false
+      },
+      {
+        "text": "HCF(A,B)=2³×3³ and LCM(A,B)=2⁵×3²×5×7",
+        "is_correct": false
+      },
+      {
+        "text": "HCF(A,B)=6 and LCM(A,B)=A×B",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "HCF takes minimum common exponents; LCM takes maximum exponents across all primes.\nHint: Treat each prime independently.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N02-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N02",
+    "bank": "test",
+    "skill": "ac9m7n02",
+    "difficulty": "super-hard",
+    "question": "Find the highest common factor of 30 and 45.",
     "answers": [
       {
         "text": "15",
@@ -899,520 +1949,10 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 15.",
       "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-009",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the lowest common multiple of 6 and 8.",
-    "audio_prompt": "Find the lowest common multiple of 6 and 8.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
     },
-    "answers": [
-      {
-        "text": "48",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "24",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Take every required prime to the larger exponent; LCM = 24.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-002",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the highest common factor of 42 and 70.",
-    "audio_prompt": "Find the highest common factor of 42 and 70.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "14",
-        "is_correct": true
-      },
-      {
-        "text": "28",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 14.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the lowest common multiple of 8 and 12.",
-    "audio_prompt": "Find the lowest common multiple of 8 and 12.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "24",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "96",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Take every required prime to the larger exponent; LCM = 24.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-003",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the highest common factor of 48 and 72.",
-    "audio_prompt": "Find the highest common factor of 48 and 72.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "48",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "24",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 24.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the lowest common multiple of 9 and 12.",
-    "audio_prompt": "Find the lowest common multiple of 9 and 12.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "36",
-        "is_correct": true
-      },
-      {
-        "text": "108",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Take every required prime to the larger exponent; LCM = 36.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the highest common factor of 54 and 90.",
-    "audio_prompt": "Find the highest common factor of 54 and 90.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "18",
-        "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "36",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 18.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the lowest common multiple of 10 and 15.",
-    "audio_prompt": "Find the lowest common multiple of 10 and 15.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "150",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "30",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Take every required prime to the larger exponent; LCM = 30.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the highest common factor of 60 and 84.",
-    "audio_prompt": "Find the highest common factor of 60 and 84.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": true
-      },
-      {
-        "text": "24",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 12.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the lowest common multiple of 12 and 18.",
-    "audio_prompt": "Find the lowest common multiple of 12 and 18.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "36",
-        "is_correct": true
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "216",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Take every required prime to the larger exponent; LCM = 36.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the highest common factor of 72 and 120.",
-    "audio_prompt": "Find the highest common factor of 72 and 120.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "48",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      },
-      {
-        "text": "24",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 24.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the lowest common multiple of 14 and 20.",
-    "audio_prompt": "Find the lowest common multiple of 14 and 20.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "140",
-        "is_correct": true
-      },
-      {
-        "text": "280",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Take every required prime to the larger exponent; LCM = 140.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the highest common factor of 84 and 126.",
-    "audio_prompt": "Find the highest common factor of 84 and 126.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "42",
-        "is_correct": true
-      },
-      {
-        "text": "21",
-        "is_correct": false
-      },
-      {
-        "text": "84",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 42.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the lowest common multiple of 15 and 24.",
-    "audio_prompt": "Find the lowest common multiple of 15 and 24.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "360",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": false
-      },
-      {
-        "text": "120",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Take every required prime to the larger exponent; LCM = 120.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the highest common factor of 96 and 144.",
-    "audio_prompt": "Find the highest common factor of 96 and 144.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "24",
-        "is_correct": false
-      },
-      {
-        "text": "48",
-        "is_correct": true
-      },
-      {
-        "text": "96",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Compare prime factors and take each common prime to the smaller exponent; HCF = 48.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
-  },
-  {
-    "id": "AC9M7N02-T-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N02",
-    "bank": "test",
-    "skill": "prime_factorisation_with_exponent_notation",
-    "question": "Find the lowest common multiple of 18 and 30.",
-    "audio_prompt": "Find the lowest common multiple of 18 and 30.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n02",
-      "alt_text": "Prime-factor tree showing a composite number split until every leaf is prime."
-    },
-    "answers": [
-      {
-        "text": "90",
-        "is_correct": true
-      },
-      {
-        "text": "18",
-        "is_correct": false
-      },
-      {
-        "text": "540",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Take every required prime to the larger exponent; LCM = 90.",
-      "hint": "Break the number into prime factors, then compare the required exponents."
-    }
+    "id": "AC9M7N02-T-016"
   }
 ]

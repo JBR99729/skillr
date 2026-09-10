@@ -1,55 +1,676 @@
 "use strict";
-const raw=[
-["What is the first step in a statistical investigation?",["Plan a clear question","Collect data immediately","Calculate the mean","Write the conclusion"],0,"A good investigation begins with a clear question."],
-["Which is the strongest investigation question?",["Do teenagers have faster reaction times than adults?","Is maths hard?","Why are people different?","Is sport good?"],0,"It identifies groups and a measurable variable."],
-["Reaction time is usually:",["continuous numerical data","discrete count data","categorical data","binary data"],0,"Reaction time is measured on a continuous scale."],
-["Number of successful robot-arm lifts is:",["discrete numerical data","continuous data","categorical data","secondary data only"],0,"It is a count."],
-["Which type of data is obtained by measurement?",["continuous","discrete","nominal only","binary only"],0,"Measurements such as time, height and temperature are continuous."],
-["Which variable is discrete?",["number of goals","height","temperature","reaction time"],0,"Goals are counted in whole numbers."],
-["Which variable is continuous?",["height in cm","number of pets","number of siblings","number of attempts"],0,"Height is measured on a continuum."],
-["A survey response on a 1–5 agreement scale is best described as:",["ordinal data","continuous data","ratio measurement only","a physical measurement"],0,"The categories have an order but equal spacing is not guaranteed."],
-["Which is an example of secondary data?",["a published national survey","your own reaction-time measurements","your own robot tests","a class survey you conduct"],0,"Secondary data were collected previously by another source."],
-["A good investigation plan should identify:",["question, variables, data source and method","the answer in advance","only the mean","only the graph type"],0,"Planning should specify what will be investigated and how evidence will be collected."],
-["What does the mean describe?",["arithmetic centre","largest value","spread only","most frequent category"],0,"Mean is the arithmetic average."],
-["What does the median describe?",["middle ordered value","sum divided by count","maximum minus minimum","most frequent value"],0,"Median is based on ordered position."],
-["What does the mode describe?",["most frequent value or category","middle value","arithmetic average","range"],0,"Mode identifies the most common observation."],
-["What does the range describe?",["maximum-to-minimum spread","middle position","average","frequency"],0,"Range = maximum − minimum."],
-["Which statistic is usually most affected by an extreme outlier?",["mean","median","mode","none"],0,"The mean uses every value's magnitude."],
-["A symmetric distribution commonly has:",["mean close to median","mean much greater than median","mean much less than median","two peaks necessarily"],0,"In roughly symmetric data, mean and median are often close."],
-["A right-skewed distribution has:",["a long tail toward high values","a long tail toward low values","no tail","two equal peaks"],0,"Skew is named for the direction of the longer tail."],
-["A left-skewed distribution has:",["a long tail toward low values","a long tail toward high values","no variation","a guaranteed outlier"],0,"Left skew means the lower-value tail is longer."],
-["A bimodal distribution has:",["two peaks or modes","no mode","one peak only","zero range"],0,"Bi means two."],
-["An outlier often appears as:",["an isolated value away from the main cluster","the median","every repeated value","the first value collected"],0,"Outliers are unusually distant from most observations."],
-["Which measure is often more representative when a distribution is strongly skewed?",["median","mean","range","maximum"],0,"Median is resistant to extreme tails."],
-["Which simple statistic helps compare consistency?",["range","mean only","median only","mode only"],0,"A smaller range indicates less max-to-min variation."],
-["Two groups have the same median but different ranges. What differs?",["spread","middle value","necessarily sample size","necessarily mode"],0,"Equal medians can occur with different variability."],
-["Two groups have different means but the same range. What differs?",["arithmetic centre","spread by range","necessarily skewness","necessarily sample size"],0,"Mean compares centre; range compares simple spread."],
-["If one group has a lower median reaction time, that group is:",["typically faster","typically slower","necessarily more variable","necessarily larger"],0,"Lower reaction time means faster response."],
-["A long right tail in reaction-time data may indicate:",["some unusually slow reactions","some unusually fast reactions only","no variation","all values equal"],0,"Large reaction times sit on the right."],
-["In a before-and-after STEM investigation, what should be kept as consistent as possible?",["testing conditions","the conclusion","the data values","the graph labels only"],0,"Fair comparison requires comparable conditions."],
-["If completion time decreases after a design modification, performance may have:",["improved","worsened","stayed exactly the same","become categorical"],0,"For a task where lower time is better, reduced time indicates improvement."],
-["If range decreases after a design modification, the performance became:",["more consistent","less consistent","necessarily slower","necessarily biased"],0,"Smaller range means less spread."],
-["Which conclusion is strongest?",["The modified design had a lower median and smaller range, suggesting faster and more consistent performance","The modified design is better because I like it","The graph looks nicer","One trial was fast"],0,"Conclusions should cite statistics and context."],
-["What belongs in a complete statistical report?",["question, method, statistics, distribution, conclusion and limitations","only a graph","only the mean","only raw data"],0,"A complete report communicates the full investigation cycle."],
-["Why should limitations be reported?",["They affect how confidently results can be generalised or interpreted","They make the mean larger","They remove outliers","They guarantee causation"],0,"Sample size, measurement error and design choices affect conclusions."],
-["A small sample mainly limits:",["confidence and generalisability","the definition of mean","whether data can be ordered","whether a variable is continuous"],0,"Small samples may not represent broader populations well."],
-["Measurement error is a limitation because it can:",["add variation or bias to recorded values","make all data categorical","guarantee symmetry","remove the median"],0,"Poor measurement quality affects analysis."],
-["Why is it important to state how data were collected?",["The method affects reliability, bias and interpretation","It changes the formula for median","It guarantees no outliers","It makes secondary data primary"],0,"Collection method is part of evaluating evidence quality."],
-["Which conclusion is appropriately cautious?",["In this sample, Group A had a lower median reaction time than Group B","Group A is always faster everywhere","The result proves causation","The result proves a universal law"],0,"Statistical conclusions should match the scope of the evidence."],
-["A published large-scale survey can be useful because it:",["provides secondary data for investigation","eliminates all bias","proves causation","never needs context"],0,"External datasets can support investigation but still require source evaluation."],
-["When using published survey data, students should:",["report the source, measures and limitations accurately","invent explanations for differences","ignore sample design","treat group averages as individual facts"],0,"Context and accurate reporting are essential."],
-["Which is inappropriate when interpreting group data?",["Making claims about individuals from group averages","Reporting medians","Comparing ranges","Stating limitations"],0,"Group summaries do not determine individual values."],
-["Which display is useful for showing individual numerical values and clusters?",["dot plot","pie chart only","pictograph only","flow chart"],0,"Dot plots reveal individual values, clusters, gaps and possible outliers."],
-["Which display is useful for comparing distribution summaries between groups?",["side-by-side box plots","a single pie chart","a flow chart","a compass diagram"],0,"Box plots can compare centre and spread compactly."],
-["Which statement about histograms is correct?",["They show frequencies across numerical intervals","They show exact raw values individually","They are only for categorical data","They cannot show distribution shape"],0,"Histograms summarise numerical distributions by bins."],
-["Which statement about stem-and-leaf plots is correct?",["They retain individual values while showing distribution shape","They only show proportions","They cannot show the median","They are for categorical labels only"],0,"Stem-and-leaf plots preserve raw values."],
-["Why is context necessary when interpreting an outlier?",["It may be an error or a genuine important observation","Every outlier should be deleted","Outliers never affect conclusions","Outliers are always the largest value"],0,"The cause and meaning of an extreme value depend on context."],
-["If mean and median differ greatly, what should you investigate?",["skewness and outliers","only the mode","only the sample name","the graph colour"],0,"Large differences can signal asymmetry or extremes."],
-["What does 'centre' refer to in a distribution?",["a typical or central location such as mean or median","the range","the sample size","the axis label"],0,"Centre summarises where values tend to lie."],
-["What does 'spread' refer to?",["how variable the data are","which value is most common","the title of the graph","the independent variable only"],0,"Spread describes variability."],
-["A conclusion should be based on:",["the collected evidence and calculated statistics","personal opinion","the expected answer","one interesting value only"],0,"Statistics support evidence-based conclusions."],
-["Which sequence best represents a statistical investigation cycle?",["Question → plan/collect → analyse → interpret → report","Report → collect → guess → stop","Mean → question → delete outliers","Graph → conclusion → collect"],0,"The cycle begins with a question and ends with evidence-based reporting."],
-["Which statement best summarises AC9M7ST03?",["Plan and conduct complete statistical investigations, analyse distributions and report justified findings","Calculate mean only","Draw graphs only","Study probability only"],0,"The topic integrates the complete investigation process."]
+window.skillrPracticeQuestions = [
+  {
+    "id": "AC9M7ST03-P-001",
+    "type": "single",
+    "question": "What is the first step in a statistical investigation?",
+    "answers": [
+      "Plan a clear question",
+      "Collect data immediately",
+      "Calculate the mean",
+      "Write the conclusion"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "A good investigation begins with a clear question."
+  },
+  {
+    "id": "AC9M7ST03-P-002",
+    "type": "single",
+    "question": "Which is the strongest investigation question?",
+    "answers": [
+      "Do teenagers have faster reaction times than adults?",
+      "Is maths hard?",
+      "Why are people different?",
+      "Is sport good?"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "It identifies groups and a measurable variable."
+  },
+  {
+    "id": "AC9M7ST03-P-003",
+    "type": "single",
+    "question": "Reaction time is usually:",
+    "answers": [
+      "continuous numerical data",
+      "discrete count data",
+      "categorical data",
+      "binary data"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "Reaction time is measured on a continuous scale."
+  },
+  {
+    "id": "AC9M7ST03-P-004",
+    "type": "single",
+    "question": "Number of successful robot-arm lifts is:",
+    "answers": [
+      "discrete numerical data",
+      "continuous data",
+      "categorical data",
+      "secondary data only"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "It is a count."
+  },
+  {
+    "id": "AC9M7ST03-P-005",
+    "type": "single",
+    "question": "Which type of data is obtained by measurement?",
+    "answers": [
+      "continuous",
+      "discrete",
+      "nominal only",
+      "binary only"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "Measurements such as time, height and temperature are continuous."
+  },
+  {
+    "id": "AC9M7ST03-P-006",
+    "type": "single",
+    "question": "Which variable is discrete?",
+    "answers": [
+      "number of goals",
+      "height",
+      "temperature",
+      "reaction time"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "Goals are counted in whole numbers."
+  },
+  {
+    "id": "AC9M7ST03-P-007",
+    "type": "single",
+    "question": "Which variable is continuous?",
+    "answers": [
+      "height in cm",
+      "number of pets",
+      "number of siblings",
+      "number of attempts"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "Height is measured on a continuum."
+  },
+  {
+    "id": "AC9M7ST03-P-008",
+    "type": "single",
+    "question": "A survey response on a 1–5 agreement scale is best described as:",
+    "answers": [
+      "ordinal data",
+      "continuous data",
+      "ratio measurement only",
+      "a physical measurement"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "The categories have an order but equal spacing is not guaranteed."
+  },
+  {
+    "id": "AC9M7ST03-P-009",
+    "type": "single",
+    "question": "Which is an example of secondary data?",
+    "answers": [
+      "a published national survey",
+      "your own reaction-time measurements",
+      "your own robot tests",
+      "a class survey you conduct"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "Secondary data were collected previously by another source."
+  },
+  {
+    "id": "AC9M7ST03-P-010",
+    "type": "single",
+    "question": "A good investigation plan should identify:",
+    "answers": [
+      "question, variables, data source and method",
+      "the answer in advance",
+      "only the mean",
+      "only the graph type"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "Planning should specify what will be investigated and how evidence will be collected."
+  },
+  {
+    "id": "AC9M7ST03-P-011",
+    "type": "single",
+    "question": "What does the mean describe?",
+    "answers": [
+      "arithmetic centre",
+      "largest value",
+      "spread only",
+      "most frequent category"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "Mean is the arithmetic average."
+  },
+  {
+    "id": "AC9M7ST03-P-012",
+    "type": "single",
+    "question": "What does the median describe?",
+    "answers": [
+      "middle ordered value",
+      "sum divided by count",
+      "maximum minus minimum",
+      "most frequent value"
+    ],
+    "correct": 0,
+    "difficulty": "easy",
+    "explanation": "Median is based on ordered position."
+  },
+  {
+    "id": "AC9M7ST03-P-013",
+    "type": "single",
+    "question": "What does the mode describe?",
+    "answers": [
+      "most frequent value or category",
+      "middle value",
+      "arithmetic average",
+      "range"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Mode identifies the most common observation."
+  },
+  {
+    "id": "AC9M7ST03-P-014",
+    "type": "single",
+    "question": "What does the range describe?",
+    "answers": [
+      "maximum-to-minimum spread",
+      "middle position",
+      "average",
+      "frequency"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Range = maximum − minimum."
+  },
+  {
+    "id": "AC9M7ST03-P-015",
+    "type": "single",
+    "question": "Which statistic is usually most affected by an extreme outlier?",
+    "answers": [
+      "mean",
+      "median",
+      "mode",
+      "none"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "The mean uses every value's magnitude."
+  },
+  {
+    "id": "AC9M7ST03-P-016",
+    "type": "single",
+    "question": "A symmetric distribution commonly has:",
+    "answers": [
+      "mean close to median",
+      "mean much greater than median",
+      "mean much less than median",
+      "two peaks necessarily"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "In roughly symmetric data, mean and median are often close."
+  },
+  {
+    "id": "AC9M7ST03-P-017",
+    "type": "single",
+    "question": "A right-skewed distribution has:",
+    "answers": [
+      "a long tail toward high values",
+      "a long tail toward low values",
+      "no tail",
+      "two equal peaks"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Skew is named for the direction of the longer tail."
+  },
+  {
+    "id": "AC9M7ST03-P-018",
+    "type": "single",
+    "question": "A left-skewed distribution has:",
+    "answers": [
+      "a long tail toward low values",
+      "a long tail toward high values",
+      "no variation",
+      "a guaranteed outlier"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Left skew means the lower-value tail is longer."
+  },
+  {
+    "id": "AC9M7ST03-P-019",
+    "type": "single",
+    "question": "A bimodal distribution has:",
+    "answers": [
+      "two peaks or modes",
+      "no mode",
+      "one peak only",
+      "zero range"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Bi means two."
+  },
+  {
+    "id": "AC9M7ST03-P-020",
+    "type": "single",
+    "question": "An outlier often appears as:",
+    "answers": [
+      "an isolated value away from the main cluster",
+      "the median",
+      "every repeated value",
+      "the first value collected"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Outliers are unusually distant from most observations."
+  },
+  {
+    "id": "AC9M7ST03-P-021",
+    "type": "single",
+    "question": "Which measure is often more representative when a distribution is strongly skewed?",
+    "answers": [
+      "median",
+      "mean",
+      "range",
+      "maximum"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Median is resistant to extreme tails."
+  },
+  {
+    "id": "AC9M7ST03-P-022",
+    "type": "single",
+    "question": "Which simple statistic helps compare consistency?",
+    "answers": [
+      "range",
+      "mean only",
+      "median only",
+      "mode only"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "A smaller range indicates less max-to-min variation."
+  },
+  {
+    "id": "AC9M7ST03-P-023",
+    "type": "single",
+    "question": "Two groups have the same median but different ranges. What differs?",
+    "answers": [
+      "spread",
+      "middle value",
+      "necessarily sample size",
+      "necessarily mode"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Equal medians can occur with different variability."
+  },
+  {
+    "id": "AC9M7ST03-P-024",
+    "type": "single",
+    "question": "Two groups have different means but the same range. What differs?",
+    "answers": [
+      "arithmetic centre",
+      "spread by range",
+      "necessarily skewness",
+      "necessarily sample size"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Mean compares centre; range compares simple spread."
+  },
+  {
+    "id": "AC9M7ST03-P-025",
+    "type": "single",
+    "question": "If one group has a lower median reaction time, that group is:",
+    "answers": [
+      "typically faster",
+      "typically slower",
+      "necessarily more variable",
+      "necessarily larger"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Lower reaction time means faster response."
+  },
+  {
+    "id": "AC9M7ST03-P-026",
+    "type": "single",
+    "question": "A long right tail in reaction-time data may indicate:",
+    "answers": [
+      "some unusually slow reactions",
+      "some unusually fast reactions only",
+      "no variation",
+      "all values equal"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Large reaction times sit on the right."
+  },
+  {
+    "id": "AC9M7ST03-P-027",
+    "type": "single",
+    "question": "In a before-and-after STEM investigation, what should be kept as consistent as possible?",
+    "answers": [
+      "testing conditions",
+      "the conclusion",
+      "the data values",
+      "the graph labels only"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Fair comparison requires comparable conditions."
+  },
+  {
+    "id": "AC9M7ST03-P-028",
+    "type": "single",
+    "question": "If completion time decreases after a design modification, performance may have:",
+    "answers": [
+      "improved",
+      "worsened",
+      "stayed exactly the same",
+      "become categorical"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "For a task where lower time is better, reduced time indicates improvement."
+  },
+  {
+    "id": "AC9M7ST03-P-029",
+    "type": "single",
+    "question": "If range decreases after a design modification, the performance became:",
+    "answers": [
+      "more consistent",
+      "less consistent",
+      "necessarily slower",
+      "necessarily biased"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Smaller range means less spread."
+  },
+  {
+    "id": "AC9M7ST03-P-030",
+    "type": "single",
+    "question": "Which conclusion is strongest?",
+    "answers": [
+      "The modified design had a lower median and smaller range, suggesting faster and more consistent performance",
+      "The modified design is better because I like it",
+      "The graph looks nicer",
+      "One trial was fast"
+    ],
+    "correct": 0,
+    "difficulty": "medium",
+    "explanation": "Conclusions should cite statistics and context."
+  },
+  {
+    "id": "AC9M7ST03-P-031",
+    "type": "single",
+    "question": "What belongs in a complete statistical report?",
+    "answers": [
+      "question, method, statistics, distribution, conclusion and limitations",
+      "only a graph",
+      "only the mean",
+      "only raw data"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "A complete report communicates the full investigation cycle."
+  },
+  {
+    "id": "AC9M7ST03-P-032",
+    "type": "single",
+    "question": "Why should limitations be reported?",
+    "answers": [
+      "They affect how confidently results can be generalised or interpreted",
+      "They make the mean larger",
+      "They remove outliers",
+      "They guarantee causation"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Sample size, measurement error and design choices affect conclusions."
+  },
+  {
+    "id": "AC9M7ST03-P-033",
+    "type": "single",
+    "question": "A small sample mainly limits:",
+    "answers": [
+      "confidence and generalisability",
+      "the definition of mean",
+      "whether data can be ordered",
+      "whether a variable is continuous"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Small samples may not represent broader populations well."
+  },
+  {
+    "id": "AC9M7ST03-P-034",
+    "type": "single",
+    "question": "Measurement error is a limitation because it can:",
+    "answers": [
+      "add variation or bias to recorded values",
+      "make all data categorical",
+      "guarantee symmetry",
+      "remove the median"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Poor measurement quality affects analysis."
+  },
+  {
+    "id": "AC9M7ST03-P-035",
+    "type": "single",
+    "question": "Why is it important to state how data were collected?",
+    "answers": [
+      "The method affects reliability, bias and interpretation",
+      "It changes the formula for median",
+      "It guarantees no outliers",
+      "It makes secondary data primary"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Collection method is part of evaluating evidence quality."
+  },
+  {
+    "id": "AC9M7ST03-P-036",
+    "type": "single",
+    "question": "Which conclusion is appropriately cautious?",
+    "answers": [
+      "In this sample, Group A had a lower median reaction time than Group B",
+      "Group A is always faster everywhere",
+      "The result proves causation",
+      "The result proves a universal law"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Statistical conclusions should match the scope of the evidence."
+  },
+  {
+    "id": "AC9M7ST03-P-037",
+    "type": "single",
+    "question": "A published large-scale survey can be useful because it:",
+    "answers": [
+      "provides secondary data for investigation",
+      "eliminates all bias",
+      "proves causation",
+      "never needs context"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "External datasets can support investigation but still require source evaluation."
+  },
+  {
+    "id": "AC9M7ST03-P-038",
+    "type": "single",
+    "question": "When using published survey data, students should:",
+    "answers": [
+      "report the source, measures and limitations accurately",
+      "invent explanations for differences",
+      "ignore sample design",
+      "treat group averages as individual facts"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Context and accurate reporting are essential."
+  },
+  {
+    "id": "AC9M7ST03-P-039",
+    "type": "single",
+    "question": "Which is inappropriate when interpreting group data?",
+    "answers": [
+      "Making claims about individuals from group averages",
+      "Reporting medians",
+      "Comparing ranges",
+      "Stating limitations"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Group summaries do not determine individual values."
+  },
+  {
+    "id": "AC9M7ST03-P-040",
+    "type": "single",
+    "question": "Which display is useful for showing individual numerical values and clusters?",
+    "answers": [
+      "dot plot",
+      "pie chart only",
+      "pictograph only",
+      "flow chart"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Dot plots reveal individual values, clusters, gaps and possible outliers."
+  },
+  {
+    "id": "AC9M7ST03-P-041",
+    "type": "single",
+    "question": "Which display is useful for comparing distribution summaries between groups?",
+    "answers": [
+      "side-by-side box plots",
+      "a single pie chart",
+      "a flow chart",
+      "a compass diagram"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Box plots can compare centre and spread compactly."
+  },
+  {
+    "id": "AC9M7ST03-P-042",
+    "type": "single",
+    "question": "Which statement about histograms is correct?",
+    "answers": [
+      "They show frequencies across numerical intervals",
+      "They show exact raw values individually",
+      "They are only for categorical data",
+      "They cannot show distribution shape"
+    ],
+    "correct": 0,
+    "difficulty": "hard",
+    "explanation": "Histograms summarise numerical distributions by bins."
+  },
+  {
+    "id": "AC9M7ST03-P-043",
+    "type": "single",
+    "question": "Which statement about stem-and-leaf plots is correct?",
+    "answers": [
+      "They retain individual values while showing distribution shape",
+      "They only show proportions",
+      "They cannot show the median",
+      "They are for categorical labels only"
+    ],
+    "correct": 0,
+    "difficulty": "super-hard",
+    "explanation": "Stem-and-leaf plots preserve raw values."
+  },
+  {
+    "id": "AC9M7ST03-P-044",
+    "type": "single",
+    "question": "Why is context necessary when interpreting an outlier?",
+    "answers": [
+      "It may be an error or a genuine important observation",
+      "Every outlier should be deleted",
+      "Outliers never affect conclusions",
+      "Outliers are always the largest value"
+    ],
+    "correct": 0,
+    "difficulty": "super-hard",
+    "explanation": "The cause and meaning of an extreme value depend on context."
+  },
+  {
+    "id": "AC9M7ST03-P-045",
+    "type": "single",
+    "question": "If mean and median differ greatly, what should you investigate?",
+    "answers": [
+      "skewness and outliers",
+      "only the mode",
+      "only the sample name",
+      "the graph colour"
+    ],
+    "correct": 0,
+    "difficulty": "super-hard",
+    "explanation": "Large differences can signal asymmetry or extremes."
+  },
+  {
+    "id": "AC9M7ST03-P-046",
+    "type": "single",
+    "question": "What does 'centre' refer to in a distribution?",
+    "answers": [
+      "a typical or central location such as mean or median",
+      "the range",
+      "the sample size",
+      "the axis label"
+    ],
+    "correct": 0,
+    "difficulty": "super-hard",
+    "explanation": "Centre summarises where values tend to lie."
+  },
+  {
+    "id": "AC9M7ST03-P-047",
+    "type": "single",
+    "question": "What does 'spread' refer to?",
+    "answers": [
+      "how variable the data are",
+      "which value is most common",
+      "the title of the graph",
+      "the independent variable only"
+    ],
+    "correct": 0,
+    "difficulty": "super-hard",
+    "explanation": "Spread describes variability."
+  },
+  {
+    "id": "AC9M7ST03-P-048",
+    "type": "single",
+    "question": "A conclusion should be based on:",
+    "answers": [
+      "the collected evidence and calculated statistics",
+      "personal opinion",
+      "the expected answer",
+      "one interesting value only"
+    ],
+    "correct": 0,
+    "difficulty": "super-hard",
+    "explanation": "Statistics support evidence-based conclusions."
+  }
 ];
-window.skillrPracticeQuestions=raw.map((q,i)=>({id:`ac9m7st03-p-${String(i+1).padStart(3,"0")}`,curriculumCode:"AC9M7ST03",bank:"practice",skill:"statistical investigations",printable:true,type:"single",question:q[0],audioPrompt:q[0],visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers:q[1],correct:q[2],explanation:q[3],structuredExplanation:{summary:q[3],hint:"Connect the question, data type, collection method, distribution and conclusion."},qualitySchema:"production-v1"}));
-window.quizQuestions=window.skillrPracticeQuestions;
+window.quizQuestions = window.skillrPracticeQuestions;

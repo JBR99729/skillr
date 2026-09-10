@@ -1,18 +1,1292 @@
 [
   {
-    "id": "AC9M7A05-P-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A pattern follows y = 2n + 3. How many tiles are in figure 5?",
-    "audio_prompt": "A pattern follows y = 2n + 3. How many tiles are in figure 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 2 tiles each step, with 3 fixed tiles."
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "For y = 3x + 2, what is y when x = 5?",
+    "answers": [
+      {
+        "text": "17",
+        "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3×5+2=17.\nHint: Substitute x=5.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7A05-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "Which table is linear with a non-zero constant difference?",
+    "answers": [
+      {
+        "text": "x:1,2,3 → y:4,7,10",
+        "is_correct": true
+      },
+      {
+        "text": "x:1,2,3 → y:2,4,8",
+        "is_correct": false
+      },
+      {
+        "text": "x:1,2,3 → y:1,4,9",
+        "is_correct": false
+      },
+      {
+        "text": "x:1,2,3 → y:2,5,10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The y-values rise by 3 each time.\nHint: Check first differences.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "A table's y-values increase by 6 whenever x increases by 1. Which form must its rule have?",
+    "answers": [
+      {
+        "text": "y=6x+c",
+        "is_correct": true
+      },
+      {
+        "text": "y=x²+c",
+        "is_correct": false
+      },
+      {
+        "text": "y=6/x",
+        "is_correct": false
+      },
+      {
+        "text": "y=c",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A constant first difference of 6 gives slope 6.\nHint: Use y=mx+b.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "Which rule produces a straight-line graph?",
+    "answers": [
+      {
+        "text": "y=4x−1",
+        "is_correct": true
+      },
+      {
+        "text": "y=x²",
+        "is_correct": false
+      },
+      {
+        "text": "y=2^x",
+        "is_correct": false
+      },
+      {
+        "text": "y=1/x",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "y=4x−1 is linear.\nHint: Linear rules have x to the first power only.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "For y=2x, what is y when x=5?",
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2×5=10.\nHint: Apply the rule to the input.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "Which table matches y=5x?",
+    "answers": [
+      {
+        "text": "1→5, 2→10, 3→15",
+        "is_correct": true
+      },
+      {
+        "text": "1→6, 2→12, 3→18",
+        "is_correct": false
+      },
+      {
+        "text": "1→4, 2→8, 3→12",
+        "is_correct": false
+      },
+      {
+        "text": "1→3, 2→6, 3→9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each output is five times the input.\nHint: Test x=1 and x=2.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "If y rises by 9 for every increase of 1 in x, what is the slope?",
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "−9",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot tell",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Slope is change in y per unit change in x, so it is 9.\nHint: Use rise/run.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "Which table is NOT linear?",
+    "answers": [
+      {
+        "text": "1→2, 2→4, 3→8",
+        "is_correct": true
+      },
+      {
+        "text": "1→3, 2→6, 3→9",
+        "is_correct": false
+      },
+      {
+        "text": "1→7, 2→9, 3→11",
+        "is_correct": false
+      },
+      {
+        "text": "1→10, 2→20, 3→30",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The differences 2 then 4 are not constant.\nHint: Compare consecutive y-differences.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "In y=4x+1, what is the slope?",
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The coefficient of x is 4.\nHint: Use y=mx+b.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "In y=3x−7, what is the y-intercept?",
+    "answers": [
+      {
+        "text": "−7",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The constant term is −7.\nHint: Set x=0.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "A machine multiplies by 4 then adds 3. What is the output for input 6?",
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4×6+3=27.\nHint: Follow the operations in order.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "Which rule means 'double then subtract 5'?",
+    "answers": [
+      {
+        "text": "y=2x−5",
+        "is_correct": true
+      },
+      {
+        "text": "y=x−5",
+        "is_correct": false
+      },
+      {
+        "text": "y=2(x−5)",
+        "is_correct": false
+      },
+      {
+        "text": "y=x/2−5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Doubling gives 2x, then subtract 5.\nHint: Translate one operation at a time.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "For y=x+7, what is the output when x=12?",
+    "answers": [
+      {
+        "text": "19",
+        "is_correct": true
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "12+7=19.\nHint: Substitute the input.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "A machine multiplies by 3 then divides by 2. What is the output for input 10?",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "10×3÷2=15.\nHint: Keep the operation order.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "Which rule means 'subtract 4, then triple the result'?",
+    "answers": [
+      {
+        "text": "y=3(x−4)",
+        "is_correct": true
+      },
+      {
+        "text": "y=3x−4",
+        "is_correct": false
+      },
+      {
+        "text": "y=x−12",
+        "is_correct": false
+      },
+      {
+        "text": "y=3x+4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The subtraction happens before the multiplication, so brackets are needed.\nHint: Group x−4 first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "A machine squares the input then adds 1. What is the output for input 5?",
+    "answers": [
+      {
+        "text": "26",
+        "is_correct": true
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5²+1=26.\nHint: Square before adding.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "Which rule means 'divide by 3, then add 10'?",
+    "answers": [
+      {
+        "text": "y=x/3+10",
+        "is_correct": true
+      },
+      {
+        "text": "y=3x+10",
+        "is_correct": false
+      },
+      {
+        "text": "y=x+10",
+        "is_correct": false
+      },
+      {
+        "text": "y=(x+10)/3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "First divide x by 3, then add 10.\nHint: Order matters.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "A machine multiplies by 6 then subtracts 2. What is the output for input 7?",
+    "answers": [
+      {
+        "text": "40",
+        "is_correct": true
+      },
+      {
+        "text": "42",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "6×7−2=40.\nHint: Apply both operations.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "Which rule means 'add 8, then halve the result'?",
+    "answers": [
+      {
+        "text": "y=(x+8)/2",
+        "is_correct": true
+      },
+      {
+        "text": "y=x/2+8",
+        "is_correct": false
+      },
+      {
+        "text": "y=2x+8",
+        "is_correct": false
+      },
+      {
+        "text": "y=(x+4)/2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The whole sum x+8 is divided by 2.\nHint: Use brackets around x+8.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "A machine triples then adds 12. What is the output for input 9?",
+    "answers": [
+      {
+        "text": "39",
+        "is_correct": true
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3×9+12=39.\nHint: Multiply first, then add.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "A pattern increases by 5 every step. Which rule form fits the pattern?",
+    "answers": [
+      {
+        "text": "y=5x+c",
+        "is_correct": true
+      },
+      {
+        "text": "y=x²",
+        "is_correct": false
+      },
+      {
+        "text": "y=5",
+        "is_correct": false
+      },
+      {
+        "text": "y=5/x",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Constant growth of 5 gives slope 5.\nHint: Think linear rule y=mx+b.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "What is the constant difference in 4, 9, 14, 19, …?",
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each term increases by 5.\nHint: Subtract consecutive terms.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "If term 1 is 10 and each new term adds 5, which rule gives term n?",
+    "answers": [
+      {
+        "text": "y=5n+5",
+        "is_correct": true
+      },
+      {
+        "text": "y=5n",
+        "is_correct": false
+      },
+      {
+        "text": "y=n+10",
+        "is_correct": false
+      },
+      {
+        "text": "y=10n",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "At n=1, 5(1)+5=10, and the slope is 5.\nHint: Use first term to find the intercept.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "A linear growth pattern plotted against step number forms what shape?",
+    "answers": [
+      {
+        "text": "A straight line",
+        "is_correct": true
+      },
+      {
+        "text": "A parabola",
+        "is_correct": false
+      },
+      {
+        "text": "A circle",
+        "is_correct": false
+      },
+      {
+        "text": "Always a horizontal line",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A constant first difference gives a straight-line graph.\nHint: Linear means constant rate of change.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "Which rule gives 3, 6, 9, 12, … for n=1,2,3,4?",
+    "answers": [
+      {
+        "text": "y=3n",
+        "is_correct": true
+      },
+      {
+        "text": "y=n+3",
+        "is_correct": false
+      },
+      {
+        "text": "y=3/n",
+        "is_correct": false
+      },
+      {
+        "text": "y=n²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each term is three times its step number.\nHint: Test n=1 and n=4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "What is the constant difference in 2, 7, 12, 17, …?",
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each term increases by 5.\nHint: Find first differences.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "Which rule gives 1, 4, 7, 10, … for n=1,2,3,4?",
+    "answers": [
+      {
+        "text": "y=3n−2",
+        "is_correct": true
+      },
+      {
+        "text": "y=3n+1",
+        "is_correct": false
+      },
+      {
+        "text": "y=n+3",
+        "is_correct": false
+      },
+      {
+        "text": "y=10n",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Slope 3 and first term 1 give intercept −2.\nHint: Use y=mn+b.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "Which statement is true for a sequence with constant first difference?",
+    "answers": [
+      {
+        "text": "Its step-number graph is linear",
+        "is_correct": true
+      },
+      {
+        "text": "Its graph must be a parabola",
+        "is_correct": false
+      },
+      {
+        "text": "Its outputs must all be positive",
+        "is_correct": false
+      },
+      {
+        "text": "Its rule must pass through the origin",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Constant first difference means a linear relationship with step number.\nHint: A non-zero intercept is allowed.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "What is the constant difference in 5, 11, 17, 23, …?",
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "17",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each term increases by 6.\nHint: Subtract neighbouring terms.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "Which rule gives 8, 16, 24, 32, …?",
+    "answers": [
+      {
+        "text": "y=8n",
+        "is_correct": true
+      },
+      {
+        "text": "y=n+8",
+        "is_correct": false
+      },
+      {
+        "text": "y=4n",
+        "is_correct": false
+      },
+      {
+        "text": "y=n²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each term is 8 times the step number.\nHint: Check n=1 and n=4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "An algorithm has term 1 = 2 and adds 7 each new step. Which explicit rule is correct?",
+    "answers": [
+      {
+        "text": "y=7n−5",
+        "is_correct": true
+      },
+      {
+        "text": "y=7n+2",
+        "is_correct": false
+      },
+      {
+        "text": "y=2n+7",
+        "is_correct": false
+      },
+      {
+        "text": "y=n+7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "At n=1 the rule must give 2; 7n−5 works.\nHint: Use first term and common difference.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "An algorithm has term 1=10 and adds 4 each new step. What is term 5?",
+    "answers": [
+      {
+        "text": "26",
+        "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "22",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "10+4×4=26.\nHint: There are four jumps from term 1 to term 5.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "An algorithm adds the same constant at every step. What graph does term number versus value produce?",
+    "answers": [
+      {
+        "text": "A straight line",
+        "is_correct": true
+      },
+      {
+        "text": "A parabola",
+        "is_correct": false
+      },
+      {
+        "text": "A circle",
+        "is_correct": false
+      },
+      {
+        "text": "An exponential curve",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Constant addition gives a constant first difference.\nHint: Constant rate of change is linear.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "An algorithm starts at 3 and multiplies by 2 each step. What type of pattern is it?",
+    "answers": [
+      {
+        "text": "Exponential",
+        "is_correct": true
+      },
+      {
+        "text": "Linear",
+        "is_correct": false
+      },
+      {
+        "text": "Quadratic",
+        "is_correct": false
+      },
+      {
+        "text": "Constant",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Repeated multiplication by a constant factor is exponential growth.\nHint: Compare ratios rather than differences.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "An algorithm has term 1=5 and adds 9 each step. What is term 4?",
+    "answers": [
+      {
+        "text": "32",
+        "is_correct": true
+      },
+      {
+        "text": "41",
+        "is_correct": false
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "text": "23",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5+3×9=32.\nHint: Term 4 is three jumps after term 1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "A sequence starts at 1, then adds 1, then 2, then 3, then 4, … . How should it be classified?",
+    "answers": [
+      {
+        "text": "Non-linear",
+        "is_correct": true
+      },
+      {
+        "text": "Linear",
+        "is_correct": false
+      },
+      {
+        "text": "Constant",
+        "is_correct": false
+      },
+      {
+        "text": "Exponential",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The amount added changes each time, so the first difference is not constant.\nHint: Linear sequences need constant first differences.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "An algorithm has term 1=2 and adds 5 each step. What graph shape results?",
+    "answers": [
+      {
+        "text": "Straight line",
+        "is_correct": true
+      },
+      {
+        "text": "Parabola",
+        "is_correct": false
+      },
+      {
+        "text": "Circle",
+        "is_correct": false
+      },
+      {
+        "text": "Exponential curve",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The first difference is constantly 5.\nHint: Constant addition gives linear growth.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "A sequence has term 1=12 and adds 12 each step. Which rule gives term n?",
+    "answers": [
+      {
+        "text": "y=12n",
+        "is_correct": true
+      },
+      {
+        "text": "y=n+12",
+        "is_correct": false
+      },
+      {
+        "text": "y=12/n",
+        "is_correct": false
+      },
+      {
+        "text": "y=n²+12",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The sequence is 12,24,36,… so y=12n.\nHint: Check n=1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "An algorithm has term 1=4 and adds 3 each step. What is term 7?",
+    "answers": [
+      {
+        "text": "22",
+        "is_correct": true
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "28",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4+6×3=22.\nHint: Count six jumps from term 1 to term 7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "An algorithm starts at 6 and multiplies by 3 each step. What type of pattern is it?",
+    "answers": [
+      {
+        "text": "Exponential",
+        "is_correct": true
+      },
+      {
+        "text": "Linear",
+        "is_correct": false
+      },
+      {
+        "text": "Constant",
+        "is_correct": false
+      },
+      {
+        "text": "Quadratic",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Repeated multiplication by 3 produces exponential growth.\nHint: Look for a constant ratio.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "practice",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "A pattern follows y = 2n + 3. How many tiles are in figure 5?",
     "answers": [
       {
         "text": "13",
@@ -27,29 +1301,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Substituting n = 5 gives y = 2 × 5 + 3 = 13.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+      "summary": "Substituting n = 5 gives y = 2 × 5 + 3 = 13.\nHint: Compare consecutive outputs, identify the constant change and verify the rule with another row.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A05-P-041"
   },
   {
-    "id": "AC9M7A05-P-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
     "question": "A pattern follows y = 3n + 1. How many tiles are in figure 5?",
-    "audio_prompt": "A pattern follows y = 3n + 1. How many tiles are in figure 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 3 tiles each step, with 1 fixed tiles."
-    },
     "answers": [
       {
         "text": "15",
@@ -64,29 +1329,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Substituting n = 5 gives y = 3 × 5 + 1 = 16.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+      "summary": "Substituting n = 5 gives y = 3 × 5 + 1 = 16.\nHint: Compare consecutive outputs, identify the constant change and verify the rule with another row.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A05-P-042"
   },
   {
-    "id": "AC9M7A05-P-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "skill": "ac9m7a05",
+    "difficulty": "super-hard",
     "question": "A pattern follows y = 4n + 2. How many tiles are in figure 5?",
-    "audio_prompt": "A pattern follows y = 4n + 2. How many tiles are in figure 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 4 tiles each step, with 2 fixed tiles."
-    },
     "answers": [
       {
         "text": "20",
@@ -101,28 +1357,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Substituting n = 5 gives y = 4 × 5 + 2 = 22.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+      "summary": "Substituting n = 5 gives y = 4 × 5 + 2 = 22.\nHint: Compare consecutive outputs, identify the constant change and verify the rule with another row.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A05-P-043"
   },
   {
-    "id": "AC9M7A05-P-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "skill": "ac9m7a05",
+    "difficulty": "super-hard",
     "question": "A pattern follows y = 5n + 4. How many tiles are in figure 5?",
-    "audio_prompt": "A pattern follows y = 5n + 4. How many tiles are in figure 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 5 tiles each step, with 4 fixed tiles."
-    },
     "answers": [
       {
         "text": "29",
@@ -137,28 +1385,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Substituting n = 5 gives y = 5 × 5 + 4 = 29.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+      "summary": "Substituting n = 5 gives y = 5 × 5 + 4 = 29.\nHint: Compare consecutive outputs, identify the constant change and verify the rule with another row.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A05-P-044"
   },
   {
-    "id": "AC9M7A05-P-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "skill": "ac9m7a05",
+    "difficulty": "super-hard",
     "question": "A pattern follows y = 6n + 1. How many tiles are in figure 5?",
-    "audio_prompt": "A pattern follows y = 6n + 1. How many tiles are in figure 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 6 tiles each step, with 1 fixed tiles."
-    },
     "answers": [
       {
         "text": "30",
@@ -173,28 +1413,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Substituting n = 5 gives y = 6 × 5 + 1 = 31.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+      "summary": "Substituting n = 5 gives y = 6 × 5 + 1 = 31.\nHint: Compare consecutive outputs, identify the constant change and verify the rule with another row.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A05-P-045"
   },
   {
-    "id": "AC9M7A05-P-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "skill": "ac9m7a05",
+    "difficulty": "super-hard",
     "question": "A pattern follows y = 7n + 3. How many tiles are in figure 5?",
-    "audio_prompt": "A pattern follows y = 7n + 3. How many tiles are in figure 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 7 tiles each step, with 3 fixed tiles."
-    },
     "answers": [
       {
         "text": "35",
@@ -209,28 +1441,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Substituting n = 5 gives y = 7 × 5 + 3 = 38.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+      "summary": "Substituting n = 5 gives y = 7 × 5 + 3 = 38.\nHint: Compare consecutive outputs, identify the constant change and verify the rule with another row.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A05-P-046"
   },
   {
-    "id": "AC9M7A05-P-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "skill": "ac9m7a05",
+    "difficulty": "super-hard",
     "question": "Figures 1 to 4 contain 5, 8, 11, 14 tiles. Which rule and next value fit the pattern?",
-    "audio_prompt": "Figures 1 to 4 contain 5, 8, 11, 14 tiles. Which rule and next value fit the pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
     "answers": [
       {
         "text": "3n + 2; next 17",
@@ -245,28 +1469,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.\nHint: Compare consecutive outputs, identify the constant change and verify the rule with another row.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A05-P-047"
   },
   {
-    "id": "AC9M7A05-P-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
+    "skill": "ac9m7a05",
+    "difficulty": "super-hard",
     "question": "Figures 1 to 4 contain 7, 11, 15, 19 tiles. Which rule and next value fit the pattern?",
-    "audio_prompt": "Figures 1 to 4 contain 7, 11, 15, 19 tiles. Which rule and next value fit the pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
     "answers": [
       {
         "text": "4n ; next 22",
@@ -281,1138 +1497,522 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
+      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.\nHint: Compare consecutive outputs, identify the constant change and verify the rule with another row.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A05-P-048"
   },
   {
-    "id": "AC9M7A05-P-009",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Figures 1 to 4 contain 4, 9, 14, 19 tiles. Which rule and next value fit the pattern?",
-    "audio_prompt": "Figures 1 to 4 contain 4, 9, 14, 19 tiles. Which rule and next value fit the pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "5n ; next 23",
-        "is_correct": false
-      },
-      {
-        "text": "n + 20; next 24",
-        "is_correct": false
-      },
-      {
-        "text": "5n − 1; next 24",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A05-P-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Figures 1 to 4 contain 10, 16, 22, 28 tiles. Which rule and next value fit the pattern?",
-    "audio_prompt": "Figures 1 to 4 contain 10, 16, 22, 28 tiles. Which rule and next value fit the pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "6n + 4; next 34",
-        "is_correct": true
-      },
-      {
-        "text": "6n ; next 33",
-        "is_correct": false
-      },
-      {
-        "text": "n + 30; next 34",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A05-P-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Figures 1 to 4 contain 3, 10, 17, 24 tiles. Which rule and next value fit the pattern?",
-    "audio_prompt": "Figures 1 to 4 contain 3, 10, 17, 24 tiles. Which rule and next value fit the pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "7n ; next 30",
-        "is_correct": false
-      },
-      {
-        "text": "7n − 4; next 31",
-        "is_correct": true
-      },
-      {
-        "text": "n + 27; next 31",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A05-P-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Figures 1 to 4 contain 12, 20, 28, 36 tiles. Which rule and next value fit the pattern?",
-    "audio_prompt": "Figures 1 to 4 contain 12, 20, 28, 36 tiles. Which rule and next value fit the pattern?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "8n ; next 43",
-        "is_correct": false
-      },
-      {
-        "text": "n + 40; next 44",
-        "is_correct": false
-      },
-      {
-        "text": "8n + 4; next 44",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The constant first difference identifies the coefficient, and checking figure 1 fixes the constant term.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A05-P-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Which ordered pair lies on y = 2x + 5?",
-    "audio_prompt": "Which ordered pair lies on y = 2x + 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "(4, 13)",
-        "is_correct": true
-      },
-      {
-        "text": "(4, 14)",
-        "is_correct": false
-      },
-      {
-        "text": "(13, 4)",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Substituting x = 4 into the rule gives y = 13.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A05-P-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Which ordered pair lies on y = 3x − 2?",
-    "audio_prompt": "Which ordered pair lies on y = 3x − 2?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "(6, 17)",
-        "is_correct": false
-      },
-      {
-        "text": "(6, 16)",
-        "is_correct": true
-      },
-      {
-        "text": "(16, 6)",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Substituting x = 6 into the rule gives y = 16.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A05-P-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Which ordered pair lies on y = 4x + 1?",
-    "audio_prompt": "Which ordered pair lies on y = 4x + 1?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "(5, 22)",
-        "is_correct": false
-      },
-      {
-        "text": "(21, 5)",
-        "is_correct": false
-      },
-      {
-        "text": "(5, 21)",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Substituting x = 5 into the rule gives y = 21.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A05-P-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Which ordered pair lies on y = 5x − 3?",
-    "audio_prompt": "Which ordered pair lies on y = 5x − 3?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "(3, 12)",
-        "is_correct": true
-      },
-      {
-        "text": "(3, 13)",
-        "is_correct": false
-      },
-      {
-        "text": "(12, 3)",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Substituting x = 3 into the rule gives y = 12.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A05-P-017",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Which ordered pair lies on y = 6x + 2?",
-    "audio_prompt": "Which ordered pair lies on y = 6x + 2?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "(2, 15)",
-        "is_correct": false
-      },
-      {
-        "text": "(2, 14)",
-        "is_correct": true
-      },
-      {
-        "text": "(14, 2)",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Substituting x = 2 into the rule gives y = 14.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A05-P-018",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Which ordered pair lies on y = 7x − 4?",
-    "audio_prompt": "Which ordered pair lies on y = 7x − 4?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "(4, 25)",
-        "is_correct": false
-      },
-      {
-        "text": "(24, 4)",
-        "is_correct": false
-      },
-      {
-        "text": "(4, 24)",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Substituting x = 4 into the rule gives y = 24.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A05-P-019",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table follows y = 2n + 1. Which entry is incorrect?",
-    "audio_prompt": "A table follows y = 2n + 1. Which entry is incorrect?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "n = 4, y = 10",
-        "is_correct": true
-      },
-      {
-        "text": "n = 1, y = 3",
-        "is_correct": false
-      },
-      {
-        "text": "n = 2, y = 5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "For n = 4, the rule gives 9, not 10.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A05-P-020",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table follows y = 3n + 2. Which entry is incorrect?",
-    "audio_prompt": "A table follows y = 3n + 2. Which entry is incorrect?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "n = 1, y = 5",
-        "is_correct": false
-      },
-      {
-        "text": "n = 5, y = 16",
-        "is_correct": true
-      },
-      {
-        "text": "n = 2, y = 8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "For n = 5, the rule gives 17, not 16.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A05-P-021",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table follows y = 4n + 3. Which entry is incorrect?",
-    "audio_prompt": "A table follows y = 4n + 3. Which entry is incorrect?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "n = 1, y = 7",
-        "is_correct": false
-      },
-      {
-        "text": "n = 2, y = 11",
-        "is_correct": false
-      },
-      {
-        "text": "n = 3, y = 16",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "For n = 3, the rule gives 15, not 16.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A05-P-022",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table follows y = 5n + 1. Which entry is incorrect?",
-    "audio_prompt": "A table follows y = 5n + 1. Which entry is incorrect?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "n = 6, y = 32",
-        "is_correct": true
-      },
-      {
-        "text": "n = 1, y = 6",
-        "is_correct": false
-      },
-      {
-        "text": "n = 2, y = 11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "For n = 6, the rule gives 31, not 32.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A05-P-023",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table follows y = 6n + 2. Which entry is incorrect?",
-    "audio_prompt": "A table follows y = 6n + 2. Which entry is incorrect?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "n = 1, y = 8",
-        "is_correct": false
-      },
-      {
-        "text": "n = 4, y = 27",
-        "is_correct": true
-      },
-      {
-        "text": "n = 2, y = 14",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "For n = 4, the rule gives 26, not 27.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A05-P-024",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "practice",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table follows y = 7n + 4. Which entry is incorrect?",
-    "audio_prompt": "A table follows y = 7n + 4. Which entry is incorrect?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "n = 1, y = 11",
-        "is_correct": false
-      },
-      {
-        "text": "n = 2, y = 18",
-        "is_correct": false
-      },
-      {
-        "text": "n = 2, y = 19",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "For n = 2, the rule gives 18, not 19.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A05-T-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A pattern follows y = 2n + 3. How many tiles are in figure 9?",
-    "audio_prompt": "A pattern follows y = 2n + 3. How many tiles are in figure 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 2 tiles each step, with 3 fixed tiles."
-    },
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "For y=4x−3, what is y when x=6?",
     "answers": [
       {
         "text": "21",
         "is_correct": true
       },
       {
-        "text": "18",
-        "is_correct": false
-      },
-      {
-        "text": "23",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Substituting n = 9 gives y = 2 × 9 + 3 = 21.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-002",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A pattern follows y = 3n + 1. How many tiles are in figure 9?",
-    "audio_prompt": "A pattern follows y = 3n + 1. How many tiles are in figure 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 3 tiles each step, with 1 fixed tiles."
-    },
-    "answers": [
-      {
-        "text": "27",
-        "is_correct": false
-      },
-      {
-        "text": "28",
-        "is_correct": true
-      },
-      {
-        "text": "31",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Substituting n = 9 gives y = 3 × 9 + 1 = 28.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-003",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A pattern follows y = 4n + 2. How many tiles are in figure 9?",
-    "audio_prompt": "A pattern follows y = 4n + 2. How many tiles are in figure 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 4 tiles each step, with 2 fixed tiles."
-    },
-    "answers": [
-      {
-        "text": "36",
-        "is_correct": false
-      },
-      {
-        "text": "42",
-        "is_correct": false
-      },
-      {
-        "text": "38",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Substituting n = 9 gives y = 4 × 9 + 2 = 38.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A pattern follows y = 5n + 4. How many tiles are in figure 9?",
-    "audio_prompt": "A pattern follows y = 5n + 4. How many tiles are in figure 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 5 tiles each step, with 4 fixed tiles."
-    },
-    "answers": [
-      {
-        "text": "49",
-        "is_correct": true
-      },
-      {
-        "text": "45",
-        "is_correct": false
-      },
-      {
-        "text": "54",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Substituting n = 9 gives y = 5 × 9 + 4 = 49.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A pattern follows y = 6n + 1. How many tiles are in figure 9?",
-    "audio_prompt": "A pattern follows y = 6n + 1. How many tiles are in figure 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 6 tiles each step, with 1 fixed tiles."
-    },
-    "answers": [
-      {
-        "text": "54",
-        "is_correct": false
-      },
-      {
-        "text": "55",
-        "is_correct": true
-      },
-      {
-        "text": "61",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Substituting n = 9 gives y = 6 × 9 + 1 = 55.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A pattern follows y = 7n + 3. How many tiles are in figure 9?",
-    "audio_prompt": "A pattern follows y = 7n + 3. How many tiles are in figure 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "Growing tile figures increasing by 7 tiles each step, with 3 fixed tiles."
-    },
-    "answers": [
-      {
-        "text": "63",
-        "is_correct": false
-      },
-      {
-        "text": "73",
-        "is_correct": false
-      },
-      {
-        "text": "66",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Substituting n = 9 gives y = 7 × 9 + 3 = 66.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table lists outputs 6, 10, 14, 18 for inputs 1, 2, 3 and 4. Which rule matches every row?",
-    "audio_prompt": "A table lists outputs 6, 10, 14, 18 for inputs 1, 2, 3 and 4. Which rule matches every row?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "4n + 2",
-        "is_correct": true
-      },
-      {
-        "text": "4n ",
-        "is_correct": false
-      },
-      {
-        "text": "5n + 2",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The constant difference gives the multiplier; substituting input 1 determines the constant.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table lists outputs 8, 13, 18, 23 for inputs 1, 2, 3 and 4. Which rule matches every row?",
-    "audio_prompt": "A table lists outputs 8, 13, 18, 23 for inputs 1, 2, 3 and 4. Which rule matches every row?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "5n ",
-        "is_correct": false
-      },
-      {
-        "text": "5n + 3",
-        "is_correct": true
-      },
-      {
-        "text": "6n + 3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The constant difference gives the multiplier; substituting input 1 determines the constant.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-009",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table lists outputs 9, 15, 21, 27 for inputs 1, 2, 3 and 4. Which rule matches every row?",
-    "audio_prompt": "A table lists outputs 9, 15, 21, 27 for inputs 1, 2, 3 and 4. Which rule matches every row?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "6n ",
-        "is_correct": false
-      },
-      {
-        "text": "7n + 3",
-        "is_correct": false
-      },
-      {
-        "text": "6n + 3",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The constant difference gives the multiplier; substituting input 1 determines the constant.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table lists outputs 4, 12, 20, 28 for inputs 1, 2, 3 and 4. Which rule matches every row?",
-    "audio_prompt": "A table lists outputs 4, 12, 20, 28 for inputs 1, 2, 3 and 4. Which rule matches every row?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "8n − 4",
-        "is_correct": true
-      },
-      {
-        "text": "8n ",
-        "is_correct": false
-      },
-      {
-        "text": "9n − 4",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The constant difference gives the multiplier; substituting input 1 determines the constant.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "A table lists outputs 11, 18, 25, 32 for inputs 1, 2, 3 and 4. Which rule matches every row?",
-    "audio_prompt": "A table lists outputs 11, 18, 25, 32 for inputs 1, 2, 3 and 4. Which rule matches every row?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
-        "text": "7n ",
-        "is_correct": false
-      },
-      {
-        "text": "7n + 4",
-        "is_correct": true
-      },
-      {
-        "text": "8n + 4",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The constant difference gives the multiplier; substituting input 1 determines the constant.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
-  },
-  {
-    "id": "AC9M7A05-T-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A05",
-    "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Points from y = 3x + 4 are plotted. What y-coordinate belongs to x = 8?",
-    "audio_prompt": "Points from y = 3x + 4 are plotted. What y-coordinate belongs to x = 8?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
-    "answers": [
-      {
         "text": "24",
         "is_correct": false
       },
       {
-        "text": "31",
+        "text": "18",
         "is_correct": false
       },
       {
-        "text": "28",
-        "is_correct": true
+        "text": "27",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Substitute x = 8: y = 3 × 8 + 4 = 28.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+      "summary": "4×6−3=21.\nHint: Substitute x=6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-001"
   },
   {
-    "id": "AC9M7A05-T-013",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Points from y = 4x + 1 are plotted. What y-coordinate belongs to x = 9?",
-    "audio_prompt": "Points from y = 4x + 1 are plotted. What y-coordinate belongs to x = 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "A table has points (1,7), (2,11), (3,15). Which rule fits?",
     "answers": [
       {
-        "text": "37",
+        "text": "y=4x+3",
         "is_correct": true
       },
       {
-        "text": "36",
+        "text": "y=3x+4",
         "is_correct": false
       },
       {
-        "text": "41",
+        "text": "y=4x−3",
+        "is_correct": false
+      },
+      {
+        "text": "y=7x",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Substitute x = 9: y = 4 × 9 + 1 = 37.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+      "summary": "The slope is 4 and y=7 at x=1, giving intercept 3.\nHint: Find the first difference, then the intercept.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-002"
   },
   {
-    "id": "AC9M7A05-T-014",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Points from y = 5x + 2 are plotted. What y-coordinate belongs to x = 7?",
-    "audio_prompt": "Points from y = 5x + 2 are plotted. What y-coordinate belongs to x = 7?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "Which sequence has a linear step-number relationship?",
     "answers": [
       {
-        "text": "35",
-        "is_correct": false
-      },
-      {
-        "text": "37",
+        "text": "6,10,14,18",
         "is_correct": true
       },
       {
-        "text": "42",
+        "text": "2,4,8,16",
+        "is_correct": false
+      },
+      {
+        "text": "1,4,9,16",
+        "is_correct": false
+      },
+      {
+        "text": "3,6,12,24",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Substitute x = 7: y = 5 × 7 + 2 = 37.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+      "summary": "The first differences are constantly 4.\nHint: Check first differences.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-003"
   },
   {
-    "id": "AC9M7A05-T-015",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Points from y = 6x + 5 are plotted. What y-coordinate belongs to x = 6?",
-    "audio_prompt": "Points from y = 6x + 5 are plotted. What y-coordinate belongs to x = 6?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
+    "skill": "ac9m7a05",
+    "difficulty": "easy",
+    "question": "Which rule means 'add 5 to the input, then multiply the result by 4'?",
     "answers": [
       {
-        "text": "36",
-        "is_correct": false
-      },
-      {
-        "text": "47",
-        "is_correct": false
-      },
-      {
-        "text": "41",
+        "text": "y=4(x+5)",
         "is_correct": true
+      },
+      {
+        "text": "y=4x+5",
+        "is_correct": false
+      },
+      {
+        "text": "y=x+20",
+        "is_correct": false
+      },
+      {
+        "text": "y=(4x)+5",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Substitute x = 6: y = 6 × 6 + 5 = 41.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+      "summary": "The addition occurs before multiplication, so brackets are required.\nHint: Group x+5 first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-004"
   },
   {
-    "id": "AC9M7A05-T-016",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A05",
     "bank": "test",
-    "skill": "growing_patterns_tables_and_cartesian_graphs",
-    "question": "Points from y = 7x + 3 are plotted. What y-coordinate belongs to x = 5?",
-    "audio_prompt": "Points from y = 7x + 3 are plotted. What y-coordinate belongs to x = 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#pattern",
-      "alt_text": "A growing tile pattern linked to a value table and points on a Cartesian plane."
-    },
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "A function machine uses y=(x+8)/2. What is the output for x=14?",
     "answers": [
       {
-        "text": "38",
+        "text": "11",
         "is_correct": true
       },
       {
-        "text": "35",
+        "text": "15",
         "is_correct": false
       },
       {
-        "text": "45",
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "18",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Substitute x = 5: y = 7 × 5 + 3 = 38.",
-      "hint": "Compare consecutive outputs, identify the constant change and verify the rule with another row."
-    }
+      "summary": "(14+8)/2=11.\nHint: Follow the brackets first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "A growing pattern has 7, 11, 15, 19, … tiles. Which rule gives tiles T at step n?",
+    "answers": [
+      {
+        "text": "T=4n+3",
+        "is_correct": true
+      },
+      {
+        "text": "T=4n+7",
+        "is_correct": false
+      },
+      {
+        "text": "T=7n−3",
+        "is_correct": false
+      },
+      {
+        "text": "T=n+6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The slope is 4 and T=7 at n=1, so T=4n+3.\nHint: Use common difference and first term.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "The rule is y=5x−2. The table has x=1,2,4 and y=3,8,?. What is missing?",
+    "answers": [
+      {
+        "text": "18",
+        "is_correct": true
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "22",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5×4−2=18.\nHint: Apply the rule to x=4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "A line represents C=2.5n+12, where C is cost in dollars and n is number of tickets. What does 2.5 represent?",
+    "answers": [
+      {
+        "text": "Cost per ticket",
+        "is_correct": true
+      },
+      {
+        "text": "Starting cost",
+        "is_correct": false
+      },
+      {
+        "text": "Number of tickets",
+        "is_correct": false
+      },
+      {
+        "text": "Total cost at n=0",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The coefficient of n is the change in cost for each extra ticket.\nHint: Interpret the slope in context.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "For y=6x−4, which point is the y-intercept?",
+    "answers": [
+      {
+        "text": "(0,−4)",
+        "is_correct": true
+      },
+      {
+        "text": "(−4,0)",
+        "is_correct": false
+      },
+      {
+        "text": "(0,6)",
+        "is_correct": false
+      },
+      {
+        "text": "(6,0)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Set x=0 to get y=−4.\nHint: The y-intercept occurs where x=0.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "medium",
+    "question": "A sequence has term 1=10 and adds 6 each step. Which expression gives term n?",
+    "answers": [
+      {
+        "text": "6n+4",
+        "is_correct": true
+      },
+      {
+        "text": "6n+10",
+        "is_correct": false
+      },
+      {
+        "text": "10n+6",
+        "is_correct": false
+      },
+      {
+        "text": "6n−4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "At n=1, 6+4=10; the common difference is 6.\nHint: Use T_n=a+(n−1)d.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "Term 1 is 3 and each new term adds 8. What is term 12?",
+    "answers": [
+      {
+        "text": "91",
+        "is_correct": true
+      },
+      {
+        "text": "99",
+        "is_correct": false
+      },
+      {
+        "text": "88",
+        "is_correct": false
+      },
+      {
+        "text": "83",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3+11×8=91.\nHint: There are 11 increases after term 1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "Which algorithm will NOT produce a straight line when term value is plotted against term number?",
+    "answers": [
+      {
+        "text": "Start at 2 and multiply by 3 each step",
+        "is_correct": true
+      },
+      {
+        "text": "Start at 2 and add 3 each step",
+        "is_correct": false
+      },
+      {
+        "text": "Start at 10 and subtract 2 each step",
+        "is_correct": false
+      },
+      {
+        "text": "Keep the value constant at 5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Repeated multiplication produces exponential rather than linear growth.\nHint: Linear sequences have constant first differences.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "Which rule represents a proportional relationship through the origin?",
+    "answers": [
+      {
+        "text": "y=2πx",
+        "is_correct": true
+      },
+      {
+        "text": "y=3x+2",
+        "is_correct": false
+      },
+      {
+        "text": "y=5x−7",
+        "is_correct": false
+      },
+      {
+        "text": "y=x²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "y=2πx has the form y=kx and passes through (0,0).\nHint: A proportional rule has no added constant.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "hard",
+    "question": "A linear pattern has rule y=7n−5. At which step is y=44?",
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "7n−5=44 gives 7n=49, so n=7.\nHint: Solve the rule backwards.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "super-hard",
+    "question": "A student says the sequence 5,9,13,17 has rule y=4n+5. What is the best correction?",
+    "answers": [
+      {
+        "text": "The rule is y=4n+1",
+        "is_correct": true
+      },
+      {
+        "text": "The rule is y=5n+4",
+        "is_correct": false
+      },
+      {
+        "text": "The rule is y=4n−1",
+        "is_correct": false
+      },
+      {
+        "text": "The rule is y=n+4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A slope of 4 is correct, but at n=1 the output must be 5, so the intercept is 1.\nHint: Check the proposed rule at n=1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A05",
+    "bank": "test",
+    "skill": "ac9m7a05",
+    "difficulty": "super-hard",
+    "question": "A water tank contains 12 L at cycle 1 and gains 7 L each cycle. Which pair correctly gives the rule and cycle-8 value?",
+    "answers": [
+      {
+        "text": "V=7n+5; 61 L",
+        "is_correct": true
+      },
+      {
+        "text": "V=7n+12; 68 L",
+        "is_correct": false
+      },
+      {
+        "text": "V=12n+7; 103 L",
+        "is_correct": false
+      },
+      {
+        "text": "V=7n−5; 51 L",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "V=12+(n−1)7=7n+5, and V(8)=61 L.\nHint: Use the first-term formula then substitute n=8.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A05-T-016"
   }
 ]

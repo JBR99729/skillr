@@ -1,18 +1,1292 @@
 [
   {
-    "id": "AC9M7N08-P-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Simplify the ratio 18:24.",
-    "audio_prompt": "Simplify the ratio 18:24.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "What does the ratio 1:4 mean?",
+    "answers": [
+      {
+        "text": "1 part compared with 4 parts",
+        "is_correct": true
+      },
+      {
+        "text": "1 part in total",
+        "is_correct": false
+      },
+      {
+        "text": "4 parts in total",
+        "is_correct": false
+      },
+      {
+        "text": "4 parts compared with 1 part",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A ratio compares quantities in order: 1 part to 4 parts.\nHint: Read the quantities from left to right.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7N08-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "How many total parts are in the ratio 3:5?",
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3+5=8 total parts.\nHint: Add the ratio numbers.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "How many total parts are in 1:1:2?",
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "1+1+2=4.\nHint: Add every part.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "A diagram shows 2 red and 6 blue counters. What is the ratio red:blue in simplest form?",
+    "answers": [
+      {
+        "text": "1:3",
+        "is_correct": true
+      },
+      {
+        "text": "2:6",
+        "is_correct": false
+      },
+      {
+        "text": "3:1",
+        "is_correct": false
+      },
+      {
+        "text": "1:2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2:6 simplifies by dividing both parts by 2 to 1:3.\nHint: Divide both parts by their common factor.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "Which ratio is equivalent to 2:3?",
+    "answers": [
+      {
+        "text": "4:6",
+        "is_correct": true
+      },
+      {
+        "text": "6:4",
+        "is_correct": false
+      },
+      {
+        "text": "3:2",
+        "is_correct": false
+      },
+      {
+        "text": "2:6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Multiplying both parts of 2:3 by 2 gives 4:6.\nHint: Scale both parts by the same factor.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "A mix has 5 red and 10 green beads. What is red:green in simplest form?",
+    "answers": [
+      {
+        "text": "1:2",
+        "is_correct": true
+      },
+      {
+        "text": "2:1",
+        "is_correct": false
+      },
+      {
+        "text": "5:10",
+        "is_correct": false
+      },
+      {
+        "text": "10:5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5:10 simplifies to 1:2.\nHint: Divide both numbers by 5.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "Which is a part-part ratio?",
+    "answers": [
+      {
+        "text": "boys:girls",
+        "is_correct": true
+      },
+      {
+        "text": "boys:total",
+        "is_correct": false
+      },
+      {
+        "text": "girls:total",
+        "is_correct": false
+      },
+      {
+        "text": "total:total",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Boys:girls compares two separate parts of the same whole.\nHint: A part-part ratio compares one subgroup with another.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "Which is a part-whole ratio?",
+    "answers": [
+      {
+        "text": "red:total",
+        "is_correct": true
+      },
+      {
+        "text": "red:blue",
+        "is_correct": false
+      },
+      {
+        "text": "blue:green",
+        "is_correct": false
+      },
+      {
+        "text": "green:yellow",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Red:total compares one part with the entire set.\nHint: Look for one subgroup compared with all items.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "Scale 3:7 by a factor of 2.",
+    "answers": [
+      {
+        "text": "6:14",
+        "is_correct": true
+      },
+      {
+        "text": "5:9",
+        "is_correct": false
+      },
+      {
+        "text": "3:9",
+        "is_correct": false
+      },
+      {
+        "text": "7:3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3×2:7×2=6:14.\nHint: Multiply both parts by 2.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "Which statement about 4:4:8 is true?",
+    "answers": [
+      {
+        "text": "It is equivalent to 1:1:2",
+        "is_correct": true
+      },
+      {
+        "text": "It simplifies to 1:2:2",
+        "is_correct": false
+      },
+      {
+        "text": "It is equivalent to 2:1:4",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot be simplified",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Divide every part by 4: 4:4:8 = 1:1:2.\nHint: Use the same divisor for every part.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "In the ratio 1:2, what fraction of the whole is the larger part?",
+    "answers": [
+      {
+        "text": "2/3",
+        "is_correct": true
+      },
+      {
+        "text": "1/3",
+        "is_correct": false
+      },
+      {
+        "text": "1/2",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 3 total parts and the larger share has 2, so it is 2/3.\nHint: Fraction of whole = selected parts ÷ total parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "In the ratio 2:3, what fraction of the whole is the smaller part?",
+    "answers": [
+      {
+        "text": "2/5",
+        "is_correct": true
+      },
+      {
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      },
+      {
+        "text": "1/5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 5 total parts, and the smaller share has 2: 2/5.\nHint: Add parts first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "In the ratio 4:1, what fraction of the whole is the larger part?",
+    "answers": [
+      {
+        "text": "4/5",
+        "is_correct": true
+      },
+      {
+        "text": "1/5",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "5/4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Total parts=5, larger part=4, so the fraction is 4/5.\nHint: Use part over total.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "In the ratio 3:7, what fraction of the whole is represented by the 3-part group?",
+    "answers": [
+      {
+        "text": "3/10",
+        "is_correct": true
+      },
+      {
+        "text": "3/7",
+        "is_correct": false
+      },
+      {
+        "text": "7/10",
+        "is_correct": false
+      },
+      {
+        "text": "3/3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3+7=10, so the group is 3/10 of the whole.\nHint: The denominator is total parts, not the other part.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "In the ratio 5:5:10, what fraction of the whole is the largest part?",
+    "answers": [
+      {
+        "text": "1/2",
+        "is_correct": true
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "2/5",
+        "is_correct": false
+      },
+      {
+        "text": "1/5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Total=20 and largest part=10, so 10/20=1/2.\nHint: Write largest part over total parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "In the ratio 2:3:5, what fraction of the whole is the 3-part group?",
+    "answers": [
+      {
+        "text": "3/10",
+        "is_correct": true
+      },
+      {
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "3/8",
+        "is_correct": false
+      },
+      {
+        "text": "1/3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Total=10, so the 3-part group is 3/10.\nHint: Add all three parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "In a 1:4 ratio, what fraction of the whole is the smaller part?",
+    "answers": [
+      {
+        "text": "1/5",
+        "is_correct": true
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "4/5",
+        "is_correct": false
+      },
+      {
+        "text": "1/3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 5 total parts, so the smaller part is 1/5.\nHint: Part over total.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "In a 7:3 ratio, what fraction of the whole is the larger part?",
+    "answers": [
+      {
+        "text": "7/10",
+        "is_correct": true
+      },
+      {
+        "text": "3/10",
+        "is_correct": false
+      },
+      {
+        "text": "7/3",
+        "is_correct": false
+      },
+      {
+        "text": "3/7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Total=10 and larger part=7, so 7/10.\nHint: Use the ratio total as the denominator.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "In a 2:8 ratio, what fraction of the whole is the smaller part in simplest form?",
+    "answers": [
+      {
+        "text": "1/5",
+        "is_correct": true
+      },
+      {
+        "text": "2/10",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "4/5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2/(2+8)=2/10=1/5.\nHint: Form the fraction, then simplify.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "How many total parts are in 4:6:10?",
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4+6+10=20.\nHint: Add all parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "Share $20 in the ratio 2:3. How much is the larger share?",
+    "answers": [
+      {
+        "text": "$12",
+        "is_correct": true
+      },
+      {
+        "text": "$8",
+        "is_correct": false
+      },
+      {
+        "text": "$10",
+        "is_correct": false
+      },
+      {
+        "text": "$14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5 parts represent $20, so one part=$4 and 3 parts=$12.\nHint: Find one part first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "Share 60 in the ratio 1:2. What is the larger share?",
+    "answers": [
+      {
+        "text": "40",
+        "is_correct": true
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3 parts=60, so one part=20 and the larger share=40.\nHint: Divide the total by total parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "Share 120 in the ratio 3:5:4. What is the largest share?",
+    "answers": [
+      {
+        "text": "50",
+        "is_correct": true
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "12 parts=120, so one part=10; largest share=5×10=50.\nHint: Identify the largest ratio part after finding one part.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "Share 72 in the ratio 2:6. What is the larger share?",
+    "answers": [
+      {
+        "text": "54",
+        "is_correct": true
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "8 parts=72, so one part=9 and 6 parts=54.\nHint: Total parts are 8.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "Share 150 in the ratio 5:10. What is the smaller share?",
+    "answers": [
+      {
+        "text": "50",
+        "is_correct": true
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      },
+      {
+        "text": "75",
+        "is_correct": false
+      },
+      {
+        "text": "100",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "15 parts=150, one part=10, so 5 parts=50.\nHint: Find the value of one part.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "Share 120 in the ratio 4:1. What is the larger share?",
+    "answers": [
+      {
+        "text": "96",
+        "is_correct": true
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "100",
+        "is_correct": false
+      },
+      {
+        "text": "80",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5 parts=120, one part=24, so 4 parts=96.\nHint: Multiply one-part value by 4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "Share 84 in the ratio 3:4:5. What is the middle share?",
+    "answers": [
+      {
+        "text": "28",
+        "is_correct": true
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "42",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "12 parts=84, one part=7, so 4 parts=28.\nHint: The middle ratio value is 4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "Share 200 in the ratio 1:3:6. What is the largest share?",
+    "answers": [
+      {
+        "text": "120",
+        "is_correct": true
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      },
+      {
+        "text": "100",
+        "is_correct": false
+      },
+      {
+        "text": "140",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "10 parts=200, one part=20, so 6 parts=120.\nHint: Use the largest ratio number, 6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "Share $45 in the ratio 2:1. What is the larger share?",
+    "answers": [
+      {
+        "text": "$30",
+        "is_correct": true
+      },
+      {
+        "text": "$15",
+        "is_correct": false
+      },
+      {
+        "text": "$20",
+        "is_correct": false
+      },
+      {
+        "text": "$25",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3 parts=$45, one part=$15, so 2 parts=$30.\nHint: Divide by 3 first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "Share $300 in the ratio 3:2. What is the smaller share?",
+    "answers": [
+      {
+        "text": "$120",
+        "is_correct": true
+      },
+      {
+        "text": "$100",
+        "is_correct": false
+      },
+      {
+        "text": "$150",
+        "is_correct": false
+      },
+      {
+        "text": "$180",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5 parts=$300, one part=$60, so 2 parts=$120.\nHint: Smaller share corresponds to 2 parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "A 500 mL mixture has concentrate:water = 1:4. How much concentrate is used?",
+    "answers": [
+      {
+        "text": "100 mL",
+        "is_correct": true
+      },
+      {
+        "text": "50 mL",
+        "is_correct": false
+      },
+      {
+        "text": "125 mL",
+        "is_correct": false
+      },
+      {
+        "text": "200 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5 parts=500 mL, one part=100 mL.\nHint: Concentrate is one of five total parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "A 500 mL mixture has concentrate:water = 1:4. How much water is used?",
+    "answers": [
+      {
+        "text": "400 mL",
+        "is_correct": true
+      },
+      {
+        "text": "100 mL",
+        "is_correct": false
+      },
+      {
+        "text": "300 mL",
+        "is_correct": false
+      },
+      {
+        "text": "200 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "One part=100 mL, so 4 parts=400 mL.\nHint: Water is four parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "A drink concentrate is mixed with water in the ratio 1:5. What fraction of the final mixture is concentrate?",
+    "answers": [
+      {
+        "text": "1/6",
+        "is_correct": true
+      },
+      {
+        "text": "1/5",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "5/6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 6 total parts, with 1 part concentrate: 1/6.\nHint: Ratio part is not automatically the fraction denominator.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "A 1:3 concentrate:water mix has total volume 800 mL. How much concentrate is needed?",
+    "answers": [
+      {
+        "text": "200 mL",
+        "is_correct": true
+      },
+      {
+        "text": "100 mL",
+        "is_correct": false
+      },
+      {
+        "text": "300 mL",
+        "is_correct": false
+      },
+      {
+        "text": "400 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4 parts=800 mL, one part=200 mL.\nHint: Concentrate is one of four parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "A 1:3 concentrate:water mix has total volume 800 mL. How much water is needed?",
+    "answers": [
+      {
+        "text": "600 mL",
+        "is_correct": true
+      },
+      {
+        "text": "200 mL",
+        "is_correct": false
+      },
+      {
+        "text": "400 mL",
+        "is_correct": false
+      },
+      {
+        "text": "700 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "One part=200 mL and water is 3 parts, giving 600 mL.\nHint: Multiply the one-part value by 3.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "Oil:vinegar = 2:3 in a 250 mL dressing. How much vinegar is used?",
+    "answers": [
+      {
+        "text": "150 mL",
+        "is_correct": true
+      },
+      {
+        "text": "100 mL",
+        "is_correct": false
+      },
+      {
+        "text": "200 mL",
+        "is_correct": false
+      },
+      {
+        "text": "50 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5 parts=250 mL, one part=50 mL, vinegar=3×50=150 mL.\nHint: Vinegar corresponds to 3 parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "A mix uses red:blue:white paint = 1:2:3 and totals 600 mL. How much of the largest component is used?",
+    "answers": [
+      {
+        "text": "300 mL",
+        "is_correct": true
+      },
+      {
+        "text": "100 mL",
+        "is_correct": false
+      },
+      {
+        "text": "200 mL",
+        "is_correct": false
+      },
+      {
+        "text": "400 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "6 parts=600 mL, one part=100 mL, largest component=300 mL.\nHint: Largest component is 3 parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "A paint mix uses yellow:blue = 3:7 and totals 500 mL. How much of the larger component is used?",
+    "answers": [
+      {
+        "text": "350 mL",
+        "is_correct": true
+      },
+      {
+        "text": "150 mL",
+        "is_correct": false
+      },
+      {
+        "text": "300 mL",
+        "is_correct": false
+      },
+      {
+        "text": "200 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "10 parts=500 mL, one part=50 mL, larger component=7×50=350 mL.\nHint: Find one part, then scale by 7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "A student shares $84 in the ratio 3:4 by calculating 84÷4. What is the error?",
+    "answers": [
+      {
+        "text": "They should divide by 7 total parts",
+        "is_correct": true
+      },
+      {
+        "text": "They should multiply by 4 first",
+        "is_correct": false
+      },
+      {
+        "text": "They should divide by 3",
+        "is_correct": false
+      },
+      {
+        "text": "There is no error",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The ratio has 3+4=7 total parts, so one part is found using 84÷7.\nHint: Add the ratio parts before dividing.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "Red:blue = 2:5. If there are 30 blue counters, how many red counters are there?",
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "75",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5 parts correspond to 30, so one part=6 and red=2×6=12.\nHint: Use the known group to find one part.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "practice",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "Simplify the ratio 18:24.",
     "answers": [
       {
         "text": "3:4",
@@ -27,29 +1301,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Divide both parts by their highest common factor: 18:24 = 3:4.",
       "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N08-P-041"
   },
   {
-    "id": "AC9M7N08-P-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
     "question": "Simplify the ratio 24:90.",
-    "audio_prompt": "Simplify the ratio 24:90.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
     "answers": [
       {
         "text": "90:24",
@@ -64,28 +1329,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Divide both parts by their highest common factor: 24:90 = 4:15.",
       "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N08-P-042"
   },
   {
-    "id": "AC9M7N08-P-017",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
+    "skill": "ac9m7n08",
+    "difficulty": "super-hard",
     "question": "Scale 7:10 by a factor of 5.",
-    "audio_prompt": "Scale 7:10 by a factor of 5.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
     "answers": [
       {
         "text": "7:10",
@@ -100,28 +1357,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Multiply every part by 5: 7:10 becomes 35:50.",
       "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N08-P-043"
   },
   {
-    "id": "AC9M7N08-P-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
+    "skill": "ac9m7n08",
+    "difficulty": "super-hard",
     "question": "Simplify the ratio 15:25.",
-    "audio_prompt": "Simplify the ratio 15:25.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
     "answers": [
       {
         "text": "15:25",
@@ -136,29 +1385,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Divide both parts by their highest common factor: 15:25 = 3:5.",
       "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N08-P-044"
   },
   {
-    "id": "AC9M7N08-P-010",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
+    "skill": "ac9m7n08",
+    "difficulty": "super-hard",
     "question": "Simplify the ratio 70:105.",
-    "audio_prompt": "Simplify the ratio 70:105.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
     "answers": [
       {
         "text": "2:3",
@@ -173,28 +1413,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Divide both parts by their highest common factor: 70:105 = 2:3.",
       "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N08-P-045"
   },
   {
-    "id": "AC9M7N08-P-018",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
+    "skill": "ac9m7n08",
+    "difficulty": "super-hard",
     "question": "Scale 3:4 by a factor of 9.",
-    "audio_prompt": "Scale 3:4 by a factor of 9.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
     "answers": [
       {
         "text": "12:13",
@@ -209,28 +1441,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Multiply every part by 9: 3:4 becomes 27:36.",
       "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N08-P-046"
   },
   {
-    "id": "AC9M7N08-P-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
+    "skill": "ac9m7n08",
+    "difficulty": "super-hard",
     "question": "Simplify the ratio 28:42.",
-    "audio_prompt": "Simplify the ratio 28:42.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
     "answers": [
       {
         "text": "42:28",
@@ -245,29 +1469,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Divide both parts by their highest common factor: 28:42 = 2:3.",
       "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N08-P-047"
   },
   {
-    "id": "AC9M7N08-P-011",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
+    "skill": "ac9m7n08",
+    "difficulty": "super-hard",
     "question": "Simplify the ratio 84:126.",
-    "audio_prompt": "Simplify the ratio 84:126.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
     "answers": [
       {
         "text": "84:126",
@@ -282,213 +1497,23 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Divide both parts by their highest common factor: 84:126 = 2:3.",
       "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N08-P-048"
   },
   {
-    "id": "AC9M7N08-P-019",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Scale 6:11 by a factor of 2.",
-    "audio_prompt": "Scale 6:11 by a factor of 2.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "bank": "test",
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "Which ratio is equivalent to 6:15?",
     "answers": [
       {
-        "text": "12:22",
-        "is_correct": true
-      },
-      {
-        "text": "6:11",
-        "is_correct": false
-      },
-      {
-        "text": "8:13",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Multiply every part by 2: 6:11 becomes 12:22.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N08-P-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Simplify the ratio 36:48.",
-    "audio_prompt": "Simplify the ratio 36:48.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "3:4",
-        "is_correct": true
-      },
-      {
-        "text": "36:48",
-        "is_correct": false
-      },
-      {
-        "text": "48:36",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Divide both parts by their highest common factor: 36:48 = 3:4.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N08-P-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Simplify the ratio 96:144.",
-    "audio_prompt": "Simplify the ratio 96:144.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "144:96",
-        "is_correct": false
-      },
-      {
-        "text": "96:144",
-        "is_correct": false
-      },
-      {
-        "text": "2:3",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Divide both parts by their highest common factor: 96:144 = 2:3.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N08-P-020",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Scale 8:5 by a factor of 4.",
-    "audio_prompt": "Scale 8:5 by a factor of 4.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "8:5",
-        "is_correct": false
-      },
-      {
-        "text": "32:20",
-        "is_correct": true
-      },
-      {
-        "text": "12:9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Multiply every part by 4: 8:5 becomes 32:20.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N08-P-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Simplify the ratio 45:60.",
-    "audio_prompt": "Simplify the ratio 45:60.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "45:60",
-        "is_correct": false
-      },
-      {
-        "text": "3:4",
-        "is_correct": true
-      },
-      {
-        "text": "60:45",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Divide both parts by their highest common factor: 45:60 = 3:4.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N08-P-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Scale 3:5 by a factor of 7.",
-    "audio_prompt": "Scale 3:5 by a factor of 7.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "21:35",
+        "text": "2:5",
         "is_correct": true
       },
       {
@@ -496,923 +1521,498 @@
         "is_correct": false
       },
       {
-        "text": "10:12",
+        "text": "4:10",
+        "is_correct": false
+      },
+      {
+        "text": "5:2",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Multiply every part by 7: 3:5 becomes 21:35.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
+      "summary": "6:15 simplifies by dividing by 3 to 2:5.\nHint: Simplify both parts by the same factor.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N08-T-001"
   },
   {
-    "id": "AC9M7N08-P-021",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Scale 1:4 by a factor of 12.",
-    "audio_prompt": "Scale 1:4 by a factor of 12.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "13:16",
-        "is_correct": false
-      },
-      {
-        "text": "1:4",
-        "is_correct": false
-      },
-      {
-        "text": "12:48",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiply every part by 12: 1:4 becomes 12:48.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N08-P-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Simplify the ratio 32:56.",
-    "audio_prompt": "Simplify the ratio 32:56.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "56:32",
-        "is_correct": false
-      },
-      {
-        "text": "32:56",
-        "is_correct": false
-      },
-      {
-        "text": "4:7",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Divide both parts by their highest common factor: 32:56 = 4:7.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N08-P-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Scale 2:7 by a factor of 4.",
-    "audio_prompt": "Scale 2:7 by a factor of 4.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "2:7",
-        "is_correct": false
-      },
-      {
-        "text": "8:28",
-        "is_correct": true
-      },
-      {
-        "text": "6:11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Multiply every part by 4: 2:7 becomes 8:28.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N08-P-022",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Scale 9:2 by a factor of 3.",
-    "audio_prompt": "Scale 9:2 by a factor of 3.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "27:6",
-        "is_correct": true
-      },
-      {
-        "text": "9:2",
-        "is_correct": false
-      },
-      {
-        "text": "12:5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Multiply every part by 3: 9:2 becomes 27:6.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N08-P-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Simplify the ratio 54:72.",
-    "audio_prompt": "Simplify the ratio 54:72.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "3:4",
-        "is_correct": true
-      },
-      {
-        "text": "54:72",
-        "is_correct": false
-      },
-      {
-        "text": "72:54",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Divide both parts by their highest common factor: 54:72 = 3:4.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N08-P-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Scale 4:9 by a factor of 6.",
-    "audio_prompt": "Scale 4:9 by a factor of 6.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "10:15",
-        "is_correct": false
-      },
-      {
-        "text": "4:9",
-        "is_correct": false
-      },
-      {
-        "text": "24:54",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiply every part by 6: 4:9 becomes 24:54.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N08-P-023",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Scale 5:6 by a factor of 8.",
-    "audio_prompt": "Scale 5:6 by a factor of 8.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "5:6",
-        "is_correct": false
-      },
-      {
-        "text": "40:48",
-        "is_correct": true
-      },
-      {
-        "text": "13:14",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Multiply every part by 8: 5:6 becomes 40:48.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N08-P-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Simplify the ratio 63:81.",
-    "audio_prompt": "Simplify the ratio 63:81.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "63:81",
-        "is_correct": false
-      },
-      {
-        "text": "7:9",
-        "is_correct": true
-      },
-      {
-        "text": "81:63",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Divide both parts by their highest common factor: 63:81 = 7:9.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N08-P-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Scale 5:8 by a factor of 3.",
-    "audio_prompt": "Scale 5:8 by a factor of 3.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "15:24",
-        "is_correct": true
-      },
-      {
-        "text": "5:8",
-        "is_correct": false
-      },
-      {
-        "text": "8:11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Multiply every part by 3: 5:8 becomes 15:24.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N08-P-024",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "practice",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Scale 2:3 by a factor of 15.",
-    "audio_prompt": "Scale 2:3 by a factor of 15.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "17:18",
-        "is_correct": false
-      },
-      {
-        "text": "2:3",
-        "is_correct": false
-      },
-      {
-        "text": "30:45",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiply every part by 15: 2:3 becomes 30:45.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N08-T-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $20 in the ratio 2:3.",
-    "audio_prompt": "Share $20 in the ratio 2:3.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "The ratio cats:dogs is 3:7. What fraction of all pets are cats?",
     "answers": [
       {
-        "text": "$8 and $12",
+        "text": "3/10",
         "is_correct": true
       },
       {
-        "text": "$10 and $10",
+        "text": "3/7",
         "is_correct": false
       },
       {
-        "text": "$12 and $8",
+        "text": "7/10",
+        "is_correct": false
+      },
+      {
+        "text": "1/3",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "There are 5 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "There are 10 total parts, so cats are 3/10.\nHint: Use part over total parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-002"
   },
   {
-    "id": "AC9M7N08-T-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $54 in the ratio 7:2.",
-    "audio_prompt": "Share $54 in the ratio 7:2.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "Share $132 in the ratio 5:6. What is the larger share?",
     "answers": [
       {
-        "text": "$12 and $42",
-        "is_correct": false
-      },
-      {
-        "text": "$27 and $27",
-        "is_correct": false
-      },
-      {
-        "text": "$42 and $12",
+        "text": "$72",
         "is_correct": true
+      },
+      {
+        "text": "$60",
+        "is_correct": false
+      },
+      {
+        "text": "$66",
+        "is_correct": false
+      },
+      {
+        "text": "$77",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "There are 9 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "11 parts=$132, one part=$12, larger share=6×12=$72.\nHint: Find one part first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-003"
   },
   {
-    "id": "AC9M7N08-T-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $35 in the ratio 2:5.",
-    "audio_prompt": "Share $35 in the ratio 2:5.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "easy",
+    "question": "Orange:purple = 4:7. If there are 28 orange counters, how many purple counters are there?",
     "answers": [
       {
-        "text": "$17.5 and $17.5",
-        "is_correct": false
-      },
-      {
-        "text": "$10 and $25",
+        "text": "49",
         "is_correct": true
       },
       {
-        "text": "$25 and $10",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "21",
+        "is_correct": false
+      },
+      {
+        "text": "56",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "There are 7 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "4 parts=28, so one part=7 and purple=7×7=49.\nHint: Use the known quantity to find one part.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-004"
   },
   {
-    "id": "AC9M7N08-T-010",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $96 in the ratio 5:7.",
-    "audio_prompt": "Share $96 in the ratio 5:7.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "A class vote is in the ratio 2:3:5 and there are 50 votes. How many votes belong to the 3-part group?",
     "answers": [
       {
-        "text": "$40 and $56",
+        "text": "15",
         "is_correct": true
       },
       {
-        "text": "$48 and $48",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "$56 and $40",
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "25",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "There are 12 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "10 parts=50, one part=5, so 3 parts=15.\nHint: Add all ratio parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-005"
   },
   {
-    "id": "AC9M7N08-T-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $48 in the ratio 5:3.",
-    "audio_prompt": "Share $48 in the ratio 5:3.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "A 900 mL mixture has syrup:water = 2:7. How much syrup is needed?",
     "answers": [
       {
-        "text": "$18 and $30",
-        "is_correct": false
-      },
-      {
-        "text": "$24 and $24",
-        "is_correct": false
-      },
-      {
-        "text": "$30 and $18",
+        "text": "200 mL",
         "is_correct": true
+      },
+      {
+        "text": "225 mL",
+        "is_correct": false
+      },
+      {
+        "text": "180 mL",
+        "is_correct": false
+      },
+      {
+        "text": "700 mL",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "There are 8 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "9 parts=900 mL, one part=100 mL, syrup=200 mL.\nHint: Syrup is 2 of 9 parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-006"
   },
   {
-    "id": "AC9M7N08-T-011",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $150 in the ratio 3:7.",
-    "audio_prompt": "Share $150 in the ratio 3:7.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "A recipe uses flour:sugar = 5:2. If 350 g of flour is used, how much sugar is needed?",
     "answers": [
       {
-        "text": "$75 and $75",
-        "is_correct": false
-      },
-      {
-        "text": "$45 and $105",
+        "text": "140 g",
         "is_correct": true
       },
       {
-        "text": "$105 and $45",
+        "text": "175 g",
+        "is_correct": false
+      },
+      {
+        "text": "100 g",
+        "is_correct": false
+      },
+      {
+        "text": "70 g",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "There are 10 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "5 parts=350 g, one part=70 g, sugar=140 g.\nHint: Find the value of one part from flour.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-007"
   },
   {
-    "id": "AC9M7N08-T-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $72 in the ratio 1:2.",
-    "audio_prompt": "Share $72 in the ratio 1:2.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "$24 and $48",
-        "is_correct": true
-      },
-      {
-        "text": "$36 and $36",
-        "is_correct": false
-      },
-      {
-        "text": "$48 and $24",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "There are 3 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
-  },
-  {
-    "id": "AC9M7N08-T-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $132 in the ratio 4:7.",
-    "audio_prompt": "Share $132 in the ratio 4:7.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "$84 and $48",
-        "is_correct": false
-      },
-      {
-        "text": "$66 and $66",
-        "is_correct": false
-      },
-      {
-        "text": "$48 and $84",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "There are 11 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
-  },
-  {
-    "id": "AC9M7N08-T-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $90 in the ratio 4:5.",
-    "audio_prompt": "Share $90 in the ratio 4:5.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
-    "answers": [
-      {
-        "text": "$45 and $45",
-        "is_correct": false
-      },
-      {
-        "text": "$40 and $50",
-        "is_correct": true
-      },
-      {
-        "text": "$50 and $40",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "There are 9 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
-  },
-  {
-    "id": "AC9M7N08-T-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N08",
-    "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "For 3 blue to 2 orange, what is blue:total?",
-    "audio_prompt": "For 3 blue to 2 orange, what is blue:total?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "There are 18 red and 30 blue beads. What is red:blue in simplest form?",
     "answers": [
       {
         "text": "3:5",
         "is_correct": true
       },
       {
-        "text": "3:2",
+        "text": "18:30",
         "is_correct": false
       },
       {
         "text": "5:3",
         "is_correct": false
+      },
+      {
+        "text": "6:10",
+        "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Part-to-whole uses the named part over the sum of all parts; the ratio is 3:5.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "18:30 simplifies by 6 to 3:5.\nHint: Use the greatest common factor.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-008"
   },
   {
-    "id": "AC9M7N08-T-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $84 in the ratio 3:4.",
-    "audio_prompt": "Share $84 in the ratio 3:4.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "A student says that in a 2:3 ratio, the first group is 2/3 of the whole. What is the best correction?",
     "answers": [
       {
-        "text": "$48 and $36",
-        "is_correct": false
-      },
-      {
-        "text": "$42 and $42",
-        "is_correct": false
-      },
-      {
-        "text": "$36 and $48",
+        "text": "The first group is 2/5 of the whole",
         "is_correct": true
+      },
+      {
+        "text": "The first group is 3/5 of the whole",
+        "is_correct": false
+      },
+      {
+        "text": "The first group is 2/3 of the whole",
+        "is_correct": false
+      },
+      {
+        "text": "The ratio cannot be written as a fraction",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "There are 7 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "The whole has 2+3=5 parts, so the first group is 2/5.\nHint: The denominator is total parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-009"
   },
   {
-    "id": "AC9M7N08-T-014",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "For 4 red to 7 white, what is white:total?",
-    "audio_prompt": "For 4 red to 7 white, what is white:total?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "medium",
+    "question": "A $420 prize is shared in the ratio 2:3:5. How much does the largest share receive?",
     "answers": [
       {
-        "text": "4:7",
-        "is_correct": false
-      },
-      {
-        "text": "7:11",
+        "text": "$210",
         "is_correct": true
       },
       {
-        "text": "11:7",
+        "text": "$126",
+        "is_correct": false
+      },
+      {
+        "text": "$84",
+        "is_correct": false
+      },
+      {
+        "text": "$252",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Part-to-whole uses the named part over the sum of all parts; the ratio is 7:11.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "10 parts=$420, one part=$42, largest share=5×42=$210.\nHint: Largest group has 5 parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-010"
   },
   {
-    "id": "AC9M7N08-T-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $120 in the ratio 2:3.",
-    "audio_prompt": "Share $120 in the ratio 2:3.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "A ratio is 3:5. Which pair correctly gives the fractions of the whole?",
     "answers": [
       {
-        "text": "$48 and $72",
+        "text": "3/8 and 5/8",
         "is_correct": true
       },
       {
-        "text": "$60 and $60",
+        "text": "3/5 and 5/3",
         "is_correct": false
       },
       {
-        "text": "$72 and $48",
+        "text": "3/5 and 2/5",
+        "is_correct": false
+      },
+      {
+        "text": "3/8 and 3/5",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "There are 5 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "There are 8 total parts, so the fractions are 3/8 and 5/8.\nHint: Both fractions must add to 1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-011"
   },
   {
-    "id": "AC9M7N08-T-015",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "For 2 cats to 5 dogs, what is cats:total?",
-    "audio_prompt": "For 2 cats to 5 dogs, what is cats:total?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "A sports drink uses powder:water = 1:9. How much powder is needed to make 2.5 L of drink?",
     "answers": [
       {
-        "text": "7:2",
-        "is_correct": false
-      },
-      {
-        "text": "2:5",
-        "is_correct": false
-      },
-      {
-        "text": "2:7",
+        "text": "250 mL",
         "is_correct": true
+      },
+      {
+        "text": "225 mL",
+        "is_correct": false
+      },
+      {
+        "text": "200 mL",
+        "is_correct": false
+      },
+      {
+        "text": "25 mL",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Part-to-whole uses the named part over the sum of all parts; the ratio is 2:7.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "10 parts=2500 mL, one part=250 mL.\nHint: Convert litres to millilitres, then divide by total parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-012"
   },
   {
-    "id": "AC9M7N08-T-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "Share $66 in the ratio 5:6.",
-    "audio_prompt": "Share $66 in the ratio 5:6.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "Which mixture has the greatest proportion of concentrate?",
     "answers": [
       {
-        "text": "$33 and $33",
-        "is_correct": false
-      },
-      {
-        "text": "$30 and $36",
+        "text": "2:3 concentrate:water",
         "is_correct": true
       },
       {
-        "text": "$36 and $30",
+        "text": "1:2 concentrate:water",
+        "is_correct": false
+      },
+      {
+        "text": "3:7 concentrate:water",
+        "is_correct": false
+      },
+      {
+        "text": "1:4 concentrate:water",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "There are 11 equal parts; find one part, then multiply by each ratio number.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "2:3 gives 2/5=40%, larger than 1/3, 3/10 and 1/5.\nHint: Convert each concentrate part to a fraction of the whole.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-013"
   },
   {
-    "id": "AC9M7N08-T-016",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N08",
     "bank": "test",
-    "skill": "ratios_and_equivalent_relationships",
-    "question": "For 6 adults to 3 children, what is children:total?",
-    "audio_prompt": "For 6 adults to 3 children, what is children:total?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n08",
-      "alt_text": "Ratio table showing two quantities scaled by the same multiplier."
-    },
+    "skill": "ac9m7n08",
+    "difficulty": "hard",
+    "question": "Red:blue = 3:4 and there are 28 blue counters. How many counters are there altogether?",
     "answers": [
       {
-        "text": "3:9 = 1:3",
+        "text": "49",
         "is_correct": true
       },
       {
-        "text": "6:3",
+        "text": "21",
         "is_correct": false
       },
       {
-        "text": "1:1",
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "56",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Part-to-whole uses the named part over the sum of all parts; the ratio is 3:9 = 1:3.",
-      "hint": "Keep the multiplicative relationship by scaling both parts by the same factor."
-    }
+      "summary": "4 parts=28, one part=7, total 7 parts=49.\nHint: Find one part, then multiply by total parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "test",
+    "skill": "ac9m7n08",
+    "difficulty": "super-hard",
+    "question": "A 1.8 L paint blend uses red:yellow:white = 2:3:4. How much white paint is required?",
+    "answers": [
+      {
+        "text": "800 mL",
+        "is_correct": true
+      },
+      {
+        "text": "600 mL",
+        "is_correct": false
+      },
+      {
+        "text": "400 mL",
+        "is_correct": false
+      },
+      {
+        "text": "900 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "9 parts=1800 mL, one part=200 mL, white=4×200=800 mL.\nHint: Convert to millilitres and use 4 parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N08",
+    "bank": "test",
+    "skill": "ac9m7n08",
+    "difficulty": "super-hard",
+    "question": "A ratio 4:6 is scaled so the second quantity becomes 45. What is the first quantity?",
+    "answers": [
+      {
+        "text": "30",
+        "is_correct": true
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "6 parts=45, so one part=7.5 and 4 parts=30.\nHint: Use the same scale factor for both quantities.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N08-T-016"
   }
 ]

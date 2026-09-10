@@ -1,613 +1,2050 @@
 [
   {
-    "id": "ac9m7sp01-p-001",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
     "bank": "practice",
-    "skill": "draw_three_orthographic_views",
-    "question": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "A net is best described as:",
     "answers": [
       {
-        "text": "A top and front view together communicate dimensions that either view alone hides",
+        "text": "a 3D model",
+        "is_correct": false
+      },
+      {
+        "text": "a 2D arrangement of faces that can fold into a 3D object",
         "is_correct": true
       },
       {
-        "text": "One view assumed to determine an object uniquely",
+        "text": "an aerial photograph",
         "is_correct": false
       },
       {
-        "text": "Different objects can share a front view",
-        "is_correct": false
-      },
-      {
-        "text": "2D view seen perpendicular to a face",
+        "text": "a perspective sketch",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "A top and front view together communicate dimensions that either view alone hides",
-      "hint": "Different objects can share a front view."
+      "summary": "A net lays the faces of a 3D object flat in two dimensions.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP01-P-001"
   },
   {
-    "id": "ac9m7sp01-p-002",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
     "bank": "practice",
-    "skill": "interpret_an_isometric_sketch",
-    "question": "A Year 7 student is solving a problem involving interpret an isometric sketch. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving interpret an isometric sketch. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "How many different nets does a cube have?",
     "answers": [
       {
-        "text": "Perspective length measured as true length",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "11",
         "is_correct": true
-      },
-      {
-        "text": "Foreshortening may distort scale",
-        "is_correct": false
-      },
-      {
-        "text": "2D view seen perpendicular to a face",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
-      "hint": "Foreshortening may distort scale."
+      "summary": "There are 11 distinct cube nets.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7SP01-P-002"
   },
   {
-    "id": "ac9m7sp01-p-003",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
     "bank": "practice",
-    "skill": "identify_ambiguity",
-    "question": "A Year 7 student is solving a problem involving identify ambiguity. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving identify ambiguity. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "A triangular prism net must contain:",
     "answers": [
       {
-        "text": "Hidden edges ignored when needed",
+        "text": "3 rectangles only",
         "is_correct": false
       },
       {
-        "text": "Use conventions or another view",
-        "is_correct": false
-      },
-      {
-        "text": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+        "text": "2 triangles and 3 rectangles",
         "is_correct": true
       },
       {
-        "text": "2D view seen perpendicular to a face",
+        "text": "4 triangles",
+        "is_correct": false
+      },
+      {
+        "text": "1 triangle and 4 rectangles",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
-      "hint": "Use conventions or another view."
+      "summary": "A triangular prism has two triangular bases and three rectangular side faces.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP01-P-003"
   },
   {
-    "id": "ac9m7sp01-p-004",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
     "bank": "practice",
-    "skill": "choose_a_representation",
-    "question": "A Year 7 student is solving a problem involving choose a representation. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving choose a representation. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "A square pyramid net contains:",
     "answers": [
       {
-        "text": "Representation judged only by realism",
-        "is_correct": false
-      },
-      {
-        "text": "Evaluate fitness for purpose",
-        "is_correct": false
-      },
-      {
-        "text": "2D view seen perpendicular to a face",
-        "is_correct": false
-      },
-      {
-        "text": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+        "text": "1 square and 4 triangles",
         "is_correct": true
+      },
+      {
+        "text": "4 squares and 1 triangle",
+        "is_correct": false
+      },
+      {
+        "text": "5 squares",
+        "is_correct": false
+      },
+      {
+        "text": "2 triangles and 3 rectangles",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
-      "hint": "Evaluate fitness for purpose."
+      "summary": "A square pyramid has one square base and four triangular faces.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP01-P-004"
   },
   {
-    "id": "ac9m7sp01-p-005",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
     "bank": "practice",
-    "skill": "state_a_limitation",
-    "question": "Which statement correctly identifies isometric sketch in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which statement correctly identifies isometric sketch in representing three-dimensional objects in two dimensions?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "Which arrangement definitely cannot fold into a cube?",
     "answers": [
       {
-        "text": "A top and front view together communicate dimensions that either view alone hides",
+        "text": "six squares in one straight row",
         "is_correct": true
       },
       {
-        "text": "One view assumed to determine an object uniquely",
+        "text": "a valid cross-shaped cube net",
         "is_correct": false
       },
       {
-        "text": "Different objects can share a front view",
+        "text": "a valid T-shaped cube net",
         "is_correct": false
       },
       {
-        "text": "2D view seen perpendicular to a face",
+        "text": "one of the 11 valid cube nets",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "A top and front view together communicate dimensions that either view alone hides",
-      "hint": "Different objects can share a front view."
+      "summary": "A straight row of six squares cannot close to form all six cube faces.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP01-P-005"
   },
   {
-    "id": "ac9m7sp01-p-006",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
     "bank": "practice",
-    "skill": "draw_three_orthographic_views",
-    "question": "Which choice best describes cross-section in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which choice best describes cross-section in representing three-dimensional objects in two dimensions?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "Deconstructing a cereal box is useful because it reveals:",
     "answers": [
       {
-        "text": "Perspective length measured as true length",
-        "is_correct": false
-      },
-      {
-        "text": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+        "text": "a net of its faces",
         "is_correct": true
       },
       {
-        "text": "Foreshortening may distort scale",
+        "text": "only its volume",
         "is_correct": false
       },
       {
-        "text": "2D view seen perpendicular to a face",
+        "text": "only its mass",
+        "is_correct": false
+      },
+      {
+        "text": "a vanishing point",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
-      "hint": "Foreshortening may distort scale."
+      "summary": "Opening the box along edges exposes its 2D net.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP01-P-006"
   },
   {
-    "id": "ac9m7sp01-p-007",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
     "bank": "practice",
-    "skill": "interpret_an_isometric_sketch",
-    "question": "What does correct use require for orthographic view in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "What does correct use require for orthographic view in representing three-dimensional objects in two dimensions?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "Which object has no exact flat net made from ordinary plane regions without stretching or distortion?",
     "answers": [
       {
-        "text": "Hidden edges ignored when needed",
+        "text": "cube",
         "is_correct": false
       },
       {
-        "text": "Use conventions or another view",
+        "text": "rectangular prism",
         "is_correct": false
       },
       {
-        "text": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+        "text": "sphere",
         "is_correct": true
       },
       {
-        "text": "2D view seen perpendicular to a face",
+        "text": "triangular prism",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
-      "hint": "Use conventions or another view."
+      "summary": "A sphere cannot be flattened exactly into the plane without distortion.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP01-P-007"
   },
   {
-    "id": "ac9m7sp01-p-008",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
     "bank": "practice",
-    "skill": "identify_ambiguity",
-    "question": "A Year 7 student is solving a problem involving identify ambiguity. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving identify ambiguity. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "A net is especially useful when planning:",
     "answers": [
       {
-        "text": "Representation judged only by realism",
-        "is_correct": false
-      },
-      {
-        "text": "Evaluate fitness for purpose",
-        "is_correct": false
-      },
-      {
-        "text": "2D view seen perpendicular to a face",
-        "is_correct": false
-      },
-      {
-        "text": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+        "text": "surface material for packaging",
         "is_correct": true
+      },
+      {
+        "text": "the object's mass",
+        "is_correct": false
+      },
+      {
+        "text": "its density",
+        "is_correct": false
+      },
+      {
+        "text": "a perspective vanishing point",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
-      "hint": "Evaluate fitness for purpose."
+      "summary": "A net displays the faces that need to be cut, printed or covered.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP01-P-008"
   },
   {
-    "id": "ac9m7sp01-t-001",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "choose_a_representation",
-    "question": "A Year 7 student is solving a problem involving choose a representation. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving choose a representation. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "An aerial view of a building mainly shows its:",
     "answers": [
       {
-        "text": "A top and front view together communicate dimensions that either view alone hides",
+        "text": "footprint and layout",
         "is_correct": true
       },
       {
-        "text": "One view assumed to determine an object uniquely",
+        "text": "exact height",
         "is_correct": false
       },
       {
-        "text": "Different objects can share a front view",
+        "text": "internal floors",
         "is_correct": false
       },
       {
-        "text": "2D view seen perpendicular to a face",
+        "text": "surface texture",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "A top and front view together communicate dimensions that either view alone hides",
-      "hint": "Different objects can share a front view."
-    }
+      "summary": "A view from above is strongest for footprint and layout.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-009"
   },
   {
-    "id": "ac9m7sp01-t-002",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "state_a_limitation",
-    "question": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "A vertical cylindrical water tank has which top-view footprint?",
     "answers": [
       {
-        "text": "Perspective length measured as true length",
-        "is_correct": false
-      },
-      {
-        "text": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+        "text": "circle",
         "is_correct": true
       },
       {
-        "text": "Foreshortening may distort scale",
+        "text": "triangle",
         "is_correct": false
       },
       {
-        "text": "2D view seen perpendicular to a face",
+        "text": "rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "hexagon",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
-      "hint": "Foreshortening may distort scale."
-    }
+      "summary": "Looking straight down on a vertical cylinder gives a circular footprint.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-010"
   },
   {
-    "id": "ac9m7sp01-t-003",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "draw_three_orthographic_views",
-    "question": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "A rectangular-prism building usually has which footprint?",
     "answers": [
       {
-        "text": "Hidden edges ignored when needed",
-        "is_correct": false
-      },
-      {
-        "text": "Use conventions or another view",
-        "is_correct": false
-      },
-      {
-        "text": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+        "text": "rectangle",
         "is_correct": true
       },
       {
-        "text": "2D view seen perpendicular to a face",
+        "text": "circle",
+        "is_correct": false
+      },
+      {
+        "text": "triangle",
+        "is_correct": false
+      },
+      {
+        "text": "sphere",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
-      "hint": "Use conventions or another view."
-    }
+      "summary": "Its base is rectangular.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-011"
   },
   {
-    "id": "ac9m7sp01-t-004",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "interpret_an_isometric_sketch",
-    "question": "A Year 7 student is solving a problem involving interpret an isometric sketch. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving interpret an isometric sketch. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "A house can often be approximated using:",
     "answers": [
       {
-        "text": "Representation judged only by realism",
-        "is_correct": false
-      },
-      {
-        "text": "Evaluate fitness for purpose",
-        "is_correct": false
-      },
-      {
-        "text": "2D view seen perpendicular to a face",
-        "is_correct": false
-      },
-      {
-        "text": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+        "text": "a rectangular prism plus a triangular prism roof",
         "is_correct": true
+      },
+      {
+        "text": "a sphere only",
+        "is_correct": false
+      },
+      {
+        "text": "a cone only",
+        "is_correct": false
+      },
+      {
+        "text": "a cylinder only",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
-      "hint": "Evaluate fitness for purpose."
-    }
+      "summary": "Simple prisms can model the body and pitched roof.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-012"
   },
   {
-    "id": "ac9m7sp01-t-005",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "identify_ambiguity",
-    "question": "What should be checked when applying identify ambiguity in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "What should be checked when applying identify ambiguity in representing three-dimensional objects in two dimensions?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "What important information is usually missing from an aerial footprint?",
     "answers": [
       {
-        "text": "A top and front view together communicate dimensions that either view alone hides",
+        "text": "height",
         "is_correct": true
       },
       {
-        "text": "One view assumed to determine an object uniquely",
+        "text": "base shape",
         "is_correct": false
       },
       {
-        "text": "Different objects can share a front view",
+        "text": "boundary position",
         "is_correct": false
       },
       {
-        "text": "2D view seen perpendicular to a face",
+        "text": "relative layout",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "A top and front view together communicate dimensions that either view alone hides",
-      "hint": "Different objects can share a front view."
-    }
+      "summary": "A top view does not directly communicate vertical height.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-013"
   },
   {
-    "id": "ac9m7sp01-t-006",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "choose_a_representation",
-    "question": "Which response best uses choose a representation in representing three-dimensional objects in two dimensions?",
-    "audio_prompt": "Which response best uses choose a representation in representing three-dimensional objects in two dimensions?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Which representation is most useful for showing where several buildings sit on a site?",
     "answers": [
       {
-        "text": "Perspective length measured as true length",
-        "is_correct": false
-      },
-      {
-        "text": "Select a representation based on the question. Multiple views together reduce ambiguity.",
+        "text": "aerial or plan view",
         "is_correct": true
       },
       {
-        "text": "Foreshortening may distort scale",
+        "text": "single front elevation",
         "is_correct": false
       },
       {
-        "text": "2D view seen perpendicular to a face",
+        "text": "net",
+        "is_correct": false
+      },
+      {
+        "text": "one-point perspective",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Select a representation based on the question. Multiple views together reduce ambiguity.",
-      "hint": "Foreshortening may distort scale."
-    }
+      "summary": "A plan/aerial view communicates position and footprint clearly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-014"
   },
   {
-    "id": "ac9m7sp01-t-007",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "state_a_limitation",
-    "question": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving state a limitation. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "An isometric drawing is designed to show:",
     "answers": [
       {
-        "text": "Hidden edges ignored when needed",
-        "is_correct": false
-      },
-      {
-        "text": "Use conventions or another view",
-        "is_correct": false
-      },
-      {
-        "text": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
+        "text": "a 3D-looking object on a 2D page",
         "is_correct": true
       },
       {
-        "text": "2D view seen perpendicular to a face",
+        "text": "only the front face",
+        "is_correct": false
+      },
+      {
+        "text": "a flattened net",
+        "is_correct": false
+      },
+      {
+        "text": "only a footprint",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "A visually realistic perspective can be less useful for exact measurement than a simplified diagram.",
-      "hint": "Use conventions or another view."
-    }
+      "summary": "Isometric drawing represents three spatial directions on a flat page.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-015"
   },
   {
-    "id": "ac9m7sp01-t-008",
-    "curriculum_code": "AC9M7SP01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "draw_three_orthographic_views",
-    "question": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving draw three orthographic views. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "In a standard isometric drawing, the three principal axes are separated by:",
     "answers": [
       {
-        "text": "Representation judged only by realism",
-        "is_correct": false
-      },
-      {
-        "text": "Evaluate fitness for purpose",
-        "is_correct": false
-      },
-      {
-        "text": "2D view seen perpendicular to a face",
-        "is_correct": false
-      },
-      {
-        "text": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
+        "text": "120°",
         "is_correct": true
+      },
+      {
+        "text": "90°",
+        "is_correct": false
+      },
+      {
+        "text": "45°",
+        "is_correct": false
+      },
+      {
+        "text": "30°",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A two-dimensional representation preserves selected spatial information—such as shape, dimensions or viewpoint—while necessarily omitting or distorting other features.",
-      "hint": "Evaluate fitness for purpose."
-    }
+      "summary": "The three isometric axes are 120° apart.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Perspective drawing creates realistic depth mainly by using:",
+    "answers": [
+      {
+        "text": "vanishing points and converging lines",
+        "is_correct": true
+      },
+      {
+        "text": "six square faces",
+        "is_correct": false
+      },
+      {
+        "text": "only right angles",
+        "is_correct": false
+      },
+      {
+        "text": "a net",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Parallel directions can appear to converge toward vanishing points.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Which representation usually looks most like normal human vision?",
+    "answers": [
+      {
+        "text": "perspective drawing",
+        "is_correct": true
+      },
+      {
+        "text": "net",
+        "is_correct": false
+      },
+      {
+        "text": "orthographic front view",
+        "is_correct": false
+      },
+      {
+        "text": "a table of dimensions",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Perspective represents apparent depth and size changes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Which is a limitation of perspective drawings?",
+    "answers": [
+      {
+        "text": "apparent lengths are not automatically true measurable lengths",
+        "is_correct": true
+      },
+      {
+        "text": "they cannot show depth",
+        "is_correct": false
+      },
+      {
+        "text": "they show every face flat",
+        "is_correct": false
+      },
+      {
+        "text": "they always show a top view",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Foreshortening means measurements should not simply be read from the picture.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Which is a major advantage of isometric drawings?",
+    "answers": [
+      {
+        "text": "they show several faces and overall form at once",
+        "is_correct": true
+      },
+      {
+        "text": "they flatten every face",
+        "is_correct": false
+      },
+      {
+        "text": "they show only the footprint",
+        "is_correct": false
+      },
+      {
+        "text": "they remove depth",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Isometric drawings give a useful 3D impression while retaining parallel directions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "An orthographic drawing represents an object using:",
+    "answers": [
+      {
+        "text": "separate 2D views such as front, side and top",
+        "is_correct": true
+      },
+      {
+        "text": "one realistic perspective view",
+        "is_correct": false
+      },
+      {
+        "text": "only a net",
+        "is_correct": false
+      },
+      {
+        "text": "only an aerial photograph",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Orthographic representation uses perpendicular views of different faces.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Which view normally shows width and height but not depth?",
+    "answers": [
+      {
+        "text": "front view",
+        "is_correct": true
+      },
+      {
+        "text": "top view",
+        "is_correct": false
+      },
+      {
+        "text": "bottom view",
+        "is_correct": false
+      },
+      {
+        "text": "net",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The front elevation shows horizontal width and vertical height.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Which view normally shows width and depth but not height?",
+    "answers": [
+      {
+        "text": "top view",
+        "is_correct": true
+      },
+      {
+        "text": "front view",
+        "is_correct": false
+      },
+      {
+        "text": "side view",
+        "is_correct": false
+      },
+      {
+        "text": "perspective view",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A top view looks down and therefore shows the horizontal dimensions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Why can one orthographic view be ambiguous?",
+    "answers": [
+      {
+        "text": "different 3D objects can share the same single view",
+        "is_correct": true
+      },
+      {
+        "text": "all objects have unique front views",
+        "is_correct": false
+      },
+      {
+        "text": "a front view always shows depth",
+        "is_correct": false
+      },
+      {
+        "text": "orthographic views are 3D",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "One projection can hide depth or hidden structure, so another view may be needed.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "If two objects have the same front view but different depths, which extra view is most useful?",
+    "answers": [
+      {
+        "text": "top or side view",
+        "is_correct": true
+      },
+      {
+        "text": "the same front view again",
+        "is_correct": false
+      },
+      {
+        "text": "a colour legend only",
+        "is_correct": false
+      },
+      {
+        "text": "a title",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A top or side projection reveals depth information.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "A top view of three unit cubes placed in one vertical stack shows:",
+    "answers": [
+      {
+        "text": "one square",
+        "is_correct": true
+      },
+      {
+        "text": "three separate squares",
+        "is_correct": false
+      },
+      {
+        "text": "a triangle",
+        "is_correct": false
+      },
+      {
+        "text": "three circles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "All three cubes occupy the same footprint when viewed from above.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "A front view of three cubes placed side by side in one row shows:",
+    "answers": [
+      {
+        "text": "three adjacent squares",
+        "is_correct": true
+      },
+      {
+        "text": "one square",
+        "is_correct": false
+      },
+      {
+        "text": "three stacked squares",
+        "is_correct": false
+      },
+      {
+        "text": "a circle",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each cube contributes one square across the width.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Which representation is best when a manufacturer needs the shape of every face before cutting cardboard?",
+    "answers": [
+      {
+        "text": "net",
+        "is_correct": true
+      },
+      {
+        "text": "perspective sketch",
+        "is_correct": false
+      },
+      {
+        "text": "aerial view",
+        "is_correct": false
+      },
+      {
+        "text": "single side view",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A net displays every face in the cutting plane.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Which representation is best for communicating a product's realistic appearance to a customer?",
+    "answers": [
+      {
+        "text": "perspective drawing",
+        "is_correct": true
+      },
+      {
+        "text": "net",
+        "is_correct": false
+      },
+      {
+        "text": "top view only",
+        "is_correct": false
+      },
+      {
+        "text": "dimension table only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Perspective prioritises realistic appearance and depth.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Which representation is best for checking exact front width and height?",
+    "answers": [
+      {
+        "text": "orthographic front view with dimensions",
+        "is_correct": true
+      },
+      {
+        "text": "perspective sketch",
+        "is_correct": false
+      },
+      {
+        "text": "net with no labels",
+        "is_correct": false
+      },
+      {
+        "text": "aerial photograph",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A dimensioned orthographic view is suited to exact face measurements.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "Which statement about 2D representations is most accurate?",
+    "answers": [
+      {
+        "text": "each representation preserves some spatial information and omits or distorts other information",
+        "is_correct": true
+      },
+      {
+        "text": "one representation is always best",
+        "is_correct": false
+      },
+      {
+        "text": "perspective is always measurable to scale",
+        "is_correct": false
+      },
+      {
+        "text": "a net shows an assembled object's depth best",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The best representation depends on the purpose.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "A student says, 'This perspective edge looks 4 cm long, so the real edge must be 4 cm.' What is the best response?",
+    "answers": [
+      {
+        "text": "Not necessarily; perspective can foreshorten lengths",
+        "is_correct": true
+      },
+      {
+        "text": "Correct for every perspective drawing",
+        "is_correct": false
+      },
+      {
+        "text": "Correct only for spheres",
+        "is_correct": false
+      },
+      {
+        "text": "The edge must be 8 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Apparent perspective length is not automatically true length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "A student builds a model from an isometric drawing. What skill are they using?",
+    "answers": [
+      {
+        "text": "interpreting a 2D representation to reconstruct a 3D object",
+        "is_correct": true
+      },
+      {
+        "text": "finding probability",
+        "is_correct": false
+      },
+      {
+        "text": "calculating circumference",
+        "is_correct": false
+      },
+      {
+        "text": "simplifying a ratio",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "E4 specifically develops reconstruction from isometric and perspective drawings.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "Which pair of representations gives complementary information about a box?",
+    "answers": [
+      {
+        "text": "net and isometric drawing",
+        "is_correct": true
+      },
+      {
+        "text": "two identical front views",
+        "is_correct": false
+      },
+      {
+        "text": "two identical titles",
+        "is_correct": false
+      },
+      {
+        "text": "two colour swatches",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The net shows all faces flat; the isometric view shows assembled form.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "A net has two congruent triangles joined through three rectangles. Which object should it make?",
+    "answers": [
+      {
+        "text": "triangular prism",
+        "is_correct": true
+      },
+      {
+        "text": "square pyramid",
+        "is_correct": false
+      },
+      {
+        "text": "cube",
+        "is_correct": false
+      },
+      {
+        "text": "cylinder",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "That is the face structure of a triangular prism.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "A net has one square with a triangle attached to each side. Which object should it make?",
+    "answers": [
+      {
+        "text": "square pyramid",
+        "is_correct": true
+      },
+      {
+        "text": "cube",
+        "is_correct": false
+      },
+      {
+        "text": "triangular prism",
+        "is_correct": false
+      },
+      {
+        "text": "rectangular prism",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The square is the base and the four triangles meet at the apex.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "Why is folding a paper net a useful check?",
+    "answers": [
+      {
+        "text": "it tests whether faces meet without overlap or gaps",
+        "is_correct": true
+      },
+      {
+        "text": "it proves the object's mass",
+        "is_correct": false
+      },
+      {
+        "text": "it finds a vanishing point",
+        "is_correct": false
+      },
+      {
+        "text": "it measures density",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Physical folding tests whether the 2D arrangement actually constructs the solid.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "A building has a rectangular footprint but a pitched roof. Why can one prism be an imperfect model?",
+    "answers": [
+      {
+        "text": "the roof may require an additional triangular-prism component",
+        "is_correct": true
+      },
+      {
+        "text": "rectangles cannot be footprints",
+        "is_correct": false
+      },
+      {
+        "text": "prisms have no faces",
+        "is_correct": false
+      },
+      {
+        "text": "aerial views show height exactly",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Complex structures are often approximated by combining simple solids.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "When drawing an orthographic side view, you should imagine looking:",
+    "answers": [
+      {
+        "text": "perpendicularly at the side face",
+        "is_correct": true
+      },
+      {
+        "text": "from a vanishing point",
+        "is_correct": false
+      },
+      {
+        "text": "from inside the object",
+        "is_correct": false
+      },
+      {
+        "text": "only from above",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Orthographic views are perpendicular projections onto a viewing plane.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "Which statement best compares a net and an aerial view?",
+    "answers": [
+      {
+        "text": "a net shows faces for folding; an aerial view shows footprint and layout",
+        "is_correct": true
+      },
+      {
+        "text": "both show realistic depth",
+        "is_correct": false
+      },
+      {
+        "text": "both show only height",
+        "is_correct": false
+      },
+      {
+        "text": "both are perspective drawings",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "They serve different spatial purposes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "Which statement best compares isometric and perspective drawings?",
+    "answers": [
+      {
+        "text": "isometric keeps parallel directions parallel; perspective may show them converging",
+        "is_correct": true
+      },
+      {
+        "text": "both require all faces laid flat",
+        "is_correct": false
+      },
+      {
+        "text": "perspective has no depth",
+        "is_correct": false
+      },
+      {
+        "text": "isometric is only a top view",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Their conventions for representing depth differ.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "A square-grid drawing of front, side and top views is an example of:",
+    "answers": [
+      {
+        "text": "orthographic representation",
+        "is_correct": true
+      },
+      {
+        "text": "a net only",
+        "is_correct": false
+      },
+      {
+        "text": "one-point perspective",
+        "is_correct": false
+      },
+      {
+        "text": "an aerial photograph",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Multiple perpendicular face views are orthographic.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "super-hard",
+    "question": "A map or artwork can communicate relationships between places without being a literal 3D picture. What does this show?",
+    "answers": [
+      {
+        "text": "2D representations can encode selected spatial relationships for a purpose",
+        "is_correct": true
+      },
+      {
+        "text": "all maps are inaccurate",
+        "is_correct": false
+      },
+      {
+        "text": "only perspective is meaningful",
+        "is_correct": false
+      },
+      {
+        "text": "symbols cannot represent place",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Representations are designed for particular information and purposes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "super-hard",
+    "question": "When studying First Nations Australian artworks or cultural maps of Country/Place, the most appropriate approach is to:",
+    "answers": [
+      {
+        "text": "use reliable cultural context and avoid assuming symbols have one universal meaning",
+        "is_correct": true
+      },
+      {
+        "text": "invent a fixed meaning for every symbol",
+        "is_correct": false
+      },
+      {
+        "text": "treat every artwork as a scale map",
+        "is_correct": false
+      },
+      {
+        "text": "ignore cultural context",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Meanings are culturally situated; reliable context and respectful interpretation matter.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "super-hard",
+    "question": "Which question best evaluates a representation?",
+    "answers": [
+      {
+        "text": "What information does it show well, and what information does it hide or distort?",
+        "is_correct": true
+      },
+      {
+        "text": "Is it colourful?",
+        "is_correct": false
+      },
+      {
+        "text": "Is it the largest drawing?",
+        "is_correct": false
+      },
+      {
+        "text": "Does it use the most lines?",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "AC9M7SP01 requires reasoning about advantages and disadvantages.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "super-hard",
+    "question": "A designer needs both exact dimensions and an easy-to-visualise overall shape. Which combination is strongest?",
+    "answers": [
+      {
+        "text": "dimensioned orthographic views plus an isometric view",
+        "is_correct": true
+      },
+      {
+        "text": "perspective only",
+        "is_correct": false
+      },
+      {
+        "text": "net only",
+        "is_correct": false
+      },
+      {
+        "text": "top view only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Different representations can be combined to reduce ambiguity.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "super-hard",
+    "question": "A top view is identical for two block structures, but one has cubes stacked higher. What conclusion is valid?",
+    "answers": [
+      {
+        "text": "the top view alone cannot determine the heights",
+        "is_correct": true
+      },
+      {
+        "text": "the structures must be identical",
+        "is_correct": false
+      },
+      {
+        "text": "both have height one",
+        "is_correct": false
+      },
+      {
+        "text": "a net will always solve it",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Top views can hide vertical stacking.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "practice",
+    "skill": "ac9m7sp01",
+    "difficulty": "super-hard",
+    "question": "Why might a net be poor for showing what a finished package looks like on a shelf?",
+    "answers": [
+      {
+        "text": "it removes the assembled depth and orientation",
+        "is_correct": true
+      },
+      {
+        "text": "it shows too much realistic depth",
+        "is_correct": false
+      },
+      {
+        "text": "it cannot show faces",
+        "is_correct": false
+      },
+      {
+        "text": "it is always circular",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A flattened net is excellent for fabrication but weaker for assembled appearance.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-P-048"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "A company must print artwork on every face of a carton before folding it. Which representation should the printer request?",
+    "answers": [
+      {
+        "text": "a dimensioned net",
+        "is_correct": true
+      },
+      {
+        "text": "a perspective sketch",
+        "is_correct": false
+      },
+      {
+        "text": "an aerial view",
+        "is_correct": false
+      },
+      {
+        "text": "a front view only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A dimensioned net exposes every printable face before assembly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "Two block structures have identical front and side views but different top views. What must be true?",
+    "answers": [
+      {
+        "text": "their horizontal arrangements differ",
+        "is_correct": true
+      },
+      {
+        "text": "they are identical",
+        "is_correct": false
+      },
+      {
+        "text": "their top views cannot differ",
+        "is_correct": false
+      },
+      {
+        "text": "both are cubes",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The differing top projection reveals a different footprint or arrangement.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "A top view shows four occupied grid squares. Can you conclude the object contains exactly four cubes?",
+    "answers": [
+      {
+        "text": "No; cubes may be stacked above those squares",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, always",
+        "is_correct": false
+      },
+      {
+        "text": "Only if it is a sphere",
+        "is_correct": false
+      },
+      {
+        "text": "Only if it has a net",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A top view shows occupied positions, not hidden vertical stacks.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "easy",
+    "question": "A front view is a 3-by-2 rectangle and the top view is a 3-by-5 rectangle. Which dimensions are supported?",
+    "answers": [
+      {
+        "text": "width 3, height 2, depth 5",
+        "is_correct": true
+      },
+      {
+        "text": "width 5, height 3, depth 2",
+        "is_correct": false
+      },
+      {
+        "text": "width 2, height 5, depth 3",
+        "is_correct": false
+      },
+      {
+        "text": "only height 2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Front gives width and height; top gives width and depth.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Why can six connected squares still fail to be a cube net?",
+    "answers": [
+      {
+        "text": "their arrangement may cause overlap or prevent closure",
+        "is_correct": true
+      },
+      {
+        "text": "a cube has fewer than six faces",
+        "is_correct": false
+      },
+      {
+        "text": "squares cannot fold",
+        "is_correct": false
+      },
+      {
+        "text": "nets must be circular",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A valid net needs both the correct faces and a foldable arrangement.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "Which evidence is strongest that a proposed cube net is valid?",
+    "answers": [
+      {
+        "text": "a correct fold simulation showing six distinct faces close without overlap",
+        "is_correct": true
+      },
+      {
+        "text": "it contains six squares",
+        "is_correct": false
+      },
+      {
+        "text": "it looks symmetrical",
+        "is_correct": false
+      },
+      {
+        "text": "it fits on one page",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Successful folding is the decisive structural test.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "A triangular-prism package is cut from cardboard. Which face inventory must its net contain?",
+    "answers": [
+      {
+        "text": "2 congruent triangles and 3 rectangles",
+        "is_correct": true
+      },
+      {
+        "text": "1 square and 4 triangles",
+        "is_correct": false
+      },
+      {
+        "text": "6 squares",
+        "is_correct": false
+      },
+      {
+        "text": "2 circles and 1 rectangle",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Those are exactly the five faces of a triangular prism.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "A student chooses perspective instead of orthographic views for a workshop drawing. What is the main risk?",
+    "answers": [
+      {
+        "text": "apparent lengths may not be directly measurable as true lengths",
+        "is_correct": true
+      },
+      {
+        "text": "the drawing cannot show depth",
+        "is_correct": false
+      },
+      {
+        "text": "parallel edges can never be drawn",
+        "is_correct": false
+      },
+      {
+        "text": "the object becomes 2D",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Perspective communicates appearance well but can distort direct measurement.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "An architect wants a client to understand appearance and a builder to read dimensions. What is the best solution?",
+    "answers": [
+      {
+        "text": "provide perspective/isometric imagery plus dimensioned orthographic drawings",
+        "is_correct": true
+      },
+      {
+        "text": "provide perspective only",
+        "is_correct": false
+      },
+      {
+        "text": "provide a net only",
+        "is_correct": false
+      },
+      {
+        "text": "provide one aerial photo",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Different audiences need different spatial information.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "medium",
+    "question": "A structure is modelled as a rectangular prism although its roof is curved. What kind of decision is this?",
+    "answers": [
+      {
+        "text": "an approximation that preserves some features while simplifying others",
+        "is_correct": true
+      },
+      {
+        "text": "a proof the roof is flat",
+        "is_correct": false
+      },
+      {
+        "text": "an exact net",
+        "is_correct": false
+      },
+      {
+        "text": "an orthographic error",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Spatial models often simplify real structures for a chosen purpose.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "Which representation most directly reveals whether a building footprint is L-shaped?",
+    "answers": [
+      {
+        "text": "top/plan view",
+        "is_correct": true
+      },
+      {
+        "text": "front view",
+        "is_correct": false
+      },
+      {
+        "text": "side view",
+        "is_correct": false
+      },
+      {
+        "text": "net",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The footprint is visible from above.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "A tall cylinder and a short cylinder with equal base radii have identical top views. What does this demonstrate?",
+    "answers": [
+      {
+        "text": "a single view can hide height",
+        "is_correct": true
+      },
+      {
+        "text": "the cylinders have equal height",
+        "is_correct": false
+      },
+      {
+        "text": "top views show volume",
+        "is_correct": false
+      },
+      {
+        "text": "cylinders have square footprints",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Top projections cannot distinguish different heights when footprints match.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "A perspective drawing shows two rails converging in the distance. Are the real rails necessarily converging?",
+    "answers": [
+      {
+        "text": "No; parallel lines can appear to converge in perspective",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, always",
+        "is_correct": false
+      },
+      {
+        "text": "Only in isometric drawings",
+        "is_correct": false
+      },
+      {
+        "text": "Only if viewed from above",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Perspective convergence is a visual convention for depth.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "hard",
+    "question": "Which feature is deliberately preserved in a standard isometric construction?",
+    "answers": [
+      {
+        "text": "parallelism along each principal direction",
+        "is_correct": true
+      },
+      {
+        "text": "all true face angles as seen head-on",
+        "is_correct": false
+      },
+      {
+        "text": "a single vanishing point",
+        "is_correct": false
+      },
+      {
+        "text": "a flattened surface layout",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Isometric axes remain parallel rather than converging.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "super-hard",
+    "question": "An object has a square front view and square side view. Which conclusion is safest?",
+    "answers": [
+      {
+        "text": "more information is needed to determine the 3D object uniquely",
+        "is_correct": true
+      },
+      {
+        "text": "it must be a cube",
+        "is_correct": false
+      },
+      {
+        "text": "it must be a sphere",
+        "is_correct": false
+      },
+      {
+        "text": "it must have six square faces",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Different solids or block arrangements can share these projections.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP01",
+    "bank": "test",
+    "skill": "ac9m7sp01",
+    "difficulty": "super-hard",
+    "question": "A packaging designer needs to minimise cardboard waste around a net. What information does the net provide that an isometric sketch does not provide as directly?",
+    "answers": [
+      {
+        "text": "the flat arrangement and boundary of all faces",
+        "is_correct": true
+      },
+      {
+        "text": "the assembled depth impression",
+        "is_correct": false
+      },
+      {
+        "text": "the location of a vanishing point",
+        "is_correct": false
+      },
+      {
+        "text": "the building footprint",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A net is directly suited to sheet layout and cutting.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP01-T-016"
   }
 ]

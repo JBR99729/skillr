@@ -1,17 +1,12 @@
 [
   {
-    "id": "ac9m7sp04-p-001",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
     "bank": "practice",
-    "skill": "write_a_translation_algorithm",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Repeat a 90° rotation about the origin until four images including the original are present",
@@ -30,27 +25,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
-      "hint": "The output becomes ambiguous."
+      "summary": "Repeat a 90° rotation about the origin until four images including the original are present\nHint: The output becomes ambiguous.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP04-P-001"
   },
   {
-    "id": "ac9m7sp04-p-002",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
     "bank": "practice",
-    "skill": "add_a_decision_branch",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Original and latest image confused",
@@ -69,27 +57,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
-      "hint": "Specify which object is transformed each iteration."
+      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.\nHint: Specify which object is transformed each iteration.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP04-P-002"
   },
   {
-    "id": "ac9m7sp04-p-003",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
     "bank": "practice",
-    "skill": "set_a_stopping_condition",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving set a stopping condition. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving set a stopping condition. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Loop has no stop",
@@ -108,27 +89,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
-      "hint": "Define count or geometric condition."
+      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.\nHint: Define count or geometric condition.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP04-P-003"
   },
   {
-    "id": "ac9m7sp04-p-004",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
     "bank": "practice",
-    "skill": "trace_an_iteration",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Digital picture accepted without coordinate check",
@@ -147,27 +121,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
-      "hint": "Trace representative points."
+      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.\nHint: Trace representative points.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP04-P-004"
   },
   {
-    "id": "ac9m7sp04-p-005",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
     "bank": "practice",
-    "skill": "debug_ambiguous_wording",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
     "question": "Which statement correctly identifies iteration in spatial algorithms and decision processes?",
-    "audio_prompt": "Which statement correctly identifies iteration in spatial algorithms and decision processes?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Repeat a 90° rotation about the origin until four images including the original are present",
@@ -186,28 +153,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
-      "hint": "The output becomes ambiguous."
+      "summary": "Repeat a 90° rotation about the origin until four images including the original are present\nHint: The output becomes ambiguous.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP04-P-005"
   },
   {
-    "id": "ac9m7sp04-p-006",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
     "bank": "practice",
-    "skill": "write_a_translation_algorithm",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
     "question": "Which choice best describes decision branch in spatial algorithms and decision processes?",
-    "audio_prompt": "Which choice best describes decision branch in spatial algorithms and decision processes?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Original and latest image confused",
@@ -226,28 +185,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
-      "hint": "Specify which object is transformed each iteration."
+      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.\nHint: Specify which object is transformed each iteration.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP04-P-006"
   },
   {
-    "id": "ac9m7sp04-p-007",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
     "bank": "practice",
-    "skill": "add_a_decision_branch",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
     "question": "What does correct use require for algorithm in spatial algorithms and decision processes?",
-    "audio_prompt": "What does correct use require for algorithm in spatial algorithms and decision processes?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Loop has no stop",
@@ -266,348 +217,1834 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
-      "hint": "Define count or geometric condition."
+      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.\nHint: Define count or geometric condition.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP04-P-007"
   },
   {
-    "id": "ac9m7sp04-p-008",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
     "bank": "practice",
-    "skill": "set_a_stopping_condition",
-    "question": "A Year 7 student is solving a problem involving set a stopping condition. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving set a stopping condition. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
+    "question": "In a triangle-classification algorithm, which question best identifies an equilateral triangle?",
     "answers": [
       {
-        "text": "Digital picture accepted without coordinate check",
-        "is_correct": false
-      },
-      {
-        "text": "Trace representative points",
-        "is_correct": false
-      },
-      {
-        "text": "Finite ordered instructions",
-        "is_correct": false
-      },
-      {
-        "text": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+        "text": "Are all three sides equal?",
         "is_correct": true
+      },
+      {
+        "text": "Is one angle 90°?",
+        "is_correct": false
+      },
+      {
+        "text": "Are two sides parallel?",
+        "is_correct": false
+      },
+      {
+        "text": "Is one angle greater than 180°?",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
-      "hint": "Trace representative points."
+      "summary": "Equilateral triangles have three equal sides.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP04-P-008"
   },
   {
-    "id": "ac9m7sp04-t-001",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "trace_an_iteration",
-    "question": "A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving trace an iteration. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
+    "question": "A triangle has sides 5,5,8. Which branch should a side-based algorithm follow?",
     "answers": [
       {
-        "text": "Repeat a 90° rotation about the origin until four images including the original are present",
+        "text": "isosceles",
         "is_correct": true
       },
       {
-        "text": "Transformation centre omitted",
+        "text": "scalene",
         "is_correct": false
       },
       {
-        "text": "The output becomes ambiguous",
+        "text": "equilateral",
         "is_correct": false
       },
       {
-        "text": "Finite ordered instructions",
+        "text": "right",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
-      "hint": "The output becomes ambiguous."
-    }
+      "summary": "Exactly two sides are equal.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-009"
   },
   {
-    "id": "ac9m7sp04-t-002",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "debug_ambiguous_wording",
-    "question": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
+    "question": "A triangle has sides 4,6,7. Which branch should the side algorithm follow?",
     "answers": [
       {
-        "text": "Original and latest image confused",
-        "is_correct": false
-      },
-      {
-        "text": "The result depends on transformation centre and whether each step uses the original or previous image.",
+        "text": "scalene",
         "is_correct": true
       },
       {
-        "text": "Specify which object is transformed each iteration",
+        "text": "isosceles",
         "is_correct": false
       },
       {
-        "text": "Finite ordered instructions",
+        "text": "equilateral",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
-      "hint": "Specify which object is transformed each iteration."
-    }
+      "summary": "All three sides are different.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-010"
   },
   {
-    "id": "ac9m7sp04-t-003",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "write_a_translation_algorithm",
-    "question": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
+    "question": "A triangle has one angle of 90°. Which angle branch applies?",
     "answers": [
       {
-        "text": "Loop has no stop",
-        "is_correct": false
-      },
-      {
-        "text": "Define count or geometric condition",
-        "is_correct": false
-      },
-      {
-        "text": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
+        "text": "right",
         "is_correct": true
       },
       {
-        "text": "Finite ordered instructions",
+        "text": "acute",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "equilateral",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
-      "hint": "Define count or geometric condition."
-    }
+      "summary": "A 90° angle defines a right triangle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-011"
   },
   {
-    "id": "ac9m7sp04-t-004",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "add_a_decision_branch",
-    "question": "A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving add a decision branch. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
+    "question": "A triangle has one angle of 110°. Which angle branch applies?",
     "answers": [
       {
-        "text": "Digital picture accepted without coordinate check",
-        "is_correct": false
-      },
-      {
-        "text": "Trace representative points",
-        "is_correct": false
-      },
-      {
-        "text": "Finite ordered instructions",
-        "is_correct": false
-      },
-      {
-        "text": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+        "text": "obtuse",
         "is_correct": true
+      },
+      {
+        "text": "acute",
+        "is_correct": false
+      },
+      {
+        "text": "right",
+        "is_correct": false
+      },
+      {
+        "text": "equilateral",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
-      "hint": "Trace representative points."
-    }
+      "summary": "One angle is greater than 90°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-012"
   },
   {
-    "id": "ac9m7sp04-t-005",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "set_a_stopping_condition",
-    "question": "What should be checked when applying set a stopping condition in spatial algorithms and decision processes?",
-    "audio_prompt": "What should be checked when applying set a stopping condition in spatial algorithms and decision processes?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A triangle has angles 50°,60°,70°. Which angle branch applies?",
     "answers": [
       {
-        "text": "Repeat a 90° rotation about the origin until four images including the original are present",
+        "text": "acute",
         "is_correct": true
       },
       {
-        "text": "Transformation centre omitted",
+        "text": "right",
         "is_correct": false
       },
       {
-        "text": "The output becomes ambiguous",
+        "text": "obtuse",
         "is_correct": false
       },
       {
-        "text": "Finite ordered instructions",
+        "text": "scalene",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Repeat a 90° rotation about the origin until four images including the original are present",
-      "hint": "The output becomes ambiguous."
-    }
+      "summary": "All three angles are less than 90°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-013"
   },
   {
-    "id": "ac9m7sp04-t-006",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "trace_an_iteration",
-    "question": "Which response best uses trace an iteration in spatial algorithms and decision processes?",
-    "audio_prompt": "Which response best uses trace an iteration in spatial algorithms and decision processes?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "Which is the best first stage of a triangle algorithm that classifies by both sides and angles?",
     "answers": [
       {
-        "text": "Original and latest image confused",
-        "is_correct": false
-      },
-      {
-        "text": "The result depends on transformation centre and whether each step uses the original or previous image.",
+        "text": "check side equality, then angle type",
         "is_correct": true
       },
       {
-        "text": "Specify which object is transformed each iteration",
+        "text": "check colour, then area",
         "is_correct": false
       },
       {
-        "text": "Finite ordered instructions",
+        "text": "check diagonals only",
+        "is_correct": false
+      },
+      {
+        "text": "check concavity",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The result depends on transformation centre and whether each step uses the original or previous image.",
-      "hint": "Specify which object is transformed each iteration."
-    }
+      "summary": "The algorithm needs decisions tied to the required classifications.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-014"
   },
   {
-    "id": "ac9m7sp04-t-007",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "debug_ambiguous_wording",
-    "question": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving debug ambiguous wording. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A flow chart asks: 'Are all sides equal?' YES → equilateral. What should the NO branch reasonably test next?",
     "answers": [
       {
-        "text": "Loop has no stop",
-        "is_correct": false
-      },
-      {
-        "text": "Define count or geometric condition",
-        "is_correct": false
-      },
-      {
-        "text": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
+        "text": "Are two sides equal?",
         "is_correct": true
       },
       {
-        "text": "Finite ordered instructions",
+        "text": "Is it concave?",
+        "is_correct": false
+      },
+      {
+        "text": "Does it have 4 sides?",
+        "is_correct": false
+      },
+      {
+        "text": "Are opposite sides parallel?",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Trace one input manually before relying on digital output. Precision supports both mathematics and programming.",
-      "hint": "Define count or geometric condition."
-    }
+      "summary": "The next side-based distinction is isosceles versus scalene.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-015"
   },
   {
-    "id": "ac9m7sp04-t-008",
-    "curriculum_code": "AC9M7SP04",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "write_a_translation_algorithm",
-    "question": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving write a translation algorithm. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A triangle is equilateral. Which angle result should a complete algorithm also return?",
     "answers": [
       {
-        "text": "Digital picture accepted without coordinate check",
-        "is_correct": false
-      },
-      {
-        "text": "Trace representative points",
-        "is_correct": false
-      },
-      {
-        "text": "Finite ordered instructions",
-        "is_correct": false
-      },
-      {
-        "text": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
+        "text": "acute",
         "is_correct": true
+      },
+      {
+        "text": "right",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "cannot determine",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A spatial algorithm must specify inputs, ordered actions, complete decision branches, iteration and a stopping condition so the result is reproducible.",
-      "hint": "Trace representative points."
-    }
+      "summary": "Equilateral triangles have three 60° angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "Which output is most complete for a triangle with sides 6,6,9 and angles 40°,40°,100°?",
+    "answers": [
+      {
+        "text": "isosceles obtuse",
+        "is_correct": true
+      },
+      {
+        "text": "isosceles acute",
+        "is_correct": false
+      },
+      {
+        "text": "scalene obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "equilateral acute",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It has two equal sides and one obtuse angle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A quadrilateral has exactly one pair of parallel sides. Under this unit's convention, classify it as:",
+    "answers": [
+      {
+        "text": "trapezium",
+        "is_correct": true
+      },
+      {
+        "text": "parallelogram",
+        "is_correct": false
+      },
+      {
+        "text": "rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "rhombus",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The unit uses the one-pair convention for trapezium.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A quadrilateral has two pairs of opposite sides parallel. First classify it as:",
+    "answers": [
+      {
+        "text": "parallelogram",
+        "is_correct": true
+      },
+      {
+        "text": "trapezium",
+        "is_correct": false
+      },
+      {
+        "text": "kite",
+        "is_correct": false
+      },
+      {
+        "text": "irregular quadrilateral",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Two pairs of opposite parallel sides define a parallelogram.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "Inside the parallelogram branch, which question identifies a rectangle?",
+    "answers": [
+      {
+        "text": "Are all angles 90°?",
+        "is_correct": true
+      },
+      {
+        "text": "Are all sides equal?",
+        "is_correct": false
+      },
+      {
+        "text": "Is one angle >180°?",
+        "is_correct": false
+      },
+      {
+        "text": "Is there exactly one parallel pair?",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four right angles define a rectangle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "Inside the parallelogram branch, which question identifies a rhombus?",
+    "answers": [
+      {
+        "text": "Are all sides equal?",
+        "is_correct": true
+      },
+      {
+        "text": "Are all angles 90°?",
+        "is_correct": false
+      },
+      {
+        "text": "Is there one parallel pair?",
+        "is_correct": false
+      },
+      {
+        "text": "Are there five sides?",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four equal sides define a rhombus.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A parallelogram has all sides equal and all angles 90°. Final classification:",
+    "answers": [
+      {
+        "text": "square",
+        "is_correct": true
+      },
+      {
+        "text": "rectangle only",
+        "is_correct": false
+      },
+      {
+        "text": "rhombus only",
+        "is_correct": false
+      },
+      {
+        "text": "trapezium",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It satisfies both rectangle and rhombus conditions, so it is a square.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A quadrilateral has two pairs of adjacent equal sides. Which classification should an algorithm consider?",
+    "answers": [
+      {
+        "text": "kite",
+        "is_correct": true
+      },
+      {
+        "text": "rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "trapezium",
+        "is_correct": false
+      },
+      {
+        "text": "pentagon",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Two pairs of adjacent equal sides are the defining property used here for a kite.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "Which algorithm error would classify every square only as a rhombus?",
+    "answers": [
+      {
+        "text": "failing to also check whether all angles are 90°",
+        "is_correct": true
+      },
+      {
+        "text": "checking for equal sides",
+        "is_correct": false
+      },
+      {
+        "text": "checking parallel sides first",
+        "is_correct": false
+      },
+      {
+        "text": "counting four sides",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A square needs both rhombus and rectangle conditions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "Which algorithm error would classify every rectangle as a square?",
+    "answers": [
+      {
+        "text": "failing to check whether all four sides are equal",
+        "is_correct": true
+      },
+      {
+        "text": "checking for four right angles",
+        "is_correct": false
+      },
+      {
+        "text": "checking for two parallel pairs",
+        "is_correct": false
+      },
+      {
+        "text": "counting four sides",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A rectangle need not have four equal sides.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "Which property should usually be checked before deciding between trapezium and parallelogram?",
+    "answers": [
+      {
+        "text": "number of parallel side pairs",
+        "is_correct": true
+      },
+      {
+        "text": "number of right angles only",
+        "is_correct": false
+      },
+      {
+        "text": "colour",
+        "is_correct": false
+      },
+      {
+        "text": "area",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Parallel-side count separates these classes efficiently.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A hierarchy shows square under both rectangle and rhombus. Why?",
+    "answers": [
+      {
+        "text": "A square satisfies both definitions",
+        "is_correct": true
+      },
+      {
+        "text": "A square changes class when rotated",
+        "is_correct": false
+      },
+      {
+        "text": "Rectangles and rhombuses are identical",
+        "is_correct": false
+      },
+      {
+        "text": "Every quadrilateral is a square",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Shape classes can overlap hierarchically.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A polygon has 5 sides. First classification:",
+    "answers": [
+      {
+        "text": "pentagon",
+        "is_correct": true
+      },
+      {
+        "text": "hexagon",
+        "is_correct": false
+      },
+      {
+        "text": "quadrilateral",
+        "is_correct": false
+      },
+      {
+        "text": "octagon",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Five sides define a pentagon.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A polygon has 8 sides. First classification:",
+    "answers": [
+      {
+        "text": "octagon",
+        "is_correct": true
+      },
+      {
+        "text": "hexagon",
+        "is_correct": false
+      },
+      {
+        "text": "nonagon",
+        "is_correct": false
+      },
+      {
+        "text": "decagon",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Eight sides define an octagon.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "Which condition defines a regular polygon?",
+    "answers": [
+      {
+        "text": "all sides equal and all interior angles equal",
+        "is_correct": true
+      },
+      {
+        "text": "equal sides only",
+        "is_correct": false
+      },
+      {
+        "text": "equal angles only",
+        "is_correct": false
+      },
+      {
+        "text": "at least one line of symmetry",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Regularity requires both equal sides and equal angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "A polygon has one interior angle greater than 180°. It is:",
+    "answers": [
+      {
+        "text": "concave",
+        "is_correct": true
+      },
+      {
+        "text": "convex",
+        "is_correct": false
+      },
+      {
+        "text": "regular",
+        "is_correct": false
+      },
+      {
+        "text": "equilateral",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A reflex interior angle makes the polygon concave.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "A polygon has every interior angle less than 180°. It is:",
+    "answers": [
+      {
+        "text": "convex",
+        "is_correct": true
+      },
+      {
+        "text": "concave",
+        "is_correct": false
+      },
+      {
+        "text": "regular",
+        "is_correct": false
+      },
+      {
+        "text": "a triangle only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "That is the standard convexity condition for simple polygons.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "Which sequence is sensible for a general polygon-classification algorithm?",
+    "answers": [
+      {
+        "text": "count sides → check regularity → check concavity/convexity",
+        "is_correct": true
+      },
+      {
+        "text": "check colour → check area → count vertices",
+        "is_correct": false
+      },
+      {
+        "text": "check diagonals only",
+        "is_correct": false
+      },
+      {
+        "text": "check symmetry only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "These decisions address the requested classifications directly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "A regular hexagon is best classified as:",
+    "answers": [
+      {
+        "text": "regular convex hexagon",
+        "is_correct": true
+      },
+      {
+        "text": "irregular convex hexagon",
+        "is_correct": false
+      },
+      {
+        "text": "regular concave hexagon",
+        "is_correct": false
+      },
+      {
+        "text": "irregular concave hexagon",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A regular simple hexagon is convex.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "An arrowhead-shaped simple quadrilateral with one reflex interior angle is:",
+    "answers": [
+      {
+        "text": "concave quadrilateral",
+        "is_correct": true
+      },
+      {
+        "text": "convex quadrilateral",
+        "is_correct": false
+      },
+      {
+        "text": "regular quadrilateral",
+        "is_correct": false
+      },
+      {
+        "text": "square",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "One interior angle exceeds 180°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "Which polygon category is impossible for a simple regular polygon in this Year 7 context?",
+    "answers": [
+      {
+        "text": "regular concave",
+        "is_correct": true
+      },
+      {
+        "text": "regular convex",
+        "is_correct": false
+      },
+      {
+        "text": "irregular concave",
+        "is_correct": false
+      },
+      {
+        "text": "irregular convex",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Standard regular simple polygons are convex.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "A polygon has equal sides but unequal angles. Is it regular?",
+    "answers": [
+      {
+        "text": "No",
+        "is_correct": true
+      },
+      {
+        "text": "Yes",
+        "is_correct": false
+      },
+      {
+        "text": "Only if convex",
+        "is_correct": false
+      },
+      {
+        "text": "Only if it has 6 sides",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Regular polygons require both equal sides and equal angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "In a flow chart, a diamond usually represents:",
+    "answers": [
+      {
+        "text": "a decision",
+        "is_correct": true
+      },
+      {
+        "text": "a process",
+        "is_correct": false
+      },
+      {
+        "text": "a start/end only",
+        "is_correct": false
+      },
+      {
+        "text": "a data table",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Decision diamonds branch according to conditions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "In a flow chart, a rectangle usually represents:",
+    "answers": [
+      {
+        "text": "a process/action",
+        "is_correct": true
+      },
+      {
+        "text": "a decision",
+        "is_correct": false
+      },
+      {
+        "text": "a start symbol",
+        "is_correct": false
+      },
+      {
+        "text": "a polygon",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Rectangles commonly represent processes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "A decision tree is useful because it:",
+    "answers": [
+      {
+        "text": "sorts cases using branching questions",
+        "is_correct": true
+      },
+      {
+        "text": "randomly chooses a result",
+        "is_correct": false
+      },
+      {
+        "text": "measures area",
+        "is_correct": false
+      },
+      {
+        "text": "draws every shape",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each answer narrows the possible classification.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "A good classification algorithm should be:",
+    "answers": [
+      {
+        "text": "precise and reproducible",
+        "is_correct": true
+      },
+      {
+        "text": "ambiguous",
+        "is_correct": false
+      },
+      {
+        "text": "dependent on appearance only",
+        "is_correct": false
+      },
+      {
+        "text": "different each time",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The same input properties should produce the same output.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "Which question is too vague for a reliable shape algorithm?",
+    "answers": [
+      {
+        "text": "Does it look like a diamond?",
+        "is_correct": true
+      },
+      {
+        "text": "Are all four sides equal?",
+        "is_correct": false
+      },
+      {
+        "text": "Are all angles 90°?",
+        "is_correct": false
+      },
+      {
+        "text": "Does it have two pairs of parallel sides?",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Informal appearance is not a precise geometric condition.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "super-hard",
+    "question": "Which is a better algorithm condition than 'looks square'?",
+    "answers": [
+      {
+        "text": "four equal sides AND four right angles",
+        "is_correct": true
+      },
+      {
+        "text": "four sides only",
+        "is_correct": false
+      },
+      {
+        "text": "one right angle only",
+        "is_correct": false
+      },
+      {
+        "text": "two equal sides",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A square needs the defining side and angle properties.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "super-hard",
+    "question": "Why should algorithm branches cover all possible outcomes?",
+    "answers": [
+      {
+        "text": "So every valid input reaches a classification",
+        "is_correct": true
+      },
+      {
+        "text": "So the diagram is larger",
+        "is_correct": false
+      },
+      {
+        "text": "So answers can be random",
+        "is_correct": false
+      },
+      {
+        "text": "So shapes can change properties",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A complete algorithm must not leave valid cases unclassified.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "super-hard",
+    "question": "A triangle algorithm asks 'Are all sides equal?' then immediately outputs 'scalene' for NO. What is missing?",
+    "answers": [
+      {
+        "text": "a check for exactly two equal sides",
+        "is_correct": true
+      },
+      {
+        "text": "a concavity check",
+        "is_correct": false
+      },
+      {
+        "text": "a parallel-lines check",
+        "is_correct": false
+      },
+      {
+        "text": "a side-count step",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The NO branch still includes isosceles triangles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "super-hard",
+    "question": "A quadrilateral algorithm checks only whether all sides are equal. Why is this insufficient?",
+    "answers": [
+      {
+        "text": "It cannot distinguish rhombus from square without angle information",
+        "is_correct": true
+      },
+      {
+        "text": "It cannot identify any rhombus",
+        "is_correct": false
+      },
+      {
+        "text": "Squares have unequal sides",
+        "is_correct": false
+      },
+      {
+        "text": "Rectangles always have equal sides",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Right-angle information is needed to distinguish a square.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "super-hard",
+    "question": "A polygon algorithm checks only number of sides. What information remains unknown?",
+    "answers": [
+      {
+        "text": "regularity and concavity/convexity",
+        "is_correct": true
+      },
+      {
+        "text": "polygon name",
+        "is_correct": false
+      },
+      {
+        "text": "number of vertices",
+        "is_correct": false
+      },
+      {
+        "text": "whether it is a polygon",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Side count alone does not capture all requested properties.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "practice",
+    "skill": "ac9m7sp04",
+    "difficulty": "super-hard",
+    "question": "Which test best checks whether a classification algorithm works?",
+    "answers": [
+      {
+        "text": "run several boundary and contrasting examples through every branch",
+        "is_correct": true
+      },
+      {
+        "text": "test one square only",
+        "is_correct": false
+      },
+      {
+        "text": "read the title",
+        "is_correct": false
+      },
+      {
+        "text": "change the answers manually",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Good algorithms should be tested across representative cases.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-P-048"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
+    "question": "A triangle algorithm checks 'all sides equal?' then 'two sides equal?'. Why is this order efficient?",
+    "answers": [
+      {
+        "text": "It separates equilateral before the broader isosceles case",
+        "is_correct": true
+      },
+      {
+        "text": "It avoids checking sides",
+        "is_correct": false
+      },
+      {
+        "text": "It classifies angles first",
+        "is_correct": false
+      },
+      {
+        "text": "It makes every triangle scalene",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equilateral triangles also have at least two equal sides, so testing the more specific case first avoids ambiguity.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
+    "question": "A triangle has sides 7,7,7 and angles 60°,60°,60°. A complete algorithm should output:",
+    "answers": [
+      {
+        "text": "equilateral acute",
+        "is_correct": true
+      },
+      {
+        "text": "isosceles only",
+        "is_correct": false
+      },
+      {
+        "text": "scalene acute",
+        "is_correct": false
+      },
+      {
+        "text": "right equilateral",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It is equilateral by sides and acute by angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
+    "question": "A triangle has sides 5,5,8 and one 100° angle. The best combined output is:",
+    "answers": [
+      {
+        "text": "isosceles obtuse",
+        "is_correct": true
+      },
+      {
+        "text": "isosceles acute",
+        "is_correct": false
+      },
+      {
+        "text": "scalene obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "equilateral obtuse",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Two equal sides and one obtuse angle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "easy",
+    "question": "A student writes: IF one angle is 90° THEN right ELSE acute. What case is missing?",
+    "answers": [
+      {
+        "text": "obtuse",
+        "is_correct": true
+      },
+      {
+        "text": "equilateral",
+        "is_correct": false
+      },
+      {
+        "text": "isosceles",
+        "is_correct": false
+      },
+      {
+        "text": "scalene",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The ELSE branch wrongly groups obtuse triangles with acute triangles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A student writes: IF all sides equal THEN equilateral ELSE scalene. What case is missing?",
+    "answers": [
+      {
+        "text": "isosceles",
+        "is_correct": true
+      },
+      {
+        "text": "right",
+        "is_correct": false
+      },
+      {
+        "text": "obtuse",
+        "is_correct": false
+      },
+      {
+        "text": "acute",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Triangles with exactly two equal sides are not covered.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "Which decision tree is logically complete for side classification?",
+    "answers": [
+      {
+        "text": "all equal? yes→equilateral; no→two equal? yes→isosceles; no→scalene",
+        "is_correct": true
+      },
+      {
+        "text": "two equal? yes→scalene; no→equilateral",
+        "is_correct": false
+      },
+      {
+        "text": "all equal? no→equilateral",
+        "is_correct": false
+      },
+      {
+        "text": "count angles only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It partitions all possible side-equality cases.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A quadrilateral has two parallel pairs, all sides equal, but no right angles. A correct hierarchy outputs:",
+    "answers": [
+      {
+        "text": "rhombus",
+        "is_correct": true
+      },
+      {
+        "text": "square",
+        "is_correct": false
+      },
+      {
+        "text": "rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "trapezium",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It is a parallelogram refined by four equal sides, but not by right angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A quadrilateral has two parallel pairs and four right angles, but adjacent sides differ. Output:",
+    "answers": [
+      {
+        "text": "rectangle",
+        "is_correct": true
+      },
+      {
+        "text": "square",
+        "is_correct": false
+      },
+      {
+        "text": "rhombus",
+        "is_correct": false
+      },
+      {
+        "text": "kite",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Right angles make it a rectangle; unequal adjacent sides rule out square.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "A quadrilateral has two parallel pairs, four equal sides and four right angles. Which output is most specific?",
+    "answers": [
+      {
+        "text": "square",
+        "is_correct": true
+      },
+      {
+        "text": "parallelogram",
+        "is_correct": false
+      },
+      {
+        "text": "rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "rhombus",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Square is the most specific class satisfying all properties.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "medium",
+    "question": "Why should a hierarchy allow a square to pass through both rectangle and rhombus branches?",
+    "answers": [
+      {
+        "text": "Because square satisfies both sets of defining properties",
+        "is_correct": true
+      },
+      {
+        "text": "Because square has no unique properties",
+        "is_correct": false
+      },
+      {
+        "text": "Because all quadrilaterals do",
+        "is_correct": false
+      },
+      {
+        "text": "Because orientation changes its class",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Inclusive classification recognises overlapping subclasses.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "An algorithm checks parallel pairs first. It sees 0 pairs, then checks two pairs of adjacent equal sides. Why?",
+    "answers": [
+      {
+        "text": "To distinguish a kite from a general irregular quadrilateral",
+        "is_correct": true
+      },
+      {
+        "text": "To find a square",
+        "is_correct": false
+      },
+      {
+        "text": "To find a rectangle",
+        "is_correct": false
+      },
+      {
+        "text": "To test concavity only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With no parallel pairs, adjacent side equality can identify a kite in this scheme.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "Under the exclusive trapezium convention used in this unit, which branch should a shape with two parallel pairs follow?",
+    "answers": [
+      {
+        "text": "parallelogram",
+        "is_correct": true
+      },
+      {
+        "text": "trapezium",
+        "is_correct": false
+      },
+      {
+        "text": "kite",
+        "is_correct": false
+      },
+      {
+        "text": "irregular",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Exactly one pair is reserved for trapezium; two pairs lead to parallelogram.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "A square is misclassified as rectangle and the algorithm stops. What improvement is best?",
+    "answers": [
+      {
+        "text": "After rectangle, test whether all sides are equal",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the right-angle test",
+        "is_correct": false
+      },
+      {
+        "text": "Check concavity",
+        "is_correct": false
+      },
+      {
+        "text": "Count sides again",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A further side-equality check refines rectangle to square.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "hard",
+    "question": "A rhombus is misclassified as square. Which likely test is faulty?",
+    "answers": [
+      {
+        "text": "The algorithm assumed equal sides imply right angles",
+        "is_correct": true
+      },
+      {
+        "text": "It counted four sides",
+        "is_correct": false
+      },
+      {
+        "text": "It checked parallelism",
+        "is_correct": false
+      },
+      {
+        "text": "It checked equal sides",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal sides alone do not guarantee right angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "super-hard",
+    "question": "A polygon has 7 sides, unequal sides/angles, all interior angles below 180°. Output:",
+    "answers": [
+      {
+        "text": "irregular convex heptagon",
+        "is_correct": true
+      },
+      {
+        "text": "regular convex heptagon",
+        "is_correct": false
+      },
+      {
+        "text": "irregular concave heptagon",
+        "is_correct": false
+      },
+      {
+        "text": "regular concave heptagon",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Seven sides gives heptagon; unequal measures give irregular; all angles below 180° gives convex.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP04",
+    "bank": "test",
+    "skill": "ac9m7sp04",
+    "difficulty": "super-hard",
+    "question": "A polygon has 6 sides and one reflex interior angle. What can you conclude immediately?",
+    "answers": [
+      {
+        "text": "It is a concave hexagon",
+        "is_correct": true
+      },
+      {
+        "text": "It is regular",
+        "is_correct": false
+      },
+      {
+        "text": "It is convex",
+        "is_correct": false
+      },
+      {
+        "text": "It is a parallelogram",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Side count and reflex angle are sufficient for hexagon + concave.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP04-T-016"
   }
 ]

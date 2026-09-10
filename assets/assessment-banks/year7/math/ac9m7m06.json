@@ -1,613 +1,2050 @@
 [
   {
-    "id": "ac9m7m06-p-001",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
     "bank": "practice",
-    "skill": "formulate_a_site_model",
-    "question": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "Ratio 4:9 represents how many total parts?",
     "answers": [
       {
-        "text": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "13",
         "is_correct": true
       },
       {
-        "text": "Diagram not linked to calculations",
-        "is_correct": false
-      },
-      {
-        "text": "Label every used dimension",
-        "is_correct": false
-      },
-      {
-        "text": "Representation with proportional lengths",
+        "text": "36",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "hint": "Label every used dimension."
+      "summary": "Total parts are found by adding the ratio terms: 4 + 9 = 13.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M06-P-001"
   },
   {
-    "id": "ac9m7m06-p-002",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
     "bank": "practice",
-    "skill": "choose_formulas_and_units",
-    "question": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "In the ratio 2:7, what fraction of the whole is the first part?",
     "answers": [
       {
-        "text": "Area, perimeter and volume units mixed",
+        "text": "2/7",
         "is_correct": false
       },
       {
-        "text": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
+        "text": "2/9",
         "is_correct": true
       },
       {
-        "text": "Match attribute and formula",
+        "text": "7/9",
         "is_correct": false
       },
       {
-        "text": "Representation with proportional lengths",
+        "text": "7/2",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "hint": "Match attribute and formula."
+      "summary": "There are 9 total parts, so the first part is 2/9 of the whole.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M06-P-002"
   },
   {
-    "id": "ac9m7m06-p-003",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
     "bank": "practice",
-    "skill": "add_a_material_allowance",
-    "question": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "Simplify 12:3.",
     "answers": [
       {
-        "text": "Waste percentage added to a dimension rather than total material",
-        "is_correct": false
-      },
-      {
-        "text": "Apply it to the relevant quantity",
-        "is_correct": false
-      },
-      {
-        "text": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
+        "text": "4:1",
         "is_correct": true
       },
       {
-        "text": "Representation with proportional lengths",
+        "text": "3:1",
+        "is_correct": false
+      },
+      {
+        "text": "1:4",
+        "is_correct": false
+      },
+      {
+        "text": "12:1",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "hint": "Apply it to the relevant quantity."
+      "summary": "Divide both terms by 3 to get 4:1.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M06-P-003"
   },
   {
-    "id": "ac9m7m06-p-004",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
     "bank": "practice",
-    "skill": "check_scale_and_constraints",
-    "question": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "In the ratio 5:5, what fraction of the whole is the first part?",
     "answers": [
       {
-        "text": "Recommendation lacks alternatives",
-        "is_correct": false
-      },
-      {
-        "text": "Compare at least one feasible option",
-        "is_correct": false
-      },
-      {
-        "text": "Representation with proportional lengths",
-        "is_correct": false
-      },
-      {
-        "text": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
+        "text": "1/2",
         "is_correct": true
+      },
+      {
+        "text": "1/5",
+        "is_correct": false
+      },
+      {
+        "text": "5/10 only, not 1/2",
+        "is_correct": false
+      },
+      {
+        "text": "10/5",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
-      "hint": "Compare at least one feasible option."
+      "summary": "There are 10 total parts and 5 belong to the first part, so 5/10 = 1/2.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M06-P-004"
   },
   {
-    "id": "ac9m7m06-p-005",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
     "bank": "practice",
-    "skill": "justify_an_alternative",
-    "question": "Which statement correctly identifies allowance in measurement and geometry modelling?",
-    "audio_prompt": "Which statement correctly identifies allowance in measurement and geometry modelling?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "A:B = 3:2. What fraction of the whole is B?",
     "answers": [
       {
-        "text": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
+        "text": "2/3",
+        "is_correct": false
+      },
+      {
+        "text": "2/5",
         "is_correct": true
       },
       {
-        "text": "Diagram not linked to calculations",
+        "text": "3/5",
         "is_correct": false
       },
       {
-        "text": "Label every used dimension",
-        "is_correct": false
-      },
-      {
-        "text": "Representation with proportional lengths",
+        "text": "5/2",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "hint": "Label every used dimension."
+      "summary": "There are 5 total parts and B has 2 of them, so B is 2/5.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M06-P-005"
   },
   {
-    "id": "ac9m7m06-p-006",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
     "bank": "practice",
-    "skill": "formulate_a_site_model",
-    "question": "Which choice best describes geometric constraint in measurement and geometry modelling?",
-    "audio_prompt": "Which choice best describes geometric constraint in measurement and geometry modelling?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "Simplify 9:6.",
     "answers": [
       {
-        "text": "Area, perimeter and volume units mixed",
-        "is_correct": false
-      },
-      {
-        "text": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
+        "text": "3:2",
         "is_correct": true
       },
       {
-        "text": "Match attribute and formula",
+        "text": "2:3",
         "is_correct": false
       },
       {
-        "text": "Representation with proportional lengths",
+        "text": "9:3",
+        "is_correct": false
+      },
+      {
+        "text": "6:9",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "hint": "Match attribute and formula."
+      "summary": "Divide both terms by 3 to get 3:2.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M06-P-006"
   },
   {
-    "id": "ac9m7m06-p-007",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
     "bank": "practice",
-    "skill": "choose_formulas_and_units",
-    "question": "What does correct use require for scale drawing in measurement and geometry modelling?",
-    "audio_prompt": "What does correct use require for scale drawing in measurement and geometry modelling?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "In the ratio 7:1, what fraction of the whole is the larger part?",
     "answers": [
       {
-        "text": "Waste percentage added to a dimension rather than total material",
-        "is_correct": false
-      },
-      {
-        "text": "Apply it to the relevant quantity",
-        "is_correct": false
-      },
-      {
-        "text": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
+        "text": "7/8",
         "is_correct": true
       },
       {
-        "text": "Representation with proportional lengths",
+        "text": "1/8",
+        "is_correct": false
+      },
+      {
+        "text": "7/1",
+        "is_correct": false
+      },
+      {
+        "text": "1/7",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "hint": "Apply it to the relevant quantity."
+      "summary": "There are 8 total parts and the larger part has 7, so it is 7/8.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M06-P-007"
   },
   {
-    "id": "ac9m7m06-p-008",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
     "bank": "practice",
-    "skill": "add_a_material_allowance",
-    "question": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving add a material allowance. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "Simplify 15:10.",
     "answers": [
       {
-        "text": "Recommendation lacks alternatives",
-        "is_correct": false
-      },
-      {
-        "text": "Compare at least one feasible option",
-        "is_correct": false
-      },
-      {
-        "text": "Representation with proportional lengths",
-        "is_correct": false
-      },
-      {
-        "text": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
+        "text": "3:2",
         "is_correct": true
+      },
+      {
+        "text": "2:3",
+        "is_correct": false
+      },
+      {
+        "text": "5:10",
+        "is_correct": false
+      },
+      {
+        "text": "15:5",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
-      "hint": "Compare at least one feasible option."
+      "summary": "Divide both terms by 5 to get 3:2.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M06-P-008"
   },
   {
-    "id": "ac9m7m06-t-001",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "check_scale_and_constraints",
-    "question": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving check scale and constraints. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "In the ratio 4:1, what fraction of the whole is the second part?",
     "answers": [
       {
-        "text": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "1/5",
         "is_correct": true
       },
       {
-        "text": "Diagram not linked to calculations",
+        "text": "4/5",
         "is_correct": false
       },
       {
-        "text": "Label every used dimension",
-        "is_correct": false
-      },
-      {
-        "text": "Representation with proportional lengths",
+        "text": "5/4",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "hint": "Label every used dimension."
-    }
+      "summary": "There are 5 total parts and the second part has 1, so it is 1/5.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-009"
   },
   {
-    "id": "ac9m7m06-t-002",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "justify_an_alternative",
-    "question": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "Simplify 2:8.",
     "answers": [
       {
-        "text": "Area, perimeter and volume units mixed",
-        "is_correct": false
-      },
-      {
-        "text": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
+        "text": "1:4",
         "is_correct": true
       },
       {
-        "text": "Match attribute and formula",
+        "text": "4:1",
         "is_correct": false
       },
       {
-        "text": "Representation with proportional lengths",
+        "text": "2:4",
+        "is_correct": false
+      },
+      {
+        "text": "8:2",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "hint": "Match attribute and formula."
-    }
+      "summary": "Divide both terms by 2 to get 1:4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-010"
   },
   {
-    "id": "ac9m7m06-t-003",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "formulate_a_site_model",
-    "question": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "A class has boys:girls = 3:4. What fraction of the class are girls?",
     "answers": [
       {
-        "text": "Waste percentage added to a dimension rather than total material",
+        "text": "3/7",
         "is_correct": false
       },
       {
-        "text": "Apply it to the relevant quantity",
-        "is_correct": false
-      },
-      {
-        "text": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
+        "text": "4/7",
         "is_correct": true
       },
       {
-        "text": "Representation with proportional lengths",
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "7/3",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "hint": "Apply it to the relevant quantity."
-    }
+      "summary": "There are 7 total parts and 4 are girls, so the fraction is 4/7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-011"
   },
   {
-    "id": "ac9m7m06-t-004",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "choose_formulas_and_units",
-    "question": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving choose formulas and units. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "A mixture has red:blue = 5:1. What fraction of the mixture is red?",
     "answers": [
       {
-        "text": "Recommendation lacks alternatives",
+        "text": "1/6",
         "is_correct": false
       },
       {
-        "text": "Compare at least one feasible option",
-        "is_correct": false
-      },
-      {
-        "text": "Representation with proportional lengths",
-        "is_correct": false
-      },
-      {
-        "text": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
+        "text": "5/6",
         "is_correct": true
+      },
+      {
+        "text": "1/5",
+        "is_correct": false
+      },
+      {
+        "text": "6/5",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
-      "hint": "Compare at least one feasible option."
-    }
+      "summary": "There are 6 total parts and 5 are red, so the fraction is 5/6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-012"
   },
   {
-    "id": "ac9m7m06-t-005",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "add_a_material_allowance",
-    "question": "What should be checked when applying add a material allowance in measurement and geometry modelling?",
-    "audio_prompt": "What should be checked when applying add a material allowance in measurement and geometry modelling?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "Concrete uses cement:sand:gravel = 1:2:3. How many total parts are in the ratio?",
     "answers": [
       {
-        "text": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "6",
         "is_correct": true
       },
       {
-        "text": "Diagram not linked to calculations",
-        "is_correct": false
-      },
-      {
-        "text": "Label every used dimension",
-        "is_correct": false
-      },
-      {
-        "text": "Representation with proportional lengths",
+        "text": "7",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "A 20 m² bed with 8% allowance needs 21.6 m² of material",
-      "hint": "Label every used dimension."
-    }
+      "summary": "1 + 2 + 3 = 6 total parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-013"
   },
   {
-    "id": "ac9m7m06-t-006",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "check_scale_and_constraints",
-    "question": "Which response best uses check scale and constraints in measurement and geometry modelling?",
-    "audio_prompt": "Which response best uses check scale and constraints in measurement and geometry modelling?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A 1:2:3 concrete mix has a total mass of 30 kg. How much cement is needed?",
     "answers": [
       {
-        "text": "Area, perimeter and volume units mixed",
-        "is_correct": false
-      },
-      {
-        "text": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
+        "text": "5 kg",
         "is_correct": true
       },
       {
-        "text": "Match attribute and formula",
+        "text": "10 kg",
         "is_correct": false
       },
       {
-        "text": "Representation with proportional lengths",
+        "text": "15 kg",
+        "is_correct": false
+      },
+      {
+        "text": "20 kg",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Diagrams and formulas must correspond to actual dimensions. Include waste, access, budget, scale and unit constraints where relevant.",
-      "hint": "Match attribute and formula."
-    }
+      "summary": "One part is 30 ÷ 6 = 5 kg, so cement is 5 kg.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-014"
   },
   {
-    "id": "ac9m7m06-t-007",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "justify_an_alternative",
-    "question": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving justify an alternative. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "Salad dressing uses oil:vinegar = 3:1. If the total volume is 200 mL, how much vinegar is used?",
     "answers": [
       {
-        "text": "Waste percentage added to a dimension rather than total material",
+        "text": "25 mL",
         "is_correct": false
       },
       {
-        "text": "Apply it to the relevant quantity",
-        "is_correct": false
-      },
-      {
-        "text": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
+        "text": "50 mL",
         "is_correct": true
       },
       {
-        "text": "Representation with proportional lengths",
+        "text": "75 mL",
+        "is_correct": false
+      },
+      {
+        "text": "100 mL",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Digital drawing or spreadsheets can compare options, but measurements, formulas and assumptions must remain transparent.",
-      "hint": "Apply it to the relevant quantity."
-    }
+      "summary": "There are 4 parts, so one part is 200 ÷ 4 = 50 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-015"
   },
   {
-    "id": "ac9m7m06-t-008",
-    "curriculum_code": "AC9M7M06",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "formulate_a_site_model",
-    "question": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving formulate a site model. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A dye mix uses red:yellow = 4:1. If the total is 250 mL, how much red dye is used?",
     "answers": [
       {
-        "text": "Recommendation lacks alternatives",
+        "text": "50 mL",
         "is_correct": false
       },
       {
-        "text": "Compare at least one feasible option",
+        "text": "100 mL",
         "is_correct": false
       },
       {
-        "text": "Representation with proportional lengths",
+        "text": "200 mL",
+        "is_correct": true
+      },
+      {
+        "text": "250 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "One part is 50 mL, so red is 4 × 50 = 200 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A recipe uses sugar:flour = 2:3. If flour is 600 g, how much sugar is needed?",
+    "answers": [
+      {
+        "text": "200 g",
         "is_correct": false
       },
       {
-        "text": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
+        "text": "300 g",
+        "is_correct": false
+      },
+      {
+        "text": "400 g",
+        "is_correct": true
+      },
+      {
+        "text": "500 g",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Three parts equal 600 g, so one part is 200 g and sugar is 400 g.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A rectangle is designed in the ratio short:long = 1:1.618. If the short side is 10 cm, what is the long side?",
+    "answers": [
+      {
+        "text": "12 cm",
+        "is_correct": false
+      },
+      {
+        "text": "14 cm",
+        "is_correct": false
+      },
+      {
+        "text": "16.18 cm",
+        "is_correct": true
+      },
+      {
+        "text": "18 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "10 × 1.618 = 16.18 cm.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A drink uses juice:water = 1:4. If the total is 500 mL, how much water is used?",
+    "answers": [
+      {
+        "text": "100 mL",
+        "is_correct": false
+      },
+      {
+        "text": "200 mL",
+        "is_correct": false
+      },
+      {
+        "text": "400 mL",
+        "is_correct": true
+      },
+      {
+        "text": "450 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 5 parts; one part is 100 mL, so water is 400 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "Sand:gravel = 2:5. If gravel is 20 kg, how much sand is needed?",
+    "answers": [
+      {
+        "text": "4 kg",
+        "is_correct": false
+      },
+      {
+        "text": "8 kg",
+        "is_correct": true
+      },
+      {
+        "text": "10 kg",
+        "is_correct": false
+      },
+      {
+        "text": "12 kg",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Five parts equal 20 kg, so one part is 4 kg and sand is 8 kg.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "Cocoa:sugar = 1:3. If sugar is 150 g, how much cocoa is needed?",
+    "answers": [
+      {
+        "text": "25 g",
+        "is_correct": false
+      },
+      {
+        "text": "50 g",
+        "is_correct": true
+      },
+      {
+        "text": "75 g",
+        "is_correct": false
+      },
+      {
+        "text": "100 g",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Three parts equal 150 g, so one part is 50 g.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "Blue:white paint = 2:3. If the total is 250 mL, how much blue paint is needed?",
+    "answers": [
+      {
+        "text": "50 mL",
+        "is_correct": false
+      },
+      {
+        "text": "75 mL",
+        "is_correct": false
+      },
+      {
+        "text": "100 mL",
+        "is_correct": true
+      },
+      {
+        "text": "150 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 5 parts; one part is 50 mL, so blue is 100 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A bar model has 6 equal blocks for A and 2 for B. What is the simplest ratio A:B?",
+    "answers": [
+      {
+        "text": "6:2",
+        "is_correct": false
+      },
+      {
+        "text": "3:1",
+        "is_correct": true
+      },
+      {
+        "text": "1:3",
+        "is_correct": false
+      },
+      {
+        "text": "2:6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "6:2 simplifies by dividing both terms by 2, giving 3:1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A diagram has 2 shaded parts and 3 unshaded parts. What is shaded:unshaded?",
+    "answers": [
+      {
+        "text": "2:3",
+        "is_correct": true
+      },
+      {
+        "text": "3:2",
+        "is_correct": false
+      },
+      {
+        "text": "2:5",
+        "is_correct": false
+      },
+      {
+        "text": "5:2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The diagram directly shows 2 shaded for every 3 unshaded parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A strip has 8 equal parts, with 3 shaded. What fraction is shaded?",
+    "answers": [
+      {
+        "text": "3/8",
+        "is_correct": true
+      },
+      {
+        "text": "5/8",
+        "is_correct": false
+      },
+      {
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "8/3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Three of the 8 equal parts are shaded, so the fraction is 3/8.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A pie model shows 1/4 shaded. What is the ratio shaded:unshaded?",
+    "answers": [
+      {
+        "text": "1:3",
+        "is_correct": true
+      },
+      {
+        "text": "3:1",
+        "is_correct": false
+      },
+      {
+        "text": "1:4",
+        "is_correct": false
+      },
+      {
+        "text": "4:1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "If 1/4 is shaded, 3/4 is unshaded, giving 1:3.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A colour model uses 2 yellow counters and 6 red counters. What is the simplest ratio red:yellow?",
+    "answers": [
+      {
+        "text": "1:3",
+        "is_correct": false
+      },
+      {
+        "text": "2:6",
+        "is_correct": false
+      },
+      {
+        "text": "3:1",
+        "is_correct": true
+      },
+      {
+        "text": "6:1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Red:yellow is 6:2, which simplifies to 3:1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A bar model shows 10 equal blocks, 4 shaded. What is the simplest ratio shaded:unshaded?",
+    "answers": [
+      {
+        "text": "4:10",
+        "is_correct": false
+      },
+      {
+        "text": "4:6",
+        "is_correct": false
+      },
+      {
+        "text": "2:3",
+        "is_correct": true
+      },
+      {
+        "text": "3:2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 4 shaded and 6 unshaded blocks; 4:6 simplifies to 2:3.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A colour mix uses red:yellow = 1:5 and totals 180 mL. How much red is needed?",
+    "answers": [
+      {
+        "text": "20 mL",
+        "is_correct": false
+      },
+      {
+        "text": "30 mL",
+        "is_correct": true
+      },
+      {
+        "text": "36 mL",
+        "is_correct": false
+      },
+      {
+        "text": "45 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 6 parts, so each part is 30 mL; red is 30 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A 12-part strip has 9 shaded parts. What fraction is shaded in simplest form?",
+    "answers": [
+      {
+        "text": "9/12",
+        "is_correct": false
+      },
+      {
+        "text": "3/4",
+        "is_correct": true
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "4/3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "9/12 simplifies by dividing by 3 to 3/4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "A concrete mix uses 1:2:4 and totals 56 kg. How much cement is required?",
+    "answers": [
+      {
+        "text": "7 kg",
+        "is_correct": false
+      },
+      {
+        "text": "8 kg",
+        "is_correct": true
+      },
+      {
+        "text": "10 kg",
+        "is_correct": false
+      },
+      {
+        "text": "14 kg",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 7 total parts, so one part is 56 ÷ 7 = 8 kg.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "Oil:vinegar = 5:2. If the total dressing is 210 mL, how much vinegar is used?",
+    "answers": [
+      {
+        "text": "30 mL",
+        "is_correct": false
+      },
+      {
+        "text": "42 mL",
+        "is_correct": false
+      },
+      {
+        "text": "60 mL",
+        "is_correct": true
+      },
+      {
+        "text": "70 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 7 parts; one part is 30 mL, so vinegar is 60 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "Blue:red dye = 3:1. If red is 40 mL, how much blue is used?",
+    "answers": [
+      {
+        "text": "40 mL",
+        "is_correct": false
+      },
+      {
+        "text": "80 mL",
+        "is_correct": false
+      },
+      {
+        "text": "120 mL",
+        "is_correct": true
+      },
+      {
+        "text": "160 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "One part is 40 mL, so blue is 3 × 40 = 120 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "Sugar:flour = 1:4. If sugar is 50 g, how much flour is needed?",
+    "answers": [
+      {
+        "text": "100 g",
+        "is_correct": false
+      },
+      {
+        "text": "150 g",
+        "is_correct": false
+      },
+      {
+        "text": "200 g",
+        "is_correct": true
+      },
+      {
+        "text": "250 g",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "One part is 50 g, so flour is 4 × 50 = 200 g.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "A golden-ratio design has long side 32.36 cm and ratio short:long = 1:1.618. What is the short side?",
+    "answers": [
+      {
+        "text": "20 cm",
+        "is_correct": true
+      },
+      {
+        "text": "22 cm",
+        "is_correct": false
+      },
+      {
+        "text": "24 cm",
+        "is_correct": false
+      },
+      {
+        "text": "26 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "32.36 ÷ 1.618 = 20 cm.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "Syrup:water = 1:5. If the drink totals 360 mL, how much syrup is used?",
+    "answers": [
+      {
+        "text": "60 mL",
+        "is_correct": true
+      },
+      {
+        "text": "72 mL",
+        "is_correct": false
+      },
+      {
+        "text": "80 mL",
+        "is_correct": false
+      },
+      {
+        "text": "90 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 6 parts, so one part is 60 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "Gravel:sand = 7:3. If sand is 12 kg, how much gravel is needed?",
+    "answers": [
+      {
+        "text": "21 kg",
+        "is_correct": false
+      },
+      {
+        "text": "24 kg",
+        "is_correct": false
+      },
+      {
+        "text": "28 kg",
+        "is_correct": true
+      },
+      {
+        "text": "30 kg",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Three parts equal 12 kg, so one part is 4 kg and gravel is 28 kg.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "Cocoa:sugar = 2:5. If the mixture totals 350 g, how much cocoa is used?",
+    "answers": [
+      {
+        "text": "50 g",
+        "is_correct": false
+      },
+      {
+        "text": "70 g",
+        "is_correct": false
+      },
+      {
+        "text": "100 g",
+        "is_correct": true
+      },
+      {
+        "text": "140 g",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 7 parts; one part is 50 g, so cocoa is 100 g.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "White:black paint = 4:1. If the total is 250 mL, how much black paint is used?",
+    "answers": [
+      {
+        "text": "25 mL",
+        "is_correct": false
+      },
+      {
+        "text": "40 mL",
+        "is_correct": false
+      },
+      {
+        "text": "50 mL",
+        "is_correct": true
+      },
+      {
+        "text": "62.5 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 5 parts; one part is 50 mL, so black is 50 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "A student represents 3:2 using counters. Which model is correct?",
+    "answers": [
+      {
+        "text": "3 red and 2 blue counters",
+        "is_correct": true
+      },
+      {
+        "text": "2 red and 3 blue counters",
+        "is_correct": false
+      },
+      {
+        "text": "3 red and 5 blue counters",
+        "is_correct": false
+      },
+      {
+        "text": "5 red and 2 blue counters",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A ratio of 3:2 means 3 of the first type for every 2 of the second type.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "Which representation best shows a part-whole interpretation of 3:2?",
+    "answers": [
+      {
+        "text": "3/2",
+        "is_correct": false
+      },
+      {
+        "text": "3/5",
+        "is_correct": true
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      },
+      {
+        "text": "5/3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The whole has 3 + 2 = 5 parts, so the first part is 3/5.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "Why is a bar model useful for ratio problems?",
+    "answers": [
+      {
+        "text": "It shows equal-sized parts and how quantities compare",
+        "is_correct": true
+      },
+      {
+        "text": "It always gives the answer without calculation",
+        "is_correct": false
+      },
+      {
+        "text": "It replaces units",
+        "is_correct": false
+      },
+      {
+        "text": "It only works for fractions",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A bar model makes the equal parts and relative sizes visible.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "super-hard",
+    "question": "A recipe is doubled from a ratio 2:3. Which ratio keeps the same proportions?",
+    "answers": [
+      {
+        "text": "2:6",
+        "is_correct": false
+      },
+      {
+        "text": "4:6",
+        "is_correct": true
+      },
+      {
+        "text": "4:3",
+        "is_correct": false
+      },
+      {
+        "text": "3:4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Multiplying both terms by 2 gives the equivalent ratio 4:6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "super-hard",
+    "question": "Which pair of ratios is equivalent?",
+    "answers": [
+      {
+        "text": "3:5 and 6:10",
+        "is_correct": true
+      },
+      {
+        "text": "3:5 and 5:3",
+        "is_correct": false
+      },
+      {
+        "text": "2:7 and 4:7",
+        "is_correct": false
+      },
+      {
+        "text": "4:9 and 8:9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Multiplying both terms of 3:5 by 2 gives 6:10.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "super-hard",
+    "question": "A model uses 4 parts extract and 6 parts water. What percentage of the mixture is extract?",
+    "answers": [
+      {
+        "text": "40%",
+        "is_correct": true
+      },
+      {
+        "text": "60%",
+        "is_correct": false
+      },
+      {
+        "text": "66.7%",
+        "is_correct": false
+      },
+      {
+        "text": "25%",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Extract is 4 out of 10 total parts, which is 40%.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "super-hard",
+    "question": "A product formulation is scaled from 2:3 to a total of 25 L. How much belongs to the first part?",
+    "answers": [
+      {
+        "text": "5 L",
+        "is_correct": false
+      },
+      {
+        "text": "10 L",
+        "is_correct": true
+      },
+      {
+        "text": "15 L",
+        "is_correct": false
+      },
+      {
+        "text": "20 L",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 5 parts, so each part is 5 L and the first quantity is 10 L.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "super-hard",
+    "question": "Which statement best describes mathematical modelling with ratios?",
+    "answers": [
+      {
+        "text": "Choose a ratio, calculate quantities, interpret the result in context, and justify the representation",
+        "is_correct": true
+      },
+      {
+        "text": "Write any ratio and stop",
+        "is_correct": false
+      },
+      {
+        "text": "Use only a calculator",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore units if the ratio is correct",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A model must connect the ratio to the real situation, calculations and interpretation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "practice",
+    "skill": "ac9m7m06",
+    "difficulty": "super-hard",
+    "question": "When a ratio model gives 2.4 kg of an ingredient but the ingredient is sold only in whole-kilogram bags, what should you do?",
+    "answers": [
+      {
+        "text": "Buy 2 kg",
+        "is_correct": false
+      },
+      {
+        "text": "Buy 2.4 bags",
+        "is_correct": false
+      },
+      {
+        "text": "Buy 3 kg and explain the practical constraint",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore the result",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The mathematical result must be interpreted in context; whole bags require rounding up to 3 kg.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-P-048"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "A paint mix uses red:blue = 3:5. If 320 mL of paint is made, how much red paint is required?",
+    "answers": [
+      {
+        "text": "100 mL",
+        "is_correct": false
+      },
+      {
+        "text": "120 mL",
+        "is_correct": true
+      },
+      {
+        "text": "160 mL",
+        "is_correct": false
+      },
+      {
+        "text": "200 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 8 parts, so one part is 40 mL and red is 3 × 40 = 120 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "A recipe uses flour:sugar = 7:2. If 560 g of flour is used, how much sugar is needed?",
+    "answers": [
+      {
+        "text": "120 g",
+        "is_correct": false
+      },
+      {
+        "text": "140 g",
+        "is_correct": false
+      },
+      {
+        "text": "160 g",
+        "is_correct": true
+      },
+      {
+        "text": "180 g",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Seven parts equal 560 g, so one part is 80 g and sugar is 160 g.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "A concrete mix has cement:sand:gravel = 2:3:5 and totals 80 kg. How much gravel is used?",
+    "answers": [
+      {
+        "text": "24 kg",
+        "is_correct": false
+      },
+      {
+        "text": "32 kg",
+        "is_correct": false
+      },
+      {
+        "text": "40 kg",
+        "is_correct": true
+      },
+      {
+        "text": "48 kg",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 10 parts, so one part is 8 kg and gravel is 40 kg.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "easy",
+    "question": "A drink uses concentrate:water = 2:7. If 630 mL of water is used, what is the total volume?",
+    "answers": [
+      {
+        "text": "720 mL",
+        "is_correct": false
+      },
+      {
+        "text": "810 mL",
+        "is_correct": true
+      },
+      {
+        "text": "900 mL",
+        "is_correct": false
+      },
+      {
+        "text": "990 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Seven parts equal 630 mL, so one part is 90 mL; concentrate is 180 mL and total volume is 810 mL.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A ratio 5:3 is scaled so the first quantity becomes 45. What is the second quantity?",
+    "answers": [
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The scale factor is 45 ÷ 5 = 9, so the second quantity is 3 × 9 = 27.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "The ratio A:B is 4:7. If B is 21, what fraction of the whole is A?",
+    "answers": [
+      {
+        "text": "4/7",
+        "is_correct": false
+      },
+      {
+        "text": "4/11",
+        "is_correct": true
+      },
+      {
+        "text": "7/11",
+        "is_correct": false
+      },
+      {
+        "text": "12/21",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The part-whole fraction for A is 4/(4+7) = 4/11.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A mixture is 30% blue and the rest white. What is the simplest ratio blue:white?",
+    "answers": [
+      {
+        "text": "3:7",
+        "is_correct": true
+      },
+      {
+        "text": "3:10",
+        "is_correct": false
+      },
+      {
+        "text": "7:3",
+        "is_correct": false
+      },
+      {
+        "text": "30:100",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Blue:white = 30:70, which simplifies to 3:7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "A 2:5 ratio is represented by 42 counters in total. How many counters represent the larger part?",
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "30",
         "is_correct": true
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A geometric model selects dimensions, formulas, scale, constraints and assumptions needed for a practical design or decision.",
-      "hint": "Compare at least one feasible option."
-    }
+      "summary": "There are 7 parts, so each part is 6 counters and the larger part is 5 × 6 = 30.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "Which equation correctly models a 3:4 ratio with a total of 56?",
+    "answers": [
+      {
+        "text": "3x + 4x = 56",
+        "is_correct": true
+      },
+      {
+        "text": "3 + 4x = 56",
+        "is_correct": false
+      },
+      {
+        "text": "12x = 56",
+        "is_correct": false
+      },
+      {
+        "text": "3x = 4x + 56",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The two quantities are 3x and 4x, so their total is 7x = 56.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "medium",
+    "question": "For 3x + 4x = 56, what is x?",
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "7x = 56, so x = 8.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "A 1:1.618 design has a short side of 18 cm. Which is the best estimate for the long side?",
+    "answers": [
+      {
+        "text": "22.6 cm",
+        "is_correct": false
+      },
+      {
+        "text": "25.4 cm",
+        "is_correct": false
+      },
+      {
+        "text": "29.1 cm",
+        "is_correct": true
+      },
+      {
+        "text": "36 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "18 × 1.618 ≈ 29.1 cm.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "A designer wants the long side to be about 48.54 cm in a 1:1.618 ratio. What should the short side be?",
+    "answers": [
+      {
+        "text": "20 cm",
+        "is_correct": false
+      },
+      {
+        "text": "25 cm",
+        "is_correct": false
+      },
+      {
+        "text": "30 cm",
+        "is_correct": true
+      },
+      {
+        "text": "35 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "48.54 ÷ 1.618 = 30 cm.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "A model predicts 126 mL of dye, but measuring equipment is marked every 5 mL. Which practical amount is most reasonable?",
+    "answers": [
+      {
+        "text": "120 mL",
+        "is_correct": false
+      },
+      {
+        "text": "125 mL",
+        "is_correct": true
+      },
+      {
+        "text": "126 mL exactly",
+        "is_correct": false
+      },
+      {
+        "text": "130 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With 5 mL graduations, 125 mL is the closest practical measurement.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "hard",
+    "question": "A recipe is written as oil:vinegar = 4:1. A student uses 300 mL oil and 100 mL vinegar. What should they conclude?",
+    "answers": [
+      {
+        "text": "The mixture is correct",
+        "is_correct": false
+      },
+      {
+        "text": "The ratio used is 3:1, so it does not match 4:1",
+        "is_correct": true
+      },
+      {
+        "text": "The ratio used is 4:1",
+        "is_correct": false
+      },
+      {
+        "text": "The total must be 500 mL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "300:100 simplifies to 3:1, so the recipe proportion was not maintained.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "super-hard",
+    "question": "A mixture uses A:B:C = 2:3:5. Which fraction of the mixture is B?",
+    "answers": [
+      {
+        "text": "2/10",
+        "is_correct": false
+      },
+      {
+        "text": "3/10",
+        "is_correct": true
+      },
+      {
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "5/10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 10 total parts, and B has 3, so B is 3/10.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M06",
+    "bank": "test",
+    "skill": "ac9m7m06",
+    "difficulty": "super-hard",
+    "question": "A 2:3:5 mixture totals 1.5 kg. How much is the smallest component?",
+    "answers": [
+      {
+        "text": "0.15 kg",
+        "is_correct": false
+      },
+      {
+        "text": "0.30 kg",
+        "is_correct": true
+      },
+      {
+        "text": "0.45 kg",
+        "is_correct": false
+      },
+      {
+        "text": "0.75 kg",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "There are 10 parts, so one part is 0.15 kg; the smallest component is 2 parts = 0.30 kg.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M06-T-016"
   }
 ]

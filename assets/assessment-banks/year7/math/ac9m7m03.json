@@ -1,17 +1,780 @@
 [
   {
-    "id": "ac9m7m03-p-001",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
     "bank": "practice",
-    "skill": "find_c_from_radius",
-    "question": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "Which statement about the radius and diameter is always true?",
+    "answers": [
+      {
+        "text": "Radius is half the diameter",
+        "is_correct": true
+      },
+      {
+        "text": "Diameter is half the radius",
+        "is_correct": false
+      },
+      {
+        "text": "Radius is twice the diameter",
+        "is_correct": false
+      },
+      {
+        "text": "Radius equals circumference",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The diameter is twice the radius, so the radius is half the diameter.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7M03-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "The diameter of a circle is 18 cm. What is the radius?",
+    "answers": [
+      {
+        "text": "3 cm",
+        "is_correct": false
+      },
+      {
+        "text": "6 cm",
+        "is_correct": false
+      },
+      {
+        "text": "9 cm",
+        "is_correct": true
+      },
+      {
+        "text": "12 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Radius = diameter ÷ 2 = 18 ÷ 2 = 9 cm.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "Which feature of a circle is the distance around it?",
+    "answers": [
+      {
+        "text": "Radius",
+        "is_correct": false
+      },
+      {
+        "text": "Diameter",
+        "is_correct": false
+      },
+      {
+        "text": "Circumference",
+        "is_correct": true
+      },
+      {
+        "text": "Centre",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The circumference is the distance around a circle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "If the radius is 7 cm, what is the diameter?",
+    "answers": [
+      {
+        "text": "3.5 cm",
+        "is_correct": false
+      },
+      {
+        "text": "7 cm",
+        "is_correct": false
+      },
+      {
+        "text": "14 cm",
+        "is_correct": true
+      },
+      {
+        "text": "21 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Diameter = 2 × radius = 14 cm.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "Which pair shows correctly related circle features?",
+    "answers": [
+      {
+        "text": "Circumference = radius × 2",
+        "is_correct": false
+      },
+      {
+        "text": "Diameter = radius ÷ 2",
+        "is_correct": false
+      },
+      {
+        "text": "Radius = diameter ÷ 2",
+        "is_correct": true
+      },
+      {
+        "text": "Circumference = diameter ÷ 2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Radius is half the diameter.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "The centre of a circle is best described as:",
+    "answers": [
+      {
+        "text": "The point where the circumference begins",
+        "is_correct": false
+      },
+      {
+        "text": "The midpoint of the radius",
+        "is_correct": false
+      },
+      {
+        "text": "The point equidistant from all points on the circle",
+        "is_correct": true
+      },
+      {
+        "text": "The longest chord",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Every point on the circumference is the same distance from the centre.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "When comparing circles using string, the string wrapped once around a circle represents its:",
+    "answers": [
+      {
+        "text": "Radius",
+        "is_correct": false
+      },
+      {
+        "text": "Diameter",
+        "is_correct": false
+      },
+      {
+        "text": "Circumference",
+        "is_correct": true
+      },
+      {
+        "text": "Area",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A string wrapped once around the boundary measures the circumference.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "If two circles have different radii, the circle with the larger radius will always have:",
+    "answers": [
+      {
+        "text": "A smaller circumference",
+        "is_correct": false
+      },
+      {
+        "text": "A larger circumference",
+        "is_correct": true
+      },
+      {
+        "text": "The same circumference",
+        "is_correct": false
+      },
+      {
+        "text": "No circumference",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Because C = 2πr, circumference increases as radius increases.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "A student draws circles with radii 3 cm, 5 cm and 8 cm. Which circle has the greatest circumference?",
+    "answers": [
+      {
+        "text": "3 cm radius",
+        "is_correct": false
+      },
+      {
+        "text": "5 cm radius",
+        "is_correct": false
+      },
+      {
+        "text": "8 cm radius",
+        "is_correct": true
+      },
+      {
+        "text": "All have equal circumference",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The 8 cm radius is largest, so its circumference is largest.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "How does circumference change as radius increases?",
+    "answers": [
+      {
+        "text": "It increases linearly",
+        "is_correct": true
+      },
+      {
+        "text": "It increases quadratically",
+        "is_correct": false
+      },
+      {
+        "text": "It changes randomly",
+        "is_correct": false
+      },
+      {
+        "text": "It stays constant",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C = 2πr is a direct linear relationship between circumference and radius.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "If the diameter of a circle doubles, its circumference:",
+    "answers": [
+      {
+        "text": "Halves",
+        "is_correct": false
+      },
+      {
+        "text": "Doubles",
+        "is_correct": true
+      },
+      {
+        "text": "Triples",
+        "is_correct": false
+      },
+      {
+        "text": "Stays the same",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Since C = πd, doubling d doubles C.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "A circle has diameter 10 cm. Approximate its circumference using π ≈ 3.14.",
+    "answers": [
+      {
+        "text": "15.7 cm",
+        "is_correct": false
+      },
+      {
+        "text": "20 cm",
+        "is_correct": false
+      },
+      {
+        "text": "31.4 cm",
+        "is_correct": true
+      },
+      {
+        "text": "62.8 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C = πd = 3.14 × 10 = 31.4 cm.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "π represents the ratio between:",
+    "answers": [
+      {
+        "text": "Radius and area",
+        "is_correct": false
+      },
+      {
+        "text": "Circumference and diameter",
+        "is_correct": true
+      },
+      {
+        "text": "Diameter and radius",
+        "is_correct": false
+      },
+      {
+        "text": "Area and circumference",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "π = circumference ÷ diameter.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "Which value is a well-known Babylonian approximation of π?",
+    "answers": [
+      {
+        "text": "3.125",
+        "is_correct": true
+      },
+      {
+        "text": "3.5",
+        "is_correct": false
+      },
+      {
+        "text": "3.75",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A Babylonian approximation of π was 25/8 = 3.125.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "An ancient Egyptian approximation derived from the Rhind Mathematical Papyrus is closest to:",
+    "answers": [
+      {
+        "text": "3.00",
+        "is_correct": false
+      },
+      {
+        "text": "3.14",
+        "is_correct": false
+      },
+      {
+        "text": "3.16",
+        "is_correct": true
+      },
+      {
+        "text": "3.50",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The method gives a value close to 3.1605.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "Archimedes showed that π lies approximately:",
+    "answers": [
+      {
+        "text": "Between 2.9 and 3.0",
+        "is_correct": false
+      },
+      {
+        "text": "Between 3.1408 and 3.1429",
+        "is_correct": true
+      },
+      {
+        "text": "Between 3.4 and 3.5",
+        "is_correct": false
+      },
+      {
+        "text": "Exactly at 3.14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Archimedes bounded π between 223/71 and 22/7, approximately 3.1408 and 3.1429.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "Which statement about π is true?",
+    "answers": [
+      {
+        "text": "π changes for different circles",
+        "is_correct": false
+      },
+      {
+        "text": "π is constant for all circles",
+        "is_correct": true
+      },
+      {
+        "text": "π depends on the radius",
+        "is_correct": false
+      },
+      {
+        "text": "π depends on the diameter",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The ratio C ÷ d is the same for every circle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "Aryabhata's approximation of π was close to:",
+    "answers": [
+      {
+        "text": "3.14",
+        "is_correct": false
+      },
+      {
+        "text": "3.1416",
+        "is_correct": true
+      },
+      {
+        "text": "3.125",
+        "is_correct": false
+      },
+      {
+        "text": "3.1605",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Aryabhata gave an approximation close to 3.1416.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "In a circular woven design, which measurements can be used to describe its size accurately?",
+    "answers": [
+      {
+        "text": "Radius and centre only",
+        "is_correct": false
+      },
+      {
+        "text": "Radius, diameter and circumference",
+        "is_correct": true
+      },
+      {
+        "text": "Area only",
+        "is_correct": false
+      },
+      {
+        "text": "Angles only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Radius, diameter and circumference are all useful measurements of a circular form.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "Why is identifying the centre useful when constructing a circular design?",
+    "answers": [
+      {
+        "text": "It helps keep points on the boundary an equal distance from the middle",
+        "is_correct": true
+      },
+      {
+        "text": "It changes the value of π",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need for a radius",
+        "is_correct": false
+      },
+      {
+        "text": "It makes the diameter shorter",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A circle is defined by points that are all the same distance from its centre.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "For a circular shelter footprint, the radius is the distance:",
+    "answers": [
+      {
+        "text": "Around the outside edge",
+        "is_correct": false
+      },
+      {
+        "text": "Across the full circle without passing through the centre",
+        "is_correct": false
+      },
+      {
+        "text": "From the centre to the boundary",
+        "is_correct": true
+      },
+      {
+        "text": "From one corner to another",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Radius is the distance from the centre to the circumference.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "If you need to know the distance around a circular meeting area, which measurement do you need?",
+    "answers": [
+      {
+        "text": "Chord",
+        "is_correct": false
+      },
+      {
+        "text": "Tangent",
+        "is_correct": false
+      },
+      {
+        "text": "Circumference",
+        "is_correct": true
+      },
+      {
+        "text": "Sector",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Circumference is the distance around a circle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "In some First Nations Australian visual traditions, circles may be used to represent:",
+    "answers": [
+      {
+        "text": "Only mathematical formulas",
+        "is_correct": false
+      },
+      {
+        "text": "Meeting places or camps, depending on context",
+        "is_correct": true
+      },
+      {
+        "text": "Only weather patterns",
+        "is_correct": false
+      },
+      {
+        "text": "A universal symbol with one fixed meaning",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Meanings vary by community and context; circles can represent meeting places or camps in some visual traditions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "If the radius of a circular woven mat increases while its shape remains circular, what happens to its circumference?",
+    "answers": [
+      {
+        "text": "It decreases",
+        "is_correct": false
+      },
+      {
+        "text": "It increases",
+        "is_correct": true
+      },
+      {
+        "text": "It stays constant",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes zero",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C = 2πr, so a larger radius gives a larger circumference.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
     "answers": [
       {
         "text": "For r=5 cm, C=2πr≈31.4 cm",
@@ -30,27 +793,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "For r=5 cm, C=2πr≈31.4 cm",
-      "hint": "Label centre and endpoints."
+      "summary": "For r=5 cm, C=2πr≈31.4 cm\nHint: Label centre and endpoints.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M03-P-025"
   },
   {
-    "id": "ac9m7m03-p-002",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
     "bank": "practice",
-    "skill": "find_radius_from_diameter",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
     "question": "A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Π treated as an area unit",
@@ -69,27 +825,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
-      "hint": "It is a dimensionless ratio."
+      "summary": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.\nHint: It is a dimensionless ratio.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M03-P-026"
   },
   {
-    "id": "ac9m7m03-p-003",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
     "bank": "practice",
-    "skill": "estimate_wheel_travel",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
     "question": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Circumference written in square units",
@@ -108,27 +857,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
-      "hint": "Use linear units."
+      "summary": "Circumference is a length. Preserve full calculator precision until the requested rounding step.\nHint: Use linear units.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M03-P-027"
   },
   {
-    "id": "ac9m7m03-p-004",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
     "bank": "practice",
-    "skill": "explain_as_ratio",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
     "question": "A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Early rounding of π",
@@ -147,27 +889,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
-      "hint": "Round final result as requested."
+      "summary": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.\nHint: Round final result as requested.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7M03-P-028"
   },
   {
-    "id": "ac9m7m03-p-005",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
     "bank": "practice",
-    "skill": "use_correct_units_and_accuracy",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
     "question": "Which statement correctly identifies diameter in circle features and circumference?",
-    "audio_prompt": "Which statement correctly identifies diameter in circle features and circumference?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "For r=5 cm, C=2πr≈31.4 cm",
@@ -186,28 +921,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "For r=5 cm, C=2πr≈31.4 cm",
-      "hint": "Label centre and endpoints."
+      "summary": "For r=5 cm, C=2πr≈31.4 cm\nHint: Label centre and endpoints.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M03-P-029"
   },
   {
-    "id": "ac9m7m03-p-006",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
     "bank": "practice",
-    "skill": "find_c_from_radius",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
     "question": "Which choice best describes circumference in circle features and circumference?",
-    "audio_prompt": "Which choice best describes circumference in circle features and circumference?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Π treated as an area unit",
@@ -226,28 +953,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
-      "hint": "It is a dimensionless ratio."
+      "summary": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.\nHint: It is a dimensionless ratio.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M03-P-030"
   },
   {
-    "id": "ac9m7m03-p-007",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
     "bank": "practice",
-    "skill": "find_radius_from_diameter",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
     "question": "What does correct use require for radius in circle features and circumference?",
-    "audio_prompt": "What does correct use require for radius in circle features and circumference?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Circumference written in square units",
@@ -266,348 +985,1066 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
-      "hint": "Use linear units."
+      "summary": "Circumference is a length. Preserve full calculator precision until the requested rounding step.\nHint: Use linear units.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M03-P-031"
   },
   {
-    "id": "ac9m7m03-p-008",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
     "bank": "practice",
-    "skill": "estimate_wheel_travel",
-    "question": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving estimate wheel travel. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Circumference 1: A circle has radius 3 cm. Find its circumference in terms of π.",
     "answers": [
       {
-        "text": "Early rounding of π",
-        "is_correct": false
-      },
-      {
-        "text": "Round final result as requested",
-        "is_correct": false
-      },
-      {
-        "text": "Distance from circle centre to circumference",
-        "is_correct": false
-      },
-      {
-        "text": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
+        "text": "6π cm",
         "is_correct": true
+      },
+      {
+        "text": "3π cm",
+        "is_correct": false
+      },
+      {
+        "text": "9π cm",
+        "is_correct": false
+      },
+      {
+        "text": "12π cm",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
-      "hint": "Round final result as requested."
+      "summary": "C=2πr, so substitute r=3.",
+      "hint": "Circumference is a length around the circle."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M03-P-032"
   },
   {
-    "id": "ac9m7m03-t-001",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "explain_as_ratio",
-    "question": "A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving explain as ratio. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Inverse 2: A circle has circumference 8π cm. Find its radius.",
     "answers": [
       {
-        "text": "For r=5 cm, C=2πr≈31.4 cm",
+        "text": "4 cm",
         "is_correct": true
       },
       {
-        "text": "Radius and diameter interchanged",
+        "text": "8 cm",
         "is_correct": false
       },
       {
-        "text": "Label centre and endpoints",
+        "text": "16 cm",
         "is_correct": false
       },
       {
-        "text": "Distance from circle centre to circumference",
+        "text": "π cm",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "For r=5 cm, C=2πr≈31.4 cm",
-      "hint": "Label centre and endpoints."
-    }
+      "summary": "From C=2πr, divide by 2π.",
+      "hint": "Undo the multiplication by 2π."
+    },
+    "id": "AC9M7M03-P-033"
   },
   {
-    "id": "ac9m7m03-t-002",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "use_correct_units_and_accuracy",
-    "question": "A Year 7 student is solving a problem involving use correct units and accuracy. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving use correct units and accuracy. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Relationship 3: If a circle's diameter doubles, what happens to its circumference?",
     "answers": [
       {
-        "text": "Π treated as an area unit",
-        "is_correct": false
-      },
-      {
-        "text": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
+        "text": "It doubles.",
         "is_correct": true
       },
       {
-        "text": "It is a dimensionless ratio",
+        "text": "It quadruples.",
         "is_correct": false
       },
       {
-        "text": "Distance from circle centre to circumference",
+        "text": "It halves.",
+        "is_correct": false
+      },
+      {
+        "text": "It stays the same.",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
-      "hint": "It is a dimensionless ratio."
-    }
+      "summary": "C=πd shows circumference is directly proportional to diameter.",
+      "hint": "Compare C=πd before and after."
+    },
+    "id": "AC9M7M03-P-034"
   },
   {
-    "id": "ac9m7m03-t-003",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "find_c_from_radius",
-    "question": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Circumference 4: A circle has radius 6 cm. Find its circumference in terms of π.",
     "answers": [
       {
-        "text": "Circumference written in square units",
-        "is_correct": false
-      },
-      {
-        "text": "Use linear units",
-        "is_correct": false
-      },
-      {
-        "text": "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
+        "text": "12π cm",
         "is_correct": true
       },
       {
-        "text": "Distance from circle centre to circumference",
+        "text": "6π cm",
+        "is_correct": false
+      },
+      {
+        "text": "36π cm",
+        "is_correct": false
+      },
+      {
+        "text": "24π cm",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
-      "hint": "Use linear units."
-    }
+      "summary": "C=2πr, so substitute r=6.",
+      "hint": "Circumference is a length around the circle."
+    },
+    "id": "AC9M7M03-P-035"
   },
   {
-    "id": "ac9m7m03-t-004",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "find_radius_from_diameter",
-    "question": "A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find radius from diameter. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Inverse 5: A circle has circumference 14π cm. Find its radius.",
     "answers": [
       {
-        "text": "Early rounding of π",
-        "is_correct": false
-      },
-      {
-        "text": "Round final result as requested",
-        "is_correct": false
-      },
-      {
-        "text": "Distance from circle centre to circumference",
-        "is_correct": false
-      },
-      {
-        "text": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
+        "text": "7 cm",
         "is_correct": true
+      },
+      {
+        "text": "14 cm",
+        "is_correct": false
+      },
+      {
+        "text": "49 cm",
+        "is_correct": false
+      },
+      {
+        "text": "π cm",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
-      "hint": "Round final result as requested."
-    }
+      "summary": "From C=2πr, divide by 2π.",
+      "hint": "Undo the multiplication by 2π."
+    },
+    "id": "AC9M7M03-P-036"
   },
   {
-    "id": "ac9m7m03-t-005",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "estimate_wheel_travel",
-    "question": "What should be checked when applying estimate wheel travel in circle features and circumference?",
-    "audio_prompt": "What should be checked when applying estimate wheel travel in circle features and circumference?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Relationship 6: If a circle's diameter doubles, what happens to its circumference?",
     "answers": [
       {
-        "text": "For r=5 cm, C=2πr≈31.4 cm",
+        "text": "It doubles.",
         "is_correct": true
       },
       {
-        "text": "Radius and diameter interchanged",
+        "text": "It quadruples.",
         "is_correct": false
       },
       {
-        "text": "Label centre and endpoints",
+        "text": "It halves.",
         "is_correct": false
       },
       {
-        "text": "Distance from circle centre to circumference",
+        "text": "It stays the same.",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "For r=5 cm, C=2πr≈31.4 cm",
-      "hint": "Label centre and endpoints."
-    }
+      "summary": "C=πd shows circumference is directly proportional to diameter.",
+      "hint": "Compare C=πd before and after."
+    },
+    "id": "AC9M7M03-P-037"
   },
   {
-    "id": "ac9m7m03-t-006",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "explain_as_ratio",
-    "question": "Which response best uses explain π as ratio in circle features and circumference?",
-    "audio_prompt": "Which response best uses explain π as ratio in circle features and circumference?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Circumference 7: A circle has radius 9 cm. Find its circumference in terms of π.",
     "answers": [
       {
-        "text": "Π treated as an area unit",
-        "is_correct": false
-      },
-      {
-        "text": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
+        "text": "18π cm",
         "is_correct": true
       },
       {
-        "text": "It is a dimensionless ratio",
+        "text": "9π cm",
         "is_correct": false
       },
       {
-        "text": "Distance from circle centre to circumference",
+        "text": "81π cm",
+        "is_correct": false
+      },
+      {
+        "text": "36π cm",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "π is a ratio, not exactly 3.14. Use a suitable approximation and state the degree of accuracy.",
-      "hint": "It is a dimensionless ratio."
-    }
+      "summary": "C=2πr, so substitute r=9.",
+      "hint": "Circumference is a length around the circle."
+    },
+    "id": "AC9M7M03-P-038"
   },
   {
-    "id": "ac9m7m03-t-007",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "use_correct_units_and_accuracy",
-    "question": "A Year 7 student is solving a problem involving use correct units and accuracy. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving use correct units and accuracy. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Inverse 8: A circle has circumference 20π cm. Find its radius.",
     "answers": [
       {
-        "text": "Circumference written in square units",
-        "is_correct": false
-      },
-      {
-        "text": "Use linear units",
-        "is_correct": false
-      },
-      {
-        "text": "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
+        "text": "10 cm",
         "is_correct": true
       },
       {
-        "text": "Distance from circle centre to circumference",
+        "text": "20 cm",
+        "is_correct": false
+      },
+      {
+        "text": "100 cm",
+        "is_correct": false
+      },
+      {
+        "text": "π cm",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Circumference is a length. Preserve full calculator precision until the requested rounding step.",
-      "hint": "Use linear units."
-    }
+      "summary": "From C=2πr, divide by 2π.",
+      "hint": "Undo the multiplication by 2π."
+    },
+    "id": "AC9M7M03-P-039"
   },
   {
-    "id": "ac9m7m03-t-008",
-    "curriculum_code": "AC9M7M03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "find_c_from_radius",
-    "question": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find c from radius. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Relationship 9: If a circle's diameter doubles, what happens to its circumference?",
     "answers": [
       {
-        "text": "Early rounding of π",
+        "text": "It doubles.",
+        "is_correct": true
+      },
+      {
+        "text": "It quadruples.",
         "is_correct": false
       },
       {
-        "text": "Round final result as requested",
+        "text": "It halves.",
         "is_correct": false
       },
       {
-        "text": "Distance from circle centre to circumference",
+        "text": "It stays the same.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C=πd shows circumference is directly proportional to diameter.",
+      "hint": "Compare C=πd before and after."
+    },
+    "id": "AC9M7M03-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Circumference 10: A circle has radius 12 cm. Find its circumference in terms of π.",
+    "answers": [
+      {
+        "text": "24π cm",
+        "is_correct": true
+      },
+      {
+        "text": "12π cm",
         "is_correct": false
       },
       {
-        "text": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
+        "text": "144π cm",
+        "is_correct": false
+      },
+      {
+        "text": "48π cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C=2πr, so substitute r=12.",
+      "hint": "Circumference is a length around the circle."
+    },
+    "id": "AC9M7M03-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Inverse 11: A circle has circumference 6π cm. Find its radius.",
+    "answers": [
+      {
+        "text": "3 cm",
+        "is_correct": true
+      },
+      {
+        "text": "6 cm",
+        "is_correct": false
+      },
+      {
+        "text": "9 cm",
+        "is_correct": false
+      },
+      {
+        "text": "π cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "From C=2πr, divide by 2π.",
+      "hint": "Undo the multiplication by 2π."
+    },
+    "id": "AC9M7M03-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "super-hard",
+    "question": "Relationship 12: If a circle's diameter doubles, what happens to its circumference?",
+    "answers": [
+      {
+        "text": "It doubles.",
+        "is_correct": true
+      },
+      {
+        "text": "It quadruples.",
+        "is_correct": false
+      },
+      {
+        "text": "It halves.",
+        "is_correct": false
+      },
+      {
+        "text": "It stays the same.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C=πd shows circumference is directly proportional to diameter.",
+      "hint": "Compare C=πd before and after."
+    },
+    "id": "AC9M7M03-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "super-hard",
+    "question": "Circumference 13: A circle has radius 5 cm. Find its circumference in terms of π.",
+    "answers": [
+      {
+        "text": "10π cm",
+        "is_correct": true
+      },
+      {
+        "text": "5π cm",
+        "is_correct": false
+      },
+      {
+        "text": "25π cm",
+        "is_correct": false
+      },
+      {
+        "text": "20π cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C=2πr, so substitute r=5.",
+      "hint": "Circumference is a length around the circle."
+    },
+    "id": "AC9M7M03-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "super-hard",
+    "question": "Inverse 14: A circle has circumference 12π cm. Find its radius.",
+    "answers": [
+      {
+        "text": "6 cm",
+        "is_correct": true
+      },
+      {
+        "text": "12 cm",
+        "is_correct": false
+      },
+      {
+        "text": "36 cm",
+        "is_correct": false
+      },
+      {
+        "text": "π cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "From C=2πr, divide by 2π.",
+      "hint": "Undo the multiplication by 2π."
+    },
+    "id": "AC9M7M03-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "super-hard",
+    "question": "Relationship 15: If a circle's diameter doubles, what happens to its circumference?",
+    "answers": [
+      {
+        "text": "It doubles.",
+        "is_correct": true
+      },
+      {
+        "text": "It quadruples.",
+        "is_correct": false
+      },
+      {
+        "text": "It halves.",
+        "is_correct": false
+      },
+      {
+        "text": "It stays the same.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C=πd shows circumference is directly proportional to diameter.",
+      "hint": "Compare C=πd before and after."
+    },
+    "id": "AC9M7M03-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "super-hard",
+    "question": "Circumference 16: A circle has radius 8 cm. Find its circumference in terms of π.",
+    "answers": [
+      {
+        "text": "16π cm",
+        "is_correct": true
+      },
+      {
+        "text": "8π cm",
+        "is_correct": false
+      },
+      {
+        "text": "64π cm",
+        "is_correct": false
+      },
+      {
+        "text": "32π cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C=2πr, so substitute r=8.",
+      "hint": "Circumference is a length around the circle."
+    },
+    "id": "AC9M7M03-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "practice",
+    "skill": "ac9m7m03",
+    "difficulty": "super-hard",
+    "question": "Inverse 17: A circle has circumference 18π cm. Find its radius.",
+    "answers": [
+      {
+        "text": "9 cm",
+        "is_correct": true
+      },
+      {
+        "text": "18 cm",
+        "is_correct": false
+      },
+      {
+        "text": "81 cm",
+        "is_correct": false
+      },
+      {
+        "text": "π cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "From C=2πr, divide by 2π.",
+      "hint": "Undo the multiplication by 2π."
+    },
+    "id": "AC9M7M03-P-048"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "Which measurement is needed to calculate circumference using C = 2πr?",
+    "answers": [
+      {
+        "text": "Radius",
+        "is_correct": true
+      },
+      {
+        "text": "Diameter",
+        "is_correct": false
+      },
+      {
+        "text": "Area",
+        "is_correct": false
+      },
+      {
+        "text": "Chord length",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The formula C = 2πr uses the radius.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "A circle has circumference 31.4 cm. What is its radius? Use π ≈ 3.14.",
+    "answers": [
+      {
+        "text": "2 cm",
+        "is_correct": false
+      },
+      {
+        "text": "3 cm",
+        "is_correct": false
+      },
+      {
+        "text": "4 cm",
+        "is_correct": false
+      },
+      {
+        "text": "5 cm",
         "is_correct": true
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Every diameter is twice the radius, and the ratio circumference÷diameter is the constant π for all circles.",
-      "hint": "Round final result as requested."
-    }
+      "summary": "r = C ÷ (2π) = 31.4 ÷ 6.28 = 5 cm.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "Which statement is correct?",
+    "answers": [
+      {
+        "text": "All diameters are radii",
+        "is_correct": false
+      },
+      {
+        "text": "All radii are diameters",
+        "is_correct": false
+      },
+      {
+        "text": "A diameter passes through the centre",
+        "is_correct": true
+      },
+      {
+        "text": "A radius is longer than a diameter",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A diameter is a chord that passes through the centre.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "easy",
+    "question": "If the circumference C is known, which formula finds the radius r?",
+    "answers": [
+      {
+        "text": "r = C/π",
+        "is_correct": false
+      },
+      {
+        "text": "r = C/(2π)",
+        "is_correct": true
+      },
+      {
+        "text": "r = 2C",
+        "is_correct": false
+      },
+      {
+        "text": "r = πC",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Rearranging C = 2πr gives r = C/(2π).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "Which tool is most useful for physically approximating the circumference of a circular object?",
+    "answers": [
+      {
+        "text": "Ruler only",
+        "is_correct": false
+      },
+      {
+        "text": "Protractor",
+        "is_correct": false
+      },
+      {
+        "text": "Flexible string",
+        "is_correct": true
+      },
+      {
+        "text": "Set square",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Flexible string can follow the curved boundary and then be measured.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "A student measures a circumference of 40 cm and a diameter of 12.7 cm. What value of π does this experiment approximate?",
+    "answers": [
+      {
+        "text": "2.5",
+        "is_correct": false
+      },
+      {
+        "text": "3.15",
+        "is_correct": true
+      },
+      {
+        "text": "3.5",
+        "is_correct": false
+      },
+      {
+        "text": "4.0",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "π ≈ C ÷ d = 40 ÷ 12.7 ≈ 3.15.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "Which comparison is correct?",
+    "answers": [
+      {
+        "text": "Larger radius → smaller circumference",
+        "is_correct": false
+      },
+      {
+        "text": "Larger diameter → smaller circumference",
+        "is_correct": false
+      },
+      {
+        "text": "Larger radius → larger circumference",
+        "is_correct": true
+      },
+      {
+        "text": "Radius does not affect circumference",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Circumference is directly proportional to radius.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "Which experiment best helps students discover the circumference–diameter relationship?",
+    "answers": [
+      {
+        "text": "Measure angles in several circles",
+        "is_correct": false
+      },
+      {
+        "text": "Measure random chords",
+        "is_correct": false
+      },
+      {
+        "text": "Measure each circle's circumference and diameter, then compare C ÷ d",
+        "is_correct": true
+      },
+      {
+        "text": "Measure circle area only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "For every circle, the ratio C ÷ d is approximately the same constant, π.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "Zu Chongzhi is famous for the approximation 355/113. This is closest to:",
+    "answers": [
+      {
+        "text": "3.14",
+        "is_correct": false
+      },
+      {
+        "text": "3.1416",
+        "is_correct": false
+      },
+      {
+        "text": "3.1415929",
+        "is_correct": true
+      },
+      {
+        "text": "3.2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "355 ÷ 113 ≈ 3.1415929.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "medium",
+    "question": "π is best described as:",
+    "answers": [
+      {
+        "text": "A whole number",
+        "is_correct": false
+      },
+      {
+        "text": "A terminating decimal",
+        "is_correct": false
+      },
+      {
+        "text": "A repeating decimal",
+        "is_correct": false
+      },
+      {
+        "text": "An irrational number",
+        "is_correct": true
+      }
+    ],
+    "explanation": {
+      "summary": "π is irrational: its decimal expansion does not terminate or repeat.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Why is π important in circle mathematics?",
+    "answers": [
+      {
+        "text": "It defines the centre",
+        "is_correct": false
+      },
+      {
+        "text": "It gives the constant relationship between circumference and diameter",
+        "is_correct": true
+      },
+      {
+        "text": "It replaces the radius",
+        "is_correct": false
+      },
+      {
+        "text": "It measures mass",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "π is the constant ratio C ÷ d.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "Which ratio always equals π for a circle?",
+    "answers": [
+      {
+        "text": "r/d",
+        "is_correct": false
+      },
+      {
+        "text": "d/C",
+        "is_correct": false
+      },
+      {
+        "text": "C/d",
+        "is_correct": true
+      },
+      {
+        "text": "C/r",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "By definition, π = C ÷ d.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "If several points are intended to lie on the same circle, what must be true?",
+    "answers": [
+      {
+        "text": "They must all lie on a straight line",
+        "is_correct": false
+      },
+      {
+        "text": "They must all be the same distance from the centre",
+        "is_correct": true
+      },
+      {
+        "text": "They must form right angles",
+        "is_correct": false
+      },
+      {
+        "text": "They must have different distances from the centre",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "All points on a circle are equidistant from its centre.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "hard",
+    "question": "What does the diameter tell you about a circular design?",
+    "answers": [
+      {
+        "text": "Its full width through the centre",
+        "is_correct": true
+      },
+      {
+        "text": "Its thickness",
+        "is_correct": false
+      },
+      {
+        "text": "Its colour pattern",
+        "is_correct": false
+      },
+      {
+        "text": "Its mass",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The diameter measures the full distance across a circle through the centre.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "super-hard",
+    "question": "A circular basket rim has a diameter of 30 cm. Which calculation gives the rim's circumference?",
+    "answers": [
+      {
+        "text": "30 ÷ π",
+        "is_correct": false
+      },
+      {
+        "text": "15π",
+        "is_correct": false
+      },
+      {
+        "text": "30π",
+        "is_correct": true
+      },
+      {
+        "text": "60π",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C = πd, so C = 30π cm.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M03",
+    "bank": "test",
+    "skill": "ac9m7m03",
+    "difficulty": "super-hard",
+    "question": "Why is π relevant when measuring circular cultural or everyday designs?",
+    "answers": [
+      {
+        "text": "It determines colour",
+        "is_correct": false
+      },
+      {
+        "text": "It connects circumference and diameter",
+        "is_correct": true
+      },
+      {
+        "text": "It measures weight",
+        "is_correct": false
+      },
+      {
+        "text": "It determines material strength",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "π gives the constant relationship C = πd.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M03-T-016"
   }
 ]

@@ -1,18 +1,1292 @@
 [
   {
-    "id": "AC9M7A03-P-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Solve 3x + 4 = 19. What is x?",
-    "audio_prompt": "Solve 3x + 4 = 19. What is x?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Is x=5 a solution to 3x+4=19?",
+    "answers": [
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No",
+        "is_correct": false
+      },
+      {
+        "text": "Only if x is even",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot determine",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3(5)+4=19, so x=5 makes the equation true.\nHint: Substitute 5 for x.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7A03-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Is x=7 a solution to 5x-6=29?",
+    "answers": [
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No",
+        "is_correct": false
+      },
+      {
+        "text": "Only for positive x",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot determine",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "35-6=29.\nHint: Evaluate the left side.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Is x=9 a solution to 2x+3=21?",
+    "answers": [
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No",
+        "is_correct": false
+      },
+      {
+        "text": "Depends on method",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot check",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "18+3=21.\nHint: A value is a solution if both sides match.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Is x=4 a solution to 7x-5=23?",
+    "answers": [
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No",
+        "is_correct": false
+      },
+      {
+        "text": "Only if x is odd",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot determine",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "28-5=23.\nHint: Substitute directly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Which value does NOT satisfy 4x+1=33?",
+    "answers": [
+      {
+        "text": "x=7",
+        "is_correct": true
+      },
+      {
+        "text": "x=8",
+        "is_correct": false
+      },
+      {
+        "text": "x=8.0",
+        "is_correct": false
+      },
+      {
+        "text": "x=16/2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "x=7 gives 29; the other forms equal 8 and satisfy the equation.\nHint: Solve or substitute each value.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Is x=6 a solution to 9x-10=44?",
+    "answers": [
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No",
+        "is_correct": false
+      },
+      {
+        "text": "Only if x<10",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot determine",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "54-10=44.\nHint: Substitute x=6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Which value satisfies 8x+2=26?",
+    "answers": [
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "8(3)+2=26.\nHint: Test or solve.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Which statement verifies x=10 for 6x-8=52?",
+    "answers": [
+      {
+        "text": "6(10)-8=52",
+        "is_correct": true
+      },
+      {
+        "text": "6+10-8=8",
+        "is_correct": false
+      },
+      {
+        "text": "60+8=68",
+        "is_correct": false
+      },
+      {
+        "text": "10-8=2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Correct verification substitutes 10 for x and evaluates.\nHint: Replace x, not the coefficient.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Does x=2 satisfy 12x+5=29?",
+    "answers": [
+      {
+        "text": "Yes",
+        "is_correct": true
+      },
+      {
+        "text": "No",
+        "is_correct": false
+      },
+      {
+        "text": "Only if x>1",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot determine",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "24+5=29.\nHint: Evaluate the left side.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Which value satisfies 3x+7=40?",
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3(11)+7=40.\nHint: Subtract 7 then divide by 3.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Solve 3x+7=19.",
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3x=12, so x=4.\nHint: Undo +7, then divide by 3.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Solve 5x-9=21.",
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5x=30, so x=6.\nHint: Undo -9 by adding 9.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 8x+4=36.",
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "8x=32, so x=4.\nHint: Subtract 4 from both sides.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 9x-3=42.",
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "9x=45, so x=5.\nHint: Add 3 to both sides.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 7x+2=30.",
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "7x=28, so x=4.\nHint: Undo addition before multiplication.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 4(x-3)=20.",
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "x-3=5, so x=8.\nHint: Divide both sides by 4 first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 6(x+2)=48.",
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "x+2=8, so x=6.\nHint: Undo multiplication then addition.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 10x-15=35.",
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "10x=50, so x=5.\nHint: Add 15 first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 3(x-5)=27.",
+    "answers": [
+      {
+        "text": "14",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "x-5=9, so x=14.\nHint: Divide by 3, then add 5.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 2x+9=31.",
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2x=22, so x=11.\nHint: Subtract 9 then halve.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 8x+12=3x+37.",
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5x=25, so x=5.\nHint: Subtract 3x and 12 from both sides.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 9x-4=5x+28.",
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4x=32, so x=8.\nHint: Move variable terms to one side.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 6(x-2)+4=40.",
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "6x-12+4=40 → 6x=48 → x=8.\nHint: Expand, simplify, then isolate x.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 4x-15=29.",
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4x=44, so x=11.\nHint: Reverse -15, then ×4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 12x+8=4x+40.",
+    "answers": [
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "8x=32, so x=4.\nHint: Subtract 4x then 8.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 7(x+3)=63.",
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "x+3=9, so x=6.\nHint: Divide both sides by 7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 5(x-4)+9=34.",
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5x-20+9=34 → 5x=45 → x=9.\nHint: Expand and combine constants.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 3x+12=2x+30.",
+    "answers": [
+      {
+        "text": "18",
+        "is_correct": true
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "x=18.\nHint: Subtract 2x and 12.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 11x-33=55.",
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "11x=88, so x=8.\nHint: Add 33 then divide by 11.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 15x+5=80.",
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "15x=75, so x=5.\nHint: Subtract 5 then divide by 15.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "Which value satisfies 4x-7=29?",
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4(9)-7=29.\nHint: Substitute or solve.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "Which value satisfies 6x+5=41?",
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "6(6)+5=41.\nHint: Check each candidate quickly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "Which operation preserves equality?",
+    "answers": [
+      {
+        "text": "Add the same number to both sides",
+        "is_correct": true
+      },
+      {
+        "text": "Add different numbers to each side",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply one side only",
+        "is_correct": false
+      },
+      {
+        "text": "Remove a term from one side",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "An equation stays balanced when the same operation is applied to both sides.\nHint: Think of a physical balance.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "For 9x+4=40, what is the most efficient first step?",
+    "answers": [
+      {
+        "text": "Subtract 4 from both sides",
+        "is_correct": true
+      },
+      {
+        "text": "Add 4 to both sides",
+        "is_correct": false
+      },
+      {
+        "text": "Divide by 9 immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply by 9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Undo the +4 first.\nHint: Reverse operations in order.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "Which value satisfies 7x-2=47?",
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "7(7)-2=47.\nHint: Substitute 7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "Which value satisfies 3x+11=32?",
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3(7)+11=32.\nHint: Subtract 11 then divide by 3.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "Which value satisfies 10x-20=60?",
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "10(8)-20=60.\nHint: Add 20, then divide by 10.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "A number is multiplied by 5 then increased by 17 to give 62. Which equation models this?",
+    "answers": [
+      {
+        "text": "5x+17=62",
+        "is_correct": true
+      },
+      {
+        "text": "5(x+17)=62",
+        "is_correct": false
+      },
+      {
+        "text": "x+22=62",
+        "is_correct": false
+      },
+      {
+        "text": "17x+5=62",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Multiply the number first, then add 17.\nHint: Follow the stated operation order.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "A student solves 6x+12=30 by dividing both sides by 6 first and writes x+12=5. What is the error?",
+    "answers": [
+      {
+        "text": "12 must also be divided by 6",
+        "is_correct": true
+      },
+      {
+        "text": "30 should be multiplied by 6",
+        "is_correct": false
+      },
+      {
+        "text": "x should be subtracted",
+        "is_correct": false
+      },
+      {
+        "text": "There is no error",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Dividing the whole left side by 6 gives x+2, not x+12.\nHint: An operation must apply to the entire side.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "What does it mean for x=4 to be a solution of an equation?",
+    "answers": [
+      {
+        "text": "Substituting 4 makes both sides equal",
+        "is_correct": true
+      },
+      {
+        "text": "4 must be the largest number",
+        "is_correct": false
+      },
+      {
+        "text": "The equation contains four terms",
+        "is_correct": false
+      },
+      {
+        "text": "x can only ever equal 4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A solution is a value that makes the equation true.\nHint: Use the definition of solution.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "practice",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "Solve 3x + 4 = 19. What is x?",
     "answers": [
       {
         "text": "5",
@@ -27,28 +1301,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 5.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 5.\nHint: Undo operations equally on both sides, then substitute the solution into the original equation.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A03-P-041"
   },
   {
-    "id": "AC9M7A03-P-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
     "question": "Solve 4x + 2 = 30. What is x?",
-    "audio_prompt": "Solve 4x + 2 = 30. What is x?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
     "answers": [
       {
         "text": "8",
@@ -63,28 +1329,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 7.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 7.\nHint: Undo operations equally on both sides, then substitute the solution into the original equation.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A03-P-042"
   },
   {
-    "id": "AC9M7A03-P-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
+    "skill": "ac9m7a03",
+    "difficulty": "super-hard",
     "question": "Solve 2x + 8 = 26. What is x?",
-    "audio_prompt": "Solve 2x + 8 = 26. What is x?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
     "answers": [
       {
         "text": "10",
@@ -99,28 +1357,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 9.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 9.\nHint: Undo operations equally on both sides, then substitute the solution into the original equation.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A03-P-043"
   },
   {
-    "id": "AC9M7A03-P-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
+    "skill": "ac9m7a03",
+    "difficulty": "super-hard",
     "question": "Solve 5x + 1 = 31. What is x?",
-    "audio_prompt": "Solve 5x + 1 = 31. What is x?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
     "answers": [
       {
         "text": "6",
@@ -135,28 +1385,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 6.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 6.\nHint: Undo operations equally on both sides, then substitute the solution into the original equation.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A03-P-044"
   },
   {
-    "id": "AC9M7A03-P-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
+    "skill": "ac9m7a03",
+    "difficulty": "super-hard",
     "question": "Solve 3x + 7 = 40. What is x?",
-    "audio_prompt": "Solve 3x + 7 = 40. What is x?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
     "answers": [
       {
         "text": "12",
@@ -171,28 +1413,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 11.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 11.\nHint: Undo operations equally on both sides, then substitute the solution into the original equation.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A03-P-045"
   },
   {
-    "id": "AC9M7A03-P-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
+    "skill": "ac9m7a03",
+    "difficulty": "super-hard",
     "question": "Solve 6x + 5 = 53. What is x?",
-    "audio_prompt": "Solve 6x + 5 = 53. What is x?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
     "answers": [
       {
         "text": "9",
@@ -207,28 +1441,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 8.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 8.\nHint: Undo operations equally on both sides, then substitute the solution into the original equation.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A03-P-046"
   },
   {
-    "id": "AC9M7A03-P-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
+    "skill": "ac9m7a03",
+    "difficulty": "super-hard",
     "question": "Solve 2x + 9 = 33. What is x?",
-    "audio_prompt": "Solve 2x + 9 = 33. What is x?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
     "answers": [
       {
         "text": "12",
@@ -243,28 +1469,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 12.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 12.\nHint: Undo operations equally on both sides, then substitute the solution into the original equation.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A03-P-047"
   },
   {
-    "id": "AC9M7A03-P-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
+    "skill": "ac9m7a03",
+    "difficulty": "super-hard",
     "question": "Solve 7x + 3 = 31. What is x?",
-    "audio_prompt": "Solve 7x + 3 = 31. What is x?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
     "answers": [
       {
         "text": "5",
@@ -279,251 +1497,57 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 4.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+      "summary": "Subtract the constant, divide by the coefficient, and verify: x = 4.\nHint: Undo operations equally on both sides, then substitute the solution into the original equation.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A03-P-048"
   },
   {
-    "id": "AC9M7A03-P-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value makes 4x − 3 = 21 true?",
-    "audio_prompt": "Which value makes 4x − 3 = 21 true?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Which value satisfies 5x-7=38?",
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5(9)-7=38.\nHint: Substitute or solve.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7A03-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Solve 7x-11=24.",
     "answers": [
       {
         "text": "5",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Adding 3, then dividing by 4, gives x = 6; substitution restores both sides.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A03-P-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value makes 3x − 5 = 25 true?",
-    "audio_prompt": "Which value makes 3x − 5 = 25 true?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "10",
         "is_correct": true
       },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Adding 5, then dividing by 3, gives x = 10; substitution restores both sides.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A03-P-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value makes 5x − 2 = 33 true?",
-    "audio_prompt": "Which value makes 5x − 2 = 33 true?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "7",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Adding 2, then dividing by 5, gives x = 7; substitution restores both sides.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A03-P-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value makes 6x − 4 = 50 true?",
-    "audio_prompt": "Which value makes 6x − 4 = 50 true?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Adding 4, then dividing by 6, gives x = 9; substitution restores both sides.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A03-P-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value makes 2x − 7 = 17 true?",
-    "audio_prompt": "Which value makes 2x − 7 = 17 true?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "12",
-        "is_correct": true
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "13",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Adding 7, then dividing by 2, gives x = 12; substitution restores both sides.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A03-P-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value makes 7x − 6 = 50 true?",
-    "audio_prompt": "Which value makes 7x − 6 = 50 true?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Adding 6, then dividing by 7, gives x = 8; substitution restores both sides.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A03-P-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value makes 9x − 1 = 44 true?",
-    "audio_prompt": "Which value makes 9x − 1 = 44 true?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
       {
         "text": "4",
         "is_correct": false
@@ -533,871 +1557,91 @@
         "is_correct": false
       },
       {
-        "text": "5",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Adding 1, then dividing by 9, gives x = 5; substitution restores both sides.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A03-P-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value makes 4x − 8 = 36 true?",
-    "audio_prompt": "Which value makes 4x − 8 = 36 true?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "11",
-        "is_correct": true
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Adding 8, then dividing by 4, gives x = 11; substitution restores both sides.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A03-P-017",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A service costs $7 plus $5 per hour. The total is $47. How many hours were used?",
-    "audio_prompt": "A service costs $7 plus $5 per hour. The total is $47. How many hours were used?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
         "text": "7",
         "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The equation 7 + 5h = 47 gives h = 8, and substitution checks the total.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
+      "summary": "7x=35, so x=5.\nHint: Add 11, then divide by 7.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A03-T-002"
   },
   {
-    "id": "AC9M7A03-P-018",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A service costs $14 plus $6 per hour. The total is $62. How many hours were used?",
-    "audio_prompt": "A service costs $14 plus $6 per hour. The total is $62. How many hours were used?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The equation 14 + 6h = 62 gives h = 8, and substitution checks the total.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A03-P-019",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A service costs $10 plus $7 per hour. The total is $73. How many hours were used?",
-    "audio_prompt": "A service costs $10 plus $7 per hour. The total is $73. How many hours were used?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The equation 10 + 7h = 73 gives h = 9, and substitution checks the total.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A03-P-020",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A service costs $8 plus $4 per hour. The total is $56. How many hours were used?",
-    "audio_prompt": "A service costs $8 plus $4 per hour. The total is $56. How many hours were used?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": true
-      },
-      {
-        "text": "13",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The equation 8 + 4h = 56 gives h = 12, and substitution checks the total.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A03-P-021",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A student claims x = 9 solves 3x + 5 = 29. Which check best identifies the error?",
-    "audio_prompt": "A student claims x = 9 solves 3x + 5 = 29. Which check best identifies the error?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "Subtract 5 from only the right side.",
-        "is_correct": false
-      },
-      {
-        "text": "Divide the original right side by 5.",
-        "is_correct": false
-      },
-      {
-        "text": "Substitute 9; the left side becomes 32, not 29.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Substitution tests the claim in the original equation and shows the two sides are unequal.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A03-P-022",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A student claims x = 7 solves 4x + 7 = 31. Which check best identifies the error?",
-    "audio_prompt": "A student claims x = 7 solves 4x + 7 = 31. Which check best identifies the error?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "Substitute 7; the left side becomes 35, not 31.",
-        "is_correct": true
-      },
-      {
-        "text": "Subtract 7 from only the right side.",
-        "is_correct": false
-      },
-      {
-        "text": "Divide the original right side by 7.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Substitution tests the claim in the original equation and shows the two sides are unequal.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A03-P-023",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A student claims x = 11 solves 2x + 9 = 29. Which check best identifies the error?",
-    "audio_prompt": "A student claims x = 11 solves 2x + 9 = 29. Which check best identifies the error?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "Subtract 9 from only the right side.",
-        "is_correct": false
-      },
-      {
-        "text": "Substitute 11; the left side becomes 31, not 29.",
-        "is_correct": true
-      },
-      {
-        "text": "Divide the original right side by 9.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Substitution tests the claim in the original equation and shows the two sides are unequal.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A03-P-024",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "practice",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A student claims x = 8 solves 5x + 4 = 39. Which check best identifies the error?",
-    "audio_prompt": "A student claims x = 8 solves 5x + 4 = 39. Which check best identifies the error?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "Subtract 4 from only the right side.",
-        "is_correct": false
-      },
-      {
-        "text": "Divide the original right side by 4.",
-        "is_correct": false
-      },
-      {
-        "text": "Substitute 8; the left side becomes 44, not 39.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Substitution tests the claim in the original equation and shows the two sides are unequal.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A03-T-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Solve and verify 3x + 2 = 41.",
-    "audio_prompt": "Solve and verify 3x + 2 = 41.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Solve 4(x-6)=40.",
     "answers": [
-      {
-        "text": "13",
-        "is_correct": true
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Undoing the operations gives x = 13; 3 × 13 + 2 equals 41.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-002",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Solve and verify 5x + 6 = 51.",
-    "audio_prompt": "Solve and verify 5x + 6 = 51.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Undoing the operations gives x = 9; 5 × 9 + 6 equals 51.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-003",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Solve and verify 2x + 11 = 39.",
-    "audio_prompt": "Solve and verify 2x + 11 = 39.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "12",
-        "is_correct": false
-      },
       {
         "text": "16",
+        "is_correct": true
+      },
+      {
+        "text": "10",
         "is_correct": false
       },
       {
         "text": "14",
-        "is_correct": true
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Undoing the operations gives x = 14; 2 × 14 + 11 equals 39.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
+      "summary": "x-6=10, so x=16.\nHint: Divide first, then add 6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-003"
   },
   {
-    "id": "AC9M7A03-T-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Solve and verify 7x + 3 = 59.",
-    "audio_prompt": "Solve and verify 7x + 3 = 59.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
+    "skill": "ac9m7a03",
+    "difficulty": "easy",
+    "question": "Which line correctly verifies x=9 for 3x+14=41?",
     "answers": [
       {
-        "text": "8",
+        "text": "3(9)+14=41",
         "is_correct": true
       },
       {
-        "text": "6",
+        "text": "3+9+14=26",
         "is_correct": false
       },
       {
-        "text": "10",
+        "text": "27-14=13",
+        "is_correct": false
+      },
+      {
+        "text": "9+14=23",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Undoing the operations gives x = 8; 7 × 8 + 3 equals 59.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
+      "summary": "Correct verification substitutes x=9 into the original equation.\nHint: Use the original equation unchanged.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-004"
   },
   {
-    "id": "AC9M7A03-T-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A03",
     "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Solve and verify 4x + 5 = 65.",
-    "audio_prompt": "Solve and verify 4x + 5 = 65.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 2x+5=3x-12.",
     "answers": [
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": true
-      },
       {
         "text": "17",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Undoing the operations gives x = 15; 4 × 15 + 5 equals 65.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Solve and verify 6x + 7 = 73.",
-    "audio_prompt": "Solve and verify 6x + 7 = 73.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "11",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Undoing the operations gives x = 11; 6 × 11 + 7 equals 73.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Solve and verify 5x + 9 = 69.",
-    "audio_prompt": "Solve and verify 5x + 9 = 69.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "12",
-        "is_correct": true
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "14",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Undoing the operations gives x = 12; 5 × 12 + 9 equals 69.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Solve and verify 8x + 4 = 84.",
-    "audio_prompt": "Solve and verify 8x + 4 = 84.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": true
-      },
-      {
-        "text": "12",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Undoing the operations gives x = 10; 8 × 10 + 4 equals 84.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-009",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value satisfies 4x − 5 = 43?",
-    "audio_prompt": "Which value satisfies 4x − 5 = 43?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "13",
-        "is_correct": false
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "12",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Solving gives x = 12, and substituting it makes both sides 43.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value satisfies 6x − 8 = 34?",
-    "audio_prompt": "Which value satisfies 6x − 8 = 34?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Solving gives x = 7, and substituting it makes both sides 34.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value satisfies 3x − 4 = 41?",
-    "audio_prompt": "Which value satisfies 3x − 4 = 41?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "16",
-        "is_correct": false
-      },
-      {
-        "text": "15",
-        "is_correct": true
-      },
-      {
-        "text": "14",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Solving gives x = 15, and substituting it makes both sides 41.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "Which value satisfies 8x − 7 = 65?",
-    "audio_prompt": "Which value satisfies 8x − 7 = 65?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Solving gives x = 9, and substituting it makes both sides 65.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A club pays a fixed $14 fee plus $8 per participant. Its bill is $86. How many participants attended?",
-    "audio_prompt": "A club pays a fixed $14 fee plus $8 per participant. Its bill is $86. How many participants attended?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "14 + 8p = 86, so p = 9; the original bill verifies the solution.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A club pays a fixed $5 fee plus $10 per participant. Its bill is $95. How many participants attended?",
-    "audio_prompt": "A club pays a fixed $5 fee plus $10 per participant. Its bill is $95. How many participants attended?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "9",
-        "is_correct": true
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "5 + 10p = 95, so p = 9; the original bill verifies the solution.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A club pays a fixed $9 fee plus $6 per participant. Its bill is $69. How many participants attended?",
-    "audio_prompt": "A club pays a fixed $9 fee plus $6 per participant. Its bill is $69. How many participants attended?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "9 + 6p = 69, so p = 10; the original bill verifies the solution.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
-  },
-  {
-    "id": "AC9M7A03-T-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A03",
-    "bank": "test",
-    "skill": "solving_and_verifying_linear_equations",
-    "question": "A club pays a fixed $12 fee plus $12 per participant. Its bill is $108. How many participants attended?",
-    "audio_prompt": "A club pays a fixed $12 fee plus $12 per participant. Its bill is $108. How many participants attended?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#balance",
-      "alt_text": "A balance model showing equal operations applied to both sides of a linear equation."
-    },
-    "answers": [
-      {
-        "text": "8",
         "is_correct": true
       },
       {
@@ -1405,14 +1649,370 @@
         "is_correct": false
       },
       {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5=x-12, so x=17.\nHint: Subtract 2x, then add 12.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 9x+18=4x+63.",
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5x=45, so x=9.\nHint: Subtract 4x and 18 from both sides.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 6x-27=45.",
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "6x=72, so x=12.\nHint: Reverse -27, then ×6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 7(x-3)+5=61.",
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
         "text": "9",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "12 + 12p = 108, so p = 8; the original bill verifies the solution.",
-      "hint": "Undo operations equally on both sides, then substitute the solution into the original equation."
-    }
+      "summary": "7x-21+5=61 → 7x=77 → x=11.\nHint: Expand and combine constants.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "A number is multiplied by 8 then decreased by 19 to give 53. What is the number?",
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "8x-19=53 → 8x=72 → x=9.\nHint: Form the equation first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "medium",
+    "question": "Solve 11x-7=6x+48.",
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5x=55, so x=11.\nHint: Collect variable terms on one side.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "Which method is most direct for 4x-15=29?",
+    "answers": [
+      {
+        "text": "Backtrack: add 15, then divide by 4",
+        "is_correct": true
+      },
+      {
+        "text": "Expand brackets first",
+        "is_correct": false
+      },
+      {
+        "text": "Square both sides",
+        "is_correct": false
+      },
+      {
+        "text": "Guess without checking",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The equation is a simple two-step chain, so backtracking is efficient.\nHint: Reverse the operations.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "Why must the same operation be applied to both sides of an equation?",
+    "answers": [
+      {
+        "text": "To preserve equality",
+        "is_correct": true
+      },
+      {
+        "text": "To make x positive",
+        "is_correct": false
+      },
+      {
+        "text": "To remove all constants",
+        "is_correct": false
+      },
+      {
+        "text": "To make both sides smaller",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Doing the same operation preserves the balance.\nHint: Think of equal weights on a scale.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "A student changes 5x+8=33 to 5x=33. What did they forget?",
+    "answers": [
+      {
+        "text": "Subtract 8 from both sides",
+        "is_correct": true
+      },
+      {
+        "text": "Divide both sides by 5",
+        "is_correct": false
+      },
+      {
+        "text": "Add 8 to both sides",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply by 5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The +8 must be undone on both sides.\nHint: Preserve equality while isolating the variable.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "hard",
+    "question": "An equation has solution x=6. Which equation is true?",
+    "answers": [
+      {
+        "text": "4x+7=31",
+        "is_correct": true
+      },
+      {
+        "text": "5x-7=20",
+        "is_correct": false
+      },
+      {
+        "text": "3x+14=35",
+        "is_correct": false
+      },
+      {
+        "text": "2x+5=20",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4(6)+7=31.\nHint: Substitute 6 into each option.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "super-hard",
+    "question": "A water-height model gives 5h+32=3h+88. What is h?",
+    "answers": [
+      {
+        "text": "28",
+        "is_correct": true
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "22",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2h=56, so h=28.\nHint: Collect h terms, then constants.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A03",
+    "bank": "test",
+    "skill": "ac9m7a03",
+    "difficulty": "super-hard",
+    "question": "After solving an equation, what is the strongest check?",
+    "answers": [
+      {
+        "text": "Substitute the value into the original equation",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat the same algebra from memory",
+        "is_correct": false
+      },
+      {
+        "text": "Round the value",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the nearest option",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Substitution confirms both sides are equal.\nHint: Check against the original equation, not a transformed one.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A03-T-016"
   }
 ]

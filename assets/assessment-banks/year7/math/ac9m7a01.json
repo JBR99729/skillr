@@ -1,18 +1,1292 @@
 [
   {
-    "id": "AC9M7A01-P-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use C=4.5+2.2d with the input value 8. What is the output?",
-    "audio_prompt": "Use C=4.5+2.2d with the input value 8. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "In A = l × w, what does l represent?",
+    "answers": [
+      {
+        "text": "length",
+        "is_correct": true
+      },
+      {
+        "text": "area",
+        "is_correct": false
+      },
+      {
+        "text": "width",
+        "is_correct": false
+      },
+      {
+        "text": "perimeter",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "l represents the rectangle's length.\nHint: Match each variable to the attribute named in the context.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7A01-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "In p = 6g + b for Australian football scoring, what does g represent?",
+    "answers": [
+      {
+        "text": "goals",
+        "is_correct": true
+      },
+      {
+        "text": "behinds",
+        "is_correct": false
+      },
+      {
+        "text": "total points",
+        "is_correct": false
+      },
+      {
+        "text": "games",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "g represents the number of goals.\nHint: The coefficient 6 tells you each goal contributes 6 points.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "In p = 6g + b, what does the 6 mean?",
+    "answers": [
+      {
+        "text": "points per goal",
+        "is_correct": true
+      },
+      {
+        "text": "points per behind",
+        "is_correct": false
+      },
+      {
+        "text": "number of goals",
+        "is_correct": false
+      },
+      {
+        "text": "total points",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each goal is worth 6 points.\nHint: A coefficient tells how many units each variable contributes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "In C = 2πr, what does r represent?",
+    "answers": [
+      {
+        "text": "radius",
+        "is_correct": true
+      },
+      {
+        "text": "diameter",
+        "is_correct": false
+      },
+      {
+        "text": "circumference",
+        "is_correct": false
+      },
+      {
+        "text": "area",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "r is the radius.\nHint: Read the conventional meaning of the formula's variables.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "In V = lwh, what does h represent?",
+    "answers": [
+      {
+        "text": "height",
+        "is_correct": true
+      },
+      {
+        "text": "width",
+        "is_correct": false
+      },
+      {
+        "text": "length",
+        "is_correct": false
+      },
+      {
+        "text": "volume",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "h represents height.\nHint: V is the output; l, w and h are dimensions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "If g = 0 in p = 6g + b, which expression gives the score?",
+    "answers": [
+      {
+        "text": "b",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "6+b",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With no goals, p = 6(0)+b = b.\nHint: Substitute zero before simplifying.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "In A = lw, width stays fixed and length doubles. What happens to A?",
+    "answers": [
+      {
+        "text": "It doubles",
+        "is_correct": true
+      },
+      {
+        "text": "It halves",
+        "is_correct": false
+      },
+      {
+        "text": "It stays the same",
+        "is_correct": false
+      },
+      {
+        "text": "It quadruples",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A doubles because only one factor doubles.\nHint: Compare k·l·w with l·w.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "Which is the correct density formula?",
+    "answers": [
+      {
+        "text": "d = m/v",
+        "is_correct": true
+      },
+      {
+        "text": "d = mv",
+        "is_correct": false
+      },
+      {
+        "text": "d = v/m",
+        "is_correct": false
+      },
+      {
+        "text": "d = m+v",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Density is mass divided by volume: d=m/v.\nHint: Check units: g ÷ cm³ gives g/cm³.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "In W = b + 1.5rh, what does h represent?",
+    "answers": [
+      {
+        "text": "overtime hours",
+        "is_correct": true
+      },
+      {
+        "text": "base wage",
+        "is_correct": false
+      },
+      {
+        "text": "hourly rate",
+        "is_correct": false
+      },
+      {
+        "text": "weekly wage",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "h is the number of overtime hours.\nHint: The overtime part is 1.5 × rate × hours.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "In HRmax = 220 − age, what quantity is subtracted from 220?",
+    "answers": [
+      {
+        "text": "the person's age",
+        "is_correct": true
+      },
+      {
+        "text": "exercise duration",
+        "is_correct": false
+      },
+      {
+        "text": "target heart rate",
+        "is_correct": false
+      },
+      {
+        "text": "resting heart rate",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The formula subtracts age from 220.\nHint: Identify the input variable in the formula.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "Find A when l=9 cm and w=7 cm in A=lw.",
+    "answers": [
+      {
+        "text": "63 cm²",
+        "is_correct": true
+      },
+      {
+        "text": "16 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "72 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "56 cm²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A=9×7=63 cm².\nHint: Substitute first, then calculate with units.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "Find p when g=4 and b=5 in p=6g+b.",
+    "answers": [
+      {
+        "text": "29",
+        "is_correct": true
+      },
+      {
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "34",
+        "is_correct": false
+      },
+      {
+        "text": "25",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "p=6(4)+5=29.\nHint: Multiply the goals by 6 before adding behinds.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "Using d=m/v, find density when m=300 g and v=50 cm³.",
+    "answers": [
+      {
+        "text": "6 g/cm³",
+        "is_correct": true
+      },
+      {
+        "text": "5 g/cm³",
+        "is_correct": false
+      },
+      {
+        "text": "15 g/cm³",
+        "is_correct": false
+      },
+      {
+        "text": "250 g/cm³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "d=300/50=6 g/cm³.\nHint: Use division, not multiplication.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "Find W if b=$500, r=$25/h and h=4 in W=b+1.5rh.",
+    "answers": [
+      {
+        "text": "$650",
+        "is_correct": true
+      },
+      {
+        "text": "$600",
+        "is_correct": false
+      },
+      {
+        "text": "$700",
+        "is_correct": false
+      },
+      {
+        "text": "$540",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "W=500+1.5×25×4=650.\nHint: Calculate the overtime component before adding base wage.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "Find HRmax for a 16-year-old using HRmax=220−age.",
+    "answers": [
+      {
+        "text": "204 bpm",
+        "is_correct": true
+      },
+      {
+        "text": "206 bpm",
+        "is_correct": false
+      },
+      {
+        "text": "210 bpm",
+        "is_correct": false
+      },
+      {
+        "text": "220 bpm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "220−16=204 bpm.\nHint: Substitute age exactly as written.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If HRtarget=0.7HRmax and HRmax=200, find HRtarget.",
+    "answers": [
+      {
+        "text": "140 bpm",
+        "is_correct": true
+      },
+      {
+        "text": "150 bpm",
+        "is_correct": false
+      },
+      {
+        "text": "160 bpm",
+        "is_correct": false
+      },
+      {
+        "text": "180 bpm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0.7×200=140 bpm.\nHint: 70% is 0.7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "Find C if r=7 in C=2πr.",
+    "answers": [
+      {
+        "text": "14π",
+        "is_correct": true
+      },
+      {
+        "text": "7π",
+        "is_correct": false
+      },
+      {
+        "text": "49π",
+        "is_correct": false
+      },
+      {
+        "text": "21π",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C=2π×7=14π.\nHint: Keep π exact unless a decimal is requested.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "Find V if l=5, w=4 and h=3 in V=lwh.",
+    "answers": [
+      {
+        "text": "60",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "V=5×4×3=60.\nHint: Multiply all three dimensions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "A channel has cross-sectional area A=12 m² and water velocity v=1.8 m/s. Using Q=Av, find Q.",
+    "answers": [
+      {
+        "text": "21.6 m³/s",
+        "is_correct": true
+      },
+      {
+        "text": "13.8 m³/s",
+        "is_correct": false
+      },
+      {
+        "text": "6.67 m³/s",
+        "is_correct": false
+      },
+      {
+        "text": "10.2 m³/s",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Q=12×1.8=21.6 m³/s.\nHint: Substitute the two measured attributes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "In Q=Av, velocity doubles while area stays fixed. What happens to Q?",
+    "answers": [
+      {
+        "text": "It doubles",
+        "is_correct": true
+      },
+      {
+        "text": "It halves",
+        "is_correct": false
+      },
+      {
+        "text": "It quadruples",
+        "is_correct": false
+      },
+      {
+        "text": "It stays fixed",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Q doubles because v is multiplied directly by fixed A.\nHint: Compare A(2v) with Av.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If A=72 cm² and l=9 cm in A=lw, find w.",
+    "answers": [
+      {
+        "text": "8 cm",
+        "is_correct": true
+      },
+      {
+        "text": "9 cm",
+        "is_correct": false
+      },
+      {
+        "text": "7 cm",
+        "is_correct": false
+      },
+      {
+        "text": "6 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "72=9w, so w=8 cm.\nHint: Divide area by the known side.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If p=41 and g=6 in p=6g+b, find b.",
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "41",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "41=36+b, so b=5.\nHint: Subtract the goal points from the total.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If d=5 g/cm³ and m=250 g, find v using d=m/v.",
+    "answers": [
+      {
+        "text": "50 cm³",
+        "is_correct": true
+      },
+      {
+        "text": "25 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "1250 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "5 cm³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5=250/v, so v=50 cm³.\nHint: Rearrange as v=m/d.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If W=$900, b=$720 and r=$24/h in W=b+1.5rh, find h.",
+    "answers": [
+      {
+        "text": "5 h",
+        "is_correct": true
+      },
+      {
+        "text": "4 h",
+        "is_correct": false
+      },
+      {
+        "text": "3 h",
+        "is_correct": false
+      },
+      {
+        "text": "2 h",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180=36h, so h=5.\nHint: Subtract base wage, then divide by 1.5r.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If HRmax=195 and HRmax=220−age, find age.",
+    "answers": [
+      {
+        "text": "25",
+        "is_correct": true
+      },
+      {
+        "text": "15",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "195=220−age, so age=25.\nHint: Find the difference between 220 and 195.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If C=18π and C=2πr, find r.",
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "18π=2πr, so r=9.\nHint: Divide both sides by 2π.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If V=96, l=8 and w=4 in V=lwh, find h.",
+    "answers": [
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "96=32h, so h=3.\nHint: Divide volume by l×w.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If p=50 and b=8 in p=6g+b, find g.",
+    "answers": [
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "50−8=42 and 42÷6=7 goals.\nHint: Remove behind points before dividing by 6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If d=3 g/cm³ and v=40 cm³, find m using d=m/v.",
+    "answers": [
+      {
+        "text": "120 g",
+        "is_correct": true
+      },
+      {
+        "text": "80 g",
+        "is_correct": false
+      },
+      {
+        "text": "40 g",
+        "is_correct": false
+      },
+      {
+        "text": "3 g",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "m=dv=3×40=120 g.\nHint: Multiply density by volume.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "If HRtarget=140 and HRtarget=0.7HRmax, find HRmax.",
+    "answers": [
+      {
+        "text": "200",
+        "is_correct": true
+      },
+      {
+        "text": "180",
+        "is_correct": false
+      },
+      {
+        "text": "160",
+        "is_correct": false
+      },
+      {
+        "text": "140",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "HRmax=140÷0.7=200.\nHint: Undo multiplication by 0.7 using division.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "If both l and w double in A=lw, what happens to area?",
+    "answers": [
+      {
+        "text": "It becomes 4 times as large",
+        "is_correct": true
+      },
+      {
+        "text": "It doubles",
+        "is_correct": false
+      },
+      {
+        "text": "It halves",
+        "is_correct": false
+      },
+      {
+        "text": "It stays the same",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "(2l)(2w)=4lw.\nHint: Both multiplicative factors change.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "Using d=m/v, mass doubles while volume stays fixed. What happens to density?",
+    "answers": [
+      {
+        "text": "It doubles",
+        "is_correct": true
+      },
+      {
+        "text": "It halves",
+        "is_correct": false
+      },
+      {
+        "text": "It stays the same",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes zero",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2m/v=2d.\nHint: Only the numerator doubles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "Using d=m/v, both mass and volume double. What happens to density?",
+    "answers": [
+      {
+        "text": "It stays the same",
+        "is_correct": true
+      },
+      {
+        "text": "It doubles",
+        "is_correct": false
+      },
+      {
+        "text": "It halves",
+        "is_correct": false
+      },
+      {
+        "text": "It quadruples",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2m/(2v)=m/v, so density is unchanged.\nHint: The common factor cancels.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "In W=b+1.5rh, h doubles while b and r stay fixed. Which statement is correct?",
+    "answers": [
+      {
+        "text": "The overtime component doubles, so total wage increases but need not double",
+        "is_correct": true
+      },
+      {
+        "text": "The whole wage doubles",
+        "is_correct": false
+      },
+      {
+        "text": "The wage stays fixed",
+        "is_correct": false
+      },
+      {
+        "text": "The base wage doubles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Only 1.5rh doubles; the fixed base wage does not.\nHint: Separate fixed and variable parts.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "In Q=Av, A decreases while v increases. What can be concluded about Q without knowing the factors?",
+    "answers": [
+      {
+        "text": "Q could increase, decrease or stay the same",
+        "is_correct": true
+      },
+      {
+        "text": "Q must decrease",
+        "is_correct": false
+      },
+      {
+        "text": "Q must increase",
+        "is_correct": false
+      },
+      {
+        "text": "Q must stay the same",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Opposing changes cannot determine the product without sizes of the changes.\nHint: A product depends on both scale factors.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "Using HRmax=220−age, what happens to predicted HRmax as age increases?",
+    "answers": [
+      {
+        "text": "It decreases",
+        "is_correct": true
+      },
+      {
+        "text": "It increases",
+        "is_correct": false
+      },
+      {
+        "text": "It stays the same",
+        "is_correct": false
+      },
+      {
+        "text": "It doubles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Subtracting a larger age gives a smaller result.\nHint: Think about the negative coefficient of age.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "A student uses d=mv and gets 24,000 for m=300 g and v=80 cm³. What is the key error?",
+    "answers": [
+      {
+        "text": "Density should be mass divided by volume",
+        "is_correct": true
+      },
+      {
+        "text": "The mass should be added to volume",
+        "is_correct": false
+      },
+      {
+        "text": "Volume should be squared",
+        "is_correct": false
+      },
+      {
+        "text": "The units should be metres",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The correct formula is d=m/v, giving 3.75 g/cm³.\nHint: Use units to test the operation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "Which formula best models the total cost C of n tickets costing $12 each plus a fixed $5 booking fee?",
+    "answers": [
+      {
+        "text": "C=12n+5",
+        "is_correct": true
+      },
+      {
+        "text": "C=12+n+5",
+        "is_correct": false
+      },
+      {
+        "text": "C=5n+12",
+        "is_correct": false
+      },
+      {
+        "text": "C=12n×5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Variable ticket cost is 12n and the fixed fee is added once.\nHint: Separate variable and fixed components.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "A taxi charges a $4 start fee plus $2.50 per kilometre k. Which formula gives cost C?",
+    "answers": [
+      {
+        "text": "C=4+2.5k",
+        "is_correct": true
+      },
+      {
+        "text": "C=4k+2.5",
+        "is_correct": false
+      },
+      {
+        "text": "C=6.5k",
+        "is_correct": false
+      },
+      {
+        "text": "C=4×2.5×k",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The fixed fee is 4 and distance-dependent cost is 2.5k.\nHint: Translate each part of the context.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "A hypothetical water-monitoring model uses Q=Av. Which statement best describes the variables?",
+    "answers": [
+      {
+        "text": "A and v represent measurable channel attributes used to calculate flow Q",
+        "is_correct": true
+      },
+      {
+        "text": "A and v are labels with no physical meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Q must always equal A",
+        "is_correct": false
+      },
+      {
+        "text": "v represents area",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Variables stand for measurable attributes in the model.\nHint: Connect each symbol to the physical quantity it represents.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "practice",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "Use C=4.5+2.2d with the input value 8. What is the output?",
     "answers": [
       {
         "text": "22.1",
@@ -27,29 +1301,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Substitute values with brackets and follow operation order; the result is 22.1.",
       "hint": "Substitute with brackets, keep units consistent and check in the original formula."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A01-P-041"
   },
   {
-    "id": "AC9M7A01-P-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
     "question": "Use m=ρV with ρ=2.5,V=8. What is the output?",
-    "audio_prompt": "Use m=ρV with ρ=2.5,V=8. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
     "answers": [
       {
         "text": "15",
@@ -64,28 +1329,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Substitute values with brackets and follow operation order; the result is 20.",
       "hint": "Substitute with brackets, keep units consistent and check in the original formula."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A01-P-042"
   },
   {
-    "id": "AC9M7A01-P-017",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
+    "skill": "ac9m7a01",
+    "difficulty": "super-hard",
     "question": "Use A=bh. Given A=54,b=9, find the unknown.",
-    "audio_prompt": "Use A=bh. Given A=54,b=9, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
     "answers": [
       {
         "text": "h=8",
@@ -100,28 +1357,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Undo operations or substitute known values, then check in the original formula; h=6.",
       "hint": "Substitute with brackets, keep units consistent and check in the original formula."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A01-P-043"
   },
   {
-    "id": "AC9M7A01-P-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
+    "skill": "ac9m7a01",
+    "difficulty": "super-hard",
     "question": "Use P=2l+2w with l=8,w=5. What is the output?",
-    "audio_prompt": "Use P=2l+2w with l=8,w=5. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
     "answers": [
       {
         "text": "31",
@@ -136,29 +1385,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Substitute values with brackets and follow operation order; the result is 26.",
       "hint": "Substitute with brackets, keep units consistent and check in the original formula."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A01-P-044"
   },
   {
-    "id": "AC9M7A01-P-010",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
+    "skill": "ac9m7a01",
+    "difficulty": "super-hard",
     "question": "Use F=1.8C+32 with the input value 20. What is the output?",
-    "audio_prompt": "Use F=1.8C+32 with the input value 20. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
     "answers": [
       {
         "text": "68",
@@ -173,28 +1413,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Substitute values with brackets and follow operation order; the result is 68.",
       "hint": "Substitute with brackets, keep units consistent and check in the original formula."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A01-P-045"
   },
   {
-    "id": "AC9M7A01-P-018",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
+    "skill": "ac9m7a01",
+    "difficulty": "super-hard",
     "question": "Use d=rt. Given d=150,t=3, find the unknown.",
-    "audio_prompt": "Use d=rt. Given d=150,t=3, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
     "answers": [
       {
         "text": "r=100",
@@ -209,28 +1441,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Undo operations or substitute known values, then check in the original formula; r=50.",
       "hint": "Substitute with brackets, keep units consistent and check in the original formula."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A01-P-046"
   },
   {
-    "id": "AC9M7A01-P-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
+    "skill": "ac9m7a01",
+    "difficulty": "super-hard",
     "question": "Use A=lw with l=12,w=7. What is the output?",
-    "audio_prompt": "Use A=lw with l=12,w=7. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
     "answers": [
       {
         "text": "79",
@@ -245,29 +1469,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Substitute values with brackets and follow operation order; the result is 84.",
       "hint": "Substitute with brackets, keep units consistent and check in the original formula."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A01-P-047"
   },
   {
-    "id": "AC9M7A01-P-011",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
+    "skill": "ac9m7a01",
+    "difficulty": "super-hard",
     "question": "Use W=b+1.5hr with b=600,h=4,r=30. What is the output?",
-    "audio_prompt": "Use W=b+1.5hr with b=600,h=4,r=30. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
     "answers": [
       {
         "text": "785",
@@ -282,1137 +1497,522 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Substitute values with brackets and follow operation order; the result is 780.",
       "hint": "Substitute with brackets, keep units consistent and check in the original formula."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A01-P-048"
   },
   {
-    "id": "AC9M7A01-P-019",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use P=2l+2w. Given P=30,w=5, find the unknown.",
-    "audio_prompt": "Use P=2l+2w. Given P=30,w=5, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "A rectangle has A=lw. If A=162 m² and l=18 m, what is w?",
     "answers": [
       {
-        "text": "l=10",
+        "text": "9 m",
         "is_correct": true
       },
       {
-        "text": "l=12",
+        "text": "18 m",
         "is_correct": false
       },
       {
-        "text": "l=20",
+        "text": "144 m",
+        "is_correct": false
+      },
+      {
+        "text": "2916 m",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Undo operations or substitute known values, then check in the original formula; l=10.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+      "summary": "w=A/l=162/18=9 m.\nHint: Rearrange the formula for the unknown.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A01-T-001"
   },
   {
-    "id": "AC9M7A01-P-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use d=rt with r=60,t=2.5. What is the output?",
-    "audio_prompt": "Use d=rt with r=60,t=2.5. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "150",
-        "is_correct": true
-      },
-      {
-        "text": "155",
-        "is_correct": false
-      },
-      {
-        "text": "145",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Substitute values with brackets and follow operation order; the result is 150.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A01-P-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use A=bh/2 with b=10,h=7. What is the output?",
-    "audio_prompt": "Use A=bh/2 with b=10,h=7. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "30",
-        "is_correct": false
-      },
-      {
-        "text": "40",
-        "is_correct": false
-      },
-      {
-        "text": "35",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Substitute values with brackets and follow operation order; the result is 35.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A01-P-020",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use C=4.5+2.2d. Given C=26.5, find the unknown.",
-    "audio_prompt": "Use C=4.5+2.2d. Given C=26.5, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "d=12",
-        "is_correct": false
-      },
-      {
-        "text": "d=10",
-        "is_correct": true
-      },
-      {
-        "text": "d=20",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Undo operations or substitute known values, then check in the original formula; d=10.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A01-P-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use V=lwh with l=4,w=3,h=5. What is the output?",
-    "audio_prompt": "Use V=lwh with l=4,w=3,h=5. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "65",
-        "is_correct": false
-      },
-      {
-        "text": "60",
-        "is_correct": true
-      },
-      {
-        "text": "55",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Substitute values with brackets and follow operation order; the result is 60.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A01-P-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use S=50+3n with the input value 12. What is the output?",
-    "audio_prompt": "Use S=50+3n with the input value 12. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "86",
-        "is_correct": true
-      },
-      {
-        "text": "91",
-        "is_correct": false
-      },
-      {
-        "text": "81",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Substitute values with brackets and follow operation order; the result is 86.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A01-P-021",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use V=lwh. Given V=120,l=5,w=4, find the unknown.",
-    "audio_prompt": "Use V=lwh. Given V=120,l=5,w=4, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "h=12",
-        "is_correct": false
-      },
-      {
-        "text": "h=8",
-        "is_correct": false
-      },
-      {
-        "text": "h=6",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Undo operations or substitute known values, then check in the original formula; h=6.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A01-P-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use p=6g+b with g=4,b=3. What is the output?",
-    "audio_prompt": "Use p=6g+b with g=4,b=3. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "22",
-        "is_correct": false
-      },
-      {
-        "text": "32",
-        "is_correct": false
-      },
-      {
-        "text": "27",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Substitute values with brackets and follow operation order; the result is 27.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A01-P-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use E=pt with p=2.4,t=5. What is the output?",
-    "audio_prompt": "Use E=pt with p=2.4,t=5. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "A team scores p=6g+b. If p=47 and g=5, how many behinds were scored?",
     "answers": [
       {
         "text": "17",
-        "is_correct": false
+        "is_correct": true
       },
       {
         "text": "12",
-        "is_correct": true
+        "is_correct": false
       },
       {
         "text": "7",
         "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Substitute values with brackets and follow operation order; the result is 12.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+      "summary": "47=30+b, so b=17.\nHint: Subtract the points from goals.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A01-T-002"
   },
   {
-    "id": "AC9M7A01-P-022",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use m=ρV. Given m=84,V=12, find the unknown.",
-    "audio_prompt": "Use m=ρV. Given m=84,V=12, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "Using W=b+1.5rh, b=$720, r=$24 and W=$900. Find h.",
     "answers": [
       {
-        "text": "ρ=7",
+        "text": "5 h",
         "is_correct": true
       },
       {
-        "text": "ρ=9",
+        "text": "4 h",
         "is_correct": false
       },
       {
-        "text": "ρ=14",
+        "text": "7.5 h",
+        "is_correct": false
+      },
+      {
+        "text": "3 h",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Undo operations or substitute known values, then check in the original formula; ρ=7.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+      "summary": "900−720=180 and 1.5×24=36, so h=5.\nHint: Separate base wage from overtime pay.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A01-T-003"
   },
   {
-    "id": "AC9M7A01-P-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use C=12+0.8n with the input value 25. What is the output?",
-    "audio_prompt": "Use C=12+0.8n with the input value 25. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "easy",
+    "question": "Using d=m/v, d=4.5 g/cm³ and m=360 g. Find v.",
     "answers": [
       {
-        "text": "32",
+        "text": "80 cm³",
         "is_correct": true
       },
       {
-        "text": "37",
+        "text": "1620 cm³",
         "is_correct": false
       },
       {
-        "text": "27",
+        "text": "355.5 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "4.5 cm³",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Substitute values with brackets and follow operation order; the result is 32.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+      "summary": "v=m/d=360/4.5=80 cm³.\nHint: Rearrange d=m/v.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A01-T-004"
   },
   {
-    "id": "AC9M7A01-P-015",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use C=3x+5 with the input value 9. What is the output?",
-    "audio_prompt": "Use C=3x+5 with the input value 9. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "For age 15, HRmax=220−age and HRtarget=0.7HRmax. Find HRtarget.",
     "answers": [
       {
-        "text": "27",
-        "is_correct": false
-      },
-      {
-        "text": "37",
-        "is_correct": false
-      },
-      {
-        "text": "32",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Substitute values with brackets and follow operation order; the result is 32.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A01-P-023",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use p=6g+b. Given p=44,g=7, find the unknown.",
-    "audio_prompt": "Use p=6g+b. Given p=44,g=7, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "b=4",
-        "is_correct": false
-      },
-      {
-        "text": "b=2",
+        "text": "143.5 bpm",
         "is_correct": true
       },
       {
-        "text": "0",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Undo operations or substitute known values, then check in the original formula; b=2.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A01-P-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use T=20+5h with the input value 7. What is the output?",
-    "audio_prompt": "Use T=20+5h with the input value 7. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "60",
+        "text": "205 bpm",
         "is_correct": false
       },
       {
-        "text": "55",
+        "text": "154 bpm",
+        "is_correct": false
+      },
+      {
+        "text": "140 bpm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "HRmax=205; target=0.7×205=143.5 bpm.\nHint: Evaluate the first formula before the second.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "A streaming plan costs $11 per month plus $3 for each movie m. Which formula models monthly cost C?",
+    "answers": [
+      {
+        "text": "C=11+3m",
         "is_correct": true
       },
       {
-        "text": "50",
+        "text": "C=14m",
+        "is_correct": false
+      },
+      {
+        "text": "C=11m+3",
+        "is_correct": false
+      },
+      {
+        "text": "C=33m",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Substitute values with brackets and follow operation order; the result is 55.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+      "summary": "11 is fixed and 3m varies with movies.\nHint: Separate fixed and variable costs.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A01-T-006"
   },
   {
-    "id": "AC9M7A01-P-016",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use D=100-4t with the input value 12. What is the output?",
-    "audio_prompt": "Use D=100-4t with the input value 12. What is the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "Two plans are C=8+4n and D=20+2n. At n=6, which statement is correct?",
     "answers": [
+      {
+        "text": "They cost the same",
+        "is_correct": true
+      },
+      {
+        "text": "C is $4 cheaper",
+        "is_correct": false
+      },
+      {
+        "text": "D is $4 cheaper",
+        "is_correct": false
+      },
+      {
+        "text": "C costs twice D",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C=32 and D=32.\nHint: Substitute the same n into both formulas.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "For V=lwh, l doubles and h halves while w is unchanged. What happens to V?",
+    "answers": [
+      {
+        "text": "It stays the same",
+        "is_correct": true
+      },
+      {
+        "text": "It doubles",
+        "is_correct": false
+      },
+      {
+        "text": "It halves",
+        "is_correct": false
+      },
+      {
+        "text": "It quadruples",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2×1/2=1, so the scale factors cancel.\nHint: Multiply the dimension scale factors.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "A student calculates C=2πr with r=6 and reports C=12 cm. What is missing?",
+    "answers": [
+      {
+        "text": "The factor π",
+        "is_correct": true
+      },
+      {
+        "text": "The radius",
+        "is_correct": false
+      },
+      {
+        "text": "The factor 2",
+        "is_correct": false
+      },
+      {
+        "text": "The units",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C=12π cm, approximately 37.7 cm.\nHint: Substitute every part of the formula.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "medium",
+    "question": "In T=18+0.6d, what does 18 most likely represent if T is taxi fare and d is distance?",
+    "answers": [
+      {
+        "text": "A fixed starting charge",
+        "is_correct": true
+      },
+      {
+        "text": "Cost per kilometre",
+        "is_correct": false
+      },
+      {
+        "text": "Distance travelled",
+        "is_correct": false
+      },
+      {
+        "text": "Total fare per kilometre",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A constant term is independent of d, so it represents a fixed charge.\nHint: Distinguish constants from variable terms.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "For Q=Av, Q=30 m³/s and A=12 m². Find v.",
+    "answers": [
+      {
+        "text": "2.5 m/s",
+        "is_correct": true
+      },
+      {
+        "text": "18 m/s",
+        "is_correct": false
+      },
+      {
+        "text": "360 m/s",
+        "is_correct": false
+      },
+      {
+        "text": "0.4 m/s",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "v=Q/A=30/12=2.5 m/s.\nHint: Divide flow by cross-sectional area.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "For d=m/v, m is tripled and v is halved. How does d change?",
+    "answers": [
+      {
+        "text": "It becomes 6 times as large",
+        "is_correct": true
+      },
+      {
+        "text": "It becomes 1.5 times as large",
+        "is_correct": false
+      },
+      {
+        "text": "It triples",
+        "is_correct": false
+      },
+      {
+        "text": "It halves",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "(3m)/(v/2)=6m/v.\nHint: Apply both scale factors to the quotient.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A01",
+    "bank": "test",
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "A source gives F=1.8C+32. What is F when C=20?",
+    "answers": [
+      {
+        "text": "68",
+        "is_correct": true
+      },
       {
         "text": "52",
-        "is_correct": true
-      },
-      {
-        "text": "57",
         "is_correct": false
       },
       {
-        "text": "47",
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "90",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Substitute values with brackets and follow operation order; the result is 52.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
+      "summary": "F=1.8×20+32=68.\nHint: Substitute before adding the constant.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A01-T-013"
   },
   {
-    "id": "AC9M7A01-P-024",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "practice",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use A=lw. Given A=96,l=12, find the unknown.",
-    "audio_prompt": "Use A=lw. Given A=96,l=12, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "w=16",
-        "is_correct": false
-      },
-      {
-        "text": "w=10",
-        "is_correct": false
-      },
-      {
-        "text": "w=8",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Undo operations or substitute known values, then check in the original formula; w=8.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A01-T-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use E=pt. Given E=45,t=9, find the unknown.",
-    "audio_prompt": "Use E=pt. Given E=45,t=9, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
+    "skill": "ac9m7a01",
+    "difficulty": "hard",
+    "question": "Using F=1.8C+32, find C when F=77.",
     "answers": [
       {
-        "text": "p=5",
+        "text": "25",
         "is_correct": true
       },
       {
-        "text": "p=7",
+        "text": "45",
         "is_correct": false
       },
       {
-        "text": "p=10",
+        "text": "19",
+        "is_correct": false
+      },
+      {
+        "text": "109",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Undo operations or substitute known values, then check in the original formula; p=5.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
+      "summary": "77−32=45; 45/1.8=25.\nHint: Undo +32, then ×1.8.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-T-014"
   },
   {
-    "id": "AC9M7A01-T-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: Density equals mass divided by volume?",
-    "audio_prompt": "Which formula models: Density equals mass divided by volume?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
+    "skill": "ac9m7a01",
+    "difficulty": "super-hard",
+    "question": "Which is the best reason to include units when interpreting a formula result?",
     "answers": [
       {
-        "text": "ρ=mV",
-        "is_correct": false
-      },
-      {
-        "text": "m/V=ρ",
-        "is_correct": false
-      },
-      {
-        "text": "ρ=m/V",
+        "text": "Units connect the numerical result to the measured quantity in context",
         "is_correct": true
+      },
+      {
+        "text": "Units make every answer larger",
+        "is_correct": false
+      },
+      {
+        "text": "Units replace substitution",
+        "is_correct": false
+      },
+      {
+        "text": "Units prove the formula is always correct",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: ρ=m/V.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
+      "summary": "Units identify what the result measures and help check consistency.\nHint: Think about communication and validation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A01-T-015"
   },
   {
-    "id": "AC9M7A01-T-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A01",
     "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use T=20+5h. Given T=65, find the unknown.",
-    "audio_prompt": "Use T=20+5h. Given T=65, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
+    "skill": "ac9m7a01",
+    "difficulty": "super-hard",
+    "question": "A hypothetical channel model uses Q=Av. If A=15 m² and v=1.6 m/s, which interpretation is correct?",
     "answers": [
       {
-        "text": "h=11",
-        "is_correct": false
-      },
-      {
-        "text": "h=9",
+        "text": "The model predicts 24 m³ of water passes a cross-section each second",
         "is_correct": true
       },
       {
-        "text": "h=18",
+        "text": "The channel contains exactly 24 m³ of water",
+        "is_correct": false
+      },
+      {
+        "text": "The velocity is 24 m/s",
+        "is_correct": false
+      },
+      {
+        "text": "The area is 24 m²",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Undo operations or substitute known values, then check in the original formula; h=9.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: A weekly wage is base wage plus 1.5 times overtime hours times rate?",
-    "audio_prompt": "Which formula models: A weekly wage is base wage plus 1.5 times overtime hours times rate?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
+      "summary": "Q=15×1.6=24 m³/s, a flow rate.\nHint: Interpret the unit m³/s, not just the number.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "answers": [
-      {
-        "text": "W=b+1.5hr",
-        "is_correct": true
-      },
-      {
-        "text": "W=b-1.5hr",
-        "is_correct": false
-      },
-      {
-        "text": "b+1.5hr=W",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: W=b+1.5hr.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-003",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use S=50+3n. Given S=86, find the unknown.",
-    "audio_prompt": "Use S=50+3n. Given S=86, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "n=24",
-        "is_correct": false
-      },
-      {
-        "text": "n=14",
-        "is_correct": false
-      },
-      {
-        "text": "n=12",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Undo operations or substitute known values, then check in the original formula; n=12.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: A triangle's area is half base times height?",
-    "audio_prompt": "Which formula models: A triangle's area is half base times height?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "bh/2=A",
-        "is_correct": false
-      },
-      {
-        "text": "A=bh/2",
-        "is_correct": true
-      },
-      {
-        "text": "A=bh",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: A=bh/2.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Use F=1.8C+32. Given F=77, find the unknown.",
-    "audio_prompt": "Use F=1.8C+32. Given F=77, find the unknown.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "C=25",
-        "is_correct": true
-      },
-      {
-        "text": "C=27",
-        "is_correct": false
-      },
-      {
-        "text": "C=50",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Undo operations or substitute known values, then check in the original formula; C=25.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: A perimeter is twice length plus twice width?",
-    "audio_prompt": "Which formula models: A perimeter is twice length plus twice width?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "2l+2w=P",
-        "is_correct": false
-      },
-      {
-        "text": "P=2l-2w",
-        "is_correct": false
-      },
-      {
-        "text": "P=2l+2w",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: P=2l+2w.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: A rectangle's area equals length times width?",
-    "audio_prompt": "Which formula models: A rectangle's area equals length times width?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "lw=A",
-        "is_correct": false
-      },
-      {
-        "text": "A=lw",
-        "is_correct": true
-      },
-      {
-        "text": "A=l+w",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: A=lw.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: A temperature is 32 plus 1.8 times Celsius?",
-    "audio_prompt": "Which formula models: A temperature is 32 plus 1.8 times Celsius?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "F=32+1.8C",
-        "is_correct": true
-      },
-      {
-        "text": "F=32-1.8C",
-        "is_correct": false
-      },
-      {
-        "text": "32+1.8C=F",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: F=32+1.8C.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: A taxi costs $4.50 plus $2.20 per kilometre?",
-    "audio_prompt": "Which formula models: A taxi costs $4.50 plus $2.20 per kilometre?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "4.5+2.2d=C",
-        "is_correct": false
-      },
-      {
-        "text": "C=4.5-2.2d",
-        "is_correct": false
-      },
-      {
-        "text": "C=4.5+2.2d",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: C=4.5+2.2d.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: Energy equals power times time?",
-    "audio_prompt": "Which formula models: Energy equals power times time?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "pt=E",
-        "is_correct": false
-      },
-      {
-        "text": "E=pt",
-        "is_correct": true
-      },
-      {
-        "text": "E=p+t",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: E=pt.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: Distance equals rate times time?",
-    "audio_prompt": "Which formula models: Distance equals rate times time?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "d=rt",
-        "is_correct": true
-      },
-      {
-        "text": "rt=d",
-        "is_correct": false
-      },
-      {
-        "text": "d=r+t",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: d=rt.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: A phone plan costs $20 plus $5 per gigabyte?",
-    "audio_prompt": "Which formula models: A phone plan costs $20 plus $5 per gigabyte?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "20+5g=C",
-        "is_correct": false
-      },
-      {
-        "text": "C=20-5g",
-        "is_correct": false
-      },
-      {
-        "text": "C=20+5g",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: C=20+5g.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: A total has 6 points per goal plus 1 per behind?",
-    "audio_prompt": "Which formula models: A total has 6 points per goal plus 1 per behind?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "p=6g-b",
-        "is_correct": false
-      },
-      {
-        "text": "p=6g+b",
-        "is_correct": true
-      },
-      {
-        "text": "6g+b=p",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: p=6g+b.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
-  },
-  {
-    "id": "AC9M7A01-T-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A01",
-    "bank": "test",
-    "skill": "variables_formulas_and_substitution",
-    "question": "Which formula models: A tank volume is length times width times height?",
-    "audio_prompt": "Which formula models: A tank volume is length times width times height?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7a01",
-      "alt_text": "Formula machine showing input values substituted into variables before operations are evaluated."
-    },
-    "answers": [
-      {
-        "text": "V=lwh",
-        "is_correct": true
-      },
-      {
-        "text": "lwh=V",
-        "is_correct": false
-      },
-      {
-        "text": "V=l+w+h",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Assign variables to quantities and translate multiplicative and additive relationships: V=lwh.",
-      "hint": "Substitute with brackets, keep units consistent and check in the original formula."
-    }
+    "id": "AC9M7A01-T-016"
   }
 ]

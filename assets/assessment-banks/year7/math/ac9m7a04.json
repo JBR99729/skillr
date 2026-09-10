@@ -1,18 +1,1292 @@
 [
   {
-    "id": "AC9M7A04-P-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36. Which interpretation is supported?",
-    "audio_prompt": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36. Which interpretation is supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36."
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "An electricity-use graph rises sharply at 7 pm. What does this show?",
+    "answers": [
+      {
+        "text": "Usage is increasing rapidly",
+        "is_correct": true
+      },
+      {
+        "text": "Usage is constant",
+        "is_correct": false
+      },
+      {
+        "text": "Usage is falling rapidly",
+        "is_correct": false
+      },
+      {
+        "text": "The meter must be broken",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A steep upward segment shows a rapid increase in the plotted quantity.\nHint: Read the direction and steepness before guessing a cause.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7A04-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A gas-use graph is horizontal from midnight to 5 am. What can be concluded from the graph alone?",
+    "answers": [
+      {
+        "text": "The plotted gas-use value stayed constant",
+        "is_correct": true
+      },
+      {
+        "text": "No gas was used",
+        "is_correct": false
+      },
+      {
+        "text": "Gas use increased steadily",
+        "is_correct": false
+      },
+      {
+        "text": "Gas use decreased steadily",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A horizontal segment means the plotted vertical value did not change during that interval.\nHint: Horizontal means zero change in y, not necessarily y = 0.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A temperature graph has a steep negative slope from 2 am to 4 am. What does this mean?",
+    "answers": [
+      {
+        "text": "Temperature decreased rapidly",
+        "is_correct": true
+      },
+      {
+        "text": "Temperature increased rapidly",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature stayed constant",
+        "is_correct": false
+      },
+      {
+        "text": "Time moved backwards",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A steep negative slope represents rapid cooling over time.\nHint: Negative slope means y decreases as x increases.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A share-price graph has a shallow upward slope over 10 days. Which description is best?",
+    "answers": [
+      {
+        "text": "Price increased gradually",
+        "is_correct": true
+      },
+      {
+        "text": "Price increased rapidly",
+        "is_correct": false
+      },
+      {
+        "text": "Price was constant",
+        "is_correct": false
+      },
+      {
+        "text": "Price was necessarily predictable",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A shallow positive slope indicates gradual increase.\nHint: Slope describes change, not certainty.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A graph is flat from 9 am to 4 pm. What does the flat segment mean?",
+    "answers": [
+      {
+        "text": "The plotted quantity is constant",
+        "is_correct": true
+      },
+      {
+        "text": "The plotted quantity is zero",
+        "is_correct": false
+      },
+      {
+        "text": "The plotted quantity is increasing",
+        "is_correct": false
+      },
+      {
+        "text": "The plotted quantity is decreasing",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A flat segment shows no change in the vertical variable.\nHint: Do not confuse constant with zero.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A temperature reading appears as an almost vertical jump between two very close time measurements while nearby readings change smoothly. What should you do first?",
+    "answers": [
+      {
+        "text": "Check the sensor/data before interpreting the jump",
+        "is_correct": true
+      },
+      {
+        "text": "Assume instant heating definitely occurred",
+        "is_correct": false
+      },
+      {
+        "text": "Delete the whole graph",
+        "is_correct": false
+      },
+      {
+        "text": "Assume the temperature stayed constant",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "An isolated extreme change should be checked against data quality and context before being interpreted.\nHint: Unusual points may be real or erroneous; verify first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A stock graph falls steeply over one hour. Which conclusion is supported?",
+    "answers": [
+      {
+        "text": "The share value fell rapidly during that hour",
+        "is_correct": true
+      },
+      {
+        "text": "The company will fail",
+        "is_correct": false
+      },
+      {
+        "text": "The value fell slowly",
+        "is_correct": false
+      },
+      {
+        "text": "Trading stopped",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The graph supports a rapid decrease, not a prediction about the company.\nHint: Separate graph evidence from speculation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A household gas-use graph spikes at 6 am. Which is a plausible interpretation, not a certainty?",
+    "answers": [
+      {
+        "text": "Morning heating or cooking may have increased use",
+        "is_correct": true
+      },
+      {
+        "text": "Gas definitely leaked",
+        "is_correct": false
+      },
+      {
+        "text": "The meter definitely reset",
+        "is_correct": false
+      },
+      {
+        "text": "No gas was used",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Graphs can suggest plausible contextual explanations, but the graph alone may not prove the cause.\nHint: Use cautious language when explaining causes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "An electricity graph reaches its lowest point at 3 am. What can be concluded?",
+    "answers": [
+      {
+        "text": "Usage is lowest at 3 am among the times shown",
+        "is_correct": true
+      },
+      {
+        "text": "Usage is zero",
+        "is_correct": false
+      },
+      {
+        "text": "There is a blackout",
+        "is_correct": false
+      },
+      {
+        "text": "The graph is invalid",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The lowest plotted point is the minimum value shown.\nHint: Lowest does not necessarily mean zero.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A temperature graph is horizontal from 1 pm to 2 pm. What does this show?",
+    "answers": [
+      {
+        "text": "Temperature stayed constant",
+        "is_correct": true
+      },
+      {
+        "text": "Temperature rose rapidly",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature fell rapidly",
+        "is_correct": false
+      },
+      {
+        "text": "The sensor must be broken",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A horizontal line means no change in the plotted temperature.\nHint: Interpret the geometry first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "On a distance-time graph, a steeper straight segment represents what?",
+    "answers": [
+      {
+        "text": "A greater speed",
+        "is_correct": true
+      },
+      {
+        "text": "A smaller speed",
+        "is_correct": false
+      },
+      {
+        "text": "No movement",
+        "is_correct": false
+      },
+      {
+        "text": "A smaller distance only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "For distance against time, slope magnitude represents speed.\nHint: Compare rise in distance per unit time.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A distance-time graph is horizontal for 8 minutes. What happened?",
+    "answers": [
+      {
+        "text": "The traveller stopped",
+        "is_correct": true
+      },
+      {
+        "text": "The traveller moved at constant non-zero speed",
+        "is_correct": false
+      },
+      {
+        "text": "The traveller returned toward the start",
+        "is_correct": false
+      },
+      {
+        "text": "The traveller accelerated",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Distance from the start did not change during the horizontal segment.\nHint: No change in distance means stationary in this model.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "On a distance-from-home versus time graph, the line slopes downward. What does this indicate?",
+    "answers": [
+      {
+        "text": "The traveller is moving closer to home",
+        "is_correct": true
+      },
+      {
+        "text": "The traveller is moving farther from home",
+        "is_correct": false
+      },
+      {
+        "text": "The traveller is stationary",
+        "is_correct": false
+      },
+      {
+        "text": "Time is decreasing",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A decreasing distance from home indicates movement back toward home.\nHint: Check what the vertical axis measures.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "Two straight distance-time segments cover the same time. Segment A rises 120 m and segment B rises 60 m. Which is true?",
+    "answers": [
+      {
+        "text": "A represents twice the speed of B",
+        "is_correct": true
+      },
+      {
+        "text": "B represents twice the speed of A",
+        "is_correct": false
+      },
+      {
+        "text": "They represent the same speed",
+        "is_correct": false
+      },
+      {
+        "text": "Neither represents motion",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Over equal times, twice the distance means twice the speed.\nHint: Use slope = change in distance / change in time.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A distance-time graph shows steep rise → horizontal → shallow rise. Which story matches?",
+    "answers": [
+      {
+        "text": "Fast travel → stop → slower travel",
+        "is_correct": true
+      },
+      {
+        "text": "Stop → fast travel → return",
+        "is_correct": false
+      },
+      {
+        "text": "Slow travel → fast travel → stop",
+        "is_correct": false
+      },
+      {
+        "text": "Fast travel at constant speed throughout",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Steepness indicates speed and a horizontal segment indicates a stop.\nHint: Translate one segment at a time.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A curved distance-time graph becomes progressively steeper. What does that indicate?",
+    "answers": [
+      {
+        "text": "Speed is increasing",
+        "is_correct": true
+      },
+      {
+        "text": "Speed is decreasing",
+        "is_correct": false
+      },
+      {
+        "text": "Speed is constant",
+        "is_correct": false
+      },
+      {
+        "text": "The traveller is stopped",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Increasing slope magnitude means increasing speed.\nHint: Look at how the tangent/slope changes over time.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A distance-time curve becomes progressively less steep while still rising. What is happening?",
+    "answers": [
+      {
+        "text": "The traveller is slowing down while still moving away",
+        "is_correct": true
+      },
+      {
+        "text": "The traveller is speeding up",
+        "is_correct": false
+      },
+      {
+        "text": "The traveller is stationary",
+        "is_correct": false
+      },
+      {
+        "text": "The traveller is returning",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The distance still increases, but the rate of increase is getting smaller.\nHint: Direction and rate are separate ideas.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A distance-from-home graph rises from zero and later returns to zero. What does that indicate?",
+    "answers": [
+      {
+        "text": "The traveller returned home",
+        "is_correct": true
+      },
+      {
+        "text": "The traveller never left home",
+        "is_correct": false
+      },
+      {
+        "text": "The traveller stopped permanently",
+        "is_correct": false
+      },
+      {
+        "text": "The graph shows speed, not distance",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Returning to zero distance from home means ending back at home.\nHint: Use the axis meaning, not only the slope.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A distance-time graph alternates between steep and shallow rising segments. What is changing?",
+    "answers": [
+      {
+        "text": "Speed",
+        "is_correct": true
+      },
+      {
+        "text": "Time direction",
+        "is_correct": false
+      },
+      {
+        "text": "Starting position only",
+        "is_correct": false
+      },
+      {
+        "text": "Units",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Different slope steepnesses indicate different speeds.\nHint: Slope on a distance-time graph is speed.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "Which graph feature most clearly represents a long stop on a distance-time graph?",
+    "answers": [
+      {
+        "text": "A long horizontal segment",
+        "is_correct": true
+      },
+      {
+        "text": "A long steep segment",
+        "is_correct": false
+      },
+      {
+        "text": "A vertical segment",
+        "is_correct": false
+      },
+      {
+        "text": "A downward curve",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A horizontal distance-time segment indicates no change in distance.\nHint: Stopped means speed zero.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A volume-versus-time graph starts shallow and becomes steep. What does this show?",
+    "answers": [
+      {
+        "text": "The rate of filling is increasing",
+        "is_correct": true
+      },
+      {
+        "text": "The rate of filling is decreasing",
+        "is_correct": false
+      },
+      {
+        "text": "Volume is constant",
+        "is_correct": false
+      },
+      {
+        "text": "The container is definitely leaking",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The slope of volume against time is the filling rate.\nHint: Steeper slope means more volume added per unit time.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A tank-volume graph is still rising but gradually flattens. What does this imply?",
+    "answers": [
+      {
+        "text": "The filling rate is decreasing",
+        "is_correct": true
+      },
+      {
+        "text": "The filling rate is increasing",
+        "is_correct": false
+      },
+      {
+        "text": "The tank volume is decreasing",
+        "is_correct": false
+      },
+      {
+        "text": "The tank must already be full",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A smaller positive slope means volume is still increasing, but more slowly.\nHint: Do not call it stopped until the slope reaches zero.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A water-volume graph has a steep negative slope. What is happening?",
+    "answers": [
+      {
+        "text": "Water volume is decreasing rapidly",
+        "is_correct": true
+      },
+      {
+        "text": "Water volume is increasing rapidly",
+        "is_correct": false
+      },
+      {
+        "text": "Water volume is constant",
+        "is_correct": false
+      },
+      {
+        "text": "The tank is necessarily empty",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A steep negative slope indicates rapid loss of volume.\nHint: Negative = decreasing; steep = rapid.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A volume-time graph shows steep rise → shallow rise → flat. Which story fits?",
+    "answers": [
+      {
+        "text": "Fast filling → slower filling → stop",
+        "is_correct": true
+      },
+      {
+        "text": "Slow filling → fast filling → stop",
+        "is_correct": false
+      },
+      {
+        "text": "Fast draining → slow draining → overflow",
+        "is_correct": false
+      },
+      {
+        "text": "No filling at any time",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Slope describes the rate and a flat segment means volume is no longer changing.\nHint: Read each segment in sequence.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "What does a changing slope generally indicate on a graph of one quantity against time?",
+    "answers": [
+      {
+        "text": "A changing rate of change",
+        "is_correct": true
+      },
+      {
+        "text": "A constant rate",
+        "is_correct": false
+      },
+      {
+        "text": "A zero value",
+        "is_correct": false
+      },
+      {
+        "text": "An incorrect graph",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Changing slope means the rate is not constant.\nHint: Slope is the rate of change.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A height-of-liquid graph steepens while liquid is poured at a constant volume rate. Which explanation is plausible?",
+    "answers": [
+      {
+        "text": "The container may be narrowing higher up",
+        "is_correct": true
+      },
+      {
+        "text": "The pouring rate must be increasing",
+        "is_correct": false
+      },
+      {
+        "text": "The liquid density is changing",
+        "is_correct": false
+      },
+      {
+        "text": "Time is slowing",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With constant volume flow, height rises faster where the container has smaller cross-sectional area.\nHint: Graph shape can reflect container geometry.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A distance-from-home graph rises quickly, rises slowly, then falls quickly. Which story matches?",
+    "answers": [
+      {
+        "text": "Fast away → slower away → fast return",
+        "is_correct": true
+      },
+      {
+        "text": "Slow away → fast away → slow return",
+        "is_correct": false
+      },
+      {
+        "text": "Stop → stop → stop",
+        "is_correct": false
+      },
+      {
+        "text": "Fast return → slow return → fast away",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Positive slopes move away; negative slopes move toward home; steepness reflects speed.\nHint: Track both sign and steepness.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A temperature graph is flat, then rises steeply, then falls steeply. Which description is best?",
+    "answers": [
+      {
+        "text": "Stable → rapid warming → rapid cooling",
+        "is_correct": true
+      },
+      {
+        "text": "Cooling → stable → warming",
+        "is_correct": false
+      },
+      {
+        "text": "Rapid warming throughout",
+        "is_correct": false
+      },
+      {
+        "text": "Stable throughout",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Flat means stable, steep positive means rapid warming, steep negative means rapid cooling.\nHint: Translate the segments in order.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "Gas usage rises rapidly at 6 am, stays roughly constant through the day, then falls rapidly at 10 pm. Which interpretation best matches?",
+    "answers": [
+      {
+        "text": "Morning increase → stable daytime use → night decrease",
+        "is_correct": true
+      },
+      {
+        "text": "Night decrease → morning increase → afternoon surge",
+        "is_correct": false
+      },
+      {
+        "text": "No change all day",
+        "is_correct": false
+      },
+      {
+        "text": "Usage is always zero",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The graph supports changing periods of increase, stability and decrease.\nHint: Match slope sign to each interval.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "Electricity use shows shallow rise → steep rise → shallow fall. What does this mean?",
+    "answers": [
+      {
+        "text": "Slow increase → rapid increase → slow decrease",
+        "is_correct": true
+      },
+      {
+        "text": "Rapid increase → slow increase → rapid decrease",
+        "is_correct": false
+      },
+      {
+        "text": "No change",
+        "is_correct": false
+      },
+      {
+        "text": "Rapid decrease throughout",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Slope direction gives increase/decrease; steepness gives rate.\nHint: Read both sign and magnitude of slope.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "In a linear model y = 2.5x + 10, what does 2.5 represent?",
+    "answers": [
+      {
+        "text": "The predicted increase in y for each 1-unit increase in x",
+        "is_correct": true
+      },
+      {
+        "text": "The strength of the relationship",
+        "is_correct": false
+      },
+      {
+        "text": "The value of x when y = 0",
+        "is_correct": false
+      },
+      {
+        "text": "The prediction when x = 0",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The slope is the predicted change in y per unit change in x.\nHint: Slope is rate of change, not correlation strength.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "In y = 2.5x + 10, what does 10 represent?",
+    "answers": [
+      {
+        "text": "The predicted y-value when x = 0",
+        "is_correct": true
+      },
+      {
+        "text": "The slope",
+        "is_correct": false
+      },
+      {
+        "text": "The largest possible y-value",
+        "is_correct": false
+      },
+      {
+        "text": "The strength of the relationship",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The intercept is where the model crosses the y-axis.\nHint: Set x = 0.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "Data points lie close to a fitted line with small vertical gaps. What does this suggest?",
+    "answers": [
+      {
+        "text": "The line fits these data relatively well",
+        "is_correct": true
+      },
+      {
+        "text": "The slope must be steep",
+        "is_correct": false
+      },
+      {
+        "text": "The variables have no relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Every prediction is exact",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Small residuals suggest the fitted line represents the observed data reasonably well.\nHint: Fit concerns closeness to the model, not steepness.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "A data point lies far from the overall trend and fitted line. What is it commonly called?",
+    "answers": [
+      {
+        "text": "An outlier",
+        "is_correct": true
+      },
+      {
+        "text": "An intercept",
+        "is_correct": false
+      },
+      {
+        "text": "A slope",
+        "is_correct": false
+      },
+      {
+        "text": "A scale",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "An unusually distant observation is commonly described as an outlier.\nHint: Compare the point with the main pattern.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "Model A has slope 5 and widely scattered points; Model B has slope 1 and points tightly clustered around its line. Which statement is best?",
+    "answers": [
+      {
+        "text": "Model B may show a stronger linear association despite its smaller slope",
+        "is_correct": true
+      },
+      {
+        "text": "Model A must have the stronger relationship because its slope is steeper",
+        "is_correct": false
+      },
+      {
+        "text": "Both relationships must be equally strong",
+        "is_correct": false
+      },
+      {
+        "text": "Slope alone proves model accuracy",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Slope size and strength of association are different ideas.\nHint: Strength depends on scatter around the pattern.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "An evaporation-rate graph is nearly flat for several hours. What does this show?",
+    "answers": [
+      {
+        "text": "The evaporation rate is approximately stable",
+        "is_correct": true
+      },
+      {
+        "text": "No water exists",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature must be zero",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation is increasing rapidly",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A flat rate graph means the rate itself is approximately constant.\nHint: Read exactly what the vertical axis measures.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "An evaporation-rate graph rises sharply during a hot period, drops after cloud cover, then becomes nearly flat in the evening. Which story is most consistent?",
+    "answers": [
+      {
+        "text": "Heat increased evaporation, cloud reduced it, then conditions stabilised",
+        "is_correct": true
+      },
+      {
+        "text": "Cooling caused the first rise and heating caused the drop",
+        "is_correct": false
+      },
+      {
+        "text": "Rainfall must have stopped evaporation completely",
+        "is_correct": false
+      },
+      {
+        "text": "The graph gives no information about change",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The pattern is consistent with changing environmental conditions, though causes should be stated cautiously.\nHint: Use 'consistent with' when a graph does not prove cause.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "Evaporation rate increases across several hotter, drier weeks. Which conclusion is directly supported?",
+    "answers": [
+      {
+        "text": "Evaporation rate increased over the period",
+        "is_correct": true
+      },
+      {
+        "text": "The landscape definitely became a desert",
+        "is_correct": false
+      },
+      {
+        "text": "Rainfall was exactly zero",
+        "is_correct": false
+      },
+      {
+        "text": "All water sources dried completely",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The graph directly supports the change in evaporation rate, not broader unmeasured claims.\nHint: Distinguish evidence from inference.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "A fitted line slopes upward. What does the model predict, all else equal?",
+    "answers": [
+      {
+        "text": "Higher x values are associated with higher predicted y values",
+        "is_correct": true
+      },
+      {
+        "text": "Higher x values force lower y values",
+        "is_correct": false
+      },
+      {
+        "text": "There is no relationship",
+        "is_correct": false
+      },
+      {
+        "text": "Every observed point lies on the line",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A positive slope means predicted y increases as x increases.\nHint: Positive slope describes direction.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "Why should axes, units and scale be checked before telling the story of a graph?",
+    "answers": [
+      {
+        "text": "They determine what quantities and changes the graph actually represents",
+        "is_correct": true
+      },
+      {
+        "text": "They only affect colours",
+        "is_correct": false
+      },
+      {
+        "text": "They are optional when the slope is visible",
+        "is_correct": false
+      },
+      {
+        "text": "They are needed only for pie charts",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Correct interpretation depends on knowing what each axis measures and how it is scaled.\nHint: A steep-looking line can be misleading if scale is ignored.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "practice",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36. Which interpretation is supported?",
     "answers": [
       {
         "text": "The cyclist stopped between hours 2 and 3.",
@@ -27,28 +1301,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "A flat distance section means no change in position.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+      "summary": "A flat distance section means no change in position.\nHint: Read the axes and units first, then connect slope, direction and flat sections to the context.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A04-P-041"
   },
   {
-    "id": "AC9M7A04-P-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
     "question": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23. Which interpretation is supported?",
-    "audio_prompt": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23. Which interpretation is supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23."
-    },
     "answers": [
       {
         "text": "The temperature rose throughout the whole period.",
@@ -63,28 +1329,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The highest plotted value is 25 °C at noon.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+      "summary": "The highest plotted value is 25 °C at noon.\nHint: Read the axes and units first, then connect slope, direction and flat sections to the context.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A04-P-042"
   },
   {
-    "id": "AC9M7A04-P-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
+    "skill": "ac9m7a04",
+    "difficulty": "super-hard",
     "question": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35. Which interpretation is supported?",
-    "audio_prompt": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35. Which interpretation is supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35."
-    },
     "answers": [
       {
         "text": "The tank loses 15 litres per minute.",
@@ -99,28 +1357,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Each 5-minute interval loses 15 L, so the rate is 15 ÷ 5 = 3 L/min.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+      "summary": "Each 5-minute interval loses 15 L, so the rate is 15 ÷ 5 = 3 L/min.\nHint: Read the axes and units first, then connect slope, direction and flat sections to the context.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A04-P-043"
   },
   {
-    "id": "AC9M7A04-P-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
+    "skill": "ac9m7a04",
+    "difficulty": "super-hard",
     "question": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115. Which interpretation is supported?",
-    "audio_prompt": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115. Which interpretation is supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115."
-    },
     "answers": [
       {
         "text": "Visits increase by 25 each hour.",
@@ -135,28 +1385,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Successive values differ by a constant 25 visits.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+      "summary": "Successive values differ by a constant 25 visits.\nHint: Read the axes and units first, then connect slope, direction and flat sections to the context.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A04-P-044"
   },
   {
-    "id": "AC9M7A04-P-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
+    "skill": "ac9m7a04",
+    "difficulty": "super-hard",
     "question": "A share price ($) over five days is 24, 27, 25, 29, 28. Which interpretation is supported?",
-    "audio_prompt": "A share price ($) over five days is 24, 27, 25, 29, 28. Which interpretation is supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A share price ($) over five days is 24, 27, 25, 29, 28."
-    },
     "answers": [
       {
         "text": "The price rises every day.",
@@ -171,28 +1413,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The changes are +3, −2, +4 and −1; +4 is the greatest rise.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+      "summary": "The changes are +3, −2, +4 and −1; +4 is the greatest rise.\nHint: Read the axes and units first, then connect slope, direction and flat sections to the context.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A04-P-045"
   },
   {
-    "id": "AC9M7A04-P-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
+    "skill": "ac9m7a04",
+    "difficulty": "super-hard",
     "question": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150. Which interpretation is supported?",
-    "audio_prompt": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150. Which interpretation is supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150."
-    },
     "answers": [
       {
         "text": "The hiker descends between checkpoints 1 and 2.",
@@ -207,28 +1441,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Equal consecutive elevations produce a horizontal section.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+      "summary": "Equal consecutive elevations produce a horizontal section.\nHint: Read the axes and units first, then connect slope, direction and flat sections to the context.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A04-P-046"
   },
   {
-    "id": "AC9M7A04-P-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
+    "skill": "ac9m7a04",
+    "difficulty": "super-hard",
     "question": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10. Which interpretation is supported?",
-    "audio_prompt": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10. Which interpretation is supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10."
-    },
     "answers": [
       {
         "text": "Thursday has the highest use.",
@@ -243,28 +1469,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The maximum value is 15 kWh on Thursday.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+      "summary": "The maximum value is 15 kWh on Thursday.\nHint: Read the axes and units first, then connect slope, direction and flat sections to the context.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A04-P-047"
   },
   {
-    "id": "AC9M7A04-P-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
+    "skill": "ac9m7a04",
+    "difficulty": "super-hard",
     "question": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6. Which interpretation is supported?",
-    "audio_prompt": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6. Which interpretation is supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6."
-    },
     "answers": [
       {
         "text": "The bus remains stopped after 20 minutes.",
@@ -279,1140 +1497,522 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Distance from school falls from 12 km to 6 km, indicating movement back.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
+      "summary": "Distance from school falls from 12 km to 6 km, indicating movement back.\nHint: Read the axes and units first, then connect slope, direction and flat sections to the context.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A04-P-048"
   },
   {
-    "id": "AC9M7A04-P-009",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36. Which calculation best describes the overall change?",
-    "audio_prompt": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36. Which calculation best describes the overall change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A cyclist's distance (km) at 0, 1, 2, 3 hours is 0, 18, 36, 36."
-    },
-    "answers": [
-      {
-        "text": "0",
-        "is_correct": false
-      },
-      {
-        "text": "Use the largest value only",
-        "is_correct": false
-      },
-      {
-        "text": "36",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Overall change is final value minus initial value.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A04-P-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23. Which calculation best describes the overall change?",
-    "audio_prompt": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23. Which calculation best describes the overall change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A room's temperature (°C) at 8 am, 10 am, noon and 2 pm is 16, 20, 25, 23."
-    },
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": true
-      },
-      {
-        "text": "0",
-        "is_correct": false
-      },
-      {
-        "text": "Use the largest value only",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Overall change is final value minus initial value.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A04-P-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35. Which calculation best describes the overall change?",
-    "audio_prompt": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35. Which calculation best describes the overall change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A tank's volume (L) at 0, 5, 10 and 15 minutes is 80, 65, 50, 35."
-    },
-    "answers": [
-      {
-        "text": "0",
-        "is_correct": false
-      },
-      {
-        "text": "-45",
-        "is_correct": true
-      },
-      {
-        "text": "Use the largest value only",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Overall change is final value minus initial value.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A04-P-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115. Which calculation best describes the overall change?",
-    "audio_prompt": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115. Which calculation best describes the overall change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Website visits at 9, 10, 11 and 12 o'clock are 40, 65, 90 and 115."
-    },
-    "answers": [
-      {
-        "text": "0",
-        "is_correct": false
-      },
-      {
-        "text": "Use the largest value only",
-        "is_correct": false
-      },
-      {
-        "text": "Compare final and initial values",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Overall change is final value minus initial value.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A04-P-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A share price ($) over five days is 24, 27, 25, 29, 28. Which calculation best describes the overall change?",
-    "audio_prompt": "A share price ($) over five days is 24, 27, 25, 29, 28. Which calculation best describes the overall change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A share price ($) over five days is 24, 27, 25, 29, 28."
-    },
-    "answers": [
-      {
-        "text": "4",
-        "is_correct": true
-      },
-      {
-        "text": "0",
-        "is_correct": false
-      },
-      {
-        "text": "Use the largest value only",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Overall change is final value minus initial value.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A04-P-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150. Which calculation best describes the overall change?",
-    "audio_prompt": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150. Which calculation best describes the overall change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A hiker's elevation (m) at four checkpoints is 120, 180, 180, 150."
-    },
-    "answers": [
-      {
-        "text": "0",
-        "is_correct": false
-      },
-      {
-        "text": "30",
-        "is_correct": true
-      },
-      {
-        "text": "Use the largest value only",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Overall change is final value minus initial value.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A04-P-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10. Which calculation best describes the overall change?",
-    "audio_prompt": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10. Which calculation best describes the overall change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Electricity use (kWh) from Monday to Friday is 8, 7, 12, 15, 10."
-    },
-    "answers": [
-      {
-        "text": "0",
-        "is_correct": false
-      },
-      {
-        "text": "Use the largest value only",
-        "is_correct": false
-      },
-      {
-        "text": "2",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Overall change is final value minus initial value.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A04-P-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6. Which calculation best describes the overall change?",
-    "audio_prompt": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6. Which calculation best describes the overall change?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A bus's distance from school (km) at 0, 10, 20 and 30 minutes is 0, 6, 12, 6."
-    },
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": true
-      },
-      {
-        "text": "0",
-        "is_correct": false
-      },
-      {
-        "text": "Use the largest value only",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Overall change is final value minus initial value.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A04-P-017",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "Two runners cover 3 km and 5 km in the same 20 minutes. Which interpretation is correct?",
-    "audio_prompt": "Two runners cover 3 km and 5 km in the same 20 minutes. Which interpretation is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Two runners cover 3 km and 5 km in the same 20 minutes."
-    },
-    "answers": [
-      {
-        "text": "Both graphs have the same slope.",
-        "is_correct": false
-      },
-      {
-        "text": "The second runner's distance–time graph is steeper.",
-        "is_correct": true
-      },
-      {
-        "text": "The first runner's graph is steeper.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "More distance in the same time means a greater rate and steeper slope.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A04-P-018",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "Two tanks drain 12 L and 20 L in the same 4 minutes. Which interpretation is correct?",
-    "audio_prompt": "Two tanks drain 12 L and 20 L in the same 4 minutes. Which interpretation is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Two tanks drain 12 L and 20 L in the same 4 minutes."
-    },
-    "answers": [
-      {
-        "text": "The first tank's graph has the steeper downward slope.",
-        "is_correct": false
-      },
-      {
-        "text": "Both graphs are horizontal.",
-        "is_correct": false
-      },
-      {
-        "text": "The second tank's graph has the steeper downward slope.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A 20 L decrease in the same time has the greater slope magnitude.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A04-P-019",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph rises from 10 to 34 over 6 hours. Which interpretation is correct?",
-    "audio_prompt": "A graph rises from 10 to 34 over 6 hours. Which interpretation is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A graph rises from 10 to 34 over 6 hours."
-    },
-    "answers": [
-      {
-        "text": "The average rise is 4 units per hour.",
-        "is_correct": true
-      },
-      {
-        "text": "The average rise is 6 units per hour.",
-        "is_correct": false
-      },
-      {
-        "text": "The average rise is 24 units per hour.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The rise is 24 units over 6 hours, so 24 ÷ 6 = 4.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A04-P-020",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A distance graph is horizontal from minute 12 to minute 18. Which interpretation is correct?",
-    "audio_prompt": "A distance graph is horizontal from minute 12 to minute 18. Which interpretation is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A distance graph is horizontal from minute 12 to minute 18."
-    },
-    "answers": [
-      {
-        "text": "The object moves at constant non-zero speed.",
-        "is_correct": false
-      },
-      {
-        "text": "The object is stationary for 6 minutes.",
-        "is_correct": true
-      },
-      {
-        "text": "The object returns for 6 minutes.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Horizontal distance means no change in position; the interval lasts 6 minutes.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A04-P-021",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A temperature graph falls from 28 °C to 16 °C in 3 hours. Which interpretation is correct?",
-    "audio_prompt": "A temperature graph falls from 28 °C to 16 °C in 3 hours. Which interpretation is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A temperature graph falls from 28 °C to 16 °C in 3 hours."
-    },
-    "answers": [
-      {
-        "text": "The average change is −12 °C per hour.",
-        "is_correct": false
-      },
-      {
-        "text": "The average change is +4 °C per hour.",
-        "is_correct": false
-      },
-      {
-        "text": "The average change is −4 °C per hour.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The change is −12 °C over 3 hours, giving −4 °C per hour.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A04-P-022",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "One line rises 15 units in 5 steps; another rises 12 units in 3 steps. Which interpretation is correct?",
-    "audio_prompt": "One line rises 15 units in 5 steps; another rises 12 units in 3 steps. Which interpretation is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "One line rises 15 units in 5 steps; another rises 12 units in 3 steps."
-    },
-    "answers": [
-      {
-        "text": "The second line is steeper.",
-        "is_correct": true
-      },
-      {
-        "text": "The first line is steeper.",
-        "is_correct": false
-      },
-      {
-        "text": "The lines have equal slope.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Their rises per step are 3 and 4, so the second is steeper.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A04-P-023",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph's y-values are 5, 9, 13, 17 at equal x-steps. Which interpretation is correct?",
-    "audio_prompt": "A graph's y-values are 5, 9, 13, 17 at equal x-steps. Which interpretation is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A graph's y-values are 5, 9, 13, 17 at equal x-steps."
-    },
-    "answers": [
-      {
-        "text": "The relationship has a decreasing rate.",
-        "is_correct": false
-      },
-      {
-        "text": "The relationship has a constant positive rate of change.",
-        "is_correct": true
-      },
-      {
-        "text": "The graph must be horizontal.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Every successive y-value increases by 4.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A04-P-024",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "practice",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph's y-values are 40, 32, 24, 16 at equal x-steps. Which interpretation is correct?",
-    "audio_prompt": "A graph's y-values are 40, 32, 24, 16 at equal x-steps. Which interpretation is correct?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A graph's y-values are 40, 32, 24, 16 at equal x-steps."
-    },
-    "answers": [
-      {
-        "text": "The relationship has a positive rate.",
-        "is_correct": false
-      },
-      {
-        "text": "The rate changes each step.",
-        "is_correct": false
-      },
-      {
-        "text": "The relationship has a constant negative rate of change.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Every successive y-value decreases by 8.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A04-T-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "Rainfall (mm) from January to April is 42, 38, 61, 55. Which conclusion is best supported?",
-    "audio_prompt": "Rainfall (mm) from January to April is 42, 38, 61, 55. Which conclusion is best supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Rainfall (mm) from January to April is 42, 38, 61, 55."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A building-use graph is low overnight, rises sharply at 7 am, stays nearly flat from 9 am to 5 pm, then peaks at 6 pm. Which statement is best supported?",
     "answers": [
       {
-        "text": "March records the most rainfall.",
+        "text": "Usage changes in distinct phases across the day",
         "is_correct": true
       },
       {
-        "text": "Rainfall increases every month.",
+        "text": "Usage is always increasing",
         "is_correct": false
       },
       {
-        "text": "April is the driest month.",
+        "text": "Usage is always decreasing",
+        "is_correct": false
+      },
+      {
+        "text": "The graph proves why each change occurred",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "61 mm is the highest plotted value.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "The graph shows several phases: low, rapid increase, near-constant, then a peak.\nHint: Describe what the graph shows before explaining causes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-001"
   },
   {
-    "id": "AC9M7A04-T-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A laptop battery (%) at 0, 1, 2 and 3 hours is 100, 82, 64, 46. Which conclusion is best supported?",
-    "audio_prompt": "A laptop battery (%) at 0, 1, 2 and 3 hours is 100, 82, 64, 46. Which conclusion is best supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A laptop battery (%) at 0, 1, 2 and 3 hours is 100, 82, 64, 46."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A distance-from-home graph rises steeply for 10 minutes, is horizontal for 5 minutes, then falls gently to zero. Which story matches?",
     "answers": [
       {
-        "text": "The battery loses 18% of its remaining charge each hour.",
-        "is_correct": false
-      },
-      {
-        "text": "The battery falls at a constant 18 percentage points per hour.",
+        "text": "Fast trip away, stop, slower return home",
         "is_correct": true
       },
       {
-        "text": "The loss rate becomes faster each hour.",
+        "text": "Slow trip away, fast return, then stop",
+        "is_correct": false
+      },
+      {
+        "text": "Continuous fast travel away",
+        "is_correct": false
+      },
+      {
+        "text": "No movement",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The equal differences are −18 percentage points.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "Steep rise means fast travel away, horizontal means stop, gentle fall means slower return.\nHint: Track sign and steepness.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-002"
   },
   {
-    "id": "AC9M7A04-T-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A runner's distance (km) at 0, 20, 40 and 60 minutes is 0, 4, 4, 9. Which conclusion is best supported?",
-    "audio_prompt": "A runner's distance (km) at 0, 20, 40 and 60 minutes is 0, 4, 4, 9. Which conclusion is best supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A runner's distance (km) at 0, 20, 40 and 60 minutes is 0, 4, 4, 9."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "On a distance-time graph, segment A rises 150 m in 3 min and segment B rises 180 m in 6 min. Which segment represents greater speed?",
     "answers": [
       {
-        "text": "The runner returns to the start.",
-        "is_correct": false
-      },
-      {
-        "text": "The runner maintains one constant speed.",
-        "is_correct": false
-      },
-      {
-        "text": "The runner rests between 20 and 40 minutes.",
+        "text": "A",
         "is_correct": true
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot determine",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Distance is unchanged at 4 km during that interval.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "A has speed 50 m/min; B has speed 30 m/min.\nHint: Compare rise/run.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-003"
   },
   {
-    "id": "AC9M7A04-T-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "Water temperature (°C) at 0, 2, 4 and 6 minutes is 18, 30, 39, 45. Which conclusion is best supported?",
-    "audio_prompt": "Water temperature (°C) at 0, 2, 4 and 6 minutes is 18, 30, 39, 45. Which conclusion is best supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Water temperature (°C) at 0, 2, 4 and 6 minutes is 18, 30, 39, 45."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "easy",
+    "question": "A graph of water volume versus time is horizontal from 12 to 15 minutes. What does this mean?",
     "answers": [
       {
-        "text": "The warming rate slows over time.",
+        "text": "The water volume stayed constant",
         "is_correct": true
       },
       {
-        "text": "The warming rate is constant.",
+        "text": "The tank is definitely empty",
         "is_correct": false
       },
       {
-        "text": "The water cools after 4 minutes.",
+        "text": "Water entered at a constant non-zero rate",
+        "is_correct": false
+      },
+      {
+        "text": "The time scale is wrong",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The increases shrink from 12 to 9 to 6 degrees.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "A horizontal segment means the plotted volume does not change.\nHint: Constant does not mean zero.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-004"
   },
   {
-    "id": "AC9M7A04-T-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A shop's sales ($100s) from Monday to Thursday are 12, 18, 15, 24. Which conclusion is best supported?",
-    "audio_prompt": "A shop's sales ($100s) from Monday to Thursday are 12, 18, 15, 24. Which conclusion is best supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A shop's sales ($100s) from Monday to Thursday are 12, 18, 15, 24."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A volume-time curve becomes less steep but continues upward. What is happening?",
     "answers": [
       {
-        "text": "Tuesday has the greatest sales.",
-        "is_correct": false
-      },
-      {
-        "text": "The largest rise occurs from Wednesday to Thursday.",
+        "text": "Volume is still increasing, but at a decreasing rate",
         "is_correct": true
       },
       {
-        "text": "Sales rise each day.",
+        "text": "Volume is decreasing faster",
+        "is_correct": false
+      },
+      {
+        "text": "Volume is constant",
+        "is_correct": false
+      },
+      {
+        "text": "The container must be full already",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The daily changes are +6, −3 and +9.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "Positive slope means increasing volume; decreasing steepness means a lower rate.\nHint: Separate direction from rate.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-005"
   },
   {
-    "id": "AC9M7A04-T-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A drone's height (m) at 0, 5, 10 and 15 seconds is 0, 20, 35, 35. Which conclusion is best supported?",
-    "audio_prompt": "A drone's height (m) at 0, 5, 10 and 15 seconds is 0, 20, 35, 35. Which conclusion is best supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A drone's height (m) at 0, 5, 10 and 15 seconds is 0, 20, 35, 35."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "One point on a smooth temperature trend lies far above all neighbouring points. What is the most appropriate first response?",
     "answers": [
       {
-        "text": "The drone descends after 10 seconds.",
-        "is_correct": false
-      },
-      {
-        "text": "The drone rises fastest after 10 seconds.",
-        "is_correct": false
-      },
-      {
-        "text": "The drone holds a constant height after 10 seconds.",
+        "text": "Check whether it is an outlier or measurement issue before interpreting it",
         "is_correct": true
+      },
+      {
+        "text": "Assume the temperature definitely jumped",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore every other point",
+        "is_correct": false
+      },
+      {
+        "text": "Conclude the graph has no value",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "A horizontal section represents unchanged height.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "Unusual observations should be checked against context and data quality.\nHint: Verify before assigning a cause.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-006"
   },
   {
-    "id": "AC9M7A04-T-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A train's distance from a station (km) at 0, 15, 30 and 45 minutes is 0, 20, 45, 30. Which conclusion is best supported?",
-    "audio_prompt": "A train's distance from a station (km) at 0, 15, 30 and 45 minutes is 0, 20, 45, 30. Which conclusion is best supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "A train's distance from a station (km) at 0, 15, 30 and 45 minutes is 0, 20, 45, 30."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "A fitted model is y = 4x + 12. What does the coefficient 4 mean?",
     "answers": [
       {
-        "text": "The train moves towards the station in the final interval.",
+        "text": "Predicted y rises by 4 for each 1-unit increase in x",
         "is_correct": true
       },
       {
-        "text": "The train stops in the final interval.",
+        "text": "The relationship is four times stronger",
         "is_correct": false
       },
       {
-        "text": "The train is farthest away at 45 minutes.",
+        "text": "The intercept is 4",
+        "is_correct": false
+      },
+      {
+        "text": "The prediction is always 4",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The distance from the station decreases from 45 to 30 km.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "The slope is the predicted rate of change.\nHint: Slope is not strength of association.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-007"
   },
   {
-    "id": "AC9M7A04-T-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "Daily maximum temperatures (°C) are 21, 24, 24, 19, 23. Which conclusion is best supported?",
-    "audio_prompt": "Daily maximum temperatures (°C) are 21, 24, 24, 19, 23. Which conclusion is best supported?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Daily maximum temperatures (°C) are 21, 24, 24, 19, 23."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "For y = 4x + 12, what is the model prediction when x = 0?",
     "answers": [
       {
-        "text": "The range is 3 °C.",
-        "is_correct": false
-      },
-      {
-        "text": "The range is 5 °C.",
-        "is_correct": true
-      },
-      {
-        "text": "The range is 24 °C.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Range = maximum − minimum = 24 − 19 = 5 °C.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
-  },
-  {
-    "id": "AC9M7A04-T-009",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph has equally spaced x-values and successive y-values 2, 7, 12, 17. What is the change in y for each step?",
-    "audio_prompt": "A graph has equally spaced x-values and successive y-values 2, 7, 12, 17. What is the change in y for each step?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Line graph through equally spaced points with y-values 2, 7, 12, 17."
-    },
-    "answers": [
-      {
-        "text": "6",
-        "is_correct": false
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "5",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Subtract consecutive y-values; each step changes by 5.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
-  },
-  {
-    "id": "AC9M7A04-T-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph has equally spaced x-values and successive y-values 30, 26, 22, 18. What is the change in y for each step?",
-    "audio_prompt": "A graph has equally spaced x-values and successive y-values 30, 26, 22, 18. What is the change in y for each step?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Line graph through equally spaced points with y-values 30, 26, 22, 18."
-    },
-    "answers": [
-      {
-        "text": "-4",
-        "is_correct": true
-      },
-      {
-        "text": "-3",
-        "is_correct": false
-      },
-      {
-        "text": "-6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Subtract consecutive y-values; each step changes by -4.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
-  },
-  {
-    "id": "AC9M7A04-T-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A04",
-    "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph has equally spaced x-values and successive y-values 4, 10, 16, 22. What is the change in y for each step?",
-    "audio_prompt": "A graph has equally spaced x-values and successive y-values 4, 10, 16, 22. What is the change in y for each step?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Line graph through equally spaced points with y-values 4, 10, 16, 22."
-    },
-    "answers": [
-      {
-        "text": "7",
-        "is_correct": false
-      },
-      {
-        "text": "6",
+        "text": "12",
         "is_correct": true
       },
       {
         "text": "4",
         "is_correct": false
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Subtract consecutive y-values; each step changes by 6.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "The intercept gives y when x = 0.\nHint: Set x to zero.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-008"
   },
   {
-    "id": "AC9M7A04-T-012",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph has equally spaced x-values and successive y-values 50, 42, 34, 26. What is the change in y for each step?",
-    "audio_prompt": "A graph has equally spaced x-values and successive y-values 50, 42, 34, 26. What is the change in y for each step?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Line graph through equally spaced points with y-values 50, 42, 34, 26."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "Which situation best suggests a fitted straight line represents the observed data well?",
     "answers": [
       {
-        "text": "-7",
-        "is_correct": false
-      },
-      {
-        "text": "-10",
-        "is_correct": false
-      },
-      {
-        "text": "-8",
+        "text": "Most points lie close to the line",
         "is_correct": true
+      },
+      {
+        "text": "The line has a very steep slope",
+        "is_correct": false
+      },
+      {
+        "text": "The intercept is zero",
+        "is_correct": false
+      },
+      {
+        "text": "The graph uses large numbers",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Subtract consecutive y-values; each step changes by -8.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "Closeness of points to the fitted line indicates small residuals and better fit.\nHint: Fit is about residuals, not steepness.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-009"
   },
   {
-    "id": "AC9M7A04-T-013",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph has equally spaced x-values and successive y-values 3, 12, 21, 30. What is the change in y for each step?",
-    "audio_prompt": "A graph has equally spaced x-values and successive y-values 3, 12, 21, 30. What is the change in y for each step?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Line graph through equally spaced points with y-values 3, 12, 21, 30."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "medium",
+    "question": "Why can one extreme outlier matter when interpreting a trend?",
     "answers": [
       {
-        "text": "9",
+        "text": "It can distort the apparent pattern or fitted model",
         "is_correct": true
       },
       {
-        "text": "10",
+        "text": "It always proves the model is wrong",
         "is_correct": false
       },
       {
-        "text": "7",
+        "text": "It changes the axis labels",
+        "is_correct": false
+      },
+      {
+        "text": "It makes every other point invalid",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Subtract consecutive y-values; each step changes by 9.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "Outliers can influence fitted relationships and should be investigated.\nHint: Think about how one distant point can pull a line.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-010"
   },
   {
-    "id": "AC9M7A04-T-014",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph has equally spaced x-values and successive y-values 100, 85, 70, 55. What is the change in y for each step?",
-    "audio_prompt": "A graph has equally spaced x-values and successive y-values 100, 85, 70, 55. What is the change in y for each step?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Line graph through equally spaced points with y-values 100, 85, 70, 55."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "An evaporation-rate graph rises sharply during a hot afternoon and then falls after cloud cover. Which wording is most scientifically careful?",
     "answers": [
       {
-        "text": "-14",
-        "is_correct": false
-      },
-      {
-        "text": "-15",
+        "text": "The pattern is consistent with heat increasing evaporation and cloud reducing it",
         "is_correct": true
       },
       {
-        "text": "-17",
+        "text": "The graph proves temperature alone caused every change",
+        "is_correct": false
+      },
+      {
+        "text": "Cloud cover has no relationship to evaporation",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation must have stopped completely",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Subtract consecutive y-values; each step changes by -15.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "Graph patterns can support plausible interpretations without proving causation.\nHint: Use cautious causal language.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-011"
   },
   {
-    "id": "AC9M7A04-T-015",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph has equally spaced x-values and successive y-values 8, 11, 14, 17. What is the change in y for each step?",
-    "audio_prompt": "A graph has equally spaced x-values and successive y-values 8, 11, 14, 17. What is the change in y for each step?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Line graph through equally spaced points with y-values 8, 11, 14, 17."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "Two graphs display the same data but use different vertical-axis scales. One looks much steeper. What should a student conclude?",
     "answers": [
       {
-        "text": "4",
-        "is_correct": false
-      },
-      {
-        "text": "1",
-        "is_correct": false
-      },
-      {
-        "text": "3",
+        "text": "Visual steepness can be affected by scale, so compare numerical changes and units",
         "is_correct": true
+      },
+      {
+        "text": "The steeper-looking graph always shows faster change",
+        "is_correct": false
+      },
+      {
+        "text": "One graph must be incorrect",
+        "is_correct": false
+      },
+      {
+        "text": "Scale does not matter",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Subtract consecutive y-values; each step changes by 3.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "Axis scaling changes appearance and must be considered before comparing steepness visually.\nHint: Read values, not just shape.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-012"
   },
   {
-    "id": "AC9M7A04-T-016",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A04",
     "bank": "test",
-    "skill": "relationships_in_authentic_graphs",
-    "question": "A graph has equally spaced x-values and successive y-values 60, 48, 36, 24. What is the change in y for each step?",
-    "audio_prompt": "A graph has equally spaced x-values and successive y-values 60, 48, 36, 24. What is the change in y for each step?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#graph",
-      "alt_text": "Line graph through equally spaced points with y-values 60, 48, 36, 24."
-    },
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "A distance-from-school graph starts at 0, rises, stays flat, rises again, then returns to 0. Which interpretation is possible?",
     "answers": [
       {
-        "text": "-12",
+        "text": "The traveller left school, stopped, travelled farther away, then returned",
         "is_correct": true
       },
       {
-        "text": "-11",
+        "text": "The traveller stayed at school throughout",
         "is_correct": false
       },
       {
-        "text": "-14",
+        "text": "The traveller moved only toward school",
+        "is_correct": false
+      },
+      {
+        "text": "The graph shows temperature",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Subtract consecutive y-values; each step changes by -12.",
-      "hint": "Read the axes and units first, then connect slope, direction and flat sections to the context."
-    }
+      "summary": "The graph can be translated segment-by-segment into a plausible journey story.\nHint: Use the meaning of zero and each slope.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "ac9m7a04",
+    "difficulty": "hard",
+    "question": "An evaporation-rate graph is horizontal at 5 mm/day. Which statement is correct?",
+    "answers": [
+      {
+        "text": "The evaporation rate is constant at 5 mm/day",
+        "is_correct": true
+      },
+      {
+        "text": "No evaporation occurs",
+        "is_correct": false
+      },
+      {
+        "text": "Total evaporated water is constant",
+        "is_correct": false
+      },
+      {
+        "text": "The rate is increasing",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A horizontal rate graph means the rate stays constant, while cumulative loss can still increase.\nHint: Distinguish a rate from a total amount.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "ac9m7a04",
+    "difficulty": "super-hard",
+    "question": "Which claim goes beyond what a stock-price graph alone can establish?",
+    "answers": [
+      {
+        "text": "A new policy caused the price rise",
+        "is_correct": true
+      },
+      {
+        "text": "The price rose during the interval",
+        "is_correct": false
+      },
+      {
+        "text": "The rise was steeper in the second hour",
+        "is_correct": false
+      },
+      {
+        "text": "The highest plotted price occurred near the end",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A graph can show change but usually cannot establish the external cause by itself.\nHint: Separate observation from explanation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A04",
+    "bank": "test",
+    "skill": "ac9m7a04",
+    "difficulty": "super-hard",
+    "question": "A graph compares temperature and evaporation over time. Both rise through midday, then evaporation falls sooner than temperature. What is the best conclusion?",
+    "answers": [
+      {
+        "text": "The variables show a related pattern, but other factors may also affect evaporation",
+        "is_correct": true
+      },
+      {
+        "text": "Temperature is the only possible influence",
+        "is_correct": false
+      },
+      {
+        "text": "The graph proves direct causation",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation and temperature are unrelated",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Parallel patterns suggest association, while different timing suggests additional influences may matter.\nHint: Do not confuse association with causation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A04-T-016"
   }
 ]

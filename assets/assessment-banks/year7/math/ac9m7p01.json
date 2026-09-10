@@ -1,613 +1,2050 @@
 [
   {
-    "id": "ac9m7p01-p-001",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
     "bank": "practice",
-    "skill": "list_a_sample_space",
-    "question": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "What is a sample space?",
     "answers": [
       {
-        "text": "If P(red)=1/2, expected red in 200 trials is 100",
+        "text": "the set of all possible outcomes",
         "is_correct": true
       },
       {
-        "text": "Labels assumed equally likely",
+        "text": "one favourable outcome",
         "is_correct": false
       },
       {
-        "text": "Inspect sectors, counts or rules",
+        "text": "the most likely outcome",
         "is_correct": false
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "the number of trials",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "If P(red)=1/2, expected red in 200 trials is 100",
-      "hint": "Inspect sectors, counts or rules."
+      "summary": "A sample space lists every possible outcome of the chance experiment.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7P01-P-001"
   },
   {
-    "id": "ac9m7p01-p-002",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
     "bank": "practice",
-    "skill": "assign_weighted_probabilities",
-    "question": "A Year 7 student is solving a problem involving assign weighted probabilities. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving assign weighted probabilities. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "What is an event?",
     "answers": [
       {
-        "text": "Compound event counted as one outcome",
-        "is_correct": false
-      },
-      {
-        "text": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
+        "text": "an outcome or set of outcomes of interest",
         "is_correct": true
       },
       {
-        "text": "Sum elementary outcome probabilities",
+        "text": "the complete sample space only",
         "is_correct": false
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "the number of repetitions",
+        "is_correct": false
+      },
+      {
+        "text": "a guaranteed result",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
-      "hint": "Sum elementary outcome probabilities."
+      "summary": "An event is the outcome or collection of outcomes being considered.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7P01-P-002"
   },
   {
-    "id": "ac9m7p01-p-003",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
     "bank": "practice",
-    "skill": "find_a_complement",
-    "question": "A Year 7 student is solving a problem involving find a complement. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find a complement. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "What is one trial?",
     "answers": [
       {
-        "text": "Complement found by changing numerator only",
-        "is_correct": false
-      },
-      {
-        "text": "Use 1−P(event)",
-        "is_correct": false
-      },
-      {
-        "text": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
+        "text": "one performance of a chance experiment",
         "is_correct": true
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "all possible outcomes",
+        "is_correct": false
+      },
+      {
+        "text": "a theoretical probability",
+        "is_correct": false
+      },
+      {
+        "text": "a prediction for many repetitions",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
-      "hint": "Use 1−P(event)."
+      "summary": "A trial is one attempt, such as one die roll.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7P01-P-003"
   },
   {
-    "id": "ac9m7p01-p-004",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
     "bank": "practice",
-    "skill": "predict_expected_count",
-    "question": "A Year 7 student is solving a problem involving predict expected count. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving predict expected count. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "Probability values must lie:",
     "answers": [
       {
-        "text": "Expected count treated as exact",
-        "is_correct": false
-      },
-      {
-        "text": "Chance variation remains",
-        "is_correct": false
-      },
-      {
-        "text": "Set of all possible elementary outcomes",
-        "is_correct": false
-      },
-      {
-        "text": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
+        "text": "from 0 to 1 inclusive",
         "is_correct": true
+      },
+      {
+        "text": "from −1 to 1",
+        "is_correct": false
+      },
+      {
+        "text": "from 1 to 100 only",
+        "is_correct": false
+      },
+      {
+        "text": "above 0.5",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
-      "hint": "Chance variation remains."
+      "summary": "0 represents impossible and 1 represents certain.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7P01-P-004"
   },
   {
-    "id": "ac9m7p01-p-005",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
     "bank": "practice",
-    "skill": "check_probabilities_sum_to_1",
-    "question": "Which statement correctly identifies event in sample spaces and single-stage probability?",
-    "audio_prompt": "Which statement correctly identifies event in sample spaces and single-stage probability?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "A probability of 0 means:",
     "answers": [
       {
-        "text": "If P(red)=1/2, expected red in 200 trials is 100",
+        "text": "impossible",
         "is_correct": true
       },
       {
-        "text": "Labels assumed equally likely",
+        "text": "certain",
         "is_correct": false
       },
       {
-        "text": "Inspect sectors, counts or rules",
+        "text": "equally likely",
         "is_correct": false
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "50% likely",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "If P(red)=1/2, expected red in 200 trials is 100",
-      "hint": "Inspect sectors, counts or rules."
+      "summary": "An impossible event has probability 0.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7P01-P-005"
   },
   {
-    "id": "ac9m7p01-p-006",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
     "bank": "practice",
-    "skill": "list_a_sample_space",
-    "question": "Which choice best describes complement in sample spaces and single-stage probability?",
-    "audio_prompt": "Which choice best describes complement in sample spaces and single-stage probability?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "A probability of 1 means:",
     "answers": [
       {
-        "text": "Compound event counted as one outcome",
-        "is_correct": false
-      },
-      {
-        "text": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
+        "text": "certain",
         "is_correct": true
       },
       {
-        "text": "Sum elementary outcome probabilities",
+        "text": "impossible",
         "is_correct": false
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "unlikely",
+        "is_correct": false
+      },
+      {
+        "text": "one favourable outcome only",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
-      "hint": "Sum elementary outcome probabilities."
+      "summary": "A certain event has probability 1.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7P01-P-006"
   },
   {
-    "id": "ac9m7p01-p-007",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
     "bank": "practice",
-    "skill": "assign_weighted_probabilities",
-    "question": "What does correct use require for sample space in sample spaces and single-stage probability?",
-    "audio_prompt": "What does correct use require for sample space in sample spaces and single-stage probability?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "The sample space for one fair coin toss is:",
     "answers": [
       {
-        "text": "Complement found by changing numerator only",
-        "is_correct": false
-      },
-      {
-        "text": "Use 1−P(event)",
-        "is_correct": false
-      },
-      {
-        "text": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
+        "text": "{H,T}",
         "is_correct": true
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "{H}",
+        "is_correct": false
+      },
+      {
+        "text": "{T}",
+        "is_correct": false
+      },
+      {
+        "text": "{HH,TT}",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
-      "hint": "Use 1−P(event)."
+      "summary": "Heads and tails are the two possible outcomes.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7P01-P-007"
   },
   {
-    "id": "ac9m7p01-p-008",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
     "bank": "practice",
-    "skill": "find_a_complement",
-    "question": "A Year 7 student is solving a problem involving find a complement. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find a complement. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "The sample space for one fair six-sided die roll is:",
     "answers": [
       {
-        "text": "Expected count treated as exact",
-        "is_correct": false
-      },
-      {
-        "text": "Chance variation remains",
-        "is_correct": false
-      },
-      {
-        "text": "Set of all possible elementary outcomes",
-        "is_correct": false
-      },
-      {
-        "text": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
+        "text": "{1,2,3,4,5,6}",
         "is_correct": true
+      },
+      {
+        "text": "{1,2,3}",
+        "is_correct": false
+      },
+      {
+        "text": "{even,odd,6}",
+        "is_correct": false
+      },
+      {
+        "text": "{6}",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
-      "hint": "Chance variation remains."
+      "summary": "All six face values are possible.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7P01-P-008"
   },
   {
-    "id": "ac9m7p01-t-001",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "predict_expected_count",
-    "question": "A Year 7 student is solving a problem involving predict expected count. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving predict expected count. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "A spinner has four labelled outcomes Red, Blue, Green, Yellow and equal sectors. Its sample space is:",
     "answers": [
       {
-        "text": "If P(red)=1/2, expected red in 200 trials is 100",
+        "text": "{Red,Blue,Green,Yellow}",
         "is_correct": true
       },
       {
-        "text": "Labels assumed equally likely",
+        "text": "{Red,Blue}",
         "is_correct": false
       },
       {
-        "text": "Inspect sectors, counts or rules",
+        "text": "{1,2,3,4} only",
         "is_correct": false
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "{Green}",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "If P(red)=1/2, expected red in 200 trials is 100",
-      "hint": "Inspect sectors, counts or rules."
-    }
+      "summary": "The sample space lists the possible labelled outcomes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-009"
   },
   {
-    "id": "ac9m7p01-t-002",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "check_probabilities_sum_to_1",
-    "question": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "A lucky dip has five distinct prizes A–E, one of each and each equally likely to be drawn. P(C) is:",
     "answers": [
       {
-        "text": "Compound event counted as one outcome",
-        "is_correct": false
-      },
-      {
-        "text": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
+        "text": "1/5",
         "is_correct": true
       },
       {
-        "text": "Sum elementary outcome probabilities",
+        "text": "1/4",
         "is_correct": false
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "1/2",
+        "is_correct": false
+      },
+      {
+        "text": "5",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
-      "hint": "Sum elementary outcome probabilities."
-    }
+      "summary": "One of five equally likely prizes is favourable.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-010"
   },
   {
-    "id": "ac9m7p01-t-003",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "list_a_sample_space",
-    "question": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "P(rolling a 6 on a fair die) is:",
     "answers": [
       {
-        "text": "Complement found by changing numerator only",
-        "is_correct": false
-      },
-      {
-        "text": "Use 1−P(event)",
-        "is_correct": false
-      },
-      {
-        "text": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
+        "text": "1/6",
         "is_correct": true
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "1/2",
+        "is_correct": false
+      },
+      {
+        "text": "1/3",
+        "is_correct": false
+      },
+      {
+        "text": "5/6",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
-      "hint": "Use 1−P(event)."
-    }
+      "summary": "One of six equally likely faces is a 6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-011"
   },
   {
-    "id": "ac9m7p01-t-004",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "assign_weighted_probabilities",
-    "question": "A Year 7 student is solving a problem involving assign weighted probabilities. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving assign weighted probabilities. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "P(heads on a fair coin) is:",
     "answers": [
       {
-        "text": "Expected count treated as exact",
-        "is_correct": false
-      },
-      {
-        "text": "Chance variation remains",
-        "is_correct": false
-      },
-      {
-        "text": "Set of all possible elementary outcomes",
-        "is_correct": false
-      },
-      {
-        "text": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
+        "text": "1/2",
         "is_correct": true
+      },
+      {
+        "text": "1/6",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
-      "hint": "Chance variation remains."
-    }
+      "summary": "Heads is one of two equally likely outcomes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-012"
   },
   {
-    "id": "ac9m7p01-t-005",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "find_a_complement",
-    "question": "What should be checked when applying find a complement in sample spaces and single-stage probability?",
-    "audio_prompt": "What should be checked when applying find a complement in sample spaces and single-stage probability?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "P(even number on a fair die) is:",
     "answers": [
       {
-        "text": "If P(red)=1/2, expected red in 200 trials is 100",
+        "text": "3/6=1/2",
         "is_correct": true
       },
       {
-        "text": "Labels assumed equally likely",
+        "text": "2/6",
         "is_correct": false
       },
       {
-        "text": "Inspect sectors, counts or rules",
+        "text": "1/6",
         "is_correct": false
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "4/6",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "If P(red)=1/2, expected red in 200 trials is 100",
-      "hint": "Inspect sectors, counts or rules."
-    }
+      "summary": "The favourable outcomes are 2,4,6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-013"
   },
   {
-    "id": "ac9m7p01-t-006",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "predict_expected_count",
-    "question": "Which response best uses predict expected count in sample spaces and single-stage probability?",
-    "audio_prompt": "Which response best uses predict expected count in sample spaces and single-stage probability?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "P(number greater than 4 on a fair die) is:",
     "answers": [
       {
-        "text": "Compound event counted as one outcome",
-        "is_correct": false
-      },
-      {
-        "text": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
+        "text": "2/6=1/3",
         "is_correct": true
       },
       {
-        "text": "Sum elementary outcome probabilities",
+        "text": "1/6",
         "is_correct": false
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "3/6",
+        "is_correct": false
+      },
+      {
+        "text": "4/6",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "If red occupies half the spinner, P(red)=1/2 even if red appears as one label. Outcomes named by colour need not be equally likely.",
-      "hint": "Sum elementary outcome probabilities."
-    }
+      "summary": "The favourable outcomes are 5 and 6.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-014"
   },
   {
-    "id": "ac9m7p01-t-007",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "check_probabilities_sum_to_1",
-    "question": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving check probabilities sum to 1. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "P(number less than 3 on a fair die) is:",
     "answers": [
       {
-        "text": "Complement found by changing numerator only",
-        "is_correct": false
-      },
-      {
-        "text": "Use 1−P(event)",
-        "is_correct": false
-      },
-      {
-        "text": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
+        "text": "2/6=1/3",
         "is_correct": true
       },
       {
-        "text": "Set of all possible elementary outcomes",
+        "text": "1/6",
+        "is_correct": false
+      },
+      {
+        "text": "3/6",
+        "is_correct": false
+      },
+      {
+        "text": "4/6",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Expected frequency is a prediction, not a guarantee. Probabilities for all elementary outcomes sum to one.",
-      "hint": "Use 1−P(event)."
-    }
+      "summary": "The favourable outcomes are 1 and 2.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-015"
   },
   {
-    "id": "ac9m7p01-t-008",
-    "curriculum_code": "AC9M7P01",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "list_a_sample_space",
-    "question": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving list a sample space. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "P(prime number on a fair die) is:",
     "answers": [
       {
-        "text": "Expected count treated as exact",
-        "is_correct": false
-      },
-      {
-        "text": "Chance variation remains",
-        "is_correct": false
-      },
-      {
-        "text": "Set of all possible elementary outcomes",
-        "is_correct": false
-      },
-      {
-        "text": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
+        "text": "3/6=1/2",
         "is_correct": true
+      },
+      {
+        "text": "2/6",
+        "is_correct": false
+      },
+      {
+        "text": "1/6",
+        "is_correct": false
+      },
+      {
+        "text": "4/6",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A sample space contains every possible elementary outcome; event probability is the sum of probabilities of outcomes in the event.",
-      "hint": "Chance variation remains."
-    }
+      "summary": "The prime faces are 2,3,5.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "If the equally likely outcomes are {A,B,C,D,E}, P(vowel) is:",
+    "answers": [
+      {
+        "text": "2/5",
+        "is_correct": true
+      },
+      {
+        "text": "1/5",
+        "is_correct": false
+      },
+      {
+        "text": "3/5",
+        "is_correct": false
+      },
+      {
+        "text": "4/5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A and E are favourable.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "Selecting a random day of the week, P(weekend) is:",
+    "answers": [
+      {
+        "text": "2/7",
+        "is_correct": true
+      },
+      {
+        "text": "5/7",
+        "is_correct": false
+      },
+      {
+        "text": "1/7",
+        "is_correct": false
+      },
+      {
+        "text": "1/2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Saturday and Sunday are 2 of 7 equally likely days.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "A bag has 2 blue and 1 red identical marble, well mixed. P(blue) is:",
+    "answers": [
+      {
+        "text": "2/3",
+        "is_correct": true
+      },
+      {
+        "text": "1/3",
+        "is_correct": false
+      },
+      {
+        "text": "1/2",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Two of the three equally likely individual marbles are blue.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "For equally likely elementary outcomes, event probability is:",
+    "answers": [
+      {
+        "text": "favourable outcomes ÷ total outcomes",
+        "is_correct": true
+      },
+      {
+        "text": "total ÷ favourable",
+        "is_correct": false
+      },
+      {
+        "text": "favourable + total",
+        "is_correct": false
+      },
+      {
+        "text": "number of trials ÷ outcomes",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "This counting rule applies when elementary outcomes are equally likely.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "Which check must hold for probabilities of all mutually exclusive elementary outcomes in the sample space?",
+    "answers": [
+      {
+        "text": "they sum to 1",
+        "is_correct": true
+      },
+      {
+        "text": "they sum to 0",
+        "is_correct": false
+      },
+      {
+        "text": "each equals 1",
+        "is_correct": false
+      },
+      {
+        "text": "each equals 1/2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Exactly one elementary outcome occurs on each trial.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "If P(A)=0.35, P(not A) is:",
+    "answers": [
+      {
+        "text": "0.65",
+        "is_correct": true
+      },
+      {
+        "text": "0.35",
+        "is_correct": false
+      },
+      {
+        "text": "1.35",
+        "is_correct": false
+      },
+      {
+        "text": "0",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Complement probability is 1−0.35.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "If P(red)=1/4, expected red outcomes in 80 trials are:",
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "80×1/4=20.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "If P(6)=1/6, expected sixes in 60 rolls are:",
+    "answers": [
+      {
+        "text": "10",
+        "is_correct": true
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "60×1/6=10.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "An expected frequency is:",
+    "answers": [
+      {
+        "text": "a prediction, not a guarantee",
+        "is_correct": true
+      },
+      {
+        "text": "the exact result that must occur",
+        "is_correct": false
+      },
+      {
+        "text": "always equal to the experimental frequency",
+        "is_correct": false
+      },
+      {
+        "text": "only used after the experiment",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Chance variation means actual counts can differ.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "Relative frequency is:",
+    "answers": [
+      {
+        "text": "event frequency ÷ total trials",
+        "is_correct": true
+      },
+      {
+        "text": "total trials ÷ event frequency",
+        "is_correct": false
+      },
+      {
+        "text": "theoretical probability only",
+        "is_correct": false
+      },
+      {
+        "text": "maximum outcome − minimum outcome",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It is the observed proportion of trials producing the event.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "Heads occurs 40 times in 100 tosses. Relative frequency is:",
+    "answers": [
+      {
+        "text": "0.40",
+        "is_correct": true
+      },
+      {
+        "text": "0.50",
+        "is_correct": false
+      },
+      {
+        "text": "0.60",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "40÷100=0.40.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "An event occurs 25 times in 50 trials. Relative frequency is:",
+    "answers": [
+      {
+        "text": "0.50",
+        "is_correct": true
+      },
+      {
+        "text": "0.25",
+        "is_correct": false
+      },
+      {
+        "text": "0.75",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "25÷50=0.5.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "A spinner lands red 30 times in 100 spins. Experimental probability of red is:",
+    "answers": [
+      {
+        "text": "0.30",
+        "is_correct": true
+      },
+      {
+        "text": "0.03",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "0.70",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Relative frequency 30/100=0.30 estimates the probability.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "As the number of independent repeated trials becomes large, relative frequency often:",
+    "answers": [
+      {
+        "text": "stabilises closer to the underlying probability",
+        "is_correct": true
+      },
+      {
+        "text": "must equal probability exactly",
+        "is_correct": false
+      },
+      {
+        "text": "moves toward 0",
+        "is_correct": false
+      },
+      {
+        "text": "moves toward 1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Larger samples tend to reduce random fluctuation in the observed proportion.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "A fair coin gives 47 heads in 100 tosses. Which statement is best?",
+    "answers": [
+      {
+        "text": "0.47 is a plausible relative frequency even though theoretical P(H)=0.5",
+        "is_correct": true
+      },
+      {
+        "text": "the coin is certainly unfair",
+        "is_correct": false
+      },
+      {
+        "text": "47 heads is impossible",
+        "is_correct": false
+      },
+      {
+        "text": "the theoretical probability has changed to 0.47",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Experimental results vary around theoretical probability.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "Using theoretical probability 0.5, predicted heads in 300 fair-coin tosses are:",
+    "answers": [
+      {
+        "text": "150",
+        "is_correct": true
+      },
+      {
+        "text": "141",
+        "is_correct": false
+      },
+      {
+        "text": "100",
+        "is_correct": false
+      },
+      {
+        "text": "300",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "300×0.5=150.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "Using an observed relative frequency 0.47 as an estimate, predicted heads in 300 similar trials are:",
+    "answers": [
+      {
+        "text": "141",
+        "is_correct": true
+      },
+      {
+        "text": "150",
+        "is_correct": false
+      },
+      {
+        "text": "47",
+        "is_correct": false
+      },
+      {
+        "text": "300",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "300×0.47=141.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "If probability of an event is 0.3, expected occurrences in 100 trials are:",
+    "answers": [
+      {
+        "text": "30",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "70",
+        "is_correct": false
+      },
+      {
+        "text": "300",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "100×0.3=30.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "If probability of winning is 1/4, expected wins in 80 games are:",
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "80×1/4=20.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "A spinner has one red sector covering half the circle and two other colours each covering a quarter. P(red) is:",
+    "answers": [
+      {
+        "text": "1/2",
+        "is_correct": true
+      },
+      {
+        "text": "1/3",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Probability depends on sector size, not the number of colour labels.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "Why is '3 colours means each has probability 1/3' sometimes wrong?",
+    "answers": [
+      {
+        "text": "The colour regions may have unequal sizes or frequencies",
+        "is_correct": true
+      },
+      {
+        "text": "probability cannot use colours",
+        "is_correct": false
+      },
+      {
+        "text": "sample spaces cannot have three outcomes",
+        "is_correct": false
+      },
+      {
+        "text": "all spinners are fair",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Named outcomes are not automatically equally likely.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "A bag has 4 red and 6 blue identical counters. P(red) is:",
+    "answers": [
+      {
+        "text": "4/10=2/5",
+        "is_correct": true
+      },
+      {
+        "text": "1/2",
+        "is_correct": false
+      },
+      {
+        "text": "4/6",
+        "is_correct": false
+      },
+      {
+        "text": "6/10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four of ten equally likely counters are red.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "For the same bag, P(not red) is:",
+    "answers": [
+      {
+        "text": "6/10=3/5",
+        "is_correct": true
+      },
+      {
+        "text": "4/10",
+        "is_correct": false
+      },
+      {
+        "text": "1/10",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The complement is blue: 6 of 10 counters.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "Which phrase correctly describes a favourable outcome?",
+    "answers": [
+      {
+        "text": "an outcome that belongs to the event of interest",
+        "is_correct": true
+      },
+      {
+        "text": "an outcome that is morally good",
+        "is_correct": false
+      },
+      {
+        "text": "the most likely outcome",
+        "is_correct": false
+      },
+      {
+        "text": "every outcome in the sample space",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "'Favourable' is mathematical terminology relative to the event.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "Predictive systems can use observed relative frequencies because:",
+    "answers": [
+      {
+        "text": "past proportions can provide probability estimates for similar future cases",
+        "is_correct": true
+      },
+      {
+        "text": "relative frequency guarantees the next outcome",
+        "is_correct": false
+      },
+      {
+        "text": "the most common outcome must always occur next",
+        "is_correct": false
+      },
+      {
+        "text": "probability removes uncertainty",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Observed frequencies can inform estimates but do not guarantee individual outcomes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "If a word appears 52 times in 1000 observations, its relative frequency is:",
+    "answers": [
+      {
+        "text": "0.052",
+        "is_correct": true
+      },
+      {
+        "text": "0.52",
+        "is_correct": false
+      },
+      {
+        "text": "5.2",
+        "is_correct": false
+      },
+      {
+        "text": "52",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "52÷1000=0.052.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "super-hard",
+    "question": "If 'and' appears 30 times in 1000 observations, its relative frequency is:",
+    "answers": [
+      {
+        "text": "0.03",
+        "is_correct": true
+      },
+      {
+        "text": "0.3",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "0.003",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "30÷1000=0.03.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "super-hard",
+    "question": "Which statement about predictive text is mathematically safest?",
+    "answers": [
+      {
+        "text": "frequency is one source of evidence that can inform predictions, but context also matters",
+        "is_correct": true
+      },
+      {
+        "text": "the most frequent word must always be next",
+        "is_correct": false
+      },
+      {
+        "text": "relative frequency makes predictions certain",
+        "is_correct": false
+      },
+      {
+        "text": "all words have equal probability",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Real prediction can use frequencies alongside contextual information.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "super-hard",
+    "question": "A die is rolled 60 times and six appears 8 times. Relative frequency of six is:",
+    "answers": [
+      {
+        "text": "8/60≈0.133",
+        "is_correct": true
+      },
+      {
+        "text": "1/6 exactly",
+        "is_correct": false
+      },
+      {
+        "text": "8/6",
+        "is_correct": false
+      },
+      {
+        "text": "52/60",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Experimental relative frequency uses the observed count.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "super-hard",
+    "question": "Compared with theoretical 1/6≈0.167, 8/60≈0.133 is:",
+    "answers": [
+      {
+        "text": "different but plausible due to chance variation",
+        "is_correct": true
+      },
+      {
+        "text": "proof the die is unfair",
+        "is_correct": false
+      },
+      {
+        "text": "impossible",
+        "is_correct": false
+      },
+      {
+        "text": "exactly equal",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A finite experiment need not match theoretical probability exactly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "super-hard",
+    "question": "Which experiment is single-stage?",
+    "answers": [
+      {
+        "text": "roll one die once",
+        "is_correct": true
+      },
+      {
+        "text": "roll a die then flip a coin",
+        "is_correct": false
+      },
+      {
+        "text": "flip two coins",
+        "is_correct": false
+      },
+      {
+        "text": "draw two cards in sequence",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A single-stage experiment has one chance action.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "practice",
+    "skill": "ac9m7p01",
+    "difficulty": "super-hard",
+    "question": "Which sample space is appropriate for one random letter chosen from A,B,C?",
+    "answers": [
+      {
+        "text": "{A,B,C}",
+        "is_correct": true
+      },
+      {
+        "text": "{A}",
+        "is_correct": false
+      },
+      {
+        "text": "{B,C}",
+        "is_correct": false
+      },
+      {
+        "text": "{1,2,3,A,B,C}",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "List all possible outcomes once.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-P-048"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "A spinner has sectors with probabilities Red 0.45, Blue 0.30, Green 0.25. Which check confirms a complete probability model?",
+    "answers": [
+      {
+        "text": "0.45+0.30+0.25=1",
+        "is_correct": true
+      },
+      {
+        "text": "the colours are alphabetical",
+        "is_correct": false
+      },
+      {
+        "text": "red is largest",
+        "is_correct": false
+      },
+      {
+        "text": "there are three labels",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Probabilities of all elementary outcomes must sum to 1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "A spinner has P(red)=0.4 and P(blue)=0.35. If green is the only other outcome, P(green)=",
+    "answers": [
+      {
+        "text": "0.25",
+        "is_correct": true
+      },
+      {
+        "text": "0.75",
+        "is_correct": false
+      },
+      {
+        "text": "0.15",
+        "is_correct": false
+      },
+      {
+        "text": "1.25",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "1−0.4−0.35=0.25.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "A bag contains 3 red, 5 blue and 2 green identical counters. P(not blue)=",
+    "answers": [
+      {
+        "text": "5/10=1/2",
+        "is_correct": true
+      },
+      {
+        "text": "5/10 blue",
+        "is_correct": false
+      },
+      {
+        "text": "2/10",
+        "is_correct": false
+      },
+      {
+        "text": "8/10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Not blue means red or green: 3+2=5 of 10.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "easy",
+    "question": "For the same bag, expected blue counters in 120 draws with replacement are:",
+    "answers": [
+      {
+        "text": "60",
+        "is_correct": true
+      },
+      {
+        "text": "50",
+        "is_correct": false
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "72",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "P(blue)=5/10=1/2, so 120×1/2=60.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "Why is 'expected 60 blue' not a guarantee?",
+    "answers": [
+      {
+        "text": "random variation remains in finite trials",
+        "is_correct": true
+      },
+      {
+        "text": "probability is not numerical",
+        "is_correct": false
+      },
+      {
+        "text": "replacement changes blue to red",
+        "is_correct": false
+      },
+      {
+        "text": "expected frequency must be an integer outcome",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Expected frequency describes long-run average behaviour.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "A fair die is rolled 240 times. Expected results greater than 4:",
+    "answers": [
+      {
+        "text": "80",
+        "is_correct": true
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "120",
+        "is_correct": false
+      },
+      {
+        "text": "160",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "P(5 or 6)=2/6=1/3; 240÷3=80.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "A fair die is rolled 240 times and numbers greater than 4 occur 91 times. Relative frequency is approximately:",
+    "answers": [
+      {
+        "text": "0.379",
+        "is_correct": true
+      },
+      {
+        "text": "0.333",
+        "is_correct": false
+      },
+      {
+        "text": "0.091",
+        "is_correct": false
+      },
+      {
+        "text": "0.621",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "91÷240≈0.379.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "Which conclusion is strongest?",
+    "answers": [
+      {
+        "text": "91/240 differs from 1/3 but finite-trial variation is expected",
+        "is_correct": true
+      },
+      {
+        "text": "the die is definitely unfair",
+        "is_correct": false
+      },
+      {
+        "text": "the theoretical probability becomes 91/240",
+        "is_correct": false
+      },
+      {
+        "text": "91 outcomes are impossible",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "One finite experiment does not need to match the model exactly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "A coin produces 520 heads in 1000 tosses. Which statement is best?",
+    "answers": [
+      {
+        "text": "0.52 is reasonably close to 0.5 and could occur by chance",
+        "is_correct": true
+      },
+      {
+        "text": "the coin must be biased",
+        "is_correct": false
+      },
+      {
+        "text": "P(heads) is now exactly 0.52 forever",
+        "is_correct": false
+      },
+      {
+        "text": "heads are certain next toss",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Relative frequency estimates probability but contains sampling variation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "medium",
+    "question": "Which result gives stronger experimental evidence about a coin's long-run behaviour?",
+    "answers": [
+      {
+        "text": "520 heads in 1000 tosses",
+        "is_correct": true
+      },
+      {
+        "text": "5 heads in 10 tosses",
+        "is_correct": false
+      },
+      {
+        "text": "both equally informative",
+        "is_correct": false
+      },
+      {
+        "text": "one toss",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A larger number of trials generally gives a more stable relative frequency.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "A spinner has four equal sectors but labels R,R,B,G. What is P(R)?",
+    "answers": [
+      {
+        "text": "1/2",
+        "is_correct": true
+      },
+      {
+        "text": "1/3",
+        "is_correct": false
+      },
+      {
+        "text": "1/4",
+        "is_correct": false
+      },
+      {
+        "text": "2/3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Two of four equal sectors are red.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "Why is the sample space {R,B,G} alone insufficient to infer equal probabilities in that spinner?",
+    "answers": [
+      {
+        "text": "the labels combine unequal numbers of elementary sectors",
+        "is_correct": true
+      },
+      {
+        "text": "sample spaces cannot use letters",
+        "is_correct": false
+      },
+      {
+        "text": "there are only three colours",
+        "is_correct": false
+      },
+      {
+        "text": "probability cannot exceed 1/3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Named outcomes can aggregate different amounts of equally likely elementary outcomes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "A lucky dip contains prize labels A,A,A,B,C. If each ticket is equally likely, P(A)=",
+    "answers": [
+      {
+        "text": "3/5",
+        "is_correct": true
+      },
+      {
+        "text": "1/3",
+        "is_correct": false
+      },
+      {
+        "text": "1/5",
+        "is_correct": false
+      },
+      {
+        "text": "1/2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Three of five tickets produce A.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "hard",
+    "question": "For that lucky dip, which is the most useful elementary sample space if tickets are physically distinct?",
+    "answers": [
+      {
+        "text": "{A1,A2,A3,B1,C1}",
+        "is_correct": true
+      },
+      {
+        "text": "{A,B,C} with equal probabilities",
+        "is_correct": false
+      },
+      {
+        "text": "{A} only",
+        "is_correct": false
+      },
+      {
+        "text": "{5}",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Distinguishing equally likely tickets makes the weighting transparent.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "super-hard",
+    "question": "An event has probability 0.72. Its complement has probability:",
+    "answers": [
+      {
+        "text": "0.28",
+        "is_correct": true
+      },
+      {
+        "text": "0.72",
+        "is_correct": false
+      },
+      {
+        "text": "1.72",
+        "is_correct": false
+      },
+      {
+        "text": "0.18",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "1−0.72=0.28.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7P01",
+    "bank": "test",
+    "skill": "ac9m7p01",
+    "difficulty": "super-hard",
+    "question": "If P(not rain)=0.65, then P(rain)=",
+    "answers": [
+      {
+        "text": "0.35",
+        "is_correct": true
+      },
+      {
+        "text": "0.65",
+        "is_correct": false
+      },
+      {
+        "text": "1.65",
+        "is_correct": false
+      },
+      {
+        "text": "0.25",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Complement probabilities sum to 1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7P01-T-016"
   }
 ]

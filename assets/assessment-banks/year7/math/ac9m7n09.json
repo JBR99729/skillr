@@ -1,18 +1,1292 @@
 [
   {
-    "id": "AC9M7N09-P-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $480 and is discounted by 15%. What is the sale price?",
-    "audio_prompt": "An item costs $480 and is discounted by 15%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "A lift starts at floor 0, goes up 5 floors, then down 8 floors. What is the final floor?",
+    "answers": [
+      {
+        "text": "−3",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "−8",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0 + 5 − 8 = −3.\nHint: Model up as positive and down as negative.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7N09-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "A hiker is at −120 m relative to sea level and climbs 85 m. What is the new altitude?",
+    "answers": [
+      {
+        "text": "−35 m",
+        "is_correct": true
+      },
+      {
+        "text": "35 m",
+        "is_correct": false
+      },
+      {
+        "text": "−205 m",
+        "is_correct": false
+      },
+      {
+        "text": "205 m",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "−120 + 85 = −35 m.\nHint: A climb increases the signed altitude.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "A submarine at −300 m rises 120 m then descends 50 m. What is its final depth?",
+    "answers": [
+      {
+        "text": "−230 m",
+        "is_correct": true
+      },
+      {
+        "text": "−180 m",
+        "is_correct": false
+      },
+      {
+        "text": "−350 m",
+        "is_correct": false
+      },
+      {
+        "text": "−430 m",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "−300 + 120 − 50 = −230 m.\nHint: Rising makes the value less negative.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "A drone is 40 m above a reference level, rises 25 m, then drops 90 m. Where is it now?",
+    "answers": [
+      {
+        "text": "−25 m",
+        "is_correct": true
+      },
+      {
+        "text": "25 m",
+        "is_correct": false
+      },
+      {
+        "text": "−50 m",
+        "is_correct": false
+      },
+      {
+        "text": "50 m",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "40 + 25 − 90 = −25 m.\nHint: Write one signed-number expression before calculating.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "A diver moves from −15 m to +2 m. Which change models the movement?",
+    "answers": [
+      {
+        "text": "+17 m",
+        "is_correct": true
+      },
+      {
+        "text": "−17 m",
+        "is_correct": false
+      },
+      {
+        "text": "+13 m",
+        "is_correct": false
+      },
+      {
+        "text": "−13 m",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2 − (−15) = +17 m.\nHint: Change = final − initial.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "55% of 400 students attended an event. How many attended?",
+    "answers": [
+      {
+        "text": "220",
+        "is_correct": true
+      },
+      {
+        "text": "200",
+        "is_correct": false
+      },
+      {
+        "text": "240",
+        "is_correct": false
+      },
+      {
+        "text": "260",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0.55 × 400 = 220.\nHint: Convert 55% to 0.55 or 55/100.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "23% of 900 students voted yes. How many students is this?",
+    "answers": [
+      {
+        "text": "207",
+        "is_correct": true
+      },
+      {
+        "text": "230",
+        "is_correct": false
+      },
+      {
+        "text": "277",
+        "is_correct": false
+      },
+      {
+        "text": "690",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0.23 × 900 = 207.\nHint: Find 23 hundredths of 900.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "35% of a 1200 m² school site is green space. What area is green space?",
+    "answers": [
+      {
+        "text": "420 m²",
+        "is_correct": true
+      },
+      {
+        "text": "350 m²",
+        "is_correct": false
+      },
+      {
+        "text": "300 m²",
+        "is_correct": false
+      },
+      {
+        "text": "600 m²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0.35 × 1200 = 420 m².\nHint: Use proportion × total area.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "240 students represent 75% of a cohort. How many students are in the cohort?",
+    "answers": [
+      {
+        "text": "320",
+        "is_correct": true
+      },
+      {
+        "text": "315",
+        "is_correct": false
+      },
+      {
+        "text": "300",
+        "is_correct": false
+      },
+      {
+        "text": "180",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "240 ÷ 0.75 = 320.\nHint: When the part and percentage are known, divide by the proportion.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "A survey result is 18% of 900 people. Which equation correctly models the number x?",
+    "answers": [
+      {
+        "text": "x=0.18×900",
+        "is_correct": true
+      },
+      {
+        "text": "x=18×900",
+        "is_correct": false
+      },
+      {
+        "text": "x=900÷18",
+        "is_correct": false
+      },
+      {
+        "text": "x=0.18÷900",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A percentage of a total is proportion × total.\nHint: 18% = 0.18.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "A fundraiser earns $480 and costs $360. What is the profit?",
+    "answers": [
+      {
+        "text": "$120",
+        "is_correct": true
+      },
+      {
+        "text": "$840",
+        "is_correct": false
+      },
+      {
+        "text": "$360",
+        "is_correct": false
+      },
+      {
+        "text": "$40",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Profit = revenue − cost = $120.\nHint: Profit is what remains after costs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "A fundraiser costs $360 and makes a $120 profit. What is the percentage profit on cost?",
+    "answers": [
+      {
+        "text": "33.3%",
+        "is_correct": true
+      },
+      {
+        "text": "25%",
+        "is_correct": false
+      },
+      {
+        "text": "30%",
+        "is_correct": false
+      },
+      {
+        "text": "40%",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "120 ÷ 360 × 100% = 33.3% approximately.\nHint: Percentage profit is profit divided by cost.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "An event earns $500 but costs $650. What is the loss?",
+    "answers": [
+      {
+        "text": "$150",
+        "is_correct": true
+      },
+      {
+        "text": "$1150",
+        "is_correct": false
+      },
+      {
+        "text": "$100",
+        "is_correct": false
+      },
+      {
+        "text": "$250",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Loss = cost − revenue = $150.\nHint: A loss occurs when cost exceeds revenue.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A project costs $650 and loses $150. What is the percentage loss on cost, to the nearest whole percent?",
+    "answers": [
+      {
+        "text": "23%",
+        "is_correct": true
+      },
+      {
+        "text": "25%",
+        "is_correct": false
+      },
+      {
+        "text": "30%",
+        "is_correct": false
+      },
+      {
+        "text": "33%",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "150 ÷ 650 × 100% ≈ 23%.\nHint: Use loss ÷ original cost.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A bank balance starts at $200. A $75 debit is followed by a $40 credit. What is the final balance?",
+    "answers": [
+      {
+        "text": "$165",
+        "is_correct": true
+      },
+      {
+        "text": "$125",
+        "is_correct": false
+      },
+      {
+        "text": "$235",
+        "is_correct": false
+      },
+      {
+        "text": "$115",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "200 − 75 + 40 = 165.\nHint: Treat a debit as negative and a credit as positive.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A club starts with $500, loses $120, then gains $80. Which expression and result are correct?",
+    "answers": [
+      {
+        "text": "500−120+80=$460",
+        "is_correct": true
+      },
+      {
+        "text": "500+120−80=$540",
+        "is_correct": false
+      },
+      {
+        "text": "500−120−80=$300",
+        "is_correct": false
+      },
+      {
+        "text": "500+120+80=$700",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The signed changes give $460.\nHint: Translate gain/loss before calculating.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A stall has fixed and food costs of $720. It earns $9 per item sold. How many items must be sold to break even?",
+    "answers": [
+      {
+        "text": "80",
+        "is_correct": true
+      },
+      {
+        "text": "72",
+        "is_correct": false
+      },
+      {
+        "text": "81",
+        "is_correct": false
+      },
+      {
+        "text": "90",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "720 ÷ 9 = 80 items.\nHint: Break-even means revenue equals cost.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "Event A makes $150 profit on $750 cost. Event B makes $120 profit on $480 cost. Which has the higher percentage profit?",
+    "answers": [
+      {
+        "text": "Event B",
+        "is_correct": true
+      },
+      {
+        "text": "Event A",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot determine",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A:20%; B:25%, so Event B has the higher return on cost.\nHint: Compare percentages, not just dollar profit.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A student says a $90 profit on a $300 cost is a 90% profit. What is the best correction?",
+    "answers": [
+      {
+        "text": "It is 30% because 90÷300=0.30",
+        "is_correct": true
+      },
+      {
+        "text": "It is 3% because 90÷300=0.03",
+        "is_correct": false
+      },
+      {
+        "text": "It is 390% because 300+90=390",
+        "is_correct": false
+      },
+      {
+        "text": "It is 70% because 300−90=210",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "90/300 = 0.30 = 30%.\nHint: Percentage profit compares profit with original cost.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "Which representation is most useful for comparing attendance at two schools of different sizes?",
+    "answers": [
+      {
+        "text": "Percentage attending",
+        "is_correct": true
+      },
+      {
+        "text": "Raw number attending only",
+        "is_correct": false
+      },
+      {
+        "text": "School name",
+        "is_correct": false
+      },
+      {
+        "text": "Difference in student ages",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Percentages account for different total school populations.\nHint: Use a proportional measure for fair comparison.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A school estimates event attendance using last year's 55% attendance rate. Which is an important modelling assumption?",
+    "answers": [
+      {
+        "text": "This year's behaviour will be reasonably similar",
+        "is_correct": true
+      },
+      {
+        "text": "Exactly 55 students will attend",
+        "is_correct": false
+      },
+      {
+        "text": "The cohort size is irrelevant",
+        "is_correct": false
+      },
+      {
+        "text": "Percentages cannot change",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Using a previous proportion assumes it is relevant to the new situation.\nHint: Models depend on assumptions that should be stated.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A cohort has 598 students and about 41% are expected to attend. Which estimate is most reasonable?",
+    "answers": [
+      {
+        "text": "About 240",
+        "is_correct": true
+      },
+      {
+        "text": "About 60",
+        "is_correct": false
+      },
+      {
+        "text": "About 410",
+        "is_correct": false
+      },
+      {
+        "text": "About 540",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "40% of 600 is about 240, so 41% of 598 should be close to 240.\nHint: Use friendly numbers to check reasonableness.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A fundraiser made a $180 profit after costs of $720. What revenue did it earn?",
+    "answers": [
+      {
+        "text": "$900",
+        "is_correct": true
+      },
+      {
+        "text": "$540",
+        "is_correct": false
+      },
+      {
+        "text": "$720",
+        "is_correct": false
+      },
+      {
+        "text": "$180",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Revenue = cost + profit = $900.\nHint: Rearrange profit = revenue − cost.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "Which model best represents a balance that starts at $350, receives a $90 credit and then a $125 debit?",
+    "answers": [
+      {
+        "text": "350+90−125",
+        "is_correct": true
+      },
+      {
+        "text": "350−90+125",
+        "is_correct": false
+      },
+      {
+        "text": "350+90+125",
+        "is_correct": false
+      },
+      {
+        "text": "350−90−125",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Credits add and debits subtract.\nHint: Translate each transaction by its sign.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "In a hypothetical land-use model, 18% of a 2,000,000 km² region is classified as Area A. What area is this?",
+    "answers": [
+      {
+        "text": "360,000 km²",
+        "is_correct": true
+      },
+      {
+        "text": "180,000 km²",
+        "is_correct": false
+      },
+      {
+        "text": "200,000 km²",
+        "is_correct": false
+      },
+      {
+        "text": "3,600,000 km²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0.18 × 2,000,000 = 360,000 km².\nHint: Multiply the total by the decimal proportion.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "In the same hypothetical model, Area B is 25% of 2,000,000 km². What is its area?",
+    "answers": [
+      {
+        "text": "500,000 km²",
+        "is_correct": true
+      },
+      {
+        "text": "250,000 km²",
+        "is_correct": false
+      },
+      {
+        "text": "400,000 km²",
+        "is_correct": false
+      },
+      {
+        "text": "750,000 km²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0.25 × 2,000,000 = 500,000 km².\nHint: One quarter of 2 million is 500,000.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "If Area A is 360,000 km² and Area B is 500,000 km², what is the difference?",
+    "answers": [
+      {
+        "text": "140,000 km²",
+        "is_correct": true
+      },
+      {
+        "text": "160,000 km²",
+        "is_correct": false
+      },
+      {
+        "text": "120,000 km²",
+        "is_correct": false
+      },
+      {
+        "text": "860,000 km²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "500,000 − 360,000 = 140,000 km².\nHint: Difference compares the two areas additively.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "Area A is 360,000 km² and Area B is 500,000 km². Area A is what percentage of Area B?",
+    "answers": [
+      {
+        "text": "72%",
+        "is_correct": true
+      },
+      {
+        "text": "70%",
+        "is_correct": false
+      },
+      {
+        "text": "75%",
+        "is_correct": false
+      },
+      {
+        "text": "80%",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "360,000 ÷ 500,000 × 100% = 72%.\nHint: Use A/B when asking A as a percentage of B.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "Why can percentages be more informative than raw areas when comparing differently sized regions?",
+    "answers": [
+      {
+        "text": "They compare each area relative to its whole",
+        "is_correct": true
+      },
+      {
+        "text": "They always make numbers smaller",
+        "is_correct": false
+      },
+      {
+        "text": "They remove all uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "They guarantee equal regions",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Percentages standardise the comparison relative to each total.\nHint: Think about fair comparison across different totals.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A map reports that 30% of a 1.5 million km² study region meets a criterion. Which calculation is correct?",
+    "answers": [
+      {
+        "text": "0.30×1,500,000=450,000",
+        "is_correct": true
+      },
+      {
+        "text": "30×1,500,000=45,000,000",
+        "is_correct": false
+      },
+      {
+        "text": "1,500,000÷0.30=5,000,000",
+        "is_correct": false
+      },
+      {
+        "text": "1,500,000−30=1,499,970",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "30% = 0.30, so the part is 450,000 km².\nHint: Percentage of a total means multiply.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "A school has 800 students. 65% respond to a survey, and 40% of respondents vote yes. How many vote yes?",
+    "answers": [
+      {
+        "text": "208",
+        "is_correct": true
+      },
+      {
+        "text": "320",
+        "is_correct": false
+      },
+      {
+        "text": "520",
+        "is_correct": false
+      },
+      {
+        "text": "260",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "800×0.65×0.40=208.\nHint: Apply each proportion to the relevant group.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "A stall costs $640 to run and earns $880. It donates 25% of its profit. How much is donated?",
+    "answers": [
+      {
+        "text": "$60",
+        "is_correct": true
+      },
+      {
+        "text": "$220",
+        "is_correct": false
+      },
+      {
+        "text": "$240",
+        "is_correct": false
+      },
+      {
+        "text": "$160",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Profit = 880−640=240; 25% of 240 is $60.\nHint: Find profit before applying the donation percentage.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "A student finds 35% of 1200 by calculating 1200÷35. What is the key error?",
+    "answers": [
+      {
+        "text": "They should multiply by 0.35",
+        "is_correct": true
+      },
+      {
+        "text": "They should add 35",
+        "is_correct": false
+      },
+      {
+        "text": "They should subtract 35",
+        "is_correct": false
+      },
+      {
+        "text": "They should multiply by 35",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A percentage of a total is found by multiplying by its decimal form.\nHint: 35% = 0.35.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "Which final statement best communicates a solution to a modelling problem?",
+    "answers": [
+      {
+        "text": "About 220 students are expected to attend, assuming the 55% rate applies",
+        "is_correct": true
+      },
+      {
+        "text": "The answer is 220",
+        "is_correct": false
+      },
+      {
+        "text": "0.55×400=220 only",
+        "is_correct": false
+      },
+      {
+        "text": "55% is a decimal",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A modelling conclusion should interpret the result and mention relevant assumptions.\nHint: Communicate what the number means in context.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "When is a spreadsheet especially useful in this topic?",
+    "answers": [
+      {
+        "text": "Testing many scenarios with changing percentages or costs",
+        "is_correct": true
+      },
+      {
+        "text": "Reading a single integer",
+        "is_correct": false
+      },
+      {
+        "text": "Remembering a definition",
+        "is_correct": false
+      },
+      {
+        "text": "Avoiding all assumptions",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Spreadsheets efficiently recalculate scenario models when inputs change.\nHint: Think sensitivity analysis and repeated calculations.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "A fundraiser's cost estimate rises from $600 to $660 while expected revenue stays $750. What happens to expected profit?",
+    "answers": [
+      {
+        "text": "It falls from $150 to $90",
+        "is_correct": true
+      },
+      {
+        "text": "It rises from $150 to $210",
+        "is_correct": false
+      },
+      {
+        "text": "It stays $150",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes a $90 loss",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Profit changes from 750−600=150 to 750−660=90.\nHint: Change one model input and recalculate.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "Plan A predicts 60% of 500 students attend. Plan B predicts 45% of 700. Which predicts more attendees?",
+    "answers": [
+      {
+        "text": "Plan B by 15",
+        "is_correct": true
+      },
+      {
+        "text": "Plan A by 15",
+        "is_correct": false
+      },
+      {
+        "text": "They predict the same",
+        "is_correct": false
+      },
+      {
+        "text": "Plan B by 105",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A=300; B=315, so Plan B predicts 15 more.\nHint: Convert both percentages to counts before comparing.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "A club's profit rises from $200 to $250. What is the percentage increase relative to the original profit?",
+    "answers": [
+      {
+        "text": "25%",
+        "is_correct": true
+      },
+      {
+        "text": "20%",
+        "is_correct": false
+      },
+      {
+        "text": "50%",
+        "is_correct": false
+      },
+      {
+        "text": "125%",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Increase=50; 50÷200×100%=25%.\nHint: Percentage change uses the original value as the base.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "A fundraiser must make at least $300 profit. If costs are $900, what minimum revenue is required?",
+    "answers": [
+      {
+        "text": "$1200",
+        "is_correct": true
+      },
+      {
+        "text": "$600",
+        "is_correct": false
+      },
+      {
+        "text": "$900",
+        "is_correct": false
+      },
+      {
+        "text": "$300",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Revenue − 900 ≥ 300, so revenue must be at least $1200.\nHint: Required revenue = costs + target profit.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "Which question best evaluates whether a mathematical model is useful?",
+    "answers": [
+      {
+        "text": "Do its assumptions and outputs reasonably match the real situation?",
+        "is_correct": true
+      },
+      {
+        "text": "Does it use the largest possible numbers?",
+        "is_correct": false
+      },
+      {
+        "text": "Does it avoid percentages?",
+        "is_correct": false
+      },
+      {
+        "text": "Does it have only one calculation?",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A model should be judged by assumptions, reasonableness and usefulness in context.\nHint: Modelling is more than calculation; evaluate the model.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "practice",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "An item costs $480 and is discounted by 15%. What is the sale price?",
     "answers": [
       {
         "text": "$408.00",
@@ -27,29 +1301,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Multiply by 0.85; the sale price is $408.00.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N09-P-041"
   },
   {
-    "id": "AC9M7N09-P-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
     "question": "An item costs $95 and is discounted by 30%. What is the sale price?",
-    "audio_prompt": "An item costs $95 and is discounted by 30%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
     "answers": [
       {
         "text": "$123.50",
@@ -64,28 +1329,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Multiply by 0.7; the sale price is $66.50.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N09-P-042"
   },
   {
-    "id": "AC9M7N09-P-017",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
+    "skill": "ac9m7n09",
+    "difficulty": "super-hard",
     "question": "A fundraiser costs $320 and earns $288. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $320 and earns $288. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
     "answers": [
       {
         "text": "32%",
@@ -100,28 +1357,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Change is $32 relative to cost $320: 10% loss.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N09-P-043"
   },
   {
-    "id": "AC9M7N09-P-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
+    "skill": "ac9m7n09",
+    "difficulty": "super-hard",
     "question": "An item costs $250 and is discounted by 20%. What is the sale price?",
-    "audio_prompt": "An item costs $250 and is discounted by 20%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
     "answers": [
       {
         "text": "$50.00",
@@ -136,29 +1385,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Multiply by 0.8; the sale price is $200.00.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N09-P-044"
   },
   {
-    "id": "AC9M7N09-P-010",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
+    "skill": "ac9m7n09",
+    "difficulty": "super-hard",
     "question": "An item costs $420 and is discounted by 22%. What is the sale price?",
-    "audio_prompt": "An item costs $420 and is discounted by 22%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
     "answers": [
       {
         "text": "$327.60",
@@ -173,28 +1413,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
       "summary": "Multiply by 0.78; the sale price is $327.60.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N09-P-045"
   },
   {
-    "id": "AC9M7N09-P-018",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
+    "skill": "ac9m7n09",
+    "difficulty": "super-hard",
     "question": "A fundraiser costs $150 and earns $180. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $150 and earns $180. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
     "answers": [
       {
         "text": "20% loss",
@@ -209,28 +1441,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Change is $30 relative to cost $150: 20% profit.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N09-P-046"
   },
   {
-    "id": "AC9M7N09-P-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
+    "skill": "ac9m7n09",
+    "difficulty": "super-hard",
     "question": "An item costs $360 and is discounted by 25%. What is the sale price?",
-    "audio_prompt": "An item costs $360 and is discounted by 25%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
     "answers": [
       {
         "text": "$450.00",
@@ -245,29 +1469,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
       "summary": "Multiply by 0.75; the sale price is $270.00.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N09-P-047"
   },
   {
-    "id": "AC9M7N09-P-011",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
+    "skill": "ac9m7n09",
+    "difficulty": "super-hard",
     "question": "An item costs $56 and is discounted by 25%. What is the sale price?",
-    "audio_prompt": "An item costs $56 and is discounted by 25%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
     "answers": [
       {
         "text": "$14.00",
@@ -282,431 +1497,187 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
       "summary": "Multiply by 0.75; the sale price is $42.00.",
       "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N09-P-048"
   },
   {
-    "id": "AC9M7N09-P-019",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $90 and earns $117. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $90 and earns $117. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "A lift starts at floor −3, rises 11 floors, then descends 6. What is the final floor?",
     "answers": [
       {
-        "text": "30% profit",
+        "text": "2",
         "is_correct": true
       },
       {
-        "text": "27%",
+        "text": "8",
         "is_correct": false
       },
       {
-        "text": "30% loss",
+        "text": "−8",
+        "is_correct": false
+      },
+      {
+        "text": "−2",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Change is $27 relative to cost $90: 30% profit.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+      "summary": "−3+11−6=2.\nHint: Translate each movement using signed numbers.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N09-T-001"
   },
   {
-    "id": "AC9M7N09-P-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $120 and is discounted by 12.5%. What is the sale price?",
-    "audio_prompt": "An item costs $120 and is discounted by 12.5%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "A climber moves from −45 m to +25 m relative to sea level. What is the total change in altitude?",
     "answers": [
       {
-        "text": "$105.00",
+        "text": "+70 m",
         "is_correct": true
       },
       {
-        "text": "$15.00",
+        "text": "−70 m",
         "is_correct": false
       },
       {
-        "text": "$135.00",
+        "text": "+20 m",
+        "is_correct": false
+      },
+      {
+        "text": "−20 m",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Multiply by 0.875; the sale price is $105.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+      "summary": "25−(−45)=70 m.\nHint: Change = final − initial.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N09-T-002"
   },
   {
-    "id": "AC9M7N09-P-012",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $999 and is discounted by 10%. What is the sale price?",
-    "audio_prompt": "An item costs $999 and is discounted by 10%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "62% of 750 students attend an event. How many attend?",
     "answers": [
       {
-        "text": "$1098.90",
-        "is_correct": false
-      },
-      {
-        "text": "$99.90",
-        "is_correct": false
-      },
-      {
-        "text": "$899.10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiply by 0.9; the sale price is $899.10.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-020",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $400 and earns $340. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $400 and earns $340. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "60%",
-        "is_correct": false
-      },
-      {
-        "text": "15% loss",
+        "text": "465",
         "is_correct": true
       },
       {
-        "text": "15% profit",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Change is $60 relative to cost $400: 15% loss.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $800 and is discounted by 35%. What is the sale price?",
-    "audio_prompt": "An item costs $800 and is discounted by 35%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$280.00",
+        "text": "450",
         "is_correct": false
       },
       {
-        "text": "$520.00",
+        "text": "480",
+        "is_correct": false
+      },
+      {
+        "text": "512",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0.62×750=465.\nHint: Convert 62% to 0.62.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "easy",
+    "question": "294 students represent 70% of a cohort. What is the cohort size?",
+    "answers": [
+      {
+        "text": "420",
         "is_correct": true
       },
       {
-        "text": "$1080.00",
+        "text": "400",
+        "is_correct": false
+      },
+      {
+        "text": "441",
+        "is_correct": false
+      },
+      {
+        "text": "364",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Multiply by 0.65; the sale price is $520.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+      "summary": "294÷0.70=420.\nHint: Part ÷ proportion = whole.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N09-T-004"
   },
   {
-    "id": "AC9M7N09-P-013",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $100 and earns $140. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $100 and earns $140. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A stall earns $1380 and costs $920. What is its percentage profit on cost?",
     "answers": [
       {
-        "text": "40% profit",
+        "text": "50%",
         "is_correct": true
       },
       {
-        "text": "40%",
+        "text": "33.3%",
         "is_correct": false
       },
       {
-        "text": "40% loss",
+        "text": "46%",
+        "is_correct": false
+      },
+      {
+        "text": "66.7%",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Change is $40 relative to cost $100: 40% profit.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+      "summary": "Profit=460; 460÷920=0.50=50%.\nHint: Use profit divided by cost.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N09-T-005"
   },
   {
-    "id": "AC9M7N09-P-021",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $250 and earns $275. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $250 and earns $275. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A club event costs $840 and earns $714. What is the percentage loss on cost?",
     "answers": [
       {
-        "text": "10% loss",
-        "is_correct": false
-      },
-      {
-        "text": "25%",
-        "is_correct": false
-      },
-      {
-        "text": "10% profit",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Change is $25 relative to cost $250: 10% profit.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $75 and is discounted by 10%. What is the sale price?",
-    "audio_prompt": "An item costs $75 and is discounted by 10%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$82.50",
-        "is_correct": false
-      },
-      {
-        "text": "$7.50",
-        "is_correct": false
-      },
-      {
-        "text": "$67.50",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiply by 0.9; the sale price is $67.50.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N09-P-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $240 and earns $300. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $240 and earns $300. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "60%",
-        "is_correct": false
-      },
-      {
-        "text": "25% profit",
+        "text": "15%",
         "is_correct": true
       },
       {
-        "text": "25% loss",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Change is $60 relative to cost $240: 25% profit.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-022",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $1200 and earns $1020. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $1200 and earns $1020. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "15% loss",
-        "is_correct": true
-      },
-      {
-        "text": "180%",
-        "is_correct": false
-      },
-      {
-        "text": "15% profit",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Change is $180 relative to cost $1200: 15% loss.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $640 and is discounted by 5%. What is the sale price?",
-    "audio_prompt": "An item costs $640 and is discounted by 5%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "$608.00",
-        "is_correct": true
-      },
-      {
-        "text": "$32.00",
-        "is_correct": false
-      },
-      {
-        "text": "$672.00",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Multiply by 0.95; the sale price is $608.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7N09-P-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $80 and earns $68. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $80 and earns $68. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "15% profit",
+        "text": "18%",
         "is_correct": false
       },
       {
@@ -714,108 +1685,155 @@
         "is_correct": false
       },
       {
-        "text": "15% loss",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Change is $12 relative to cost $80: 15% loss.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-023",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 15% off $480; B: $90 off plus $25 fee. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 15% off $480; B: $90 off plus $25 fee. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "Plan A by $7",
-        "is_correct": true
-      },
-      {
-        "text": "The other plan by $20",
+        "text": "17.6%",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $7.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+      "summary": "Loss=126; 126÷840=15%.\nHint: Calculate loss before the percentage.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N09-T-006"
   },
   {
-    "id": "AC9M7N09-P-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "An item costs $1500 and is discounted by 18%. What is the sale price?",
-    "audio_prompt": "An item costs $1500 and is discounted by 18%. What is the sale price?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "80% of 600 students respond to a survey, and 35% of respondents choose option A. How many choose A?",
     "answers": [
       {
-        "text": "$270.00",
-        "is_correct": false
-      },
-      {
-        "text": "$1230.00",
+        "text": "168",
         "is_correct": true
       },
       {
-        "text": "$1770.00",
+        "text": "210",
+        "is_correct": false
+      },
+      {
+        "text": "480",
+        "is_correct": false
+      },
+      {
+        "text": "180",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Multiply by 0.8200000000000001; the sale price is $1230.00.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+      "summary": "600×0.80×0.35=168.\nHint: Apply the second percentage to respondents, not the full cohort.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N09-T-007"
   },
   {
-    "id": "AC9M7N09-P-016",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A fundraiser costs $500 and earns $575. What is the percentage profit or loss?",
-    "audio_prompt": "A fundraiser costs $500 and earns $575. What is the percentage profit or loss?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "An account starts at $450. Transactions are −$120, +$85, −$60 and +$25. Final balance?",
     "answers": [
       {
-        "text": "15% profit",
+        "text": "$380",
+        "is_correct": true
+      },
+      {
+        "text": "$330",
+        "is_correct": false
+      },
+      {
+        "text": "$400",
+        "is_correct": false
+      },
+      {
+        "text": "$365",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "450−120+85−60+25=380.\nHint: Keep signs attached to transactions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "A model predicts attendance using last year's 48% rate. Which statement is most important when reporting the answer?",
+    "answers": [
+      {
+        "text": "State that the estimate assumes a similar attendance pattern this year",
+        "is_correct": true
+      },
+      {
+        "text": "Round every answer down",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore changes in cohort size",
+        "is_correct": false
+      },
+      {
+        "text": "Treat 48% as exact forever",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A modelling result should communicate its assumption.\nHint: Models rely on assumptions, not just arithmetic.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "medium",
+    "question": "In a hypothetical comparison, Region A is 24% of 1.8 million km² and Region B is 30% of the same total. How much larger is B?",
+    "answers": [
+      {
+        "text": "108,000 km²",
+        "is_correct": true
+      },
+      {
+        "text": "54,000 km²",
+        "is_correct": false
+      },
+      {
+        "text": "432,000 km²",
+        "is_correct": false
+      },
+      {
+        "text": "540,000 km²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Difference in proportion=6%; 0.06×1,800,000=108,000 km².\nHint: Use the difference in percentages because the totals are the same.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N09",
+    "bank": "test",
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "Area A is 432,000 km² and Area B is 540,000 km². A is what percentage of B?",
+    "answers": [
+      {
+        "text": "80%",
         "is_correct": true
       },
       {
@@ -823,596 +1841,178 @@
         "is_correct": false
       },
       {
-        "text": "15% loss",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Change is $75 relative to cost $500: 15% profit.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7N09-P-024",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "practice",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 20% off $300; B: $50 off. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 20% off $300; B: $50 off. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "The other plan by $20",
+        "text": "108%",
         "is_correct": false
       },
       {
-        "text": "They cost the same",
+        "text": "20%",
         "is_correct": false
-      },
-      {
-        "text": "Plan A by $10",
-        "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $10.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
+      "summary": "432000÷540000×100%=80%.\nHint: A as a percentage of B means A/B.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N09-T-011"
   },
   {
-    "id": "AC9M7N09-T-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 10% off $800; B: $65 off. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 10% off $800; B: $65 off. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "A student claims 41% of 598 is 410. Which is the strongest reason the answer is unreasonable?",
     "answers": [
       {
-        "text": "Plan A by $15",
+        "text": "40% of about 600 is about 240",
         "is_correct": true
       },
       {
-        "text": "They cost the same",
+        "text": "41% must always be below 100",
         "is_correct": false
       },
       {
-        "text": "The other plan by $20",
+        "text": "598 is not divisible by 41",
+        "is_correct": false
+      },
+      {
+        "text": "Percentages cannot be used with whole numbers",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $15.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
+      "summary": "An estimate gives about 240, far from 410.\nHint: Use a nearby friendly-number benchmark.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-T-012"
   },
   {
-    "id": "AC9M7N09-T-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A model starts at -12 and changes by 19. What is the final value?",
-    "audio_prompt": "A model starts at -12 and changes by 19. What is the final value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "A fundraiser has costs of $1050 and earns $15 per ticket. What is the minimum number of tickets needed to break even?",
     "answers": [
       {
-        "text": "-7",
-        "is_correct": false
-      },
-      {
-        "text": "-31",
-        "is_correct": false
-      },
-      {
-        "text": "7",
+        "text": "70",
         "is_correct": true
+      },
+      {
+        "text": "71",
+        "is_correct": false
+      },
+      {
+        "text": "65",
+        "is_correct": false
+      },
+      {
+        "text": "75",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Use a signed quantity: -12 + (19) = 7.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
+      "summary": "1050÷15=70.\nHint: Break-even means revenue equals cost.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-T-013"
   },
   {
-    "id": "AC9M7N09-T-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 25% off $200; B: $60 off plus $15 fee. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 25% off $200; B: $60 off plus $15 fee. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "skill": "ac9m7n09",
+    "difficulty": "hard",
+    "question": "Plan A expects 58% of 500 people to attend. Plan B expects 44% of 700. Which predicts more attendees?",
     "answers": [
       {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "Plan B by $5",
+        "text": "Plan B by 18",
         "is_correct": true
       },
       {
-        "text": "The other plan by $20",
+        "text": "Plan A by 18",
+        "is_correct": false
+      },
+      {
+        "text": "Plan B by 28",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan B by $5.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
+      "summary": "A=290, B=308, so B is higher by 18.\nHint: Convert each model to a predicted count.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-T-014"
   },
   {
-    "id": "AC9M7N09-T-010",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A model starts at 5 and changes by -13. What is the final value?",
-    "audio_prompt": "A model starts at 5 and changes by -13. What is the final value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "skill": "ac9m7n09",
+    "difficulty": "super-hard",
+    "question": "Expected revenue stays at $1200 while costs rise from $800 to $900. How does percentage profit on cost change?",
     "answers": [
       {
-        "text": "-8",
+        "text": "From 50% to about 33.3%",
         "is_correct": true
       },
       {
-        "text": "18",
+        "text": "From 33.3% to 50%",
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "It stays 50%",
+        "is_correct": false
+      },
+      {
+        "text": "From 50% to 25%",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Use a signed quantity: 5 + (-13) = -8.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
+      "summary": "Old profit=400→50%; new profit=300→33.3%.\nHint: Recalculate both profit and percentage using each cost.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N09-T-015"
   },
   {
-    "id": "AC9M7N09-T-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N09",
     "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 30% off $150; B: $35 off. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 30% off $150; B: $35 off. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
+    "skill": "ac9m7n09",
+    "difficulty": "super-hard",
+    "question": "Which conclusion best demonstrates mathematical modelling rather than calculation alone?",
     "answers": [
       {
-        "text": "The other plan by $20",
-        "is_correct": false
-      },
-      {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "Plan A by $10",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $10.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A model starts at -20 and changes by 11. What is the final value?",
-    "audio_prompt": "A model starts at -20 and changes by 11. What is the final value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "-31",
-        "is_correct": false
-      },
-      {
-        "text": "-9",
+        "text": "The model predicts about 315 attendees, but the estimate depends on the assumed 45% attendance rate",
         "is_correct": true
       },
       {
-        "text": "9",
+        "text": "315",
+        "is_correct": false
+      },
+      {
+        "text": "0.45×700=315",
+        "is_correct": false
+      },
+      {
+        "text": "45%=0.45",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Use a signed quantity: -20 + (11) = -9.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 5% off $1000; B: $40 off. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 5% off $1000; B: $40 off. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
+      "summary": "A modelling conclusion interprets the result and acknowledges assumptions.\nHint: Report meaning and limitations, not only arithmetic.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "answers": [
-      {
-        "text": "Plan A by $10",
-        "is_correct": true
-      },
-      {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "The other plan by $20",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $10.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A model starts at 7 and changes by -15. What is the final value?",
-    "audio_prompt": "A model starts at 7 and changes by -15. What is the final value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "8",
-        "is_correct": false
-      },
-      {
-        "text": "22",
-        "is_correct": false
-      },
-      {
-        "text": "-8",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Use a signed quantity: 7 + (-15) = -8.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 12% off $500; B: $75 off plus $20 fee. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 12% off $500; B: $75 off plus $20 fee. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "Plan A by $5",
-        "is_correct": true
-      },
-      {
-        "text": "The other plan by $20",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $5.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A model starts at 0 and changes by -9. What is the final value?",
-    "audio_prompt": "A model starts at 0 and changes by -9. What is the final value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "-9",
-        "is_correct": true
-      },
-      {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "-7",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use a signed quantity: 0 + (-9) = -9.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "Compare these offers: A: 40% off $120; B: $55 off plus $10 fee. Which is cheaper?",
-    "audio_prompt": "Compare these offers: A: 40% off $120; B: $55 off plus $10 fee. Which is cheaper?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "The other plan by $20",
-        "is_correct": false
-      },
-      {
-        "text": "They cost the same",
-        "is_correct": false
-      },
-      {
-        "text": "Plan A by $3",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Calculate every discount and fee using its correct base; Plan A by $3.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A model starts at 18 and changes by -25. What is the final value?",
-    "audio_prompt": "A model starts at 18 and changes by -25. What is the final value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "43",
-        "is_correct": false
-      },
-      {
-        "text": "-7",
-        "is_correct": true
-      },
-      {
-        "text": "7",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use a signed quantity: 18 + (-25) = -7.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A model starts at -3 and changes by 8. What is the final value?",
-    "audio_prompt": "A model starts at -3 and changes by 8. What is the final value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "5",
-        "is_correct": true
-      },
-      {
-        "text": "-11",
-        "is_correct": false
-      },
-      {
-        "text": "-5",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use a signed quantity: -3 + (8) = 5.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "55% of a group of 200 meets a condition. How many is that?",
-    "audio_prompt": "55% of a group of 200 meets a condition. How many is that?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "90",
-        "is_correct": false
-      },
-      {
-        "text": "55",
-        "is_correct": false
-      },
-      {
-        "text": "110",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Convert 55% to 0.55 and multiply by 200: 110.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "A model starts at 4 and changes by -7. What is the final value?",
-    "audio_prompt": "A model starts at 4 and changes by -7. What is the final value?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "11",
-        "is_correct": false
-      },
-      {
-        "text": "-3",
-        "is_correct": true
-      },
-      {
-        "text": "3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use a signed quantity: 4 + (-7) = -3.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
-  },
-  {
-    "id": "AC9M7N09-T-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7N09",
-    "bank": "test",
-    "skill": "modelling_rational_and_percentage_problems",
-    "question": "23% of a group of 480 meets a condition. How many is that?",
-    "audio_prompt": "23% of a group of 480 meets a condition. How many is that?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n09",
-      "alt_text": "Percentage bar connecting a whole amount, a rate and the resulting part."
-    },
-    "answers": [
-      {
-        "text": "110.4",
-        "is_correct": true
-      },
-      {
-        "text": "23",
-        "is_correct": false
-      },
-      {
-        "text": "369.6",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Convert 23% to 0.23 and multiply by 480: 110.4.",
-      "hint": "Define the quantities, calculate the percentage or rational part, then interpret the result."
-    }
+    "id": "AC9M7N09-T-016"
   }
 ]

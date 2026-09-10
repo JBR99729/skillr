@@ -1,17 +1,12 @@
 [
   {
-    "id": "ac9m7sp03-p-001",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
     "bank": "practice",
-    "skill": "translate_a_triangle",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
@@ -30,27 +25,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
-      "hint": "Apply the rule to every point."
+      "summary": "Reflection in the y-axis maps (4,−2) to (−4,−2)\nHint: Apply the rule to every point.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP03-P-001"
   },
   {
-    "id": "ac9m7sp03-p-002",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
     "bank": "practice",
-    "skill": "reflect_in_y_axis",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving reflect in y axis. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving reflect in y axis. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Rotation direction or centre omitted",
@@ -69,27 +57,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
-      "hint": "Both determine the image."
+      "summary": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.\nHint: Both determine the image.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP03-P-002"
   },
   {
-    "id": "ac9m7sp03-p-003",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
     "bank": "practice",
-    "skill": "rotate_90",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving rotate 90. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving rotate 90. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Reflection coordinates swapped incorrectly",
@@ -108,27 +89,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
-      "hint": "Match the stated axis or line."
+      "summary": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.\nHint: Match the stated axis or line.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP03-P-003"
   },
   {
-    "id": "ac9m7sp03-p-004",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
     "bank": "practice",
-    "skill": "identify_orientation_change",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving identify orientation change. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving identify orientation change. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Congruence assumed without checking a non-rigid change",
@@ -147,27 +121,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
-      "hint": "These rules are rigid, but other transformations may not be."
+      "summary": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.\nHint: These rules are rigid, but other transformations may not be.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP03-P-004"
   },
   {
-    "id": "ac9m7sp03-p-005",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
     "bank": "practice",
-    "skill": "check_invariants",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
     "question": "Which statement correctly identifies invariant in coordinate transformations?",
-    "audio_prompt": "Which statement correctly identifies invariant in coordinate transformations?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
@@ -186,28 +153,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
-      "hint": "Apply the rule to every point."
+      "summary": "Reflection in the y-axis maps (4,−2) to (−4,−2)\nHint: Apply the rule to every point.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP03-P-005"
   },
   {
-    "id": "ac9m7sp03-p-006",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
     "bank": "practice",
-    "skill": "translate_a_triangle",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
     "question": "Which choice best describes coordinate rule in coordinate transformations?",
-    "audio_prompt": "Which choice best describes coordinate rule in coordinate transformations?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Rotation direction or centre omitted",
@@ -226,28 +185,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
-      "hint": "Both determine the image."
+      "summary": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.\nHint: Both determine the image.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP03-P-006"
   },
   {
-    "id": "ac9m7sp03-p-007",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
     "bank": "practice",
-    "skill": "reflect_in_y_axis",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
     "question": "What does correct use require for image in coordinate transformations?",
-    "audio_prompt": "What does correct use require for image in coordinate transformations?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Reflection coordinates swapped incorrectly",
@@ -266,348 +217,1834 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
-      "hint": "Match the stated axis or line."
+      "summary": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.\nHint: Match the stated axis or line.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7SP03-P-007"
   },
   {
-    "id": "ac9m7sp03-p-008",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
     "bank": "practice",
-    "skill": "rotate_90",
-    "question": "A Year 7 student is solving a problem involving rotate 90. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving rotate 90. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
+    "question": "The rule (x,y) → (x+3,y−2) describes:",
     "answers": [
       {
-        "text": "Congruence assumed without checking a non-rigid change",
-        "is_correct": false
-      },
-      {
-        "text": "These rules are rigid, but other transformations may not be",
-        "is_correct": false
-      },
-      {
-        "text": "Transformed result of an original object",
-        "is_correct": false
-      },
-      {
-        "text": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
+        "text": "3 right and 2 down",
         "is_correct": true
+      },
+      {
+        "text": "3 left and 2 down",
+        "is_correct": false
+      },
+      {
+        "text": "2 right and 3 down",
+        "is_correct": false
+      },
+      {
+        "text": "3 right and 2 up",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
-      "hint": "These rules are rigid, but other transformations may not be."
+      "summary": "Add 3 to x and subtract 2 from y.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7SP03-P-008"
   },
   {
-    "id": "ac9m7sp03-t-001",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "identify_orientation_change",
-    "question": "A Year 7 student is solving a problem involving identify orientation change. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving identify orientation change. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
+    "question": "What translation maps (2,4) to (7,9)?",
     "answers": [
       {
-        "text": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
+        "text": "(+5,+5)",
         "is_correct": true
       },
       {
-        "text": "Only one vertex transformed",
+        "text": "(+9,+7)",
         "is_correct": false
       },
       {
-        "text": "Apply the rule to every point",
+        "text": "(+3,+5)",
         "is_correct": false
       },
       {
-        "text": "Transformed result of an original object",
+        "text": "(−5,−5)",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
-      "hint": "Apply the rule to every point."
-    }
+      "summary": "Subtract original coordinates from image coordinates.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-009"
   },
   {
-    "id": "ac9m7sp03-t-002",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "check_invariants",
-    "question": "A Year 7 student is solving a problem involving check invariants. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving check invariants. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
+    "question": "Translate (−3,2) by (0,−7).",
     "answers": [
       {
-        "text": "Rotation direction or centre omitted",
-        "is_correct": false
-      },
-      {
-        "text": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
+        "text": "(−3,−5)",
         "is_correct": true
       },
       {
-        "text": "Both determine the image",
+        "text": "(4,2)",
         "is_correct": false
       },
       {
-        "text": "Transformed result of an original object",
+        "text": "(−10,2)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,9)",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
-      "hint": "Both determine the image."
-    }
+      "summary": "x stays −3 and y becomes 2−7=−5.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-010"
   },
   {
-    "id": "ac9m7sp03-t-003",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "translate_a_triangle",
-    "question": "A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
+    "question": "Which rule moves every point 5 units left?",
     "answers": [
       {
-        "text": "Reflection coordinates swapped incorrectly",
-        "is_correct": false
-      },
-      {
-        "text": "Match the stated axis or line",
-        "is_correct": false
-      },
-      {
-        "text": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
+        "text": "(x,y)→(x−5,y)",
         "is_correct": true
       },
       {
-        "text": "Transformed result of an original object",
+        "text": "(x,y)→(x+5,y)",
+        "is_correct": false
+      },
+      {
+        "text": "(x,y)→(x,y−5)",
+        "is_correct": false
+      },
+      {
+        "text": "(x,y)→(−x,y)",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
-      "hint": "Match the stated axis or line."
-    }
+      "summary": "Moving left decreases the x-coordinate.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-011"
   },
   {
-    "id": "ac9m7sp03-t-004",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "reflect_in_y_axis",
-    "question": "A Year 7 student is solving a problem involving reflect in y axis. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving reflect in y axis. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
+    "question": "A triangle has A(1,2), B(4,2), C(4,6). After translation (+3,−1), A' is:",
     "answers": [
       {
-        "text": "Congruence assumed without checking a non-rigid change",
-        "is_correct": false
-      },
-      {
-        "text": "These rules are rigid, but other transformations may not be",
-        "is_correct": false
-      },
-      {
-        "text": "Transformed result of an original object",
-        "is_correct": false
-      },
-      {
-        "text": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
+        "text": "(4,1)",
         "is_correct": true
+      },
+      {
+        "text": "(−2,5)",
+        "is_correct": false
+      },
+      {
+        "text": "(4,3)",
+        "is_correct": false
+      },
+      {
+        "text": "(2,1)",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
-      "hint": "These rules are rigid, but other transformations may not be."
-    }
+      "summary": "Apply the same translation vector to every vertex.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-012"
   },
   {
-    "id": "ac9m7sp03-t-005",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "rotate_90",
-    "question": "What should be checked when applying rotate 90° in coordinate transformations?",
-    "audio_prompt": "What should be checked when applying rotate 90° in coordinate transformations?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Under the same translation (+3,−1), B(4,2) maps to:",
     "answers": [
       {
-        "text": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
+        "text": "(7,1)",
         "is_correct": true
       },
       {
-        "text": "Only one vertex transformed",
+        "text": "(1,3)",
         "is_correct": false
       },
       {
-        "text": "Apply the rule to every point",
+        "text": "(7,3)",
         "is_correct": false
       },
       {
-        "text": "Transformed result of an original object",
+        "text": "(3,1)",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Reflection in the y-axis maps (4,−2) to (−4,−2)",
-      "hint": "Apply the rule to every point."
-    }
+      "summary": "4+3=7 and 2−1=1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-013"
   },
   {
-    "id": "ac9m7sp03-t-006",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "identify_orientation_change",
-    "question": "Which response best uses identify orientation change in coordinate transformations?",
-    "audio_prompt": "Which response best uses identify orientation change in coordinate transformations?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "A translation preserves:",
     "answers": [
       {
-        "text": "Rotation direction or centre omitted",
-        "is_correct": false
-      },
-      {
-        "text": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
+        "text": "lengths, angles and orientation",
         "is_correct": true
       },
       {
-        "text": "Both determine the image",
+        "text": "lengths only",
         "is_correct": false
       },
       {
-        "text": "Transformed result of an original object",
+        "text": "angles but not size",
+        "is_correct": false
+      },
+      {
+        "text": "neither size nor shape",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Reflection in the y-axis maps (x,y) to (−x,y). Record every vertex and compare orientation.",
-      "hint": "Both determine the image."
-    }
+      "summary": "A translation is a rigid transformation and does not reverse orientation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-014"
   },
   {
-    "id": "ac9m7sp03-t-007",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "check_invariants",
-    "question": "A Year 7 student is solving a problem involving check invariants. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving check invariants. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Reflect (3,5) in the x-axis.",
     "answers": [
       {
-        "text": "Reflection coordinates swapped incorrectly",
-        "is_correct": false
-      },
-      {
-        "text": "Match the stated axis or line",
-        "is_correct": false
-      },
-      {
-        "text": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
+        "text": "(3,−5)",
         "is_correct": true
       },
       {
-        "text": "Transformed result of an original object",
+        "text": "(−3,5)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,−5)",
+        "is_correct": false
+      },
+      {
+        "text": "(5,3)",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "State centre, angle and direction for rotations; state the mirror line for reflections. Verify distances between corresponding vertices.",
-      "hint": "Match the stated axis or line."
-    }
+      "summary": "Reflection in the x-axis changes the sign of y.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-015"
   },
   {
-    "id": "ac9m7sp03-t-008",
-    "curriculum_code": "AC9M7SP03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "translate_a_triangle",
-    "question": "A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving translate a triangle. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Reflect (−4,7) in the y-axis.",
     "answers": [
       {
-        "text": "Congruence assumed without checking a non-rigid change",
-        "is_correct": false
-      },
-      {
-        "text": "These rules are rigid, but other transformations may not be",
-        "is_correct": false
-      },
-      {
-        "text": "Transformed result of an original object",
-        "is_correct": false
-      },
-      {
-        "text": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
+        "text": "(4,7)",
         "is_correct": true
+      },
+      {
+        "text": "(−4,−7)",
+        "is_correct": false
+      },
+      {
+        "text": "(4,−7)",
+        "is_correct": false
+      },
+      {
+        "text": "(7,−4)",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "Rigid transformations map every point according to a consistent rule and preserve lengths, angle measures, area and congruence.",
-      "hint": "These rules are rigid, but other transformations may not be."
-    }
+      "summary": "Reflection in the y-axis changes the sign of x.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Which rule is reflection in the x-axis?",
+    "answers": [
+      {
+        "text": "(x,y)→(x,−y)",
+        "is_correct": true
+      },
+      {
+        "text": "(x,y)→(−x,y)",
+        "is_correct": false
+      },
+      {
+        "text": "(x,y)→(−x,−y)",
+        "is_correct": false
+      },
+      {
+        "text": "(x,y)→(y,x)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "x is unchanged and y changes sign.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Which rule is reflection in the y-axis?",
+    "answers": [
+      {
+        "text": "(x,y)→(−x,y)",
+        "is_correct": true
+      },
+      {
+        "text": "(x,y)→(x,−y)",
+        "is_correct": false
+      },
+      {
+        "text": "(x,y)→(−x,−y)",
+        "is_correct": false
+      },
+      {
+        "text": "(x,y)→(y,−x)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "y is unchanged and x changes sign.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "A point (6,−2) is reflected in the x-axis. Its image is:",
+    "answers": [
+      {
+        "text": "(6,2)",
+        "is_correct": true
+      },
+      {
+        "text": "(−6,−2)",
+        "is_correct": false
+      },
+      {
+        "text": "(−6,2)",
+        "is_correct": false
+      },
+      {
+        "text": "(2,6)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Only the y-coordinate changes sign.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "A reflection preserves size and shape but:",
+    "answers": [
+      {
+        "text": "reverses orientation",
+        "is_correct": true
+      },
+      {
+        "text": "changes all lengths",
+        "is_correct": false
+      },
+      {
+        "text": "changes area",
+        "is_correct": false
+      },
+      {
+        "text": "always moves points vertically",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A mirror image has reversed orientation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Which point is fixed by reflection in the x-axis?",
+    "answers": [
+      {
+        "text": "(5,0)",
+        "is_correct": true
+      },
+      {
+        "text": "(0,5)",
+        "is_correct": false
+      },
+      {
+        "text": "(2,3)",
+        "is_correct": false
+      },
+      {
+        "text": "(−4,7)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Points on the mirror line y=0 do not move.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Which point is fixed by reflection in the y-axis?",
+    "answers": [
+      {
+        "text": "(0,−6)",
+        "is_correct": true
+      },
+      {
+        "text": "(6,0)",
+        "is_correct": false
+      },
+      {
+        "text": "(2,2)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,5)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Points on x=0 lie on the y-axis.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Rotate (3,2) 90° anticlockwise about the origin.",
+    "answers": [
+      {
+        "text": "(−2,3)",
+        "is_correct": true
+      },
+      {
+        "text": "(2,−3)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,−2)",
+        "is_correct": false
+      },
+      {
+        "text": "(3,−2)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Use (x,y)→(−y,x).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Rotate (4,−7) 180° about the origin.",
+    "answers": [
+      {
+        "text": "(−4,7)",
+        "is_correct": true
+      },
+      {
+        "text": "(7,−4)",
+        "is_correct": false
+      },
+      {
+        "text": "(4,7)",
+        "is_correct": false
+      },
+      {
+        "text": "(−7,4)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A half-turn changes both coordinate signs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Rotate (−5,1) 270° anticlockwise about the origin.",
+    "answers": [
+      {
+        "text": "(1,5)",
+        "is_correct": true
+      },
+      {
+        "text": "(−1,−5)",
+        "is_correct": false
+      },
+      {
+        "text": "(−5,−1)",
+        "is_correct": false
+      },
+      {
+        "text": "(5,1)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "270° anticlockwise uses (x,y)→(y,−x).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "A 90° clockwise rotation is equivalent to:",
+    "answers": [
+      {
+        "text": "270° anticlockwise",
+        "is_correct": true
+      },
+      {
+        "text": "180° anticlockwise",
+        "is_correct": false
+      },
+      {
+        "text": "90° anticlockwise",
+        "is_correct": false
+      },
+      {
+        "text": "reflection in x-axis",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A full turn is 360°, so 360−90=270.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Rotate (−1,4) 90° anticlockwise.",
+    "answers": [
+      {
+        "text": "(−4,−1)",
+        "is_correct": true
+      },
+      {
+        "text": "(4,1)",
+        "is_correct": false
+      },
+      {
+        "text": "(4,−1)",
+        "is_correct": false
+      },
+      {
+        "text": "(−1,−4)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "(−1,4)→(−4,−1).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Rotate (6,0) 270° anticlockwise.",
+    "answers": [
+      {
+        "text": "(0,−6)",
+        "is_correct": true
+      },
+      {
+        "text": "(0,6)",
+        "is_correct": false
+      },
+      {
+        "text": "(−6,0)",
+        "is_correct": false
+      },
+      {
+        "text": "(6,0)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Use (x,y)→(y,−x).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "For a rotation to be described completely, you should state:",
+    "answers": [
+      {
+        "text": "centre, angle and direction",
+        "is_correct": true
+      },
+      {
+        "text": "angle only",
+        "is_correct": false
+      },
+      {
+        "text": "centre only",
+        "is_correct": false
+      },
+      {
+        "text": "final quadrant only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The image depends on all three pieces of information.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Which transformation keeps every point the same distance from a fixed centre?",
+    "answers": [
+      {
+        "text": "rotation",
+        "is_correct": true
+      },
+      {
+        "text": "translation only",
+        "is_correct": false
+      },
+      {
+        "text": "reflection only",
+        "is_correct": false
+      },
+      {
+        "text": "dilation",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "During a rotation, each point travels on a circle centred at the rotation centre.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "Which transformations here are rigid?",
+    "answers": [
+      {
+        "text": "translations, reflections and rotations",
+        "is_correct": true
+      },
+      {
+        "text": "translations only",
+        "is_correct": false
+      },
+      {
+        "text": "reflections only",
+        "is_correct": false
+      },
+      {
+        "text": "rotations only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "All three preserve lengths and angle measures.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "Which transformation reverses orientation?",
+    "answers": [
+      {
+        "text": "reflection",
+        "is_correct": true
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      },
+      {
+        "text": "rotation",
+        "is_correct": false
+      },
+      {
+        "text": "both translation and rotation",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Reflection creates a mirror image.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "A figure and its translated image are always:",
+    "answers": [
+      {
+        "text": "congruent",
+        "is_correct": true
+      },
+      {
+        "text": "similar but never congruent",
+        "is_correct": false
+      },
+      {
+        "text": "different in area",
+        "is_correct": false
+      },
+      {
+        "text": "different in side length",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Translations preserve all distances and angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "Two reflections in parallel vertical lines x=1 then x=5 produce a net:",
+    "answers": [
+      {
+        "text": "translation 8 units right",
+        "is_correct": true
+      },
+      {
+        "text": "translation 4 units right",
+        "is_correct": false
+      },
+      {
+        "text": "180° rotation",
+        "is_correct": false
+      },
+      {
+        "text": "reflection in x=3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The translation distance is twice the 4-unit separation, in the direction from first mirror to second.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "Point (2,3) is reflected in x=1, giving:",
+    "answers": [
+      {
+        "text": "(0,3)",
+        "is_correct": true
+      },
+      {
+        "text": "(4,3)",
+        "is_correct": false
+      },
+      {
+        "text": "(2,−3)",
+        "is_correct": false
+      },
+      {
+        "text": "(−2,3)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The point is 1 unit right of x=1, so its image is 1 unit left.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "Then reflecting (0,3) in x=5 gives:",
+    "answers": [
+      {
+        "text": "(10,3)",
+        "is_correct": true
+      },
+      {
+        "text": "(5,3)",
+        "is_correct": false
+      },
+      {
+        "text": "(−10,3)",
+        "is_correct": false
+      },
+      {
+        "text": "(0,−3)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0 is 5 units left of x=5, so the image is 5 units right at x=10.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "Two reflections in intersecting lines produce a:",
+    "answers": [
+      {
+        "text": "rotation",
+        "is_correct": true
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      },
+      {
+        "text": "dilation",
+        "is_correct": false
+      },
+      {
+        "text": "single reflection only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The net effect is a rotation about the lines' intersection.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "Reflection in the x-axis followed by reflection in the y-axis is equivalent to:",
+    "answers": [
+      {
+        "text": "180° rotation about the origin",
+        "is_correct": true
+      },
+      {
+        "text": "90° rotation",
+        "is_correct": false
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      },
+      {
+        "text": "reflection in y=x",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "(x,y)→(x,−y)→(−x,−y).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "A repeated motif produced by sliding the same vector uses:",
+    "answers": [
+      {
+        "text": "translation",
+        "is_correct": true
+      },
+      {
+        "text": "reflection",
+        "is_correct": false
+      },
+      {
+        "text": "rotation",
+        "is_correct": false
+      },
+      {
+        "text": "dilation",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A translation repeats a motif by a fixed displacement.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "A motif repeated around one centre uses:",
+    "answers": [
+      {
+        "text": "rotation",
+        "is_correct": true
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      },
+      {
+        "text": "reflection only",
+        "is_correct": false
+      },
+      {
+        "text": "dilation",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Rotation produces repeated angular positions around a centre.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "A mirror-symmetric pattern is naturally produced using:",
+    "answers": [
+      {
+        "text": "reflection",
+        "is_correct": true
+      },
+      {
+        "text": "translation only",
+        "is_correct": false
+      },
+      {
+        "text": "rotation only",
+        "is_correct": false
+      },
+      {
+        "text": "dilation only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Reflection maps a motif across a mirror line.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "Which sequence produces a glide-reflection-type effect?",
+    "answers": [
+      {
+        "text": "reflection followed by translation along the mirror direction",
+        "is_correct": true
+      },
+      {
+        "text": "two 180° rotations",
+        "is_correct": false
+      },
+      {
+        "text": "dilation then translation",
+        "is_correct": false
+      },
+      {
+        "text": "translation only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A glide reflection combines a reflection with a translation parallel to the mirror line.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "super-hard",
+    "question": "A point (3,−4) is rotated 90° anticlockwise then reflected in the x-axis. Final point:",
+    "answers": [
+      {
+        "text": "(4,−3)",
+        "is_correct": true
+      },
+      {
+        "text": "(−4,3)",
+        "is_correct": false
+      },
+      {
+        "text": "(4,3)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,4)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "First (3,−4)→(4,3), then →(4,−3).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "super-hard",
+    "question": "Point (6,−1) is rotated 180° then translated (−3,+2). Final point:",
+    "answers": [
+      {
+        "text": "(−9,3)",
+        "is_correct": true
+      },
+      {
+        "text": "(−3,1)",
+        "is_correct": false
+      },
+      {
+        "text": "(9,−3)",
+        "is_correct": false
+      },
+      {
+        "text": "(3,−9)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Half-turn gives (−6,1), then translate to (−9,3).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "super-hard",
+    "question": "Which is the best way to check a coordinate transformation of a polygon?",
+    "answers": [
+      {
+        "text": "Apply the rule to every vertex and check preserved distances/angles",
+        "is_correct": true
+      },
+      {
+        "text": "Transform one vertex only",
+        "is_correct": false
+      },
+      {
+        "text": "Judge by appearance",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore the stated centre or axis",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A transformation applies consistently to the whole set of points.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "super-hard",
+    "question": "Digital geometry tools are useful because they allow students to:",
+    "answers": [
+      {
+        "text": "apply, drag, record and compare transformations precisely",
+        "is_correct": true
+      },
+      {
+        "text": "change definitions of reflection",
+        "is_correct": false
+      },
+      {
+        "text": "avoid coordinates entirely",
+        "is_correct": false
+      },
+      {
+        "text": "make non-congruent rotations",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Dynamic tools support experimentation while preserving mathematical rules.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "super-hard",
+    "question": "If a shape is translated repeatedly by (+4,0), what pattern property appears?",
+    "answers": [
+      {
+        "text": "translational symmetry",
+        "is_correct": true
+      },
+      {
+        "text": "reflection symmetry only",
+        "is_correct": false
+      },
+      {
+        "text": "90° rotational symmetry",
+        "is_correct": false
+      },
+      {
+        "text": "no repetition",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The motif repeats after a fixed horizontal translation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "practice",
+    "skill": "ac9m7sp03",
+    "difficulty": "super-hard",
+    "question": "If a motif repeats every quarter-turn around a centre, the smallest rotational angle is:",
+    "answers": [
+      {
+        "text": "90°",
+        "is_correct": true
+      },
+      {
+        "text": "45°",
+        "is_correct": false
+      },
+      {
+        "text": "180°",
+        "is_correct": false
+      },
+      {
+        "text": "270°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Four equal repeats fit into 360°, so 360÷4=90°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-P-048"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
+    "question": "A translation maps P(−3,4) to P'(5,−2). Which rule describes it?",
+    "answers": [
+      {
+        "text": "(x,y)→(x+8,y−6)",
+        "is_correct": true
+      },
+      {
+        "text": "(x,y)→(x−8,y+6)",
+        "is_correct": false
+      },
+      {
+        "text": "(x,y)→(x+2,y−8)",
+        "is_correct": false
+      },
+      {
+        "text": "(x,y)→(x−6,y+8)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The displacement is (5−(−3), −2−4)=(8,−6).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
+    "question": "Triangle A(−2,1), B(1,1), C(0,4) is translated by (+5,−3). What is C'?",
+    "answers": [
+      {
+        "text": "(5,1)",
+        "is_correct": true
+      },
+      {
+        "text": "(−5,7)",
+        "is_correct": false
+      },
+      {
+        "text": "(3,4)",
+        "is_correct": false
+      },
+      {
+        "text": "(5,7)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "C(0,4)→(5,1).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
+    "question": "A point is translated by vector (a,b) and then by (−a,−b). Net effect:",
+    "answers": [
+      {
+        "text": "identity",
+        "is_correct": true
+      },
+      {
+        "text": "reflection",
+        "is_correct": false
+      },
+      {
+        "text": "180° rotation",
+        "is_correct": false
+      },
+      {
+        "text": "dilation",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The displacement vectors add to (0,0).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "easy",
+    "question": "Which information uniquely describes a translation?",
+    "answers": [
+      {
+        "text": "a displacement vector",
+        "is_correct": true
+      },
+      {
+        "text": "a mirror line",
+        "is_correct": false
+      },
+      {
+        "text": "a centre only",
+        "is_correct": false
+      },
+      {
+        "text": "an angle only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A translation is determined by direction and distance, represented by its vector.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Reflect (−6,3) in the y-axis, then in the x-axis. Final point:",
+    "answers": [
+      {
+        "text": "(6,−3)",
+        "is_correct": true
+      },
+      {
+        "text": "(−6,−3)",
+        "is_correct": false
+      },
+      {
+        "text": "(6,3)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,6)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "First →(6,3), then →(6,−3).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "The previous two reflections are equivalent to:",
+    "answers": [
+      {
+        "text": "180° rotation about origin",
+        "is_correct": true
+      },
+      {
+        "text": "90° rotation",
+        "is_correct": false
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      },
+      {
+        "text": "reflection in y=x",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Both coordinate signs are reversed.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Reflecting a point in x=2 then x=7 gives what horizontal translation?",
+    "answers": [
+      {
+        "text": "10 units right",
+        "is_correct": true
+      },
+      {
+        "text": "5 units right",
+        "is_correct": false
+      },
+      {
+        "text": "14 units right",
+        "is_correct": false
+      },
+      {
+        "text": "10 units left",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Parallel mirrors are 5 units apart; two reflections translate by twice that distance.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Reflecting first in x=7 then x=2 gives:",
+    "answers": [
+      {
+        "text": "10 units left",
+        "is_correct": true
+      },
+      {
+        "text": "10 units right",
+        "is_correct": false
+      },
+      {
+        "text": "5 units left",
+        "is_correct": false
+      },
+      {
+        "text": "180° rotation",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The direction is from the first mirror line toward the second.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "A point (4,1) is reflected in x=2. Its image is:",
+    "answers": [
+      {
+        "text": "(0,1)",
+        "is_correct": true
+      },
+      {
+        "text": "(−4,1)",
+        "is_correct": false
+      },
+      {
+        "text": "(4,−1)",
+        "is_correct": false
+      },
+      {
+        "text": "(2,1)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "It is 2 units right of x=2, so the image is 2 units left.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "medium",
+    "question": "Then reflect (0,1) in x=7. The image is:",
+    "answers": [
+      {
+        "text": "(14,1)",
+        "is_correct": true
+      },
+      {
+        "text": "(7,1)",
+        "is_correct": false
+      },
+      {
+        "text": "(−14,1)",
+        "is_correct": false
+      },
+      {
+        "text": "(0,−1)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0 is 7 units left of x=7, so its mirror is x=14.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "Rotate (2,5) 90° clockwise about the origin.",
+    "answers": [
+      {
+        "text": "(5,−2)",
+        "is_correct": true
+      },
+      {
+        "text": "(−5,2)",
+        "is_correct": false
+      },
+      {
+        "text": "(−2,−5)",
+        "is_correct": false
+      },
+      {
+        "text": "(2,−5)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "90° clockwise uses (x,y)→(y,−x).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "Rotate (−3,−4) 90° anticlockwise.",
+    "answers": [
+      {
+        "text": "(4,−3)",
+        "is_correct": true
+      },
+      {
+        "text": "(−4,3)",
+        "is_correct": false
+      },
+      {
+        "text": "(3,4)",
+        "is_correct": false
+      },
+      {
+        "text": "(−3,4)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "(x,y)→(−y,x) gives (4,−3).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "A 90° anticlockwise rotation followed by another 90° anticlockwise rotation equals:",
+    "answers": [
+      {
+        "text": "180° rotation",
+        "is_correct": true
+      },
+      {
+        "text": "270° rotation",
+        "is_correct": false
+      },
+      {
+        "text": "reflection",
+        "is_correct": false
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Rotation angles about the same centre add.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "hard",
+    "question": "A 270° anticlockwise rotation followed by 90° anticlockwise about the same centre equals:",
+    "answers": [
+      {
+        "text": "identity",
+        "is_correct": true
+      },
+      {
+        "text": "180° rotation",
+        "is_correct": false
+      },
+      {
+        "text": "reflection",
+        "is_correct": false
+      },
+      {
+        "text": "translation",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "270°+90°=360°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "super-hard",
+    "question": "Which point remains fixed under any rotation about the origin?",
+    "answers": [
+      {
+        "text": "(0,0)",
+        "is_correct": true
+      },
+      {
+        "text": "(1,0)",
+        "is_correct": false
+      },
+      {
+        "text": "(0,1)",
+        "is_correct": false
+      },
+      {
+        "text": "(1,1)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The centre of rotation does not move.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7SP03",
+    "bank": "test",
+    "skill": "ac9m7sp03",
+    "difficulty": "super-hard",
+    "question": "A point (3,4) and its 90° rotated image are both how far from the origin?",
+    "answers": [
+      {
+        "text": "5 units",
+        "is_correct": true
+      },
+      {
+        "text": "7 units",
+        "is_correct": false
+      },
+      {
+        "text": "1 unit",
+        "is_correct": false
+      },
+      {
+        "text": "25 units",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Rotation preserves distance from its centre; √(3²+4²)=5.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7SP03-T-016"
   }
 ]

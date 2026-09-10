@@ -1,18 +1,1292 @@
 [
   {
-    "id": "AC9M7A02-P-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A kayak hire costs $18 plus $7 for each hour h. Which expression models the situation?",
-    "audio_prompt": "A kayak hire costs $18 plus $7 for each hour h. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Which expression represents a+a+a+a+a+a+a?",
+    "answers": [
+      {
+        "text": "7a",
+        "is_correct": true
+      },
+      {
+        "text": "a+7",
+        "is_correct": false
+      },
+      {
+        "text": "a^7",
+        "is_correct": false
+      },
+      {
+        "text": "7+a",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Seven equal terms a combine to 7a.\nHint: Count how many a terms there are.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7A02-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Which expression means 12 multiplied by k?",
+    "answers": [
+      {
+        "text": "12k",
+        "is_correct": true
+      },
+      {
+        "text": "k+12",
+        "is_correct": false
+      },
+      {
+        "text": "k-12",
+        "is_correct": false
+      },
+      {
+        "text": "12+k",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "12k means 12 × k.\nHint: A number written beside a variable implies multiplication.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Which expression is equivalent to 4(x+x+x)?",
+    "answers": [
+      {
+        "text": "12x",
+        "is_correct": true
+      },
+      {
+        "text": "6x",
+        "is_correct": false
+      },
+      {
+        "text": "4x+3",
+        "is_correct": false
+      },
+      {
+        "text": "4x^3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "x+x+x=3x, then 4×3x=12x.\nHint: Simplify inside the brackets first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Which expression is NOT equivalent to 3(x+5)?",
+    "answers": [
+      {
+        "text": "3x+5",
+        "is_correct": true
+      },
+      {
+        "text": "3x+15",
+        "is_correct": false
+      },
+      {
+        "text": "15+3x",
+        "is_correct": false
+      },
+      {
+        "text": "3(x+5)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3(x+5)=3x+15, so 3x+5 is not equivalent.\nHint: Distribute 3 to both terms.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "For x=12, which is larger?",
+    "answers": [
+      {
+        "text": "4(x+8)",
+        "is_correct": true
+      },
+      {
+        "text": "4x+8",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot determine",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4(x+8)=80 while 4x+8=56.\nHint: Substitute x=12 into both.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Simplify n+(n+2)+(n+4).",
+    "answers": [
+      {
+        "text": "3n+6",
+        "is_correct": true
+      },
+      {
+        "text": "3n+4",
+        "is_correct": false
+      },
+      {
+        "text": "n+6",
+        "is_correct": false
+      },
+      {
+        "text": "n^3+6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "n+n+n=3n and 2+4=6.\nHint: Collect variable terms and constants.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Simplify x+2x+4x+8x.",
+    "answers": [
+      {
+        "text": "15x",
+        "is_correct": true
+      },
+      {
+        "text": "8x",
+        "is_correct": false
+      },
+      {
+        "text": "14x",
+        "is_correct": false
+      },
+      {
+        "text": "x+14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "1+2+4+8=15, so the sum is 15x.\nHint: Add the coefficients.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Expand 7(x-3).",
+    "answers": [
+      {
+        "text": "7x-21",
+        "is_correct": true
+      },
+      {
+        "text": "7x-3",
+        "is_correct": false
+      },
+      {
+        "text": "7x+21",
+        "is_correct": false
+      },
+      {
+        "text": "x-21",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "7 multiplies both x and -3.\nHint: Use the distributive property.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Expand 4(2x+5).",
+    "answers": [
+      {
+        "text": "8x+20",
+        "is_correct": true
+      },
+      {
+        "text": "8x+5",
+        "is_correct": false
+      },
+      {
+        "text": "4x+20",
+        "is_correct": false
+      },
+      {
+        "text": "8x-20",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "4×2x=8x and 4×5=20.\nHint: Multiply every term in the bracket by 4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Which expression is equivalent to 5(x+2)+3x?",
+    "answers": [
+      {
+        "text": "8x+10",
+        "is_correct": true
+      },
+      {
+        "text": "5x+13",
+        "is_correct": false
+      },
+      {
+        "text": "8x+2",
+        "is_correct": false
+      },
+      {
+        "text": "15x",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5x+10+3x=8x+10.\nHint: Expand first, then collect like terms.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Seven less than triple a number x is:",
+    "answers": [
+      {
+        "text": "3x-7",
+        "is_correct": true
+      },
+      {
+        "text": "3(x-7)",
+        "is_correct": false
+      },
+      {
+        "text": "7x-3",
+        "is_correct": false
+      },
+      {
+        "text": "7-3x",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Triple x is 3x; seven less gives 3x-7.\nHint: The phrase 'less than' changes the order.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Half the sum of x and 9 is:",
+    "answers": [
+      {
+        "text": "(x+9)/2",
+        "is_correct": true
+      },
+      {
+        "text": "x/2+9",
+        "is_correct": false
+      },
+      {
+        "text": "2(x+9)",
+        "is_correct": false
+      },
+      {
+        "text": "x+9/2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The entire sum x+9 is divided by 2.\nHint: Brackets show what is being halved.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Five times a number, then subtract twice the number is:",
+    "answers": [
+      {
+        "text": "5x-2x",
+        "is_correct": true
+      },
+      {
+        "text": "5(x-2)",
+        "is_correct": false
+      },
+      {
+        "text": "2(5x)",
+        "is_correct": false
+      },
+      {
+        "text": "x-10",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The two quantities are 5x and 2x, so 5x-2x.\nHint: Translate each phrase separately.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Add 4 to x, then multiply the result by 6.",
+    "answers": [
+      {
+        "text": "6(x+4)",
+        "is_correct": true
+      },
+      {
+        "text": "6x+4",
+        "is_correct": false
+      },
+      {
+        "text": "x+24",
+        "is_correct": false
+      },
+      {
+        "text": "6x-4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The addition happens first, so it must be grouped.\nHint: Use brackets around x+4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Subtract 8 from x, then divide by 3.",
+    "answers": [
+      {
+        "text": "(x-8)/3",
+        "is_correct": true
+      },
+      {
+        "text": "x/3-8",
+        "is_correct": false
+      },
+      {
+        "text": "3(x-8)",
+        "is_correct": false
+      },
+      {
+        "text": "x-8/3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The whole difference x-8 is divided by 3.\nHint: Group the subtraction before dividing.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "The product of a number and its successor is:",
+    "answers": [
+      {
+        "text": "x(x+1)",
+        "is_correct": true
+      },
+      {
+        "text": "x+1",
+        "is_correct": false
+      },
+      {
+        "text": "x^2+1",
+        "is_correct": false
+      },
+      {
+        "text": "2x+1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The successor of x is x+1; product means multiply.\nHint: Write the next integer as x+1.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Four times the sum of a number and its double is:",
+    "answers": [
+      {
+        "text": "4(x+2x)",
+        "is_correct": true
+      },
+      {
+        "text": "4x+2x",
+        "is_correct": false
+      },
+      {
+        "text": "4x+8",
+        "is_correct": false
+      },
+      {
+        "text": "4(x+2)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The sum is x+2x, and the whole sum is multiplied by 4.\nHint: Brackets preserve the order described.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Square a number, then subtract triple the number.",
+    "answers": [
+      {
+        "text": "x^2-3x",
+        "is_correct": true
+      },
+      {
+        "text": "x^2-3",
+        "is_correct": false
+      },
+      {
+        "text": "3x^2-x",
+        "is_correct": false
+      },
+      {
+        "text": "x(x+3)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Square gives x² and triple gives 3x.\nHint: Translate each operation in order.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Add 6 to a number, then multiply by the original number.",
+    "answers": [
+      {
+        "text": "x(x+6)",
+        "is_correct": true
+      },
+      {
+        "text": "x+6x",
+        "is_correct": false
+      },
+      {
+        "text": "6x+x",
+        "is_correct": false
+      },
+      {
+        "text": "x^2+6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The new value is x+6, multiplied by x.\nHint: Product means multiplication of two expressions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Which expression is the sum of three consecutive integers starting at n?",
+    "answers": [
+      {
+        "text": "n+(n+1)+(n+2)",
+        "is_correct": true
+      },
+      {
+        "text": "3n+1",
+        "is_correct": false
+      },
+      {
+        "text": "n+n+n",
+        "is_correct": false
+      },
+      {
+        "text": "n(n+1)(n+2)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The integers are n, n+1 and n+2.\nHint: Write each consecutive value explicitly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "What best describes a variable?",
+    "answers": [
+      {
+        "text": "A symbol representing a value that can change",
+        "is_correct": true
+      },
+      {
+        "text": "A number that is always fixed",
+        "is_correct": false
+      },
+      {
+        "text": "A symbol that must be positive",
+        "is_correct": false
+      },
+      {
+        "text": "A symbol that has no mathematical meaning",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A variable can take different values in a relationship.\nHint: Think about what x can represent.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "As x increases, what happens to 3x+4?",
+    "answers": [
+      {
+        "text": "It increases",
+        "is_correct": true
+      },
+      {
+        "text": "It decreases",
+        "is_correct": false
+      },
+      {
+        "text": "It stays constant",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes zero",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A positive coefficient means the expression increases with x.\nHint: Compare two different x-values.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Which expression decreases as x increases?",
+    "answers": [
+      {
+        "text": "10-x",
+        "is_correct": true
+      },
+      {
+        "text": "x+10",
+        "is_correct": false
+      },
+      {
+        "text": "3x",
+        "is_correct": false
+      },
+      {
+        "text": "x^2 for positive x",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "10-x becomes smaller when x becomes larger.\nHint: Look for a negative coefficient of x.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "If A=lw and l is fixed, what happens when w doubles?",
+    "answers": [
+      {
+        "text": "A doubles",
+        "is_correct": true
+      },
+      {
+        "text": "A halves",
+        "is_correct": false
+      },
+      {
+        "text": "A stays the same",
+        "is_correct": false
+      },
+      {
+        "text": "A quadruples",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A is directly proportional to w when l is fixed.\nHint: Replace w by 2w.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "If p=6g+b, what happens to p when b increases by 4 and g stays fixed?",
+    "answers": [
+      {
+        "text": "p increases by 4",
+        "is_correct": true
+      },
+      {
+        "text": "p increases by 24",
+        "is_correct": false
+      },
+      {
+        "text": "p doubles",
+        "is_correct": false
+      },
+      {
+        "text": "p stays fixed",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "b is added directly, so +4 to b gives +4 to p.\nHint: Only b changes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "For d=m/v, if m doubles and v stays fixed, what happens to d?",
+    "answers": [
+      {
+        "text": "It doubles",
+        "is_correct": true
+      },
+      {
+        "text": "It halves",
+        "is_correct": false
+      },
+      {
+        "text": "It stays fixed",
+        "is_correct": false
+      },
+      {
+        "text": "It quadruples",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Doubling the numerator doubles the quotient.\nHint: Replace m by 2m.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "For Q=Av, if A is halved and v is unchanged, what happens to Q?",
+    "answers": [
+      {
+        "text": "It halves",
+        "is_correct": true
+      },
+      {
+        "text": "It doubles",
+        "is_correct": false
+      },
+      {
+        "text": "It stays fixed",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes zero",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Q changes in the same proportion as A when v is fixed.\nHint: Replace A by A/2.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "In Q=Av for water flow, what does v most reasonably represent?",
+    "answers": [
+      {
+        "text": "Water velocity",
+        "is_correct": true
+      },
+      {
+        "text": "Water volume",
+        "is_correct": false
+      },
+      {
+        "text": "Rainfall total",
+        "is_correct": false
+      },
+      {
+        "text": "River name",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "In this formula v represents velocity.\nHint: Match the symbol to the measured quantity.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Which is an appropriate use of a variable in a Country/Place model?",
+    "answers": [
+      {
+        "text": "Representing a changing water depth d over time",
+        "is_correct": true
+      },
+      {
+        "text": "Using x as a decoration with no meaning",
+        "is_correct": false
+      },
+      {
+        "text": "Assuming every measured quantity is fixed",
+        "is_correct": false
+      },
+      {
+        "text": "Using only whole numbers in every context",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Variables can represent changing environmental quantities.\nHint: A variable should correspond to a meaningful quantity.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "In 3(x+4), what is 3?",
+    "answers": [
+      {
+        "text": "A coefficient/multiplier",
+        "is_correct": true
+      },
+      {
+        "text": "A variable",
+        "is_correct": false
+      },
+      {
+        "text": "A bracket",
+        "is_correct": false
+      },
+      {
+        "text": "An unknown",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3 multiplies the entire bracket.\nHint: It is a fixed numerical multiplier.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "For x=20, which is larger?",
+    "answers": [
+      {
+        "text": "4(x+10)",
+        "is_correct": true
+      },
+      {
+        "text": "4x+10",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "Cannot determine",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "120 is greater than 90.\nHint: Substitute x=20.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "For positive whole-number x greater than 5, which expression grows fastest as x continues to increase?",
+    "answers": [
+      {
+        "text": "x(x+1)",
+        "is_correct": true
+      },
+      {
+        "text": "3x",
+        "is_correct": false
+      },
+      {
+        "text": "x+4",
+        "is_correct": false
+      },
+      {
+        "text": "x-4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "x(x+1) is quadratic, while the others are linear.\nHint: Compare how the highest power of x changes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "Which means subtract 4 from x, then triple the result?",
+    "answers": [
+      {
+        "text": "3(x-4)",
+        "is_correct": true
+      },
+      {
+        "text": "3x-4",
+        "is_correct": false
+      },
+      {
+        "text": "x-12",
+        "is_correct": false
+      },
+      {
+        "text": "3-4x",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The subtraction must happen before multiplication by 3.\nHint: Use brackets around x-4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "Which means add 4 to x, then triple the result?",
+    "answers": [
+      {
+        "text": "3(x+4)",
+        "is_correct": true
+      },
+      {
+        "text": "3x+4",
+        "is_correct": false
+      },
+      {
+        "text": "x+12",
+        "is_correct": false
+      },
+      {
+        "text": "3x-4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The addition must happen before multiplication by 3.\nHint: Use brackets around x+4.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "The square of a number plus 5 is:",
+    "answers": [
+      {
+        "text": "x^2+5",
+        "is_correct": true
+      },
+      {
+        "text": "(x+5)^2",
+        "is_correct": false
+      },
+      {
+        "text": "5x^2",
+        "is_correct": false
+      },
+      {
+        "text": "x+25",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Square x first, then add 5.\nHint: Distinguish x²+5 from (x+5)².",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "Five less than the product of x and 7 is:",
+    "answers": [
+      {
+        "text": "7x-5",
+        "is_correct": true
+      },
+      {
+        "text": "7(x-5)",
+        "is_correct": false
+      },
+      {
+        "text": "5x-7",
+        "is_correct": false
+      },
+      {
+        "text": "x-35",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The product is 7x; five less gives 7x-5.\nHint: Translate 'product' before 'five less'.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "Double the sum of x and 8 is:",
+    "answers": [
+      {
+        "text": "2(x+8)",
+        "is_correct": true
+      },
+      {
+        "text": "2x+8",
+        "is_correct": false
+      },
+      {
+        "text": "x+16",
+        "is_correct": false
+      },
+      {
+        "text": "2x-8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The whole sum is multiplied by 2.\nHint: Brackets show the sum happens first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "The product of x and (x-3) is:",
+    "answers": [
+      {
+        "text": "x(x-3)",
+        "is_correct": true
+      },
+      {
+        "text": "x-3",
+        "is_correct": false
+      },
+      {
+        "text": "x^2-3",
+        "is_correct": false
+      },
+      {
+        "text": "3x-x",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Product means multiply x by the entire bracket.\nHint: Keep the bracketed factor intact.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "A student translates 'three times a number then subtract 12' as 3(x-12). What is the error?",
+    "answers": [
+      {
+        "text": "They multiplied the subtraction by 3; it should be 3x-12",
+        "is_correct": true
+      },
+      {
+        "text": "They forgot to square x",
+        "is_correct": false
+      },
+      {
+        "text": "They should add 12",
+        "is_correct": false
+      },
+      {
+        "text": "There is no error",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3(x-12) means subtract 12 first, then triple.\nHint: Order of operations changes the meaning.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "Simplify the sum of a number and its double.",
+    "answers": [
+      {
+        "text": "3x",
+        "is_correct": true
+      },
+      {
+        "text": "2x",
+        "is_correct": false
+      },
+      {
+        "text": "x+2",
+        "is_correct": false
+      },
+      {
+        "text": "x^2+2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "x+2x=3x.\nHint: Add like terms by adding coefficients.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A02",
+    "bank": "practice",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "A kayak hire costs $18 plus $7 for each hour h. Which expression models the situation?",
     "answers": [
       {
         "text": "18 + 7h",
@@ -27,28 +1301,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The fixed and variable quantities translate to 18 + 7h.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
+      "summary": "The fixed and variable quantities translate to 18 + 7h.\nHint: Translate the quantities and operations in order; check what each term represents.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A02-P-041"
   },
   {
-    "id": "AC9M7A02-P-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
     "question": "A rectangle has length x centimetres and width 6 centimetres. Write its perimeter. Which expression models the situation?",
-    "audio_prompt": "A rectangle has length x centimetres and width 6 centimetres. Write its perimeter. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
     "answers": [
       {
         "text": "6x",
@@ -63,28 +1329,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The fixed and variable quantities translate to 2x + 12.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
+      "summary": "The fixed and variable quantities translate to 2x + 12.\nHint: Translate the quantities and operations in order; check what each term represents.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A02-P-042"
   },
   {
-    "id": "AC9M7A02-P-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
+    "skill": "ac9m7a02",
+    "difficulty": "super-hard",
     "question": "A team scores 3 points for each goal g and loses 2 penalty points. Which expression models the situation?",
-    "audio_prompt": "A team scores 3 points for each goal g and loses 2 penalty points. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
     "answers": [
       {
         "text": "3(g − 2)",
@@ -99,28 +1357,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "The fixed and variable quantities translate to 3g − 2.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
+      "summary": "The fixed and variable quantities translate to 3g − 2.\nHint: Translate the quantities and operations in order; check what each term represents.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A02-P-043"
   },
   {
-    "id": "AC9M7A02-P-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
+    "skill": "ac9m7a02",
+    "difficulty": "super-hard",
     "question": "A box contains n packets with 8 cards in each packet and 5 loose cards. Which expression models the situation?",
-    "audio_prompt": "A box contains n packets with 8 cards in each packet and 5 loose cards. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
     "answers": [
       {
         "text": "8n + 5",
@@ -135,28 +1385,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The fixed and variable quantities translate to 8n + 5.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
+      "summary": "The fixed and variable quantities translate to 8n + 5.\nHint: Translate the quantities and operations in order; check what each term represents.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A02-P-044"
   },
   {
-    "id": "AC9M7A02-P-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
+    "skill": "ac9m7a02",
+    "difficulty": "super-hard",
     "question": "A runner completes d kilometres on each of 4 days, then runs 3 extra kilometres. Which expression models the situation?",
-    "audio_prompt": "A runner completes d kilometres on each of 4 days, then runs 3 extra kilometres. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
     "answers": [
       {
         "text": "7d",
@@ -171,28 +1413,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The fixed and variable quantities translate to 4d + 3.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
+      "summary": "The fixed and variable quantities translate to 4d + 3.\nHint: Translate the quantities and operations in order; check what each term represents.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A02-P-045"
   },
   {
-    "id": "AC9M7A02-P-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
+    "skill": "ac9m7a02",
+    "difficulty": "super-hard",
     "question": "A cinema charges $12 per ticket t and a single $4 booking fee. Which expression models the situation?",
-    "audio_prompt": "A cinema charges $12 per ticket t and a single $4 booking fee. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
     "answers": [
       {
         "text": "16t",
@@ -207,28 +1441,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "The fixed and variable quantities translate to 12t + 4.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
+      "summary": "The fixed and variable quantities translate to 12t + 4.\nHint: Translate the quantities and operations in order; check what each term represents.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A02-P-046"
   },
   {
-    "id": "AC9M7A02-P-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
+    "skill": "ac9m7a02",
+    "difficulty": "super-hard",
     "question": "A ribbon of length L centimetres is cut into 5 equal pieces. Which expression models the situation?",
-    "audio_prompt": "A ribbon of length L centimetres is cut into 5 equal pieces. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
     "answers": [
       {
         "text": "L ÷ 5",
@@ -243,28 +1469,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The fixed and variable quantities translate to L ÷ 5.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
+      "summary": "The fixed and variable quantities translate to L ÷ 5.\nHint: Translate the quantities and operations in order; check what each term represents.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A02-P-047"
   },
   {
-    "id": "AC9M7A02-P-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
+    "skill": "ac9m7a02",
+    "difficulty": "super-hard",
     "question": "A temperature starts at x degrees and falls by 9 degrees. Which expression models the situation?",
-    "audio_prompt": "A temperature starts at x degrees and falls by 9 degrees. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
     "answers": [
       {
         "text": "9 − x",
@@ -279,1140 +1497,522 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The fixed and variable quantities translate to x − 9.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
+      "summary": "The fixed and variable quantities translate to x − 9.\nHint: Translate the quantities and operations in order; check what each term represents.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A02-P-048"
   },
   {
-    "id": "AC9M7A02-P-009",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A square has side length s. Write its area. Which expression models the situation?",
-    "audio_prompt": "A square has side length s. Write its area. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "2s",
-        "is_correct": false
-      },
-      {
-        "text": "4s",
-        "is_correct": false
-      },
-      {
-        "text": "s²",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The fixed and variable quantities translate to s².",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A02-P-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Three consecutive whole numbers start with n. Write their sum. Which expression models the situation?",
-    "audio_prompt": "Three consecutive whole numbers start with n. Write their sum. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "3n + 3",
-        "is_correct": true
-      },
-      {
-        "text": "3n",
-        "is_correct": false
-      },
-      {
-        "text": "n + 3",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The fixed and variable quantities translate to 3n + 3.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A02-P-011",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A phone plan includes 20 GB, then adds g gigabytes at $3 each. Write the extra-data cost only. Which expression models the situation?",
-    "audio_prompt": "A phone plan includes 20 GB, then adds g gigabytes at $3 each. Write the extra-data cost only. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "20 + 3g",
-        "is_correct": false
-      },
-      {
-        "text": "3g",
-        "is_correct": true
-      },
-      {
-        "text": "23g",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The fixed and variable quantities translate to 3g.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A02-P-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A tank contains v litres and drains 6 litres each minute for m minutes. Which expression models the situation?",
-    "audio_prompt": "A tank contains v litres and drains 6 litres each minute for m minutes. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "6v − m",
-        "is_correct": false
-      },
-      {
-        "text": "v − 6 − m",
-        "is_correct": false
-      },
-      {
-        "text": "v − 6m",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The fixed and variable quantities translate to v − 6m.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A02-P-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which verbal description matches 4x + 3?",
-    "audio_prompt": "Which verbal description matches 4x + 3?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "4 times x, then add 3",
-        "is_correct": true
-      },
-      {
-        "text": "add 4 to x, then multiply by 3",
-        "is_correct": false
-      },
-      {
-        "text": "7 times x",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The coefficient 4 multiplies x, while 3 is a separate added constant.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A02-P-014",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which verbal description matches 7x + 5?",
-    "audio_prompt": "Which verbal description matches 7x + 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "add 7 to x, then multiply by 5",
-        "is_correct": false
-      },
-      {
-        "text": "7 times x, then add 5",
-        "is_correct": true
-      },
-      {
-        "text": "12 times x",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The coefficient 7 multiplies x, while 5 is a separate added constant.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A02-P-015",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which verbal description matches 10x + 2?",
-    "audio_prompt": "Which verbal description matches 10x + 2?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "add 10 to x, then multiply by 2",
-        "is_correct": false
-      },
-      {
-        "text": "12 times x",
-        "is_correct": false
-      },
-      {
-        "text": "10 times x, then add 2",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The coefficient 10 multiplies x, while 2 is a separate added constant.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A02-P-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which verbal description matches 12x + 6?",
-    "audio_prompt": "Which verbal description matches 12x + 6?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "12 times x, then add 6",
-        "is_correct": true
-      },
-      {
-        "text": "add 12 to x, then multiply by 6",
-        "is_correct": false
-      },
-      {
-        "text": "18 times x",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The coefficient 12 multiplies x, while 6 is a separate added constant.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A02-P-017",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which verbal description matches 15x + 4?",
-    "audio_prompt": "Which verbal description matches 15x + 4?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "add 15 to x, then multiply by 4",
-        "is_correct": false
-      },
-      {
-        "text": "15 times x, then add 4",
-        "is_correct": true
-      },
-      {
-        "text": "19 times x",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The coefficient 15 multiplies x, while 4 is a separate added constant.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A02-P-018",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which verbal description matches 18x + 7?",
-    "audio_prompt": "Which verbal description matches 18x + 7?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "add 18 to x, then multiply by 7",
-        "is_correct": false
-      },
-      {
-        "text": "25 times x",
-        "is_correct": false
-      },
-      {
-        "text": "18 times x, then add 7",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The coefficient 18 multiplies x, while 7 is a separate added constant.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A02-P-019",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which expression represents 2 groups of (x + 7)?",
-    "audio_prompt": "Which expression represents 2 groups of (x + 7)?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "2(x + 7)",
-        "is_correct": true
-      },
-      {
-        "text": "2x + 7",
-        "is_correct": false
-      },
-      {
-        "text": "x + 14",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The brackets keep x + 7 together as one group repeated 2 times.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A02-P-020",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which expression represents 3 groups of (x + 5)?",
-    "audio_prompt": "Which expression represents 3 groups of (x + 5)?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "3x + 5",
-        "is_correct": false
-      },
-      {
-        "text": "3(x + 5)",
-        "is_correct": true
-      },
-      {
-        "text": "x + 15",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The brackets keep x + 5 together as one group repeated 3 times.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A02-P-021",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which expression represents 4 groups of (x + 9)?",
-    "audio_prompt": "Which expression represents 4 groups of (x + 9)?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "4x + 9",
-        "is_correct": false
-      },
-      {
-        "text": "x + 36",
-        "is_correct": false
-      },
-      {
-        "text": "4(x + 9)",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The brackets keep x + 9 together as one group repeated 4 times.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A02-P-022",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which expression represents 6 groups of (x + 3)?",
-    "audio_prompt": "Which expression represents 6 groups of (x + 3)?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "6(x + 3)",
-        "is_correct": true
-      },
-      {
-        "text": "6x + 3",
-        "is_correct": false
-      },
-      {
-        "text": "x + 18",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The brackets keep x + 3 together as one group repeated 6 times.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A02-P-023",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which expression represents 8 groups of (x + 2)?",
-    "audio_prompt": "Which expression represents 8 groups of (x + 2)?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "8x + 2",
-        "is_correct": false
-      },
-      {
-        "text": "8(x + 2)",
-        "is_correct": true
-      },
-      {
-        "text": "x + 16",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The brackets keep x + 2 together as one group repeated 8 times.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A02-P-024",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A02",
-    "bank": "practice",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Which expression represents 10 groups of (x + 4)?",
-    "audio_prompt": "Which expression represents 10 groups of (x + 4)?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
-    "answers": [
-      {
-        "text": "10x + 4",
-        "is_correct": false
-      },
-      {
-        "text": "x + 40",
-        "is_correct": false
-      },
-      {
-        "text": "10(x + 4)",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The brackets keep x + 4 together as one group repeated 10 times.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    },
-    "difficulty": 2,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A02-T-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A museum charges $9 per student s and $25 for one guide. Which expression models the situation?",
-    "audio_prompt": "A museum charges $9 per student s and $25 for one guide. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Simplify 2a+5a+3a.",
     "answers": [
       {
-        "text": "9s + 25",
+        "text": "10a",
         "is_correct": true
       },
       {
-        "text": "34s",
+        "text": "10a^2",
         "is_correct": false
       },
       {
-        "text": "25s + 9",
+        "text": "7a",
+        "is_correct": false
+      },
+      {
+        "text": "a+10",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Following the order and meaning of the quantities gives 9s + 25.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "Add the coefficients: 2+5+3=10.\nHint: These are like terms.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-001"
   },
   {
-    "id": "AC9M7A02-T-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A triangular flag has base b and height 10. Write its area. Which expression models the situation?",
-    "audio_prompt": "A triangular flag has base b and height 10. Write its area. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Which expression means five times the difference between x and 6?",
     "answers": [
       {
-        "text": "10b",
-        "is_correct": false
-      },
-      {
-        "text": "5b",
+        "text": "5(x-6)",
         "is_correct": true
       },
       {
-        "text": "b + 10",
+        "text": "5x-6",
+        "is_correct": false
+      },
+      {
+        "text": "x-30",
+        "is_correct": false
+      },
+      {
+        "text": "6-5x",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Following the order and meaning of the quantities gives 5b.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "The difference x-6 must be grouped before multiplying by 5.\nHint: Use brackets for the quantity acted on as a whole.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-002"
   },
   {
-    "id": "AC9M7A02-T-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A delivery travels k kilometres on each of 5 trips, then 12 kilometres to the depot. Which expression models the situation?",
-    "audio_prompt": "A delivery travels k kilometres on each of 5 trips, then 12 kilometres to the depot. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "Three more than twice a number is:",
     "answers": [
       {
-        "text": "17k",
-        "is_correct": false
-      },
-      {
-        "text": "5(k + 12)",
-        "is_correct": false
-      },
-      {
-        "text": "5k + 12",
+        "text": "2x+3",
         "is_correct": true
+      },
+      {
+        "text": "2(x+3)",
+        "is_correct": false
+      },
+      {
+        "text": "3x+2",
+        "is_correct": false
+      },
+      {
+        "text": "2x-3",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Following the order and meaning of the quantities gives 5k + 12.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "Twice the number is 2x, then add 3.\nHint: Translate in sequence.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-003"
   },
   {
-    "id": "AC9M7A02-T-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A number n is doubled, then 7 is subtracted. Which expression models the situation?",
-    "audio_prompt": "A number n is doubled, then 7 is subtracted. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "easy",
+    "question": "One third of the sum of n and 12 is:",
     "answers": [
       {
-        "text": "2n − 7",
+        "text": "(n+12)/3",
         "is_correct": true
       },
       {
-        "text": "2(n − 7)",
+        "text": "n/3+12",
         "is_correct": false
       },
       {
-        "text": "7 − 2n",
+        "text": "3(n+12)",
+        "is_correct": false
+      },
+      {
+        "text": "n+4",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Following the order and meaning of the quantities gives 2n − 7.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "The whole sum n+12 is divided by 3.\nHint: Group the sum.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-004"
   },
   {
-    "id": "AC9M7A02-T-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "Seven identical bags share M kilograms equally. Which expression models the situation?",
-    "audio_prompt": "Seven identical bags share M kilograms equally. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Which is equivalent to 6(x+2)-2x?",
     "answers": [
       {
-        "text": "7 ÷ M",
-        "is_correct": false
-      },
-      {
-        "text": "M ÷ 7",
+        "text": "4x+12",
         "is_correct": true
       },
       {
-        "text": "M − 7",
+        "text": "6x+10",
+        "is_correct": false
+      },
+      {
+        "text": "8x+12",
+        "is_correct": false
+      },
+      {
+        "text": "4x+2",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Following the order and meaning of the quantities gives M ÷ 7.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "6x+12-2x=4x+12.\nHint: Expand then collect like terms.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-005"
   },
   {
-    "id": "AC9M7A02-T-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A rectangle is 3 metres longer than its width w. Write its length. Which expression models the situation?",
-    "audio_prompt": "A rectangle is 3 metres longer than its width w. Write its length. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "A student writes 'double the sum of x and 7' as 2x+7. What is the best correction?",
     "answers": [
       {
-        "text": "3w",
-        "is_correct": false
-      },
-      {
-        "text": "w ÷ 3",
-        "is_correct": false
-      },
-      {
-        "text": "w + 3",
+        "text": "2(x+7)",
         "is_correct": true
+      },
+      {
+        "text": "2x-7",
+        "is_correct": false
+      },
+      {
+        "text": "x+14",
+        "is_correct": false
+      },
+      {
+        "text": "7(2+x)",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Following the order and meaning of the quantities gives w + 3.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "The entire sum must be doubled.\nHint: Brackets show both terms are multiplied by 2.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-006"
   },
   {
-    "id": "AC9M7A02-T-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A game awards 5 points per win w and 2 points per draw d. Which expression models the situation?",
-    "audio_prompt": "A game awards 5 points per win w and 2 points per draw d. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "Which expression gives the sum of four consecutive integers starting at n?",
     "answers": [
       {
-        "text": "5w + 2d",
+        "text": "n+(n+1)+(n+2)+(n+3)",
         "is_correct": true
       },
       {
-        "text": "7wd",
+        "text": "4n+3",
         "is_correct": false
       },
       {
-        "text": "5d + 2w",
+        "text": "n+n+n+n",
+        "is_correct": false
+      },
+      {
+        "text": "n(n+1)(n+2)(n+3)",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Following the order and meaning of the quantities gives 5w + 2d.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "Consecutive integers increase by 1 each time.\nHint: List all four terms.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-007"
   },
   {
-    "id": "AC9M7A02-T-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A café reduces a $p bill by a $6 voucher. Which expression models the situation?",
-    "audio_prompt": "A café reduces a $p bill by a $6 voucher. Which expression models the situation?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "For x=6, what is the difference between 4(x+3) and 4x+3?",
     "answers": [
       {
-        "text": "6 − p",
-        "is_correct": false
-      },
-      {
-        "text": "p − 6",
+        "text": "9",
         "is_correct": true
       },
       {
-        "text": "6p",
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "21",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Following the order and meaning of the quantities gives p − 6.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "4(9)=36 and 24+3=27; difference=9.\nHint: Evaluate both expressions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-008"
   },
   {
-    "id": "AC9M7A02-T-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A student translates “6 times y, then subtract 4” as 6(y − 4). What is the correct expression?",
-    "audio_prompt": "A student translates “6 times y, then subtract 4” as 6(y − 4). What is the correct expression?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "If y=5x-2, what happens to y when x increases by 3?",
     "answers": [
       {
-        "text": "6y − 24",
-        "is_correct": false
-      },
-      {
-        "text": "4 − 6y",
-        "is_correct": false
-      },
-      {
-        "text": "6y − 4",
+        "text": "y increases by 15",
         "is_correct": true
+      },
+      {
+        "text": "y increases by 3",
+        "is_correct": false
+      },
+      {
+        "text": "y increases by 13",
+        "is_correct": false
+      },
+      {
+        "text": "y doubles",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Only y is multiplied by 6; the separate subtraction gives 6y − 4.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "The change is 5×3=15.\nHint: The constant -2 does not affect the change.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-009"
   },
   {
-    "id": "AC9M7A02-T-010",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A student translates “8 times y, then subtract 11” as 8(y − 11). What is the correct expression?",
-    "audio_prompt": "A student translates “8 times y, then subtract 11” as 8(y − 11). What is the correct expression?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "medium",
+    "question": "For A=lw, l=8 and w changes from 3 to 5. How much does A increase?",
     "answers": [
       {
-        "text": "8y − 11",
+        "text": "16",
         "is_correct": true
       },
       {
-        "text": "8y − 88",
+        "text": "10",
         "is_correct": false
       },
       {
-        "text": "11 − 8y",
+        "text": "24",
+        "is_correct": false
+      },
+      {
+        "text": "40",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Only y is multiplied by 8; the separate subtraction gives 8y − 11.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "Area changes from 24 to 40, an increase of 16.\nHint: Evaluate before and after.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-010"
   },
   {
-    "id": "AC9M7A02-T-011",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A student translates “13 times y, then subtract 5” as 13(y − 5). What is the correct expression?",
-    "audio_prompt": "A student translates “13 times y, then subtract 5” as 13(y − 5). What is the correct expression?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "A walking track costs $12 fixed plus $4 per participant. Which expression gives total cost C for p participants?",
     "answers": [
       {
-        "text": "13y − 65",
-        "is_correct": false
-      },
-      {
-        "text": "13y − 5",
+        "text": "C=12+4p",
         "is_correct": true
       },
       {
-        "text": "5 − 13y",
+        "text": "C=12p+4",
+        "is_correct": false
+      },
+      {
+        "text": "C=4(p+12)",
+        "is_correct": false
+      },
+      {
+        "text": "C=16p",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Only y is multiplied by 13; the separate subtraction gives 13y − 5.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "There is one fixed cost and a per-person cost.\nHint: Fixed amount + rate×number.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-011"
   },
   {
-    "id": "AC9M7A02-T-012",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A student translates “20 times y, then subtract 3” as 20(y − 3). What is the correct expression?",
-    "audio_prompt": "A student translates “20 times y, then subtract 3” as 20(y − 3). What is the correct expression?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "A water tank starts with 500 L and loses r litres per hour for h hours. Which expression gives the remaining volume?",
     "answers": [
       {
-        "text": "20y − 60",
-        "is_correct": false
-      },
-      {
-        "text": "3 − 20y",
-        "is_correct": false
-      },
-      {
-        "text": "20y − 3",
+        "text": "500-rh",
         "is_correct": true
+      },
+      {
+        "text": "500+r+h",
+        "is_correct": false
+      },
+      {
+        "text": "500-r-h",
+        "is_correct": false
+      },
+      {
+        "text": "rh-500",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Only y is multiplied by 20; the separate subtraction gives 20y − 3.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "Total loss is r×h, subtracted from 500.\nHint: Rate times time gives the total change.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-012"
   },
   {
-    "id": "AC9M7A02-T-013",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A rectangle has width x and length x + 8. Which expression gives its perimeter?",
-    "audio_prompt": "A rectangle has width x and length x + 8. Which expression gives its perimeter?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "Which expression is always 8 greater than 3x?",
     "answers": [
       {
-        "text": "4x + 16",
+        "text": "3x+8",
         "is_correct": true
       },
       {
-        "text": "2x + 8",
+        "text": "3(x+8)",
         "is_correct": false
       },
       {
-        "text": "x² + 8x",
+        "text": "8x+3",
+        "is_correct": false
+      },
+      {
+        "text": "3x-8",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is 2x + 2(x + 8) = 4x + 16.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "Adding 8 gives a constant difference of 8.\nHint: Compare by subtraction.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-013"
   },
   {
-    "id": "AC9M7A02-T-014",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A rectangle has width x and length x + 4. Which expression gives its perimeter?",
-    "audio_prompt": "A rectangle has width x and length x + 4. Which expression gives its perimeter?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "hard",
+    "question": "Which represents a number multiplied by two more than itself?",
     "answers": [
       {
-        "text": "2x + 4",
-        "is_correct": false
-      },
-      {
-        "text": "4x + 8",
+        "text": "x(x+2)",
         "is_correct": true
       },
       {
-        "text": "x² + 4x",
+        "text": "2x+2",
+        "is_correct": false
+      },
+      {
+        "text": "x^2+2",
+        "is_correct": false
+      },
+      {
+        "text": "2(x+2)",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Perimeter is 2x + 2(x + 4) = 4x + 8.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "Two more than x is x+2; product means multiply.\nHint: Translate both factors.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-014"
   },
   {
-    "id": "AC9M7A02-T-015",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A rectangle has width x and length x + 2. Which expression gives its perimeter?",
-    "audio_prompt": "A rectangle has width x and length x + 2. Which expression gives its perimeter?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "super-hard",
+    "question": "Which statement about 3x+4 and 3(x+4) is true for every x?",
     "answers": [
       {
-        "text": "2x + 2",
-        "is_correct": false
-      },
-      {
-        "text": "x² + 2x",
-        "is_correct": false
-      },
-      {
-        "text": "4x + 4",
+        "text": "3(x+4) is 8 greater",
         "is_correct": true
+      },
+      {
+        "text": "3x+4 is 8 greater",
+        "is_correct": false
+      },
+      {
+        "text": "They are always equal",
+        "is_correct": false
+      },
+      {
+        "text": "Their difference depends on x",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Perimeter is 2x + 2(x + 2) = 4x + 4.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "3(x+4)=3x+12, which is 8 more than 3x+4.\nHint: Expand the bracket and compare.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-015"
   },
   {
-    "id": "AC9M7A02-T-016",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A02",
     "bank": "test",
-    "skill": "formulating_algebraic_expressions",
-    "question": "A rectangle has width x and length x + 6. Which expression gives its perimeter?",
-    "audio_prompt": "A rectangle has width x and length x + 6. Which expression gives its perimeter?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#expression",
-      "alt_text": "A context-to-expression organiser linking words, quantities and algebraic operations."
-    },
+    "skill": "ac9m7a02",
+    "difficulty": "super-hard",
+    "question": "A pattern has term value 5n+2. What is the change in value when n increases by 1?",
     "answers": [
       {
-        "text": "4x + 12",
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "2x + 6",
+        "text": "2",
         "is_correct": false
       },
       {
-        "text": "x² + 6x",
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "It depends on n",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Perimeter is 2x + 2(x + 6) = 4x + 12.",
-      "hint": "Translate the quantities and operations in order; check what each term represents."
-    }
+      "summary": "5(n+1)+2-(5n+2)=5.\nHint: Compare consecutive terms algebraically.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A02-T-016"
   }
 ]

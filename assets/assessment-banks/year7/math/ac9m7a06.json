@@ -1,1369 +1,467 @@
 [
   {
-    "id": "AC9M7A06-P-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For V = lwh, length l doubles while w and h stay fixed. What happens to the output?",
-    "audio_prompt": "For V = lwh, length l doubles while w and h stay fixed. What happens to the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for V = lwh, comparing original inputs with a row where length l doubles while w and h stay fixed."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "For V = lwh, l = 10 and w = 4 are fixed. What happens to V if h doubles?",
     "answers": [
       {
         "text": "V doubles",
         "is_correct": true
       },
       {
-        "text": "V stays the same",
+        "text": "V triples",
         "is_correct": false
       },
       {
-        "text": "V quadruples",
+        "text": "V halves",
+        "is_correct": false
+      },
+      {
+        "text": "V stays constant",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Only one multiplied factor doubles, so the product doubles.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
+      "summary": "With l and w fixed, V is directly proportional to h.\nHint: Treat lw as one constant coefficient.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A06-P-001"
   },
   {
-    "id": "AC9M7A06-P-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For A = bh ÷ 2, height h triples while b stays fixed. What happens to the output?",
-    "audio_prompt": "For A = bh ÷ 2, height h triples while b stays fixed. What happens to the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for A = bh ÷ 2, comparing original inputs with a row where height h triples while b stays fixed."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "For V = lwh with l = 8 and w = 5, what volumes correspond to h = 1, 2, 3, 4?",
     "answers": [
       {
-        "text": "A doubles",
-        "is_correct": false
-      },
-      {
-        "text": "A triples",
+        "text": "40, 80, 120, 160",
         "is_correct": true
       },
       {
-        "text": "A increases by 3 square units",
+        "text": "8, 16, 24, 32",
+        "is_correct": false
+      },
+      {
+        "text": "5, 10, 15, 20",
+        "is_correct": false
+      },
+      {
+        "text": "13, 26, 39, 52",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Area is directly proportional to height when base is fixed.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
+      "summary": "V = 40h, so the values are 40, 80, 120 and 160.\nHint: First multiply the fixed dimensions.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A06-P-002"
   },
   {
-    "id": "AC9M7A06-P-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For d = rt, time t halves while r stays fixed. What happens to the output?",
-    "audio_prompt": "For d = rt, time t halves while r stays fixed. What happens to the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for d = rt, comparing original inputs with a row where time t halves while r stays fixed."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "If width increases while length and height stay positive and fixed, what happens to volume?",
     "answers": [
       {
-        "text": "d doubles",
-        "is_correct": false
-      },
-      {
-        "text": "d stays the same",
-        "is_correct": false
-      },
-      {
-        "text": "d halves",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Distance is directly proportional to time at a fixed rate.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A06-P-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For C = 2l + 2w, length l increases by 3 while w stays fixed. What happens to the output?",
-    "audio_prompt": "For C = 2l + 2w, length l increases by 3 while w stays fixed. What happens to the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for C = 2l + 2w, comparing original inputs with a row where length l increases by 3 while w stays fixed."
-    },
-    "answers": [
-      {
-        "text": "C increases by 6",
+        "text": "It increases",
         "is_correct": true
       },
       {
-        "text": "C increases by 3",
+        "text": "It decreases",
         "is_correct": false
       },
       {
-        "text": "C doubles",
+        "text": "It stays constant",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes zero",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The length occurs twice in the perimeter formula.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
+      "summary": "V = (lh)w and lh is a positive constant, so increasing w increases V.\nHint: Hold the other variables constant.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A06-P-003"
   },
   {
-    "id": "AC9M7A06-P-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For m = ρV, volume V doubles while density ρ stays fixed. What happens to the output?",
-    "audio_prompt": "For m = ρV, volume V doubles while density ρ stays fixed. What happens to the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for m = ρV, comparing original inputs with a row where volume V doubles while density ρ stays fixed."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "For l = 12 cm and w = 3 cm, which height gives the greatest volume?",
     "answers": [
       {
-        "text": "m quadruples",
-        "is_correct": false
-      },
-      {
-        "text": "m doubles",
+        "text": "9 cm",
         "is_correct": true
       },
       {
-        "text": "m stays fixed",
+        "text": "6 cm",
+        "is_correct": false
+      },
+      {
+        "text": "3 cm",
+        "is_correct": false
+      },
+      {
+        "text": "1 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Mass is directly proportional to volume for fixed density.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
+      "summary": "With l and w fixed, larger h gives larger V, so h = 9 cm gives the greatest volume.\nHint: You do not need to calculate every volume.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A06-P-004"
   },
   {
-    "id": "AC9M7A06-P-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For E = pt, power p triples while time t stays fixed. What happens to the output?",
-    "audio_prompt": "For E = pt, power p triples while time t stays fixed. What happens to the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for E = pt, comparing original inputs with a row where power p triples while time t stays fixed."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "If l and w are fixed positive constants, the graph of V against h is what type?",
     "answers": [
       {
-        "text": "E increases by 3",
-        "is_correct": false
-      },
-      {
-        "text": "E becomes 9 times as large",
-        "is_correct": false
-      },
-      {
-        "text": "E triples",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Energy is directly proportional to power for fixed time.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
-  },
-  {
-    "id": "AC9M7A06-P-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For A = lw, both l and w double. What happens to the output?",
-    "audio_prompt": "For A = lw, both l and w double. What happens to the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for A = lw, comparing original inputs with a row where both l and w double."
-    },
-    "answers": [
-      {
-        "text": "A becomes 4 times as large",
+        "text": "A straight line through the origin",
         "is_correct": true
       },
       {
-        "text": "A doubles",
+        "text": "A parabola",
         "is_correct": false
       },
       {
-        "text": "A becomes 8 times as large",
+        "text": "A horizontal line",
+        "is_correct": false
+      },
+      {
+        "text": "An exponential curve",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Two doubled factors give 2 × 2 = 4 times the area.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
+      "summary": "V = (lw)h is a proportional linear relationship.\nHint: Rewrite the formula as V = kh.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A06-P-005"
   },
   {
-    "id": "AC9M7A06-P-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For V = lwh, l, w and h all double. What happens to the output?",
-    "audio_prompt": "For V = lwh, l, w and h all double. What happens to the output?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for V = lwh, comparing original inputs with a row where l, w and h all double."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "For V = lwh, which statement about the 'strongest' variable is most accurate?",
     "answers": [
       {
-        "text": "V doubles",
-        "is_correct": false
-      },
-      {
-        "text": "V becomes 8 times as large",
+        "text": "No variable is always strongest; sensitivity depends on current values and the change considered",
         "is_correct": true
       },
       {
-        "text": "V becomes 6 times as large",
+        "text": "Length is always strongest",
+        "is_correct": false
+      },
+      {
+        "text": "Width is always strongest",
+        "is_correct": false
+      },
+      {
+        "text": "Height is always strongest",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Three doubled factors give 2³ = 8 times the volume.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
+      "summary": "The effect of changing one factor depends on the other current factors and how much that variable changes.\nHint: Compare actual output changes, not variable names.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7A06-P-006"
   },
   {
-    "id": "AC9M7A06-P-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet uses V = lwh. With l = 2, w = 3 and h = 4, what value should the V cell show?",
-    "audio_prompt": "A spreadsheet uses V = lwh. With l = 2, w = 3 and h = 4, what value should the V cell show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with l 2, w 3, h 4 and the V cell awaiting its formula result."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "For l = 6, w = 2 and h = 2, 4, 6, which volumes are correct?",
     "answers": [
       {
-        "text": "9",
-        "is_correct": false
-      },
-      {
-        "text": "10",
-        "is_correct": false
-      },
-      {
-        "text": "24",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiplying all three dimensions gives V = 24.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet uses V = lwh. With l = 3, w = 4 and h = 5, what value should the V cell show?",
-    "audio_prompt": "A spreadsheet uses V = lwh. With l = 3, w = 4 and h = 5, what value should the V cell show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with l 3, w 4, h 5 and the V cell awaiting its formula result."
-    },
-    "answers": [
-      {
-        "text": "60",
+        "text": "24, 48, 72",
         "is_correct": true
       },
       {
-        "text": "12",
+        "text": "12, 24, 36",
         "is_correct": false
       },
       {
-        "text": "17",
+        "text": "6, 12, 18",
+        "is_correct": false
+      },
+      {
+        "text": "36, 72, 108",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Multiplying all three dimensions gives V = 60.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
+      "summary": "V = 12h, giving 24, 48 and 72.\nHint: Calculate the fixed multiplier first.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A06-P-007"
   },
   {
-    "id": "AC9M7A06-P-011",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet uses V = lwh. With l = 4, w = 5 and h = 6, what value should the V cell show?",
-    "audio_prompt": "A spreadsheet uses V = lwh. With l = 4, w = 5 and h = 6, what value should the V cell show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with l 4, w 5, h 6 and the V cell awaiting its formula result."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "If only one positive dimension of a rectangular prism is doubled while the other two remain fixed, volume becomes:",
     "answers": [
       {
-        "text": "15",
-        "is_correct": false
-      },
-      {
-        "text": "120",
+        "text": "Twice as large",
         "is_correct": true
       },
       {
-        "text": "26",
+        "text": "Four times as large",
+        "is_correct": false
+      },
+      {
+        "text": "Eight times as large",
+        "is_correct": false
+      },
+      {
+        "text": "Unchanged",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Multiplying all three dimensions gives V = 120.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
+      "summary": "Doubling one factor in lwh doubles the product.\nHint: Only one factor changes.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A06-P-008"
   },
   {
-    "id": "AC9M7A06-P-012",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet uses V = lwh. With l = 5, w = 2 and h = 7, what value should the V cell show?",
-    "audio_prompt": "A spreadsheet uses V = lwh. With l = 5, w = 2 and h = 7, what value should the V cell show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with l 5, w 2, h 7 and the V cell awaiting its formula result."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "For l = 5 and w = 5, what volumes correspond to h = 1, 2, 3?",
     "answers": [
       {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "70",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiplying all three dimensions gives V = 70.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-013",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet uses V = lwh. With l = 6, w = 3 and h = 8, what value should the V cell show?",
-    "audio_prompt": "A spreadsheet uses V = lwh. With l = 6, w = 3 and h = 8, what value should the V cell show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with l 6, w 3, h 8 and the V cell awaiting its formula result."
-    },
-    "answers": [
-      {
-        "text": "144",
+        "text": "25, 50, 75",
         "is_correct": true
       },
       {
-        "text": "17",
+        "text": "5, 10, 15",
         "is_correct": false
       },
       {
-        "text": "26",
+        "text": "125, 250, 375",
+        "is_correct": false
+      },
+      {
+        "text": "15, 30, 45",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Multiplying all three dimensions gives V = 144.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
+      "summary": "V = 25h, so the volumes are 25, 50 and 75.\nHint: 5 × 5 = 25.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A06-P-009"
   },
   {
-    "id": "AC9M7A06-P-014",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet uses V = lwh. With l = 7, w = 4 and h = 3, what value should the V cell show?",
-    "audio_prompt": "A spreadsheet uses V = lwh. With l = 7, w = 4 and h = 3, what value should the V cell show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with l 7, w 4, h 3 and the V cell awaiting its formula result."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "A prism has l = 8 cm, w = 3 cm and volume 144 cm³. What is h?",
     "answers": [
       {
-        "text": "14",
-        "is_correct": false
-      },
-      {
-        "text": "84",
+        "text": "6 cm",
         "is_correct": true
       },
       {
-        "text": "31",
+        "text": "8 cm",
+        "is_correct": false
+      },
+      {
+        "text": "18 cm",
+        "is_correct": false
+      },
+      {
+        "text": "48 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Multiplying all three dimensions gives V = 84.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
+      "summary": "144 = 8 × 3 × h = 24h, so h = 6 cm.\nHint: Divide volume by the product of the known dimensions.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7A06-P-010"
   },
   {
-    "id": "AC9M7A06-P-015",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet uses V = lwh. With l = 8, w = 5 and h = 2, what value should the V cell show?",
-    "audio_prompt": "A spreadsheet uses V = lwh. With l = 8, w = 5 and h = 2, what value should the V cell show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with l 8, w 5, h 2 and the V cell awaiting its formula result."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "A spreadsheet cell contains =A1*B1. If A1 = 7 and B1 = 9, what is the output?",
     "answers": [
-      {
-        "text": "15",
-        "is_correct": false
-      },
-      {
-        "text": "42",
-        "is_correct": false
-      },
-      {
-        "text": "80",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Multiplying all three dimensions gives V = 80.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-016",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet uses V = lwh. With l = 9, w = 2 and h = 4, what value should the V cell show?",
-    "audio_prompt": "A spreadsheet uses V = lwh. With l = 9, w = 2 and h = 4, what value should the V cell show?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with l 9, w 2, h 4 and the V cell awaiting its formula result."
-    },
-    "answers": [
-      {
-        "text": "72",
-        "is_correct": true
-      },
-      {
-        "text": "15",
-        "is_correct": false
-      },
-      {
-        "text": "22",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Multiplying all three dimensions gives V = 72.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-017",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 8 and h = 5?",
-    "audio_prompt": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 8 and h = 5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with triangle base 8, height 5, and area calculated by half the product."
-    },
-    "answers": [
-      {
-        "text": "40",
-        "is_correct": false
-      },
-      {
-        "text": "20",
-        "is_correct": true
-      },
-      {
-        "text": "13",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The formula gives 8 × 5 ÷ 2 = 20.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-018",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 10 and h = 7?",
-    "audio_prompt": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 10 and h = 7?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with triangle base 10, height 7, and area calculated by half the product."
-    },
-    "answers": [
-      {
-        "text": "70",
-        "is_correct": false
-      },
-      {
-        "text": "17",
-        "is_correct": false
-      },
-      {
-        "text": "35",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The formula gives 10 × 7 ÷ 2 = 35.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-019",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 12 and h = 6?",
-    "audio_prompt": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 12 and h = 6?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with triangle base 12, height 6, and area calculated by half the product."
-    },
-    "answers": [
-      {
-        "text": "36",
-        "is_correct": true
-      },
-      {
-        "text": "72",
-        "is_correct": false
-      },
-      {
-        "text": "18",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The formula gives 12 × 6 ÷ 2 = 36.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-020",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 14 and h = 9?",
-    "audio_prompt": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 14 and h = 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with triangle base 14, height 9, and area calculated by half the product."
-    },
-    "answers": [
-      {
-        "text": "126",
-        "is_correct": false
-      },
       {
         "text": "63",
         "is_correct": true
       },
       {
-        "text": "23",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The formula gives 14 × 9 ÷ 2 = 63.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-021",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 16 and h = 4?",
-    "audio_prompt": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 16 and h = 4?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with triangle base 16, height 4, and area calculated by half the product."
-    },
-    "answers": [
-      {
-        "text": "64",
+        "text": "79",
         "is_correct": false
       },
       {
-        "text": "20",
+        "text": "16",
         "is_correct": false
-      },
-      {
-        "text": "32",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The formula gives 16 × 4 ÷ 2 = 32.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-022",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 18 and h = 11?",
-    "audio_prompt": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 18 and h = 11?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with triangle base 18, height 11, and area calculated by half the product."
-    },
-    "answers": [
-      {
-        "text": "99",
-        "is_correct": true
-      },
-      {
-        "text": "198",
-        "is_correct": false
-      },
-      {
-        "text": "29",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The formula gives 18 × 11 ÷ 2 = 99.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-023",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 20 and h = 8?",
-    "audio_prompt": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 20 and h = 8?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with triangle base 20, height 8, and area calculated by half the product."
-    },
-    "answers": [
-      {
-        "text": "160",
-        "is_correct": false
-      },
-      {
-        "text": "80",
-        "is_correct": true
-      },
-      {
-        "text": "28",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "The formula gives 20 × 8 ÷ 2 = 80.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-P-024",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "practice",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 22 and h = 3?",
-    "audio_prompt": "A spreadsheet calculates triangle area with A = bh ÷ 2. What is A when b = 22 and h = 3?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Spreadsheet row with triangle base 22, height 3, and area calculated by half the product."
-    },
-    "answers": [
-      {
-        "text": "66",
-        "is_correct": false
-      },
-      {
-        "text": "25",
-        "is_correct": false
-      },
-      {
-        "text": "33",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The formula gives 22 × 3 ÷ 2 = 33.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "AC9M7A06-T-001",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A digital table models V = lwh. Predict the new output when length l doubles while w and h stay fixed.",
-    "audio_prompt": "A digital table models V = lwh. Predict the new output when length l doubles while w and h stay fixed.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for V = lwh, comparing original inputs with a row where length l doubles while w and h stay fixed."
-    },
-    "answers": [
-      {
-        "text": "V doubles",
-        "is_correct": true
-      },
-      {
-        "text": "V stays the same",
-        "is_correct": false
-      },
-      {
-        "text": "V quadruples",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Only one multiplied factor doubles, so the product doubles.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
-  },
-  {
-    "id": "AC9M7A06-T-002",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A digital table models A = bh ÷ 2. Predict the new output when height h triples while b stays fixed.",
-    "audio_prompt": "A digital table models A = bh ÷ 2. Predict the new output when height h triples while b stays fixed.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for A = bh ÷ 2, comparing original inputs with a row where height h triples while b stays fixed."
-    },
-    "answers": [
-      {
-        "text": "A doubles",
-        "is_correct": false
-      },
-      {
-        "text": "A triples",
-        "is_correct": true
-      },
-      {
-        "text": "A increases by 3 square units",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Area is directly proportional to height when base is fixed.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
-  },
-  {
-    "id": "AC9M7A06-T-003",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A digital table models d = rt. Predict the new output when time t halves while r stays fixed.",
-    "audio_prompt": "A digital table models d = rt. Predict the new output when time t halves while r stays fixed.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for d = rt, comparing original inputs with a row where time t halves while r stays fixed."
-    },
-    "answers": [
-      {
-        "text": "d doubles",
-        "is_correct": false
-      },
-      {
-        "text": "d stays the same",
-        "is_correct": false
-      },
-      {
-        "text": "d halves",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Distance is directly proportional to time at a fixed rate.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
-  },
-  {
-    "id": "AC9M7A06-T-004",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A digital table models C = 2l + 2w. Predict the new output when length l increases by 3 while w stays fixed.",
-    "audio_prompt": "A digital table models C = 2l + 2w. Predict the new output when length l increases by 3 while w stays fixed.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for C = 2l + 2w, comparing original inputs with a row where length l increases by 3 while w stays fixed."
-    },
-    "answers": [
-      {
-        "text": "C increases by 6",
-        "is_correct": true
-      },
-      {
-        "text": "C increases by 3",
-        "is_correct": false
-      },
-      {
-        "text": "C doubles",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The length occurs twice in the perimeter formula.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
-  },
-  {
-    "id": "AC9M7A06-T-005",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A digital table models m = ρV. Predict the new output when volume V doubles while density ρ stays fixed.",
-    "audio_prompt": "A digital table models m = ρV. Predict the new output when volume V doubles while density ρ stays fixed.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for m = ρV, comparing original inputs with a row where volume V doubles while density ρ stays fixed."
-    },
-    "answers": [
-      {
-        "text": "m quadruples",
-        "is_correct": false
-      },
-      {
-        "text": "m doubles",
-        "is_correct": true
-      },
-      {
-        "text": "m stays fixed",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Mass is directly proportional to volume for fixed density.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
-  },
-  {
-    "id": "AC9M7A06-T-006",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A digital table models E = pt. Predict the new output when power p triples while time t stays fixed.",
-    "audio_prompt": "A digital table models E = pt. Predict the new output when power p triples while time t stays fixed.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for E = pt, comparing original inputs with a row where power p triples while time t stays fixed."
-    },
-    "answers": [
-      {
-        "text": "E increases by 3",
-        "is_correct": false
-      },
-      {
-        "text": "E becomes 9 times as large",
-        "is_correct": false
-      },
-      {
-        "text": "E triples",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Energy is directly proportional to power for fixed time.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
-  },
-  {
-    "id": "AC9M7A06-T-007",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A digital table models A = lw. Predict the new output when both l and w double.",
-    "audio_prompt": "A digital table models A = lw. Predict the new output when both l and w double.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for A = lw, comparing original inputs with a row where both l and w double."
-    },
-    "answers": [
-      {
-        "text": "A becomes 4 times as large",
-        "is_correct": true
-      },
-      {
-        "text": "A doubles",
-        "is_correct": false
-      },
-      {
-        "text": "A becomes 8 times as large",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Two doubled factors give 2 × 2 = 4 times the area.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
-  },
-  {
-    "id": "AC9M7A06-T-008",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A digital table models V = lwh. Predict the new output when l, w and h all double.",
-    "audio_prompt": "A digital table models V = lwh. Predict the new output when l, w and h all double.",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table for V = lwh, comparing original inputs with a row where l, w and h all double."
-    },
-    "answers": [
-      {
-        "text": "V doubles",
-        "is_correct": false
-      },
-      {
-        "text": "V becomes 8 times as large",
-        "is_correct": true
-      },
-      {
-        "text": "V becomes 6 times as large",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Three doubled factors give 2³ = 8 times the volume.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
-  },
-  {
-    "id": "AC9M7A06-T-009",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A table uses d = rt with r = 40. If t changes from 2 to 3, by how much does d increase?",
-    "audio_prompt": "A table uses d = rt with r = 40. If t changes from 2 to 3, by how much does d increase?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Two-row formula table holding r at 40 while t changes from 2 to 3."
-    },
-    "answers": [
-      {
-        "text": "1",
-        "is_correct": false
-      },
-      {
-        "text": "120",
-        "is_correct": false
-      },
-      {
-        "text": "40",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "At fixed rate, the increase is r × change in time = 40 × 1 = 40.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
-  },
-  {
-    "id": "AC9M7A06-T-010",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A table uses d = rt with r = 55. If t changes from 3 to 5, by how much does d increase?",
-    "audio_prompt": "A table uses d = rt with r = 55. If t changes from 3 to 5, by how much does d increase?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Two-row formula table holding r at 55 while t changes from 3 to 5."
-    },
-    "answers": [
-      {
-        "text": "110",
-        "is_correct": true
       },
       {
         "text": "2",
         "is_correct": false
-      },
-      {
-        "text": "275",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "At fixed rate, the increase is r × change in time = 55 × 2 = 110.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
+      "summary": "The formula multiplies the two cell values: 7 × 9 = 63.\nHint: The * symbol means multiply.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-011"
   },
   {
-    "id": "AC9M7A06-T-011",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A table uses d = rt with r = 60. If t changes from 4 to 5, by how much does d increase?",
-    "audio_prompt": "A table uses d = rt with r = 60. If t changes from 4 to 5, by how much does d increase?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Two-row formula table holding r at 60 while t changes from 4 to 5."
-    },
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "In =A1*B1, B1 is a fixed positive value. What happens to the output as A1 increases?",
     "answers": [
       {
-        "text": "1",
-        "is_correct": false
-      },
-      {
-        "text": "60",
+        "text": "It increases",
         "is_correct": true
       },
       {
-        "text": "300",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "At fixed rate, the increase is r × change in time = 60 × 1 = 60.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
-  },
-  {
-    "id": "AC9M7A06-T-012",
-    "subject": "math",
-    "year_level": "Year 7",
-    "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "A table uses d = rt with r = 75. If t changes from 2 to 5, by how much does d increase?",
-    "audio_prompt": "A table uses d = rt with r = 75. If t changes from 2 to 5, by how much does d increase?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Two-row formula table holding r at 75 while t changes from 2 to 5."
-    },
-    "answers": [
-      {
-        "text": "3",
+        "text": "It decreases",
         "is_correct": false
       },
       {
-        "text": "375",
+        "text": "It stays constant",
         "is_correct": false
       },
       {
-        "text": "225",
-        "is_correct": true
+        "text": "It must become zero",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "At fixed rate, the increase is r × change in time = 75 × 3 = 225.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
+      "summary": "With positive B1 fixed, the product increases as A1 increases.\nHint: Treat B1 as a constant multiplier.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-012"
   },
   {
-    "id": "AC9M7A06-T-013",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For P = 2l + 2w, w stays 3 while l increases from 5 to 7. How much does P increase?",
-    "audio_prompt": "For P = 2l + 2w, w stays 3 while l increases from 5 to 7. How much does P increase?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table comparing two rectangles with width 3 and lengths 5 and 7."
-    },
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "What does =A1+3*B1 mean?",
     "answers": [
       {
-        "text": "4",
+        "text": "Add A1 to three times B1",
         "is_correct": true
       },
       {
-        "text": "2",
+        "text": "Triple A1 then add B1",
         "is_correct": false
       },
       {
-        "text": "7",
+        "text": "Add A1 and B1, then triple",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply A1 and B1",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Only 2l changes, so the perimeter increases by 2 × 2 = 4.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
+      "summary": "Spreadsheet order of operations gives A1 + (3 × B1).\nHint: Multiplication is performed before addition.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-013"
   },
   {
-    "id": "AC9M7A06-T-014",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For P = 2l + 2w, w stays 4 while l increases from 7 to 10. How much does P increase?",
-    "audio_prompt": "For P = 2l + 2w, w stays 4 while l increases from 7 to 10. How much does P increase?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table comparing two rectangles with width 4 and lengths 7 and 10."
-    },
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "For output = 4A + B, if A and B use comparable units, which one-unit increase changes the output more?",
     "answers": [
       {
-        "text": "3",
-        "is_correct": false
-      },
-      {
-        "text": "6",
+        "text": "A, because it changes output by 4 rather than 1",
         "is_correct": true
       },
       {
-        "text": "9",
+        "text": "B, because it is added last",
+        "is_correct": false
+      },
+      {
+        "text": "Both equally",
+        "is_correct": false
+      },
+      {
+        "text": "Neither",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Only 2l changes, so the perimeter increases by 2 × 3 = 6.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
+      "summary": "A one-unit increase in A adds 4; a one-unit increase in B adds 1.\nHint: Compare coefficients for equal one-unit changes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-014"
   },
   {
-    "id": "AC9M7A06-T-015",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
-    "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For P = 2l + 2w, w stays 2 while l increases from 9 to 13. How much does P increase?",
-    "audio_prompt": "For P = 2l + 2w, w stays 2 while l increases from 9 to 13. How much does P increase?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table comparing two rectangles with width 2 and lengths 9 and 13."
-    },
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "For y = 2A + 5B, A stays fixed and B increases from 3 to 6. By how much does y change?",
     "answers": [
       {
-        "text": "4",
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "30",
         "is_correct": false
       },
       {
@@ -1371,48 +469,1550 @@
         "is_correct": false
       },
       {
-        "text": "8",
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "ΔB = 3, so Δy = 5 × 3 = 15.\nHint: Focus on change, not the full output.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "What does =A1^2+B1 mean?",
+    "answers": [
+      {
+        "text": "Square A1, then add B1",
+        "is_correct": true
+      },
+      {
+        "text": "Add A1 and B1, then square",
+        "is_correct": false
+      },
+      {
+        "text": "Square B1 only",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply A1 and B1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "^2 applies to A1 before B1 is added.\nHint: Read the exponent before the addition.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "If A = 4 and B = 10, evaluate 3A − 2B.",
+    "answers": [
+      {
+        "text": "−8",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3(4) − 2(10) = 12 − 20 = −8.\nHint: Substitute before simplifying.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "In y = 10A − B, A is fixed. What happens as B increases?",
+    "answers": [
+      {
+        "text": "y decreases",
+        "is_correct": true
+      },
+      {
+        "text": "y increases",
+        "is_correct": false
+      },
+      {
+        "text": "y stays constant",
+        "is_correct": false
+      },
+      {
+        "text": "y doubles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "B has coefficient −1, so each one-unit increase in B lowers y by 1.\nHint: Check the sign of B's coefficient.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "What does =A1*B1+4 calculate?",
+    "answers": [
+      {
+        "text": "Multiply A1 and B1, then add 4",
+        "is_correct": true
+      },
+      {
+        "text": "Add B1 and 4, then multiply by A1",
+        "is_correct": false
+      },
+      {
+        "text": "Add A1 and B1, then multiply by 4",
+        "is_correct": false
+      },
+      {
+        "text": "Square the product",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Multiplication happens before the final +4.\nHint: Use spreadsheet order of operations.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "For y = 5A + 5B, both A and B increase by 2. By how much does y increase?",
+    "answers": [
+      {
+        "text": "20",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Δy = 5(2) + 5(2) = 20.\nHint: Add the contribution from each changed variable.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "Using d = st, find d when s = 50 km/h and t = 4 h.",
+    "answers": [
+      {
+        "text": "200 km",
+        "is_correct": true
+      },
+      {
+        "text": "100 km",
+        "is_correct": false
+      },
+      {
+        "text": "150 km",
+        "is_correct": false
+      },
+      {
+        "text": "250 km",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "d = 50 × 4 = 200 km.\nHint: Multiply speed by time.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "If time is fixed at 3 h and speed increases, distance travelled:",
+    "answers": [
+      {
+        "text": "Increases proportionally",
+        "is_correct": true
+      },
+      {
+        "text": "Decreases",
+        "is_correct": false
+      },
+      {
+        "text": "Stays constant",
+        "is_correct": false
+      },
+      {
+        "text": "Becomes unrelated to speed",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "d = 3s, so distance is directly proportional to speed.\nHint: Replace fixed time with its value.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "If speed stays fixed and time doubles, distance:",
+    "answers": [
+      {
+        "text": "Doubles",
+        "is_correct": true
+      },
+      {
+        "text": "Halves",
+        "is_correct": false
+      },
+      {
+        "text": "Stays constant",
+        "is_correct": false
+      },
+      {
+        "text": "Triples",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "d = st is proportional to t when s is fixed.\nHint: One factor doubles while the other is unchanged.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "At a fixed time of 3 h, speeds 20, 40 and 60 km/h give distances:",
+    "answers": [
+      {
+        "text": "60, 120, 180 km",
+        "is_correct": true
+      },
+      {
+        "text": "20, 40, 60 km",
+        "is_correct": false
+      },
+      {
+        "text": "3, 6, 9 km",
+        "is_correct": false
+      },
+      {
+        "text": "80, 160, 240 km",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Multiply each speed by 3.\nHint: Use the same fixed time for every row.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "For d = st, which statement is correct about equal percentage changes?",
+    "answers": [
+      {
+        "text": "A 10% increase in either s or t alone produces a 10% increase in d",
+        "is_correct": true
+      },
+      {
+        "text": "Speed always matters more",
+        "is_correct": false
+      },
+      {
+        "text": "Time always matters more",
+        "is_correct": false
+      },
+      {
+        "text": "Neither affects d proportionally",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Because d is the product st, changing either factor alone by 10% changes d by 10%.\nHint: Think multiplicatively rather than by units.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "If speed is fixed at 70 km/h, which rule relates distance d to time t?",
+    "answers": [
+      {
+        "text": "d = 70t",
+        "is_correct": true
+      },
+      {
+        "text": "d = t + 70",
+        "is_correct": false
+      },
+      {
+        "text": "d = 70/t",
+        "is_correct": false
+      },
+      {
+        "text": "d = t² + 70",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Substituting s = 70 into d = st gives d = 70t.\nHint: Hold speed constant.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "At 70 km/h for 2 h, what distance is travelled?",
+    "answers": [
+      {
+        "text": "140 km",
+        "is_correct": true
+      },
+      {
+        "text": "70 km",
+        "is_correct": false
+      },
+      {
+        "text": "35 km",
+        "is_correct": false
+      },
+      {
+        "text": "210 km",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "70 × 2 = 140 km.\nHint: Use d = st.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "Which journey covers the greatest distance?",
+    "answers": [
+      {
+        "text": "90 km/h for 3 h",
+        "is_correct": true
+      },
+      {
+        "text": "60 km/h for 4 h",
+        "is_correct": false
+      },
+      {
+        "text": "30 km/h for 5 h",
+        "is_correct": false
+      },
+      {
+        "text": "45 km/h for 2 h",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The distances are 270, 240, 150 and 90 km, so 90 km/h for 3 h is greatest.\nHint: Calculate s × t for each option.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "For d = st, what are d values for paired (s,t) values (30,1), (60,2), (90,3)?",
+    "answers": [
+      {
+        "text": "30, 120, 270 km",
+        "is_correct": true
+      },
+      {
+        "text": "30, 60, 90 km",
+        "is_correct": false
+      },
+      {
+        "text": "1, 2, 3 km",
+        "is_correct": false
+      },
+      {
+        "text": "90, 180, 270 km",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The products are 30×1, 60×2 and 90×3.\nHint: Each row uses its own speed and time.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "A journey's speed doubles and its travel time triples. Assuming d = st, distance becomes:",
+    "answers": [
+      {
+        "text": "6 times as large",
+        "is_correct": true
+      },
+      {
+        "text": "5 times as large",
+        "is_correct": false
+      },
+      {
+        "text": "3 times as large",
+        "is_correct": false
+      },
+      {
+        "text": "2 times as large",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "New distance = (2s)(3t) = 6st.\nHint: Multiply the scale factors.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "In y = 3a + 2b, b is fixed. Increasing a by 5 changes y by:",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Δy = 3 × 5 = 15.\nHint: Multiply the change by a's coefficient.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "For y = 4x − z, with x and z on comparable scales, which one-unit change has larger absolute effect on y?",
+    "answers": [
+      {
+        "text": "x",
+        "is_correct": true
+      },
+      {
+        "text": "z",
+        "is_correct": false
+      },
+      {
+        "text": "They are equal",
+        "is_correct": false
+      },
+      {
+        "text": "Neither",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A one-unit change in x changes y by 4, while a one-unit change in z changes y by 1 in the opposite direction.\nHint: Compare absolute coefficient sizes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "What is the main purpose of one-variable-at-a-time sensitivity analysis?",
+    "answers": [
+      {
+        "text": "To see how changing one input affects the output while other inputs are held fixed",
+        "is_correct": true
+      },
+      {
+        "text": "To rename variables",
+        "is_correct": false
+      },
+      {
+        "text": "To remove all inputs",
+        "is_correct": false
+      },
+      {
+        "text": "To guarantee a model is accurate",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Sensitivity analysis isolates an input's effect on the model output.\nHint: Hold other inputs constant.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "Why can sensitivity tables improve model explainability?",
+    "answers": [
+      {
+        "text": "They make input-output effects visible and comparable",
+        "is_correct": true
+      },
+      {
+        "text": "They guarantee the model is fair",
+        "is_correct": false
+      },
+      {
+        "text": "They remove uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "They make every relationship linear",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Tables reveal how predictions respond to controlled input changes, but do not by themselves prove fairness or accuracy.\nHint: Separate explainability from validation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "For F = 5x + 10y − 2z, increasing y by 1 while x and z stay fixed changes F by:",
+    "answers": [
+      {
+        "text": "+10",
+        "is_correct": true
+      },
+      {
+        "text": "+5",
+        "is_correct": false
+      },
+      {
+        "text": "−2",
+        "is_correct": false
+      },
+      {
+        "text": "+1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The coefficient of y is 10.\nHint: For a linear model, coefficient = change per one-unit input increase.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "Which statement about a large coefficient is safest?",
+    "answers": [
+      {
+        "text": "It indicates a larger per-unit effect when variables are compared on compatible scales",
+        "is_correct": true
+      },
+      {
+        "text": "It always proves that variable is most important",
+        "is_correct": false
+      },
+      {
+        "text": "It proves causation",
+        "is_correct": false
+      },
+      {
+        "text": "It means the model is accurate",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Coefficient size describes per-unit effect, but scale and context matter when comparing importance.\nHint: Do not confuse coefficient magnitude with universal importance.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "In P = 2a + 5b − c, which variable lowers P when it increases and the others stay fixed?",
+    "answers": [
+      {
+        "text": "c",
+        "is_correct": true
+      },
+      {
+        "text": "a",
+        "is_correct": false
+      },
+      {
+        "text": "b",
+        "is_correct": false
+      },
+      {
+        "text": "All three",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "c has coefficient −1, so increasing c decreases P.\nHint: Look for a negative coefficient.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "In F = 3x + 2y − 4z, what happens when z increases by 3 with x and y fixed?",
+    "answers": [
+      {
+        "text": "F decreases by 12",
+        "is_correct": true
+      },
+      {
+        "text": "F increases by 12",
+        "is_correct": false
+      },
+      {
+        "text": "F decreases by 4",
+        "is_correct": false
+      },
+      {
+        "text": "F stays constant",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "ΔF = −4 × 3 = −12.\nHint: Multiply coefficient by the input change.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "In a linear rule, a variable with coefficient 0 has what direct effect on the output?",
+    "answers": [
+      {
+        "text": "None within that rule",
+        "is_correct": true
+      },
+      {
+        "text": "It doubles the output",
+        "is_correct": false
+      },
+      {
+        "text": "It reverses the output",
+        "is_correct": false
+      },
+      {
+        "text": "It always makes output zero",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0 multiplied by any input contributes 0 to the output.\nHint: Consider the variable's term.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "For F = 3x + 2y − 4z + 15, x rises by 2, y falls by 1 and z rises by 1. What is the net change in F?",
+    "answers": [
+      {
+        "text": "0",
+        "is_correct": true
+      },
+      {
+        "text": "+4",
+        "is_correct": false
+      },
+      {
+        "text": "−6",
+        "is_correct": false
+      },
+      {
+        "text": "+12",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "ΔF = 3(2) + 2(−1) − 4(1) = 6 − 2 − 4 = 0.\nHint: Add each variable's contribution to the change.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "For V = lwh, length l doubles while w and h stay fixed. What happens to the output?",
+    "answers": [
+      {
+        "text": "V doubles",
+        "is_correct": true
+      },
+      {
+        "text": "V stays the same",
+        "is_correct": false
+      },
+      {
+        "text": "V quadruples",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Only one multiplied factor doubles, so the product doubles.\nHint: Change only the named variable, hold the others fixed and compare the outputs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "For A = bh ÷ 2, height h triples while b stays fixed. What happens to the output?",
+    "answers": [
+      {
+        "text": "A doubles",
+        "is_correct": false
+      },
+      {
+        "text": "A triples",
+        "is_correct": true
+      },
+      {
+        "text": "A increases by 3 square units",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Area is directly proportional to height when base is fixed.\nHint: Change only the named variable, hold the others fixed and compare the outputs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "super-hard",
+    "question": "For d = rt, time t halves while r stays fixed. What happens to the output?",
+    "answers": [
+      {
+        "text": "d doubles",
+        "is_correct": false
+      },
+      {
+        "text": "d stays the same",
+        "is_correct": false
+      },
+      {
+        "text": "d halves",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Only 2l changes, so the perimeter increases by 2 × 4 = 8.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
+      "summary": "Distance is directly proportional to time at a fixed rate.\nHint: Change only the named variable, hold the others fixed and compare the outputs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-043"
   },
   {
-    "id": "AC9M7A06-T-016",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "super-hard",
+    "question": "For C = 2l + 2w, length l increases by 3 while w stays fixed. What happens to the output?",
+    "answers": [
+      {
+        "text": "C increases by 6",
+        "is_correct": true
+      },
+      {
+        "text": "C increases by 3",
+        "is_correct": false
+      },
+      {
+        "text": "C doubles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The length occurs twice in the perimeter formula.\nHint: Change only the named variable, hold the others fixed and compare the outputs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "super-hard",
+    "question": "For m = ρV, volume V doubles while density ρ stays fixed. What happens to the output?",
+    "answers": [
+      {
+        "text": "m quadruples",
+        "is_correct": false
+      },
+      {
+        "text": "m doubles",
+        "is_correct": true
+      },
+      {
+        "text": "m stays fixed",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Mass is directly proportional to volume for fixed density.\nHint: Change only the named variable, hold the others fixed and compare the outputs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "super-hard",
+    "question": "For E = pt, power p triples while time t stays fixed. What happens to the output?",
+    "answers": [
+      {
+        "text": "E increases by 3",
+        "is_correct": false
+      },
+      {
+        "text": "E becomes 9 times as large",
+        "is_correct": false
+      },
+      {
+        "text": "E triples",
+        "is_correct": true
+      }
+    ],
+    "explanation": {
+      "summary": "Energy is directly proportional to power for fixed time.\nHint: Change only the named variable, hold the others fixed and compare the outputs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "super-hard",
+    "question": "For A = lw, both l and w double. What happens to the output?",
+    "answers": [
+      {
+        "text": "A becomes 4 times as large",
+        "is_correct": true
+      },
+      {
+        "text": "A doubles",
+        "is_correct": false
+      },
+      {
+        "text": "A becomes 8 times as large",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Two doubled factors give 2 × 2 = 4 times the area.\nHint: Change only the named variable, hold the others fixed and compare the outputs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "practice",
+    "skill": "ac9m7a06",
+    "difficulty": "super-hard",
+    "question": "For V = lwh, l, w and h all double. What happens to the output?",
+    "answers": [
+      {
+        "text": "V doubles",
+        "is_correct": false
+      },
+      {
+        "text": "V becomes 8 times as large",
+        "is_correct": true
+      },
+      {
+        "text": "V becomes 6 times as large",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Three doubled factors give 2³ = 8 times the volume.\nHint: Change only the named variable, hold the others fixed and compare the outputs.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-P-048"
+  },
+  {
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7A06",
     "bank": "test",
-    "skill": "systematic_variation_in_multi_variable_formulas",
-    "question": "For P = 2l + 2w, w stays 5 while l increases from 6 to 7. How much does P increase?",
-    "audio_prompt": "For P = 2l + 2w, w stays 5 while l increases from 6 to 7. How much does P increase?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/algebra.svg#formula",
-      "alt_text": "Formula table comparing two rectangles with width 5 and lengths 6 and 7."
-    },
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "For V=lwh, find V when l=9 cm, w=4 cm and h=6 cm.",
     "answers": [
       {
-        "text": "2",
+        "text": "216 cm³",
         "is_correct": true
       },
       {
-        "text": "1",
+        "text": "108 cm³",
         "is_correct": false
       },
       {
-        "text": "11",
+        "text": "54 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "19 cm³",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Only 2l changes, so the perimeter increases by 2 × 1 = 2.",
-      "hint": "Change only the named variable, hold the others fixed and compare the outputs."
-    }
+      "summary": "V=9×4×6=216 cm³.\nHint: Multiply all three dimensions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "For V=lwh, l=5 and w=8 are fixed. If h changes from 3 to 7, by how much does V increase?",
+    "answers": [
+      {
+        "text": "160",
+        "is_correct": true
+      },
+      {
+        "text": "40",
+        "is_correct": false
+      },
+      {
+        "text": "280",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "V=40h, so ΔV=40(7−3)=160.\nHint: Use change in h rather than calculating from scratch twice.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "A prism has V=420 cm³, l=10 cm and w=7 cm. Find h.",
+    "answers": [
+      {
+        "text": "6 cm",
+        "is_correct": true
+      },
+      {
+        "text": "5 cm",
+        "is_correct": false
+      },
+      {
+        "text": "30 cm",
+        "is_correct": false
+      },
+      {
+        "text": "60 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "h=420÷(10×7)=6 cm.\nHint: Divide by the fixed product lw.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "easy",
+    "question": "A spreadsheet uses =2*A1-3*B1. If A1=9 and B1=4, what is the result?",
+    "answers": [
+      {
+        "text": "6",
+        "is_correct": true
+      },
+      {
+        "text": "30",
+        "is_correct": false
+      },
+      {
+        "text": "−6",
+        "is_correct": false
+      },
+      {
+        "text": "42",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2(9)−3(4)=18−12=6.\nHint: Substitute carefully with multiplication first.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "For P=2a+5b−c, a and c stay fixed. If b increases by 4, how does P change?",
+    "answers": [
+      {
+        "text": "It increases by 20",
+        "is_correct": true
+      },
+      {
+        "text": "It increases by 9",
+        "is_correct": false
+      },
+      {
+        "text": "It decreases by 20",
+        "is_correct": false
+      },
+      {
+        "text": "It increases by 4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "ΔP=5×4=20.\nHint: Only the changing variable contributes to ΔP.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "A vehicle travels 75 km/h for 2.5 h. What distance does d=st predict?",
+    "answers": [
+      {
+        "text": "187.5 km",
+        "is_correct": true
+      },
+      {
+        "text": "150 km",
+        "is_correct": false
+      },
+      {
+        "text": "77.5 km",
+        "is_correct": false
+      },
+      {
+        "text": "300 km",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "d=75×2.5=187.5 km.\nHint: Multiply speed by time.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "In d=st, speed is multiplied by 1.5 and time by 2. What happens to distance?",
+    "answers": [
+      {
+        "text": "It becomes 3 times as large",
+        "is_correct": true
+      },
+      {
+        "text": "It becomes 2.5 times as large",
+        "is_correct": false
+      },
+      {
+        "text": "It becomes 1.5 times as large",
+        "is_correct": false
+      },
+      {
+        "text": "It is unchanged",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "New d=(1.5s)(2t)=3st.\nHint: Multiply scale factors.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "At fixed time 4 h, distances are 120, 200 and 280 km. Which speeds produced them?",
+    "answers": [
+      {
+        "text": "30, 50, 70 km/h",
+        "is_correct": true
+      },
+      {
+        "text": "40, 60, 80 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "30, 40, 50 km/h",
+        "is_correct": false
+      },
+      {
+        "text": "120, 200, 280 km/h",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "s=d÷4, giving 30, 50 and 70 km/h.\nHint: Reverse d=st.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "For y=7x−2z+5, x increases by 3 and z stays fixed. What is Δy?",
+    "answers": [
+      {
+        "text": "21",
+        "is_correct": true
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "−6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Δy=7×3=21.\nHint: Coefficient times change.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "medium",
+    "question": "For y=7x−2z+5, z increases by 4 and x stays fixed. What is Δy?",
+    "answers": [
+      {
+        "text": "−8",
+        "is_correct": true
+      },
+      {
+        "text": "+8",
+        "is_correct": false
+      },
+      {
+        "text": "−2",
+        "is_correct": false
+      },
+      {
+        "text": "+4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Δy=−2×4=−8.\nHint: Keep the negative sign.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "Which statement is valid for y=6a+b when a and b are measured on comparable scales?",
+    "answers": [
+      {
+        "text": "A one-unit change in a has a larger direct effect than a one-unit change in b",
+        "is_correct": true
+      },
+      {
+        "text": "a is always more important in every context",
+        "is_correct": false
+      },
+      {
+        "text": "b has no effect",
+        "is_correct": false
+      },
+      {
+        "text": "The model proves a causes y",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The coefficients give per-unit direct effects; they do not by themselves prove universal importance or causation.\nHint: Interpret coefficients narrowly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "Why hold other variables constant during a sensitivity test?",
+    "answers": [
+      {
+        "text": "To isolate the effect of the variable being changed",
+        "is_correct": true
+      },
+      {
+        "text": "To make all outputs equal",
+        "is_correct": false
+      },
+      {
+        "text": "To remove the need for a formula",
+        "is_correct": false
+      },
+      {
+        "text": "To guarantee a correct model",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Holding other inputs fixed lets you attribute output changes to the selected input.\nHint: Think controlled comparison.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "For F=4x+3y−2z, x rises by 1, y rises by 2 and z falls by 3. What is ΔF?",
+    "answers": [
+      {
+        "text": "16",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "−2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "ΔF=4(1)+3(2)−2(−3)=4+6+6=16.\nHint: Use signed changes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "hard",
+    "question": "A student says doubling both l and w in V=lwh doubles V when h is fixed. What is correct?",
+    "answers": [
+      {
+        "text": "V becomes 4 times as large",
+        "is_correct": true
+      },
+      {
+        "text": "V doubles",
+        "is_correct": false
+      },
+      {
+        "text": "V becomes 8 times as large",
+        "is_correct": false
+      },
+      {
+        "text": "V is unchanged",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "(2l)(2w)h=4lwh, so volume quadruples.\nHint: Multiply both scale factors.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "super-hard",
+    "question": "A sensitivity table shows output changes of +2, +5 and −7 for one-unit increases in x, y and z respectively. Which input has greatest absolute one-unit effect?",
+    "answers": [
+      {
+        "text": "z",
+        "is_correct": true
+      },
+      {
+        "text": "y",
+        "is_correct": false
+      },
+      {
+        "text": "x",
+        "is_correct": false
+      },
+      {
+        "text": "All equal",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The absolute changes are 2, 5 and 7, so z has the greatest magnitude of effect in this comparison.\nHint: Compare absolute values when direction is not the question.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7A06",
+    "bank": "test",
+    "skill": "ac9m7a06",
+    "difficulty": "super-hard",
+    "question": "For F=3x+2y−4z+15, which change leaves F unchanged?",
+    "answers": [
+      {
+        "text": "x+2, y−1, z+1",
+        "is_correct": true
+      },
+      {
+        "text": "x+1, y+1, z+1",
+        "is_correct": false
+      },
+      {
+        "text": "x+2, y+2, z unchanged",
+        "is_correct": false
+      },
+      {
+        "text": "x unchanged, y+2, z+1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "For the first change, ΔF=6−2−4=0.\nHint: Test the net change, not the new full value.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7A06-T-016"
   }
 ]

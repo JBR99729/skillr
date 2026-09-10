@@ -1,17 +1,1292 @@
 [
   {
-    "id": "ac9m7m02-p-001",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "practice",
-    "skill": "find_a_rectangular_prism_volume",
-    "question": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "Which formula gives the volume V of any prism with constant cross-sectional area B and perpendicular prism length h?",
+    "answers": [
+      {
+        "text": "V = Bh",
+        "is_correct": true
+      },
+      {
+        "text": "V = B + h",
+        "is_correct": false
+      },
+      {
+        "text": "V = B/h",
+        "is_correct": false
+      },
+      {
+        "text": "V = 2Bh",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A prism is equal cross-sections stacked through a perpendicular length, so V = Bh.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7M02-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A rectangular prism is 3 cm by 4 cm by 5 cm. How many 1 cm³ cubes exactly fill it?",
+    "answers": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "20",
+        "is_correct": false
+      },
+      {
+        "text": "60",
+        "is_correct": true
+      },
+      {
+        "text": "120",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3×4×5 = 60 unit cubes.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A triangular prism has triangular cross-section base 10 cm and perpendicular height 6 cm, and prism length 12 cm. What is its volume?",
+    "answers": [
+      {
+        "text": "180 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "360 cm³",
+        "is_correct": true
+      },
+      {
+        "text": "720 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "120 cm³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Triangle area = 30 cm²; volume = 30×12 = 360 cm³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A prism has cross-sectional area 24 cm² and perpendicular length 10 cm. What is its volume?",
+    "answers": [
+      {
+        "text": "34 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "120 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "240 cm³",
+        "is_correct": true
+      },
+      {
+        "text": "480 cm³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "V = 24×10 = 240 cm³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "Which expression gives the volume of a triangular prism with triangle base b, triangle height h and prism length L?",
+    "answers": [
+      {
+        "text": "bhL",
+        "is_correct": false
+      },
+      {
+        "text": "½bhL",
+        "is_correct": true
+      },
+      {
+        "text": "b+h+L",
+        "is_correct": false
+      },
+      {
+        "text": "2bhL",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Find triangle area first, then multiply by prism length.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A 2×3×4 rectangular prism is packed with 1 cm³ cubes. How many cubes are in one 2×3 layer, and how many such layers are stacked?",
+    "answers": [
+      {
+        "text": "6 cubes per layer, 4 layers",
+        "is_correct": true
+      },
+      {
+        "text": "8 cubes per layer, 3 layers",
+        "is_correct": false
+      },
+      {
+        "text": "12 cubes per layer, 2 layers",
+        "is_correct": false
+      },
+      {
+        "text": "4 cubes per layer, 6 layers",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each layer has 6 cubes and there are 4 layers.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A triangular cross-section has base 12 cm and perpendicular height 10 cm. What is its area?",
+    "answers": [
+      {
+        "text": "22 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "60 cm²",
+        "is_correct": true
+      },
+      {
+        "text": "120 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "240 cm²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Area = ½×12×10 = 60 cm².\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A prism has volume 360 cm³ and perpendicular length 12 cm. What is its cross-sectional area?",
+    "answers": [
+      {
+        "text": "30 cm²",
+        "is_correct": true
+      },
+      {
+        "text": "24 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "42 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "4320 cm²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "B = 360÷12 = 30 cm².\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A rectangular prism is 9 cm long, 5 cm wide and 4 cm high. What is its volume?",
+    "answers": [
+      {
+        "text": "45 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "90 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "180 cm³",
+        "is_correct": true
+      },
+      {
+        "text": "360 cm³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "9×5×4 = 180 cm³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "What does the base area B represent in V = Bh?",
+    "answers": [
+      {
+        "text": "Base perimeter",
+        "is_correct": false
+      },
+      {
+        "text": "Area of the constant cross-section",
+        "is_correct": true
+      },
+      {
+        "text": "Prism length",
+        "is_correct": false
+      },
+      {
+        "text": "Total surface area",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "B is the area of the constant cross-section.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "If a prism's cross-sectional area doubles while its perpendicular length stays fixed, what happens to volume?",
+    "answers": [
+      {
+        "text": "Halves",
+        "is_correct": false
+      },
+      {
+        "text": "Stays same",
+        "is_correct": false
+      },
+      {
+        "text": "Doubles",
+        "is_correct": true
+      },
+      {
+        "text": "Quadruples",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "V = Bh, so doubling B doubles V.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "If the perpendicular length doubles while cross-sectional area stays fixed, what happens to volume?",
+    "answers": [
+      {
+        "text": "Doubles",
+        "is_correct": true
+      },
+      {
+        "text": "Halves",
+        "is_correct": false
+      },
+      {
+        "text": "Quadruples",
+        "is_correct": false
+      },
+      {
+        "text": "Unchanged",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "V = Bh, so doubling h doubles V.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "Prism A has B=30 cm²,h=9 cm. Prism B has B=25 cm²,h=10 cm. Which has greater volume?",
+    "answers": [
+      {
+        "text": "A by 20 cm³",
+        "is_correct": true
+      },
+      {
+        "text": "B by 20 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "Equal",
+        "is_correct": false
+      },
+      {
+        "text": "A by 50 cm³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A=270 cm³, B=250 cm³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "Which pair of prisms has equal volume?",
+    "answers": [
+      {
+        "text": "B=40,h=6 and B=20,h=12",
+        "is_correct": true
+      },
+      {
+        "text": "B=30,h=10 and B=15,h=10",
+        "is_correct": false
+      },
+      {
+        "text": "B=12,h=12 and B=6,h=6",
+        "is_correct": false
+      },
+      {
+        "text": "B=25,h=8 and B=25,h=4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "40×6 = 20×12 = 240.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A prism's cross-sectional area increases by 50% while its length decreases by 20%. What happens to volume?",
+    "answers": [
+      {
+        "text": "Increases by 20%",
+        "is_correct": true
+      },
+      {
+        "text": "Increases by 30%",
+        "is_correct": false
+      },
+      {
+        "text": "Decreases by 30%",
+        "is_correct": false
+      },
+      {
+        "text": "Unchanged",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "1.5×0.8 = 1.2, so volume rises 20%.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A triangular prism has volume 540 cm³ and length 15 cm. Its triangular cross-section has base 12 cm. Find the triangle's perpendicular height.",
+    "answers": [
+      {
+        "text": "3 cm",
+        "is_correct": false
+      },
+      {
+        "text": "6 cm",
+        "is_correct": true
+      },
+      {
+        "text": "9 cm",
+        "is_correct": false
+      },
+      {
+        "text": "12 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Cross-section area=36; ½×12×h=36 gives h=6.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A prism has constant cross-sectional area 18 cm². Its length changes from 7 cm to 11 cm. By how much does volume increase?",
+    "answers": [
+      {
+        "text": "18 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "54 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "72 cm³",
+        "is_correct": true
+      },
+      {
+        "text": "198 cm³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Increase =18×4=72 cm³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "Which statement best explains why V=Bh works for prisms?",
+    "answers": [
+      {
+        "text": "Parallel cross-sections have constant area",
+        "is_correct": true
+      },
+      {
+        "text": "All edges are equal",
+        "is_correct": false
+      },
+      {
+        "text": "Base must be rectangular",
+        "is_correct": false
+      },
+      {
+        "text": "Side faces must be squares",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Prisms have constant parallel cross-sections.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A student says a more slanted prism must have larger volume because its side edges are longer. What is the key correction?",
+    "answers": [
+      {
+        "text": "Volume depends on surface area",
+        "is_correct": false
+      },
+      {
+        "text": "Volume depends on cross-sectional area and perpendicular separation, not slanted edge length alone",
+        "is_correct": true
+      },
+      {
+        "text": "Longer edges mean less volume",
+        "is_correct": false
+      },
+      {
+        "text": "Only rectangular prisms have volume",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Use cross-sectional area and perpendicular separation.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A prism has B=15 cm²,h=15 cm. Another has B=25 cm²,h=9 cm. Compare their volumes.",
+    "answers": [
+      {
+        "text": "First 90 cm³ larger",
+        "is_correct": false
+      },
+      {
+        "text": "Second 90 cm³ larger",
+        "is_correct": false
+      },
+      {
+        "text": "Equal",
+        "is_correct": true
+      },
+      {
+        "text": "Second 150 cm³ larger",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Both equal 225 cm³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A room has floor area 200 m² and ceiling height 3 m. What is its volume?",
+    "answers": [
+      {
+        "text": "200 m³",
+        "is_correct": false
+      },
+      {
+        "text": "600 m³",
+        "is_correct": true
+      },
+      {
+        "text": "203 m³",
+        "is_correct": false
+      },
+      {
+        "text": "66.7 m³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "200×3=600 m³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A building has identical floors of area 120 m² and each storey is 3 m high. For 8 storeys, what prism-model volume is obtained?",
+    "answers": [
+      {
+        "text": "960 m³",
+        "is_correct": false
+      },
+      {
+        "text": "2880 m³",
+        "is_correct": true
+      },
+      {
+        "text": "320 m³",
+        "is_correct": false
+      },
+      {
+        "text": "1200 m³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Total height=24 m; 120×24=2880 m³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "Why is floor area × number of floors not, by itself, a volume in cubic metres?",
+    "answers": [
+      {
+        "text": "Floor area is cubic",
+        "is_correct": false
+      },
+      {
+        "text": "A floor count has no length unit; storey height is needed",
+        "is_correct": true
+      },
+      {
+        "text": "Buildings are never prisms",
+        "is_correct": false
+      },
+      {
+        "text": "Area cannot be multiplied",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "m² times a count is still m²; a physical storey height is needed for m³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A warehouse has floor area 450 m² and height 8 m. What is its approximate volume?",
+    "answers": [
+      {
+        "text": "3600 m³",
+        "is_correct": true
+      },
+      {
+        "text": "458 m³",
+        "is_correct": false
+      },
+      {
+        "text": "56.25 m³",
+        "is_correct": false
+      },
+      {
+        "text": "1800 m³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "450×8=3600 m³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "Two buildings have the same floor area. X is 18 m high and Y is 24 m high. Which is true under a prism model?",
+    "answers": [
+      {
+        "text": "X has 4/3 Y's volume",
+        "is_correct": false
+      },
+      {
+        "text": "Y has 4/3 X's volume",
+        "is_correct": true
+      },
+      {
+        "text": "Equal volume",
+        "is_correct": false
+      },
+      {
+        "text": "Y has twice X",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "24/18 = 4/3.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A tank is 2.5 m long, 1.8 m wide and 1.2 m deep. What is its volume?",
+    "answers": [
+      {
+        "text": "4.5 m³",
+        "is_correct": false
+      },
+      {
+        "text": "5.4 m³",
+        "is_correct": true
+      },
+      {
+        "text": "6.0 m³",
+        "is_correct": false
+      },
+      {
+        "text": "2.7 m³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2.5×1.8×1.2=5.4 m³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "The 5.4 m³ tank holds how many litres? (1 m³=1000 L)",
+    "answers": [
+      {
+        "text": "540 L",
+        "is_correct": false
+      },
+      {
+        "text": "5400 L",
+        "is_correct": true
+      },
+      {
+        "text": "54 000 L",
+        "is_correct": false
+      },
+      {
+        "text": "5.4 L",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "5.4 m³=5400 L.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A triangular-prism channel has cross-sectional area 0.45 m² and length 18 m. What volume does it hold?",
+    "answers": [
+      {
+        "text": "8.1 m³",
+        "is_correct": true
+      },
+      {
+        "text": "18.45 m³",
+        "is_correct": false
+      },
+      {
+        "text": "40 m³",
+        "is_correct": false
+      },
+      {
+        "text": "4.05 m³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0.45×18=8.1 m³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A prism's volume is 864 cm³ and B=48 cm². Find its length.",
+    "answers": [
+      {
+        "text": "12 cm",
+        "is_correct": false
+      },
+      {
+        "text": "18 cm",
+        "is_correct": true
+      },
+      {
+        "text": "24 cm",
+        "is_correct": false
+      },
+      {
+        "text": "41.5 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "864÷48=18 cm.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A rectangular prism has volume 600 cm³, length 10 cm and width 5 cm. Find height.",
+    "answers": [
+      {
+        "text": "6 cm",
+        "is_correct": false
+      },
+      {
+        "text": "10 cm",
+        "is_correct": false
+      },
+      {
+        "text": "12 cm",
+        "is_correct": true
+      },
+      {
+        "text": "15 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "10×5×h=600, so h=12 cm.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "When can a prism change shape but keep the same volume?",
+    "answers": [
+      {
+        "text": "When perimeter stays same",
+        "is_correct": false
+      },
+      {
+        "text": "When cross-sectional area and perpendicular length stay same",
+        "is_correct": true
+      },
+      {
+        "text": "When one edge stays fixed",
+        "is_correct": false
+      },
+      {
+        "text": "Only if all dimensions identical",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "V depends on B and perpendicular length.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "A dynamic model shears a prism sideways without changing cross-sectional area or perpendicular separation. What happens to volume?",
+    "answers": [
+      {
+        "text": "Increases",
+        "is_correct": false
+      },
+      {
+        "text": "Decreases",
+        "is_correct": false
+      },
+      {
+        "text": "Stays constant",
+        "is_correct": true
+      },
+      {
+        "text": "Becomes zero",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Those quantities determine V.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "Which statement is false?",
+    "answers": [
+      {
+        "text": "Doubling B with h fixed doubles V",
+        "is_correct": false
+      },
+      {
+        "text": "Halving h with B fixed halves V",
+        "is_correct": false
+      },
+      {
+        "text": "Keeping B fixed guarantees V is unchanged",
+        "is_correct": true
+      },
+      {
+        "text": "Doubling B and halving h keeps V unchanged",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "If h changes, V changes even if B is fixed.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "A prism has B=32 cm²,h=14 cm. If B becomes 24 cm² but volume must remain unchanged, what new h is needed?",
+    "answers": [
+      {
+        "text": "10.5 cm",
+        "is_correct": false
+      },
+      {
+        "text": "18.67 cm",
+        "is_correct": true
+      },
+      {
+        "text": "22 cm",
+        "is_correct": false
+      },
+      {
+        "text": "24 cm",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Original V=448; 448÷24≈18.67 cm.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "A triangular prism has cross-section b=16 cm, h=9 cm and length 20 cm. A second has same volume and length 15 cm. What cross-sectional area must it have?",
+    "answers": [
+      {
+        "text": "72 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "96 cm²",
+        "is_correct": true
+      },
+      {
+        "text": "108 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "144 cm²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "First B=72,V=1440; 1440÷15=96 cm².\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "Which measurement is irrelevant to volume once B and perpendicular prism length h are known?",
+    "answers": [
+      {
+        "text": "A slanted side length of the cross-section",
+        "is_correct": true
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "h",
+        "is_correct": false
+      },
+      {
+        "text": "Consistent units",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "B already captures the cross-section area.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "A prism's base area is in cm² and its length is in metres. What should you do before multiplying?",
+    "answers": [
+      {
+        "text": "Multiply directly",
+        "is_correct": false
+      },
+      {
+        "text": "Convert to compatible length units first",
+        "is_correct": true
+      },
+      {
+        "text": "Square the length",
+        "is_correct": false
+      },
+      {
+        "text": "Divide area by 100",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Use compatible units before multiplying.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "A prism has B=250 cm² and length 0.8 m. What is its volume in cm³?",
+    "answers": [
+      {
+        "text": "200",
+        "is_correct": false
+      },
+      {
+        "text": "2000",
+        "is_correct": false
+      },
+      {
+        "text": "20 000",
+        "is_correct": true
+      },
+      {
+        "text": "31 250",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "0.8 m=80 cm; 250×80=20,000 cm³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "A student calculates triangular-prism volume as b×h×L. Their answer is twice the correct value. What did they forget?",
+    "answers": [
+      {
+        "text": "Square L",
+        "is_correct": false
+      },
+      {
+        "text": "The ½ in triangle area",
+        "is_correct": true
+      },
+      {
+        "text": "Add perimeter",
+        "is_correct": false
+      },
+      {
+        "text": "Divide by L",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Triangle area is ½bh.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "If cross-sectional area doubles and perpendicular length halves, what happens to volume?",
+    "answers": [
+      {
+        "text": "Doubles",
+        "is_correct": false
+      },
+      {
+        "text": "Halves",
+        "is_correct": false
+      },
+      {
+        "text": "Stays same",
+        "is_correct": true
+      },
+      {
+        "text": "Quadruples",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2×½=1, so volume is unchanged.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "practice",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
     "answers": [
       {
         "text": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
@@ -30,27 +1305,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
-      "hint": "Find triangular area first."
+      "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³\nHint: Find triangular area first.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M02-P-041"
   },
   {
-    "id": "ac9m7m02-p-002",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "practice",
-    "skill": "find_a_triangular_prism_volume",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
     "question": "A Year 7 student is solving a problem involving find a triangular prism volume. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find a triangular prism volume. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Square units used for volume",
@@ -69,27 +1337,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
-      "hint": "Use cubic units."
+      "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.\nHint: Use cubic units.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M02-P-042"
   },
   {
-    "id": "ac9m7m02-p-003",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "practice",
-    "skill": "convert_cm_to_ml",
+    "skill": "ac9m7m02",
+    "difficulty": "super-hard",
     "question": "A Year 7 student is solving a problem involving convert cm to ml. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving convert cm to ml. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Prism length confused with triangle height",
@@ -108,27 +1369,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
-      "hint": "Label each perpendicular dimension."
+      "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.\nHint: Label each perpendicular dimension.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M02-P-043"
   },
   {
-    "id": "ac9m7m02-p-004",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "practice",
-    "skill": "find_missing_length",
+    "skill": "ac9m7m02",
+    "difficulty": "super-hard",
     "question": "A Year 7 student is solving a problem involving find missing length. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find missing length. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Capacity conversion guessed",
@@ -147,27 +1401,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
-      "hint": "Use 1 cm³=1 mL and 1 000 cm³=1 L."
+      "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.\nHint: Use 1 cm³=1 mL and 1 000 cm³=1 L.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M02-P-044"
   },
   {
-    "id": "ac9m7m02-p-005",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "practice",
-    "skill": "check_dimensions_and_units",
+    "skill": "ac9m7m02",
+    "difficulty": "super-hard",
     "question": "Which statement correctly identifies cross-section in volume of right prisms?",
-    "audio_prompt": "Which statement correctly identifies cross-section in volume of right prisms?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
@@ -186,28 +1433,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
-      "hint": "Find triangular area first."
+      "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³\nHint: Find triangular area first.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M02-P-045"
   },
   {
-    "id": "ac9m7m02-p-006",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "practice",
-    "skill": "find_a_rectangular_prism_volume",
+    "skill": "ac9m7m02",
+    "difficulty": "super-hard",
     "question": "Which choice best describes volume in volume of right prisms?",
-    "audio_prompt": "Which choice best describes volume in volume of right prisms?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Square units used for volume",
@@ -226,28 +1465,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
-      "hint": "Use cubic units."
+      "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.\nHint: Use cubic units.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M02-P-046"
   },
   {
-    "id": "ac9m7m02-p-007",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "practice",
-    "skill": "find_a_triangular_prism_volume",
+    "skill": "ac9m7m02",
+    "difficulty": "super-hard",
     "question": "What does correct use require for right prism in volume of right prisms?",
-    "audio_prompt": "What does correct use require for right prism in volume of right prisms?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Prism length confused with triangle height",
@@ -266,348 +1497,554 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
-      "hint": "Label each perpendicular dimension."
+      "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.\nHint: Label each perpendicular dimension.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M02-P-047"
   },
   {
-    "id": "ac9m7m02-p-008",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "practice",
-    "skill": "convert_cm_to_ml",
-    "question": "A Year 7 student is solving a problem involving convert cm to ml. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving convert cm to ml. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m02",
+    "difficulty": "super-hard",
+    "question": "Reasoning 1: A triangular prism has triangular base area 18 cm² and length 5 cm. Find its volume.",
     "answers": [
       {
-        "text": "Capacity conversion guessed",
-        "is_correct": false
-      },
-      {
-        "text": "Use 1 cm³=1 mL and 1 000 cm³=1 L",
-        "is_correct": false
-      },
-      {
-        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
-        "is_correct": false
-      },
-      {
-        "text": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+        "text": "90",
         "is_correct": true
+      },
+      {
+        "text": "18",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "23",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
-      "hint": "Use 1 cm³=1 mL and 1 000 cm³=1 L."
+      "summary": "Prism volume equals base area multiplied by prism length.",
+      "hint": "Use the area of the triangular end as the base area."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M02-P-048"
   },
   {
-    "id": "ac9m7m02-t-001",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "test",
-    "skill": "find_missing_length",
-    "question": "A Year 7 student is solving a problem involving find missing length. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find missing length. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A triangular prism has triangle base 14 cm, perpendicular triangle height 8 cm and prism length 9 cm. Find its volume.",
     "answers": [
       {
-        "text": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
+        "text": "252 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "504 cm³",
         "is_correct": true
       },
       {
-        "text": "All three visible edges multiplied for a triangular prism",
+        "text": "1008 cm³",
         "is_correct": false
       },
       {
-        "text": "Find triangular area first",
-        "is_correct": false
-      },
-      {
-        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "text": "126 cm³",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
-      "hint": "Find triangular area first."
-    }
+      "summary": "Cross-section area=56 cm²; 56×9=504 cm³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-001"
   },
   {
-    "id": "ac9m7m02-t-002",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "test",
-    "skill": "check_dimensions_and_units",
-    "question": "A Year 7 student is solving a problem involving check dimensions and units. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving check dimensions and units. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A prism has volume 728 cm³ and length 14 cm. What is its cross-sectional area?",
     "answers": [
       {
-        "text": "Square units used for volume",
+        "text": "42 cm²",
         "is_correct": false
       },
       {
-        "text": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
+        "text": "52 cm²",
         "is_correct": true
       },
       {
-        "text": "Use cubic units",
+        "text": "56 cm²",
         "is_correct": false
       },
       {
-        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "text": "104 cm²",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
-      "hint": "Use cubic units."
-    }
+      "summary": "728÷14=52 cm².\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-002"
   },
   {
-    "id": "ac9m7m02-t-003",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "test",
-    "skill": "find_a_rectangular_prism_volume",
-    "question": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A rectangular prism has volume 960 cm³, width 8 cm and height 10 cm. Find its length.",
     "answers": [
       {
-        "text": "Prism length confused with triangle height",
+        "text": "10 cm",
         "is_correct": false
       },
       {
-        "text": "Label each perpendicular dimension",
-        "is_correct": false
-      },
-      {
-        "text": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
+        "text": "12 cm",
         "is_correct": true
       },
       {
-        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "text": "14 cm",
+        "is_correct": false
+      },
+      {
+        "text": "16 cm",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
-      "hint": "Label each perpendicular dimension."
-    }
+      "summary": "960÷(8×10)=12 cm.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-003"
   },
   {
-    "id": "ac9m7m02-t-004",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "test",
-    "skill": "find_a_triangular_prism_volume",
-    "question": "A Year 7 student is solving a problem involving find a triangular prism volume. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find a triangular prism volume. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m02",
+    "difficulty": "easy",
+    "question": "A triangular prism has volume 420 cm³ and length 10 cm. Its triangular base is 14 cm. Find the perpendicular height of the triangle.",
     "answers": [
       {
-        "text": "Capacity conversion guessed",
+        "text": "3 cm",
         "is_correct": false
       },
       {
-        "text": "Use 1 cm³=1 mL and 1 000 cm³=1 L",
-        "is_correct": false
-      },
-      {
-        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
-        "is_correct": false
-      },
-      {
-        "text": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+        "text": "6 cm",
         "is_correct": true
+      },
+      {
+        "text": "8 cm",
+        "is_correct": false
+      },
+      {
+        "text": "12 cm",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
-      "hint": "Use 1 cm³=1 mL and 1 000 cm³=1 L."
-    }
+      "summary": "Cross-section area=42; ½×14×h=42 gives h=6.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-004"
   },
   {
-    "id": "ac9m7m02-t-005",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "test",
-    "skill": "convert_cm_to_ml",
-    "question": "What should be checked when applying convert cm³ to ml in volume of right prisms?",
-    "audio_prompt": "What should be checked when applying convert cm³ to ml in volume of right prisms?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "Prism A has B=36 cm²,h=8 cm. Prism B has B=24 cm²,h=12 cm. Which statement is correct?",
     "answers": [
       {
-        "text": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
+        "text": "A is larger",
+        "is_correct": false
+      },
+      {
+        "text": "B is larger",
+        "is_correct": false
+      },
+      {
+        "text": "Volumes are equal",
         "is_correct": true
       },
       {
-        "text": "All three visible edges multiplied for a triangular prism",
-        "is_correct": false
-      },
-      {
-        "text": "Find triangular area first",
-        "is_correct": false
-      },
-      {
-        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "text": "Cannot tell",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Triangle cross-section ½×8×5=20 m²; length 12 m gives 240 m³",
-      "hint": "Find triangular area first."
-    }
+      "summary": "Both are 288 cm³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-005"
   },
   {
-    "id": "ac9m7m02-t-006",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "test",
-    "skill": "find_missing_length",
-    "question": "Which response best uses find missing length in volume of right prisms?",
-    "audio_prompt": "Which response best uses find missing length in volume of right prisms?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A prism's base area rises by 25% and its perpendicular length rises by 20%. By what percentage does volume change?",
     "answers": [
       {
-        "text": "Square units used for volume",
+        "text": "20%",
         "is_correct": false
       },
       {
-        "text": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
+        "text": "25%",
+        "is_correct": false
+      },
+      {
+        "text": "45%",
+        "is_correct": false
+      },
+      {
+        "text": "50%",
         "is_correct": true
-      },
-      {
-        "text": "Use cubic units",
-        "is_correct": false
-      },
-      {
-        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
-        "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "For a triangular prism first calculate A=½bh for the end face, then multiply by prism length.",
-      "hint": "Use cubic units."
-    }
+      "summary": "1.25×1.20=1.50, so volume rises 50%.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-006"
   },
   {
-    "id": "ac9m7m02-t-007",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "test",
-    "skill": "check_dimensions_and_units",
-    "question": "A Year 7 student is solving a problem involving check dimensions and units. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving check dimensions and units. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A tank has base area 3.6 m² and depth 1.5 m. What volume does it hold?",
     "answers": [
       {
-        "text": "Prism length confused with triangle height",
+        "text": "2.4 m³",
         "is_correct": false
       },
       {
-        "text": "Label each perpendicular dimension",
+        "text": "5.1 m³",
         "is_correct": false
       },
       {
-        "text": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
+        "text": "5.4 m³",
         "is_correct": true
       },
       {
-        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
+        "text": "7.2 m³",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Cross-sectional dimensions and prism length must use compatible units. Volume uses cubic units; capacity conversions depend on the unit relationship.",
-      "hint": "Label each perpendicular dimension."
-    }
+      "summary": "3.6×1.5=5.4 m³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-007"
   },
   {
-    "id": "ac9m7m02-t-008",
-    "curriculum_code": "AC9M7M02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
     "bank": "test",
-    "skill": "find_a_rectangular_prism_volume",
-    "question": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find a rectangular prism volume. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A 7.2 m³ tank is filled to 75% capacity. How much water is in it?",
     "answers": [
       {
-        "text": "Capacity conversion guessed",
+        "text": "1.8 m³",
         "is_correct": false
       },
       {
-        "text": "Use 1 cm³=1 mL and 1 000 cm³=1 L",
-        "is_correct": false
-      },
-      {
-        "text": "Solid with congruent parallel cross-sections joined perpendicularly",
-        "is_correct": false
-      },
-      {
-        "text": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
+        "text": "5.4 m³",
         "is_correct": true
+      },
+      {
+        "text": "6.0 m³",
+        "is_correct": false
+      },
+      {
+        "text": "9.6 m³",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "The volume of a right prism equals the area of its constant cross-section multiplied by the perpendicular length of the prism.",
-      "hint": "Use 1 cm³=1 mL and 1 000 cm³=1 L."
-    }
+      "summary": "0.75×7.2=5.4 m³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "test",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A prism has cross-sectional area 0.32 m² and length 250 cm. Find volume in m³.",
+    "answers": [
+      {
+        "text": "0.08",
+        "is_correct": false
+      },
+      {
+        "text": "0.8",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "80",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "250 cm=2.5 m; 0.32×2.5=0.8 m³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "test",
+    "skill": "ac9m7m02",
+    "difficulty": "medium",
+    "question": "A student uses surface area instead of cross-sectional area in V=Bh. Why is this wrong?",
+    "answers": [
+      {
+        "text": "Surface area includes all outside faces rather than one constant cross-section",
+        "is_correct": true
+      },
+      {
+        "text": "Surface area is always smaller",
+        "is_correct": false
+      },
+      {
+        "text": "Surface area has cubic units",
+        "is_correct": false
+      },
+      {
+        "text": "Volume never uses area",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "V=Bh requires one cross-sectional area, not total external area.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "test",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "If a prism is sheared while cross-sectional area and perpendicular separation remain fixed, which quantity definitely remains unchanged?",
+    "answers": [
+      {
+        "text": "Surface area",
+        "is_correct": false
+      },
+      {
+        "text": "Volume",
+        "is_correct": true
+      },
+      {
+        "text": "Slanted edge length",
+        "is_correct": false
+      },
+      {
+        "text": "Perimeter of side faces",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Volume remains Bh.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "test",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "A prism has B=45 cm² and h=16 cm. To keep volume constant while h increases to 20 cm, what must B become?",
+    "answers": [
+      {
+        "text": "36 cm²",
+        "is_correct": true
+      },
+      {
+        "text": "40 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "48 cm²",
+        "is_correct": false
+      },
+      {
+        "text": "56.25 cm²",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Original V=720; 720÷20=36 cm².\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "test",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "A building floor is 240 m² and each storey is 3.2 m high. Estimate the enclosed volume for 5 identical storeys.",
+    "answers": [
+      {
+        "text": "1200 m³",
+        "is_correct": false
+      },
+      {
+        "text": "3840 m³",
+        "is_correct": true
+      },
+      {
+        "text": "768 m³",
+        "is_correct": false
+      },
+      {
+        "text": "2400 m³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Total height=16 m; 240×16=3840 m³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "test",
+    "skill": "ac9m7m02",
+    "difficulty": "hard",
+    "question": "Which unit is appropriate for prism volume when all lengths are measured in millimetres?",
+    "answers": [
+      {
+        "text": "mm",
+        "is_correct": false
+      },
+      {
+        "text": "mm²",
+        "is_correct": false
+      },
+      {
+        "text": "mm³",
+        "is_correct": true
+      },
+      {
+        "text": "m³ only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Volume uses cubic units.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "test",
+    "skill": "ac9m7m02",
+    "difficulty": "super-hard",
+    "question": "A prism has volume 1500 cm³ and B=75 cm². If its length is reduced by 4 cm while B stays fixed, what is the new volume?",
+    "answers": [
+      {
+        "text": "900 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "1200 cm³",
+        "is_correct": true
+      },
+      {
+        "text": "1500 cm³",
+        "is_correct": false
+      },
+      {
+        "text": "1800 cm³",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Original h=20 cm; new h=16 cm; V=75×16=1200 cm³.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M02",
+    "bank": "test",
+    "skill": "ac9m7m02",
+    "difficulty": "super-hard",
+    "question": "A triangular prism and a rectangular prism both have length 20 cm and volume 1200 cm³. What must be true?",
+    "answers": [
+      {
+        "text": "They have equal cross-sectional areas",
+        "is_correct": true
+      },
+      {
+        "text": "They have equal perimeters",
+        "is_correct": false
+      },
+      {
+        "text": "They have equal side lengths",
+        "is_correct": false
+      },
+      {
+        "text": "They have identical shapes",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "B=V/h=60 cm² for both.\nHint: Use V = cross-sectional area × perpendicular prism length.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M02-T-016"
   }
 ]

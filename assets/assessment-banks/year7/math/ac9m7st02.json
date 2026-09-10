@@ -1,17 +1,12 @@
 [
   {
-    "id": "ac9m7st02-p-001",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "practice",
-    "skill": "construct_a_stem_plot",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Two groups can share median 47 while one has much greater range",
@@ -30,27 +25,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Two groups can share median 47 while one has much greater range",
-      "hint": "Ordering supports median and shape reading."
+      "summary": "Two groups can share median 47 while one has much greater range\nHint: Ordering supports median and shape reading.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7ST02-P-001"
   },
   {
-    "id": "ac9m7st02-p-002",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "practice",
-    "skill": "find_median_from_display",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving find median from display. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find median from display. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Key omitted",
@@ -69,27 +57,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Order leaves and include a key. The plot preserves original values and makes concentration, gaps and extremes visible.",
-      "hint": "Value scale becomes ambiguous."
+      "summary": "Order leaves and include a key. The plot preserves original values and makes concentration, gaps and extremes visible.\nHint: Value scale becomes ambiguous.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7ST02-P-002"
   },
   {
-    "id": "ac9m7st02-p-003",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "practice",
-    "skill": "compare_ranges",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving compare ranges. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving compare ranges. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Displays compared by tallest mark only",
@@ -108,27 +89,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Similar means or medians do not imply similar distributions. Use numerical summaries with visual evidence.",
-      "hint": "Use centre, spread, clusters, gaps and extremes."
+      "summary": "Similar means or medians do not imply similar distributions. Use numerical summaries with visual evidence.\nHint: Use centre, spread, clusters, gaps and extremes.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7ST02-P-003"
   },
   {
-    "id": "ac9m7st02-p-004",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "practice",
-    "skill": "describe_skew_cluster_gap",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving describe skew cluster gap. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving describe skew cluster gap. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Outlier removed automatically",
@@ -147,27 +121,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A useful display preserves individual values or grouped frequencies while making distribution features visible for the question.",
-      "hint": "Investigate validity and impact."
+      "summary": "A useful display preserves individual values or grouped frequencies while making distribution features visible for the question.\nHint: Investigate validity and impact.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7ST02-P-004"
   },
   {
-    "id": "ac9m7st02-p-005",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "practice",
-    "skill": "choose_an_effective_display",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
     "question": "Which statement correctly identifies stem-and-leaf plot in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which statement correctly identifies stem-and-leaf plot in numerical data displays and distribution comparison?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Two groups can share median 47 while one has much greater range",
@@ -186,28 +153,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Two groups can share median 47 while one has much greater range",
-      "hint": "Ordering supports median and shape reading."
+      "summary": "Two groups can share median 47 while one has much greater range\nHint: Ordering supports median and shape reading.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7ST02-P-005"
   },
   {
-    "id": "ac9m7st02-p-006",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "practice",
-    "skill": "construct_a_stem_plot",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
     "question": "Which choice best describes skew in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which choice best describes skew in numerical data displays and distribution comparison?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Key omitted",
@@ -226,28 +185,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Order leaves and include a key. The plot preserves original values and makes concentration, gaps and extremes visible.",
-      "hint": "Value scale becomes ambiguous."
+      "summary": "Order leaves and include a key. The plot preserves original values and makes concentration, gaps and extremes visible.\nHint: Value scale becomes ambiguous.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7ST02-P-006"
   },
   {
-    "id": "ac9m7st02-p-007",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "practice",
-    "skill": "find_median_from_display",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
     "question": "What does correct use require for distribution in numerical data displays and distribution comparison?",
-    "audio_prompt": "What does correct use require for distribution in numerical data displays and distribution comparison?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Displays compared by tallest mark only",
@@ -266,104 +217,1332 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Similar means or medians do not imply similar distributions. Use numerical summaries with visual evidence.",
-      "hint": "Use centre, spread, clusters, gaps and extremes."
+      "summary": "Similar means or medians do not imply similar distributions. Use numerical summaries with visual evidence.\nHint: Use centre, spread, clusters, gaps and extremes.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7ST02-P-007"
   },
   {
-    "id": "ac9m7st02-p-008",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "practice",
-    "skill": "compare_ranges",
-    "question": "A Year 7 student is solving a problem involving compare ranges. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving compare ranges. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
+    "question": "Display 1: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?",
     "answers": [
       {
-        "text": "Outlier removed automatically",
-        "is_correct": false
-      },
-      {
-        "text": "Investigate validity and impact",
-        "is_correct": false
-      },
-      {
-        "text": "Pattern of values across a variable",
-        "is_correct": false
-      },
-      {
-        "text": "A useful display preserves individual values or grouped frequencies while making distribution features visible for the question.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "A useful display preserves individual values or grouped frequencies while making distribution features visible for the question.",
-      "hint": "Investigate validity and impact."
-    },
-    "difficulty": 3,
-    "sequence_priority": 2
-  },
-  {
-    "id": "ac9m7st02-t-001",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
-    "subject": "math",
-    "bank": "test",
-    "skill": "describe_skew_cluster_gap",
-    "question": "A Year 7 student is solving a problem involving describe skew cluster gap. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving describe skew cluster gap. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Two groups can share median 47 while one has much greater range",
+        "text": "15",
         "is_correct": true
       },
       {
-        "text": "Leaves left unordered",
+        "text": "16",
         "is_correct": false
       },
       {
-        "text": "Ordering supports median and shape reading",
+        "text": "14",
         "is_correct": false
       },
       {
-        "text": "Pattern of values across a variable",
+        "text": "27",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Two groups can share median 47 while one has much greater range",
-      "hint": "Ordering supports median and shape reading."
-    }
+      "summary": "Range = maximum − minimum = 27 − 12 = 15.",
+      "hint": "Identify the smallest and largest values first."
+    },
+    "id": "AC9M7ST02-P-008"
   },
   {
-    "id": "ac9m7st02-t-002",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
+    "question": "Centre 2: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?",
+    "answers": [
+      {
+        "text": "35.5",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With 10 ordered values, median is the mean of the 5th and 6th values.",
+      "hint": "Order first, then locate the two middle positions."
+    },
+    "id": "AC9M7ST02-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
+    "question": "Stem-and-leaf 3: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?",
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "2.7",
+        "is_correct": false
+      },
+      {
+        "text": "207",
+        "is_correct": false
+      },
+      {
+        "text": "7.2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The stem gives tens and leaf gives ones, so 2|7 represents 27.",
+      "hint": "Read the stem as tens and leaf as ones."
+    },
+    "id": "AC9M7ST02-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
+    "question": "Outlier 4: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?",
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "66",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The largest value is separated furthest from the main cluster in this set.",
+      "hint": "Look for a value isolated from the cluster."
+    },
+    "id": "AC9M7ST02-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
+    "question": "Comparison 5: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?",
+    "answers": [
+      {
+        "text": "The centres match, but B is more spread out.",
+        "is_correct": true
+      },
+      {
+        "text": "A has the larger centre.",
+        "is_correct": false
+      },
+      {
+        "text": "B must have the larger mean.",
+        "is_correct": false
+      },
+      {
+        "text": "The distributions must be identical.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal medians indicate equal central position by that measure; the larger range indicates greater spread.",
+      "hint": "Compare centre and spread separately."
+    },
+    "id": "AC9M7ST02-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Choice 6: Why is a stem-and-leaf plot useful for a small numerical dataset?",
+    "answers": [
+      {
+        "text": "It shows the distribution while preserving individual data values.",
+        "is_correct": true
+      },
+      {
+        "text": "It is only for categorical data.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the original values.",
+        "is_correct": false
+      },
+      {
+        "text": "It always proves the mean is best.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Stem-and-leaf displays show shape, centre and spread while retaining exact observations.",
+      "hint": "Ask what information remains visible."
+    },
+    "id": "AC9M7ST02-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Display 7: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range = maximum − minimum = 27 − 12 = 15.",
+      "hint": "Identify the smallest and largest values first."
+    },
+    "id": "AC9M7ST02-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Centre 8: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?",
+    "answers": [
+      {
+        "text": "35.5",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With 10 ordered values, median is the mean of the 5th and 6th values.",
+      "hint": "Order first, then locate the two middle positions."
+    },
+    "id": "AC9M7ST02-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Stem-and-leaf 9: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?",
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "2.7",
+        "is_correct": false
+      },
+      {
+        "text": "207",
+        "is_correct": false
+      },
+      {
+        "text": "7.2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The stem gives tens and leaf gives ones, so 2|7 represents 27.",
+      "hint": "Read the stem as tens and leaf as ones."
+    },
+    "id": "AC9M7ST02-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Outlier 10: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?",
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "66",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The largest value is separated furthest from the main cluster in this set.",
+      "hint": "Look for a value isolated from the cluster."
+    },
+    "id": "AC9M7ST02-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Comparison 11: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?",
+    "answers": [
+      {
+        "text": "The centres match, but B is more spread out.",
+        "is_correct": true
+      },
+      {
+        "text": "A has the larger centre.",
+        "is_correct": false
+      },
+      {
+        "text": "B must have the larger mean.",
+        "is_correct": false
+      },
+      {
+        "text": "The distributions must be identical.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal medians indicate equal central position by that measure; the larger range indicates greater spread.",
+      "hint": "Compare centre and spread separately."
+    },
+    "id": "AC9M7ST02-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Choice 12: Why is a stem-and-leaf plot useful for a small numerical dataset?",
+    "answers": [
+      {
+        "text": "It shows the distribution while preserving individual data values.",
+        "is_correct": true
+      },
+      {
+        "text": "It is only for categorical data.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the original values.",
+        "is_correct": false
+      },
+      {
+        "text": "It always proves the mean is best.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Stem-and-leaf displays show shape, centre and spread while retaining exact observations.",
+      "hint": "Ask what information remains visible."
+    },
+    "id": "AC9M7ST02-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Display 13: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range = maximum − minimum = 27 − 12 = 15.",
+      "hint": "Identify the smallest and largest values first."
+    },
+    "id": "AC9M7ST02-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Centre 14: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?",
+    "answers": [
+      {
+        "text": "35.5",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With 10 ordered values, median is the mean of the 5th and 6th values.",
+      "hint": "Order first, then locate the two middle positions."
+    },
+    "id": "AC9M7ST02-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Stem-and-leaf 15: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?",
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "2.7",
+        "is_correct": false
+      },
+      {
+        "text": "207",
+        "is_correct": false
+      },
+      {
+        "text": "7.2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The stem gives tens and leaf gives ones, so 2|7 represents 27.",
+      "hint": "Read the stem as tens and leaf as ones."
+    },
+    "id": "AC9M7ST02-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Outlier 16: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?",
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "66",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The largest value is separated furthest from the main cluster in this set.",
+      "hint": "Look for a value isolated from the cluster."
+    },
+    "id": "AC9M7ST02-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Comparison 17: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?",
+    "answers": [
+      {
+        "text": "The centres match, but B is more spread out.",
+        "is_correct": true
+      },
+      {
+        "text": "A has the larger centre.",
+        "is_correct": false
+      },
+      {
+        "text": "B must have the larger mean.",
+        "is_correct": false
+      },
+      {
+        "text": "The distributions must be identical.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal medians indicate equal central position by that measure; the larger range indicates greater spread.",
+      "hint": "Compare centre and spread separately."
+    },
+    "id": "AC9M7ST02-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Choice 18: Why is a stem-and-leaf plot useful for a small numerical dataset?",
+    "answers": [
+      {
+        "text": "It shows the distribution while preserving individual data values.",
+        "is_correct": true
+      },
+      {
+        "text": "It is only for categorical data.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the original values.",
+        "is_correct": false
+      },
+      {
+        "text": "It always proves the mean is best.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Stem-and-leaf displays show shape, centre and spread while retaining exact observations.",
+      "hint": "Ask what information remains visible."
+    },
+    "id": "AC9M7ST02-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Display 19: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range = maximum − minimum = 27 − 12 = 15.",
+      "hint": "Identify the smallest and largest values first."
+    },
+    "id": "AC9M7ST02-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Centre 20: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?",
+    "answers": [
+      {
+        "text": "35.5",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With 10 ordered values, median is the mean of the 5th and 6th values.",
+      "hint": "Order first, then locate the two middle positions."
+    },
+    "id": "AC9M7ST02-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Stem-and-leaf 21: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?",
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "2.7",
+        "is_correct": false
+      },
+      {
+        "text": "207",
+        "is_correct": false
+      },
+      {
+        "text": "7.2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The stem gives tens and leaf gives ones, so 2|7 represents 27.",
+      "hint": "Read the stem as tens and leaf as ones."
+    },
+    "id": "AC9M7ST02-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Outlier 22: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?",
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "66",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The largest value is separated furthest from the main cluster in this set.",
+      "hint": "Look for a value isolated from the cluster."
+    },
+    "id": "AC9M7ST02-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Comparison 23: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?",
+    "answers": [
+      {
+        "text": "The centres match, but B is more spread out.",
+        "is_correct": true
+      },
+      {
+        "text": "A has the larger centre.",
+        "is_correct": false
+      },
+      {
+        "text": "B must have the larger mean.",
+        "is_correct": false
+      },
+      {
+        "text": "The distributions must be identical.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal medians indicate equal central position by that measure; the larger range indicates greater spread.",
+      "hint": "Compare centre and spread separately."
+    },
+    "id": "AC9M7ST02-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Choice 24: Why is a stem-and-leaf plot useful for a small numerical dataset?",
+    "answers": [
+      {
+        "text": "It shows the distribution while preserving individual data values.",
+        "is_correct": true
+      },
+      {
+        "text": "It is only for categorical data.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the original values.",
+        "is_correct": false
+      },
+      {
+        "text": "It always proves the mean is best.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Stem-and-leaf displays show shape, centre and spread while retaining exact observations.",
+      "hint": "Ask what information remains visible."
+    },
+    "id": "AC9M7ST02-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Display 25: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range = maximum − minimum = 27 − 12 = 15.",
+      "hint": "Identify the smallest and largest values first."
+    },
+    "id": "AC9M7ST02-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Centre 26: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?",
+    "answers": [
+      {
+        "text": "35.5",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With 10 ordered values, median is the mean of the 5th and 6th values.",
+      "hint": "Order first, then locate the two middle positions."
+    },
+    "id": "AC9M7ST02-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Stem-and-leaf 27: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?",
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "2.7",
+        "is_correct": false
+      },
+      {
+        "text": "207",
+        "is_correct": false
+      },
+      {
+        "text": "7.2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The stem gives tens and leaf gives ones, so 2|7 represents 27.",
+      "hint": "Read the stem as tens and leaf as ones."
+    },
+    "id": "AC9M7ST02-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Outlier 28: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?",
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "66",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The largest value is separated furthest from the main cluster in this set.",
+      "hint": "Look for a value isolated from the cluster."
+    },
+    "id": "AC9M7ST02-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Comparison 29: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?",
+    "answers": [
+      {
+        "text": "The centres match, but B is more spread out.",
+        "is_correct": true
+      },
+      {
+        "text": "A has the larger centre.",
+        "is_correct": false
+      },
+      {
+        "text": "B must have the larger mean.",
+        "is_correct": false
+      },
+      {
+        "text": "The distributions must be identical.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal medians indicate equal central position by that measure; the larger range indicates greater spread.",
+      "hint": "Compare centre and spread separately."
+    },
+    "id": "AC9M7ST02-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Choice 30: Why is a stem-and-leaf plot useful for a small numerical dataset?",
+    "answers": [
+      {
+        "text": "It shows the distribution while preserving individual data values.",
+        "is_correct": true
+      },
+      {
+        "text": "It is only for categorical data.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the original values.",
+        "is_correct": false
+      },
+      {
+        "text": "It always proves the mean is best.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Stem-and-leaf displays show shape, centre and spread while retaining exact observations.",
+      "hint": "Ask what information remains visible."
+    },
+    "id": "AC9M7ST02-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Display 31: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range = maximum − minimum = 27 − 12 = 15.",
+      "hint": "Identify the smallest and largest values first."
+    },
+    "id": "AC9M7ST02-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Centre 32: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?",
+    "answers": [
+      {
+        "text": "35.5",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With 10 ordered values, median is the mean of the 5th and 6th values.",
+      "hint": "Order first, then locate the two middle positions."
+    },
+    "id": "AC9M7ST02-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Stem-and-leaf 33: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?",
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "2.7",
+        "is_correct": false
+      },
+      {
+        "text": "207",
+        "is_correct": false
+      },
+      {
+        "text": "7.2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The stem gives tens and leaf gives ones, so 2|7 represents 27.",
+      "hint": "Read the stem as tens and leaf as ones."
+    },
+    "id": "AC9M7ST02-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Outlier 34: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?",
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "66",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The largest value is separated furthest from the main cluster in this set.",
+      "hint": "Look for a value isolated from the cluster."
+    },
+    "id": "AC9M7ST02-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Comparison 35: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?",
+    "answers": [
+      {
+        "text": "The centres match, but B is more spread out.",
+        "is_correct": true
+      },
+      {
+        "text": "A has the larger centre.",
+        "is_correct": false
+      },
+      {
+        "text": "B must have the larger mean.",
+        "is_correct": false
+      },
+      {
+        "text": "The distributions must be identical.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal medians indicate equal central position by that measure; the larger range indicates greater spread.",
+      "hint": "Compare centre and spread separately."
+    },
+    "id": "AC9M7ST02-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "super-hard",
+    "question": "Choice 36: Why is a stem-and-leaf plot useful for a small numerical dataset?",
+    "answers": [
+      {
+        "text": "It shows the distribution while preserving individual data values.",
+        "is_correct": true
+      },
+      {
+        "text": "It is only for categorical data.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the original values.",
+        "is_correct": false
+      },
+      {
+        "text": "It always proves the mean is best.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Stem-and-leaf displays show shape, centre and spread while retaining exact observations.",
+      "hint": "Ask what information remains visible."
+    },
+    "id": "AC9M7ST02-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "super-hard",
+    "question": "Display 37: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range = maximum − minimum = 27 − 12 = 15.",
+      "hint": "Identify the smallest and largest values first."
+    },
+    "id": "AC9M7ST02-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "super-hard",
+    "question": "Centre 38: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?",
+    "answers": [
+      {
+        "text": "35.5",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With 10 ordered values, median is the mean of the 5th and 6th values.",
+      "hint": "Order first, then locate the two middle positions."
+    },
+    "id": "AC9M7ST02-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "super-hard",
+    "question": "Stem-and-leaf 39: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?",
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "2.7",
+        "is_correct": false
+      },
+      {
+        "text": "207",
+        "is_correct": false
+      },
+      {
+        "text": "7.2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The stem gives tens and leaf gives ones, so 2|7 represents 27.",
+      "hint": "Read the stem as tens and leaf as ones."
+    },
+    "id": "AC9M7ST02-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "super-hard",
+    "question": "Outlier 40: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?",
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "66",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The largest value is separated furthest from the main cluster in this set.",
+      "hint": "Look for a value isolated from the cluster."
+    },
+    "id": "AC9M7ST02-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "practice",
+    "skill": "ac9m7st02",
+    "difficulty": "super-hard",
+    "question": "Comparison 41: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?",
+    "answers": [
+      {
+        "text": "The centres match, but B is more spread out.",
+        "is_correct": true
+      },
+      {
+        "text": "A has the larger centre.",
+        "is_correct": false
+      },
+      {
+        "text": "B must have the larger mean.",
+        "is_correct": false
+      },
+      {
+        "text": "The distributions must be identical.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal medians indicate equal central position by that measure; the larger range indicates greater spread.",
+      "hint": "Compare centre and spread separately."
+    },
+    "id": "AC9M7ST02-P-048"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "test",
-    "skill": "choose_an_effective_display",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
     "question": "A Year 7 student is solving a problem involving choose an effective display. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving choose an effective display. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Key omitted",
@@ -382,99 +1561,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Order leaves and include a key. The plot preserves original values and makes concentration, gaps and extremes visible.",
-      "hint": "Value scale becomes ambiguous."
-    }
-  },
-  {
-    "id": "ac9m7st02-t-003",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
-    "subject": "math",
-    "bank": "test",
-    "skill": "construct_a_stem_plot",
-    "question": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "Order leaves and include a key. The plot preserves original values and makes concentration, gaps and extremes visible.\nHint: Value scale becomes ambiguous.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "answers": [
-      {
-        "text": "Displays compared by tallest mark only",
-        "is_correct": false
-      },
-      {
-        "text": "Use centre, spread, clusters, gaps and extremes",
-        "is_correct": false
-      },
-      {
-        "text": "Similar means or medians do not imply similar distributions. Use numerical summaries with visual evidence.",
-        "is_correct": true
-      },
-      {
-        "text": "Pattern of values across a variable",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Similar means or medians do not imply similar distributions. Use numerical summaries with visual evidence.",
-      "hint": "Use centre, spread, clusters, gaps and extremes."
-    }
+    "id": "AC9M7ST02-T-001"
   },
   {
-    "id": "ac9m7st02-t-004",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "find_median_from_display",
-    "question": "A Year 7 student is solving a problem involving find median from display. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find median from display. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Outlier removed automatically",
-        "is_correct": false
-      },
-      {
-        "text": "Investigate validity and impact",
-        "is_correct": false
-      },
-      {
-        "text": "Pattern of values across a variable",
-        "is_correct": false
-      },
-      {
-        "text": "A useful display preserves individual values or grouped frequencies while making distribution features visible for the question.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 3,
-    "explanation": {
-      "summary": "A useful display preserves individual values or grouped frequencies while making distribution features visible for the question.",
-      "hint": "Investigate validity and impact."
-    }
-  },
-  {
-    "id": "ac9m7st02-t-005",
-    "curriculum_code": "AC9M7ST02",
     "year_level": "Year 7",
-    "subject": "math",
+    "curriculum_code": "AC9M7ST02",
     "bank": "test",
-    "skill": "compare_ranges",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
     "question": "What should be checked when applying compare ranges in numerical data displays and distribution comparison?",
-    "audio_prompt": "What should be checked when applying compare ranges in numerical data displays and distribution comparison?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Two groups can share median 47 while one has much greater range",
@@ -493,25 +1593,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Two groups can share median 47 while one has much greater range",
-      "hint": "Ordering supports median and shape reading."
-    }
+      "summary": "Two groups can share median 47 while one has much greater range\nHint: Ordering supports median and shape reading.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST02-T-002"
   },
   {
-    "id": "ac9m7st02-t-006",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "test",
-    "skill": "describe_skew_cluster_gap",
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
     "question": "Which response best uses describe skew/cluster/gap in numerical data displays and distribution comparison?",
-    "audio_prompt": "Which response best uses describe skew/cluster/gap in numerical data displays and distribution comparison?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Key omitted",
@@ -530,84 +1625,426 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Order leaves and include a key. The plot preserves original values and makes concentration, gaps and extremes visible.",
-      "hint": "Value scale becomes ambiguous."
-    }
+      "summary": "Order leaves and include a key. The plot preserves original values and makes concentration, gaps and extremes visible.\nHint: Value scale becomes ambiguous.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST02-T-003"
   },
   {
-    "id": "ac9m7st02-t-007",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "test",
-    "skill": "choose_an_effective_display",
-    "question": "A Year 7 student is solving a problem involving choose an effective display. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving choose an effective display. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st02",
+    "difficulty": "easy",
+    "question": "Assessment 1: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?",
     "answers": [
       {
-        "text": "Displays compared by tallest mark only",
-        "is_correct": false
-      },
-      {
-        "text": "Use centre, spread, clusters, gaps and extremes",
-        "is_correct": false
-      },
-      {
-        "text": "Similar means or medians do not imply similar distributions. Use numerical summaries with visual evidence.",
+        "text": "15",
         "is_correct": true
       },
       {
-        "text": "Pattern of values across a variable",
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "27",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Similar means or medians do not imply similar distributions. Use numerical summaries with visual evidence.",
-      "hint": "Use centre, spread, clusters, gaps and extremes."
-    }
+      "summary": "Range = maximum − minimum = 27 − 12 = 15.",
+      "hint": "Identify the smallest and largest values first."
+    },
+    "id": "AC9M7ST02-T-004"
   },
   {
-    "id": "ac9m7st02-t-008",
-    "curriculum_code": "AC9M7ST02",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
     "bank": "test",
-    "skill": "construct_a_stem_plot",
-    "question": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving construct a stem plot. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Assessment 2: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?",
     "answers": [
       {
-        "text": "Outlier removed automatically",
-        "is_correct": false
-      },
-      {
-        "text": "Investigate validity and impact",
-        "is_correct": false
-      },
-      {
-        "text": "Pattern of values across a variable",
-        "is_correct": false
-      },
-      {
-        "text": "A useful display preserves individual values or grouped frequencies while making distribution features visible for the question.",
+        "text": "35.5",
         "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A useful display preserves individual values or grouped frequencies while making distribution features visible for the question.",
-      "hint": "Investigate validity and impact."
-    }
+      "summary": "With 10 ordered values, median is the mean of the 5th and 6th values.",
+      "hint": "Order first, then locate the two middle positions."
+    },
+    "id": "AC9M7ST02-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Assessment 3: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?",
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "2.7",
+        "is_correct": false
+      },
+      {
+        "text": "207",
+        "is_correct": false
+      },
+      {
+        "text": "7.2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The stem gives tens and leaf gives ones, so 2|7 represents 27.",
+      "hint": "Read the stem as tens and leaf as ones."
+    },
+    "id": "AC9M7ST02-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Assessment 4: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?",
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "66",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The largest value is separated furthest from the main cluster in this set.",
+      "hint": "Look for a value isolated from the cluster."
+    },
+    "id": "AC9M7ST02-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Assessment 5: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?",
+    "answers": [
+      {
+        "text": "The centres match, but B is more spread out.",
+        "is_correct": true
+      },
+      {
+        "text": "A has the larger centre.",
+        "is_correct": false
+      },
+      {
+        "text": "B must have the larger mean.",
+        "is_correct": false
+      },
+      {
+        "text": "The distributions must be identical.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal medians indicate equal central position by that measure; the larger range indicates greater spread.",
+      "hint": "Compare centre and spread separately."
+    },
+    "id": "AC9M7ST02-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Assessment 6: Why is a stem-and-leaf plot useful for a small numerical dataset?",
+    "answers": [
+      {
+        "text": "It shows the distribution while preserving individual data values.",
+        "is_correct": true
+      },
+      {
+        "text": "It is only for categorical data.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the original values.",
+        "is_correct": false
+      },
+      {
+        "text": "It always proves the mean is best.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Stem-and-leaf displays show shape, centre and spread while retaining exact observations.",
+      "hint": "Ask what information remains visible."
+    },
+    "id": "AC9M7ST02-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "medium",
+    "question": "Assessment 7: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range = maximum − minimum = 27 − 12 = 15.",
+      "hint": "Identify the smallest and largest values first."
+    },
+    "id": "AC9M7ST02-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Assessment 8: For data 31, 32, 32, 34, 35, 36, 38, 41, 42, 45, what is the median?",
+    "answers": [
+      {
+        "text": "35.5",
+        "is_correct": true
+      },
+      {
+        "text": "35",
+        "is_correct": false
+      },
+      {
+        "text": "36",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "With 10 ordered values, median is the mean of the 5th and 6th values.",
+      "hint": "Order first, then locate the two middle positions."
+    },
+    "id": "AC9M7ST02-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Assessment 9: In a stem-and-leaf plot of 8, 9, 11, 11, 12, 14, 15, 18, 20, 27, what does key 2|7 mean?",
+    "answers": [
+      {
+        "text": "27",
+        "is_correct": true
+      },
+      {
+        "text": "2.7",
+        "is_correct": false
+      },
+      {
+        "text": "207",
+        "is_correct": false
+      },
+      {
+        "text": "7.2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The stem gives tens and leaf gives ones, so 2|7 represents 27.",
+      "hint": "Read the stem as tens and leaf as ones."
+    },
+    "id": "AC9M7ST02-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Assessment 10: Which value in 44, 45, 46, 47, 48, 48, 49, 50, 51, 65 is most likely to be investigated as an outlier?",
+    "answers": [
+      {
+        "text": "65",
+        "is_correct": true
+      },
+      {
+        "text": "44",
+        "is_correct": false
+      },
+      {
+        "text": "48",
+        "is_correct": false
+      },
+      {
+        "text": "66",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The largest value is separated furthest from the main cluster in this set.",
+      "hint": "Look for a value isolated from the cluster."
+    },
+    "id": "AC9M7ST02-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "hard",
+    "question": "Assessment 11: Dataset A has median 24 and range 16; dataset B has the same median but range 24. Which statement is best?",
+    "answers": [
+      {
+        "text": "The centres match, but B is more spread out.",
+        "is_correct": true
+      },
+      {
+        "text": "A has the larger centre.",
+        "is_correct": false
+      },
+      {
+        "text": "B must have the larger mean.",
+        "is_correct": false
+      },
+      {
+        "text": "The distributions must be identical.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal medians indicate equal central position by that measure; the larger range indicates greater spread.",
+      "hint": "Compare centre and spread separately."
+    },
+    "id": "AC9M7ST02-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "super-hard",
+    "question": "Assessment 12: Why is a stem-and-leaf plot useful for a small numerical dataset?",
+    "answers": [
+      {
+        "text": "It shows the distribution while preserving individual data values.",
+        "is_correct": true
+      },
+      {
+        "text": "It is only for categorical data.",
+        "is_correct": false
+      },
+      {
+        "text": "It hides the original values.",
+        "is_correct": false
+      },
+      {
+        "text": "It always proves the mean is best.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Stem-and-leaf displays show shape, centre and spread while retaining exact observations.",
+      "hint": "Ask what information remains visible."
+    },
+    "id": "AC9M7ST02-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST02",
+    "bank": "test",
+    "skill": "ac9m7st02",
+    "difficulty": "super-hard",
+    "question": "Assessment 13: For data 12, 13, 15, 17, 18, 21, 22, 24, 25, 27, what is the range?",
+    "answers": [
+      {
+        "text": "15",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      },
+      {
+        "text": "27",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Range = maximum − minimum = 27 − 12 = 15.",
+      "hint": "Identify the smallest and largest values first."
+    },
+    "id": "AC9M7ST02-T-016"
   }
 ]

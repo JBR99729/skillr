@@ -1,613 +1,2050 @@
 [
   {
-    "id": "ac9m7st03-p-001",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
     "bank": "practice",
-    "skill": "write_a_statistical_question",
-    "question": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "What is the first step in a statistical investigation?",
     "answers": [
       {
-        "text": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+        "text": "Plan a clear question",
         "is_correct": true
       },
       {
-        "text": "Large sample assumed unbiased",
+        "text": "Collect data immediately",
         "is_correct": false
       },
       {
-        "text": "A large biased sample remains biased",
+        "text": "Calculate the mean",
         "is_correct": false
       },
       {
-        "text": "Complete group of interest",
+        "text": "Write the conclusion",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
-      "hint": "A large biased sample remains biased."
+      "summary": "A good investigation begins with a clear question.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7ST03-P-001"
   },
   {
-    "id": "ac9m7st03-p-002",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
     "bank": "practice",
-    "skill": "define_population_sample",
-    "question": "A Year 7 student is solving a problem involving define population sample. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving define population sample. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "Which is the strongest investigation question?",
     "answers": [
       {
-        "text": "Population and sample interchanged",
-        "is_correct": false
-      },
-      {
-        "text": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+        "text": "Do teenagers have faster reaction times than adults?",
         "is_correct": true
       },
       {
-        "text": "The sample provides evidence about the population",
+        "text": "Is maths hard?",
         "is_correct": false
       },
       {
-        "text": "Complete group of interest",
+        "text": "Why are people different?",
+        "is_correct": false
+      },
+      {
+        "text": "Is sport good?",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
-      "hint": "The sample provides evidence about the population."
+      "summary": "It identifies groups and a measurable variable.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7ST03-P-002"
   },
   {
-    "id": "ac9m7st03-p-003",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
     "bank": "practice",
-    "skill": "compare_sampling_methods",
-    "question": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "Reaction time is usually:",
     "answers": [
       {
-        "text": "Nonresponse ignored",
-        "is_correct": false
-      },
-      {
-        "text": "Missing responses may differ systematically",
-        "is_correct": false
-      },
-      {
-        "text": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+        "text": "continuous numerical data",
         "is_correct": true
       },
       {
-        "text": "Complete group of interest",
+        "text": "discrete count data",
+        "is_correct": false
+      },
+      {
+        "text": "categorical data",
+        "is_correct": false
+      },
+      {
+        "text": "binary data",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
-      "hint": "Missing responses may differ systematically."
+      "summary": "Reaction time is measured on a continuous scale.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7ST03-P-003"
   },
   {
-    "id": "ac9m7st03-p-004",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
     "bank": "practice",
-    "skill": "analyse_distribution",
-    "question": "A Year 7 student is solving a problem involving analyse distribution. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving analyse distribution. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "Number of successful robot-arm lifts is:",
     "answers": [
       {
-        "text": "Causal claim from observational data",
-        "is_correct": false
-      },
-      {
-        "text": "Limit to association unless design supports cause",
-        "is_correct": false
-      },
-      {
-        "text": "Complete group of interest",
-        "is_correct": false
-      },
-      {
-        "text": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+        "text": "discrete numerical data",
         "is_correct": true
+      },
+      {
+        "text": "continuous data",
+        "is_correct": false
+      },
+      {
+        "text": "categorical data",
+        "is_correct": false
+      },
+      {
+        "text": "secondary data only",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
-      "hint": "Limit to association unless design supports cause."
+      "summary": "It is a count.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7ST03-P-004"
   },
   {
-    "id": "ac9m7st03-p-005",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
     "bank": "practice",
-    "skill": "write_a_limited_conclusion",
-    "question": "Which statement correctly identifies sample in statistical investigations and sampling?",
-    "audio_prompt": "Which statement correctly identifies sample in statistical investigations and sampling?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "Which type of data is obtained by measurement?",
     "answers": [
       {
-        "text": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+        "text": "continuous",
         "is_correct": true
       },
       {
-        "text": "Large sample assumed unbiased",
+        "text": "discrete",
         "is_correct": false
       },
       {
-        "text": "A large biased sample remains biased",
+        "text": "nominal only",
         "is_correct": false
       },
       {
-        "text": "Complete group of interest",
+        "text": "binary only",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
-      "hint": "A large biased sample remains biased."
+      "summary": "Measurements such as time, height and temperature are continuous.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7ST03-P-005"
   },
   {
-    "id": "ac9m7st03-p-006",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
     "bank": "practice",
-    "skill": "write_a_statistical_question",
-    "question": "Which choice best describes sampling bias in statistical investigations and sampling?",
-    "audio_prompt": "Which choice best describes sampling bias in statistical investigations and sampling?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "Which variable is discrete?",
     "answers": [
       {
-        "text": "Population and sample interchanged",
-        "is_correct": false
-      },
-      {
-        "text": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+        "text": "number of goals",
         "is_correct": true
       },
       {
-        "text": "The sample provides evidence about the population",
+        "text": "height",
         "is_correct": false
       },
       {
-        "text": "Complete group of interest",
+        "text": "temperature",
+        "is_correct": false
+      },
+      {
+        "text": "reaction time",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
-      "hint": "The sample provides evidence about the population."
+      "summary": "Goals are counted in whole numbers.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7ST03-P-006"
   },
   {
-    "id": "ac9m7st03-p-007",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
     "bank": "practice",
-    "skill": "define_population_sample",
-    "question": "What does correct use require for population in statistical investigations and sampling?",
-    "audio_prompt": "What does correct use require for population in statistical investigations and sampling?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "Which variable is continuous?",
     "answers": [
       {
-        "text": "Nonresponse ignored",
-        "is_correct": false
-      },
-      {
-        "text": "Missing responses may differ systematically",
-        "is_correct": false
-      },
-      {
-        "text": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+        "text": "height in cm",
         "is_correct": true
       },
       {
-        "text": "Complete group of interest",
+        "text": "number of pets",
+        "is_correct": false
+      },
+      {
+        "text": "number of siblings",
+        "is_correct": false
+      },
+      {
+        "text": "number of attempts",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
-      "hint": "Missing responses may differ systematically."
+      "summary": "Height is measured on a continuum.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7ST03-P-007"
   },
   {
-    "id": "ac9m7st03-p-008",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
     "bank": "practice",
-    "skill": "compare_sampling_methods",
-    "question": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving compare sampling methods. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "A survey response on a 1–5 agreement scale is best described as:",
     "answers": [
       {
-        "text": "Causal claim from observational data",
-        "is_correct": false
-      },
-      {
-        "text": "Limit to association unless design supports cause",
-        "is_correct": false
-      },
-      {
-        "text": "Complete group of interest",
-        "is_correct": false
-      },
-      {
-        "text": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+        "text": "ordinal data",
         "is_correct": true
+      },
+      {
+        "text": "continuous data",
+        "is_correct": false
+      },
+      {
+        "text": "ratio measurement only",
+        "is_correct": false
+      },
+      {
+        "text": "a physical measurement",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
-      "hint": "Limit to association unless design supports cause."
+      "summary": "The categories have an order but equal spacing is not guaranteed.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7ST03-P-008"
   },
   {
-    "id": "ac9m7st03-t-001",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "analyse_distribution",
-    "question": "A Year 7 student is solving a problem involving analyse distribution. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving analyse distribution. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "Which is an example of secondary data?",
     "answers": [
       {
-        "text": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+        "text": "a published national survey",
         "is_correct": true
       },
       {
-        "text": "Large sample assumed unbiased",
+        "text": "your own reaction-time measurements",
         "is_correct": false
       },
       {
-        "text": "A large biased sample remains biased",
+        "text": "your own robot tests",
         "is_correct": false
       },
       {
-        "text": "Complete group of interest",
+        "text": "a class survey you conduct",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
-      "hint": "A large biased sample remains biased."
-    }
+      "summary": "Secondary data were collected previously by another source.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-009"
   },
   {
-    "id": "ac9m7st03-t-002",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "write_a_limited_conclusion",
-    "question": "A Year 7 student is solving a problem involving write a limited conclusion. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving write a limited conclusion. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "A good investigation plan should identify:",
     "answers": [
       {
-        "text": "Population and sample interchanged",
-        "is_correct": false
-      },
-      {
-        "text": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+        "text": "question, variables, data source and method",
         "is_correct": true
       },
       {
-        "text": "The sample provides evidence about the population",
+        "text": "the answer in advance",
         "is_correct": false
       },
       {
-        "text": "Complete group of interest",
+        "text": "only the mean",
+        "is_correct": false
+      },
+      {
+        "text": "only the graph type",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
-      "hint": "The sample provides evidence about the population."
-    }
+      "summary": "Planning should specify what will be investigated and how evidence will be collected.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-010"
   },
   {
-    "id": "ac9m7st03-t-003",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "write_a_statistical_question",
-    "question": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "What does the mean describe?",
     "answers": [
       {
-        "text": "Nonresponse ignored",
-        "is_correct": false
-      },
-      {
-        "text": "Missing responses may differ systematically",
-        "is_correct": false
-      },
-      {
-        "text": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+        "text": "arithmetic centre",
         "is_correct": true
       },
       {
-        "text": "Complete group of interest",
+        "text": "largest value",
+        "is_correct": false
+      },
+      {
+        "text": "spread only",
+        "is_correct": false
+      },
+      {
+        "text": "most frequent category",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
-      "hint": "Missing responses may differ systematically."
-    }
+      "summary": "Mean is the arithmetic average.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-011"
   },
   {
-    "id": "ac9m7st03-t-004",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "define_population_sample",
-    "question": "A Year 7 student is solving a problem involving define population sample. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving define population sample. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "What does the median describe?",
     "answers": [
       {
-        "text": "Causal claim from observational data",
-        "is_correct": false
-      },
-      {
-        "text": "Limit to association unless design supports cause",
-        "is_correct": false
-      },
-      {
-        "text": "Complete group of interest",
-        "is_correct": false
-      },
-      {
-        "text": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+        "text": "middle ordered value",
         "is_correct": true
+      },
+      {
+        "text": "sum divided by count",
+        "is_correct": false
+      },
+      {
+        "text": "maximum minus minimum",
+        "is_correct": false
+      },
+      {
+        "text": "most frequent value",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
-      "hint": "Limit to association unless design supports cause."
-    }
+      "summary": "Median is based on ordered position.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-012"
   },
   {
-    "id": "ac9m7st03-t-005",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "compare_sampling_methods",
-    "question": "What should be checked when applying compare sampling methods in statistical investigations and sampling?",
-    "audio_prompt": "What should be checked when applying compare sampling methods in statistical investigations and sampling?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "What does the mode describe?",
     "answers": [
       {
-        "text": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
+        "text": "most frequent value or category",
         "is_correct": true
       },
       {
-        "text": "Large sample assumed unbiased",
+        "text": "middle value",
         "is_correct": false
       },
       {
-        "text": "A large biased sample remains biased",
+        "text": "arithmetic average",
         "is_correct": false
       },
       {
-        "text": "Complete group of interest",
+        "text": "range",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Surveying only sports-club members cannot represent all Year 7 activity levels without qualification",
-      "hint": "A large biased sample remains biased."
-    }
+      "summary": "Mode identifies the most common observation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-013"
   },
   {
-    "id": "ac9m7st03-t-006",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "analyse_distribution",
-    "question": "Which response best uses analyse distribution in statistical investigations and sampling?",
-    "audio_prompt": "Which response best uses analyse distribution in statistical investigations and sampling?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "What does the range describe?",
     "answers": [
       {
-        "text": "Population and sample interchanged",
-        "is_correct": false
-      },
-      {
-        "text": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
+        "text": "maximum-to-minimum spread",
         "is_correct": true
       },
       {
-        "text": "The sample provides evidence about the population",
+        "text": "middle position",
         "is_correct": false
       },
       {
-        "text": "Complete group of interest",
+        "text": "average",
+        "is_correct": false
+      },
+      {
+        "text": "frequency",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "A convenience sample may be practical but not representative. Random or systematic methods reduce some selection bias when implemented properly.",
-      "hint": "The sample provides evidence about the population."
-    }
+      "summary": "Range = maximum − minimum.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-014"
   },
   {
-    "id": "ac9m7st03-t-007",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "write_a_limited_conclusion",
-    "question": "A Year 7 student is solving a problem involving write a limited conclusion. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving write a limited conclusion. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "Which statistic is usually most affected by an extreme outlier?",
     "answers": [
       {
-        "text": "Nonresponse ignored",
-        "is_correct": false
-      },
-      {
-        "text": "Missing responses may differ systematically",
-        "is_correct": false
-      },
-      {
-        "text": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
+        "text": "mean",
         "is_correct": true
       },
       {
-        "text": "Complete group of interest",
+        "text": "median",
+        "is_correct": false
+      },
+      {
+        "text": "mode",
+        "is_correct": false
+      },
+      {
+        "text": "none",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "State who was sampled, response rate and whether conclusions generalise. Association within a sample is not automatically causal.",
-      "hint": "Missing responses may differ systematically."
-    }
+      "summary": "The mean uses every value's magnitude.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-015"
   },
   {
-    "id": "ac9m7st03-t-008",
-    "curriculum_code": "AC9M7ST03",
-    "year_level": "Year 7",
     "subject": "math",
-    "bank": "test",
-    "skill": "write_a_statistical_question",
-    "question": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving write a statistical question. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "A symmetric distribution commonly has:",
     "answers": [
       {
-        "text": "Causal claim from observational data",
-        "is_correct": false
-      },
-      {
-        "text": "Limit to association unless design supports cause",
-        "is_correct": false
-      },
-      {
-        "text": "Complete group of interest",
-        "is_correct": false
-      },
-      {
-        "text": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
+        "text": "mean close to median",
         "is_correct": true
+      },
+      {
+        "text": "mean much greater than median",
+        "is_correct": false
+      },
+      {
+        "text": "mean much less than median",
+        "is_correct": false
+      },
+      {
+        "text": "two peaks necessarily",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "A statistical investigation links a question, population, sample, variable, collection method, representation and conclusion; weakness in one stage limits the whole claim.",
-      "hint": "Limit to association unless design supports cause."
-    }
+      "summary": "In roughly symmetric data, mean and median are often close.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "A right-skewed distribution has:",
+    "answers": [
+      {
+        "text": "a long tail toward high values",
+        "is_correct": true
+      },
+      {
+        "text": "a long tail toward low values",
+        "is_correct": false
+      },
+      {
+        "text": "no tail",
+        "is_correct": false
+      },
+      {
+        "text": "two equal peaks",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Skew is named for the direction of the longer tail.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "A left-skewed distribution has:",
+    "answers": [
+      {
+        "text": "a long tail toward low values",
+        "is_correct": true
+      },
+      {
+        "text": "a long tail toward high values",
+        "is_correct": false
+      },
+      {
+        "text": "no variation",
+        "is_correct": false
+      },
+      {
+        "text": "a guaranteed outlier",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Left skew means the lower-value tail is longer.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "A bimodal distribution has:",
+    "answers": [
+      {
+        "text": "two peaks or modes",
+        "is_correct": true
+      },
+      {
+        "text": "no mode",
+        "is_correct": false
+      },
+      {
+        "text": "one peak only",
+        "is_correct": false
+      },
+      {
+        "text": "zero range",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Bi means two.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "An outlier often appears as:",
+    "answers": [
+      {
+        "text": "an isolated value away from the main cluster",
+        "is_correct": true
+      },
+      {
+        "text": "the median",
+        "is_correct": false
+      },
+      {
+        "text": "every repeated value",
+        "is_correct": false
+      },
+      {
+        "text": "the first value collected",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Outliers are unusually distant from most observations.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "Which measure is often more representative when a distribution is strongly skewed?",
+    "answers": [
+      {
+        "text": "median",
+        "is_correct": true
+      },
+      {
+        "text": "mean",
+        "is_correct": false
+      },
+      {
+        "text": "range",
+        "is_correct": false
+      },
+      {
+        "text": "maximum",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Median is resistant to extreme tails.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "Which simple statistic helps compare consistency?",
+    "answers": [
+      {
+        "text": "range",
+        "is_correct": true
+      },
+      {
+        "text": "mean only",
+        "is_correct": false
+      },
+      {
+        "text": "median only",
+        "is_correct": false
+      },
+      {
+        "text": "mode only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A smaller range indicates less max-to-min variation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "Two groups have the same median but different ranges. What differs?",
+    "answers": [
+      {
+        "text": "spread",
+        "is_correct": true
+      },
+      {
+        "text": "middle value",
+        "is_correct": false
+      },
+      {
+        "text": "necessarily sample size",
+        "is_correct": false
+      },
+      {
+        "text": "necessarily mode",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Equal medians can occur with different variability.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "Two groups have different means but the same range. What differs?",
+    "answers": [
+      {
+        "text": "arithmetic centre",
+        "is_correct": true
+      },
+      {
+        "text": "spread by range",
+        "is_correct": false
+      },
+      {
+        "text": "necessarily skewness",
+        "is_correct": false
+      },
+      {
+        "text": "necessarily sample size",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Mean compares centre; range compares simple spread.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "If one group has a lower median reaction time, that group is:",
+    "answers": [
+      {
+        "text": "typically faster",
+        "is_correct": true
+      },
+      {
+        "text": "typically slower",
+        "is_correct": false
+      },
+      {
+        "text": "necessarily more variable",
+        "is_correct": false
+      },
+      {
+        "text": "necessarily larger",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Lower reaction time means faster response.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "A long right tail in reaction-time data may indicate:",
+    "answers": [
+      {
+        "text": "some unusually slow reactions",
+        "is_correct": true
+      },
+      {
+        "text": "some unusually fast reactions only",
+        "is_correct": false
+      },
+      {
+        "text": "no variation",
+        "is_correct": false
+      },
+      {
+        "text": "all values equal",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Large reaction times sit on the right.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "In a before-and-after STEM investigation, what should be kept as consistent as possible?",
+    "answers": [
+      {
+        "text": "testing conditions",
+        "is_correct": true
+      },
+      {
+        "text": "the conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "the data values",
+        "is_correct": false
+      },
+      {
+        "text": "the graph labels only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Fair comparison requires comparable conditions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "If completion time decreases after a design modification, performance may have:",
+    "answers": [
+      {
+        "text": "improved",
+        "is_correct": true
+      },
+      {
+        "text": "worsened",
+        "is_correct": false
+      },
+      {
+        "text": "stayed exactly the same",
+        "is_correct": false
+      },
+      {
+        "text": "become categorical",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "For a task where lower time is better, reduced time indicates improvement.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "If range decreases after a design modification, the performance became:",
+    "answers": [
+      {
+        "text": "more consistent",
+        "is_correct": true
+      },
+      {
+        "text": "less consistent",
+        "is_correct": false
+      },
+      {
+        "text": "necessarily slower",
+        "is_correct": false
+      },
+      {
+        "text": "necessarily biased",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Smaller range means less spread.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "Which conclusion is strongest?",
+    "answers": [
+      {
+        "text": "The modified design had a lower median and smaller range, suggesting faster and more consistent performance",
+        "is_correct": true
+      },
+      {
+        "text": "The modified design is better because I like it",
+        "is_correct": false
+      },
+      {
+        "text": "The graph looks nicer",
+        "is_correct": false
+      },
+      {
+        "text": "One trial was fast",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Conclusions should cite statistics and context.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "What belongs in a complete statistical report?",
+    "answers": [
+      {
+        "text": "question, method, statistics, distribution, conclusion and limitations",
+        "is_correct": true
+      },
+      {
+        "text": "only a graph",
+        "is_correct": false
+      },
+      {
+        "text": "only the mean",
+        "is_correct": false
+      },
+      {
+        "text": "only raw data",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A complete report communicates the full investigation cycle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Why should limitations be reported?",
+    "answers": [
+      {
+        "text": "They affect how confidently results can be generalised or interpreted",
+        "is_correct": true
+      },
+      {
+        "text": "They make the mean larger",
+        "is_correct": false
+      },
+      {
+        "text": "They remove outliers",
+        "is_correct": false
+      },
+      {
+        "text": "They guarantee causation",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Sample size, measurement error and design choices affect conclusions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "A small sample mainly limits:",
+    "answers": [
+      {
+        "text": "confidence and generalisability",
+        "is_correct": true
+      },
+      {
+        "text": "the definition of mean",
+        "is_correct": false
+      },
+      {
+        "text": "whether data can be ordered",
+        "is_correct": false
+      },
+      {
+        "text": "whether a variable is continuous",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Small samples may not represent broader populations well.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Measurement error is a limitation because it can:",
+    "answers": [
+      {
+        "text": "add variation or bias to recorded values",
+        "is_correct": true
+      },
+      {
+        "text": "make all data categorical",
+        "is_correct": false
+      },
+      {
+        "text": "guarantee symmetry",
+        "is_correct": false
+      },
+      {
+        "text": "remove the median",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Poor measurement quality affects analysis.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Why is it important to state how data were collected?",
+    "answers": [
+      {
+        "text": "The method affects reliability, bias and interpretation",
+        "is_correct": true
+      },
+      {
+        "text": "It changes the formula for median",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees no outliers",
+        "is_correct": false
+      },
+      {
+        "text": "It makes secondary data primary",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Collection method is part of evaluating evidence quality.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Which conclusion is appropriately cautious?",
+    "answers": [
+      {
+        "text": "In this sample, Group A had a lower median reaction time than Group B",
+        "is_correct": true
+      },
+      {
+        "text": "Group A is always faster everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "The result proves causation",
+        "is_correct": false
+      },
+      {
+        "text": "The result proves a universal law",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Statistical conclusions should match the scope of the evidence.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "A published large-scale survey can be useful because it:",
+    "answers": [
+      {
+        "text": "provides secondary data for investigation",
+        "is_correct": true
+      },
+      {
+        "text": "eliminates all bias",
+        "is_correct": false
+      },
+      {
+        "text": "proves causation",
+        "is_correct": false
+      },
+      {
+        "text": "never needs context",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "External datasets can support investigation but still require source evaluation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "When using published survey data, students should:",
+    "answers": [
+      {
+        "text": "report the source, measures and limitations accurately",
+        "is_correct": true
+      },
+      {
+        "text": "invent explanations for differences",
+        "is_correct": false
+      },
+      {
+        "text": "ignore sample design",
+        "is_correct": false
+      },
+      {
+        "text": "treat group averages as individual facts",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Context and accurate reporting are essential.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Which is inappropriate when interpreting group data?",
+    "answers": [
+      {
+        "text": "Making claims about individuals from group averages",
+        "is_correct": true
+      },
+      {
+        "text": "Reporting medians",
+        "is_correct": false
+      },
+      {
+        "text": "Comparing ranges",
+        "is_correct": false
+      },
+      {
+        "text": "Stating limitations",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Group summaries do not determine individual values.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Which display is useful for showing individual numerical values and clusters?",
+    "answers": [
+      {
+        "text": "dot plot",
+        "is_correct": true
+      },
+      {
+        "text": "pie chart only",
+        "is_correct": false
+      },
+      {
+        "text": "pictograph only",
+        "is_correct": false
+      },
+      {
+        "text": "flow chart",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Dot plots reveal individual values, clusters, gaps and possible outliers.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Which display is useful for comparing distribution summaries between groups?",
+    "answers": [
+      {
+        "text": "side-by-side box plots",
+        "is_correct": true
+      },
+      {
+        "text": "a single pie chart",
+        "is_correct": false
+      },
+      {
+        "text": "a flow chart",
+        "is_correct": false
+      },
+      {
+        "text": "a compass diagram",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Box plots can compare centre and spread compactly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Which statement about histograms is correct?",
+    "answers": [
+      {
+        "text": "They show frequencies across numerical intervals",
+        "is_correct": true
+      },
+      {
+        "text": "They show exact raw values individually",
+        "is_correct": false
+      },
+      {
+        "text": "They are only for categorical data",
+        "is_correct": false
+      },
+      {
+        "text": "They cannot show distribution shape",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Histograms summarise numerical distributions by bins.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "super-hard",
+    "question": "Which statement about stem-and-leaf plots is correct?",
+    "answers": [
+      {
+        "text": "They retain individual values while showing distribution shape",
+        "is_correct": true
+      },
+      {
+        "text": "They only show proportions",
+        "is_correct": false
+      },
+      {
+        "text": "They cannot show the median",
+        "is_correct": false
+      },
+      {
+        "text": "They are for categorical labels only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Stem-and-leaf plots preserve raw values.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "super-hard",
+    "question": "Why is context necessary when interpreting an outlier?",
+    "answers": [
+      {
+        "text": "It may be an error or a genuine important observation",
+        "is_correct": true
+      },
+      {
+        "text": "Every outlier should be deleted",
+        "is_correct": false
+      },
+      {
+        "text": "Outliers never affect conclusions",
+        "is_correct": false
+      },
+      {
+        "text": "Outliers are always the largest value",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The cause and meaning of an extreme value depend on context.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "super-hard",
+    "question": "If mean and median differ greatly, what should you investigate?",
+    "answers": [
+      {
+        "text": "skewness and outliers",
+        "is_correct": true
+      },
+      {
+        "text": "only the mode",
+        "is_correct": false
+      },
+      {
+        "text": "only the sample name",
+        "is_correct": false
+      },
+      {
+        "text": "the graph colour",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Large differences can signal asymmetry or extremes.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "super-hard",
+    "question": "What does 'centre' refer to in a distribution?",
+    "answers": [
+      {
+        "text": "a typical or central location such as mean or median",
+        "is_correct": true
+      },
+      {
+        "text": "the range",
+        "is_correct": false
+      },
+      {
+        "text": "the sample size",
+        "is_correct": false
+      },
+      {
+        "text": "the axis label",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Centre summarises where values tend to lie.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "super-hard",
+    "question": "What does 'spread' refer to?",
+    "answers": [
+      {
+        "text": "how variable the data are",
+        "is_correct": true
+      },
+      {
+        "text": "which value is most common",
+        "is_correct": false
+      },
+      {
+        "text": "the title of the graph",
+        "is_correct": false
+      },
+      {
+        "text": "the independent variable only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Spread describes variability.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "practice",
+    "skill": "ac9m7st03",
+    "difficulty": "super-hard",
+    "question": "A conclusion should be based on:",
+    "answers": [
+      {
+        "text": "the collected evidence and calculated statistics",
+        "is_correct": true
+      },
+      {
+        "text": "personal opinion",
+        "is_correct": false
+      },
+      {
+        "text": "the expected answer",
+        "is_correct": false
+      },
+      {
+        "text": "one interesting value only",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Statistics support evidence-based conclusions.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-P-048"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "A class wants to compare reaction times between two groups. Which plan is strongest?",
+    "answers": [
+      {
+        "text": "Use the same test method and conditions for both groups, collect enough trials, then compare distributions",
+        "is_correct": true
+      },
+      {
+        "text": "Use different devices for each group",
+        "is_correct": false
+      },
+      {
+        "text": "Collect one value per group",
+        "is_correct": false
+      },
+      {
+        "text": "Decide the conclusion before testing",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A fair comparison controls the measurement process and collects enough data.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "Why can a convenience sample weaken an investigation?",
+    "answers": [
+      {
+        "text": "It may not represent the population well",
+        "is_correct": true
+      },
+      {
+        "text": "It always has too many people",
+        "is_correct": false
+      },
+      {
+        "text": "It cannot contain numerical data",
+        "is_correct": false
+      },
+      {
+        "text": "It makes medians impossible",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Ease of access can introduce selection bias.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "A very large biased sample is:",
+    "answers": [
+      {
+        "text": "still biased",
+        "is_correct": true
+      },
+      {
+        "text": "automatically representative",
+        "is_correct": false
+      },
+      {
+        "text": "always random",
+        "is_correct": false
+      },
+      {
+        "text": "always causal",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Large size does not remove systematic selection bias.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "easy",
+    "question": "What is the population?",
+    "answers": [
+      {
+        "text": "the complete group the investigation aims to understand",
+        "is_correct": true
+      },
+      {
+        "text": "only the people who answered",
+        "is_correct": false
+      },
+      {
+        "text": "the mean of the data",
+        "is_correct": false
+      },
+      {
+        "text": "the graph",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The population is the full group of interest.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "What is a sample?",
+    "answers": [
+      {
+        "text": "the subset actually observed or measured",
+        "is_correct": true
+      },
+      {
+        "text": "the full population always",
+        "is_correct": false
+      },
+      {
+        "text": "the range",
+        "is_correct": false
+      },
+      {
+        "text": "the conclusion",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A sample provides evidence about the population.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "Which sampling method can reduce selection bias when implemented well?",
+    "answers": [
+      {
+        "text": "random sampling",
+        "is_correct": true
+      },
+      {
+        "text": "asking only close friends",
+        "is_correct": false
+      },
+      {
+        "text": "surveying only one club",
+        "is_correct": false
+      },
+      {
+        "text": "choosing only extreme cases",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Random selection gives members a known chance of inclusion.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "Why can nonresponse matter?",
+    "answers": [
+      {
+        "text": "people who do not respond may differ systematically from responders",
+        "is_correct": true
+      },
+      {
+        "text": "it makes the median zero",
+        "is_correct": false
+      },
+      {
+        "text": "it guarantees symmetry",
+        "is_correct": false
+      },
+      {
+        "text": "it creates continuous data",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Nonresponse can bias the responding sample.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "Which conclusion is too strong for an observational comparison?",
+    "answers": [
+      {
+        "text": "The variable caused the difference",
+        "is_correct": true
+      },
+      {
+        "text": "The groups differed in this sample",
+        "is_correct": false
+      },
+      {
+        "text": "The medians were different",
+        "is_correct": false
+      },
+      {
+        "text": "The ranges were different",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Association does not by itself establish causation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "A study finds Group A has mean reaction time 0.42 s and Group B 0.47 s, with similar spreads. Which conclusion is best?",
+    "answers": [
+      {
+        "text": "Group A was faster on average in this sample",
+        "is_correct": true
+      },
+      {
+        "text": "Group A is always faster",
+        "is_correct": false
+      },
+      {
+        "text": "Group membership causes the difference",
+        "is_correct": false
+      },
+      {
+        "text": "The groups are identical",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The conclusion should stay within the evidence.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "medium",
+    "question": "Group A median is 0.40 s and range 0.08 s; Group B median 0.42 s and range 0.25 s. Which statement is strongest?",
+    "answers": [
+      {
+        "text": "A is slightly faster typically and more consistent by range",
+        "is_correct": true
+      },
+      {
+        "text": "B is more consistent",
+        "is_correct": false
+      },
+      {
+        "text": "The groups have equal centre",
+        "is_correct": false
+      },
+      {
+        "text": "Range proves causation",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Lower median and smaller range support that interpretation.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Why might mean and median disagree strongly in reaction-time data?",
+    "answers": [
+      {
+        "text": "A long tail or extreme slow trials may pull the mean upward",
+        "is_correct": true
+      },
+      {
+        "text": "The variable is discrete",
+        "is_correct": false
+      },
+      {
+        "text": "Range must be zero",
+        "is_correct": false
+      },
+      {
+        "text": "The data cannot be ordered",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Skewness and outliers affect the mean more strongly.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Which display most directly shows individual trial values, clusters and gaps?",
+    "answers": [
+      {
+        "text": "dot plot",
+        "is_correct": true
+      },
+      {
+        "text": "pie chart",
+        "is_correct": false
+      },
+      {
+        "text": "flow chart",
+        "is_correct": false
+      },
+      {
+        "text": "pictograph",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Dot plots preserve individual numerical observations.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Which display is useful for compactly comparing centre and spread between two numerical groups?",
+    "answers": [
+      {
+        "text": "side-by-side box plots",
+        "is_correct": true
+      },
+      {
+        "text": "one pie chart",
+        "is_correct": false
+      },
+      {
+        "text": "one bar for each group only",
+        "is_correct": false
+      },
+      {
+        "text": "a flowchart",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Box plots provide compact distribution summaries.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "hard",
+    "question": "Which graph type groups continuous numerical values into intervals?",
+    "answers": [
+      {
+        "text": "histogram",
+        "is_correct": true
+      },
+      {
+        "text": "pie chart",
+        "is_correct": false
+      },
+      {
+        "text": "network diagram",
+        "is_correct": false
+      },
+      {
+        "text": "decision tree",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Histograms use numerical bins.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "super-hard",
+    "question": "Why should histogram bin widths be chosen carefully?",
+    "answers": [
+      {
+        "text": "They can change how distribution shape appears",
+        "is_correct": true
+      },
+      {
+        "text": "They change the raw data",
+        "is_correct": false
+      },
+      {
+        "text": "They make the mean invalid",
+        "is_correct": false
+      },
+      {
+        "text": "They remove sample bias",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Different binning can emphasise or hide features.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7ST03",
+    "bank": "test",
+    "skill": "ac9m7st03",
+    "difficulty": "super-hard",
+    "question": "A distribution has two clear clusters or peaks. It is described as:",
+    "answers": [
+      {
+        "text": "bimodal",
+        "is_correct": true
+      },
+      {
+        "text": "right-skewed only",
+        "is_correct": false
+      },
+      {
+        "text": "uniform necessarily",
+        "is_correct": false
+      },
+      {
+        "text": "range zero",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Two modes or peaks indicate bimodality.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7ST03-T-016"
   }
 ]

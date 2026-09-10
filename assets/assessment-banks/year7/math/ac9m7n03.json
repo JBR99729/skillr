@@ -1,18 +1,12 @@
 [
   {
-    "id": "AC9M7N03-P-001",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "What is 10^0?",
-    "audio_prompt": "What is 10^0?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "1",
@@ -27,29 +21,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Ten to exponent 0 equals 1; the exponent counts factors of 10, and 10⁰ = 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Ten to exponent 0 equals 1; the exponent counts factors of 10, and 10⁰ = 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N03-P-001"
   },
   {
-    "id": "AC9M7N03-P-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "What is 10^1?",
-    "audio_prompt": "What is 10^1?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "100",
@@ -64,29 +49,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Ten to exponent 1 equals 10; the exponent counts factors of 10, and 10⁰ = 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Ten to exponent 1 equals 10; the exponent counts factors of 10, and 10⁰ = 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N03-P-002"
   },
   {
-    "id": "AC9M7N03-P-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "What is 10^2?",
-    "audio_prompt": "What is 10^2?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "1000",
@@ -101,29 +77,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Ten to exponent 2 equals 100; the exponent counts factors of 10, and 10⁰ = 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Ten to exponent 2 equals 100; the exponent counts factors of 10, and 10⁰ = 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N03-P-003"
   },
   {
-    "id": "AC9M7N03-P-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "What is 10^3?",
-    "audio_prompt": "What is 10^3?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "1000",
@@ -138,29 +105,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Ten to exponent 3 equals 1000; the exponent counts factors of 10, and 10⁰ = 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Ten to exponent 3 equals 1000; the exponent counts factors of 10, and 10⁰ = 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N03-P-004"
   },
   {
-    "id": "AC9M7N03-P-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "What is 10^4?",
-    "audio_prompt": "What is 10^4?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "40",
@@ -175,29 +133,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Ten to exponent 4 equals 10000; the exponent counts factors of 10, and 10⁰ = 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Ten to exponent 4 equals 10000; the exponent counts factors of 10, and 10⁰ = 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N03-P-005"
   },
   {
-    "id": "AC9M7N03-P-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "What is 10^5?",
-    "audio_prompt": "What is 10^5?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "1000000",
@@ -212,29 +161,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Ten to exponent 5 equals 100000; the exponent counts factors of 10, and 10⁰ = 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Ten to exponent 5 equals 100000; the exponent counts factors of 10, and 10⁰ = 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N03-P-006"
   },
   {
-    "id": "AC9M7N03-P-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "What is 10^6?",
-    "audio_prompt": "What is 10^6?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "1000000",
@@ -249,29 +189,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Ten to exponent 6 equals 1000000; the exponent counts factors of 10, and 10⁰ = 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Ten to exponent 6 equals 1000000; the exponent counts factors of 10, and 10⁰ = 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N03-P-007"
   },
   {
-    "id": "AC9M7N03-P-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "What is 10^7?",
-    "audio_prompt": "What is 10^7?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "70",
@@ -286,29 +217,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Ten to exponent 7 equals 10000000; the exponent counts factors of 10, and 10⁰ = 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Ten to exponent 7 equals 10000000; the exponent counts factors of 10, and 10⁰ = 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7N03-P-008"
   },
   {
-    "id": "AC9M7N03-P-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "What is 10^8?",
-    "audio_prompt": "What is 10^8?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "1000000000",
@@ -323,28 +245,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Ten to exponent 8 equals 100000000; the exponent counts factors of 10, and 10⁰ = 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Ten to exponent 8 equals 100000000; the exponent counts factors of 10, and 10⁰ = 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-009"
   },
   {
-    "id": "AC9M7N03-P-010",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "What is 10^9?",
-    "audio_prompt": "What is 10^9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "1000000000",
@@ -359,28 +273,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Ten to exponent 9 equals 1000000000; the exponent counts factors of 10, and 10⁰ = 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Ten to exponent 9 equals 1000000000; the exponent counts factors of 10, and 10⁰ = 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-010"
   },
   {
-    "id": "AC9M7N03-P-011",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "In 7,052,304, what value is represented by the digit 7 identified in 10^6 place?",
-    "audio_prompt": "In 7,052,304, what value is represented by the digit 7 identified in 10^6 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "700000",
@@ -395,28 +301,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The digit 7 is in the 10^6 place, so its value is 7 × 10^6 = 7000000.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 7 is in the 10^6 place, so its value is 7 × 10^6 = 7000000.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-011"
   },
   {
-    "id": "AC9M7N03-P-012",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "In 7,052,304, what value is represented by the digit 5 identified in 10^4 place?",
-    "audio_prompt": "In 7,052,304, what value is represented by the digit 5 identified in 10^4 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "500000",
@@ -431,28 +329,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "The digit 5 is in the 10^4 place, so its value is 5 × 10^4 = 50000.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 5 is in the 10^4 place, so its value is 5 × 10^4 = 50000.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-012"
   },
   {
-    "id": "AC9M7N03-P-013",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "In 4,080,019, what value is represented by the digit 8 identified in 10^4 place?",
-    "audio_prompt": "In 4,080,019, what value is represented by the digit 8 identified in 10^4 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "80000",
@@ -467,28 +357,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The digit 8 is in the 10^4 place, so its value is 8 × 10^4 = 80000.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 8 is in the 10^4 place, so its value is 8 × 10^4 = 80000.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-013"
   },
   {
-    "id": "AC9M7N03-P-014",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "In 4,080,019, what value is represented by the digit 1 identified in 10^1 place?",
-    "audio_prompt": "In 4,080,019, what value is represented by the digit 1 identified in 10^1 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "1",
@@ -503,28 +385,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The digit 1 is in the 10^1 place, so its value is 1 × 10^1 = 10.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 1 is in the 10^1 place, so its value is 1 × 10^1 = 10.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-014"
   },
   {
-    "id": "AC9M7N03-P-015",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "In 9,306,042, what value is represented by the digit 3 identified in 10^4 place?",
-    "audio_prompt": "In 9,306,042, what value is represented by the digit 3 identified in 10^4 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "3",
@@ -539,28 +413,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "The digit 3 is in the 10^4 place, so its value is 3 × 10^4 = 3000.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 3 is in the 10^4 place, so its value is 3 × 10^4 = 3000.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-015"
   },
   {
-    "id": "AC9M7N03-P-016",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "In 9,306,042, what value is represented by the digit 6 identified in 10^3 place?",
-    "audio_prompt": "In 9,306,042, what value is represented by the digit 6 identified in 10^3 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "6000",
@@ -575,28 +441,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The digit 6 is in the 10^3 place, so its value is 6 × 10^3 = 6000.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 6 is in the 10^3 place, so its value is 6 × 10^3 = 6000.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-016"
   },
   {
-    "id": "AC9M7N03-P-017",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "In 512,080, what value is represented by the digit 1 identified in 10^4 place?",
-    "audio_prompt": "In 512,080, what value is represented by the digit 1 identified in 10^4 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "1000",
@@ -611,28 +469,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The digit 1 is in the 10^4 place, so its value is 1 × 10^4 = 10000.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 1 is in the 10^4 place, so its value is 1 × 10^4 = 10000.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-017"
   },
   {
-    "id": "AC9M7N03-P-018",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "In 512,080, what value is represented by the digit 8 identified in 10^1 place?",
-    "audio_prompt": "In 512,080, what value is represented by the digit 8 identified in 10^1 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "800",
@@ -647,28 +497,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "The digit 8 is in the 10^1 place, so its value is 8 × 10^1 = 80.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 8 is in the 10^1 place, so its value is 8 × 10^1 = 80.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-018"
   },
   {
-    "id": "AC9M7N03-P-019",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "In 68,004,005, what value is represented by the digit 4 identified in 10^3 place?",
-    "audio_prompt": "In 68,004,005, what value is represented by the digit 4 identified in 10^3 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "4000",
@@ -683,28 +525,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The digit 4 is in the 10^3 place, so its value is 4 × 10^3 = 4000.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 4 is in the 10^3 place, so its value is 4 × 10^3 = 4000.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-019"
   },
   {
-    "id": "AC9M7N03-P-020",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "In 68,004,005, what value is represented by the digit 5 identified in 10^0 place?",
-    "audio_prompt": "In 68,004,005, what value is represented by the digit 5 identified in 10^0 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "50",
@@ -719,28 +553,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "The digit 5 is in the 10^0 place, so its value is 5 × 10^0 = 5.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 5 is in the 10^0 place, so its value is 5 × 10^0 = 5.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-020"
   },
   {
-    "id": "AC9M7N03-P-021",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "In 207,030,400, what value is represented by the digit 7 identified in 10^6 place?",
-    "audio_prompt": "In 207,030,400, what value is represented by the digit 7 identified in 10^6 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "70000000",
@@ -755,28 +581,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "The digit 7 is in the 10^6 place, so its value is 7 × 10^6 = 7000000.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 7 is in the 10^6 place, so its value is 7 × 10^6 = 7000000.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-021"
   },
   {
-    "id": "AC9M7N03-P-022",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "In 207,030,400, what value is represented by the digit 3 identified in 10^4 place?",
-    "audio_prompt": "In 207,030,400, what value is represented by the digit 3 identified in 10^4 place?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "30000",
@@ -791,28 +609,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "The digit 3 is in the 10^4 place, so its value is 3 × 10^4 = 30000.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "The digit 3 is in the 10^4 place, so its value is 3 × 10^4 = 30000.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 3,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-022"
   },
   {
-    "id": "AC9M7N03-P-023",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "Which numeral equals 4×10⁶ + 8×10⁴ + 1×10 + 9?",
-    "audio_prompt": "Which numeral equals 4×10⁶ + 8×10⁴ + 1×10 + 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "4080919",
@@ -827,28 +637,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 4×10⁶ + 8×10⁴ + 1×10 + 9 = 4080019.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Evaluate each place-value term and add them: 4×10⁶ + 8×10⁴ + 1×10 + 9 = 4080019.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-023"
   },
   {
-    "id": "AC9M7N03-P-024",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "practice",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "Which numeral equals 7×10⁵ + 2×10³ + 6×10 + 4?",
-    "audio_prompt": "Which numeral equals 7×10⁵ + 2×10³ + 6×10 + 4?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "701974",
@@ -863,28 +665,788 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 7×10⁵ + 2×10³ + 6×10 + 4 = 702064.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
+      "summary": "Evaluate each place-value term and add them: 7×10⁵ + 2×10³ + 6×10 + 4 = 702064.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7N03-P-024"
   },
   {
-    "id": "AC9M7N03-T-001",
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
+    "question": "Transfer 1: Write 4,080,019 in expanded notation using powers of 10.",
+    "answers": [
+      {
+        "text": "4×10^6 + 8×10^4 + 1×10^1 + 9×10^0",
+        "is_correct": true
+      },
+      {
+        "text": "4080019×10⁰",
+        "is_correct": false
+      },
+      {
+        "text": "4×10^5",
+        "is_correct": false
+      },
+      {
+        "text": "4×10^7 + 8×10^5 + 1×10^2 + 9×10^1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each non-zero digit is multiplied by the power of 10 for its place.",
+      "hint": "Count powers from units as 10⁰."
+    },
+    "id": "AC9M7N03-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
+    "question": "Reasoning 2: In 7,052,304, what power of 10 belongs to the leftmost digit?",
+    "answers": [
+      {
+        "text": "10^6",
+        "is_correct": true
+      },
+      {
+        "text": "10^5",
+        "is_correct": false
+      },
+      {
+        "text": "10^7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A 7-digit number begins in the 10^6 place.",
+      "hint": "Units are 10⁰, then count left."
+    },
+    "id": "AC9M7N03-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
+    "question": "Check 3: Which method best verifies an expanded power-of-10 form?",
+    "answers": [
+      {
+        "text": "Evaluate each term and reconstruct the original numeral.",
+        "is_correct": true
+      },
+      {
+        "text": "Add the exponents only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore zero positions.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply all coefficients together.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Reconstruction checks both coefficients and place-value exponents.",
+      "hint": "The expanded form must add back to the numeral."
+    },
+    "id": "AC9M7N03-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
+    "question": "Transfer 4: Write 50,400,801 in expanded notation using powers of 10.",
+    "answers": [
+      {
+        "text": "5×10^7 + 4×10^5 + 8×10^2 + 1×10^0",
+        "is_correct": true
+      },
+      {
+        "text": "50400801×10⁰",
+        "is_correct": false
+      },
+      {
+        "text": "5×10^6",
+        "is_correct": false
+      },
+      {
+        "text": "5×10^8 + 4×10^6 + 8×10^3 + 1×10^1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each non-zero digit is multiplied by the power of 10 for its place.",
+      "hint": "Count powers from units as 10⁰."
+    },
+    "id": "AC9M7N03-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
+    "question": "Reasoning 5: In 3,000,207, what power of 10 belongs to the leftmost digit?",
+    "answers": [
+      {
+        "text": "10^6",
+        "is_correct": true
+      },
+      {
+        "text": "10^5",
+        "is_correct": false
+      },
+      {
+        "text": "10^7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A 7-digit number begins in the 10^6 place.",
+      "hint": "Units are 10⁰, then count left."
+    },
+    "id": "AC9M7N03-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
+    "question": "Check 6: Which method best verifies an expanded power-of-10 form?",
+    "answers": [
+      {
+        "text": "Evaluate each term and reconstruct the original numeral.",
+        "is_correct": true
+      },
+      {
+        "text": "Add the exponents only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore zero positions.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply all coefficients together.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Reconstruction checks both coefficients and place-value exponents.",
+      "hint": "The expanded form must add back to the numeral."
+    },
+    "id": "AC9M7N03-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Transfer 7: Write 200,005,004 in expanded notation using powers of 10.",
+    "answers": [
+      {
+        "text": "2×10^8 + 5×10^3 + 4×10^0",
+        "is_correct": true
+      },
+      {
+        "text": "200005004×10⁰",
+        "is_correct": false
+      },
+      {
+        "text": "2×10^7",
+        "is_correct": false
+      },
+      {
+        "text": "2×10^9 + 5×10^4 + 4×10^1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each non-zero digit is multiplied by the power of 10 for its place.",
+      "hint": "Count powers from units as 10⁰."
+    },
+    "id": "AC9M7N03-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Reasoning 8: In 70,707, what power of 10 belongs to the leftmost digit?",
+    "answers": [
+      {
+        "text": "10^4",
+        "is_correct": true
+      },
+      {
+        "text": "10^3",
+        "is_correct": false
+      },
+      {
+        "text": "10^5",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A 5-digit number begins in the 10^4 place.",
+      "hint": "Units are 10⁰, then count left."
+    },
+    "id": "AC9M7N03-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Check 9: Which method best verifies an expanded power-of-10 form?",
+    "answers": [
+      {
+        "text": "Evaluate each term and reconstruct the original numeral.",
+        "is_correct": true
+      },
+      {
+        "text": "Add the exponents only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore zero positions.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply all coefficients together.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Reconstruction checks both coefficients and place-value exponents.",
+      "hint": "The expanded form must add back to the numeral."
+    },
+    "id": "AC9M7N03-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Transfer 10: Write 900,099 in expanded notation using powers of 10.",
+    "answers": [
+      {
+        "text": "9×10^5 + 9×10^1 + 9×10^0",
+        "is_correct": true
+      },
+      {
+        "text": "900099×10⁰",
+        "is_correct": false
+      },
+      {
+        "text": "9×10^4",
+        "is_correct": false
+      },
+      {
+        "text": "9×10^6 + 9×10^2 + 9×10^1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each non-zero digit is multiplied by the power of 10 for its place.",
+      "hint": "Count powers from units as 10⁰."
+    },
+    "id": "AC9M7N03-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Reasoning 11: In 4,080,019, what power of 10 belongs to the leftmost digit?",
+    "answers": [
+      {
+        "text": "10^6",
+        "is_correct": true
+      },
+      {
+        "text": "10^5",
+        "is_correct": false
+      },
+      {
+        "text": "10^7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A 7-digit number begins in the 10^6 place.",
+      "hint": "Units are 10⁰, then count left."
+    },
+    "id": "AC9M7N03-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Check 12: Which method best verifies an expanded power-of-10 form?",
+    "answers": [
+      {
+        "text": "Evaluate each term and reconstruct the original numeral.",
+        "is_correct": true
+      },
+      {
+        "text": "Add the exponents only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore zero positions.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply all coefficients together.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Reconstruction checks both coefficients and place-value exponents.",
+      "hint": "The expanded form must add back to the numeral."
+    },
+    "id": "AC9M7N03-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Transfer 13: Write 9,300,500 in expanded notation using powers of 10.",
+    "answers": [
+      {
+        "text": "9×10^6 + 3×10^5 + 5×10^2",
+        "is_correct": true
+      },
+      {
+        "text": "9300500×10⁰",
+        "is_correct": false
+      },
+      {
+        "text": "9×10^5",
+        "is_correct": false
+      },
+      {
+        "text": "9×10^7 + 3×10^6 + 5×10^3",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each non-zero digit is multiplied by the power of 10 for its place.",
+      "hint": "Count powers from units as 10⁰."
+    },
+    "id": "AC9M7N03-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Reasoning 14: In 50,400,801, what power of 10 belongs to the leftmost digit?",
+    "answers": [
+      {
+        "text": "10^7",
+        "is_correct": true
+      },
+      {
+        "text": "10^6",
+        "is_correct": false
+      },
+      {
+        "text": "10^8",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A 8-digit number begins in the 10^7 place.",
+      "hint": "Units are 10⁰, then count left."
+    },
+    "id": "AC9M7N03-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Check 15: Which method best verifies an expanded power-of-10 form?",
+    "answers": [
+      {
+        "text": "Evaluate each term and reconstruct the original numeral.",
+        "is_correct": true
+      },
+      {
+        "text": "Add the exponents only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore zero positions.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply all coefficients together.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Reconstruction checks both coefficients and place-value exponents.",
+      "hint": "The expanded form must add back to the numeral."
+    },
+    "id": "AC9M7N03-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Transfer 16: Write 890,060 in expanded notation using powers of 10.",
+    "answers": [
+      {
+        "text": "8×10^5 + 9×10^4 + 6×10^1",
+        "is_correct": true
+      },
+      {
+        "text": "890060×10⁰",
+        "is_correct": false
+      },
+      {
+        "text": "8×10^4",
+        "is_correct": false
+      },
+      {
+        "text": "8×10^6 + 9×10^5 + 6×10^2",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each non-zero digit is multiplied by the power of 10 for its place.",
+      "hint": "Count powers from units as 10⁰."
+    },
+    "id": "AC9M7N03-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Reasoning 17: In 200,005,004, what power of 10 belongs to the leftmost digit?",
+    "answers": [
+      {
+        "text": "10^8",
+        "is_correct": true
+      },
+      {
+        "text": "10^7",
+        "is_correct": false
+      },
+      {
+        "text": "10^9",
+        "is_correct": false
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A 9-digit number begins in the 10^8 place.",
+      "hint": "Units are 10⁰, then count left."
+    },
+    "id": "AC9M7N03-P-041"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
+    "question": "Check 18: Which method best verifies an expanded power-of-10 form?",
+    "answers": [
+      {
+        "text": "Evaluate each term and reconstruct the original numeral.",
+        "is_correct": true
+      },
+      {
+        "text": "Add the exponents only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore zero positions.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply all coefficients together.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Reconstruction checks both coefficients and place-value exponents.",
+      "hint": "The expanded form must add back to the numeral."
+    },
+    "id": "AC9M7N03-P-042"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "super-hard",
+    "question": "Transfer 19: Write 4,004,004 in expanded notation using powers of 10.",
+    "answers": [
+      {
+        "text": "4×10^6 + 4×10^3 + 4×10^0",
+        "is_correct": true
+      },
+      {
+        "text": "4004004×10⁰",
+        "is_correct": false
+      },
+      {
+        "text": "4×10^5",
+        "is_correct": false
+      },
+      {
+        "text": "4×10^7 + 4×10^4 + 4×10^1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each non-zero digit is multiplied by the power of 10 for its place.",
+      "hint": "Count powers from units as 10⁰."
+    },
+    "id": "AC9M7N03-P-043"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "super-hard",
+    "question": "Reasoning 20: In 900,099, what power of 10 belongs to the leftmost digit?",
+    "answers": [
+      {
+        "text": "10^5",
+        "is_correct": true
+      },
+      {
+        "text": "10^4",
+        "is_correct": false
+      },
+      {
+        "text": "10^6",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A 6-digit number begins in the 10^5 place.",
+      "hint": "Units are 10⁰, then count left."
+    },
+    "id": "AC9M7N03-P-044"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "super-hard",
+    "question": "Check 21: Which method best verifies an expanded power-of-10 form?",
+    "answers": [
+      {
+        "text": "Evaluate each term and reconstruct the original numeral.",
+        "is_correct": true
+      },
+      {
+        "text": "Add the exponents only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore zero positions.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply all coefficients together.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Reconstruction checks both coefficients and place-value exponents.",
+      "hint": "The expanded form must add back to the numeral."
+    },
+    "id": "AC9M7N03-P-045"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "super-hard",
+    "question": "Transfer 22: Write 7,052,304 in expanded notation using powers of 10.",
+    "answers": [
+      {
+        "text": "7×10^6 + 5×10^4 + 2×10^3 + 3×10^2 + 4×10^0",
+        "is_correct": true
+      },
+      {
+        "text": "7052304×10⁰",
+        "is_correct": false
+      },
+      {
+        "text": "7×10^5",
+        "is_correct": false
+      },
+      {
+        "text": "7×10^7 + 5×10^5 + 2×10^4 + 3×10^3 + 4×10^1",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Each non-zero digit is multiplied by the power of 10 for its place.",
+      "hint": "Count powers from units as 10⁰."
+    },
+    "id": "AC9M7N03-P-046"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "super-hard",
+    "question": "Reasoning 23: In 9,300,500, what power of 10 belongs to the leftmost digit?",
+    "answers": [
+      {
+        "text": "10^6",
+        "is_correct": true
+      },
+      {
+        "text": "10^5",
+        "is_correct": false
+      },
+      {
+        "text": "10^7",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A 7-digit number begins in the 10^6 place.",
+      "hint": "Units are 10⁰, then count left."
+    },
+    "id": "AC9M7N03-P-047"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7N03",
+    "bank": "practice",
+    "skill": "ac9m7n03",
+    "difficulty": "super-hard",
+    "question": "Check 24: Which method best verifies an expanded power-of-10 form?",
+    "answers": [
+      {
+        "text": "Evaluate each term and reconstruct the original numeral.",
+        "is_correct": true
+      },
+      {
+        "text": "Add the exponents only.",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore zero positions.",
+        "is_correct": false
+      },
+      {
+        "text": "Multiply all coefficients together.",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Reconstruction checks both coefficients and place-value exponents.",
+      "hint": "The expanded form must add back to the numeral."
+    },
+    "id": "AC9M7N03-P-048"
+  },
+  {
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "Which numeral equals 9×10⁶ + 3×10⁵ + 5×10²?",
-    "audio_prompt": "Which numeral equals 9×10⁶ + 3×10⁵ + 5×10²?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "9300500",
@@ -899,26 +1461,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 9×10⁶ + 3×10⁵ + 5×10² = 9300500.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Evaluate each place-value term and add them: 9×10⁶ + 3×10⁵ + 5×10² = 9300500.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-001"
   },
   {
-    "id": "AC9M7N03-T-002",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "Which numeral equals 6×10⁴ + 7×10³ + 2?",
-    "audio_prompt": "Which numeral equals 6×10⁴ + 7×10³ + 2?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "67902",
@@ -933,26 +1489,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 6×10⁴ + 7×10³ + 2 = 67002.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Evaluate each place-value term and add them: 6×10⁴ + 7×10³ + 2 = 67002.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-002"
   },
   {
-    "id": "AC9M7N03-T-003",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "Which numeral equals 5×10⁷ + 4×10⁵ + 8×10² + 1?",
-    "audio_prompt": "Which numeral equals 5×10⁷ + 4×10⁵ + 8×10² + 1?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "50400711",
@@ -967,26 +1517,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 5×10⁷ + 4×10⁵ + 8×10² + 1 = 50400801.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Evaluate each place-value term and add them: 5×10⁷ + 4×10⁵ + 8×10² + 1 = 50400801.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-003"
   },
   {
-    "id": "AC9M7N03-T-004",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "easy",
     "question": "Which numeral equals 3×10⁶ + 2×10² + 7?",
-    "audio_prompt": "Which numeral equals 3×10⁶ + 2×10² + 7?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "3000207",
@@ -1001,26 +1545,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 3×10⁶ + 2×10² + 7 = 3000207.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Evaluate each place-value term and add them: 3×10⁶ + 2×10² + 7 = 3000207.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-004"
   },
   {
-    "id": "AC9M7N03-T-005",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "Which numeral equals 8×10⁵ + 9×10⁴ + 6×10?",
-    "audio_prompt": "Which numeral equals 8×10⁵ + 9×10⁴ + 6×10?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "890960",
@@ -1035,26 +1573,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 8×10⁵ + 9×10⁴ + 6×10 = 890060.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Evaluate each place-value term and add them: 8×10⁵ + 9×10⁴ + 6×10 = 890060.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-005"
   },
   {
-    "id": "AC9M7N03-T-006",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "Which numeral equals 2×10⁸ + 5×10³ + 4?",
-    "audio_prompt": "Which numeral equals 2×10⁸ + 5×10³ + 4?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "200004914",
@@ -1069,26 +1601,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 2×10⁸ + 5×10³ + 4 = 200005004.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Evaluate each place-value term and add them: 2×10⁸ + 5×10³ + 4 = 200005004.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-006"
   },
   {
-    "id": "AC9M7N03-T-007",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "Which numeral equals 7×10⁴ + 7×10² + 7?",
-    "audio_prompt": "Which numeral equals 7×10⁴ + 7×10² + 7?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "70707",
@@ -1103,26 +1629,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 7×10⁴ + 7×10² + 7 = 70707.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Evaluate each place-value term and add them: 7×10⁴ + 7×10² + 7 = 70707.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-007"
   },
   {
-    "id": "AC9M7N03-T-008",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "Which numeral equals 4×10⁶ + 4×10³ + 4?",
-    "audio_prompt": "Which numeral equals 4×10⁶ + 4×10³ + 4?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "4004904",
@@ -1137,26 +1657,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 4×10⁶ + 4×10³ + 4 = 4004004.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Evaluate each place-value term and add them: 4×10⁶ + 4×10³ + 4 = 4004004.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-008"
   },
   {
-    "id": "AC9M7N03-T-009",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "Which numeral equals 1×10⁷ + 2×10⁶ + 3×10⁵ + 4?",
-    "audio_prompt": "Which numeral equals 1×10⁷ + 2×10⁶ + 3×10⁵ + 4?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "12299914",
@@ -1171,26 +1685,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 1×10⁷ + 2×10⁶ + 3×10⁵ + 4 = 12300004.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Evaluate each place-value term and add them: 1×10⁷ + 2×10⁶ + 3×10⁵ + 4 = 12300004.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-009"
   },
   {
-    "id": "AC9M7N03-T-010",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "medium",
     "question": "Which numeral equals 9×10⁵ + 9×10 + 9?",
-    "audio_prompt": "Which numeral equals 9×10⁵ + 9×10 + 9?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "900099",
@@ -1205,26 +1713,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Evaluate each place-value term and add them: 9×10⁵ + 9×10 + 9 = 900099.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Evaluate each place-value term and add them: 9×10⁵ + 9×10 + 9 = 900099.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-010"
   },
   {
-    "id": "AC9M7N03-T-011",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
     "question": "Which is the standard expanded form of 4,080,019?",
-    "audio_prompt": "Which is the standard expanded form of 4,080,019?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "7×10⁵ + 2×10³ + 6×10 + 4",
@@ -1239,26 +1741,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Match every non-zero digit to its power-of-ten place: 4×10⁶ + 8×10⁴ + 1×10 + 9.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Match every non-zero digit to its power-of-ten place: 4×10⁶ + 8×10⁴ + 1×10 + 9.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-011"
   },
   {
-    "id": "AC9M7N03-T-012",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
     "question": "Which is the standard expanded form of 702,064?",
-    "audio_prompt": "Which is the standard expanded form of 702,064?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "702064×10⁰",
@@ -1273,26 +1769,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Match every non-zero digit to its power-of-ten place: 7×10⁵ + 2×10³ + 6×10 + 4.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Match every non-zero digit to its power-of-ten place: 7×10⁵ + 2×10³ + 6×10 + 4.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-012"
   },
   {
-    "id": "AC9M7N03-T-013",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
     "question": "Which is the standard expanded form of 9,300,500?",
-    "audio_prompt": "Which is the standard expanded form of 9,300,500?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "9×10⁶ + 3×10⁵ + 5×10²",
@@ -1307,26 +1797,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Match every non-zero digit to its power-of-ten place: 9×10⁶ + 3×10⁵ + 5×10².",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Match every non-zero digit to its power-of-ten place: 9×10⁶ + 3×10⁵ + 5×10².\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-013"
   },
   {
-    "id": "AC9M7N03-T-014",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "hard",
     "question": "Which is the standard expanded form of 67,002?",
-    "audio_prompt": "Which is the standard expanded form of 67,002?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "5×10⁷ + 4×10⁵ + 8×10² + 1",
@@ -1341,26 +1825,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Match every non-zero digit to its power-of-ten place: 6×10⁴ + 7×10³ + 2.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Match every non-zero digit to its power-of-ten place: 6×10⁴ + 7×10³ + 2.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-014"
   },
   {
-    "id": "AC9M7N03-T-015",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "super-hard",
     "question": "Which is the standard expanded form of 50,400,801?",
-    "audio_prompt": "Which is the standard expanded form of 50,400,801?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "50400801×10⁰",
@@ -1375,26 +1853,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Match every non-zero digit to its power-of-ten place: 5×10⁷ + 4×10⁵ + 8×10² + 1.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Match every non-zero digit to its power-of-ten place: 5×10⁷ + 4×10⁵ + 8×10² + 1.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-015"
   },
   {
-    "id": "AC9M7N03-T-016",
     "subject": "math",
     "year_level": "Year 7",
     "curriculum_code": "AC9M7N03",
     "bank": "test",
-    "skill": "expanded_notation_with_powers_of_10",
+    "skill": "ac9m7n03",
+    "difficulty": "super-hard",
     "question": "Which is the standard expanded form of 3,000,207?",
-    "audio_prompt": "Which is the standard expanded form of 3,000,207?",
-    "visual": {
-      "type": "svg",
-      "asset_path": "/assets/assessment-visuals/year7/maths/batch1.svg#ac9m7n03",
-      "alt_text": "Place-value chart linking digit positions to positive and negative powers of ten."
-    },
     "answers": [
       {
         "text": "3×10⁶ + 2×10² + 7",
@@ -1409,10 +1881,10 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "Match every non-zero digit to its power-of-ten place: 3×10⁶ + 2×10² + 7.",
-      "hint": "Track each digit's place and multiply it by the matching power of ten."
-    }
+      "summary": "Match every non-zero digit to its power-of-ten place: 3×10⁶ + 2×10² + 7.\nHint: Track each digit's place and multiply it by the matching power of ten.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7N03-T-016"
   }
 ]

@@ -1,17 +1,1292 @@
 [
   {
-    "id": "ac9m7m05-p-001",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "practice",
-    "skill": "demonstrate_180",
-    "question": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "The sum of the interior angles of any triangle is:",
+    "answers": [
+      {
+        "text": "90°",
+        "is_correct": false
+      },
+      {
+        "text": "180°",
+        "is_correct": true
+      },
+      {
+        "text": "270°",
+        "is_correct": false
+      },
+      {
+        "text": "360°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Every triangle in the plane has an interior angle sum of 180°.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
+    "id": "AC9M7M05-P-001"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles 50°, 60° and x°. Find x.",
+    "answers": [
+      {
+        "text": "60°",
+        "is_correct": false
+      },
+      {
+        "text": "70°",
+        "is_correct": true
+      },
+      {
+        "text": "80°",
+        "is_correct": false
+      },
+      {
+        "text": "90°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "50+60+x=180, so x=70°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-002"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles 35°, 75° and x°. Find x.",
+    "answers": [
+      {
+        "text": "60°",
+        "is_correct": false
+      },
+      {
+        "text": "70°",
+        "is_correct": true
+      },
+      {
+        "text": "80°",
+        "is_correct": false
+      },
+      {
+        "text": "90°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "35+75=110, so x=180−110=70°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-003"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles 90°, 45° and x°. Find x.",
+    "answers": [
+      {
+        "text": "35°",
+        "is_correct": false
+      },
+      {
+        "text": "45°",
+        "is_correct": true
+      },
+      {
+        "text": "55°",
+        "is_correct": false
+      },
+      {
+        "text": "60°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "90+45+x=180, so x=45°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-004"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles 2x°, 3x° and 4x°. Find x.",
+    "answers": [
+      {
+        "text": "10°",
+        "is_correct": false
+      },
+      {
+        "text": "12°",
+        "is_correct": false
+      },
+      {
+        "text": "15°",
+        "is_correct": false
+      },
+      {
+        "text": "20°",
+        "is_correct": true
+      }
+    ],
+    "explanation": {
+      "summary": "2x+3x+4x=180, so 9x=180 and x=20°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-005"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles x°, x° and 40°. Find x.",
+    "answers": [
+      {
+        "text": "60°",
+        "is_correct": false
+      },
+      {
+        "text": "70°",
+        "is_correct": true
+      },
+      {
+        "text": "80°",
+        "is_correct": false
+      },
+      {
+        "text": "90°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2x+40=180, so 2x=140 and x=70°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-006"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles 3x°, 3x° and 6x°. Find x.",
+    "answers": [
+      {
+        "text": "10°",
+        "is_correct": false
+      },
+      {
+        "text": "15°",
+        "is_correct": true
+      },
+      {
+        "text": "20°",
+        "is_correct": false
+      },
+      {
+        "text": "30°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "12x=180, so x=15°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-007"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles 40°, x° and (x+20)°. Find x.",
+    "answers": [
+      {
+        "text": "40°",
+        "is_correct": false
+      },
+      {
+        "text": "50°",
+        "is_correct": false
+      },
+      {
+        "text": "60°",
+        "is_correct": true
+      },
+      {
+        "text": "70°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "40+x+x+20=180, so 2x=120 and x=60°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles 2x°, 4x° and 6x°. What is the angle measuring 4x°?",
+    "answers": [
+      {
+        "text": "40°",
+        "is_correct": false
+      },
+      {
+        "text": "60°",
+        "is_correct": true
+      },
+      {
+        "text": "80°",
+        "is_correct": false
+      },
+      {
+        "text": "100°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "12x=180 gives x=15°, so 4x=60°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles 30°, 70° and x°. Find x.",
+    "answers": [
+      {
+        "text": "70°",
+        "is_correct": false
+      },
+      {
+        "text": "80°",
+        "is_correct": true
+      },
+      {
+        "text": "90°",
+        "is_correct": false
+      },
+      {
+        "text": "100°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "30+70=100, so x=80°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "Tearing the three corners off a paper triangle and placing them together shows they form:",
+    "answers": [
+      {
+        "text": "A right angle",
+        "is_correct": false
+      },
+      {
+        "text": "A straight line",
+        "is_correct": true
+      },
+      {
+        "text": "A reflex angle",
+        "is_correct": false
+      },
+      {
+        "text": "A full turn",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The three corners fit along a straight line, visually demonstrating a total of 180°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "The straight line formed by the three angles of a triangle represents:",
+    "answers": [
+      {
+        "text": "90°",
+        "is_correct": false
+      },
+      {
+        "text": "180°",
+        "is_correct": true
+      },
+      {
+        "text": "270°",
+        "is_correct": false
+      },
+      {
+        "text": "360°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A straight angle measures 180°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The triangle angle sum is used as a basis to find angle sums of:",
+    "answers": [
+      {
+        "text": "Circles",
+        "is_correct": false
+      },
+      {
+        "text": "Polygons",
+        "is_correct": true
+      },
+      {
+        "text": "Sectors",
+        "is_correct": false
+      },
+      {
+        "text": "Arcs",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Polygons can be decomposed into triangles, so the triangle sum is the basis of polygon angle sums.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The triangle angle sum is an example of:",
+    "answers": [
+      {
+        "text": "Measurement only",
+        "is_correct": false
+      },
+      {
+        "text": "Geometric reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "Probability",
+        "is_correct": false
+      },
+      {
+        "text": "Statistics",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The 180° result is a geometric property used to reason about unknown angles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "Angles located inside a polygon at its vertices are called:",
+    "answers": [
+      {
+        "text": "Exterior angles",
+        "is_correct": false
+      },
+      {
+        "text": "Interior angles",
+        "is_correct": true
+      },
+      {
+        "text": "Reflex turns",
+        "is_correct": false
+      },
+      {
+        "text": "Central angles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Interior angles lie inside the polygon at each vertex.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "Why is the interior-angle sum 180° for every triangle in the plane?",
+    "answers": [
+      {
+        "text": "All triangles are congruent",
+        "is_correct": false
+      },
+      {
+        "text": "It is a geometric property of the Euclidean plane",
+        "is_correct": true
+      },
+      {
+        "text": "It depends on side length",
+        "is_correct": false
+      },
+      {
+        "text": "It changes with area",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The result is independent of the triangle's size or shape in Euclidean geometry.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-016"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "Using several paper triangles to investigate angle sums is an example of:",
+    "answers": [
+      {
+        "text": "Algebraic factorisation",
+        "is_correct": false
+      },
+      {
+        "text": "Concrete modelling",
+        "is_correct": true
+      },
+      {
+        "text": "Probability simulation",
+        "is_correct": false
+      },
+      {
+        "text": "Data coding",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Physical triangles provide a concrete model of the 180° relationship.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-017"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The triangle angle-sum rule holds for:",
+    "answers": [
+      {
+        "text": "Only right triangles",
+        "is_correct": false
+      },
+      {
+        "text": "Only isosceles triangles",
+        "is_correct": false
+      },
+      {
+        "text": "Only scalene triangles",
+        "is_correct": false
+      },
+      {
+        "text": "All triangles in the plane",
+        "is_correct": true
+      }
+    ],
+    "explanation": {
+      "summary": "Right, acute, obtuse, scalene and isosceles triangles all have interior angles summing to 180°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-018"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "A triangle with angles 0°, 90° and 90° is:",
+    "answers": [
+      {
+        "text": "Possible",
+        "is_correct": false
+      },
+      {
+        "text": "Impossible",
+        "is_correct": true
+      },
+      {
+        "text": "Isosceles",
+        "is_correct": false
+      },
+      {
+        "text": "Right",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A triangle cannot have a 0° interior angle; it would be degenerate.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-019"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "A triangle with angles 100°, 50° and 40° is:",
+    "answers": [
+      {
+        "text": "Possible",
+        "is_correct": false
+      },
+      {
+        "text": "Impossible",
+        "is_correct": true
+      },
+      {
+        "text": "Right",
+        "is_correct": false
+      },
+      {
+        "text": "Isosceles",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The angles total 190°, not 180°, so the triangle is impossible.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-020"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The interior angle sum of a quadrilateral is:",
+    "answers": [
+      {
+        "text": "180°",
+        "is_correct": false
+      },
+      {
+        "text": "270°",
+        "is_correct": false
+      },
+      {
+        "text": "360°",
+        "is_correct": true
+      },
+      {
+        "text": "540°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180(4−2)=360°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-021"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The interior angle sum of a pentagon is:",
+    "answers": [
+      {
+        "text": "360°",
+        "is_correct": false
+      },
+      {
+        "text": "540°",
+        "is_correct": true
+      },
+      {
+        "text": "720°",
+        "is_correct": false
+      },
+      {
+        "text": "900°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180(5−2)=540°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-022"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The interior angle sum of a hexagon is:",
+    "answers": [
+      {
+        "text": "360°",
+        "is_correct": false
+      },
+      {
+        "text": "540°",
+        "is_correct": false
+      },
+      {
+        "text": "720°",
+        "is_correct": true
+      },
+      {
+        "text": "900°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180(6−2)=720°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-023"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The general formula for the interior angle sum of an n-sided polygon is:",
+    "answers": [
+      {
+        "text": "90n",
+        "is_correct": false
+      },
+      {
+        "text": "180n",
+        "is_correct": false
+      },
+      {
+        "text": "180(n−2)",
+        "is_correct": true
+      },
+      {
+        "text": "360n",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "An n-gon can be decomposed into n−2 triangles, each contributing 180°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-024"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The interior angle sum of an octagon is:",
+    "answers": [
+      {
+        "text": "720°",
+        "is_correct": false
+      },
+      {
+        "text": "900°",
+        "is_correct": false
+      },
+      {
+        "text": "1080°",
+        "is_correct": true
+      },
+      {
+        "text": "1260°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180(8−2)=1080°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-025"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "A polygon has interior angle sum 900°. How many sides does it have?",
+    "answers": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      },
+      {
+        "text": "8",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180(n−2)=900 gives n−2=5, so n=7.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-026"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "A polygon has interior angle sum 1260°. How many sides does it have?",
+    "answers": [
+      {
+        "text": "8",
+        "is_correct": false
+      },
+      {
+        "text": "9",
+        "is_correct": true
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180(n−2)=1260 gives n−2=7, so n=9.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-027"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The interior angle sum of a triangle can be written as:",
+    "answers": [
+      {
+        "text": "180(3−2)",
+        "is_correct": true
+      },
+      {
+        "text": "180(3−1)",
+        "is_correct": false
+      },
+      {
+        "text": "180(3−3)",
+        "is_correct": false
+      },
+      {
+        "text": "180(3−4)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180(3−2)=180°, matching the triangle angle sum.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-028"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The interior angle sum of a decagon is:",
+    "answers": [
+      {
+        "text": "1080°",
+        "is_correct": false
+      },
+      {
+        "text": "1260°",
+        "is_correct": false
+      },
+      {
+        "text": "1440°",
+        "is_correct": true
+      },
+      {
+        "text": "1620°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180(10−2)=1440°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-029"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The expression 180n−360 is equivalent to:",
+    "answers": [
+      {
+        "text": "180(n+2)",
+        "is_correct": false
+      },
+      {
+        "text": "180(n−2)",
+        "is_correct": true
+      },
+      {
+        "text": "360(n−2)",
+        "is_correct": false
+      },
+      {
+        "text": "90(n−2)",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "Factoring 180 from 180n−360 gives 180(n−2).",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-030"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A quadrilateral has angles 90°, 80°, 70° and x°. Find x.",
+    "answers": [
+      {
+        "text": "90°",
+        "is_correct": false
+      },
+      {
+        "text": "100°",
+        "is_correct": false
+      },
+      {
+        "text": "120°",
+        "is_correct": true
+      },
+      {
+        "text": "130°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A quadrilateral totals 360°. The known angles total 240°, so x=120°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-031"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A pentagon has angles 100°, 120°, 95°, 85° and x°. Find x.",
+    "answers": [
+      {
+        "text": "120°",
+        "is_correct": false
+      },
+      {
+        "text": "130°",
+        "is_correct": false
+      },
+      {
+        "text": "140°",
+        "is_correct": true
+      },
+      {
+        "text": "150°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A pentagon totals 540°. The known angles total 400°, so x=140°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-032"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A hexagon has angles 100°, 110°, 120°, 130°, 140° and x°. Find x.",
+    "answers": [
+      {
+        "text": "60°",
+        "is_correct": false
+      },
+      {
+        "text": "80°",
+        "is_correct": false
+      },
+      {
+        "text": "100°",
+        "is_correct": false
+      },
+      {
+        "text": "120°",
+        "is_correct": true
+      }
+    ],
+    "explanation": {
+      "summary": "A hexagon totals 720°. The five known angles total 600°, so x=120°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-033"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A quadrilateral has angles x°, x°, 90° and 120°. Find x.",
+    "answers": [
+      {
+        "text": "60°",
+        "is_correct": false
+      },
+      {
+        "text": "75°",
+        "is_correct": true
+      },
+      {
+        "text": "80°",
+        "is_correct": false
+      },
+      {
+        "text": "85°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "2x+90+120=360, so 2x=150 and x=75°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-034"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A pentagon has angles 3x°, 3x°, 4x°, 5x° and 6x°. Find x to the nearest tenth of a degree.",
+    "answers": [
+      {
+        "text": "20.0°",
+        "is_correct": false
+      },
+      {
+        "text": "25.7°",
+        "is_correct": true
+      },
+      {
+        "text": "27.0°",
+        "is_correct": false
+      },
+      {
+        "text": "30.0°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The pentagon total is 540°. Thus 21x=540 and x≈25.7°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-035"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A quadrilateral has angles 2x°, 3x°, 4x° and 5x°. Find x to the nearest tenth of a degree.",
+    "answers": [
+      {
+        "text": "20.0°",
+        "is_correct": false
+      },
+      {
+        "text": "24.0°",
+        "is_correct": false
+      },
+      {
+        "text": "25.7°",
+        "is_correct": true
+      },
+      {
+        "text": "30.0°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The quadrilateral total is 360°. Thus 14x=360 and x≈25.7°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-036"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A quadrilateral has angles 90°, 90°, 90° and x°. Find x.",
+    "answers": [
+      {
+        "text": "60°",
+        "is_correct": false
+      },
+      {
+        "text": "90°",
+        "is_correct": true
+      },
+      {
+        "text": "120°",
+        "is_correct": false
+      },
+      {
+        "text": "180°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A quadrilateral totals 360°, so x=360−270=90°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-037"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A regular pentagon has equal interior angles. Each interior angle is:",
+    "answers": [
+      {
+        "text": "90°",
+        "is_correct": false
+      },
+      {
+        "text": "100°",
+        "is_correct": false
+      },
+      {
+        "text": "108°",
+        "is_correct": true
+      },
+      {
+        "text": "120°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The sum is 540°. Dividing by 5 gives 108°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-038"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A regular hexagon has equal interior angles. Each interior angle is:",
+    "answers": [
+      {
+        "text": "100°",
+        "is_correct": false
+      },
+      {
+        "text": "110°",
+        "is_correct": false
+      },
+      {
+        "text": "120°",
+        "is_correct": true
+      },
+      {
+        "text": "130°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The sum is 720°. Dividing by 6 gives 120°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-039"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A regular octagon has equal interior angles. Each interior angle is:",
+    "answers": [
+      {
+        "text": "120°",
+        "is_correct": false
+      },
+      {
+        "text": "135°",
+        "is_correct": true
+      },
+      {
+        "text": "140°",
+        "is_correct": false
+      },
+      {
+        "text": "150°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The sum is 1080°. Dividing by 8 gives 135°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-P-040"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "practice",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
     "answers": [
       {
         "text": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
@@ -30,27 +1305,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
-      "hint": "Use given markings and relationships."
+      "summary": "In an isosceles triangle with vertex angle 40°, each base angle is 70°\nHint: Use given markings and relationships.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M05-P-041"
   },
   {
-    "id": "ac9m7m05-p-002",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "practice",
-    "skill": "find_a_missing_angle",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
     "question": "A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Isosceles equality applied to wrong angles",
@@ -69,27 +1337,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
-      "hint": "Equal sides face equal angles."
+      "summary": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.\nHint: Equal sides face equal angles.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M05-P-042"
   },
   {
-    "id": "ac9m7m05-p-003",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "practice",
-    "skill": "use_isosceles_property",
+    "skill": "ac9m7m05",
+    "difficulty": "super-hard",
     "question": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Exterior angle added as a fourth interior angle",
@@ -108,27 +1369,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
-      "hint": "Relate it to a straight line or remote interior angles."
+      "summary": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.\nHint: Relate it to a straight line or remote interior angles.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M05-P-043"
   },
   {
-    "id": "ac9m7m05-p-004",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "practice",
-    "skill": "use_exterior_angle_theorem",
+    "skill": "ac9m7m05",
+    "difficulty": "super-hard",
     "question": "A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "180° rule extended to non-Euclidean surfaces without qualification",
@@ -147,27 +1401,20 @@
         "is_correct": true
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
-      "hint": "The code concerns Euclidean space."
+      "summary": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.\nHint: The code concerns Euclidean space.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M05-P-044"
   },
   {
-    "id": "ac9m7m05-p-005",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "practice",
-    "skill": "write_a_deductive_reason",
+    "skill": "ac9m7m05",
+    "difficulty": "super-hard",
     "question": "Which statement correctly identifies exterior angle in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which statement correctly identifies exterior angle in triangle angle sum and unknown angles?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
@@ -186,28 +1433,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
-      "hint": "Use given markings and relationships."
+      "summary": "In an isosceles triangle with vertex angle 40°, each base angle is 70°\nHint: Use given markings and relationships.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M05-P-045"
   },
   {
-    "id": "ac9m7m05-p-006",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "practice",
-    "skill": "demonstrate_180",
+    "skill": "ac9m7m05",
+    "difficulty": "super-hard",
     "question": "Which choice best describes Euclidean geometry in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which choice best describes Euclidean geometry in triangle angle sum and unknown angles?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Isosceles equality applied to wrong angles",
@@ -226,28 +1465,20 @@
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
-      "hint": "Equal sides face equal angles."
+      "summary": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.\nHint: Equal sides face equal angles.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M05-P-046"
   },
   {
-    "id": "ac9m7m05-p-007",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "practice",
-    "skill": "find_a_missing_angle",
+    "skill": "ac9m7m05",
+    "difficulty": "super-hard",
     "question": "What does correct use require for interior angle in triangle angle sum and unknown angles?",
-    "audio_prompt": "What does correct use require for interior angle in triangle angle sum and unknown angles?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
       {
         "text": "Exterior angle added as a fourth interior angle",
@@ -266,348 +1497,554 @@
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
-      "hint": "Relate it to a straight line or remote interior angles."
+      "summary": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.\nHint: Relate it to a straight line or remote interior angles.",
+      "hint": "Show the key mathematical relationship before calculating."
     },
-    "difficulty": 1,
-    "difficulty_tier": "confidence",
-    "sequence_priority": 1
+    "id": "AC9M7M05-P-047"
   },
   {
-    "id": "ac9m7m05-p-008",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "practice",
-    "skill": "use_isosceles_property",
-    "question": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving use isosceles property. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m05",
+    "difficulty": "super-hard",
+    "question": "Polygon 1: What is the interior-angle sum of a 5-gon?",
     "answers": [
       {
-        "text": "180° rule extended to non-Euclidean surfaces without qualification",
-        "is_correct": false
-      },
-      {
-        "text": "The code concerns Euclidean space",
-        "is_correct": false
-      },
-      {
-        "text": "Angle inside a polygon at a vertex",
-        "is_correct": false
-      },
-      {
-        "text": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
+        "text": "540°",
         "is_correct": true
+      },
+      {
+        "text": "900°",
+        "is_correct": false
+      },
+      {
+        "text": "720°",
+        "is_correct": false
+      },
+      {
+        "text": "360°",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
-      "hint": "The code concerns Euclidean space."
+      "summary": "Triangulating from one vertex creates n−2 triangles, so the sum is (n−2)×180°.",
+      "hint": "Use (n−2)×180°."
     },
-    "difficulty": 2,
-    "sequence_priority": 2
+    "id": "AC9M7M05-P-048"
   },
   {
-    "id": "ac9m7m05-t-001",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "test",
-    "skill": "use_exterior_angle_theorem",
-    "question": "A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving use exterior angle theorem. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles (x+10)°, 2x° and 3x°. Find x.",
     "answers": [
       {
-        "text": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
+        "text": "20°",
+        "is_correct": false
+      },
+      {
+        "text": "25°",
+        "is_correct": false
+      },
+      {
+        "text": "28.3°",
         "is_correct": true
       },
       {
-        "text": "Angles read from diagram appearance",
-        "is_correct": false
-      },
-      {
-        "text": "Use given markings and relationships",
-        "is_correct": false
-      },
-      {
-        "text": "Angle inside a polygon at a vertex",
+        "text": "30°",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
-      "hint": "Use given markings and relationships."
-    }
+      "summary": "(x+10)+2x+3x=180 gives 6x=170, so x≈28.3°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-001"
   },
   {
-    "id": "ac9m7m05-t-002",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "test",
-    "skill": "write_a_deductive_reason",
-    "question": "A Year 7 student is solving a problem involving write a deductive reason. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving write a deductive reason. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "An isosceles triangle has a vertex angle of 38°. What is each base angle?",
     "answers": [
       {
-        "text": "Isosceles equality applied to wrong angles",
-        "is_correct": false
-      },
-      {
-        "text": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
+        "text": "71°",
         "is_correct": true
       },
       {
-        "text": "Equal sides face equal angles",
+        "text": "72°",
         "is_correct": false
       },
       {
-        "text": "Angle inside a polygon at a vertex",
+        "text": "76°",
+        "is_correct": false
+      },
+      {
+        "text": "142°",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
-      "hint": "Equal sides face equal angles."
-    }
+      "summary": "The two equal base angles share 180−38=142°, so each is 71°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-002"
   },
   {
-    "id": "ac9m7m05-t-003",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "test",
-    "skill": "demonstrate_180",
-    "question": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has one angle twice a second angle. The third angle is 45°. If the smaller of the first two angles is x°, find x.",
     "answers": [
       {
-        "text": "Exterior angle added as a fourth interior angle",
+        "text": "35°",
         "is_correct": false
       },
       {
-        "text": "Relate it to a straight line or remote interior angles",
+        "text": "40°",
         "is_correct": false
       },
       {
-        "text": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
+        "text": "45°",
         "is_correct": true
       },
       {
-        "text": "Angle inside a polygon at a vertex",
+        "text": "50°",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
-      "hint": "Relate it to a straight line or remote interior angles."
-    }
+      "summary": "x+2x+45=180, so 3x=135 and x=45°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-003"
   },
   {
-    "id": "ac9m7m05-t-004",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "test",
-    "skill": "find_a_missing_angle",
-    "question": "A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving find a missing angle. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m05",
+    "difficulty": "easy",
+    "question": "A triangle has angles in the ratio 2:3:4. What is the largest angle?",
     "answers": [
       {
-        "text": "180° rule extended to non-Euclidean surfaces without qualification",
+        "text": "40°",
         "is_correct": false
       },
       {
-        "text": "The code concerns Euclidean space",
+        "text": "60°",
         "is_correct": false
       },
       {
-        "text": "Angle inside a polygon at a vertex",
-        "is_correct": false
-      },
-      {
-        "text": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
+        "text": "80°",
         "is_correct": true
+      },
+      {
+        "text": "90°",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
-      "hint": "The code concerns Euclidean space."
-    }
+      "summary": "There are 9 parts, so each part is 20°. The largest angle is 4×20=80°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-004"
   },
   {
-    "id": "ac9m7m05-t-005",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "test",
-    "skill": "use_isosceles_property",
-    "question": "What should be checked when applying use isosceles property in triangle angle sum and unknown angles?",
-    "audio_prompt": "What should be checked when applying use isosceles property in triangle angle sum and unknown angles?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "Which statement best explains why tearing the corners from several different triangles is useful?",
     "answers": [
       {
-        "text": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
+        "text": "It proves all triangles are congruent",
+        "is_correct": false
+      },
+      {
+        "text": "It shows the 180° result is not limited to one triangle shape",
         "is_correct": true
       },
       {
-        "text": "Angles read from diagram appearance",
+        "text": "It shows all angles are equal",
         "is_correct": false
       },
       {
-        "text": "Use given markings and relationships",
-        "is_correct": false
-      },
-      {
-        "text": "Angle inside a polygon at a vertex",
+        "text": "It measures side lengths",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
     "explanation": {
-      "summary": "In an isosceles triangle with vertex angle 40°, each base angle is 70°",
-      "hint": "Use given markings and relationships."
-    }
+      "summary": "Using different triangle shapes supports the general observation that their three interior angles form a straight angle.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-005"
   },
   {
-    "id": "ac9m7m05-t-006",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "test",
-    "skill": "use_exterior_angle_theorem",
-    "question": "Which response best uses use exterior-angle theorem in triangle angle sum and unknown angles?",
-    "audio_prompt": "Which response best uses use exterior-angle theorem in triangle angle sum and unknown angles?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "A quadrilateral is divided by one diagonal. How many triangles are formed?",
     "answers": [
       {
-        "text": "Isosceles equality applied to wrong angles",
+        "text": "1",
         "is_correct": false
       },
       {
-        "text": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
+        "text": "2",
         "is_correct": true
       },
       {
-        "text": "Equal sides face equal angles",
+        "text": "3",
         "is_correct": false
       },
       {
-        "text": "Angle inside a polygon at a vertex",
+        "text": "4",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
     "explanation": {
-      "summary": "Tearing or rotating triangle corners gives an empirical demonstration; the parallel-line construction provides a deductive argument.",
-      "hint": "Equal sides face equal angles."
-    }
+      "summary": "One diagonal from a vertex divides a quadrilateral into 2 triangles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-006"
   },
   {
-    "id": "ac9m7m05-t-007",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "test",
-    "skill": "write_a_deductive_reason",
-    "question": "A Year 7 student is solving a problem involving write a deductive reason. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving write a deductive reason. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "A heptagon is decomposed into triangles from one vertex. How many triangles are formed?",
     "answers": [
       {
-        "text": "Exterior angle added as a fourth interior angle",
+        "text": "4",
         "is_correct": false
       },
       {
-        "text": "Relate it to a straight line or remote interior angles",
-        "is_correct": false
-      },
-      {
-        "text": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
+        "text": "5",
         "is_correct": true
       },
       {
-        "text": "Angle inside a polygon at a vertex",
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
         "is_correct": false
       }
     ],
-    "correct_index": 2,
     "explanation": {
-      "summary": "Use equal-side markings to justify equal base angles. Do not assume an isosceles or right triangle from appearance.",
-      "hint": "Relate it to a straight line or remote interior angles."
-    }
+      "summary": "An n-gon forms n−2 triangles, so a heptagon forms 5 triangles.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-007"
   },
   {
-    "id": "ac9m7m05-t-008",
-    "curriculum_code": "AC9M7M05",
-    "year_level": "Year 7",
     "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
     "bank": "test",
-    "skill": "demonstrate_180",
-    "question": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
-    "audio_prompt": "A Year 7 student is solving a problem involving demonstrate 180. Which option is mathematically valid?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "Which expression gives the interior angle sum of a 12-gon?",
     "answers": [
       {
-        "text": "180° rule extended to non-Euclidean surfaces without qualification",
-        "is_correct": false
-      },
-      {
-        "text": "The code concerns Euclidean space",
-        "is_correct": false
-      },
-      {
-        "text": "Angle inside a polygon at a vertex",
-        "is_correct": false
-      },
-      {
-        "text": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
+        "text": "180×10",
         "is_correct": true
+      },
+      {
+        "text": "180×12",
+        "is_correct": false
+      },
+      {
+        "text": "360×10",
+        "is_correct": false
+      },
+      {
+        "text": "180×14",
+        "is_correct": false
       }
     ],
-    "correct_index": 3,
     "explanation": {
-      "summary": "The three interior angles of a Euclidean triangle sum to 180°, a result connected to parallel-line angle relationships.",
-      "hint": "The code concerns Euclidean space."
-    }
+      "summary": "For n=12, use 180(n−2)=180×10.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-008"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "test",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The interior angle sum of a polygon is 1620°. How many sides does it have?",
+    "answers": [
+      {
+        "text": "9",
+        "is_correct": false
+      },
+      {
+        "text": "10",
+        "is_correct": false
+      },
+      {
+        "text": "11",
+        "is_correct": true
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180(n−2)=1620 gives n−2=9, so n=11.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-009"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "test",
+    "skill": "ac9m7m05",
+    "difficulty": "medium",
+    "question": "The interior angle sum of a polygon is 1980°. How many sides does it have?",
+    "answers": [
+      {
+        "text": "11",
+        "is_correct": false
+      },
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "13",
+        "is_correct": true
+      },
+      {
+        "text": "14",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "180(n−2)=1980 gives n−2=11, so n=13.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-010"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "test",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A pentagon has angles 90°, 110°, 125°, 95° and x°. Find x.",
+    "answers": [
+      {
+        "text": "100°",
+        "is_correct": false
+      },
+      {
+        "text": "110°",
+        "is_correct": false
+      },
+      {
+        "text": "120°",
+        "is_correct": true
+      },
+      {
+        "text": "130°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "The pentagon sum is 540°. Known angles total 420°, so x=120°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-011"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "test",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A hexagon has four angles of 120°, one angle of 110°, and one angle x°. Find x.",
+    "answers": [
+      {
+        "text": "110°",
+        "is_correct": false
+      },
+      {
+        "text": "120°",
+        "is_correct": false
+      },
+      {
+        "text": "130°",
+        "is_correct": true
+      },
+      {
+        "text": "140°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A hexagon totals 720°. Known angles total 590°, so x=130°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-012"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "test",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A quadrilateral has angles x°, 2x°, 3x° and 4x°. Find the largest angle.",
+    "answers": [
+      {
+        "text": "108°",
+        "is_correct": false
+      },
+      {
+        "text": "120°",
+        "is_correct": false
+      },
+      {
+        "text": "144°",
+        "is_correct": true
+      },
+      {
+        "text": "160°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "10x=360, so x=36°. The largest angle is 4x=144°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-013"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "test",
+    "skill": "ac9m7m05",
+    "difficulty": "hard",
+    "question": "A pentagon has angles x°, x°, x°, 120° and 150°. Find x.",
+    "answers": [
+      {
+        "text": "80°",
+        "is_correct": false
+      },
+      {
+        "text": "90°",
+        "is_correct": true
+      },
+      {
+        "text": "100°",
+        "is_correct": false
+      },
+      {
+        "text": "110°",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "3x+270=540, so 3x=270 and x=90°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-014"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "test",
+    "skill": "ac9m7m05",
+    "difficulty": "super-hard",
+    "question": "A regular polygon has an interior angle of 120°. Which polygon is it?",
+    "answers": [
+      {
+        "text": "Pentagon",
+        "is_correct": false
+      },
+      {
+        "text": "Hexagon",
+        "is_correct": true
+      },
+      {
+        "text": "Heptagon",
+        "is_correct": false
+      },
+      {
+        "text": "Octagon",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A regular hexagon has interior angle 120° because 720÷6=120°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-015"
+  },
+  {
+    "subject": "math",
+    "year_level": "Year 7",
+    "curriculum_code": "AC9M7M05",
+    "bank": "test",
+    "skill": "ac9m7m05",
+    "difficulty": "super-hard",
+    "question": "A regular polygon has an interior angle of 135°. Which polygon is it?",
+    "answers": [
+      {
+        "text": "Hexagon",
+        "is_correct": false
+      },
+      {
+        "text": "Heptagon",
+        "is_correct": false
+      },
+      {
+        "text": "Octagon",
+        "is_correct": true
+      },
+      {
+        "text": "Nonagon",
+        "is_correct": false
+      }
+    ],
+    "explanation": {
+      "summary": "A regular octagon has interior angle 1080÷8=135°.",
+      "hint": "Show the key mathematical relationship before calculating."
+    },
+    "id": "AC9M7M05-T-016"
   }
 ]
