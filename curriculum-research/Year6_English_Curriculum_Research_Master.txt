@@ -1,0 +1,15 @@
+# SkillrHub — Year 6 English Curriculum Research Master
+
+Run: Year 6 English
+Status: Phase 1 in progress
+
+Verified IXL Australia mapping source: National curriculum > English > Year 6, Australian Curriculum v9.0. The mapping lists 23 Year 6 English descriptors: AC9E6LA01–AC9E6LA09, AC9E6LE01–AC9E6LE05 and AC9E6LY01–AC9E6LY09.
+
+Research approach: IXL interactive catalogue and mappings; Khan Academy is supplementary and not AC v9 code-mapped; ABC Education and other public educational resources are used for scope/context only. SkillrHub questions and passages will be original.
+
+Existing Year 6 English repository audit: each code already has a topic guide, Classroom View, worksheet/homework, practice bank and separate test bank. Existing question-bank files require expansion and code-level QA to meet the requested 48 practice and 16 test questions.
+
+First code opened: AC9E6LA01 — Understand that language varies as levels of formality and social distance increase.
+IXL mappings checked: Which sentence is more formal; Compare passages for tone; Distinguish facts from opinions; Describe the difference between related words; Positive and negative connotation.
+Authoring scope: formal/informal register, social distance, context and purpose, tone, vocabulary and sentence-level choices; avoid labelling dialects/community varieties as deficient.
+Research status: CONTINUING.
