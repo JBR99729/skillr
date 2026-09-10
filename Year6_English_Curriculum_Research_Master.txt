@@ -5,7 +5,7 @@ Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
 CURRENT_CODE: RESEARCH-COMPLETE
-NEXT_CODE: AUTHORING-AC9E6LA07
+NEXT_CODE: AUTHORING-AC9E6LE03
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — IXL curriculum page rechecked: no mapped IXL skill; Learn-with-an-example is not applicable.
@@ -2182,10 +2182,10 @@ YEAR 6 ENGLISH RESEARCH PHASE:
 COMPLETE — ALL CODES AUTHORING-READY.
 
 AUTHORING CURRENT_CODE:
-AC9E6LA07
+AC9E6LE03
 
 AUTHORING NEXT_CODE:
-AC9E6LA08
+AC9E6LE04
 
 
 
@@ -2336,3 +2336,35 @@ Each upgraded page now includes definitions, age-appropriate original examples, 
 
 STATUS:
 AC9E6LA02–AC9E6LA06 TOPIC PAGES CONTENT VERIFIED.
+
+
+
+==================================================
+AUTHORING CHECKPOINT — FIVE-CODE BATCH 2
+CODES: AC9E6LA07, AC9E6LA08, AC9E6LA09, AC9E6LE01, AC9E6LE02
+
+TOPIC-PAGE UPGRADES:
+- LA07 now explicitly teaches representation choice, titles/labels/legends/axes/units/scales/captions, text–visual integration and misleading-scale evaluation.
+- LA08 now teaches metaphor, simile, personification, hyperbole, idiom and sensory imagery through literal-to-suggested-meaning and tone/effect reasoning.
+- LA09 now teaches Australian list conventions, introductory/following dependent clauses, comma-splice repair and dialogue punctuation across attribution positions.
+- LE01 now teaches response versus retell, evidence–context reasoning, multiple defensible readings and culturally respectful engagement with specific First Nations Australian contexts.
+- LE02 now distinguishes topic/theme/plot and teaches parallel evidence, cross-genre comparison and comparative paragraph construction.
+
+RESOURCE QA:
+- Topic Pages contain original worked examples, reasoning routines and misconception guidance.
+- Existing Classroom Views remain available and curriculum-specific.
+- Existing printable Homework/Worksheet routes load the shared banks.
+- Every Practice bank contains exactly 48 original questions.
+- Every Test bank contains exactly 16 separate questions.
+- Automated stem comparison: zero Practice/Test duplicates for all five codes.
+- Answers, explanations, hints, audio prompts and printable metadata verified.
+
+CONTENT STATUS:
+AC9E6LA07 — CONTENT VERIFIED.
+AC9E6LA08 — CONTENT VERIFIED.
+AC9E6LA09 — CONTENT VERIFIED.
+AC9E6LE01 — CONTENT VERIFIED.
+AC9E6LE02 — CONTENT VERIFIED.
+
+NEXT AUTHORING BATCH:
+AC9E6LE03, AC9E6LE04, AC9E6LE05, AC9E6LY01, AC9E6LY02.
