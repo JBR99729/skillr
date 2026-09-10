@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-041",
+    "curriculumCode": "AC9E6LA02",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "separate fact and opinion",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement is objective?",
+    "audioPrompt": "Which statement is objective?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The survey recorded 312 responses.",
+      "The new playground is absolutely wonderful.",
+      "Everyone dislikes long assemblies.",
+      "The principal made the best decision."
+    ],
+    "correct": 0,
+    "explanation": "The statement reports a checkable measurement without evaluative language.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The statement reports a checkable measurement without evaluative language.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-042",
+    "curriculumCode": "AC9E6LA02",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "identify subjective language",
+    "printable": true,
+    "type": "single",
+    "question": "Which phrase most clearly signals a subjective judgement?",
+    "audioPrompt": "Which phrase most clearly signals a subjective judgement?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "an outrageously dull proposal",
+      "a proposal submitted on Tuesday",
+      "a twelve-page proposal",
+      "a proposal signed by two students"
+    ],
+    "correct": 0,
+    "explanation": "“Outrageously dull” expresses an attitude that cannot be verified as a neutral fact.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "“Outrageously dull” expresses an attitude that cannot be verified as a neutral fact.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-043",
+    "curriculumCode": "AC9E6LA02",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "detect selection bias",
+    "printable": true,
+    "type": "single",
+    "question": "A report praises a festival using only comments from its organisers. What is the clearest concern?",
+    "audioPrompt": "A report praises a festival using only comments from its organisers. What is the clearest concern?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It selects evidence from people likely to favour the festival.",
+      "It contains no verbs.",
+      "It uses too many dates.",
+      "It is automatically false."
+    ],
+    "correct": 0,
+    "explanation": "Using only organiser comments gives one interested viewpoint and may distort the overall impression.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "Using only organiser comments gives one interested viewpoint and may distort the overall impression.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-044",
+    "curriculumCode": "AC9E6LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "neutralise loaded wording",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision makes “The council finally abandoned its ridiculous plan” more objective?",
+    "audioPrompt": "Which revision makes “The council finally abandoned its ridiculous plan” more objective?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The council withdrew the plan after the review.",
+      "The council wisely destroyed the awful plan.",
+      "Thankfully, the council gave up.",
+      "Everyone agreed the plan was ridiculous."
+    ],
+    "correct": 0,
+    "explanation": "The revision reports the action and context without loaded evaluation.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The revision reports the action and context without loaded evaluation.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-045",
+    "curriculumCode": "AC9E6LA02",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "compare connotation",
+    "printable": true,
+    "type": "single",
+    "question": "Which word would make a description of a careful shopper sound negative?",
+    "audioPrompt": "Which word would make a description of a careful shopper sound negative?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "stingy",
+      "economical",
+      "thrifty",
+      "budget-conscious"
+    ],
+    "correct": 0,
+    "explanation": "“Stingy” shares an idea of limiting spending but adds a negative judgement.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "“Stingy” shares an idea of limiting spending but adds a negative judgement.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-046",
+    "curriculumCode": "AC9E6LA02",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "evaluate evidence and bias",
+    "printable": true,
+    "type": "single",
+    "question": "A product review says, “Nine out of ten testers preferred it,” but does not explain who selected the testers. What should a critical reader ask?",
+    "audioPrompt": "A product review says, “Nine out of ten testers preferred it,” but does not explain who selected the testers. What should a critical reader ask?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "How were the testers chosen?",
+      "Is the heading printed in blue?",
+      "How many syllables are in product?",
+      "Was the review written on a weekday?"
+    ],
+    "correct": 0,
+    "explanation": "The selection method matters because an unrepresentative group can produce biased evidence.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The selection method matters because an unrepresentative group can produce biased evidence.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-047",
+    "curriculumCode": "AC9E6LA02",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "distinguish viewpoint from fact",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence correctly attributes a viewpoint rather than presenting it as fact?",
+    "audioPrompt": "Which sentence correctly attributes a viewpoint rather than presenting it as fact?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The coach argues that the new schedule is fairer.",
+      "The new schedule is unquestionably fairer.",
+      "The schedule has four sessions.",
+      "Four is the best number of sessions."
+    ],
+    "correct": 0,
+    "explanation": "The reporting clause identifies the claim as the coach’s viewpoint.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The reporting clause identifies the claim as the coach’s viewpoint.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA02-P-048",
+    "curriculumCode": "AC9E6LA02",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "identify balanced language",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence most fairly represents disagreement?",
+    "audioPrompt": "Which sentence most fairly represents disagreement?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Supporters emphasise lower costs, while critics question the environmental impact.",
+      "Only foolish people oppose the plan.",
+      "The brilliant plan has no real disadvantages.",
+      "Critics obviously misunderstand everything."
+    ],
+    "correct": 0,
+    "explanation": "It attributes both positions and summarises their reasons without dismissive wording.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "It attributes both positions and summarises their reasons without dismissive wording.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
