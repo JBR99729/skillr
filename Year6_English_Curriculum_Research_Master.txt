@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LY03
-NEXT_CODE: AC9E6LY04
+CURRENT_CODE: AC9E6LY04
+NEXT_CODE: AC9E6LY05
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -1559,3 +1559,101 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 Both IXL skills and worked examples are interactively verified. The Australian discussion guidance closes the interaction-safety and respectful argument gap; the full oral progression is explicitly defined.
+
+
+==================================================
+CODE: AC9E6LY03
+DESCRIPTOR: Analyse how text structures and language features work together to meet the purpose of a text, and engage and influence audiences.
+==================================================
+
+IXL MAPPINGS:
+6-C.1 Which sentence is more formal?; 6-C.2 Compare passages for tone; 6-C.3 Identify the author's purpose; 6-E.1 Compare and contrast in informational texts; 6-E.2 Match causes and effects in informational texts; 6-E.3 Match problems with their solutions; 6-E.4 Identify text structures.
+
+IXL SKILLS INVESTIGATED:
+C.1 and C.2 reused from AC9E6LY02. C.3, E.1, E.2, E.3 and E.4 newly IXL-INTERACTIVE-VERIFIED. “Learn with an example” was explicitly opened for every new skill.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+- C.1 contrasts equivalent formal/informal sentences; C.2 compares tone across paired passages using clusters of lexical/figurative cues.
+- C.3 presents a substantial text and asks for the author's main purpose, requiring attention to content, stance and intended reader response; its live and worked-example interfaces were inspected.
+- E.1 uses a short informational passage plus a two-column comparison table. Learners match similarities/differences, using contrast signals and surrounding details.
+- E.2 uses informational text plus cause/effect matching. Worked teaching names signals such as because, as a result, led to and consequently, then restates complete causal pairs.
+- E.3 matches multiple problems with their solutions. Signals include question, answer, stop, fix, solve, should and must; feedback notes that structure can also reveal writer opinion.
+- E.4 classifies the primary structure from two choices. Its worked example distinguishes cause–effect, compare–contrast, problem–solution and sequence and maps passage details into a structure table.
+- A live E.4 item about a design responding to building/navigation constraints was correctly classified and submitted as problem–solution.
+- Question formats include passage selection, radio choice, matching into tables and structure classification; distractors use a secondary feature present in the text but not its dominant organisation.
+
+IXL DIFFICULTY PROGRESSION:
+Recognise signal words → map explicit relationships → classify primary structure → infer purpose/tone → distinguish primary from embedded structures → explain how structure and language jointly guide attention, credibility, emotion or action → evaluate/reshape a text for a new audience.
+
+IXL MISCONCEPTIONS/TRAPS:
+Purpose is only entertain/inform/persuade; one signal word determines structure; topic equals purpose; any difference makes compare–contrast primary; chronology always means sequence; tone equals subject; features and structure can be analysed separately without synthesis; engagement means entertainment only; influence must be manipulative.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+Name the relationship first; highlight signals plus surrounding details; organise evidence in a table; identify the dominant structure; connect lexical/tone choices to author stance; explain why the closest alternative is secondary or unsupported; rebuild the text’s logic in plain language.
+
+KHAN MAPPINGS:
+KHAN STATUS: SUPPLEMENTARY / NOT AC9-MAPPED. General author-purpose and informational-structure lessons are not needed beyond the stronger interactive IXL mapping.
+
+KHAN EVIDENCE:
+No forced mapping; IXL plus the Australian audience source provide sufficient authoring evidence.
+
+OTHER FREE SOURCES:
+- ABC Education, Know your audience (Years F–6), featuring author Shamini Flint.
+- ABC Education, Teaching media literacy in the Australian Curriculum, including technologies, representations, audiences, institutions, languages and relationships.
+
+FREE-SOURCE EVIDENCE:
+- Know your audience asks learners to infer intended readership from textual/product clues and explain why writers must consider readers.
+- ABC media-literacy guidance frames characters and representations as constructed through language/media choices for audiences and purposes.
+- These sources close the key synthesis gap: structure is not merely labelled; authors select and combine organisation, register, tone, evidence, visuals and multimodal language to shape how a particular audience understands or responds.
+- Teaching pattern: identify purpose/audience → map overall structure → collect language-feature evidence → explain interaction → evaluate effectiveness → revise one feature/structure and predict the changed audience effect.
+
+CURRICULUM REQUIREMENTS:
+Analyse purpose and audience; identify overall and embedded structures; identify relevant language/multimodal features; explain interaction rather than list features; discuss engagement/influence through clarity, interest, credibility, emotion, emphasis and call to action; evaluate effectiveness with evidence.
+
+PREREQUISITES:
+Purpose; audience; structure; sequence; cause/effect; compare/contrast; problem/solution; paragraph; signal word; tone; formality; vocabulary; evidence; image/caption.
+
+NEW YEAR-6 DEPTH:
+Move from classification to synthesis; recognise mixed structures and dominant purpose; connect feature choice to a specific audience response; distinguish intended effect from guaranteed effect; evaluate and redesign across informative, persuasive and imaginative texts.
+
+VOCABULARY:
+purpose; audience; engage; influence; structure; organisational pattern; dominant; embedded; sequence; cause; effect; comparison; contrast; problem; solution; signal; register; tone; modality; evidence; rhetorical question; call to action; credibility; effectiveness.
+
+REPRESENTATIONS:
+Original paired passages; structure maps; signal/evidence tables; purpose–audience–feature matrices; annotated multimodal texts; alternative introductions/headings; before/after redesigns; effect prediction cards.
+
+COMMON MISCONCEPTIONS:
+Every text has one simple purpose; signal words prove structure; features work independently; formal tone is always effective; persuasion requires commands; images merely decorate; intended effect equals actual reader response; longer texts have more sophisticated structure.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Four core informational structures plus mixed structures; purpose/audience; tone/register and vocabulary; visual/multimodal features; interaction model; engagement/influence mechanisms; effectiveness evaluation; worked synthesis.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Structure sort; audience reveal; teacher think-aloud linking structure and wording; feature stations; mixed-text annotation; redesign challenge; evidence-based evaluation; support/core/extension and exit synthesis.
+
+REQUIRED WORKSHEET COVERAGE:
+Map relationships; classify dominant structure; identify purpose/audience; locate language features; complete interaction/effect table; compare versions; diagnose weak/mismatched choices; revise for a new audience and justify.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 purpose/audience; 6 compare–contrast; 6 cause–effect; 6 problem–solution; 5 sequence; 5 mixed/dominant structure; 8 feature–structure–effect synthesis; 6 evaluation/redesign. Total 48 original items.
+
+16-TEST-BANK COVERAGE PLAN:
+2 purpose/audience; 4 structure analysis; 3 tone/register/features; 4 interaction/effect explanations; 2 effectiveness evaluations; 1 independent redesign rationale. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not copy IXL/publication passages; do not use PIE as the only purpose model; avoid claiming reader effects are certain; require evidence and interaction; keep subject knowledge accessible so English analysis remains central.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/english/year-6/which-sentence-is-more-formal
+- https://au.ixl.com/english/year-6/compare-passages-for-tone
+- https://au.ixl.com/english/year-6/identify-the-authors-purpose
+- https://au.ixl.com/english/year-6/compare-and-contrast-in-informational-texts
+- https://au.ixl.com/english/year-6/match-causes-and-effects-in-informational-texts
+- https://au.ixl.com/english/year-6/match-problems-with-their-solutions
+- https://au.ixl.com/english/year-6/identify-text-structures
+- https://www.abc.net.au/education/know-your-audience/13751256
+- https://www.abc.net.au/education/teaching-media-literacy-in-the-australian-curriculum/104791068
+
+RESEARCH STATUS:
+AUTHORING-READY.
+All five new mapped IXL skills and worked-example experiences were investigated, with C.1/C.2 evidence efficiently reused. The Australian sources supply explicit audience and multimodal-purpose synthesis.
