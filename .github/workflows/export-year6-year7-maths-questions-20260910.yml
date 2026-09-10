@@ -1,0 +1,100 @@
+name: Export Year 6 and Year 7 Maths questions 2026-09-10
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/export-year6-year7-maths-questions-20260910.yml']
+permissions:
+  contents: write
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Export canonical Maths questions from main
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json, os
+
+          outdir=Path('reports/question-exports')
+          outdir.mkdir(parents=True, exist_ok=True)
+          source=os.environ.get('GITHUB_SHA','unknown')
+
+          def export_year(year):
+              root=Path(f'assets/assessment-banks/year{year}/math')
+              files=sorted(root.glob('*.json'))
+              lines=[
+                  f'SKILLRHUB YEAR {year} MATHEMATICS — ALL COMMITTED QUESTIONS',
+                  '='*72,
+                  f'Source branch: main',
+                  f'Source commit: {source}',
+                  f'Canonical source: {root.as_posix()}/*.json',
+                  ''
+              ]
+              total=0
+              practice=0
+              test=0
+              code_summaries=[]
+              for f in files:
+                  data=json.loads(f.read_text())
+                  if not isinstance(data,list):
+                      raise SystemExit(f'{f}: expected JSON array')
+                  code=(data[0].get('curriculum_code') if data else f.stem.upper()) or f.stem.upper()
+                  P=[x for x in data if x.get('bank')=='practice']
+                  T=[x for x in data if x.get('bank')=='test']
+                  code_summaries.append((code,len(P),len(T)))
+                  lines += [f'\n{code}', '-'*72, f'Practice: {len(P)} | Test: {len(T)} | Total: {len(P)+len(T)}']
+                  for bank_name,items in [('PRACTICE',P),('TEST',T)]:
+                      lines += ['', bank_name, '~'*72]
+                      for i,x in enumerate(items,1):
+                          q=str(x.get('question','')).strip().replace('\r',' ').replace('\n',' ')
+                          difficulty=str(x.get('difficulty','')).strip()
+                          qid=str(x.get('id','')).strip()
+                          lines.append(f'{i:02d}. [{qid}] [{difficulty}] {q}')
+                  total += len(P)+len(T); practice += len(P); test += len(T)
+              lines[5:5]=[
+                  f'Curriculum codes: {len(files)}',
+                  f'Practice questions: {practice}',
+                  f'Test questions: {test}',
+                  f'Total questions: {total}',
+                  ''
+              ]
+              text='\n'.join(lines).rstrip()+'\n'
+              path=outdir/f'year{year}-maths-all-questions-main.txt'
+              path.write_text(text)
+              return path,text,len(files),practice,test,total,code_summaries
+
+          y6=export_year(6)
+          y7=export_year(7)
+          combined=outdir/'year6-year7-maths-all-questions-main.txt'
+          combined.write_text(y6[1]+'\n\n'+y7[1])
+
+          summary=outdir/'year6-year7-maths-export-summary.txt'
+          sl=[
+              'YEAR 6 + YEAR 7 MATHS QUESTION EXPORT SUMMARY',
+              '='*72,
+              f'Source branch: main',
+              f'Source commit: {source}',
+              '',
+              f'Year 6: {y6[2]} codes | {y6[3]} Practice | {y6[4]} Test | {y6[5]} total',
+              f'Year 7: {y7[2]} codes | {y7[3]} Practice | {y7[4]} Test | {y7[5]} total',
+              f'Combined total: {y6[5]+y7[5]} questions',
+              '',
+              'YEAR 6 CODE COUNTS'
+          ]
+          sl += [f'{c}: {p} Practice + {t} Test = {p+t}' for c,p,t in y6[6]]
+          sl += ['', 'YEAR 7 CODE COUNTS']
+          sl += [f'{c}: {p} Practice + {t} Test = {p+t}' for c,p,t in y7[6]]
+          summary.write_text('\n'.join(sl)+'\n')
+
+          print(f'YEAR6 {y6[2]} codes {y6[3]} practice {y6[4]} test total {y6[5]}')
+          print(f'YEAR7 {y7[2]} codes {y7[3]} practice {y7[4]} test total {y7[5]}')
+          print(f'COMBINED {y6[5]+y7[5]}')
+          PY
+      - name: Commit exports
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports/question-exports/
+          git commit -m 'Export Year 6 and Year 7 Maths questions from main'
+          git push
