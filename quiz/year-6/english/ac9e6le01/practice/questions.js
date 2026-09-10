@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "Different interpretations can both be defensible when they acknowledge evidence and limits."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE01-P-041",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "connect historical context",
+    "printable": true,
+    "type": "single",
+    "question": "A character hides letters during wartime censorship. How can historical context shape a reader’s response?",
+    "audioPrompt": "A character hides letters during wartime censorship. How can historical context shape a reader’s response?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It explains why an ordinary act carries serious risk.",
+      "It proves the character dislikes writing.",
+      "It removes the need for textual evidence.",
+      "It makes every reader respond identically."
+    ],
+    "correct": 0,
+    "explanation": "Knowledge of censorship helps readers understand the danger and significance of the action.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Knowledge of censorship helps readers understand the danger and significance of the action.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE01-P-042",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "distinguish response and retell",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence is an evidence-based response rather than a retell?",
+    "audioPrompt": "Which sentence is an evidence-based response rather than a retell?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Tala’s decision seems courageous because she speaks despite the warning.",
+      "Tala entered the hall and spoke.",
+      "The story has three paragraphs.",
+      "The event happened after lunch."
+    ],
+    "correct": 0,
+    "explanation": "The sentence interprets the decision and supports the judgement with a specific action.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The sentence interprets the decision and supports the judgement with a specific action.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE01-P-043",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "respect cultural specificity",
+    "printable": true,
+    "type": "single",
+    "question": "Which response is most respectful?",
+    "audioPrompt": "Which response is most respectful?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The character’s choice should be interpreted using the specific community and story context.",
+      "All First Nations characters must think the same way.",
+      "Culture completely determines every decision.",
+      "The story represents every Australian community."
+    ],
+    "correct": 0,
+    "explanation": "Respectful analysis stays specific to the text and avoids treating diverse peoples as one group.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Respectful analysis stays specific to the text and avoids treating diverse peoples as one group.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE01-P-044",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "compare reader contexts",
+    "printable": true,
+    "type": "single",
+    "question": "Why might two readers respond differently to a character leaving home?",
+    "audioPrompt": "Why might two readers respond differently to a character leaving home?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Their experiences and cultural knowledge may foreground different meanings.",
+      "Only one reader can use evidence.",
+      "The text changes its words for each reader.",
+      "A response never depends on context."
+    ],
+    "correct": 0,
+    "explanation": "Readers can notice different meanings while still grounding interpretations in the text.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Readers can notice different meanings while still grounding interpretations in the text.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE01-P-045",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "support response",
+    "printable": true,
+    "type": "single",
+    "question": "Which evidence best supports the view that a character feels divided between duty and friendship?",
+    "audioPrompt": "Which evidence best supports the view that a character feels divided between duty and friendship?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "She accepts the task but pauses beside her friend’s unanswered message.",
+      "She wears a blue jacket.",
+      "The room contains two chairs.",
+      "Her name begins with M."
+    ],
+    "correct": 0,
+    "explanation": "The action places commitment to the task beside concern for the friend, supporting inner conflict.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The action places commitment to the task beside concern for the friend, supporting inner conflict.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE01-P-046",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "avoid stereotype",
+    "printable": true,
+    "type": "single",
+    "question": "Which claim should be revised?",
+    "audioPrompt": "Which claim should be revised?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Because of his culture, the character would naturally reject technology.",
+      "The character rejects the device after it fails during the journey.",
+      "The narrator links the device to a previous loss.",
+      "His dialogue shows uncertainty about relying on it."
+    ],
+    "correct": 0,
+    "explanation": "The first claim generalises from culture without specific textual evidence.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The first claim generalises from culture without specific textual evidence.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE01-P-047",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "context and author choice",
+    "printable": true,
+    "type": "single",
+    "question": "An author sets a family disagreement during a period of forced relocation. What should analysis examine?",
+    "audioPrompt": "An author sets a family disagreement during a period of forced relocation. What should analysis examine?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "How the historical pressure changes choices, relationships and reader response",
+      "Only the number of characters",
+      "Whether every event is literally autobiographical",
+      "The length of the title alone"
+    ],
+    "correct": 0,
+    "explanation": "Context matters when it shapes what characters can do and how readers interpret their actions.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Context matters when it shapes what characters can do and how readers interpret their actions.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LE01-P-048",
+    "curriculumCode": "AC9E6LE01",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "allow multiple responses",
+    "printable": true,
+    "type": "single",
+    "question": "Two students disagree about whether a character’s silence is fearful or strategic. When can both responses be defensible?",
+    "audioPrompt": "Two students disagree about whether a character’s silence is fearful or strategic. When can both responses be defensible?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "When each uses relevant details and explains the context differently.",
+      "When neither refers to the text.",
+      "When one response is longer.",
+      "When both repeat the plot only."
+    ],
+    "correct": 0,
+    "explanation": "Literary responses can differ if each interpretation is supported by precise evidence and context.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Literary responses can differ if each interpretation is supported by precise evidence and context.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
