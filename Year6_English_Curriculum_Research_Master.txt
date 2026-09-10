@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LY04
-NEXT_CODE: AC9E6LY05
+CURRENT_CODE: AC9E6LY09
+NEXT_CODE: AC9E6LY10
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -1657,3 +1657,422 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 All five new mapped IXL skills and worked-example experiences were investigated, with C.1/C.2 evidence efficiently reused. The Australian sources supply explicit audience and multimodal-purpose synthesis.
+
+
+
+==================================================
+CODE:
+AC9E6LY04
+
+DESCRIPTOR:
+Select, navigate and read texts for a range of purposes, monitoring meaning and evaluating the use of structural features including tables of contents, glossaries, chapters, headings and subheadings.
+
+IXL MAPPINGS:
+IXL-MAPPED: V.5 Determine the meaning of domain-specific words with pictures.
+
+IXL SKILLS INVESTIGATED:
+V.5 was opened in the authenticated Australian Year 6 practice environment. A live practice item was answered and advanced, and Learn with an example was inspected.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+Learners read a short subject-area explanation, interpret two domain terms through definitions and contrasting attributes, inspect a relevant image, then choose which term the image represents. Answer format is a two-option radio/choice response. Distractors are a real same-domain term described nearby, so success requires matching defining visual attributes rather than recognising topic vocabulary. Verified patterns included rock texture/appearance and internal versus external animal skeletons.
+
+IXL DIFFICULTY PROGRESSION:
+Explicit definition plus obvious image → two related technical terms in one passage → several attributes distributed across sentences → image that shows an implication rather than repeats one noun. Reading demand rises through denser science vocabulary and closer distractors.
+
+IXL MISCONCEPTIONS/TRAPS:
+Choosing the more familiar word; matching by topic rather than defining feature; ignoring contrast signals; using only the picture; treating every unfamiliar word as unknowable without a dictionary.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+The worked example models: read both definitions, name the image's observable feature, connect it to the decisive description, reject the competing term with a conflicting attribute. Feedback restates the defining feature in accessible language rather than merely naming the answer.
+
+KHAN MAPPINGS:
+KHAN STATUS: NOT MAPPED / NOT MATERIAL.
+
+KHAN EVIDENCE:
+Khan's general vocabulary material does not cover Year 6 navigation and structural-feature evaluation strongly enough to add value beyond the verified IXL pattern.
+
+OTHER FREE SOURCES:
+ABC Education, Text Detectives.
+
+FREE-SOURCE EVIDENCE:
+The inspected resource models previewing a title, cover, blurb, photographs, subheadings, layout and technical language; forming a purpose-based prediction; skimming; checking whether the text is delivering expected information; and revising the reading path. This closes the navigation/monitoring gap left by IXL.
+
+CURRICULUM REQUIREMENTS:
+Choose a text and route through it for a purpose; use navigation features efficiently; monitor understanding; use glossary/context/visuals strategically; evaluate whether structural features help the intended reader.
+
+PREREQUISITES:
+Purpose; title; contents; index; glossary; heading; subheading; caption; skimming; scanning; context clue.
+
+NEW YEAR-6 DEPTH:
+Move from locating features to explaining why a feature is effective, changing strategy when meaning breaks down, and comparing alternative navigation routes.
+
+VOCABULARY:
+navigate; structural feature; hierarchy; table of contents; index; glossary; heading; subheading; chapter; caption; sidebar; monitor; skim; scan; domain-specific.
+
+REPRESENTATIONS:
+Contents pages, indexes, glossary entries, headed webpages, labelled diagrams, short multimodal information texts, navigation-path diagrams.
+
+COMMON MISCONCEPTIONS:
+Reading every page is always best; contents and index serve the same function; a heading merely decorates; a glossary is only for spelling; pictures replace close reading.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Purpose-first text selection; feature functions; navigation decision tree; monitoring cycle; technical vocabulary from context/visuals; feature evaluation; one complete worked example.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Feature scavenger hunt; timed navigation choices; teacher think-aloud; meaning-monitor stop points; compare two layouts; justify a redesign.
+
+REQUIRED WORKSHEET COVERAGE:
+Select best source; choose route; contents/index/glossary tasks; infer a technical term; identify a breakdown; evaluate and improve features.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+8 purpose/source choices; 12 navigation-feature decisions; 8 technical-word context/visual matches; 8 monitoring/repair decisions; 6 feature-effect explanations; 6 layout evaluations. Total 48.
+
+16-TEST-BANK COVERAGE PLAN:
+3 source/route; 4 feature-function; 3 vocabulary; 3 monitoring; 3 evaluation/redesign. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not reduce the code to vocabulary; require navigation and evaluation. Use original texts/images and do not reproduce IXL or ABC wording.
+
+SOURCE REFERENCES:
+https://au.ixl.com/english/year-6/determine-the-meaning-of-domain-specific-words-with-pictures
+https://www.abc.net.au/education/english-years-3-4-with-mrs-jegers-text-detectives-video/13596938
+
+RESEARCH STATUS:
+AUTHORING-READY.
+IXL-INTERACTIVE-VERIFIED for V.5, including live practice and Learn with an example. Australian evidence supplies the structural-navigation and monitoring requirements.
+
+
+==================================================
+CODE:
+AC9E6LY05
+
+DESCRIPTOR:
+Use comprehension strategies such as visualising, predicting, connecting, summarising, monitoring and questioning to build literal and inferred meaning, and connect and compare content from a variety of sources.
+
+IXL MAPPINGS:
+No direct Year 6 Australian Curriculum IXL mapping. IXL STATUS: NOT MAPPED for this code; relevant comprehension evidence already verified under earlier LY codes is reused without repeating practice.
+
+IXL SKILLS INVESTIGATED:
+Reused verified evidence for main idea, inference, supporting detail, purpose, tone and cross-text comparison; no newly mapped skill required.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+Useful inherited patterns: select evidence for an inference; distinguish main idea from an interesting detail; compare two texts by a stated dimension; explain an answer with precise textual evidence. For this code, these become checkpoints within a deliberate strategy cycle, not isolated labels.
+
+IXL DIFFICULTY PROGRESSION:
+Explicit retrieval → one-step inference → strategy selection → revise a prediction while reading → integrate separated details → compare sources → resolve agreement, difference or uncertainty.
+
+IXL MISCONCEPTIONS/TRAPS:
+Prediction means guessing; visualising means drawing every detail; a summary retells everything; connections may replace evidence; questioning only happens before reading; monitoring means rereading from the beginning; two sources on one topic must agree.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+Reused teaching logic: state the target, identify the decisive evidence, paraphrase its meaning, reject attractive but unsupported alternatives. Extend with stop–check–repair prompts and a two-source evidence grid.
+
+KHAN MAPPINGS:
+KHAN STATUS: NOT MAPPED / NOT MATERIAL.
+
+KHAN EVIDENCE:
+No coherent Year 6 strategy sequence added enough beyond the stronger Australian resource and previously verified comprehension practice; no forced mapping.
+
+OTHER FREE SOURCES:
+ABC Education, Text Detectives.
+
+FREE-SOURCE EVIDENCE:
+The inspected lesson explicitly prompts previewing and prediction, noticing text and visual features, skimming for gist, pausing to check understanding, and using technical vocabulary and layout to refine meaning. Its strongest contribution is metacognitive reading: readers choose and change strategies for a purpose.
+
+CURRICULUM REQUIREMENTS:
+Teach each named strategy; combine strategies flexibly; build literal and inferred meaning; cite evidence; compare content across print, digital and multimodal sources; identify agreement, difference, added detail and unresolved questions.
+
+PREREQUISITES:
+Literal detail; inference; main idea; evidence; purpose; prediction; text feature; source.
+
+NEW YEAR-6 DEPTH:
+Students justify strategy choice, monitor effectiveness, synthesise rather than list source facts, and distinguish source contribution from source reliability claims beyond the evidence.
+
+VOCABULARY:
+visualise; predict; connect; summarise; monitor; question; infer; evidence; synthesis; corroborate; contrast; source; gist; repair strategy.
+
+REPRESENTATIONS:
+Stop-and-jot records, prediction revisions, mental-image notes, question ladders, gist summaries, evidence tables, Venn diagrams and two-source synthesis frames.
+
+COMMON MISCONCEPTIONS:
+A first prediction must be correct; personal connections prove an inference; summaries include opinions; inference is unsupported imagination; comparison is only similarities/differences without significance.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Six named strategies; when/why to use them; literal-to-inferred model; monitoring and repair; source comparison/synthesis; worked multi-strategy example.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Preview/predict; staged reveal and revision; visualise-and-verify; teacher monitoring think-aloud; question generation; two-source jigsaw; synthesis exit response.
+
+REQUIRED WORKSHEET COVERAGE:
+Strategy selection; prediction updates; evidence-backed inference; concise summary; breakdown/repair; compare and synthesise two short original sources.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 visualising; 6 predicting; 6 connecting-with-evidence; 8 summarising; 8 monitoring/questioning; 8 inference; 6 two-source synthesis. Total 48.
+
+16-TEST-BANK COVERAGE PLAN:
+2 strategy choice; 2 prediction/visualisation; 3 inference; 3 summary/monitoring; 4 source comparison; 2 independent synthesis. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not grade private mental images; personal connections must return to text evidence; do not conflate comparison with formal source-credibility evaluation; all passages original.
+
+SOURCE REFERENCES:
+https://www.abc.net.au/education/english-years-3-4-with-mrs-jegers-text-detectives-video/13596938
+
+RESEARCH STATUS:
+AUTHORING-READY.
+No direct IXL/Khan mapping was forced; prior interactive comprehension evidence plus the inspected Australian strategy model provides sufficient authoring coverage.
+
+
+==================================================
+CODE:
+AC9E6LY06
+
+DESCRIPTOR:
+Plan, create, edit and publish written and multimodal texts whose purposes may be imaginative, informative and persuasive, using paragraphs, a variety of complex sentences, expanded verb groups, tense, topic-specific and vivid vocabulary, punctuation, spelling and visual features.
+
+IXL MAPPINGS:
+Mapped skills: C.1 formal sentence, C.2 tone, C.3 purpose, E.1–E.4 informational structures, K.1 broad-to-narrow topics, K.2 organise by topic, K.3 conjunctive-adverb transitions, L.2–L.4 evidence/supporting details, M.1 personification, N.1–N.3 confused words and revision, X.9 sentence types, JJ.1 capitalisation.
+
+IXL SKILLS INVESTIGATED:
+Reused prior interactive evidence for C.1, C.2, C.3, E.1–E.4, M.1 and X.9. Newly opened Australian Year 6 practice and Learn-with-an-example experiences for K.1, K.2, K.3, L.2, L.3, L.4, N.1, N.2, N.3 and JJ.1. Live K.3 transition practice was worked: the learner selected a similarity transition rather than a cause-result distractor.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+K.1 orders three nested topics from broad to narrow; K.2 sorts details into labelled sections; K.3 completes a sentence pair with a conjunctive adverb determined by semantic relationship. L.2–L.4 select the strongest specific fact/quotation for a claim in informational or literary text. N.1 selects a contextually correct commonly confused word; N.2 finds and replaces one misused word; N.3 chooses a revision that improves precision, logic or clarity. JJ.1 clicks words with capitalisation errors in a short passage. Formats include ordering, table sorting, radio choice, text selection and direct correction; distractors are grammatical or topically related but semantically weaker.
+
+IXL DIFFICULTY PROGRESSION:
+Choose focused topic → group details → sequence paragraphs with logical transitions → support claims precisely → vary sentence/word choices → detect local errors → revise whole-text coherence and audience fit → publish with purposeful visual features. Harder items use closer topic scopes, implicit relationships, plausible evidence and multiple interacting conventions.
+
+IXL MISCONCEPTIONS/TRAPS:
+Narrowest topic is always best; every related detail belongs in a section; transition choice depends on punctuation alone; any quotation supports a claim; vivid means over-adjectival; correct grammar guarantees effective writing; revision equals proofreading; every important word takes a capital.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+K.1 defines scope and narrows by aspect/time/place/group. K.2 gives each section one controlling topic and tests each detail against it. L.3/L.4 state claim → locate specific detail → explain the link; worked feedback quotes/paraphrases decisive evidence. N.2 names the confused pair and contrasts grammatical roles/meanings before giving the corrected sentence. JJ.1 groups rules by proper names, titles, dates, places, regions and sentence starts and explains each correction. The teaching model should separate planning, drafting, revising, editing and publishing.
+
+KHAN MAPPINGS:
+KHAN STATUS: SUPPLEMENTARY / NOT AC9-MAPPED.
+
+KHAN EVIDENCE:
+Previously inspected Khan grammar/punctuation material offers short explanation → worked example → targeted practice, but it fragments composition. It is retained only as optional sentence-level support; no forced whole-code mapping.
+
+OTHER FREE SOURCES:
+ABC Education, Know your audience; ABC Education, Text Detectives; ABC Education media-literacy guidance.
+
+FREE-SOURCE EVIDENCE:
+These inspected sources add authentic audience/purpose decisions, multimodal design and the relationship among words, images, layout and representation. They support a production sequence: establish purpose/audience → plan structure → draft cohesive paragraphs → revise meaning and effect → edit conventions → publish and justify visual choices.
+
+CURRICULUM REQUIREMENTS:
+All three purposes; complete writing process; paragraph cohesion; complex sentences; expanded verb groups; consistent/controlled tense; vivid and topic-specific vocabulary; punctuation/spelling; visual and multimodal features; editing for meaning and conventions.
+
+PREREQUISITES:
+Purpose; audience; paragraph; topic sentence; clause; conjunction; verb group; tense; evidence; transition; basic punctuation and spelling.
+
+NEW YEAR-6 DEPTH:
+Sustain cohesion across multiple paragraphs; control sentence variety and tense; integrate evidence and visuals; make revision decisions at idea, structure, sentence and convention levels; explain choices for audience/effect.
+
+VOCABULARY:
+plan; draft; revise; edit; publish; scope; cohesion; conjunctive adverb; supporting evidence; expanded verb group; tense consistency; vivid; topic-specific; multimodal; layout; caption.
+
+REPRESENTATIONS:
+Planning grids, paragraph maps, transition menus, evidence tables, annotated drafts, revision comparisons, brochures/web articles/narratives, image-caption-layout choices.
+
+COMMON MISCONCEPTIONS:
+Editing and revising are identical; complex means long; each paragraph needs the same structure; transitions can be swapped freely; evidence speaks for itself; visuals are decoration.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Writing process; purpose/audience; topic scope and organisation; cohesive paragraphs; sentence/verb/tense control; evidence; vocabulary; revision/editing; multimodal publishing; worked example from plan to publication.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Purpose sort; topic narrowing; collaborative plan; paragraph/evidence workshop; sentence combining; verb-group and tense edit; revision stations; multimodal design conference; peer checklist.
+
+REQUIRED WORKSHEET COVERAGE:
+Plan all three purposes; group details; choose transitions/evidence; draft and combine sentences; expand verb groups; maintain tense; revise clarity; edit conventions; justify visuals.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+5 purpose/audience; 5 topic scope/planning; 6 organisation/transitions; 6 evidence; 7 sentence/verb/tense; 5 vocabulary; 6 revision; 4 editing; 4 multimodal publishing. Total 48.
+
+16-TEST-BANK COVERAGE PLAN:
+2 planning; 3 cohesion/organisation; 3 sentence/verb/tense; 2 evidence/vocabulary; 3 revision/editing; 3 independent multimodal composition decisions. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not treat this as isolated grammar; every convention should serve a whole-text decision. Do not reproduce IXL/Khan/publication passages or copyrighted extracts.
+
+SOURCE REFERENCES:
+https://au.ixl.com/english/year-6/order-topics-from-broadest-to-narrowest
+https://au.ixl.com/english/year-6/organise-information-by-topic
+https://au.ixl.com/english/year-6/transitions-with-conjunctive-adverbs
+https://au.ixl.com/english/year-6/choose-evidence-to-support-a-claim
+https://au.ixl.com/english/year-6/identify-supporting-details-in-informational-texts
+https://au.ixl.com/english/year-6/identify-supporting-details-in-literary-texts
+https://au.ixl.com/english/year-6/use-the-correct-frequently-confused-word
+https://au.ixl.com/english/year-6/correct-errors-with-frequently-confused-words
+https://au.ixl.com/english/year-6/suggest-appropriate-revisions
+https://au.ixl.com/english/year-6/correct-capitalisation-errors
+https://www.abc.net.au/education/know-your-audience/13751256
+https://www.abc.net.au/education/teaching-media-literacy-in-the-australian-curriculum/104791068
+
+RESEARCH STATUS:
+AUTHORING-READY.
+New mapped IXL practice pages and worked-example experiences were opened; reusable mapped evidence was not repeated. Australian sources close audience, multimodal and whole-composition gaps.
+
+
+==================================================
+CODE:
+AC9E6LY07
+
+DESCRIPTOR:
+Plan, create, rehearse and deliver spoken and multimodal presentations for defined audiences and purposes, using appropriate structure, language features, voice and visual or digital elements.
+
+IXL MAPPINGS:
+No direct Year 6 Australian Curriculum IXL mapping. IXL STATUS: NOT MAPPED.
+
+IXL SKILLS INVESTIGATED:
+Relevant prior evidence for purpose, audience, tone, formality and organisation is reused; no speech-performance skill was misrepresented as interactively mapped.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+Transferable pattern: match register and organisation to audience/purpose, order points, select evidence and evaluate alternatives. The authentic assessment unit must add rehearsal, vocal delivery, timing, non-verbal communication and multimodal integration.
+
+IXL DIFFICULTY PROGRESSION:
+Identify purpose/audience → sequence a short talk → select spoken register → mark a script for emphasis/pauses → rehearse with feedback → coordinate speech and visuals → adapt delivery after audience response/questions.
+
+IXL MISCONCEPTIONS/TRAPS:
+Reading a written essay aloud is a presentation; louder is always better; visuals should repeat every word; eye contact means staring; memorisation guarantees communication; rehearsal is only timing.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+Reuse the explicit choice-and-effect model from tone/formality examples: name audience/purpose, compare alternatives, identify the language/delivery cue, justify the better effect. Provide an annotated speaking model with pause, stress, pace and visual-change cues.
+
+KHAN MAPPINGS:
+KHAN STATUS: NOT MAPPED / NOT MATERIAL.
+
+KHAN EVIDENCE:
+No genuine Australian Year 6 spoken/multimodal curriculum mapping was identified; no forced mapping.
+
+OTHER FREE SOURCES:
+ABC Education, Know your audience; ABC Education media-literacy guidance.
+
+FREE-SOURCE EVIDENCE:
+The inspected ABC audience lesson requires creators to infer and deliberately address an intended audience. Media-literacy guidance adds that meaning is constructed through languages, representations and technologies. Applied to presentations, students coordinate spoken wording, voice, gesture, image, caption and slide sequence rather than treating modes independently.
+
+CURRICULUM REQUIREMENTS:
+Plan, create, rehearse and deliver; clear opening/body/conclusion; defined audience and purpose; appropriate vocabulary/register; pace, volume, stress, pause and intonation; purposeful gestures/eye contact; readable visuals; source acknowledgement; listen/respond where appropriate.
+
+PREREQUISITES:
+Audience; purpose; main idea; supporting detail; sequence; register; tone; basic slide/visual conventions.
+
+NEW YEAR-6 DEPTH:
+Sustain a structured presentation; use rehearsal evidence to revise; coordinate rather than duplicate modes; make deliberate delivery choices; adapt to audience and time constraints.
+
+VOCABULARY:
+presentation; rehearsal; delivery; pace; volume; projection; stress; pause; intonation; gesture; stance; cue; signpost; multimodal; accessibility.
+
+REPRESENTATIONS:
+Purpose/audience briefs, speaking plans, cue cards, annotated scripts, slide thumbnails, timing charts, peer-feedback rubrics and self-reflection recordings.
+
+COMMON MISCONCEPTIONS:
+Slides are the speech; more animation improves impact; fast speech shows confidence; every sentence needs a gesture; rehearsal removes spontaneity; audience adaptation changes facts.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Presentation cycle; audience/purpose; structure/signposting; spoken language; voice/body; multimodal design; rehearsal/feedback; accessible and ethical source use; worked annotated model.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Analyse two openings; reorder talk sections; vocal delivery mini-lab; slide simplification; rehearsal triads; timed delivery; audience-question practice; feedback/revision.
+
+REQUIRED WORKSHEET COVERAGE:
+Audience brief; outline; signposts; script annotation; visual storyboard; rehearsal log; peer feedback; revision decisions; delivery reflection.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 purpose/audience; 6 structure; 6 signposting/language; 8 vocal delivery; 6 non-verbal delivery; 8 visual/multimodal design; 5 rehearsal/feedback; 3 adaptation. Total 48.
+
+16-TEST-BANK COVERAGE PLAN:
+2 audience/purpose; 3 organisation/language; 3 vocal/non-verbal; 3 visual integration; 3 rehearsal diagnosis; 2 independent presentation plans. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not assess accent; avoid one culturally narrow eye-contact rule; do not require proprietary software; assess purposeful communication, not performance charisma.
+
+SOURCE REFERENCES:
+https://www.abc.net.au/education/know-your-audience/13751256
+https://www.abc.net.au/education/teaching-media-literacy-in-the-australian-curriculum/104791068
+
+RESEARCH STATUS:
+AUTHORING-READY.
+No direct IXL/Khan mapping was forced. Reused interactive audience/tone evidence plus inspected Australian multimodal guidance supports an original performance-focused authoring plan.
+
+
+==================================================
+CODE:
+AC9E6LY08
+
+DESCRIPTOR:
+Use phonic knowledge of common and less common grapheme–phoneme relationships to read and write increasingly complex words.
+
+IXL MAPPINGS:
+No direct Year 6 Australian Curriculum IXL mapping. IXL STATUS: NOT MAPPED.
+
+IXL SKILLS INVESTIGATED:
+No new IXL skill was claimed. Previously verified word-analysis and spelling patterns are reusable only where they genuinely support decoding/encoding; this code remains phonics-focused.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+Authoring pattern required: hear or read a target phoneme, compare plausible grapheme choices in meaningful words, segment syllables/morphemes, blend, write, then verify against pronunciation and word family. Distractors should represent common phonologically plausible spellings, not random errors.
+
+IXL DIFFICULTY PROGRESSION:
+Common one-to-one relationships → digraphs/trigraphs and multiple graphemes for one sound → unstressed vowels → longer multisyllabic words → morphophonemic shifts across related words → automatic reading and independent encoding in context.
+
+IXL MISCONCEPTIONS/TRAPS:
+One sound always has one spelling; every letter has one sound; longer words must be memorised whole; schwa can be spelled by sound alone; morphology replaces phonics; visual familiarity proves accurate decoding.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+No direct IXL worked example exists for this code. Preserve the IXL-style clarity without claiming verification: say the word, isolate the target sound, map possible graphemes, segment and blend, check syllable/morpheme boundaries, then confirm in context and explain why a plausible alternative fails.
+
+KHAN MAPPINGS:
+KHAN STATUS: NOT MAPPED / NOT MATERIAL.
+
+KHAN EVIDENCE:
+Khan does not provide a coherent Australian Year 6 progression for complex grapheme–phoneme relationships; no forced mapping.
+
+OTHER FREE SOURCES:
+Australian Curriculum v9 English phonics/word-knowledge progression, supported by the curriculum's Literacy learning-continuum framing.
+
+FREE-SOURCE EVIDENCE:
+The authoritative progression places this Year 6 demand beyond early basic phonics: students apply common and less common relationships flexibly in increasingly complex words and coordinate phonological, orthographic and morphological information. Teaching must retain pronunciation-to-print reasoning while using syllables and morphemes as supports.
+
+CURRICULUM REQUIREMENTS:
+Decode and encode; common and less common correspondences; alternative spellings for phonemes; multisyllabic complexity; meaningful context; self-correction; Australian English pronunciation variation handled respectfully.
+
+PREREQUISITES:
+Phoneme; grapheme; segment; blend; digraph; trigraph; syllable; vowel/consonant; common prefixes and suffixes.
+
+NEW YEAR-6 DEPTH:
+Transfer phonics into unfamiliar curriculum vocabulary and longer words; manage ambiguous correspondences and unstressed syllables; integrate but distinguish morphology; explain a decoding/encoding choice.
+
+VOCABULARY:
+phoneme; grapheme; correspondence; decode; encode; segment; blend; digraph; trigraph; vowel team; schwa; syllable; stress; morpheme; word family.
+
+REPRESENTATIONS:
+Sound boxes, grapheme tiles, syllable arcs, word sums, pronunciation–spelling tables, word-family matrices, dictated phrases and original subject-vocabulary sentences.
+
+COMMON MISCONCEPTIONS:
+English spelling is wholly irregular; sounding out ends after early primary; every syllable contains one written vowel letter; silent letters have no historical/morphological role; one accent is the only correct pronunciation.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Core terminology; flexible sound–spelling mapping; alternative graphemes; syllable/stress/schwa; complex-word routine; morphology as support; decoding and encoding worked examples; variation note.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Sound sort; grapheme alternatives; teacher segmentation/blending model; multisyllable word investigation; word-family matrix; dictation with self-correction; curriculum-vocabulary transfer.
+
+REQUIRED WORKSHEET COVERAGE:
+Map sounds/graphemes; choose plausible spelling; segment/blend; mark syllables/stress; repair misspellings; build related words; decode and use new complex words in context.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 common/less-common contrasts; 8 alternative graphemes; 8 digraph/trigraph/vowel teams; 8 multisyllabic decoding; 6 stress/schwa; 6 word-family/morpheme support; 6 contextual encoding/self-correction. Total 48.
+
+16-TEST-BANK COVERAGE PLAN:
+3 correspondence selection; 3 alternative spelling; 4 multisyllabic decoding/encoding; 2 stress/schwa; 2 word-family reasoning; 2 independent transfer. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not collapse phonics into spelling-rule memorisation; do not teach accent as error; keep words age-appropriate and meaningful; do not claim an IXL interactive mapping where none exists.
+
+SOURCE REFERENCES:
+https://v9.australiancurriculum.edu.au/
+
+RESEARCH STATUS:
+AUTHORING-READY.
+The absence of a direct IXL/Khan mapping is explicit. The curriculum progression and reusable word-analysis pedagogy provide sufficient scope for original Year 6 authoring.
