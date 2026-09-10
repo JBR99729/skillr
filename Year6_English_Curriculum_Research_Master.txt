@@ -5,7 +5,7 @@ Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
 CURRENT_CODE: RESEARCH-COMPLETE
-NEXT_CODE: REAUTHOR-AC9E6LA02
+NEXT_CODE: REAUTHOR-AC9E6LA03
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — IXL curriculum page rechecked: no mapped IXL skill; Learn-with-an-example is not applicable.
@@ -2398,3 +2398,32 @@ AC9E6LA02
 
 REAUTHORING NEXT_CODE:
 AC9E6LA03
+
+
+
+==================================================
+FRESH QUESTION REAUTHORING — AC9E6LA02
+
+RETAINED:
+Only AC9E6LA02-P-041 to P-048, the eight questions freshly authored after interactive research.
+
+REPLACED:
+- AC9E6LA02-P-001 to P-040: all 40 legacy Practice questions replaced.
+- AC9E6LA02-T-001 to T-016: all 16 legacy Test questions replaced.
+
+FRESH COVERAGE:
+Fact/opinion verification; objective and subjective wording; shades of meaning; positive/negative connotation; loaded language; selection, omission, sampling, framing, attribution and visual bias; neutral rewriting; balanced representation; responsible data claims; evidence-based bias analysis.
+
+QA:
+- Practice: exactly 48.
+- Test: exactly 16.
+- Retained post-research Practice items: 8.
+- Duplicate IDs: 0.
+- Practice/Test duplicate stems: 0.
+- Invalid answer indices: 0.
+- Every item has an original prompt, four purposeful choices, answer and curriculum-specific explanation.
+
+STATUS:
+AC9E6LA02 FRESH QUESTION BANKS CONTENT VERIFIED.
+REAUTHORING CURRENT_CODE: AC9E6LA03
+REAUTHORING NEXT_CODE: AC9E6LA04
