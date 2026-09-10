@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LE01
-NEXT_CODE: AC9E6LE02
+CURRENT_CODE: AC9E6LE02
+NEXT_CODE: AC9E6LE03
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -931,56 +931,91 @@ Every mapped IXL skill and its Learn-with-an-example teaching sequence was inspe
 ==================================================
 CODE: AC9E6LE01
 DESCRIPTOR: Identify responses to characters and events in literary texts, drawn from historical, social or cultural contexts, by First Nations Australian, and wide-ranging Australian and world authors.
-STATUS: RESEARCHING
 ==================================================
 
 IXL MAPPINGS:
 IXL-MAPPED to 6-G.1 Analyse short stories.
 
 IXL SKILLS INVESTIGATED:
-- 6-G.1 Analyse short stories — IXL-INTERACTIVE-VERIFIED.
-- Its “Learn with an example” was explicitly opened and inspected.
+6-G.1 — IXL-INTERACTIVE-VERIFIED. “Learn with an example” explicitly opened and inspected.
 
 IXL QUESTIONS/PATTERNS INVESTIGATED:
-- G.1 presents a substantial complete short story followed by passage-specific multiple-choice questions.
-- The investigated story used an Australian setting and family relationship. The actual question asked the learner to infer a sibling relationship from one named paragraph.
-- Three distractors represented: evidence-supported distance, unsupported dislike, and the opposite claim of closeness.
-- The correct response was selected and submitted.
-- The worked example teaches that authors imply events, settings and traits through details; an inference combines background knowledge with specific textual evidence.
-- Its solution returns to the exact paragraph, quotes the relevant evidence in the interface, and explains the inference in plain language.
+- A substantial complete short story is followed by passage-specific multiple-choice questions.
+- The investigated Australian-set story asked for an inference about a sibling relationship from a named paragraph. Distractors confused limited contact with dislike or asserted the unsupported opposite.
+- The correct evidence-based answer was submitted.
+- The worked example teaches that authors suggest events, settings and traits through details; readers combine background knowledge with textual evidence.
+- Feedback returns to the exact paragraph, isolates relevant evidence, states what it shows and connects it to the inference.
 
 IXL DIFFICULTY PROGRESSION:
-- Locate a named paragraph, retrieve details, infer an unstated relationship, and discriminate between a reasonable inference and an exaggerated/opposite claim.
-- Further curriculum research is required because G.1 does not by itself establish historical/social/cultural context comparison or First Nations Australian authorship.
+Locate a paragraph → retrieve details → infer an unstated relationship → reject overstatement/opposite claims → justify with evidence. Curriculum-level extension requires comparing how historical, social and cultural contexts shape different readers’ responses.
 
 IXL MISCONCEPTIONS/TRAPS:
-- Treating absence/distance as evidence of dislike.
-- Choosing a generally plausible answer without paragraph evidence.
-- Retelling events instead of explaining a reader response.
-- Ignoring how historical, social or cultural context shapes behaviour, values and interpretation.
-- Treating one cultural perspective as universal.
+Retelling instead of responding; selecting a plausible claim without evidence; treating distance as dislike; ignoring context; assuming one response is universal; treating First Nations cultures as homogeneous or historical only.
 
 IXL LEARN-FROM-EXAMPLE INSIGHTS:
-- Use an evidence-plus-background-knowledge inference model.
-- Direct learners back to a precise paragraph.
-- Explain why the evidence supports one inference and why close distractors overreach.
-- Preserve enough whole-story context for authentic analysis.
+Use evidence + background knowledge → inference; direct learners to a precise passage; distinguish evidence from interpretation; explain why distractors overreach; retain whole-story context.
 
 KHAN MAPPINGS:
-Pending best-site check only; do not force a mapping.
+KHAN STATUS: NOT MAPPED / NOT MATERIAL. General inference lessons do not supply Australian/First Nations cultural-context depth, so no forced mapping is used.
 
 KHAN EVIDENCE:
-Pending.
+No materially aligned Year 6 literature-context sequence was identified.
 
 OTHER FREE SOURCES:
-Pending one or two authoritative Australian/First Nations literature sources.
+- ABC Education Story Time: My Deadly Boots (Years F–6), by First Nations authors Hakea Hustler and Carl Merrison, read and contextualised by Yankunytjatjara and Wirangu educator Shelley Ware.
+- ABC Education: Indigenous Australian knowledge through story (Years 5–6 context), featuring Adnyamathanha knowledge holders and researchers.
+- ABC Education: Key considerations to delivering The Australian Dream education resources, written by Aboriginal education specialists.
 
 FREE-SOURCE EVIDENCE:
-Pending.
+- My Deadly Boots connects a character’s feelings and actions to identity, kinship, community, “walking in two worlds”, stereotyping and intergenerational guidance. The reader explicitly unpacks culturally situated vocabulary and invites a personal identity response.
+- Indigenous Australian knowledge through story shows stories preserving knowledge across generations and changing researchers’ interpretations. Its prompts ask how story preserves heritage and what ethical responsibilities accompany response.
+- The Australian Dream guidance requires culturally safe discussion: respectful language, listening, challenging ideas rather than people, avoiding stereotypes, not positioning one student as a cultural representative, previewing sensitive material and valuing local community expertise.
+- Teaching pattern: establish author/community/context → notice character/event evidence → identify personal response → explain how context shapes that response → listen to a different evidence-based response.
+- Source texts/video/transcripts remain copyrighted; SkillrHub must use original passages or properly licensed extracts and link rather than reproduce.
 
 CURRICULUM REQUIREMENTS:
-Pending synthesis after context and First Nations literature evidence.
+Identify personal and textual responses to characters/events; cite evidence; distinguish response, inference and judgement; explain effects of historical/social/cultural context; encounter First Nations Australian, other Australian and world authors; compare responses respectfully.
+
+PREREQUISITES:
+Character, event, setting, inference, evidence, viewpoint, values, author, narrator, context, theme, literal/inferred information.
+
+NEW YEAR-6 DEPTH:
+Move from character inference to contextualised response; connect beliefs, relationships, place, language and historical circumstances to actions; recognise multiple defensible responses; reflect on one’s own assumptions; discuss First Nations texts with cultural safety and specificity.
+
+VOCABULARY:
+response; evidence; inference; historical context; social context; cultural context; perspective; identity; kinship; Country; community; values; assumption; stereotype; representation; cultural safety; First Nations Australian; world author.
+
+REPRESENTATIONS:
+Original short stories/extracts; character-event-evidence-context tables; response continua; paired readers’ responses; context cards; discussion protocols; audio/visual story response; journals and evidence-based paragraphs.
+
+COMMON MISCONCEPTIONS:
+A response is only like/dislike; inference equals fact; context excuses every action; all readers should agree; all First Nations peoples share one culture; one First Nations student should explain a culture; present-day First Nations texts are only about the past.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Response versus retell/inference; evidence-based response model; historical/social/cultural context; author and reader context; First Nations specificity and respectful protocols; multiple defensible responses; worked examples and misconception checks.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Culturally safe discussion norms; teacher think-aloud; evidence/context annotation; paired response comparison; structured listening; optional personal sharing; support/core/extension pathways; exit response.
+
+REQUIRED WORKSHEET COVERAGE:
+Infer character/event meaning; cite evidence; label contextual influences; compare two responses; identify stereotype/unsupported claim; analyse original First Nations Australian, Australian and world-author-inspired contexts without imitation; write and revise a supported response.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 evidence/inference; 8 character responses; 8 event responses; 8 historical context; 8 social/cultural context; 6 compare readers’ responses; 4 extended respectful-response items. Total 48 original items.
+
+16-TEST-BANK COVERAGE PLAN:
+3 inference/evidence; 3 character/event response; 6 context-based response across First Nations Australian, Australian and world contexts; 2 response comparisons; 2 extended evidence-based tasks. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not reproduce source stories/transcripts; do not generalise cultures; do not make students disclose identity/trauma; do not treat cultural context as trivia; avoid deficit framing; do not claim Khan alignment.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/standards/english/year-6
+- https://au.ixl.com/english/year-6/analyse-short-stories
+- https://www.abc.net.au/education/abc-education-story-time-my-deadly-boots/103547966
+- https://www.abc.net.au/education/indigenous-australian-knowledge-through-story/103996396
+- https://www.abc.net.au/education/key-considerations-to-delivering-the-australian-dream-education/13592842
 
 RESEARCH STATUS:
-MORE-RESEARCH-REQUIRED.
-Next action: inspect only the strongest Khan resource if material, then an authoritative First Nations Australian literary/teaching resource and one broad Australian literature source. Do not repeat G.1 or its Learn-with-an-example.
+AUTHORING-READY.
+The mapped IXL inference pattern and worked example are verified. The selected First Nations-led ABC resources provide the missing cultural-context, response and culturally safe pedagogy required for original authoring.
