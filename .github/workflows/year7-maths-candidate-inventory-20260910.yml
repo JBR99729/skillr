@@ -1,0 +1,30 @@
+name: Year 7 Maths candidate inventory 2026-09-10
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/year7-maths-candidate-inventory-20260910.yml']
+permissions:
+  contents: write
+jobs:
+  inventory:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22}
+      - name: Inventory source candidates
+        run: |
+          node <<'NODE'
+          const fs=require('fs'),vm=require('vm');
+          const codes=[...Array.from({length:9},(_,i)=>`AC9M7N${String(i+1).padStart(2,'0')}`),...Array.from({length:6},(_,i)=>`AC9M7A${String(i+1).padStart(2,'0')}`),...Array.from({length:6},(_,i)=>`AC9M7M${String(i+1).padStart(2,'0')}`),...Array.from({length:4},(_,i)=>`AC9M7SP${String(i+1).padStart(2,'0')}`),...Array.from({length:3},(_,i)=>`AC9M7ST${String(i+1).padStart(2,'0')}`),...Array.from({length:2},(_,i)=>`AC9M7P${String(i+1).padStart(2,'0')}`)];
+          const norm=s=>String(s||'').toLowerCase().replace(/<[^>]+>/g,' ').replace(/[^a-z0-9%√π]+/g,' ').replace(/\s+/g,' ').trim();
+          function readJs(file){if(!fs.existsSync(file))return[];const src=fs.readFileSync(file,'utf8');const ctx={window:{},console};vm.createContext(ctx);try{vm.runInContext(src,ctx,{filename:file,timeout:2000})}catch(e){return[]};const vals=[];for(const [k,v] of Object.entries(ctx.window))if(Array.isArray(v))vals.push(...v);if(Array.isArray(ctx.quizQuestions))vals.push(...ctx.quizQuestions);return vals.filter(x=>x&&typeof x==='object');}
+          const rows=[];
+          for(const code of codes){const l=code.toLowerCase();const canon=JSON.parse(fs.readFileSync(`assets/assessment-banks/year7/math/${l}.json`,'utf8'));const psrc=[...canon.filter(x=>x.bank==='practice'),...readJs(`quiz/year-7/math/${l}/practice/questions.js`),...readJs(`quiz/year-7/math/${l}/practice/practice-questions.js`)];const tsrc=[...canon.filter(x=>x.bank==='test'),...readJs(`quiz/year-7/math/${l}/test/questions.js`)];const stem=x=>norm(x.question||x.prompt||x.text);const puniq=new Map(),tuniq=new Map();for(const x of psrc){const s=stem(x);if(s&&!puniq.has(s))puniq.set(s,x)}for(const x of tsrc){const s=stem(x);if(s&&!tuniq.has(s))tuniq.set(s,x)}const tNonOverlap=[...tuniq.keys()].filter(s=>!puniq.has(s));const union=new Set([...puniq.keys(),...tuniq.keys()]);rows.push({code,practiceCandidates:puniq.size,testCandidates:tuniq.size,testOutsidePractice:tNonOverlap.length,union:union.size,can48_16:puniq.size>=48&&tNonOverlap.length>=16});}
+          fs.mkdirSync('reports/year7-maths-research-authoring',{recursive:true});fs.writeFileSync('reports/year7-maths-research-authoring/CANDIDATE-INVENTORY-2026-09-10.json',JSON.stringify(rows,null,2)+'\n');console.table(rows);
+          NODE
+      - name: Commit inventory
+        run: |
+          git config user.name 'github-actions[bot]'; git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports/year7-maths-research-authoring/CANDIDATE-INVENTORY-2026-09-10.json
+          git commit -m 'Inventory Year 7 Maths authored question candidates' && git push || true
