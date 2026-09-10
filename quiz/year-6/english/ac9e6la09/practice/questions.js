@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "Do not separate a subject from its verb or insert commas between essential elements without reason."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-041",
+    "curriculumCode": "AC9E6LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "punctuate complex list",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence clearly lists three items when one item contains and?",
+    "audioPrompt": "Which sentence clearly lists three items when one item contains and?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "We packed bread and cheese, apples, and water.",
+      "We packed bread and cheese apples and water.",
+      "We packed, bread and cheese apples, and water.",
+      "We, packed bread and cheese, apples and water."
+    ],
+    "correct": 0,
+    "explanation": "The commas separate the three list items; the final comma prevents confusion because the first item already contains “and”.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The commas separate the three list items; the final comma prevents confusion because the first item already contains “and”.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-042",
+    "curriculumCode": "AC9E6LA09",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "punctuate introductory clause",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence is correctly punctuated?",
+    "audioPrompt": "Which sentence is correctly punctuated?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Although the track was muddy, the walkers continued.",
+      "Although, the track was muddy the walkers continued.",
+      "Although the track, was muddy the walkers continued.",
+      "Although the track was muddy the walkers, continued."
+    ],
+    "correct": 0,
+    "explanation": "A comma separates the introductory dependent clause from the following independent clause.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "A comma separates the introductory dependent clause from the following independent clause.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-043",
+    "curriculumCode": "AC9E6LA09",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "no comma after main clause",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence follows the usual rule?",
+    "audioPrompt": "Which sentence follows the usual rule?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The walkers continued although the track was muddy.",
+      "The walkers continued, although the track was muddy.",
+      "The walkers, continued although the track was muddy.",
+      "The walkers continued although, the track was muddy."
+    ],
+    "correct": 0,
+    "explanation": "A following essential dependent clause usually does not need a comma.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "A following essential dependent clause usually does not need a comma.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-044",
+    "curriculumCode": "AC9E6LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "punctuate dialogue before attribution",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence is correct?",
+    "audioPrompt": "Which sentence is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "“The gate is open,” said Priya.",
+      "“The gate is open” said, Priya.",
+      "“The gate is open”, said Priya.",
+      "“The gate is open.” said Priya."
+    ],
+    "correct": 0,
+    "explanation": "A comma stays inside the closing quotation mark before a following attribution.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "A comma stays inside the closing quotation mark before a following attribution.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-045",
+    "curriculumCode": "AC9E6LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "punctuate dialogue question",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence is correct?",
+    "audioPrompt": "Which sentence is correct?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "“Is the gate open?” asked Priya.",
+      "“Is the gate open,” asked Priya.",
+      "“Is the gate open”? asked Priya.",
+      "“Is the gate open.” asked Priya."
+    ],
+    "correct": 0,
+    "explanation": "The question mark belongs inside the quotation marks and replaces the comma.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The question mark belongs inside the quotation marks and replaces the comma.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-046",
+    "curriculumCode": "AC9E6LA09",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "repair comma splice",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision correctly repairs “The rain stopped, we resumed the match”?",
+    "audioPrompt": "Which revision correctly repairs “The rain stopped, we resumed the match”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The rain stopped, so we resumed the match.",
+      "The rain stopped, we, resumed the match.",
+      "The rain, stopped we resumed the match.",
+      "The rain stopped because, we resumed."
+    ],
+    "correct": 0,
+    "explanation": "The coordinating conjunction joins the two independent clauses and prevents a comma splice.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The coordinating conjunction joins the two independent clauses and prevents a comma splice.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-047",
+    "curriculumCode": "AC9E6LA09",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "punctuate direct address",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence directly addresses Noah correctly?",
+    "audioPrompt": "Which sentence directly addresses Noah correctly?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Noah, please check the measurements.",
+      "Noah please, check the measurements.",
+      "Noah please check, the measurements.",
+      "Noah please check the measurements."
+    ],
+    "correct": 0,
+    "explanation": "A comma separates the name used in direct address from the rest of the sentence.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "A comma separates the name used in direct address from the rest of the sentence.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA09-P-048",
+    "curriculumCode": "AC9E6LA09",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "serial comma choice",
+    "printable": true,
+    "type": "single",
+    "question": "Which statement best describes the final comma in a simple Australian-English list?",
+    "audioPrompt": "Which statement best describes the final comma in a simple Australian-English list?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It is often optional unless needed for clarity or house style.",
+      "It is always forbidden.",
+      "It must appear in every list.",
+      "It replaces the final conjunction."
+    ],
+    "correct": 0,
+    "explanation": "Australian usage commonly omits the serial comma in simple lists but uses it when clarity or style requires.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Australian usage commonly omits the serial comma in simple lists but uses it when clarity or style requires.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
