@@ -1,5 +1,35 @@
 [
   {
+    "id": "year-1-maths-practice-assessment",
+    "title": "Year 1 Maths Practice & Assessment Pack | Handpicked High-Quality Questions",
+    "year": 1,
+    "yearLabel": "Year 1",
+    "subject": "maths",
+    "subjectLabel": "Maths",
+    "topics": [
+      "practice",
+      "assessment",
+      "number",
+      "patterns",
+      "measurement",
+      "time",
+      "shapes",
+      "position",
+      "data"
+    ],
+    "curriculumCodes": [
+      "Australian Curriculum v9.0"
+    ],
+    "description": "A 59-page black-and-white practice and assessment pack with 56 practice questions, 27 assessment questions, answer keys, marking notes and curriculum diagnostic tools.",
+    "url": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Practice-Assessment-Pack-Handpicked-High-Quality-Questions--17621276",
+    "image": "/icons/skillrhub-mark.svg",
+    "price": "7.50",
+    "currency": "USD",
+    "available": true,
+    "resourceType": "assessment-pack",
+    "tptUrl": "https://www.teacherspayteachers.com/Product/Year-1-Maths-Practice-Assessment-Pack-Handpicked-High-Quality-Questions--17621276"
+  },
+  {
     "id": "year-2-maths-workbook",
     "title": "Year 2 Maths Workbook | Australian Curriculum Version 9.0 | Full-Year Resource",
     "year": 2,
