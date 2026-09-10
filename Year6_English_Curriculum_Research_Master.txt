@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LY09
-NEXT_CODE: AC9E6LY10
+CURRENT_CODE: RESEARCH-COMPLETE
+NEXT_CODE: AUTHORING-AC9E6LA01
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -2076,3 +2076,113 @@ https://v9.australiancurriculum.edu.au/
 RESEARCH STATUS:
 AUTHORING-READY.
 The absence of a direct IXL/Khan mapping is explicit. The curriculum progression and reusable word-analysis pedagogy provide sufficient scope for original Year 6 authoring.
+
+
+
+==================================================
+CODE:
+AC9E6LY09
+
+DESCRIPTOR:
+Use knowledge of known words, word origins including some Latin and Greek roots, base words, prefixes, suffixes, letter patterns and spelling generalisations to spell new words including technical words.
+
+IXL MAPPINGS:
+IXL-MAPPED on the live Australian Curriculum v9 Year 6 page to P.1–P.8: pre-, re-, sub-, mis-, negative prefixes, -ful, -less, -able/-ible; and Q.1–Q.5: Greek and Latin root meaning/application skills.
+
+IXL SKILLS INVESTIGATED:
+IXL-INTERACTIVE-VERIFIED by opening every mapped practice page and its Learn-with-an-example experience: P.1, P.2, P.3, P.4, P.5, P.6, P.7, P.8, Q.1, Q.2, Q.3, Q.4 and Q.5. Parent-profile pages confirmed that research responses are not recorded as student results.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+- Prefix/suffix tasks present a derived word inside a concrete question and ask which consequence, object or situation fits its meaning. Choices are usually two plausible situations; the distractor reverses or ignores the affix meaning.
+- Verified worked examples included mis- as incorrectly/badly, negative prefixes as not/opposite, -less as without and -able/-ible as able to be.
+- Root tasks vary the direction of reasoning: given root meaning, infer whole-word meaning; compare known relatives to infer an unknown root; select a root meaning; or combine root meanings to interpret an unfamiliar word.
+- Q.1/Q.4/Q.5 worked examples model auto as self, uni as one and tele as far away. Answer format is typically three-option multiple choice. Distractors preserve the topic but alter one semantic component.
+- Practice pages use audio support and short contextual prompts. Some initial live item panels rendered without accessible text, so no unsupported item wording is recorded; the worked-example evidence was captured directly.
+
+IXL DIFFICULTY PROGRESSION:
+Recognise one transparent affix → infer a derived word in context → distinguish several negative prefixes → handle -able/-ible alternatives → use a supplied root meaning → infer root meaning from a word family → combine multiple roots/affixes → spell and explain an unfamiliar technical word. Difficulty grows through less familiar vocabulary, more plausible semantic distractors and bidirectional reasoning.
+
+IXL MISCONCEPTIONS/TRAPS:
+Removing an affix always leaves an unchanged base spelling; re- always means again in every word; all initial letter strings are prefixes; in-/im- always mean not; -able and -ible are freely interchangeable; a root is necessarily a standalone English word; one familiar relative proves every meaning; meaning knowledge alone guarantees conventional spelling.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+The consistent model is: isolate affix/root → state its meaning → identify the base or related-word evidence → recombine meanings → test the candidate in the sentence → state why the closest distractor conflicts. Root examples explicitly build semantic families before transferring to an unseen word. SkillrHub must add the descriptor's missing encoding step: say, segment, build, write, check and explain any spelling change at the morpheme boundary.
+
+KHAN MAPPINGS:
+KHAN STATUS: NOT MAPPED / NOT MATERIAL.
+
+KHAN EVIDENCE:
+No coherent Australian Year 6 spelling progression for these affixes, roots and technical-word encoding was found in the previously inspected Khan language sequence. No mapping is forced; IXL provides the stronger direct curriculum alignment.
+
+OTHER FREE SOURCES:
+Australian Curriculum v9 English descriptor and word-knowledge progression.
+
+FREE-SOURCE EVIDENCE:
+The authoritative descriptor broadens the IXL meaning tasks into spelling production. Students must coordinate word origin, base word, affix, letter pattern and spelling generalisation to encode new and technical words—not only select definitions. Authoring therefore pairs morphology-based meaning with independent spelling, checking and transfer into subject vocabulary.
+
+CURRICULUM REQUIREMENTS:
+Known-word analogy; base words; productive prefixes/suffixes; Greek/Latin roots; word origins; letter patterns; spelling generalisations; boundary changes; unfamiliar and technical vocabulary; independent encoding and proofreading.
+
+PREREQUISITES:
+Phoneme/grapheme knowledge; syllables; base word; prefix; suffix; morpheme; common inflections; alphabetical/dictionary skills.
+
+NEW YEAR-6 DEPTH:
+Work bidirectionally from form to meaning and meaning to spelling; analyse multiple morphemes; use etymology selectively; apply conventions at affix boundaries; spell unfamiliar curriculum vocabulary; justify and verify a choice.
+
+VOCABULARY:
+origin; etymology; root; base word; prefix; suffix; morpheme; derivation; inflection; technical word; generalisation; word family; assimilation; meaning unit.
+
+REPRESENTATIONS:
+Word matrices, word sums, morpheme tiles, root-family webs, origin cards, meaning-to-spelling tables, dictation, editing excerpts and cross-curricular technical-word sets.
+
+COMMON MISCONCEPTIONS:
+Every word can be split cleanly; roots and bases are identical; spelling follows sound alone; morphology removes exceptions; technical words should be memorised whole; dictionaries replace reasoning.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Word-part terminology; prefix and suffix meanings; negative-prefix choice; -able/-ible; common Greek/Latin roots; word-family inference; spelling changes at boundaries; technical-word routine; dictionary verification; full worked example from meaning to spelling.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Morpheme sort; word matrices; teacher think-aloud; root-family investigation; technical-vocabulary stations; dictated word building; error analysis; collaborative proofreading; extension through novel word construction.
+
+REQUIRED WORKSHEET COVERAGE:
+Identify morphemes; match affix meanings; build/deconstruct words; infer roots; select and spell derived words; apply boundary rules; edit plausible errors; spell and explain original technical words in context.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+8 prefixes; 6 negative-prefix contrasts; 8 suffixes including -able/-ible; 8 base/affix spelling changes; 8 Greek/Latin root meaning tasks; 6 technical-word construction; 4 proofreading/justification. Total 48 original items.
+
+16-TEST-BANK COVERAGE PLAN:
+3 prefix/suffix meaning; 3 derived-word spelling; 3 root/word-family inference; 3 technical words; 2 editing; 2 independent construction/explanation. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not reproduce IXL wording; do not teach false exception-free rules; distinguish root/base/affix carefully; retain phonological support; use original, age-appropriate technical contexts.
+
+SOURCE REFERENCES:
+https://au.ixl.com/standards/english/year-6
+https://au.ixl.com/english/year-6/words-with-pre
+https://au.ixl.com/english/year-6/words-with-re
+https://au.ixl.com/english/year-6/words-with-sub
+https://au.ixl.com/english/year-6/words-with-mis
+https://au.ixl.com/english/year-6/words-with-un-dis-in-im-and-non
+https://au.ixl.com/english/year-6/words-with-ful
+https://au.ixl.com/english/year-6/words-with-less
+https://au.ixl.com/english/year-6/words-with-able-and-ible
+https://au.ixl.com/english/year-6/use-greek-and-latin-roots-as-clues-to-the-meanings-of-words
+https://au.ixl.com/english/year-6/use-the-meanings-of-words-as-clues-to-the-meanings-of-greek-and-latin-roots
+https://au.ixl.com/english/year-6/use-words-as-clues-to-the-meanings-of-greek-and-latin-roots
+https://au.ixl.com/english/year-6/determine-the-meanings-of-greek-and-latin--roots
+https://au.ixl.com/english/year-6/determine-the-meanings-of-words-with-greek-and-latin-roots
+https://v9.australiancurriculum.edu.au/
+
+RESEARCH STATUS:
+AUTHORING-READY.
+All 13 mapped IXL skills were opened in the authenticated practice experience and their mandatory worked examples were inspected. Curriculum evidence adds the spelling-production depth not tested by definition-selection alone.
+
+==================================================
+YEAR 6 ENGLISH RESEARCH PHASE:
+COMPLETE — ALL CODES AUTHORING-READY.
+
+AUTHORING CURRENT_CODE:
+AC9E6LA01
+
+AUTHORING NEXT_CODE:
+AC9E6LA02
