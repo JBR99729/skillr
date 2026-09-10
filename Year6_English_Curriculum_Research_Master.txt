@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LA08
-NEXT_CODE: AC9E6LA09
+CURRENT_CODE: AC9E6LA09
+NEXT_CODE: AC9E6LE01
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -568,64 +568,174 @@ There is no material IXL/Khan mapping to investigate. The descriptor, Australian
 ==================================================
 CODE: AC9E6LA08
 DESCRIPTOR: Identify authors’ use of vivid, emotive vocabulary, such as metaphors, similes, personification, idioms, imagery and hyperbole.
-STATUS: RESEARCHING
 ==================================================
 
 IXL MAPPINGS:
-Live AC v9 mapping lists:
-- 6-F.1 Interpret figures of speech
-- 6-F.2 Classify figures of speech
-- 6-F.3 Analyse the effects of figures of speech on meaning and tone
-- 6-M.1 Use personification
+IXL-MAPPED to 6-F.1 Interpret figures of speech; 6-F.2 Classify figures of speech; 6-F.3 Analyse the effects of figures of speech on meaning and tone; and 6-M.1 Use personification.
 
 IXL SKILLS INVESTIGATED:
-IXL-INTERACTIVE-VERIFIED: F.1, F.2, F.3 and M.1. Literature/free-source gap research remains.
+IXL-INTERACTIVE-VERIFIED: F.1, F.2, F.3 and M.1.
 
 IXL QUESTIONS/PATTERNS INVESTIGATED:
-- F.1 presents a short original-or-excerpted sentence containing a named figure of speech and asks what it suggests. The actual metaphor item used two concise paraphrase distractors; the learner had to reject an overly literal/emotionally narrow reading and choose the broader implied meaning. One answer was submitted correctly.
-- F.2 asks which figure of speech appears in a literary quotation, using a two-choice classification. The actual item contrasted verbal irony with simile and required noticing an explicit as comparison. One answer was submitted correctly.
-- F.3 uses a longer published-literature passage and asks the learner to select the figurative phrase directly in the text. The investigated item targeted a metaphor embedded amid dialogue and literal description, so selection required distinguishing target wording from surrounding context. The source excerpt and copyright line were visible; no source wording will be reused.
-- M.1 asks the learner to complete a sentence so it uses personification. Two choices are both grammatically and semantically possible, but only one assigns a human action/emotion to a nonhuman object. One actual item was submitted correctly.
-- Worked teaching encountered definitions/examples for personification, metaphor, simile, alliteration, allusion, idiom, hyperbole, onomatopoeia and verbal irony, with solutions linking the marked words to their nonliteral meaning.
+- F.1 asks what a named figure suggests. A short metaphor was followed by two plausible paraphrases; the learner rejected an overly literal/narrow reading and selected the implied emotional meaning. One actual answer was submitted correctly.
+- F.2 presents a literary quotation and asks for its device using a two-choice radio response. An actual simile item contrasted simile with verbal irony and required recognising the structural as cue. One answer was submitted correctly.
+- F.3 embeds figurative language in a longer published passage and requires selecting the target wording directly. The investigated item placed a metaphor among dialogue and literal description, increasing evidence-location demand. Its copyright line was visible; no passage wording is retained for authoring.
+- M.1 completes a sentence so it uses personification. Both options fit grammar and situation, but only one gives a nonhuman object a human action. One actual answer was submitted correctly.
+- Worked examples covered personification, metaphor, simile, alliteration, allusion, idiom, hyperbole, onomatopoeia and verbal irony, translating marked evidence into literal meaning and effect.
 
 IXL DIFFICULTY PROGRESSION:
-- Recognise an overt marker such as like/as, then classify among nearby figurative categories.
-- Interpret a figure’s implied meaning rather than paraphrase it literally.
-- Locate a figure inside a longer authentic passage containing distractor language.
-- Connect a device to tone/effect and select language that deliberately creates personification.
-- Remaining research must add vivid/emotive vocabulary and imagery in Australian literary contexts, plus explanation and original composition depth.
+- Recognise overt structural cues and classify close categories.
+- Interpret implied meaning rather than read literally.
+- Locate a figure amid realistic passage detail.
+- Link a device to tone/effect and deliberately create personification.
+- Higher Year 6 work must compare alternative word choices, analyse imagery across a passage/poem, distinguish vivid from emotive language, and justify author purpose with evidence.
 
 IXL MISCONCEPTIONS/TRAPS:
-- Treating all comparisons as similes even without like/as.
-- Reading metaphor or idiom literally.
-- Identifying a device but not explaining what it suggests.
-- Confusing vivid description with personification.
-- Choosing a grammatically strong completion that lacks the required human characteristic.
-- Selecting any unusual phrase from a passage instead of the requested device.
-- Equating author effect with a generic claim that language is “interesting”.
+- All comparisons are similes; all unusual wording is metaphor.
+- Like/as automatically signals simile even when no unlike things are compared.
+- Idioms and hyperbole should be read literally.
+- Naming a device is the same as explaining its effect.
+- Any human-associated verb creates effective personification.
+- Vivid and emotive are interchangeable.
+- “It makes it interesting” is an adequate analysis.
+- The reader’s response can be asserted without linking to exact words and context.
 
 IXL LEARN-FROM-EXAMPLE INSIGHTS:
-- Define nonliteral language first, then name the specific device and its structural cue.
-- Mark the operative words and translate them into a plain literal meaning.
-- Explain how the comparison/attribution shapes a mental image, emphasis or tone.
+- Define nonliteral language, name the structural cue, isolate the operative words, then paraphrase literally.
+- Use a device–evidence–meaning–effect sequence.
 - Contrast close categories with paired examples.
-- Preserve whole-passage context when asking about effect, but isolate the exact evidence in feedback.
+- Keep whole-passage context visible but highlight exact evidence.
+- Explain how associations create an image, emphasis, attitude or tone rather than offering a generic judgement.
 
 KHAN MAPPINGS:
-Pending targeted check for figurative language; do not force a mapping.
+KHAN STATUS: NOT MAPPED / NOT MATERIAL FOR CORE YEAR-6 COVERAGE.
+A current Khan figurative-language lesson was located and inspected in search results, but it is placed in Grade 9 reading/vocabulary. It defines figurative language and examples including simile, metaphor and personification; it is supplementary and too high-level/US-sequenced to use as the Year 6 spine.
 
 KHAN EVIDENCE:
-Pending.
+- Khan’s useful conceptual starting point is literal-versus-intended meaning.
+- No Australian Curriculum mapping exists, and no materially superior Year 6 practice was identified; no forced mapping is claimed.
 
 OTHER FREE SOURCES:
-Pending Australian literature/poetry and vivid-emotive vocabulary evidence.
+- ABC Education, Poetic Devices six-part series (Upper Primary–Lower Secondary).
+- Red Room Poetry/ClickView, Poetic Devices learning resources and teacher pack for Years 3–6.
+- Victorian Department of Education Arc, “Figurative language – Level 5”.
+- NSW Department of Education SCAN article, “Poets in the making: confirming identity in English”.
 
 FREE-SOURCE EVIDENCE:
-Pending.
+- ABC’s inspected listing sequences six short poet-led episodes around simile, metaphor, personification, alliteration, onomatopoeia and imagery, each connected to an object meaningful to the poet. This models device-in-purposeful-context rather than isolated labels.
+- Red Room Poetry’s inspected Years 3–6 resource begins by activating prior knowledge, listening/responding to a poem, then explicitly introducing metaphor. The teacher pack indicates discussion before analysis and creation.
+- Victorian Arc states that figurative language lacks an everyday literal meaning and includes simile, metaphor and personification; it recommends using devices in narrative or poetry to help readers visualise.
+- NSW evidence emphasises poetry as a way for learners to express their own ideas/emotions and engage with others’ ideas, supporting oral response, identity and composition.
+- Teaching implication: progress through encounter/respond, identify evidence, unpack associations, explain meaning/tone, compare alternatives, then create/revise. Use original or appropriately licensed/public-domain texts only.
 
 CURRICULUM REQUIREMENTS:
-Pending synthesis after literature/source inspection.
+- Identify vivid and emotive vocabulary as well as named figurative devices.
+- Distinguish literal and nonliteral meaning.
+- Interpret metaphor, simile, personification, idiom, imagery and hyperbole in context.
+- Explain how exact words shape mental imagery, feeling, tone, character, setting and emphasis.
+- Compare alternative choices and justify an interpretation with textual evidence.
+- Create and revise original language choices for audience and purpose across narrative, poetry and persuasive/informative contexts.
+
+PREREQUISITES:
+Literal/inferential comprehension; word meaning in context; adjectives/verbs; comparison; sensory vocabulary; connotation; tone basics; quotation/evidence selection.
+
+NEW YEAR-6 DEPTH:
+- Move from device naming to evidence-based effect analysis.
+- Separate denotation from associations and emotional charge.
+- Trace imagery or tone across several sentences/lines.
+- Recognise that interpretations can differ but require defensible evidence.
+- Evaluate clichés, mixed metaphors, exaggeration and appropriateness for audience.
+- Compose and revise vivid/emotive language deliberately.
+
+VOCABULARY:
+literal; nonliteral; figurative language; vivid; emotive; connotation; association; imagery; sensory detail; metaphor; simile; personification; idiom; hyperbole; tone; mood; emphasis; alliteration; onomatopoeia; allusion; evidence; interpretation; cliché.
+
+REPRESENTATIONS:
+- Original micro-poems, narrative extracts, speeches, advertisements and information passages.
+- Device/evidence/meaning/effect tables.
+- Literal-versus-figurative sorts.
+- Highlight-in-passage selection.
+- Two-choice close distractors and multi-select.
+- Tone continua, sensory maps and image-to-language matching.
+- Before/after revision and short original composition.
+
+COMMON MISCONCEPTIONS:
+- Device labels alone explain meaning.
+- Mood and tone are identical.
+- Emotive language is always negative or exaggerated.
+- Imagery means only sight.
+- Hyperbole is a lie rather than deliberate obvious exaggeration.
+- Personification requires a human body part rather than a human quality/action.
+- An idiom’s component words reveal its full meaning.
+- More devices always improve writing.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+- Vivid versus emotive vocabulary and connotation.
+- Literal/nonliteral meaning.
+- Metaphor, simile, personification, idiom, imagery and hyperbole with original examples.
+- Device–evidence–meaning–effect reasoning.
+- Tone, mood and sensory imagery.
+- Comparison, author purpose, cliché/mixed-metaphor editing and creation.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+- Learning intention/success criteria; sensory/vocabulary warm-up.
+- Poet/author choice think-aloud.
+- Guided device classification and collaborative effect analysis.
+- Evidence-based talk stems and alternative-interpretation discussion.
+- Original object-based image/metaphor creation inspired by the inspected sequence but using new content.
+- Support/core/extension tasks and exit response.
+
+REQUIRED WORKSHEET COVERAGE:
+- Literal/nonliteral and vivid/emotive sorts.
+- Identify devices and exact evidence.
+- Paraphrase intended meaning.
+- Match evidence to tone/effect with justification.
+- Analyse a short original poem and prose passage.
+- Repair cliché, mixed metaphor or inappropriate exaggeration.
+- Create and explain original examples.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+- 6 vivid/emotive/connotation items.
+- 6 simile items.
+- 6 metaphor items.
+- 6 personification items.
+- 5 idiom items.
+- 5 hyperbole items.
+- 6 imagery/sensory-detail items.
+- 4 tone/effect comparison items.
+- 4 passage-level creation/revision/explanation items.
+Total: 48 original items with varied formats and contexts.
+
+16-TEST-BANK COVERAGE PLAN:
+- 2 vivid/emotive vocabulary items.
+- 2 simile/metaphor distinctions.
+- 2 personification items.
+- 2 idiom/hyperbole interpretations.
+- 3 imagery/tone-effect items.
+- 3 passage-level evidence explanations.
+- 2 independent creation/revision tasks.
+Total: 16 independent original items with no practice duplicates.
+
+CONTENT BOUNDARIES:
+- Do not reproduce IXL or published literary wording.
+- Do not use ABC/Red Room video or poem content without appropriate permission.
+- Do not make obscure terminology the goal.
+- Do not accept unsupported subjective reactions as analysis.
+- Include Australian contexts without stereotyping or appropriating First Nations knowledge.
+- Keep imagery multisensory and distinguish effect from device label.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/standards/english/year-6
+- https://au.ixl.com/english/year-6/interpret-figures-of-speech
+- https://au.ixl.com/english/year-6/classify-figures-of-speech
+- https://au.ixl.com/english/year-6/analyse-the-effects-of-figures-of-speech-on-meaning-and-tone
+- https://au.ixl.com/english/year-6/use-personification
+- https://www.khanacademy.org/ela/9th-grade-reading-and-vocabulary/xd45453bfd2ae8614%3Aword-study-9-grammar/xd45453bfd2ae8614%3Afigurative-language-9-grammar/v/figurative-language-reading
+- https://www.abc.net.au/education/tv-guide/poetic-devices/102529624
+- https://redroompoetry.org/projects/poetry-object-clickview-resources/
+- https://arc.educationapps.vic.gov.au/learning/sites/english-text-study-lesson-plans/3082
+- https://education.nsw.gov.au/content/dam/main-education/teaching-and-learning/professional-learning/scan/media/documents/vol-37/Scan_2018_37-3.pdf
 
 RESEARCH STATUS:
-MORE-RESEARCH-REQUIRED.
-Next action: inspect relevant Khan material if genuine, then Australian/free literary and poetry resources for imagery, emotive vocabulary, author purpose and Year 6 effect analysis. Do not repeat F.1, F.2, F.3 or M.1.
+AUTHORING-READY.
+All mapped IXL patterns are interactively verified. Australian upper-primary poetry and department resources fill imagery, response, composition and author-purpose gaps, with clear copyright boundaries for fully original authoring.
