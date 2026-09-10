@@ -563,3 +563,69 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 There is no material IXL/Khan mapping to investigate. The descriptor, Australian multimodal example and explicit visual-literacy synthesis establish sufficient scope, progression, misconceptions, representations and bank coverage for original authoring.
+
+
+==================================================
+CODE: AC9E6LA08
+DESCRIPTOR: Identify authors’ use of vivid, emotive vocabulary, such as metaphors, similes, personification, idioms, imagery and hyperbole.
+STATUS: RESEARCHING
+==================================================
+
+IXL MAPPINGS:
+Live AC v9 mapping lists:
+- 6-F.1 Interpret figures of speech
+- 6-F.2 Classify figures of speech
+- 6-F.3 Analyse the effects of figures of speech on meaning and tone
+- 6-M.1 Use personification
+
+IXL SKILLS INVESTIGATED:
+IXL-INTERACTIVE-VERIFIED: F.1, F.2, F.3 and M.1. Literature/free-source gap research remains.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+- F.1 presents a short original-or-excerpted sentence containing a named figure of speech and asks what it suggests. The actual metaphor item used two concise paraphrase distractors; the learner had to reject an overly literal/emotionally narrow reading and choose the broader implied meaning. One answer was submitted correctly.
+- F.2 asks which figure of speech appears in a literary quotation, using a two-choice classification. The actual item contrasted verbal irony with simile and required noticing an explicit as comparison. One answer was submitted correctly.
+- F.3 uses a longer published-literature passage and asks the learner to select the figurative phrase directly in the text. The investigated item targeted a metaphor embedded amid dialogue and literal description, so selection required distinguishing target wording from surrounding context. The source excerpt and copyright line were visible; no source wording will be reused.
+- M.1 asks the learner to complete a sentence so it uses personification. Two choices are both grammatically and semantically possible, but only one assigns a human action/emotion to a nonhuman object. One actual item was submitted correctly.
+- Worked teaching encountered definitions/examples for personification, metaphor, simile, alliteration, allusion, idiom, hyperbole, onomatopoeia and verbal irony, with solutions linking the marked words to their nonliteral meaning.
+
+IXL DIFFICULTY PROGRESSION:
+- Recognise an overt marker such as like/as, then classify among nearby figurative categories.
+- Interpret a figure’s implied meaning rather than paraphrase it literally.
+- Locate a figure inside a longer authentic passage containing distractor language.
+- Connect a device to tone/effect and select language that deliberately creates personification.
+- Remaining research must add vivid/emotive vocabulary and imagery in Australian literary contexts, plus explanation and original composition depth.
+
+IXL MISCONCEPTIONS/TRAPS:
+- Treating all comparisons as similes even without like/as.
+- Reading metaphor or idiom literally.
+- Identifying a device but not explaining what it suggests.
+- Confusing vivid description with personification.
+- Choosing a grammatically strong completion that lacks the required human characteristic.
+- Selecting any unusual phrase from a passage instead of the requested device.
+- Equating author effect with a generic claim that language is “interesting”.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+- Define nonliteral language first, then name the specific device and its structural cue.
+- Mark the operative words and translate them into a plain literal meaning.
+- Explain how the comparison/attribution shapes a mental image, emphasis or tone.
+- Contrast close categories with paired examples.
+- Preserve whole-passage context when asking about effect, but isolate the exact evidence in feedback.
+
+KHAN MAPPINGS:
+Pending targeted check for figurative language; do not force a mapping.
+
+KHAN EVIDENCE:
+Pending.
+
+OTHER FREE SOURCES:
+Pending Australian literature/poetry and vivid-emotive vocabulary evidence.
+
+FREE-SOURCE EVIDENCE:
+Pending.
+
+CURRICULUM REQUIREMENTS:
+Pending synthesis after literature/source inspection.
+
+RESEARCH STATUS:
+MORE-RESEARCH-REQUIRED.
+Next action: inspect relevant Khan material if genuine, then Australian/free literary and poetry resources for imagery, emotive vocabulary, author purpose and Year 6 effect analysis. Do not repeat F.1, F.2, F.3 or M.1.
