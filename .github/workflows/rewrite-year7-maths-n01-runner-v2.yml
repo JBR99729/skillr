@@ -1,0 +1,65 @@
+name: Rewrite Year 7 Maths N01 runner v2
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rewrite-year7-maths-n01-runner-v2.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rewrite:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Execute corrected research-aligned authoring script
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          src=Path('.github/workflows/rewrite-year7-maths-n01-once.yml').read_text()
+          start=src.index("          node <<'NODE'\n")+len("          node <<'NODE'\n")
+          end=src.index("\n          NODE",start)
+          block=src[start:end]
+          lines=[]
+          for line in block.splitlines():
+              lines.append(line[10:] if line.startswith('          ') else line)
+          js='\n'.join(lines)+'\n'
+          js=js.replace("const test='\"use strict\";", "const testJs='\"use strict\";")
+          js=js.replace("fs.writeFileSync(`quiz/year-7/math/${lower}/test/questions.js`,test);", "fs.writeFileSync(`quiz/year-7/math/${lower}/test/questions.js`,testJs);")
+          Path('/tmp/ac9m7n01-author.js').write_text(js)
+          PY
+          node /tmp/ac9m7n01-author.js
+      - name: Validate bank structure and curriculum-scope guard
+        run: |
+          node --check quiz/year-7/math/ac9m7n01/practice/questions.js
+          node --check quiz/year-7/math/ac9m7n01/test/questions.js
+          node <<'NODE'
+          const fs=require('fs'),vm=require('vm');
+          function load(file,key){const box={window:{}};vm.createContext(box);vm.runInContext(fs.readFileSync(file,'utf8'),box);return box.window[key];}
+          const p=load('quiz/year-7/math/ac9m7n01/practice/questions.js','skillrPracticeQuestions');
+          const t=load('quiz/year-7/math/ac9m7n01/test/questions.js','skillrTestQuestions');
+          if(p.length!==48||t.length!==16) throw new Error(`counts ${p.length}/${t.length}`);
+          const norm=s=>String(s).toLowerCase().replace(/[^a-z0-9]+/g,' ').trim();
+          if(new Set(p.map(x=>norm(x.question))).size!==48) throw new Error('practice duplicate stems');
+          if(new Set(t.map(x=>norm(x.question))).size!==16) throw new Error('test duplicate stems');
+          const ps=new Set(p.map(x=>norm(x.question))); if(t.some(x=>ps.has(norm(x.question)))) throw new Error('practice/test stem overlap');
+          const combined=p.concat(t).map(x=>x.question).join('\n');
+          if(/\(a\s*[+-]\s*b\)\s*²|square expansion|binomial/i.test(combined)) throw new Error('out-of-scope square expansion remains');
+          console.log('AC9M7N01 bank QA passed: 48 practice, 16 test, zero stem overlap.');
+          NODE
+      - name: Commit authored N01 banks
+        run: |
+          git config user.name 'SkillrHub Authoring Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add assets/assessment-banks/year7/math/ac9m7n01.json quiz/year-7/math/ac9m7n01/practice/questions.js quiz/year-7/math/ac9m7n01/practice/practice-questions.js quiz/year-7/math/ac9m7n01/test/questions.js reports/year7-maths-research-authoring/AC9M7N01.md
+          git diff --cached --quiet && { echo 'No changes produced'; exit 1; }
+          git commit -m 'Re-author AC9M7N01 from Year 7 research master'
+          git push origin HEAD:main
