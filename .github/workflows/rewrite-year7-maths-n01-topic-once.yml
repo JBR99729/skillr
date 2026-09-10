@@ -1,0 +1,88 @@
+name: Align Year 7 Maths N01 topic once
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/rewrite-year7-maths-n01-topic-once.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  align:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Correct N01 authored topic source
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('scripts/year7-maths-topic-v2-number-a01-overrides.mjs')
+          s=p.read_text()
+          s=s.replace(
+            "{title:\"Bound a non-perfect square root\",problem:\"Estimate √70 without a calculator.\",steps:[\"8² = 64 and 9² = 81.\",\"70 lies between 64 and 81.\",\"So √70 lies between 8 and 9.\"],why:\"Consecutive perfect squares give reliable bounds for roots that are not whole numbers.\"}",
+            "{title:\"Use a square root in a problem\",problem:\"A square courtyard has area 324 m². How much fencing is needed around all four sides?\",steps:[\"The side length is √324 = 18 m because 18² = 324.\",\"A square has four equal sides.\",\"Perimeter = 4 × 18 = 72 m.\"],why:\"The square root reverses the area calculation so you can recover the side length before solving the context.\"}"
+          )
+          s=s.replace(
+            "{q:\"Place √50 between consecutive whole numbers.\",a:\"7 < √50 < 8 because 49 < 50 < 64.\"}",
+            "{q:\"A square has area 529 cm². Find its side length and explain the inverse relationship you used.\",a:\"23 cm, because 23² = 529, so √529 = 23.\"}"
+          )
+          # Remove any residual non-perfect-root teaching from the N01 override only.
+          start=s.index('AC9M7N01:')
+          end=s.index('AC9M7N02:', start)
+          n01=s[start:end]
+          bad=['√70','√50','non-perfect square root','between 8 and 9','between consecutive whole numbers']
+          for term in bad:
+            if term in n01:
+              raise SystemExit(f'residual N01 scope overreach: {term}')
+          p.write_text(s)
+          PY
+      - name: Correct N01 special visual and rebuild static resources
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          p=Path('scripts/build_year7_maths_topic_modules_v2.mjs')
+          s=p.read_text()
+          old='rootBounds:{lower:64,value:70,upper:81,label:"√70 lies between √64 and √81"}'
+          new='inversePair:{square:"18² = 324",root:"√324 = 18",label:"Squaring and square root undo each other"}'
+          if old not in s:
+            raise SystemExit('N01 rootBounds visual source not found')
+          s=s.replace(old,new,1)
+          p.write_text(s)
+          PY
+          node scripts/build_year7_maths_topic_modules_v2.mjs
+      - name: Validate N01 topic classroom worksheet scope
+        run: |
+          node <<'NODE'
+          const fs=require('fs');
+          const files=[
+            'year7/maths/ac9m7n01-the-relationship-between-perfect-square-numbers-and-square/index.html',
+            'year7/maths/ac9m7n01-the-relationship-between-perfect-square-numbers-and-square/teacher-slides/index.html',
+            'quiz/year-7/math/ac9m7n01/worksheet/index.html'
+          ];
+          for(const file of files){
+            if(!fs.existsSync(file)) throw new Error(`missing ${file}`);
+            const t=fs.readFileSync(file,'utf8');
+            if(/√70|√50|non-perfect square root|between 8 and 9|between consecutive whole numbers/i.test(t)) throw new Error(`${file}: residual out-of-scope root-estimation content`);
+            if(!/324|square root|perfect square/i.test(t)) throw new Error(`${file}: expected N01 inverse/context content missing`);
+          }
+          console.log('AC9M7N01 topic/classroom/worksheet scope QA passed.');
+          NODE
+      - name: Commit aligned N01 learning resources
+        run: |
+          git config user.name 'SkillrHub Authoring Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add scripts/year7-maths-topic-v2-number-a01-overrides.mjs scripts/build_year7_maths_topic_modules_v2.mjs \
+            year7/maths/ac9m7n01-the-relationship-between-perfect-square-numbers-and-square/index.html \
+            year7/maths/ac9m7n01-the-relationship-between-perfect-square-numbers-and-square/teacher-slides/index.html \
+            quiz/year-7/math/ac9m7n01/worksheet/index.html
+          git diff --cached --quiet && { echo 'No changes produced'; exit 1; }
+          git commit -m 'Align AC9M7N01 learning resources to research master'
+          git push origin HEAD:main
