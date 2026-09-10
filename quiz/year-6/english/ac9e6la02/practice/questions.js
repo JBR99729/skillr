@@ -5,11 +5,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "mark evaluative words",
+    "skill": "fact or opinion",
     "printable": true,
     "type": "single",
-    "question": "In a class podcast, which sentence is most objective?",
-    "audioPrompt": "In a class podcast, which sentence is most objective?",
+    "question": "Which statement about the school garden is objective?",
+    "audioPrompt": "Which statement about the school garden is objective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -17,16 +17,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The ridiculous survey wasted everyone’s time",
-      "The survey included 240 respondents",
-      "The brilliant result proves everything",
-      "Everyone hated the survey"
+      "The garden contains 18 raised beds.",
+      "The garden is the most inspiring place at school.",
+      "Everyone would agree with the second statement.",
+      "The topic itself proves both statements."
     ],
-    "correct": 1,
-    "explanation": "“The survey included 240 respondents” is the strongest choice because it matches the language feature and the situation.\nHint: Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
+    "correct": 0,
+    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“The survey included 240 respondents” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
+      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -35,11 +35,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "subjective language",
+    "skill": "fact or opinion",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “wording expressing evaluation, feeling or viewpoint”?",
-    "audioPrompt": "Which term best matches this meaning: “wording expressing evaluation, feeling or viewpoint”?",
+    "question": "Which statement about the bus trial is objective?",
+    "audioPrompt": "Which statement about the bus trial is objective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -47,16 +47,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "objective language",
-      "bias",
-      "subjective language",
-      "It does not match the evidence in the example."
+      "The trial operated on three routes for six weeks.",
+      "The trial was a magnificent success.",
+      "Everyone would agree with the second statement.",
+      "The topic itself proves both statements."
     ],
-    "correct": 2,
-    "explanation": "subjective language means wording expressing evaluation, feeling or viewpoint.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 0,
+    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "subjective language means wording expressing evaluation, feeling or viewpoint.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -65,11 +65,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "attributed opinion",
+    "skill": "fact or opinion",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a science investigation: “Residents described the cost as excessive.”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a science investigation: “Residents described the cost as excessive.”. Which label best describes what the language is doing?",
+    "question": "Which statement about the library survey is objective?",
+    "audioPrompt": "Which statement about the library survey is objective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -77,16 +77,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "objective-style",
-      "subjective",
-      "biased selection",
-      "attributed opinion"
+      "Two hundred students completed the survey.",
+      "Every sensible student supports the library.",
+      "Everyone would agree with the second statement.",
+      "The topic itself proves both statements."
     ],
-    "correct": 3,
-    "explanation": "“Residents described the cost as excessive.” is an example of attributed opinion; here it speaker identified.\nHint: Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
+    "correct": 0,
+    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“Residents described the cost as excessive.” is an example of attributed opinion; here it speaker identified.",
-      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
+      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -95,11 +95,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "misconception repair",
+    "skill": "fact or opinion",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Bias means deliberate dishonesty”?",
-    "audioPrompt": "Which correction best fixes this idea: “Bias means deliberate dishonesty”?",
+    "question": "Which statement about the river test is objective?",
+    "audioPrompt": "Which statement about the river test is objective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -107,16 +107,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It may arise from assumptions or methods.",
-      "Any adjective is subjective",
-      "Neutral tone proves no bias",
-      "Quoted opinion becomes fact"
+      "The sample had a pH of 6.4.",
+      "The river looked terribly unhealthy.",
+      "Everyone would agree with the second statement.",
+      "The topic itself proves both statements."
     ],
     "correct": 0,
-    "explanation": "It may arise from assumptions or methods. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "It may arise from assumptions or methods. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -125,11 +125,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "objective style",
+    "skill": "fact or opinion",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining objective, subjective and biased language in a sports-club discussion?",
-    "audioPrompt": "Which example would be most useful when explaining objective, subjective and biased language in a sports-club discussion?",
+    "question": "Which statement about the sports day is objective?",
+    "audioPrompt": "Which statement about the sports day is objective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -137,16 +137,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The wasteful proposal costs an outrageous $2.4 million.",
-      "The proposal costs $2.4 million.",
-      "Residents described the cost as excessive.",
-      "Only opposing voices are quoted."
+      "Four houses competed in twelve events.",
+      "The sports day was unbearably long.",
+      "Everyone would agree with the second statement.",
+      "The topic itself proves both statements."
     ],
-    "correct": 1,
-    "explanation": "This example directly demonstrates objective-style and can be explained using the language clue in the text.\nHint: Students distinguish verifiable information from evaluation, identify loaded wording and selective framing and explain that apparently objective texts may still position readers through evidence choice and omission.",
+    "correct": 0,
+    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates objective-style and can be explained using the language clue in the text.",
-      "hint": "Students distinguish verifiable information from evaluation, identify loaded wording and selective framing and explain that apparently objective texts may still position readers through evidence choice and omission."
+      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -155,11 +155,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "mark evaluative words",
+    "skill": "fact or opinion",
     "printable": true,
     "type": "single",
-    "question": "In a library display, which feature can create bias even with neutral wording?",
-    "audioPrompt": "In a library display, which feature can create bias even with neutral wording?",
+    "question": "Which statement about the solar project is objective?",
+    "audioPrompt": "Which statement about the solar project is objective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -167,16 +167,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Including units",
-      "Naming the source",
-      "Selecting only one side’s evidence",
-      "Using a table accurately"
+      "The panels generated 42 kilowatt-hours on Monday.",
+      "The panels are a brilliant investment.",
+      "Everyone would agree with the second statement.",
+      "The topic itself proves both statements."
     ],
-    "correct": 2,
-    "explanation": "“Selecting only one side’s evidence” is the strongest choice because it matches the language feature and the situation.\nHint: Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
+    "correct": 0,
+    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“Selecting only one side’s evidence” is the strongest choice because it matches the language feature and the situation.",
-      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
+      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -185,11 +185,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "objective language",
+    "skill": "fact or opinion",
     "printable": true,
     "type": "single",
-    "question": "Which term best matches this meaning: “wording centred on verifiable information”?",
-    "audioPrompt": "Which term best matches this meaning: “wording centred on verifiable information”?",
+    "question": "Which statement about the museum visit is objective?",
+    "audioPrompt": "Which statement about the museum visit is objective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -197,16 +197,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "subjective language",
-      "bias",
-      "It does not match the evidence in the example.",
-      "objective language"
+      "The class examined five original artefacts.",
+      "The exhibition was absolutely unforgettable.",
+      "Everyone would agree with the second statement.",
+      "The topic itself proves both statements."
     ],
-    "correct": 3,
-    "explanation": "objective language means wording centred on verifiable information.\nHint: Match the definition precisely; do not choose a nearby term just because it is familiar.",
+    "correct": 0,
+    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "objective language means wording centred on verifiable information.",
-      "hint": "Match the definition precisely; do not choose a nearby term just because it is familiar."
+      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -215,11 +215,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "recognise",
-    "skill": "biased selection",
+    "skill": "fact or opinion",
     "printable": true,
     "type": "single",
-    "question": "Read this example from a student council meeting: “Only opposing voices are quoted.”. Which label best describes what the language is doing?",
-    "audioPrompt": "Read this example from a student council meeting: “Only opposing voices are quoted.”. Which label best describes what the language is doing?",
+    "question": "Which statement about the canteen menu is objective?",
+    "audioPrompt": "Which statement about the canteen menu is objective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -227,16 +227,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "biased selection",
-      "objective-style",
-      "subjective",
-      "attributed opinion"
+      "Three vegetarian meals were added this term.",
+      "The new meals are far more delicious.",
+      "Everyone would agree with the second statement.",
+      "The topic itself proves both statements."
     ],
     "correct": 0,
-    "explanation": "“Only opposing voices are quoted.” is an example of biased selection; here it one-sided evidence.\nHint: Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
+    "explanation": "The selected statement contains information that can be checked without requiring agreement about quality or value.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“Only opposing voices are quoted.” is an example of biased selection; here it one-sided evidence.",
-      "hint": "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias."
+      "summary": "The selected statement contains information that can be checked without requiring agreement about quality or value.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -244,12 +244,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-009",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "misconception repair",
+    "stage": "analyse",
+    "skill": "subjective wording",
     "printable": true,
     "type": "single",
-    "question": "Which correction best fixes this idea: “Any adjective is subjective”?",
-    "audioPrompt": "Which correction best fixes this idea: “Any adjective is subjective”?",
+    "question": "Compare: “The committee published the timetable on Friday.” and “The committee finally released its hopeless timetable.” Which words most clearly make the second version subjective?",
+    "audioPrompt": "Compare: “The committee published the timetable on Friday.” and “The committee finally released its hopeless timetable.” Which words most clearly make the second version subjective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -257,16 +257,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Any adjective is subjective",
-      "Some adjectives classify observable features.",
-      "Neutral tone proves no bias",
-      "Quoted opinion becomes fact"
+      "finally; hopeless",
+      "the repeated nouns",
+      "the factual measurement only",
+      "the punctuation"
     ],
-    "correct": 1,
-    "explanation": "Some adjectives classify observable features. This fixes the misconception without creating a new rule that is too broad.\nHint: Check the actual language evidence rather than relying on an absolute rule.",
+    "correct": 0,
+    "explanation": "The words finally; hopeless add impatience and disapproval, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Some adjectives classify observable features. This fixes the misconception without creating a new rule that is too broad.",
-      "hint": "Check the actual language evidence rather than relying on an absolute rule."
+      "summary": "The words finally; hopeless add impatience and disapproval, changing a neutral report into a viewpoint.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -274,12 +274,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-010",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "recognise",
-    "skill": "subjective",
+    "stage": "analyse",
+    "skill": "subjective wording",
     "printable": true,
     "type": "single",
-    "question": "Which example would be most useful when explaining objective, subjective and biased language in a environmental campaign?",
-    "audioPrompt": "Which example would be most useful when explaining objective, subjective and biased language in a environmental campaign?",
+    "question": "Compare: “The path is 1.8 kilometres long.” and “The exhausting path stretches on for 1.8 kilometres.” Which words most clearly make the second version subjective?",
+    "audioPrompt": "Compare: “The path is 1.8 kilometres long.” and “The exhausting path stretches on for 1.8 kilometres.” Which words most clearly make the second version subjective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -287,16 +287,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "The proposal costs $2.4 million.",
-      "Residents described the cost as excessive.",
-      "The wasteful proposal costs an outrageous $2.4 million.",
-      "Only opposing voices are quoted."
+      "exhausting; stretches on",
+      "the repeated nouns",
+      "the factual measurement only",
+      "the punctuation"
     ],
-    "correct": 2,
-    "explanation": "This example directly demonstrates subjective and can be explained using the language clue in the text.\nHint: Students distinguish verifiable information from evaluation, identify loaded wording and selective framing and explain that apparently objective texts may still position readers through evidence choice and omission.",
+    "correct": 0,
+    "explanation": "The words exhausting; stretches on add difficulty and frustration, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "This example directly demonstrates subjective and can be explained using the language clue in the text.",
-      "hint": "Students distinguish verifiable information from evaluation, identify loaded wording and selective framing and explain that apparently objective texts may still position readers through evidence choice and omission."
+      "summary": "The words exhausting; stretches on add difficulty and frustration, changing a neutral report into a viewpoint.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -304,12 +304,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-011",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "attributed opinion",
+    "stage": "analyse",
+    "skill": "subjective wording",
     "printable": true,
     "type": "single",
-    "question": "A museum caption includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
-    "audioPrompt": "A museum caption includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
+    "question": "Compare: “The actor entered during scene two.” and “The dazzling actor swept into scene two.” Which words most clearly make the second version subjective?",
+    "audioPrompt": "Compare: “The actor entered during scene two.” and “The dazzling actor swept into scene two.” Which words most clearly make the second version subjective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -317,16 +317,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
-      "It speaker identified and supports the purpose of the text.",
-      "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "dazzling; swept",
+      "the repeated nouns",
+      "the factual measurement only",
+      "the punctuation"
     ],
-    "correct": 2,
-    "explanation": "Residents described the cost as excessive. works because speaker identified.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The words dazzling; swept add admiration and excitement, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Residents described the cost as excessive. works because speaker identified.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The words dazzling; swept add admiration and excitement, changing a neutral report into a viewpoint.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -334,12 +334,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-012",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "analyse",
+    "skill": "subjective wording",
     "printable": true,
     "type": "single",
-    "question": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a student council meeting?",
-    "audioPrompt": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a student council meeting?",
+    "question": "Compare: “The proposal reduces parking by 12 spaces.” and “The reckless proposal steals 12 parking spaces.” Which words most clearly make the second version subjective?",
+    "audioPrompt": "Compare: “The proposal reduces parking by 12 spaces.” and “The reckless proposal steals 12 parking spaces.” Which words most clearly make the second version subjective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -347,16 +347,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "reckless; steals",
+      "the repeated nouns",
+      "the factual measurement only",
+      "the punctuation"
     ],
-    "correct": 3,
-    "explanation": "“Selection and omission can position readers.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The words reckless; steals add anger and opposition, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“Selection and omission can position readers.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The words reckless; steals add anger and opposition, changing a neutral report into a viewpoint.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -364,12 +364,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-013",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "objective style",
+    "stage": "analyse",
+    "skill": "subjective wording",
     "printable": true,
     "type": "single",
-    "question": "A local-history article includes “The proposal costs $2.4 million.”. Why is this an effective example of objective-style?",
-    "audioPrompt": "A local-history article includes “The proposal costs $2.4 million.”. Why is this an effective example of objective-style?",
+    "question": "Compare: “The seedlings grew seven centimetres.” and “The brave seedlings fought upwards by seven centimetres.” Which words most clearly make the second version subjective?",
+    "audioPrompt": "Compare: “The seedlings grew seven centimetres.” and “The brave seedlings fought upwards by seven centimetres.” Which words most clearly make the second version subjective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -377,16 +377,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It verifiable quantity and supports the purpose of the text.",
-      "It matches the purpose and the language clue in the example.",
-      "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
-      "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "brave; fought",
+      "the repeated nouns",
+      "the factual measurement only",
+      "the punctuation"
     ],
     "correct": 0,
-    "explanation": "The proposal costs $2.4 million. works because verifiable quantity.\nHint: Name the exact language choice, then explain its effect.",
+    "explanation": "The words brave; fought add admiration and struggle, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The proposal costs $2.4 million. works because verifiable quantity.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The words brave; fought add admiration and struggle, changing a neutral report into a viewpoint.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -394,12 +394,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-014",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "analyse",
+    "skill": "subjective wording",
     "printable": true,
     "type": "single",
-    "question": "Why is “It may arise from assumptions or methods.” a better rule than “Bias means deliberate dishonesty” when reading a environmental campaign?",
-    "audioPrompt": "Why is “It may arise from assumptions or methods.” a better rule than “Bias means deliberate dishonesty” when reading a environmental campaign?",
+    "question": "Compare: “The team changed its captain.” and “The team wisely replaced its ineffective captain.” Which words most clearly make the second version subjective?",
+    "audioPrompt": "Compare: “The team changed its captain.” and “The team wisely replaced its ineffective captain.” Which words most clearly make the second version subjective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -407,16 +407,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "wisely; ineffective",
+      "the repeated nouns",
+      "the factual measurement only",
+      "the punctuation"
     ],
-    "correct": 1,
-    "explanation": "“It may arise from assumptions or methods.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The words wisely; ineffective add approval of the change, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“It may arise from assumptions or methods.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The words wisely; ineffective add approval of the change, changing a neutral report into a viewpoint.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -424,12 +424,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-015",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "attributed opinion",
+    "stage": "analyse",
+    "skill": "subjective wording",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
-    "audioPrompt": "A book-club discussion includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
+    "question": "Compare: “The speech lasted fourteen minutes.” and “The speech dragged on for fourteen painful minutes.” Which words most clearly make the second version subjective?",
+    "audioPrompt": "Compare: “The speech lasted fourteen minutes.” and “The speech dragged on for fourteen painful minutes.” Which words most clearly make the second version subjective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -437,16 +437,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
-      "It speaker identified and supports the purpose of the text.",
-      "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "dragged; painful",
+      "the repeated nouns",
+      "the factual measurement only",
+      "the punctuation"
     ],
-    "correct": 2,
-    "explanation": "Residents described the cost as excessive. works because speaker identified.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "The words dragged; painful add boredom and criticism, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Residents described the cost as excessive. works because speaker identified.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "The words dragged; painful add boredom and criticism, changing a neutral report into a viewpoint.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -454,12 +454,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-016",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "analyse",
+    "skill": "subjective wording",
     "printable": true,
     "type": "single",
-    "question": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a excursion briefing?",
-    "audioPrompt": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a excursion briefing?",
+    "question": "Compare: “The dog remained beside the gate.” and “The loyal dog guarded the gate.” Which words most clearly make the second version subjective?",
+    "audioPrompt": "Compare: “The dog remained beside the gate.” and “The loyal dog guarded the gate.” Which words most clearly make the second version subjective?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -467,16 +467,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "loyal; guarded",
+      "the repeated nouns",
+      "the factual measurement only",
+      "the punctuation"
     ],
-    "correct": 3,
-    "explanation": "“Selection and omission can position readers.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "The words loyal; guarded add approval and protection, changing a neutral report into a viewpoint.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“Selection and omission can position readers.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "The words loyal; guarded add approval and protection, changing a neutral report into a viewpoint.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -484,12 +484,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-017",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "objective style",
+    "stage": "analyse",
+    "skill": "connotation",
     "printable": true,
     "type": "single",
-    "question": "A design project includes “The proposal costs $2.4 million.”. Why is this an effective example of objective-style?",
-    "audioPrompt": "A design project includes “The proposal costs $2.4 million.”. Why is this an effective example of objective-style?",
+    "question": "The words “slim” and “scrawny” both relate to a person’s build. Which word carries the more negative connotation?",
+    "audioPrompt": "The words “slim” and “scrawny” both relate to a person’s build. Which word carries the more negative connotation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -497,16 +497,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It verifiable quantity and supports the purpose of the text.",
-      "It matches the purpose and the language clue in the example.",
-      "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
-      "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "scrawny",
+      "slim",
+      "Both are completely neutral.",
+      "Connotation cannot change tone."
     ],
     "correct": 0,
-    "explanation": "The proposal costs $2.4 million. works because verifiable quantity.\nHint: Name the exact language choice, then explain its effect.",
+    "explanation": "“scrawny” shares the general meaning but carries a more negative association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The proposal costs $2.4 million. works because verifiable quantity.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "“scrawny” shares the general meaning but carries a more negative association in this context.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -514,12 +514,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-018",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "analyse",
+    "skill": "connotation",
     "printable": true,
     "type": "single",
-    "question": "Why is “It may arise from assumptions or methods.” a better rule than “Bias means deliberate dishonesty” when reading a weather report?",
-    "audioPrompt": "Why is “It may arise from assumptions or methods.” a better rule than “Bias means deliberate dishonesty” when reading a weather report?",
+    "question": "The words “determined” and “stubborn” both relate to refusal to change. Which word carries the more negative connotation?",
+    "audioPrompt": "The words “determined” and “stubborn” both relate to refusal to change. Which word carries the more negative connotation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -527,16 +527,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because it keeps the useful distinction without turning it into an absolute rule.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words."
+      "stubborn",
+      "determined",
+      "Both are completely neutral.",
+      "Connotation cannot change tone."
     ],
-    "correct": 1,
-    "explanation": "“It may arise from assumptions or methods.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "“stubborn” shares the general meaning but carries a more negative association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“It may arise from assumptions or methods.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "“stubborn” shares the general meaning but carries a more negative association in this context.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -544,12 +544,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-019",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "attributed opinion",
+    "stage": "analyse",
+    "skill": "connotation",
     "printable": true,
     "type": "single",
-    "question": "A school assembly includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
-    "audioPrompt": "A school assembly includes “Residents described the cost as excessive.”. Why is this an effective example of attributed opinion?",
+    "question": "The words “confident” and “arrogant” both relate to belief in ability. Which word carries the more negative connotation?",
+    "audioPrompt": "The words “confident” and “arrogant” both relate to belief in ability. Which word carries the more negative connotation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -557,16 +557,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "It matches the purpose and the language clue in the example.",
-      "Objective language aims for verifiability, but source selection, ordering and visuals can still create bias.",
-      "It speaker identified and supports the purpose of the text.",
-      "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "arrogant",
+      "confident",
+      "Both are completely neutral.",
+      "Connotation cannot change tone."
     ],
-    "correct": 2,
-    "explanation": "Residents described the cost as excessive. works because speaker identified.\nHint: Name the exact language choice, then explain its effect.",
+    "correct": 0,
+    "explanation": "“arrogant” shares the general meaning but carries a more negative association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Residents described the cost as excessive. works because speaker identified.",
-      "hint": "Name the exact language choice, then explain its effect."
+      "summary": "“arrogant” shares the general meaning but carries a more negative association in this context.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -574,12 +574,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-020",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "explain",
-    "skill": "misconception repair",
+    "stage": "analyse",
+    "skill": "connotation",
     "printable": true,
     "type": "single",
-    "question": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a peer feedback session?",
-    "audioPrompt": "Why is “Selection and omission can position readers.” a better rule than “Neutral tone proves no bias” when reading a peer feedback session?",
+    "question": "The words “inexpensive” and “cheap” both relate to low cost. Which word carries the more negative connotation?",
+    "audioPrompt": "The words “inexpensive” and “cheap” both relate to low cost. Which word carries the more negative connotation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -587,16 +587,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Because the longest rule is always the best one.",
-      "Because exceptions never matter in English.",
-      "Because a rule is correct whenever it uses technical words.",
-      "Because it keeps the useful distinction without turning it into an absolute rule."
+      "cheap",
+      "inexpensive",
+      "Both are completely neutral.",
+      "Connotation cannot change tone."
     ],
-    "correct": 3,
-    "explanation": "“Selection and omission can position readers.” is more accurate because it responds to context and evidence instead of overgeneralising.\nHint: Be suspicious of rules using words such as always, never or every.",
+    "correct": 0,
+    "explanation": "“cheap” shares the general meaning but carries a more negative association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“Selection and omission can position readers.” is more accurate because it responds to context and evidence instead of overgeneralising.",
-      "hint": "Be suspicious of rules using words such as always, never or every."
+      "summary": "“cheap” shares the general meaning but carries a more negative association in this context.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -604,12 +604,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-021",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "analyse",
+    "skill": "connotation",
     "printable": true,
     "type": "single",
-    "question": "A excursion briefing could use either “The proposal costs $2.4 million.” or “mark evaluative words”. Which comparison is most accurate?",
-    "audioPrompt": "A excursion briefing could use either “The proposal costs $2.4 million.” or “mark evaluative words”. Which comparison is most accurate?",
+    "question": "The words “curious” and “nosy” both relate to interest in others. Which word carries the more negative connotation?",
+    "audioPrompt": "The words “curious” and “nosy” both relate to interest in others. Which word carries the more negative connotation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -617,16 +617,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“The proposal costs $2.4 million.” shows objective-style, while “mark evaluative words” shows mark evaluative words."
+      "nosy",
+      "curious",
+      "Both are completely neutral.",
+      "Connotation cannot change tone."
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: objective-style versus mark evaluative words.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "“nosy” shares the general meaning but carries a more negative association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: objective-style versus mark evaluative words.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "“nosy” shares the general meaning but carries a more negative association in this context.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -634,12 +634,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-022",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "analyse",
+    "skill": "connotation",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a design project?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a design project?",
+    "question": "The words “youthful” and “childish” both relate to young behaviour. Which word carries the more positive connotation?",
+    "audioPrompt": "The words “youthful” and “childish” both relate to young behaviour. Which word carries the more positive connotation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -647,16 +647,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Attribution identifies source, not truth.",
-      "Any adjective is subjective",
-      "Neutral tone proves no bias",
-      "Quoted opinion becomes fact"
+      "youthful",
+      "childish",
+      "Both are completely neutral.",
+      "Connotation cannot change tone."
     ],
     "correct": 0,
-    "explanation": "Attribution identifies source, not truth. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "explanation": "“youthful” shares the general meaning but carries a more positive association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Attribution identifies source, not truth. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "“youthful” shares the general meaning but carries a more positive association in this context.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -664,12 +664,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-023",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "analyse",
+    "skill": "connotation",
     "printable": true,
     "type": "single",
-    "question": "A weather report could use either “Residents described the cost as excessive.” or “identify omitted viewpoints/data”. Which comparison is most accurate?",
-    "audioPrompt": "A weather report could use either “Residents described the cost as excessive.” or “identify omitted viewpoints/data”. Which comparison is most accurate?",
+    "question": "The words “careful” and “fussy” both relate to attention to detail. Which word carries the more positive connotation?",
+    "audioPrompt": "The words “careful” and “fussy” both relate to attention to detail. Which word carries the more positive connotation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -677,16 +677,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“Residents described the cost as excessive.” shows attributed opinion, while “identify omitted viewpoints/data” shows identify omitted viewpoints/data.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "careful",
+      "fussy",
+      "Both are completely neutral.",
+      "Connotation cannot change tone."
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: attributed opinion versus identify omitted viewpoints/data.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "“careful” shares the general meaning but carries a more positive association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: attributed opinion versus identify omitted viewpoints/data.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "“careful” shares the general meaning but carries a more positive association in this context.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -694,12 +694,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-024",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "analyse",
+    "skill": "connotation",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Any adjective is subjective” in a school assembly?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Any adjective is subjective” in a school assembly?",
+    "question": "The words “original” and “peculiar” both relate to unusual design. Which word carries the more positive connotation?",
+    "audioPrompt": "The words “original” and “peculiar” both relate to unusual design. Which word carries the more positive connotation?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -707,16 +707,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Any adjective is subjective",
-      "Neutral tone proves no bias",
-      "Some adjectives classify observable features.",
-      "Quoted opinion becomes fact"
+      "original",
+      "peculiar",
+      "Both are completely neutral.",
+      "Connotation cannot change tone."
     ],
-    "correct": 2,
-    "explanation": "Some adjectives classify observable features. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "correct": 0,
+    "explanation": "“original” shares the general meaning but carries a more positive association in this context.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Some adjectives classify observable features. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "“original” shares the general meaning but carries a more positive association in this context.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -724,12 +724,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-025",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "analyse",
+    "skill": "identify bias mechanism",
     "printable": true,
     "type": "single",
-    "question": "A peer feedback session could use either “The proposal costs $2.4 million.” or “compare headline with evidence”. Which comparison is most accurate?",
-    "audioPrompt": "A peer feedback session could use either “The proposal costs $2.4 million.” or “compare headline with evidence”. Which comparison is most accurate?",
+    "question": "A phone advertisement quotes only customers who received free devices. Which feature most clearly creates possible bias?",
+    "audioPrompt": "A phone advertisement quotes only customers who received free devices. Which feature most clearly creates possible bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -737,16 +737,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“The proposal costs $2.4 million.” shows objective-style, while “compare headline with evidence” shows compare headline with evidence."
+      "selective testimonials",
+      "repetition of the product name",
+      "the existence of a topic",
+      "the use of complete sentences"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: objective-style versus compare headline with evidence.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The main concern is selective testimonials; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: objective-style versus compare headline with evidence.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The main concern is selective testimonials; it can shape interpretation without necessarily making every detail false.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -754,12 +754,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-026",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "analyse",
+    "skill": "identify bias mechanism",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a cooking demonstration?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a cooking demonstration?",
+    "question": "A news post calls one proposal a “rescue” and the other a “scheme”. Which feature most clearly creates possible bias?",
+    "audioPrompt": "A news post calls one proposal a “rescue” and the other a “scheme”. Which feature most clearly creates possible bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -767,16 +767,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Attribution identifies source, not truth.",
-      "Any adjective is subjective",
-      "Neutral tone proves no bias",
-      "Quoted opinion becomes fact"
+      "loaded framing",
+      "use of two nouns",
+      "the existence of a topic",
+      "the use of complete sentences"
     ],
     "correct": 0,
-    "explanation": "Attribution identifies source, not truth. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "explanation": "The main concern is loaded framing; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Attribution identifies source, not truth. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "The main concern is loaded framing; it can shape interpretation without necessarily making every detail false.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -784,12 +784,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-027",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "analyse",
+    "skill": "identify bias mechanism",
     "printable": true,
     "type": "single",
-    "question": "A arts review could use either “Residents described the cost as excessive.” or “identify claim”. Which comparison is most accurate?",
-    "audioPrompt": "A arts review could use either “Residents described the cost as excessive.” or “identify claim”. Which comparison is most accurate?",
+    "question": "A school poll about homework is answered only by students attending lunchtime tutoring. Which feature most clearly creates possible bias?",
+    "audioPrompt": "A school poll about homework is answered only by students attending lunchtime tutoring. Which feature most clearly creates possible bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -797,16 +797,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "“Residents described the cost as excessive.” shows attributed opinion, while “identify claim” shows identify claim.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer."
+      "unrepresentative sample",
+      "alphabetical ordering",
+      "the existence of a topic",
+      "the use of complete sentences"
     ],
-    "correct": 1,
-    "explanation": "The important difference is the language function: attributed opinion versus identify claim.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The main concern is unrepresentative sample; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: attributed opinion versus identify claim.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The main concern is unrepresentative sample; it can shape interpretation without necessarily making every detail false.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -814,12 +814,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-028",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "analyse",
+    "skill": "identify bias mechanism",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Any adjective is subjective” in a technology presentation?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Any adjective is subjective” in a technology presentation?",
+    "question": "A documentary shows crowded trains but omits the new services added that month. Which feature most clearly creates possible bias?",
+    "audioPrompt": "A documentary shows crowded trains but omits the new services added that month. Which feature most clearly creates possible bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -827,16 +827,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Any adjective is subjective",
-      "Neutral tone proves no bias",
-      "Some adjectives classify observable features.",
-      "Quoted opinion becomes fact"
+      "relevant omission",
+      "accurate spelling",
+      "the existence of a topic",
+      "the use of complete sentences"
     ],
-    "correct": 2,
-    "explanation": "Some adjectives classify observable features. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "correct": 0,
+    "explanation": "The main concern is relevant omission; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Some adjectives classify observable features. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "The main concern is relevant omission; it can shape interpretation without necessarily making every detail false.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -844,12 +844,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-029",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate language choices",
+    "stage": "analyse",
+    "skill": "identify bias mechanism",
     "printable": true,
     "type": "single",
-    "question": "A playground consultation could use either “The proposal costs $2.4 million.” or “check sources and attribution”. Which comparison is most accurate?",
-    "audioPrompt": "A playground consultation could use either “The proposal costs $2.4 million.” or “check sources and attribution”. Which comparison is most accurate?",
+    "question": "A headline says “Chaos erupts” when two people disagree quietly. Which feature most clearly creates possible bias?",
+    "audioPrompt": "A headline says “Chaos erupts” when two people disagree quietly. Which feature most clearly creates possible bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -857,16 +857,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Both examples must show exactly the same feature because they appear in one text.",
-      "The longer example is automatically more formal and therefore better.",
-      "Neither example can be analysed unless the writer explains the answer.",
-      "“The proposal costs $2.4 million.” shows objective-style, while “check sources and attribution” shows check sources and attribution."
+      "sensational exaggeration",
+      "neutral attribution",
+      "the existence of a topic",
+      "the use of complete sentences"
     ],
-    "correct": 3,
-    "explanation": "The important difference is the language function: objective-style versus check sources and attribution.\nHint: Compare what each wording choice does, not which one sounds more impressive.",
+    "correct": 0,
+    "explanation": "The main concern is sensational exaggeration; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "The important difference is the language function: objective-style versus check sources and attribution.",
-      "hint": "Compare what each wording choice does, not which one sounds more impressive."
+      "summary": "The main concern is sensational exaggeration; it can shape interpretation without necessarily making every detail false.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -874,12 +874,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-030",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "discriminate",
-    "skill": "discriminate misconception",
+    "stage": "analyse",
+    "skill": "identify bias mechanism",
     "printable": true,
     "type": "single",
-    "question": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a class podcast?",
-    "audioPrompt": "Which statement would help you reject the tempting rule “Quoted opinion becomes fact” in a class podcast?",
+    "question": "A report describes critics as “complainers” but supporters as “community leaders”. Which feature most clearly creates possible bias?",
+    "audioPrompt": "A report describes critics as “complainers” but supporters as “community leaders”. Which feature most clearly creates possible bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -887,16 +887,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Attribution identifies source, not truth.",
-      "Any adjective is subjective",
-      "Neutral tone proves no bias",
-      "Quoted opinion becomes fact"
+      "unequal labelling",
+      "balanced representation",
+      "the existence of a topic",
+      "the use of complete sentences"
     ],
     "correct": 0,
-    "explanation": "Attribution identifies source, not truth. The tempting rule fails because it ignores context or makes the pattern absolute.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "explanation": "The main concern is unequal labelling; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "Attribution identifies source, not truth. The tempting rule fails because it ignores context or makes the pattern absolute.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "The main concern is unequal labelling; it can shape interpretation without necessarily making every detail false.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -904,12 +904,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-031",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "check attribution",
+    "stage": "analyse",
+    "skill": "identify bias mechanism",
     "printable": true,
     "type": "single",
-    "question": "You are editing a community garden proposal. Which feature can create bias even with neutral wording?",
-    "audioPrompt": "You are editing a community garden proposal. Which feature can create bias even with neutral wording?",
+    "question": "A graph begins its vertical axis at 98 to make a rise from 99 to 100 appear enormous. Which feature most clearly creates possible bias?",
+    "audioPrompt": "A graph begins its vertical axis at 98 to make a rise from 99 to 100 appear enormous. Which feature most clearly creates possible bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -917,16 +917,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Selecting only one side’s evidence",
-      "Including units",
-      "Naming the source",
-      "Using a table accurately"
+      "visual exaggeration",
+      "precise unit use",
+      "the existence of a topic",
+      "the use of complete sentences"
     ],
     "correct": 0,
-    "explanation": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "explanation": "The main concern is visual exaggeration; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "The main concern is visual exaggeration; it can shape interpretation without necessarily making every detail false.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -934,12 +934,12 @@ window.skillrPracticeQuestions = [
     "id": "AC9E6LA02-P-032",
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
-    "stage": "apply",
-    "skill": "mark evaluative words",
+    "stage": "analyse",
+    "skill": "identify bias mechanism",
     "printable": true,
     "type": "single",
-    "question": "A sports-club discussion needs a clear example of mark evaluative words. Which wording should you choose?",
-    "audioPrompt": "A sports-club discussion needs a clear example of mark evaluative words. Which wording should you choose?",
+    "question": "An article presents a company’s claim without identifying that the company funded the study. Which feature most clearly creates possible bias?",
+    "audioPrompt": "An article presents a company’s claim without identifying that the company funded the study. Which feature most clearly creates possible bias?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -947,16 +947,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "identify claim",
-      "mark evaluative words",
-      "check sources and attribution",
-      "identify omitted viewpoints/data"
+      "hidden interested source",
+      "use of formal register",
+      "the existence of a topic",
+      "the use of complete sentences"
     ],
-    "correct": 1,
-    "explanation": "“mark evaluative words” is the best choice because it demonstrates mark evaluative words in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 0,
+    "explanation": "The main concern is hidden interested source; it can shape interpretation without necessarily making every detail false.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“mark evaluative words” is the best choice because it demonstrates mark evaluative words in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "The main concern is hidden interested source; it can shape interpretation without necessarily making every detail false.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -965,11 +965,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "objective language",
+    "skill": "revise for objectivity",
     "printable": true,
     "type": "single",
-    "question": "While revising a library display, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a library display, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
+    "question": "Which revision best neutralise loaded judgement in “The mayor’s absurd delay ruined everything.”?",
+    "audioPrompt": "Which revision best neutralise loaded judgement in “The mayor’s absurd delay ruined everything.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -977,16 +977,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "subjective language",
-      "bias",
-      "objective language",
-      "It does not match the evidence in the example."
+      "The mayor postponed the decision for two weeks.",
+      "The mayor’s absurd delay ruined everything.",
+      "People definitely agree with the original.",
+      "The original is objective because it is grammatical."
     ],
-    "correct": 2,
-    "explanation": "objective language is the concept that matches wording centred on verifiable information.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 0,
+    "explanation": "“The mayor postponed the decision for two weeks.” neutralise loaded judgement and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "objective language is the concept that matches wording centred on verifiable information.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "“The mayor postponed the decision for two weeks.” neutralise loaded judgement and makes the information easier to evaluate.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -995,11 +995,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "mark evaluative words",
+    "skill": "revise for objectivity",
     "printable": true,
     "type": "single",
-    "question": "You are editing a museum caption. Which feature can create bias even with neutral wording?",
-    "audioPrompt": "You are editing a museum caption. Which feature can create bias even with neutral wording?",
+    "question": "Which revision best attribute a viewpoint in “Obviously, the new rule is perfect.”?",
+    "audioPrompt": "Which revision best attribute a viewpoint in “Obviously, the new rule is perfect.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1007,16 +1007,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Including units",
-      "Naming the source",
-      "Using a table accurately",
-      "Selecting only one side’s evidence"
+      "Supporters describe the rule as effective.",
+      "Obviously, the new rule is perfect.",
+      "People definitely agree with the original.",
+      "The original is objective because it is grammatical."
     ],
-    "correct": 3,
-    "explanation": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "correct": 0,
+    "explanation": "“Supporters describe the rule as effective.” attribute a viewpoint and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "“Supporters describe the rule as effective.” attribute a viewpoint and makes the information easier to evaluate.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -1025,11 +1025,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "inspect image layout",
+    "skill": "revise for objectivity",
     "printable": true,
     "type": "single",
-    "question": "A student council meeting needs a clear example of inspect image/layout. Which wording should you choose?",
-    "audioPrompt": "A student council meeting needs a clear example of inspect image/layout. Which wording should you choose?",
+    "question": "Which revision best state the sample precisely in “Nine out of ten people love the plan.”?",
+    "audioPrompt": "Which revision best state the sample precisely in “Nine out of ten people love the plan.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1037,16 +1037,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "inspect image/layout",
-      "identify claim",
-      "mark evaluative words",
-      "check sources and attribution"
+      "Nine of the ten volunteers surveyed supported the plan.",
+      "Nine out of ten people love the plan.",
+      "People definitely agree with the original.",
+      "The original is objective because it is grammatical."
     ],
     "correct": 0,
-    "explanation": "“inspect image/layout” is the best choice because it demonstrates inspect image/layout in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "explanation": "“Nine of the ten volunteers surveyed supported the plan.” state the sample precisely and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“inspect image/layout” is the best choice because it demonstrates inspect image/layout in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "“Nine of the ten volunteers surveyed supported the plan.” state the sample precisely and makes the information easier to evaluate.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -1055,11 +1055,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "objective language",
+    "skill": "revise for objectivity",
     "printable": true,
     "type": "single",
-    "question": "While revising a local-history article, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a local-history article, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
+    "question": "Which revision best remove stereotyping in “Only careless families waste water.”?",
+    "audioPrompt": "Which revision best remove stereotyping in “Only careless families waste water.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1067,16 +1067,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "subjective language",
-      "objective language",
-      "bias",
-      "It does not match the evidence in the example."
+      "Household water use varies, and leaks can increase consumption.",
+      "Only careless families waste water.",
+      "People definitely agree with the original.",
+      "The original is objective because it is grammatical."
     ],
-    "correct": 1,
-    "explanation": "objective language is the concept that matches wording centred on verifiable information.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "correct": 0,
+    "explanation": "“Household water use varies, and leaks can increase consumption.” remove stereotyping and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "objective language is the concept that matches wording centred on verifiable information.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "“Household water use varies, and leaks can increase consumption.” remove stereotyping and makes the information easier to evaluate.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -1085,11 +1085,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "find omitted evidence",
+    "skill": "revise for objectivity",
     "printable": true,
     "type": "single",
-    "question": "You are editing a environmental campaign. Which feature can create bias even with neutral wording?",
-    "audioPrompt": "You are editing a environmental campaign. Which feature can create bias even with neutral wording?",
+    "question": "Which revision best replace praise with measurement in “The heroic company slashed prices.”?",
+    "audioPrompt": "Which revision best replace praise with measurement in “The heroic company slashed prices.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1097,16 +1097,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Including units",
-      "Naming the source",
-      "Selecting only one side’s evidence",
-      "Using a table accurately"
+      "The company reduced prices by 15 per cent.",
+      "The heroic company slashed prices.",
+      "People definitely agree with the original.",
+      "The original is objective because it is grammatical."
     ],
-    "correct": 2,
-    "explanation": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "correct": 0,
+    "explanation": "“The company reduced prices by 15 per cent.” replace praise with measurement and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "“The company reduced prices by 15 per cent.” replace praise with measurement and makes the information easier to evaluate.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -1115,11 +1115,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "identify claim",
+    "skill": "revise for objectivity",
     "printable": true,
     "type": "single",
-    "question": "A book-club discussion needs a clear example of identify claim. Which wording should you choose?",
-    "audioPrompt": "A book-club discussion needs a clear example of identify claim. Which wording should you choose?",
+    "question": "Which revision best replace unsupported consensus with evidence in “Everyone knows the old bridge is dangerous.”?",
+    "audioPrompt": "Which revision best replace unsupported consensus with evidence in “Everyone knows the old bridge is dangerous.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1127,16 +1127,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "mark evaluative words",
-      "check sources and attribution",
-      "identify omitted viewpoints/data",
-      "identify claim"
+      "An engineering inspection identified cracks in two supports.",
+      "Everyone knows the old bridge is dangerous.",
+      "People definitely agree with the original.",
+      "The original is objective because it is grammatical."
     ],
-    "correct": 3,
-    "explanation": "“identify claim” is the best choice because it demonstrates identify claim in context.\nHint: Choose the wording that performs the required job, not merely one that sounds fluent.",
+    "correct": 0,
+    "explanation": "“An engineering inspection identified cracks in two supports.” replace unsupported consensus with evidence and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“identify claim” is the best choice because it demonstrates identify claim in context.",
-      "hint": "Choose the wording that performs the required job, not merely one that sounds fluent."
+      "summary": "“An engineering inspection identified cracks in two supports.” replace unsupported consensus with evidence and makes the information easier to evaluate.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -1145,11 +1145,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "objective language",
+    "skill": "revise for objectivity",
     "printable": true,
     "type": "single",
-    "question": "While revising a excursion briefing, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
-    "audioPrompt": "While revising a excursion briefing, you need language that matches “wording centred on verifiable information”. Which concept should guide your choice?",
+    "question": "Which revision best remove dismissive connotation in “The protestors whined about the change.”?",
+    "audioPrompt": "Which revision best remove dismissive connotation in “The protestors whined about the change.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1157,16 +1157,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "objective language",
-      "subjective language",
-      "bias",
-      "It does not match the evidence in the example."
+      "The protestors criticised the change.",
+      "The protestors whined about the change.",
+      "People definitely agree with the original.",
+      "The original is objective because it is grammatical."
     ],
     "correct": 0,
-    "explanation": "objective language is the concept that matches wording centred on verifiable information.\nHint: Use the definition to guide the decision, then check it against the sentence.",
+    "explanation": "“The protestors criticised the change.” remove dismissive connotation and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "objective language is the concept that matches wording centred on verifiable information.",
-      "hint": "Use the definition to guide the decision, then check it against the sentence."
+      "summary": "“The protestors criticised the change.” remove dismissive connotation and makes the information easier to evaluate.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
@@ -1175,11 +1175,11 @@ window.skillrPracticeQuestions = [
     "curriculumCode": "AC9E6LA02",
     "bank": "practice",
     "stage": "apply",
-    "skill": "identify verifiable claim",
+    "skill": "revise for objectivity",
     "printable": true,
     "type": "single",
-    "question": "You are editing a design project. Which feature can create bias even with neutral wording?",
-    "audioPrompt": "You are editing a design project. Which feature can create bias even with neutral wording?",
+    "question": "Which revision best limit an exaggerated claim in “This miracle program transforms every learner.”?",
+    "audioPrompt": "Which revision best limit an exaggerated claim in “This miracle program transforms every learner.”?",
     "visual": "",
     "visualHtml": "",
     "visualMeta": {
@@ -1187,16 +1187,16 @@ window.skillrPracticeQuestions = [
       "alt_text": ""
     },
     "answers": [
-      "Including units",
-      "Selecting only one side’s evidence",
-      "Naming the source",
-      "Using a table accurately"
+      "In the pilot group, average attendance increased over eight weeks.",
+      "This miracle program transforms every learner.",
+      "People definitely agree with the original.",
+      "The original is objective because it is grammatical."
     ],
-    "correct": 1,
-    "explanation": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.\nHint: Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality.",
+    "correct": 0,
+    "explanation": "“In the pilot group, average attendance increased over eight weeks.” limit an exaggerated claim and makes the information easier to evaluate.\nHint: Separate checkable information from judgement, then examine selection, framing and connotation.",
     "structuredExplanation": {
-      "summary": "“Selecting only one side’s evidence” best fits the purpose and the language evidence in this new situation.",
-      "hint": "Bias does not mean every claim is false. Identify the specific positioning choices and evaluate evidence quality."
+      "summary": "“In the pilot group, average attendance increased over eight weeks.” limit an exaggerated claim and makes the information easier to evaluate.",
+      "hint": "Separate checkable information from judgement, then examine selection, framing and connotation."
     },
     "qualitySchema": "skillr-authored-v1"
   },
