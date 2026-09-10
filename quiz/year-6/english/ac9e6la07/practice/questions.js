@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "A graph can be accurate but visually misleading; an image can be authentic but unrepresentative. Analyse selection and presentation."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-041",
+    "curriculumCode": "AC9E6LA07",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "interpret graph contribution",
+    "printable": true,
+    "type": "single",
+    "question": "A paragraph says rainfall increased, while its graph shows a sharp rise only in the final two months. What does the graph add?",
+    "audioPrompt": "A paragraph says rainfall increased, while its graph shows a sharp rise only in the final two months. What does the graph add?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It reveals when the increase occurred.",
+      "It proves rain is always beneficial.",
+      "It repeats every sentence exactly.",
+      "It identifies the author."
+    ],
+    "correct": 0,
+    "explanation": "The graph adds a time pattern that the general sentence does not specify.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The graph adds a time pattern that the general sentence does not specify.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-042",
+    "curriculumCode": "AC9E6LA07",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "read map relationship",
+    "printable": true,
+    "type": "single",
+    "question": "A map places evacuation centres beside major roads. How does this contribute to meaning?",
+    "audioPrompt": "A map places evacuation centres beside major roads. How does this contribute to meaning?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It shows spatial access routes to the centres.",
+      "It explains the history of road names.",
+      "It creates a fictional narrator.",
+      "It replaces all safety instructions."
+    ],
+    "correct": 0,
+    "explanation": "The map communicates location and access relationships efficiently.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The map communicates location and access relationships efficiently.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-043",
+    "curriculumCode": "AC9E6LA07",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "identify misleading scale",
+    "printable": true,
+    "type": "single",
+    "question": "Two bar graphs show the same small increase, but one begins its vertical axis near the data values. What should a reader notice?",
+    "audioPrompt": "Two bar graphs show the same small increase, but one begins its vertical axis near the data values. What should a reader notice?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The shortened scale makes the change appear larger.",
+      "The graph becomes a map.",
+      "Axis labels no longer matter.",
+      "The data must be false."
+    ],
+    "correct": 0,
+    "explanation": "A truncated scale can visually exaggerate a genuine but small difference.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "A truncated scale can visually exaggerate a genuine but small difference.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-044",
+    "curriculumCode": "AC9E6LA07",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "select representation",
+    "printable": true,
+    "type": "single",
+    "question": "Which visual best helps readers compare recycling amounts across four materials?",
+    "audioPrompt": "Which visual best helps readers compare recycling amounts across four materials?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A labelled bar graph",
+      "A decorative photograph of a bin",
+      "A map without a legend",
+      "An uncaptioned cartoon"
+    ],
+    "correct": 0,
+    "explanation": "A bar graph supports direct comparison of quantities across categories.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "A bar graph supports direct comparison of quantities across categories.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-045",
+    "curriculumCode": "AC9E6LA07",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "connect caption and image",
+    "printable": true,
+    "type": "single",
+    "question": "Why is a caption important beneath a historical photograph?",
+    "audioPrompt": "Why is a caption important beneath a historical photograph?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It identifies context the image alone may not reveal.",
+      "It guarantees the image is unbiased.",
+      "It makes close viewing unnecessary.",
+      "It changes the photograph’s date."
+    ],
+    "correct": 0,
+    "explanation": "A caption can supply time, place, people or source information needed for interpretation.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "A caption can supply time, place, people or source information needed for interpretation.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-046",
+    "curriculumCode": "AC9E6LA07",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "integrate table evidence",
+    "printable": true,
+    "type": "single",
+    "question": "A table lists cost, lifespan and energy use for three light bulbs. Which claim uses the table most effectively?",
+    "audioPrompt": "A table lists cost, lifespan and energy use for three light bulbs. Which claim uses the table most effectively?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Model B costs more initially but lasts longest and uses least energy.",
+      "Model B looks nicest.",
+      "All models are identical.",
+      "The table proves everyone should buy Model A."
+    ],
+    "correct": 0,
+    "explanation": "The claim synthesises several labelled measures rather than selecting an unsupported preference.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The claim synthesises several labelled measures rather than selecting an unsupported preference.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-047",
+    "curriculumCode": "AC9E6LA07",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "interpret diagram",
+    "printable": true,
+    "type": "single",
+    "question": "What does an arrow in a water-cycle diagram usually contribute?",
+    "audioPrompt": "What does an arrow in a water-cycle diagram usually contribute?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Direction or sequence of movement",
+      "The writer’s personal opinion",
+      "The exact price of water",
+      "Dialogue between clouds"
+    ],
+    "correct": 0,
+    "explanation": "Arrows encode relationships such as direction, transfer or sequence.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Arrows encode relationships such as direction, transfer or sequence.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA07-P-048",
+    "curriculumCode": "AC9E6LA07",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "check multimodal consistency",
+    "printable": true,
+    "type": "single",
+    "question": "The text says a species lives only near the coast, but the map marks inland populations. What should the reader do?",
+    "audioPrompt": "The text says a species lives only near the coast, but the map marks inland populations. What should the reader do?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Identify the contradiction and check the source or legend.",
+      "Ignore the map because words are always correct.",
+      "Assume both mean exactly the same thing.",
+      "Delete every visual."
+    ],
+    "correct": 0,
+    "explanation": "Meaning comes from comparing modes; a conflict should trigger source and legend checking.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Meaning comes from comparing modes; a conflict should trigger source and legend checking.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
