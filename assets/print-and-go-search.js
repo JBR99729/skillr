@@ -1,5 +1,40 @@
 (function () {
   'use strict';
+  const NEW_FREEBIES = [
+    {
+      id: 'foundation-numbers-to-20-tpt-free',
+      title: 'FREE Kindergarten Numbers to 20 Worksheet | Counting & Number Recognition',
+      year: 'foundation', yearLabel: 'Foundation / Kindergarten', subject: 'maths', subjectLabel: 'Maths',
+      topics: ['numbers to 20','counting','number recognition','number order','comparing numbers','kindergarten','foundation','free'],
+      curriculumCodes: ['AC9MFN01'],
+      description: 'A free no-prep worksheet for counting, recognising, comparing and ordering numbers to 20, with a complete answer key.',
+      url: 'https://www.teacherspayteachers.com/Product/FREE-Kindergarten-Numbers-to-20-Worksheet-Counting-Number-Recognition-17620145',
+      image: '/icons/skillrhub-mark.svg', price: '0', currency: 'USD', available: true, resourceType: 'worksheet', free: true,
+      tptUrl: 'https://www.teacherspayteachers.com/Product/FREE-Kindergarten-Numbers-to-20-Worksheet-Counting-Number-Recognition-17620145'
+    },
+    {
+      id: 'year-1-addition-subtraction-to-20-tpt-free',
+      title: 'FREE 1st Grade Addition & Subtraction to 20 Worksheet | No Prep Math',
+      year: 1, yearLabel: 'Year 1 / 1st Grade', subject: 'maths', subjectLabel: 'Maths',
+      topics: ['addition','subtraction','within 20','missing numbers','word problems','1st grade','year 1','free'],
+      curriculumCodes: ['AC9M1N04'],
+      description: 'A free no-prep addition and subtraction worksheet within 20, including missing-number problems, simple word problems and answers.',
+      url: 'https://www.teacherspayteachers.com/Product/FREE-1st-Grade-Addition-Subtraction-to-20-Worksheet-No-Prep-Math-17620155',
+      image: '/icons/skillrhub-mark.svg', price: '0', currency: 'USD', available: true, resourceType: 'worksheet', free: true,
+      tptUrl: 'https://www.teacherspayteachers.com/Product/FREE-1st-Grade-Addition-Subtraction-to-20-Worksheet-No-Prep-Math-17620155'
+    },
+    {
+      id: 'year-2-place-value-to-1000-tpt-free',
+      title: 'FREE 2nd Grade Place Value Worksheet | Numbers to 1000 + Answer Key',
+      year: 2, yearLabel: 'Year 2 / 2nd Grade', subject: 'maths', subjectLabel: 'Maths',
+      topics: ['place value','numbers to 1000','hundreds tens ones','expanded form','comparing numbers','rounding','2nd grade','year 2','free'],
+      curriculumCodes: ['AC9M2N01'],
+      description: 'A free no-prep place value worksheet covering hundreds, tens and ones, numbers to 1000, expanded form, comparing, ordering and rounding.',
+      url: 'https://www.teacherspayteachers.com/Product/FREE-2nd-Grade-Place-Value-Worksheet-Numbers-to-1000-Answer-Key-17620166',
+      image: '/icons/skillrhub-mark.svg', price: '0', currency: 'USD', available: true, resourceType: 'worksheet', free: true,
+      tptUrl: 'https://www.teacherspayteachers.com/Product/FREE-2nd-Grade-Place-Value-Worksheet-Numbers-to-1000-Answer-Key-17620166'
+    }
+  ];
   function filterProducts(products, query, scope = {}) {
     const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
     return products.filter(product => {
@@ -41,13 +76,15 @@
   function card(product) {
     const article = element('article', '', 'product-card');
     const link = element('a'); link.href = product.url;
+    if (/^https:\/\//.test(product.url)) { link.target = '_blank'; link.rel = 'noopener noreferrer'; }
     const image = element('img'); image.src = product.image; image.alt = product.title + ' cover'; image.width = 637; image.height = 900; image.loading = 'lazy';
     link.append(image, element('h2', product.title));
-    const details = element('a', 'View pack details'); details.href = product.url;
+    const details = element('a', /^https:\/\//.test(product.url) ? 'Get free pack on TPT' : 'View pack details'); details.href = product.url;
+    if (/^https:\/\//.test(product.url)) { details.target = '_blank'; details.rel = 'noopener noreferrer'; }
     const priceText = product.free || Number(product.price) === 0 ? 'Free on TPT' : product.resourceType === 'teaching-sample' ? 'Free sample' : new Intl.NumberFormat('en-AU', {style: 'currency', currency: product.currency}).format(Number(product.price));
     article.append(link, element('p', product.curriculumCodes.join(' · '), 'small'), element('p', product.description), element('p', priceText, 'price'), details);
     const buyUrl = product.paidTptUrl || product.tptUrl || null;
-    if (buyUrl) { const buyLabel = product.free || Number(product.price) === 0 ? 'Get free pack on TPT' : isSlides ? 'Slides · US$' + Number(product.paidPrice || product.price || 0).toFixed(2) : 'View on TPT'; const buy = element('a', buyLabel, 'button'); buy.href = buyUrl; buy.target = '_blank'; buy.rel = 'noopener noreferrer'; article.append(buy); }
+    if (buyUrl && buyUrl !== product.url) { const buyLabel = product.free || Number(product.price) === 0 ? 'Get free pack on TPT' : isSlides ? 'Slides · US$' + Number(product.paidPrice || product.price || 0).toFixed(2) : 'View on TPT'; const buy = element('a', buyLabel, 'button'); buy.href = buyUrl; buy.target = '_blank'; buy.rel = 'noopener noreferrer'; article.append(buy); }
     if (product.bundleTptUrl) { const offer = element('a', 'Bundle · US$' + Number(product.bundlePrice || 0).toFixed(2) + ' (save 20%)', 'button bundle-button'); offer.href = product.bundleTptUrl; offer.target = '_blank'; offer.rel = 'noopener noreferrer'; article.append(offer); }
     return article;
   }
@@ -70,8 +107,13 @@
   input.addEventListener('input', () => {clearTimeout(timer); page = 1; timer = setTimeout(render, 120);});
   previous.addEventListener('click', () => {page--; render();});
   next.addEventListener('click', () => {page++; render();});
-  fetch('/data/print-and-go-products.json?v=20260907-bundle', { cache: 'no-cache' }).then(response => {
+  fetch('/data/print-and-go-products.json?v=20260910-freebies', { cache: 'no-cache' }).then(response => {
     if (!response.ok) throw new Error('Catalogue unavailable');
     return response.json();
-  }).then(data => {if (!Array.isArray(data)) throw new Error('Invalid catalogue'); products = data; render();}).catch(() => {failed = true; render();});
+  }).then(data => {
+    if (!Array.isArray(data)) throw new Error('Invalid catalogue');
+    const ids = new Set(data.map(item => item.id));
+    products = [...NEW_FREEBIES.filter(item => !ids.has(item.id)), ...data];
+    render();
+  }).catch(() => {failed = true; render();});
 }());
