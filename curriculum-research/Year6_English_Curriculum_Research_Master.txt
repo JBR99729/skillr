@@ -2,9 +2,9 @@
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9E6LA01
-LAST_COMPLETED_CODE: NONE
-NEXT_CODE: AC9E6LA02
+CURRENT_CODE: AC9E6LA03
+LAST_COMPLETED_CODE: AC9E6LA02
+NEXT_CODE: AC9E6LA04
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
@@ -22,20 +22,33 @@ CODE: AC9E6LA01
 DESCRIPTOR: Understand that language varies as levels of formality and social distance increase.
 STATUS: AUTHORING-READY
 ==================================================
-1. Curriculum intent: Select and explain language choices that fit formality, relationship and purpose; a language variety is not inherently better or worse outside its context.
-2. Required knowledge: register, formality, social distance, audience, purpose, tone, vocabulary, terms of address, modality and sentence choice.
-3. Prior-year foundations: identifying purpose/formality; fact/opinion and connotation.
-4. New Year 6 extension: explain a pattern of choices and its relationship effect, not just label a sentence formal/informal.
-5. IXL evidence: Year 6 v9 mapping links Which sentence is more formal?, Compare passages for tone, Distinguish facts from opinions, Describe the difference between related words, and Positive and negative connotation. Task families use short contextual excerpts and contrasting options. Traps: judging by one sophisticated word; treating informal language as incorrect.
-6. Khan evidence: 6th Grade Reading & Vocabulary, Unit 1, Making inferences in informational texts, models conclusions based on multiple textual clues plus relevant knowledge and distinguishes inference from guessing. Supplementary only, not an AC v9 map.
-7. Other sources: ABC Education author/media resources support audience and language-choice discussion; use for teaching context only.
-8. Required representations: paired email/message, dialogue, notice, meeting excerpt, spoken prompt, revision comparison.
-9. Vocabulary: register, formal, informal, social distance, audience, purpose, tone, modality, address.
-10. Easy patterns: identify a suitable wording for context; match key terms.
-11. Medium patterns: compare two choices and identify evidence.
-12. Hard patterns: revise an unsuitable message and justify changes without denigrating language varieties.
-13. Practice coverage: 48 original items across recognition, comparison, revision, evidence explanation and transfer.
-14. Test coverage: 16 independent items including an unfamiliar multi-message context.
-15. Boundaries: no prescriptive “correct dialect” claims; no advanced sociolinguistics.
-16. Source references: IXL Australia Year 6 English v9 mapping; Khan Academy 6th Grade Reading & Vocabulary Unit 1.
+Curriculum intent: Select and explain language choices that fit formality, relationship and purpose; a language variety is not inherently better or worse outside its context.
+Knowledge/skills: register, formality, social distance, audience, purpose, tone, modality and evidence-based explanation.
+IXL evidence: Which sentence is more formal?, Compare passages for tone, Distinguish facts from opinions, Describe the difference between related words, Positive and negative connotation.
+Khan evidence: 6th Grade Reading & Vocabulary Unit 1 “Making inferences in informational texts” models conclusions from text clues, not guesses; supplementary only.
+Misconceptions: decide formality from one word; call informal varieties incorrect.
+Coverage: paired messages, dialogue, notices, spoken prompts and revision comparisons; 48 practice and 16 independent test questions.
+Boundary: no prescriptive “correct dialect” claims.
+RESEARCH STATUS: AUTHORING-READY
+
+==================================================
+CODE: AC9E6LA02
+DESCRIPTOR: Understand the uses of objective and subjective language, and identify bias.
+STATUS: AUTHORING-READY
+==================================================
+1. Curriculum intent: distinguish verifiable/objective wording from evaluative/subjective wording, identify how selection and wording can create bias, and explain their effect on a reader.
+2. Required knowledge: fact, opinion, objective, subjective, evaluative language, connotation, bias, claim, evidence, source, audience.
+3. Prior-year foundations: Year 5 fact/opinion and formal language; extend to deliberate wording/omission and fairness.
+4. IXL mapping/evidence: v9 map links Which sentence is more formal?, Compare passages for tone, Distinguish facts from opinions, Describe the difference between related words, and Positive and negative connotation. Worked example opened for Distinguish facts from opinions: it contrasts a research-verifiable film description with an evaluative claim and explains that evaluative wording signals belief rather than proof. Pattern: select/explain a statement using verifiability, not topic familiarity.
+5. Khan Academy: supplementary reading/vocabulary course supports evidence-based inference; SOURCE-NOT-MAPPED for AC v9 bias/subjective-language descriptor.
+6. Other resource direction: use original headline, review, advertisement, report and social-post excerpts; ABC media-literacy resources can inform teaching context but must not be copied.
+7. Misconceptions/traps: objective tone does not guarantee absence of bias; a fact can be selectively chosen; emotive language is not evidence; a claim may be plausible but still subjective.
+8. Required representations: paired headlines, source extract comparison, adjective/connotation scale, evidence table, revised neutral wording.
+9. Easy patterns: classify objective/subjctive wording; identify an evaluative word.
+10. Medium patterns: compare tone/connotation and select evidence for a stated claim.
+11. Hard patterns: identify a biasing omission/selection, rewrite for greater balance, explain reader effect with evidence.
+12. Practice-bank requirement: 48 original items across classification, connotation, source comparison, revision, bias explanation and unfamiliar contexts.
+13. Test-bank requirement: 16 separate questions including a short paired-text analysis; no copied source material.
+14. Boundaries: do not demand formal media-studies terminology beyond bias/objective/subjective/evidence; distinguish bias from a merely stated opinion.
+15. Source references: IXL Australia Year 6 English v9 mapping and worked example; Khan Academy Year 6 reading course (supplementary only).
 RESEARCH STATUS: AUTHORING-READY
