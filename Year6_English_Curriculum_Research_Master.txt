@@ -5,7 +5,7 @@ Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
 CURRENT_CODE: RESEARCH-COMPLETE
-NEXT_CODE: AUTHORING-AC9E6LE03
+NEXT_CODE: REAUTHOR-AC9E6LA02
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — IXL curriculum page rechecked: no mapped IXL skill; Learn-with-an-example is not applicable.
@@ -2368,3 +2368,33 @@ AC9E6LE02 — CONTENT VERIFIED.
 
 NEXT AUTHORING BATCH:
 AC9E6LE03, AC9E6LE04, AC9E6LE05, AC9E6LY01, AC9E6LY02.
+
+
+
+==================================================
+AUTHORING CORRECTION — AC9E6LA02 TO AC9E6LA06
+
+USER QA DECISION:
+The retained legacy 40-question sets are not accepted as useful fresh authoring. The earlier CONTENT VERIFIED labels for AC9E6LA02–AC9E6LA06 are revoked.
+
+REQUIRED REWORK:
+- Replace, not supplement, every existing Practice bank.
+- Create exactly 48 freshly authored Practice questions per code.
+- Replace every Test bank with exactly 16 freshly authored, independent questions per code.
+- No reuse of legacy stems, answer choices or generic explanations.
+- Use varied research-derived question patterns, progression, misconceptions and application tasks.
+- Recheck Topic Page, Classroom View and Homework alignment against the replacement banks.
+- Run duplicate, answer-index, explanation and curriculum-scope QA before restoring CONTENT VERIFIED.
+
+STATUS:
+AC9E6LA02 — FRESH REAUTHORING REQUIRED.
+AC9E6LA03 — FRESH REAUTHORING REQUIRED.
+AC9E6LA04 — FRESH REAUTHORING REQUIRED.
+AC9E6LA05 — FRESH REAUTHORING REQUIRED.
+AC9E6LA06 — FRESH REAUTHORING REQUIRED.
+
+REAUTHORING CURRENT_CODE:
+AC9E6LA02
+
+REAUTHORING NEXT_CODE:
+AC9E6LA03
