@@ -1,0 +1,609 @@
+{
+  "auditedAt": "2026-09-10T04:45:03.830Z",
+  "codes": [
+    {
+      "code": "AC9M7N01",
+      "practice": 48,
+      "test": 16,
+      "pUnique": 48,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 48,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7N02",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 24,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7N03",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 24,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7N04",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 24,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7N05",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 24,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7N06",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 24,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7N07",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 15,
+      "overlap": 1,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7N08",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7N09",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7A01",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7A02",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7A03",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7A04",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7A05",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7A06",
+      "practice": 24,
+      "test": 16,
+      "pUnique": 24,
+      "tUnique": 16,
+      "overlap": 0,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7M01",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7M02",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 40,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7M03",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 24,
+      "liveTest": 16,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7M04",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 40,
+      "liveTest": 40,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7M05",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 40,
+      "liveTest": 24,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7M06",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 49,
+      "liveTest": 32,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7SP01",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 53,
+      "liveTest": 46,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7SP02",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 55,
+      "liveTest": 46,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7SP03",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 8,
+      "liveTest": 55,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7SP04",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 8,
+      "liveTest": 53,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7ST01",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 54,
+      "liveTest": 55,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7ST02",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 8,
+      "liveTest": 8,
+      "coverage": [
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7ST03",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 50,
+      "liveTest": 50,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7P01",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 52,
+      "liveTest": 51,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "code": "AC9M7P02",
+      "practice": 8,
+      "test": 8,
+      "pUnique": 7,
+      "tUnique": 6,
+      "overlap": 3,
+      "livePractice": 52,
+      "liveTest": 51,
+      "coverage": [
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "failures": [
+    "AC9M7N02: practice 24",
+    "AC9M7N02: live counts 24/16",
+    "AC9M7N02: canonical/live practice mismatch",
+    "AC9M7N02: canonical/live test mismatch",
+    "AC9M7N03: practice 24",
+    "AC9M7N03: live counts 24/16",
+    "AC9M7N04: practice 24",
+    "AC9M7N04: live counts 24/16",
+    "AC9M7N05: practice 24",
+    "AC9M7N05: live counts 24/16",
+    "AC9M7N06: practice 24",
+    "AC9M7N06: live counts 24/16",
+    "AC9M7N07: practice 24",
+    "AC9M7N07: duplicate test stems",
+    "AC9M7N07: practice/test stem overlap 1",
+    "AC9M7N07: live counts 40/16",
+    "AC9M7N07: canonical/live practice mismatch",
+    "AC9M7N07: canonical/live test mismatch",
+    "AC9M7N08: practice 24",
+    "AC9M7N08: live counts 40/16",
+    "AC9M7N08: canonical/live practice mismatch",
+    "AC9M7N08: canonical/live test mismatch",
+    "AC9M7N09: practice 24",
+    "AC9M7N09: live counts 40/16",
+    "AC9M7N09: canonical/live practice mismatch",
+    "AC9M7N09: canonical/live test mismatch",
+    "AC9M7A01: practice 24",
+    "AC9M7A01: live counts 40/16",
+    "AC9M7A01: canonical/live practice mismatch",
+    "AC9M7A01: canonical/live test mismatch",
+    "AC9M7A02: practice 24",
+    "AC9M7A02: live counts 40/16",
+    "AC9M7A02: canonical/live practice mismatch",
+    "AC9M7A02: canonical/live test mismatch",
+    "AC9M7A03: practice 24",
+    "AC9M7A03: live counts 40/16",
+    "AC9M7A03: canonical/live practice mismatch",
+    "AC9M7A03: canonical/live test mismatch",
+    "AC9M7A04: practice 24",
+    "AC9M7A04: live counts 40/16",
+    "AC9M7A04: canonical/live practice mismatch",
+    "AC9M7A04: canonical/live test mismatch",
+    "AC9M7A05: practice 24",
+    "AC9M7A05: live counts 40/16",
+    "AC9M7A05: canonical/live practice mismatch",
+    "AC9M7A05: canonical/live test mismatch",
+    "AC9M7A06: practice 24",
+    "AC9M7A06: live counts 40/16",
+    "AC9M7A06: canonical/live practice mismatch",
+    "AC9M7A06: canonical/live test mismatch",
+    "AC9M7M01: practice 8",
+    "AC9M7M01: test 8",
+    "AC9M7M01: duplicate practice stems",
+    "AC9M7M01: duplicate test stems",
+    "AC9M7M01: practice/test stem overlap 3",
+    "AC9M7M01: live counts 40/16",
+    "AC9M7M01: canonical/live practice mismatch",
+    "AC9M7M01: canonical/live test mismatch",
+    "AC9M7M02: practice 8",
+    "AC9M7M02: test 8",
+    "AC9M7M02: duplicate practice stems",
+    "AC9M7M02: duplicate test stems",
+    "AC9M7M02: practice/test stem overlap 3",
+    "AC9M7M02: live counts 40/16",
+    "AC9M7M02: canonical/live practice mismatch",
+    "AC9M7M02: canonical/live test mismatch",
+    "AC9M7M03: practice 8",
+    "AC9M7M03: test 8",
+    "AC9M7M03: duplicate practice stems",
+    "AC9M7M03: duplicate test stems",
+    "AC9M7M03: practice/test stem overlap 3",
+    "AC9M7M03: live counts 24/16",
+    "AC9M7M03: canonical/live practice mismatch",
+    "AC9M7M03: canonical/live test mismatch",
+    "AC9M7M04: practice 8",
+    "AC9M7M04: test 8",
+    "AC9M7M04: duplicate practice stems",
+    "AC9M7M04: duplicate test stems",
+    "AC9M7M04: practice/test stem overlap 3",
+    "AC9M7M04: live counts 40/40",
+    "AC9M7M04: canonical/live practice mismatch",
+    "AC9M7M04: canonical/live test mismatch",
+    "AC9M7M05: practice 8",
+    "AC9M7M05: test 8",
+    "AC9M7M05: duplicate practice stems",
+    "AC9M7M05: duplicate test stems",
+    "AC9M7M05: practice/test stem overlap 3",
+    "AC9M7M05: live counts 40/24",
+    "AC9M7M05: canonical/live practice mismatch",
+    "AC9M7M05: canonical/live test mismatch",
+    "AC9M7M06: practice 8",
+    "AC9M7M06: test 8",
+    "AC9M7M06: duplicate practice stems",
+    "AC9M7M06: duplicate test stems",
+    "AC9M7M06: practice/test stem overlap 3",
+    "AC9M7M06: live counts 49/32",
+    "AC9M7M06: canonical/live practice mismatch",
+    "AC9M7M06: canonical/live test mismatch",
+    "AC9M7SP01: practice 8",
+    "AC9M7SP01: test 8",
+    "AC9M7SP01: duplicate practice stems",
+    "AC9M7SP01: duplicate test stems",
+    "AC9M7SP01: practice/test stem overlap 3",
+    "AC9M7SP01: live counts 53/46",
+    "AC9M7SP01: canonical/live practice mismatch",
+    "AC9M7SP01: canonical/live test mismatch",
+    "AC9M7SP02: practice 8",
+    "AC9M7SP02: test 8",
+    "AC9M7SP02: duplicate practice stems",
+    "AC9M7SP02: duplicate test stems",
+    "AC9M7SP02: practice/test stem overlap 3",
+    "AC9M7SP02: live counts 55/46",
+    "AC9M7SP02: canonical/live practice mismatch",
+    "AC9M7SP02: canonical/live test mismatch",
+    "AC9M7SP03: practice 8",
+    "AC9M7SP03: test 8",
+    "AC9M7SP03: duplicate practice stems",
+    "AC9M7SP03: duplicate test stems",
+    "AC9M7SP03: practice/test stem overlap 3",
+    "AC9M7SP03: live counts 8/55",
+    "AC9M7SP03: canonical/live test mismatch",
+    "AC9M7SP04: practice 8",
+    "AC9M7SP04: test 8",
+    "AC9M7SP04: duplicate practice stems",
+    "AC9M7SP04: duplicate test stems",
+    "AC9M7SP04: practice/test stem overlap 3",
+    "AC9M7SP04: live counts 8/53",
+    "AC9M7SP04: canonical/live test mismatch",
+    "AC9M7ST01: practice 8",
+    "AC9M7ST01: test 8",
+    "AC9M7ST01: duplicate practice stems",
+    "AC9M7ST01: duplicate test stems",
+    "AC9M7ST01: practice/test stem overlap 3",
+    "AC9M7ST01: live counts 54/55",
+    "AC9M7ST01: canonical/live practice mismatch",
+    "AC9M7ST01: canonical/live test mismatch",
+    "AC9M7ST02: practice 8",
+    "AC9M7ST02: test 8",
+    "AC9M7ST02: duplicate practice stems",
+    "AC9M7ST02: duplicate test stems",
+    "AC9M7ST02: practice/test stem overlap 3",
+    "AC9M7ST02: live counts 8/8",
+    "AC9M7ST03: practice 8",
+    "AC9M7ST03: test 8",
+    "AC9M7ST03: duplicate practice stems",
+    "AC9M7ST03: duplicate test stems",
+    "AC9M7ST03: practice/test stem overlap 3",
+    "AC9M7ST03: live counts 50/50",
+    "AC9M7ST03: canonical/live practice mismatch",
+    "AC9M7ST03: canonical/live test mismatch",
+    "AC9M7P01: practice 8",
+    "AC9M7P01: test 8",
+    "AC9M7P01: duplicate practice stems",
+    "AC9M7P01: duplicate test stems",
+    "AC9M7P01: practice/test stem overlap 3",
+    "AC9M7P01: live counts 52/51",
+    "AC9M7P01: canonical/live practice mismatch",
+    "AC9M7P01: canonical/live test mismatch",
+    "AC9M7P02: practice 8",
+    "AC9M7P02: test 8",
+    "AC9M7P02: duplicate practice stems",
+    "AC9M7P02: duplicate test stems",
+    "AC9M7P02: practice/test stem overlap 3",
+    "AC9M7P02: live counts 52/51",
+    "AC9M7P02: canonical/live practice mismatch",
+    "AC9M7P02: canonical/live test mismatch"
+  ]
+}
