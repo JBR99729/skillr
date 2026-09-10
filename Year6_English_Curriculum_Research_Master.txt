@@ -926,3 +926,61 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 Every mapped IXL skill and its Learn-with-an-example teaching sequence was inspected. Khan supplied limited supplementary modelling, and the Australian Government Style Manual fully closes the mapped gaps for lists, clause separation and dialogue.
+
+
+==================================================
+CODE: AC9E6LE01
+DESCRIPTOR: Identify responses to characters and events in literary texts, drawn from historical, social or cultural contexts, by First Nations Australian, and wide-ranging Australian and world authors.
+STATUS: RESEARCHING
+==================================================
+
+IXL MAPPINGS:
+IXL-MAPPED to 6-G.1 Analyse short stories.
+
+IXL SKILLS INVESTIGATED:
+- 6-G.1 Analyse short stories — IXL-INTERACTIVE-VERIFIED.
+- Its “Learn with an example” was explicitly opened and inspected.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+- G.1 presents a substantial complete short story followed by passage-specific multiple-choice questions.
+- The investigated story used an Australian setting and family relationship. The actual question asked the learner to infer a sibling relationship from one named paragraph.
+- Three distractors represented: evidence-supported distance, unsupported dislike, and the opposite claim of closeness.
+- The correct response was selected and submitted.
+- The worked example teaches that authors imply events, settings and traits through details; an inference combines background knowledge with specific textual evidence.
+- Its solution returns to the exact paragraph, quotes the relevant evidence in the interface, and explains the inference in plain language.
+
+IXL DIFFICULTY PROGRESSION:
+- Locate a named paragraph, retrieve details, infer an unstated relationship, and discriminate between a reasonable inference and an exaggerated/opposite claim.
+- Further curriculum research is required because G.1 does not by itself establish historical/social/cultural context comparison or First Nations Australian authorship.
+
+IXL MISCONCEPTIONS/TRAPS:
+- Treating absence/distance as evidence of dislike.
+- Choosing a generally plausible answer without paragraph evidence.
+- Retelling events instead of explaining a reader response.
+- Ignoring how historical, social or cultural context shapes behaviour, values and interpretation.
+- Treating one cultural perspective as universal.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+- Use an evidence-plus-background-knowledge inference model.
+- Direct learners back to a precise paragraph.
+- Explain why the evidence supports one inference and why close distractors overreach.
+- Preserve enough whole-story context for authentic analysis.
+
+KHAN MAPPINGS:
+Pending best-site check only; do not force a mapping.
+
+KHAN EVIDENCE:
+Pending.
+
+OTHER FREE SOURCES:
+Pending one or two authoritative Australian/First Nations literature sources.
+
+FREE-SOURCE EVIDENCE:
+Pending.
+
+CURRICULUM REQUIREMENTS:
+Pending synthesis after context and First Nations literature evidence.
+
+RESEARCH STATUS:
+MORE-RESEARCH-REQUIRED.
+Next action: inspect only the strongest Khan resource if material, then an authoritative First Nations Australian literary/teaching resource and one broad Australian literature source. Do not repeat G.1 or its Learn-with-an-example.
