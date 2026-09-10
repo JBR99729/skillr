@@ -8,11 +8,11 @@ CURRENT_CODE: RESEARCH-COMPLETE
 NEXT_CODE: AUTHORING-AC9E6LA01
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
-- AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
-- AC9E6LA02 — prior-session interactive fact/opinion and tone research was visibly completed in the earlier activity record; detailed evidence was not recovered from the failed earlier save.
-- AC9E6LA03 — prior-session interactive text-structure research was visibly completed in the earlier activity record; detailed evidence was not recovered from the failed earlier save.
-- AC9E6LA04 — preserved as completed because the surviving authenticated IXL tab had advanced to the first mapped AC9E6LA05 skill. Detailed evidence was not recovered from the failed earlier save.
-These four codes are not being re-sampled during this run, following the instruction not to repeat prior research. Their missing detailed records must not be misrepresented as newly verified evidence.
+- AC9E6LA01 — IXL curriculum page rechecked: no mapped IXL skill; Learn-with-an-example is not applicable.
+- AC9E6LA02 — all five mappings now covered: C.1/C.2 evidence reused; L.1/T.1/T.2 worked examples interactively verified in the repair pass.
+- AC9E6LA03 — all nine mappings covered by the later verified C.1/C.2/C.3/E.1–E.4/F.3/I.1 evidence; no duplicate sampling required.
+- AC9E6LA04 — all four R.1–R.4 practice pages and worked examples interactively verified in the repair pass.
+The former unrecovered-evidence warning is resolved. Unmapped codes are distinguished from interactively verified mapped skills.
 
 SOURCE EVIDENCE LOG — COMMON
 - IXL Australia Year 6 English curriculum page was inspected in the authenticated Parent profile with Australian Curriculum v9.0 selected.
@@ -2219,3 +2219,59 @@ CONTENT VERIFIED.
 
 NEXT AUTHORING CODE:
 AC9E6LA02
+
+
+
+==================================================
+IXL LEARN-WITH-AN-EXAMPLE VERIFICATION REPAIR
+Recorded: 2026-09-10 UTC
+
+SCOPE:
+This appendix replaces earlier uncertainty caused by blank or inaccessible rendered panels. It records only worked examples that were reopened and read in the authenticated IXL Australia Year 6 practice experience. Previously verified mappings were reused rather than repeated.
+
+AC9E6LA01:
+IXL STATUS: NOT MAPPED.
+The live Year 6 Australian Curriculum page places no IXL skill under AC9E6LA01. Therefore no IXL Learn-with-an-example exists for this code; this is not a research gap.
+
+AC9E6LA02 — NEWLY VERIFIED WORKED EXAMPLES:
+- 6-L.1 Distinguish facts from opinions: two statements on one topic; decide which is verifiable by research/observation. The model contrasts checkable information with an evaluative claim and highlights subjective wording as an opinion clue. Teaching implication: ask “What evidence could settle this?” rather than relying on whether a sentence sounds believable.
+- 6-T.1 Describe the difference between related words: choose which near-synonym better fits a comparison such as degree, manner, formality or intensity. The model defines shades of meaning, gives a mini-table of related words and precise definitions, then explains the decisive semantic difference.
+- 6-T.2 Positive and negative connotation: compare two denotationally related phrases and select the more positive/negative one. The model separates shared denotation from emotional association and explains why the alternative carries a different attitude.
+REUSED VERIFIED: 6-C.1 formality and 6-C.2 tone.
+STATUS: ALL FIVE AC9E6LA02 IXL MAPPINGS HAVE WORKED-EXAMPLE EVIDENCE.
+
+AC9E6LA03:
+REUSED VERIFIED: 6-C.1, 6-C.2, 6-C.3, 6-E.1, 6-E.2, 6-E.3, 6-E.4, 6-F.3 and 6-I.1. These worked-example patterns are already recorded in the later LA08/LY03 evidence: identify purpose/tone; map compare–contrast, cause–effect and problem–solution relationships; identify dominant structure; analyse figure-of-speech effect; and compare genre treatments.
+STATUS: ALL NINE AC9E6LA03 IXL MAPPINGS HAVE RECORDED WORKED-EXAMPLE EVIDENCE; NO RE-SAMPLING REQUIRED.
+
+AC9E6LA04 — NEWLY VERIFIED WORKED EXAMPLES:
+- 6-R.1 Choose the synonym: two-word multiple choice; reject a merely associated word and choose the word with the same/almost same meaning.
+- 6-R.2 Find synonyms in context: select within a short passage the word matching the highlighted target; context disambiguates the intended sense.
+- 6-R.3 Choose the antonym: two-word multiple choice; worked feedback defines both target and answer to establish opposition.
+- 6-R.4 Find antonyms in context: select the opposing word embedded in a connected passage; contrast markers may support the relation.
+Progression: isolated recognition → contextual selection; synonym/antonym relation → deliberate lexical chains for cohesion. Curriculum extension: IXL tests word relationships, while SkillrHub must require intentional repetition, synonymy, antonymy and association across sentences to track participants/topics and build cohesion.
+STATUS: ALL FOUR AC9E6LA04 IXL MAPPINGS ARE INTERACTIVE-VERIFIED WITH WORKED EXAMPLES.
+
+AC9E6LY06 — RENDERING GAPS REPAIRED:
+- 6-K.3 Transitions with conjunctive adverbs: choose between two grammatically possible adverbs by identifying the logical relationship. The model groups signals by cause/effect, compare/contrast, addition and elaboration and explains the relationship in full.
+- 6-L.2 Choose evidence to support a claim: select the evidence that explains why the claim is valid; feedback explicitly rejects evidence that is contradictory or merely on-topic.
+- 6-N.1 Correct frequently confused word: use sentence meaning and grammatical role to choose between a word and phrase/near-homophone pair; feedback defines both alternatives before restoring the sentence.
+- 6-N.3 Suggest appropriate revisions: diagnose the main weakness of a student paragraph from two revision categories. The model checks ideas/development, organisation, fluency, word choice, grammar/mechanics, then names and demonstrates the priority repair.
+STATUS CORRECTION: THESE FOUR WORKED EXAMPLES ARE NOW FULLY READ AND RECORDED, NOT MERELY OPENED.
+
+AC9E6LY09 — RENDERING GAPS REPAIRED:
+- 6-P.1 pre-: means before; infer when an action occurs.
+- 6-P.2 re-: means again; infer recurrence after an earlier state.
+- 6-P.3 sub-: means under/below/less than; identify a subdivision within a larger whole.
+- 6-P.6 -ful: means having/showing/causing; infer a property or consequence.
+- 6-Q.2 infer a root from one explained word: subtract the known/root component and match the remaining semantic contribution.
+- 6-Q.3 infer a root from related words: connect an unfamiliar word with a familiar member of the same root family, identify their shared meaning, then select the root definition.
+STATUS CORRECTION: ALL 13 AC9E6LY09 MAPPED SKILLS NOW HAVE READABLE, RECORDED LEARN-WITH-AN-EXAMPLE EVIDENCE.
+
+GLOBAL VERIFICATION RESULT:
+- Every IXL-mapped Year 6 English curriculum code now has recorded Learn-with-an-example evidence for all materially relevant mapped skills, using direct verification or explicitly identified reuse of previously verified evidence.
+- Codes with no IXL mapping are labelled NOT MAPPED / NOT APPLICABLE and are not falsely described as interactive-verified.
+- The stale claims that all early evidence was unrecovered and that certain LY06/LY09 examples were only opened are superseded by this appendix.
+
+RESEARCH INTEGRITY STATUS:
+IXL LEARN-WITH-AN-EXAMPLE COVERAGE COMPLETE AND RECORDED.
