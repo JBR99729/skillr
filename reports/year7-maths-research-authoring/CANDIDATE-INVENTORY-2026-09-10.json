@@ -1,0 +1,242 @@
+[
+  {
+    "code": "AC9M7N01",
+    "practiceCandidates": 48,
+    "testCandidates": 16,
+    "testOutsidePractice": 16,
+    "union": 64,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7N02",
+    "practiceCandidates": 46,
+    "testCandidates": 32,
+    "testOutsidePractice": 31,
+    "union": 77,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7N03",
+    "practiceCandidates": 24,
+    "testCandidates": 16,
+    "testOutsidePractice": 16,
+    "union": 40,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7N04",
+    "practiceCandidates": 24,
+    "testCandidates": 16,
+    "testOutsidePractice": 16,
+    "union": 40,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7N05",
+    "practiceCandidates": 24,
+    "testCandidates": 16,
+    "testOutsidePractice": 16,
+    "union": 40,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7N06",
+    "practiceCandidates": 24,
+    "testCandidates": 16,
+    "testOutsidePractice": 16,
+    "union": 40,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7N07",
+    "practiceCandidates": 64,
+    "testCandidates": 31,
+    "testOutsidePractice": 29,
+    "union": 93,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7N08",
+    "practiceCandidates": 64,
+    "testCandidates": 32,
+    "testOutsidePractice": 32,
+    "union": 96,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7N09",
+    "practiceCandidates": 64,
+    "testCandidates": 32,
+    "testOutsidePractice": 32,
+    "union": 96,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7A01",
+    "practiceCandidates": 64,
+    "testCandidates": 32,
+    "testOutsidePractice": 32,
+    "union": 96,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7A02",
+    "practiceCandidates": 64,
+    "testCandidates": 32,
+    "testOutsidePractice": 32,
+    "union": 96,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7A03",
+    "practiceCandidates": 64,
+    "testCandidates": 32,
+    "testOutsidePractice": 32,
+    "union": 96,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7A04",
+    "practiceCandidates": 64,
+    "testCandidates": 32,
+    "testOutsidePractice": 32,
+    "union": 96,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7A05",
+    "practiceCandidates": 64,
+    "testCandidates": 32,
+    "testOutsidePractice": 32,
+    "union": 96,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7A06",
+    "practiceCandidates": 64,
+    "testCandidates": 32,
+    "testOutsidePractice": 32,
+    "union": 96,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7M01",
+    "practiceCandidates": 47,
+    "testCandidates": 22,
+    "testOutsidePractice": 19,
+    "union": 66,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7M02",
+    "practiceCandidates": 47,
+    "testCandidates": 22,
+    "testOutsidePractice": 19,
+    "union": 66,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7M03",
+    "practiceCandidates": 31,
+    "testCandidates": 22,
+    "testOutsidePractice": 19,
+    "union": 50,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7M04",
+    "practiceCandidates": 47,
+    "testCandidates": 46,
+    "testOutsidePractice": 43,
+    "union": 90,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7M05",
+    "practiceCandidates": 47,
+    "testCandidates": 30,
+    "testOutsidePractice": 27,
+    "union": 74,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7M06",
+    "practiceCandidates": 56,
+    "testCandidates": 38,
+    "testOutsidePractice": 35,
+    "union": 91,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7SP01",
+    "practiceCandidates": 60,
+    "testCandidates": 52,
+    "testOutsidePractice": 49,
+    "union": 109,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7SP02",
+    "practiceCandidates": 59,
+    "testCandidates": 52,
+    "testOutsidePractice": 49,
+    "union": 108,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7SP03",
+    "practiceCandidates": 60,
+    "testCandidates": 61,
+    "testOutsidePractice": 58,
+    "union": 118,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7SP04",
+    "practiceCandidates": 58,
+    "testCandidates": 59,
+    "testOutsidePractice": 56,
+    "union": 114,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7ST01",
+    "practiceCandidates": 61,
+    "testCandidates": 59,
+    "testOutsidePractice": 56,
+    "union": 117,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7ST02",
+    "practiceCandidates": 7,
+    "testCandidates": 6,
+    "testOutsidePractice": 3,
+    "union": 10,
+    "can48_16": false
+  },
+  {
+    "code": "AC9M7ST03",
+    "practiceCandidates": 57,
+    "testCandidates": 56,
+    "testOutsidePractice": 53,
+    "union": 110,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7P01",
+    "practiceCandidates": 59,
+    "testCandidates": 57,
+    "testOutsidePractice": 54,
+    "union": 113,
+    "can48_16": true
+  },
+  {
+    "code": "AC9M7P02",
+    "practiceCandidates": 59,
+    "testCandidates": 57,
+    "testOutsidePractice": 54,
+    "union": 113,
+    "can48_16": true
+  }
+]
