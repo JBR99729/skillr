@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LE03
-NEXT_CODE: AC9E6LE04
+CURRENT_CODE: AC9E6LE04
+NEXT_CODE: AC9E6LE05
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -1116,3 +1116,92 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 All new mapped IXL skills and worked-example experiences were investigated; prior G.1 evidence was reused. Khan and one strong Australian cross-text resource complete the theme and comparison sequence.
+
+
+==================================================
+CODE: AC9E6LE03
+DESCRIPTOR: Identify and explain characteristics that define an author's individual style.
+==================================================
+
+IXL MAPPINGS:
+IXL STATUS: NOT MAPPED on the inspected Year 6 Australian Curriculum v9 alignment.
+
+IXL SKILLS INVESTIGATED:
+None. No unrelated skill is represented as interactive author-style evidence.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+Not applicable.
+
+IXL DIFFICULTY PROGRESSION:
+Authoring progression is derived from the authoritative sources below: notice repeated craft choices → group them into style characteristics → compare passages → explain their cumulative effect → imitate a technique without copying an author.
+
+IXL MISCONCEPTIONS/TRAPS:
+Style equals topic or genre; one unusual word proves a style; biography explains every choice; “descriptive/funny” without evidence is sufficient; all works by one author sound identical.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+No mapped IXL example exists. SkillrHub must provide an explicit worked model: collect multiple evidence points, name the repeated pattern, infer its effect, and qualify the claim.
+
+KHAN MAPPINGS:
+KHAN STATUS: NOT MAPPED / NOT MATERIAL.
+No Khan sequence materially matches identifying an individual author’s style at Australian Year 6 depth; general figurative-language or theme lessons are prerequisites only.
+
+KHAN EVIDENCE:
+No forced mapping.
+
+OTHER FREE SOURCES:
+- NSW Department of Education, English textual concepts: Narrative, including Stage 3 professional learning.
+- ABC Education, Poetic Devices six-part series (Upper Primary–Lower Secondary), previously inspected.
+
+FREE-SOURCE EVIDENCE:
+- NSW Stage 3 guidance identifies narrative voice and structure as deliberate author choices and compares linear, circular, parallel and frame structures.
+- Its analysis of an Australian poem links cadence, line length, rhyme, repetition, assonance, alliteration, hyperbole and point of view to the text’s distinctive effect.
+- Its second mentor-text analysis treats humour as sophisticated craft shaped by nuance, timing, character, deadpan dialogue, circular structure and first-person narration.
+- The guidance asks how plot development, mood, atmosphere, recognisable characters, form, mode and conventions involve readers.
+- ABC’s poet-led series shows different poets using common devices to write about personally significant objects, demonstrating that devices alone do not define style; pattern, subject, voice and combination matter.
+- Teaching pattern: read two short original passages attributed to the same invented author plus a contrast passage; highlight recurring choices; sort evidence by diction/syntax/imagery/voice/structure; write a qualified claim about effect.
+- Copyrighted mentor texts are not to be reproduced. Create fully original paired passages and invented author profiles.
+
+CURRICULUM REQUIREMENTS:
+Identify recurring, distinctive choices across more than one sample; explain style using evidence; consider diction, sentence patterns, imagery, figurative/sound devices, dialogue, humour, narrative voice, point of view, pacing, structure and recurring concerns; distinguish author style from genre conventions; compare authors; create/revise an original passage using selected techniques.
+
+PREREQUISITES:
+Author, narrator, genre, tone, mood, point of view, vocabulary choice, sentence structure, imagery, figurative language, dialogue, plot structure, textual evidence.
+
+NEW YEAR-6 DEPTH:
+Move from spotting devices to synthesising patterns; support a style claim with multiple examples; distinguish consistent tendency from absolute rule; explain cumulative effect; compare how two authors handle the same subject/genre; separate respectful imitation of technique from copying wording.
+
+VOCABULARY:
+authorial style; voice; diction; syntax; sentence length; rhythm; cadence; imagery; motif; tone; mood; humour; dialogue; narration; point of view; pacing; structure; convention; recurring pattern; distinctive; cumulative effect; evidence; qualification.
+
+REPRESENTATIONS:
+Paired/triplet original passages; author-style evidence grids; colour-coded craft annotations; sentence-length/rhythm strips; style continua; blind “same author?” classification; before/after revisions; short imitation tasks using named techniques.
+
+COMMON MISCONCEPTIONS:
+Style is handwriting, genre, topic or biography; a single feature defines style; device counting equals analysis; every sentence must show the same feature; readers must agree on labels; imitation permits copying phrases; longer sentences are automatically sophisticated.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Definition of individual style; style versus genre/topic/voice; evidence categories; repeated-pattern and cumulative-effect model; two-sample minimum; qualified claims; author comparison; ethical technique imitation; worked examples and misconception checks.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Anonymous passage-sort warm-up; teacher think-aloud across two samples; group craft-feature stations; evidence-to-claim discussion; same-topic author comparison; controlled original imitation; support/core/extension and exit style claim.
+
+REQUIRED WORKSHEET COVERAGE:
+Identify craft choices; group recurring features; distinguish style from genre conventions; match claims/evidence; compare invented authors; revise weak generic claims; annotate paired passages; compose and explain an original style experiment.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 style-versus-topic/genre concepts; 8 diction/imagery; 8 syntax/rhythm; 6 voice/point of view; 6 humour/dialogue; 6 structure/pacing; 4 same-author evidence synthesis; 4 comparison/imitation explanations. Total 48 original items.
+
+16-TEST-BANK COVERAGE PLAN:
+2 concept distinctions; 3 diction/imagery; 3 syntax/voice; 3 structure/humour; 3 paired-passage style claims; 2 independent compare/create-and-explain tasks. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not reproduce mentor-text wording; do not diagnose author personality from prose; do not equate identity with a fixed style; avoid reductive labels; require multiple evidence points; imitation must borrow abstract techniques only, never distinctive phrases or characters.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/standards/english/year-6
+- https://education.nsw.gov.au/teaching-and-learning/curriculum/english/textual-concepts/narrative
+- https://www.abc.net.au/education/tv-guide/poetic-devices/102529624
+
+RESEARCH STATUS:
+AUTHORING-READY.
+No material IXL/Khan mapping exists. The NSW Stage 3 professional learning supplies a detailed, age-appropriate author-craft framework, and the ABC poet series reinforces individual combinations of shared techniques. Scope, progression and original authoring patterns are fully defined.
