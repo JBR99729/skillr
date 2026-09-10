@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LA09
-NEXT_CODE: AC9E6LE01
+CURRENT_CODE: AC9E6LE01
+NEXT_CODE: AC9E6LE02
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -739,3 +739,190 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 All mapped IXL patterns are interactively verified. Australian upper-primary poetry and department resources fill imagery, response, composition and author-purpose gaps, with clear copyright boundaries for fully original authoring.
+
+
+==================================================
+CODE: AC9E6LA09
+DESCRIPTOR: Understand how to use the comma for lists, to separate a dependent clause from an independent clause, and in dialogue.
+==================================================
+
+IXL MAPPINGS:
+IXL-MAPPED on the live Year 6 Australian Curriculum v9 page to:
+- 6-X.8 Identify dependent and independent clauses
+- 6-II.1 Commas with compound and complex sentences
+- 6-II.2 Commas with direct addresses, sentence openers, interjections and interrupters
+- 6-II.3 Commas with coordinate adjectives
+
+IXL SKILLS INVESTIGATED:
+IXL-INTERACTIVE-VERIFIED: X.8, II.1, II.2 and II.3.
+The “Learn with an example” experience was explicitly opened and inspected for every mapped skill.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+- X.8 asks the learner to select either the dependent or independent clause directly within a complex sentence. One actual item placed an introductory dependent clause before the main clause; the independent clause was selected and submitted correctly.
+- X.8 worked teaching defines a clause through subject plus predicate, applies the complete-thought/stand-alone test, lists common subordinating conjunctions, and identifies the conjunction that makes the target clause dependent.
+- II.1 uses interactive comma insertion into an unpunctuated sentence. The actual item contained a long introductory dependent clause followed by a main clause and an existing later comma, so the learner had to insert one additional comma at the clause boundary rather than react to sentence length.
+- II.1 worked teaching contrasts a compound-sentence comma before a coordinating conjunction with the comma after an introductory dependent clause. Its solution names the subordinating conjunction, identifies clause order and reconstructs the punctuated sentence.
+- II.2 also uses comma correction/insertion. Its worked example surrounds a name used in direct address with a comma pair inside a question. Teaching then distinguishes direct address, introductory response words, mild interjections and removable interrupters.
+- II.3 uses comma insertion in a sentence containing several adjacent adjectives. Its worked example tests whether adjectives are coordinate by reversing their order and inserting and. The solution contrasts a non-coordinate adjective pair with a coordinate pair requiring a comma.
+- IXL does not materially sample list punctuation or the comma-plus-quotation-mark patterns required for dialogue, so those are supplied by the authoritative Australian source below.
+
+IXL DIFFICULTY PROGRESSION:
+- Identify clause type before applying punctuation.
+- Insert one comma at a visible boundary, then discriminate among multiple possible-looking positions in longer sentences.
+- Distinguish compound from complex structures and introductory from following dependent clauses.
+- Add comma pairs for embedded nonessential material or direct address.
+- Use semantic tests for coordinate adjectives rather than comma-by-pause guessing.
+- Full curriculum progression must then add simple/complex lists and dialogue before, after and around speaker attributions.
+
+IXL MISCONCEPTIONS/TRAPS:
+- Treating sentence length or a spoken pause as the rule.
+- Confusing a dependent clause with any introductory phrase.
+- Adding a comma after a dependent clause that follows the main clause when it is essential.
+- Creating a comma splice between independent clauses.
+- Forgetting the second comma around an interrupter or mid-sentence direct address.
+- Separating cumulative/non-coordinate adjectives.
+- Using commas between only two list items.
+- Putting dialogue commas outside quotation marks or retaining a full stop before a following speaker attribution.
+- Believing every dialogue tag is punctuated identically, even when the quoted words end with ? or !.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+- Teach the grammatical boundary first, then the punctuation mark.
+- Use the stand-alone thought test and highlight subject/predicate.
+- Name the conjunction and clause order in feedback.
+- Rebuild the whole corrected sentence and explain why alternative comma positions fail.
+- Teach paired-comma completeness explicitly.
+- For coordinate adjectives, use both the order-swap and and-insertion tests.
+- Topic-page worked examples should show reason, insertion point and final sentence, not a rule alone.
+
+KHAN MAPPINGS:
+KHAN STATUS: SUPPLEMENTARY / NOT AC9-MAPPED.
+Relevant Khan resources located: “Punctuating a list” and “Commas in dialogue”. The current dialogue lesson page was opened; its teaching metaphor describes dialogue commas as a runway into or out of an utterance.
+
+KHAN EVIDENCE:
+- Khan provides short, focused modelling for separating list items and positioning commas beside direct speech.
+- Search evidence notes that list teaching includes people, things, actions and events and acknowledges that serial/Oxford-comma conventions vary.
+- These resources are useful as an accessible prerequisite sequence, but they are not mapped to Australian Curriculum v9 and one current page sits inside a Grade 10 course shell. Australian convention is therefore taken from the Australian Government Style Manual.
+
+OTHER FREE SOURCES:
+- Australian Government Style Manual, “Commas” (updated 6 January 2025).
+- Australian Curriculum v9 descriptor AC9E6LA09.
+
+FREE-SOURCE EVIDENCE:
+- The Style Manual states the governing principle: commas separate sentence parts so meaning is clear, and sentence structure determines use.
+- It requires a comma after an introductory phrase or adverbial/dependent clause but usually not when the same phrase/clause comes at the end.
+- It distinguishes principal clauses joined by a coordinating conjunction from a shared-subject compound predicate and explicitly warns against comma splices.
+- It uses commas between sentence-list items and normally avoids the final serial comma in Australian government style, while permitting it to resolve ambiguity in complex lists.
+- It separates adjectives of the same type but not different adjective types, aligning with IXL’s coordinate-adjective test.
+- For direct speech, it uses a comma before an introduced quotation and a comma inside the closing quotation mark before a following attribution; question/exclamation punctuation is retained when it belongs to the quoted words.
+- Teaching implication: Australian authoring must avoid presenting the Oxford comma as always required or always forbidden; use it only where style choice or clarity is explicitly discussed.
+
+CURRICULUM REQUIREMENTS:
+- Use commas to separate three or more items in lists of words, phrases or clauses.
+- Use a comma after an introductory dependent clause and understand how clause order affects punctuation.
+- Use commas with dialogue and speaker attributions in Australian quotation-mark conventions.
+- Apply clause knowledge rather than punctuation by pause.
+- Edit missing, misplaced and unnecessary commas and explain how punctuation clarifies meaning.
+- Maintain capitals, quotation marks and terminal punctuation alongside commas.
+
+PREREQUISITES:
+Clause; subject; predicate; independent/main clause; dependent/subordinate clause; coordinating/subordinating conjunction; list item; direct speech; quotation marks; dialogue tag/speaker attribution; adjective.
+
+NEW YEAR-6 DEPTH:
+- Coordinate comma decisions with sentence structure and meaning.
+- Punctuate lists whose items are phrases or clauses, not only single nouns.
+- Compare dependent-clause positions.
+- Punctuate dialogue with attribution before, after and between quoted speech.
+- Distinguish dialogue tags from action beats at an accessible level.
+- Edit ambiguous lists, comma splices and missing paired commas.
+
+VOCABULARY:
+comma; list; item; serial/Oxford comma; ambiguity; clause; independent/main clause; dependent/subordinate clause; conjunction; introductory clause; comma splice; direct speech; dialogue; quotation marks; speaker attribution/dialogue tag; interrupter; direct address; coordinate adjective.
+
+REPRESENTATIONS:
+- Colour-coded clause boundaries.
+- Click-to-insert and delete-a-comma tasks.
+- Before/after clause-order pairs.
+- List grids with parallel items.
+- Dialogue punctuation frames.
+- Speech bubbles converted to prose.
+- Error-editing paragraphs.
+- Paired-comma brackets and coordinate-adjective test tables.
+
+COMMON MISCONCEPTIONS:
+- Put a comma wherever the reader pauses.
+- Every conjunction needs a comma.
+- Introductory and following dependent clauses use identical punctuation.
+- Two independent sentences may be joined by a comma alone.
+- The Oxford comma rule is universal across English varieties.
+- A comma belongs outside the closing quotation mark before “said”.
+- A question mark in speech must be followed by a comma.
+- Every adjective pair is coordinate.
+- The second comma in paired punctuation is optional.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+- Meaning-and-structure principle.
+- Lists, parallel list items and Australian serial-comma convention.
+- Independent/dependent clause recap and clause-order punctuation.
+- Dialogue before/after/between attributions, including ? and !.
+- Comma splice and unnecessary-comma repair.
+- Supporting direct address, interrupters and coordinate adjectives as mapped extensions.
+- Worked “Learn from example” sequence: identify structure, place comma, rebuild, explain.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+- Learning intention and success criteria.
+- Clause-boundary warm-up.
+- Teacher modelling for lists, introductory clauses and dialogue.
+- Human sentence/list sorting and speech-bubble conversion.
+- Guided error diagnosis with reasons.
+- Support/core/extension pathways and exit edit.
+
+REQUIRED WORKSHEET COVERAGE:
+- Add/remove commas in simple and complex lists.
+- Identify clauses and punctuate both orders.
+- Repair comma splices.
+- Convert dialogue from speech bubbles to prose and back.
+- Correct before/after/interrupted attributions.
+- Apply paired commas/direct address and coordinate-adjective checks.
+- Edit a short original paragraph and explain selected changes.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+- 8 list items: words, phrases, actions and ambiguity.
+- 6 clause-identification prerequisites.
+- 10 introductory/following dependent-clause items.
+- 4 compound-sentence versus comma-splice items.
+- 10 dialogue items across attribution positions and terminal punctuation.
+- 4 direct-address/interrupter items.
+- 3 coordinate-adjective items.
+- 3 paragraph editing/explanation items.
+Total: 48 original items.
+
+16-TEST-BANK COVERAGE PLAN:
+- 3 list items including one ambiguity decision.
+- 4 dependent-clause punctuation items.
+- 2 compound/comma-splice items.
+- 5 dialogue items across forms.
+- 1 supporting comma-use item.
+- 1 independent paragraph edit with explanation.
+Total: 16 separate original items with no practice duplicates.
+
+CONTENT BOUNDARIES:
+- Teach current Australian conventions; do not silently import mandatory US serial-comma rules.
+- Do not reduce comma choice to breathing/pausing.
+- Keep semicolon teaching outside the core except as optional repair extension.
+- Do not copy IXL or Khan sentences, names or answer formats verbatim.
+- Create all dialogue, passages and list contexts originally.
+- Do not claim Khan is AC9-aligned.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/standards/english/year-6
+- https://au.ixl.com/english/year-6/identify-dependent-and-independent-clauses
+- https://au.ixl.com/english/year-6/commas-with-compound-and-complex-sentences
+- https://au.ixl.com/english/year-6/commas-with-direct-addresses-sentence-openers-interjections-and-interrupters
+- https://au.ixl.com/english/year-6/commas-with-coordinate-adjectives
+- https://www.khanacademy.org/humanities/class-10-english-grammar/x3d67a837f6da8e6b:two-stories-about-flying/x3d67a837f6da8e6b:punctuation/v/commas-in-dialogue-the-comma-punctuation-khan-academy
+- https://www.youtube.com/watch?v=DBMQOK64VQY
+- https://www.stylemanual.gov.au/grammar-punctuation-and-conventions/punctuation/commas
+
+RESEARCH STATUS:
+AUTHORING-READY.
+Every mapped IXL skill and its Learn-with-an-example teaching sequence was inspected. Khan supplied limited supplementary modelling, and the Australian Government Style Manual fully closes the mapped gaps for lists, clause separation and dialogue.
