@@ -1,0 +1,127 @@
+name: Year 7 Maths full closure audit 2026-09-10
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/year7-maths-full-closure-audit-20260910.yml'
+permissions:
+  contents: write
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Audit all 30 Year 7 Maths codes
+        run: |
+          node <<'NODE'
+          const fs=require('fs'),vm=require('vm'),path=require('path');
+          const codes=[
+            ...Array.from({length:9},(_,i)=>`AC9M7N${String(i+1).padStart(2,'0')}`),
+            ...Array.from({length:6},(_,i)=>`AC9M7A${String(i+1).padStart(2,'0')}`),
+            ...Array.from({length:6},(_,i)=>`AC9M7M${String(i+1).padStart(2,'0')}`),
+            ...Array.from({length:4},(_,i)=>`AC9M7SP${String(i+1).padStart(2,'0')}`),
+            ...Array.from({length:3},(_,i)=>`AC9M7ST${String(i+1).padStart(2,'0')}`),
+            ...Array.from({length:2},(_,i)=>`AC9M7P${String(i+1).padStart(2,'0')}`)
+          ];
+          const normalize=s=>String(s||'').toLowerCase().replace(/<[^>]+>/g,' ').replace(/[^a-z0-9%√π]+/g,' ').replace(/\s+/g,' ').trim();
+          const req={
+            AC9M7N01:[['perfect square','square root'],['area','perimeter']],
+            AC9M7N02:[['prime factor'],['exponent','power']],
+            AC9M7N03:[['power','10'],['expanded','place value']],
+            AC9M7N04:[['fraction','decimal'],['percent','number line']],
+            AC9M7N05:[['round'],['estimate','reasonable']],
+            AC9M7N06:[['fraction','decimal'],['percent'],['divide','reciprocal']],
+            AC9M7N07:[['integer'],['subtract','negative'],['number line','counter']],
+            AC9M7N08:[['ratio'],['equivalent','proportion','unit rate']],
+            AC9M7N09:[['percent'],['discount','commission','markup','finance'],['justify','reasonable','model']],
+            AC9M7A01:[['variable'],['substitut','formula']],
+            AC9M7A02:[['expression'],['bracket','constant','coefficient','variable']],
+            AC9M7A03:[['equation'],['both sides','inverse','substitut','verify']],
+            AC9M7A04:[['graph'],['independent','dependent','axis','authentic']],
+            AC9M7A05:[['table'],['rule'],['graph','coordinate']],
+            AC9M7A06:[['variable'],['table'],['hold','constant','systematic','digital']],
+            AC9M7M01:[['triangle','parallelogram'],['height','base'],['area']],
+            AC9M7M02:[['prism'],['volume'],['triangular','base area']],
+            AC9M7M03:[['radius','diameter'],['circumference'],['pi','π']],
+            AC9M7M04:[['corresponding','alternate','co-interior'],['parallel','transversal']],
+            AC9M7M05:[['triangle'],['polygon'],['180','angle sum','n 2']],
+            AC9M7M06:[['ratio'],['unit rate','proportion','table'],['justify','invariant','model']],
+            AC9M7SP01:[['net','front','side','top'],['advantage','limitation','represent']],
+            AC9M7SP02:[['polygon'],['rectangle','rhombus','parallelogram','square'],['always','property','classif']],
+            AC9M7SP03:[['translation','reflection','rotation'],['coordinate','clockwise','anticlockwise']],
+            AC9M7SP04:[['decision','algorithm','tree'],['parallel','right angle','congruent'],['classif']],
+            AC9M7ST01:[['mean','median','mode','range'],['discrete','continuous'],['justify','measure','outlier']],
+            AC9M7ST02:[['stem','leaf'],['shape','centre','spread','outlier']],
+            AC9M7ST03:[['sample','population'],['discrete','continuous'],['investigation','conclusion','distribution']],
+            AC9M7P01:[['sample space'],['probability'],['relative frequency','expected']],
+            AC9M7P02:[['experimental','theoretical'],['trial','simulation'],['variation','large','persistent']]
+          };
+          function evalLive(file,varNames){
+            const ctx={window:{}}; vm.createContext(ctx); vm.runInContext(fs.readFileSync(file,'utf8'),ctx,{filename:file});
+            for(const v of varNames){ if(Array.isArray(ctx.window[v])) return ctx.window[v]; }
+            return [];
+          }
+          const rows=[]; let failures=[];
+          for(const code of codes){
+            const lower=code.toLowerCase();
+            const bankFile=`assets/assessment-banks/year7/math/${lower}.json`;
+            const row={code};
+            if(!fs.existsSync(bankFile)){failures.push(`${code}: missing canonical bank`); rows.push(row); continue;}
+            const all=JSON.parse(fs.readFileSync(bankFile,'utf8'));
+            const P=all.filter(x=>x.bank==='practice'), T=all.filter(x=>x.bank==='test');
+            row.practice=P.length; row.test=T.length;
+            if(P.length!==48) failures.push(`${code}: practice ${P.length}`);
+            if(T.length!==16) failures.push(`${code}: test ${T.length}`);
+            const pStems=P.map(x=>normalize(x.question)), tStems=T.map(x=>normalize(x.question));
+            row.pUnique=new Set(pStems).size; row.tUnique=new Set(tStems).size;
+            row.overlap=[...new Set(pStems)].filter(x=>new Set(tStems).has(x)).length;
+            if(row.pUnique!==P.length) failures.push(`${code}: duplicate practice stems`);
+            if(row.tUnique!==T.length) failures.push(`${code}: duplicate test stems`);
+            if(row.overlap) failures.push(`${code}: practice/test stem overlap ${row.overlap}`);
+            for(const item of all){
+              if(item.curriculum_code!==code) failures.push(`${code}: wrong curriculum_code on ${item.id}`);
+              if(!Array.isArray(item.answers)||item.answers.filter(a=>a.is_correct).length!==1) failures.push(`${code}: answer integrity ${item.id}`);
+            }
+            const pLive=`quiz/year-7/math/${lower}/practice/questions.js`, tLive=`quiz/year-7/math/${lower}/test/questions.js`;
+            if(!fs.existsSync(pLive)||!fs.existsSync(tLive)) failures.push(`${code}: missing live bank file`);
+            else {
+              const LP=evalLive(pLive,['skillrPracticeQuestions','quizQuestions']);
+              const LT=evalLive(tLive,['skillrTestQuestions','skillrExamQuestions','quizQuestions']);
+              row.livePractice=LP.length; row.liveTest=LT.length;
+              if(LP.length!==48||LT.length!==16) failures.push(`${code}: live counts ${LP.length}/${LT.length}`);
+              const lp=LP.map(x=>normalize(x.question||x.prompt)), lt=LT.map(x=>normalize(x.question||x.prompt));
+              if(lp.join('|')!==pStems.join('|')) failures.push(`${code}: canonical/live practice mismatch`);
+              if(lt.join('|')!==tStems.join('|')) failures.push(`${code}: canonical/live test mismatch`);
+            }
+            const unit=JSON.parse(fs.readFileSync('data/curriculum-units.json','utf8')).units.find(x=>x.code===code && x.yearNumber===7 && x.subject==='Mathematics');
+            if(!unit){ failures.push(`${code}: missing curriculum unit`); rows.push(row); continue; }
+            const topic=`${unit.url.replace(/^\//,'')}index.html`;
+            const classroom=`${unit.url.replace(/^\//,'')}teacher-slides/index.html`;
+            const worksheet=`quiz/year-7/math/${lower}/worksheet/index.html`;
+            for(const f of [topic,classroom,worksheet]) if(!fs.existsSync(f)) failures.push(`${code}: missing ${f}`);
+            const combined=[all.map(x=>`${x.question} ${x.explanation?.summary||''} ${x.explanation?.hint||''}`).join(' '),...[topic,classroom,worksheet].filter(fs.existsSync).map(f=>fs.readFileSync(f,'utf8'))].join(' ').toLowerCase();
+            const groups=req[code]||[];
+            row.coverage=groups.map(group=>group.some(term=>combined.includes(term.toLowerCase())));
+            if(row.coverage.some(x=>!x)) failures.push(`${code}: research keyword coverage ${row.coverage.join(',')}`);
+            rows.push(row);
+          }
+          const out={auditedAt:new Date().toISOString(),codes:rows,failures};
+          fs.mkdirSync('reports/year7-maths-research-authoring',{recursive:true});
+          fs.writeFileSync('reports/year7-maths-research-authoring/FULL-CLOSURE-AUDIT-2026-09-10.json',JSON.stringify(out,null,2)+'\n');
+          console.table(rows.map(r=>({code:r.code,P:r.practice,T:r.test,LP:r.livePractice,LT:r.liveTest,PU:r.pUnique,TU:r.tUnique,overlap:r.overlap,coverage:(r.coverage||[]).every(Boolean)?'PASS':'CHECK'})));
+          console.log(`FAILURES=${failures.length}`); for(const f of failures) console.log('FAIL',f);
+          NODE
+      - name: Commit audit report
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add reports/year7-maths-research-authoring/FULL-CLOSURE-AUDIT-2026-09-10.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Audit all Year 7 Maths authoring surfaces'
+            git push
+          fi
