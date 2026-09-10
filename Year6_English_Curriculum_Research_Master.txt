@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LA06
-NEXT_CODE: AC9E6LA07
+CURRENT_CODE: AC9E6LA07
+NEXT_CODE: AC9E6LA08
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -214,50 +214,202 @@ The mapped benchmark patterns are sufficiently established and the curriculum ga
 ==================================================
 CODE: AC9E6LA06
 DESCRIPTOR: Understand how ideas can be expanded and sharpened through careful choice of verbs, elaborated tenses and a range of adverb groups.
-STATUS: RESEARCHING
 ==================================================
 
 IXL MAPPINGS:
-Live AC v9 mapping lists DD.1, DD.2, DD.4, DD.5, DD.7, DD.8, EE.3, EE.4, EE.9 and EE.10.
+IXL-MAPPED on the live Year 6 Australian Curriculum v9 page to:
+- 6-DD.1 Irregular past tense review
+- 6-DD.2 Simple past, present and future tense: review
+- 6-DD.4 Use progressive verb tenses
+- 6-DD.5 Form progressive verb tenses
+- 6-DD.7 Use perfect verb tenses
+- 6-DD.8 Form perfect verb tenses
+- 6-EE.3 Identify adverbs
+- 6-EE.4 Use relative adverbs
+- 6-EE.9 Form and use comparative and superlative adverbs
+- 6-EE.10 Well, better, best, badly, worse and worst
 
 IXL SKILLS INVESTIGATED:
-- 6-DD.2 Simple past, present and future tense: review — IXL-INTERACTIVE-VERIFIED; research continues.
+IXL-INTERACTIVE-VERIFIED: DD.1, DD.2, DD.4, DD.5, DD.7, DD.8, EE.3, EE.4, EE.9 and EE.10.
 
 IXL QUESTIONS/PATTERNS INVESTIGATED:
-- DD.2 uses typed verb production. The prompt names a target tense, supplies a base verb and embeds a textbox inside a complete sentence.
-- The first actual task required present tense with a compound subject, adding an agreement check rather than tense selection alone.
-- The worked example for future tense teaches the invariant “will + base verb” construction, then supplies the completed verb group.
-- Prerequisite links step back to tense identification, changing sentences to future, regular past and irregular-past review.
+- DD.1: typed irregular-past production inside a complete sentence. A base verb was supplied; the learner supplied its memorised past form. One actual item was submitted correctly.
+- DD.2: typed target-tense production from a supplied base verb. An actual present-tense item also tested agreement with a compound subject. The future example used will + base verb.
+- DD.4: two-choice auxiliary selection for progressive tense. An actual past-progressive item combined a time cue with plural-subject agreement.
+- DD.5: typed the complete progressive verb group. An actual item required past be + an -ing form and correct spelling of the participle.
+- DD.7: chose the correct perfect auxiliary group. An actual future-perfect item used a by-the-time cue and contrasted will have with had.
+- DD.8: typed the complete perfect form. An actual present-perfect item required have/has agreement plus a past participle.
+- EE.3: selected multiple adverbs directly within one sentence. The actual sentence included frequency and degree adverbs; three separate words had to be selected before submission.
+- EE.4: typed where, when or why to introduce a relative clause. The actual item required matching a time antecedent to when.
+- EE.9: typed the comparative or superlative marker/form before a supplied base adverb. An actual than-comparison required more with a multisyllabic -ly adverb.
+- EE.10: typed an irregular comparative/superlative form. An actual far ... than comparison required better from well.
+- Prompt formats therefore include two-choice selection, multi-select-in-text, single-word completion and full verb-group production. Context sentences supply temporal, agreement and comparison cues rather than asking only for definitions.
 
 IXL DIFFICULTY PROGRESSION:
-- Initial evidence shows movement from identifying time reference to producing the correct inflected or auxiliary verb group in context.
-- Further evidence is required for irregular, progressive, perfect and adverb-group progression.
+- Recall regular and irregular simple forms, then coordinate tense with subject agreement.
+- Move from selecting an auxiliary to producing an entire progressive or perfect verb group.
+- Distinguish present/past/future meaning using discourse cues, including yesterday, all afternoon, by a later event and present relevance.
+- Identify adverbs with different functions, then supply relative adverbs according to place/time/reason.
+- Progress from regular one-syllable -er/-est and multisyllabic more/most patterns to spelling changes and irregular well/badly paradigms.
+- Harder authoring should combine tense and adverb choices in paragraphs, remove explicit tense labels, and require explanation or revision for precision and effect.
 
 IXL MISCONCEPTIONS/TRAPS:
-- Copying the base verb without changing tense.
-- Applying singular agreement to a compound subject.
-- Treating future tense as an inflected one-word form rather than will + base.
-- Choosing a grammatically possible tense that conflicts with the prompt.
+- Copying the base verb unchanged; overgeneralising -ed to irregular verbs.
+- Selecting a semantically plausible verb form that conflicts with time cues.
+- Omitting the auxiliary, choosing the wrong be/have form, or confusing the -ing form with the past participle.
+- Treating future perfect as ordinary future or past perfect.
+- Assuming every -ly word is an adverb or missing non--ly adverbs and adverbs modifying adjectives/adverbs.
+- Confusing where, when and why by focusing on the clause rather than its antecedent.
+- Using more/most with short adverbs, adding -er/-est to long adverbs, or creating forms such as more better.
+- Confusing adjectival good/bad with adverbial well/badly.
+- Treating grammatical correctness as sufficient when the descriptor also requires deliberate choices that expand or sharpen meaning.
 
 IXL LEARN-FROM-EXAMPLE INSIGHTS:
-- State the time meaning first, then display the formation rule, then reconstruct the complete sentence.
-- Keep tense formation and subject–verb agreement visible together.
+- Give meaning first (ongoing, completed before a reference point, place/time/reason, comparison), then a compact formation rule and completed sentence.
+- Progressive tables align present is/am/are, past was/were and future will be with the -ing form.
+- Perfect tables align present has/have, past had and future will have with the past participle.
+- Identify what an adverb modifies and ask whether it answers how, when, where or to what extent.
+- Teach comparative versus superlative by number of actions/groups compared; present one-syllable and multisyllabic formation in parallel tables.
+- Isolate irregular paradigms well–better–best and badly–worse–worst.
+- Feedback should name the cue, apply the rule, and rebuild the whole clause rather than merely reveal the word.
 
 KHAN MAPPINGS:
-Pending for AC9E6LA06.
+KHAN STATUS: SUPPLEMENTARY / NOT AC9-MAPPED.
+Inspected relevant Grammar lesson pages: Introduction to verb aspect; Progressive aspect; Perfect progressive aspect; comparative/superlative introduction. A legacy progressive/perfect exercise URL was also opened but exposed no usable interactive item in the current authenticated interface.
 
 KHAN EVIDENCE:
-Pending.
+- The inspected sequence frames tense as past/present/future and aspect as simple, progressive, perfect and perfect progressive.
+- Progressive teaching begins with the semantic idea of an ongoing action before naming the be + present-participle form.
+- Perfect-progressive teaching connects an action that was ongoing with a later completion/reference point, adding conceptual contrast beyond mechanical inflection.
+- Comparative/superlative teaching contrasts two-way comparison with comparison to a group and demonstrates alternate more/most and -er/-est formations.
+- Useful prerequisites are simple tense, helping verbs, participles, subject–verb agreement and recognising the action being modified.
+- Khan materially supports the conceptual teaching sequence but not Australian Year 6 curriculum scope, adverb-group expansion or careful verb choice; no AC9 alignment is claimed.
 
 OTHER FREE SOURCES:
-Pending.
+- Australian Curriculum v9 descriptor, cross-checked through indexed curriculum records.
+- Scootle Australian Curriculum V8 record for the directly corresponding earlier descriptor ACELA1523.
+- Victorian Curriculum content description VCELA351, which preserves the same wording and elaborations.
 
 FREE-SOURCE EVIDENCE:
-Pending.
+- Scootle/VCAA elaborations explicitly contrast a general action verb with a more expressive verb to make an action vivid.
+- They show adverb groups/phrases and prepositional phrases adding when, how and where detail to a happening, and distinguish descriptions of happenings from states.
+- This evidence fills the key gap left by IXL/Khan: learners must compare lexical choices and explain how a verb or adverb group changes precision, vividness, emphasis and information, not merely form a tense correctly.
+- Year-level teaching should move from word identification to sentence expansion, purposeful substitution, comparison of effects, and revision in short texts.
+- Source material is evidence only; original SkillrHub examples must be newly written.
 
 CURRICULUM REQUIREMENTS:
-Pending synthesis after remaining mapped verb and adverb skills.
+- Select precise, expressive verbs for purpose and effect.
+- Recognise and form simple, progressive and perfect tense/aspect combinations across past, present and future as appropriate to Year 6.
+- Use adverbs and expanded adverb groups to add manner, time, place, frequency, degree and reason.
+- Explain how grammatical and lexical choices expand or sharpen an idea.
+- Maintain tense consistency and subject–verb agreement while revising sentences and paragraphs.
+- Apply choices across imaginative, informative and persuasive contexts.
+
+PREREQUISITES:
+Base verb; past/present/future; regular/irregular past; subject–verb agreement; helping verb; present and past participles; word classes; basic adverb functions; clause recognition; comparative and superlative meaning.
+
+NEW YEAR-6 DEPTH:
+- Contrast simple, progressive and perfect meanings at different time reference points.
+- Combine auxiliaries and participles accurately, including irregular forms.
+- Expand single adverbs into purposeful adverb groups and place them flexibly.
+- Choose stronger verbs instead of relying on weak verb-plus-adverb combinations.
+- Explain changes in precision, temporal relationships, vividness, register and emphasis.
+- Edit tense shifts and overloaded or ambiguous modification in connected text.
+
+VOCABULARY:
+verb; lexical verb; auxiliary/helping verb; base form; finite verb; participle; simple tense; progressive aspect; perfect aspect; present perfect; past perfect; future perfect; adverb; adverb group; manner; time; place; frequency; degree; relative adverb; comparative; superlative; antecedent; precision; vividness; consistency.
+
+REPRESENTATIONS:
+- Tense/aspect timelines and formation tables.
+- Verb-strength continua and before/after substitutions.
+- Colour-coded auxiliary + participle verb groups.
+- Adverb-function sorting tables.
+- Expand-a-sentence frames and movable adverb-group positions.
+- Paragraph editing, cloze, multi-select, short response and independent rewriting.
+- Paired sentences for effect comparison.
+
+COMMON MISCONCEPTIONS:
+- Tense and aspect are interchangeable labels.
+- All past forms take -ed; all participles equal the simple past.
+- Any have + verb or be + verb is automatically a perfect/progressive form.
+- Present perfect refers to a finished, specified past time in the same way as simple past.
+- Every adverb ends in -ly and every -ly word is an adverb.
+- An adverb can modify only a verb.
+- Longer verb/adverb groups are always stronger writing.
+- Strong writing means adding many adverbs rather than choosing the most precise verb.
+- Tense can shift inside a paragraph without a meaningful time change.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+- Purposeful verb choice and weak-to-precise revision.
+- Simple/progressive/perfect meaning and formation with timelines.
+- Regular/irregular participles and agreement.
+- Adverb and adverb-group functions, placement and expansion.
+- Relative and comparative/superlative adverbs as supporting patterns.
+- Tense consistency, modifier clarity and effect comparison.
+- Worked examples, misconception checks and an original exit task.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+- Learning intention and success criteria tied to expanding/sharpening ideas.
+- Verb-choice warm-up; explicit tense/aspect modelling; adverb-group sentence expansion.
+- Guided comparison of alternatives and think-aloud explanations of effect.
+- Collaborative paragraph revision across text purposes.
+- Support/core/extension paths, checks for understanding and model reasoning.
+
+REQUIRED WORKSHEET COVERAGE:
+- Identify verb groups, auxiliaries, participles and adverb-group functions.
+- Form and select simple/progressive/perfect constructions from context.
+- Correct agreement, irregular forms and unintended tense shifts.
+- Replace vague verbs and compare effects.
+- Expand sentences with adverb groups, then edit redundancy or ambiguity.
+- Revise a short paragraph and justify at least one choice.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+- 6 precise-verb selection/substitution items.
+- 6 irregular/simple tense and agreement items.
+- 8 progressive form/meaning items.
+- 8 perfect form/temporal-relationship items.
+- 6 adverb identification/function items.
+- 6 adverb-group expansion/placement items.
+- 4 comparative, superlative and relative-adverb items.
+- 4 paragraph editing/effect-explanation items.
+Total: 48 original items with recognition, production, revision and explanation.
+
+16-TEST-BANK COVERAGE PLAN:
+- 3 precise-verb/effect items.
+- 4 progressive/perfect tense-aspect items.
+- 3 agreement/irregular/consistency edits.
+- 3 adverb/adverb-group application items.
+- 1 relative or comparative-adverb transfer item.
+- 2 independent sentence/paragraph revision-and-explanation tasks.
+Total: 16 original independent items with no practice-bank duplicates.
+
+CONTENT BOUNDARIES:
+- Do not reduce the descriptor to naming verb tenses or spotting -ly words.
+- Do not require advanced linguistic disputes about tense versus aspect.
+- Do not teach perfect progressive as the central assessed target; use it only as extension where helpful.
+- Do not reward verbosity, redundant adverbs or unnatural “strong” verbs.
+- Do not copy source questions, examples, names, scenarios or answer sets.
+- Do not claim Khan is Australian Curriculum aligned or that a small IXL sample proves adaptive mastery.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/standards/english/year-6
+- https://au.ixl.com/english/year-6/irregular-past-tense-review
+- https://au.ixl.com/english/year-6/simple-past-present-and-future-tense-review
+- https://au.ixl.com/english/year-6/use-the-progressive-verb-tenses
+- https://au.ixl.com/english/year-6/form-the-progressive-verb-tenses
+- https://au.ixl.com/english/year-6/use-the-perfect-verb-tenses
+- https://au.ixl.com/english/year-6/form-the-perfect-verb-tenses
+- https://au.ixl.com/english/year-6/identify-adverbs
+- https://au.ixl.com/english/year-6/use-relative-adverbs
+- https://au.ixl.com/english/year-6/form-and-use-comparative-and-superlative-adverbs
+- https://au.ixl.com/english/year-6/well-better-best-badly-worse-and-worst
+- https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb/verb-aspect-simple-progressive-and-perfect/v/intro-to-aspect
+- https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb/verb-aspect-simple-progressive-and-perfect/v/progressive-aspect
+- https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-verb/verb-aspect-and-modal-verbs/v/perfect-progressive-aspect-the-parts-of-speech-grammar
+- https://www.khanacademy.org/humanities/grammar/parts-of-speech-the-modifier/comparative-superlative-intensifiers-and-adverbs-of-degree/v/intro-to-the-comparative-and-the-superlative-v2
+- https://www.scootle.edu.au/ec/search?accContentId=ACELA1523
+- https://victoriancurriculum.vcaa.vic.edu.au/Curriculum/ContentDescription/VCELA351
 
 RESEARCH STATUS:
-MORE-RESEARCH-REQUIRED.
-Next action: continue DD tense skills, then EE adverb skills before deciding authoring readiness.
+AUTHORING-READY.
+All mapped IXL skills are interactively verified at representative pattern level. Khan contributes the conceptual aspect/comparison sequence, and the Australian elaborations supply the essential verb-choice and adverb-group effect depth that benchmark grammar items do not cover.
