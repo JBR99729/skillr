@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "Paragraphs, screens, diagrams, voice and navigation can all organise phases in multimodal texts."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-P-041",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "identify stages",
+    "printable": true,
+    "type": "single",
+    "question": "Which stage should normally come first in an explanation of how a cyclone forms?",
+    "audioPrompt": "Which stage should normally come first in an explanation of how a cyclone forms?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Identify the phenomenon and conditions being explained.",
+      "List emergency phone numbers.",
+      "Give a personal rating of the storm.",
+      "Describe an unrelated weather event."
+    ],
+    "correct": 0,
+    "explanation": "An explanation usually begins by identifying the phenomenon before sequencing causes and processes.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "An explanation usually begins by identifying the phenomenon before sequencing causes and processes.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-P-042",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "distinguish stage and phase",
+    "printable": true,
+    "type": "single",
+    "question": "A report has a classification stage containing paragraphs on habitat, diet and behaviour. What are those paragraphs?",
+    "audioPrompt": "A report has a classification stage containing paragraphs on habitat, diet and behaviour. What are those paragraphs?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Phases developing parts of the classification",
+      "Three unrelated conclusions",
+      "Persuasive rebuttals",
+      "Dialogue turns"
+    ],
+    "correct": 0,
+    "explanation": "The paragraphs are phases within the larger classification stage, each developing one aspect.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The paragraphs are phases within the larger classification stage, each developing one aspect.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-P-043",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "adapt structure for purpose",
+    "printable": true,
+    "type": "single",
+    "question": "A procedural text must warn readers about a dangerous step. What is the best adaptation?",
+    "audioPrompt": "A procedural text must warn readers about a dangerous step. What is the best adaptation?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Place a clearly signalled warning immediately before that step.",
+      "Hide the warning in the final paragraph.",
+      "Replace every instruction with a question.",
+      "Remove the ordered steps."
+    ],
+    "correct": 0,
+    "explanation": "Moving the warning next to the risk adapts the procedure while preserving its purpose and sequence.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "Moving the warning next to the risk adapts the procedure while preserving its purpose and sequence.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-P-044",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "identify embedded structure",
+    "printable": true,
+    "type": "single",
+    "question": "A problem–solution article briefly explains what caused the problem. How should this section be described?",
+    "audioPrompt": "A problem–solution article briefly explains what caused the problem. How should this section be described?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "A cause–effect phase embedded within the main structure",
+      "Proof that the whole text is only cause–effect",
+      "An unrelated detail that must be deleted",
+      "A narrative climax"
+    ],
+    "correct": 0,
+    "explanation": "Texts can embed one relationship inside a dominant structure to give readers needed background.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "Texts can embed one relationship inside a dominant structure to give readers needed background.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-P-045",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "compare organisation",
+    "printable": true,
+    "type": "single",
+    "question": "Which plan best suits a report comparing solar and wind energy?",
+    "audioPrompt": "Which plan best suits a report comparing solar and wind energy?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Introduce both, compare shared criteria, then synthesise findings.",
+      "Describe solar only and mention wind in the title.",
+      "List facts in the order they were found.",
+      "Begin with a fictional argument and omit evidence."
+    ],
+    "correct": 0,
+    "explanation": "A criterion-based comparison makes similarities and differences clear and supports a synthesis.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "A criterion-based comparison makes similarities and differences clear and supports a synthesis.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-P-046",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "use phase signals",
+    "printable": true,
+    "type": "single",
+    "question": "Which heading best signals a solution phase after a section titled “Why creek banks are eroding”?",
+    "audioPrompt": "Which heading best signals a solution phase after a section titled “Why creek banks are eroding”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Ways to stabilise the banks",
+      "A history of local street names",
+      "What erosion means",
+      "Three kinds of clouds"
+    ],
+    "correct": 0,
+    "explanation": "The heading explicitly shifts from causes of the problem to responses.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The heading explicitly shifts from causes of the problem to responses.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-P-047",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "explain adaptation",
+    "printable": true,
+    "type": "single",
+    "question": "Why might an author begin an information report with a short personal anecdote?",
+    "audioPrompt": "Why might an author begin an information report with a short personal anecdote?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "To engage readers before moving into characteristic factual stages",
+      "To turn every fact into fiction",
+      "To remove the need for classification",
+      "To guarantee that all readers agree"
+    ],
+    "correct": 0,
+    "explanation": "An adapted opening can engage an audience while the overall report still fulfils its informative purpose.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "An adapted opening can engage an audience while the overall report still fulfils its informative purpose.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA03-P-048",
+    "curriculumCode": "AC9E6LA03",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "track structural purpose",
+    "printable": true,
+    "type": "single",
+    "question": "In a persuasive text, what is the function of a concession such as “Some argue the cost is high” before a rebuttal?",
+    "audioPrompt": "In a persuasive text, what is the function of a concession such as “Some argue the cost is high” before a rebuttal?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "It acknowledges another position so the writer can answer it.",
+      "It proves the writer has changed topics.",
+      "It replaces the main contention.",
+      "It functions as procedural equipment."
+    ],
+    "correct": 0,
+    "explanation": "The concession is a phase that recognises an alternative view before the argument responds.\nHint: Use the curriculum feature and the full context to justify the answer.",
+    "structuredExplanation": {
+      "summary": "The concession is a phase that recognises an alternative view before the argument responds.",
+      "hint": "Use the curriculum feature and the full context to justify the answer."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
