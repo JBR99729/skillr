@@ -4,8 +4,8 @@ Run started: 2026-09-10
 Recovered and checkpointed: 2026-09-10 UTC
 Curriculum: Australian Curriculum v9.0
 
-CURRENT_CODE: AC9E6LY02
-NEXT_CODE: AC9E6LY03
+CURRENT_CODE: AC9E6LY03
+NEXT_CODE: AC9E6LY04
 
 COMPLETED / PRESERVED PRIOR-SESSION CODES:
 - AC9E6LA01 — prior-session workflow state preserved; detailed evidence was not recovered from the failed earlier save.
@@ -1470,3 +1470,92 @@ SOURCE REFERENCES:
 RESEARCH STATUS:
 AUTHORING-READY.
 IXL’s visual comparison and worked example are interactively verified. ABC’s Australian media-literacy framework and archival case supply the required creation-context and representation depth.
+
+
+==================================================
+CODE: AC9E6LY02
+DESCRIPTOR: Use interaction skills and awareness of formality when paraphrasing, questioning, clarifying and interrogating ideas, developing and supporting arguments, and sharing and evaluating information, experiences and opinions.
+==================================================
+
+IXL MAPPINGS:
+6-C.1 Which sentence is more formal?; 6-C.2 Compare passages for tone.
+
+IXL SKILLS INVESTIGATED:
+C.1 and C.2 — IXL-INTERACTIVE-VERIFIED; both “Learn with an example” experiences explicitly opened and inspected.
+
+IXL QUESTIONS/PATTERNS INVESTIGATED:
+- C.1 presents two meaning-equivalent sentences and asks which is more formal. A live item contrasted precise standard wording with a conversational approximation; the formal option was submitted correctly.
+- C.1 worked teaching identifies slang, idioms, conversational forms, abbreviations, imprecision and contractions, while noting contractions are relatively less informal and can be used sparingly.
+- C.2 presents two literary passages and asks which has more of a named tone. A live “relieved” comparison used close emotional contexts; the evidence-supported passage was selected and submitted.
+- C.2 worked teaching defines tone as attitude and traces it through direct/figurative language and positive/negative wording, citing multiple lexical cues.
+- IXL supports register/tone recognition but not live paraphrasing, probing questions, clarification, argument development or information evaluation.
+
+IXL DIFFICULTY PROGRESSION:
+Recognise informal markers → select register for context → identify tone from multiple cues → paraphrase accurately → ask open/closed/clarifying/probing questions → build on/challenge ideas respectfully → support/evaluate arguments and summarise discussion.
+
+IXL MISCONCEPTIONS/TRAPS:
+Formal means complicated; contractions are always wrong; slang is universally inappropriate; tone is topic or reader mood; paraphrase changes meaning; clarification signals weakness; interrogating an idea means attacking a person; opinion needs no evidence.
+
+IXL LEARN-FROM-EXAMPLE INSIGHTS:
+Compare controlled pairs; name the exact register/tone cues; explain degrees rather than absolute categories; cite several words; reconstruct a more suitable alternative. Extend through oral teacher modelling of paraphrase–check–probe–support.
+
+KHAN MAPPINGS:
+KHAN STATUS: NOT MAPPED / NOT MATERIAL. No Khan activity combines the full oral interaction, register and argument-evaluation requirements.
+
+KHAN EVIDENCE:
+No forced mapping.
+
+OTHER FREE SOURCES:
+- ABC Education, Key considerations to delivering The Australian Dream education resources, written by Aboriginal education specialists.
+- Australian Curriculum v9 AC9E6LY02 descriptor.
+
+FREE-SOURCE EVIDENCE:
+- The ABC guidance establishes discussion norms: respectful language, listen without interrupting, think before speaking, challenge ideas rather than people, consider different backgrounds, avoid stereotypes and do not make one student a cultural representative.
+- These norms materially support evaluating experiences/opinions and interrogating ideas safely.
+- Teaching pattern: listen → paraphrase (“So your point is…”) → verify accuracy → clarify terms/evidence → probe reasoning/implications → agree, build or challenge with evidence → summarise.
+- Register must respond to audience, purpose and relationship, not a formal-is-better hierarchy.
+
+CURRICULUM REQUIREMENTS:
+Use active listening; accurate paraphrase; purposeful open, closed, clarifying and probing questions; develop/support arguments; evaluate relevance/credibility; share experiences/opinions appropriately; adapt formality, tone, turn-taking and language to context; disagree respectfully.
+
+PREREQUISITES:
+Speaker/listener roles; turn-taking; fact/opinion; reasons/evidence; audience/purpose; formal/informal; tone; summary.
+
+NEW YEAR-6 DEPTH:
+Sustain multi-turn discussion; interrogate assumptions/evidence; distinguish paraphrase from agreement; synthesise contributions; evaluate information and arguments; deliberately shift register; use metacognitive repair when misunderstood.
+
+VOCABULARY:
+interaction; register; formality; paraphrase; clarify; probe; interrogate; claim; reason; evidence; counterargument; relevance; credibility; evaluate; synthesise; turn-taking; tone; respectful disagreement.
+
+REPRESENTATIONS:
+Dialogue transcripts; discussion clips/scripts; formality continua; question-type cards; claim–reason–evidence maps; paraphrase accuracy pairs; fishbowl observation rubrics; role-play scenarios.
+
+COMMON MISCONCEPTIONS:
+Formal language is always best; a paraphrase may add judgement; all questions are equally useful; disagreement is disrespect; louder/longer speech is stronger; personal experience proves a general claim; evaluation means finding faults only.
+
+REQUIRED TOPIC-PAGE COVERAGE:
+Register continuum; tone/formality cues; active listening; paraphrase-and-check; question types; argument support/evaluation; respectful challenge; discussion synthesis; worked interaction transcript.
+
+REQUIRED CLASSROOM-VIEW COVERAGE:
+Register warm-up; teacher think-aloud; question ladder; structured discussion/fishbowl; evidence challenge; observer checklist; inclusive participation supports; reflection and exit paraphrase.
+
+REQUIRED WORKSHEET COVERAGE:
+Compare/rewrite registers; identify tone cues; choose/compose question types; repair inaccurate paraphrases; complete argument maps; evaluate evidence; annotate a discussion transcript; plan and self-assess oral interaction.
+
+48-PRACTICE-BANK COVERAGE PLAN:
+6 formality; 6 tone; 8 paraphrasing; 8 questioning/clarifying; 8 probing/interrogating; 6 argument support; 6 evaluation/synthesis. Total 48 original items.
+
+16-TEST-BANK COVERAGE PLAN:
+2 register/tone; 3 paraphrase; 3 question selection/composition; 4 argument/evidence evaluation; 2 transcript analysis; 2 extended interaction plans/responses. Total 16 separate original items.
+
+CONTENT BOUNDARIES:
+Do not present formal English as superior identity; distinguish critique of ideas from people; avoid compulsory personal disclosure; permit multiple dialects while explicitly teaching context choice; do not copy source passages.
+
+SOURCE REFERENCES:
+- https://au.ixl.com/english/year-6/which-sentence-is-more-formal
+- https://au.ixl.com/english/year-6/compare-passages-for-tone
+- https://www.abc.net.au/education/key-considerations-to-delivering-the-australian-dream-education/13592842
+
+RESEARCH STATUS:
+AUTHORING-READY.
+Both IXL skills and worked examples are interactively verified. The Australian discussion guidance closes the interaction-safety and respectful argument gap; the full oral progression is explicitly defined.
