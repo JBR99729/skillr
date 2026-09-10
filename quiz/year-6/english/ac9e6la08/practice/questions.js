@@ -1199,6 +1199,246 @@ window.skillrPracticeQuestions = [
       "hint": "Connotations vary with context and audience. Explain the local effect rather than relying on a fixed dictionary label."
     },
     "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-041",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "identify metaphor effect",
+    "printable": true,
+    "type": "single",
+    "question": "In “The deadline was a shadow following us,” what does the metaphor suggest?",
+    "audioPrompt": "In “The deadline was a shadow following us,” what does the metaphor suggest?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The deadline created continuing pressure.",
+      "The deadline produced real darkness.",
+      "The group worked only at night.",
+      "A person carried a lamp."
+    ],
+    "correct": 0,
+    "explanation": "The metaphor represents persistent pressure as something that follows the group.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The metaphor represents persistent pressure as something that follows the group.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-042",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "interpret personification",
+    "printable": true,
+    "type": "single",
+    "question": "What effect is created by “The shutters complained in the wind”?",
+    "audioPrompt": "What effect is created by “The shutters complained in the wind”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The sound is made vivid as an unhappy human voice.",
+      "The shutters literally speak English.",
+      "The weather becomes silent.",
+      "The sentence gives an exact measurement."
+    ],
+    "correct": 0,
+    "explanation": "Personification turns the creaking sound into a human complaint, strengthening mood.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "Personification turns the creaking sound into a human complaint, strengthening mood.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-043",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "explain hyperbole",
+    "printable": true,
+    "type": "single",
+    "question": "Why might a narrator say, “I waited a thousand years for the bell”?",
+    "audioPrompt": "Why might a narrator say, “I waited a thousand years for the bell”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "To exaggerate impatience or boredom",
+      "To provide a precise historical date",
+      "To explain the bell’s materials",
+      "To deny that any waiting occurred"
+    ],
+    "correct": 0,
+    "explanation": "The impossible duration exaggerates the narrator’s feeling.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The impossible duration exaggerates the narrator’s feeling.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-044",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "choose vivid verb",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision is vivid without becoming exaggerated?",
+    "audioPrompt": "Which revision is vivid without becoming exaggerated?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "The creek threaded quietly between the rocks.",
+      "The creek did water stuff.",
+      "The creek exploded louder than the universe.",
+      "The creek was creek-like."
+    ],
+    "correct": 0,
+    "explanation": "“Threaded quietly” creates a precise image suited to the small movement.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "“Threaded quietly” creates a precise image suited to the small movement.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-045",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "practice",
+    "stage": "analyse",
+    "skill": "interpret idiom",
+    "printable": true,
+    "type": "single",
+    "question": "In context, what does “Nadia kept the project on track” mean?",
+    "audioPrompt": "In context, what does “Nadia kept the project on track” mean?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "She ensured the work continued towards its goal.",
+      "She placed the project on railway lines.",
+      "She cancelled every task.",
+      "She drew a track around the folder."
+    ],
+    "correct": 0,
+    "explanation": "The idiom means maintaining progress and direction.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The idiom means maintaining progress and direction.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-046",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "compare connotation",
+    "printable": true,
+    "type": "single",
+    "question": "Which word makes the crowd seem threatening rather than energetic?",
+    "audioPrompt": "Which word makes the crowd seem threatening rather than energetic?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "surged",
+      "gathered",
+      "arrived",
+      "assembled"
+    ],
+    "correct": 0,
+    "explanation": "“Surged” suggests forceful, uncontrolled movement and creates a more threatening tone.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "“Surged” suggests forceful, uncontrolled movement and creates a more threatening tone.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-047",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "practice",
+    "stage": "apply",
+    "skill": "create imagery",
+    "printable": true,
+    "type": "single",
+    "question": "Which sentence uses sensory imagery most effectively?",
+    "audioPrompt": "Which sentence uses sensory imagery most effectively?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Sharp eucalyptus scent drifted through the cool, smoky air.",
+      "The bush was nice.",
+      "There were trees and things.",
+      "Nature existed outside."
+    ],
+    "correct": 0,
+    "explanation": "The sentence combines smell, temperature and sight to create a specific sensory experience.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The sentence combines smell, temperature and sight to create a specific sensory experience.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
+  },
+  {
+    "id": "AC9E6LA08-P-048",
+    "curriculumCode": "AC9E6LA08",
+    "bank": "practice",
+    "stage": "evaluate",
+    "skill": "avoid mixed imagery",
+    "printable": true,
+    "type": "single",
+    "question": "Which revision repairs “Her idea took flight and planted deep roots overnight”?",
+    "audioPrompt": "Which revision repairs “Her idea took flight and planted deep roots overnight”?",
+    "visual": "",
+    "visualHtml": "",
+    "visualMeta": {
+      "type": "none",
+      "alt_text": ""
+    },
+    "answers": [
+      "Her idea took flight and quickly reached new audiences.",
+      "Her idea flew while becoming a buried aeroplane.",
+      "Her idea planted wings in the soil.",
+      "Her idea was both a bird and a tree for no reason."
+    ],
+    "correct": 0,
+    "explanation": "The revision sustains one coherent image instead of mixing incompatible metaphors.\nHint: Use precise evidence and explain how the feature shapes meaning.",
+    "structuredExplanation": {
+      "summary": "The revision sustains one coherent image instead of mixing incompatible metaphors.",
+      "hint": "Use precise evidence and explain how the feature shapes meaning."
+    },
+    "qualitySchema": "skillr-authored-v1"
   }
 ];
 window.quizQuestions = window.skillrPracticeQuestions;
