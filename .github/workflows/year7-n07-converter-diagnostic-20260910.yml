@@ -1,0 +1,28 @@
+name: Year 7 N07 converter diagnostic 2026-09-10
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/year7-n07-converter-diagnostic-20260910.yml']
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22}
+      - run: |
+          node <<'NODE'
+          const fs=require('fs'),vm=require('vm');
+          const file='quiz/year-7/math/ac9m7n07/practice/questions.js';
+          const norm=s=>String(s||'').toLowerCase().replace(/<[^>]+>/g,' ').replace(/[^a-z0-9%√π]+/g,' ').replace(/\s+/g,' ').trim();
+          const ctx={};ctx.window=ctx;vm.createContext(ctx);vm.runInContext(fs.readFileSync(file,'utf8'),ctx);
+          const items=ctx.skillrPracticeQuestions;
+          function answerData(x){if(Array.isArray(x.answers)&&x.answers.length>=2){if(typeof x.answers[0]==='object'){const a=x.answers.map(v=>({text:String(v.text??v.answer??v.label??''),is_correct:Boolean(v.is_correct??v.correct)}));if(a.filter(v=>v.is_correct).length===1)return a;}else{const ci=Number.isInteger(x.correct)?x.correct:Number.isInteger(x.correctIndex)?x.correctIndex:0;return x.answers.map((v,i)=>({text:String(v),is_correct:i===ci}));}}if(Array.isArray(x.options)&&x.options.length>=2){const ci=Number.isInteger(x.correct)?x.correct:Number.isInteger(x.correctIndex)?x.correctIndex:0;return x.options.map((v,i)=>({text:String(v),is_correct:i===ci}));}return null}
+          function convert(x){const question=String(x.question??x.prompt??x.text??'').trim();const answers=answerData(x);if(!question)return {ok:false,reason:'question'};if(!answers)return {ok:false,reason:'answers'};const n=norm(question);if(!n)return {ok:false,reason:'norm'};if(/which option best describes the skill being practised|this matches ac9m7|curriculum descriptor|which statement matches ac9m7/.test(n))return {ok:false,reason:'boilerplate'};return {ok:true,stem:n,answers}}
+          let ok=0;const reasons={};const stems=[];
+          items.forEach((x,i)=>{const r=convert(x);if(r.ok){ok++;stems.push(r.stem)}else{reasons[r.reason]=(reasons[r.reason]||0)+1;console.log('REJECT',i+1,r.reason,x.question)}});
+          console.log('RAW',items.length,'CONVERTED',ok,'UNIQUE',new Set(stems).size,'REASONS',JSON.stringify(reasons));
+          const canon=JSON.parse(fs.readFileSync('assets/assessment-banks/year7/math/ac9m7n07.json','utf8')).filter(x=>x.bank==='practice');
+          const used=new Set();let merged=0;for(const x of [...canon,...items]){const r=convert(x);if(r.ok&&!used.has(r.stem)){used.add(r.stem);merged++}}
+          console.log('CANON',canon.length,'MERGED UNIQUE',merged);
+          NODE
