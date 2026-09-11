@@ -2,15 +2,15 @@ YEAR 9 MATHEMATICS — IXL / KHAN CURRICULUM RESEARCH MASTER
 Australian Curriculum Version 9.0 | SkillrHub
 Last updated: 2026-09-11
 
-PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M9P01
-LAST_COMPLETED_CODE: AC9M9ST05
-NEXT_CODE: AC9M9P01
+PROJECT_STATUS: RESEARCH_COMPLETE
+CURRENT_PHASE: RESEARCH_COMPLETE
+CURRENT_CODE: NONE
+LAST_COMPLETED_CODE: AC9M9P03
+NEXT_CODE: NONE
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 4 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M9ST01–AC9M9ST05)
+BATCH: FINAL RESEARCH BATCH COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M9P01–AC9M9P03)
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of every Year 9 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Australian Curriculum v9/QCAA sets scope. IXL and Khan examples inform pedagogy only; all SkillrHub content must be original.
@@ -754,6 +754,120 @@ P01–P08 questions/variables; P09–P16 populations/sampling; P17–P24 collect
 16-TEST BLUEPRINT
 T01–T04 plan; T05–T08 analyse; T09–T12 investigation decisions; T13–T16 report/evaluate/refine.
 
+
+==============================================================================
+AC9M9P01 — COMPOUND-EVENT SAMPLE SPACES WITH AND WITHOUT REPLACEMENT
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+List all outcomes for compound events both with and without replacement, using lists, tree diagrams, tables or arrays; assign probabilities to outcomes.
+
+CURRICULUM BOUNDARY
+Treat outcomes as ordered where sequence matters; build complete sample spaces with systematic lists, trees, tables or arrays; distinguish equally likely from merely listed outcomes; label branch/outcome probabilities; update the second-stage denominator and favourable count without replacement; multiply along a path and add mutually exclusive target paths. Do not assume product-rule independence when composition changes.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Direct mappings: Y.4 Sample spaces for compound events; Y.5 Compound events: find the number of outcomes; Y.6–Y.7 independent/dependent events and probabilities.
+Y.5 example actually opened: choose one of four marble colours (pink, orange, purple, green) and flip a coin. IXL creates two branches from each colour, lists PiH, PiT, OH, OT, PuH, PuT, GH, GT and counts 8 outcomes. It makes systematic branching and ordered outcomes explicit.
+Y.7 example actually opened: draw from cards 1,2,3,4 without replacement, first a 1 then a divisor of 24. IXL computes P(1)=1/4, updates the remaining set to 2,3,4 so the conditional second probability is 3/3, multiplies 1/4×3/3=3/12=25%. The example directly shows why branch probabilities change.
+Progression: single sample spaces → Cartesian product → lists/tables/arrays → trees → equally/unequally likely outcomes → with replacement → without replacement → target-event path sums.
+Misconceptions: unordered combinations replace ordered outcomes; multiplying counts instead of probabilities; all displayed outcomes are equally likely; replacement means drawing an extra object; denominator stays fixed without replacement; add along one path; forget alternative successful paths; duplicate/omit outcomes.
+
+KHAN / TRUSTED CROSS-CHECK
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+Authenticated Khan Statistics and probability Unit 7 “Sample spaces for compound events” transcript defines a sample space and represents cupcake flavour×size outcomes by tree, grid and table. It produces 3×3=9 outcomes and explicitly warns that a sample space lists possibilities but does not guarantee equal likelihood. Khan’s adjacent dependent-probability sequence covers changing branch probabilities.
+https://www.khanacademy.org/math/statistics-probability/probability-library/multiplication-rule-independent/v/compound-sample-spaces
+Maths Is Fun distinguishes replacement/independence from no-replacement/dependence and demonstrates changing card probabilities: https://www.mathsisfun.com/data/probability-events-types.html
+Its tree guide confirms multiply along branches, add target paths and check total probability 1: https://www.mathsisfun.com/data/probability-tree-diagrams.html
+
+AUTHORING TRANSFER
+Topic Page: representation comparison; outcome-order rule; branch labelling; replacement decision; multiply/add rules; probability-sum check; paired with/without example.
+Classroom View: human tree diagram, table-to-tree conversion, bag redraw simulation, missing-outcome/error clinic and two-method verification.
+Homework: construct all four representations, assign probabilities, solve with/without replacement, compare results and justify denominator changes.
+Feedback: define stages, decide whether order matters, list exhaustively, update composition after each no-replacement draw, multiply one path, add disjoint successful paths and check total 1.
+
+48-PRACTICE BLUEPRINT
+P01–P08 vocabulary/single spaces; P09–P16 systematic lists/tables; P17–P24 trees/arrays; P25–P32 with replacement; P33–P40 without replacement; P41–P48 mixed target events, equivalence and errors.
+16-TEST BLUEPRINT
+T01–T04 represent outcomes; T05–T08 assign probabilities; T09–T12 independent no-replacement problems; T13–T16 compare, justify and diagnose.
+
+==============================================================================
+AC9M9P02 — RELATIVE FREQUENCY FOR AND, INCLUSIVE OR AND EXCLUSIVE OR
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Calculate relative frequencies from given or collected data to estimate probabilities of events involving “and”, inclusive “or” and exclusive “or”.
+
+CURRICULUM BOUNDARY
+Use frequency tables, two-way tables, Venn diagrams and collected trials; calculate relative frequency as event count/total; interpret intersection as “and”; distinguish inclusive “or” (A or B or both) from exclusive “or” (exactly one); avoid double-counting overlap using n(A∪B)=n(A)+n(B)−n(A∩B); estimate rather than assert theoretical probability and preserve the relevant denominator.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Direct mappings: Y.2 Experimental probability; Y.3 Find probabilities using two-way frequency tables; supported by AA.1–AA.2 sets, complements, unions and intersections.
+Y.2 example actually opened: a band sold out 6 of its last 10 shows. IXL defines experimental probability as successes/total trials and simplifies 6/10 to 3/5 as the estimate for the next show.
+Y.3 Learn-with-an-example was opened in the same IXL tab; its two-way-table prompt is image-rendered and exposes no reliable text, so no invented values are recorded. The mapping and intended table/intersection structure are verified, while inclusive/exclusive language must be strengthened during authoring.
+Progression: counts → relative frequency → table/Venn regions → AND/intersection → exclusive OR → inclusive OR/addition rule → complement/check → estimates and contextual prediction.
+Misconceptions: relative frequency equals theoretical probability exactly; use a row total when the question is unconditional; AND means add; inclusive OR excludes overlap; exclusive OR includes both; add A and B without subtracting intersection; divide by favourable total; percentages from different denominators can be combined directly.
+
+KHAN / TRUSTED CROSS-CHECK
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+Authenticated Khan “Addition rule for probability” transcript uses 8 green cubes, 9 green spheres, 5 yellow cubes and 7 yellow spheres (29 total). It obtains P(cube)=13/29, P(yellow)=12/29, P(yellow AND cube)=5/29 and P(yellow OR cube)=(12+13−5)/29=20/29, explaining that the overlap is subtracted because it was counted twice. It contrasts overlapping and mutually exclusive sets.
+https://www.khanacademy.org/math/statistics-probability/probability-library/addition-rule-lib/v/addition-rule-for-probability
+Khan’s authenticated course also exposes the exercise “Two-way tables, Venn diagrams, and probability” and the Experimental probability unit.
+Maths Is Fun defines independent, dependent and mutually exclusive events and contrasts overlapping Hearts/Kings with non-overlapping Aces/Kings: https://www.mathsisfun.com/data/probability-events-types.html
+Maths Is Fun also stresses observed results fluctuate around expected probability: https://www.mathsisfun.com/data/probability.html
+
+AUTHORING TRANSFER
+Topic Page: relative-frequency model; denominator decision; two-way/Venn translation; AND/inclusive-OR/exclusive-OR region shading; overlap-subtraction derivation; estimate language.
+Classroom View: student-generated trials, stand-in Venn regions, two-way-table colour coding, inclusive/exclusive language sort and double-counting clinic.
+Homework: calculate from raw/table/Venn data, compare estimates, solve AND/OR cases, convert fractions/decimals/percentages and justify.
+Feedback: mark the required region, use the relevant total, include overlap once for inclusive OR, exclude it for exclusive OR, label result an estimate and check 0≤P≤1.
+
+48-PRACTICE BLUEPRINT
+P01–P08 relative frequency; P09–P16 tables; P17–P24 AND; P25–P32 exclusive OR; P33–P40 inclusive OR/addition rule; P41–P48 collected-data predictions and errors.
+16-TEST BLUEPRINT
+T01–T04 calculate estimates; T05–T08 table/Venn events; T09–T12 independent mixed AND/OR; T13–T16 interpretation, justification and diagnosis.
+
+==============================================================================
+AC9M9P03 — REPEATED CHANCE EXPERIMENTS AND DIGITAL SIMULATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Design and conduct repeated chance experiments and simulations, using digital tools to compare probabilities of simple events to related compound events, and describe results.
+
+CURRICULUM BOUNDARY
+Translate a real situation into a fair physical or digital random mechanism whose outcome probabilities and number/order of stages match the situation; distinguish one trial from many repetitions; collect and aggregate results; compute relative frequencies; compare simple-event and related compound-event estimates with theoretical values; examine with/without replacement; describe variation, convergence and limitations. Formal proof of the law of large numbers is outside scope.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Direct mapping: Y.8 Which simulation represents the situation? (new), supported by Y.1–Y.7 theoretical/experimental and compound probability.
+Y.8 Learn-with-an-example was opened and visually inspected. Scenario: Celine’s hockey team has a 50% chance of winning each match, plays 4 Saturday matches, and must win at least 3. IXL selects “flip a coin 4 times; heads represents a win.” It rejects 3 red/3 blue marbles drawn with replacement 5 times because the trial has 5 stages, and rejects generating 4 numbers from 1–3 with 3 as a win because P(win)=1/3 rather than 1/2. The method checks both probability match and stage count.
+Progression: model a simple event → match outcome probabilities → match number of stages/replacement → repeat trials → record compound success criterion → calculate relative frequencies → compare simple/compound → increase repetitions → explain variation/convergence → evaluate model.
+Misconceptions: any random device is fair for any context; matching 50% but wrong trial length is acceptable; one run estimates probability reliably; “at least 3” means exactly 3; simple and compound probabilities can be compared without common trial definitions; more trials force exact equality; simulation proves future outcomes; replacement can be ignored.
+
+KHAN / TRUSTED CROSS-CHECK
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+Authenticated Khan “Experimental versus theoretical probability simulation” transcript runs a digital fair-coin model. After 1 flip the observed head rate is 100%, after 3 it is 1/3, after 5 it is 3/5, and even about 215 flips can remain visibly away from 50%; by roughly 1,210 trials the running proportion is close to 50%. Khan explains that more trials reduce the chance of large divergence but do not make divergence impossible.
+https://www.khanacademy.org/math/statistics-probability/probability-library/randomness-probability-and-simulation/v/experimental-versus-theoretical-probability-simulation
+Maths Is Fun’s probability resource defines experiment, trial, outcome, sample space and illustrates repeated two-dice trials; it warns probability is a guide rather than an exact prediction: https://www.mathsisfun.com/data/probability.html
+Maths Is Fun’s event-types resource clarifies compound, dependent and replacement structures: https://www.mathsisfun.com/data/probability-events-types.html
+
+AUTHORING TRANSFER
+Topic Page: simulation-design checklist; fair mapping table; trial versus repetition; digital spreadsheet/random-number workflow; simple-to-compound comparison; running-frequency graph; convergence and limitation language.
+Classroom View: critique three simulations, run small/large trial batches, combine class results, graph running frequency, compare replacement conditions and report uncertainty.
+Homework: design mechanisms, identify unfair models, conduct or interpret simulations, calculate frequencies, compare simple/compound estimates and explain limitations.
+Feedback: match each simulated outcome and probability, match stages and replacement, state the compound success rule before running, record enough repetitions, compare on consistent denominators and describe variation without claiming certainty.
+
+48-PRACTICE BLUEPRINT
+P01–P08 experiment/trial/model vocabulary; P09–P16 match mechanisms; P17–P24 compound success rules; P25–P32 collect/relative frequency; P33–P40 digital results and convergence; P41–P48 compare, critique and redesign.
+16-TEST BLUEPRINT
+T01–T04 choose a fair model; T05–T08 interpret repeated results; T09–T12 independent design/comparison; T13–T16 convergence, limitations and refinement.
+
+==============================================================================
+FINAL PROBABILITY BATCH INTERACTIVE QA CHECK — 2026-09-11
+- Three remaining codes completed: AC9M9P01–AC9M9P03; the Year 9 Mathematics inventory contains 23 codes total, so no fourth or fifth code exists in this run.
+- One authenticated IXL Australia tab was used sequentially. Actual Learn-with-an-example evidence covers compound outcome counting, changing probabilities without replacement, experimental probability and simulation-model validity.
+- One authenticated Khan Academy tab was used sequentially. Actual transcripts cover compound sample spaces, the inclusive-OR addition rule and experimental-versus-theoretical simulation convergence.
+- Australian Curriculum v9/QCAA sets scope. Maths Is Fun independently corroborates event types, replacement, trees, repeated experiments and probability language.
+- All 23 Year 9 Mathematics codes are now AUTHORING-READY. No code was marked ready from catalogue mapping alone.
+
 ==============================================================================
 BATCH 4 INTERACTIVE QA CHECK — 2026-09-11
 - Five codes completed: AC9M9ST01–AC9M9ST05.
@@ -803,4 +917,4 @@ BATCH 1 INTERACTIVE QA CHECK — 2026-09-11
 - All five codes are genuinely AUTHORING-READY.
 
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M9P01. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+All 23 Year 9 Mathematics codes are AUTHORING-READY. Research is complete. Begin the separate authoring run code by code; do not repeat research unless a source or curriculum descriptor materially changes.
