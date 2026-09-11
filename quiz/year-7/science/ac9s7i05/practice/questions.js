@@ -1,236 +1,53 @@
 "use strict";
-window.skillrPracticeQuestions = [
-  {
-    "id": "ac9s7i05-p-001",
-    "curriculumCode": "AC9S7I05",
-    "bank": "practice",
-    "skill": "calculate a mean",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating calculate a mean. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating calculate a mean. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Acceleration increased by about 0.5 m/s² per newton under the controlled conditions",
-      "Anomaly deleted automatically",
-      "Investigate and document",
-      "General direction of change"
-    ],
-    "correct": 0,
-    "explanation": "Acceleration increased by about 0.5 m/s² per newton under the controlled conditions\nHint: Investigate and document.",
-    "structuredExplanation": {
-      "summary": "Acceleration increased by about 0.5 m/s² per newton under the controlled conditions",
-      "hint": "Investigate and document."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i05-p-002",
-    "curriculumCode": "AC9S7I05",
-    "bank": "practice",
-    "skill": "describe a trend",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating describe a trend. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating describe a trend. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Trend described without numbers",
-      "The 2.30 result may reflect error or real variation. Investigate method and instrument before excluding it; report any decision.",
-      "Quantify rate or difference where possible",
-      "General direction of change"
-    ],
-    "correct": 1,
-    "explanation": "The 2.30 result may reflect error or real variation. Investigate method and instrument before excluding it; report any decision.\nHint: Quantify rate or difference where possible.",
-    "structuredExplanation": {
-      "summary": "The 2.30 result may reflect error or real variation. Investigate method and instrument before excluding it; report any decision.",
-      "hint": "Quantify rate or difference where possible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i05-p-003",
-    "curriculumCode": "AC9S7I05",
-    "bank": "practice",
-    "skill": "investigate anomaly",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating investigate anomaly. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating investigate anomaly. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mean calculated before checking units/missing data",
-      "Clean first",
-      "Use measures and graph features rather than vague language. Association does not by itself prove mechanism or causation.",
-      "General direction of change"
-    ],
-    "correct": 2,
-    "explanation": "Use measures and graph features rather than vague language. Association does not by itself prove mechanism or causation.\nHint: Clean first.",
-    "structuredExplanation": {
-      "summary": "Use measures and graph features rather than vague language. Association does not by itself prove mechanism or causation.",
-      "hint": "Clean first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i05-p-004",
-    "curriculumCode": "AC9S7I05",
-    "bank": "practice",
-    "skill": "quantify relationship",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating quantify relationship. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating quantify relationship. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Conclusion extends beyond conditions",
-      "State scope",
-      "General direction of change",
-      "Analysis transforms observations into defensible patterns by using transparent calculations, comparisons, uncertainty and attention to anomalous values."
-    ],
-    "correct": 3,
-    "explanation": "Analysis transforms observations into defensible patterns by using transparent calculations, comparisons, uncertainty and attention to anomalous values.\nHint: State scope.",
-    "structuredExplanation": {
-      "summary": "Analysis transforms observations into defensible patterns by using transparent calculations, comparisons, uncertainty and attention to anomalous values.",
-      "hint": "State scope."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i05-p-005",
-    "curriculumCode": "AC9S7I05",
-    "bank": "practice",
-    "skill": "write a limited conclusion",
-    "printable": true,
-    "type": "single",
-    "question": "Which statement correctly identifies anomaly in analysing patterns, trends and relationships?",
-    "audioPrompt": "Which statement correctly identifies anomaly in analysing patterns, trends and relationships?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Acceleration increased by about 0.5 m/s² per newton under the controlled conditions",
-      "Anomaly deleted automatically",
-      "Investigate and document",
-      "General direction of change"
-    ],
-    "correct": 0,
-    "explanation": "Acceleration increased by about 0.5 m/s² per newton under the controlled conditions\nHint: Investigate and document.",
-    "structuredExplanation": {
-      "summary": "Acceleration increased by about 0.5 m/s² per newton under the controlled conditions",
-      "hint": "Investigate and document."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i05-p-006",
-    "curriculumCode": "AC9S7I05",
-    "bank": "practice",
-    "skill": "calculate a mean",
-    "printable": true,
-    "type": "single",
-    "question": "Which choice best describes data processing in analysing patterns, trends and relationships?",
-    "audioPrompt": "Which choice best describes data processing in analysing patterns, trends and relationships?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Trend described without numbers",
-      "The 2.30 result may reflect error or real variation. Investigate method and instrument before excluding it; report any decision.",
-      "Quantify rate or difference where possible",
-      "General direction of change"
-    ],
-    "correct": 1,
-    "explanation": "The 2.30 result may reflect error or real variation. Investigate method and instrument before excluding it; report any decision.\nHint: Quantify rate or difference where possible.",
-    "structuredExplanation": {
-      "summary": "The 2.30 result may reflect error or real variation. Investigate method and instrument before excluding it; report any decision.",
-      "hint": "Quantify rate or difference where possible."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i05-p-007",
-    "curriculumCode": "AC9S7I05",
-    "bank": "practice",
-    "skill": "describe a trend",
-    "printable": true,
-    "type": "single",
-    "question": "What does correct use require for trend in analysing patterns, trends and relationships?",
-    "audioPrompt": "What does correct use require for trend in analysing patterns, trends and relationships?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Mean calculated before checking units/missing data",
-      "Clean first",
-      "Use measures and graph features rather than vague language. Association does not by itself prove mechanism or causation.",
-      "General direction of change"
-    ],
-    "correct": 2,
-    "explanation": "Use measures and graph features rather than vague language. Association does not by itself prove mechanism or causation.\nHint: Clean first.",
-    "structuredExplanation": {
-      "summary": "Use measures and graph features rather than vague language. Association does not by itself prove mechanism or causation.",
-      "hint": "Clean first."
-    },
-    "qualitySchema": "production-v1"
-  },
-  {
-    "id": "ac9s7i05-p-008",
-    "curriculumCode": "AC9S7I05",
-    "bank": "practice",
-    "skill": "investigate anomaly",
-    "printable": true,
-    "type": "single",
-    "question": "A Year 7 student is investigating investigate anomaly. Which option is scientifically valid and best supported?",
-    "audioPrompt": "A Year 7 student is investigating investigate anomaly. Which option is scientifically valid and best supported?",
-    "visual": "",
-    "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      "Conclusion extends beyond conditions",
-      "State scope",
-      "General direction of change",
-      "Analysis transforms observations into defensible patterns by using transparent calculations, comparisons, uncertainty and attention to anomalous values."
-    ],
-    "correct": 3,
-    "explanation": "Analysis transforms observations into defensible patterns by using transparent calculations, comparisons, uncertainty and attention to anomalous values.\nHint: State scope.",
-    "structuredExplanation": {
-      "summary": "Analysis transforms observations into defensible patterns by using transparent calculations, comparisons, uncertainty and attention to anomalous values.",
-      "hint": "State scope."
-    },
-    "qualitySchema": "production-v1"
-  }
+const q=(n,skill,question,answers,correct,explanation,hint)=>({id:`ac9s7i05-p-${String(n).padStart(3,"0")}`,curriculumCode:"AC9S7I05",bank:"practice",skill,printable:true,type:"single",question,audioPrompt:question,visual:"",visualHtml:"",visualMeta:{type:"none",alt_text:""},answers,correct,explanation,structuredExplanation:{summary:explanation,hint},qualitySchema:"production-v1"});
+window.skillrPracticeQuestions=[
+q(1,"pattern","Which statement describes a pattern rather than a single data point?",["The predator population rises and falls in a repeating cycle","There were 12 predators in June","One reading was 8.2°C","Trial 3 took 14 s"],0,"A pattern is a repeated arrangement or regularity across several observations.","Look beyond one value."),
+q(2,"trend","Temperatures are 18, 20, 22, 24 and 26°C across five days. What trend is shown?",["An increasing trend","A decreasing trend","No trend","A cyclic trend"],0,"The values increase overall through time.","Describe the overall direction."),
+q(3,"relationship","When mass doubles from 6 kg to 12 kg at the same speed and kinetic energy doubles from 12 J to 24 J, what relationship is suggested?",["Kinetic energy increases with mass when speed is held constant","Kinetic energy decreases with mass","There is no relationship","Mass is caused by kinetic energy"],0,"The controlled comparison shows a positive relationship between mass and kinetic energy under the stated condition.","State the variables and direction."),
+q(4,"anomaly","Data are 10.1, 10.3, 10.2, 17.8 and 10.2. Which value is the most obvious anomaly?",["17.8","10.1","10.2","10.3"],0,"17.8 is far from the cluster of the other values.","Identify the point inconsistent with the pattern."),
+q(5,"anomaly response","What should happen after finding an anomalous value?",["Check recording, units, method and instrument before deciding whether to retain or exclude it","Delete it immediately","Change it to the mean","Ignore all other data"],0,"Anomalies should be investigated before any exclusion is justified.","Check first, decide second."),
+q(6,"mean","What is the mean of 4, 6 and 8?",["6","18","2","8"],0,"The mean is (4+6+8)/3 = 6.","Add then divide by the number of values."),
+q(7,"range","What is the range of 4, 6 and 8?",["4","6","12","2"],0,"Range = highest − lowest = 8 − 4 = 4.","Use maximum minus minimum."),
+q(8,"noise","A dataset generally rises but has small up-and-down fluctuations. What is the best description?",["An overall increasing trend with short-term variation","No trend because every point does not rise","A perfect straight line","A cyclic pattern automatically"],0,"A trend describes overall direction, not identical movement at every step.","Focus on overall behaviour."),
+q(9,"cyclic","Rabbit numbers rise, then fox numbers rise later, then rabbits fall and foxes later fall. What kind of pattern is this?",["A repeating predator–prey cycle with a time lag","A constant trend","No relationship","A single anomaly"],0,"The repeated rises and falls with lag are characteristic of a predator–prey cycle.","Look for repeated sequence and delay."),
+q(10,"evidence statement","Which is the strongest analysis sentence?",["As temperature rose from 20°C to 40°C, dissolving time fell from 90 s to 42 s, showing a negative relationship over this range.","The graph goes down.","Hot water is better.","Temperature causes everything to dissolve instantly."],0,"Strong analysis names variables, direction and quantitative evidence without overclaiming.","Quote at least two values."),
+q(11,"correlation","A scatter plot shows taller plants tend to have larger leaf area. What can be concluded?",["The variables are positively associated; causation is not established by the plot alone","Height definitely causes leaf area","Leaf area definitely causes height","There is no relationship"],0,"A scatter relationship supports association, not automatic causation.","Separate correlation from cause."),
+q(12,"causation","Why can an observational relationship fail to prove causation?",["Other variables may explain both measurements and the study did not control them experimentally","Relationships are never useful","Graphs cannot show patterns","Observational data have no values"],0,"Confounding factors can create associations without direct causation.","Ask what else could affect both variables."),
+q(13,"flat trend","Values vary around 20 with no consistent rise or fall. What is the best description?",["No clear overall trend despite measurement variation","Perfectly constant data","Strong increasing trend","A guaranteed anomaly"],0,"A flat overall pattern can still contain ordinary variation.","No trend does not mean identical values."),
+q(14,"group comparison","Treatment A means are around 12 cm and Treatment B around 18 cm. What is the first analytical statement?",["Plants in Treatment B were generally taller than those in Treatment A","Treatment B definitely caused greater growth","Every B plant must be taller than every A plant","The groups cannot be compared"],0,"Start by describing the observed group difference before making causal claims.","Describe evidence before explanation."),
+q(15,"overlap","Two treatment groups have overlapping ranges. What does this suggest?",["Individual values vary and the group difference may not be complete or absolute","The means must be identical","There is no possible difference","All data should be deleted"],0,"Overlap shows within-group variation and should qualify broad claims.","Use spread as well as averages."),
+q(16,"repeat trials","Why analyse all repeat measurements rather than only the best one?",["Repeats reveal variability and reduce the risk of conclusions based on an unusual trial","The largest value is always correct","Only one trial can be graphed","Repeats prove causation"],0,"Repeated evidence helps judge consistency and anomalies.","Use the full dataset."),
+q(17,"secondary data","When analysing rainfall data from a government source, what should be checked?",["Units, dates, location, source and any changes in measurement method","Only the colour of the website","The number of comments","Whether every year is identical"],0,"Context and provenance affect how a dataset should be interpreted.","Know what, where and how data were collected."),
+q(18,"time trend","A river’s nitrate concentration falls from 9 to 5 mg/L over six months. Which statement is safest?",["There was a decreasing trend during the measured period","Nitrate will reach zero next month","One policy definitely caused the fall","The river is now pollution-free"],0,"Describe the observed trend without unsupported prediction or causation.","Bound the claim to the measured period."),
+q(19,"prediction","A clear linear trend has continued across the measured range. What kind of prediction is most defensible?",["A cautious interpolation within the observed range","A guaranteed forecast decades beyond the data","A causal statement with no experiment","Ignoring uncertainty"],0,"Predictions are stronger within the range supported by evidence than far beyond it.","Interpolation is safer than extreme extrapolation."),
+q(20,"extrapolation","Why is extrapolation beyond the measured range risky?",["The relationship may change outside the observed conditions","It always gives the true value","The graph scale becomes illegal","It removes anomalies"],0,"Patterns observed within one range may not continue indefinitely.","Do not assume the same relationship forever."),
+q(21,"anomaly cause","An unusual reading appears after a sensor battery warning. What should be considered?",["Instrument malfunction as a plausible explanation","The anomaly proves a new law","The rest of the data must be wrong","Battery status is irrelevant"],0,"Method context can explain some anomalies and should be checked.","Link anomaly to possible measurement issue."),
+q(22,"real anomaly","An unusual ecological observation is repeated by several independent teams. What should scientists consider?",["It may represent a real rare event rather than a mistake","It must still be deleted","Repeated observations cannot be anomalous","It proves all previous data false"],0,"Anomalies can be genuine and scientifically important if they withstand checking.","Not every outlier is an error."),
+q(23,"mean limitation","Why can a mean hide important information?",["Different datasets can have the same mean but very different spread or anomalies","Means are never useful","Means always reveal every raw value","A mean proves causation"],0,"Summary statistics should be interpreted alongside raw variation.","Look at spread and shape too."),
+q(24,"range limitation","Why is range alone a limited summary of spread?",["It depends only on the highest and lowest values and ignores how other data are distributed","It uses every value equally","It proves the mean","It can never identify variation"],0,"Range is simple but does not describe the full distribution.","It uses only two values."),
+q(25,"graph/table conflict","A graph appears to show a rise, but the table shows the plotted points were entered in the wrong order. What should be trusted?",["Correct the representation using the raw table and reanalyse the trend","Keep the graph because graphs are more visual","Delete the table","Average the graph"],0,"Conflicting representations should be checked against the underlying raw data.","Verify the source representation."),
+q(26,"percentage","A population rises from 100 to 120. What is the percentage increase?",["20%","120%","10%","2%"],0,"Increase = 20, and 20/100 × 100% = 20%.","Compare change with the starting value."),
+q(27,"rate","A plant grows 12 cm in 6 days. What is the average growth rate?",["2 cm/day","72 cm/day","6 cm/day","0.5 cm/day"],0,"Average rate = change/time = 12/6 = 2 cm per day.","Divide change by time."),
+q(28,"positive relationship","What does a positive relationship mean?",["As one variable increases, the other tends to increase","Both variables are always positive numbers","One variable causes the other","There are no anomalies"],0,"Positive relationship describes co-increase, not causation.","Direction, not proof of cause."),
+q(29,"negative relationship","What does a negative relationship mean?",["As one variable increases, the other tends to decrease","Both values are negative","There is no pattern","The variables are identical"],0,"Negative relationship describes opposite directions of change.","One up, the other tends down."),
+q(30,"no relationship","A scatter plot shows points with no visible direction. What is the best conclusion?",["No clear relationship is evident in this dataset","The variables are proven unrelated in all conditions","One variable definitely causes the other","All points are anomalies"],0,"Absence of a visible pattern in one dataset should be stated cautiously.","Bound the claim to the data."),
+q(31,"cyclic vs trend","How does a cyclic pattern differ from a trend?",["A cycle repeats, while a trend describes an overall direction across ordered data","They are identical","A trend must repeat exactly","A cycle has no pattern"],0,"Cycles repeat through phases; trends summarise directional change.","Look for repetition versus direction."),
+q(32,"anomaly effect","Can one anomaly weaken a trend?",["Yes, especially in a small dataset, but its influence depends on context and whether it is genuine","No anomaly ever matters","Any anomaly destroys all evidence","Anomalies should always be averaged away"],0,"Anomalies can qualify confidence without automatically invalidating the pattern.","Judge size, sample and plausibility."),
+q(33,"small sample","Why be cautious about a trend based on only three measurements?",["Few data points may not represent normal variation or a stable pattern","Three points can never be graphed","Small samples always prove causation","A mean cannot be calculated"],0,"Limited data provide less evidence for a general pattern.","More representative evidence can strengthen confidence."),
+q(34,"large sample","Why can a larger sample strengthen analysis?",["It can better represent natural variation and reduce influence of unusual individuals","It guarantees no bias","It removes systematic error","It proves causation"],0,"More representative data can reduce the influence of chance variation.","Sample size helps, but does not fix every flaw."),
+q(35,"independent evidence","Two independent datasets show the same trend. What changes?",["Confidence in the trend may increase if both datasets are high quality","The trend becomes a law automatically","Uncertainty disappears","Only the larger dataset matters"],0,"Corroborating evidence can strengthen confidence without creating certainty.","Check quality as well as agreement."),
+q(36,"conflicting evidence","Two good datasets show different trends. What is the best response?",["Compare methods, samples, locations and time periods before deciding why they differ","Choose the trend you prefer","Average both datasets immediately","Assume both are useless"],0,"Conflicting evidence should be investigated for contextual or methodological differences.","Compare before judging."),
+q(37,"qualitative pattern","Which is a qualitative pattern?",["Leaves at shaded sites were generally darker green than leaves at sunny sites","Mean mass was 4.2 g","Time increased by 12 s","Temperature fell 5°C"],0,"Qualitative analysis describes non-numerical patterns in observations.","Not all patterns require numbers."),
+q(38,"quantitative pattern","Which is a quantitative statement?",["Mean height increased from 12.4 cm to 18.1 cm","Plants looked healthier","Leaves seemed greener","The soil felt dry"],0,"Quantitative analysis uses numerical evidence.","Use measured values."),
+q(39,"evidence support","Why should an analysis quote data values?",["Values show exactly what evidence supports the stated pattern or trend","Numbers make any conclusion true","Every sentence needs all raw data","Values replace reasoning"],0,"Specific evidence makes an analysis testable and transparent.","Support claims with representative values."),
+q(40,"cause wording","Which wording is safest for an observational study?",["Higher temperature was associated with lower dissolved oxygen","Higher temperature caused all oxygen loss","Temperature proved the ecosystem was unhealthy","No relationship exists"],0,"Association language avoids claiming causation from observational evidence alone.","Use linked/associated unless design supports cause."),
+q(41,"outlier deletion","When is excluding an anomalous value most defensible?",["When there is documented evidence of a measurement or recording failure and the decision is explained","Whenever it changes the mean","Whenever it looks inconvenient","Always before graphing"],0,"Exclusion needs a specific, evidence-based justification.","Do not delete based on appearance alone."),
+q(42,"retain anomaly","When should an unusual value be retained?",["When no measurement error is found and it may represent genuine variation","Whenever it is the largest","Only if it supports the hypothesis","Never"],0,"Real unusual observations belong in the evidence unless exclusion is justified.","Genuine variation matters."),
+q(43,"raw vs mean","Which statement best uses both raw data and a mean?",["The mean summarises the centre, while raw repeats show spread and anomalies","The mean replaces every raw value","Raw data are unnecessary after averaging","Only the largest repeat matters"],0,"Strong analysis uses summary values without losing information about variation.","Use both summary and raw evidence."),
+q(44,"prediction qualifier","Which prediction is best?",["If the observed trend continues within the tested range, the next value is likely to be slightly higher","The next value will definitely double","The trend will continue forever","The anomaly proves the opposite"],0,"Predictions should be qualified and tied to the range and strength of the pattern.","Use cautious language."),
+q(45,"data completeness","Before analysing a dataset, what should be checked?",["Missing values, units, transcription errors and whether all trials are present","Only the graph colour","Whether the hypothesis was supported","Whether the mean is large"],0,"Basic data-quality checks should precede interpretation.","Check the evidence before analysing it."),
+q(46,"trend synthesis","Which sequence best describes strong data analysis?",["Identify variables → describe pattern/trend/relationship → support with values → check anomalies → qualify conclusion","Choose conclusion → delete inconvenient values → draw graph","Average everything → assume causation","Find one high value → call it a trend"],0,"Good analysis moves from evidence to a qualified interpretation.","Evidence first, conclusion second."),
+q(47,"pattern terminology","Which statement is most accurate?",["A pattern is a regular feature; a trend is overall direction; a relationship links variables; an anomaly departs from the pattern","All four terms mean the same thing","Anomaly means error","Trend means one large value"],0,"The terms describe different features of data and should be used precisely.","Use the right analytical word."),
+q(48,"gravity data","An experiment compares gravitational force on objects of 1, 2, 3 and 4 kg and finds 9.8, 19.6, 29.4 and 39.2 N. What pattern is shown?",["Force increases in direct proportion to mass in this dataset","Force decreases with mass","No relationship","Mass is caused by force"],0,"The force rises by 9.8 N for each additional kilogram, showing a direct proportional pattern.","Look at equal changes.")
 ];
-window.quizQuestions = window.skillrPracticeQuestions;
+window.quizQuestions=window.skillrPracticeQuestions;
