@@ -10,7 +10,7 @@ NEXT_CODE: AUTHORING_AC9M7N01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: TARGETED KHAN EVIDENCE RERUN IN PROGRESS — A03–M01 VERIFIED
+BATCH: TARGETED IXL/KHAN EVIDENCE RERUN IN PROGRESS — M02–M06 VERIFIED
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -672,14 +672,16 @@ Use V=area of constant cross-section × prism length/height. Include rectangular
 
 IXL MAPPING AND LIVE EVIDENCE
 Mappings: “Volume of cubes and rectangular prisms”; corresponding word problems; “Volume of triangular prisms”.
-IXL worked-example panels were opened sequentially but the 3D diagrams/formula text were not exposed in the accessibility snapshot: mappings recorded, no fabricated item wording.
+IXL Learn-with-an-example was reopened and inspected. A triangular prism has triangle base 10 cm, perpendicular height 9 cm and prism length 9 cm. IXL identifies all three dimensions, applies V=½×base×height×length, calculates ½×10×9×9=405 and states 405 cm³. The live question then varies dimensions to 4 mm, 2 mm and 7 mm with distractors 27, 28, 29 and 38 mm³, targeting the omitted-half and arithmetic traps.
 Direct URLs: https://au.ixl.com/maths/year-7/volume-of-cubes-and-rectangular-prisms ; https://au.ixl.com/maths/year-7/volume-of-triangular-prisms
 Expected evidence family: identify cross-section, calculate base area, multiply by prism length, attach cubic units, interpret capacity/packing.
 Misconceptions: using surface area; forgetting ½ for triangular base; multiplying only two dimensions; using square units; confusing vertical picture dimension with perpendicular triangle height; inconsistent units.
 
 KHAN / TRUSTED EVIDENCE
-Khan “Volume of triangular prism & cube” states triangular-prism volume as triangle area (½×base×height) times depth and cube/rectangular-prism volume from three dimensions: https://www.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-volume-rect-prism/v/solid-geometry-volume
-Australian Curriculum/QCAA control right-prism scope.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Volume of triangular prism & cube” transcript was inspected. For a triangular prism with triangle base 7, perpendicular height 3 and prism length 4, it calculates the cross-sectional area ½×7×3 and multiplies by depth 4 to obtain 42 cubic units. A cube with side 3 is treated as base area 3×3 times depth 3, giving 27=3³. The method generalises to volume = constant cross-sectional area × prism length and preserves cubic units.
+https://www.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-volume-rect-prism/v/solid-geometry-volume
+Authoring implications: identify the repeated cross-section first, distinguish its perpendicular height from sloping edges, include rectangular/triangular and missing-dimension cases, and target omission of ½, surface-area confusion and square-unit answers.
 
 AUTHORING TRANSFER
 Topic Page: build rectangular prism from unit cubes; generalise V=Ah; apply to triangular cross-section; contrast area units vs volume units; include litres/cm³ connection only where carefully supported.
@@ -706,15 +708,16 @@ CURRICULUM BOUNDARY
 Name centre, radius, diameter and circumference; establish d=2r and π=C/d; use C=πd=2πr; measure circles, compare experimental ratios and solve direct/reverse contextual problems. Circle area is not required by this descriptor.
 
 IXL MAPPING AND LIVE EVIDENCE
-Year 7 direct mapping: “Parts of a circle”. IXL Year 7 has no direct circumference/π skill in its displayed list: SOURCE-NOT-MAPPED for the crucial π ratio/formula component. The worked panel for parts of a circle was opened; diagram labels were visually rendered but not text-exposed.
+Year 7 direct mapping: “Parts of a circle”. IXL Year 7 has no direct circumference/π skill in its displayed list: SOURCE-NOT-MAPPED for the crucial π ratio/formula component. The worked panel for parts of a circle was reopened and inspected. For labelled point Y, IXL states that all points on a circle are equally distant from its centre; a chord joins two circle points; a diameter is a chord through the centre; and a radius joins the centre to the circle. It then identifies Y as the centre. This verifies vocabulary/feature recognition, while the π ratio remains an explicit IXL mapping gap.
 Direct URL: https://au.ixl.com/maths/year-7/parts-of-a-circle
 Question-bank design must not inherit IXL’s mapping gap; the AC descriptor requires π, circumference, radius and diameter relationships.
 Misconceptions: radius/diameter reversal; π as exactly 3.14 or 22/7; using πr for circumference; confusing circumference with area; measuring through a non-centre chord as diameter; premature rounding.
 
 KHAN / TRUSTED EVIDENCE
-Khan “Radius, diameter, circumference & π” states d=2r and circumference C=πd=2πr and describes circumference as a circle’s perimeter: https://www.khanacademy.org/math/geometry-home/cc-geometry-circles/circle-basics/v/circles-radius-diameter-and-circumference
-Supporting reverse problems find radius/diameter from circumference.
-Australian Curriculum/QCAA require description of the experimental/structural relationship, not formula memorisation alone.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Radius, diameter, circumference & π” transcript was inspected. It defines a circle as points equidistant from the centre, radius as that distance and diameter as the widest chord through the centre, establishing d=2r. It compares measured circles with approximate pairs C≈3,d≈1 and C≈6,d≈2, refines the common ratio C/d toward 3.14159…, names it π, and rearranges C/d=π to C=πd=2πr. This directly supplies the experimental/structural relationship absent from IXL Year 7.
+https://www.khanacademy.org/math/geometry-home/cc-geometry-circles/circle-basics/v/circles-radius-diameter-and-circumference
+Authoring implications: begin with measurement data and ratio comparison, distinguish exact π from decimal approximations, then solve forward/reverse circumference problems while targeting radius/diameter and circumference/area confusion.
 
 AUTHORING TRANSFER
 Topic Page: labelled circle diagram; measure several round objects with string and ruler; table C,d,C/d approaching π; derive C=πd and C=2πr; exact vs approximate answers.
@@ -742,15 +745,16 @@ Teach corresponding and alternate angles are equal and co-interior angles sum to
 
 IXL MAPPING AND LIVE EVIDENCE
 Mappings: “Parallel, perpendicular and intersecting lines”; “Transversal of parallel lines”; “Construct parallel lines”.
-The IXL transversal worked panel was opened in the single tab; the angle diagram was visually rendered but relationship labels were not exposed in the snapshot. The mapping is direct, while evidence details are recorded without inventing a displayed measure.
+The IXL transversal worked panel was reopened and inspected. With KM ∥ NP and transversal JQ, the prompt asks which angle corresponds to ∠POL. IXL defines corresponding angles as occupying matching corners, checks four candidate pairs, rejects ∠NOL, ∠NOQ and ∠KLO, and identifies ∠MLJ as corresponding to ∠POL. The live question then asks for consecutive interior angles, confirming progression from naming the transversal to positional classification.
 Direct URL: https://au.ixl.com/maths/year-7/transversal-of-parallel-lines
 Likely IXL progression visible from skill architecture: identify transversal/parallel marks → classify angle pair → apply equal/supplementary relation → chain with vertical/linear angles.
 Misconceptions: identifying by visual orientation instead of relative position; using rules when lines are not marked parallel; confusing alternate with corresponding; saying co-interior angles are equal; giving a number without a reason; assuming diagrams are to scale.
 
 KHAN / TRUSTED EVIDENCE
-Khan “Angles, parallel lines, & transversals” explains alternate interior equality and corresponding positions: https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-angles-between-lines/v/angles-formed-by-parallel-lines-and-transversals
-Khan “Missing angles with a transversal” combines corresponding, vertically opposite and supplementary relationships in chains.
-Australian Curriculum/QCAA require explicit explanation of reasons.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Angles, parallel lines, & transversals” transcript was inspected. It defines parallel coplanar lines and a transversal, recalls vertically opposite equality, then shows corresponding angles are equal because they occupy the same relative corner at each intersection. Its labelled angle chain combines corresponding and vertical relationships, making named reasons explicit rather than relying on appearance. The Australian Curriculum extension must also teach alternate equality and co-interior sum 180° only when lines are marked parallel.
+https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-angles-between-lines/v/angles-formed-by-parallel-lines-and-transversals
+Authoring implications: mark parallel lines, identify relative position before calculating, require a reason at every step, and include non-parallel counterexamples and chains with vertical/linear-pair facts.
 
 AUTHORING TRANSFER
 Topic Page: colour-coded F/Z/C position cues only as initial memory aids, followed by precise definitions; parallel arrow marks; angle fact/reason table; worked two- and three-step chains.
@@ -798,8 +802,10 @@ Progression to preserve: identify the relevant shape and angle sum; total known 
 Misconceptions: using 360° for a triangle; using n×180°; drawing n triangles instead of n−2; assuming an irregular polygon has equal angles; subtracting one unknown before accounting for all known angles; relying on a diagram’s appearance; mishandling concave polygons.
 
 KHAN / TRUSTED EVIDENCE
-Khan’s quadrilateral angle-sum lesson proves 360° by splitting a quadrilateral into two triangles: https://www.khanacademy.org/math/geometry/hs-geo-foundations/hs-geo-polygons/v/proof-sum-of-measures-of-angles-in-a-triangle-are-180
-Khan geometry resources support triangle-angle and polygon triangulation reasoning; the Australian Curriculum v9 and QCAA alignment control Year 7 scope. A physical tear-and-place demonstration is especially useful because the descriptor explicitly says “demonstrate”.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s triangle-angle-sum proof transcript was inspected. It labels an arbitrary triangle’s angles x,y,z, constructs a line through one vertex parallel to the opposite side, extends the other sides as transversals, transfers x and y by corresponding/vertical-angle facts, and uses a straight supplementary angle to prove x+y+z=180°. This gives a genuine demonstration rather than formula recall; polygon sums then follow by triangulating an n-gon into n−2 triangles.
+https://www.khanacademy.org/math/geometry/hs-geo-foundations/hs-geo-polygons/v/proof-sum-of-measures-of-angles-in-a-triangle-are-180
+Authoring implications: pair the proof with a physical corner-rearrangement, derive S=(n−2)×180°, then solve regular/irregular and concave examples while requiring justification.
 
 AUTHORING TRANSFER
 Topic Page: distinguish interior angles from turns/exterior angles; present two demonstrations of the triangle sum; triangulate quadrilateral, pentagon and octagon; derive S=(n−2)×180°; solve unknown-angle examples with reasons.
@@ -833,9 +839,10 @@ Useful representations: ratio notation, fraction form, tape diagrams, tables, do
 Misconceptions: reversing ratio order; adding the same amount to both terms instead of multiplying; comparing only one term; confusing part:part with part:whole; scaling quantities but not interpreting constraints; reporting an impossible fractional item; giving calculations without assumptions or justification.
 
 KHAN / TRUSTED EVIDENCE
-Khan ratio lessons use equivalent ratios, ratio tables, tape diagrams and double number lines in contextual problems: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-ratios-intro/v/introduction-to-ratios
-Supporting practice: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-rates/e/ratio_word_problems
-Khan supports the representation and calculation foundations, while Australian Curriculum/QCAA supply the explicit formulate–interpret–communicate–justify modelling requirement.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s current “Ratio example problems” transcript was inspected after its former introduction route redirected. It reads an amusement-park table to form round-up:slingshot = 11:4, forms science-fiction:comic-books = 4:21, and counts 3 apples and 4 bananas to give apples:bananas = 3:4. It explicitly shows that reversing the nouns reverses the ratio to 4:3. These foundations complement the existing IXL equivalent-mixture example; AC v9 supplies the required modelling cycle.
+https://www.khanacademy.org/math/6th-grade-math-eureka-squared-aligned/x0c458179b2148480%3Aratios-rates-and-percents/x0c458179b2148480%3Aratios-and-tape-diagrams/v/ratio-example-problems
+Authoring implications: label quantities/units and order, choose table/tape/double-line representations, scale or share, then formulate assumptions, interpret constraints and justify the representation rather than stopping at a routine ratio.
 
 AUTHORING TRANSFER
 Topic Page: a modelling-cycle panel; clarify part:part and part:whole; solve one mixture using a tape diagram, ratio table and equation; compare the representations and justify the most useful one; interpret rounding/whole-item constraints.
@@ -1235,7 +1242,8 @@ TARGETED EVIDENCE RERUN CHECKPOINTS — 2026-09-11
 - Existing valid IXL Learn-with-an-example observations were preserved without alteration.
 - Each strengthened record documents method, progression, traps and direct authoring implications.
 - AC9M7A03–AC9M7M01 were then rechecked using authenticated worked transcripts/live exercise evidence; AC9M7A06 retains an explicit exact-source gap with verified prerequisite evidence.
-- Remaining deficient Year 7 records begin at AC9M7M02.
+- AC9M7M02–AC9M7M06 were rechecked with authenticated Khan worked transcripts; M02–M04 also received reopened IXL Learn-with-an-example evidence to replace image-only claims.
+- Remaining deficient Year 7 records begin at AC9M7SP01.
 
 AUTHORING HANDOFF
 NEXT_CODE: AC9M7N01
