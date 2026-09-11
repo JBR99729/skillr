@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S8U05
-LAST_COMPLETED_CODE: AC9S8U04
-NEXT_CODE: AC9S8U06
+CURRENT_CODE: AC9S8H02
+LAST_COMPLETED_CODE: AC9S8H01
+NEXT_CODE: AC9S8H03
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 COMPLETED (LATEST: AC9S8U01–AC9S8U04)
+BATCH: 2 COMPLETED (LATEST: AC9S8U05–AC9S8H01)
 
 RESEARCH METHOD
 Each code is checked against the Australian Curriculum v9 wording and boundary, authenticated IXL Australia Year 8 practice, relevant Khan Academy lessons/exercises, and at least two reputable public sources where available. IXL and Khan mappings are evidence for task design and progression, not substitutes for the Australian Curriculum. Source gaps are recorded rather than inferred.
@@ -218,3 +218,155 @@ BATCH 1 CHECKPOINT
 Completed: AC9S8U01, AC9S8U02, AC9S8U03, AC9S8U04
 All four codes have curriculum boundaries, authenticated IXL evidence, Khan mapping status, reputable public-source evidence, misconception controls and authoring blueprints.
 Next unfinished code: AC9S8U05
+
+
+==================================================
+AC9S8U05
+CURRICULUM DESCRIPTION
+Classify different types of energy as kinetic or potential and investigate energy transfer and transformations in simple systems.
+
+CURRICULUM BOUNDARY
+Students classify energy using observable system features, trace transfers between objects and transformations between forms, and investigate simple systems. Quantitative kinetic/potential-energy formulae are useful extension but are not the core demand. Authoring must distinguish an energy store/form from a transfer pathway and must preserve conservation of energy.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above; elaborations include roller-coasters/Newton’s cradles and classifying movement, heat/electricity and chemical, elastic or gravitational energy.
+2. IXL Australia, Year 8 H “Kinetic and potential energy”: H.1 Identify changes in gravitational potential energy; H.2 Use tables and graphs to identify patterns about kinetic energy; H.3 Explore energy transformations: roller coaster ride; H.4 Explore energy transformations: bike ride. The live H.3 item uses a staged 7-of-9 challenge and a narrative system. Its first evidence question asks which observation better shows kinetic-energy change: the train changing from rest to motion, rather than merely electricity beginning to flow. This verifies evidence-based interpretation, not vocabulary recall. Supporting links explicitly bridge gravitational potential, kinetic patterns and earlier energy-transformation knowledge.
+3. Khan Academy, authenticated Middle School Physics: kinetic-energy, potential-energy and conservation-of-energy resources define energy through motion/configuration, use proportional patterns and trace transformations. Strong supplementary conceptual sequence; no direct Australian-code map.
+4. U.S. Department of Energy/PhET public education resources support energy-system diagrams, conservation, transfers and transformations through manipulable models.
+5. ABC Education search: no stable direct Year 8 mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Kinetic energy is associated with motion; thermal energy is microscopic kinetic energy.
+- Potential energy is stored because of position/configuration or chemical arrangement: gravitational, elastic, chemical.
+- Transfer means energy crosses between objects or parts of a system; transformation means the form/store changes.
+- In a roller-coaster, gravitational potential decreases as kinetic increases; friction transfers energy to thermal stores and sound.
+- In a battery–lamp system, chemical energy becomes electrical transfer, then light and thermal energy.
+- “Wasted” energy is dissipated to less useful surroundings, not destroyed.
+- Investigations should define a system boundary, identify variables/evidence, and compare predicted with observed changes.
+
+CONTENT BLUEPRINT
+Topic Page: classification matrix; stores versus pathways; system-boundary diagram; roller-coaster, bicycle and electrical examples; conservation account.
+Classroom View: card sort, Sankey/flow representations, evidence discussion and a ramp investigation.
+Homework: classify, trace, draw flow diagrams, interpret tables/graphs, correct “energy used up”.
+Practice 48: 10 classification; 10 transfer/transformation; 10 system diagrams; 8 data/evidence; 6 conservation/dissipation; 4 investigation.
+Test 16: independent everyday systems, at least 5 diagram/data items and no repeated practice stems.
+
+MISCONCEPTIONS
+Energy is a material; energy disappears; stationary objects have no energy; electricity is stored in wires; heat is always “waste”; transfer and transformation mean the same. Feedback must identify the initial store, pathway, final stores and surroundings.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8U06
+CURRICULUM DESCRIPTION
+Classify matter as elements, compounds or mixtures and compare different representations of these, including 2-dimensional and 3-dimensional models, symbols for elements and formulas for molecules and compounds.
+
+CURRICULUM BOUNDARY
+This is particle-level classification and representation. Students translate among words, symbols/formulae, 2-D particle diagrams and 3-D models. They do not need advanced bonding theory, mole calculations or exhaustive periodic-table trends.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above; elaborations include physical/virtual models and Mendeleev’s early periodic table compared with the modern table.
+2. IXL Australia Year 8 E “Atoms and molecules”: E.1 What are atoms and chemical elements?; E.2 How are substances represented by chemical formulae and models?; E.3 Identify chemical formulae for ball-and-stick models; E.4 Describe atomic composition of molecules; E.5 Classify elements and compounds using formulae; E.6 Classify elements and compounds using models. E.6 uses three stages beginning with five correct in a row and links model reading to formula classification. IXL directly covers elements/compounds and representations; mixtures require supplementation.
+3. Khan Academy, authenticated Middle School Chemistry: Classifying matter includes pure substances/mixtures, elements and compounds. “Compounds and chemical formulas” explains that a compound has a fixed formula representing specific atom types and ratios. Exercises progress from identification to applying particle representations. Supplementary, not ACARA mapped.
+4. Royal Society of Chemistry and OpenStax public chemistry materials distinguish pure substances from mixtures and provide particle-diagram and separation contexts.
+5. ABC Education search: no stable direct Year 8 code mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Element: one type of atom; represented by a chemical symbol.
+- Compound: two or more element types chemically bonded in a fixed ratio; represented by a formula.
+- Mixture: two or more substances physically combined in variable proportions; components retain identity and may be separated physically.
+- A molecule can be an element (O2) or a compound (H2O); “molecule” is not a fourth classification.
+- Formula subscripts show atom ratios/numbers in one represented particle, not macroscopic sample amount.
+- Particle diagrams must use colour/shape keys consistently; touching circles imply bonding only if the key/model convention says so.
+- Models highlight selected features and have limitations: scale, spacing, motion, electron structure and three-dimensional shape.
+
+CONTENT BLUEPRINT
+Topic Page: classification decision tree; symbol/formula/model translations; mixture particle diagrams; model limitations; Mendeleev evidence as extension.
+Classroom View: sort samples, build models, gallery critique and translate across representations.
+Homework: classify familiar/unfamiliar samples, count atoms, write/interpret formulae, compare 2-D/3-D models, choose separation evidence.
+Practice 48: 8 definitions; 10 particle diagrams; 10 symbols/formulae; 8 atom counting; 8 translation/model limits; 4 mixture/separation reasoning.
+Test 16: balanced novel diagrams and representations, including molecule-versus-compound traps.
+
+MISCONCEPTIONS
+All molecules are compounds; mixtures have chemical formulae; a compound keeps component properties; subscripts are coefficients; differently coloured atoms automatically mean a mixture. Feedback must identify atom types, bonding groups and whether more than one particle type is present.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8U07
+CURRICULUM DESCRIPTION
+Compare physical and chemical changes and identify indicators of energy change in chemical reactions.
+
+CURRICULUM BOUNDARY
+Students decide whether new substances formed using multiple observations and particle reasoning, and identify energy changes. “Reversible means physical” and any single indicator as proof are unsafe rules. Detailed thermochemistry and equation balancing are outside the core.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above; elaborations include gas/solid production, colour and temperature change, and comparing properties before/after interaction.
+2. IXL Australia Year 8 F “Chemical reactions”: F.1 Identify reactants and products; F.2 Count atoms and molecules in reactions; F.3 Calculate amounts in reactions; F.4 Describe energy changes in chemical reactions; F.5 Compare physical and chemical changes; plus applied materials explorations. In the live F.5 stage-one item, learners compare tarnish removal from a penny with pizza rotting and select that both are chemical changes, rejecting heating/cooling and “only physical” distractors. The skill requires five consecutive correct answers then advances to a second stage. Supporting prerequisites connect changes of state and conservation of matter.
+3. Khan Academy, authenticated Middle School Chemistry Unit 3: “Chemical changes”, “Learn and try: Chemical properties and changes”, “Understand” and “Apply” exercises. It identifies colour/odour change, gas, precipitate, heat or light as possible evidence and separates observation from conclusion.
+4. Royal Society of Chemistry classroom resources provide age-appropriate demonstrations and emphasise that evidence must support formation of new substances.
+5. OpenStax Chemistry provides accurate distinctions among physical properties/changes, chemical properties/reactions and energy exchange.
+6. ABC Education search: no stable direct mapping found; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Physical change alters state, size, shape or distribution without changing substance identity.
+- Chemical change rearranges atoms into new substances with different properties.
+- Possible indicators: unexpected gas, precipitate, sustained colour/odour change, light, or temperature change not explained by external heating/cooling.
+- Indicators are evidence, not individually conclusive; boiling produces gas without a chemical reaction.
+- Exothermic reactions transfer energy to surroundings; endothermic reactions take in energy from surroundings.
+- Reactants are starting substances; products are newly formed substances.
+- Mass is conserved in a closed system even if gas forms.
+
+CONTENT BLUEPRINT
+Topic Page: physical/chemical comparison; particle before/after models; evidence hierarchy; energy profiles at qualitative level; investigation examples.
+Classroom View: observation stations, claim–evidence–reasoning, closed/open mass demonstration.
+Homework: classify and justify, interpret results tables, distinguish misleading indicators, plan a safe investigation.
+Practice 48: 10 classification; 10 indicators/evidence; 8 particle models; 8 energy change; 6 reactant/product; 6 investigation/conservation.
+Test 16: novel everyday/lab cases with multiple evidence items and explanation-focused distractors.
+
+MISCONCEPTIONS
+All colour changes are chemical; bubbles always mean reaction; dissolving always forms a new substance; irreversible always means chemical; mass vanishes with gas; exothermic means “contains heat”. Feedback must compare identities/properties before and after and explain alternative causes for observations.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8H01
+CURRICULUM DESCRIPTION
+Explain how new evidence or different perspectives can lead to changes in scientific knowledge.
+
+CURRICULUM BOUNDARY
+This Nature of Science code requires a causal explanation: prior knowledge/model, new evidence or perspective, evaluation by a scientific community, and the resulting revision. “Science changes because opinions change” is inadequate. Examples should connect to Year 8 understanding such as cell theory, plate tectonics, microscopy, medical imaging or materials.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above; repository-aligned elaborations identify improved microscopes/medical imaging and advances in repair or replacement of organs using synthetic materials.
+2. IXL has no direct Science-as-a-Human-Endeavour mapping. Relevant partial evidence comes from A.1 The process of scientific inquiry, experimental-design/data skills, P.1 Understanding cells, and “Evidence of continental drift and plate tectonics”. The latter’s live progression distinguishes observation from inference and shows how Wegener’s proposal developed from repeated observations before later seafloor and magnetic evidence strengthened modern plate tectonics. Record IXL PARTIAL-MAPPING.
+3. Khan Academy, authenticated/public: “Cell theory” shows accumulating microscope observations from Hooke, van Leeuwenhoek, Schleiden, Schwann, Remak and Virchow leading to revised claims about cells. Plate-tectonics resources similarly separate early continental drift from later evidence. Khan provides strong case-study evidence but no direct ACARA mapping.
+4. Australian Academy of Science education resources promote evidence-based science learning and provide Australian scientist/history contexts.
+5. Geoscience Australia and USGS plate-tectonics histories supply a concrete sequence: continental fit/fossils and rock belts; later seafloor age and magnetic symmetry; earthquake/volcano patterns; direct GPS measurements.
+6. ABC Education search: no stable direct code mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Scientific knowledge is durable but revisable because conclusions are evidence-based.
+- New technology can reveal previously unobservable data; new methods can improve precision or repeatability.
+- A different perspective is valuable when it asks new questions or offers a model that explains more evidence, not because all opinions are equally valid.
+- Revision can refine, extend or replace a model; an earlier model may remain useful within limits.
+- Acceptance depends on converging evidence, reproducibility, peer scrutiny and explanatory/predictive power.
+- Case study structure: old idea → limitation/anomaly → new evidence/perspective → testing/debate → revised knowledge.
+
+CONTENT BLUEPRINT
+Topic Page: how knowledge changes; evidence-versus-opinion; model revision flow; cell-theory and plate-tectonics case studies; technology role.
+Classroom View: evidence timeline, competing-model comparison and CER discussion.
+Homework: reconstruct a case history, rank evidence, explain model limits, respond to “science cannot be trusted because it changes”.
+Practice 48: 8 evidence concepts; 10 technology; 12 historical case studies; 8 perspectives/model limits; 6 peer scrutiny; 4 novel applications.
+Test 16: independent case evidence and transfer, with at least 6 causal explanation items.
+
+MISCONCEPTIONS
+Scientific theories are guesses; one experiment overturns a theory; changing knowledge shows failure; every viewpoint has equal scientific weight; technology alone produces conclusions. Feedback must name the evidence standard and show why the revised account explains/predicts more.
+
+STATUS: AUTHORING-READY
+
+==================================================
+BATCH 2 CHECKPOINT
+Completed: AC9S8U05, AC9S8U06, AC9S8U07, AC9S8H01
+All four codes now include curriculum boundaries, live IXL mapping evidence or explicit partial-map status, authenticated Khan evidence, reputable public-source comparison, misconception controls and authoring blueprints.
+Next unfinished code: AC9S8H02
