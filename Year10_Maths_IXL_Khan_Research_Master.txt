@@ -1,15 +1,15 @@
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M10M05
-LAST_COMPLETED_CODE: AC9M10M04
-NEXT_CODE: AC9M10M05
+CURRENT_CODE: AC9M10SP01
+LAST_COMPLETED_CODE: AC9M10M05
+NEXT_CODE: AC9M10SP01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
 YEAR: 10
 SUBJECT: Mathematics
 CURRICULUM: Australian Curriculum v9.0
-BATCH_STATUS: FIRST TEN CODES STRICTLY VERIFIED — AUTHORING-READY
+BATCH_STATUS: FIRST ELEVEN CODES STRICTLY VERIFIED — AUTHORING-READY
 RESEARCH_DATE_UTC: 2026-09-11
 
 YEAR 10 MATHEMATICS — IXL / KHAN / PUBLIC-SOURCE RESEARCH MASTER
@@ -1050,3 +1050,168 @@ BATCH 2 STRICT QA
 - Twelve materially different evidence families, progression, misconceptions, displays and 48/16 blueprints recorded for every code.
 - All five are AUTHORING-READY for original SkillrHub content.
 - Later authoring must still pass answer validation, diagram/accessibility QA, duplicate detection and independent final review.
+
+
+################################################################################
+AC9M10M05 — STRICT RESEARCH
+RESEARCH DATE: 2026-09-11
+
+OFFICIAL DESCRIPTOR
+Use mathematical modelling to solve practical problems involving proportion and scaling of objects; formulate problems and interpret solutions in terms of the situation; evaluate the model and report methods and findings.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+This is a modelling-cycle code, not merely a set of ratio exercises. Students must identify variables and assumptions, select or construct a proportional/scale model, perform conversions and calculations, interpret results in the original setting, evaluate whether the model and scale are fit for purpose, and communicate method/findings. Required contexts include plans, elevations, maps, models, enlargements/reductions and design decisions. The distinction among linear scale factor k, area factor k² and volume factor k³ is essential.
+
+PREREQUISITES
+- Equivalent ratios, rates and proportions.
+- Unit conversion and dimensional reasoning.
+- Similar figures/solids and corresponding dimensions.
+- Perimeter, area, surface area and volume.
+- Plans, elevations, maps and scale notation.
+- Rounding, tolerances and reasonableness.
+
+IXL AUSTRALIA MAPPING
+Authenticated Year 10 catalogue components:
+- Area and perimeter of similar figures.
+- Identify similar figures.
+- Ratios in similar figures.
+- Side lengths and angle measures in similar figures.
+- Similar triangles and indirect measurement.
+- Perimeters of similar figures.
+- Areas of similar figures.
+- Introduction to similar solids.
+- EE.8 Surface area and volume of similar solids.
+- Relevant rate-of-change tables/graphs and travel-rate word problems.
+Direct Year 10 scale-plan/elevation modelling-cycle skill: SOURCE-NOT-MAPPED. IXL supplies proportional and similarity techniques, while SkillrHub must integrate formulation, design constraints, interpretation and evaluation.
+
+ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+Authenticated EE.8 “Surface area and volume of similar solids” panel inspected.
+Verified worked structure:
+1. Identify the ratio a:b of corresponding linear dimensions.
+2. For surface areas, square the linear ratio: (a/b)²=S₁/S₂.
+3. In the observed example, the linear ratio 1:3 gives surface-area ratio 1:9.
+4. Set 1/9=S₁/144 and solve the proportion.
+5. Obtain S₁=16 and state 16 square metres.
+Teaching transfer:
+- Corresponding lengths must be matched consistently.
+- Linear scale factors cannot be applied directly to area.
+- Volume problems require cubing the linear scale factor.
+- Final answers need correct squared/cubed units and contextual interpretation.
+
+KHAN ACADEMY EVIDENCE
+Authenticated transcript inspected:
+https://www.khanacademy.org/math/cc-seventh-grade-math/x6b17ba59%3Ascale-drawings/cc-7th-scale-drawings/v/scaled-drawings-worked-examples
+Verified worked examples:
+- Blueprint scale: 10 cm on drawing represents 2 m in reality. Moving from 10 cm to 18 cm multiplies by 1.8, so 2 m×1.8=3.6 m.
+- Graph-paper model: 2 drawing units represent 6 cm; 16 units are 8 times as many, so actual height is 48 cm.
+- The teaching uses a two-column drawing/real-world table, preserves the paired units and applies the same multiplicative factor to corresponding quantities.
+Additional Khan mappings:
+- Scale drawings and maps.
+- Constructing scale drawings.
+- Comparing different scales.
+- Scale factors and area.
+- Scaling perimeter and area.
+- Related volumes.
+Year 10 transfer: embed these techniques within an open modelling cycle and require model evaluation, not just conversion.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: descriptor boundary and modelling process.
+- GeoGebra: create scaled figures and confirm corresponding-length, area and volume factors.
+- Public architectural/planning conventions: plan is top-down; elevation is a vertical exterior view; stated scale and units must be read before measuring.
+- Map-scale conventions: representative fraction, written statement and scale bar; a scale bar remains usable after proportional resizing while a written ratio may not.
+
+TWELVE MATERIALLY DIFFERENT EVIDENCE / QUESTION FAMILIES
+1. Convert drawing length to actual length from 1:n.
+2. Determine drawing length from an actual measurement.
+3. Use a verbal scale with different units.
+4. Read and apply a scale bar.
+5. Compare two drawings made at different scales.
+6. Interpret plan versus front/side elevation.
+7. Infer missing real dimensions from a building plan.
+8. Linear enlargement/reduction using corresponding sides.
+9. Perimeter under linear scale factor k.
+10. Area/surface area under factor k².
+11. Volume/capacity/mass under factor k³ where density is fixed.
+12. Complete design-modelling task: formulate, calculate, test constraints, evaluate and report.
+
+PROGRESSION
+A. Interpret ratio, verbal and scale-bar notation.
+B. Build a drawing/actual-value table and maintain units.
+C. Find unknown lengths with proportions.
+D. Apply k, k² and k³ to length, area and volume.
+E. Formulate a plan/elevation/design model with constraints.
+F. Interpret outcomes, test reasonableness, evaluate assumptions and report findings.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Reversing drawing:actual ratios.
+- Mixing centimetres and metres inside a proportion without conversion.
+- Adding the scale factor instead of multiplying.
+- Applying k to area or volume instead of k²/k³.
+- Applying k²/k³ to a length.
+- Matching non-corresponding sides.
+- Confusing plan, elevation and perspective views.
+- Assuming a diagram is to scale when none is stated.
+- Treating a rounded drawing measurement as exact.
+- Using a printed ratio after an image has been resized without checking.
+- Reporting a numerical result without interpreting feasibility.
+- Completing calculations but omitting assumptions, evaluation or method.
+
+QUESTION / APPLICATION PATTERNS
+- Architectural floor plans and elevations.
+- Garden/site plans with setback and area constraints.
+- Maps, routes and travel distances.
+- Scale models, prototypes and 3D printing.
+- Enlarged photographs/posters.
+- Packaging and material/capacity comparisons.
+- Scientific models where actual objects are too large/small.
+- Redesign tasks comparing cost, available space and material use.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Full modelling cycle: formulate → choose scale/proportion → calculate → interpret → evaluate → report.
+- Three scale forms with conversion examples.
+- Drawing-versus-actual two-column table.
+- Plan/elevation visual definitions.
+- Similarity panel linking k, k² and k³.
+- Worked building-design example with constraints and explicit assumptions.
+- “Is the model fit for purpose?” checklist.
+- Report sentence frames covering method, result, units, rounding, assumptions and limitations.
+- Accessible original diagrams with dimensions and alt text.
+
+AUTHORING COVERAGE PLAN
+48 practice questions:
+- 8 scale notation and unit conversion.
+- 8 drawing-to-actual/actual-to-drawing proportions.
+- 6 map and scale-bar problems.
+- 6 plans and elevations.
+- 8 similar-figure linear/perimeter scaling.
+- 6 area/surface-area scaling.
+- 4 volume/capacity scaling.
+- 2 modelling evaluation/reporting tasks.
+16 independent test questions:
+- 4 scale/conversion.
+- 3 plans/maps.
+- 3 k versus k² versus k³.
+- 4 multi-step design/modelling.
+- 2 evaluation/reporting.
+All test contexts, values and diagrams must be independent of practice.
+
+AUTHORING SAFEGUARDS
+- Every item must identify units and the direction of scale.
+- Diagrams must not rely on visual proportion alone.
+- MCQ distractors should diagnose ratio reversal, missed unit conversion and wrong scale-factor power.
+- At least one practice and one test item must show that a scale bar survives resizing but a printed representative fraction may become invalid.
+- At least one modelling task must allow more than one reasonable design but use explicit constraints for objective marking.
+- Numerical answers must be independently recomputed; conversions and k²/k³ applications must be unit-tested.
+- Practice/Test stem overlap prohibited.
+
+STRICT QA DECISION
+- Curriculum intent and modelling boundary: verified.
+- Authenticated IXL catalogue and worked-example evidence: verified.
+- Authenticated Khan transcript and complementary mappings: verified.
+- Direct provider gaps: explicitly recorded.
+- Twelve distinct authoring families: recorded.
+- Topic/Classroom/worksheet and 48/16 coverage: sufficient.
+- AC9M10M05 is AUTHORING-READY.
+- NEXT_CODE: AC9M10SP01.
