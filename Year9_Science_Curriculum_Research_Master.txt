@@ -1,0 +1,188 @@
+YEAR 9 SCIENCE — CURRICULUM RESEARCH MASTER
+Australian Curriculum v9 | SkillrHub
+Last updated: 2026-09-11
+
+PROJECT_STATUS: IN_PROGRESS
+CURRENT_PHASE: RESEARCH
+CURRENT_CODE: AC9S9U05
+LAST_COMPLETED_CODE: AC9S9U04
+NEXT_CODE: AC9S9U06
+AUTHORING_STARTED: NO
+CONTENT_VERIFIED_COUNT: 0
+BLOCKER: NONE
+BATCH: 1 COMPLETED (LATEST: AC9S9U01–AC9S9U04)
+
+CURRICULUM CODE INVENTORY
+AC9S9U01, AC9S9U02, AC9S9U03, AC9S9U04, AC9S9U05, AC9S9U06, AC9S9U07
+AC9S9H01, AC9S9H02, AC9S9H03, AC9S9H04
+AC9S9I01, AC9S9I02, AC9S9I03, AC9S9I04, AC9S9I05, AC9S9I06, AC9S9I07, AC9S9I08
+
+RESEARCH METHOD
+Each code is checked against Australian Curriculum v9 wording and scope, authenticated IXL Australia Year 9 practice, relevant authenticated Khan Academy instruction, ABC Education where a stable direct resource exists, and at least two reputable free/public sources where available. IXL and Khan mappings guide task progression and misconception design; they do not replace the Australian Curriculum. Missing direct mappings are recorded.
+
+==================================================
+AC9S9U01
+CURRICULUM DESCRIPTION
+Compare the role of body systems in regulating and coordinating the body’s response to a stimulus, and describe the operation of a negative feedback mechanism.
+
+CURRICULUM BOUNDARY
+Students compare nervous and endocrine coordination and trace a stimulus-response pathway through receptor, coordination/control centre and effector. They must explain negative feedback as a response that opposes deviation and returns a regulated variable towards a normal range. Detailed neuronal biochemistry and advanced hormone pathways are beyond the code.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. The wording requires comparison between systems, coordinated response to internal/external stimuli, and operation—not merely definition—of negative feedback.
+2. IXL Australia, authenticated Year 9 Science: F.1 Organisation in the human body: the heart and circulatory system; F.2 Homeostasis and feedback loops; F.3 Science literacy: phantom pain. Live F.2 opens with Naomi moving between snow and a warm restaurant while internal temperature remains stable. Learners select that organisms have regulatory systems maintaining a stable internal environment and that homeostasis supports cell survival, while rejecting “internal conditions match the outside” and “little energy is required”. Stage 1 requires 6 correct in a row, directly exposing core misconceptions.
+3. Khan Academy, authenticated High school biology “Feedback in living systems”: homeostasis maintains internal conditions within acceptable limits; negative feedback detects a change and triggers responses opposing it. The worked thermoregulation example links increased temperature to sweating, vasodilation, thirst and behaviour, and contrasts this with shivering/vasoconstriction when temperature falls. The sequence also includes articles plus Understand and Apply exercises.
+4. OpenStax Anatomy & Physiology public resources describe homeostatic control using receptor, control centre and effector and distinguish negative from positive feedback. Useful as the anatomy accuracy reference.
+5. MedlinePlus/NIH endocrine resources explain that nervous and endocrine systems communicate, with hormones producing generally slower, longer-lasting responses than rapid nerve signalling.
+6. ABC Education search: no stable direct Year 9 resource mapping located in the current search; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Stimulus: detectable internal/external change; receptor senses it; control centre compares/integrates information; effector produces response.
+- Nervous coordination uses electrical impulses and neurotransmitters, is usually rapid, targeted and shorter-lived.
+- Endocrine coordination uses hormones carried in blood, is usually slower, more widespread and longer-lasting; only cells with appropriate receptors respond.
+- Systems cooperate rather than work independently: hypothalamus/endocrine signalling, nerves controlling muscles/glands, circulation transporting hormones.
+- Negative feedback reduces the original deviation; it does not mean “bad” feedback.
+- Thermoregulation: too hot → thermoreceptors/control centre → sweating and skin vasodilation → heat loss; too cold → shivering and vasoconstriction → heat conservation/production.
+- Blood-glucose example at this level: high glucose promotes insulin-mediated uptake/storage; low glucose promotes glucagon-mediated release.
+- Homeostasis maintains a range around a set point, not one perfectly constant number.
+- Positive feedback amplifies change to completion and should be used only as a contrast.
+
+CONTENT BLUEPRINT
+Topic Page: stimulus-response pathway; nervous/endocrine comparison; feedback-loop anatomy; thermoregulation and blood-glucose worked cases; coordination/model limits.
+Classroom View: pathway card sort, rapid-versus-slow response comparison, annotate a feedback diagram and diagnose faulty loops.
+Homework: label pathways, compare systems, complete thermoregulation/glucose chains and explain system failure.
+Practice 48: 8 stimulus pathways; 10 nervous system; 10 endocrine system; 12 negative-feedback applications; 4 system coordination; 4 model critique.
+Test 16: independent physiological contexts with balanced comparison and causal feedback reasoning; no copied practice stems.
+
+MISCONCEPTIONS
+Homeostasis matches the environment; negative feedback worsens a change; one system acts alone; hormones affect every cell; feedback stops once the exact set point is reached; all responses are conscious. Feedback must identify the broken causal link and restore the correct direction of response.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9U02
+CURRICULUM DESCRIPTION
+Describe the form and function of reproductive cells and organs in animals and plants, and analyse how the processes of sexual and asexual reproduction enable survival of the species.
+
+CURRICULUM BOUNDARY
+The code combines structure-function knowledge in both animals and plants with analysis of reproductive strategies at species level. Students compare sexual and asexual reproduction, fertilisation, dispersal and genetic variation. Human reproductive health detail and full molecular genetics are outside this code.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. “Enable survival of the species” requires reasoning about offspring number, speed, variation, dispersal and environmental change rather than claiming reproduction guarantees survival.
+2. IXL Australia, authenticated Year 9 Science: K.1 and K.2 Sexual reproduction and genetic variation; L.1 Angiosperm and conifer life cycles; L.2 Moss and fern life cycles; H.1–H.4 cell division supports prerequisite knowledge. Live K.1 explains genes are inherited, then compares one-parent asexual reproduction with two-parent sexual reproduction. The first table classifies “two parents”, “genetically identical to one parent” and “produces new organisms”; Stage 1 requires 3 of 4 correct and expands across three stages.
+3. Khan Academy, authenticated “Asexual and sexual reproduction”: one-parent cloning through binary fission, budding and fragmentation is contrasted with fusion of egg and sperm carrying genetic information from parents. The lesson explicitly links sexual reproduction to greater variation and improved likelihood that some offspring suit changing environments. Its course also provides review articles and two exercises.
+4. Khan “Sexual reproduction and genetic variation” adds meiosis/fertilisation and the half-genetic-contribution of gametes. Useful supplementary depth without making meiosis the entire code.
+5. OpenStax Biology 2e public resources provide accurate animal and plant reproductive structures, pollination, fertilisation, seed/fruit formation and vegetative propagation.
+6. NHGRI’s public gamete definition confirms that gametes are reproductive cells in animals or plants; ova and sperm are animal examples.
+7. ABC Education search: no stable direct Year 9 mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- Gametes are specialised reproductive cells carrying one chromosome set; fertilisation forms a zygote.
+- Animal sperm: small, motile in many animals, flagellum and many mitochondria; egg: larger, nutrient-rich cytoplasm and protective layers. Avoid implying every animal gamete has identical form.
+- Animal organs produce, transport and support gametes/fertilisation; teach named examples accurately without reducing the code to humans.
+- Flower structures: anther produces pollen; pollen carries male gametes; stigma receives pollen; style guides pollen tube; ovary contains ovules; ovule contains female gamete; fertilised ovule becomes seed and ovary may form fruit.
+- Sexual reproduction combines genetic material, usually creates variation, and can improve resilience across changing conditions, but costs time/energy and may require mates or pollination.
+- Asexual reproduction uses one parent and no fusion of gametes; binary fission, budding, fragmentation/spores in suitable organisms, and vegetative propagation in plants.
+- Asexual reproduction can be rapid and preserve successful traits, but low genetic variation may increase shared vulnerability.
+- Species survival depends on context; neither strategy is universally superior. Many species use both.
+- Pollination is transfer of pollen; fertilisation is fusion of gametes.
+
+CONTENT BLUEPRINT
+Topic Page: animal and flower structure-function diagrams; gametes/fertilisation; sexual-asexual comparison; strategy trade-offs; plant/animal case studies.
+Classroom View: organ-function matching, flower dissection/model, strategy decision scenarios and misconception checks.
+Homework: label and explain structures, sequence pollination/fertilisation, compare strategies and analyse unfamiliar organisms.
+Practice 48: 10 cells/structures; 10 animal organs; 10 plant organs/processes; 10 sexual-asexual comparison; 8 species-survival applications.
+Test 16: novel plant and animal cases with at least 6 structure-function and 6 strategy-analysis items.
+
+MISCONCEPTIONS
+Pollen is a seed; pollination equals fertilisation; asexual means no cell division; clones are always perfectly identical in every trait; sexual reproduction always needs two separate organisms; sexual is always better; individuals reproduce “to survive”. Feedback must distinguish process, inherited variation and population-level consequence.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9U03
+CURRICULUM DESCRIPTION
+Represent the carbon cycle and examine how key processes including combustion, photosynthesis and respiration rely on interactions between Earth’s spheres (the geosphere, biosphere, hydrosphere and atmosphere).
+
+CURRICULUM BOUNDARY
+Students construct and interpret a carbon-cycle model with stores/reservoirs and fluxes/processes, and explain sphere interactions. The emphasis is conservation and movement of carbon, including altered transfer rates through human activity. Detailed carbon chemistry or quantitative climate modelling is extension only.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Students must represent the system and explain how named processes link multiple spheres.
+2. IXL Australia, authenticated Year 9 Science: O.3 The carbon cycle: biosphere processes and interactions; O.4 geosphere processes and interactions; G.1 photosynthesis; G.2 cellular respiration; LL.1 Earth spheres; NN.2 greenhouse effect. Live O.3 defines reservoirs and asks learners to match carbon matter to spheres: rocks/fossil fuels to geosphere, dissolved carbonic acid/bicarbonate to hydrosphere, carbon dioxide/methane to atmosphere, and organisms to biosphere. Stage 1 requires 3 of 4 correct and progresses across three stages.
+3. Khan Academy, authenticated “The carbon cycle”: plants fix atmospheric carbon through photosynthesis; consumers and organisms release carbon dioxide through metabolism/respiration; oceans absorb carbon and carbonate can become shells/limestone; burial can form fossil fuels; combustion returns stored carbon to the atmosphere. The lesson explicitly treats carbon as recycled rather than created/disappearing.
+4. NASA Earth Observatory carbon-cycle resources provide the authoritative Earth-system framing: fast biological and slow geological cycles connect land, ocean, atmosphere and rocks, and human fossil-fuel combustion changes fluxes.
+5. CSIRO carbon-cycle and greenhouse-gas research provides Australian context for land/ocean sinks, atmospheric observations and human-driven change.
+6. ABC Education search: no stable direct code mapping located; SOURCE-NOT-MAPPED. Do not infer an ABC alignment.
+
+AUTHORING-READY KNOWLEDGE
+- Reservoir/store holds carbon; flux/process moves it. Arrows must be labelled and directed.
+- Atmosphere: CO₂ and methane; biosphere: living/dead organic matter; hydrosphere: dissolved CO₂, bicarbonate/carbonate and aquatic life; geosphere: soils, sediments, carbonate rocks and fossil fuels.
+- Photosynthesis transfers atmospheric/hydrospheric CO₂ into biomass using light energy.
+- Respiration by plants, animals and decomposers returns CO₂ to air/water; decomposition also transfers carbon into soil/sediment.
+- Combustion of biomass/fossil fuels transfers stored carbon rapidly to atmosphere as CO₂.
+- Ocean-atmosphere exchange operates both directions; uptake depends on conditions. Marine organisms/sedimentation can move carbon toward long-term geological stores.
+- Weathering, burial, fossil-fuel formation, volcanism and rock processes operate over longer timescales.
+- Carbon atoms are conserved; cycle balance depends on rates, not a single circular route.
+- Fossil-fuel use moves geological carbon to the atmosphere faster than slow processes replace it, altering reservoir sizes.
+- A model is a simplification and should show boundary, stores, labelled processes, direction and relevant timescales.
+
+CONTENT BLUEPRINT
+Topic Page: four-sphere map; reservoir-versus-flux; fast/slow cycles; worked arrow chains; human perturbation; model limits.
+Classroom View: carbon-token transfer model, construct/critique diagrams, trace named atoms and compare pre-industrial/human-changed fluxes.
+Homework: label stores/processes, trace sphere interactions, repair arrow errors and explain changing reservoir size.
+Practice 48: 8 spheres/stores; 12 process arrows; 8 photosynthesis/respiration; 8 combustion/human change; 8 multi-sphere pathways; 4 model critique.
+Test 16: independent diagrams and scenarios, including at least 6 multi-step transfer explanations.
+
+MISCONCEPTIONS
+Carbon exists only as CO₂; plants only remove carbon and do not respire; combustion destroys carbon; the cycle has one starting point; oceans only absorb; fossil fuels form quickly; every reservoir stays constant. Feedback must trace matter between named spheres and correct the arrow/process.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S9U04
+CURRICULUM DESCRIPTION
+Use wave and particle models to describe energy transfer through different mediums and examine the usefulness of each model for explaining phenomena.
+
+CURRICULUM BOUNDARY
+Students use and compare models, not merely define waves or particles. Wave models explain transfer through oscillations/disturbances; particle models explain mechanisms such as collisions, vibrations and bulk movement in matter. Students must state what each model explains and where it is limited. Full quantum wave-particle duality is outside this code.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. The curriculum expects energy transfer through different media and explicit evaluation of model usefulness.
+2. IXL Australia, authenticated Year 9 Science: FF.1 transverse waves; FF.2 longitudinal waves; FF.3 Compare energy of waves; FF.4 waves on strings; HH.1 electromagnetic waves; HH.2 infrared applications; HH.3 ultraviolet effects; GG sound forthcoming; energy/thermal prerequisites also contribute. Live FF.3 shows two wave graphs travelling at the same speed in the same medium and asks learners to compare amplitude and frequency. Stage 1 requires 6 correct in a row, supporting quantitative visual interpretation but not the complete particle-model comparison.
+3. Khan Academy, authenticated “Wave properties”: a wave is a propagating disturbance that transfers energy without net transfer of matter; mechanical waves require a medium, electromagnetic waves do not; period, wavelength and frequency describe the model; speed depends on wave type and medium. The course includes mechanical/light comparison, sound properties, Understand/Apply exercises and reviews.
+4. Khan “Sound waves” explains particle vibration/compressions through solids, liquids and gases and why sound cannot travel in a vacuum. “Introduction to light” supports electromagnetic-wave and particle-like descriptions, but quantum detail should remain outside the Year 9 boundary.
+5. OpenStax Physics public resources provide accurate relationships among amplitude, frequency, wavelength, speed and energy, and particle-level explanations for conduction.
+6. The Physics Classroom public tutorials use wave/slinky/string models to distinguish medium-particle motion from energy propagation and are useful for misconception checking.
+7. ABC Education search: no stable direct Year 9 mapping located; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+- A model is a purposeful representation; choose it for the question and acknowledge omissions.
+- Mechanical wave: disturbance propagates through a medium while particles oscillate about equilibrium; energy moves, matter has no net transport with the wave.
+- Transverse: oscillation perpendicular to travel; longitudinal: oscillation parallel, producing compressions and rarefactions.
+- Amplitude relates to energy carried (within a given system); frequency is cycles per second; wavelength is spacing; v=fλ.
+- Sound is a longitudinal mechanical wave and needs matter; medium particle properties affect speed and transmission.
+- Electromagnetic radiation can travel through vacuum; wave model explains reflection, refraction, diffraction, wavelength/frequency and spectrum.
+- Particle model for conduction: higher-energy particles vibrate/move more and transfer energy through interactions; in metals mobile electrons contribute.
+- Particle model for convection: energy transfer accompanies bulk movement of warmer, less-dense fluid and cooler, denser fluid.
+- Radiation is not explained as particles bumping through a material; it needs no material medium.
+- One phenomenon may need different models at different scales. A water-wave surface sketch does not literally depict sound particles or EM fields.
+- Evaluate usefulness with: what feature/evidence it explains, prediction it permits, and limitation/feature it omits.
+
+CONTENT BLUEPRINT
+Topic Page: model-purpose framework; transverse/longitudinal; wave quantities; sound/light media; particle conduction/convection; side-by-side model evaluation.
+Classroom View: rope/slinky demonstrations, particle-roleplay, medium comparison, model selection and limitation statements.
+Homework: interpret wave graphs, use v=fλ, explain transfer in solids/fluids/vacuum and evaluate competing models.
+Practice 48: 10 wave basics; 10 quantities/graphs; 8 sound/media; 8 EM/radiation; 8 particle thermal transfer; 4 model evaluation.
+Test 16: novel transfer phenomena with at least 6 model-choice/usefulness items and no copied practice stems.
+
+MISCONCEPTIONS
+Waves transport matter forward; all waves need a medium; particles travel from the heat source to the far end in conduction; frequency and amplitude are interchangeable; higher frequency always means higher speed; light is sound at higher frequency; models are exact copies. Feedback must identify the model, direction of oscillation/transfer and the limitation causing the error.
+
+STATUS: AUTHORING-READY
+
+==================================================
+BATCH 1 CHECKPOINT
+Completed: AC9S9U01, AC9S9U02, AC9S9U03, AC9S9U04
+All four codes now have exact curriculum boundaries, live authenticated single-tab IXL evidence, authenticated single-tab Khan evidence, reputable public-source comparison, misconception controls and authoring blueprints.
+Next unfinished code: AC9S9U05
