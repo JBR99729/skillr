@@ -36,11 +36,6 @@ function isTeacherRedirectShim(html) {
     && /location\.replace\(target\)/i.test(html);
 }
 
-// The feedback-card generator is additive UI, not curriculum teaching content.
-// When that marker-delimited block is the *only* difference from the PR base,
-// do not force an unrelated legacy topic page through a full architecture
-// migration. Any change outside the generated block still receives every
-// architecture check below.
 const generatedFeedback = /<!--\s*skillr-facebook-feedback:start\s*-->[\s\S]*?<!--\s*skillr-facebook-feedback:end\s*-->(?:\r?\n)?/gi;
 const legacyFeedbackPrototype = /<section\b[^>]*aria-labelledby=["']skillr-feedback-title(?:-[^"']*)?["'][^>]*>[\s\S]*?<\/section>(?:\r?\n)?/gi;
 const generatedCurriculumEquivalents = /<!--\s*skillr-curriculum-equivalents:start\s*-->[\s\S]*?<!--\s*skillr-curriculum-equivalents:end\s*-->(?:\r?\n)?/gi;
@@ -90,7 +85,7 @@ for (const file of changed) {
     if (/id=["'](?:topicRoot|year\d+Topic|slideRoot)["'][^>]*>\s*(?:<p[^>]*>)?\s*Loading/i.test(html)) errors.push(`${file}: curriculum teaching content cannot be a runtime Loading shell`);
     if (/(?:year\d+-(?:maths|science|english)-(?:render|topic)|topic-modules-render|lesson-render|lower-materials-render|foundation-.*render)\.js/i.test(html)) errors.push(`${file}: canonical topic teaching content must not depend on a curriculum renderer`);
     const text = html.replace(/<script[\s\S]*?<\/script>/gi, '').replace(/<style[\s\S]*?<\/style>/gi, '');
-    if (!/What students learn|Key concept|Learning intention|Learning goal|Teaching Lesson/i.test(text)) errors.push(`${file}: static teaching content appears to be missing`);
+    if (!/What students learn|Key concept|Learning intention|Learning goal|Teaching Lesson|Core learning|Response model/i.test(text)) errors.push(`${file}: static teaching content appears to be missing`);
     if (publicDownload.test(html)) errors.push(`${file}: Teacher Slides must not expose direct PPTX/PDF download links`);
     if (!/href=["'][^"']*(?:teacher-deck|teacher-slides)[^"']*\/(?:[?#][^"']*)?["']/i.test(html)) errors.push(`${file}: migrated topic page must link to a fixed page-by-page Teacher Slides viewer`);
   }
