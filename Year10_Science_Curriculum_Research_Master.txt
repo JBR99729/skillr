@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S10I02
-LAST_COMPLETED_CODE: AC9S10I01
-NEXT_CODE: AC9S10I03
+CURRENT_CODE: AC9S10I06
+LAST_COMPLETED_CODE: AC9S10I05
+NEXT_CODE: AC9S10I07
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 3 COMPLETED (LATEST: AC9S10H02–AC9S10I01)
+BATCH: 4 COMPLETED (LATEST: AC9S10I02–AC9S10I05)
 
 CURRICULUM CODE INVENTORY
 AC9S10U01, AC9S10U02, AC9S10U03, AC9S10U04, AC9S10U05, AC9S10U06, AC9S10U07
@@ -774,3 +774,265 @@ AC9S10H04: AUTHORING-READY
 AC9S10I01: AUTHORING-READY
 
 Research completed with exact Australian Curriculum descriptors, sequential single-tab IXL/Khan checks where mapped, explicit SOURCE-NOT-MAPPED records, and multiple reputable public sources. All four blueprints reserve exactly 48 Practice Questions and exactly 16 independent Test Questions.
+
+
+======================================================================
+AC9S10I02 — VALID, REPRODUCIBLE INVESTIGATIONS, RISK AND ETHICS
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Plan and conduct valid, reproducible investigations to answer questions and test hypotheses, including identifying and controlling for possible sources of error and, as appropriate, developing and following risk assessments, considering ethical issues, and addressing key considerations regarding heritage sites and artefacts on Country/Place.
+
+CURRICULUM BOUNDARY
+Students must design a method that tests the intended relationship, can be followed by another investigator and anticipates error, safety, ethics and Country/Place responsibilities. Validity concerns whether the method answers the question; reproducibility concerns whether independent investigators can obtain consistent results using the documented method. A detailed recipe is insufficient if variables, controls, sampling, risk and measurement quality are weak.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: the full descriptor explicitly includes validity, reproducibility, sources of error, risk assessment, ethics and heritage sites/artefacts on Country/Place.
+- IXL Australia Year 10 authenticated mapping: A.1 control/experimental groups; A.2 control groups; A.3 independent/dependent variables; A.4 experimental question; A.5 investigable questions from available materials; B laboratory equipment/safety; C units/measurement.
+- IXL live practice, A.3: blackberries are divided into eight bowls; water temperature is varied while soak time and storage are controlled; number of mouldy berries after five days is measured. Learners identify water temperature as IV and mouldy-berry count as DV. The multiple bowls show replication/sample structure.
+- Khan Academy authenticated Scientific method resource supplies prerequisite sequencing of question, hypothesis, experiment and conclusion. No single Khan resource covers Country/Place and complete Year 10 risk/ethics requirements: PARTIAL-MAPPING.
+- Australian Curriculum elaborations and ACARA guidance establish Country/Place considerations as part of appropriate inquiry planning. https://v9.australiancurriculum.edu.au/
+- Safe Work Australia risk-management guidance: identify hazards, assess risk, implement controls using the hierarchy, then review controls. https://www.safeworkaustralia.gov.au/safety-topic/managing-health-and-safety/identify-assess-and-control-hazards
+- AIATSIS Code of Ethics: research involving Aboriginal and Torres Strait Islander peoples, knowledge and heritage requires Indigenous self-determination, leadership, benefit, sustainability and appropriate governance/consent. https://aiatsis.gov.au/research/ethical-research/code-ethics
+- CSIRO secondary school investigation resources model variables, repeat trials and safe procedures. https://www.csiro.au/en/education
+- ABC Education: no stable code-complete planning sequence was used; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Validity: the design isolates and measures the intended relationship well enough to answer the question.
+2. Reproducibility: another investigator can follow the reported method and obtain compatible findings within uncertainty.
+3. The IV is deliberately changed; the DV is measured; controlled variables are held constant or monitored.
+4. A control condition provides a comparison baseline; repeated trials are not the same as a control.
+5. Confounding variables change systematically with the IV and offer alternative explanations.
+6. Random error creates unpredictable scatter; systematic error shifts results consistently; both require different responses.
+7. Replication, randomisation, adequate sample size and standardised technique reduce vulnerability to chance and bias.
+8. Methods require exact quantities, equipment, calibration, range, intervals, timing, sequence and data-recording plan.
+9. A pilot study can reveal unsuitable ranges, ceiling/floor effects, hazards and procedural ambiguity.
+10. Risk = likelihood × consequence conceptually. Controls should eliminate/substitute/isolate hazards before relying only on PPE.
+11. Ethical planning includes consent, privacy, minimising harm, animal welfare, environmental impact and honest data handling.
+12. Work on Country/Place must consider permissions, Traditional Custodians, cultural authority, access restrictions and handling/citation of heritage and artefacts.
+13. “Do not touch” is not the only protocol; consultation may change the question, method, data ownership and communication.
+14. A reproducible method must still be valid; repeating a biased design reproduces the bias.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Identify IV, DV, controls, control group and confounders in prose methods.
+- Repair a flawed method by specifying quantities, repeats, randomisation and measurements.
+- Match hazards to controls and judge residual risk.
+- Evaluate ethical and Country/Place scenarios before data collection.
+- Common traps: more detail guarantees validity; repeats remove systematic error; PPE is always the best control; control variable and control group are identical; permission from landowner alone covers cultural authority; reproducible means identical numerical results.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–7 validity, reproducibility and fair-test logic
+- 8–16 variables, controls and confounding
+- 17–25 method precision, sampling, repeats and randomisation
+- 26–32 random/systematic error and pilot improvement
+- 33–39 hazard, risk and hierarchy of controls
+- 40–44 ethics, consent, privacy and environmental impact
+- 45–48 Country/Place and heritage protocols
+Test questions — exactly 16, independent:
+- 1–4 evaluate experimental validity
+- 5–8 repair reproducibility/sampling problems
+- 9–11 error-source analysis
+- 12–13 risk assessment
+- 14–16 ethics and Country/Place cases
+Feedback must identify the design principle breached and give a specific feasible correction.
+
+======================================================================
+AC9S10I03 — PRECISE MEASUREMENT, USEFUL SAMPLE SIZE AND REPLICABLE DATA
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Select and use equipment to generate and record data with precision to obtain useful sample sizes and replicable data, using digital tools as appropriate.
+
+CURRICULUM BOUNDARY
+Students must choose equipment and procedures by range, resolution, sensitivity and fitness for purpose; record units and appropriate precision; collect enough independent and repeated data to reveal variation; and use digital tools when they improve logging, consistency or scale. Precision is not accuracy. A large number of repeated readings from one biased or non-representative source does not create a useful sample.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: combines equipment selection/use, precise recording, useful sample sizes, replicable data and appropriate digital tools.
+- IXL Australia Year 10 authenticated mapping: B.1 laboratory tools; B.2 microscope parts; C.1 significant figures; C.2–C.3 calculations with significant figures; C.4 Celsius/Kelvin conversion.
+- IXL live practice, C.1: learners select all significant digits in a temperature measurement of 425 °C. It confirms attention to reported precision; authoring must extend beyond digit rules to instrument resolution, uncertainty, calibration and sample design.
+- Khan Academy: measurement/significant-figure material offers arithmetic support, but no one resource maps equipment choice, sample size and digital logging completely; PARTIAL-MAPPING.
+- NIST/SEMATECH e-Handbook of Statistical Methods: measurement processes require calibration, repeatability/reproducibility checks and explicit treatment of variation. https://www.itl.nist.gov/div898/handbook/
+- Bureau International des Poids et Mesures, measurement uncertainty guidance: a result is interpreted with unit, uncertainty and traceability rather than an unsupported string of digits. https://www.bipm.org/en/committees/jc/jcgm/publications
+- Australian Bureau of Statistics sample-design guidance: sample usefulness depends on representation, independence and design, not size alone. https://www.abs.gov.au/websitedbs/d3310114.nsf/home/basic+survey+design
+- CSIRO digital data-logging education examples show benefits of automated intervals and large time-series datasets while retaining calibration needs. https://www.csiro.au/en/education
+- ABC Education: no stable code-complete measurement resource was used; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Range is the span an instrument can measure; resolution is the smallest displayed/marked increment; sensitivity is response to change.
+2. Precision describes closeness of repeated values; accuracy/trueness describes closeness to an accepted value.
+3. Calibration compares an instrument with a reference and can reveal systematic offset.
+4. Record every measurement with a value, unit and precision justified by instrument resolution.
+5. Significant figures prevent false precision but are not a complete uncertainty analysis.
+6. Analogue scales require consistent eye position and estimation; digital displays can still be biased or poorly calibrated.
+7. Select an instrument whose range includes expected values and whose resolution can distinguish meaningful changes.
+8. Repeated measurements quantify short-term variation; independent replication across operators/equipment/occasions tests robustness.
+9. Sample size must be sufficient for variation and the intended inference; biological samples must represent the target population.
+10. Pseudoreplication occurs when repeated readings from one experimental unit are incorrectly treated as independent samples.
+11. Digital sensors enable frequent automatic logging and reduce transcription/timing variation, but require calibration, sampling-rate choice and metadata.
+12. Sampling too slowly can miss rapid change; sampling too fast can create redundant data without improving validity.
+13. Missing values, saturated sensors and data-processing settings must be documented.
+14. Raw data should be preserved; transformations/cleaning should be traceable.
+15. Replicable data are compatible within expected uncertainty, not necessarily numerically identical.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Match instruments to expected range/resolution and justify the choice.
+- Read analogue/digital scales and record correct units/significant figures.
+- Diagnose calibration offset, random scatter, saturation and parallax.
+- Distinguish repeats, independent samples and pseudoreplication.
+- Choose digital sampling interval and metadata for a phenomenon.
+- Common traps: more decimal places mean more accuracy; zeroing guarantees calibration; repeated readings increase biological sample size; average removes systematic error; digital sensors have no uncertainty; discard inconvenient data without a rule.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–8 range, resolution, sensitivity, precision and accuracy
+- 9–16 equipment choice and scale reading
+- 17–24 units, significant figures and uncertainty-aware recording
+- 25–31 calibration and measurement-error diagnosis
+- 32–39 repeats, independent samples and sample usefulness
+- 40–45 digital logging, sampling rates and metadata
+- 46–48 integrated measurement plans
+Test questions — exactly 16, independent:
+- 1–4 select/justify equipment
+- 5–7 read and report measurements
+- 8–10 calibration/error scenarios
+- 11–13 sample-size/replication analysis
+- 14–16 digital-tool design and data integrity
+Feedback must connect the choice to range, resolution, uncertainty, independence or sampling rate.
+
+======================================================================
+AC9S10I04 — APPROPRIATE DATA REPRESENTATIONS AND PROCESSING
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Select and construct appropriate representations, including tables, graphs, descriptive statistics, models and mathematical relationships, to organise and process data and information.
+
+CURRICULUM BOUNDARY
+Students must choose—not merely draw—a representation suited to variable type, relationship and purpose. They should construct clear raw/processed tables; select scatter, line, bar or distribution displays appropriately; calculate and interpret descriptive statistics; and use models/equations without implying unjustified precision or causation. Representations must preserve evidence and avoid distortion.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: explicitly names tables, graphs, descriptive statistics, models and mathematical relationships for organising/processing evidence.
+- IXL Australia Year 10: no dedicated skill covering construction and selection across all required representations; SOURCE-NOT-MAPPED. II.1 climate graphs and multiple content-area models offer application contexts.
+- IXL live evidence from II.1: monthly Cape Town temperature and precipitation graphs require seasonal interpretation using Southern Hemisphere context. This confirms coordinated reading of axes, units, multiple variables and temporal patterns, but not full construction.
+- Khan Academy authenticated, checked sequentially: Understanding scatterplots links paired tables to plotted points; related statistics units cover line of best fit, centre, spread and correlation. Useful mathematical support; science conventions and model limitations must be added.
+- Australian Bureau of Statistics data-visualisation guidance: representation should suit data and audience; labels, scales and design choices must support accurate interpretation. https://www.abs.gov.au/statistics/understanding-statistics/statistical-terms-and-concepts
+- NIST/SEMATECH e-Handbook: exploratory plots and descriptive statistics reveal distribution, trend, outliers and variation. https://www.itl.nist.gov/div898/handbook/eda/eda.htm
+- CSIRO Data61 educational/data resources provide authentic examples of models and large datasets. https://www.csiro.au/en/about/people/business-units/data61
+- Khan Academy statistics remains a public secondary source for scatterplots, correlation and descriptive statistics.
+- ABC Education: no stable code-complete representation sequence was used; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Raw-data tables preserve individual observations; processed tables contain calculated summaries and must identify the processing.
+2. Every table needs meaningful headings, units and consistent precision; independent variable usually appears first.
+3. Bar charts compare categories; histograms show distributions of continuous values; line graphs show continuous change (especially time); scatterplots show paired-variable relationships.
+4. Graph axes need variable names/units, appropriate scale, plotted uncertainty where relevant and an informative title/caption.
+5. Broken/truncated axes and unequal intervals can exaggerate or hide patterns.
+6. Mean uses all values but is sensitive to outliers; median is robust; mode may suit categories; range and interquartile range describe spread.
+7. Error bars must be defined; overlap alone is not a universal significance test.
+8. A line/curve of best fit represents a modelled trend and should not be drawn point-to-point for unrelated experimental scatter.
+9. Interpolation within the observed range is generally safer than extrapolation beyond it.
+10. Mathematical relationships may be direct, inverse, linear or non-linear; units and parameter meaning matter.
+11. Transformations such as plotting a against 1/m can test a predicted linear relationship.
+12. A model simplifies reality and has assumptions/domain; good fit does not by itself prove causation or mechanism.
+13. Representations should keep anomalies visible unless a documented exclusion rule is justified.
+14. Digital tools reduce plotting/calculation labour but require checking variable assignment, formulas, filters and scale defaults.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Select the most appropriate table/graph for variable types and purpose.
+- Repair missing units, misleading scales, swapped axes or inappropriate connections.
+- Calculate/compare centre and spread and explain outlier effects.
+- Fit or interpret simple mathematical relationships and state the valid domain.
+- Common traps: bar graph for paired continuous data; connect every scatter point; start every axis at zero regardless of purpose; hide anomalies; correlation means causation; software default is automatically appropriate; extrapolation is as reliable as interpolation.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–7 raw and processed tables
+- 8–16 graph-type selection
+- 17–24 graph construction, axes, scales and uncertainty
+- 25–32 mean, median, range, IQR and anomaly effects
+- 33–40 trend lines and mathematical relationships
+- 41–45 models, interpolation/extrapolation and assumptions
+- 46–48 digital-tool and distortion audits
+Test questions — exactly 16, independent:
+- 1–3 construct/repair tables
+- 4–7 select/critique graphs
+- 8–10 descriptive statistics
+- 11–13 model/equation interpretation
+- 14–16 misleading display and digital-tool evaluation
+Feedback must state why the representation matches the data and how an alternative could mislead.
+
+======================================================================
+AC9S10I05 — CONNECTING DATA TO EXPLAIN PATTERNS, TRENDS AND ANOMALIES
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Analyse and connect a variety of data and information to identify and explain patterns, trends, relationships and anomalies.
+
+CURRICULUM BOUNDARY
+Students must combine—not separately summarise—multiple evidence sources, identify pattern direction/strength/form, recognise anomalies, and use scientific concepts to explain relationships without overstating causation. Analysis should distinguish observation from explanation and consider whether apparent anomalies reflect error, natural variation, a subgroup, a changed condition or model limitation.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: requires analysis and connection of varied data/information to identify and explain four named features.
+- IXL Australia Year 10 relevant mappings: II.1 Use data to describe climates; K.3–K.4 fossil/anatomical/molecular evidence; K.5 natural-selection datasets; L carbon-cycle interactions; content skills using graphs and models. No single IXL inquiry skill maps the entire cross-source analysis demand: PARTIAL-MAPPING.
+- IXL live practice, II.1: monthly Cape Town temperature and precipitation graphs are interpreted together with Southern Hemisphere season information. Correct analysis connects warmer summer temperatures with lower summer precipitation, not merely reads a single maximum.
+- Khan Academy authenticated, checked sequentially: Correlation coefficient intuition links scatterplot form, direction and strength; related lessons support trend lines. Scientific authoring must add mechanism, anomalies, uncertainty and source synthesis.
+- NIST/SEMATECH exploratory data analysis: graphical/statistical checks are used to reveal structure, outliers and departures from assumptions. https://www.itl.nist.gov/div898/handbook/eda/eda.htm
+- Australian Bureau of Meteorology climate-data resources provide authentic multi-variable time-series, maps and anomalies for pattern analysis. https://www.bom.gov.au/climate/data/
+- CSIRO State of the Climate connects atmospheric, ocean, cryosphere and extreme-event datasets to explain climate patterns. https://www.csiro.au/en/research/environmental-impacts/climate-change/state-of-the-climate
+- OpenStax science texts provide datasets and conceptual models for linking evidence to explanations. https://openstax.org/
+- ABC Education: individual data stories are supplementary; no stable code-complete analysis set was used; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. A pattern is a repeated/organised feature; a trend is overall change; a relationship is association between variables; an anomaly departs from the main pattern/model.
+2. Begin with what the data show: direction, magnitude, shape, range and variation.
+3. Use units, time span, location, sample and baseline when comparing sources.
+4. Data sources can be connected only after checking whether definitions, scales and populations are compatible.
+5. Correlation direction and strength do not establish cause.
+6. A causal explanation needs mechanism, temporal order, alternative explanations and preferably intervention or converging evidence.
+7. Qualitative information can supply process/context; quantitative data can test magnitude and consistency.
+8. Converging sources strengthen an inference when their methods and weaknesses are sufficiently independent.
+9. An anomaly should first be verified, not automatically deleted.
+10. Possible anomaly explanations include transcription/measurement error, rare but real variation, subgroup membership, uncontrolled variable or change in system conditions.
+11. Residuals show differences between observed and model-predicted values and can reveal systematic model failure.
+12. Seasonal cycles can coexist with long-term trends; short segments may conceal or exaggerate change.
+13. Relative and absolute change answer different questions and must not be confused.
+14. A scientifically sound explanation names the mechanism and links each step to evidence.
+15. Conclusions should match evidence scope and state uncertainty/limitations.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Describe a graph precisely before selecting an explanation.
+- Combine two graphs, a table and contextual text into one claim-evidence-reasoning response.
+- Identify anomalies and choose the most defensible next check.
+- Compare competing mechanisms against multiple observations.
+- Common traps: cherry-pick one source; compare mismatched baselines; confuse seasonal variation with long-term trend; anomaly means mistake; strong correlation proves causation; absence of visible trend proves no relationship; explanation merely repeats the pattern.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–7 pattern/trend/relationship/anomaly vocabulary
+- 8–15 single-dataset quantitative description
+- 16–24 connect compatible tables, graphs and text
+- 25–32 correlation, mechanism and causal caution
+- 33–39 anomaly verification and explanations
+- 40–45 multi-scale/seasonal versus long-term analysis
+- 46–48 integrated claim-evidence-reasoning synthesis
+Test questions — exactly 16, independent:
+- 1–3 describe unfamiliar trends precisely
+- 4–7 connect multiple sources
+- 8–10 evaluate relationship/causation claims
+- 11–13 analyse anomalies and residuals
+- 14–16 choose and justify best explanation
+Feedback must separate observation from inference and cite the exact supporting features from every relevant source.
+
+======================================================================
+BATCH CHECKPOINT — FOURTH FOUR YEAR 10 SCIENCE CODES
+======================================================================
+AC9S10I02: AUTHORING-READY
+AC9S10I03: AUTHORING-READY
+AC9S10I04: AUTHORING-READY
+AC9S10I05: AUTHORING-READY
+
+Research completed using the exact Australian Curriculum descriptors, sequential single-tab IXL/Khan checks where mapped, explicit partial/unmapped records, and reputable public sources. All four blueprints reserve exactly 48 Practice Questions and exactly 16 independent Test Questions.
