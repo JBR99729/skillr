@@ -1,0 +1,27 @@
+YEAR 6 SCIENCE — CURRICULUM RESEARCH MASTER
+Australian Curriculum v9 | SkillrHub
+Last updated: 2026-09-11
+
+PROJECT_STATUS: IN_PROGRESS
+CURRENT_PHASE: RESEARCH
+CURRENT_CODE: AC9S6U01
+LAST_COMPLETED_CODE: NONE
+NEXT_CODE: AC9S6U02
+AUTHORING_STARTED: NO
+CONTENT_VERIFIED_COUNT: 0
+BLOCKER: NONE
+BATCH: 1 OF 4 (AC9S6U01–AC9S6U04)
+
+Research protocol
+- Primary curriculum authority: Australian Curriculum v9 (ACARA).
+- Comparative platforms: IXL Australia (authenticated, interactive sampling where a fit exists); Khan Academy (authenticated where an appropriate lesson/interactive exists).
+- Additional trusted public sources: ABC Education and domain authorities such as NASA/CSIRO/Science Learning Hub as relevant.
+- Khan Academy is supplementary, not an Australian Curriculum v9 code map.
+- Research evidence must translate into a distinct practice/test blueprint: observable task types, concept boundaries, misconception checks, feedback needs and visual/data contexts.
+
+Batch register
+1. AC9S6U01 — investigate the physical conditions of a habitat and analyse how the growth and survival of living things is affected by changing physical conditions.
+2. AC9S6U02 — describe the movement of Earth and other planets relative to the sun and model how Earth’s tilt, rotation on its axis and revolution around the sun relate to cyclic observable phenomena.
+3. AC9S6U03 — investigate the transfer and transformation of energy in electrical circuits, including the role of circuit components, insulators and conductors.
+4. AC9S6U04 — compare reversible changes, including dissolving and changes of state, and irreversible changes, including cooking and rusting that produce new substances.
+
