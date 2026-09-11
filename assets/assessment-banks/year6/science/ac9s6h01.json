@@ -1,1322 +1,2434 @@
 [
   {
-    "id": "ac9s6h01-p-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-001",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
-    "audio_prompt": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "shared_question",
+    "question": "Four students each grow a different plant but never compare results. What would turn their activity into scientific collaboration?",
+    "audio_prompt": "Four students each grow a different plant but never compare results. What would turn their activity into scientific collaboration?",
     "answers": [
       {
-        "text": "Different expertise helps collect, process and interpret better evidence.",
+        "text": "Decorating four separate posters",
+        "is_correct": false
+      },
+      {
+        "text": "Agreeing on one question and combining comparable measurements",
         "is_correct": true
       },
       {
-        "text": "One scientist must do every job alone.",
+        "text": "Using four different rulers",
         "is_correct": false
       },
       {
-        "text": "Collaboration means nobody checks the method.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Different expertise helps collect, process and interpret better evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-p-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "practice",
-    "skill": "science collaboration",
-    "question": "A new sensor gives surprising readings. What should the team do first?",
-    "audio_prompt": "A new sensor gives surprising readings. What should the team do first?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Accept the data because new technology is always accurate.",
-        "is_correct": false
-      },
-      {
-        "text": "Test and compare the sensor readings before trusting them.",
-        "is_correct": true
-      },
-      {
-        "text": "Delete older data automatically.",
+        "text": "Finishing at the same time",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Test and compare the sensor readings before trusting them.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Collaboration requires contributions to a shared scientific question; comparable measurements can be pooled and analysed.",
+      "hint": "Look for a shared purpose and connected evidence."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-002",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "How can repeating another group’s investigation help science?",
-    "audio_prompt": "How can repeating another group’s investigation help science?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "specialised_roles",
+    "question": "A wetland team includes a botanist, water chemist and mapping specialist. Why can this combination help?",
+    "audio_prompt": "A wetland team includes a botanist, water chemist and mapping specialist. Why can this combination help?",
     "answers": [
       {
-        "text": "It proves the first group cheated.",
-        "is_correct": false
-      },
-      {
-        "text": "It makes methods unnecessary.",
-        "is_correct": false
-      },
-      {
-        "text": "It checks whether the finding is reliable.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "It checks whether the finding is reliable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-p-004",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why are shared databases useful in large environmental studies?",
-    "audio_prompt": "Why are shared databases useful in large environmental studies?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Many observations can reveal patterns across places and time.",
+        "text": "Different expertise connects plant, water and location evidence",
         "is_correct": true
       },
       {
-        "text": "They remove the need for careful measurements.",
+        "text": "The largest team must be correct",
         "is_correct": false
       },
       {
-        "text": "They make all scientists agree immediately.",
+        "text": "Specialists do not need to share results",
+        "is_correct": false
+      },
+      {
+        "text": "Every person repeats an identical job",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Many observations can reveal patterns across places and time.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The specialists examine different parts of the same system and combine evidence into a fuller explanation.",
+      "hint": "Ask what each expertise adds."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-003",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "A report credits one famous scientist for a discovery made by a team. What is missing?",
-    "audio_prompt": "A report credits one famous scientist for a discovery made by a team. What is missing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "shared_data",
+    "question": "Schools across Australia measure local rainfall using the same procedure. What is the main benefit?",
+    "audio_prompt": "Schools across Australia measure local rainfall using the same procedure. What is the main benefit?",
     "answers": [
       {
-        "text": "A longer title only.",
+        "text": "It proves rainfall is identical everywhere",
         "is_correct": false
       },
       {
-        "text": "The contribution of collaborators and earlier work.",
+        "text": "It lets schools skip recording units",
+        "is_correct": false
+      },
+      {
+        "text": "It removes all measurement error",
+        "is_correct": false
+      },
+      {
+        "text": "It provides observations from many places that can be compared",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A common method produces a larger, geographically varied dataset that researchers can compare.",
+      "hint": "Think about coverage."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-004",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "peer_checking",
+    "question": "Before publishing, another scientist checks a team’s methods and reasoning. What is this most likely to do?",
+    "audio_prompt": "Before publishing, another scientist checks a team’s methods and reasoning. What is this most likely to do?",
+    "answers": [
+      {
+        "text": "Turn opinion into a vote",
+        "is_correct": false
+      },
+      {
+        "text": "Guarantee the claim forever",
+        "is_correct": false
+      },
+      {
+        "text": "Help identify weaknesses or missing evidence",
         "is_correct": true
       },
       {
-        "text": "A claim that technology did all the thinking.",
+        "text": "Replace the original observations",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Review can reveal problems and prompt revision, although it cannot guarantee perfect conclusions.",
+      "hint": "Checking improves reliability, not certainty."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-005",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "prior_work",
+    "question": "An engineer improves a sensor using a circuit described in an earlier paper. Which statement is accurate?",
+    "audio_prompt": "An engineer improves a sensor using a circuit described in an earlier paper. Which statement is accurate?",
+    "answers": [
+      {
+        "text": "Only the new engineer deserves credit",
+        "is_correct": false
+      },
+      {
+        "text": "The advance builds on a published contribution",
+        "is_correct": true
+      },
+      {
+        "text": "The older circuit becomes worthless",
+        "is_correct": false
+      },
+      {
+        "text": "Using prior work prevents innovation",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The contribution of collaborators and earlier work.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The earlier circuit provides a tested starting point that the engineer extends.",
+      "hint": "Find the foundation for the new work."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-006",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why can critique improve scientific work?",
-    "audio_prompt": "Why can critique improve scientific work?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "replication",
+    "question": "A second laboratory repeats an experiment and obtains a similar pattern. Why does this matter?",
+    "audio_prompt": "A second laboratory repeats an experiment and obtains a similar pattern. Why does this matter?",
     "answers": [
       {
-        "text": "It means rejecting every result.",
-        "is_correct": false
-      },
-      {
-        "text": "It replaces evidence with opinions.",
-        "is_correct": false
-      },
-      {
-        "text": "It helps find weaknesses in evidence, methods or explanations.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "It helps find weaknesses in evidence, methods or explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-p-007",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Which example shows science building on earlier work?",
-    "audio_prompt": "Which example shows science building on earlier work?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A team improves a water-quality test using a method published last year.",
+        "text": "Independent evidence increases confidence the pattern is reproducible",
         "is_correct": true
       },
       {
-        "text": "A student copies results without checking them.",
+        "text": "The first laboratory must delete its results",
         "is_correct": false
       },
       {
-        "text": "A group ignores all previous measurements.",
+        "text": "Two laboratories create a majority vote",
+        "is_correct": false
+      },
+      {
+        "text": "Agreement proves no future result can differ",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A team improves a water-quality test using a method published last year.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A comparable result from an independent team suggests the finding is not limited to one setup or group.",
+      "hint": "Focus on reproducibility."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-007",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why does collaboration not mean automatic agreement?",
-    "audio_prompt": "Why does collaboration not mean automatic agreement?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "role_matching",
+    "question": "Which team member is best placed to design software that finds habitat change in thousands of satellite images?",
+    "audio_prompt": "Which team member is best placed to design software that finds habitat change in thousands of satellite images?",
     "answers": [
       {
-        "text": "Everyone must choose the same answer before testing.",
+        "text": "Glassblower",
         "is_correct": false
       },
       {
-        "text": "Scientists still compare evidence and challenge explanations.",
+        "text": "Veterinarian",
+        "is_correct": false
+      },
+      {
+        "text": "Computer scientist",
         "is_correct": true
       },
       {
-        "text": "The oldest scientist decides the result.",
+        "text": "Marine diver",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A computer scientist can create algorithms to process a large image dataset efficiently.",
+      "hint": "Match expertise to data processing."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-008",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "role_matching",
+    "question": "Who would best test whether a remote sensor remains accurate after months outdoors?",
+    "audio_prompt": "Who would best test whether a remote sensor remains accurate after months outdoors?",
+    "answers": [
+      {
+        "text": "Historian",
+        "is_correct": false
+      },
+      {
+        "text": "Reliability engineer",
+        "is_correct": true
+      },
+      {
+        "text": "Illustrator",
+        "is_correct": false
+      },
+      {
+        "text": "Tour guide",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Scientists still compare evidence and challenge explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A reliability engineer can plan durability and calibration tests for equipment.",
+      "hint": "Which role tests equipment performance?"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-009",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring in a new class investigation?",
-    "audio_prompt": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "collaboration_mechanism",
+    "question": "Ecologists describe animal needs while engineers design tracking collars. What connects their contributions?",
+    "audio_prompt": "Ecologists describe animal needs while engineers design tracking collars. What connects their contributions?",
     "answers": [
       {
-        "text": "One scientist must do every job alone.",
-        "is_correct": false
-      },
-      {
-        "text": "Collaboration means nobody checks the method.",
-        "is_correct": false
-      },
-      {
-        "text": "Different expertise helps collect, process and interpret better evidence.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Different expertise helps collect, process and interpret better evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-p-010",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "practice",
-    "skill": "science collaboration",
-    "question": "A new sensor gives surprising readings. What should the team do first in a new class investigation?",
-    "audio_prompt": "A new sensor gives surprising readings. What should the team do first in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Test and compare the sensor readings before trusting them.",
+        "text": "A shared goal of collecting useful movement data safely",
         "is_correct": true
       },
       {
-        "text": "Accept the data because new technology is always accurate.",
+        "text": "The team members use identical qualifications",
         "is_correct": false
       },
       {
-        "text": "Delete older data automatically.",
+        "text": "The collars make ecology unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "Each group publishes unrelated conclusions",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Test and compare the sensor readings before trusting them.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The ecological requirements guide an engineering solution for the shared investigation.",
+      "hint": "Find the scientific goal joining the roles."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-010",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "How can repeating another group’s investigation help science in a new class investigation?",
-    "audio_prompt": "How can repeating another group’s investigation help science in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "traditional_knowledge",
+    "question": "A restoration project combines long-held First Nations ecological knowledge with current soil measurements. What is the strongest explanation?",
+    "audio_prompt": "A restoration project combines long-held First Nations ecological knowledge with current soil measurements. What is the strongest explanation?",
     "answers": [
       {
-        "text": "It proves the first group cheated.",
-        "is_correct": false
-      },
-      {
-        "text": "It checks whether the finding is reliable.",
+        "text": "Different knowledge and evidence can inform where and how restoration is tested",
         "is_correct": true
       },
       {
-        "text": "It makes methods unnecessary.",
+        "text": "Traditional knowledge removes the need to monitor outcomes",
+        "is_correct": false
+      },
+      {
+        "text": "The project is collaborative only if everyone uses the same method",
+        "is_correct": false
+      },
+      {
+        "text": "Only recent instruments count as knowledge",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Respectfully combining accumulated place-based knowledge with measurements can guide and test restoration actions.",
+      "hint": "Look for respectful integration plus checking."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-011",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "antarctic_research",
+    "question": "Why might Antarctic plant research require teams from several countries?",
+    "audio_prompt": "Why might Antarctic plant research require teams from several countries?",
+    "answers": [
+      {
+        "text": "International teams never disagree",
+        "is_correct": false
+      },
+      {
+        "text": "Cold weather automatically validates results",
+        "is_correct": false
+      },
+      {
+        "text": "One nation is unable to ask questions",
+        "is_correct": false
+      },
+      {
+        "text": "Shared stations, expertise and long-term observations increase coverage",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "International collaboration can pool access, instruments, expertise and observations across time and place.",
+      "hint": "Consider resources and coverage."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-012",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "space_science",
+    "question": "An astronomer compares a new telescope image with star positions catalogued centuries ago. The catalogue is important because it:",
+    "audio_prompt": "An astronomer compares a new telescope image with star positions catalogued centuries ago. The catalogue is important because it:",
+    "answers": [
+      {
+        "text": "was created by one famous person",
+        "is_correct": false
+      },
+      {
+        "text": "provides earlier observations against which change can be examined",
+        "is_correct": true
+      },
+      {
+        "text": "makes the new telescope unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "proves every old interpretation correct",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It checks whether the finding is reliable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Recorded earlier observations provide a baseline that new evidence can check and extend.",
+      "hint": "What can a baseline enable?"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-013",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why are shared databases useful in large environmental studies in a new class investigation?",
-    "audio_prompt": "Why are shared databases useful in large environmental studies in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "incremental_advance",
+    "question": "Which timeline best represents an advance that builds on others’ work?",
+    "audio_prompt": "Which timeline best represents an advance that builds on others’ work?",
     "answers": [
       {
-        "text": "They remove the need for careful measurements.",
+        "text": "Question → guess → award",
         "is_correct": false
       },
       {
-        "text": "They make all scientists agree immediately.",
-        "is_correct": false
-      },
-      {
-        "text": "Many observations can reveal patterns across places and time.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Many observations can reveal patterns across places and time.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-p-013",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "practice",
-    "skill": "science collaboration",
-    "question": "A report credits one famous scientist for a discovery made by a team. What is missing in a new class investigation?",
-    "audio_prompt": "A report credits one famous scientist for a discovery made by a team. What is missing in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The contribution of collaborators and earlier work.",
+        "text": "Early model → new observations → revised model → spacecraft evidence",
         "is_correct": true
       },
       {
-        "text": "A longer title only.",
+        "text": "Vote → final truth → no further tests",
         "is_correct": false
       },
       {
-        "text": "A claim that technology did all the thinking.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The contribution of collaborators and earlier work.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-p-014",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why can critique improve scientific work in a new class investigation?",
-    "audio_prompt": "Why can critique improve scientific work in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It means rejecting every result.",
-        "is_correct": false
-      },
-      {
-        "text": "It helps find weaknesses in evidence, methods or explanations.",
-        "is_correct": true
-      },
-      {
-        "text": "It replaces evidence with opinions.",
+        "text": "Invention → erase all earlier records",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It helps find weaknesses in evidence, methods or explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Scientific ideas often develop through successive models, observations and improved tools.",
+      "hint": "Choose cumulative evidence and revision."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-014",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Which example shows science building on earlier work in a new class investigation?",
-    "audio_prompt": "Which example shows science building on earlier work in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "scientific_consensus",
+    "question": "What does scientific consensus mean?",
+    "audio_prompt": "What does scientific consensus mean?",
     "answers": [
       {
-        "text": "A student copies results without checking them.",
-        "is_correct": false
-      },
-      {
-        "text": "A group ignores all previous measurements.",
-        "is_correct": false
-      },
-      {
-        "text": "A team improves a water-quality test using a method published last year.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A team improves a water-quality test using a method published last year.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-p-016",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why does collaboration not mean automatic agreement in a new class investigation?",
-    "audio_prompt": "Why does collaboration not mean automatic agreement in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Scientists still compare evidence and challenge explanations.",
+        "text": "A judgement supported by a substantial body of assessed evidence",
         "is_correct": true
       },
       {
-        "text": "Everyone must choose the same answer before testing.",
+        "text": "Every scientist has exactly the same opinion",
         "is_correct": false
       },
       {
-        "text": "The oldest scientist decides the result.",
+        "text": "A conclusion that can never change",
+        "is_correct": false
+      },
+      {
+        "text": "The most senior scientist wins a vote",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Scientists still compare evidence and challenge explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Consensus is grounded in converging evidence and critical evaluation, not popularity or permanence.",
+      "hint": "Evidence matters more than headcount."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-017",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-015",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring after students review their evidence?",
-    "audio_prompt": "Why do ecologists, engineers and computer scientists work together on remote habitat monitoring after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "shared_methods",
+    "question": "Three teams test river phosphate levels. Why should they agree on sampling depth and units?",
+    "audio_prompt": "Three teams test river phosphate levels. Why should they agree on sampling depth and units?",
     "answers": [
       {
-        "text": "One scientist must do every job alone.",
+        "text": "To remove the need for repeats",
         "is_correct": false
       },
       {
-        "text": "Different expertise helps collect, process and interpret better evidence.",
+        "text": "To make the river cleaner immediately",
+        "is_correct": false
+      },
+      {
+        "text": "To make results meaningfully comparable",
         "is_correct": true
       },
       {
-        "text": "Collaboration means nobody checks the method.",
+        "text": "To ensure all numbers are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consistent sampling conditions and units allow datasets to be combined and compared fairly.",
+      "hint": "Think comparability."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-016",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "data_quality",
+    "question": "One school reports water temperature without a time of day. What should the network do?",
+    "audio_prompt": "One school reports water temperature without a time of day. What should the network do?",
+    "answers": [
+      {
+        "text": "Discard the entire project",
+        "is_correct": false
+      },
+      {
+        "text": "Invent the missing time",
+        "is_correct": false
+      },
+      {
+        "text": "Flag the limitation before combining the record",
+        "is_correct": true
+      },
+      {
+        "text": "Assume it was measured at noon",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Missing context affects comparison, so the limitation should be identified rather than hidden or guessed.",
+      "hint": "Treat incomplete evidence honestly."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-017",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "claim_review_revision",
+    "question": "Which sequence best shows collaborative quality control?",
+    "audio_prompt": "Which sequence best shows collaborative quality control?",
+    "answers": [
+      {
+        "text": "Publish → collect data → ask a question",
+        "is_correct": false
+      },
+      {
+        "text": "Make claim → colleagues examine evidence → team revises explanation",
+        "is_correct": true
+      },
+      {
+        "text": "Vote → select evidence → ignore objections",
+        "is_correct": false
+      },
+      {
+        "text": "Copy conclusion → remove methods → announce certainty",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Different expertise helps collect, process and interpret better evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Evidence-based criticism can lead a team to refine a claim before or after publication.",
+      "hint": "Look for checking followed by improvement."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-018",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-018",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "A new sensor gives surprising readings. What should the team do first after students review their evidence?",
-    "audio_prompt": "A new sensor gives surprising readings. What should the team do first after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "constructive_critique",
+    "question": "A reviewer notices that all soil samples came from shaded sites. What is the most useful response?",
+    "audio_prompt": "A reviewer notices that all soil samples came from shaded sites. What is the most useful response?",
     "answers": [
       {
-        "text": "Accept the data because new technology is always accurate.",
-        "is_correct": false
-      },
-      {
-        "text": "Delete older data automatically.",
-        "is_correct": false
-      },
-      {
-        "text": "Test and compare the sensor readings before trusting them.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Test and compare the sensor readings before trusting them.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-p-019",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "practice",
-    "skill": "science collaboration",
-    "question": "How can repeating another group’s investigation help science after students review their evidence?",
-    "audio_prompt": "How can repeating another group’s investigation help science after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "It checks whether the finding is reliable.",
+        "text": "Recommend sampling sunny sites before generalising",
         "is_correct": true
       },
       {
-        "text": "It proves the first group cheated.",
+        "text": "Ask the team to vote again",
         "is_correct": false
       },
       {
-        "text": "It makes methods unnecessary.",
+        "text": "Change the graph colour",
+        "is_correct": false
+      },
+      {
+        "text": "Reject science as impossible",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It checks whether the finding is reliable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Broader sampling tests whether the claimed pattern applies beyond shaded sites.",
+      "hint": "Address the evidence gap."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-020",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-019",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why are shared databases useful in large environmental studies after students review their evidence?",
-    "audio_prompt": "Why are shared databases useful in large environmental studies after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "detergent_case",
+    "question": "Researchers link high phosphate runoff with algal blooms. Which next collaboration could help apply the finding?",
+    "audio_prompt": "Researchers link high phosphate runoff with algal blooms. Which next collaboration could help apply the finding?",
     "answers": [
       {
-        "text": "They remove the need for careful measurements.",
+        "text": "Stores hide ingredient information",
         "is_correct": false
       },
       {
-        "text": "Many observations can reveal patterns across places and time.",
+        "text": "Scientists stop measuring waterways",
+        "is_correct": false
+      },
+      {
+        "text": "Chemists and manufacturers develop and test lower-phosphate detergents",
         "is_correct": true
       },
       {
-        "text": "They make all scientists agree immediately.",
+        "text": "Astronomers rename the algae",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Scientists and manufacturers can translate environmental evidence into an alternative product and test its effects.",
+      "hint": "Who can turn evidence into a practical change?"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-020",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "remote_sensing",
+    "question": "Why do ecologists collaborate with engineers on remote-sensing tools?",
+    "audio_prompt": "Why do ecologists collaborate with engineers on remote-sensing tools?",
+    "answers": [
+      {
+        "text": "Both roles always perform the same task",
+        "is_correct": false
+      },
+      {
+        "text": "Ecologists provide habitat questions while engineers develop ways to collect measurements at scale",
+        "is_correct": true
+      },
+      {
+        "text": "Engineering opinions replace ecological evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Remote sensing needs no ground checks",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Many observations can reveal patterns across places and time.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Ecological knowledge defines meaningful measurements; engineering expertise helps build reliable collection tools.",
+      "hint": "Connect scientific needs with tool design."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-021",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-021",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "A report credits one famous scientist for a discovery made by a team. What is missing after students review their evidence?",
-    "audio_prompt": "A report credits one famous scientist for a discovery made by a team. What is missing after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "computer_analysis",
+    "question": "A program detects rapid vegetation loss in aerial images. Why should ecologists still inspect sample locations?",
+    "audio_prompt": "A program detects rapid vegetation loss in aerial images. Why should ecologists still inspect sample locations?",
     "answers": [
       {
-        "text": "A longer title only.",
-        "is_correct": false
-      },
-      {
-        "text": "A claim that technology did all the thinking.",
-        "is_correct": false
-      },
-      {
-        "text": "The contribution of collaborators and earlier work.",
+        "text": "To check whether the detected pattern matches conditions on the ground",
         "is_correct": true
+      },
+      {
+        "text": "Because computers cannot store images",
+        "is_correct": false
+      },
+      {
+        "text": "To make every result different",
+        "is_correct": false
+      },
+      {
+        "text": "To replace the program with opinions",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "The contribution of collaborators and earlier work.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Ground observations help validate whether an algorithm’s classifications represent real habitat change.",
+      "hint": "Digital patterns need validation."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-022",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-022",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why can critique improve scientific work after students review their evidence?",
-    "audio_prompt": "Why can critique improve scientific work after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "iss_collaboration",
+    "question": "Which example best demonstrates collaboration on the International Space Station?",
+    "audio_prompt": "Which example best demonstrates collaboration on the International Space Station?",
     "answers": [
       {
-        "text": "It helps find weaknesses in evidence, methods or explanations.",
+        "text": "Each astronaut runs an unrelated private project",
+        "is_correct": false
+      },
+      {
+        "text": "One country withholds all procedures",
+        "is_correct": false
+      },
+      {
+        "text": "The crew chooses results by applause",
+        "is_correct": false
+      },
+      {
+        "text": "Countries contribute modules, crews and experiments that operate as one program",
         "is_correct": true
-      },
-      {
-        "text": "It means rejecting every result.",
-        "is_correct": false
-      },
-      {
-        "text": "It replaces evidence with opinions.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "It helps find weaknesses in evidence, methods or explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Integrated equipment, people and investigations contribute to a shared research platform.",
+      "hint": "Look for interdependent contributions."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 22,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-023",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-023",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Which example shows science building on earlier work after students review their evidence?",
-    "audio_prompt": "Which example shows science building on earlier work after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "limitations",
+    "question": "What is one limitation of a large research team?",
+    "audio_prompt": "What is one limitation of a large research team?",
     "answers": [
       {
-        "text": "A student copies results without checking them.",
+        "text": "Collaboration prevents checking",
         "is_correct": false
       },
       {
-        "text": "A team improves a water-quality test using a method published last year.",
+        "text": "Every member must reach the same result",
+        "is_correct": false
+      },
+      {
+        "text": "Communication and data standards must be carefully coordinated",
         "is_correct": true
       },
       {
-        "text": "A group ignores all previous measurements.",
+        "text": "More expertise always reduces available evidence",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A team improves a water-quality test using a method published last year.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Large teams can offer breadth but require agreed methods, clear roles and effective communication.",
+      "hint": "Benefits can create coordination needs."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-p-024",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-024",
     "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science collaboration",
-    "question": "Why does collaboration not mean automatic agreement after students review their evidence?",
-    "audio_prompt": "Why does collaboration not mean automatic agreement after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "individual_and_team",
+    "question": "Which task could one scientist reasonably begin alone but later strengthen through collaboration?",
+    "audio_prompt": "Which task could one scientist reasonably begin alone but later strengthen through collaboration?",
     "answers": [
       {
-        "text": "Everyone must choose the same answer before testing.",
+        "text": "Selecting an answer by popularity",
         "is_correct": false
       },
       {
-        "text": "The oldest scientist decides the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Scientists still compare evidence and challenge explanations.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Scientists still compare evidence and challenge explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-t-001",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A different class checks the same science idea: Why does collaboration not mean automatic agreement?",
-    "audio_prompt": "A different class checks the same science idea: Why does collaboration not mean automatic agreement?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Scientists still compare evidence and challenge explanations.",
+        "text": "Recording a local observation, then asking specialists to test explanations",
         "is_correct": true
       },
       {
-        "text": "Everyone must choose the same answer before testing.",
+        "text": "Declaring a universal law from one glance",
         "is_correct": false
       },
       {
-        "text": "The oldest scientist decides the result.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Scientists still compare evidence and challenge explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-t-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A different class checks the same science idea: Which example shows science building on earlier work?",
-    "audio_prompt": "A different class checks the same science idea: Which example shows science building on earlier work?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A student copies results without checking them.",
-        "is_correct": false
-      },
-      {
-        "text": "A team improves a water-quality test using a method published last year.",
-        "is_correct": true
-      },
-      {
-        "text": "A group ignores all previous measurements.",
+        "text": "Refusing to share methods",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A team improves a water-quality test using a method published last year.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Individual observation can start an inquiry, while additional expertise and checking strengthen the explanation.",
+      "hint": "Science may begin individually and advance collectively."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 24,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-t-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-025",
     "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A different class checks the same science idea: Why can critique improve scientific work?",
-    "audio_prompt": "A different class checks the same science idea: Why can critique improve scientific work?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "credit_and_contribution",
+    "question": "A paper lists a field team, data analyst and instrument designer. Why is naming contributions valuable?",
+    "audio_prompt": "A paper lists a field team, data analyst and instrument designer. Why is naming contributions valuable?",
     "answers": [
       {
-        "text": "It means rejecting every result.",
-        "is_correct": false
-      },
-      {
-        "text": "It replaces evidence with opinions.",
-        "is_correct": false
-      },
-      {
-        "text": "It helps find weaknesses in evidence, methods or explanations.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "It helps find weaknesses in evidence, methods or explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-t-004",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A different class checks the same science idea: A report credits one famous scientist for a discovery made by a team. What is missing?",
-    "audio_prompt": "A different class checks the same science idea: A report credits one famous scientist for a discovery made by a team. What is missing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The contribution of collaborators and earlier work.",
+        "text": "It shows how different work supported the conclusion",
         "is_correct": true
       },
       {
-        "text": "A longer title only.",
+        "text": "It proves the first name did all the science",
         "is_correct": false
       },
       {
-        "text": "A claim that technology did all the thinking.",
+        "text": "It ranks people by intelligence",
+        "is_correct": false
+      },
+      {
+        "text": "It removes responsibility for errors",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The contribution of collaborators and earlier work.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Contribution statements make the collaborative pathway and responsibilities visible.",
+      "hint": "Trace who enabled what."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-t-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-026",
     "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A different class checks the same science idea: Why are shared databases useful in large environmental studies?",
-    "audio_prompt": "A different class checks the same science idea: Why are shared databases useful in large environmental studies?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "timeline_reasoning",
+    "question": "A timeline shows: 1609 telescopic observations; 1687 mathematical model; 1846 prediction and observation of Neptune. What does it illustrate?",
+    "audio_prompt": "A timeline shows: 1609 telescopic observations; 1687 mathematical model; 1846 prediction and observation of Neptune. What does it illustrate?",
     "answers": [
       {
-        "text": "They remove the need for careful measurements.",
+        "text": "Only the final observer contributed",
         "is_correct": false
       },
       {
-        "text": "Many observations can reveal patterns across places and time.",
+        "text": "Mathematics cannot support science",
+        "is_correct": false
+      },
+      {
+        "text": "Old evidence was erased",
+        "is_correct": false
+      },
+      {
+        "text": "Later advances used earlier observations and models",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "New predictions and observations were possible because earlier tools, records and mathematical ideas accumulated.",
+      "hint": "Connect steps across time."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-027",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "conflicting_evidence",
+    "question": "Two teams obtain different results for seed growth. What is the most scientific collaborative response?",
+    "audio_prompt": "Two teams obtain different results for seed growth. What is the most scientific collaborative response?",
+    "answers": [
+      {
+        "text": "Average the conclusions without examining data",
+        "is_correct": false
+      },
+      {
+        "text": "Keep only the expected result",
+        "is_correct": false
+      },
+      {
+        "text": "Compare methods and conditions, then repeat targeted tests",
         "is_correct": true
       },
       {
-        "text": "They make all scientists agree immediately.",
+        "text": "Choose the friendliest team",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Differences can reveal variables or errors; comparing methods guides informative replication.",
+      "hint": "Investigate why, rather than vote."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-028",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "shared_dataset",
+    "question": "Team A measures 12 plants in shade; Team B measures 12 in sun using the same method. Together, the data mainly allow researchers to:",
+    "audio_prompt": "Team A measures 12 plants in shade; Team B measures 12 in sun using the same method. Together, the data mainly allow researchers to:",
+    "answers": [
+      {
+        "text": "prove every plant grows equally",
+        "is_correct": false
+      },
+      {
+        "text": "compare growth under two light conditions",
+        "is_correct": true
+      },
+      {
+        "text": "claim light is the only factor in every habitat",
+        "is_correct": false
+      },
+      {
+        "text": "ignore sample sizes",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Many observations can reveal patterns across places and time.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Comparable groups provide evidence for a light-condition comparison, with conclusions limited to the study.",
+      "hint": "State only what the design supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-t-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-029",
     "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A different class checks the same science idea: How can repeating another group’s investigation help science?",
-    "audio_prompt": "A different class checks the same science idea: How can repeating another group’s investigation help science?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "evidence_table",
+    "question": "Three sensor designs must record hourly and work below 0°C. Results: P hourly/−10°C; Q daily/−20°C; R hourly/5°C. Which meets both requirements?",
+    "audio_prompt": "Three sensor designs must record hourly and work below 0°C. Results: P hourly/−10°C; Q daily/−20°C; R hourly/5°C. Which meets both requirements?",
     "answers": [
       {
-        "text": "It proves the first group cheated.",
-        "is_correct": false
-      },
-      {
-        "text": "It makes methods unnecessary.",
-        "is_correct": false
-      },
-      {
-        "text": "It checks whether the finding is reliable.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "It checks whether the finding is reliable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-t-007",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A different class checks the same science idea: A new sensor gives surprising readings. What should the team do first?",
-    "audio_prompt": "A different class checks the same science idea: A new sensor gives surprising readings. What should the team do first?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Test and compare the sensor readings before trusting them.",
+        "text": "P only",
         "is_correct": true
       },
       {
-        "text": "Accept the data because new technology is always accurate.",
+        "text": "Q only",
         "is_correct": false
       },
       {
-        "text": "Delete older data automatically.",
+        "text": "R only",
+        "is_correct": false
+      },
+      {
+        "text": "Q and R",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Test and compare the sensor readings before trusting them.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Only P satisfies both the recording-frequency and temperature criteria.",
+      "hint": "Check every requirement, not just one."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-t-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-030",
     "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A different class checks the same science idea: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
-    "audio_prompt": "A different class checks the same science idea: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "engineering_comparison",
+    "question": "A team shares test data showing Prototype X is accurate but fragile and Y is slightly less accurate but durable. What should happen next?",
+    "audio_prompt": "A team shares test data showing Prototype X is accurate but fragile and Y is slightly less accurate but durable. What should happen next?",
     "answers": [
       {
-        "text": "One scientist must do every job alone.",
+        "text": "Declare both perfect",
         "is_correct": false
       },
       {
-        "text": "Different expertise helps collect, process and interpret better evidence.",
+        "text": "Hide the weakness of X",
+        "is_correct": false
+      },
+      {
+        "text": "Select by logo colour",
+        "is_correct": false
+      },
+      {
+        "text": "Use the shared evidence to refine a design for both criteria",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Comparison reveals complementary strengths and guides a targeted improvement.",
+      "hint": "Evidence should shape revision."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-031",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "replication_limit",
+    "question": "Four laboratories repeat a result successfully. Which conclusion is best?",
+    "audio_prompt": "Four laboratories repeat a result successfully. Which conclusion is best?",
+    "answers": [
+      {
+        "text": "The laboratories formed a winning majority",
+        "is_correct": false
+      },
+      {
+        "text": "All experimental uncertainty is zero",
+        "is_correct": false
+      },
+      {
+        "text": "Confidence increases, but further evidence could still revise the explanation",
         "is_correct": true
       },
       {
-        "text": "Collaboration means nobody checks the method.",
+        "text": "The claim is now impossible to challenge",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated independent agreement strengthens confidence without making knowledge absolute.",
+      "hint": "Avoid “proven forever”."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-032",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "publication",
+    "question": "Why do detailed methods help later scientists?",
+    "audio_prompt": "Why do detailed methods help later scientists?",
+    "answers": [
+      {
+        "text": "They replace data",
+        "is_correct": false
+      },
+      {
+        "text": "They allow others to evaluate, repeat and adapt the investigation",
+        "is_correct": true
+      },
+      {
+        "text": "They hide mistakes",
+        "is_correct": false
+      },
+      {
+        "text": "They make all contexts identical",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Different expertise helps collect, process and interpret better evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Transparent methods enable checking and provide a practical foundation for extensions.",
+      "hint": "Could another team understand what was done?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-t-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-033",
     "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A follow-up test asks: Why does collaboration not mean automatic agreement?",
-    "audio_prompt": "A follow-up test asks: Why does collaboration not mean automatic agreement?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "negative_result",
+    "question": "A team reports that a proposed filter did not reduce phosphate. How can this still advance science?",
+    "audio_prompt": "A team reports that a proposed filter did not reduce phosphate. How can this still advance science?",
     "answers": [
       {
-        "text": "Everyone must choose the same answer before testing.",
-        "is_correct": false
-      },
-      {
-        "text": "The oldest scientist decides the result.",
-        "is_correct": false
-      },
-      {
-        "text": "Scientists still compare evidence and challenge explanations.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Scientists still compare evidence and challenge explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-t-010",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A follow-up test asks: Which example shows science building on earlier work?",
-    "audio_prompt": "A follow-up test asks: Which example shows science building on earlier work?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A team improves a water-quality test using a method published last year.",
+        "text": "It identifies an ineffective approach and informs the next design",
         "is_correct": true
       },
       {
-        "text": "A student copies results without checking them.",
+        "text": "Unsuccessful tests contain no evidence",
         "is_correct": false
       },
       {
-        "text": "A group ignores all previous measurements.",
+        "text": "The result should be deleted",
+        "is_correct": false
+      },
+      {
+        "text": "It proves filtration is impossible",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A team improves a water-quality test using a method published last year.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A well-designed negative result can prevent needless repetition and guide improved explanations or designs.",
+      "hint": "Not all useful evidence confirms a prediction."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-t-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-034",
     "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A follow-up test asks: Why can critique improve scientific work?",
-    "audio_prompt": "A follow-up test asks: Why can critique improve scientific work?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "specialisation",
+    "question": "A microbiologist identifies organisms while a statistician tests whether differences are larger than expected variation. Why are both roles useful?",
+    "audio_prompt": "A microbiologist identifies organisms while a statistician tests whether differences are larger than expected variation. Why are both roles useful?",
     "answers": [
       {
-        "text": "It means rejecting every result.",
+        "text": "Statistics replaces observations",
         "is_correct": false
       },
       {
-        "text": "It helps find weaknesses in evidence, methods or explanations.",
+        "text": "Only one role may contribute to science",
+        "is_correct": false
+      },
+      {
+        "text": "They guarantee the hypothesis",
+        "is_correct": false
+      },
+      {
+        "text": "Identification and quantitative analysis answer connected parts of the question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The roles contribute complementary evidence and reasoning to the shared investigation.",
+      "hint": "Name each distinct contribution."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-035",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "shared_instruments",
+    "question": "Several countries book time on one powerful telescope. What scientific benefit can sharing provide?",
+    "audio_prompt": "Several countries book time on one powerful telescope. What scientific benefit can sharing provide?",
+    "answers": [
+      {
+        "text": "All observations become identical",
+        "is_correct": false
+      },
+      {
+        "text": "Countries no longer need to communicate",
+        "is_correct": false
+      },
+      {
+        "text": "More research questions can use equipment too costly for one small team",
         "is_correct": true
       },
       {
-        "text": "It replaces evidence with opinions.",
+        "text": "The telescope removes the need for expertise",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Shared infrastructure expands access and enables teams to contribute different investigations and expertise.",
+      "hint": "Consider scarce equipment."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-036",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "citizen_science",
+    "question": "Hundreds of volunteers photograph flowering dates while scientists verify samples and analyse patterns. Why is this collaboration?",
+    "audio_prompt": "Hundreds of volunteers photograph flowering dates while scientists verify samples and analyse patterns. Why is this collaboration?",
+    "answers": [
+      {
+        "text": "Photos replace dates and locations",
+        "is_correct": false
+      },
+      {
+        "text": "Public observations expand coverage and scientific checking supports data quality",
+        "is_correct": true
+      },
+      {
+        "text": "Volunteers automatically prove the explanation",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists contribute nothing",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It helps find weaknesses in evidence, methods or explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The groups make linked contributions to one question: broad collection, verification and analysis.",
+      "hint": "Trace how roles combine."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-t-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-037",
     "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A follow-up test asks: A report credits one famous scientist for a discovery made by a team. What is missing?",
-    "audio_prompt": "A follow-up test asks: A report credits one famous scientist for a discovery made by a team. What is missing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "ethical_collaboration",
+    "question": "Before using First Nations ecological knowledge, what should a research team do?",
+    "audio_prompt": "Before using First Nations ecological knowledge, what should a research team do?",
     "answers": [
       {
-        "text": "A longer title only.",
-        "is_correct": false
-      },
-      {
-        "text": "A claim that technology did all the thinking.",
-        "is_correct": false
-      },
-      {
-        "text": "The contribution of collaborators and earlier work.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The contribution of collaborators and earlier work.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-t-013",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A follow-up test asks: Why are shared databases useful in large environmental studies?",
-    "audio_prompt": "A follow-up test asks: Why are shared databases useful in large environmental studies?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Many observations can reveal patterns across places and time.",
+        "text": "Work through respectful partnerships, permission and appropriate recognition",
         "is_correct": true
       },
       {
-        "text": "They remove the need for careful measurements.",
+        "text": "Publish it without consultation",
         "is_correct": false
       },
       {
-        "text": "They make all scientists agree immediately.",
+        "text": "Treat it as freely owned data",
+        "is_correct": false
+      },
+      {
+        "text": "Remove information about Country",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Many observations can reveal patterns across places and time.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Ethical collaboration respects knowledge holders, agreed protocols, attribution and control.",
+      "hint": "Collaboration includes relationships and permission."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-t-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-038",
     "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A follow-up test asks: How can repeating another group’s investigation help science?",
-    "audio_prompt": "A follow-up test asks: How can repeating another group’s investigation help science?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "model_revision",
+    "question": "A new spacecraft measurement conflicts with part of an older planetary model. What should scientists do?",
+    "audio_prompt": "A new spacecraft measurement conflicts with part of an older planetary model. What should scientists do?",
     "answers": [
       {
-        "text": "It proves the first group cheated.",
+        "text": "Discard all earlier astronomy",
         "is_correct": false
       },
       {
-        "text": "It checks whether the finding is reliable.",
+        "text": "Ignore the spacecraft to protect consensus",
+        "is_correct": false
+      },
+      {
+        "text": "Vote on which result is nicer",
+        "is_correct": false
+      },
+      {
+        "text": "Examine measurement quality and revise the model if evidence supports change",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "New evidence is checked against prior evidence; supported parts may remain while inadequate parts are revised.",
+      "hint": "Revision need not erase every earlier contribution."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-039",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "communication",
+    "question": "A chemist uses “ppm” while community samplers record “mg/L”. What must the team clarify before combining data?",
+    "audio_prompt": "A chemist uses “ppm” while community samplers record “mg/L”. What must the team clarify before combining data?",
+    "answers": [
+      {
+        "text": "Which team has more members",
+        "is_correct": false
+      },
+      {
+        "text": "Whether to remove labels",
+        "is_correct": false
+      },
+      {
+        "text": "Whether the units are equivalent under the relevant conditions and how to convert them",
         "is_correct": true
       },
       {
-        "text": "It makes methods unnecessary.",
+        "text": "Which abbreviation looks more scientific",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Unit meaning and conversions must be explicit for valid comparison.",
+      "hint": "Shared data need shared measurement language."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-040",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "uncertainty",
+    "question": "Why should collaborators report uncertainty with measurements?",
+    "audio_prompt": "Why should collaborators report uncertainty with measurements?",
+    "answers": [
+      {
+        "text": "It prevents later analysis",
+        "is_correct": false
+      },
+      {
+        "text": "It shows the limits of precision and supports fair comparison",
+        "is_correct": true
+      },
+      {
+        "text": "It makes weak evidence look certain",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees identical readings",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It checks whether the finding is reliable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Uncertainty helps others interpret differences and decide whether apparent patterns are meaningful.",
+      "hint": "Honest limits strengthen shared interpretation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h01-t-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H01-P-041",
     "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A follow-up test asks: A new sensor gives surprising readings. What should the team do first?",
-    "audio_prompt": "A follow-up test asks: A new sensor gives surprising readings. What should the team do first?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "causal_caution",
+    "question": "Satellite images show tree loss while field teams find fewer nesting birds. What further collaboration best tests a causal explanation?",
+    "audio_prompt": "Satellite images show tree loss while field teams find fewer nesting birds. What further collaboration best tests a causal explanation?",
     "answers": [
       {
-        "text": "Accept the data because new technology is always accurate.",
-        "is_correct": false
-      },
-      {
-        "text": "Delete older data automatically.",
-        "is_correct": false
-      },
-      {
-        "text": "Test and compare the sensor readings before trusting them.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Test and compare the sensor readings before trusting them.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h01-t-016",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H01",
-    "bank": "test",
-    "skill": "science collaboration",
-    "question": "A follow-up test asks: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
-    "audio_prompt": "A follow-up test asks: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Different expertise helps collect, process and interpret better evidence.",
+        "text": "Ecologists, analysts and field teams compare multiple sites and alternative factors",
         "is_correct": true
       },
       {
-        "text": "One scientist must do every job alone.",
+        "text": "A single person guesses the cause",
         "is_correct": false
       },
       {
-        "text": "Collaboration means nobody checks the method.",
+        "text": "The team counts only the site with the largest decline",
+        "is_correct": false
+      },
+      {
+        "text": "Members vote that trees caused everything",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Different expertise helps collect, process and interpret better evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Multiple expertise and sites can test whether habitat loss, rather than another factor, explains the bird pattern.",
+      "hint": "Correlation needs targeted evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 41,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-042",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "collaboration_judgement",
+    "question": "Which project is least collaborative scientifically?",
+    "audio_prompt": "Which project is least collaborative scientifically?",
+    "answers": [
+      {
+        "text": "Schools follow a common protocol and pool data",
+        "is_correct": false
+      },
+      {
+        "text": "Four people conduct unrelated tests and never exchange evidence",
+        "is_correct": true
+      },
+      {
+        "text": "A later team repeats and extends a published method",
+        "is_correct": false
+      },
+      {
+        "text": "Three specialists integrate results to answer one question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Working at the same time is not enough when evidence and purposes are unconnected.",
+      "hint": "Find parallel work without a shared scientific contribution."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 42,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-043",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "advance_attribution",
+    "question": "A modern forecast uses old weather records, a satellite network and a new computer model. Which explanation is strongest?",
+    "audio_prompt": "A modern forecast uses old weather records, a satellite network and a new computer model. Which explanation is strongest?",
+    "answers": [
+      {
+        "text": "Old records are irrelevant once satellites exist",
+        "is_correct": false
+      },
+      {
+        "text": "More technology guarantees accuracy",
+        "is_correct": false
+      },
+      {
+        "text": "The advance depends on accumulated records, shared observations and improved analysis",
+        "is_correct": true
+      },
+      {
+        "text": "Only the computer programmer contributed",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The forecast emerges from complementary contributions across time, tools and teams.",
+      "hint": "Account for all parts of the evidence chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 43,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-044",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "consensus_change",
+    "question": "Why can an evidence-based consensus later change?",
+    "audio_prompt": "Why can an evidence-based consensus later change?",
+    "answers": [
+      {
+        "text": "A single unsupported claim automatically replaces it",
+        "is_correct": false
+      },
+      {
+        "text": "New reliable evidence or better explanations may alter the balance of support",
+        "is_correct": true
+      },
+      {
+        "text": "Consensus is merely a temporary popularity contest",
+        "is_correct": false
+      },
+      {
+        "text": "Scientists forget previous evidence",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Scientific judgements remain open to revision when stronger assessed evidence emerges.",
+      "hint": "Change should be evidence-driven."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-045",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "failure_analysis",
+    "question": "An international experiment fails because clocks were not synchronised. What lesson best follows?",
+    "audio_prompt": "An international experiment fails because clocks were not synchronised. What lesson best follows?",
+    "answers": [
+      {
+        "text": "Shared protocols must include precise coordination across sites",
+        "is_correct": true
+      },
+      {
+        "text": "International research cannot work",
+        "is_correct": false
+      },
+      {
+        "text": "Each site should hide its times",
+        "is_correct": false
+      },
+      {
+        "text": "Specialised roles are unnecessary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Distributed work depends on clear standards, timing and communication so contributions remain comparable.",
+      "hint": "Identify the coordination failure."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 45,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-046",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "integrated_reasoning",
+    "question": "Which statement best explains why collaboration often—not always—advances science?",
+    "audio_prompt": "Which statement best explains why collaboration often—not always—advances science?",
+    "answers": [
+      {
+        "text": "Any group conclusion is correct",
+        "is_correct": false
+      },
+      {
+        "text": "Individuals cannot make observations",
+        "is_correct": false
+      },
+      {
+        "text": "Collaboration eliminates uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "It can combine expertise, evidence and checking, but quality still depends on sound methods and communication",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Collaboration provides powerful mechanisms, yet it does not replace rigorous methods or critical review.",
+      "hint": "Choose a qualified explanation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-047",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "specific_contribution",
+    "question": "A data analyst finds a seasonal pattern that field researchers had not noticed. How did the analyst enable an advance?",
+    "audio_prompt": "A data analyst finds a seasonal pattern that field researchers had not noticed. How did the analyst enable an advance?",
+    "answers": [
+      {
+        "text": "By proving the pattern without checking",
+        "is_correct": false
+      },
+      {
+        "text": "By taking ownership of every observation",
+        "is_correct": false
+      },
+      {
+        "text": "By applying specialised analysis to shared observations, creating a claim the field team can test",
+        "is_correct": true
+      },
+      {
+        "text": "By making the field evidence unnecessary",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Specialised analysis revealed a testable relationship within evidence collected by collaborators.",
+      "hint": "Name contribution and next scientific use."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-P-048",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "evidence_synthesis",
+    "question": "Two historical studies provide opposite claims, but a new team discovers they sampled different seasons. What is the advance?",
+    "audio_prompt": "Two historical studies provide opposite claims, but a new team discovers they sampled different seasons. What is the advance?",
+    "answers": [
+      {
+        "text": "Season can be ignored after publication",
+        "is_correct": false
+      },
+      {
+        "text": "The team explains the disagreement by linking results to sampling conditions",
+        "is_correct": true
+      },
+      {
+        "text": "Both earlier studies become worthless",
+        "is_correct": false
+      },
+      {
+        "text": "The newest team wins by date",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Comparing methods can reconcile apparent conflict and produce a more precise explanation.",
+      "hint": "Earlier work may become clearer, not useless."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-001",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "foundation",
+    "skill": "specialised_roles",
+    "question": "A reef project assigns divers to survey coral, chemists to test water and modellers to predict recovery. Why is this effective collaboration?",
+    "audio_prompt": "A reef project assigns divers to survey coral, chemists to test water and modellers to predict recovery. Why is this effective collaboration?",
+    "answers": [
+      {
+        "text": "The connected roles supply different evidence for one recovery question",
+        "is_correct": true
+      },
+      {
+        "text": "Every member conducts the same test",
+        "is_correct": false
+      },
+      {
+        "text": "The prediction replaces surveys",
+        "is_correct": false
+      },
+      {
+        "text": "More roles guarantee success",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each specialist contributes evidence or analysis needed for the shared question.",
+      "hint": "Connect roles to one purpose."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-002",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "foundation",
+    "skill": "prior_findings",
+    "question": "A vaccine storage box uses insulation described in an earlier engineering report. This shows that:",
+    "audio_prompt": "A vaccine storage box uses insulation described in an earlier engineering report. This shows that:",
+    "answers": [
+      {
+        "text": "the earlier designers did not contribute",
+        "is_correct": false
+      },
+      {
+        "text": "reports prevent improvement",
+        "is_correct": false
+      },
+      {
+        "text": "only medical workers do science",
+        "is_correct": false
+      },
+      {
+        "text": "a new application can build on published design knowledge",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The new team applies an earlier tested idea to a different practical problem.",
+      "hint": "Identify what the report provides."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-003",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "shared_observations",
+    "question": "Island groups use identical tide gauges and upload monthly readings. Why is the network stronger than one gauge?",
+    "audio_prompt": "Island groups use identical tide gauges and upload monthly readings. Why is the network stronger than one gauge?",
+    "answers": [
+      {
+        "text": "It removes calibration needs",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees a causal explanation",
+        "is_correct": false
+      },
+      {
+        "text": "It captures patterns across more locations and permits comparison",
+        "is_correct": true
+      },
+      {
+        "text": "It makes tides equal on every island",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Coordinated observations broaden geographic evidence while retaining comparability.",
+      "hint": "Think breadth plus common method."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-004",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "peer_response",
+    "question": "Reviewers say a study’s sample is too small. Which response best advances the work?",
+    "audio_prompt": "Reviewers say a study’s sample is too small. Which response best advances the work?",
+    "answers": [
+      {
+        "text": "Repeat the same calculation only",
+        "is_correct": false
+      },
+      {
+        "text": "Collect additional representative samples and report whether the pattern remains",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the sample size from the report",
+        "is_correct": false
+      },
+      {
+        "text": "Ask reviewers to vote for acceptance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "New representative evidence directly tests whether the result is stable.",
+      "hint": "Respond to the stated limitation."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-005",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "incremental_timeline",
+    "question": "Timeline: hand lens observations → microscope images → DNA comparisons. What does the sequence demonstrate?",
+    "audio_prompt": "Timeline: hand lens observations → microscope images → DNA comparisons. What does the sequence demonstrate?",
+    "answers": [
+      {
+        "text": "New tools let scientists extend and recheck earlier classification evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Each tool makes all previous observations false",
+        "is_correct": false
+      },
+      {
+        "text": "Only DNA users collaborate",
+        "is_correct": false
+      },
+      {
+        "text": "Scientific questions never change",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Successive tools add evidence and can refine classifications built from earlier observations.",
+      "hint": "Look for extension, not erasure."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-006",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "replication",
+    "question": "A remote team follows published instructions but does not reproduce a battery result. What is the best next action?",
+    "audio_prompt": "A remote team follows published instructions but does not reproduce a battery result. What is the best next action?",
+    "answers": [
+      {
+        "text": "Declare one team dishonest immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Average a success and failure into certainty",
+        "is_correct": false
+      },
+      {
+        "text": "Stop sharing methods",
+        "is_correct": false
+      },
+      {
+        "text": "Compare materials, temperatures and procedures with the original team",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Method comparison may identify conditions responsible for the different outcomes and guide new tests.",
+      "hint": "Investigate sources of difference."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-007",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "data_table",
+    "question": "Sensors must last 30 days and transmit every hour. A lasts 45 days/6-hourly; B lasts 32 days/hourly; C lasts 20 days/hourly. Which satisfies both?",
+    "audio_prompt": "Sensors must last 30 days and transmit every hour. A lasts 45 days/6-hourly; B lasts 32 days/hourly; C lasts 20 days/hourly. Which satisfies both?",
+    "answers": [
+      {
+        "text": "C",
+        "is_correct": false
+      },
+      {
+        "text": "A and C",
+        "is_correct": false
+      },
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "B alone meets both duration and transmission-frequency requirements.",
+      "hint": "Test both criteria."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-008",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "antarctic_science",
+    "question": "Teams at two Antarctic stations find different moss growth rates. Which collaboration would add the most useful evidence?",
+    "audio_prompt": "Teams at two Antarctic stations find different moss growth rates. Which collaboration would add the most useful evidence?",
+    "answers": [
+      {
+        "text": "Let station leaders vote",
+        "is_correct": false
+      },
+      {
+        "text": "Use matched measurements of light, temperature and moisture at both stations",
+        "is_correct": true
+      },
+      {
+        "text": "Select the faster growth as correct",
+        "is_correct": false
+      },
+      {
+        "text": "Combine rates without location data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Matched environmental measurements help explain why growth differs between locations.",
+      "hint": "Compare relevant abiotic factors."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-009",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "remote_sensing",
+    "question": "Engineers improve a drone camera after ecologists explain that leaf colour distinguishes stressed plants. What enabled the advance?",
+    "audio_prompt": "Engineers improve a drone camera after ecologists explain that leaf colour distinguishes stressed plants. What enabled the advance?",
+    "answers": [
+      {
+        "text": "Ecological knowledge defined a useful signal for the engineering design",
+        "is_correct": true
+      },
+      {
+        "text": "The engineers replaced field science",
+        "is_correct": false
+      },
+      {
+        "text": "Leaf colour guarantees the cause of stress",
+        "is_correct": false
+      },
+      {
+        "text": "Both groups performed identical work",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ecologists supplied a biological requirement that engineers translated into a better sensing tool.",
+      "hint": "Name the link between contributions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-010",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "restorative_ecology",
+    "question": "A project uses cultural burning knowledge, vegetation surveys and fire-behaviour models. Which claim is most appropriate?",
+    "audio_prompt": "A project uses cultural burning knowledge, vegetation surveys and fire-behaviour models. Which claim is most appropriate?",
+    "answers": [
+      {
+        "text": "Only the computer model deserves recognition",
+        "is_correct": false
+      },
+      {
+        "text": "Cultural knowledge cannot be connected to measurements",
+        "is_correct": false
+      },
+      {
+        "text": "Combining approaches guarantees no harm",
+        "is_correct": false
+      },
+      {
+        "text": "Different knowledge holders and specialists can jointly guide, test and monitor restoration",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Respectful partnership can connect accumulated knowledge, current evidence and monitoring without promising certainty.",
+      "hint": "Look for integration and qualification."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-011",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "iss_program",
+    "question": "One country supplies a laboratory module, another a robotic arm and several provide crews. Why is the program collaborative?",
+    "audio_prompt": "One country supplies a laboratory module, another a robotic arm and several provide crews. Why is the program collaborative?",
+    "answers": [
+      {
+        "text": "Hardware alone guarantees discoveries",
+        "is_correct": false
+      },
+      {
+        "text": "Countries must have identical expertise",
+        "is_correct": false
+      },
+      {
+        "text": "The contributions are interdependent within a shared station and research program",
+        "is_correct": true
+      },
+      {
+        "text": "Each contribution answers an unrelated question",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Different contributions work together in one operating research system.",
+      "hint": "Interdependence matters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-012",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "phosphate_response",
+    "question": "Water scientists identify phosphate-driven blooms; chemists formulate an alternative detergent; councils monitor waterways. What does this show?",
+    "audio_prompt": "Water scientists identify phosphate-driven blooms; chemists formulate an alternative detergent; councils monitor waterways. What does this show?",
+    "answers": [
+      {
+        "text": "The alternative cannot have trade-offs",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence, product development and monitoring form connected contributions",
+        "is_correct": true
+      },
+      {
+        "text": "The first discovery made monitoring unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "Councils created the chemical explanation by voting",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Different groups turn a finding into action and check outcomes over time.",
+      "hint": "Trace discovery → application → checking."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-013",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "publication_value",
+    "question": "A century-old paper contains inaccurate conclusions but careful raw observations. How may it still contribute?",
+    "audio_prompt": "A century-old paper contains inaccurate conclusions but careful raw observations. How may it still contribute?",
+    "answers": [
+      {
+        "text": "Later researchers can reanalyse the observations using improved explanations",
+        "is_correct": true
+      },
+      {
+        "text": "Every part must be discarded",
+        "is_correct": false
+      },
+      {
+        "text": "Age makes evidence automatically reliable",
+        "is_correct": false
+      },
+      {
+        "text": "The old conclusion overrides new data",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Useful observations may remain a foundation even when their original interpretation is revised.",
+      "hint": "Separate data from interpretation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-014",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "team_bias",
+    "question": "All five collaborators calibrated instruments using the same faulty reference. Why may agreement be misleading?",
+    "audio_prompt": "All five collaborators calibrated instruments using the same faulty reference. Why may agreement be misleading?",
+    "answers": [
+      {
+        "text": "Five readings always remove error",
+        "is_correct": false
+      },
+      {
+        "text": "Collaboration converts faulty data into consensus",
+        "is_correct": false
+      },
+      {
+        "text": "Calibration never affects evidence",
+        "is_correct": false
+      },
+      {
+        "text": "A shared systematic error can affect every result",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Common procedures can transmit the same bias across a team, showing why independent checks matter.",
+      "hint": "Shared work can also share a flaw."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-015",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "consensus_evidence",
+    "question": "Twenty scientists endorse a claim, but only two have relevant data and those data conflict. What should determine the judgement?",
+    "audio_prompt": "Twenty scientists endorse a claim, but only two have relevant data and those data conflict. What should determine the judgement?",
+    "answers": [
+      {
+        "text": "The senior scientist’s preference",
+        "is_correct": false
+      },
+      {
+        "text": "The earliest claim",
+        "is_correct": false
+      },
+      {
+        "text": "The quality and consistency of the evidence, not the number endorsing it",
+        "is_correct": true
+      },
+      {
+        "text": "The largest show of hands",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Scientific consensus is earned through assessed evidence rather than simple popularity.",
+      "hint": "Do not confuse agreement with evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H01-T-016",
+    "curriculum_code": "AC9S6H01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "overall_explanation",
+    "question": "A student says, “Teams advance science because more people means the answer is right.” Which correction is best?",
+    "audio_prompt": "A student says, “Teams advance science because more people means the answer is right.” Which correction is best?",
+    "answers": [
+      {
+        "text": "Teamwork removes the need to publish methods",
+        "is_correct": false
+      },
+      {
+        "text": "Teams can combine expertise and independently check evidence, but rigorous methods—not team size—support a conclusion",
+        "is_correct": true
+      },
+      {
+        "text": "The statement is correct for teams over ten",
+        "is_correct": false
+      },
+      {
+        "text": "Only lone scientists can avoid errors",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Specific collaborative mechanisms can strengthen science, while numbers alone do not establish correctness.",
+      "hint": "Replace the vague claim with mechanisms and a limit."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
   }
 ]

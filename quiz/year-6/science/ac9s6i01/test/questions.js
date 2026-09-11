@@ -4,449 +4,449 @@ window.skillrTestQuestions = [
     "id": "ac9s6i01-t-001",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "materials match",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which question looks for a pattern?",
-    "audioPrompt": "A different class checks the same science idea: Which question looks for a pattern?",
+    "question": "A tray contains identical cups, sand, clay, equal water volumes and a timer. Which question is directly testable?",
+    "audioPrompt": "A tray contains identical cups, sand, clay, equal water volumes and a timer. Which question is directly testable?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "How does shell length vary among snails from three shore zones?",
-      "Which snail is cutest?",
-      "Can I collect every shell on the beach?"
+      "How does soil type affect the time water takes to drain?",
+      "Which soil is most valuable?",
+      "How does fertiliser affect leaf colour?",
+      "Why are deserts dry?"
     ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "How does shell length vary among snails from three shore zones?\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The materials allow soil type to change and drainage time to be measured.\nHint: Match the question to every listed resource.",
     "structuredExplanation": {
-      "summary": "How does shell length vary among snails from three shore zones?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The materials allow soil type to change and drainage time to be measured.",
+      "hint": "Match the question to every listed resource."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-002",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "variables",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A prediction says, “The closer sample will warm more.” What is missing?",
-    "audioPrompt": "A different class checks the same science idea: A prediction says, “The closer sample will warm more.” What is missing?",
+    "question": "Students vary torch distance and record solar-cell voltage. Which pair is correct?",
+    "audioPrompt": "Students vary torch distance and record solar-cell voltage. Which pair is correct?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A drawing of the table border.",
-      "A scientific reason explaining why.",
-      "A second unrelated prediction."
+      "changed: distance; measured: voltage",
+      "changed: torch colour; measured: time",
+      "changed: cell type; measured: mass",
+      "changed: voltage; measured: distance"
     ],
-    "correct": 1,
-    "explanation": "A scientific reason explaining why.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 2,
+    "correct": 0,
+    "explanation": "Torch distance is varied and voltage is the response recorded.\nHint: Separate the chosen factor from the outcome.",
     "structuredExplanation": {
-      "summary": "A scientific reason explaining why.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Torch distance is varied and voltage is the response recorded.",
+      "hint": "Separate the chosen factor from the outcome."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-003",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "question quality",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which question is too vague for a repeatable investigation?",
-    "audioPrompt": "A different class checks the same science idea: Which question is too vague for a repeatable investigation?",
+    "question": "Which question is least investigable?",
+    "audioPrompt": "Which question is least investigable?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "How does compost amount affect seedling height after 14 days?",
-      "How does water temperature affect dissolving time?",
-      "Does compost help plants?"
+      "How does load mass affect cart speed?",
+      "Does salt amount affect water conductivity?",
+      "How does fin area affect model-rocket flight distance?",
+      "Which rocket design is coolest?"
     ],
-    "correct": 2,
-    "explanation": "Does compost help plants?\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 3,
+    "correct": 3,
+    "explanation": "“Coolest” is an undefined subjective judgement.\nHint: Find the outcome with no agreed measurement.",
     "structuredExplanation": {
-      "summary": "Does compost help plants?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "“Coolest” is an undefined subjective judgement.",
+      "hint": "Find the outcome with no agreed measurement."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-004",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "method alignment",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why should only one main variable be changed?",
-    "audioPrompt": "A different class checks the same science idea: Why should only one main variable be changed?",
+    "question": "A method measures candle mass before and after burning for 2, 4 and 6 minutes. What relationship can be tested?",
+    "audioPrompt": "A method measures candle mass before and after burning for 2, 4 and 6 minutes. What relationship can be tested?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "So differences in results can be linked more clearly to that variable.",
-      "So the investigation finishes instantly.",
-      "So results are guaranteed identical."
+      "candle cost and popularity",
+      "burning time and mass lost",
+      "wick colour and flame height",
+      "room size and oxygen level"
     ],
-    "correct": 0,
-    "explanation": "So differences in results can be linked more clearly to that variable.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "Only time and mass change are systematically recorded.\nHint: Use the variables in the method.",
     "structuredExplanation": {
-      "summary": "So differences in results can be linked more clearly to that variable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Only time and mass change are systematically recorded.",
+      "hint": "Use the variables in the method."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-005",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "unsafe investigation",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: What is the measured variable in that lamp investigation?",
-    "audioPrompt": "A different class checks the same science idea: What is the measured variable in that lamp investigation?",
+    "question": "Which question requires redesign rather than classroom testing?",
+    "audioPrompt": "Which question requires redesign rather than classroom testing?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Distance from the lamp.",
-      "Brightness reading.",
-      "The student’s favourite colour."
+      "How does water depth affect a cork’s floating height?",
+      "How does inhaling increasing amounts of smoke affect breathing rate?",
+      "How does string length affect pendulum period?",
+      "How does insulation type affect cooling?"
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 5,
     "correct": 1,
-    "explanation": "Brightness reading.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Deliberately inhaling smoke is unsafe.\nHint: Reject intentional harmful exposure.",
     "structuredExplanation": {
-      "summary": "Brightness reading.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Deliberately inhaling smoke is unsafe.",
+      "hint": "Reject intentional harmful exposure."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-006",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "control factors",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: What is the changed variable in a test of lamp distance and brightness?",
-    "audioPrompt": "A different class checks the same science idea: What is the changed variable in a test of lamp distance and brightness?",
+    "question": "To ask how salt concentration affects egg floating height, what should remain constant?",
+    "audioPrompt": "To ask how salt concentration affects egg floating height, what should remain constant?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Brightness reading.",
-      "Type of graph used later.",
-      "Distance from the lamp."
+      "floating height",
+      "water volume and egg used",
+      "the predicted direction",
+      "salt concentration"
     ],
-    "correct": 2,
-    "explanation": "Distance from the lamp.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 6,
+    "correct": 1,
+    "explanation": "Water volume and egg properties could otherwise affect the outcome.\nHint: Keep other influential conditions steady.",
     "structuredExplanation": {
-      "summary": "Distance from the lamp.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Water volume and egg properties could otherwise affect the outcome.",
+      "hint": "Keep other influential conditions steady."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-007",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "pattern inference",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which prediction is reasoned?",
-    "audioPrompt": "A different class checks the same science idea: Which prediction is reasoned?",
+    "question": "Shadow lengths at noon were 82, 65, 49 and 38 cm across four dates approaching summer. Which prediction is justified for the next similar date?",
+    "audioPrompt": "Shadow lengths at noon were 82, 65, 49 and 38 cm across four dates approaching summer. Which prediction is justified for the next similar date?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-      "The warm seeds will win.",
-      "I think the blue pot is best."
+      "The shadow will vanish forever",
+      "Dates cannot be related to measurements",
+      "The noon shadow may be shorter than 38 cm because the recorded pattern decreases",
+      "It must be exactly 37 cm"
     ],
-    "correct": 0,
-    "explanation": "Seeds in warmer soil may germinate faster because temperature affects plant processes.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 7,
+    "correct": 2,
+    "explanation": "It extends the observed pattern cautiously rather than claiming certainty.\nHint: Use direction without false precision.",
     "structuredExplanation": {
-      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "It extends the observed pattern cautiously rather than claiming certainty.",
+      "hint": "Use direction without false precision."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-008",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "reasoned prediction",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which question can be investigated with a fair test?",
-    "audioPrompt": "A different class checks the same science idea: Which question can be investigated with a fair test?",
+    "question": "Which prediction best suits testing water flow through coarse and fine gravel?",
+    "audioPrompt": "Which prediction best suits testing water flow through coarse and fine gravel?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Which drink tastes nicest?",
-      "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
-      "Why is science interesting?"
+      "Both must take one second",
+      "If gravel pieces are coarser, then water will pass through faster because larger gaps provide wider pathways",
+      "Coarse gravel wins because it is coarse",
+      "Fine gravel will be prettier"
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "How does water temperature affect the time taken for equal amounts of salt to dissolve?\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The reason links particle spacing to flow rate.\nHint: Choose a mechanism, not repetition.",
     "structuredExplanation": {
-      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The reason links particle spacing to flow rate.",
+      "hint": "Choose a mechanism, not repetition."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-009",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "data limits",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which question looks for a pattern?",
-    "audioPrompt": "A follow-up test asks: Which question looks for a pattern?",
+    "question": "A class records battery life for one brand only. Can the data answer which of three brands lasts longest?",
+    "audioPrompt": "A class records battery life for one brand only. Can the data answer which of three brands lasts longest?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Which snail is cutest?",
-      "Can I collect every shell on the beach?",
-      "How does shell length vary among snails from three shore zones?"
+      "Yes, because one number is enough",
+      "No, because the other brands were not tested",
+      "Yes, if the first brand is famous",
+      "No, because time cannot be measured"
     ],
-    "correct": 2,
-    "explanation": "How does shell length vary among snails from three shore zones?\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 9,
+    "correct": 1,
+    "explanation": "A comparative question needs evidence for every compared brand.\nHint: Check whether all groups appear.",
     "structuredExplanation": {
-      "summary": "How does shell length vary among snails from three shore zones?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A comparative question needs evidence for every compared brand.",
+      "hint": "Check whether all groups appear."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-010",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "operational measure",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A prediction says, “The closer sample will warm more.” What is missing?",
-    "audioPrompt": "A follow-up test asks: A prediction says, “The closer sample will warm more.” What is missing?",
+    "question": "Which measurement best tests whether one shoe sole is “grippier” than another?",
+    "audioPrompt": "Which measurement best tests whether one shoe sole is “grippier” than another?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A scientific reason explaining why.",
-      "A drawing of the table border.",
-      "A second unrelated prediction."
+      "the sole colour",
+      "the owner’s favourite shoe",
+      "the number of letters in the brand",
+      "the force needed to start each weighted shoe sliding on the same surface"
     ],
-    "correct": 0,
-    "explanation": "A scientific reason explaining why.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "Starting-force measurement defines grip in an observable, comparable way.\nHint: Turn “grippy” into measurable resistance.",
     "structuredExplanation": {
-      "summary": "A scientific reason explaining why.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Starting-force measurement defines grip in an observable, comparable way.",
+      "hint": "Turn “grippy” into measurable resistance."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-011",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "association and cause",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which question is too vague for a repeatable investigation?",
-    "audioPrompt": "A follow-up test asks: Which question is too vague for a repeatable investigation?",
+    "question": "Towns with more streetlights also report fewer moths. What may students conclude from these data alone?",
+    "audioPrompt": "Towns with more streetlights also report fewer moths. What may students conclude from these data alone?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "How does compost amount affect seedling height after 14 days?",
-      "Does compost help plants?",
-      "How does water temperature affect dissolving time?"
+      "Moths caused streetlights",
+      "Every town will follow the same pattern",
+      "Streetlights certainly caused the difference",
+      "There is an observed association, but other factors may explain it"
     ],
-    "correct": 1,
-    "explanation": "Does compost help plants?\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 11,
+    "correct": 3,
+    "explanation": "Observational data identify association but do not isolate cause.\nHint: Avoid a causal claim from paired observations.",
     "structuredExplanation": {
-      "summary": "Does compost help plants?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Observational data identify association but do not isolate cause.",
+      "hint": "Avoid a causal claim from paired observations."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-012",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "confounded plans",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why should only one main variable be changed?",
-    "audioPrompt": "A follow-up test asks: Why should only one main variable be changed?",
+    "question": "Plan A changes fan speed only. Plan B changes fan speed and towel size. Both measure drying time. Which judgement is correct?",
+    "audioPrompt": "Plan A changes fan speed only. Plan B changes fan speed and towel size. Both measure drying time. Which judgement is correct?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "So the investigation finishes instantly.",
-      "So results are guaranteed identical.",
-      "So differences in results can be linked more clearly to that variable."
+      "Neither can measure time",
+      "Plan B isolates fan speed better",
+      "Plan A better tests the fan-speed relationship",
+      "Both are equally valid because both use timers"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 12,
     "correct": 2,
-    "explanation": "So differences in results can be linked more clearly to that variable.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Plan A avoids towel size confounding the effect of fan speed.\nHint: Which plan changes just the target factor?",
     "structuredExplanation": {
-      "summary": "So differences in results can be linked more clearly to that variable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Plan A avoids towel size confounding the effect of fan speed.",
+      "hint": "Which plan changes just the target factor?"
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-013",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "prediction evidence",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: What is the measured variable in that lamp investigation?",
-    "audioPrompt": "A follow-up test asks: What is the measured variable in that lamp investigation?",
+    "question": "A student predicts magnets work better when cold “because I like winter”. What is the best improvement?",
+    "audioPrompt": "A student predicts magnets work better when cold “because I like winter”. What is the best improvement?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Brightness reading.",
-      "Distance from the lamp.",
-      "The student’s favourite colour."
+      "Keep the outcome but replace the reason with relevant prior magnetic evidence or scientific knowledge",
+      "Add an exclamation mark",
+      "Call the guess a law",
+      "Remove all measurements"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Brightness reading.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "A reasoned prediction requires relevant evidence, not preference.\nHint: Repair the because clause.",
     "structuredExplanation": {
-      "summary": "Brightness reading.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A reasoned prediction requires relevant evidence, not preference.",
+      "hint": "Repair the because clause."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-014",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "question limits",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: What is the changed variable in a test of lamp distance and brightness?",
-    "audioPrompt": "A follow-up test asks: What is the changed variable in a test of lamp distance and brightness?",
+    "question": "A sensor records creek turbidity weekly for six weeks. Which question exceeds the evidence?",
+    "audioPrompt": "A sensor records creek turbidity weekly for six weeks. Which question exceeds the evidence?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Brightness reading.",
-      "Distance from the lamp.",
-      "Type of graph used later."
+      "Was turbidity associated with recorded rainfall during those weeks?",
+      "What will turbidity be on every day for the next century?",
+      "Which week had the highest turbidity?",
+      "How did turbidity vary across the six weeks?"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "Distance from the lamp.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Six weeks of data cannot justify exact daily forecasts for a century.\nHint: Compare the claim’s scale with the dataset.",
     "structuredExplanation": {
-      "summary": "Distance from the lamp.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Six weeks of data cannot justify exact daily forecasts for a century.",
+      "hint": "Compare the claim’s scale with the dataset."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-015",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "question revision",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which prediction is reasoned?",
-    "audioPrompt": "A follow-up test asks: Which prediction is reasoned?",
+    "question": "Students ask, “Are lunch boxes good?” Which revision best fits drop-test equipment and a balance?",
+    "audioPrompt": "Students ask, “Are lunch boxes good?” Which revision best fits drop-test equipment and a balance?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "The warm seeds will win.",
-      "I think the blue pot is best.",
-      "Seeds in warmer soil may germinate faster because temperature affects plant processes."
+      "Who buys lunch boxes?",
+      "Are drops good?",
+      "How does lunch-box material affect the mass of modelling clay lost after a 1 m drop?",
+      "Which lunch box looks friendly?"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Seeds in warmer soil may germinate faster because temperature affects plant processes.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "It defines material as the comparison and mass lost as the damage measure.\nHint: Use the equipment to define “good”.",
     "structuredExplanation": {
-      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "It defines material as the comparison and mass lost as the damage measure.",
+      "hint": "Use the equipment to define “good”."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i01-t-016",
     "curriculumCode": "AC9S6I01",
     "bank": "test",
-    "skill": "investigable questions",
+    "skill": "inquiry synthesis",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which question can be investigated with a fair test?",
-    "audioPrompt": "A follow-up test asks: Which question can be investigated with a fair test?",
+    "question": "Which conclusion about questions and predictions is correct?",
+    "audioPrompt": "Which conclusion about questions and predictions is correct?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
-      "Which drink tastes nicest?",
-      "Why is science interesting?"
+      "A fair test can answer questions about unmeasured outcomes",
+      "Any answerable question is safe to test",
+      "A strong question aligns variables, methods and evidence; a strong prediction adds a justified expected relationship",
+      "Predictions must state exact numbers"
     ],
-    "correct": 0,
-    "explanation": "How does water temperature affect the time taken for equal amounts of salt to dissolve?\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 16,
+    "correct": 2,
+    "explanation": "Alignment and evidence-based reasoning are central, with safety and limitations also required.\nHint: Choose the statement that joins question, evidence and reasoning.",
     "structuredExplanation": {
-      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Alignment and evidence-based reasoning are central, with safety and limitations also required.",
+      "hint": "Choose the statement that joins question, evidence and reasoning."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

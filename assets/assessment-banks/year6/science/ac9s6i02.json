@@ -1,1322 +1,2434 @@
 [
   {
-    "id": "ac9s6i02-p-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-P-001",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "What detail makes a method more repeatable?",
-    "audio_prompt": "What detail makes a method more repeatable?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "variables",
+    "question": "A class changes the length of a paper helicopter blade and measures its fall time. What is the changed variable?",
+    "audio_prompt": "A class changes the length of a paper helicopter blade and measures its fall time. What is the changed variable?",
     "answers": [
       {
-        "text": "Use 50 mL of water at 25 degrees C in each cup.",
+        "text": "fall time",
+        "is_correct": false
+      },
+      {
+        "text": "blade length",
         "is_correct": true
       },
       {
-        "text": "Use some water.",
+        "text": "drop height",
         "is_correct": false
       },
       {
-        "text": "Do the test nicely.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use 50 mL of water at 25 degrees C in each cup.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-p-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Why include control variables?",
-    "audio_prompt": "Why include control variables?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "They are the results being measured.",
-        "is_correct": false
-      },
-      {
-        "text": "They keep other conditions the same so the test is fairer.",
-        "is_correct": true
-      },
-      {
-        "text": "They make repeats unnecessary.",
+        "text": "paper type",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "They keep other conditions the same so the test is fairer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Blade length is deliberately changed. Fall time is the measured outcome, while height and paper type should be controlled.",
+      "hint": "Ask what the investigator deliberately alters."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-P-002",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "What is a pilot test useful for?",
-    "audio_prompt": "What is a pilot test useful for?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "variables",
+    "question": "Students test whether water temperature affects how quickly sugar dissolves. What is the measured variable?",
+    "audio_prompt": "Students test whether water temperature affects how quickly sugar dissolves. What is the measured variable?",
     "answers": [
       {
-        "text": "Changing results to match the prediction.",
+        "text": "type of sugar",
         "is_correct": false
       },
       {
-        "text": "Avoiding safety checks.",
-        "is_correct": false
-      },
-      {
-        "text": "Finding problems in the method before the main investigation.",
+        "text": "time taken to dissolve",
         "is_correct": true
+      },
+      {
+        "text": "volume of water",
+        "is_correct": false
+      },
+      {
+        "text": "water temperature",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The outcome recorded is the time taken for the sugar to dissolve; water temperature is the changed variable.",
+      "hint": "Find the observation or number collected as the outcome."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-003",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "controls",
+    "question": "When testing how ramp height affects toy-car distance, which factor should be controlled?",
+    "audio_prompt": "When testing how ramp height affects toy-car distance, which factor should be controlled?",
+    "answers": [
+      {
+        "text": "the toy car used",
+        "is_correct": true
+      },
+      {
+        "text": "the final conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "ramp height",
+        "is_correct": false
+      },
+      {
+        "text": "distance travelled",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Using the same car prevents car mass or wheel condition from providing another explanation for distance changes.",
+      "hint": "Choose a factor that could affect the result but is not being tested."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-004",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "fair_tests",
+    "question": "Which plan is a fair test of fertiliser amount on bean growth?",
+    "audio_prompt": "Which plan is a fair test of fertiliser amount on bean growth?",
+    "answers": [
+      {
+        "text": "Measure one fertilised plant without comparison.",
+        "is_correct": false
+      },
+      {
+        "text": "Change fertiliser and pot size together.",
+        "is_correct": false
+      },
+      {
+        "text": "Use equal plants and light, vary fertiliser, then measure growth.",
+        "is_correct": true
+      },
+      {
+        "text": "Give every plant a different soil and fertiliser.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Finding problems in the method before the main investigation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Only this plan changes fertiliser while holding other influential conditions constant and measuring an outcome.",
+      "hint": "A fair comparison changes one test factor."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-P-005",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Which risk control is specific enough?",
-    "audio_prompt": "Which risk control is specific enough?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "equipment",
+    "question": "Which instrument and unit best measure 35 mL of water?",
+    "audio_prompt": "Which instrument and unit best measure 35 mL of water?",
     "answers": [
       {
-        "text": "Wear eye protection when heating water and keep cups away from table edges.",
+        "text": "ruler in centimetres",
+        "is_correct": false
+      },
+      {
+        "text": "measuring cylinder in millilitres",
+        "is_correct": true
+      },
+      {
+        "text": "balance in grams",
+        "is_correct": false
+      },
+      {
+        "text": "thermometer in degrees Celsius",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A measuring cylinder is designed to measure liquid volume, and millilitres suit this quantity.",
+      "hint": "Match the instrument to the physical quantity."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-006",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "resolution",
+    "question": "Which ruler reading is justified when the ruler has millimetre divisions?",
+    "audio_prompt": "Which ruler reading is justified when the ruler has millimetre divisions?",
+    "answers": [
+      {
+        "text": "8 cm",
+        "is_correct": false
+      },
+      {
+        "text": "8.3 cm",
+        "is_correct": true
+      },
+      {
+        "text": "8.34729 cm",
+        "is_correct": false
+      },
+      {
+        "text": "about 8 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A millimetre-scale ruler supports a reading to the nearest millimetre, written here as 8.3 cm. Extra digits would claim detail beyond the instrument’s resolution.",
+      "hint": "Use all, but not more than, the instrument’s scale allows."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-007",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "repeatability",
+    "question": "Which method detail most helps another group repeat a seed-germination test?",
+    "audio_prompt": "Which method detail most helps another group repeat a seed-germination test?",
+    "answers": [
+      {
+        "text": "Add 10 mL water daily for 7 days.",
+        "is_correct": true
+      },
+      {
+        "text": "Try to keep things similar.",
+        "is_correct": false
+      },
+      {
+        "text": "Watch the seeds for a while.",
+        "is_correct": false
+      },
+      {
+        "text": "Add some water when needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The exact volume, frequency and duration tell another group what to reproduce.",
+      "hint": "Look for quantities and timing."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-008",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "repetitions",
+    "question": "Why test three paper bridges of each design instead of one?",
+    "audio_prompt": "Why test three paper bridges of each design instead of one?",
+    "answers": [
+      {
+        "text": "to make the ruler more precise",
+        "is_correct": false
+      },
+      {
+        "text": "to guarantee identical results",
+        "is_correct": false
+      },
+      {
+        "text": "to check whether a pattern is consistent despite variation",
+        "is_correct": true
+      },
+      {
+        "text": "to change more variables",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Repeated trials reveal natural variation and show whether the same overall pattern recurs; exact equality is not required.",
+      "hint": "Repetition supports confidence in a pattern."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-009",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "reliability",
+    "question": "Three trials give 12.1 s, 12.0 s and 12.2 s. What do they suggest?",
+    "audio_prompt": "Three trials give 12.1 s, 12.0 s and 12.2 s. What do they suggest?",
+    "answers": [
+      {
+        "text": "The measurements form a consistent pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "The test is automatically valid.",
+        "is_correct": false
+      },
+      {
+        "text": "The stopwatch measures to infinite precision.",
+        "is_correct": false
+      },
+      {
+        "text": "No control variables are needed.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The close repeated results support reliability, but they do not by themselves prove the comparison was fair or unbiased.",
+      "hint": "Consistency across repeats concerns reliability."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-010",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "validity",
+    "question": "A student compares two detergents but uses hot water for one and cold water for the other. What is the main problem?",
+    "audio_prompt": "A student compares two detergents but uses hot water for one and cold water for the other. What is the main problem?",
+    "answers": [
+      {
+        "text": "a confounding water-temperature difference",
+        "is_correct": true
+      },
+      {
+        "text": "too many repeated trials",
+        "is_correct": false
+      },
+      {
+        "text": "the table needs colour",
+        "is_correct": false
+      },
+      {
+        "text": "low precision only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Water temperature may affect cleaning, so the result cannot be attributed confidently to detergent type. This weakens validity.",
+      "hint": "Look for a second factor changing with the tested factor."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-011",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "safety",
+    "question": "A class warms water in a beaker. Which control best reduces burn risk?",
+    "audio_prompt": "A class warms water in a beaker. Which control best reduces burn risk?",
+    "answers": [
+      {
+        "text": "Fill the beaker to the rim.",
+        "is_correct": false
+      },
+      {
+        "text": "Carry it quickly with bare hands.",
+        "is_correct": false
+      },
+      {
+        "text": "Taste the water first.",
+        "is_correct": false
+      },
+      {
+        "text": "Use heatproof mats and teacher-supervised handling.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A heatproof surface and supervised handling directly reduce contact with hot glass and water.",
+      "hint": "A safety control should act on the identified hazard."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-012",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "risk",
+    "question": "In “wet floor may cause someone to slip”, what is the hazard?",
+    "audio_prompt": "In “wet floor may cause someone to slip”, what is the hazard?",
+    "answers": [
+      {
+        "text": "the permission form",
+        "is_correct": false
+      },
+      {
+        "text": "the wet floor",
+        "is_correct": true
+      },
+      {
+        "text": "the possible injury",
+        "is_correct": false
+      },
+      {
+        "text": "the results table",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The wet floor is the source of harm; slipping and injury are possible consequences.",
+      "hint": "A hazard is the thing or situation that can cause harm."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-013",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "permissions",
+    "question": "Students want to collect leaves from a culturally sensitive site on Country. What should happen first?",
+    "audio_prompt": "Students want to collect leaves from a culturally sensitive site on Country. What should happen first?",
+    "answers": [
+      {
+        "text": "Collect quickly before anyone notices.",
+        "is_correct": false
+      },
+      {
+        "text": "Seek guidance and required permission from the relevant Traditional Owners or land council.",
+        "is_correct": true
+      },
+      {
+        "text": "Assume school permission covers every site.",
+        "is_correct": false
+      },
+      {
+        "text": "Post the location publicly.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Permission and cultural guidance must be sought before fieldwork; school approval alone may not authorise access or collection.",
+      "hint": "Respectful fieldwork begins before entering or collecting."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-014",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "country/place",
+    "question": "Which fieldwork action best respects Country/Place?",
+    "audio_prompt": "Which fieldwork action best respects Country/Place?",
+    "answers": [
+      {
+        "text": "Follow permission conditions and avoid restricted or culturally sensitive locations.",
+        "is_correct": true
+      },
+      {
+        "text": "Share exact locations of sensitive species online.",
+        "is_correct": false
+      },
+      {
+        "text": "Move cultural material to photograph it.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove specimens because science is always exempt.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Following the conditions set by the relevant custodians protects cultural knowledge, sites and living systems.",
+      "hint": "Permission includes conditions, not just a yes/no response."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-015",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "method_order",
+    "question": "Which sequence is most sensible for a ramp investigation?",
+    "audio_prompt": "Which sequence is most sensible for a ramp investigation?",
+    "answers": [
+      {
+        "text": "release car → choose ramp height → find ruler",
+        "is_correct": false
+      },
+      {
+        "text": "write conclusion → run first trial → choose question",
+        "is_correct": false
+      },
+      {
+        "text": "measure distance → release car → set ramp",
+        "is_correct": false
+      },
+      {
+        "text": "set ramp → place car at marked start → release without push → measure distance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Setting the conditions before a consistent release and measurement creates an ordered, reproducible procedure.",
+      "hint": "Conditions must be ready before the trial begins."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-016",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "tables",
+    "question": "Which heading correctly records pendulum timing data?",
+    "audio_prompt": "Which heading correctly records pendulum timing data?",
+    "answers": [
+      {
+        "text": "Pendulum good/bad",
+        "is_correct": false
+      },
+      {
+        "text": "Time",
+        "is_correct": false
+      },
+      {
+        "text": "Result things",
+        "is_correct": false
+      },
+      {
+        "text": "Time for 10 swings (s)",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A useful heading names the measured quantity, the defined event and the unit.",
+      "hint": "A table heading needs quantity and unit."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-017",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "tables",
+    "question": "A fair test uses three light levels and three trials at each. Which table structure is best?",
+    "audio_prompt": "A fair test uses three light levels and three trials at each. Which table structure is best?",
+    "answers": [
+      {
+        "text": "one row called results",
+        "is_correct": false
+      },
+      {
+        "text": "rows for light level and columns for Trial 1, Trial 2, Trial 3 and mean growth (mm)",
+        "is_correct": true
+      },
+      {
+        "text": "a paragraph with no units",
+        "is_correct": false
+      },
+      {
+        "text": "columns for student names only",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "This structure records the changed condition, repeated measured values, units and a summary value without mixing variables.",
+      "hint": "The table should show conditions and every repeat."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-018",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "control_group",
+    "question": "Plants receive 0 g, 2 g and 4 g of fertiliser. Which is the comparison control?",
+    "audio_prompt": "Plants receive 0 g, 2 g and 4 g of fertiliser. Which is the comparison control?",
+    "answers": [
+      {
+        "text": "the 4 g group",
+        "is_correct": false
+      },
+      {
+        "text": "the tallest plant",
+        "is_correct": false
+      },
+      {
+        "text": "the final mean",
+        "is_correct": false
+      },
+      {
+        "text": "the 0 g group",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The 0 g group provides a baseline showing growth without the treatment.",
+      "hint": "A control group usually lacks the tested treatment."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-019",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "controls",
+    "question": "In a test of salt concentration on ice-melting time, which set should stay the same?",
+    "audio_prompt": "In a test of salt concentration on ice-melting time, which set should stay the same?",
+    "answers": [
+      {
+        "text": "melting time and conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "salt concentration and number of trials",
+        "is_correct": false
+      },
+      {
+        "text": "salt concentration and melting time",
+        "is_correct": false
+      },
+      {
+        "text": "ice-cube size, room temperature and container",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "These factors could influence melting but are not the factor being tested, so controlling them improves validity.",
+      "hint": "Keep other influential conditions consistent."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-020",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "variables",
+    "question": "A wooden car has light or heavy wheels of equal diameter. Students time three runs down the same ramp. What is the dependent variable?",
+    "audio_prompt": "A wooden car has light or heavy wheels of equal diameter. Students time three runs down the same ramp. What is the dependent variable?",
+    "answers": [
+      {
+        "text": "number of wheel types",
+        "is_correct": false
+      },
+      {
+        "text": "wheel mass",
+        "is_correct": false
+      },
+      {
+        "text": "wheel diameter",
+        "is_correct": false
+      },
+      {
+        "text": "travel time down the ramp",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Travel time is measured in response to changing wheel mass. Equal diameter is a control.",
+      "hint": "Dependent means measured outcome."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-021",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "repeatable_methods",
+    "question": "“Put a plant near a window and water it regularly.” What is the most important repair?",
+    "audio_prompt": "“Put a plant near a window and water it regularly.” What is the most important repair?",
+    "answers": [
+      {
+        "text": "Add exact plant type, position, water volume, schedule and measurement method.",
+        "is_correct": true
+      },
+      {
+        "text": "Use more adjectives.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Say the plant should grow well.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Specified materials, quantities, timing and measurements allow another investigator to reproduce the procedure.",
+      "hint": "Replace vague words with operational details."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-022",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "reliability",
+    "question": "Which change most directly improves the reliability of bounce-height data?",
+    "audio_prompt": "Which change most directly improves the reliability of bounce-height data?",
+    "answers": [
+      {
+        "text": "Change the ball and surface together.",
+        "is_correct": false
+      },
+      {
+        "text": "Round every value to the nearest metre.",
+        "is_correct": false
+      },
+      {
+        "text": "Remove unexpected readings without checking.",
+        "is_correct": false
+      },
+      {
+        "text": "Use five drops at each height and compare the mean and spread.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Multiple trials reveal variation and make the recurring pattern more dependable. Means and spread should be inspected together.",
+      "hint": "Think repeated evidence, not a fairer variable choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 22,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-023",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "validity",
+    "question": "Which change most directly improves validity when comparing absorbency of paper towels?",
+    "audio_prompt": "Which change most directly improves validity when comparing absorbency of paper towels?",
+    "answers": [
+      {
+        "text": "Repeat an unfair method ten times.",
+        "is_correct": false
+      },
+      {
+        "text": "Draw a colourful graph.",
+        "is_correct": false
+      },
+      {
+        "text": "Use equal-sized sheets and equal water volumes.",
+        "is_correct": true
+      },
+      {
+        "text": "Write readings with more decimal places.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equal area and water volume remove competing explanations, so differences can be linked to towel type.",
+      "hint": "Validity asks whether the method tests the intended relationship."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-024",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "resolution",
+    "question": "Which change improves measurement resolution?",
+    "audio_prompt": "Which change improves measurement resolution?",
+    "answers": [
+      {
+        "text": "Ask a different scientific question.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace a ruler marked every centimetre with one marked every millimetre.",
+        "is_correct": true
+      },
+      {
+        "text": "Repeat the same biased test.",
+        "is_correct": false
+      },
+      {
+        "text": "Add another changed variable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Finer scale divisions improve resolution because the instrument can display smaller increments. Precision instead concerns how closely repeated measurements agree.",
+      "hint": "Resolution concerns the smallest readable increment."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 24,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-025",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "accuracy",
+    "question": "A balance shows 5.0 g when a certified 10.0 g mass is placed on it. Repeating gives 5.0 g each time. Which judgement is best?",
+    "audio_prompt": "A balance shows 5.0 g when a certified 10.0 g mass is placed on it. Repeating gives 5.0 g each time. Which judgement is best?",
+    "answers": [
+      {
+        "text": "reliable-looking but inaccurate because of systematic error",
+        "is_correct": true
+      },
+      {
+        "text": "valid and accurate",
+        "is_correct": false
+      },
+      {
+        "text": "imprecise because values match",
+        "is_correct": false
+      },
+      {
+        "text": "unrepeatable because there are repeats",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The readings are consistent but far from the accepted value, indicating a systematic calibration error.",
+      "hint": "Consistent does not always mean correct."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-026",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "repetitions",
+    "question": "Results are 14 cm, 15 cm, 44 cm, 14 cm and 15 cm. What should students do first?",
+    "audio_prompt": "Results are 14 cm, 15 cm, 44 cm, 14 cm and 15 cm. What should students do first?",
+    "answers": [
+      {
+        "text": "Check the procedure and equipment, then repeat that condition and record what happened.",
+        "is_correct": true
+      },
+      {
+        "text": "Average only the two smallest results.",
+        "is_correct": false
+      },
+      {
+        "text": "Claim every future result is 20.4 cm.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete 44 cm immediately.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The unusual value should be investigated, not silently removed. A procedural check and additional trial can reveal error or genuine variation.",
+      "hint": "Treat anomalies transparently."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-027",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "means",
+    "question": "A toy car takes 4.2 s, 4.4 s and 4.3 s. What is the mean?",
+    "audio_prompt": "A toy car takes 4.2 s, 4.4 s and 4.3 s. What is the mean?",
+    "answers": [
+      {
+        "text": "4.9 s",
+        "is_correct": false
+      },
+      {
+        "text": "12.9 s",
+        "is_correct": false
+      },
+      {
+        "text": "4.0 s",
+        "is_correct": false
+      },
+      {
+        "text": "4.3 s",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The sum is 12.9 s; dividing by 3 trials gives 4.3 s. A mean summarises repeats but does not prove fairness.",
+      "hint": "Add the trials and divide by their number."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-028",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "safety",
+    "question": "A soil investigation may contain mould. Which plan is safest?",
+    "audio_prompt": "A soil investigation may contain mould. Which plan is safest?",
+    "answers": [
+      {
+        "text": "Shake dry samples near faces.",
+        "is_correct": false
+      },
+      {
+        "text": "Sniff samples closely.",
+        "is_correct": false
+      },
+      {
+        "text": "Wear gloves, avoid inhaling material, wash hands and follow teacher instructions.",
+        "is_correct": true
+      },
+      {
+        "text": "Taste soil to identify it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "These controls reduce skin contact, inhalation and accidental transfer while preserving the investigation.",
+      "hint": "Match controls to biological exposure routes."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 28,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-029",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "permissions",
+    "question": "A council allows observations in a reserve but not specimen collection. What may students do?",
+    "audio_prompt": "A council allows observations in a reserve but not specimen collection. What may students do?",
+    "answers": [
+      {
+        "text": "Collect small samples anyway.",
+        "is_correct": false
+      },
+      {
+        "text": "Observe and record without collecting.",
+        "is_correct": true
+      },
+      {
+        "text": "Transfer plants to school.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume a science project overrides the condition.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Permission is conditional. Students may conduct the authorised observation only and must not extend it to collection.",
+      "hint": "Stay within the exact scope granted."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 29,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-030",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "digital_tools",
+    "question": "When is a digital temperature probe especially useful?",
+    "audio_prompt": "When is a digital temperature probe especially useful?",
+    "answers": [
+      {
+        "text": "when no measurements are required",
+        "is_correct": false
+      },
+      {
+        "text": "to eliminate every possible error",
+        "is_correct": false
+      },
+      {
+        "text": "to replace risk assessment",
+        "is_correct": false
+      },
+      {
+        "text": "when continuous readings at equal intervals are needed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A probe can log repeated measurements consistently over time, but it still requires calibration, safe use and a sound plan.",
+      "hint": "Choose a tool for the data needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 30,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-031",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "investigation_approaches",
+    "question": "Which approach best studies bird species visiting a wetland without disturbing them?",
+    "audio_prompt": "Which approach best studies bird species visiting a wetland without disturbing them?",
+    "answers": [
+      {
+        "text": "remove nests for laboratory testing",
+        "is_correct": false
+      },
+      {
+        "text": "change the wetland water level",
+        "is_correct": false
+      },
+      {
+        "text": "controlled feeding experiment without permission",
+        "is_correct": false
+      },
+      {
+        "text": "field observations from an approved location using a tally",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Permission-based observation can answer a frequency question while minimising disturbance.",
+      "hint": "Match the method to the question and ethical limits."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 31,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-032",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "plan_critique",
+    "question": "Plan: test light on seedlings by placing one in sun and one in a dark cupboard; water only the sunny plant. Best critique?",
+    "audio_prompt": "Plan: test light on seedlings by placing one in sun and one in a dark cupboard; water only the sunny plant. Best critique?",
+    "answers": [
+      {
+        "text": "Plant growth cannot be measured.",
+        "is_correct": false
+      },
+      {
+        "text": "It lacks a title.",
+        "is_correct": false
+      },
+      {
+        "text": "Water availability is confounded with light, weakening validity.",
+        "is_correct": true
+      },
+      {
+        "text": "There are too many repetitions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Because both light and water change, any growth difference has two possible causes. Both plants need the same water schedule.",
+      "hint": "Identify any second factor that changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-033",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "plan_critique",
+    "question": "Plan: measure evaporation from wide and narrow dishes but add 50 mL to one and 100 mL to the other. Best improvement?",
+    "audio_prompt": "Plan: measure evaporation from wide and narrow dishes but add 50 mL to one and 100 mL to the other. Best improvement?",
+    "answers": [
+      {
+        "text": "Use equal starting volumes and control location and time.",
+        "is_correct": true
+      },
+      {
+        "text": "Use different liquids as well.",
+        "is_correct": false
+      },
+      {
+        "text": "Measure only once by eye.",
+        "is_correct": false
+      },
+      {
+        "text": "Rename the dishes A and B.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Equal volume and shared environmental conditions isolate dish width as the changed variable.",
+      "hint": "Control conditions that also influence evaporation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-034",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "repeatability",
+    "question": "Which release instruction is most repeatable for a toy car?",
+    "audio_prompt": "Which release instruction is most repeatable for a toy car?",
+    "answers": [
+      {
+        "text": "Release the front axle from the 30 cm mark without pushing.",
+        "is_correct": true
+      },
+      {
+        "text": "Start somewhere near the top.",
+        "is_correct": false
+      },
+      {
+        "text": "Ask each student to choose a method.",
+        "is_correct": false
+      },
+      {
+        "text": "Give it a little push.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A marked starting position and no-push release define exactly how motion begins, reducing operator variation.",
+      "hint": "Operationalise position and action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-035",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "measurement",
+    "question": "Students measure leaf length. Which method is most consistent?",
+    "audio_prompt": "Students measure leaf length. Which method is most consistent?",
+    "answers": [
+      {
+        "text": "Estimate each leaf from across the room.",
+        "is_correct": false
+      },
+      {
+        "text": "Include the stem for some leaves only.",
+        "is_correct": false
+      },
+      {
+        "text": "Measure from the leaf base to tip along the midrib to the nearest millimetre.",
+        "is_correct": true
+      },
+      {
+        "text": "Measure whichever part looks longest in any unit.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Defining endpoints, alignment and resolution gives every observer the same measurement rule.",
+      "hint": "State where measurement begins and ends."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-036",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "risk_assessment",
+    "question": "What is the best risk statement for using scissors?",
+    "audio_prompt": "What is the best risk statement for using scissors?",
+    "answers": [
+      {
+        "text": "The experiment has zero risk.",
+        "is_correct": false
+      },
+      {
+        "text": "Scissors are dangerous.",
+        "is_correct": false
+      },
+      {
+        "text": "Sharp blades could cut fingers; cut away from the body and carry scissors closed, under supervision.",
         "is_correct": true
       },
       {
         "text": "Be careful.",
         "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It links the hazard and possible harm to specific control actions instead of using vague caution.",
+      "hint": "Risk planning names hazard, harm and control."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-037",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "country/place",
+    "question": "A class wants to photograph a culturally sensitive rock site. Which plan is appropriate?",
+    "audio_prompt": "A class wants to photograph a culturally sensitive rock site. Which plan is appropriate?",
+    "answers": [
+      {
+        "text": "Seek guidance and permission before visiting or photographing, and obey restrictions on recording or sharing.",
+        "is_correct": true
       },
       {
-        "text": "Try not to make mistakes.",
+        "text": "Photograph secretly but omit student names.",
+        "is_correct": false
+      },
+      {
+        "text": "Assume public access means unrestricted photography.",
+        "is_correct": false
+      },
+      {
+        "text": "Move objects for a clearer image.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Wear eye protection when heating water and keep cups away from table edges.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Access does not automatically grant recording or publication rights. Relevant custodians determine culturally appropriate conditions.",
+      "hint": "Separate physical access from cultural permission."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-P-038",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Why repeat each setup three times?",
-    "audio_prompt": "Why repeat each setup three times?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "reliability_vs_validity",
+    "question": "An unfair test is repeated 20 times and gives very similar results. Which statement is correct?",
+    "audio_prompt": "An unfair test is repeated 20 times and gives very similar results. Which statement is correct?",
     "answers": [
       {
-        "text": "Repeats guarantee identical results.",
+        "text": "Repetition automatically makes it valid.",
         "is_correct": false
       },
       {
-        "text": "Repeats show whether results are consistent.",
+        "text": "It is precise, so controls do not matter.",
+        "is_correct": false
+      },
+      {
+        "text": "Similar results prove cause and effect.",
+        "is_correct": false
+      },
+      {
+        "text": "The pattern may be reliable, but the test remains invalid for the intended comparison.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Repetition can show consistency, but cannot repair a systematic confound that prevents the question being answered fairly.",
+      "hint": "Different quality terms answer different questions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-039",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "resolution_vs_precision",
+    "question": "A sensor records to 0.01°C, but repeated readings fluctuate widely. What is true?",
+    "audio_prompt": "A sensor records to 0.01°C, but repeated readings fluctuate widely. What is true?",
+    "answers": [
+      {
+        "text": "The test is valid because decimals appear.",
+        "is_correct": false
+      },
+      {
+        "text": "Wide variation improves precision.",
+        "is_correct": false
+      },
+      {
+        "text": "The instrument has fine resolution, but the repeated measurements have poor precision.",
         "is_correct": true
       },
       {
-        "text": "Repeats let you ignore measurements.",
+        "text": "Fine resolution guarantees close agreement.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The display has fine resolution, but the wide spread means the repeated measurements have poor precision and may also indicate uncontrolled conditions.",
+      "hint": "Small displayed increments and close repeat agreement are different properties."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-040",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "tables",
+    "question": "Which table entry is scientifically best?",
+    "audio_prompt": "Which table entry is scientifically best?",
+    "answers": [
+      {
+        "text": "approximately some seconds",
+        "is_correct": false
+      },
+      {
+        "text": "warm, quick",
+        "is_correct": false
+      },
+      {
+        "text": "Trial 2: 18.4 s",
+        "is_correct": true
+      },
+      {
+        "text": "pretty fast",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A labelled trial with a numerical value and unit is usable evidence. Qualitative phrases are too vague for this timing question.",
+      "hint": "Record raw data with units."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-041",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "sampling",
+    "question": "Students compare soil moisture at two sites. Which plan is strongest?",
+    "audio_prompt": "Students compare soil moisture at two sites. Which plan is strongest?",
+    "answers": [
+      {
+        "text": "Take one reading from a chosen wet-looking patch.",
+        "is_correct": false
+      },
+      {
+        "text": "Use the same calibrated probe at several randomly selected points at each permitted site.",
+        "is_correct": true
+      },
+      {
+        "text": "Use different instruments and depths at each site.",
+        "is_correct": false
+      },
+      {
+        "text": "Collect soil without checking permission.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Repeats show whether results are consistent.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Multiple unbiased locations and consistent equipment and depth produce a fairer, more representative comparison.",
+      "hint": "Consider representation, consistency and permission."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 41,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-P-042",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Which permission issue matters before a field investigation on Country/Place?",
-    "audio_prompt": "Which permission issue matters before a field investigation on Country/Place?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "control_group",
+    "question": "Students test whether detergent scatters pepper on water. What is the strongest control?",
+    "audio_prompt": "Students test whether detergent scatters pepper on water. What is the strongest control?",
     "answers": [
       {
-        "text": "Whether the graph has a title.",
+        "text": "a second bowl with twice as much detergent",
         "is_correct": false
       },
       {
-        "text": "Whether the pencil is sharp.",
+        "text": "a bowl with no pepper",
         "is_correct": false
       },
       {
-        "text": "Whether students have approval to enter and collect observations respectfully.",
+        "text": "a different experiment tomorrow",
+        "is_correct": false
+      },
+      {
+        "text": "water and pepper touched with a clean, detergent-free swab",
         "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The no-detergent condition shows whether touching alone causes movement, isolating detergent as the tested factor.",
+      "hint": "The control removes the treatment while keeping the action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 42,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-043",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "method_detail",
+    "question": "A method says “Record growth each day.” Which addition best improves repeatability?",
+    "audio_prompt": "A method says “Record growth each day.” Which addition best improves repeatability?",
+    "answers": [
+      {
+        "text": "Use any method that seems right.",
+        "is_correct": false
+      },
+      {
+        "text": "Write whether the plant looks nice.",
+        "is_correct": false
+      },
+      {
+        "text": "Measure stem height from soil level to highest growing point at 3 pm, to nearest millimetre.",
+        "is_correct": true
+      },
+      {
+        "text": "Record it properly.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Whether students have approval to enter and collect observations respectfully.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It fixes the feature, endpoints, time and resolution so different investigators can collect comparable data.",
+      "hint": "Define exactly what, when and how."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 43,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-P-044",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "A group changes soil type and water amount together. What is wrong?",
-    "audio_prompt": "A group changes soil type and water amount together. What is wrong?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "permissions",
+    "question": "Who should advise a school about work at a culturally sensitive location on traditional Lands?",
+    "audio_prompt": "Who should advise a school about work at a culturally sensitive location on traditional Lands?",
     "answers": [
       {
-        "text": "Two variables changed, so the cause of any growth difference is unclear.",
-        "is_correct": true
-      },
-      {
-        "text": "The investigation has too many repeats.",
+        "text": "only the equipment supplier",
         "is_correct": false
       },
       {
-        "text": "The measured variable is too precise.",
+        "text": "the first website search result",
+        "is_correct": false
+      },
+      {
+        "text": "the relevant First Nations Australian Traditional Owners or land council, alongside site managers as required",
+        "is_correct": true
+      },
+      {
+        "text": "any student from another region",
         "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Two variables changed, so the cause of any growth difference is unclear.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Authority and knowledge are place-specific; relevant Traditional Owners or land councils must guide culturally safe access and practice.",
+      "hint": "Country/Place permission is locally grounded."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 44,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-P-045",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Which equipment choice best matches measuring small temperature changes?",
-    "audio_prompt": "Which equipment choice best matches measuring small temperature changes?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "challenge",
+    "skill": "causal_claims",
+    "question": "A valid repeated test finds plants under blue light grew more than plants under red light. Which conclusion is appropriately cautious?",
+    "audio_prompt": "A valid repeated test finds plants under blue light grew more than plants under red light. Which conclusion is appropriately cautious?",
     "answers": [
       {
-        "text": "A ruler.",
+        "text": "Blue light caused all plants everywhere to grow faster.",
         "is_correct": false
       },
       {
-        "text": "A thermometer or digital probe with a suitable scale.",
+        "text": "Under these tested conditions, the blue-light group had greater mean growth; further trials could test whether the pattern generalises.",
         "is_correct": true
       },
       {
-        "text": "A stopwatch only.",
+        "text": "Red light never supports growth.",
+        "is_correct": false
+      },
+      {
+        "text": "The tallest single plant proves the rule.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A thermometer or digital probe with a suitable scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The conclusion matches the scope of the evidence and recognises that replication is needed before broad generalisation.",
+      "hint": "Do not claim beyond the tested conditions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 45,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-P-046",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "What detail makes a method more repeatable in a new class investigation?",
-    "audio_prompt": "What detail makes a method more repeatable in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "challenge",
+    "skill": "integrated_design",
+    "question": "Which plan best tests whether parachute area affects fall time?",
+    "audio_prompt": "Which plan best tests whether parachute area affects fall time?",
     "answers": [
       {
-        "text": "Use some water.",
+        "text": "Vary area, mass and height once each.",
         "is_correct": false
       },
       {
-        "text": "Do the test nicely.",
+        "text": "Use one parachute and predict its time.",
         "is_correct": false
       },
       {
-        "text": "Use 50 mL of water at 25 degrees C in each cup.",
+        "text": "Drop different designs outdoors in changing wind.",
+        "is_correct": false
+      },
+      {
+        "text": "Vary area; keep material, mass and drop height constant; release consistently; time at least five trials per area.",
         "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "This isolates area, defines important controls and uses consistent repeated measurement, supporting validity and reliability.",
+      "hint": "Look for one changed variable, controls and repeats."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-P-047",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "plan_critique",
+    "question": "Two groups time the same pendulum. Group A times one swing; Group B times 10 swings and divides by 10, repeating five times. Why is B usually stronger?",
+    "audio_prompt": "Two groups time the same pendulum. Group A times one swing; Group B times 10 swings and divides by 10, repeating five times. Why is B usually stronger?",
+    "answers": [
+      {
+        "text": "Group B changes gravity.",
+        "is_correct": false
+      },
+      {
+        "text": "One swing cannot occur.",
+        "is_correct": false
+      },
+      {
+        "text": "Timing more swings reduces the proportional effect of reaction-time error and repeats reveal variation.",
+        "is_correct": true
+      },
+      {
+        "text": "Division makes any answer correct.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Use 50 mL of water at 25 degrees C in each cup.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A longer timing interval makes a similar start/stop delay a smaller fraction of the result, while repeats allow consistency checks.",
+      "hint": "Consider human reaction time relative to total interval."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-P-048",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Why include control variables in a new class investigation?",
-    "audio_prompt": "Why include control variables in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "challenge",
+    "skill": "integrated_judgement",
+    "question": "Which statement best summarises a high-quality Year 6 investigation?",
+    "audio_prompt": "Which statement best summarises a high-quality Year 6 investigation?",
     "answers": [
       {
-        "text": "They keep other conditions the same so the test is fairer.",
+        "text": "It needs no limitations if digital tools are used.",
+        "is_correct": false
+      },
+      {
+        "text": "It uses detailed, safe and permitted procedures, changes one test variable where appropriate, measures consistently, controls alternatives and repeats enough to examine a pattern.",
         "is_correct": true
       },
       {
-        "text": "They are the results being measured.",
+        "text": "It always produces exactly identical numbers.",
         "is_correct": false
       },
       {
-        "text": "They make repeats unnecessary.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "They keep other conditions the same so the test is fairer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-p-011",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "What is a pilot test useful for in a new class investigation?",
-    "audio_prompt": "What is a pilot test useful for in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Changing results to match the prediction.",
-        "is_correct": false
-      },
-      {
-        "text": "Finding problems in the method before the main investigation.",
-        "is_correct": true
-      },
-      {
-        "text": "Avoiding safety checks.",
+        "text": "It includes many variables to save time.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Finding problems in the method before the main investigation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Quality combines answerable design, repeatability, safety, permissions, validity, precision and reliability; exact results are neither expected nor sufficient.",
+      "hint": "Choose the complete, non-absolute principle."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-T-001",
     "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Which risk control is specific enough in a new class investigation?",
-    "audio_prompt": "Which risk control is specific enough in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "variables",
+    "question": "A student changes the number of rubber bands powering a model car and records the distance travelled. Which pair is correct?",
+    "audio_prompt": "A student changes the number of rubber bands powering a model car and records the distance travelled. Which pair is correct?",
     "answers": [
       {
-        "text": "Be careful.",
+        "text": "changed: distance; measured: rubber bands",
         "is_correct": false
       },
       {
-        "text": "Try not to make mistakes.",
-        "is_correct": false
-      },
-      {
-        "text": "Wear eye protection when heating water and keep cups away from table edges.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Wear eye protection when heating water and keep cups away from table edges.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-p-013",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Why repeat each setup three times in a new class investigation?",
-    "audio_prompt": "Why repeat each setup three times in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Repeats show whether results are consistent.",
+        "text": "changed: rubber-band number; measured: distance",
         "is_correct": true
       },
       {
-        "text": "Repeats guarantee identical results.",
+        "text": "changed: car; measured: floor",
         "is_correct": false
       },
       {
-        "text": "Repeats let you ignore measurements.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Repeats show whether results are consistent.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-p-014",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Which permission issue matters before a field investigation on Country/Place in a new class investigation?",
-    "audio_prompt": "Which permission issue matters before a field investigation on Country/Place in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Whether the graph has a title.",
-        "is_correct": false
-      },
-      {
-        "text": "Whether students have approval to enter and collect observations respectfully.",
-        "is_correct": true
-      },
-      {
-        "text": "Whether the pencil is sharp.",
+        "text": "changed: distance; measured: floor type",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Whether students have approval to enter and collect observations respectfully.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Rubber-band number is deliberately varied and distance travelled is the response measured.",
+      "hint": "Identify intervention then outcome."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-T-002",
     "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "A group changes soil type and water amount together. What is wrong in a new class investigation?",
-    "audio_prompt": "A group changes soil type and water amount together. What is wrong in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "controls",
+    "question": "To test water depth on water temperature after 20 minutes in sunlight, what must be controlled?",
+    "audio_prompt": "To test water depth on water temperature after 20 minutes in sunlight, what must be controlled?",
     "answers": [
       {
-        "text": "The investigation has too many repeats.",
+        "text": "final temperature",
         "is_correct": false
       },
       {
-        "text": "The measured variable is too precise.",
-        "is_correct": false
-      },
-      {
-        "text": "Two variables changed, so the cause of any growth difference is unclear.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Two variables changed, so the cause of any growth difference is unclear.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-p-016",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Which equipment choice best matches measuring small temperature changes in a new class investigation?",
-    "audio_prompt": "Which equipment choice best matches measuring small temperature changes in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A thermometer or digital probe with a suitable scale.",
+        "text": "container material and starting temperature",
         "is_correct": true
       },
       {
-        "text": "A ruler.",
+        "text": "the pattern in the graph",
         "is_correct": false
       },
       {
-        "text": "A stopwatch only.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A thermometer or digital probe with a suitable scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-p-017",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "What detail makes a method more repeatable after students review their evidence?",
-    "audio_prompt": "What detail makes a method more repeatable after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use some water.",
-        "is_correct": false
-      },
-      {
-        "text": "Use 50 mL of water at 25 degrees C in each cup.",
-        "is_correct": true
-      },
-      {
-        "text": "Do the test nicely.",
+        "text": "water depth",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Use 50 mL of water at 25 degrees C in each cup.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Container material and starting temperature could affect heating and must remain consistent while depth changes.",
+      "hint": "Remove competing explanations."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-018",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-T-003",
     "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Why include control variables after students review their evidence?",
-    "audio_prompt": "Why include control variables after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "repeatability",
+    "question": "Which instruction makes a paper-plane test most repeatable?",
+    "audio_prompt": "Which instruction makes a paper-plane test most repeatable?",
     "answers": [
       {
-        "text": "They are the results being measured.",
+        "text": "Let everyone invent a throw.",
         "is_correct": false
       },
       {
-        "text": "They make repeats unnecessary.",
+        "text": "Measure wherever the plane seems to land.",
         "is_correct": false
       },
       {
-        "text": "They keep other conditions the same so the test is fairer.",
+        "text": "Throw it normally.",
+        "is_correct": false
+      },
+      {
+        "text": "The same thrower launches from behind a taped line using the marked grip; measure nose-to-line distance in metres.",
         "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The launch position, operator, grip and measurement endpoints are defined, allowing close replication.",
+      "hint": "Look for operational detail."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-T-004",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "risk",
+    "question": "Students test electrical conductors using low-voltage cells. Which plan is safest?",
+    "audio_prompt": "Students test electrical conductors using low-voltage cells. Which plan is safest?",
+    "answers": [
+      {
+        "text": "Test liquids next to unprotected devices.",
+        "is_correct": false
+      },
+      {
+        "text": "Use mains electricity for clearer results.",
+        "is_correct": false
+      },
+      {
+        "text": "Use intact low-voltage equipment, avoid short circuits and disconnect cells if wires heat.",
+        "is_correct": true
+      },
+      {
+        "text": "Touch hot wires to check temperature.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "They keep other conditions the same so the test is fairer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Low voltage, equipment checks and a response to heating address electrical and burn risks appropriately.",
+      "hint": "Avoid mains power and specify controls."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-019",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-T-005",
     "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "What is a pilot test useful for after students review their evidence?",
-    "audio_prompt": "What is a pilot test useful for after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "permissions",
+    "question": "Permission is granted to count animals on a shoreline but forbids entering nesting zones. What should the method state?",
+    "audio_prompt": "Permission is granted to count animals on a shoreline but forbids entering nesting zones. What should the method state?",
     "answers": [
       {
-        "text": "Finding problems in the method before the main investigation.",
+        "text": "Observe from authorised areas and use distance tools without entering restricted zones.",
         "is_correct": true
       },
       {
-        "text": "Changing results to match the prediction.",
+        "text": "Enter briefly if few people are watching.",
         "is_correct": false
       },
       {
-        "text": "Avoiding safety checks.",
+        "text": "Collect one egg for accuracy.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat permission as optional after arrival.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Finding problems in the method before the main investigation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A valid method must comply with the exact permission conditions and minimise disturbance.",
+      "hint": "Permission conditions belong in the procedure."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-020",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-T-006",
     "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Which risk control is specific enough after students review their evidence?",
-    "audio_prompt": "Which risk control is specific enough after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "resolution",
+    "question": "A cylinder has 1 mL divisions. Which recorded volume is defensible?",
+    "audio_prompt": "A cylinder has 1 mL divisions. Which recorded volume is defensible?",
     "answers": [
       {
-        "text": "Be careful.",
+        "text": "42.0000 mL",
         "is_correct": false
       },
       {
-        "text": "Wear eye protection when heating water and keep cups away from table edges.",
+        "text": "about half a litre",
+        "is_correct": false
+      },
+      {
+        "text": "42 kg",
+        "is_correct": false
+      },
+      {
+        "text": "42 mL",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The unit and recorded detail align with the instrument scale; extra decimal places would imply unsupported resolution.",
+      "hint": "Match the recorded detail to the scale resolution."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-T-007",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "reliability",
+    "question": "Repeated mass readings are 25.2 g, 25.1 g, 25.2 g and 25.1 g. What can be concluded directly?",
+    "audio_prompt": "Repeated mass readings are 25.2 g, 25.1 g, 25.2 g and 25.1 g. What can be concluded directly?",
+    "answers": [
+      {
+        "text": "The investigation is certainly valid.",
+        "is_correct": false
+      },
+      {
+        "text": "The sample has no uncertainty.",
+        "is_correct": false
+      },
+      {
+        "text": "The readings are consistent.",
         "is_correct": true
       },
       {
-        "text": "Try not to make mistakes.",
+        "text": "The balance is certainly accurate.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The narrow range supports consistency, but accuracy and validity require separate evidence.",
+      "hint": "Only infer what repeats show."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-T-008",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "validity",
+    "question": "Students compare dissolving rates using powdered sugar in warm water and sugar cubes in cold water. What is the flaw?",
+    "audio_prompt": "Students compare dissolving rates using powdered sugar in warm water and sugar cubes in cold water. What is the flaw?",
+    "answers": [
+      {
+        "text": "Sugar cannot dissolve.",
+        "is_correct": false
+      },
+      {
+        "text": "Two influential variables change together.",
+        "is_correct": true
+      },
+      {
+        "text": "There are too many controls.",
+        "is_correct": false
+      },
+      {
+        "text": "Time cannot be measured.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Wear eye protection when heating water and keep cups away from table edges.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Sugar form and water temperature are both altered, so the cause of any rate difference is unclear.",
+      "hint": "Find the confounding variables."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-021",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-T-009",
     "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Why repeat each setup three times after students review their evidence?",
-    "audio_prompt": "Why repeat each setup three times after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "data_tables",
+    "question": "Which headings suit a test of fan speed on evaporation?",
+    "audio_prompt": "Which headings suit a test of fan speed on evaporation?",
     "answers": [
       {
-        "text": "Repeats guarantee identical results.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeats let you ignore measurements.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeats show whether results are consistent.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Repeats show whether results are consistent.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-p-022",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Which permission issue matters before a field investigation on Country/Place after students review their evidence?",
-    "audio_prompt": "Which permission issue matters before a field investigation on Country/Place after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Whether students have approval to enter and collect observations respectfully.",
+        "text": "Fan setting | Trial 1 mass lost (g) | Trial 2 mass lost (g) | Trial 3 mass lost (g) | Mean (g)",
         "is_correct": true
       },
       {
-        "text": "Whether the graph has a title.",
+        "text": "Fast | Slow | Nice",
         "is_correct": false
       },
       {
-        "text": "Whether the pencil is sharp.",
+        "text": "Student | Opinion | Colour",
+        "is_correct": false
+      },
+      {
+        "text": "Water | Result | Done",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Whether students have approval to enter and collect observations respectfully.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "These headings name the changed condition, repeats, measured quantity and units, and allow a mean to be calculated.",
+      "hint": "Choose complete quantitative headings."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-p-023",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-T-010",
     "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "A group changes soil type and water amount together. What is wrong after students review their evidence?",
-    "audio_prompt": "A group changes soil type and water amount together. What is wrong after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "means",
+    "question": "Drop times are 2.6 s, 2.8 s, 2.7 s and 2.7 s. What is the mean?",
+    "audio_prompt": "Drop times are 2.6 s, 2.8 s, 2.7 s and 2.7 s. What is the mean?",
     "answers": [
       {
-        "text": "The investigation has too many repeats.",
+        "text": "5.4 s",
         "is_correct": false
       },
       {
-        "text": "Two variables changed, so the cause of any growth difference is unclear.",
+        "text": "10.8 s",
+        "is_correct": false
+      },
+      {
+        "text": "2.6 s",
+        "is_correct": false
+      },
+      {
+        "text": "2.7 s",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The total 10.8 s divided by four trials is 2.7 s.",
+      "hint": "Sum then divide by four."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-T-011",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "anomalies",
+    "question": "Plant heights are 61, 60, 18, 62 and 61 mm. What is the best response?",
+    "audio_prompt": "Plant heights are 61, 60, 18, 62 and 61 mm. What is the best response?",
+    "answers": [
+      {
+        "text": "Change 18 to 60 without checking.",
+        "is_correct": false
+      },
+      {
+        "text": "Conclude the mean is impossible.",
+        "is_correct": false
+      },
+      {
+        "text": "Hide 18 mm.",
+        "is_correct": false
+      },
+      {
+        "text": "Check for recording or procedural error, repeat if possible, and report any justified treatment of the anomaly.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Transparent investigation and additional evidence are preferable to automatic deletion or alteration.",
+      "hint": "Investigate unusual data."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-T-012",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "approaches",
+    "question": "Which investigation is best answered with repeated field observations rather than changing a variable?",
+    "audio_prompt": "Which investigation is best answered with repeated field observations rather than changing a variable?",
+    "answers": [
+      {
+        "text": "How does blade length affect fall time?",
+        "is_correct": false
+      },
+      {
+        "text": "How many pollinator visits occur at two permitted garden sites?",
         "is_correct": true
       },
       {
-        "text": "The measured variable is too precise.",
+        "text": "How does ramp angle affect speed?",
+        "is_correct": false
+      },
+      {
+        "text": "How does salt mass affect melting?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Two variables changed, so the cause of any growth difference is unclear.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-p-024",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "practice",
-    "skill": "repeatable investigations",
-    "question": "Which equipment choice best matches measuring small temperature changes after students review their evidence?",
-    "audio_prompt": "Which equipment choice best matches measuring small temperature changes after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "Visit frequency at existing sites can be observed systematically without manipulating the environment; the others suit fair tests.",
+      "hint": "Decide whether manipulation is necessary."
     },
-    "answers": [
-      {
-        "text": "A ruler.",
-        "is_correct": false
-      },
-      {
-        "text": "A stopwatch only.",
-        "is_correct": false
-      },
-      {
-        "text": "A thermometer or digital probe with a suitable scale.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A thermometer or digital probe with a suitable scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-t-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-T-013",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A different class checks the same science idea: Which equipment choice best matches measuring small temperature changes?",
-    "audio_prompt": "A different class checks the same science idea: Which equipment choice best matches measuring small temperature changes?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "challenge",
+    "skill": "country/place",
+    "question": "Why may school and park-manager approval still be insufficient for research at a culturally sensitive site on Country?",
+    "audio_prompt": "Why may school and park-manager approval still be insufficient for research at a culturally sensitive site on Country?",
     "answers": [
       {
-        "text": "A thermometer or digital probe with a suitable scale.",
+        "text": "Relevant Traditional Owners may hold cultural authority and set conditions for access, recording or sharing.",
         "is_correct": true
       },
       {
-        "text": "A ruler.",
+        "text": "Science removes cultural responsibilities.",
         "is_correct": false
       },
       {
-        "text": "A stopwatch only.",
+        "text": "All public land permits specimen removal.",
+        "is_correct": false
+      },
+      {
+        "text": "Student projects need no local guidance.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A thermometer or digital probe with a suitable scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Ethical fieldwork recognises place-specific cultural authority and seeks the relevant guidance and permissions.",
+      "hint": "Administrative access and cultural permission can differ."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i02-t-002",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I02-T-014",
     "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A different class checks the same science idea: A group changes soil type and water amount together. What is wrong?",
-    "audio_prompt": "A different class checks the same science idea: A group changes soil type and water amount together. What is wrong?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "challenge",
+    "skill": "plan_critique",
+    "question": "Plan A repeats an unfair test six times. Plan B fairly controls variables but runs once. Which judgement is best?",
+    "audio_prompt": "Plan A repeats an unfair test six times. Plan B fairly controls variables but runs once. Which judgement is best?",
     "answers": [
       {
-        "text": "The investigation has too many repeats.",
-        "is_correct": false
-      },
-      {
-        "text": "Two variables changed, so the cause of any growth difference is unclear.",
+        "text": "A may be consistent but invalid; B may be valid in design but needs repeats for reliability.",
         "is_correct": true
       },
       {
-        "text": "The measured variable is too precise.",
+        "text": "Both are automatically perfect.",
+        "is_correct": false
+      },
+      {
+        "text": "Neither can ever be improved.",
+        "is_correct": false
+      },
+      {
+        "text": "A is valid and B is reliable.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Fairness supports validity; repetitions support reliability. Each plan addresses only one of these needs.",
+      "hint": "Separate validity from reliability."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-T-015",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "measurement",
+    "question": "To compare cooling rates, which procedure gives the strongest measurements?",
+    "audio_prompt": "To compare cooling rates, which procedure gives the strongest measurements?",
+    "answers": [
+      {
+        "text": "Use different thermometers at unknown times.",
+        "is_correct": false
+      },
+      {
+        "text": "Write hot or cold once.",
+        "is_correct": false
+      },
+      {
+        "text": "Record temperature with the same calibrated probe every minute for 15 minutes from equal starting temperatures.",
+        "is_correct": true
+      },
+      {
+        "text": "Touch each cup occasionally.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Consistent equipment, intervals, duration and starting conditions provide repeatable quantitative data.",
+      "hint": "Look for calibrated equipment and fixed timing."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I02-T-016",
+    "curriculum_code": "AC9S6I02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "integrated_design",
+    "question": "Which investigation plan is strongest?",
+    "audio_prompt": "Which investigation plan is strongest?",
+    "answers": [
+      {
+        "text": "A detailed conclusion written before data collection",
+        "is_correct": false
+      },
+      {
+        "text": "Question, variable table, equipment quantities, risk controls, permissions, numbered steps, units, repeated trials and prepared results table",
+        "is_correct": true
+      },
+      {
+        "text": "A prediction and one observation only",
+        "is_correct": false
+      },
+      {
+        "text": "Many changes with no controls",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Two variables changed, so the cause of any growth difference is unclear.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-003",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A different class checks the same science idea: Which permission issue matters before a field investigation on Country/Place?",
-    "audio_prompt": "A different class checks the same science idea: Which permission issue matters before a field investigation on Country/Place?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
+      "summary": "A complete plan connects the question to fair procedures, safety, lawful and respectful access, reproducible measurement and organised repeated data.",
+      "hint": "Select the plan that covers the whole inquiry."
     },
-    "answers": [
-      {
-        "text": "Whether the graph has a title.",
-        "is_correct": false
-      },
-      {
-        "text": "Whether the pencil is sharp.",
-        "is_correct": false
-      },
-      {
-        "text": "Whether students have approval to enter and collect observations respectfully.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Whether students have approval to enter and collect observations respectfully.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-004",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A different class checks the same science idea: Why repeat each setup three times?",
-    "audio_prompt": "A different class checks the same science idea: Why repeat each setup three times?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Repeats show whether results are consistent.",
-        "is_correct": true
-      },
-      {
-        "text": "Repeats guarantee identical results.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeats let you ignore measurements.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Repeats show whether results are consistent.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-005",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A different class checks the same science idea: Which risk control is specific enough?",
-    "audio_prompt": "A different class checks the same science idea: Which risk control is specific enough?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Be careful.",
-        "is_correct": false
-      },
-      {
-        "text": "Wear eye protection when heating water and keep cups away from table edges.",
-        "is_correct": true
-      },
-      {
-        "text": "Try not to make mistakes.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Wear eye protection when heating water and keep cups away from table edges.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-006",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A different class checks the same science idea: What is a pilot test useful for?",
-    "audio_prompt": "A different class checks the same science idea: What is a pilot test useful for?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Changing results to match the prediction.",
-        "is_correct": false
-      },
-      {
-        "text": "Avoiding safety checks.",
-        "is_correct": false
-      },
-      {
-        "text": "Finding problems in the method before the main investigation.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Finding problems in the method before the main investigation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-007",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A different class checks the same science idea: Why include control variables?",
-    "audio_prompt": "A different class checks the same science idea: Why include control variables?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "They keep other conditions the same so the test is fairer.",
-        "is_correct": true
-      },
-      {
-        "text": "They are the results being measured.",
-        "is_correct": false
-      },
-      {
-        "text": "They make repeats unnecessary.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "They keep other conditions the same so the test is fairer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-008",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A different class checks the same science idea: What detail makes a method more repeatable?",
-    "audio_prompt": "A different class checks the same science idea: What detail makes a method more repeatable?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use some water.",
-        "is_correct": false
-      },
-      {
-        "text": "Use 50 mL of water at 25 degrees C in each cup.",
-        "is_correct": true
-      },
-      {
-        "text": "Do the test nicely.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Use 50 mL of water at 25 degrees C in each cup.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-009",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A follow-up test asks: Which equipment choice best matches measuring small temperature changes?",
-    "audio_prompt": "A follow-up test asks: Which equipment choice best matches measuring small temperature changes?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A ruler.",
-        "is_correct": false
-      },
-      {
-        "text": "A stopwatch only.",
-        "is_correct": false
-      },
-      {
-        "text": "A thermometer or digital probe with a suitable scale.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A thermometer or digital probe with a suitable scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-010",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A follow-up test asks: A group changes soil type and water amount together. What is wrong?",
-    "audio_prompt": "A follow-up test asks: A group changes soil type and water amount together. What is wrong?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Two variables changed, so the cause of any growth difference is unclear.",
-        "is_correct": true
-      },
-      {
-        "text": "The investigation has too many repeats.",
-        "is_correct": false
-      },
-      {
-        "text": "The measured variable is too precise.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Two variables changed, so the cause of any growth difference is unclear.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-011",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A follow-up test asks: Which permission issue matters before a field investigation on Country/Place?",
-    "audio_prompt": "A follow-up test asks: Which permission issue matters before a field investigation on Country/Place?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Whether the graph has a title.",
-        "is_correct": false
-      },
-      {
-        "text": "Whether students have approval to enter and collect observations respectfully.",
-        "is_correct": true
-      },
-      {
-        "text": "Whether the pencil is sharp.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Whether students have approval to enter and collect observations respectfully.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-012",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A follow-up test asks: Why repeat each setup three times?",
-    "audio_prompt": "A follow-up test asks: Why repeat each setup three times?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Repeats guarantee identical results.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeats let you ignore measurements.",
-        "is_correct": false
-      },
-      {
-        "text": "Repeats show whether results are consistent.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Repeats show whether results are consistent.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-013",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A follow-up test asks: Which risk control is specific enough?",
-    "audio_prompt": "A follow-up test asks: Which risk control is specific enough?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Wear eye protection when heating water and keep cups away from table edges.",
-        "is_correct": true
-      },
-      {
-        "text": "Be careful.",
-        "is_correct": false
-      },
-      {
-        "text": "Try not to make mistakes.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Wear eye protection when heating water and keep cups away from table edges.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-014",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A follow-up test asks: What is a pilot test useful for?",
-    "audio_prompt": "A follow-up test asks: What is a pilot test useful for?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Changing results to match the prediction.",
-        "is_correct": false
-      },
-      {
-        "text": "Finding problems in the method before the main investigation.",
-        "is_correct": true
-      },
-      {
-        "text": "Avoiding safety checks.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 1,
-    "explanation": {
-      "summary": "Finding problems in the method before the main investigation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-015",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A follow-up test asks: Why include control variables?",
-    "audio_prompt": "A follow-up test asks: Why include control variables?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "They are the results being measured.",
-        "is_correct": false
-      },
-      {
-        "text": "They make repeats unnecessary.",
-        "is_correct": false
-      },
-      {
-        "text": "They keep other conditions the same so the test is fairer.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "They keep other conditions the same so the test is fairer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i02-t-016",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I02",
-    "bank": "test",
-    "skill": "repeatable investigations",
-    "question": "A follow-up test asks: What detail makes a method more repeatable?",
-    "audio_prompt": "A follow-up test asks: What detail makes a method more repeatable?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Use 50 mL of water at 25 degrees C in each cup.",
-        "is_correct": true
-      },
-      {
-        "text": "Use some water.",
-        "is_correct": false
-      },
-      {
-        "text": "Do the test nicely.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Use 50 mL of water at 25 degrees C in each cup.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
   }
 ]

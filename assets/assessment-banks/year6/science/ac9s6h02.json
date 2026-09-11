@@ -1,1322 +1,2434 @@
 [
   {
-    "id": "ac9s6h02-p-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-001",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "A town is deciding how to reduce mould in a community hall. What can science contribute?",
-    "audio_prompt": "A town is deciding how to reduce mould in a community hall. What can science contribute?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "identify_the_problem",
+    "question": "A town creek repeatedly turns green in summer. Which statement defines the problem most usefully?",
+    "audio_prompt": "A town creek repeatedly turns green in summer. Which statement defines the problem most usefully?",
     "answers": [
       {
-        "text": "Evidence about moisture, ventilation and materials.",
+        "text": "The creek is ugly",
+        "is_correct": false
+      },
+      {
+        "text": "Algal growth may be reducing water quality each summer",
         "is_correct": true
       },
       {
-        "text": "A guarantee that everyone will prefer one option.",
+        "text": "People dislike green",
         "is_correct": false
       },
       {
-        "text": "The cheapest choice without testing.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Evidence about moisture, ventilation and materials.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-p-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "practice",
-    "skill": "science decisions",
-    "question": "Why should a community decision include stakeholders?",
-    "audio_prompt": "Why should a community decision include stakeholders?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Only scientists are affected by local decisions.",
-        "is_correct": false
-      },
-      {
-        "text": "Different people or environments may be affected by the decision.",
-        "is_correct": true
-      },
-      {
-        "text": "Stakeholders make evidence unnecessary.",
+        "text": "The council should install a fountain",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Different people or environments may be affected by the decision.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "This statement identifies an observable condition and its possible consequence without jumping to a solution.",
+      "hint": "Choose the statement that can guide evidence collection."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-002",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
-    "audio_prompt": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "relevant_evidence",
+    "question": "Which measurement is most relevant when investigating fish deaths after an algal bloom?",
+    "audio_prompt": "Which measurement is most relevant when investigating fish deaths after an algal bloom?",
     "answers": [
       {
-        "text": "Whether the rule has a nicer name.",
+        "text": "Number of benches beside the creek",
         "is_correct": false
       },
       {
-        "text": "Whether no one ever asks questions again.",
+        "text": "Colour of the council logo",
         "is_correct": false
       },
       {
-        "text": "Whether noise levels and nesting impacts improve.",
+        "text": "Distance to the library",
+        "is_correct": false
+      },
+      {
+        "text": "Dissolved oxygen in the water",
         "is_correct": true
       }
     ],
-    "correct_index": 2,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Whether noise levels and nesting impacts improve.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Dissolved oxygen directly relates to whether fish can respire.",
+      "hint": "Ask which measurement tests the suspected cause."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-003",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "Why is uncertainty not a reason to ignore evidence?",
-    "audio_prompt": "Why is uncertainty not a reason to ignore evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "evidence_and_opinion",
+    "question": "Which is scientific evidence rather than an opinion?",
+    "audio_prompt": "Which is scientific evidence rather than an opinion?",
     "answers": [
       {
-        "text": "Evidence can still guide a cautious decision while limits are named.",
+        "text": "Everyone should love frogs",
+        "is_correct": false
+      },
+      {
+        "text": "The project feels worthwhile",
+        "is_correct": false
+      },
+      {
+        "text": "The wetland looks nicer",
+        "is_correct": false
+      },
+      {
+        "text": "Weekly tests found nitrate levels fell from 8 to 3 mg/L",
         "is_correct": true
-      },
-      {
-        "text": "Uncertainty means all options are equally scientific.",
-        "is_correct": false
-      },
-      {
-        "text": "Uncertainty proves the problem is imaginary.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Evidence can still guide a cautious decision while limits are named.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A recorded measurement from repeated tests is evidence; the other statements express preferences.",
+      "hint": "Look for measured, checkable information."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-004",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "Which factor is a scientific part of a food-storage decision?",
-    "audio_prompt": "Which factor is a scientific part of a food-storage decision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "stakeholders",
+    "question": "A council is considering closing a beach while turtle nests hatch. Who is an affected stakeholder?",
+    "audio_prompt": "A council is considering closing a beach while turtle nests hatch. Who is an affected stakeholder?",
     "answers": [
       {
-        "text": "Which packaging colour is most popular.",
+        "text": "Nobody until a decision is made",
         "is_correct": false
       },
       {
-        "text": "How temperature affects bacterial growth.",
+        "text": "Local swimmers and turtle-conservation workers",
         "is_correct": true
       },
       {
-        "text": "Which slogan sounds best.",
+        "text": "Only the mayor",
+        "is_correct": false
+      },
+      {
+        "text": "Only people who agree with closure",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How temperature affects bacterial growth.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Both groups are affected or have relevant interests and should be considered.",
+      "hint": "A stakeholder can be affected even when they disagree."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-005",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "A popular option has weak evidence. What should decision-makers do?",
-    "audio_prompt": "A popular option has weak evidence. What should decision-makers do?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "criteria",
+    "question": "For a new drinking-water treatment, which is a scientific criterion?",
+    "audio_prompt": "For a new drinking-water treatment, which is a scientific criterion?",
     "answers": [
       {
-        "text": "Choose it because popularity proves it is best.",
-        "is_correct": false
-      },
-      {
-        "text": "Reject all community views.",
-        "is_correct": false
-      },
-      {
-        "text": "Compare it with evidence, risks, costs and likely impacts.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Compare it with evidence, risks, costs and likely impacts.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-p-007",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "practice",
-    "skill": "science decisions",
-    "question": "Why might a decision need review points?",
-    "audio_prompt": "Why might a decision need review points?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Real results can show whether the response is working.",
+        "text": "Amount of bacteria removed",
         "is_correct": true
       },
       {
-        "text": "Review points prevent any action.",
+        "text": "Most fashionable colour",
         "is_correct": false
       },
       {
-        "text": "A first plan is always perfect.",
+        "text": "Councillor popularity",
+        "is_correct": false
+      },
+      {
+        "text": "Catchiest project name",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Real results can show whether the response is working.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Bacteria removal is measurable and relates directly to safe water.",
+      "hint": "Choose a measurable sign of effectiveness."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-006",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "Which conclusion uses science appropriately?",
-    "audio_prompt": "Which conclusion uses science appropriately?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "options",
+    "question": "A school wants to reduce lunchtime waste. Which pair gives two genuine response options?",
+    "audio_prompt": "A school wants to reduce lunchtime waste. Which pair gives two genuine response options?",
     "answers": [
       {
-        "text": "Science proves shade cloth is morally perfect.",
+        "text": "Measure waste or notice waste",
         "is_correct": false
       },
       {
-        "text": "The evidence supports trialling shade cloth, but growth should be monitored.",
+        "text": "Agree or be correct",
+        "is_correct": false
+      },
+      {
+        "text": "Students or teachers",
+        "is_correct": false
+      },
+      {
+        "text": "Compost food scraps or change canteen packaging",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Both are actions that could respond to the defined problem.",
+      "hint": "Options are possible actions, not groups or observations."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-007",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "benefit_and_limitation",
+    "question": "Solar panels reduce grid electricity use but generate less power on cloudy days. The cloudy-day statement is a:",
+    "audio_prompt": "Solar panels reduce grid electricity use but generate less power on cloudy days. The cloudy-day statement is a:",
+    "answers": [
+      {
+        "text": "measurement unit",
+        "is_correct": false
+      },
+      {
+        "text": "personal insult",
+        "is_correct": false
+      },
+      {
+        "text": "limitation",
         "is_correct": true
       },
       {
-        "text": "No evidence is needed because shade sounds helpful.",
+        "text": "stakeholder",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It describes a condition that restricts the option’s performance.",
+      "hint": "A limitation shows where an option may not fully meet a need."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-008",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "decision_chain",
+    "question": "What should normally happen before a community selects a response?",
+    "audio_prompt": "What should normally happen before a community selects a response?",
+    "answers": [
+      {
+        "text": "Measure success after no action",
+        "is_correct": false
+      },
+      {
+        "text": "Compare evidence and stakeholder criteria",
+        "is_correct": true
+      },
+      {
+        "text": "Hide all uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "Choose the first suggestion",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Evidence and criteria are needed to compare responses transparently.",
+      "hint": "A justified choice follows investigation and comparison."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-009",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "A town is deciding how to reduce mould in a community hall. What can science contribute in a new class investigation?",
-    "audio_prompt": "A town is deciding how to reduce mould in a community hall. What can science contribute in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "science_and_values",
+    "question": "Science predicts a dam would provide reliable water but flood a cultural site. What does science alone NOT decide?",
+    "audio_prompt": "Science predicts a dam would provide reliable water but flood a cultural site. What does science alone NOT decide?",
     "answers": [
       {
-        "text": "A guarantee that everyone will prefer one option.",
-        "is_correct": false
-      },
-      {
-        "text": "The cheapest choice without testing.",
-        "is_correct": false
-      },
-      {
-        "text": "Evidence about moisture, ventilation and materials.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Evidence about moisture, ventilation and materials.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-p-010",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "practice",
-    "skill": "science decisions",
-    "question": "Why should a community decision include stakeholders in a new class investigation?",
-    "audio_prompt": "Why should a community decision include stakeholders in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Different people or environments may be affected by the decision.",
+        "text": "How much the community should value protecting the site",
         "is_correct": true
       },
       {
-        "text": "Only scientists are affected by local decisions.",
+        "text": "The predicted flooded area",
         "is_correct": false
       },
       {
-        "text": "Stakeholders make evidence unnecessary.",
+        "text": "Likely water storage",
+        "is_correct": false
+      },
+      {
+        "text": "Changes to river flow",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Different people or environments may be affected by the decision.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The importance assigned to cultural protection is a value judgement informed by affected communities.",
+      "hint": "Separate predicted effects from priorities."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-010",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later in a new class investigation?",
-    "audio_prompt": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "relevance",
+    "question": "A town compares desalination and water recycling. Which fact is least relevant?",
+    "audio_prompt": "A town compares desalination and water recycling. Which fact is least relevant?",
     "answers": [
       {
-        "text": "Whether the rule has a nicer name.",
+        "text": "Salt disposal effects",
         "is_correct": false
       },
       {
-        "text": "Whether noise levels and nesting impacts improve.",
+        "text": "Amount of reliable water produced",
+        "is_correct": false
+      },
+      {
+        "text": "The architect’s favourite sport",
         "is_correct": true
       },
       {
-        "text": "Whether no one ever asks questions again.",
+        "text": "Energy used per kilolitre",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The favourite sport does not inform any reasonable criterion for the water decision.",
+      "hint": "Not every true fact is decision evidence."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-011",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "stakeholder_requirements",
+    "question": "Before choosing a reef-protection plan, why identify fishing, tourism and Traditional Owner requirements?",
+    "audio_prompt": "Before choosing a reef-protection plan, why identify fishing, tourism and Traditional Owner requirements?",
+    "answers": [
+      {
+        "text": "Scientific data becomes unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "It guarantees complete agreement",
+        "is_correct": false
+      },
+      {
+        "text": "Different groups may be affected differently and hold relevant knowledge",
+        "is_correct": true
+      },
+      {
+        "text": "The largest group must automatically win",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Identifying requirements reveals effects, knowledge and priorities that a single viewpoint can miss.",
+      "hint": "Stakeholder consultation informs comparison; it does not guarantee consensus."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-012",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "trade-offs",
+    "question": "Option A removes 90% of litter but costs $80,000; B removes 70% and costs $25,000. What is the genuine trade-off?",
+    "audio_prompt": "Option A removes 90% of litter but costs $80,000; B removes 70% and costs $25,000. What is the genuine trade-off?",
+    "answers": [
+      {
+        "text": "Truth versus opinion",
+        "is_correct": false
+      },
+      {
+        "text": "Effectiveness versus cost",
+        "is_correct": true
+      },
+      {
+        "text": "Evidence versus guessing",
+        "is_correct": false
+      },
+      {
+        "text": "Water versus air",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Whether noise levels and nesting impacts improve.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A performs better on litter removal while B performs better on cost.",
+      "hint": "Name the criteria on which the options differ."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-013",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "Why is uncertainty not a reason to ignore evidence in a new class investigation?",
-    "audio_prompt": "Why is uncertainty not a reason to ignore evidence in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "uncertainty",
+    "question": "A habitat survey covered one dry month only. What is the soundest conclusion?",
+    "audio_prompt": "A habitat survey covered one dry month only. What is the soundest conclusion?",
     "answers": [
       {
-        "text": "Uncertainty means all options are equally scientific.",
-        "is_correct": false
-      },
-      {
-        "text": "Uncertainty proves the problem is imaginary.",
-        "is_correct": false
-      },
-      {
-        "text": "Evidence can still guide a cautious decision while limits are named.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Evidence can still guide a cautious decision while limits are named.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-p-013",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "practice",
-    "skill": "science decisions",
-    "question": "Which factor is a scientific part of a food-storage decision in a new class investigation?",
-    "audio_prompt": "Which factor is a scientific part of a food-storage decision in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "How temperature affects bacterial growth.",
+        "text": "Results are useful but may not represent wetter seasons",
         "is_correct": true
       },
       {
-        "text": "Which packaging colour is most popular.",
+        "text": "The data prove every season is identical",
         "is_correct": false
       },
       {
-        "text": "Which slogan sounds best.",
+        "text": "No decision is possible",
+        "is_correct": false
+      },
+      {
+        "text": "The survey is an opinion",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How temperature affects bacterial growth.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The evidence can inform a provisional decision, but limited seasonal sampling creates uncertainty.",
+      "hint": "State the limitation without discarding all evidence."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-014",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "A popular option has weak evidence. What should decision-makers do in a new class investigation?",
-    "audio_prompt": "A popular option has weak evidence. What should decision-makers do in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "monitoring",
+    "question": "A town installs wildlife crossings. Which monitoring best tests success?",
+    "audio_prompt": "A town installs wildlife crossings. Which monitoring best tests success?",
     "answers": [
       {
-        "text": "Choose it because popularity proves it is best.",
+        "text": "Count ribbon-cutting guests",
         "is_correct": false
       },
       {
-        "text": "Compare it with evidence, risks, costs and likely impacts.",
+        "text": "Ask whether the sign looks attractive",
+        "is_correct": false
+      },
+      {
+        "text": "Measure road length once",
+        "is_correct": false
+      },
+      {
+        "text": "Compare animal-collision rates before and after installation over similar periods",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Before-and-after collision data directly test the intended outcome.",
+      "hint": "Match the measure to the success criterion."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-015",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "adaptive_decisions",
+    "question": "Monitoring shows a new bin system has not reduced landfill after six months. What should decision-makers do?",
+    "audio_prompt": "Monitoring shows a new bin system has not reduced landfill after six months. What should decision-makers do?",
+    "answers": [
+      {
+        "text": "Claim success anyway",
+        "is_correct": false
+      },
+      {
+        "text": "Never change an announced decision",
+        "is_correct": false
+      },
+      {
+        "text": "Review implementation and evidence, then revise the response",
         "is_correct": true
       },
       {
-        "text": "Reject all community views.",
+        "text": "Delete the measurements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Responsible decisions are revised when monitored outcomes fail to meet criteria.",
+      "hint": "Evidence after implementation is part of the decision chain."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-016",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "risk",
+    "question": "A bushfire response has a low chance of harming a rare plant but the harm would be severe. Why still consider it?",
+    "audio_prompt": "A bushfire response has a low chance of harming a rare plant but the harm would be severe. Why still consider it?",
+    "answers": [
+      {
+        "text": "Low likelihood means zero risk",
+        "is_correct": false
+      },
+      {
+        "text": "Risk includes both likelihood and consequence",
+        "is_correct": true
+      },
+      {
+        "text": "Only common effects matter",
+        "is_correct": false
+      },
+      {
+        "text": "Rare plants are not stakeholders",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Compare it with evidence, risks, costs and likely impacts.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A low-probability event can remain important when its consequences are serious.",
+      "hint": "Risk is not likelihood alone."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-017",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "Why might a decision need review points in a new class investigation?",
-    "audio_prompt": "Why might a decision need review points in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "criteria_match",
+    "question": "Residents require a flood warning to reach every household within five minutes. Which evidence best tests this criterion?",
+    "audio_prompt": "Residents require a flood warning to reach every household within five minutes. Which evidence best tests this criterion?",
     "answers": [
       {
-        "text": "Review points prevent any action.",
-        "is_correct": false
-      },
-      {
-        "text": "A first plan is always perfect.",
-        "is_correct": false
-      },
-      {
-        "text": "Real results can show whether the response is working.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Real results can show whether the response is working.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-p-016",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "practice",
-    "skill": "science decisions",
-    "question": "Which conclusion uses science appropriately in a new class investigation?",
-    "audio_prompt": "Which conclusion uses science appropriately in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The evidence supports trialling shade cloth, but growth should be monitored.",
+        "text": "Delivery-time and coverage results from a town-wide trial",
         "is_correct": true
       },
       {
-        "text": "Science proves shade cloth is morally perfect.",
+        "text": "Total number of words in the warning",
         "is_correct": false
       },
       {
-        "text": "No evidence is needed because shade sounds helpful.",
+        "text": "Cost of the mayor’s phone",
+        "is_correct": false
+      },
+      {
+        "text": "Colour preferences from one resident",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A coverage and timing trial measures both parts of the stated requirement.",
+      "hint": "Translate the requirement into measurable evidence."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-017",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-018",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "A town is deciding how to reduce mould in a community hall. What can science contribute after students review their evidence?",
-    "audio_prompt": "A town is deciding how to reduce mould in a community hall. What can science contribute after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "best-supported_claim",
+    "question": "Three trials found shade sails lowered playground surface temperature by 9–12°C. Which claim is best supported?",
+    "audio_prompt": "Three trials found shade sails lowered playground surface temperature by 9–12°C. Which claim is best supported?",
     "answers": [
       {
-        "text": "A guarantee that everyone will prefer one option.",
+        "text": "Shade sails prevent every heat illness",
         "is_correct": false
       },
       {
-        "text": "Evidence about moisture, ventilation and materials.",
+        "text": "All playgrounds cool by exactly 10°C",
+        "is_correct": false
+      },
+      {
+        "text": "Shade sails are the cheapest possible response",
+        "is_correct": false
+      },
+      {
+        "text": "Shade sails can substantially reduce surface temperature under tested conditions",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The claim matches the measurements and appropriately limits itself to tested conditions.",
+      "hint": "Do not claim more than the evidence shows."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-019",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "fairness",
+    "question": "Two water restrictions save the same volume, but one prevents households without gardens from receiving rebates. Which extra criterion is most relevant?",
+    "audio_prompt": "Two water restrictions save the same volume, but one prevents households without gardens from receiving rebates. Which extra criterion is most relevant?",
+    "answers": [
+      {
+        "text": "Novelty",
+        "is_correct": false
+      },
+      {
+        "text": "Popularity of the scientist",
+        "is_correct": false
+      },
+      {
+        "text": "Equity",
         "is_correct": true
       },
       {
-        "text": "The cheapest choice without testing.",
+        "text": "Font size",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Equity examines whether benefits and burdens are distributed fairly.",
+      "hint": "Ask who gains, pays or misses out."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-020",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "individual_decisions",
+    "question": "A family uses air-quality readings to decide when a child with asthma exercises outdoors. How is science being used?",
+    "audio_prompt": "A family uses air-quality readings to decide when a child with asthma exercises outdoors. How is science being used?",
+    "answers": [
+      {
+        "text": "One reading proves future air quality",
+        "is_correct": false
+      },
+      {
+        "text": "Evidence about particulate levels informs a personal risk decision",
+        "is_correct": true
+      },
+      {
+        "text": "A value judgement creates the readings",
+        "is_correct": false
+      },
+      {
+        "text": "The sensor makes the decision for them",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Evidence about moisture, ventilation and materials.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Measurements inform the family’s choice, alongside the child’s needs and medical advice.",
+      "hint": "Science informs rather than mechanically dictates."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-018",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-021",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "Why should a community decision include stakeholders after students review their evidence?",
-    "audio_prompt": "Why should a community decision include stakeholders after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "community_knowledge",
+    "question": "Why might fishers’ long-term observations be considered with formal estuary surveys?",
+    "audio_prompt": "Why might fishers’ long-term observations be considered with formal estuary surveys?",
     "answers": [
       {
-        "text": "Only scientists are affected by local decisions.",
-        "is_correct": false
-      },
-      {
-        "text": "Stakeholders make evidence unnecessary.",
-        "is_correct": false
-      },
-      {
-        "text": "Different people or environments may be affected by the decision.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Different people or environments may be affected by the decision.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-p-019",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "practice",
-    "skill": "science decisions",
-    "question": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later after students review their evidence?",
-    "audio_prompt": "A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Whether noise levels and nesting impacts improve.",
+        "text": "They may reveal seasonal patterns and changes missed by short surveys",
         "is_correct": true
       },
       {
-        "text": "Whether the rule has a nicer name.",
+        "text": "Observations always replace measurements",
         "is_correct": false
       },
       {
-        "text": "Whether no one ever asks questions again.",
+        "text": "Only local knowledge contains values",
+        "is_correct": false
+      },
+      {
+        "text": "It ensures the preferred option wins",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Whether noise levels and nesting impacts improve.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Long experience can add relevant evidence, which can be checked alongside systematic surveys.",
+      "hint": "Different evidence sources can complement one another."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-020",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-022",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "Why is uncertainty not a reason to ignore evidence after students review their evidence?",
-    "audio_prompt": "Why is uncertainty not a reason to ignore evidence after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "decision_matrix",
+    "question": "A wetland option scores high for habitat and flood control but medium for cost. A concrete drain scores high for cost but low for habitat. If habitat and flood control are priority criteria, which choice is better supported?",
+    "audio_prompt": "A wetland option scores high for habitat and flood control but medium for cost. A concrete drain scores high for cost but low for habitat. If habitat and flood control are priority criteria, which choice is better supported?",
     "answers": [
       {
-        "text": "Uncertainty means all options are equally scientific.",
+        "text": "Concrete drain",
         "is_correct": false
       },
       {
-        "text": "Evidence can still guide a cautious decision while limits are named.",
+        "text": "Either, because criteria never matter",
+        "is_correct": false
+      },
+      {
+        "text": "Neither, because scores are opinions only",
+        "is_correct": false
+      },
+      {
+        "text": "Wetland",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The wetland performs best on the explicitly prioritised criteria, though its cost limitation should be acknowledged.",
+      "hint": "Apply the stated priorities, not your own."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 22,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-023",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "data_interpretation",
+    "question": "Bins sent 120 kg to landfill before a trial and 72 kg after it. Which statement is accurate?",
+    "audio_prompt": "Bins sent 120 kg to landfill before a trial and 72 kg after it. Which statement is accurate?",
+    "answers": [
+      {
+        "text": "It increased by 40%",
+        "is_correct": false
+      },
+      {
+        "text": "The trial removed all waste",
+        "is_correct": false
+      },
+      {
+        "text": "Landfill waste decreased by 48 kg, or 40%",
         "is_correct": true
       },
       {
-        "text": "Uncertainty proves the problem is imaginary.",
+        "text": "It decreased by 48%",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The decrease is 48 kg; 48 divided by 120 equals 0.40 or 40%.",
+      "hint": "Calculate change relative to the original amount."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 23,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-024",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "causal_caution",
+    "question": "A creek cleared after a litter trap was installed, but heavy rain also stopped. What should the council report?",
+    "audio_prompt": "A creek cleared after a litter trap was installed, but heavy rain also stopped. What should the council report?",
+    "answers": [
+      {
+        "text": "No observation should be reported",
+        "is_correct": false
+      },
+      {
+        "text": "The trap may have helped, but weather is a competing explanation",
+        "is_correct": true
+      },
+      {
+        "text": "The trap certainly caused all improvement",
+        "is_correct": false
+      },
+      {
+        "text": "Rain can never affect creeks",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Evidence can still guide a cautious decision while limits are named.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A responsible report acknowledges another factor that could explain the change.",
+      "hint": "Correlation after an action does not automatically establish cause."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-021",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-025",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "Which factor is a scientific part of a food-storage decision after students review their evidence?",
-    "audio_prompt": "Which factor is a scientific part of a food-storage decision after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "compare_evidence_quality",
+    "question": "Which evidence gives strongest support for choosing a mosquito-control response?",
+    "audio_prompt": "Which evidence gives strongest support for choosing a mosquito-control response?",
     "answers": [
       {
-        "text": "Which packaging colour is most popular.",
-        "is_correct": false
-      },
-      {
-        "text": "Which slogan sounds best.",
-        "is_correct": false
-      },
-      {
-        "text": "How temperature affects bacterial growth.",
+        "text": "Repeated local trials measuring mosquito numbers and non-target species",
         "is_correct": true
+      },
+      {
+        "text": "A single anonymous comment",
+        "is_correct": false
+      },
+      {
+        "text": "A poster made by the supplier",
+        "is_correct": false
+      },
+      {
+        "text": "One photograph from another climate",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "How temperature affects bacterial growth.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Repeated local measurements address effectiveness and unintended ecological effects.",
+      "hint": "Prefer relevant, systematic and repeatable evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 25,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-022",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-026",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "A popular option has weak evidence. What should decision-makers do after students review their evidence?",
-    "audio_prompt": "A popular option has weak evidence. What should decision-makers do after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "opportunity_cost",
+    "question": "A council can fund either a small pilot across two suburbs or immediate town-wide installation. What is a benefit of the pilot?",
+    "audio_prompt": "A council can fund either a small pilot across two suburbs or immediate town-wide installation. What is a benefit of the pilot?",
     "answers": [
       {
-        "text": "Compare it with evidence, risks, costs and likely impacts.",
+        "text": "It guarantees the final program works",
+        "is_correct": false
+      },
+      {
+        "text": "It removes the need for monitoring",
+        "is_correct": false
+      },
+      {
+        "text": "It includes every stakeholder automatically",
+        "is_correct": false
+      },
+      {
+        "text": "It can test effectiveness and reveal problems before larger spending",
         "is_correct": true
-      },
-      {
-        "text": "Choose it because popularity proves it is best.",
-        "is_correct": false
-      },
-      {
-        "text": "Reject all community views.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Compare it with evidence, risks, costs and likely impacts.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A pilot reduces uncertainty and supports revision before full-scale commitment.",
+      "hint": "Small trials can inform larger decisions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 26,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-023",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-027",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "Why might a decision need review points after students review their evidence?",
-    "audio_prompt": "Why might a decision need review points after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "unintended_effects",
+    "question": "A bright night-lighting program reduces falls but disrupts moth activity. What should the review do?",
+    "audio_prompt": "A bright night-lighting program reduces falls but disrupts moth activity. What should the review do?",
     "answers": [
       {
-        "text": "Review points prevent any action.",
+        "text": "Remove all lighting immediately without comparison",
         "is_correct": false
       },
       {
-        "text": "Real results can show whether the response is working.",
+        "text": "Declare that science failed",
+        "is_correct": false
+      },
+      {
+        "text": "Weigh safety gains against ecological harm and test lower-impact lighting",
         "is_correct": true
       },
       {
-        "text": "A first plan is always perfect.",
+        "text": "Ignore moth data because falls matter",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "Real results can show whether the response is working.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The new evidence reveals a trade-off and supports investigating an adjusted response.",
+      "hint": "An unintended effect should enter the comparison."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-p-024",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-028",
     "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "science decisions",
-    "question": "Which conclusion uses science appropriately after students review their evidence?",
-    "audio_prompt": "Which conclusion uses science appropriately after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "thresholds",
+    "question": "A town will revise its water plan if reservoir levels remain below 35% for eight weeks. Why state this threshold in advance?",
+    "audio_prompt": "A town will revise its water plan if reservoir levels remain below 35% for eight weeks. Why state this threshold in advance?",
     "answers": [
       {
-        "text": "Science proves shade cloth is morally perfect.",
+        "text": "It prevents any later discussion",
         "is_correct": false
       },
       {
-        "text": "No evidence is needed because shade sounds helpful.",
-        "is_correct": false
-      },
-      {
-        "text": "The evidence supports trialling shade cloth, but growth should be monitored.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-t-001",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A different class checks the same science idea: Which conclusion uses science appropriately?",
-    "audio_prompt": "A different class checks the same science idea: Which conclusion uses science appropriately?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The evidence supports trialling shade cloth, but growth should be monitored.",
+        "text": "It links monitoring evidence to a transparent action",
         "is_correct": true
       },
       {
-        "text": "Science proves shade cloth is morally perfect.",
+        "text": "It ensures rainfall occurs",
         "is_correct": false
       },
       {
-        "text": "No evidence is needed because shade sounds helpful.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-t-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A different class checks the same science idea: Why might a decision need review points?",
-    "audio_prompt": "A different class checks the same science idea: Why might a decision need review points?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Review points prevent any action.",
-        "is_correct": false
-      },
-      {
-        "text": "Real results can show whether the response is working.",
-        "is_correct": true
-      },
-      {
-        "text": "A first plan is always perfect.",
+        "text": "It makes uncertainty disappear",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Real results can show whether the response is working.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A trigger makes the adaptive response clear and evidence based.",
+      "hint": "A monitoring plan needs a rule for acting on results."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-t-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-029",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A different class checks the same science idea: A popular option has weak evidence. What should decision-makers do?",
-    "audio_prompt": "A different class checks the same science idea: A popular option has weak evidence. What should decision-makers do?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "stakeholder_representation",
+    "question": "At a meeting, one shop owner supports closing a street to cars. Which conclusion is justified?",
+    "audio_prompt": "At a meeting, one shop owner supports closing a street to cars. Which conclusion is justified?",
     "answers": [
       {
-        "text": "Choose it because popularity proves it is best.",
-        "is_correct": false
-      },
-      {
-        "text": "Reject all community views.",
-        "is_correct": false
-      },
-      {
-        "text": "Compare it with evidence, risks, costs and likely impacts.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Compare it with evidence, risks, costs and likely impacts.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-t-004",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A different class checks the same science idea: Which factor is a scientific part of a food-storage decision?",
-    "audio_prompt": "A different class checks the same science idea: Which factor is a scientific part of a food-storage decision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "How temperature affects bacterial growth.",
+        "text": "That owner’s view is evidence of one perspective, not all businesses",
         "is_correct": true
       },
       {
-        "text": "Which packaging colour is most popular.",
+        "text": "Every business supports closure",
         "is_correct": false
       },
       {
-        "text": "Which slogan sounds best.",
+        "text": "Business impacts need no further evidence",
+        "is_correct": false
+      },
+      {
+        "text": "The scientific data are now irrelevant",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How temperature affects bacterial growth.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "One participant cannot represent a diverse stakeholder group without broader consultation.",
+      "hint": "Avoid treating one voice as an entire community."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-t-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-030",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A different class checks the same science idea: Why is uncertainty not a reason to ignore evidence?",
-    "audio_prompt": "A different class checks the same science idea: Why is uncertainty not a reason to ignore evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "conflicting_criteria",
+    "question": "A cooling centre is highly effective but difficult to reach without a car. Which modification best addresses the limitation?",
+    "audio_prompt": "A cooling centre is highly effective but difficult to reach without a car. Which modification best addresses the limitation?",
     "answers": [
       {
-        "text": "Uncertainty means all options are equally scientific.",
+        "text": "Stop measuring attendance",
         "is_correct": false
       },
       {
-        "text": "Evidence can still guide a cautious decision while limits are named.",
+        "text": "Advertise only to drivers",
+        "is_correct": false
+      },
+      {
+        "text": "Lower the indoor temperature further",
+        "is_correct": false
+      },
+      {
+        "text": "Add free shuttle routes from heat-vulnerable neighbourhoods",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Transport improves equitable access while retaining the effective cooling response.",
+      "hint": "Target the criterion on which the option is weak."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-031",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "source_interests",
+    "question": "A company selling filters reports its product removes 99% of particles. What is the best next step?",
+    "audio_prompt": "A company selling filters reports its product removes 99% of particles. What is the best next step?",
+    "answers": [
+      {
+        "text": "Buy immediately",
+        "is_correct": false
+      },
+      {
+        "text": "Replace the percentage with opinions",
+        "is_correct": false
+      },
+      {
+        "text": "Check methods and seek independent testing under local conditions",
         "is_correct": true
       },
       {
-        "text": "Uncertainty proves the problem is imaginary.",
+        "text": "Reject the result only because a company produced it",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Commercial interest does not automatically invalidate evidence, but methods and independent replication matter.",
+      "hint": "Evaluate evidence quality and possible bias."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-032",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "evidence_update",
+    "question": "New surveys find a threatened frog breeding in the proposed construction area. What should planners do?",
+    "audio_prompt": "New surveys find a threatened frog breeding in the proposed construction area. What should planners do?",
+    "answers": [
+      {
+        "text": "Cancel without investigating impacts",
+        "is_correct": false
+      },
+      {
+        "text": "Add the evidence to the criteria comparison and reconsider options",
+        "is_correct": true
+      },
+      {
+        "text": "Ignore it because planning began earlier",
+        "is_correct": false
+      },
+      {
+        "text": "Assume one frog represents every species",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Evidence can still guide a cautious decision while limits are named.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Decisions should be revisited when relevant new evidence changes likely consequences.",
+      "hint": "A defensible process can change direction."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-t-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-033",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A different class checks the same science idea: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
-    "audio_prompt": "A different class checks the same science idea: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "precaution",
+    "question": "A chemical may seriously damage a wetland, but evidence is incomplete. Which response best manages uncertainty?",
+    "audio_prompt": "A chemical may seriously damage a wetland, but evidence is incomplete. Which response best manages uncertainty?",
     "answers": [
       {
-        "text": "Whether the rule has a nicer name.",
-        "is_correct": false
-      },
-      {
-        "text": "Whether no one ever asks questions again.",
-        "is_correct": false
-      },
-      {
-        "text": "Whether noise levels and nesting impacts improve.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Whether noise levels and nesting impacts improve.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-t-007",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A different class checks the same science idea: Why should a community decision include stakeholders?",
-    "audio_prompt": "A different class checks the same science idea: Why should a community decision include stakeholders?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Different people or environments may be affected by the decision.",
+        "text": "Limit use, gather more evidence and monitor for harm",
         "is_correct": true
       },
       {
-        "text": "Only scientists are affected by local decisions.",
+        "text": "Assume no evidence means no risk",
         "is_correct": false
       },
       {
-        "text": "Stakeholders make evidence unnecessary.",
+        "text": "Ban every chemical everywhere forever",
+        "is_correct": false
+      },
+      {
+        "text": "Stop all investigation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Different people or environments may be affected by the decision.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Proportionate precaution reduces possible serious harm while improving the evidence base.",
+      "hint": "Uncertainty can justify careful, revisable action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-t-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-034",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A different class checks the same science idea: A town is deciding how to reduce mould in a community hall. What can science contribute?",
-    "audio_prompt": "A different class checks the same science idea: A town is deciding how to reduce mould in a community hall. What can science contribute?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "multi-criteria_reasoning",
+    "question": "A recycling plant cuts landfill by 60% but increases truck noise near homes. A complete recommendation should:",
+    "audio_prompt": "A recycling plant cuts landfill by 60% but increases truck noise near homes. A complete recommendation should:",
     "answers": [
       {
-        "text": "A guarantee that everyone will prefer one option.",
+        "text": "mention only the 60% benefit",
         "is_correct": false
       },
       {
-        "text": "Evidence about moisture, ventilation and materials.",
+        "text": "ask residents to ignore measurements",
+        "is_correct": false
+      },
+      {
+        "text": "choose solely by cheapest price",
+        "is_correct": false
+      },
+      {
+        "text": "cite landfill evidence, acknowledge noise impacts and propose mitigation or comparison",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Good reasoning connects evidence to multiple criteria and addresses the real trade-off.",
+      "hint": "Include both benefit and limitation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-035",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "quantitative_comparison",
+    "question": "Filter A removes 95 of 100 samples but costs $50 each; B removes 88 and costs $12. Which statement is defensible?",
+    "audio_prompt": "Filter A removes 95 of 100 samples but costs $50 each; B removes 88 and costs $12. Which statement is defensible?",
+    "answers": [
+      {
+        "text": "B is scientifically false",
+        "is_correct": false
+      },
+      {
+        "text": "The results contain no trade-off",
+        "is_correct": false
+      },
+      {
+        "text": "A is more effective; B is cheaper; priorities determine the recommendation",
         "is_correct": true
       },
       {
-        "text": "The cheapest choice without testing.",
+        "text": "A is best under every criterion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The data show opposing strengths, so the decision depends on stated criteria and constraints.",
+      "hint": "Compare each option on more than one criterion."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-036",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "decision_transparency",
+    "question": "Why publish the criteria and evidence used in a council decision?",
+    "audio_prompt": "Why publish the criteria and evidence used in a council decision?",
+    "answers": [
+      {
+        "text": "It hides uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "People can understand, question and review the reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "It makes every person agree",
+        "is_correct": false
+      },
+      {
+        "text": "It turns opinions into measurements",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Evidence about moisture, ventilation and materials.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Transparency allows scrutiny even when reasonable people value criteria differently.",
+      "hint": "A decision can be accountable without unanimous agreement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-t-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-037",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A follow-up test asks: Which conclusion uses science appropriately?",
-    "audio_prompt": "A follow-up test asks: Which conclusion uses science appropriately?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "baseline",
+    "question": "A revegetation team wants to know whether native bird numbers improve. What must it collect before planting?",
+    "audio_prompt": "A revegetation team wants to know whether native bird numbers improve. What must it collect before planting?",
     "answers": [
       {
-        "text": "Science proves shade cloth is morally perfect.",
-        "is_correct": false
-      },
-      {
-        "text": "No evidence is needed because shade sounds helpful.",
-        "is_correct": false
-      },
-      {
-        "text": "The evidence supports trialling shade cloth, but growth should be monitored.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "The evidence supports trialling shade cloth, but growth should be monitored.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-t-010",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A follow-up test asks: Why might a decision need review points?",
-    "audio_prompt": "A follow-up test asks: Why might a decision need review points?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Real results can show whether the response is working.",
+        "text": "A baseline bird survey using a consistent method",
         "is_correct": true
       },
       {
-        "text": "Review points prevent any action.",
+        "text": "Only the final survey",
         "is_correct": false
       },
       {
-        "text": "A first plan is always perfect.",
+        "text": "The names of every volunteer",
+        "is_correct": false
+      },
+      {
+        "text": "A prediction with no counts",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Real results can show whether the response is working.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A baseline enables a meaningful before-and-after comparison.",
+      "hint": "You need to know the starting condition."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-t-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-038",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A follow-up test asks: A popular option has weak evidence. What should decision-makers do?",
-    "audio_prompt": "A follow-up test asks: A popular option has weak evidence. What should decision-makers do?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "monitoring_design",
+    "question": "Which monitoring plan best detects a long-term change in beach erosion?",
+    "audio_prompt": "Which monitoring plan best detects a long-term change in beach erosion?",
     "answers": [
       {
-        "text": "Choose it because popularity proves it is best.",
+        "text": "Take one photo on opening day",
         "is_correct": false
       },
       {
-        "text": "Compare it with evidence, risks, costs and likely impacts.",
+        "text": "Ask one visitor annually",
+        "is_correct": false
+      },
+      {
+        "text": "Measure different places with different methods each time",
+        "is_correct": false
+      },
+      {
+        "text": "Measure fixed transects each season for several years",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Repeated measures at fixed locations and comparable times reveal trends reliably.",
+      "hint": "Consistency over time matters."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-039",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "limitations",
+    "question": "A survey of 12 volunteers found strong support for wind turbines. What is the largest evidence limitation?",
+    "audio_prompt": "A survey of 12 volunteers found strong support for wind turbines. What is the largest evidence limitation?",
+    "answers": [
+      {
+        "text": "Support is always scientific evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Twelve responses prove opposition",
+        "is_correct": false
+      },
+      {
+        "text": "The small self-selected sample may not represent the community",
         "is_correct": true
       },
       {
-        "text": "Reject all community views.",
+        "text": "Wind cannot be measured",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "People who volunteer may differ from others, and twelve is a limited sample.",
+      "hint": "Consider sample size and selection."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 39,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-040",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "weighting_criteria",
+    "question": "Why can two communities use the same scientific evidence yet choose different flood responses?",
+    "audio_prompt": "Why can two communities use the same scientific evidence yet choose different flood responses?",
+    "answers": [
+      {
+        "text": "Evidence has no role in either choice",
+        "is_correct": false
+      },
+      {
+        "text": "They may reasonably weight cost, heritage, safety and habitat differently",
+        "is_correct": true
+      },
+      {
+        "text": "Scientific measurements change when discussed",
+        "is_correct": false
+      },
+      {
+        "text": "Only one community understands science",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Compare it with evidence, risks, costs and likely impacts.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Evidence describes likely effects; community priorities influence how criteria are weighted.",
+      "hint": "Same facts do not require identical values."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 40,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-t-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-041",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A follow-up test asks: Which factor is a scientific part of a food-storage decision?",
-    "audio_prompt": "A follow-up test asks: Which factor is a scientific part of a food-storage decision?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "compound_uncertainty",
+    "question": "A model predicts 20–35 cm sea-level rise locally, depending on emissions and currents. Which use is soundest?",
+    "audio_prompt": "A model predicts 20–35 cm sea-level rise locally, depending on emissions and currents. Which use is soundest?",
     "answers": [
       {
-        "text": "Which packaging colour is most popular.",
-        "is_correct": false
-      },
-      {
-        "text": "Which slogan sounds best.",
-        "is_correct": false
-      },
-      {
-        "text": "How temperature affects bacterial growth.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "How temperature affects bacterial growth.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-t-013",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A follow-up test asks: Why is uncertainty not a reason to ignore evidence?",
-    "audio_prompt": "A follow-up test asks: Why is uncertainty not a reason to ignore evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Evidence can still guide a cautious decision while limits are named.",
+        "text": "Plan across the plausible range and update as observations improve",
         "is_correct": true
       },
       {
-        "text": "Uncertainty means all options are equally scientific.",
+        "text": "Use exactly 27.5 cm as certain",
         "is_correct": false
       },
       {
-        "text": "Uncertainty proves the problem is imaginary.",
+        "text": "Ignore the model because it gives a range",
+        "is_correct": false
+      },
+      {
+        "text": "Prepare only for the lowest value",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Evidence can still guide a cautious decision while limits are named.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Scenario planning respects quantified uncertainty and supports revision.",
+      "hint": "A range communicates information, not failure."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 41,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-t-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-042",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A follow-up test asks: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
-    "audio_prompt": "A follow-up test asks: A water-sports rule is changed to reduce noise near nesting areas. What should be monitored later?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "ethical_evidence_use",
+    "question": "A trial improves average access to clean water but the remotest households receive none. What should the decision report?",
+    "audio_prompt": "A trial improves average access to clean water but the remotest households receive none. What should the decision report?",
     "answers": [
       {
-        "text": "Whether the rule has a nicer name.",
+        "text": "Only the average because it is numerical",
         "is_correct": false
       },
       {
-        "text": "Whether noise levels and nesting impacts improve.",
+        "text": "Only one satisfied household",
+        "is_correct": false
+      },
+      {
+        "text": "No result until access is perfect",
+        "is_correct": false
+      },
+      {
+        "text": "Both the average improvement and the unequal distribution",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Average outcomes can conceal inequity, so disaggregated effects are decision-relevant.",
+      "hint": "Ask who benefits, not only how much overall."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 42,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-043",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "systems_effects",
+    "question": "Removing foxes increases shorebird nests, but rabbit numbers also rise. What response is strongest?",
+    "audio_prompt": "Removing foxes increases shorebird nests, but rabbit numbers also rise. What response is strongest?",
+    "answers": [
+      {
+        "text": "Ignore rabbits because they were not the first target",
+        "is_correct": false
+      },
+      {
+        "text": "Return to the original plan without data",
+        "is_correct": false
+      },
+      {
+        "text": "Continue targeted monitoring and adapt control to both outcomes",
         "is_correct": true
       },
       {
-        "text": "Whether no one ever asks questions again.",
+        "text": "Call the program an unqualified success",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Ecosystem responses interact; adaptive management considers intended and unintended outcomes.",
+      "hint": "Complex systems require monitoring beyond one measure."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 43,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-044",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "recommendation_quality",
+    "question": "Which recommendation is most defensible?",
+    "audio_prompt": "Which recommendation is most defensible?",
+    "answers": [
+      {
+        "text": "Choose C because its name sounds safe",
+        "is_correct": false
+      },
+      {
+        "text": "Trial Option C for one year because it met safety and cost criteria in local tests; monitor injury rates and revise if rates exceed the baseline",
+        "is_correct": true
+      },
+      {
+        "text": "Choose C because everyone knows it is best",
+        "is_correct": false
+      },
+      {
+        "text": "Choose C forever because one test succeeded",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Whether noise levels and nesting impacts improve.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It connects local evidence to criteria, limits the claim and includes review.",
+      "hint": "Look for evidence, trade-offs and monitoring."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6h02-t-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6H02-P-045",
     "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A follow-up test asks: Why should a community decision include stakeholders?",
-    "audio_prompt": "A follow-up test asks: Why should a community decision include stakeholders?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "decision_revision",
+    "question": "When does changing a science-informed decision show strength rather than failure?",
+    "audio_prompt": "When does changing a science-informed decision show strength rather than failure?",
     "answers": [
       {
-        "text": "Only scientists are affected by local decisions.",
-        "is_correct": false
-      },
-      {
-        "text": "Stakeholders make evidence unnecessary.",
-        "is_correct": false
-      },
-      {
-        "text": "Different people or environments may be affected by the decision.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Different people or environments may be affected by the decision.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6h02-t-016",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6H02",
-    "bank": "test",
-    "skill": "science decisions",
-    "question": "A follow-up test asks: A town is deciding how to reduce mould in a community hall. What can science contribute?",
-    "audio_prompt": "A follow-up test asks: A town is deciding how to reduce mould in a community hall. What can science contribute?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Evidence about moisture, ventilation and materials.",
+        "text": "When relevant new evidence shows criteria are not being met",
         "is_correct": true
       },
       {
-        "text": "A guarantee that everyone will prefer one option.",
+        "text": "Whenever criticism appears online",
         "is_correct": false
       },
       {
-        "text": "The cheapest choice without testing.",
+        "text": "When records are destroyed",
+        "is_correct": false
+      },
+      {
+        "text": "Only when the cheapest option changes",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Evidence about moisture, ventilation and materials.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Updating a choice in response to relevant monitored evidence is rational and accountable.",
+      "hint": "Adaptive decisions are designed to learn."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 45,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-046",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "evidence_synthesis",
+    "question": "Water tests favour Option X, habitat surveys favour Y, and both datasets use sound methods. What should the team do?",
+    "audio_prompt": "Water tests favour Option X, habitat surveys favour Y, and both datasets use sound methods. What should the team do?",
+    "answers": [
+      {
+        "text": "Discard whichever study was completed second",
+        "is_correct": false
+      },
+      {
+        "text": "Average option names",
+        "is_correct": false
+      },
+      {
+        "text": "Claim the evidence agrees",
+        "is_correct": false
+      },
+      {
+        "text": "Explain the conflicting criteria and seek an option or weighting that addresses both",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Sound evidence can support different criteria; synthesis makes the trade-off explicit.",
+      "hint": "Conflict may be between goals, not data quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-047",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "problem_framing",
+    "question": "Residents say a river problem is “not enough clean water for people and ecosystems,” rather than simply “low dam storage.” Why is the broader frame useful?",
+    "audio_prompt": "Residents say a river problem is “not enough clean water for people and ecosystems,” rather than simply “low dam storage.” Why is the broader frame useful?",
+    "answers": [
+      {
+        "text": "It removes the need for measurements",
+        "is_correct": false
+      },
+      {
+        "text": "It makes every issue equally important",
+        "is_correct": false
+      },
+      {
+        "text": "It allows responses beyond building storage and recognises ecological needs",
+        "is_correct": true
+      },
+      {
+        "text": "It guarantees a dam will be rejected",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Problem framing shapes which evidence, stakeholders and options enter the decision.",
+      "hint": "A narrow problem can hide causes or affected groups."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-P-048",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "integrated_judgement",
+    "question": "Which sequence represents a robust science-informed community decision?",
+    "audio_prompt": "Which sequence represents a robust science-informed community decision?",
+    "answers": [
+      {
+        "text": "Ask one expert, copy a solution, guarantee success",
+        "is_correct": false
+      },
+      {
+        "text": "Define problem, gather evidence, identify stakeholders and criteria, compare responses, decide, monitor and revise",
+        "is_correct": true
+      },
+      {
+        "text": "Vote, find evidence, hide limits, stop measuring",
+        "is_correct": false
+      },
+      {
+        "text": "Pick cheapest, announce, redefine problem",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sequence integrates investigation, participation, transparent comparison and adaptive review.",
+      "hint": "Use the full decision chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-001",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "novel_water_context",
+    "question": "A remote community compares rain tanks and a bore. Tests show the bore is reliable but slightly saline; rainfall is clean but seasonal. Which conclusion is strongest?",
+    "audio_prompt": "A remote community compares rain tanks and a bore. Tests show the bore is reliable but slightly saline; rainfall is clean but seasonal. Which conclusion is strongest?",
+    "answers": [
+      {
+        "text": "The bore and tanks have complementary benefits and limitations worth comparing against health, reliability and cost criteria",
+        "is_correct": true
+      },
+      {
+        "text": "Rain tanks are always best",
+        "is_correct": false
+      },
+      {
+        "text": "Salinity proves the bore has no possible use",
+        "is_correct": false
+      },
+      {
+        "text": "Reliability is the only community value",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The evidence identifies a genuine reliability–quality trade-off and supports a multi-criteria comparison.",
+      "hint": "Do not turn one strength into an automatic decision."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-002",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "quantitative_habitat_evidence",
+    "question": "After fencing a dune, native seedling survival rises from 30% to 66%. What is the percentage-point increase?",
+    "audio_prompt": "After fencing a dune, native seedling survival rises from 30% to 66%. What is the percentage-point increase?",
+    "answers": [
+      {
+        "text": "120 percentage points",
+        "is_correct": false
+      },
+      {
+        "text": "46 percentage points",
+        "is_correct": false
+      },
+      {
+        "text": "96 percentage points",
+        "is_correct": false
+      },
+      {
+        "text": "36 percentage points",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "66 minus 30 equals a 36-percentage-point increase.",
+      "hint": "Percentage points are found by subtraction."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-003",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "evidence_relevance",
+    "question": "A town is choosing cooler road surfaces. Which data most directly address heat reduction?",
+    "audio_prompt": "A town is choosing cooler road surfaces. Which data most directly address heat reduction?",
+    "answers": [
+      {
+        "text": "Number of workers’ uniforms",
+        "is_correct": false
+      },
+      {
+        "text": "Age of the council building",
+        "is_correct": false
+      },
+      {
+        "text": "Surface temperatures of trial sections measured at the same times",
+        "is_correct": true
+      },
+      {
+        "text": "Residents’ favourite road names",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Comparable surface-temperature measurements test the intended effect.",
+      "hint": "Match the data to the criterion."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-004",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "stakeholder_conflict",
+    "question": "A marine reserve may increase fish populations but initially restrict commercial catches. What must a justified decision include?",
+    "audio_prompt": "A marine reserve may increase fish populations but initially restrict commercial catches. What must a justified decision include?",
+    "answers": [
+      {
+        "text": "A promise of no trade-offs",
+        "is_correct": false
+      },
+      {
+        "text": "Ecological projections, fishing impacts, affected groups and possible transition measures",
+        "is_correct": true
+      },
+      {
+        "text": "Only the projected fish increase",
+        "is_correct": false
+      },
+      {
+        "text": "Only the loudest speaker",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The decision should connect scientific outcomes to stakeholder effects and responses.",
+      "hint": "Include who bears short-term costs."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-005",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "uncertainty_response",
+    "question": "A fire-risk map is based on ten years of data but recent vegetation has changed. What is the best use?",
+    "audio_prompt": "A fire-risk map is based on ten years of data but recent vegetation has changed. What is the best use?",
+    "answers": [
+      {
+        "text": "Use it provisionally, update vegetation inputs and monitor predictions",
+        "is_correct": true
+      },
+      {
+        "text": "Treat every boundary as permanent",
+        "is_correct": false
+      },
+      {
+        "text": "Ignore all historical data",
+        "is_correct": false
+      },
+      {
+        "text": "Let residents redraw it by preference",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The map remains evidence, but changed conditions require updating and checking.",
+      "hint": "Useful evidence can still have limits."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-006",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "values_versus_evidence",
+    "question": "Which statement is a value judgement in a river decision?",
+    "audio_prompt": "Which statement is a value judgement in a river decision?",
+    "answers": [
+      {
+        "text": "Water temperature rose 2°C downstream",
+        "is_correct": false
+      },
+      {
+        "text": "Three fish species declined",
+        "is_correct": false
+      },
+      {
+        "text": "The wetland stores 40 ML during floods",
+        "is_correct": false
+      },
+      {
+        "text": "Protecting ceremonial access should receive the highest priority",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Should receive the highest priority” assigns importance rather than reporting an observation.",
+      "hint": "Look for a statement about what ought to matter most."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-007",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "monitoring_trigger",
+    "question": "A trial bus reduces private trips by only 4%, below its 15% target. What action best follows the stated criterion?",
+    "audio_prompt": "A trial bus reduces private trips by only 4%, below its 15% target. What action best follows the stated criterion?",
+    "answers": [
+      {
+        "text": "Lower the recorded baseline",
+        "is_correct": false
+      },
+      {
+        "text": "Stop collecting passenger data",
+        "is_correct": false
+      },
+      {
+        "text": "Investigate barriers and revise or replace the trial",
+        "is_correct": true
+      },
+      {
+        "text": "Report that every target was met",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The monitored outcome misses the success criterion, so review and adaptation are warranted.",
+      "hint": "Compare outcome with the pre-set target."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-008",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "equity",
+    "question": "A heat-warning app reaches 92% of residents but not many older people without smartphones. Which conclusion is most complete?",
+    "audio_prompt": "A heat-warning app reaches 92% of residents but not many older people without smartphones. Which conclusion is most complete?",
+    "answers": [
+      {
+        "text": "92% means no improvement is possible",
+        "is_correct": false
+      },
+      {
+        "text": "High overall reach masks an access gap that needs another warning channel",
+        "is_correct": true
+      },
+      {
+        "text": "The app fully succeeds for everyone",
+        "is_correct": false
+      },
+      {
+        "text": "Older people are not stakeholders",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Disaggregated evidence reveals an equity limitation hidden by the average.",
+      "hint": "Ask which group is missed."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-009",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "risk_comparison",
+    "question": "Option P has a 1-in-100 chance of severe contamination; Q has a 1-in-5 chance of a minor taste change. Why is frequency alone insufficient?",
+    "audio_prompt": "Option P has a 1-in-100 chance of severe contamination; Q has a 1-in-5 chance of a minor taste change. Why is frequency alone insufficient?",
+    "answers": [
+      {
+        "text": "Consequences as well as likelihood determine risk",
+        "is_correct": true
+      },
+      {
+        "text": "Only severe outcomes have likelihood",
+        "is_correct": false
+      },
+      {
+        "text": "Taste cannot be observed",
+        "is_correct": false
+      },
+      {
+        "text": "All risks are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Risk comparison must consider how likely and how serious each outcome is.",
+      "hint": "Use both dimensions of risk."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-010",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "source_evaluation",
+    "question": "An independent university and a supplier report different battery lifetimes. What should a school do?",
+    "audio_prompt": "An independent university and a supplier report different battery lifetimes. What should a school do?",
+    "answers": [
+      {
+        "text": "Accept the supplier automatically",
+        "is_correct": false
+      },
+      {
+        "text": "Average the organisations’ ages",
+        "is_correct": false
+      },
+      {
+        "text": "Reject all battery evidence",
+        "is_correct": false
+      },
+      {
+        "text": "Compare test conditions and methods, then conduct or seek a relevant independent trial",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Method differences may explain results; relevant verification is more useful than judging by label alone.",
+      "hint": "Inspect how the evidence was produced."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-011",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "pilot_evidence",
+    "question": "A compost trial succeeds in one small school with daily staff supervision. What limits transfer to a large public festival?",
+    "audio_prompt": "A compost trial succeeds in one small school with daily staff supervision. What limits transfer to a large public festival?",
+    "answers": [
+      {
+        "text": "One success proves every context",
+        "is_correct": false
+      },
+      {
+        "text": "Festivals create no organic waste",
+        "is_correct": false
+      },
+      {
+        "text": "Scale, participant behaviour and supervision differ",
+        "is_correct": true
+      },
+      {
+        "text": "Compost cannot work outdoors",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Contextual differences create uncertainty about whether the effect will transfer.",
+      "hint": "Compare conditions, not just outcomes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-012",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "trade-off_mitigation",
+    "question": "A seawall protects houses but narrows a nesting beach. Which response best addresses both criteria?",
+    "audio_prompt": "A seawall protects houses but narrows a nesting beach. Which response best addresses both criteria?",
+    "answers": [
+      {
+        "text": "Choose by coin toss",
+        "is_correct": false
+      },
+      {
+        "text": "Compare setback, dune restoration and redesigned protection using flood and habitat evidence",
+        "is_correct": true
+      },
+      {
+        "text": "Build the tallest wall without study",
+        "is_correct": false
+      },
+      {
+        "text": "Protect nests but ignore houses",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Alternative or combined designs can be compared against both safety and habitat needs.",
+      "hint": "Seek responses that reduce the trade-off."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-013",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "causal_inference",
+    "question": "Asthma presentations fall after low-emission buses begin, while weather and pollen also change. What can be claimed?",
+    "audio_prompt": "Asthma presentations fall after low-emission buses begin, while weather and pollen also change. What can be claimed?",
+    "answers": [
+      {
+        "text": "The fall is encouraging, but more comparison is needed before attributing it to buses",
+        "is_correct": true
+      },
+      {
+        "text": "The buses certainly caused the entire fall",
+        "is_correct": false
+      },
+      {
+        "text": "Pollen never affects asthma",
+        "is_correct": false
+      },
+      {
+        "text": "Health records are opinions",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Other changing variables mean the association alone does not prove causation.",
+      "hint": "Identify plausible competing explanations."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-014",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "adaptive_management",
+    "question": "Mangrove planting survives well at two sites but fails at a wave-exposed third site. What should managers do?",
+    "audio_prompt": "Mangrove planting survives well at two sites but fails at a wave-exposed third site. What should managers do?",
+    "answers": [
+      {
+        "text": "Declare all planting useless",
+        "is_correct": false
+      },
+      {
+        "text": "Copy the first method unchanged forever",
+        "is_correct": false
+      },
+      {
+        "text": "Remove the successful sites",
+        "is_correct": false
+      },
+      {
+        "text": "Use site evidence to modify species, placement or protection at the third site",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Local monitoring supports a targeted revision rather than an all-or-nothing conclusion.",
+      "hint": "Adapt to the condition linked to failure."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-015",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "transparent_recommendation",
+    "question": "Which council statement best demonstrates accountable reasoning?",
+    "audio_prompt": "Which council statement best demonstrates accountable reasoning?",
+    "answers": [
+      {
+        "text": "Experts chose B, so questions are unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "B won the quickest show of hands",
+        "is_correct": false
+      },
+      {
+        "text": "We selected B because local trials met water-quality and budget thresholds; habitat effects remain uncertain, so quarterly surveys will guide review",
+        "is_correct": true
+      },
+      {
+        "text": "B is obviously perfect",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The statement names evidence, criteria, uncertainty and monitoring.",
+      "hint": "Accountable reasoning can be inspected later."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6H02-T-016",
+    "curriculum_code": "AC9S6H02",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "full_decision_chain",
+    "question": "A community has defined coastal erosion and gathered shoreline data. What is the strongest next sequence?",
+    "audio_prompt": "A community has defined coastal erosion and gathered shoreline data. What is the strongest next sequence?",
+    "answers": [
+      {
+        "text": "Ask one group to decide for all",
+        "is_correct": false
+      },
+      {
+        "text": "Identify affected groups and criteria, compare feasible responses, decide transparently, then monitor",
+        "is_correct": true
+      },
+      {
+        "text": "Announce one response and stop measuring",
+        "is_correct": false
+      },
+      {
+        "text": "Collect unrelated facts indefinitely",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The remaining stages ensure inclusive comparison, action and review.",
+      "hint": "Continue the evidence-to-action chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
   }
 ]

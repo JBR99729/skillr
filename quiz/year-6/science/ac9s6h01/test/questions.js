@@ -4,449 +4,449 @@ window.skillrTestQuestions = [
     "id": "ac9s6h01-t-001",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "specialised roles",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why does collaboration not mean automatic agreement?",
-    "audioPrompt": "A different class checks the same science idea: Why does collaboration not mean automatic agreement?",
+    "question": "A reef project assigns divers to survey coral, chemists to test water and modellers to predict recovery. Why is this effective collaboration?",
+    "audioPrompt": "A reef project assigns divers to survey coral, chemists to test water and modellers to predict recovery. Why is this effective collaboration?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Scientists still compare evidence and challenge explanations.",
-      "Everyone must choose the same answer before testing.",
-      "The oldest scientist decides the result."
+      "The connected roles supply different evidence for one recovery question",
+      "Every member conducts the same test",
+      "The prediction replaces surveys",
+      "More roles guarantee success"
     ],
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Scientists still compare evidence and challenge explanations.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Each specialist contributes evidence or analysis needed for the shared question.\nHint: Connect roles to one purpose.",
     "structuredExplanation": {
-      "summary": "Scientists still compare evidence and challenge explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Each specialist contributes evidence or analysis needed for the shared question.",
+      "hint": "Connect roles to one purpose."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-002",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "prior findings",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which example shows science building on earlier work?",
-    "audioPrompt": "A different class checks the same science idea: Which example shows science building on earlier work?",
+    "question": "A vaccine storage box uses insulation described in an earlier engineering report. This shows that:",
+    "audioPrompt": "A vaccine storage box uses insulation described in an earlier engineering report. This shows that:",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A student copies results without checking them.",
-      "A team improves a water-quality test using a method published last year.",
-      "A group ignores all previous measurements."
+      "the earlier designers did not contribute",
+      "reports prevent improvement",
+      "only medical workers do science",
+      "a new application can build on published design knowledge"
     ],
-    "correct": 1,
-    "explanation": "A team improves a water-quality test using a method published last year.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 1,
+    "difficultyTier": "foundation",
+    "sequencePriority": 2,
+    "correct": 3,
+    "explanation": "The new team applies an earlier tested idea to a different practical problem.\nHint: Identify what the report provides.",
     "structuredExplanation": {
-      "summary": "A team improves a water-quality test using a method published last year.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The new team applies an earlier tested idea to a different practical problem.",
+      "hint": "Identify what the report provides."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-003",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "shared observations",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why can critique improve scientific work?",
-    "audioPrompt": "A different class checks the same science idea: Why can critique improve scientific work?",
+    "question": "Island groups use identical tide gauges and upload monthly readings. Why is the network stronger than one gauge?",
+    "audioPrompt": "Island groups use identical tide gauges and upload monthly readings. Why is the network stronger than one gauge?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It means rejecting every result.",
-      "It replaces evidence with opinions.",
-      "It helps find weaknesses in evidence, methods or explanations."
+      "It removes calibration needs",
+      "It guarantees a causal explanation",
+      "It captures patterns across more locations and permits comparison",
+      "It makes tides equal on every island"
     ],
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "It helps find weaknesses in evidence, methods or explanations.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Coordinated observations broaden geographic evidence while retaining comparability.\nHint: Think breadth plus common method.",
     "structuredExplanation": {
-      "summary": "It helps find weaknesses in evidence, methods or explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Coordinated observations broaden geographic evidence while retaining comparability.",
+      "hint": "Think breadth plus common method."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-004",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "peer response",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A report credits one famous scientist for a discovery made by a team. What is missing?",
-    "audioPrompt": "A different class checks the same science idea: A report credits one famous scientist for a discovery made by a team. What is missing?",
+    "question": "Reviewers say a study’s sample is too small. Which response best advances the work?",
+    "audioPrompt": "Reviewers say a study’s sample is too small. Which response best advances the work?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "The contribution of collaborators and earlier work.",
-      "A longer title only.",
-      "A claim that technology did all the thinking."
+      "Repeat the same calculation only",
+      "Collect additional representative samples and report whether the pattern remains",
+      "Remove the sample size from the report",
+      "Ask reviewers to vote for acceptance"
     ],
-    "correct": 0,
-    "explanation": "The contribution of collaborators and earlier work.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 4,
+    "correct": 1,
+    "explanation": "New representative evidence directly tests whether the result is stable.\nHint: Respond to the stated limitation.",
     "structuredExplanation": {
-      "summary": "The contribution of collaborators and earlier work.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "New representative evidence directly tests whether the result is stable.",
+      "hint": "Respond to the stated limitation."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-005",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "incremental timeline",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why are shared databases useful in large environmental studies?",
-    "audioPrompt": "A different class checks the same science idea: Why are shared databases useful in large environmental studies?",
+    "question": "Timeline: hand lens observations → microscope images → DNA comparisons. What does the sequence demonstrate?",
+    "audioPrompt": "Timeline: hand lens observations → microscope images → DNA comparisons. What does the sequence demonstrate?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "They remove the need for careful measurements.",
-      "Many observations can reveal patterns across places and time.",
-      "They make all scientists agree immediately."
+      "New tools let scientists extend and recheck earlier classification evidence",
+      "Each tool makes all previous observations false",
+      "Only DNA users collaborate",
+      "Scientific questions never change"
     ],
-    "correct": 1,
-    "explanation": "Many observations can reveal patterns across places and time.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 5,
+    "correct": 0,
+    "explanation": "Successive tools add evidence and can refine classifications built from earlier observations.\nHint: Look for extension, not erasure.",
     "structuredExplanation": {
-      "summary": "Many observations can reveal patterns across places and time.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Successive tools add evidence and can refine classifications built from earlier observations.",
+      "hint": "Look for extension, not erasure."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-006",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "replication",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: How can repeating another group’s investigation help science?",
-    "audioPrompt": "A different class checks the same science idea: How can repeating another group’s investigation help science?",
+    "question": "A remote team follows published instructions but does not reproduce a battery result. What is the best next action?",
+    "audioPrompt": "A remote team follows published instructions but does not reproduce a battery result. What is the best next action?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It proves the first group cheated.",
-      "It makes methods unnecessary.",
-      "It checks whether the finding is reliable."
+      "Declare one team dishonest immediately",
+      "Average a success and failure into certainty",
+      "Stop sharing methods",
+      "Compare materials, temperatures and procedures with the original team"
     ],
-    "correct": 2,
-    "explanation": "It checks whether the finding is reliable.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 2,
+    "difficultyTier": "core",
+    "sequencePriority": 6,
+    "correct": 3,
+    "explanation": "Method comparison may identify conditions responsible for the different outcomes and guide new tests.\nHint: Investigate sources of difference.",
     "structuredExplanation": {
-      "summary": "It checks whether the finding is reliable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Method comparison may identify conditions responsible for the different outcomes and guide new tests.",
+      "hint": "Investigate sources of difference."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-007",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "data table",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A new sensor gives surprising readings. What should the team do first?",
-    "audioPrompt": "A different class checks the same science idea: A new sensor gives surprising readings. What should the team do first?",
+    "question": "Sensors must last 30 days and transmit every hour. A lasts 45 days/6-hourly; B lasts 32 days/hourly; C lasts 20 days/hourly. Which satisfies both?",
+    "audioPrompt": "Sensors must last 30 days and transmit every hour. A lasts 45 days/6-hourly; B lasts 32 days/hourly; C lasts 20 days/hourly. Which satisfies both?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Test and compare the sensor readings before trusting them.",
-      "Accept the data because new technology is always accurate.",
-      "Delete older data automatically."
+      "C",
+      "A and C",
+      "A",
+      "B"
     ],
-    "correct": 0,
-    "explanation": "Test and compare the sensor readings before trusting them.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 7,
+    "correct": 3,
+    "explanation": "B alone meets both duration and transmission-frequency requirements.\nHint: Test both criteria.",
     "structuredExplanation": {
-      "summary": "Test and compare the sensor readings before trusting them.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "B alone meets both duration and transmission-frequency requirements.",
+      "hint": "Test both criteria."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-008",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "antarctic science",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
-    "audioPrompt": "A different class checks the same science idea: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
+    "question": "Teams at two Antarctic stations find different moss growth rates. Which collaboration would add the most useful evidence?",
+    "audioPrompt": "Teams at two Antarctic stations find different moss growth rates. Which collaboration would add the most useful evidence?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "One scientist must do every job alone.",
-      "Different expertise helps collect, process and interpret better evidence.",
-      "Collaboration means nobody checks the method."
+      "Let station leaders vote",
+      "Use matched measurements of light, temperature and moisture at both stations",
+      "Select the faster growth as correct",
+      "Combine rates without location data"
     ],
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 8,
     "correct": 1,
-    "explanation": "Different expertise helps collect, process and interpret better evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Matched environmental measurements help explain why growth differs between locations.\nHint: Compare relevant abiotic factors.",
     "structuredExplanation": {
-      "summary": "Different expertise helps collect, process and interpret better evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Matched environmental measurements help explain why growth differs between locations.",
+      "hint": "Compare relevant abiotic factors."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-009",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "remote sensing",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why does collaboration not mean automatic agreement?",
-    "audioPrompt": "A follow-up test asks: Why does collaboration not mean automatic agreement?",
+    "question": "Engineers improve a drone camera after ecologists explain that leaf colour distinguishes stressed plants. What enabled the advance?",
+    "audioPrompt": "Engineers improve a drone camera after ecologists explain that leaf colour distinguishes stressed plants. What enabled the advance?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Everyone must choose the same answer before testing.",
-      "The oldest scientist decides the result.",
-      "Scientists still compare evidence and challenge explanations."
+      "Ecological knowledge defined a useful signal for the engineering design",
+      "The engineers replaced field science",
+      "Leaf colour guarantees the cause of stress",
+      "Both groups performed identical work"
     ],
-    "correct": 2,
-    "explanation": "Scientists still compare evidence and challenge explanations.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "The ecologists supplied a biological requirement that engineers translated into a better sensing tool.\nHint: Name the link between contributions.",
     "structuredExplanation": {
-      "summary": "Scientists still compare evidence and challenge explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The ecologists supplied a biological requirement that engineers translated into a better sensing tool.",
+      "hint": "Name the link between contributions."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-010",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "restorative ecology",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which example shows science building on earlier work?",
-    "audioPrompt": "A follow-up test asks: Which example shows science building on earlier work?",
+    "question": "A project uses cultural burning knowledge, vegetation surveys and fire-behaviour models. Which claim is most appropriate?",
+    "audioPrompt": "A project uses cultural burning knowledge, vegetation surveys and fire-behaviour models. Which claim is most appropriate?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A team improves a water-quality test using a method published last year.",
-      "A student copies results without checking them.",
-      "A group ignores all previous measurements."
+      "Only the computer model deserves recognition",
+      "Cultural knowledge cannot be connected to measurements",
+      "Combining approaches guarantees no harm",
+      "Different knowledge holders and specialists can jointly guide, test and monitor restoration"
     ],
-    "correct": 0,
-    "explanation": "A team improves a water-quality test using a method published last year.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 10,
+    "correct": 3,
+    "explanation": "Respectful partnership can connect accumulated knowledge, current evidence and monitoring without promising certainty.\nHint: Look for integration and qualification.",
     "structuredExplanation": {
-      "summary": "A team improves a water-quality test using a method published last year.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Respectful partnership can connect accumulated knowledge, current evidence and monitoring without promising certainty.",
+      "hint": "Look for integration and qualification."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-011",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "iss program",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why can critique improve scientific work?",
-    "audioPrompt": "A follow-up test asks: Why can critique improve scientific work?",
+    "question": "One country supplies a laboratory module, another a robotic arm and several provide crews. Why is the program collaborative?",
+    "audioPrompt": "One country supplies a laboratory module, another a robotic arm and several provide crews. Why is the program collaborative?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It means rejecting every result.",
-      "It helps find weaknesses in evidence, methods or explanations.",
-      "It replaces evidence with opinions."
+      "Hardware alone guarantees discoveries",
+      "Countries must have identical expertise",
+      "The contributions are interdependent within a shared station and research program",
+      "Each contribution answers an unrelated question"
     ],
-    "correct": 1,
-    "explanation": "It helps find weaknesses in evidence, methods or explanations.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "Different contributions work together in one operating research system.\nHint: Interdependence matters.",
     "structuredExplanation": {
-      "summary": "It helps find weaknesses in evidence, methods or explanations.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Different contributions work together in one operating research system.",
+      "hint": "Interdependence matters."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-012",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "phosphate response",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A report credits one famous scientist for a discovery made by a team. What is missing?",
-    "audioPrompt": "A follow-up test asks: A report credits one famous scientist for a discovery made by a team. What is missing?",
+    "question": "Water scientists identify phosphate-driven blooms; chemists formulate an alternative detergent; councils monitor waterways. What does this show?",
+    "audioPrompt": "Water scientists identify phosphate-driven blooms; chemists formulate an alternative detergent; councils monitor waterways. What does this show?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A longer title only.",
-      "A claim that technology did all the thinking.",
-      "The contribution of collaborators and earlier work."
+      "The alternative cannot have trade-offs",
+      "Evidence, product development and monitoring form connected contributions",
+      "The first discovery made monitoring unnecessary",
+      "Councils created the chemical explanation by voting"
     ],
-    "correct": 2,
-    "explanation": "The contribution of collaborators and earlier work.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "application",
+    "sequencePriority": 12,
+    "correct": 1,
+    "explanation": "Different groups turn a finding into action and check outcomes over time.\nHint: Trace discovery → application → checking.",
     "structuredExplanation": {
-      "summary": "The contribution of collaborators and earlier work.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Different groups turn a finding into action and check outcomes over time.",
+      "hint": "Trace discovery → application → checking."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-013",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "publication value",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why are shared databases useful in large environmental studies?",
-    "audioPrompt": "A follow-up test asks: Why are shared databases useful in large environmental studies?",
+    "question": "A century-old paper contains inaccurate conclusions but careful raw observations. How may it still contribute?",
+    "audioPrompt": "A century-old paper contains inaccurate conclusions but careful raw observations. How may it still contribute?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Many observations can reveal patterns across places and time.",
-      "They remove the need for careful measurements.",
-      "They make all scientists agree immediately."
+      "Later researchers can reanalyse the observations using improved explanations",
+      "Every part must be discarded",
+      "Age makes evidence automatically reliable",
+      "The old conclusion overrides new data"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "Many observations can reveal patterns across places and time.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Useful observations may remain a foundation even when their original interpretation is revised.\nHint: Separate data from interpretation.",
     "structuredExplanation": {
-      "summary": "Many observations can reveal patterns across places and time.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Useful observations may remain a foundation even when their original interpretation is revised.",
+      "hint": "Separate data from interpretation."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-014",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "team bias",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: How can repeating another group’s investigation help science?",
-    "audioPrompt": "A follow-up test asks: How can repeating another group’s investigation help science?",
+    "question": "All five collaborators calibrated instruments using the same faulty reference. Why may agreement be misleading?",
+    "audioPrompt": "All five collaborators calibrated instruments using the same faulty reference. Why may agreement be misleading?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It proves the first group cheated.",
-      "It checks whether the finding is reliable.",
-      "It makes methods unnecessary."
+      "Five readings always remove error",
+      "Collaboration converts faulty data into consensus",
+      "Calibration never affects evidence",
+      "A shared systematic error can affect every result"
     ],
-    "correct": 1,
-    "explanation": "It checks whether the finding is reliable.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 14,
+    "correct": 3,
+    "explanation": "Common procedures can transmit the same bias across a team, showing why independent checks matter.\nHint: Shared work can also share a flaw.",
     "structuredExplanation": {
-      "summary": "It checks whether the finding is reliable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Common procedures can transmit the same bias across a team, showing why independent checks matter.",
+      "hint": "Shared work can also share a flaw."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-015",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "consensus evidence",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A new sensor gives surprising readings. What should the team do first?",
-    "audioPrompt": "A follow-up test asks: A new sensor gives surprising readings. What should the team do first?",
+    "question": "Twenty scientists endorse a claim, but only two have relevant data and those data conflict. What should determine the judgement?",
+    "audioPrompt": "Twenty scientists endorse a claim, but only two have relevant data and those data conflict. What should determine the judgement?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Accept the data because new technology is always accurate.",
-      "Delete older data automatically.",
-      "Test and compare the sensor readings before trusting them."
+      "The senior scientist’s preference",
+      "The earliest claim",
+      "The quality and consistency of the evidence, not the number endorsing it",
+      "The largest show of hands"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Test and compare the sensor readings before trusting them.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Scientific consensus is earned through assessed evidence rather than simple popularity.\nHint: Do not confuse agreement with evidence.",
     "structuredExplanation": {
-      "summary": "Test and compare the sensor readings before trusting them.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Scientific consensus is earned through assessed evidence rather than simple popularity.",
+      "hint": "Do not confuse agreement with evidence."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6h01-t-016",
     "curriculumCode": "AC9S6H01",
     "bank": "test",
-    "skill": "science collaboration",
+    "skill": "overall explanation",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
-    "audioPrompt": "A follow-up test asks: Why do ecologists, engineers and computer scientists work together on remote habitat monitoring?",
+    "question": "A student says, “Teams advance science because more people means the answer is right.” Which correction is best?",
+    "audioPrompt": "A student says, “Teams advance science because more people means the answer is right.” Which correction is best?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Different expertise helps collect, process and interpret better evidence.",
-      "One scientist must do every job alone.",
-      "Collaboration means nobody checks the method."
+      "Teamwork removes the need to publish methods",
+      "Teams can combine expertise and independently check evidence, but rigorous methods—not team size—support a conclusion",
+      "The statement is correct for teams over ten",
+      "Only lone scientists can avoid errors"
     ],
-    "correct": 0,
-    "explanation": "Different expertise helps collect, process and interpret better evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 16,
+    "correct": 1,
+    "explanation": "Specific collaborative mechanisms can strengthen science, while numbers alone do not establish correctness.\nHint: Replace the vague claim with mechanisms and a limit.",
     "structuredExplanation": {
-      "summary": "Different expertise helps collect, process and interpret better evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Specific collaborative mechanisms can strengthen science, while numbers alone do not establish correctness.",
+      "hint": "Replace the vague claim with mechanisms and a limit."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

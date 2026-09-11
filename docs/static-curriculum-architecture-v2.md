@@ -2,6 +2,14 @@
 
 Effective: 2026-08-17
 
+2026-09-11 scoped unlock: the owner explicitly approved Year 6 Science Classroom
+Views using the established Year 4–5 static HTML accordion format instead of the
+page-by-page slide viewer. For Year 6 Science, the Classroom View must copy its
+content from the same code's static Topic Guide into pre-generated semantic HTML,
+use native `<details>` sections, remain usable without curriculum-rendering
+JavaScript, and retain the existing no-download resource flow. This approval is
+scoped to Year 6 Science; all other v2 protections remain in force.
+
 2026-09-08 scoped unlock: the owner explicitly approved Phase 1 Topic Page UX:
 shared static Quick Learning navigation, optional video teaser, section wording,
 active-learning prompts and video notice. Apply through the shared supplement

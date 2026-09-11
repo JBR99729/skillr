@@ -1,1322 +1,2434 @@
 [
   {
-    "id": "ac9s6i01-p-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-001",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which question can be investigated with a fair test?",
-    "audio_prompt": "Which question can be investigated with a fair test?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "investigable_questions",
+    "question": "Which question can a class answer by timing four paper helicopters with blade lengths of 4, 6, 8 and 10 cm?",
+    "audio_prompt": "Which question can a class answer by timing four paper helicopters with blade lengths of 4, 6, 8 and 10 cm?",
     "answers": [
       {
-        "text": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
+        "text": "Why are helicopters useful?",
+        "is_correct": false
+      },
+      {
+        "text": "How does blade length affect a paper helicopter’s fall time?",
         "is_correct": true
       },
       {
-        "text": "Which drink tastes nicest?",
+        "text": "Are paper helicopters beautiful?",
         "is_correct": false
       },
       {
-        "text": "Why is science interesting?",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-p-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which prediction is reasoned?",
-    "audio_prompt": "Which prediction is reasoned?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "The warm seeds will win.",
-        "is_correct": false
-      },
-      {
-        "text": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-        "is_correct": true
-      },
-      {
-        "text": "I think the blue pot is best.",
+        "text": "Who invented the best helicopter?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Blade length can be changed and fall time measured.",
+      "hint": "Look for one change and one measurable outcome."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-002",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "What is the changed variable in a test of lamp distance and brightness?",
-    "audio_prompt": "What is the changed variable in a test of lamp distance and brightness?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "measurable_outcomes",
+    "question": "Which outcome makes the question “How does water temperature affect ___?” investigable with a stopwatch?",
+    "audio_prompt": "Which outcome makes the question “How does water temperature affect ___?” investigable with a stopwatch?",
     "answers": [
       {
-        "text": "Brightness reading.",
-        "is_correct": false
-      },
-      {
-        "text": "Type of graph used later.",
-        "is_correct": false
-      },
-      {
-        "text": "Distance from the lamp.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Distance from the lamp.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-p-004",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "practice",
-    "skill": "investigable questions",
-    "question": "What is the measured variable in that lamp investigation?",
-    "audio_prompt": "What is the measured variable in that lamp investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Brightness reading.",
+        "text": "the time for 5 g of sugar to dissolve",
         "is_correct": true
       },
       {
-        "text": "Distance from the lamp.",
+        "text": "whether warm water is nicer",
         "is_correct": false
       },
       {
-        "text": "The student’s favourite colour.",
+        "text": "the world’s best drink",
+        "is_correct": false
+      },
+      {
+        "text": "how happy sugar feels",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Brightness reading.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Dissolving time is measurable with the listed tool.",
+      "hint": "What can a stopwatch record?"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-003",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Why should only one main variable be changed?",
-    "audio_prompt": "Why should only one main variable be changed?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "variables",
+    "question": "A student changes ramp height and measures toy-car travel distance. What is changed?",
+    "audio_prompt": "A student changes ramp height and measures toy-car travel distance. What is changed?",
     "answers": [
       {
-        "text": "So the investigation finishes instantly.",
+        "text": "ruler length",
         "is_correct": false
       },
       {
-        "text": "So differences in results can be linked more clearly to that variable.",
+        "text": "number written in the table",
+        "is_correct": false
+      },
+      {
+        "text": "car travel distance",
+        "is_correct": false
+      },
+      {
+        "text": "ramp height",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Ramp height is deliberately varied.",
+      "hint": "Find the factor selected by the investigator."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-004",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "variables",
+    "question": "In the ramp investigation, what is measured?",
+    "audio_prompt": "In the ramp investigation, what is measured?",
+    "answers": [
+      {
+        "text": "student height",
+        "is_correct": false
+      },
+      {
+        "text": "ramp height",
+        "is_correct": false
+      },
+      {
+        "text": "toy-car colour",
+        "is_correct": false
+      },
+      {
+        "text": "travel distance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Travel distance is the recorded outcome.",
+      "hint": "Find the result that responds to the change."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-005",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "controls",
+    "question": "To test how ramp height affects car distance, which factor should stay the same?",
+    "audio_prompt": "To test how ramp height affects car distance, which factor should stay the same?",
+    "answers": [
+      {
+        "text": "ramp height",
+        "is_correct": false
+      },
+      {
+        "text": "distance travelled",
+        "is_correct": false
+      },
+      {
+        "text": "the toy car used",
         "is_correct": true
       },
       {
-        "text": "So results are guaranteed identical.",
+        "text": "the final pattern",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Using the same car prevents car design from confusing the relationship.",
+      "hint": "A control is kept constant."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-006",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "question_frames",
+    "question": "Which question has the clearest scientific structure?",
+    "audio_prompt": "Which question has the clearest scientific structure?",
+    "answers": [
+      {
+        "text": "How does daily light duration affect bean-plant height after 14 days?",
+        "is_correct": true
+      },
+      {
+        "text": "Are plants good?",
+        "is_correct": false
+      },
+      {
+        "text": "Can I grow something?",
+        "is_correct": false
+      },
+      {
+        "text": "What happens to plants?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It names a changed variable, measurable outcome and time period.",
+      "hint": "Choose the most precise question."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-007",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "vague_questions",
+    "question": "What is the best rewrite of “Does exercise help?” for a class investigation?",
+    "audio_prompt": "What is the best rewrite of “Does exercise help?” for a class investigation?",
+    "answers": [
+      {
+        "text": "Why do athletes exist?",
+        "is_correct": false
+      },
+      {
+        "text": "Does everybody like sport?",
+        "is_correct": false
+      },
+      {
+        "text": "Is exercise awesome?",
+        "is_correct": false
+      },
+      {
+        "text": "How does two minutes of star jumps affect pulse rate measured immediately afterwards?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The rewrite defines the activity, duration and measurable response.",
+      "hint": "Replace “help” with an observable outcome."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-008",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "materials_match",
+    "question": "Available materials are three soil types, identical pots, bean seeds, water and a ruler. Which question fits?",
+    "audio_prompt": "Available materials are three soil types, identical pots, bean seeds, water and a ruler. Which question fits?",
+    "answers": [
+      {
+        "text": "How does music affect germination?",
+        "is_correct": false
+      },
+      {
+        "text": "How does soil type affect bean seedling height?",
+        "is_correct": true
+      },
+      {
+        "text": "How does fertiliser brand affect flowers?",
+        "is_correct": false
+      },
+      {
+        "text": "How does pot colour affect soil temperature?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "So differences in results can be linked more clearly to that variable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Only soil type and seedling height match the available materials and ruler.",
+      "hint": "Do not introduce an unavailable factor."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-009",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which question is too vague for a repeatable investigation?",
-    "audio_prompt": "Which question is too vague for a repeatable investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "materials_match",
+    "question": "A method tests pure water and soapy water by counting equal-sized drops held on a coin. Which question can it answer?",
+    "audio_prompt": "A method tests pure water and soapy water by counting equal-sized drops held on a coin. Which question can it answer?",
     "answers": [
       {
-        "text": "How does compost amount affect seedling height after 14 days?",
+        "text": "Does washing-up liquid clean coins?",
         "is_correct": false
       },
       {
-        "text": "How does water temperature affect dissolving time?",
-        "is_correct": false
-      },
-      {
-        "text": "Does compost help plants?",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Does compost help plants?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-p-007",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "practice",
-    "skill": "investigable questions",
-    "question": "A prediction says, “The closer sample will warm more.” What is missing?",
-    "audio_prompt": "A prediction says, “The closer sample will warm more.” What is missing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A scientific reason explaining why.",
+        "text": "How does soap in water affect the number of drops a coin can hold?",
         "is_correct": true
       },
       {
-        "text": "A drawing of the table border.",
+        "text": "Does coin age affect mass?",
         "is_correct": false
       },
       {
-        "text": "A second unrelated prediction.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "A scientific reason explaining why.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-p-008",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which question looks for a pattern?",
-    "audio_prompt": "Which question looks for a pattern?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Which snail is cutest?",
-        "is_correct": false
-      },
-      {
-        "text": "How does shell length vary among snails from three shore zones?",
-        "is_correct": true
-      },
-      {
-        "text": "Can I collect every shell on the beach?",
+        "text": "Which soap smells best?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How does shell length vary among snails from three shore zones?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The method compares the two liquids and counts drops.",
+      "hint": "Match both the comparison and outcome."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-010",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which question can be investigated with a fair test in a new class investigation?",
-    "audio_prompt": "Which question can be investigated with a fair test in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "unavailable_comparison",
+    "question": "The coin method never tests washing-up liquid by itself. Why can it not answer “Does washing-up liquid hold more drops than pure water?”",
+    "audio_prompt": "The coin method never tests washing-up liquid by itself. Why can it not answer “Does washing-up liquid hold more drops than pure water?”",
     "answers": [
       {
-        "text": "Which drink tastes nicest?",
-        "is_correct": false
-      },
-      {
-        "text": "Why is science interesting?",
-        "is_correct": false
-      },
-      {
-        "text": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-p-010",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which prediction is reasoned in a new class investigation?",
-    "audio_prompt": "Which prediction is reasoned in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
+        "text": "That comparison was not included",
         "is_correct": true
       },
       {
-        "text": "The warm seeds will win.",
+        "text": "Drops cannot be counted",
         "is_correct": false
       },
       {
-        "text": "I think the blue pot is best.",
+        "text": "Water has no properties",
+        "is_correct": false
+      },
+      {
+        "text": "The coin is too small",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Evidence cannot support a comparison that was never tested.",
+      "hint": "Check exactly which liquids were used."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-011",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "What is the changed variable in a test of lamp distance and brightness in a new class investigation?",
-    "audio_prompt": "What is the changed variable in a test of lamp distance and brightness in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "pattern_questions",
+    "question": "Temperatures are recorded at the same place every hour from 8 am to 4 pm. Which question seeks a pattern?",
+    "audio_prompt": "Temperatures are recorded at the same place every hour from 8 am to 4 pm. Which question seeks a pattern?",
     "answers": [
       {
-        "text": "Brightness reading.",
+        "text": "Is summer better?",
         "is_correct": false
       },
       {
-        "text": "Distance from the lamp.",
+        "text": "Will every future day be identical?",
+        "is_correct": false
+      },
+      {
+        "text": "How does temperature change across the school day?",
         "is_correct": true
       },
       {
-        "text": "Type of graph used later.",
+        "text": "What causes all weather?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The ordered measurements can reveal a time pattern.",
+      "hint": "Use the sequence already in the data."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-012",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "relationship_questions",
+    "question": "Students measure leaf width and length for 30 leaves. Which question tests a relationship?",
+    "audio_prompt": "Students measure leaf width and length for 30 leaves. Which question tests a relationship?",
+    "answers": [
+      {
+        "text": "Which leaf is the luckiest?",
+        "is_correct": false
+      },
+      {
+        "text": "Are leaves green?",
+        "is_correct": false
+      },
+      {
+        "text": "Do longer leaves tend to be wider?",
+        "is_correct": true
+      },
+      {
+        "text": "Why do trees look nice?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Paired length and width data can show whether two measured features vary together.",
+      "hint": "Look for two variables in paired data."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-013",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "yes-no_wording",
+    "question": "Which statement about yes/no questions is correct?",
+    "audio_prompt": "Which statement about yes/no questions is correct?",
+    "answers": [
+      {
+        "text": "Every yes/no question is unscientific",
+        "is_correct": false
+      },
+      {
+        "text": "A yes/no question can be investigable if evidence can decide it",
+        "is_correct": true
+      },
+      {
+        "text": "Yes/no questions never use measurements",
+        "is_correct": false
+      },
+      {
+        "text": "Wording alone guarantees a fair test",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Distance from the lamp.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Investigability depends on obtainable evidence, not grammar alone.",
+      "hint": "Judge the evidence needed."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-014",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "What is the measured variable in that lamp investigation in a new class investigation?",
-    "audio_prompt": "What is the measured variable in that lamp investigation in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "unsafe_questions",
+    "question": "Which proposed class question should be rejected for safety?",
+    "audio_prompt": "Which proposed class question should be rejected for safety?",
     "answers": [
       {
-        "text": "Distance from the lamp.",
-        "is_correct": false
-      },
-      {
-        "text": "The student’s favourite colour.",
-        "is_correct": false
-      },
-      {
-        "text": "Brightness reading.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Brightness reading.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-p-013",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Why should only one main variable be changed in a new class investigation?",
-    "audio_prompt": "Why should only one main variable be changed in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "So differences in results can be linked more clearly to that variable.",
+        "text": "How does tasting unknown mushrooms affect heart rate?",
         "is_correct": true
       },
       {
-        "text": "So the investigation finishes instantly.",
+        "text": "How does shade affect playground temperature?",
         "is_correct": false
       },
       {
-        "text": "So results are guaranteed identical.",
+        "text": "How does salt amount affect ice-melting time?",
+        "is_correct": false
+      },
+      {
+        "text": "How does paper type affect absorption of 5 mL water?",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "So differences in results can be linked more clearly to that variable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Unknown mushrooms must not be tasted because they may be poisonous.",
+      "hint": "Safety limits what may be investigated."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-015",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which question is too vague for a repeatable investigation in a new class investigation?",
-    "audio_prompt": "Which question is too vague for a repeatable investigation in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "ethical_limits",
+    "question": "Why is “How long can a pet fish survive without oxygen?” unsuitable?",
+    "audio_prompt": "Why is “How long can a pet fish survive without oxygen?” unsuitable?",
     "answers": [
       {
-        "text": "How does compost amount affect seedling height after 14 days?",
+        "text": "Fish never need oxygen",
         "is_correct": false
       },
       {
-        "text": "Does compost help plants?",
+        "text": "Questions about animals have no answers",
+        "is_correct": false
+      },
+      {
+        "text": "Time cannot be measured",
+        "is_correct": false
+      },
+      {
+        "text": "It deliberately risks serious harm to an animal",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "An investigation must not cause avoidable animal harm.",
+      "hint": "Ethical limits matter as well as measurability."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-016",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "unmeasurable_wording",
+    "question": "What is missing from “Which bridge model is better?”",
+    "audio_prompt": "What is missing from “Which bridge model is better?”",
+    "answers": [
+      {
+        "text": "a second adjective",
+        "is_correct": false
+      },
+      {
+        "text": "a personal opinion",
+        "is_correct": false
+      },
+      {
+        "text": "a defined measure such as maximum load",
         "is_correct": true
       },
       {
-        "text": "How does water temperature affect dissolving time?",
+        "text": "a famous bridge name",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "“Better” needs an agreed observable criterion.",
+      "hint": "Ask: better at what, measured how?"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-017",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "unmeasurable_wording",
+    "question": "Which revision makes “Which fabric is warmest?” measurable?",
+    "audio_prompt": "Which revision makes “Which fabric is warmest?” measurable?",
+    "answers": [
+      {
+        "text": "Which fabric is cutest?",
+        "is_correct": false
+      },
+      {
+        "text": "Which fabric keeps 100 mL of warm water at the highest temperature after 10 minutes?",
+        "is_correct": true
+      },
+      {
+        "text": "Which fabric would I buy?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is wool warm?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Does compost help plants?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The revision defines a system, measurement and time.",
+      "hint": "Operationally define “warmest”."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-018",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "A prediction says, “The closer sample will warm more.” What is missing in a new class investigation?",
-    "audio_prompt": "A prediction says, “The closer sample will warm more.” What is missing in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "predictions",
+    "question": "Which is a complete reasoned prediction?",
+    "audio_prompt": "Which is a complete reasoned prediction?",
     "answers": [
       {
-        "text": "A drawing of the table border.",
-        "is_correct": false
-      },
-      {
-        "text": "A second unrelated prediction.",
-        "is_correct": false
-      },
-      {
-        "text": "A scientific reason explaining why.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "A scientific reason explaining why.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-p-016",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which question looks for a pattern in a new class investigation?",
-    "audio_prompt": "Which question looks for a pattern in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "How does shell length vary among snails from three shore zones?",
+        "text": "If blade length increases, then fall time will increase because larger blades experience more air resistance",
         "is_correct": true
       },
       {
-        "text": "Which snail is cutest?",
+        "text": "The fall time will change because it changes",
         "is_correct": false
       },
       {
-        "text": "Can I collect every shell on the beach?",
+        "text": "Helicopters are interesting",
+        "is_correct": false
+      },
+      {
+        "text": "I guess the long blade wins",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How does shell length vary among snails from three shore zones?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It states direction and connects it to relevant science.",
+      "hint": "Use if, then and a genuine because."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 18,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-017",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-019",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which question can be investigated with a fair test after students review their evidence?",
-    "audio_prompt": "Which question can be investigated with a fair test after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "prediction_reasons",
+    "question": "Which “because” clause adds scientific reasoning rather than repeating the outcome?",
+    "audio_prompt": "Which “because” clause adds scientific reasoning rather than repeating the outcome?",
     "answers": [
       {
-        "text": "Which drink tastes nicest?",
+        "text": "because my prediction says so",
         "is_correct": false
       },
       {
-        "text": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
+        "text": "because warm water is warm",
+        "is_correct": false
+      },
+      {
+        "text": "because it will dissolve faster",
+        "is_correct": false
+      },
+      {
+        "text": "because warmer particles move faster and collide with the sugar more often",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Particle motion provides a mechanism for the prediction.",
+      "hint": "A reason explains why."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-020",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "directional_predictions",
+    "question": "Past trials show evaporation took 90, 70 and 52 minutes as fan speed increased. What is the best prediction for a higher speed?",
+    "audio_prompt": "Past trials show evaporation took 90, 70 and 52 minutes as fan speed increased. What is the best prediction for a higher speed?",
+    "answers": [
+      {
+        "text": "No prediction can use past data",
+        "is_correct": false
+      },
+      {
+        "text": "Evaporation will probably take less than 52 minutes because the pattern shows faster airflow shortens drying time",
         "is_correct": true
       },
       {
-        "text": "Why is science interesting?",
+        "text": "It must take exactly 51 minutes",
+        "is_correct": false
+      },
+      {
+        "text": "It will take longer because fans are loud",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The prediction extends the observed direction without claiming an unjustified exact value.",
+      "hint": "Use the trend cautiously."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-018",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-021",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which prediction is reasoned after students review their evidence?",
-    "audio_prompt": "Which prediction is reasoned after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "prediction_limits",
+    "question": "Three plant trials suggest more light increased growth. Why should a prediction for 24-hour light be cautious?",
+    "audio_prompt": "Three plant trials suggest more light increased growth. Why should a prediction for 24-hour light be cautious?",
     "answers": [
       {
-        "text": "The warm seeds will win.",
+        "text": "Predictions are forbidden",
         "is_correct": false
       },
       {
-        "text": "I think the blue pot is best.",
-        "is_correct": false
-      },
-      {
-        "text": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-p-019",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "practice",
-    "skill": "investigable questions",
-    "question": "What is the changed variable in a test of lamp distance and brightness after students review their evidence?",
-    "audio_prompt": "What is the changed variable in a test of lamp distance and brightness after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Distance from the lamp.",
+        "text": "The new light duration lies beyond the tested range and other limits may appear",
         "is_correct": true
       },
       {
-        "text": "Brightness reading.",
+        "text": "Plants cannot be measured",
         "is_correct": false
       },
       {
-        "text": "Type of graph used later.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Distance from the lamp.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-p-020",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "practice",
-    "skill": "investigable questions",
-    "question": "What is the measured variable in that lamp investigation after students review their evidence?",
-    "audio_prompt": "What is the measured variable in that lamp investigation after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Distance from the lamp.",
-        "is_correct": false
-      },
-      {
-        "text": "Brightness reading.",
-        "is_correct": true
-      },
-      {
-        "text": "The student’s favourite colour.",
+        "text": "Three results prove every possible case",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Brightness reading.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Extrapolation beyond observed conditions is uncertain.",
+      "hint": "Is the new condition inside the evidence range?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 21,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-021",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-022",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Why should only one main variable be changed after students review their evidence?",
-    "audio_prompt": "Why should only one main variable be changed after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "multiple_changed_variables",
+    "question": "A student changes both water temperature and sugar grain size. What is the main problem?",
+    "audio_prompt": "A student changes both water temperature and sugar grain size. What is the main problem?",
     "answers": [
       {
-        "text": "So the investigation finishes instantly.",
-        "is_correct": false
-      },
-      {
-        "text": "So results are guaranteed identical.",
-        "is_correct": false
-      },
-      {
-        "text": "So differences in results can be linked more clearly to that variable.",
+        "text": "The effect of each changed factor cannot be separated",
         "is_correct": true
+      },
+      {
+        "text": "Sugar cannot dissolve",
+        "is_correct": false
+      },
+      {
+        "text": "Two students must conduct it",
+        "is_correct": false
+      },
+      {
+        "text": "There are too many measurements",
+        "is_correct": false
       }
     ],
-    "correct_index": 2,
+    "correct_index": 0,
     "explanation": {
-      "summary": "So differences in results can be linked more clearly to that variable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Two simultaneous changes confound the relationship.",
+      "hint": "Could you tell which change caused the outcome?"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 22,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-022",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-023",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which question is too vague for a repeatable investigation after students review their evidence?",
-    "audio_prompt": "Which question is too vague for a repeatable investigation after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "fair_comparison",
+    "question": "Which plan best tests detergent concentration against pepper movement?",
+    "audio_prompt": "Which plan best tests detergent concentration against pepper movement?",
     "answers": [
       {
-        "text": "Does compost help plants?",
+        "text": "Use different pepper amounts and guess movement",
+        "is_correct": false
+      },
+      {
+        "text": "Compare detergent today with no detergent next month outdoors",
+        "is_correct": false
+      },
+      {
+        "text": "Change detergent concentration and plate size",
+        "is_correct": false
+      },
+      {
+        "text": "Use equal water and pepper, change only concentration, and measure cleared-circle diameter",
         "is_correct": true
-      },
-      {
-        "text": "How does compost amount affect seedling height after 14 days?",
-        "is_correct": false
-      },
-      {
-        "text": "How does water temperature affect dissolving time?",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Does compost help plants?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It changes one factor and measures a defined outcome while controlling key conditions.",
+      "hint": "Choose the clearest comparison."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-023",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-024",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "A prediction says, “The closer sample will warm more.” What is missing after students review their evidence?",
-    "audio_prompt": "A prediction says, “The closer sample will warm more.” What is missing after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "controls",
+    "question": "Why include a no-detergent plate in the pepper investigation?",
+    "audio_prompt": "Why include a no-detergent plate in the pepper investigation?",
     "answers": [
       {
-        "text": "A drawing of the table border.",
+        "text": "To replace repeated trials",
         "is_correct": false
       },
       {
-        "text": "A scientific reason explaining why.",
+        "text": "To make the table longer",
+        "is_correct": false
+      },
+      {
+        "text": "To show what happens without the tested factor",
         "is_correct": true
       },
       {
-        "text": "A second unrelated prediction.",
+        "text": "To prove every prediction correct",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 2,
     "explanation": {
-      "summary": "A scientific reason explaining why.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The control provides a baseline for comparison.",
+      "hint": "It reveals the normal outcome."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 24,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-p-024",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-025",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "investigable questions",
-    "question": "Which question looks for a pattern after students review their evidence?",
-    "audio_prompt": "Which question looks for a pattern after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "observations",
+    "question": "Which is an observation rather than an explanation?",
+    "audio_prompt": "Which is an observation rather than an explanation?",
     "answers": [
       {
-        "text": "Which snail is cutest?",
-        "is_correct": false
-      },
-      {
-        "text": "Can I collect every shell on the beach?",
-        "is_correct": false
-      },
-      {
-        "text": "How does shell length vary among snails from three shore zones?",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "How does shell length vary among snails from three shore zones?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-t-001",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A different class checks the same science idea: Which question looks for a pattern?",
-    "audio_prompt": "A different class checks the same science idea: Which question looks for a pattern?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "How does shell length vary among snails from three shore zones?",
+        "text": "The cleared circle measured 42 mm",
         "is_correct": true
       },
       {
-        "text": "Which snail is cutest?",
+        "text": "Detergent reduced surface tension",
         "is_correct": false
       },
       {
-        "text": "Can I collect every shell on the beach?",
+        "text": "The pepper moved because forces changed",
+        "is_correct": false
+      },
+      {
+        "text": "Soap molecules caused the effect",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How does shell length vary among snails from three shore zones?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A measured value reports what was detected without explaining cause.",
+      "hint": "Select the direct measurement."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 25,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-t-002",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-026",
     "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A different class checks the same science idea: A prediction says, “The closer sample will warm more.” What is missing?",
-    "audio_prompt": "A different class checks the same science idea: A prediction says, “The closer sample will warm more.” What is missing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "data_match",
+    "question": "A table contains only seed germination counts for 10°C, 20°C and 30°C. Which question can it answer?",
+    "audio_prompt": "A table contains only seed germination counts for 10°C, 20°C and 30°C. Which question can it answer?",
     "answers": [
       {
-        "text": "A drawing of the table border.",
+        "text": "How does temperature affect seedling height?",
         "is_correct": false
       },
       {
-        "text": "A scientific reason explaining why.",
+        "text": "Which fertiliser produces flowers?",
+        "is_correct": false
+      },
+      {
+        "text": "Why do all seeds die?",
+        "is_correct": false
+      },
+      {
+        "text": "How does temperature affect the number of seeds germinating?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The table contains temperature and germination count, not height or fertiliser data.",
+      "hint": "Name only variables present."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-027",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "data_limits",
+    "question": "A graph shows noise level and bird count at four parks. Which claim is supported?",
+    "audio_prompt": "A graph shows noise level and bird count at four parks. Which claim is supported?",
+    "answers": [
+      {
+        "text": "Noise has no relationship to animals anywhere",
+        "is_correct": false
+      },
+      {
+        "text": "All parks contain identical habitats",
+        "is_correct": false
+      },
+      {
+        "text": "Noise definitely causes every difference in bird count",
+        "is_correct": false
+      },
+      {
+        "text": "The data can show an association between noise level and bird count",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Observational paired data can identify a relationship but not prove causation.",
+      "hint": "Distinguish association from cause."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 27,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-028",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "question-method_alignment",
+    "question": "A method weighs wet towels, hangs them in sun or shade for 30 minutes, then weighs them again. Which outcome belongs in the question?",
+    "audio_prompt": "A method weighs wet towels, hangs them in sun or shade for 30 minutes, then weighs them again. Which outcome belongs in the question?",
+    "answers": [
+      {
+        "text": "student preference",
+        "is_correct": false
+      },
+      {
+        "text": "change in towel mass",
         "is_correct": true
       },
       {
-        "text": "A second unrelated prediction.",
+        "text": "colour of the clothesline",
+        "is_correct": false
+      },
+      {
+        "text": "air pressure next year",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A scientific reason explaining why.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Mass loss is the measured evidence for drying.",
+      "hint": "Use what is recorded before and after."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 28,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-t-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-029",
     "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A different class checks the same science idea: Which question is too vague for a repeatable investigation?",
-    "audio_prompt": "A different class checks the same science idea: Which question is too vague for a repeatable investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "method_limits",
+    "question": "Students ask whether salt affects boiling point but their thermometer reads only to the nearest 10°C. What is the strongest concern?",
+    "audio_prompt": "Students ask whether salt affects boiling point but their thermometer reads only to the nearest 10°C. What is the strongest concern?",
     "answers": [
       {
-        "text": "How does compost amount affect seedling height after 14 days?",
+        "text": "Salt is unavailable",
         "is_correct": false
       },
       {
-        "text": "How does water temperature affect dissolving time?",
-        "is_correct": false
-      },
-      {
-        "text": "Does compost help plants?",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Does compost help plants?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-t-004",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A different class checks the same science idea: Why should only one main variable be changed?",
-    "audio_prompt": "A different class checks the same science idea: Why should only one main variable be changed?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "So differences in results can be linked more clearly to that variable.",
+        "text": "The instrument may be too coarse to detect a small difference",
         "is_correct": true
       },
       {
-        "text": "So the investigation finishes instantly.",
+        "text": "Temperature is not measurable",
         "is_correct": false
       },
       {
-        "text": "So results are guaranteed identical.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "So differences in results can be linked more clearly to that variable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-t-005",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A different class checks the same science idea: What is the measured variable in that lamp investigation?",
-    "audio_prompt": "A different class checks the same science idea: What is the measured variable in that lamp investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Distance from the lamp.",
-        "is_correct": false
-      },
-      {
-        "text": "Brightness reading.",
-        "is_correct": true
-      },
-      {
-        "text": "The student’s favourite colour.",
+        "text": "Boiling is always unsafe at school",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Brightness reading.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Low resolution may hide the relationship sought.",
+      "hint": "Can the tool detect the expected change?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 29,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-t-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-030",
     "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A different class checks the same science idea: What is the changed variable in a test of lamp distance and brightness?",
-    "audio_prompt": "A different class checks the same science idea: What is the changed variable in a test of lamp distance and brightness?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "available_methods",
+    "question": "Which question is answerable using a balance, four sponge types and equal 20 mL water samples?",
+    "audio_prompt": "Which question is answerable using a balance, four sponge types and equal 20 mL water samples?",
     "answers": [
       {
-        "text": "Brightness reading.",
+        "text": "Which sponge brand has the best advertisement?",
         "is_correct": false
       },
       {
-        "text": "Type of graph used later.",
+        "text": "Why was sponge invented?",
         "is_correct": false
       },
       {
-        "text": "Distance from the lamp.",
+        "text": "How long will every sponge last?",
+        "is_correct": false
+      },
+      {
+        "text": "Which sponge absorbs the greatest mass of water?",
         "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The balance can compare water mass absorbed by the available sponges.",
+      "hint": "Match equipment to measurement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-031",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "operational_definitions",
+    "question": "For “Does music affect concentration?”, which outcome is most clearly defined?",
+    "audio_prompt": "For “Does music affect concentration?”, which outcome is most clearly defined?",
+    "answers": [
+      {
+        "text": "whether music is popular",
+        "is_correct": false
+      },
+      {
+        "text": "student intelligence",
+        "is_correct": false
+      },
+      {
+        "text": "concentration feels good",
+        "is_correct": false
+      },
+      {
+        "text": "number of correct symbol matches in two minutes",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A fixed task score and time operationally define concentration for this test.",
+      "hint": "Choose an observable proxy."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-032",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "sampling_patterns",
+    "question": "A class wants a playground temperature pattern. Which sampling plan is most useful?",
+    "audio_prompt": "A class wants a playground temperature pattern. Which sampling plan is most useful?",
+    "answers": [
+      {
+        "text": "Measure classroom light once",
+        "is_correct": false
+      },
+      {
+        "text": "One reading at one shaded spot",
+        "is_correct": false
+      },
+      {
+        "text": "Readings at fixed times and named locations over several days",
+        "is_correct": true
+      },
+      {
+        "text": "Ask one student which day felt hottest",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Distance from the lamp.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Repeated, systematic measurements can reveal time and location patterns.",
+      "hint": "Patterns need comparable observations."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-t-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-033",
     "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A different class checks the same science idea: Which prediction is reasoned?",
-    "audio_prompt": "A different class checks the same science idea: Which prediction is reasoned?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "reasoned_prediction",
+    "question": "Dark and light cans receive equal sunlight. Which prediction is best supported by knowledge of radiation?",
+    "audio_prompt": "Dark and light cans receive equal sunlight. Which prediction is best supported by knowledge of radiation?",
     "answers": [
       {
-        "text": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
+        "text": "If colour is darker, then the water will warm faster because dark surfaces absorb more radiant energy",
         "is_correct": true
       },
       {
-        "text": "The warm seeds will win.",
+        "text": "Both must finish at exactly 100°C",
         "is_correct": false
       },
       {
-        "text": "I think the blue pot is best.",
+        "text": "Light cans will disappear",
+        "is_correct": false
+      },
+      {
+        "text": "Colour cannot relate to heating",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The direction is linked to a relevant energy-transfer principle.",
+      "hint": "Connect the change to known science."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-t-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-034",
     "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A different class checks the same science idea: Which question can be investigated with a fair test?",
-    "audio_prompt": "A different class checks the same science idea: Which question can be investigated with a fair test?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "reasoned_prediction",
+    "question": "A wider parachute is compared with a narrower one of equal material and load. What is reasonable?",
+    "audio_prompt": "A wider parachute is compared with a narrower one of equal material and load. What is reasonable?",
     "answers": [
       {
-        "text": "Which drink tastes nicest?",
+        "text": "The wider one will fall faster because it looks bigger",
         "is_correct": false
       },
       {
-        "text": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
+        "text": "Both times must be identical",
+        "is_correct": false
+      },
+      {
+        "text": "The result depends only on colour",
+        "is_correct": false
+      },
+      {
+        "text": "The wider parachute will fall more slowly because its larger area produces more air resistance",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Greater area is expected to increase drag and fall time.",
+      "hint": "Use area and air resistance."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-035",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "prior_evidence",
+    "question": "Which evidence most usefully supports a prediction about a new paper towel?",
+    "audio_prompt": "Which evidence most usefully supports a prediction about a new paper towel?",
+    "answers": [
+      {
+        "text": "Its packet uses blue ink",
+        "is_correct": false
+      },
+      {
+        "text": "A friend prefers its name",
+        "is_correct": false
+      },
+      {
+        "text": "An advertisement says it is amazing",
+        "is_correct": false
+      },
+      {
+        "text": "Earlier equal-volume tests of similar towels",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Comparable prior measurements are relevant evidence.",
+      "hint": "Prefer evidence produced under similar conditions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-036",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "prediction_versus_result",
+    "question": "When should a prediction be written?",
+    "audio_prompt": "When should a prediction be written?",
+    "answers": [
+      {
+        "text": "Instead of recording data",
+        "is_correct": false
+      },
+      {
+        "text": "After changing the results",
+        "is_correct": false
+      },
+      {
+        "text": "Before collecting the test results",
         "is_correct": true
       },
       {
-        "text": "Why is science interesting?",
+        "text": "Only if it is guaranteed correct",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A prediction states the expected outcome before testing.",
+      "hint": "Predictions precede evidence collection."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 36,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-037",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "incorrect_predictions",
+    "question": "An evidence-based prediction is not supported by results. What should students do?",
+    "audio_prompt": "An evidence-based prediction is not supported by results. What should students do?",
+    "answers": [
+      {
+        "text": "Delete the results",
+        "is_correct": false
+      },
+      {
+        "text": "Report the result and reconsider the reasoning",
+        "is_correct": true
+      },
+      {
+        "text": "Claim the prediction was correct",
+        "is_correct": false
+      },
+      {
+        "text": "Repeat until one preferred result appears",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Science uses results to revise ideas; predictions need not be correct.",
+      "hint": "Evidence has priority over expectation."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 37,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-t-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-038",
     "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A follow-up test asks: Which question looks for a pattern?",
-    "audio_prompt": "A follow-up test asks: Which question looks for a pattern?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "limitations",
+    "question": "A question asks how rain affects soil erosion, but all trials use a single rainfall rate. What can the evidence show?",
+    "audio_prompt": "A question asks how rain affects soil erosion, but all trials use a single rainfall rate. What can the evidence show?",
     "answers": [
       {
-        "text": "Which snail is cutest?",
-        "is_correct": false
-      },
-      {
-        "text": "Can I collect every shell on the beach?",
-        "is_correct": false
-      },
-      {
-        "text": "How does shell length vary among snails from three shore zones?",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "How does shell length vary among snails from three shore zones?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-t-010",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A follow-up test asks: A prediction says, “The closer sample will warm more.” What is missing?",
-    "audio_prompt": "A follow-up test asks: A prediction says, “The closer sample will warm more.” What is missing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A scientific reason explaining why.",
+        "text": "Erosion under that one tested rate only",
         "is_correct": true
       },
       {
-        "text": "A drawing of the table border.",
+        "text": "Every natural storm outcome",
         "is_correct": false
       },
       {
-        "text": "A second unrelated prediction.",
+        "text": "That rainfall never matters",
+        "is_correct": false
+      },
+      {
+        "text": "How erosion changes with rainfall rate",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A scientific reason explaining why.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "No relationship with rate can be tested when rate is not varied.",
+      "hint": "What range was actually compared?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-t-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-039",
     "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A follow-up test asks: Which question is too vague for a repeatable investigation?",
-    "audio_prompt": "A follow-up test asks: Which question is too vague for a repeatable investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "question_refinement",
+    "question": "Improve “What makes ice melt?” for the available lamps placed 10, 20 and 30 cm away.",
+    "audio_prompt": "Improve “What makes ice melt?” for the available lamps placed 10, 20 and 30 cm away.",
     "answers": [
       {
-        "text": "How does compost amount affect seedling height after 14 days?",
+        "text": "Why is light useful?",
         "is_correct": false
       },
       {
-        "text": "Does compost help plants?",
+        "text": "Which lamp is prettiest?",
+        "is_correct": false
+      },
+      {
+        "text": "How does lamp distance affect the time for an equal ice cube to melt?",
         "is_correct": true
       },
       {
-        "text": "How does water temperature affect dissolving time?",
+        "text": "Does ice exist?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The revised question matches the changed distance and timed melting.",
+      "hint": "Use the actual distances and measured outcome."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-040",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "question_refinement",
+    "question": "Students can record sound level but may not disturb nesting birds. Which safe question fits?",
+    "audio_prompt": "Students can record sound level but may not disturb nesting birds. Which safe question fits?",
+    "answers": [
+      {
+        "text": "Which bird fears loud bangs most?",
+        "is_correct": false
+      },
+      {
+        "text": "How does recorded sound level vary with distance from a speaker in an empty oval?",
+        "is_correct": true
+      },
+      {
+        "text": "How much noise makes birds abandon nests?",
+        "is_correct": false
+      },
+      {
+        "text": "Can we touch every nest?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Does compost help plants?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The oval investigation measures sound safely without disturbing wildlife.",
+      "hint": "Redesign around safety and available measurement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 40,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-t-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-041",
     "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A follow-up test asks: Why should only one main variable be changed?",
-    "audio_prompt": "A follow-up test asks: Why should only one main variable be changed?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "cause_and_pattern",
+    "question": "Monthly rainfall and frog-call counts rise together. Which new question could test a possible relationship without claiming cause?",
+    "audio_prompt": "Monthly rainfall and frog-call counts rise together. Which new question could test a possible relationship without claiming cause?",
     "answers": [
       {
-        "text": "So the investigation finishes instantly.",
-        "is_correct": false
-      },
-      {
-        "text": "So results are guaranteed identical.",
-        "is_correct": false
-      },
-      {
-        "text": "So differences in results can be linked more clearly to that variable.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "So differences in results can be linked more clearly to that variable.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-t-013",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A follow-up test asks: What is the measured variable in that lamp investigation?",
-    "audio_prompt": "A follow-up test asks: What is the measured variable in that lamp investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Brightness reading.",
+        "text": "Is higher rainfall associated with more frog calls recorded each month?",
         "is_correct": true
       },
       {
-        "text": "Distance from the lamp.",
+        "text": "Does rain force every frog to call?",
         "is_correct": false
       },
       {
-        "text": "The student’s favourite colour.",
+        "text": "Are frogs happier in rain?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is nature perfect?",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Brightness reading.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "“Associated with” matches observational pattern data and avoids premature causation.",
+      "hint": "Phrase an observable relationship."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 41,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-t-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-P-042",
     "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A follow-up test asks: What is the changed variable in a test of lamp distance and brightness?",
-    "audio_prompt": "A follow-up test asks: What is the changed variable in a test of lamp distance and brightness?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "binary_outcomes",
+    "question": "Which yes/no question is investigable as written?",
+    "audio_prompt": "Which yes/no question is investigable as written?",
     "answers": [
       {
-        "text": "Brightness reading.",
-        "is_correct": false
-      },
-      {
-        "text": "Distance from the lamp.",
+        "text": "Does adding 5 g of salt change the melting time of a 20 g ice cube under fixed conditions?",
         "is_correct": true
       },
       {
-        "text": "Type of graph used later.",
+        "text": "Is blue the best colour?",
+        "is_correct": false
+      },
+      {
+        "text": "Are plants important?",
+        "is_correct": false
+      },
+      {
+        "text": "Is science fun?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The salt condition and measurable melting time make evidence capable of deciding the question.",
+      "hint": "Yes/no is acceptable when variables are clear."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 42,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-043",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "scale_limits",
+    "question": "A class has a 30 cm ruler. Why is “How does a tree grow over 50 years?” not feasible for their lesson?",
+    "audio_prompt": "A class has a 30 cm ruler. Why is “How does a tree grow over 50 years?” not feasible for their lesson?",
+    "answers": [
+      {
+        "text": "Rulers cannot measure length",
+        "is_correct": false
+      },
+      {
+        "text": "Long questions are invalid",
+        "is_correct": false
+      },
+      {
+        "text": "Trees have no height",
+        "is_correct": false
+      },
+      {
+        "text": "The required timescale and access exceed available methods",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "An investigable classroom question must fit available time and access.",
+      "hint": "Consider practical scale."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 43,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-044",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "precision_in_questions",
+    "question": "Which wording avoids an undefined comparison?",
+    "audio_prompt": "Which wording avoids an undefined comparison?",
+    "answers": [
+      {
+        "text": "What is the nicest plant?",
+        "is_correct": false
+      },
+      {
+        "text": "Does compost make plants much better?",
+        "is_correct": false
+      },
+      {
+        "text": "How does 0, 10 or 20 g of compost affect mean seedling height after 21 days?",
+        "is_correct": true
+      },
+      {
+        "text": "Is compost magical?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Quantities, outcome and duration define the comparison precisely.",
+      "hint": "Look for amounts, measure and time."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-045",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "evidence_reasoning",
+    "question": "A prior investigation found black paper reached 46°C and white paper 37°C in equal sunlight. Which new prediction uses that evidence responsibly?",
+    "audio_prompt": "A prior investigation found black paper reached 46°C and white paper 37°C in equal sunlight. Which new prediction uses that evidence responsibly?",
+    "answers": [
+      {
+        "text": "A grey surface may reach a temperature between black and white under the same conditions because its absorption is likely intermediate",
+        "is_correct": true
+      },
+      {
+        "text": "Grey will be exactly 41.5°C everywhere",
+        "is_correct": false
+      },
+      {
+        "text": "All grey objects are warmer than all black objects",
+        "is_correct": false
+      },
+      {
+        "text": "Colour never affects heating",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It makes a cautious directional prediction under matched conditions without false precision.",
+      "hint": "Avoid claiming an exact value beyond the data."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 45,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-046",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "data_adequacy",
+    "question": "Students ask whether ball material affects bounce height, but record only the starting height. What is missing?",
+    "audio_prompt": "Students ask whether ball material affects bounce height, but record only the starting height. What is missing?",
+    "answers": [
+      {
+        "text": "the students’ birthdays",
+        "is_correct": false
+      },
+      {
+        "text": "a colour preference",
+        "is_correct": false
+      },
+      {
+        "text": "the price of the ruler",
+        "is_correct": false
+      },
+      {
+        "text": "the measured bounce height for each material",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The outcome needed to answer the question was not collected.",
+      "hint": "What dependent evidence is required?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-047",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "confounding",
+    "question": "Red seeds are placed in sun and blue seeds in shade; germination differs. Why is the relationship unclear?",
+    "audio_prompt": "Red seeds are placed in sun and blue seeds in shade; germination differs. Why is the relationship unclear?",
+    "answers": [
+      {
+        "text": "Sunlight has no energy",
+        "is_correct": false
+      },
+      {
+        "text": "The groups have names",
+        "is_correct": false
+      },
+      {
+        "text": "Germination cannot be counted",
+        "is_correct": false
+      },
+      {
+        "text": "Seed colour/type and light condition both changed",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Because two factors differ, the observed outcome cannot be attributed to either one alone.",
+      "hint": "Find both changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-P-048",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "integrated_judgement",
+    "question": "Which proposal is most scientifically defensible for Year 6?",
+    "audio_prompt": "Which proposal is most scientifically defensible for Year 6?",
+    "answers": [
+      {
+        "text": "Change many factors to guarantee a dramatic pattern",
+        "is_correct": false
+      },
+      {
+        "text": "Ask a measurable, safe question; change one factor; record the relevant outcome; predict using evidence and acknowledge limits",
+        "is_correct": true
+      },
+      {
+        "text": "Choose an exciting question even if no data can answer it",
+        "is_correct": false
+      },
+      {
+        "text": "Write the result first and design evidence to match",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Distance from the lamp.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Sound inquiry aligns question, variables, evidence, reasoning, safety and limitations.",
+      "hint": "Choose the complete evidence-led process."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i01-t-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I01-T-001",
     "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "test",
-    "skill": "investigable questions",
-    "question": "A follow-up test asks: Which prediction is reasoned?",
-    "audio_prompt": "A follow-up test asks: Which prediction is reasoned?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "materials_match",
+    "question": "A tray contains identical cups, sand, clay, equal water volumes and a timer. Which question is directly testable?",
+    "audio_prompt": "A tray contains identical cups, sand, clay, equal water volumes and a timer. Which question is directly testable?",
     "answers": [
       {
-        "text": "The warm seeds will win.",
-        "is_correct": false
-      },
-      {
-        "text": "I think the blue pot is best.",
-        "is_correct": false
-      },
-      {
-        "text": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Seeds in warmer soil may germinate faster because temperature affects plant processes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i01-t-016",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I01",
-    "bank": "test",
-    "skill": "investigable questions",
-    "question": "A follow-up test asks: Which question can be investigated with a fair test?",
-    "audio_prompt": "A follow-up test asks: Which question can be investigated with a fair test?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
+        "text": "How does soil type affect the time water takes to drain?",
         "is_correct": true
       },
       {
-        "text": "Which drink tastes nicest?",
+        "text": "Which soil is most valuable?",
         "is_correct": false
       },
       {
-        "text": "Why is science interesting?",
+        "text": "How does fertiliser affect leaf colour?",
+        "is_correct": false
+      },
+      {
+        "text": "Why are deserts dry?",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How does water temperature affect the time taken for equal amounts of salt to dissolve?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The materials allow soil type to change and drainage time to be measured.",
+      "hint": "Match the question to every listed resource."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-002",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "variables",
+    "question": "Students vary torch distance and record solar-cell voltage. Which pair is correct?",
+    "audio_prompt": "Students vary torch distance and record solar-cell voltage. Which pair is correct?",
+    "answers": [
+      {
+        "text": "changed: distance; measured: voltage",
+        "is_correct": true
+      },
+      {
+        "text": "changed: torch colour; measured: time",
+        "is_correct": false
+      },
+      {
+        "text": "changed: cell type; measured: mass",
+        "is_correct": false
+      },
+      {
+        "text": "changed: voltage; measured: distance",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Torch distance is varied and voltage is the response recorded.",
+      "hint": "Separate the chosen factor from the outcome."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-003",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "question_quality",
+    "question": "Which question is least investigable?",
+    "audio_prompt": "Which question is least investigable?",
+    "answers": [
+      {
+        "text": "How does load mass affect cart speed?",
+        "is_correct": false
+      },
+      {
+        "text": "Does salt amount affect water conductivity?",
+        "is_correct": false
+      },
+      {
+        "text": "How does fin area affect model-rocket flight distance?",
+        "is_correct": false
+      },
+      {
+        "text": "Which rocket design is coolest?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Coolest” is an undefined subjective judgement.",
+      "hint": "Find the outcome with no agreed measurement."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-004",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "core",
+    "skill": "method_alignment",
+    "question": "A method measures candle mass before and after burning for 2, 4 and 6 minutes. What relationship can be tested?",
+    "audio_prompt": "A method measures candle mass before and after burning for 2, 4 and 6 minutes. What relationship can be tested?",
+    "answers": [
+      {
+        "text": "candle cost and popularity",
+        "is_correct": false
+      },
+      {
+        "text": "burning time and mass lost",
+        "is_correct": true
+      },
+      {
+        "text": "wick colour and flame height",
+        "is_correct": false
+      },
+      {
+        "text": "room size and oxygen level",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Only time and mass change are systematically recorded.",
+      "hint": "Use the variables in the method."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-005",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "unsafe_investigation",
+    "question": "Which question requires redesign rather than classroom testing?",
+    "audio_prompt": "Which question requires redesign rather than classroom testing?",
+    "answers": [
+      {
+        "text": "How does water depth affect a cork’s floating height?",
+        "is_correct": false
+      },
+      {
+        "text": "How does inhaling increasing amounts of smoke affect breathing rate?",
+        "is_correct": true
+      },
+      {
+        "text": "How does string length affect pendulum period?",
+        "is_correct": false
+      },
+      {
+        "text": "How does insulation type affect cooling?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Deliberately inhaling smoke is unsafe.",
+      "hint": "Reject intentional harmful exposure."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-006",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "control_factors",
+    "question": "To ask how salt concentration affects egg floating height, what should remain constant?",
+    "audio_prompt": "To ask how salt concentration affects egg floating height, what should remain constant?",
+    "answers": [
+      {
+        "text": "floating height",
+        "is_correct": false
+      },
+      {
+        "text": "water volume and egg used",
+        "is_correct": true
+      },
+      {
+        "text": "the predicted direction",
+        "is_correct": false
+      },
+      {
+        "text": "salt concentration",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Water volume and egg properties could otherwise affect the outcome.",
+      "hint": "Keep other influential conditions steady."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-007",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "pattern_inference",
+    "question": "Shadow lengths at noon were 82, 65, 49 and 38 cm across four dates approaching summer. Which prediction is justified for the next similar date?",
+    "audio_prompt": "Shadow lengths at noon were 82, 65, 49 and 38 cm across four dates approaching summer. Which prediction is justified for the next similar date?",
+    "answers": [
+      {
+        "text": "The shadow will vanish forever",
+        "is_correct": false
+      },
+      {
+        "text": "Dates cannot be related to measurements",
+        "is_correct": false
+      },
+      {
+        "text": "The noon shadow may be shorter than 38 cm because the recorded pattern decreases",
+        "is_correct": true
+      },
+      {
+        "text": "It must be exactly 37 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It extends the observed pattern cautiously rather than claiming certainty.",
+      "hint": "Use direction without false precision."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-008",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "reasoned_prediction",
+    "question": "Which prediction best suits testing water flow through coarse and fine gravel?",
+    "audio_prompt": "Which prediction best suits testing water flow through coarse and fine gravel?",
+    "answers": [
+      {
+        "text": "Both must take one second",
+        "is_correct": false
+      },
+      {
+        "text": "If gravel pieces are coarser, then water will pass through faster because larger gaps provide wider pathways",
+        "is_correct": true
+      },
+      {
+        "text": "Coarse gravel wins because it is coarse",
+        "is_correct": false
+      },
+      {
+        "text": "Fine gravel will be prettier",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The reason links particle spacing to flow rate.",
+      "hint": "Choose a mechanism, not repetition."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-009",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "data_limits",
+    "question": "A class records battery life for one brand only. Can the data answer which of three brands lasts longest?",
+    "audio_prompt": "A class records battery life for one brand only. Can the data answer which of three brands lasts longest?",
+    "answers": [
+      {
+        "text": "Yes, because one number is enough",
+        "is_correct": false
+      },
+      {
+        "text": "No, because the other brands were not tested",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, if the first brand is famous",
+        "is_correct": false
+      },
+      {
+        "text": "No, because time cannot be measured",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A comparative question needs evidence for every compared brand.",
+      "hint": "Check whether all groups appear."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-010",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "application",
+    "skill": "operational_measure",
+    "question": "Which measurement best tests whether one shoe sole is “grippier” than another?",
+    "audio_prompt": "Which measurement best tests whether one shoe sole is “grippier” than another?",
+    "answers": [
+      {
+        "text": "the sole colour",
+        "is_correct": false
+      },
+      {
+        "text": "the owner’s favourite shoe",
+        "is_correct": false
+      },
+      {
+        "text": "the number of letters in the brand",
+        "is_correct": false
+      },
+      {
+        "text": "the force needed to start each weighted shoe sliding on the same surface",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Starting-force measurement defines grip in an observable, comparable way.",
+      "hint": "Turn “grippy” into measurable resistance."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-011",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "association_and_cause",
+    "question": "Towns with more streetlights also report fewer moths. What may students conclude from these data alone?",
+    "audio_prompt": "Towns with more streetlights also report fewer moths. What may students conclude from these data alone?",
+    "answers": [
+      {
+        "text": "Moths caused streetlights",
+        "is_correct": false
+      },
+      {
+        "text": "Every town will follow the same pattern",
+        "is_correct": false
+      },
+      {
+        "text": "Streetlights certainly caused the difference",
+        "is_correct": false
+      },
+      {
+        "text": "There is an observed association, but other factors may explain it",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Observational data identify association but do not isolate cause.",
+      "hint": "Avoid a causal claim from paired observations."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-012",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "confounded_plans",
+    "question": "Plan A changes fan speed only. Plan B changes fan speed and towel size. Both measure drying time. Which judgement is correct?",
+    "audio_prompt": "Plan A changes fan speed only. Plan B changes fan speed and towel size. Both measure drying time. Which judgement is correct?",
+    "answers": [
+      {
+        "text": "Neither can measure time",
+        "is_correct": false
+      },
+      {
+        "text": "Plan B isolates fan speed better",
+        "is_correct": false
+      },
+      {
+        "text": "Plan A better tests the fan-speed relationship",
+        "is_correct": true
+      },
+      {
+        "text": "Both are equally valid because both use timers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Plan A avoids towel size confounding the effect of fan speed.",
+      "hint": "Which plan changes just the target factor?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-013",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "prediction_evidence",
+    "question": "A student predicts magnets work better when cold “because I like winter”. What is the best improvement?",
+    "audio_prompt": "A student predicts magnets work better when cold “because I like winter”. What is the best improvement?",
+    "answers": [
+      {
+        "text": "Keep the outcome but replace the reason with relevant prior magnetic evidence or scientific knowledge",
+        "is_correct": true
+      },
+      {
+        "text": "Add an exclamation mark",
+        "is_correct": false
+      },
+      {
+        "text": "Call the guess a law",
+        "is_correct": false
+      },
+      {
+        "text": "Remove all measurements",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A reasoned prediction requires relevant evidence, not preference.",
+      "hint": "Repair the because clause."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-014",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "question_limits",
+    "question": "A sensor records creek turbidity weekly for six weeks. Which question exceeds the evidence?",
+    "audio_prompt": "A sensor records creek turbidity weekly for six weeks. Which question exceeds the evidence?",
+    "answers": [
+      {
+        "text": "Was turbidity associated with recorded rainfall during those weeks?",
+        "is_correct": false
+      },
+      {
+        "text": "What will turbidity be on every day for the next century?",
+        "is_correct": true
+      },
+      {
+        "text": "Which week had the highest turbidity?",
+        "is_correct": false
+      },
+      {
+        "text": "How did turbidity vary across the six weeks?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Six weeks of data cannot justify exact daily forecasts for a century.",
+      "hint": "Compare the claim’s scale with the dataset."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-015",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "question_revision",
+    "question": "Students ask, “Are lunch boxes good?” Which revision best fits drop-test equipment and a balance?",
+    "audio_prompt": "Students ask, “Are lunch boxes good?” Which revision best fits drop-test equipment and a balance?",
+    "answers": [
+      {
+        "text": "Who buys lunch boxes?",
+        "is_correct": false
+      },
+      {
+        "text": "Are drops good?",
+        "is_correct": false
+      },
+      {
+        "text": "How does lunch-box material affect the mass of modelling clay lost after a 1 m drop?",
+        "is_correct": true
+      },
+      {
+        "text": "Which lunch box looks friendly?",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It defines material as the comparison and mass lost as the damage measure.",
+      "hint": "Use the equipment to define “good”."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I01-T-016",
+    "curriculum_code": "AC9S6I01",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "inquiry_synthesis",
+    "question": "Which conclusion about questions and predictions is correct?",
+    "audio_prompt": "Which conclusion about questions and predictions is correct?",
+    "answers": [
+      {
+        "text": "A fair test can answer questions about unmeasured outcomes",
+        "is_correct": false
+      },
+      {
+        "text": "Any answerable question is safe to test",
+        "is_correct": false
+      },
+      {
+        "text": "A strong question aligns variables, methods and evidence; a strong prediction adds a justified expected relationship",
+        "is_correct": true
+      },
+      {
+        "text": "Predictions must state exact numbers",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Alignment and evidence-based reasoning are central, with safety and limitations also required.",
+      "hint": "Choose the statement that joins question, evidence and reasoning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
   }
 ]
