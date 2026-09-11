@@ -38,6 +38,12 @@
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"SkillrHub","alternateName":"SkillrHub","url":"https://skillrhub.com/","description":"Free Foundation to Year 10 Maths, Science and English learning resources with a large question bank, topic guides, worksheets, quizzes, practice and tests aligned to the Australian Curriculum. Optional books are separate bundled premium resources and do not block access to the free core resources."}</script>
   <link rel="stylesheet" href="/assets/site-navigation.css?v=20260908-primary1">
   <link rel="stylesheet" href="/assets/companions/companions.css?v=20260909-1">
+  <style>
+    .home-resource-rail{display:grid;grid-template-columns:minmax(180px,.7fr) minmax(0,2.3fr);gap:1rem;align-items:stretch;margin:1rem 0 1.35rem;padding:.8rem .9rem;border:1px solid #dce6f0;border-radius:16px;background:#fff;box-shadow:0 8px 24px rgba(31,62,92,.05)}
+    .home-resource-rail__intro{display:flex;flex-direction:column;justify-content:center;padding:.15rem .45rem}.home-resource-rail__intro strong{font-size:.82rem;letter-spacing:.08em;text-transform:uppercase;color:#315a7d}.home-resource-rail__intro span{margin-top:.18rem;font-size:.9rem;color:#61758a;line-height:1.35}
+    .home-resource-rail__links{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.55rem}.home-resource-link{display:flex;align-items:center;gap:.7rem;min-height:64px;padding:.68rem .78rem;border:1px solid transparent;border-radius:12px;text-decoration:none;color:#17334d;background:#f8fbfe;transition:border-color .15s ease,transform .15s ease,background .15s ease}.home-resource-link:hover,.home-resource-link:focus-visible{border-color:#b9cee1;background:#fff;transform:translateY(-1px);outline:none}.home-resource-link__icon{display:grid;place-items:center;flex:0 0 34px;width:34px;height:34px;border-radius:10px;background:#eaf2f9;color:#244d70;font-size:.95rem;font-weight:800}.home-resource-link strong{display:block;font-size:.94rem;line-height:1.15}.home-resource-link small{display:block;margin-top:.18rem;color:#667b8f;font-size:.78rem;line-height:1.25}.home-resource-link--books{background:#fbfaf7}.home-resource-link--books .home-resource-link__icon{background:#f3eee2}
+    @media (max-width:820px){.home-resource-rail{grid-template-columns:1fr}.home-resource-rail__intro{padding:.05rem .2rem .15rem}.home-resource-rail__links{grid-template-columns:1fr}.home-resource-link{min-height:58px}}
+  </style>
 </head>
 <body class="home-page skillr-shared-navigation">
   <header class="site-header skillr-site-header">
@@ -64,28 +70,13 @@
         </search>
       </section>
 
-      <section id="free-first-highlight" class="portal-band" aria-labelledby="home-resource-links-title">
-        <div class="ux-curriculum-head">
-          <h2 id="home-resource-links-title">Teaching &amp; Learning Resources</h2>
-          <p>Choose the format that works best for your classroom or home learning.</p>
-        </div>
-        <div class="portal-product-grid">
-          <a class="portal-product-card" href="/teach-and-explain.html">
-            <h2>Teach &amp; Explain</h2>
-            <p>Classroom-ready teaching slides and clear explanations for teachers and parents.</p>
-            <span>Explore →</span>
-          </a>
-          <a class="portal-product-card" href="/print-and-go.html">
-            <h2>Print &amp; Go</h2>
-            <p>Ready-to-print worksheets and practice resources for quick use.</p>
-            <span>Explore →</span>
-          </a>
-          <a class="portal-product-card" href="/amazon-resources/">
-            <h2>Physical Books</h2>
-            <p>SkillrHub workbooks and educational books available in print through Amazon.</p>
-            <span>Browse books →</span>
-          </a>
-        </div>
+      <section id="free-first-highlight" class="home-resource-rail" aria-label="Quick resource links">
+        <div class="home-resource-rail__intro"><strong>Resource shortcuts</strong><span>Choose the format you need.</span></div>
+        <nav class="home-resource-rail__links" aria-label="Teaching and learning resource shortcuts">
+          <a class="home-resource-link" href="/teach-and-explain.html"><span class="home-resource-link__icon" aria-hidden="true">T</span><span><strong>Teach &amp; Explain</strong><small>Teaching slides &amp; explanations</small></span></a>
+          <a class="home-resource-link" href="/print-and-go.html"><span class="home-resource-link__icon" aria-hidden="true">P</span><span><strong>Print &amp; Go</strong><small>Printable classroom practice</small></span></a>
+          <a class="home-resource-link home-resource-link--books" href="/amazon-resources/"><span class="home-resource-link__icon" aria-hidden="true">B</span><span><strong>Physical Books</strong><small>SkillrHub books on Amazon</small></span></a>
+        </nav>
       </section>
 
       <section id="skillr-companions-home" class="skillr-companions skillr-companions--home" aria-label="Meet Ben and Vani">
