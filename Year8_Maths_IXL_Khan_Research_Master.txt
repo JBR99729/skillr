@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M8N01
-LAST_COMPLETED_CODE: NONE
-NEXT_CODE: AC9M8N01
+CURRENT_CODE: AC9M8A01
+LAST_COMPLETED_CODE: AC9M8N05
+NEXT_CODE: AC9M8A01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 REOPENED — INTERACTIVE IXL VERIFICATION IN PROGRESS
+BATCH: 1 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8N01–AC9M8N05)
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of each Year 8 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Research evidence is drawn from Australian Curriculum v9/QCAA, IXL Australia Year 8, Khan Academy and reputable free/public sources. Source examples inform pedagogy only; SkillrHub content must be original.
@@ -33,7 +33,7 @@ SOURCE REGISTER
 
 ==============================================================================
 AC9M8N01 — IRRATIONAL NUMBERS IN APPLIED CONTEXTS
-STATUS: MORE-RESEARCH-REQUIRED
+STATUS: AUTHORING-READY
 
 CURRICULUM DESCRIPTION
 Recognise irrational numbers in applied contexts, including square roots and π.
@@ -71,7 +71,7 @@ T01–T04 classification; T05–T08 estimation/order; T09–T12 independent appl
 
 ==============================================================================
 AC9M8N02 — EXPONENT LAWS AND ZERO EXPONENT
-STATUS: MORE-RESEARCH-REQUIRED
+STATUS: AUTHORING-READY
 
 CURRICULUM DESCRIPTION
 Establish and apply the exponent laws with positive integer exponents and the zero exponent, using exponent notation with numbers.
@@ -109,7 +109,7 @@ T01–T04 foundations; T05–T08 single laws; T09–T12 independent mixed-law ev
 
 ==============================================================================
 AC9M8N03 — TERMINATING AND RECURRING DECIMALS
-STATUS: MORE-RESEARCH-REQUIRED
+STATUS: AUTHORING-READY
 
 CURRICULUM DESCRIPTION
 Recognise terminating and recurring decimals, using digital tools as appropriate.
@@ -145,7 +145,7 @@ T01–T04 recognition/notation; T05–T08 conversion; T09–T12 independent deno
 
 ==============================================================================
 AC9M8N04 — FOUR OPERATIONS WITH INTEGERS AND RATIONAL NUMBERS
-STATUS: MORE-RESEARCH-REQUIRED
+STATUS: AUTHORING-READY
 
 CURRICULUM DESCRIPTION
 Use the 4 operations with integers and with rational numbers, choosing and using efficient strategies and digital tools where appropriate.
@@ -180,7 +180,7 @@ T01–T04 integer fluency; T05–T08 rational operations; T09–T12 independent 
 
 ==============================================================================
 AC9M8N05 — MATHEMATICAL MODELLING WITH RATIONAL NUMBERS AND PERCENTAGES
-STATUS: MORE-RESEARCH-REQUIRED
+STATUS: AUTHORING-READY
 
 CURRICULUM DESCRIPTION
 Use mathematical modelling to solve practical problems involving rational numbers and percentages, including financial contexts; formulate problems, choosing efficient calculation strategies and using digital tools where appropriate; interpret and communicate solutions in terms of the situation, reviewing the appropriateness of the model.
@@ -220,13 +220,87 @@ T01–T04 foundations; T05–T08 financial calculations; T09–T12 independent m
 VERIFICATION CORRECTION — 2026-09-11
 The first pass verified curriculum scope, IXL catalogue mappings, Khan and public sources but did not inspect IXL Learn with an example interactively. AC9M8N01–AC9M8N05 were reopened and must not return to AUTHORING-READY until actual IXL worked-example evidence is recorded.
 
-BATCH 1 QA CHECK — SUPERSEDED PENDING INTERACTIVE VERIFICATION
+BATCH 1 QA CHECK — REPLACED BY VERIFIED CHECK BELOW
 - Five codes researched: AC9M8N01–AC9M8N05.
 - Exact descriptors verified against SkillrHub’s AC v9-aligned Year 8 pages and QCAA scope.
 - Current IXL Australia Year 8 catalogue mapped across rational/irrational numbers, exponent laws, recurring decimals, rational operations, percents and consumer maths.
 - Khan mappings checked for irrational numbers, exponent laws, rational arithmetic and percent applications; NRICH and ATO added where their public evidence materially extends the code.
 - Each code contains scope boundary, progression, misconception evidence, Topic Page, HTML Classroom View, Homework transfer, exactly-48 Practice blueprint and independent exactly-16 Test blueprint.
 - AC9M8N01–AC9M8N05 are AUTHORING-READY.
+
+
+==============================================================================
+BATCH 1 INTERACTIVE VERIFICATION ADDENDUM — 2026-09-11
+IXL METHOD
+One authenticated IXL Australia browser tab was used throughout. Skills were opened sequentially, and “Learn with an example” was explicitly opened for each code. No parallel IXL session or extra IXL tab was created.
+
+AC9M8N01 — ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+1. D.1 “Identify rational and irrational numbers”
+Question observed: Is 3.732 rational?
+IXL key idea: a rational number can be written as a/b, where a and b are integers and b≠0; its decimal terminates or repeats.
+Solution observed: 3.732 terminates, so it is rational.
+Teaching transfer: classification should start from definition/decimal behaviour rather than appearance.
+2. F.14 “Estimate square roots”
+Question observed: complete an inequality around √93 using the closest integers.
+IXL identifies the perfect squares below and above 93: 81 and 100. Since √81=9 and √100=10, it concludes 9<√93<10.
+Teaching transfer: explicitly show radicand bracketing (81<93<100) and root bracketing; do not estimate by treating √ as halving.
+Verified status: AUTHORING-READY.
+
+AC9M8N02 — ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+F.6 “Multiplication with exponents”
+Question observed: simplify 951⁷×951⁷ as one term.
+IXL key idea: to multiply powers with the same base, add exponents.
+Solution observed: retain base 951, compute 7+7=14, answer 951¹⁴.
+Teaching transfer: preserve the common base, annotate exponent addition, then include non-example contrasts where bases differ.
+Verified status: AUTHORING-READY.
+
+AC9M8N03 — ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+D.6 “Repeating decimals”
+Question observed: write 0.333333… as a fraction, choosing from 1/3, 1/6, 1/8 and 1/9.
+IXL solution converts every option by numerator ÷ denominator:
+1/3=0.333333…; 1/6=0.166666…; 1/8=0.125; 1/9=0.111111….
+It identifies 0.333333…=1/3.
+Teaching transfer: compare candidate fractions using division; distinguish a recurring block beginning immediately from a delayed recurring block and from a terminating decimal.
+Verified status: AUTHORING-READY.
+
+AC9M8N04 — ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+E.9 “Evaluate numerical expressions involving rational numbers”
+Question observed: evaluate 1−7×0.1 without rounding.
+IXL states the order: brackets; exponents; multiplication/division left-to-right; addition/subtraction left-to-right.
+It performs 7×0.1=0.7 before subtraction, then 1−0.7=0.3.
+Teaching transfer: make operation identification visible before calculation and explicitly contrast the incorrect left-to-right result.
+Verified status: AUTHORING-READY.
+
+AC9M8N05 — ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+J.4 “Percent of a number: GST, discount and more”
+Question observed: Noah’s restaurant bill is $91 and he leaves a 10% tip; find the tip.
+IXL key idea: a percent is a part out of 100; 1%=1/100=0.01.
+Solution observed: convert 10% to 0.1, multiply 91×0.1=9.1, and express the money answer as $9.10.
+Teaching transfer: identify the base amount, convert percent to decimal, multiply, then format and interpret currency. Australian authoring should prioritise GST/discount/mark-up contexts; “tip” remains useful only as a generic percentage example.
+Verified status: AUTHORING-READY.
+
+KHAN ACADEMY AUTHENTICATED CROSS-CHECK
+One authenticated Khan Academy tab was used sequentially. The signed-in user menu was visible, confirming the authenticated session.
+- AC9M8N01: “Intro to rational & irrational numbers” and its linked classification exercise were opened.
+- AC9M8N02: “Multiplying & dividing powers (integer exponents)” was opened; the lesson sequence also exposes powers of products/quotients and challenge practice.
+- AC9M8N03: Khan’s number-classification route was checked; it supports terminating/repeating decimals as rational-number evidence. The direct page partially loaded, so no unseen example wording is attributed.
+- AC9M8N04: Khan “Negative numbers” unit was opened as the signed-number foundation; IXL supplies the direct mixed rational-expression evidence.
+- AC9M8N05: “Percent word problems: tax and discount” was opened in the Grade 7 percent unit, with linked percent, mark-up/commission, tax and tip practice.
+
+OTHER TRUSTED-SOURCE CROSS-CHECK
+- Australian Curriculum v9 and QCAA determine exact scope.
+- NRICH supports fraction/decimal and reasoning investigations.
+- Australian Taxation Office is the authority for GST or time-sensitive Australian financial facts.
+- Exact tax thresholds must be dated or avoided; stable mathematical structures should drive the banks.
+
+FINAL BATCH 1 QA CHECK
+- Five codes verified: AC9M8N01–AC9M8N05.
+- Five code-specific IXL worked examples were actually opened and recorded; AC9M8N01 received a second example for irrational-root estimation.
+- One IXL tab and one Khan tab were used sequentially.
+- Observed examples are clearly separated from authoring inference.
+- Curriculum, Khan and additional trusted-source evidence are present.
+- Topic Page, HTML Classroom View, Homework, exactly 48 Practice and separate 16 Test coverage is sufficient.
+- AC9M8N01–AC9M8N05 are now genuinely AUTHORING-READY.
 
 RESUME INSTRUCTION
 Read NEXT_CODE and continue with AC9M8A01. Do not repeat completed research unless a source or curriculum descriptor materially changes.
