@@ -31,7 +31,7 @@
     document.head.appendChild(css);
     const menu = document.createElement('details');
     menu.id = 'skillr-resource-links';
-    menu.innerHTML = '<summary>Teaching resources</summary><nav aria-label="Teaching resource shortcuts"><a href="/print-and-go.html">Print &amp; Go<span>Printable practice packs</span></a><a href="/teach-and-explain.html">Teach &amp; Explain<span>Slides for teachers &amp; parents</span></a><a class="skillr-amazon-link" href="https://www.amazon.com.au/Year-Maths-Skills-Check-Assessment/dp/B0HJDNLHXN?linkCode=ll2&amp;tag=skillrhub-22&amp;linkId=1f4718c3b2a78e07533baaa15e483a10&amp;ref_=as_li_ss_tl" target="_blank" rel="sponsored noopener noreferrer">Amazon Skillr educational resources</a><p class="skillr-amazon-note"><strong>Affiliate note:</strong> SkillrHub publishes its own educational books and also participates in the Amazon Associates Program. When you purchase through this Amazon link, the SkillrHub team may earn a small commission at no extra cost to you. <strong>As an Amazon Associate, SkillrHub earns from qualifying purchases.</strong></p></nav>';
+    menu.innerHTML = '<summary>Teaching resources</summary><nav aria-label="Teaching resource shortcuts"><a href="/print-and-go.html">Print &amp; Go<span>Printable practice packs</span></a><a href="/teach-and-explain.html">Teach &amp; Explain<span>Slides for teachers &amp; parents</span></a><a class="skillr-amazon-link" href="/amazon-resources/">Amazon Skillr educational resources</a></nav>';
     document.body.appendChild(menu);
     topicPacks();
     document.addEventListener('keydown', event => {
