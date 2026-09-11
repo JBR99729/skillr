@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M8M02
-LAST_COMPLETED_CODE: AC9M8M01
-NEXT_CODE: AC9M8M02
+CURRENT_CODE: AC9M8M07
+LAST_COMPLETED_CODE: AC9M8M06
+NEXT_CODE: AC9M8M07
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 2 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8A01–AC9M8A04, AC9M8M01)
+BATCH: 3 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M8M02–AC9M8M06)
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of each Year 8 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Research evidence is drawn from Australian Curriculum v9/QCAA, IXL Australia Year 8, Khan Academy and reputable free/public sources. Source examples inform pedagogy only; SkillrHub content must be original.
@@ -475,5 +475,179 @@ BATCH 2 INTERACTIVE QA CHECK — 2026-09-11
 - Each code has sufficient evidence for Topic Page, HTML Classroom View, Homework, 48 Practice and a separate 16 Test bank.
 - All five codes are genuinely AUTHORING-READY.
 
+
+==============================================================================
+AC9M8M02 — VOLUME AND CAPACITY OF RIGHT PRISMS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Solve problems involving the volume and capacity of right prisms using appropriate units.
+
+CURRICULUM BOUNDARY
+Use V=Ah for any right prism, with the cross-sectional area perpendicular to prism length. Include rectangular and triangular prisms, composite cross-sections, missing dimensions, capacity constraints and conversions among cm³, m³, mL, L and kL. Students must distinguish internal capacity from external volume and convert dimensions before multiplying.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: R.15 “Volume of prisms”; R.16 “Volume of cubes and rectangular prisms: word problems”; K.4 square/cubic unit conversions; K.5 cubic metres and litres.
+R.15 example actually opened: rectangular prism dimensions 2 cm, 7 cm and 1 cm. IXL states V=length×width×height, substitutes 2×7×1 and concludes 14 cubic centimetres. This provides the cubic-unit foundation; authored coverage must extend to V=area of cross-section×length and capacity conversions.
+Progression: count/unit cubes → rectangular prisms → identify constant cross-section → V=Ah → triangular/composite prisms → capacity conversions → applied constraints and inverse problems.
+Misconceptions: multiplying only two dimensions; using surface area; choosing a sloping edge as prism length; treating cm³-to-m³ conversion as linear; assuming 1 cm³=1 L; using outer dimensions for liquid capacity; mixing units before multiplication; reporting cubic units for litres.
+
+KHAN / TRUSTED CROSS-CHECK
+One authenticated Khan tab opened Geometry (all content), Unit 8 “Volume and surface area,” confirming a distinct volume/surface-area pathway. IXL supplies the direct Year 8 prism example and AC v9/QCAA controls right-prism scope.
+Khan: https://www.khanacademy.org/math/geometry-home/geometry-volume-surface-area
+Australian National Measurement Institute material supports legal metric units and capacity relationships: https://www.industry.gov.au/national-measurement-institute
+NRICH geometry tasks support building/decomposing prisms and reasoning from layers: https://nrich.maths.org/geometry-and-measure
+
+AUTHORING TRANSFER
+Topic Page: unit-cube model; V=Ah derivation; cross-section identification; rectangular/triangular/composite examples; capacity conversion ladder; internal-versus-external dimensions.
+Classroom View: build prism layers, identify cross-sections, compare equal-volume packages, tank-capacity investigation, conversion/error clinic.
+Homework: calculate/infer dimensions, triangular/composite prisms, conversions, partly filled containers, packaging and reasonableness.
+Feedback: convert every length first, mark the perpendicular cross-section and prism length, calculate A then Ah, and translate volume to capacity only when required.
+
+48-PRACTICE BLUEPRINT
+P01–P08 cubic units/rectangular prisms; P09–P16 V=Ah and cross-sections; P17–P24 triangular prisms; P25–P32 composite/inverse problems; P33–P40 volume-capacity/unit conversions; P41–P48 applied constraints and error analysis.
+16-TEST BLUEPRINT
+T01–T04 foundations; T05–T08 varied right prisms; T09–T12 independent capacity/conversion applications; T13–T16 inverse/design reasoning.
+
+==============================================================================
+AC9M8M03 — CIRCUMFERENCE AND AREA OF CIRCLES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Solve problems involving the circumference and area of a circle using formulas and appropriate units.
+
+CURRICULUM BOUNDARY
+Connect radius, diameter, circumference and area; use C=πd=2πr and A=πr²; choose the correct formula from context; solve forward and inverse problems; retain exact π where suitable and round only as instructed. Include semicircles/quarter circles and compound practical contexts without extending to formal arc-length/sector formulae beyond simple fractions of a circle.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: N.20 parts of a circle; R.8 circumference; R.9 area; R.10 calculate area/circumference/radius/diameter; R.11 circles, semicircles and quarter circles; R.12 circle word problems.
+R.10 example actually opened: diameter 6 m, find circumference. IXL selects C=πd, substitutes d=6, uses π≈3.14, calculates 3.14×6=18.84 and reports about 18.84 metres. This cleanly models formula selection, substitution and linear units.
+Progression: label radius/diameter → experimentally connect C/d to π → use circumference formulas → derive/estimate A≈πr² → inverse problems → partial and compound circles.
+Misconceptions: confusing radius and diameter; using 2πr for area; forgetting to square r; squaring units for circumference; using diameter in πr²; replacing π too early; rounding intermediate steps; including a semicircle diameter incorrectly in perimeter; interpreting “about” as exact.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan lesson “Area of a circle” was opened. Its visible sequence includes radius/diameter/circumference/π, relating circumference and area, full/partial circle area and circumference, and review.
+Khan: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-geometry/cc-7th-area-circumference/v/area-of-a-circle
+NRICH circle investigations support measuring C/d and rearranging sectors to explain formulas: https://nrich.maths.org/geometry-and-measure
+
+AUTHORING TRANSFER
+Topic Page: circle vocabulary; formula-choice cues; π investigation; sector-rearrangement explanation; forward/inverse worked examples; exact/approximate notation and unit checks.
+Classroom View: measure circular objects, estimate π, rearrange sectors, formula sort, solve a design context and critique common errors.
+Homework: circumference/area, missing radius/diameter, partial circles, composite perimeter/area, pricing and design.
+Feedback: mark r or d, name the required measure, choose one formula before substituting, keep π until the final step and check linear versus square units.
+
+48-PRACTICE BLUEPRINT
+P01–P08 parts/radius-diameter; P09–P16 circumference; P17–P24 area; P25–P32 inverse problems; P33–P40 semicircle/quarter-circle and compound contexts; P41–P48 formula choice, rounding and error analysis.
+16-TEST BLUEPRINT
+T01–T04 vocabulary/formulas; T05–T08 direct calculations; T09–T12 independent inverse/compound problems; T13–T16 reasoning, units and approximation.
+
+==============================================================================
+AC9M8M04 — DURATION ACROSS 12/24-HOUR TIME AND TIME ZONES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Solve problems involving duration, including using 12- and 24-hour time across multiple time zones.
+
+CURRICULUM BOUNDARY
+Convert 12/24-hour notation, find start/end/duration across noon, midnight and date boundaries, interpret timetables, and compare local times using supplied UTC offsets. Include daylight-saving cases only when offsets and dates are explicit. Do not assess recall of changing zone rules as mathematics.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Supporting mapping: L.4 “Elapsed time word problems.” SOURCE-NOT-MAPPED for the full multi-time-zone and UTC-offset component in the Year 8 IXL catalogue.
+L.4 example actually opened: total visit times of 1 h 45 min, 2 h 15 min and 1 h are added to obtain 5 h; counting back 5 hours from a 6:30 P.M. dinner gives a latest start of 1:30 P.M. The example models aggregation and reverse-time reasoning.
+Full progression: 12↔24-hour conversion → timelines/bridging → duration across noon/midnight → timetables → UTC conversion → multi-zone itinerary/date changes → daylight-saving conditions.
+Misconceptions: treating time as base 100; writing 15:30 P.M.; confusing 12 A.M./P.M.; subtracting clock digits directly; ignoring date changes; reversing UTC offset signs; adding origin-to-destination offsets without using a common reference; assuming Australian states always share daylight-saving rules.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “Time differences example” was opened; the visible lesson sequence includes time differences, travel-time word problems and time puzzles. It is prerequisite support only; SOURCE-NOT-MAPPED at the full Year 8 time-zone level.
+Khan: https://www.khanacademy.org/math/cc-third-grade-math/time/elapsed-time/v/times-differences-math-3rd-grade-khan-academy
+Australian Government/Bureau of Meteorology information should supply dated Australian zone and daylight-saving facts: https://www.bom.gov.au/climate/averages/tables/dst_times.shtml
+Timeanddate provides a public UTC/time-zone cross-check for contextual examples: https://www.timeanddate.com/time/zones/
+
+AUTHORING TRANSFER
+Topic Page: conversion table; timeline and bridge-through-midnight methods; UTC common-reference method; date-change checklist; explicit daylight-saving warning.
+Classroom View: timetable warm-up, flight/broadcast itinerary, zone cards with supplied offsets, international-call planning and error clinic.
+Homework: conversions, start/end/duration, overnight timetables, multi-zone calls/flights, daylight-saving/date-boundary interpretation.
+Feedback: convert both times to 24-hour form, place them on a dated timeline, convert each city through UTC, then translate back and label the correct local date.
+
+48-PRACTICE BLUEPRINT
+P01–P08 12/24-hour conversion; P09–P16 elapsed/start/end times; P17–P24 noon/midnight/date boundaries; P25–P32 timetables; P33–P40 UTC and multiple zones; P41–P48 travel/daylight-saving reasoning and error analysis.
+16-TEST BLUEPRINT
+T01–T04 notation/duration; T05–T08 timetable problems; T09–T12 independent multi-zone/date problems; T13–T16 modelling, explanation and misconception diagnosis.
+
+==============================================================================
+AC9M8M05 — RATES AND COMPARISONS OF DIFFERENT UNITS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Recognise and use rates to solve problems involving the comparison of 2 related quantities of different units of measure.
+
+CURRICULUM BOUNDARY
+Interpret “per” as division, form and compare unit rates, preserve compound units and convert numerator/denominator consistently. Include speed, pay, price per mass/volume, flow, fuel use, recipes, population density and other meaningful rates. Distinguish rates from ratios of like quantities and review limitations of a single unit-rate comparison.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: G.5 unit rates; G.7 compare rates word problems; G.8 ratios and rates word problems; J.2 unit prices; K.1 convert rates and measurements.
+G.7 example actually opened: Crew A mows 6 ha in 7.5 h and Crew B 4.5 ha in 6 h. IXL divides both quantities by time: A=0.8 ha/h, B=0.75 ha/h, then concludes Crew A is faster because 0.8>0.75.
+Progression: identify paired quantities/units → express rate → scale to unit rate → convert units → compare common units → solve forward/inverse → interpret model limits.
+Misconceptions: comparing totals with unequal denominators; dropping one unit; inverting the rate; mixing $/kg and $/g; multiplying when the question requires division; converting only one part of a compound rate; assuming a larger numerical rate is always “better”; confusing average speed with the mean of two speeds.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan Grade 7 Unit 1 “Proportional relationships” was opened. The visible sequence includes constants of proportionality from tables/graphs/equations, comparisons, interpretation, solving proportions and word problems. It supports rate structure; IXL gives the direct comparison example.
+Khan: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion
+National Measurement Institute provides authoritative Australian metric-unit conventions: https://www.industry.gov.au/national-measurement-institute
+NRICH proportional-reasoning tasks extend method comparison: https://nrich.maths.org/ratio-and-proportion
+
+AUTHORING TRANSFER
+Topic Page: rate-versus-ratio distinction; units-as-guides; unit-rate method; compound-unit conversion; average rate warning; fair-comparison and limitation checklist.
+Classroom View: supermarket comparison, travel-speed cards, convert a compound rate, defend the better option and critique what unit price omits.
+Homework: unit rates, price/pay/speed/flow/density, conversions, multi-step comparisons and contextual decisions.
+Feedback: write both units, divide in the direction named by “per,” convert to identical units, compare, then interpret whether larger or smaller is preferable.
+
+48-PRACTICE BLUEPRINT
+P01–P08 recognise/write rates; P09–P16 calculate unit rates; P17–P24 compare rates/unit prices; P25–P32 speed/pay/flow problems; P33–P40 compound-unit conversions; P41–P48 multi-step decisions, averages and limitations.
+16-TEST BLUEPRINT
+T01–T04 recognise/units; T05–T08 calculations/comparisons; T09–T12 independent compound-rate applications; T13–T16 interpretation and error analysis.
+
+==============================================================================
+AC9M8M06 — PYTHAGORAS’ THEOREM
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Use Pythagoras’ theorem to solve problems involving the side lengths of right-angled triangles.
+
+CURRICULUM BOUNDARY
+Identify the hypotenuse from the right angle, use a²+b²=c² to find a hypotenuse or leg, apply the converse to test for right angles, retain exact radical values where useful and round contextually. Include practical, coordinate-distance and historical/visual reasoning without moving into trigonometric ratios.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: S.1 find hypotenuse; S.2 find missing leg; S.3 mixed missing side; S.4 perimeter; S.5 word problems; S.6 converse.
+S.5 example actually opened: one person is 16 m in front of Shelley and another is 12 m to her right. IXL draws a right triangle, substitutes a=16 and b=12 into a²+b²=c², calculates 256+144=400, takes the positive square root and concludes c=20 m.
+Progression: square-area relationship → label hypotenuse → calculate hypotenuse → calculate leg by subtraction → non-perfect roots/rounding → converse → multi-step applications.
+Misconceptions: using the two visually longest diagram edges without locating the right angle; taking c as any unknown; adding squares for a missing leg; forgetting the final square root; accepting ±length; rounding before rooting; applying the theorem to a non-right triangle; failing to use the largest side as c in the converse.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan Geometry Unit 9 “Pythagorean theorem” was opened. Khan’s official carpet word-problem lesson models a missing-leg context from a diagonal, complementing IXL’s hypotenuse example:
+https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-geometry/pythagorean-theorem-application/v/pythagorean-theorem-3
+NRICH provides visual dissections, proof comparisons and problem solving: https://nrich.maths.org/pythagoras-theorem
+
+AUTHORING TRANSFER
+Topic Page: right-angle/hypotenuse identification; visual square model; hypotenuse and leg algorithms; converse; exact-versus-rounded answers; coordinate and design examples.
+Classroom View: rearrange square pieces, label triangle roles, compare two methods, practical distance challenge, converse card sort and error clinic.
+Homework: direct calculations, missing legs, perimeters, converse classification, coordinate distances and multi-step contexts.
+Feedback: mark the right angle, label the opposite side c, decide add-or-subtract before substituting, take the positive root and round only at the end.
+
+48-PRACTICE BLUEPRINT
+P01–P08 identify components/squares; P09–P16 hypotenuse; P17–P24 missing legs; P25–P32 non-perfect roots/rounding; P33–P40 converse/perimeter; P41–P48 coordinate, practical and multi-step reasoning.
+16-TEST BLUEPRINT
+T01–T04 setup; T05–T08 missing sides; T09–T12 independent converse/application problems; T13–T16 multi-step reasoning and misconception diagnosis.
+
+==============================================================================
+BATCH 3 INTERACTIVE QA CHECK — 2026-09-11
+- Five codes completed: AC9M8M02–AC9M8M06.
+- One authenticated IXL Australia tab was used sequentially; Learn with an example was actually opened and recorded for every code.
+- One authenticated Khan Academy tab was used sequentially; relevant volume, circle, time, proportional-reasoning and Pythagoras content was opened.
+- Australian Curriculum v9/QCAA set scope; National Measurement Institute, Bureau of Meteorology/time-zone references and NRICH extend trusted evidence.
+- Full IXL/Khan mapping gaps for AC9M8M04 time zones are explicitly marked SOURCE-NOT-MAPPED; supporting elapsed-time evidence is not overstated.
+- Each code has sufficient evidence for Topic Page, HTML Classroom View, Homework, exactly 48 Practice and a separate exactly 16 Test bank.
+- All five codes are genuinely AUTHORING-READY.
+
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M8M02. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M8M07. Do not repeat completed research unless a source or curriculum descriptor materially changes.
