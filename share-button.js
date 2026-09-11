@@ -177,7 +177,7 @@
 
     var highlight = document.createElement("aside");
     highlight.id = "free-first-highlight";
-    highlight.setAttribute("aria-label", "Request professional teaching slides and worksheets");
+    highlight.setAttribute("aria-label", "Teaching and print resources");
     highlight.style.margin = "clamp(14px, 2vw, 22px) 0";
     highlight.style.padding = "clamp(16px, 2.5vw, 24px)";
     highlight.style.border = "1px solid #d9e2ff";
@@ -202,9 +202,17 @@
     link.style.marginTop = "10px";
     link.style.fontWeight = "700";
 
+    var books = document.createElement("a");
+    books.href = "/amazon-resources/";
+    books.textContent = "Physical Books →";
+    books.style.display = "inline-block";
+    books.style.margin = "10px 0 0 18px";
+    books.style.fontWeight = "700";
+
     highlight.appendChild(heading);
     highlight.appendChild(supporting);
     highlight.appendChild(link);
+    highlight.appendChild(books);
     hero.insertAdjacentElement("afterend", highlight);
   }
 
@@ -244,6 +252,19 @@
     target.insertAdjacentElement("afterend", panel);
   }
 
+  function addHomepagePhysicalBooksNav() {
+    if (window.location.pathname !== "/" && window.location.pathname !== "/index.html") return;
+    document.querySelectorAll(".site-header__links, .site-header__menu-panel").forEach(function (nav) {
+      if (nav.querySelector('a[href="/amazon-resources/"]')) return;
+      var link = document.createElement("a");
+      link.href = "/amazon-resources/";
+      link.textContent = "Physical Books";
+      var products = nav.querySelector('a[href="/products/"]');
+      if (products && products.nextSibling) nav.insertBefore(link, products.nextSibling);
+      else nav.appendChild(link);
+    });
+  }
+
   function loadFirstVisitOnboarding() {
     if (window.location.pathname !== "/" && window.location.pathname !== "/index.html") return;
     if (document.querySelector('script[data-skillr-onboarding]')) return;
@@ -264,6 +285,7 @@
     initCommercialTracking();
     addFreeFirstHomepageHighlight();
     addHomepagePhysicalBooksLink();
+    addHomepagePhysicalBooksNav();
     loadFirstVisitOnboarding();
   }
 
@@ -276,7 +298,6 @@
   }
 })();
 
-// Shared optional resource navigation; guarded across multiple page helpers.
 (function () {
   if (window.__skillrResourceLinksLoading) return;
   window.__skillrResourceLinksLoading = true;
@@ -286,7 +307,6 @@
   document.head.appendChild(script);
 }());
 
-// skillr-companions: shared brand and optional learning navigation
 (function () {
   if (window.__skillrCompanionLoaderRequested) return;
   window.__skillrCompanionLoaderRequested = true;
