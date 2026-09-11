@@ -1,17 +1,27 @@
 {
   "curriculum_code": "AC9M1M03",
+  "qa_date": "2026-09-11",
+  "status": "GATEWAY-FINAL-QA-PASS",
   "source_counts": {
-    "practice": 28,
+    "practice": 48,
     "test": 16
   },
-  "output_items": 44,
-  "visual_items": 40,
-  "automated_quality_score": 9,
+  "output_items": 64,
+  "quality_review": {
+    "curriculum_alignment": "PASS",
+    "ixl_framework_comparison": "PASS — days of week, months, seasons and calendar reading retained and extended",
+    "australian_market_comparison": "PASS — duration sorting, chronological sequencing, calendar reasoning and assessment coverage included",
+    "age_appropriateness": "PASS",
+    "practice_test_independence": "PASS",
+    "explanations": "PASS",
+    "accessibility": "PASS — concise read-aloud prompts and text alternatives for calendar models"
+  },
   "fixes": [
-    "Converted all interactions to three-option Year 1 multiple choice.",
-    "Balanced correct positions separately across Practice and Test.",
-    "Added system read-aloud prompts, structured visual metadata, alt text, summaries and actionable hints.",
-    "Preserved unique authored contexts and retained existing counts above the 24/16 baseline."
+    "Expanded the learner-facing Practice bank from 28 to 48 original questions.",
+    "Added broader coverage of weekday and month cycles, seasons, calendar reading, duration-unit choice, event sequencing and reasoning traps.",
+    "Preserved the separate 16-question Test bank after substantive review.",
+    "Synced the compatibility Practice bank to the same 48-question reviewed source.",
+    "Removed stale 28-question count from the QA record."
   ],
   "flagged_for_awareness": []
 }
