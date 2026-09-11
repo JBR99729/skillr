@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 import { execFileSync, execSync } from 'node:child_process';
 import fs from 'node:fs';
+import { hasTeacherDisplayPage } from './lib/static_teacher_display.mjs';
 
 const base = process.env.GITHUB_BASE_REF ? `origin/${process.env.GITHUB_BASE_REF}` : 'HEAD~1';
 let changed = [];
@@ -15,20 +16,6 @@ const teacherViewerPath = /(?:\/teacher-deck\/index\.html$|\/teacher-slides\/liv
 const errors = [];
 const publicDownload = /href=["'][^"']+\.(?:pptx|pdf)(?:[?#][^"']*)?["']/i;
 const runtimeDeck = /(?:teachingSlides|\.slides\.forEach|render.*slide|lower-materials-render|year\d+.*slides\.js|topic-modules-render|lesson-render)/i;
-
-function hasTeacherDisplayPage(html) {
-  const legacy = /data-single-open/i.test(html) && /Clean visual examples/i.test(html);
-  const topicFirst = /name=["']lesson["']/i.test(html)
-    && /id=["']curriculum-mapping["']/i.test(html)
-    && /\/assets\/css\/classroom-view\.css/i.test(html)
-    && /We do/i.test(html);
-  return /Teacher Display Page/i.test(html)
-    && (legacy || topicFirst)
-    && /<details\b/i.test(html)
-    && /<summary\b/i.test(html)
-    && !/class=["'][^"']*\bexample-icon\b[^"']*["']/i.test(html)
-    && /skillrhublearning@gmail\.com/i.test(html);
-}
 
 function isTeacherRedirectShim(html) {
   return /Teacher Display Redirect|page moved/i.test(html)

@@ -13,6 +13,8 @@ on:
       - 'scripts/audit_curriculum_route_integrity.mjs'
       - 'scripts/audit_static_teacher_slides.mjs'
       - 'scripts/validate_static_curriculum_architecture.mjs'
+      - 'scripts/lib/static_teacher_display.mjs'
+      - 'scripts/tests/test_static_teacher_display.mjs'
       - 'scripts/migrate_runtime_topic_pages_static.mjs'
       - '.github/workflows/audit-static-curriculum-site.yml'
   push:
@@ -27,6 +29,8 @@ on:
       - 'scripts/audit_curriculum_route_integrity.mjs'
       - 'scripts/audit_static_teacher_slides.mjs'
       - 'scripts/validate_static_curriculum_architecture.mjs'
+      - 'scripts/lib/static_teacher_display.mjs'
+      - 'scripts/tests/test_static_teacher_display.mjs'
       - 'scripts/migrate_runtime_topic_pages_static.mjs'
       - '.github/workflows/audit-static-curriculum-site.yml'
   workflow_dispatch:
@@ -41,6 +45,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - run: node --test scripts/tests/test_static_teacher_display.mjs
       - name: Validate changed curriculum architecture
         run: node scripts/validate_static_curriculum_architecture.mjs
       - name: Enforce static Teacher Slides architecture

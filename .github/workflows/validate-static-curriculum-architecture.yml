@@ -13,6 +13,8 @@ on:
       - 'docs/static-curriculum-architecture-v2.md'
       - 'AGENTS.md'
       - 'scripts/validate_static_curriculum_architecture.mjs'
+      - 'scripts/lib/static_teacher_display.mjs'
+      - 'scripts/tests/test_static_teacher_display.mjs'
       - 'scripts/validate_static_topic_loader_guards.mjs'
       - '.github/workflows/validate-static-curriculum-architecture.yml'
 
@@ -29,5 +31,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+      - run: node --test scripts/tests/test_static_teacher_display.mjs
       - run: node scripts/validate_static_curriculum_architecture.mjs
       - run: node scripts/validate_static_topic_loader_guards.mjs
