@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M8A01
-LAST_COMPLETED_CODE: AC9M8N05
-NEXT_CODE: AC9M8A01
+CURRENT_CODE: AC9M8N01
+LAST_COMPLETED_CODE: NONE
+NEXT_CODE: AC9M8N01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 COMPLETE (LATEST: AC9M8N01–AC9M8N05)
+BATCH: 1 REOPENED — INTERACTIVE IXL VERIFICATION IN PROGRESS
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of each Year 8 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Research evidence is drawn from Australian Curriculum v9/QCAA, IXL Australia Year 8, Khan Academy and reputable free/public sources. Source examples inform pedagogy only; SkillrHub content must be original.
@@ -33,7 +33,7 @@ SOURCE REGISTER
 
 ==============================================================================
 AC9M8N01 — IRRATIONAL NUMBERS IN APPLIED CONTEXTS
-STATUS: AUTHORING-READY
+STATUS: MORE-RESEARCH-REQUIRED
 
 CURRICULUM DESCRIPTION
 Recognise irrational numbers in applied contexts, including square roots and π.
@@ -71,7 +71,7 @@ T01–T04 classification; T05–T08 estimation/order; T09–T12 independent appl
 
 ==============================================================================
 AC9M8N02 — EXPONENT LAWS AND ZERO EXPONENT
-STATUS: AUTHORING-READY
+STATUS: MORE-RESEARCH-REQUIRED
 
 CURRICULUM DESCRIPTION
 Establish and apply the exponent laws with positive integer exponents and the zero exponent, using exponent notation with numbers.
@@ -109,7 +109,7 @@ T01–T04 foundations; T05–T08 single laws; T09–T12 independent mixed-law ev
 
 ==============================================================================
 AC9M8N03 — TERMINATING AND RECURRING DECIMALS
-STATUS: AUTHORING-READY
+STATUS: MORE-RESEARCH-REQUIRED
 
 CURRICULUM DESCRIPTION
 Recognise terminating and recurring decimals, using digital tools as appropriate.
@@ -145,7 +145,7 @@ T01–T04 recognition/notation; T05–T08 conversion; T09–T12 independent deno
 
 ==============================================================================
 AC9M8N04 — FOUR OPERATIONS WITH INTEGERS AND RATIONAL NUMBERS
-STATUS: AUTHORING-READY
+STATUS: MORE-RESEARCH-REQUIRED
 
 CURRICULUM DESCRIPTION
 Use the 4 operations with integers and with rational numbers, choosing and using efficient strategies and digital tools where appropriate.
@@ -180,7 +180,7 @@ T01–T04 integer fluency; T05–T08 rational operations; T09–T12 independent 
 
 ==============================================================================
 AC9M8N05 — MATHEMATICAL MODELLING WITH RATIONAL NUMBERS AND PERCENTAGES
-STATUS: AUTHORING-READY
+STATUS: MORE-RESEARCH-REQUIRED
 
 CURRICULUM DESCRIPTION
 Use mathematical modelling to solve practical problems involving rational numbers and percentages, including financial contexts; formulate problems, choosing efficient calculation strategies and using digital tools where appropriate; interpret and communicate solutions in terms of the situation, reviewing the appropriateness of the model.
@@ -217,7 +217,10 @@ P01–P08 percent/rational foundations; P09–P16 discounts and mark-ups; P17–
 T01–T04 foundations; T05–T08 financial calculations; T09–T12 independent multi-step/repeated-change models; T13–T16 formulate, communicate and review. Do not reuse Practice contexts.
 
 ==============================================================================
-BATCH 1 QA CHECK
+VERIFICATION CORRECTION — 2026-09-11
+The first pass verified curriculum scope, IXL catalogue mappings, Khan and public sources but did not inspect IXL Learn with an example interactively. AC9M8N01–AC9M8N05 were reopened and must not return to AUTHORING-READY until actual IXL worked-example evidence is recorded.
+
+BATCH 1 QA CHECK — SUPERSEDED PENDING INTERACTIVE VERIFICATION
 - Five codes researched: AC9M8N01–AC9M8N05.
 - Exact descriptors verified against SkillrHub’s AC v9-aligned Year 8 pages and QCAA scope.
 - Current IXL Australia Year 8 catalogue mapped across rational/irrational numbers, exponent laws, recurring decimals, rational operations, percents and consumer maths.
