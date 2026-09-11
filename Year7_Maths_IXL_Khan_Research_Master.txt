@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M7A06
-LAST_COMPLETED_CODE: AC9M7A05
-NEXT_CODE: AC9M7A06
+CURRENT_CODE: AC9M7M05
+LAST_COMPLETED_CODE: AC9M7M04
+NEXT_CODE: AC9M7M05
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 3 COMPLETE (LATEST: AC9M7A01–AC9M7A05)
+BATCH: 4 COMPLETE (LATEST: AC9M7A06, AC9M7M01–AC9M7M04)
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -573,5 +573,189 @@ BATCH 3 QA CHECK
 - Every code has scope boundary, misconceptions, Topic Page, HTML Classroom View, Homework transfer, 48-Practice blueprint and independent 16-Test blueprint.
 - AC9M7A01–AC9M7A05 are AUTHORING-READY.
 
+
+==============================================================================
+AC9M7A06 — SYSTEMATIC VARIATION IN MULTI-VARIABLE FORMULAS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Manipulate formulas involving several variables using digital tools, and describe the effect of systematic variation in the values of the variables.
+
+CURRICULUM BOUNDARY
+“Manipulate” here means generate and inspect values by changing inputs systematically, especially with spreadsheets/digital tools; it is not primarily algebraic rearrangement. Hold other variables constant, vary one input, record outputs and describe covariation. Include additive and multiplicative formulas and distinguish absolute change from multiplicative effect.
+
+IXL MAPPING AND LIVE EVIDENCE
+Closest mappings: R.5 “Evaluate multi-variable expressions”; T.3 “Complete a table for a two-variable relationship”; T.4 “Write a two-variable equation”; T.8/T.9 constant rate of change.
+Learn-with-an-example captured for b=y+9: context starts with 9 lunch boxes and adds one annually. IXL identifies y as input and b as output, substitutes y=1 and y=3, calculates b=10 and b=12 and completes the table. This supports systematic input-output tabulation.
+Direct URL: https://au.ixl.com/maths/year-7/complete-a-table-for-a-two-variable-relationship
+IXL does not directly assess spreadsheet construction or “vary one variable while others remain fixed”: SOURCE-NOT-MAPPED for that digital-process component.
+Misconceptions: changing several inputs simultaneously and claiming a single cause; treating cell references as fixed values; dragging formulas with incorrect references; describing a table without a comparative statement; assuming every input increase creates the same output increase; confusing formula evaluation with rearrangement.
+
+KHAN / TRUSTED EVIDENCE
+Khan provides multi-variable substitution and function-table foundations but no exact age-matched spreadsheet investigation: SOURCE-NOT-MAPPED at full-code level.
+Australian Curriculum v9/QCAA control the digital-tool and systematic-variation requirement.
+
+AUTHORING TRANSFER
+Topic Page: show a spreadsheet table for V=lwh; hold w,h constant and vary l, then repeat by doubling h. Teach relative/absolute cell references conceptually, table interpretation and sentence frames: “When ___ doubles while ___ stay fixed, ___.”
+Classroom View: predict–change–record–describe investigation using volume, cost C=pn and distance d=st; include a flawed spreadsheet formula audit.
+Homework: hand-generated small tables plus printed spreadsheet outputs, one-variable-at-a-time comparisons, graph/table descriptions and digital-tool planning.
+Feedback: identify controlled and changed variables, recalculate outputs, compare differences/ratios, then state the effect with conditions.
+
+48-PRACTICE BLUEPRINT
+P01–P08 identify variables/inputs/outputs; P09–P16 substitute into multi-variable formulas; P17–P24 complete tables; P25–P32 vary one input; P33–P40 compare additive/multiplicative effects; P41–P48 spreadsheet formulas, cell-reference errors and contextual explanations.
+16-TEST BLUEPRINT
+T01–T04 formula/table fluency; T05–T08 controlled variation; T09–T12 digital-tool outputs; T13–T16 independent explanation and audit.
+
+==============================================================================
+AC9M7M01 — AREA OF TRIANGLES AND PARALLELOGRAMS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Solve problems involving the area of triangles and parallelograms using established formulas and appropriate units.
+
+CURRICULUM BOUNDARY
+Derive and apply A=bh for parallelograms and A=½bh for triangles. Height is the perpendicular distance to the chosen base, not necessarily a sloping side. Include missing dimensions, composite contexts and unit conversions where reasonable.
+
+IXL MAPPING AND LIVE EVIDENCE
+Mappings: “Understanding area of a parallelogram”; “Area of parallelograms”; “Area of triangles”.
+Learn-with-an-example captured: shaded triangle with base 4 cm and perpendicular height 2 cm. IXL states A=½×base×height, substitutes ½×4×2=4 and explicitly selects square centimetres because lengths are in centimetres.
+Direct URL: https://au.ixl.com/maths/year-7/area-of-triangles
+The parallelogram worked panel was opened but its diagram text was not exposed; mapping retained without invented details.
+Misconceptions: using slanted side as height; omitting ½ for triangles; halving a parallelogram; adding dimensions; using linear/cubic units; applying formula before converting units.
+
+KHAN / TRUSTED EVIDENCE
+Khan geometry resources derive triangle/parallelogram area through decomposition and rearrangement; exact search mapping was less direct than IXL. The trusted AC v9/QCAA descriptor and visual derivation requirement control scope.
+Authoring should demonstrate that sliding a parallelogram’s triangular end preserves area and that two congruent triangles make a parallelogram.
+
+AUTHORING TRANSFER
+Topic Page: cut-and-move parallelogram to rectangle; duplicate triangle to parallelogram; label base/perpendicular height; formula triangle; units and reverse problems.
+Classroom View: visual derivations, identify valid heights in rotated figures, worked triangle, composite garden/design problem, exit ticket with units/reason.
+Homework: formula choice, direct area, missing base/height, rotated/diagram traps, composite areas and contexts.
+Feedback: mark base and perpendicular height first, state formula, substitute with units, calculate and square the unit.
+
+48-PRACTICE BLUEPRINT
+P01–P08 identify bases/heights; P09–P16 parallelogram area; P17–P24 triangle area; P25–P32 missing dimensions; P33–P40 unit conversion/composites; P41–P48 contextual design and error analysis.
+16-TEST BLUEPRINT
+T01–T04 diagrams/formulas; T05–T08 direct/missing values; T09–T12 independent composites; T13–T16 reasoning/derivation/application.
+
+AUTHORING DEFECT ALERT
+The current SkillrHub launch page displays an unrelated integer descriptor and advertises a shared eight-question bank. Authoring must replace it with this exact descriptor and enforce separate 48 Practice + 16 Test banks.
+
+==============================================================================
+AC9M7M02 — VOLUME OF RIGHT PRISMS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Solve problems involving the volume of right prisms including rectangular and triangular prisms, using established formulas and appropriate units.
+
+CURRICULUM BOUNDARY
+Use V=area of constant cross-section × prism length/height. Include rectangular and triangular prisms, missing dimensions, composite/application problems and cubic units. Surface area is a useful contrast, not this code’s target.
+
+IXL MAPPING AND LIVE EVIDENCE
+Mappings: “Volume of cubes and rectangular prisms”; corresponding word problems; “Volume of triangular prisms”.
+IXL worked-example panels were opened sequentially but the 3D diagrams/formula text were not exposed in the accessibility snapshot: mappings recorded, no fabricated item wording.
+Direct URLs: https://au.ixl.com/maths/year-7/volume-of-cubes-and-rectangular-prisms ; https://au.ixl.com/maths/year-7/volume-of-triangular-prisms
+Expected evidence family: identify cross-section, calculate base area, multiply by prism length, attach cubic units, interpret capacity/packing.
+Misconceptions: using surface area; forgetting ½ for triangular base; multiplying only two dimensions; using square units; confusing vertical picture dimension with perpendicular triangle height; inconsistent units.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Volume of triangular prism & cube” states triangular-prism volume as triangle area (½×base×height) times depth and cube/rectangular-prism volume from three dimensions: https://www.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-volume-rect-prism/v/solid-geometry-volume
+Australian Curriculum/QCAA control right-prism scope.
+
+AUTHORING TRANSFER
+Topic Page: build rectangular prism from unit cubes; generalise V=Ah; apply to triangular cross-section; contrast area units vs volume units; include litres/cm³ connection only where carefully supported.
+Classroom View: layer model, cross-section highlighting, worked rectangular and triangular prisms, missing-length problem and packing context.
+Homework: cross-section identification, direct volume, missing dimension, mixed units, composite prisms and applications.
+Feedback: shade/name the constant cross-section, calculate its area, multiply by prism length and cube the unit.
+
+48-PRACTICE BLUEPRINT
+P01–P08 cube/layer concepts; P09–P16 rectangular prisms; P17–P24 triangular prisms; P25–P32 missing dimensions; P33–P40 units/conversions/composites; P41–P48 capacity, material and design contexts.
+16-TEST BLUEPRINT
+T01–T04 concepts; T05–T08 direct volumes; T09–T12 reverse/composite; T13–T16 independent applications/reasoning.
+
+AUTHORING DEFECT ALERT
+Current launch page contains the unrelated integer descriptor and shared eight-question wording. Correct descriptor and separate 48/16 banks are mandatory.
+
+==============================================================================
+AC9M7M03 — PI AND FEATURES OF CIRCLES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Describe the relationship between π and the features of circles including the circumference, radius and diameter.
+
+CURRICULUM BOUNDARY
+Name centre, radius, diameter and circumference; establish d=2r and π=C/d; use C=πd=2πr; measure circles, compare experimental ratios and solve direct/reverse contextual problems. Circle area is not required by this descriptor.
+
+IXL MAPPING AND LIVE EVIDENCE
+Year 7 direct mapping: “Parts of a circle”. IXL Year 7 has no direct circumference/π skill in its displayed list: SOURCE-NOT-MAPPED for the crucial π ratio/formula component. The worked panel for parts of a circle was opened; diagram labels were visually rendered but not text-exposed.
+Direct URL: https://au.ixl.com/maths/year-7/parts-of-a-circle
+Question-bank design must not inherit IXL’s mapping gap; the AC descriptor requires π, circumference, radius and diameter relationships.
+Misconceptions: radius/diameter reversal; π as exactly 3.14 or 22/7; using πr for circumference; confusing circumference with area; measuring through a non-centre chord as diameter; premature rounding.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Radius, diameter, circumference & π” states d=2r and circumference C=πd=2πr and describes circumference as a circle’s perimeter: https://www.khanacademy.org/math/geometry-home/cc-geometry-circles/circle-basics/v/circles-radius-diameter-and-circumference
+Supporting reverse problems find radius/diameter from circumference.
+Australian Curriculum/QCAA require description of the experimental/structural relationship, not formula memorisation alone.
+
+AUTHORING TRANSFER
+Topic Page: labelled circle diagram; measure several round objects with string and ruler; table C,d,C/d approaching π; derive C=πd and C=2πr; exact vs approximate answers.
+Classroom View: measurement investigation, vocabulary reveal, formula triangle/check, worked wheel/fence examples and misconception comparison.
+Homework: label parts, convert r↔d, compute circumference, reverse problems, measurement-data interpretation and contexts.
+Feedback: identify given feature, convert radius/diameter if necessary, state formula, substitute π consistently, round at end and use linear units.
+
+48-PRACTICE BLUEPRINT
+P01–P08 features; P09–P16 r/d relationship; P17–P24 π=C/d experiments; P25–P32 circumference; P33–P40 reverse/missing values; P41–P48 wheels, borders, rotations and error analysis.
+16-TEST BLUEPRINT
+T01–T04 features/ratios; T05–T08 circumference; T09–T12 reverse/context; T13–T16 investigation interpretation and reasoning.
+
+AUTHORING DEFECT ALERT
+Current launch page displays an unrelated integer descriptor and shared eight-question wording. Replace during authoring.
+
+==============================================================================
+AC9M7M04 — PARALLEL LINES AND TRANSVERSALS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Identify corresponding, alternate and co-interior relationships between angles formed when parallel lines are crossed by a transversal; use them to solve problems and explain reasons.
+
+CURRICULUM BOUNDARY
+Teach corresponding and alternate angles are equal and co-interior angles sum to 180° only when the lines are parallel. Combine with vertically opposite and linear-pair facts; require named reasons in multi-step solutions and include converse reasoning cautiously.
+
+IXL MAPPING AND LIVE EVIDENCE
+Mappings: “Parallel, perpendicular and intersecting lines”; “Transversal of parallel lines”; “Construct parallel lines”.
+The IXL transversal worked panel was opened in the single tab; the angle diagram was visually rendered but relationship labels were not exposed in the snapshot. The mapping is direct, while evidence details are recorded without inventing a displayed measure.
+Direct URL: https://au.ixl.com/maths/year-7/transversal-of-parallel-lines
+Likely IXL progression visible from skill architecture: identify transversal/parallel marks → classify angle pair → apply equal/supplementary relation → chain with vertical/linear angles.
+Misconceptions: identifying by visual orientation instead of relative position; using rules when lines are not marked parallel; confusing alternate with corresponding; saying co-interior angles are equal; giving a number without a reason; assuming diagrams are to scale.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Angles, parallel lines, & transversals” explains alternate interior equality and corresponding positions: https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-geometry/cc-8th-angles-between-lines/v/angles-formed-by-parallel-lines-and-transversals
+Khan “Missing angles with a transversal” combines corresponding, vertically opposite and supplementary relationships in chains.
+Australian Curriculum/QCAA require explicit explanation of reasons.
+
+AUTHORING TRANSFER
+Topic Page: colour-coded F/Z/C position cues only as initial memory aids, followed by precise definitions; parallel arrow marks; angle fact/reason table; worked two- and three-step chains.
+Classroom View: trace relative positions, sort angle pairs, dynamic-geometry observation, solve unknowns with statement/reason columns, exit proof.
+Homework: identify relationships, calculate missing angles, decide whether enough information exists, explain parallel-line condition and multi-step proofs.
+Feedback: first cite parallel lines/transversal, name the relationship, write equality or sum-to-180 equation, solve and record the reason.
+
+48-PRACTICE BLUEPRINT
+P01–P08 vocabulary/diagram marks; P09–P16 classify pairs; P17–P24 one-step corresponding/alternate; P25–P32 co-interior/linear/vertical combinations; P33–P40 algebraic unknowns; P41–P48 multi-step proofs, converses and invalid-diagram critique.
+16-TEST BLUEPRINT
+T01–T04 classification; T05–T08 calculations with reasons; T09–T12 independent algebraic/multi-step diagrams; T13–T16 proof and error analysis.
+
+AUTHORING DEFECT ALERT
+Current launch page has an unrelated integer descriptor and shared eight-question wording. Correct it and implement independent 48 Practice + 16 Test banks.
+
+==============================================================================
+BATCH 4 QA CHECK
+- Five codes researched: AC9M7A06 and AC9M7M01–AC9M7M04.
+- One IXL Australia tab used sequentially; seven direct skill mappings inspected and Learn with an example opened.
+- One Khan tab used sequentially; direct mappings checked and exact IXL/Khan gaps recorded.
+- Authoritative scope cross-checked against Australian Curriculum v9/QCAA.
+- Each code contains teaching transfer, misconceptions and independent 48/16 bank blueprints.
+- Four serious existing SkillrHub launch-page defects were recorded for mandatory authoring correction.
+- All five codes are AUTHORING-READY.
+
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M7A06. Do not repeat completed research unless the curriculum or source materially changes.
+Read NEXT_CODE and continue with AC9M7M05. Do not repeat completed research unless a source or curriculum descriptor materially changes.
