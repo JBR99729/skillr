@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S6H01
-LAST_COMPLETED_CODE: AC9S6U04
-NEXT_CODE: AC9S6H02
+CURRENT_CODE: AC9S6I03
+LAST_COMPLETED_CODE: AC9S6I02
+NEXT_CODE: AC9S6I04
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 OF 4 COMPLETED (AC9S6U01–AC9S6U04)
+BATCH: 2 OF 3 COMPLETED (LATEST: AC9S6H01–AC9S6I02)
 
 Research protocol
 - Primary curriculum authority: Australian Curriculum v9 (ACARA).
@@ -128,3 +128,108 @@ BATCH 1 CHECKPOINT
 - All four Science-understanding descriptors are research-complete and AUTHORING-READY.
 - No content has been re-authored in this research phase.
 - Next batch begins with Science as a human endeavour: AC9S6H01, then AC9S6H02, AC9S6I01 and AC9S6I02.
+
+================================================================
+AC9S6H01 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Examine why advances in science are often the result of collaboration or build on the work of others.
+- Required boundary: students must identify how shared evidence, specialised roles, peer checking and prior findings enable an advance; a generic biography of one “great scientist” is insufficient.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - No direct AC9S6H01 mapping was found: SOURCE-NOT-MAPPED.
+  - Closest task form is C.3 “Use data from tests to compare engineering-design solutions”. The sampled item supplied three boat prototypes and two numerical requirements, then required selecting every design meeting each requirement. This supports evidence sharing and comparison, but collaboration must be authored explicitly.
+- Khan Academy: no Australian Curriculum code map and no direct Year 6 collaboration exercise surfaced in the authenticated science search. Relevant scientist/history explanations are supplementary only.
+- ABC Education: “Up, up and away!” models question-predict-test-observe and is explicitly produced with a science and technology centre; it is useful as a simple example of public science communication and institutional collaboration, though its Years 7–8 fire experiment is not suitable as a Year 6 practical.
+- Trusted-source perspective: CSIRO and other research institutions organise projects around teams, disciplines, shared instruments, datasets and accumulated findings. Use age-appropriate case studies without implying that collaboration guarantees correctness.
+
+Concept and authoring blueprint
+- Teach four mechanisms: divide specialist roles; pool observations/data; check and repeat one another’s work; build on published evidence and tools.
+- Distinguish collaboration from merely “working in a group”: the work must contribute to a shared scientific question or improvement.
+- Practice coverage: identify prior contribution versus new contribution; match team role to task; sequence claim-review-revision; select evidence showing an advance built on earlier work; compare individual and collaborative limitations.
+- Test coverage: unfamiliar case studies, a timeline of incremental improvements, a shared-data table, and an item asking why independent replication strengthens confidence.
+- Misconceptions to target: one scientist works alone from start to finish; later work makes earlier work worthless; consensus is a vote rather than an evidence-based judgment; every team member performs the same task.
+- Feedback should name the specific contribution and explain how it enabled checking, extension or application.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S6H02 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Investigate how scientific knowledge is used by individuals and communities to identify problems, consider responses and make decisions.
+- Required boundary: the decision process includes evidence, options, benefits, limitations and stakeholder needs; it is not simply “science tells people the correct answer”.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - M.3 “Coral reef biodiversity and human uses: evaluate solutions” presents a damaged reef, scientific projections, ecosystem services and distinct interest-group requirements.
+  - The sampled item asked what a council should do first; the intended reasoning was to determine each major interest group’s requirements before choosing a solution.
+  - Closest supports: M.1 community protection of sea turtles; M.2 explore a coral-reef problem; M.3 evaluate solutions. This is a strong conceptual match even though it is not labelled with the AC9 code.
+- Khan Academy: ecology/conservation resources can support ecosystem evidence, but no Australian Year 6 code-mapped decision task was found.
+- ABC Education: curriculum-mapped science investigations provide Australian contexts and prompts for prediction, evidence and procedural reporting. Use ABC/BTN public-issue contexts only when the science evidence and decision trade-offs are explicit.
+- Trusted-source perspective: community decisions may weigh scientific evidence together with cultural, environmental, social and economic considerations. Science informs a choice but does not determine values or priorities on its own.
+
+Concept and authoring blueprint
+- Decision chain: identify the problem -> gather relevant scientific evidence -> identify affected groups and criteria -> compare possible responses -> justify a decision -> monitor outcomes and revise.
+- Practice coverage: separate evidence from opinion; identify a relevant measurement; match response to criterion; compare options in a matrix; choose the best-supported claim; recognise uncertainty.
+- Test coverage: novel Australian community contexts (water, habitat, energy or waste), quantitative evidence, conflicting stakeholder requirements and a justified recommendation.
+- Misconceptions to target: the cheapest option is automatically best; any scientific fact is relevant; one stakeholder represents the whole community; uncertainty means no decision can be made.
+- Feedback must state which evidence supports which criterion and acknowledge a genuine trade-off.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S6I01 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Pose investigable questions to identify patterns and test relationships, and make reasoned predictions.
+- Required boundary: an investigable question must specify measurable/observable variables and be answerable with available methods; a prediction must include evidence-based reasoning.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - B.3 “Identify the experimental question” presents a complete method and asks which question it can actually answer.
+  - Sampled context: compare the number of equal-sized drops of pure water and soapy water a penny can hold, using repeated trials. The valid question matched the two tested liquids; an option involving washing-up liquid was invalid because it was never tested.
+  - Closest supports: A.1 science inquiry process; B.3 experimental question; B.4 questions investigable with given materials.
+- Khan Academy: scientific-method material is supplementary and not AC9-mapped; no direct current Year 6 mapped exercise was identified.
+- ABC Education, Years 5–6 “Pepper scatter experiment”: students predict the effect of detergent, observe evidence, add a no-detergent control and repeat while changing one variable. This is a strong Australian, age-matched inquiry model.
+
+Concept and authoring blueprint
+- Question frame: “How does [variable changed] affect [variable measured] when [key controls] stay the same?”
+- Prediction frame: “If … then … because …”; the “because” must use prior knowledge or observations, not repeat the prediction.
+- Practice coverage: investigable/non-investigable; identify variables from a method; rewrite a vague question; match question to equipment/data; make and justify a directional prediction; distinguish pattern questions from relationship questions.
+- Test coverage: novel materials lists and procedures, questions with unsafe/unmeasurable wording, prediction evidence and an item where the available data cannot answer the stated question.
+- Misconceptions to target: every question is testable; predictions are random guesses; adding more changed variables improves a test; a yes/no wording automatically makes a question invalid.
+- Feedback should identify the missing measurement, unavailable comparison or uncontrolled factor precisely.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S6I02 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Plan and conduct repeatable investigations to answer questions, including deciding variables to change, measure and control in fair tests.
+- Required boundary: repeatability requires enough procedural detail, consistent measurement and repeated trials; “do it again” alone is not a repeatable method.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - B.2 “Identify independent and dependent variables” gives an extended experimental protocol and a direct variable-choice item.
+  - Sampled context: a wooden race car used light versus heavy wheels of equal diameter, ran three trials per wheel type and measured travel time. The dependent variable was time to reach the bottom; wheel weight was the independent variable.
+  - Closest supports: B.1 control/experimental groups; B.2 variables; B.5–B.7 interpret protocols about plant growth, diffusion and evaporation.
+- Khan Academy: general experimental-design explanations are supplementary; no direct Australian Year 6 mapped sequence surfaced.
+- ABC Education “Pepper scatter experiment”: explicitly asks students to add a control, record evidence and repeat the procedure by changing one variable only. It reinforces fair-test logic and the role of controls.
+
+Concept and authoring blueprint
+- Planning structure: question; risk/safety; equipment with quantities; independent/dependent/control variables; numbered method; measurement units/precision; repetitions; results table.
+- Explain why three or more trials and a mean/pattern check improve reliability, while repetition does not repair a systematically unfair method.
+- Practice coverage: label variables; choose controls; order a method; select measuring equipment and units; add missing repeatability detail; identify control group; improve an unsafe or unfair plan.
+- Test coverage: critique two plans, calculate/interpret repeated results, identify a confounding variable and write a short repeatable method for a new context.
+- Misconceptions to target: the controlled variable is the outcome; all variables must be identical; one accurate-looking result is enough; changing two factors saves time without affecting validity; repeatable means getting exactly the same number.
+- Feedback should separate validity (fair comparison), reliability (consistent pattern across repetitions) and precision (measurement resolution).
+Status: AUTHORING-READY.
+
+BATCH 2 CHECKPOINT
+- AC9S6H01, AC9S6H02, AC9S6I01 and AC9S6I02 are research-complete and AUTHORING-READY.
+- No SkillrHub content has been re-authored during the research phase.
+- Next batch: AC9S6I03, AC9S6I04, AC9S6I05 and AC9S6I06.
