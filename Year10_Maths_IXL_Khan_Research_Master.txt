@@ -1,15 +1,15 @@
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M10ST01
-LAST_COMPLETED_CODE: AC9M10SP03
-NEXT_CODE: AC9M10ST01
+CURRENT_CODE: AC9M10ST04
+LAST_COMPLETED_CODE: AC9M10ST03
+NEXT_CODE: AC9M10ST04
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
 YEAR: 10
 SUBJECT: Mathematics
 CURRICULUM: Australian Curriculum v9.0
-BATCH_STATUS: FIRST FOURTEEN CODES STRICTLY VERIFIED — AUTHORING-READY
+BATCH_STATUS: FIRST SEVENTEEN CODES STRICTLY VERIFIED — AUTHORING-READY
 RESEARCH_DATE_UTC: 2026-09-11
 
 YEAR 10 MATHEMATICS — IXL / KHAN / PUBLIC-SOURCE RESEARCH MASTER
@@ -1494,3 +1494,285 @@ BATCH CHECKPOINT — AC9M10SP01 TO AC9M10SP03
 - Each has curriculum intent/boundary, prerequisites, authenticated IXL evidence or explicit full-code gap, authenticated Khan evidence or explicit gap, trusted-source triangulation, 12 materially different authoring families, progression, misconception logic, display/worksheet requirements and exact 48/16 architecture.
 - LAST_COMPLETED_CODE: AC9M10SP03.
 - NEXT_CODE: AC9M10ST01.
+
+
+===============================================================================
+AC9M10ST01
+OFFICIAL DESCRIPTOR
+Analyse claims, inferences and conclusions of statistical reports in the media, including ethical considerations and identification of potential sources of bias.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students must evaluate an entire evidence chain: who produced a report, the question asked, target population, sampling/recruitment method, measurement and wording, chosen summary/display, inference, uncertainty and published claim. Required judgement goes beyond spotting a distorted graph. Students should decide whether the evidence supports the claim, identify likely direction of bias, distinguish association from causation, notice omitted context and consider consent, privacy, harm, conflicts of interest and responsible communication. Formal university-level inference is outside scope; precise evidence-based critique is central.
+
+PREREQUISITES
+- Population, sample, variable, parameter/statistic and random/representative sample.
+- Percentages, proportions, measures of centre/spread and common displays.
+- Difference between observation and experiment; association versus causation.
+- Source checking, contextual reading and qualified conclusions.
+
+IXL AUSTRALIA MAPPING — AUTHENTICATED, SINGLE-TAB REVIEW
+Direct component:
+- Identify representative, random and biased samples.
+Related components: histograms, box plots, scatter plots and two-way frequency tables support display interpretation but do not directly assess media ethics or whole-report critique.
+The Year 10 catalogue has no single full-code skill for misleading media displays, ethical considerations, causal overclaiming and report evaluation together. Full-code mapping: SOURCE-NOT-MAPPED; component evidence retained honestly.
+
+IXL “LEARN WITH AN EXAMPLE” EVIDENCE
+The representative/random/biased-sample worked panel was opened. In the museum example, every artist had the same number of works and the investigator selected the same number from each artist; the explanation judges the design representative because items were not given unequal selection likelihood. Transfer to authoring: name the target population, identify the selection mechanism, ask whose chance of selection differs, and predict how that difference could shift the reported result. Do not teach “equal numbers from every group” as automatically representative when real population group sizes differ.
+
+KHAN ACADEMY EVIDENCE — AUTHENTICATED TRANSCRIPT
+Examples of bias in surveys:
+https://www.khanacademy.org/math/ap-statistics/gathering-data-ap/xfb5d8e68%3Apotential-problems-sampling/v/examples-of-bias-in-surveys
+The transcript contrasts voluntary response, convenience sampling, nonresponse, undercoverage and response bias. A podcast website poll likely overestimates approval because enthusiastic listeners self-select; polling fan-email senders is convenient but structurally favourable. It also models ranking competing flaws by identifying the most consequential source, rather than listing every possible imperfection. This is strong sampling-bias evidence; SkillrHub must add misleading-display, media-inference and ethics coverage.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: scope anchor.
+- Australian Bureau of Statistics statistical-literacy guidance: population/sample quality, data sources, interpretation and responsible use.
+- Australian Press Council/media-literacy principles: accuracy, context, correction and avoiding misleading presentation.
+- Our World in Data methodology notes: trace claims to definitions, denominators, time periods and original sources.
+Use fabricated or openly licensed reports; do not expose identifiable personal data.
+
+12 MATERIALLY DIFFERENT QUESTION / APPLICATION FAMILIES
+1. Identify population, sample and sampling frame in a report.
+2. Diagnose convenience or voluntary-response bias and predict its direction.
+3. Diagnose undercoverage or nonresponse.
+4. Identify loaded/ambiguous wording and response bias.
+5. Judge whether sample size alone guarantees representativeness.
+6. Detect truncated/nonlinear axes, unequal intervals or pictograph area distortion.
+7. Detect cherry-picked dates, categories or denominators.
+8. Check whether mean/median/percentage choice hides important variation.
+9. Distinguish association from a causal conclusion and identify lurking variables.
+10. Compare headline strength with the evidence and rewrite a qualified claim.
+11. Evaluate source, sponsorship, conflicts and missing methodology.
+12. Apply ethical criteria: consent, privacy, vulnerable groups, fairness and potential harm.
+
+PROGRESSION
+A. Decode report components and factual claims.
+B. Examine sample and measurement quality.
+C. Audit displays and summaries.
+D. Compare inference with evidence.
+E. Analyse causation and uncertainty.
+F. Evaluate ethics/source incentives.
+G. Write a defensible, appropriately qualified conclusion.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- “Large sample” means unbiased.
+- Random assignment and random sampling are interchangeable.
+- A graph starting above zero is always invalid rather than potentially misleading depending on purpose.
+- Percent change and percentage-point change are the same.
+- A precise number must be accurate.
+- Correlation proves causation.
+- No response from some participants cannot affect results.
+- A reputable publisher removes the need to inspect method.
+- Removing outliers is automatically justified.
+- “No evidence of effect” proves “no effect”.
+- Statistical significance alone establishes practical importance.
+- Ethics concerns only anonymity, not consent, harm, fairness or communication.
+
+TOPIC PAGE / CLASSROOM VIEW / WORKSHEET REQUIREMENTS
+- Topic Page: report-audit checklist; worked sampling-bias, misleading-graph, causal-claim and ethical scenarios; headline rewrite; glossary.
+- Classroom View: reveal a media claim, then progressively reveal source, sample, graph scale and omitted context so students revise their judgement.
+- Homework/Worksheet: short audits, paired displays, bias-direction explanations, ethics cases and a complete report critique with evidence quotations/data references.
+
+48 PRACTICE + 16 TEST BLUEPRINT
+Practice: exactly 4 questions per family above (48). Mix MCQ, multi-select avoided unless explicitly supported, short explanation and claim revision. Feedback identifies both flaw and consequence.
+Test: 16 independent items — 4 sampling/measurement, 3 misleading representation, 4 inference/causation, 2 source/uncertainty and 3 ethics/full-report critiques. No practice stem or dataset reused.
+
+QA CONTROLS
+All percentages/axes recomputed; every critique has a specific evidentiary basis; plausible alternative explanations are not asserted as proven; ethics items avoid stereotyping; only one defensible MCQ answer; practice/test independence checked.
+STRICT QA DECISION: authenticated IXL worked evidence, authenticated Khan transcript, public-source triangulation and the full authoring architecture are sufficient. AC9M10ST01 is AUTHORING-READY.
+
+===============================================================================
+AC9M10ST02
+OFFICIAL DESCRIPTOR
+Compare data distributions for continuous numerical variables using appropriate data displays including boxplots; discuss the shapes of these distributions in terms of centre, spread, outliers and skewness.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students select, construct and interpret displays for continuous data and make comparative statements supported by centre, spread, overall shape and unusual values. Boxplots are required, while histograms, dot plots and cumulative-frequency representations supply complementary information. Comparison must be contextual: higher typical value, greater consistency, overlap, skew, modality and possible outliers. A boxplot does not reveal frequency detail or modality; a histogram does not normally reveal exact observations.
+
+PREREQUISITES
+- Continuous versus discrete numerical variables.
+- Ordered data, median, quartiles, range and interquartile range.
+- Frequency tables, intervals and axis scales.
+- Mean/median sensitivity and contextual units.
+
+IXL AUSTRALIA MAPPING — AUTHENTICATED, SINGLE-TAB REVIEW
+Strong components:
+- Calculate quartiles and interquartile range.
+- Interpret histograms; Create histograms; Create frequency tables.
+- Box plots.
+Supporting: mean, median, mode and range; mean absolute deviation.
+The catalogue supports construction and reading, but comparison language involving centre, spread, skew, modality and outliers across several display types must be deliberately integrated by SkillrHub.
+
+IXL “LEARN WITH AN EXAMPLE” EVIDENCE
+- Quartiles/IQR panel: sort the data, locate the overall median, split into lower and upper halves, then take each half’s median. In the seven-value example, Q1=17, median=38 and Q3=66.
+- Box-plot panel: read the five-number summary from the whisker endpoints, box edges and median line; the worked question isolates the median.
+- Histogram panel: read each bar as the frequency in its interval and add all bar frequencies to recover sample size (worked total 80). This reinforces that bar height represents count, not the raw measurement.
+Authoring must state its quartile convention consistently, especially for odd sample sizes.
+
+KHAN ACADEMY EVIDENCE — AUTHENTICATED TRANSCRIPT
+Comparing dot plots, histograms, and box plots:
+https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-7th-compare-data-displays/v/comparing-dot-plots-histograms-and-box-plots
+The transcript explicitly compares what each display preserves. A dot plot can recover exact values and hence a median; a histogram bins values so exact observations may be unavailable; a boxplot displays the median directly. Conversely, a histogram can count observations above a class boundary while a boxplot shows only proportions by quartile. Teaching transfer: choose a display according to the question, and never infer information the display discards.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: required comparison dimensions.
+- Australian Bureau of Statistics: appropriate displays, class intervals and contextual interpretation.
+- CODAP: free dynamic linking between data tables and multiple displays for testing how bin width or an outlier changes appearance.
+- GeoGebra statistics tools: independently verify five-number summaries and boxplots while retaining manual reasoning.
+
+12 MATERIALLY DIFFERENT QUESTION / APPLICATION FAMILIES
+1. Classify a variable as continuous/discrete and choose a suitable display.
+2. Calculate a five-number summary from odd-sized data.
+3. Calculate a five-number summary from even-sized data under the stated convention.
+4. Calculate and interpret IQR/range.
+5. Construct/read a boxplot.
+6. Compare medians and IQRs of two boxplots.
+7. Describe symmetry or skew from boxplot segment lengths.
+8. Read/construct a histogram with correct continuous intervals.
+9. Analyse how bin width changes visible shape.
+10. Identify modes, gaps and skew from a histogram/dot plot.
+11. Identify and discuss possible outliers and their influence.
+12. Write a contextual comparison using centre, spread, overlap and shape, including a limitation of the display.
+
+PROGRESSION
+A. Identify variable type and display purpose.
+B. Calculate quartiles and IQR.
+C. Construct/read one boxplot or histogram.
+D. Describe one distribution.
+E. Compare aligned displays.
+F. Reconcile different displays of the same data.
+G. Write a complete evidence-based contextual comparison.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Box width means sample size.
+- Every whisker contains the same number of observations.
+- Longer box/whisker means more observations rather than greater spread.
+- Median line is the mean.
+- IQR equals full range.
+- Adjacent histogram classes overlap or exclude boundary values.
+- Gaps between bars are required for continuous histograms.
+- Highest bar gives the exact mode.
+- Skew direction is named after where most data lie rather than the tail.
+- Similar medians imply similar distributions.
+- A boxplot can reveal two modes.
+- An outlier should always be deleted.
+
+TOPIC PAGE / CLASSROOM VIEW / WORKSHEET REQUIREMENTS
+- Topic Page: display-selection guide, quartile convention, worked boxplot construction, histogram interpretation, comparative-sentence scaffold and limitations.
+- Classroom View: linked dot plot/histogram/boxplot of one dataset; adjust bin width and add an outlier; students state what changed and what did not.
+- Homework/Worksheet: hand calculation, construction grids, paired comparisons, display-choice reasoning and written contextual conclusions.
+
+48 PRACTICE + 16 TEST BLUEPRINT
+Practice: 4 per family (48 exactly), balanced across calculation, visual reading, construction, comparison and explanation.
+Test: 16 independent stems — 3 five-number/IQR, 3 boxplots, 3 histograms/display choice, 3 shape/outlier items and 4 full comparisons. New datasets and contexts only.
+
+QA CONTROLS
+Quartiles independently recalculated; scales and intervals consistent; every displayed summary matches raw data; comparison claims cite numerical/visual evidence; no unsupported modality claim from boxplots; accessible text accompanies graphics.
+STRICT QA DECISION: curriculum depth, authenticated IXL examples, authenticated Khan transcript and complete assessment coverage are sufficient. AC9M10ST02 is AUTHORING-READY.
+
+===============================================================================
+AC9M10ST03
+OFFICIAL DESCRIPTOR
+Construct scatterplots and comment on the association between the 2 numerical variables in terms of strength, direction and linearity.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students form ordered pairs from bivariate numerical data, choose meaningful axes/scales, construct a scatterplot and describe association using all three required dimensions: direction (positive/negative/none), strength (weak/moderate/strong) and form/linearity (linear/nonlinear). They should notice clusters and outliers, make cautious interpolation, and distinguish association from cause and effect. A line of best fit may deepen interpretation, but formal correlation coefficients or regression inference are not required by the descriptor.
+
+PREREQUISITES
+- Cartesian coordinates, axes, scales and ordered pairs.
+- Independent/explanatory and response variables used cautiously.
+- Visual trend recognition, rate of change and contextual units.
+- Sampling/bias and association-versus-causation language.
+
+IXL AUSTRALIA MAPPING — AUTHENTICATED, SINGLE-TAB REVIEW
+Strong direct sequence:
+- Create scatter plots.
+- Identify trends with scatter plots.
+- Describe scatter plots.
+- Outliers in scatter plots.
+- Make predictions with scatter plots.
+- Scatter plots: line of best fit.
+This sequence covers plotting, direction, clusters/outliers and modelling. SkillrHub must ensure the exact Australian language of strength, direction and linearity appears together and add explicit causation cautions.
+
+IXL “LEARN WITH AN EXAMPLE” EVIDENCE
+- Create scatter plots: treat each table column as one paired observation, place the first variable on x and second on y, write ordered pairs, then plot each pair once.
+- Identify trends: positive when y tends to rise as x rises, negative when it tends to fall, and no trend when no clear pattern appears.
+- Outliers: locate a point separated from the main pattern; the panel warns one outlier can substantially affect correlation or a regression line.
+- Describe scatter plots: distinguish clusters (separate close groups), outliers and positive/negative/no association.
+- Line of best fit: take two readable points on the trend line, calculate gradient by change in y/change in x, find the intercept and write y=mx+b; the worked line through (0,7) and (9,3) gives gradient -4/9 and intercept 7.
+These methods support accurate construction and interpretation without equating a fitted line with proof of causation.
+
+KHAN ACADEMY EVIDENCE — AUTHENTICATED TRANSCRIPT
+Constructing a scatter plot:
+https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-data/cc-8th-scatter-plots/v/constructing-scatter-plot
+The transcript pairs exam period with average score, places the proposed explanatory variable horizontally and response vertically, plots each row, corrects a misplaced point and concludes there is no obvious trend. Importantly, it raises a possible confounder—different subjects may occur in different periods—so the display cannot establish that time causes scores.
+Authenticated search also exposed Khan exercises/articles for positive/negative/nonlinear/no association, appropriate axis choice, clusters, outliers and interpreting best-fit slope/intercept.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: terminology and scope anchor.
+- Australian Bureau of Statistics: bivariate data, careful claims and contextual interpretation.
+- CODAP: linked tables/scatterplots for checking paired-data integrity and exploring outliers.
+- Desmos: construction and visual fit checks; hand reasoning remains assessable.
+
+12 MATERIALLY DIFFERENT QUESTION / APPLICATION FAMILIES
+1. Identify the two numerical variables and units.
+2. Convert a table into ordered pairs without breaking pairing.
+3. Select appropriate axes, labels and scales.
+4. Construct a complete scatterplot.
+5. Classify direction: positive, negative or none.
+6. Judge weak, moderate or strong association from point concentration.
+7. Distinguish linear from nonlinear association.
+8. Identify clusters and propose a contextual subgroup explanation.
+9. Identify an outlier and discuss possible error or genuine case.
+10. Compare association before/after an outlier.
+11. Draw/use a reasonable trend line for interpolation and flag extrapolation.
+12. Critique a causal claim and identify plausible confounding/reverse-causation explanations.
+
+PROGRESSION
+A. Preserve paired observations.
+B. Construct and label the plot.
+C. Describe direction.
+D. Add strength and linearity.
+E. Analyse clusters/outliers.
+F. Estimate using a trend line.
+G. Make and critique contextual claims with appropriate caution.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Swapping x/y inconsistently between rows.
+- Sorting variables separately and destroying pairs.
+- Treating a time-series line graph as a scatterplot.
+- Omitting labels/units or choosing a scale that conceals variation.
+- Calling any upward pair of points a strong positive association.
+- Confusing steepness with strength.
+- Calling a curved pattern “no association”.
+- Treating a cluster as an outlier.
+- Drawing a trend line through every point or forced through the origin.
+- Extrapolating far beyond observed data.
+- Concluding causation from association.
+- Ignoring a lurking variable or data-collection bias.
+
+TOPIC PAGE / CLASSROOM VIEW / WORKSHEET REQUIREMENTS
+- Topic Page: paired-data construction, axis/scale checklist, strength-direction-linearity sentence frame, clusters/outliers, trend-line use and causation warning.
+- Classroom View: reveal paired points, compare weak/strong and linear/nonlinear examples, then add/remove an outlier and debate the claim.
+- Homework/Worksheet: plotting grids, verbal descriptions, match-and-justify items, outlier analysis, interpolation and causal-claim critique.
+
+48 PRACTICE + 16 TEST BLUEPRINT
+Practice: exactly 4 items per family (48), with numerical and visual construction, interpretation and critique.
+Test: 16 independent items — 3 construction/axes, 4 strength-direction-linearity, 3 cluster/outlier, 3 trend/prediction and 3 association-versus-causation applications. No practice data or stems reused.
+
+QA CONTROLS
+All plotted coordinates checked against source rows; axes/scales preserve all data; answer keys use all three descriptor dimensions where requested; strength judgements use clearly discriminable plots; any prediction states observed range; causal distractors are unambiguously unsupported.
+STRICT QA DECISION: authenticated IXL progression/worked panels, authenticated Khan transcript, source triangulation and exact bank blueprint are sufficient. AC9M10ST03 is AUTHORING-READY.
+
+===============================================================================
+BATCH CHECKPOINT — AC9M10ST01 TO AC9M10ST03
+- Three codes completed and marked AUTHORING-READY.
+- Authenticated IXL and Khan evidence, provider boundaries, trusted sources, 12 materially different families per code, progression, misconceptions, display/worksheet requirements and exact 48/16 plans are recorded.
+- LAST_COMPLETED_CODE: AC9M10ST03.
+- NEXT_CODE: AC9M10ST04.
