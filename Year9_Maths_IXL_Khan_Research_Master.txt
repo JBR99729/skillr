@@ -218,10 +218,18 @@ Progression: read context/data → define quantities and domain → compare diff
 Misconceptions: choosing from keywords alone; assuming every change is linear; using distance rates with the wrong relative-motion operation; confusing revenue with profit; accepting negative time or impossible values; reporting a graph coordinate without meaning/units; overfitting limited data; treating extrapolation as certain; omitting assumptions or evaluation.
 
 KHAN / TRUSTED CROSS-CHECK
-Khan quadratic word-problem/factoring material supports translating a situation into an equation and checking roots; its linear modelling materials support rate, intercept and slope interpretations. No single Khan lesson covers the entire Australian Curriculum modelling cycle, so this is a composite mapping.
-https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aquadratic-functions-equations/x2f8bb11595b61c86%3Aquadratics-solve-factoring/v/example-4-solving-a-quadratic-equation-by-factoring
-Desmos supports regression, tables, intersections and domain restrictions: https://www.desmos.com/calculator
-NRICH modelling tasks support assumption-making, validation and communication: https://nrich.maths.org/
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+One authenticated Khan tab was used sequentially. Algebra 1 Unit 14, Lesson 4 “Vertex form” was opened, including the full transcript for “Quadratic word problems (vertex form)” and the live four-question exercise.
+Observed worked example: h(x)=−5(x−4)²+180 models a launched object. Khan identifies the negative leading factor as a downward-opening parabola; evaluates h(0)=100 m for platform height; reads the vertex as maximum 180 m at 4 s; solves h(x)=0 to obtain x=10 or −2, then rejects −2 because time after launch cannot be negative. This directly supports interpretation, admissible-domain decisions and checking a model against context.
+Observed live exercise: a stone’s height is h(x)=−5(x−1)²+45 and students identify its maximum from vertex form. Progression therefore moves from extracting contextual meaning to using vertex coordinates, solving boundary events and rejecting non-contextual roots.
+Coverage limit: Khan supplies quadratic contextual interpretation but does not by itself cover the Australian formulate–choose linear/quadratic–evaluate–report cycle. SkillrHub must author that full cycle and include linear financial comparison.
+Verified Khan URLs:
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aquadratic-functions-equations/x2f8bb11595b61c86%3Avertex-form/v/quadratic-word-problems-in-vertex-form
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aquadratic-functions-equations/x2f8bb11595b61c86%3Avertex-form/e/quadratic-word-problems-vertex-form
+ADDITIONAL PUBLIC DEPTH: Maths Is Fun’s interactive quadratic explorer varies a, b and c and asks learners to connect parameter changes with curve shape and roots; use this as exploratory evidence, not as a modelling-cycle substitute: https://www.mathsisfun.com/algebra/quadratic-equation-graph.html
+Desmos supports tables, regression, intersections, domain restrictions and residual comparison: https://www.desmos.com/calculator
+NRICH supplies non-routine modelling contexts requiring assumptions and validation: https://nrich.maths.org/
+SOURCE SYNTHESIS: IXL contributes linear rate structure; authenticated Khan contributes quadratic context interpretation and root admissibility; Maths Is Fun/Desmos contribute parameter exploration and visual validation; QCAA/Australian Curriculum remains authoritative for formulation, evaluation and reporting.
 
 AUTHORING TRANSFER
 Topic Page: explicit modelling-cycle diagram; linear-versus-quadratic evidence table; fixed/variable cost and motion examples; domain/units; model evaluation checklist; sample short report.
@@ -253,10 +261,14 @@ Progression: establish parent graph → vary one parameter → record table/feat
 Misconceptions: interpreting f(x−h) as left; changing several parameters at once; assuming vertical and horizontal scale factors act identically; confusing y=ax+b slope with vertical translation; overlooking invariants; generalising from one example; relying on window artefacts; treating a graph as proof without algebraic connection.
 
 KHAN / TRUSTED CROSS-CHECK
-Khan’s “Shifting functions introduction” and “Intro to parabola transformations” connect changes in formulas with translations and scaling.
-https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89%3Atransformations/x2ec2f6f830c9fb89%3Ashift/v/shifting-functions-intro
-https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Aquadratic-functions-equations/x2f8bb11595b61c86%3Atransform-quadratic-functions/v/shifting-and-scaling-parabolas
-Desmos and GeoGebra sliders support controlled parameter experiments: https://www.desmos.com/calculator and https://www.geogebra.org/graphing
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+One authenticated Khan tab was used sequentially. Algebra 2 Unit 9, Lesson 1 “Shifting functions” was opened. The authenticated lesson sequence visibly contains “Shifting functions introduction,” “Shifting functions examples,” “Graphing shifted functions,” and the four-question “Shift functions” exercise.
+Observed live exercise: congruent absolute-value graphs have vertices f:(3,2) and g:(−1,−5), and the learner must write g in terms of f. Comparing vertices gives a horizontal shift 4 units left and vertical shift 7 units down, so g(x)=f(x+4)−7. This is materially richer than a single vertical translation because it tests reverse graph-to-rule reasoning and the counterintuitive inside-sign convention.
+Verified Khan URL: https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89%3Atransformations/x2ec2f6f830c9fb89%3Ashift/e/shift-functions
+ADDITIONAL PUBLIC DEPTH: Maths Is Fun’s interactive quadratic explorer explicitly varies a, b and c, prompts attention to positive/negative a, the a=0 boundary, tangency and roots, and therefore supports predict–vary–observe–generalise classroom design: https://www.mathsisfun.com/algebra/quadratic-equation-graph.html
+Desmos sliders support controlled one-parameter experiments and overlaid families: https://www.desmos.com/calculator
+GeoGebra provides a second dynamic graph/algebra representation: https://www.geogebra.org/graphing
+SOURCE SYNTHESIS: IXL verifies translation notation; authenticated Khan adds two-dimensional shifts and graph-to-symbol reversal; Maths Is Fun/Desmos/GeoGebra add experimental parameter variation. The Australian descriptor’s conjecture-testing and generalisation must remain explicit in SkillrHub.
 
 AUTHORING TRANSFER
 Topic Page: parent-family/parameter tables; slider protocol; linear y=mx+b and quadratic y=a(x−h)²+k investigations; invariant-feature prompts; conjecture-to-generalisation examples.
@@ -287,10 +299,18 @@ Progression: identify base and perpendicular length → area of base → volume 
 Misconceptions: using perimeter as base area; confusing radius/diameter; applying V=lwh to non-rectangular prisms without base area; omitting one face; double-counting joined faces; using slant rather than perpendicular prism length; square units for volume; converting cm²/cm³ with a linear factor; rounding π too early.
 
 KHAN / TRUSTED CROSS-CHECK
-Khan’s volume and surface area unit supports nets, prisms, cylinders and formula-based problem solving.
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+One authenticated Khan tab was used sequentially. Geometry Unit 8 “Volume and surface area,” the “Cylinder volume & surface area” worked video/transcript, and the live “Volume of cylinders” exercise were opened.
+Observed worked example: for r=4 cm and h=8 cm, Khan derives base area 16π cm², then V=16π×8=128π cm³. For surface area it unwraps the curved face to a rectangle of length circumference 8π cm and height 8 cm, giving 64π cm², then adds two 16π bases to obtain 96π cm². The explanation explicitly distinguishes square from cubic units and exact π from decimal approximation.
+Observed live exercise: a cylinder of radius 4 units and height 10 units asks for volume, accepting either exact π or π≈3.14. This exposes exact-versus-approximate answer handling.
+The unit also visibly sequences area-times-length intuition, triangular-prism volume, metric conversion, nets, triangular-prism surface area, cylinder volume and contextual word problems. Cylinder surface-area practice is less direct than IXL, so the two sources are complementary.
+Verified Khan URLs:
 https://www.khanacademy.org/math/geometry-home/geometry-volume-surface-area
-GeoGebra 3D supports rotating solids and linking nets/cross-sections: https://www.geogebra.org/3d
-NRICH geometry/measurement problems support reasoning from structure: https://nrich.maths.org/geometry
+https://www.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-volume-cones/v/cylinder-volume-and-surface-area
+https://www.khanacademy.org/math/geometry-home/geometry-volume-surface-area/geometry-volume-cones/e/volumes-of-cones--cylinders--and-spheres
+ADDITIONAL PUBLIC DEPTH: Maths Is Fun independently derives the cylinder’s curved rectangle as 2πr by h, total surface area 2πr(r+h), and volume as base area × perpendicular height; it includes a water-tank capacity conversion: https://www.mathsisfun.com/geometry/cylinder.html
+GeoGebra 3D supports rotation, cross-section and net visualisation: https://www.geogebra.org/3d
+SOURCE SYNTHESIS: IXL provides right-prism and triangular-prism worked items; authenticated Khan supplies cylinder derivation, unit meaning and exact/decimal options; Maths Is Fun confirms nets, perpendicular height and capacity contexts.
 
 AUTHORING TRANSFER
 Topic Page: base-area principle; prism/cylinder formula derivations; net-based surface-area method; unit conversion warning; exact/decimal π examples; composite/joined-face checklist.
@@ -322,11 +342,17 @@ Progression: powers-of-ten place value → normalise → convert both directions
 Misconceptions: coefficient outside [1,10); exponent sign reversed; treating a negative exponent as a negative number; multiplying exponents; adding coefficients with unlike powers; forgetting to renormalise; converting area/volume with a linear scale factor; ignoring units; calculator E notation misread; accepting an implausible order of magnitude.
 
 KHAN / TRUSTED CROSS-CHECK
-Khan’s scientific-notation introduction and worked multiplication examples reinforce normalisation, powers of ten and exponent-law operations.
-https://www.khanacademy.org/math/math-nsdc-eng/x0a43a548b892fe12%3Aexponents/x0a43a548b892fe12%3Ascientific-notation/v/scientific-notation-old
-https://www.khanacademy.org/math/8th-engage-ny/engage-8th-module-1/8th-module-1-topic-b/v/scientific-notation-example-2
-Desmos supports entry/checking with powers of ten: https://www.desmos.com/calculator
-NRICH number investigations support magnitude estimation: https://nrich.maths.org/numbers
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+One authenticated Khan tab was used sequentially. Grade 8 Unit 1, Lesson 12 “Scientific notation word problems,” the full red-blood-cell worked transcript, and the live four-question exercise were opened.
+Observed worked example: 5 L of blood is 40% red cells and one cell occupies 90×10^−15 L. Khan forms (5×0.40)/(90×10^−15), first normalises the denominator to 9×10^−14, cancels litres, divides, renormalises 2/9×10^14 as 2.22×10^13, and rounds to two decimals. It explicitly uses unit cancellation and explains why 90×10^−15 is not normalised scientific notation.
+Observed live exercise: a 4×10^6 KB drive stores pages of 2 KB each; students determine the maximum page count in scientific notation and round to one decimal place. This adds capacity, quotient interpretation and requested precision.
+The lesson sequence also visibly includes national-debt and speed-of-light contexts, expanding magnitude/time-distance transfer beyond pure routines.
+Verified Khan URLs:
+https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation-word-problems/v/calculating-red-blood-cells-in-the-body-using-scientific-notation
+https://www.khanacademy.org/math/cc-eighth-grade-math/cc-8th-numbers-operations/cc-8th-scientific-notation-word-problems/e/computing-in-scientific-notation
+ADDITIONAL PUBLIC DEPTH: Maths Is Fun defines normal form, positive/negative exponent direction and calculator E notation; it applies notation to Earth–Moon distance, microchip dimensions/volume, solar mass, metric prefixes and microseconds: https://www.mathsisfun.com/numbers/scientific-notation.html
+Desmos supports entry and order-of-magnitude checking: https://www.desmos.com/calculator
+SOURCE SYNTHESIS: IXL verifies conversions and operations; authenticated Khan supplies multi-step contextual formulation, unit cancellation and rounding; Maths Is Fun broadens physical, engineering, metric and time-scale examples.
 
 AUTHORING TRANSFER
 Topic Page: normalisation rule and direction model; order-of-magnitude comparison; operation algorithms; metric/time conversion table; calculator E-notation; estimation and unit checks.
@@ -358,10 +384,17 @@ Progression: diagram literacy/angle facts → scale factor and corresponding sid
 Misconceptions: assuming triangles are similar from appearance; mismatching corresponding sides; applying scale factor to area without squaring; using Pythagoras on a non-right triangle; treating hypotenuse as any long side; choosing a trig ratio before labelling opposite/adjacent; calculator in radians; inverse-trig key errors; premature rounding; failing to combine methods or check plausibility.
 
 KHAN / TRUSTED CROSS-CHECK
-Khan’s geometry volume is separate; its right-triangle geometry pathway supports Pythagoras, similarity and trigonometric ratios as connected tools. IXL supplies direct Year 9 similarity and trig examples.
+EVIDENCE LEVEL: AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11.
+One authenticated Khan tab was used sequentially. Geometry Unit 13 “Trigonometry” and the live four-question “Right triangle trigonometry word problems” exercise were opened.
+The visible Khan pathway progresses through special right triangles, opposite/adjacent/hypotenuse, trig ratios, solving for a side, inverse trig for angles, modelling with right triangles, angles of elevation/depression, and similarity as the basis of invariant trig ratios. This confirms the conceptual dependency between similarity and SOHCAHTOA.
+Observed live exercise: on a 20 m by 10 m flag, a diagonal rises 7 m across a 20 m horizontal run; students must find its angle of elevation to the nearest tenth. The diagram makes the unknown angle opposite 7 and adjacent 20, requiring tan θ=7/20 and θ=tan⁻¹(7/20), plus degree mode and final-only rounding.
+Verified Khan URLs:
 https://www.khanacademy.org/math/geometry-home/right-triangles-topic
-GeoGebra supports dynamic similar triangles, scale and right-triangle checks: https://www.geogebra.org/geometry
-NRICH geometry problems support non-routine method selection and justification: https://nrich.maths.org/geometry
+https://www.khanacademy.org/math/geometry-home/right-triangles-topic/modeling-with-right-triangles-geo/e/applying-right-triangles
+ADDITIONAL PUBLIC DEPTH: Maths Is Fun independently labels O/A/H relative to θ, defines sine/cosine/tangent as side ratios, and works an inaccessible-height example while stressing that similar right triangles preserve the ratio: https://www.mathsisfun.com/algebra/trigonometry.html
+GeoGebra supports dynamic similarity, scale and right-triangle checks: https://www.geogebra.org/geometry
+NRICH geometry tasks support non-routine method selection: https://nrich.maths.org/geometry
+SOURCE SYNTHESIS: IXL supplies direct similarity and side-length trig methods; authenticated Khan adds the full concept progression, inverse-trig angle modelling and degree/rounding demands; Maths Is Fun/GeoGebra reinforce ratio invariance and visual verification. Angle facts, scale, similarity, Pythagoras and trig must be integrated rather than taught as isolated mini-topics.
 
 AUTHORING TRANSFER
 Topic Page: decision guide keyed to known/unknown information; angle/scale/similarity/Pythagoras/SOHCAHTOA reference; diagram annotation routine; multi-method worked problems; exact-versus-rounded and calculator-mode checks.
@@ -375,10 +408,20 @@ P01–P08 angle/diagram facts; P09–P16 scale/similarity; P17–P24 Pythagoras;
 T01–T04 scale/similarity; T05–T08 Pythagoras/trig; T09–T12 independent integrated contexts; T13–T16 justification, precision and misconception diagnosis.
 
 ==============================================================================
+BATCH 2 RESTARTED VERIFICATION AUDIT — 2026-09-11
+- The earlier unsupported Khan verification statement has been superseded by this audit.
+- AC9M9A05, AC9M9A06, AC9M9M01, AC9M9M02 and AC9M9M03 were re-audited in one authenticated Khan Academy tab, sequentially.
+- Exact authenticated observations now include lesson/unit placement, visible progression, worked transcripts or live exercise prompts, mathematical method, representation, interpretation and traps.
+- IXL Learn-with-an-example evidence remains the previously observed interactive evidence for the same five codes and is explicitly separated from Khan evidence.
+- Additional depth was added from Maths Is Fun interactive/worked resources plus Desmos, GeoGebra and NRICH where appropriate; Australian Curriculum v9/QCAA remains the scope authority.
+- Evidence labels distinguish authenticated interaction from public corroboration and source gaps.
+- All five codes are AUTHORING-READY only after this restarted audit.
+
+==============================================================================
 BATCH 2 INTERACTIVE QA CHECK — 2026-09-11
 - Five codes completed: AC9M9A05, AC9M9A06 and AC9M9M01–AC9M9M03.
 - One authenticated IXL Australia tab was used sequentially; Learn with an example was actually opened for every code, with complementary examples for each multi-skill descriptor.
-- One authenticated Khan Academy tab was used sequentially; Khan mappings were cross-checked for modelling, transformations, volume/surface area, scientific notation and right-triangle geometry.
+- SUPERSEDED BY THE RESTARTED VERIFICATION AUDIT ABOVE; the earlier wording was insufficiently evidenced at the time of its first commit.
 - Australian Curriculum v9/QCAA set exact scope; Desmos, GeoGebra and NRICH provide trusted public corroboration and richer investigations.
 - IXL/Khan gaps are explicitly marked as composite or SOURCE-NOT-MAPPED, and no future question will copy a source item.
 - Every code includes sufficient methods, progression, misconceptions and original-bank planning for Topic Page, HTML Classroom View, Homework, exactly 48 Practice and a separate exactly 16 Test bank.
