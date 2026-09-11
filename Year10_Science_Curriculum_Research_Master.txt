@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S10U05
-LAST_COMPLETED_CODE: AC9S10U04
-NEXT_CODE: AC9S10U06
+CURRENT_CODE: AC9S10H02
+LAST_COMPLETED_CODE: AC9S10H01
+NEXT_CODE: AC9S10H03
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 COMPLETED (LATEST: AC9S10U01–AC9S10U04)
+BATCH: 2 COMPLETED (LATEST: AC9S10U05–AC9S10H01)
 
 CURRICULUM CODE INVENTORY
 AC9S10U01, AC9S10U02, AC9S10U03, AC9S10U04, AC9S10U05, AC9S10U06, AC9S10U07
@@ -262,3 +262,258 @@ AC9S10U03: AUTHORING-READY
 AC9S10U04: AUTHORING-READY
 
 Research completed with authenticated, sequential single-tab IXL and Khan checks plus Australian Curriculum and multiple reputable public sources. All four blueprints reserve exactly 48 Practice Questions and exactly 16 separate Test Questions for later authoring.
+
+
+======================================================================
+AC9S10U05 — NEWTON’S LAWS, FORCE, MASS AND ACCELERATION
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Investigate Newton’s laws of motion and quantitatively analyse the relationship between force, mass and acceleration of objects.
+
+CURRICULUM BOUNDARY
+Students must connect all three laws to evidence from motion investigations and use vector net force in quantitative analysis. Newton’s first law concerns zero resultant force and constant velocity, not merely stationary objects. For constant mass, Newton’s second law is ΣF = ma; acceleration has the direction of net force and depends directly on net force and inversely on mass. Newton’s third-law forces are equal and opposite, act simultaneously on different objects and therefore do not cancel on one object’s free-body diagram. Authoring should include force diagrams, units, signs/directions, friction, normal force, weight and experimental graphs, while avoiding advanced momentum calculus.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: the descriptor combines investigation of the three laws with quantitative analysis of force, mass and acceleration.
+- IXL Australia Year 10 authenticated mapping: Y.1 Distance and displacement in one dimension; Y.2 Solve problems using kinematic equations; Z.1 Newton’s laws of motion; Z.2 Newton’s first law; Z.3 Newton’s second law; and AA.1 Conservation of mechanical energy as a related extension.
+- IXL live practice, Z.3: a tug-of-war scenario gives acceleration 2.7 m s⁻² and mass 35 kg and asks for net-force magnitude in newtons, rounded to the nearest tenth. This confirms direct F = ma calculation, unit interpretation and identifying net—not merely applied—force.
+- Khan Academy checked sequentially in the authenticated Khan tab: Newton’s second law of motion states F = ma, with acceleration increasing with net force and decreasing with mass. The broader forces course supports free-body diagrams and all three laws.
+- OpenStax Physics, dynamics chapters: inertia, vector force addition, free-body diagrams and ΣF = ma provide the standard quantitative model; third-law pairs act on different systems. https://openstax.org/details/books/physics
+- The Physics Classroom, Newton’s Laws tutorials: worked force diagrams and misconception-focused explanations provide accessible public scaffolding. https://www.physicsclassroom.com/class/newtlaws
+- ABC Education: relevant motion demonstrations may supplement contexts, but no stable resource covered the complete quantitative descriptor; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Motion changes only when the vector sum of external forces is non-zero.
+2. Newton’s first law: an object remains at rest or at constant velocity unless acted on by a net external force; inertia increases with mass.
+3. Net force is the vector sum of forces on the chosen object. Balanced forces mean ΣF = 0, so acceleration is zero, not necessarily velocity.
+4. For constant mass, Newton’s second law is ΣF = ma. SI units are N, kg and m s⁻²; 1 N = 1 kg m s⁻².
+5. At fixed mass, doubling net force doubles acceleration. At fixed net force, doubling mass halves acceleration.
+6. Choose a positive direction, assign signs to force components, calculate net force, then solve and report direction.
+7. Weight is gravitational force W = mg; mass is amount of matter/inertia and is not measured in newtons.
+8. Normal force is a contact force perpendicular to a surface and is not always equal to weight.
+9. Friction/drag oppose relative motion or attempted motion; they affect net force.
+10. Newton’s third law: if A exerts a force on B, B simultaneously exerts an equal-magnitude, opposite-direction force of the same interaction type on A.
+11. Third-law pairs do not cancel because they act on different objects. Forces that balance on one object are not third-law pairs.
+12. In a force–acceleration investigation at constant mass, graphing a against F_net gives a straight line through the origin with gradient 1/m ideally.
+13. At constant net force, acceleration varies inversely with mass; plotting a against 1/m should be linear.
+14. Experimental limitations include friction variation, track tilt, timing/sensor resolution and treating pulling force as net force without subtracting resistance.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Identify laws from unfamiliar situations rather than keyword matching.
+- Calculate F, m or a, including opposing forces and signed directions.
+- Select or construct free-body diagrams before calculating net force.
+- Interpret force–acceleration or acceleration–mass data and evaluate whether results support a law.
+- Common traps: a moving object must have a forward force; balanced forces mean the object stops; action–reaction forces act on one object; normal force always equals weight; use applied force instead of net force; confuse speed with acceleration; ignore unit conversion or direction.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–6 force vocabulary, vectors, units and system choice
+- 7–13 Newton’s first law and inertia
+- 14–22 free-body diagrams, balanced/unbalanced forces and net force
+- 23–34 F = ma calculations with one- and two-direction forces
+- 35–40 Newton’s third-law interaction pairs
+- 41–46 experimental graphs, proportional reasoning and sources of error
+- 47–48 integrated unfamiliar applications
+Test questions — exactly 16, independently worded:
+- 1–3 first-law and net-force reasoning
+- 4–8 multi-step second-law calculations
+- 9–11 free-body diagram and direction analysis
+- 12–13 third-law pairs
+- 14–16 investigation/data evaluation
+Feedback must state the selected system, show signed net force, use correct units and identify why a distractor violates a law.
+
+======================================================================
+AC9S10U06 — ATOMIC STRUCTURE AND PERIODIC TABLE ORGANISATION
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Explain how the structure and properties of atoms relate to the organisation of the elements in the periodic table.
+
+CURRICULUM BOUNDARY
+Students should explain rather than merely locate. Atomic number/proton count defines an element and orders the table. Electron-shell/valence structure produces repeating chemical properties, so periods and groups reflect atomic structure. The scope includes protons, neutrons, electrons, isotopes, ions, electron arrangements for main-group elements and broad periodic patterns in metallic character/reactivity. Detailed quantum numbers, orbital hybridisation and exceptions among heavy transition elements are beyond the core Year 10 demand.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: requires a causal connection between atomic structure/properties and periodic organisation.
+- IXL Australia Year 10 authenticated mapping: N Introduction to the periodic table; O.1 Count subatomic particles in atoms and ions; O.2 Nuclear notation for atoms and ions; Q.1 Identify electron configuration of an atom or ion; R.1 Periodic trend—ionisation energy; S.1–S.2 chemical bonding as a property consequence.
+- IXL live practice, Introduction to the periodic table: learners use the displayed table to match calcium, copper, carbon, chlorine and cobalt to Ca, Cu, C, Cl and Co. This establishes symbol/table fluency but does not by itself satisfy the explanatory code; authoring must extend to proton number, shells, groups and property prediction.
+- Khan Academy checked sequentially: Introduction to the atom explains protons, neutrons and electrons and that atomic number—the proton count—defines the element; linked atomic-structure/periodic-table lessons support shell and group reasoning.
+- Royal Society of Chemistry atomic-structure resources connect nucleus/electrons with periodic organisation and chemical behaviour. https://edu.rsc.org/resources/atomic-structure-video-clips-and-resources/1119.article
+- IUPAC Periodic Table: authoritative element names, symbols, atomic numbers and table organisation. https://iupac.org/what-we-do/periodic-table-of-elements/
+- OpenStax Chemistry 2e, electronic structure and periodic properties: recurring valence configurations explain group similarities and broad trends. https://openstax.org/details/books/chemistry-2e
+- ABC Education: no single stable resource was used as a complete mapping; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Protons are positive and neutrons neutral in the nucleus; electrons are negative and occupy energy levels around the nucleus.
+2. Atomic number Z equals proton number and uniquely identifies an element. The modern periodic table is ordered by increasing Z.
+3. Mass number A = protons + neutrons; neutrons = A − Z.
+4. Neutral atoms have electrons = protons. Ions form by electron loss/gain; nuclear identity normally remains unchanged.
+5. Isotopes of one element have the same proton number but different neutron numbers; their chemistry is similar because electron structure is similar.
+6. Periods are rows. For the first main-group periods, the period number indicates the highest occupied electron shell.
+7. Groups are columns. Main-group elements in a group have similar outer-electron patterns and therefore similar bonding and reaction behaviour.
+8. Group 1 atoms tend to lose one valence electron and form +1 ions; group 17 tend to gain one and form −1 ions; group 18 have stable full outer shells and low reactivity.
+9. Across a period, proton number increases and valence electrons generally increase; properties change from metallic to non-metallic in broad patterns.
+10. Down a group, additional electron shells increase atomic size and shielding; these structural changes help explain reactivity trends.
+11. Metals generally lose electrons and conduct; non-metals more often gain/share electrons. These are trends, not definitions without exceptions.
+12. Electron configuration is the bridge from atomic structure to periodic position and chemical property prediction.
+13. Relative atomic mass is an isotope-weighted average and is not the same as an individual atom’s mass number.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Read atomic number, symbol and relative atomic mass from a table cell.
+- Calculate proton, neutron and electron counts for atoms, isotopes and ions.
+- Infer period/group or likely ion from electron arrangement and reverse the mapping.
+- Compare elements in the same group and explain similarity using valence electrons.
+- Predict broad reactivity/property patterns using shells, shielding and outer electrons.
+- Common traps: atomic number equals neutrons or mass number; ions form by changing protons; isotopes are different elements; group and period reversed; same period means same properties; all values in table cells are whole-number mass numbers; noble gases have no electrons.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–7 subatomic particles and element identity
+- 8–15 atomic/nuclear notation, isotopes and ions
+- 16–22 periodic table symbols, atomic numbers, groups and periods
+- 23–31 shell/electron arrangements and table position
+- 32–40 valence electrons, ions and recurring group properties
+- 41–46 broad periodic trends and evidence-based predictions
+- 47–48 integrated structure–organisation explanations
+Test questions — exactly 16, independently worded:
+- 1–4 particle-count and notation problems
+- 5–7 locate/infer element position
+- 8–11 explain group/period patterns from electron structure
+- 12–14 predict ions and properties
+- 15–16 evaluate claims and exceptions
+Feedback must explicitly trace atomic structure → electron arrangement → periodic position → property.
+
+======================================================================
+AC9S10U07 — REACTION PATTERNS AND FACTORS AFFECTING RATE
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Identify patterns in synthesis, decomposition and displacement reactions and investigate the factors that affect reaction rates.
+
+CURRICULUM BOUNDARY
+Two linked outcomes are required. Students classify and generalise synthesis, decomposition and single/double displacement patterns using word, formula and particle representations while conserving atoms. They then investigate rate effects of temperature, concentration/pressure, surface area, catalysts and reactant identity using collision theory. Rate means change in reactant/product quantity per time. A catalyst provides an alternative lower-activation-energy pathway and is regenerated; it does not change the reaction’s overall products or equilibrium yield in the simple model.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: explicitly names synthesis, decomposition and displacement patterns and requires investigation of rate factors.
+- IXL Australia Year 10 authenticated mapping: U.1–U.3 atom counting and balancing equations; V.1 Classify chemical reactions; V.2 Single replacement reactions; W.1 Factors that affect reaction rate. Formula/nomenclature and bonding skills provide prerequisites.
+- IXL live practice, W.1: silver nitrate reacts with equal volumes of 3.40 and 7.90 mol L⁻¹ sodium chloride. Learners complete a causal chain: higher concentration → more frequent reactant-particle collisions → increased reaction rate. This confirms that questions require mechanism, not just memorised direction of change.
+- Khan Academy authenticated High school chemistry Reaction rates lesson: Collision theory, Factors affecting reaction rates and linked understand/apply exercises. Productive progression is collision requirement → activation energy/orientation → explain each manipulated factor.
+- Royal Society of Chemistry education resources provide practical rate investigations and reaction-pattern demonstrations. https://edu.rsc.org/resources
+- OpenStax Chemistry 2e: stoichiometric equations conserve atoms; kinetic molecular reasoning explains concentration, temperature, surface area and catalysts. https://openstax.org/details/books/chemistry-2e
+- Chemguide reaction-rate explanations supply accessible collision-theory examples and catalyst-energy profiles. https://www.chemguide.co.uk/physical/basicratesmenu.html
+- ABC Education: possible reaction demonstrations are supplementary; no stable code-complete resource was required; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Chemical equations represent rearrangement of atoms; coefficients change amounts, while subscripts must not be altered when balancing.
+2. Synthesis pattern: two or more reactants form one principal product, A + B → AB.
+3. Decomposition pattern: one reactant forms two or more products, AB → A + B; energy input is often required.
+4. Single displacement: a more reactive element replaces a less reactive element in a compound, A + BC → AC + B. Reactivity determines whether reaction occurs.
+5. Double displacement: ions exchange partners, AB + CD → AD + CB, often driven by precipitate, gas or water formation; although the descriptor says displacement broadly, this is useful controlled extension.
+6. Classification should rely on reactant/product structure, not surface clues such as bubbles alone.
+7. Reaction rate can be measured from loss of mass, gas volume, colour/opacity, concentration or product amount per unit time.
+8. Collision theory: reactant particles must collide with sufficient energy and suitable orientation for reaction.
+9. Higher concentration or gas pressure increases collision frequency per volume.
+10. Greater surface area of a solid exposes more particles, increasing collision frequency.
+11. Higher temperature increases collision frequency and, more importantly, the fraction of collisions above activation energy.
+12. A catalyst provides an alternative pathway with lower activation energy and is regenerated.
+13. Rate graphs: initial gradient gives early rate; plateau indicates no further measured change, not necessarily “particles stopped moving”.
+14. Fair tests vary one factor, control others, repeat measurements and use suitable time/rate data.
+15. Hazards increase with temperature, concentration, pressure and fine powders; risk controls must be proportionate.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Classify equations from formula patterns and complete missing reactant/product categories.
+- Use atom counts and coefficients to verify conservation.
+- Predict single-displacement outcomes from a reactivity series.
+- Interpret rate graphs or experimental comparisons and explain using collision frequency/energy.
+- Design or critique fair investigations of temperature, concentration, surface area or catalyst.
+- Common traps: coefficients change formulas; all two-reactant reactions are synthesis; any element displaces any other; a catalyst is consumed or increases product amount; more collisions always means more successful collisions; crushing changes concentration; temperature only increases collision number, not collision energy.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–6 conservation, word/formula equations and balancing
+- 7–14 synthesis patterns and evidence
+- 15–21 decomposition patterns and evidence
+- 22–29 displacement patterns, reactivity and prediction
+- 30–35 measuring and calculating reaction rate
+- 36–43 collision theory and effects of temperature/concentration/surface area/catalysts
+- 44–48 investigation design, graph analysis and safety
+Test questions — exactly 16, independently worded:
+- 1–3 classify/balance reaction patterns
+- 4–6 synthesis/decomposition reasoning
+- 7–9 displacement prediction
+- 10–13 rate-factor mechanisms and graph interpretation
+- 14–16 fair-test design, uncertainty and catalyst claims
+Feedback must name the structural reaction pattern or give the full collision-theory causal chain.
+
+======================================================================
+AC9S10H01 — VALIDATION, PUBLICATION, PEER REVIEW AND REFINEMENT
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Explain how scientific knowledge is validated and refined, including the role of publication and peer review.
+
+CURRICULUM BOUNDARY
+Students should treat validation as an ongoing, distributed process rather than a single approval stamp. Publication makes claims, evidence and methods open to scrutiny. Peer review checks relevance, reasoning, methods and communication before publication but cannot guarantee truth or detect every problem. Replication/reproducibility, new instruments, larger datasets, alternative analyses and converging evidence can confirm, qualify or overturn claims. Refinement is a strength of science. Questions should distinguish peer review, editorial decisions, replication and consensus, and include conflicts of interest, uncertainty and correction/retraction.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: explicitly requires explanation of validation and refinement with publication and peer review.
+- IXL Australia Year 10: no dedicated skill on publication, peer review or scientific validation was visible; SOURCE-NOT-MAPPED. Related IXL inquiry skills (control groups, variables, claims/evidence) offer prerequisites only.
+- Khan Academy: no direct Year 10-equivalent peer-review/knowledge-validation sequence was identified in the authenticated single Khan tab; SOURCE-NOT-MAPPED. Scientific-method resources can support prerequisites but do not replace this code.
+- Australian Academy of Science, science and evidence/publication resources: scientific ideas are scrutinised, tested against evidence and revised as evidence changes. https://www.science.org.au/curious
+- National Academies, Reproducibility and Replicability in Science: transparent methods/data and independent checks are central to assessing robustness; reproducibility and replication are related but distinct. https://nap.nationalacademies.org/catalog/25303/reproducibility-and-replicability-in-science
+- Committee on Publication Ethics: peer review, corrections, retractions and conflicts-of-interest guidance illustrate how the publication system responds to error and misconduct. https://publicationethics.org/
+- CSIRO Publishing author/reviewer guidance provides an Australian example of editorial and peer-review processes. https://www.publish.csiro.au/
+- ABC Education: no stable, comprehensive peer-review resource was used; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Scientific claims gain confidence through transparent evidence, logical reasoning, methodological quality and repeated critical testing.
+2. Publication communicates methods, results, limitations and references so a wider community can inspect and build on the work.
+3. Pre-publication peer reviewers evaluate whether methods and analyses support conclusions, identify weaknesses and recommend revision, acceptance or rejection.
+4. Editors make publication decisions; peer reviewers do not certify a claim as permanently true.
+5. Peer review can miss errors, bias, fraud or weak design and varies across journals and disciplines.
+6. Replication collects new data using comparable methods to test whether a finding recurs. Reproducibility often means obtaining consistent results from the same data/method or clearly specified procedures; terminology varies.
+7. Independent confirmation is stronger than repeated work by one team using the same assumptions.
+8. Converging evidence from different methods reduces dependence on one measurement or model.
+9. Larger/more representative samples and improved instruments may narrow uncertainty or reveal earlier limitations.
+10. Scientific knowledge is refined when new evidence changes estimates, boundary conditions, mechanisms or explanations.
+11. A correction repairs part of the record; a retraction warns that a paper’s findings are unreliable. Retraction does not mean science as a whole failed.
+12. Consensus is a judgement based on the weight of evidence, not a vote that replaces evidence.
+13. Conflicts of interest, publication bias and selective reporting can affect the record; disclosure, preregistration, data sharing and registered reports are safeguards.
+14. Appropriate confidence language should match evidence quality and acknowledge remaining uncertainty.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Sequence submission, editorial screening, peer review, revision, publication and post-publication scrutiny.
+- Compare two studies for transparency, sample quality, controls, replication and converging evidence.
+- Decide what peer review can and cannot establish.
+- Interpret a correction, retraction or conflicting replication without overgeneralising.
+- Common traps: published means proven; peer reviewers repeat the whole experiment; one failed replication automatically proves fraud; consensus is majority opinion without evidence; changing explanations show unreliability; preprints have completed peer review; more citations alone validate a claim.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–7 evidence, transparency and provisional knowledge
+- 8–16 publication and editorial process
+- 17–25 purposes, strengths and limits of peer review
+- 26–34 replication, reproducibility and converging evidence
+- 35–41 correction, retraction, uncertainty and refinement
+- 42–48 compare case studies, conflicts and safeguards
+Test questions — exactly 16, independently worded:
+- 1–3 publication and transparency
+- 4–7 peer-review role/limits
+- 8–11 replication/reproducibility scenarios
+- 12–14 refinement from new evidence
+- 15–16 evaluate competing validation claims
+Feedback must identify the relevant validation mechanism and explain both what it increases confidence in and what it cannot guarantee.
+
+======================================================================
+BATCH CHECKPOINT — SECOND FOUR YEAR 10 SCIENCE CODES
+======================================================================
+AC9S10U05: AUTHORING-READY
+AC9S10U06: AUTHORING-READY
+AC9S10U07: AUTHORING-READY
+AC9S10H01: AUTHORING-READY
+
+Research completed with sequential single-tab IXL and Khan checks, exact Australian Curriculum descriptors, and multiple reputable public sources. All four blueprints reserve exactly 48 Practice Questions and exactly 16 independent Test Questions.
