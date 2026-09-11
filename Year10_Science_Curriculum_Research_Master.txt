@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S10U01
-LAST_COMPLETED_CODE: NONE
-NEXT_CODE: AC9S10U02
+CURRENT_CODE: AC9S10U05
+LAST_COMPLETED_CODE: AC9S10U04
+NEXT_CODE: AC9S10U06
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 0 COMPLETED
+BATCH: 1 COMPLETED (LATEST: AC9S10U01–AC9S10U04)
 
 CURRICULUM CODE INVENTORY
 AC9S10U01, AC9S10U02, AC9S10U03, AC9S10U04, AC9S10U05, AC9S10U06, AC9S10U07
@@ -19,3 +19,246 @@ AC9S10I01, AC9S10I02, AC9S10I03, AC9S10I04, AC9S10I05, AC9S10I06, AC9S10I07, AC9
 
 RESEARCH METHOD
 Each code is checked against Australian Curriculum v9 wording and scope, authenticated IXL Australia Year 10 practice, relevant authenticated Khan Academy instruction, ABC Education where a stable direct resource exists, and at least two reputable free/public sources where available. IXL and Khan mappings guide task progression and misconception design; they do not replace the Australian Curriculum. Missing direct mappings are recorded.
+
+======================================================================
+AC9S10U01 — HEREDITY, CELL DIVISION AND MENDELIAN INHERITANCE
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Explain the role of meiosis and mitosis and the function of chromosomes, DNA and genes in heredity and predict patterns of Mendelian inheritance.
+
+CURRICULUM BOUNDARY
+Students need a connected chromosome-to-trait model, not isolated vocabulary. Mitosis explains genetically similar daughter cells used in growth and repair. Meiosis produces haploid gametes, introduces variation through chromosome assortment and crossing over, and halves chromosome number so fertilisation restores the diploid number. DNA is the hereditary molecule; genes are DNA sequences at loci on chromosomes; alleles are alternative forms of a gene. Year 10 prediction should use monohybrid Mendelian crosses, genotype/phenotype, dominance/recessiveness, probability and family/pedigree evidence. Do not imply that all traits are single-gene or perfectly dominant/recessive; acknowledge limits of simple Mendelian models.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: descriptor and elaborations establish the required links among mitosis, meiosis, chromosomes, DNA, genes, heredity and Mendelian prediction.
+- IXL Australia Year 10 authenticated mapping: F.1 Introduction to cell division; F.2 The cell cycle; F.3 Describe phases of mitosis and the cell cycle; F.4 Identify phases of mitosis in plant cells; G.1 Structure and function of nucleic acids; G.2 The genetic code; I.1–I.2 Sexual reproduction and genetic variation; J.1 genotype and phenotype; J.2 dominant and recessive; J.3 Punnett squares: Mendelian inheritance.
+- IXL live practice, J.3: a chicken leg-colour prompt states yellow allele l is recessive to white allele L and asks the learner to complete all four genotype cells in a Punnett square. This confirms progression from allele notation and dominance to systematic gamete combination, then genotype/phenotype probability.
+- Khan Academy authenticated: Comparing mitosis and meiosis, plus linked meiosis I/II, gamete/haploid/diploid and fertilisation instruction. Useful sequence: compare purpose, chromosome number, number/genetic similarity of products, then connect meiosis and fertilisation to heredity.
+- NHGRI genetics resources: genes are units of heredity carried in DNA on chromosomes; meiosis creates reproductive cells with one chromosome set. https://www.genome.gov/genetics-glossary
+- OpenStax Biology 2e, cell reproduction and Mendelian genetics: chromosome behaviour explains segregation and independent assortment; Punnett squares express expected probabilities rather than guaranteed family outcomes. https://openstax.org/details/books/biology-2e
+- ABC Education: no stable, tightly matched Year 10 interactive sequence was required for this code; SOURCE-NOT-MAPPED. Public-source coverage remains sufficient.
+
+AUTHORING-READY KNOWLEDGE
+1. Chromosomes are organised DNA-protein structures; a gene is a DNA segment at a locus; alleles are gene variants.
+2. DNA replication occurs before division. Mitosis separates duplicated chromosomes once and usually produces two genetically similar diploid cells.
+3. Meiosis has two divisions after one DNA replication and produces four genetically varied haploid cells.
+4. Homologous chromosomes separate in meiosis I; sister chromatids separate in meiosis II. Crossing over and independent assortment add variation.
+5. Fertilisation combines haploid gametes and restores diploid chromosome number.
+6. A genotype records alleles; phenotype is an observable outcome influenced by genotype and often environment.
+7. In a complete-dominance monohybrid cross, each parent contributes one allele. A Punnett square enumerates equally likely fertilisation combinations.
+8. Ratios are probabilistic expectations over many offspring, not a required pattern in every small family.
+9. A test cross or pedigree can constrain possible genotypes, but evidence may not always determine one genotype.
+10. Simple Mendelian models have limits: incomplete dominance, codominance, multiple alleles, polygenic traits and environmental effects require other models.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Sort mitosis versus meiosis by purpose, cell type, division count, products, ploidy and genetic similarity.
+- Sequence cell-cycle/meiosis events and identify which chromosome structures separate.
+- Translate DNA–gene–chromosome statements and reject part/whole reversals.
+- Infer parent gametes, fill Punnett squares, calculate genotype and phenotype probabilities, and reverse-reason from offspring.
+- Common traps: meiosis makes identical cells; DNA replication happens between meiosis I and II; dominant means common/stronger/better; recessive alleles disappear; a 3:1 ratio guarantees four offspring; phenotype always reveals genotype.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–8 chromosome/DNA/gene/allele relationships
+- 9–16 mitosis purpose, stages and outcomes
+- 17–24 meiosis, ploidy, variation and fertilisation
+- 25–32 genotype, phenotype, dominance and gametes
+- 33–42 monohybrid Punnett-square prediction and probability
+- 43–48 pedigree/test-cross interpretation and limits of Mendelian models
+Test questions — exactly 16, independently worded and not recycled:
+- 1–3 molecular/chromosomal heredity
+- 4–6 compare mitosis and meiosis
+- 7–9 explain variation and chromosome number
+- 10–14 unfamiliar Mendelian prediction/reverse inference
+- 15–16 evaluate model limitations and probability claims
+Feedback must name the reasoning error, show allele contributions explicitly, and distinguish expected probability from observed frequency.
+
+======================================================================
+AC9S10U02 — EVOLUTION BY NATURAL SELECTION AND SUPPORTING EVIDENCE
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Use the theory of evolution by natural selection to explain past and present diversity and analyse the scientific evidence supporting the theory.
+
+CURRICULUM BOUNDARY
+Students must use the causal mechanism: heritable variation exists; environmental conditions create differential survival or reproduction; allele/trait frequencies change across generations. Individuals do not evolve during their lifetimes and organisms do not acquire needed traits because they try. Evidence analysis should combine fossil succession/transitions, comparative anatomy and embryology, biogeography, molecular sequence similarity and directly observed change. Evidence supports common ancestry and evolutionary mechanisms through converging, testable patterns; one isolated example is not the whole case.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: requires both explanation by natural selection and analysis of evidence for past and present diversity.
+- IXL Australia Year 10 authenticated mapping: K.1 Introduction to natural selection; K.2 effects of gene mutations on organisms; K.3 evaluate fossil evidence of evolution; K.4 evaluate anatomical and molecular evidence; K.5 construct explanations of natural selection.
+- IXL live practice, K.5: data show lactose-specific fermentation in a bacterial population rising from 26% to 82% after environmental change. Dropdown reasoning links increased frequency to higher survival/reproduction and resource availability. This is a strong authoring model because learners must connect evidence, fitness and population change rather than merely name natural selection.
+- Khan Academy authenticated Evidence for evolution and Introduction to evolution/natural selection: fossil, anatomical, molecular and direct-observation evidence are presented as mutually reinforcing lines; shared derived features and sequence similarities support common ancestry.
+- UC Berkeley Understanding Evolution: natural selection acts on existing heritable variation and changes populations over generations; evidence comes from multiple independent fields. https://evolution.berkeley.edu/
+- Smithsonian Human Origins evidence resources: fossils, dating, genetics and comparative anatomy illustrate how claims about evolutionary history are tested. https://humanorigins.si.edu/evidence
+- OpenStax Biology 2e, evolution chapters: selection changes allele frequencies; mutation supplies new variation while selection is non-random with respect to reproductive success. https://openstax.org/details/books/biology-2e
+- ABC Education: suitable evolution materials may supplement examples, but no single stable code-complete sequence was used; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Populations contain variation, some of which is heritable.
+2. More offspring may be produced than can survive and reproduce; environments create selection pressures.
+3. Individuals with traits that increase reproductive success contribute proportionally more alleles to later generations.
+4. Over generations, heritable trait/allele frequencies can change: the population evolves.
+5. Fitness is context-dependent reproductive success, not strength, health or moral superiority.
+6. Mutation is a source of new alleles; recombination reshuffles alleles. Mutations arise without regard to what an organism needs.
+7. Selection, genetic drift and gene flow can all change populations, but the descriptor’s explanatory centre is natural selection.
+8. Fossil position, age and morphology show succession, extinction and transitional combinations.
+9. Homologous structures and developmental patterns support common ancestry; analogous structures mainly show convergent adaptation.
+10. DNA/protein sequence similarities permit quantitative comparison and phylogenetic inference.
+11. Biogeographic distributions match descent, isolation and geological history.
+12. Direct observations such as resistance demonstrate evolution on measurable timescales.
+13. Strong analysis asks whether a predicted pattern occurs, considers alternative explanations, and synthesises independent evidence.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Read before/after graphs and complete a causal natural-selection explanation.
+- Decide whether a mutation changes protein/function and whether the change is heritable.
+- Evaluate which fossil layer/dated specimen supports a proposed sequence.
+- Distinguish homologous from analogous structures and compare DNA sequence differences.
+- Common traps: individuals evolve; organisms mutate because they need to; selection gives organisms traits; all mutations are harmful; “fittest” means strongest; gaps in fossils mean no evidence; similarity alone proves direct descent from a living species.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–8 variation, heredity, mutation and selection pressure
+- 9–18 causal natural-selection explanations from scenarios/data
+- 19–26 fossil evidence, dating and transitional patterns
+- 27–34 comparative anatomy, embryology and biogeography
+- 35–42 molecular evidence and common ancestry
+- 43–48 synthesis, claim-evidence-reasoning and limitations
+Test questions — exactly 16, independent:
+- 1–4 mechanism of natural selection in novel populations
+- 5–7 mutation/variation and data interpretation
+- 8–10 fossil evidence analysis
+- 11–13 anatomical, biogeographic and molecular evidence
+- 14–16 multi-source evaluation and misconception diagnosis
+Feedback must explicitly identify variation, selection pressure, differential reproductive success and generational population change.
+
+======================================================================
+AC9S10U03 — BIG BANG MODEL AND EVIDENCE
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Describe how the big bang theory models the origin and evolution of the universe and analyse the supporting evidence for the theory.
+
+CURRICULUM BOUNDARY
+Teach the Big Bang as the scientific model that the observable universe evolved from an extremely hot, dense early state as space expanded and cooled. It is not an explosion of matter from one point into pre-existing empty space. The evidence set must include galaxy redshift/expansion, cosmic microwave background radiation and primordial light-element abundances; large-scale structure and cosmic age consistency can extend analysis. Students should connect each observation to a model prediction and distinguish observation, inference, model and unresolved question.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: the code requires description of origin/evolution modelling plus analysis—not recall—of supporting evidence.
+- IXL Australia Year 10 authenticated mapping: JJ.1 Structure of the universe and JJ.2 Properties and classifications of stars. No dedicated IXL Year 10 Big Bang/evidence skill was visible: SOURCE-NOT-MAPPED for the descriptor’s central evidence analysis.
+- IXL live practice, JJ.1: students select true statements about the universe as all space, its contents and relative age. It establishes scale/age vocabulary but is below the full curriculum demand; authoring must add expansion, cooling and evidence reasoning.
+- Khan Academy authenticated Cosmology and astronomy, Big bang and expansion lesson: Big bang introduction, expansion and Cosmic background radiation provide a coherent conceptual sequence. The CMB resource supports treating relic radiation as evidence of a formerly hot universe.
+- NASA Science universe resources: observations of expansion and the cosmic microwave background underpin the modern hot Big Bang model; WMAP/COBE/Planck measurements constrain age, composition and early fluctuations. https://science.nasa.gov/universe/
+- ESA Planck: precision maps of the cosmic microwave background show early density variations and provide tests of cosmological parameters. https://www.esa.int/Science_Exploration/Space_Science/Planck
+- OpenStax Astronomy 2e, cosmology: Hubble–Lemaître expansion, background radiation and predicted light-element abundances are independent, converging evidence. https://openstax.org/details/books/astronomy-2e
+- ABC Education: public Big Bang explainers can supply Australian classroom context, but no stable complete evidence-analysis mapping was relied on; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. The model describes an expanding universe that was hotter and denser in the past.
+2. Expansion means distances between sufficiently separated galaxies increase as space expands; galaxies are not all flying from a central point inside space.
+3. As expansion proceeds, average temperature and density decrease.
+4. Early high temperatures allowed particles and nuclei; later cooling allowed neutral atoms, releasing photons that now form the CMB.
+5. Gravity amplified early density differences into stars, galaxies and large-scale structure over billions of years.
+6. Distant-galaxy spectra are generally redshifted; redshift increasing with distance supports systematic cosmic expansion.
+7. A hot early universe predicted relic thermal radiation before the CMB was detected. Its near-uniform microwave spectrum and small anisotropies strongly support the model.
+8. Big Bang nucleosynthesis predicts approximate primordial abundances of hydrogen, helium and some lithium; observations broadly match.
+9. Independent evidence is stronger because expansion, CMB and abundances measure different consequences of the same model.
+10. Evidence can refine model parameters; it does not establish what caused the initial state or describe “before” the model’s domain.
+11. Scientific theory means a well-supported explanatory framework, not a guess.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Order universe stages using temperature, density and time.
+- Interpret simplified redshift/distance data and infer expansion.
+- Match evidence to prediction: redshift→expansion; CMB→hot dense early state; light elements→early nucleosynthesis.
+- Compare competing claims and identify which evidence discriminates between them.
+- Common traps: one galaxy’s Doppler shift alone proves the Big Bang; Big Bang had a centre in space; the solar system formed at the Big Bang; CMB comes from stars; theory means speculation; the model explains an absolute beginning or cause.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–8 universe scale, age and model language
+- 9–16 expansion, redshift and distance data
+- 17–24 hot dense state, cooling and chronological sequence
+- 25–32 cosmic microwave background prediction and observations
+- 33–38 primordial light-element abundance
+- 39–44 large-scale structure/age consistency and converging evidence
+- 45–48 model scope, uncertainty and claim evaluation
+Test questions — exactly 16, independent:
+- 1–3 describe model and sequence
+- 4–7 analyse unfamiliar redshift data
+- 8–10 analyse CMB evidence
+- 11–12 analyse abundance evidence
+- 13–16 synthesise evidence, compare claims and define model limits
+Feedback must link every observation to the relevant prediction and must correct explosion/centre misconceptions.
+
+======================================================================
+AC9S10U04 — EARTH-SYSTEM ENERGY FLOW AND GLOBAL CLIMATE CHANGE
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Use models of energy flow between the geosphere, biosphere, hydrosphere and atmosphere to explain patterns of global climate change.
+
+CURRICULUM BOUNDARY
+The core is an interacting Earth-system energy model. Students trace incoming short-wave solar radiation, reflection, absorption, transfers among land/ocean/living systems/air and outgoing long-wave radiation. They use this model to explain climate patterns and change through greenhouse forcing, feedbacks, ocean heat uptake and circulation, albedo, carbon exchange and aerosols. Climate is a long-term statistical pattern; a local weather event alone neither proves nor disproves global change. Matter cycles may alter energy flow, but energy flows and is eventually radiated to space.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: explicitly requires models across all four spheres and explanation of patterns of global climate change.
+- IXL Australia Year 10 authenticated mapping: L.1–L.2 carbon cycle through biosphere/geosphere; HH water cycle; II.1 use data to describe climates; II.2 greenhouse effect; II.3–II.6 factors affecting climate. Photosynthesis and cellular-respiration skills support biosphere–atmosphere carbon/energy links.
+- IXL live practice, II.2: an atmosphere prompt asks learners to select gases/resources and stable-temperature functions organisms rely on. The skill links atmospheric gases, living organisms and insulation; later authoring must extend this to radiative balance, enhanced greenhouse forcing and quantitative climate patterns.
+- Khan Academy authenticated The Sun’s energy and Earth’s weather, redirected to Global winds and currents: uneven solar heating drives atmospheric and ocean circulation and supplies a precursor model for hydrosphere–atmosphere energy redistribution.
+- NASA Earth energy budget: climate depends on balance between absorbed solar energy and outgoing infrared energy; greenhouse gases reduce the rate of energy loss and create an energy imbalance until the system warms. https://science.nasa.gov/earth/climate-change/
+- IPCC AR6 Working Group I: human influence has warmed atmosphere, ocean and land; assessed evidence integrates observations, physical understanding and climate models. https://www.ipcc.ch/report/ar6/wg1/
+- Bureau of Meteorology and CSIRO, State of the Climate: Australian and global observations document warming, ocean heat, sea-level and extreme-event patterns. https://www.csiro.au/en/research/environmental-impacts/climate-change/state-of-the-climate
+- OpenStax Environmental Science: carbon cycle, greenhouse effect, albedo and ocean/atmosphere interactions support a systems treatment. https://openstax.org/details/books/environmental-science
+- ABC Education: climate resources can provide cases, but no single stable resource was treated as code-complete; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. The atmosphere, hydrosphere, geosphere and biosphere exchange energy and matter continuously.
+2. Solar short-wave energy is partly reflected by clouds, aerosols, ice and bright surfaces and partly absorbed by atmosphere, land and ocean.
+3. Warm surfaces emit long-wave infrared radiation. Greenhouse gases absorb and re-emit some infrared, slowing energy loss to space.
+4. Increasing greenhouse-gas concentrations create positive radiative forcing/energy imbalance; warming continues until outgoing energy again balances incoming energy at a higher temperature.
+5. Oceans store and transport most excess heat because of their large heat capacity; currents redistribute energy and delay some surface response.
+6. Land/ocean warming affects evaporation, atmospheric water vapour, precipitation and circulation.
+7. Ice/snow loss reduces albedo and increases absorption, a positive feedback.
+8. Water vapour is largely a feedback to initial warming; carbon dioxide is a major long-lived forcing under current human-driven change.
+9. Biosphere and soils exchange carbon with the atmosphere through photosynthesis, respiration, decomposition, fire and land-use change.
+10. Geosphere processes include long-term carbon storage, weathering and volcanic emissions/aerosols; volcanic aerosols can cause short-term cooling.
+11. Climate models conserve energy, represent transfers and test how forcings/feedbacks generate spatial and temporal patterns.
+12. Evidence should use multi-decade trends, multiple variables and global/regional datasets; weather variability remains superimposed on climate trends.
+13. Correlation alone is insufficient, but attribution is strengthened by physical mechanism, characteristic patterns and model/observation agreement.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Label energy-budget diagrams and classify reflection, absorption, convection, latent heat and infrared emission.
+- Trace a perturbation through multiple spheres and predict reinforcing or balancing effects.
+- Interpret anomaly graphs, maps, ocean-heat or ice/albedo data.
+- Compare model runs with natural-only versus natural-plus-anthropogenic forcings.
+- Common traps: greenhouse effect is ozone depletion; gases trap heat permanently; energy cycles like carbon; the ocean is not warming if air fluctuates; one cold day disproves warming; all feedbacks cause warming; CO2 is the only climate influence; volcanoes explain the sustained modern trend.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–8 four-sphere components, reservoirs and interactions
+- 9–18 planetary energy budget and transfer processes
+- 19–26 greenhouse effect, forcing and radiative balance
+- 27–34 ocean circulation/heat uptake and water-cycle links
+- 35–40 albedo, water-vapour, carbon-cycle and aerosol feedbacks
+- 41–46 interpret climate trends/maps/model comparisons
+- 47–48 evaluate system-model assumptions and weather/climate claims
+Test questions — exactly 16, independent:
+- 1–3 trace energy across spheres
+- 4–6 energy-budget/greenhouse reasoning
+- 7–9 ocean, ice and biosphere feedbacks
+- 10–13 analyse unfamiliar climate datasets/models
+- 14–16 evaluate causal explanations, limitations and misconceptions
+Feedback must trace the causal chain through named spheres, distinguish forcing from feedback, and separate short-term variability from long-term trend.
+
+======================================================================
+BATCH CHECKPOINT — FIRST FOUR YEAR 10 SCIENCE CODES
+======================================================================
+AC9S10U01: AUTHORING-READY
+AC9S10U02: AUTHORING-READY
+AC9S10U03: AUTHORING-READY
+AC9S10U04: AUTHORING-READY
+
+Research completed with authenticated, sequential single-tab IXL and Khan checks plus Australian Curriculum and multiple reputable public sources. All four blueprints reserve exactly 48 Practice Questions and exactly 16 separate Test Questions for later authoring.
