@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S10H02
-LAST_COMPLETED_CODE: AC9S10H01
-NEXT_CODE: AC9S10H03
+CURRENT_CODE: AC9S10I02
+LAST_COMPLETED_CODE: AC9S10I01
+NEXT_CODE: AC9S10I03
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 2 COMPLETED (LATEST: AC9S10U05–AC9S10H01)
+BATCH: 3 COMPLETED (LATEST: AC9S10H02–AC9S10I01)
 
 CURRICULUM CODE INVENTORY
 AC9S10U01, AC9S10U02, AC9S10U03, AC9S10U04, AC9S10U05, AC9S10U06, AC9S10U07
@@ -517,3 +517,260 @@ AC9S10U07: AUTHORING-READY
 AC9S10H01: AUTHORING-READY
 
 Research completed with sequential single-tab IXL and Khan checks, exact Australian Curriculum descriptors, and multiple reputable public sources. All four blueprints reserve exactly 48 Practice Questions and exactly 16 independent Test Questions.
+
+
+======================================================================
+AC9S10H02 — RECIPROCAL ADVANCES IN SCIENCE, TECHNOLOGY AND ENGINEERING
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Investigate how advances in technologies enable advances in science, and how science has contributed to developments in technologies and engineering.
+
+CURRICULUM BOUNDARY
+This code requires a reciprocal, evidence-based relationship rather than a list of inventions. New technologies extend observation, measurement, manipulation, computation or communication, enabling new scientific questions and evidence. Scientific explanations and discoveries then supply principles used to design or improve technologies and engineered systems. Case studies must identify the specific capability, the scientific advance it enabled, the scientific knowledge later applied, and constraints or unintended effects. “Science” and “technology” should not be presented as a one-way linear pipeline.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: the descriptor explicitly requires investigation in both directions—technology enabling science and science contributing to technology and engineering.
+- IXL Australia Year 10: no direct science–technology reciprocity skill was visible; SOURCE-NOT-MAPPED. Relevant prerequisite contexts include microscopes, genetic analysis, sensors and astronomy, but these do not independently meet the descriptor.
+- Khan Academy: no dedicated Year 10 sequence directly mapping the reciprocal relationship was identified in the single authenticated tab; SOURCE-NOT-MAPPED. Relevant science lessons can anchor case studies only.
+- Australian Academy of Science, Australian science and innovation material: examples such as radio astronomy/Wi-Fi, biomedical imaging, vaccines and solar technologies demonstrate research-to-technology pathways and feedback from improved instruments. https://www.science.org.au/
+- CSIRO innovation case studies: research, engineering, commercialisation and new measurement technologies interact iteratively rather than in a single direction. https://www.csiro.au/en/work-with-us/industries/technology
+- NASA technology transfer and mission science: detectors, computing, robotics and spacecraft enable observations; scientific mission requirements drive new engineering. https://technology.nasa.gov/
+- CERN, science and technology: particle accelerators, detectors and the World Wide Web illustrate technologies developed for research that later gained broader uses. https://home.cern/science/engineering
+- ABC Education: individual Australian innovation stories may provide classroom contexts, but no stable code-complete collection was relied on; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Technology includes tools, processes and systems designed to meet purposes; engineering applies constraints and design processes to create solutions; science builds testable explanations from evidence.
+2. Better resolution, precision, sensitivity, speed or access can reveal phenomena that were previously unobservable.
+3. Microscopes enabled cell theory and later molecular imaging; biological knowledge then informed diagnostic and imaging technologies.
+4. Telescopes, spectroscopy, satellites and detectors enabled evidence about stars, galaxies, climate and Earth systems.
+5. DNA sequencing and PCR enabled large-scale genetic investigation; knowledge of enzymes/base pairing enabled those technologies.
+6. Accelerators and detectors enabled particle discoveries; physics knowledge subsequently informed medical imaging and radiotherapy.
+7. Computers and algorithms enable simulation and analysis of huge datasets; scientific needs drive faster computing, storage and networks.
+8. Scientific principles alone do not become a usable technology automatically: materials, reliability, cost, safety, regulation and user needs shape engineering.
+9. Advances are iterative: a new tool produces evidence, evidence refines theory, theory creates new requirements, and those requirements drive improved tools.
+10. A strong investigation uses a timeline and causal links, not “technology improved so science improved”.
+11. Multiple contributors and enabling conditions should be recognised; avoid single-inventor myths.
+12. Benefits, limitations, access, environmental impacts and dual uses may accompany technological advances.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Order events in a case-study timeline and label each science→technology or technology→science link.
+- Identify which new measurement capability made a claim testable.
+- Compare an early and later instrument for resolution, precision, sample size or data speed.
+- Evaluate whether a claimed link is causal and supported by evidence.
+- Common traps: all inventions are science; engineering merely “builds what scientists say”; technology always comes after discovery; correlation in dates proves causation; improvement means only miniaturisation; benefits erase risks/constraints.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–6 distinguish science, technology and engineering
+- 7–14 tools extending observation and measurement
+- 15–22 scientific knowledge enabling technologies
+- 23–30 reciprocal timelines in genetics, space and medicine
+- 31–38 computing, modelling, sensors and large datasets
+- 39–44 constraints, benefits and unintended consequences
+- 45–48 evaluate causal claims from unfamiliar case studies
+Test questions — exactly 16, independently worded:
+- 1–3 classify direction of influence
+- 4–7 analyse instrument/capability evidence
+- 8–11 reconstruct reciprocal case-study chains
+- 12–14 evaluate constraints and impacts
+- 15–16 assess competing historical claims
+Feedback must name the direction of influence and the specific capability or scientific principle involved.
+
+======================================================================
+AC9S10H03 — FACTORS AFFECTING SOCIETAL ADOPTION OF SCIENCE
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Analyse the key factors that contribute to science knowledge and practices being adopted more broadly by society.
+
+CURRICULUM BOUNDARY
+Students should analyse adoption as a social decision shaped by evidence quality and many interacting factors: perceived benefits and risks, trust, values, communication, cost, infrastructure, access, policy, regulation, cultural context and participation. Adoption is not identical to scientific validity, and non-adoption does not automatically mean ignorance. Case studies should compare stakeholders and distinguish evidence about effectiveness from feasibility, acceptability and equity.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: requires analysis of the factors contributing to broader adoption of scientific knowledge and practices.
+- IXL Australia Year 10: no direct societal-adoption skill was visible; SOURCE-NOT-MAPPED. Claims/evidence and human-impact skills provide partial prerequisites only.
+- Khan Academy: no direct Year 10 societal-adoption sequence was identified in the single authenticated tab; SOURCE-NOT-MAPPED.
+- CSIRO research on public trust and science communication: perceived competence, integrity, transparency and responsiveness affect trust and willingness to act on evidence. https://www.csiro.au/en/research/technology-space/data/trust-in-science
+- World Health Organization behavioural and social drivers frameworks: uptake of health practices depends on motivation, social processes and practical access as well as information. https://www.who.int/initiatives/behsci
+- National Academies science communication guidance: communication effects depend on audience goals, values, prior beliefs, source credibility and social context. https://www.nationalacademies.org/our-work/communicating-science-effectively-a-research-agenda
+- Australian Government Office of the Chief Scientist resources: policy uptake links evidence with feasibility, economics, public priorities and institutions. https://www.chiefscientist.gov.au/
+- ABC Education: topical adoption examples are supplementary, but no stable complete mapping was used; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Adoption means sustained use, support or integration of knowledge/practices by people, organisations or policy systems.
+2. Strong evidence of effectiveness is important but is rarely the only factor.
+3. Relative advantage—clear benefit compared with current practice—can increase adoption.
+4. Perceived and actual risks, uncertainty and reversibility affect decisions.
+5. Trust depends on source credibility, transparency, past experience, accountability and whether institutions listen to concerns.
+6. Cost, infrastructure, training, supply chains and ease of use determine practical feasibility.
+7. Policy, regulation, incentives and professional standards can enable or constrain uptake.
+8. Social norms, cultural values, religious beliefs and community leadership affect acceptability.
+9. Equitable access matters: average benefit can coexist with barriers for rural, low-income or marginalised groups.
+10. Participation and co-design can make practices more relevant and legitimate.
+11. Clear communication should explain benefits, risks and uncertainty without manipulation or false certainty.
+12. Misinformation can impede adoption, but labelling all disagreement as misinformation prevents genuine analysis of values or access barriers.
+13. Adoption does not prove a claim scientifically correct; popularity and evidence are different.
+14. Stakeholders can weigh the same evidence differently because their risks, responsibilities and values differ.
+15. Strong analysis compares factors, identifies interactions and uses evidence to judge which were most influential in a case.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Sort evidence-quality, trust, cost, access, policy and value factors in case studies.
+- Compare uptake between communities and infer which barrier is supported by data.
+- Evaluate an intervention such as subsidies, trusted messengers, training or infrastructure.
+- Distinguish scientific validity from social acceptability and implementation.
+- Common traps: more information always changes behaviour; adoption proves truth; low uptake means people are irrational; all stakeholders have the same risks; trust is simply popularity; one factor explains every case.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–6 adoption versus validity and use
+- 7–14 benefits, risks and uncertainty
+- 15–22 trust, communication and source credibility
+- 23–30 cost, infrastructure, access and equity
+- 31–37 policy, regulation, incentives and institutions
+- 38–43 culture, values, norms and participation
+- 44–48 multi-factor case-study analysis
+Test questions — exactly 16, independently worded:
+- 1–3 distinguish adoption from scientific support
+- 4–7 analyse trust/risk evidence
+- 8–11 compare access, cost and policy factors
+- 12–14 stakeholder/value analysis
+- 15–16 evaluate multi-factor interventions
+Feedback must identify evidence for each factor and avoid implying that information deficits alone explain behaviour.
+
+======================================================================
+AC9S10H04 — SOCIETAL VALUES, NEEDS AND SCIENTIFIC RESEARCH PRIORITIES
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Examine how the values and needs of society influence the focus of scientific research.
+
+CURRICULUM BOUNDARY
+Students should examine how needs, values and power shape which questions receive funding, urgency, infrastructure, participants and public attention. The code is not asking whether social influence makes results unscientific. Research methods and conclusions still require evidence, while topic selection and acceptable methods are influenced by health, economic, environmental, cultural, security and ethical priorities. Questions should include multiple stakeholders, opportunity cost, neglected needs, Country/Place and Indigenous data/cultural protocols where relevant.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: focuses on how society influences the direction and emphasis of research.
+- IXL Australia Year 10: no direct research-priority/values mapping was visible; SOURCE-NOT-MAPPED.
+- Khan Academy: no dedicated mapping was identified in the single authenticated tab; SOURCE-NOT-MAPPED.
+- Australian Research Council National Competitive Grants Program: national priorities, peer assessment and public benefit shape allocation of finite research funds. https://www.arc.gov.au/funding-research
+- National Health and Medical Research Council: health burden, ethics, consumer/community involvement and national need influence research programs. https://www.nhmrc.gov.au/funding
+- CSIRO missions: research portfolios are organised around national challenges including health, food security, climate, energy and resilience. https://www.csiro.au/en/about/challenges-missions
+- Australian Institute of Aboriginal and Torres Strait Islander Studies Code of Ethics: Indigenous self-determination, benefit, impact, sustainability and cultural protocols should shape research involving Aboriginal and Torres Strait Islander peoples. https://aiatsis.gov.au/research/ethical-research/code-ethics
+- UNESCO Recommendation on Science and Scientific Researchers: public priorities, ethics, freedom and responsibility interact in research systems. https://www.unesco.org/en/legal-affairs/recommendation-science-and-scientific-researchers
+- ABC Education: no stable resource covered the full code; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. Research focus includes which problems are studied, how urgently, with what funding/infrastructure and which populations/environments are included.
+2. Societal needs may arise from disease burden, disasters, food/water security, climate, energy, defence, economic opportunity or inequality.
+3. Values influence acceptable goals and methods, including animal welfare, privacy, consent, environmental protection and cultural responsibility.
+4. Governments influence focus through public funding, regulation, national priorities and emergency responses.
+5. Industry funding can accelerate application and scale but may favour commercially valuable questions or create conflicts requiring disclosure.
+6. Communities and affected groups can identify overlooked questions, improve relevance and challenge researcher assumptions.
+7. Media attention and advocacy can increase urgency but do not themselves establish scientific merit.
+8. Finite funding creates opportunity costs: prioritising one field may leave another under-researched.
+9. Rare diseases, remote communities or non-commercial environmental issues may be neglected despite high importance to affected groups.
+10. Ethical and cultural protocols may appropriately change data access, sample collection, governance and publication.
+11. Indigenous research should recognise authority, consent, reciprocity, benefit and Indigenous Cultural and Intellectual Property.
+12. Crisis-driven research can produce rapid collaboration and funding but also increases pressure requiring strong ethical/evidence safeguards.
+13. Research independence and social responsibility can coexist; transparency about funding and priority-setting helps evaluation.
+14. Strong examination distinguishes influence on the research agenda from distortion of evidence or conclusions.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Allocate a limited research budget and justify choices using explicit criteria.
+- Compare stakeholder priorities and identify shared needs or value conflicts.
+- Trace how a crisis, advocacy campaign or policy changed research focus.
+- Evaluate ethical/cultural changes to a proposed project.
+- Common traps: the most profitable topic is automatically most valuable; scientists choose topics without social influence; public preference determines scientific truth; all influence is bias; consultation means communities control conclusions; urgency removes ethical obligations.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–6 research focus, agenda and opportunity cost
+- 7–14 health, environmental, economic and security needs
+- 15–22 government, industry and philanthropic funding
+- 23–30 ethics, privacy, animal welfare and environmental values
+- 31–37 community participation, equity and neglected needs
+- 38–43 Country/Place, Indigenous authority and cultural protocols
+- 44–48 evaluate priority-setting case studies
+Test questions — exactly 16, independently worded:
+- 1–3 identify agenda influences
+- 4–7 compare funding/need scenarios
+- 8–11 analyse ethics and stakeholder values
+- 12–14 equity and cultural-protocol cases
+- 15–16 justify priorities under constraints
+Feedback must distinguish a justified agenda influence from unsupported interference with results.
+
+======================================================================
+AC9S10I01 — INVESTIGABLE QUESTIONS, PREDICTIONS, HYPOTHESES AND MODELS
+STATUS: AUTHORING-READY
+======================================================================
+
+CURRICULUM DESCRIPTION
+Develop investigable questions, reasoned predictions and hypotheses to test relationships and develop explanatory models.
+
+CURRICULUM BOUNDARY
+Students must move from an observation or broad topic to a feasible, measurable question about a relationship; propose a hypothesis that offers a tentative evidence-based explanation; derive a directional prediction that should occur if the hypothesis/model is useful; and use outcomes to develop or revise an explanatory model. Questions may be experimental or observational. Hypotheses are statements, not questions, and one supportive result does not prove them.
+
+SOURCE EVIDENCE
+- Australian Curriculum v9: requires development of four connected products—investigable questions, reasoned predictions, hypotheses and explanatory models.
+- IXL Australia Year 10 authenticated mapping: A.3 Identify independent and dependent variables; A.4 Identify the experimental question; A.5 Identify questions that can be investigated with a set of materials. Control/experimental groups are useful extensions.
+- IXL live practice, A.5: Dana has heavy/light textbooks, wooden/carpeted/tiled surfaces and a spring balance. Learners select the two force questions possible with only those materials and reject wet-surface and ramp questions because required materials are absent. This confirms feasibility, measurable outcome and controlled comparison as key filters.
+- Khan Academy checked sequentially in the authenticated tab: Scientific method presents observation, hypothesis and experiment as an iterative approach. It is useful prerequisite scaffolding; Year 10 authoring must add variable relationships, reasoned predictions and model revision.
+- Understanding Science, UC Berkeley: science is iterative and uses testable ideas, evidence, community analysis and revision rather than a rigid single sequence. https://undsci.berkeley.edu/understanding-science-101/how-science-works/
+- Science Buddies question/hypothesis guidance: a strong testable question identifies variables and measurable outcomes; a hypothesis includes reasoning and leads to predictions. https://www.sciencebuddies.org/science-fair-projects/science-fair/steps-of-the-scientific-method
+- OpenStax scientific-method sections: hypotheses must be testable/falsifiable and predictions link explanations to expected observations. https://openstax.org/books/biology-2e/pages/1-2-the-process-of-science
+- CSIRO education investigations provide Australian contexts for turning real problems into evidence-producing questions. https://www.csiro.au/en/education
+- ABC Education: no stable code-complete inquiry sequence was relied on; SOURCE-NOT-MAPPED.
+
+AUTHORING-READY KNOWLEDGE
+1. An investigable question can be answered using observable/measurable evidence with available time, equipment, participants and ethical permissions.
+2. Experimental questions often use “How does [independent variable] affect [dependent variable] when [key controls] are held constant?”
+3. Observational questions can test relationships when variables cannot ethically or practically be manipulated.
+4. A hypothesis is a tentative explanatory statement grounded in prior knowledge, not a guess or a restated prediction.
+5. A reasoned prediction states the expected observable outcome and why the hypothesis/model leads to it.
+6. Variables require operational definitions: exactly how each is changed, measured or classified.
+7. Feasibility includes suitable range, resolution, sample size, safety, ethics and available materials.
+8. Testability/falsifiability means conceivable evidence could count against the claim.
+9. A prediction can be unsupported while the broader hypothesis remains plausible if the method was invalid or auxiliary assumptions failed; evaluation is required.
+10. Models represent selected components and relationships and deliberately simplify reality.
+11. Evidence can support, contradict or reveal limits of a model; models are revised by changing mechanisms, variables, parameters or scope.
+12. Alternative hypotheses may make the same prediction, so discriminating tests are more informative.
+13. Correlation questions do not automatically establish cause.
+14. Strong inquiry connects: observation → question → hypothesis/model → prediction → evidence → evaluation/revision.
+
+IXL/KHAN QUESTION PATTERNS AND TRAPS
+- Select feasible questions from a fixed materials list.
+- Rewrite broad or value-laden questions into measurable relationship questions.
+- Identify IV, DV and controls and write operational definitions.
+- Distinguish question, hypothesis, prediction and model statement.
+- Derive different predictions from competing models and choose a discriminating test.
+- Common traps: any answerable question is experimentally investigable; hypothesis is an “if–then” prediction without explanation; prediction is certain; unmeasurable terms such as “better”; available equipment ignored; supportive evidence proves a model; models are exact copies.
+
+CONTENT BLUEPRINT
+Practice questions — exactly 48:
+- 1–7 investigability, feasibility and ethics
+- 8–15 identify/operationalise variables
+- 16–23 develop focused questions from observations
+- 24–31 distinguish and write hypotheses
+- 32–38 derive reasoned predictions
+- 39–44 compare explanatory models and discriminating tests
+- 45–48 revise questions/models using evidence
+Test questions — exactly 16, independently worded:
+- 1–4 evaluate and improve investigable questions
+- 5–7 variables and operational definitions
+- 8–11 hypothesis/prediction reasoning
+- 12–14 competing-model tests
+- 15–16 evidence-based model revision
+Feedback must state whether the flaw concerns measurability, feasibility, causality, explanatory reasoning or model scope.
+
+======================================================================
+BATCH CHECKPOINT — THIRD FOUR YEAR 10 SCIENCE CODES
+======================================================================
+AC9S10H02: AUTHORING-READY
+AC9S10H03: AUTHORING-READY
+AC9S10H04: AUTHORING-READY
+AC9S10I01: AUTHORING-READY
+
+Research completed with exact Australian Curriculum descriptors, sequential single-tab IXL/Khan checks where mapped, explicit SOURCE-NOT-MAPPED records, and multiple reputable public sources. All four blueprints reserve exactly 48 Practice Questions and exactly 16 independent Test Questions.
