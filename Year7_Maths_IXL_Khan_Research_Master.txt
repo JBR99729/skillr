@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M7SP04
-LAST_COMPLETED_CODE: AC9M7SP03
-NEXT_CODE: AC9M7SP04
+CURRENT_CODE: AC9M7P02
+LAST_COMPLETED_CODE: AC9M7P01
+NEXT_CODE: AC9M7P02
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 5 COMPLETE (LATEST: AC9M7M05–AC9M7SP03)
+BATCH: 6 COMPLETE (LATEST: AC9M7SP04, AC9M7ST01–AC9M7ST03, AC9M7P01)
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -964,5 +964,201 @@ BATCH 5 QA CHECK
 - Every code includes scope boundary, misconceptions, Topic Page/Classroom/Homework transfer, a 48-Practice blueprint and a separate 16-Test blueprint.
 - AC9M7M05–AC9M7SP03 are AUTHORING-READY.
 
+
+==============================================================================
+AC9M7SP04 — SPATIAL CLASSIFICATION ALGORITHMS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Design and create algorithms involving a sequence of steps and decisions that will sort and classify sets of shapes according to their attributes, and describe how the algorithms work.
+
+CURRICULUM BOUNDARY
+Students design finite, unambiguous procedures using ordered steps and yes/no decisions to classify shapes by side, angle, parallelism, symmetry and other stated attributes. Require testing, debugging and explanation. This is spatial reasoning expressed algorithmically; programming syntax is optional and should not displace mathematical properties.
+
+IXL MAPPING AND EVIDENCE
+IXL Year 7 has no single skill for designing and debugging classification algorithms: SOURCE-NOT-MAPPED at full-code level.
+Supporting mappings on https://au.ixl.com/maths/year-7 are “Identify and classify polygons”, “Classify triangles”, “Parallel sides in quadrilaterals”, “Classify quadrilaterals I/II” and “Use Venn diagrams to solve problems”.
+The IXL progression supplies the atomic decisions an algorithm needs: count sides; test angle type; test equal/parallel sides; apply a definition; place the shape in every valid inclusive class. AC9M7SP04 adds ordering, branching, completeness, testing and description.
+High-value algorithm pattern: START → Is it a polygon? → How many sides? → Are opposite sides parallel? → Are all sides equal? → Are all angles right angles? Each terminal label must be justified by the path.
+Misconceptions: vague steps such as “check its shape”; testing a property after already assigning a label; overlapping branches without precedence; omitting a possible input; using appearance instead of marked properties; assuming categories are mutually exclusive; an algorithm that works only for the examples shown.
+
+KHAN / TRUSTED EVIDENCE
+Khan has property-based polygon/quadrilateral classification but no exact Year 7 shape-algorithm lesson: SOURCE-NOT-MAPPED for the algorithm-design component.
+Supporting Khan classification lesson: https://www.khanacademy.org/math/cc-fifth-grade-math/classify-shapes/imp-classifying-geometric-shapes/v/intro-to-quadrilateral
+CS Unplugged provides trusted public foundations for algorithms, decisions, testing and debugging: https://www.csunplugged.org/en/topics/kidbots/
+Australian Curriculum v9/QCAA control the integration of spatial attributes with algorithmic thinking.
+
+AUTHORING TRANSFER
+Topic Page: define algorithm, input, attribute, decision, branch, output and debug; turn a shape hierarchy into a decision tree; contrast an ambiguous and a robust algorithm; trace multiple shapes; revise failed branches.
+Classroom View: property-card warm-up, human decision-tree activity, teams build algorithms for mixed shape sets, peer teams test with counterexamples, debug and explain why every input terminates.
+Homework: order scrambled steps, complete decision branches, trace inputs, find a counterexample, repair an algorithm and design one for a new set.
+Feedback: identify the first ambiguous or incomplete decision, rewrite it as a measurable yes/no test, trace every branch and confirm all intended shapes reach a defensible label.
+
+48-PRACTICE BLUEPRINT
+P01–P08 attributes and precise yes/no tests; P09–P16 trace algorithms; P17–P24 complete branches/outputs; P25–P32 order steps; P33–P40 debug with counterexamples; P41–P48 design and explain original classification algorithms.
+16-TEST BLUEPRINT
+T01–T04 property decisions; T05–T08 tracing/completion; T09–T12 independent debugging; T13–T16 full algorithm design, test and explanation.
+
+==============================================================================
+AC9M7ST01 — ACQUIRING NUMERICAL DATA AND CHOOSING CENTRE
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Acquire data sets for discrete and continuous numerical variables and calculate the range, median, mean and mode; make and justify decisions about which measures of central tendency provide useful insights into the nature of the distribution of data.
+
+CURRICULUM BOUNDARY
+Distinguish discrete counts from continuous measurements; collect or source numerical data; calculate range and the three measures of centre; then justify which centre is informative in light of distribution, repeated values, skew and outliers. Do not reduce the code to calculation drills or present one measure as universally best.
+
+IXL MAPPING AND EVIDENCE
+Direct mappings from IXL Year 7 Statistics:
+- “Calculate mean, median, mode and range”: https://au.ixl.com/maths/year-7/calculate-mean-median-mode-and-range
+- “Interpret charts to find mean, median, mode and range”
+- “Mean, median, mode and range: find the missing number”
+- “Changes in mean, median, mode and range”
+- “Identify an outlier”
+- “Identify an outlier and describe the effect of removing it”
+- “Measures of centre and spread”
+The worked-example method family is clear across these skills: order data before finding the median; add all values and divide by the number of values for mean; find the most frequent value for mode; subtract minimum from maximum for range; then compare how an outlier changes each statistic.
+Required authoring extension beyond IXL calculation: learners acquire their own discrete and continuous data and justify a statistic in context.
+Misconceptions: calling measured data discrete because readings are written as whole numbers; forgetting to order for median; dividing by the sum rather than count; assuming every set has one mode; including range as a measure of centre; automatically choosing mean despite an extreme outlier; giving a statistic without units/context.
+
+KHAN / TRUSTED EVIDENCE
+Khan’s statistics lessons support mean, median, mode, range and the effect of outliers; its distribution lesson distinguishes peaks, gaps, clusters and outliers: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6-shape-of-data/v/examples-analyzing-clusters-gaps-peaks-and-outliers-for-distributions
+Australian Bureau of Statistics education resources provide trustworthy real datasets and guidance on statistical investigations: https://www.abs.gov.au/statistics/people/education
+Australian Curriculum/QCAA control the discrete/continuous acquisition and justification requirements.
+
+AUTHORING TRANSFER
+Topic Page: discrete-vs-continuous sorting; ethical/repeatable measurement notes; worked ordered data set; visual “balance point” for mean; median as middle; mode as frequency peak; outlier comparison table; contextual statistic-choice sentence frames.
+Classroom View: collect class measurements and counts, calculate with spreadsheet and by hand, insert/remove an outlier, compare centre/range, and defend the most useful measure.
+Homework: classify variables, design collection methods, calculate statistics, repair errors, compare outlier effects and justify a measure for wages, travel times and survey data.
+Feedback: classify how the value was generated, order/check the data, state the correct calculation, attach units and justify the measure using shape/outlier evidence.
+
+48-PRACTICE BLUEPRINT
+P01–P08 discrete/continuous and collection; P09–P16 mean; P17–P24 median/mode; P25–P30 range; P31–P38 missing values/changes; P39–P44 outlier effects; P45–P48 justified choice of centre.
+16-TEST BLUEPRINT
+T01–T04 variable/data acquisition; T05–T08 calculation; T09–T12 independent outlier/comparison questions; T13–T16 contextual measure choice and justification.
+
+==============================================================================
+AC9M7ST02 — NUMERICAL DATA DISPLAYS AND DISTRIBUTION COMPARISON
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Create different types of numerical data displays including stem-and-leaf plots using software where appropriate; describe and compare the distribution of data, commenting on the shape, centre and spread including outliers and determining the range, median, mean and mode.
+
+CURRICULUM BOUNDARY
+Create and interpret dot plots, stem-and-leaf plots and other appropriate numerical displays; use software where useful; compare distributions using shape, centre, spread and outliers plus calculated summaries. Graph construction must include title, scale, labels and key. Avoid advanced inference, standard deviation or formal skew coefficients.
+
+IXL MAPPING AND EVIDENCE
+Direct Year 7 mappings:
+- “Interpret dot plots” and “Create dot plots”
+- “Interpret stem-and-leaf plots”: https://au.ixl.com/maths/year-7/interpret-stem-and-leaf-plots
+- “Create stem-and-leaf plots”: https://au.ixl.com/maths/year-7/create-stem-and-leaf-plots
+- “Choose the best type of graph”
+- the Z.1–Z.7 statistics skills for summaries, changes, outliers and centre/spread
+IXL’s stem-and-leaf construction progression requires splitting each value into stem and leaf, ordering leaves, retaining repeated values and supplying a key. Its interpretation tasks reconstruct values before asking for counts or statistics. Dot-plot items preserve individual data values while making clusters, gaps and outliers visible.
+Misconceptions: unordered leaves; dropping repeated leaves; inconsistent place value; missing key; treating leaf “4” as 4 rather than, for example, 24; comparing only means; calling a single tail value a cluster; using unequal graph scales to exaggerate differences; describing “higher” without naming centre/spread evidence.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Stem-and-leaf plots” reconstructs basketball scores by reading stems and leaves and preserving the original data values: https://www.khanacademy.org/math/ap-statistics/quantitative-data-ap/histograms-stem-leaf/v/u08-l1-t2-we3-stem-and-leaf-plots
+Khan “Clusters, gaps, peaks & outliers” supports distribution-shape language: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6-shape-of-data/v/examples-analyzing-clusters-gaps-peaks-and-outliers-for-distributions
+ABS education datasets provide authentic material for software-created displays. AC v9/QCAA control the Year 7 comparison boundary.
+
+AUTHORING TRANSFER
+Topic Page: choose a display by purpose/data type; construct dot and stem-and-leaf plots; include a key; use software for a larger set; introduce the comparison frame “shape–centre–spread–outliers”; compare two sets on common scales.
+Classroom View: human dot plot, hand-built stem plot, software recreation, deliberate bad-graph audit and paired-distribution written comparison.
+Homework: reconstruct data, create plots, compute summaries from displays, identify shape/features, compare distributions and critique misleading scales/keys.
+Feedback: verify every datum appears once, order values, label/key the display, calculate summaries from reconstructed data and make comparative—not separate—statements.
+
+48-PRACTICE BLUEPRINT
+P01–P08 select/read displays; P09–P16 create dot plots; P17–P24 create/read stem-and-leaf plots; P25–P32 calculate summaries from displays; P33–P40 describe shape/centre/spread/outliers; P41–P48 compare two distributions and audit software/graph choices.
+16-TEST BLUEPRINT
+T01–T04 display conventions; T05–T08 construction; T09–T12 independent summary/shape interpretation; T13–T16 full comparative analysis and critique.
+
+==============================================================================
+AC9M7ST03 — STATISTICAL INVESTIGATIONS AND REPORTING
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Plan and conduct statistical investigations involving data for discrete and continuous numerical variables; analyse and interpret distributions of data and report findings in terms of shape and summary statistics.
+
+CURRICULUM BOUNDARY
+Complete the inquiry cycle: pose a clear statistical question anticipating variability; identify population/variables; choose a fair collection or sampling method; collect/clean data; select displays and summaries; analyse shape, centre, spread and outliers; report a contextual conclusion with limitations. Include both discrete and continuous investigations.
+
+IXL MAPPING AND EVIDENCE
+IXL has no single end-to-end investigation skill: SOURCE-NOT-MAPPED at full-code level.
+Supporting mappings:
+- “Identify representative, random and biased samples”
+- “Create/interpret dot plots”
+- “Create/interpret stem-and-leaf plots”
+- “Choose the best type of graph”
+- “Measures of centre and spread”
+The mapped sequence supports component evidence: recognise biased convenience/voluntary samples; organise data; choose displays; calculate summaries; identify outliers. The authoring must explicitly connect these components into planning, conducting and reporting.
+Misconceptions: asking a non-statistical yes/no question; confusing sample and population; convenience sample presented as representative; changing measurement method between participants; deleting valid outliers without reason; choosing a display after seeing which looks persuasive; claiming causation from descriptive data; reporting calculations without answering the question; generalising beyond the sampled group.
+
+KHAN / TRUSTED EVIDENCE
+Khan’s Grade 7 probability/statistics materials cover random and representative samples and drawing cautious conclusions from samples: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics
+ABS education guidance and datasets support real investigations, variable definitions and responsible reporting: https://www.abs.gov.au/statistics/people/education
+CensusAtSchool New Zealand offers reputable classroom survey data and investigation resources: https://new.censusatschool.org.nz/
+Australian Curriculum/QCAA control the required investigation/reporting language.
+
+AUTHORING TRANSFER
+Topic Page: PPDAC-style cycle (problem, plan, data, analysis, conclusion); statistical-question test; variable/data-type table; sampling bias examples; cleaning decisions; display/statistic choice; conclusion and limitation scaffold.
+Classroom View: teams investigate a class question, write a plan before collection, use a consistent protocol, analyse with hand/software tools, peer-review claims and present a one-page evidence report.
+Homework: improve questions, critique samples, plan variables/methods, clean small datasets, select analyses, write conclusions and identify limitations.
+Feedback: reconnect every choice to the investigation question, distinguish sample/population, justify method/display/statistic, describe evidence and limit the conclusion to what the data support.
+
+48-PRACTICE BLUEPRINT
+P01–P08 statistical questions/variables; P09–P16 populations and sampling; P17–P24 collection plans/quality; P25–P32 cleaning/displays; P33–P40 analysis with summaries and shape; P41–P48 conclusions, limitations and full investigation critique.
+16-TEST BLUEPRINT
+T01–T04 questions/variables; T05–T08 sample/design; T09–T12 independent analysis; T13–T16 complete plan/report evaluation.
+
+==============================================================================
+AC9M7P01 — SAMPLE SPACES AND SINGLE-STAGE PROBABILITY
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Identify the sample space for single-stage events; assign probabilities to the outcomes of these events and predict relative frequencies for related events.
+
+CURRICULUM BOUNDARY
+List complete sample spaces for one-stage experiments; distinguish outcomes from events; assign probabilities between 0 and 1 for equally likely or explicitly weighted outcomes; calculate event probabilities; and predict expected/relative frequencies over a stated number of trials. Repeated experimental comparison belongs mainly to AC9M7P02, though reasonableness checks are useful.
+
+IXL MAPPING AND EVIDENCE
+Direct Year 7 mappings:
+- “More, less and equally likely”
+- “Sample space of simple events”: https://au.ixl.com/maths/year-7/sample-space-of-simple-events
+- “Probability of simple events”: https://au.ixl.com/maths/year-7/probability-of-simple-events
+- “Probability of opposite, mutually exclusive and overlapping events”
+- “Make predictions”
+Supporting “Experimental probability” is reserved mainly for the next code.
+IXL progression: enumerate outcomes of a spinner/die/bag; count favourable and total equally likely outcomes; write P(event)=favourable/total; use complements or event language; multiply probability by the number of trials to predict a frequency.
+Authoring must distinguish equally likely outcomes from equally named categories: a spinner colour covering three equal sectors has three elementary outcomes, not one.
+Misconceptions: incomplete or duplicated sample space; confusing event with outcome; denominator equals number of favourable outcomes; treating physical outcomes as equally likely without evidence; probabilities outside [0,1]; forgetting to simplify or give expected frequency in context; promising an exact future count rather than a prediction.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Theoretical probability” introduces probability through a fair coin and die and uses favourable outcomes over all equally likely outcomes: https://www.khanacademy.org/math/statistics-probability/probability-library/basic-theoretical-probability/v/basic-probability
+Khan’s theoretical-versus-experimental lesson emphasises that observed relative frequency need not exactly equal theoretical probability in a finite run: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability/v/comparing-theoretical-to-experimental-probabilites
+NRICH probability tasks provide trusted sample-space and fairness reasoning: https://nrich.maths.org/primary/geometry-and-measure/probability
+Australian Curriculum/QCAA control single-stage scope.
+
+AUTHORING TRANSFER
+Topic Page: vocabulary and 0–1 probability scale; systematic sample-space lists/tables; fair die, unequal-colour spinner and bag examples; event probability; complement check; predicted frequency n×p; distinguish prediction from guarantee.
+Classroom View: list outcomes before calculating, physical spinner fairness discussion, human probability line, card/die stations and compare two representations of the same sample space.
+Homework: complete sample spaces, assign outcome/event probabilities, diagnose unequal-likelihood traps, use complements, predict frequencies and explain uncertainty.
+Feedback: list elementary outcomes once, decide whether they are equally likely, count favourable/total or use given weights, check total probability is 1 and phrase frequency as an expectation.
+
+48-PRACTICE BLUEPRINT
+P01–P08 vocabulary/probability scale; P09–P16 sample spaces; P17–P24 equally likely event probabilities; P25–P32 unequal representations/complements; P33–P40 predicted frequencies; P41–P48 fairness, error analysis and contextual reasoning.
+16-TEST BLUEPRINT
+T01–T04 sample-space fluency; T05–T08 event probabilities; T09–T12 independent weighted/complement/frequency questions; T13–T16 fairness and justification. Keep all events single-stage.
+
+==============================================================================
+BATCH 6 QA CHECK
+- Five codes researched: AC9M7SP04, AC9M7ST01, AC9M7ST02, AC9M7ST03 and AC9M7P01.
+- Exact descriptors were verified against SkillrHub’s Australian Curriculum v9-aligned launch pages and QCAA scope.
+- IXL Australia’s current Year 7 catalogue was checked sequentially; direct mappings and genuine full-code mapping gaps were recorded.
+- Khan mappings were checked for classification, descriptive statistics, sampling and probability; CS Unplugged, ABS, CensusAtSchool and NRICH supplied trusted public extensions.
+- Each code includes curriculum boundary, progression, misconceptions, Topic Page/Classroom/Homework transfer, exactly-48 Practice blueprint and separate exactly-16 Test blueprint.
+- All five codes are AUTHORING-READY.
+
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M7SP04. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M7P02. Do not repeat completed research unless a source or curriculum descriptor materially changes.
