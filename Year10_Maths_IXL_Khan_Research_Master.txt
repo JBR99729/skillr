@@ -1,15 +1,15 @@
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M10SP01
-LAST_COMPLETED_CODE: AC9M10M05
-NEXT_CODE: AC9M10SP01
+CURRENT_CODE: AC9M10ST01
+LAST_COMPLETED_CODE: AC9M10SP03
+NEXT_CODE: AC9M10ST01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
 YEAR: 10
 SUBJECT: Mathematics
 CURRICULUM: Australian Curriculum v9.0
-BATCH_STATUS: FIRST ELEVEN CODES STRICTLY VERIFIED — AUTHORING-READY
+BATCH_STATUS: FIRST FOURTEEN CODES STRICTLY VERIFIED — AUTHORING-READY
 RESEARCH_DATE_UTC: 2026-09-11
 
 YEAR 10 MATHEMATICS — IXL / KHAN / PUBLIC-SOURCE RESEARCH MASTER
@@ -1215,3 +1215,282 @@ STRICT QA DECISION
 - Topic/Classroom/worksheet and 48/16 coverage: sufficient.
 - AC9M10M05 is AUTHORING-READY.
 - NEXT_CODE: AC9M10SP01.
+
+
+===============================================================================
+AC9M10SP01
+OFFICIAL DESCRIPTOR
+Apply deductive reasoning to proofs involving shapes in the plane and use theorems to solve spatial problems.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+The code requires proof, not visual persuasion or calculation alone. Students must begin from givens, definitions and accepted theorems; connect statements by valid reasons; and reach a necessary conclusion. Appropriate scope includes angle relationships, parallel/perpendicular lines, triangles, congruence, similarity and quadrilateral properties. Students should read, complete, critique and construct proofs in words, two-column form or logically ordered steps, and then use proved results to solve unfamiliar spatial problems. Coordinate or transformation arguments may support a proof, but measuring a diagram or checking several examples is not proof.
+
+PREREQUISITES
+- Angle facts: vertical, complementary, supplementary and linear-pair relationships.
+- Corresponding, alternate and co-interior angles with parallel lines.
+- Triangle angle sum and exterior-angle facts.
+- Triangle congruence criteria SSS, SAS, ASA and AAS; similarity criteria.
+- Accurate correspondence notation, definitions, algebraic equality properties and shared-side/reflexive reasoning.
+
+IXL AUSTRALIA MAPPING — AUTHENTICATED, ONE-TAB SEQUENTIAL REVIEW
+Strong direct component mapping:
+- X.6 Proofs involving angles.
+- X.7–X.8 Proofs involving parallel lines I–II.
+- Z.9 Proving triangles congruent by SSS, SAS, ASA and AAS.
+- Z.10 Proofs involving corresponding parts of congruent triangles.
+- Z.11 Proofs involving isosceles triangles.
+- AA.11–AA.12 Proofs involving triangles I–II.
+Supporting skills include triangle angle sum, congruence statements/corresponding parts, and similarity rules. No single IXL skill represents every theorem and open spatial application in the descriptor, so the authoring sequence must integrate these components.
+
+IXL “LEARN WITH AN EXAMPLE” EVIDENCE
+Representative mapped skills were opened individually and their worked panels inspected.
+- X.6: two linear-pair sums both equal 180°; use transitivity to equate the sums, subtract the shared angle, then convert equal measures to congruent angles. Teaching transfer: every algebraic change needs a stated justification.
+- X.7: parallel-line arrows establish corresponding angles as congruent; combine this with a linear-pair sum and use substitution to prove two other angles supplementary.
+- Z.9: use two given side congruences plus vertical angles to establish SAS. The example explicitly guards against selecting a criterion before matching the included angle.
+- Z.10: parallel lines give alternate interior angles; a shared side is congruent to itself; AAS proves the triangles congruent; CPCTC then establishes the target side result.
+- AA.11: perpendicular lines define a 90° angle; substitute into the triangle-angle-sum equation and simplify to prove the remaining angles are complementary.
+Across these examples the productive routine is: mark givens, state the target, identify a theorem bridge, write one justified inference per line, and check that correspondence order remains consistent.
+
+KHAN ACADEMY EVIDENCE — AUTHENTICATED SESSION
+Proving triangle congruence:
+https://www.khanacademy.org/math/geometry/hs-geo-congruence/xff63fac4%3Ahs-geo-congruent-triangles/v/proving-triangle-congruence
+The transcript models an important proof habit: a diagram that looks parallel or congruent does not license the claim. It derives alternate interior angles from an explicitly given parallel pair, uses a shared side by reflexivity, decides when the information is insufficient, then adds a second angle condition and concludes AAS. It also reorganises the reasoning into statements and rationales. The surrounding Khan sequence supplies congruence criteria, corresponding parts, proof exercises and review. This strongly supports proof reasoning but must be supplemented for the full range of plane-shape theorems in this Australian code.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: descriptor and elaboration scope anchor.
+- GeoGebra Geometry: dynamic diagrams for conjecture generation and counterexample hunting; authoring must clearly separate exploration from proof.
+- AMSI school mathematics resources: theorem vocabulary, congruence/similarity and logically communicated arguments.
+Digital measurements may motivate a conjecture but are never presented as the deductive justification.
+
+12 MATERIALLY DIFFERENT QUESTION / APPLICATION FAMILIES
+1. Supply a missing reason in a two-column angle proof.
+2. Reorder scrambled statements into a valid proof chain.
+3. Identify the first invalid inference in a flawed proof.
+4. Prove angles equal using vertical angles and linear pairs.
+5. Prove supplementary/equal angles using parallel lines and a transversal.
+6. Prove triangle congruence and name the correct criterion.
+7. Decide that the available information is insufficient; state one condition that would suffice.
+8. Use CPCTC after congruence to prove a target side or angle.
+9. Prove an isosceles-triangle base-angle or converse result.
+10. Use triangle-angle-sum/perpendicular facts in an algebraic proof.
+11. Prove a quadrilateral property by dividing it into triangles.
+12. Use similarity or a proved theorem to solve an unfamiliar length/angle spatial problem.
+
+PROGRESSION
+A. Distinguish evidence, conjecture and proof; identify givens and targets.
+B. Match single statements to definitions/theorems.
+C. Complete short angle and parallel-line proofs.
+D. Select congruence/similarity criteria with correct correspondence.
+E. Chain congruence to CPCTC or another theorem.
+F. Critique incomplete/circular proofs.
+G. Construct and communicate a full proof, then apply the theorem to a new problem.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Assuming a property from appearance or scale drawing.
+- Using the desired conclusion as a reason (circularity).
+- Confusing equal measures with congruent objects without invoking the definition.
+- Treating AAA as congruence or SSA as a general congruence criterion.
+- Misidentifying included side/angle for SAS or ASA.
+- Reversing triangle correspondence order.
+- Using CPCTC before congruence has been established.
+- Citing “parallel lines” without the relevant angle theorem.
+- Skipping a substitution/equality step because the result feels obvious.
+- Believing numerical checking of examples proves a universal claim.
+
+TOPIC PAGE / CLASSROOM VIEW / WORKSHEET REQUIREMENTS
+- Topic Page: proof versus demonstration; labelled theorem bank; correspondence conventions; worked angle, parallel-line and congruent-triangle proofs; insufficient-information example; proof-check checklist.
+- Classroom View: reveal one statement/reason at a time, colour-match corresponding parts, and include a deliberate “looks true” claim for students to reject.
+- Homework/Worksheet: theorem recall, missing-step items, scrambled proofs, error analysis, full proof construction and transfer problems; diagrams must not leak answers through accurate scale.
+
+48 PRACTICE + 16 TEST BLUEPRINT
+Practice: 4 items per family across the 12 families (48 exactly), progressing from recognition to multi-step construction. Feedback names the first unsupported inference and the theorem needed, rather than only showing the final proof.
+Test: 16 independent stems — 3 angle/parallel proofs, 4 congruence/CPCTC, 2 similarity/quadrilateral applications, 3 proof critique or insufficiency items, and 4 unfamiliar multi-step spatial proofs. No practice stem reuse.
+
+QA / AUTHORING CONTROLS
+- Every proof line has a valid prior basis and accurately named reason.
+- Diagrams, markings and givens agree; no conclusion depends on appearance.
+- Congruence/similarity correspondence is checked in both notation and diagram labels.
+- Distractors encode a specific invalid inference.
+- Practice and test are independent.
+STRICT QA DECISION: curriculum scope, authenticated IXL worked methods, authenticated Khan transcript, public-source triangulation and assessment coverage are sufficient. AC9M10SP01 is AUTHORING-READY.
+
+===============================================================================
+AC9M10SP02
+OFFICIAL DESCRIPTOR
+Interpret networks and network diagrams used to represent relationships in practical situations and describe connectedness.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students abstract a practical system into nodes (vertices) and links (edges), interpret what each represents, and reason about whether and how parts are connected. Contexts may include roads, flights, social contacts, communications, utilities and the Seven Bridges of Königsberg. Required reasoning includes adjacency, degree, walks/routes, components, bridges/cut edges and connectedness; weighted or directed links should be interpreted when the context requires them. The emphasis is modelling and interpretation, not advanced graph-theory notation or formal algorithmic complexity.
+
+PREREQUISITES
+- Reading maps, tables and diagrams.
+- Counting systematically and distinguishing objects from relationships.
+- Simple path/route reasoning and addition of weights.
+- Understanding that spatial placement in an abstract network need not match geography.
+
+IXL AUSTRALIA MAPPING — AUTHENTICATED CATALOGUE CHECK
+DIRECT FULL-CODE MATCH: SOURCE-NOT-MAPPED.
+The authenticated Year 10 catalogue was checked in the same single IXL tab for network, node/vertex, edge, path, route, connectedness and graph-theory skills. Results headed “vertex” or “graph” concerned parabolas, coordinate geometry, relations or feasible regions, not graph networks. These are false friends and must not be cited as coverage. Consequently there is no IXL Learn-with-an-example panel to report for this code; the provider gap is explicit.
+
+KHAN ACADEMY EVIDENCE — AUTHENTICATED SEARCH
+DIRECT FULL-CODE MATCH: SOURCE-NOT-MAPPED.
+The authenticated Khan search “graph theory Euler paths networks” returned no results. Khan graphing resources refer mainly to coordinate/function graphs and are not substitutes for network graphs. This verified gap means authoring must rely on the curriculum anchor and specialist public graph-theory resources rather than inflating a tangential mapping.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: scope and practical-context anchor.
+- Mathigon graph-theory materials: vertices, edges, degree, connected graphs and route problems.
+- NRICH-style Königsberg investigations: translate land masses to vertices and bridges to edges, then reason from degree rather than trial-and-error drawings.
+- GeoGebra/diagramming tools: redraw equivalent networks and test whether layout changes connectivity.
+Key authoring rule: topology (which nodes are linked) matters; line length, curvature and crossing usually do not unless the context assigns them meaning.
+
+12 MATERIALLY DIFFERENT QUESTION / APPLICATION FAMILIES
+1. Identify what nodes and edges represent in a stated context.
+2. Convert a map, relationship table or written description to a network.
+3. Read adjacency: determine which pairs are directly linked.
+4. Count vertex degree, including a loop or repeated connection when explicitly included.
+5. Decide whether two differently drawn diagrams represent the same network.
+6. Identify connected and disconnected networks/components.
+7. Find a path between two nodes or explain that none exists.
+8. Distinguish a walk, trail, path and circuit at accessible Year 10 depth.
+9. Interpret directed edges such as one-way roads or follows.
+10. Interpret weighted edges such as distance, time or cost.
+11. Identify a bridge/cut edge whose removal disconnects a network.
+12. Analyse a Königsberg/Euler-route situation using odd/even degrees and connectedness.
+
+PROGRESSION
+A. Decode node/edge meaning.
+B. Build and read small undirected networks.
+C. Count degree and describe adjacency.
+D. Analyse components, paths and vulnerable links.
+E. Interpret directed/weighted variants.
+F. Compare equivalent representations.
+G. Justify route feasibility in an authentic network.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Treating a crossing as a vertex when no node is marked.
+- Treating close nodes as connected without an edge.
+- Believing curved/long edges change connectivity.
+- Confusing degree with total vertices or path length.
+- Ignoring direction arrows or edge weights.
+- Calling a network connected because one large component exists while another node is isolated.
+- Confusing “visit every vertex” with “use every edge”.
+- Assuming repeated trial proves no route exists.
+- Applying the odd-degree rule without first checking connectedness.
+- Counting a loop or parallel edges incorrectly.
+
+TOPIC PAGE / CLASSROOM VIEW / WORKSHEET REQUIREMENTS
+- Topic Page: vocabulary visual, context-to-network worked example, equivalent redraw, components/bridge example, directed and weighted examples, Königsberg reasoning.
+- Classroom View: progressively abstract a real map into a graph; toggle an edge to show a component split; compare routes and weights.
+- Homework/Worksheet: interpret, construct, redraw, diagnose and justify; include both diagram and table representations and accessibility descriptions.
+
+48 PRACTICE + 16 TEST BLUEPRINT
+Practice: 4 items per each of the 12 families (48 exactly). Mix diagram reading, construction-choice, short justification and route analysis.
+Test: 16 independent stems — 4 representation/adjacency, 3 degree/equivalence, 3 connectedness/components/bridges, 3 directed/weighted, and 3 route-feasibility applications. No practice/test stem overlap.
+
+QA / AUTHORING CONTROLS
+- Mark every true vertex; ensure unmarked crossings are visually unambiguous.
+- Check degree sums against twice the number of undirected edges where applicable.
+- State whether networks are directed, weighted, simple or allow repeated edges.
+- Route answers are validated edge by edge.
+- IXL and Khan gaps remain labelled SOURCE-NOT-MAPPED.
+STRICT QA DECISION: verified provider gaps plus curriculum and specialist-source evidence, 12 authoring families and full assessment architecture are sufficient. AC9M10SP02 is AUTHORING-READY.
+
+===============================================================================
+AC9M10SP03
+OFFICIAL DESCRIPTOR
+Design, test and refine solutions to spatial problems using algorithms and digital tools; communicate and justify solutions.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+This is a modelling-and-design code. Students formulate a spatial problem with constraints, devise a repeatable algorithm, implement or simulate it with a digital tool, test against cases and criteria, refine the process or design, and communicate why the final solution works. Suitable tasks include scale models and fabrication, tessellation/layout, coverage, routing and weighted networks. A polished digital artefact alone is insufficient: the algorithm, test evidence, revisions and justification must be visible.
+
+PREREQUISITES
+- Scale, coordinates, transformations, measurement and 2D/3D representations.
+- Networks, connectedness, paths and weights where relevant.
+- Sequencing, branching, iteration and precise instructions.
+- Estimation, unit conversion, error checking and interpreting constraints.
+
+IXL AUSTRALIA MAPPING — AUTHENTICATED CATALOGUE CHECK
+DIRECT FULL-CODE MATCH: SOURCE-NOT-MAPPED.
+The Year 10 catalogue contains useful components such as coordinate-plane review, transformation matrices, area/perimeter in the coordinate plane, similar figures/solids and measurement. It does not provide a single skill requiring students to design, test and refine an algorithmic spatial solution and justify iterations. Therefore these components may support calculations but cannot be represented as full code coverage. No directly mapped Learn-with-an-example panel exists for the complete design cycle.
+
+KHAN ACADEMY EVIDENCE — AUTHENTICATED SEARCH
+DIRECT FULL-CODE MATCH: SOURCE-NOT-MAPPED.
+The authenticated search “spatial problems algorithms scale models 3D” returned no direct result. Relevant Khan lessons on scale drawings, transformations, surface area/volume and programming concepts can supply prerequisites, but the integrated spatial design–test–refine cycle is not directly mapped. The gap must be authored explicitly.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: design-cycle and elaboration scope anchor.
+- GeoGebra Geometry/3D Calculator: construct, measure, transform and dynamically test constraint satisfaction.
+- Desmos Geometry: encode reusable construction steps and compare cases.
+- Scratch educational computing: sequence, repeat and conditional structures for turtle/coordinate geometry.
+- Digital fabrication/CAD education workflows: scale models, nets, tolerances, fit and material constraints.
+Tool choice is assessed by fitness for purpose, not brand familiarity.
+
+12 MATERIALLY DIFFERENT QUESTION / APPLICATION FAMILIES
+1. Translate a spatial brief into variables, constraints and success criteria.
+2. Order pseudocode steps for a coordinate construction.
+3. Predict the output of a translation/rotation/reflection algorithm.
+4. Diagnose and repair an off-by-one, wrong-origin or sign error.
+5. Design a repeating transformation for a tessellation/pattern.
+6. Create/test an algorithm for area coverage with minimal overlap or gaps.
+7. Plan a scale model or 3D component with unit/tolerance constraints.
+8. Compare candidate nets/layouts for fit and material efficiency.
+9. Design a route algorithm on an unweighted network.
+10. Compare weighted routes by time, distance or cost.
+11. Test boundary, degenerate and counterexample cases; refine the algorithm.
+12. Communicate a final solution with pseudocode, digital evidence, revision log and justification.
+
+PROGRESSION
+A. Parse the problem and define measurable criteria.
+B. Represent the space using coordinates, shapes or a network.
+C. Write an unambiguous step sequence.
+D. Execute manually on a simple case.
+E. Implement with a suitable digital tool.
+F. Test normal, boundary and failure cases.
+G. Refine and compare efficiency/accuracy.
+H. Communicate assumptions, evidence and justification.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Starting tool work before defining criteria.
+- Giving a one-off answer rather than a repeatable algorithm.
+- Confusing world and screen coordinate directions.
+- Applying transformations in the wrong order.
+- Mixing units or scale factors; ignoring tolerance.
+- Testing only the example used to design the method.
+- Calling a result optimal without comparing alternatives.
+- Changing several variables at once, obscuring which refinement helped.
+- Treating attractive output as evidence of correctness.
+- Omitting assumptions, failure cases or revision evidence.
+- Minimising number of edges when the objective is minimum total weight.
+- Using an algorithm that fails for disconnected or boundary cases.
+
+TOPIC PAGE / CLASSROOM VIEW / WORKSHEET REQUIREMENTS
+- Topic Page: define–represent–algorithm–implement–test–refine–justify cycle; pseudocode conventions; worked coordinate pattern and network/coverage case; test table and revision log.
+- Classroom View: live prediction before running each step, expose a deliberate bug, compare two algorithms against the same criteria, then show evidence-led refinement.
+- Homework/Worksheet: tool-neutral planning grids, trace tables, boundary tests, design constraints, screenshot/data placeholders and written justification rubric.
+
+48 PRACTICE + 16 TEST BLUEPRINT
+Practice: 4 items for each of the 12 families (48 exactly), including trace, debug, design-choice, modelling and explanation formats.
+Test: 16 independent stems — 3 problem formulation/representation, 4 trace/transform/debug, 3 scale/coverage/model design, 3 network algorithm decisions, and 3 test–refine–justify tasks. Test artefacts and data differ entirely from practice.
+
+QA / AUTHORING CONTROLS
+- Every task states constraints, inputs, outputs and success criteria.
+- Pseudocode is deterministic where required and uses defined coordinates/units.
+- Expected outputs are independently traced.
+- Digital-tool claims include observable test evidence.
+- Refinement is tied to a failed criterion or comparative result.
+- Open designs use an explicit marking rubric while allowing multiple valid solutions.
+- IXL/Khan component coverage and full-code gaps are represented honestly.
+STRICT QA DECISION: curriculum scope, authenticated provider-gap checks, trusted digital-tool pedagogy, 12 evidence families and complete authoring blueprint are sufficient. AC9M10SP03 is AUTHORING-READY.
+
+===============================================================================
+BATCH CHECKPOINT — AC9M10SP01 TO AC9M10SP03
+- Three codes completed in this checkpoint.
+- Each has curriculum intent/boundary, prerequisites, authenticated IXL evidence or explicit full-code gap, authenticated Khan evidence or explicit gap, trusted-source triangulation, 12 materially different authoring families, progression, misconception logic, display/worksheet requirements and exact 48/16 architecture.
+- LAST_COMPLETED_CODE: AC9M10SP03.
+- NEXT_CODE: AC9M10ST01.
