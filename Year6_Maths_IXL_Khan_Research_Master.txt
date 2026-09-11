@@ -2,15 +2,15 @@ YEAR 6 MATHEMATICS — TARGETED IXL / KHAN RESEARCH MASTER
 Australian Curriculum Version 9.0 | SkillrHub
 Last updated: 2026-09-11
 
-PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: TARGETED_RESEARCH_RERUN
-CURRENT_CODE: AC9M6P02
-LAST_COMPLETED_CODE: AC9M6ST03
-NEXT_CODE: AC9M6P02
+PROJECT_STATUS: RESEARCH_COMPLETE
+CURRENT_PHASE: RESEARCH_COMPLETE
+CURRENT_CODE: NONE
+LAST_COMPLETED_CODE: AC9M6P02
+NEXT_CODE: AUTHORING_AC9M6N01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: FIRST FIVE PENDING CODES VERIFIED — AC9M6A03, AC9M6M04, AC9M6SP03, AC9M6ST02, AC9M6ST03
+BATCH: TARGETED YEAR 6 EVIDENCE RERUN COMPLETE — ALL SIX VERIFIED
 
 SCOPE
 This checkpoint reconstructs the missing Year 6 Maths research dossier for the six codes identified by the prior evidence audit. Research is for original SkillrHub Topic Pages, HTML Classroom Views, homework, 48 Practice questions and 16 separate Test questions. IXL Australia was used through one authenticated tab and Khan through one authenticated tab. Exact-source gaps are recorded rather than disguised with weak mappings.
@@ -111,4 +111,53 @@ BATCH QA
 - Authenticated IXL evidence is distinguished from catalogue mappings and image-only panels.
 - Authenticated Khan evidence is reused only where conceptually aligned; genuine full-code gaps are explicit.
 - Every code contains scope, progression, misconceptions, authoring transfer and separate 48/16 bank plans.
-- Remaining deficient code: AC9M6P02.
+- Remaining deficient code AC9M6P02 completed in the final batch.
+
+==============================================================================
+AC9M6P02 — REPEATED CHANCE EXPERIMENTS AND SIMULATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Conduct repeated chance experiments and run simulations with an increasing number of trials using digital tools; compare observations with expected results and discuss the effect on variation of increasing the number of trials.
+
+IXL AUTHENTICATED EVIDENCE
+Direct Year 6 mappings verified in the authenticated catalogue: EE.2 “Probability of one event”, EE.3 “Make predictions” and EE.4 “Experimental probability”.
+The EE.4 live question asks: Raymond won a prize on 6 of 15 spinner trials; find the experimental probability of a prize on the next spin. Its Learn-with-an-example asks about 2 goals from 20 shots. IXL defines experimental probability as event occurrences ÷ total trials, writes 2/20, simplifies it to 1/10 and states P(goal)=1/10. This establishes frequency-to-relative-frequency calculation and simplest-form reporting.
+IXL’s mapped skills support interpreting recorded results and predicting counts. The AC v9 extension must require learners to conduct repeated physical experiments, increase trial counts through a digital simulation, compare with the theoretical expectation and discuss how variation changes.
+
+KHAN AUTHENTICATED EVIDENCE
+Khan’s “Theoretical and experimental probabilities” transcript was verified in the authenticated session. A bag contains 50 magenta and 50 blue marbles, giving theoretical P(magenta)=1/2. With replacement, 7 magenta in 10 trials is treated as plausible short-run variation. A hypothetical 8,000 magenta in 10,000 trials gives experimental probability 0.8; persistent large-run disagreement with the expected 0.5 should prompt investigation of whether outcomes are truly equally likely or the apparatus/procedure introduces bias.
+https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-probability-statistics/cc-7th-theoretical-and-experimental-probability/v/comparing-theoretical-to-experimental-probabilites
+The lesson correctly distinguishes “closer with more trials” from “must equal exactly”. NRICH probability investigations are retained as the second trusted public teaching source: https://nrich.maths.org/primary/geometry-and-measure/probability
+
+CURRICULUM BOUNDARY AND PROGRESSION
+Predict theoretical probability → design a repeatable physical protocol → record frequency and cumulative relative frequency → repeat at 10, 50, 200 and 1,000+ trials using a digital tool → graph/compare observed and expected values → discuss random variation and possible bias. Increasing trials usually reduces relative variation and produces greater stability; it does not guarantee exact agreement or remove randomness.
+Use single-stage experiments with coins, dice, bags and unequal spinners. Simulation probabilities must match the physical model. Keep formal law-of-large-numbers proof and inferential significance testing out of scope.
+
+MISCONCEPTIONS
+Confusing experimental with theoretical probability; dividing by favourable theoretical outcomes instead of total trials; comparing raw frequencies when trial totals differ; changing replacement or apparatus rules mid-experiment; expecting exactly 50% after an even number of trials; claiming a larger trial count removes randomness; assuming a short run proves bias; programming equal digital outcomes for an unequal spinner; reporting expected frequency as a certainty.
+
+AUTHORING TRANSFER
+Topic Page: prediction–experiment–simulation–comparison cycle; frequency versus relative frequency; cumulative table/graph; physical coin and unequal-spinner models; spreadsheet/random-number pseudocode; explanation frames for short-run variation and long-run stability.
+Classroom View: make predictions before trials, run identical small-group experiments, pool results, simulate 10/50/200/1,000 trials, compare absolute deviations and relative frequencies, then critique “1,000 flips must give exactly 500 heads”.
+Homework: calculate experimental probabilities, compare unequal trial totals, complete cumulative tables, predict expected counts, evaluate protocols, debug simulations and write evidence-based conclusions.
+Feedback: verify the protocol and trial total, calculate event count ÷ trials, compare with theoretical probability using a stated difference, consider sample size and explain variation without promising exact convergence.
+
+48-PRACTICE BLUEPRINT
+P01–P08 experiment/simulation vocabulary and theoretical predictions.
+P09–P16 calculate and simplify experimental probabilities.
+P17–P24 expected frequencies and unequal-total comparisons.
+P25–P32 cumulative tables/graphs for increasing trial counts.
+P33–P40 physical versus digital protocol design and simulation debugging.
+P41–P48 variation, fairness, bias and evidence-based explanations.
+
+16-TEST BLUEPRINT
+T01–T04 experimental-probability fluency; T05–T08 predictions and comparisons; T09–T12 independent increasing-trial tables/graphs and simulation checks; T13–T16 experimental design, variation explanation and bias critique. Test values, contexts and reasoning structures must be separate from Practice.
+
+==============================================================================
+FINAL TARGETED YEAR 6 QA
+- All six previously deficient codes are now AUTHORING-READY.
+- Authenticated IXL Learn/live evidence and authenticated Khan transcripts are recorded where exact or materially aligned.
+- Full-code mapping gaps remain explicitly labelled and are supported by reputable public sources.
+- All records include authoring boundaries, misconceptions and separate 48-Practice/16-Test coverage plans.
+- No deficient Year 6 Maths research code remains.
