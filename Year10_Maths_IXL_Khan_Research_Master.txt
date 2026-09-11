@@ -1,15 +1,15 @@
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M10A05
-LAST_COMPLETED_CODE: AC9M10A04
-NEXT_CODE: AC9M10A05
+CURRENT_CODE: AC9M10M05
+LAST_COMPLETED_CODE: AC9M10M04
+NEXT_CODE: AC9M10M05
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
 YEAR: 10
 SUBJECT: Mathematics
 CURRICULUM: Australian Curriculum v9.0
-BATCH_STATUS: FIRST FIVE CODES STRICT RE-RUN VERIFIED — AUTHORING-READY
+BATCH_STATUS: FIRST TEN CODES STRICTLY VERIFIED — AUTHORING-READY
 RESEARCH_DATE_UTC: 2026-09-11
 
 YEAR 10 MATHEMATICS — IXL / KHAN / PUBLIC-SOURCE RESEARCH MASTER
@@ -561,3 +561,492 @@ STRICT BATCH DECISION
 - Khan was re-opened/verified and official lesson evidence was added.
 - The evidence is sufficient to author diverse Topic Pages, Classroom Views, worksheets, 48 Practice Questions and 16 independent Test Questions without relying on repeated templates.
 - AUTHORING-READY does not waive later numerical-answer validation, duplicate detection, curriculum-alignment QA or independent final review.
+
+
+
+################################################################################
+BATCH 2 — STRICT RESEARCH: AC9M10A05, AC9M10M01–AC9M10M04
+RESEARCH DATE: 2026-09-11
+METHOD: one sequential authenticated IXL Australia window; one sequential authenticated Khan Academy window; Australian Curriculum v9 scope; reputable public-source cross-checking. Image-only or absent mappings are explicitly labelled.
+
+===============================================================================
+AC9M10A05
+OFFICIAL DESCRIPTOR
+Experiment with functions and relations using digital tools, making and testing conjectures and generalising emerging patterns.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+The code is investigative rather than merely procedural. Students vary inputs or parameters, observe connected tables/graphs/equations, state conjectures, test those conjectures against additional cases and express a justified generalisation. Digital tools should enable systematic variation, zooming, tracing and numerical refinement. Appropriate investigations include intersections, roots, transformations, parameter effects and emerging patterns. A calculator screenshot without a conjecture-test-generalise cycle is insufficient.
+
+PREREQUISITES
+- Function notation, domain/range and coordinate graphs.
+- Linear, quadratic and exponential relations.
+- Substitution and tables of values.
+- Intersections as simultaneous solutions; roots as x-intercepts.
+- Approximation and appropriate precision.
+
+IXL AUSTRALIA MAPPING
+No single IXL skill spans the complete inquiry cycle. Component mappings verified in the authenticated Year 10 catalogue:
+- F.4 Identify functions.
+- F.5 Find values using function graphs.
+- F.6 Evaluate a function.
+- F.7–F.8 Complete function tables from graphs/equations.
+- F.9 Interpret function graphs in word problems.
+- Linear-function graph/table/equation comparison and transformations.
+- Quadratic characteristics, tables, transformations, graphing and equation–graph matching.
+- R.1–R.3 identify/write linear, quadratic and exponential functions.
+- H.2–H.5 solve and classify simultaneous equations graphically.
+- M.4–M.6 exponential graph matching and equation solving.
+Direct IXL bisection/conjecture-testing skill: SOURCE-NOT-MAPPED.
+
+ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+Authenticated F.5 panel inspected:
+- Prompt: locate the point on a function with x=7 and give its y-value.
+- The worked example plots the corresponding point (7,5), then reads the vertical coordinate.
+- Teaching sequence: start at the specified input on the x-axis, move to the graph, identify the point, then read the output from the y-axis.
+- Representation: labelled coordinate plane, ordered pair, input/output language.
+Transfer: use this as the entry-level graph-reading step, then extend to tool-based tracing, comparing two functions and refining intersections. It is a component, not full descriptor coverage.
+
+KHAN ACADEMY EVIDENCE
+Khan function and graph lessons support:
+- reading inputs/outputs and connecting tables, rules and graphs;
+- interpreting intersections as values satisfying both relations;
+- comparing linear and exponential change;
+- using graph features to test a proposed rule.
+Khan’s exponential graph analysis demonstrates deriving a rule from graph evidence and evaluating values outside the displayed sample. Its completing-square transcript also models checking an approximate root by substitution and comparing numerical residue with exact form. These support “test a conjecture”, but the full student-designed inquiry must be authored.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: descriptor and inquiry boundary.
+- Desmos graphing calculator: sliders, tables, intersections and zoom/refinement.
+- GeoGebra: linked algebra/graphics views and parameter animation.
+These tools provide the digital environment; all tasks must still require students to record observations and justify a generalisation.
+
+TWELVE MATERIALLY DIFFERENT EVIDENCE / QUESTION FAMILIES
+1. Input-output tracing on a graph.
+2. Generate and compare table and graph.
+3. Vary gradient and conjecture effects.
+4. Vary intercept and conjecture effects.
+5. Vary quadratic a and examine width/reflection.
+6. Vary quadratic h,k and examine translations.
+7. Locate line–line intersections.
+8. Locate line–quadratic intersections.
+9. Refine a root by zooming.
+10. Use sign-changing intervals/bisection logic.
+11. Compare linear and exponential thresholds.
+12. Test a conjecture on counterexamples and write a qualified generalisation.
+
+PROGRESSION
+A. Read and generate linked representations.
+B. Change one parameter at a time and record observations.
+C. State a precise conjecture using mathematical vocabulary.
+D. Test several cases, including boundary/counterexample cases.
+E. Refine approximate intersections/roots digitally.
+F. Generalise, state limitations and verify through another representation.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Treating one example as proof.
+- Changing several parameters at once and misattributing the effect.
+- Confusing x- and y-coordinates.
+- Assuming a graphing window shows all relevant features.
+- Calling a graphical decimal exact.
+- Treating near-zero calculator output as exactly zero without precision context.
+- Assuming all apparent patterns continue indefinitely.
+- Reporting correlation/visual resemblance as an algebraic rule.
+- Ignoring domain restrictions.
+- Failing to test a conjecture against a counterexample.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Explicit investigate cycle: vary → observe → conjecture → test → generalise.
+- Linked equation/table/graph worked demonstrations.
+- Desmos/GeoGebra slider instructions without requiring account creation.
+- Zoom and interval-refinement demonstration.
+- Conjecture sentence frames and counterexample prompts.
+- Accessible graphs with alt text and labelled scales.
+
+AUTHORING COVERAGE PLAN
+48 practice: 8 graph/table links; 8 parameter experiments; 8 conjecture statements; 8 intersection/root refinement; 8 pattern generalisation; 8 test/counterexample/evaluation.
+16 independent test: 4 representation links; 4 digital investigation interpretation; 4 conjecture testing; 4 generalisation/limitations. No practice stem reuse.
+
+===============================================================================
+AC9M10M01
+OFFICIAL DESCRIPTOR
+Solve problems involving the surface area and volume of composite objects using appropriate units.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students decompose or complete composite three-dimensional objects, calculate required component measures and combine them correctly. Volume uses addition/subtraction of non-overlapping regions. Surface area requires identifying only exposed faces and avoiding internal joins. Objects may combine prisms, cylinders, pyramids, cones and spheres/hemispheres. Diagrams can require inferred dimensions, unit conversion and contextual interpretation.
+
+PREREQUISITES
+- Area of polygons/circles and circumference.
+- Surface-area nets and volume formulas for standard solids.
+- Radius/diameter, perpendicular height and slant height.
+- Unit conversion and square/cubic units.
+- Algebraic substitution and calculator use with π.
+
+IXL AUSTRALIA MAPPING
+Authenticated Year 10 catalogue:
+- EE.1 Introduction to surface area and volume.
+- EE.2 Surface area of prisms and cylinders.
+- EE.3 Surface area of pyramids and cones.
+- EE.4 Volume of prisms and cylinders.
+- EE.5 Volume of pyramids and cones.
+- EE.6 Surface area and volume of spheres.
+- EE.7 Volume of compound figures.
+- EE.8 Surface area and volume of similar solids.
+- EE.9 Surface area and volume review.
+Limitation: EE.7 directly covers composite volume; composite exposed surface area must be built by combining the surface-area skills and reasoning about hidden joins.
+
+ACTUAL IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+Authenticated EE.7 panel:
+- Composite solid split into two rectangular prisms.
+- Back prism dimensions 11 cm × 4 cm × 6 cm, volume 264 cm³.
+- Front prism dimensions 2 cm × 2 cm × 5 cm, volume 20 cm³.
+- Add non-overlapping volumes: 264+20=284 cm³.
+- The panel explicitly recalls V=ℓwh, identifies each dimension, calculates each component and states cubic units.
+Teaching transfer: colour-code components; annotate inferred lengths; ensure pieces neither overlap nor leave gaps; distinguish adding volumes from exposed-face accounting for surface area.
+
+KHAN ACADEMY EVIDENCE
+Authenticated transcript: “Volume of composite solids”
+https://www.khanacademy.org/math/6th-grade-math-eureka-squared-aligned/x0c458179b2148480%3Aarea-surface-area-and-volume/x0c458179b2148480%3Avolumes-of-composite-solids/v/volume-of-composite-solids
+Verified reasoning:
+- A non-prism figure is decomposed into rectangular prisms in more than one valid way.
+- Dimensions must be inferred from total and partial lengths; appearance alone is not evidence.
+- Component volumes 1/8 m³ and 3/8 m³ are added to obtain 1/2 m³.
+- The lesson encourages solving with an alternative decomposition and confirming the same result.
+Year 10 extension: include curved solids, removed regions, exposed surface area, conversions and multi-step contexts.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: scope and units.
+- GeoGebra 3D: rotate/section solids and verify decomposition.
+- Mathematics Hub/education resources: explicit teaching using nets, labelled diagrams and contextual design problems.
+
+TWELVE MATERIALLY DIFFERENT EVIDENCE / QUESTION FAMILIES
+1. Two joined rectangular prisms.
+2. Missing-corner prism by subtraction.
+3. Prism plus cylinder.
+4. Cylinder plus hemisphere.
+5. Cone/pyramid joined to a prism.
+6. Hollow/tunnelled solid by subtraction.
+7. Composite capacity with unit conversion.
+8. Exposed surface area of joined prisms.
+9. Exposed curved and flat surfaces.
+10. Infer missing dimensions.
+11. Compare two valid decompositions.
+12. Reverse problem: determine a dimension from target volume/surface area.
+
+PROGRESSION
+A. Identify solids and formulas.
+B. Label dimensions and units.
+C. Decompose a composite object.
+D. Calculate and combine volumes.
+E. Track exposed surfaces, subtracting internal joins.
+F. Solve reverse/contextual problems and validate magnitude/units.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Adding lengths instead of volumes.
+- Double-counting overlapping regions.
+- Including internal joined faces in surface area.
+- Using diameter as radius.
+- Using slant height in a volume formula.
+- Confusing square and cubic units.
+- Converting a length factor without squaring/cubing it.
+- Rounding π or intermediate results prematurely.
+- Assuming dimensions from a not-to-scale drawing.
+- Adding components that actually require subtraction.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Formula/reference panel with labelled dimensions.
+- Decompose/add and complete/subtract strategies.
+- Colour-coded worked composite-solid diagrams.
+- Exposed/internal face checklist.
+- Unit-conversion rule: length factor k, area k², volume k³.
+- Estimation and reasonableness checks.
+
+AUTHORING COVERAGE PLAN
+48 practice: 8 formula/component foundations; 12 composite volumes; 10 composite surface areas; 6 removed/hollow solids; 6 conversion/inferred dimensions; 6 reverse/design/reasoning.
+16 test: 4 composite volume; 4 exposed surface area; 4 mixed curved/reverse contexts; 4 reasoning/error analysis. Independent diagrams and values.
+
+===============================================================================
+AC9M10M02
+OFFICIAL DESCRIPTOR
+Interpret and use logarithmic scales in applied contexts involving small and large quantities and change.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students understand that equal steps on a logarithmic scale represent equal multiplicative factors, not equal additive changes. They interpret orders of magnitude and compare values in authentic scales such as pH, sound level and earthquake magnitude. The focus is interpretation and application; symbolic log laws are supporting mathematics, not the endpoint.
+
+PREREQUISITES
+- Powers of 10, scientific notation and index laws.
+- Ratios, multiplicative comparison and orders of magnitude.
+- Exponential/logarithmic inverse relationship.
+- Reading nonlinear axes and units.
+
+IXL AUSTRALIA MAPPING
+Authenticated Year 10 catalogue:
+- L.1 Convert between exponential and logarithmic form: rational bases.
+- L.2 Evaluate logarithms.
+- L.3 Identify properties of logarithms.
+- L.4–L.6 product, quotient and power properties.
+- L.7 mixed properties review.
+- L.8 evaluate logarithms mixed review.
+- M.2 Domain/range of logarithmic functions.
+Direct applied logarithmic-scale contexts (pH/decibels/earthquake magnitude): SOURCE-NOT-MAPPED in the inspected catalogue. IXL provides the algebraic foundation only.
+
+IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+Authenticated L.2 Learn panel was opened. The central mathematical example was image-rendered and not extractable; no operands or answer were inferred. The verified skill action is evaluating a logarithm by connecting it to an exponent. Authoring must supply accessible original applied-scale diagrams.
+
+KHAN ACADEMY EVIDENCE
+Authenticated transcript: “Intro to logarithm properties”
+https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89%3Alogs/x2ec2f6f830c9fb89%3Alog-prop/v/introduction-to-logarithm-properties
+Verified teaching points:
+- a^b=c and log_a(c)=b express the same relationship.
+- Logarithms convert multiplicative relationships into additive changes.
+- Product/quotient log properties arise from exponent laws.
+- Examples evaluate powers of 2 and 3, including negative exponents.
+- The lesson names earthquake magnitude and pH as applied uses of logarithms.
+Transfer: begin from “what power?” reasoning, then interpret each one-unit scale increase as a scale-specific multiplicative change.
+
+OTHER TRUSTED SOURCE USE
+- Australian Government–funded Mathematics Hub Year 10 planning tool for AC9M10M02: emphasises multiplicative strategies and interpretation.
+- Geoscience Australia for earthquake magnitude context.
+- Safe Work Australia/environmental acoustics material for decibel context.
+- Chemistry/health education references for pH, with careful distinction between pH units and hydrogen-ion concentration.
+
+TWELVE MATERIALLY DIFFERENT EVIDENCE / QUESTION FAMILIES
+1. Exponential-to-log form.
+2. Evaluate integer logs.
+3. Negative-log values for small quantities.
+4. Orders-of-magnitude comparison.
+5. Locate/read a base-10 log axis.
+6. Earthquake magnitude factor comparison.
+7. Sound-level/decibel comparison.
+8. pH and hydrogen-ion concentration comparison.
+9. Interpret one-unit vs multi-unit changes.
+10. Compare additive-looking and multiplicative claims.
+11. Reverse problem from factor to scale difference.
+12. Critique misleading statements about “twice the scale value”.
+
+PROGRESSION
+A. Review powers of 10/scientific notation.
+B. Interpret a logarithm as an exponent.
+C. Read a generic logarithmic axis.
+D. Apply context-specific factor rules.
+E. Reverse factors and scale differences.
+F. Explain conclusions and limitations in context.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Treating equal log-scale steps as equal additive changes.
+- Saying magnitude 6 is merely 1 unit/one-sixth larger than magnitude 5.
+- Confusing a tenfold quantity change with a ten-unit scale change.
+- Assuming every log scale uses the same physical factor definition.
+- Reversing the pH direction.
+- Confusing negative exponent with negative physical quantity.
+- Applying log laws to addition.
+- Ignoring units/reference quantity.
+- Treating “twice as many scale units” as twice the underlying intensity.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Linear-versus-log axis visual.
+- Power-of-ten/order-of-magnitude table.
+- Context cards for pH, sound and earthquake scales, each with its own interpretation rule.
+- Exponential/log inverse worked examples.
+- Multiplicative language prompts: factor, order of magnitude, concentration/intensity.
+- Explicit warning that applied scales differ in definition.
+
+AUTHORING COVERAGE PLAN
+48 practice: 8 powers/log inverse; 8 generic log-axis reading; 8 orders of magnitude; 8 earthquake; 8 sound/pH; 8 reverse/reasoning/claim critique.
+16 test: 4 foundation/axis; 6 applied comparisons; 3 reverse problems; 3 explanation/misconception items. No reused stems.
+
+===============================================================================
+AC9M10M03
+OFFICIAL DESCRIPTOR
+Solve practical problems applying Pythagoras’ theorem and trigonometry of right-angled triangles, including problems involving direction and angles of elevation and depression.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+Students translate spatial contexts into right triangles, select Pythagoras or sine/cosine/tangent, calculate lengths/angles and interpret direction. Problems include bearings, line of sight, elevation/depression, multi-stage paths and three-dimensional contexts reducible to right triangles. Diagrams, units, degree mode and reasonableness are essential.
+
+PREREQUISITES
+- Pythagoras’ theorem and converse.
+- Opposite/adjacent/hypotenuse relative to a chosen angle.
+- sin, cos, tan and inverse functions.
+- Angle sum, parallel-line angle facts and scale diagrams.
+- Three-figure bearings measured clockwise from north.
+
+IXL AUSTRALIA MAPPING
+Authenticated Year 10 catalogue:
+- CC.1 Pythagoras’ theorem.
+- CC.2 Converse of Pythagoras’ theorem.
+- CC.3 Pythagoras’ inequality theorems.
+- DD skills for sin/cos/tan ratios, similar right triangles, calculator values, finding side lengths, finding angle measures and word problems.
+The word-problem skill code rendered as “DD.” in the opened page, so no unsupported sub-number is asserted.
+Direct three-figure-bearing skill was not visible in the inspected filtered catalogue; bearing-specific coverage must be authored.
+
+IXL LEARN-WITH-AN-EXAMPLE EVIDENCE
+Authenticated “Trigonometric ratios: word problems” Learn panel was opened. Its central problem/diagram was image-rendered and not extractable; no values were inferred. The surrounding mapped progression confirms triangle labelling, ratio selection, calculator evaluation and contextual answer. Accessible original diagrams are mandatory in SkillrHub.
+
+KHAN ACADEMY EVIDENCE
+Authenticated transcript: “Intro to heights and distances”
+https://www.khanacademy.org/math/board-preparation-maharashtra-math-10/x20d33f0422cd733e%3Aweek-3-board-prep-maharashtra/x20d33f0422cd733e%3Atrigonometry/v/intro-to-heights-and-distances
+Verified teaching sequence:
+- Define a horizontal reference and line of sight.
+- Angle of elevation is measured upward from the horizontal; angle of depression downward.
+- Identify the right triangle before selecting a ratio.
+- Example uses known adjacent 100 m, angle 45°, and cosine to find hypotenuse 100√2≈141.4 m.
+- A second setup uses parallel horizontal lines to transfer an angle of depression to an equal alternate/corresponding angle in the ground triangle.
+- The transcript stresses that an angle alone is insufficient; a length is also required.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: scope.
+- GeoGebra: construct line-of-sight/bearing diagrams and verify calculated lengths.
+- Geoscience Australia/navigation conventions: direction, north reference and three-figure bearings.
+
+TWELVE MATERIALLY DIFFERENT EVIDENCE / QUESTION FAMILIES
+1. Pythagoras missing hypotenuse.
+2. Pythagoras missing shorter side.
+3. Decide Pythagoras vs trig.
+4. SOHCAHTOA missing side.
+5. Inverse trig missing angle.
+6. Angle of elevation.
+7. Angle of depression.
+8. Observer/eye-height adjustment.
+9. Three-figure bearing interpretation.
+10. Two-leg navigation/resultant distance.
+11. Multi-stage or two-observation height problem.
+12. 3D diagonal/reducible right-triangle context.
+
+PROGRESSION
+A. Label right triangle and reference angle.
+B. Select theorem/ratio and form equation.
+C. Solve a one-step practical triangle.
+D. Draw elevation/depression and bearing diagrams.
+E. Solve multi-stage/3D problems.
+F. Interpret units, direction and realistic precision.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Misidentifying opposite/adjacent when the reference angle changes.
+- Using the hypotenuse as adjacent.
+- Entering inverse trig in radian mode.
+- Measuring bearings anticlockwise or from east.
+- Writing 60° instead of three-figure 060° where convention requires.
+- Measuring elevation/depression from vertical.
+- Forgetting observer height.
+- Assuming angle of depression appears inside the ground triangle without angle reasoning.
+- Rounding intermediate values.
+- Producing a length longer/shorter than triangle geometry permits.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Decision tree: Pythagoras or SOHCAHTOA.
+- Triangle labelling relative to the selected angle.
+- Elevation/depression parallel-horizontal diagram.
+- Bearing compass rose and clockwise three-digit convention.
+- Calculator degree-mode reminder.
+- Draw–label–choose–solve–check worked routine.
+
+AUTHORING COVERAGE PLAN
+48 practice: 8 Pythagoras; 10 one-step trig; 8 inverse trig; 8 elevation/depression; 8 bearings/navigation; 6 multi-stage/3D/reasoning.
+16 test: 4 theorem/ratio selection; 4 practical trig; 4 direction/elevation; 4 multi-stage reasoning. Independent contexts and diagrams.
+
+===============================================================================
+AC9M10M04
+OFFICIAL DESCRIPTOR
+Investigate the impact of measurement errors on the accuracy of results involving area and volume.
+
+RESEARCH STATUS: AUTHORING-READY
+
+CURRICULUM INTENT AND BOUNDARY
+This code concerns propagation of measurement error. Students compare true/accepted and measured values, model plausible intervals from instrument precision, calculate area/volume using bounds or altered dimensions, and explain why derived measures can have larger relative error. Investigation should include systematic and random error, repeated measurement where appropriate, percentage error and sensitivity to dimension changes. Formal calculus-based uncertainty propagation is beyond scope.
+
+PREREQUISITES
+- Measurement precision, rounding intervals and significant figures.
+- Area and volume formulas.
+- Absolute and percentage error.
+- Ratios, percentages and calculator/spreadsheet tables.
+
+IXL AUSTRALIA MAPPING
+Authenticated Year 10 catalogue search found no direct skill for measurement error, uncertainty, precision, tolerance, bounds or percentage error.
+Component mappings:
+- EE.1–EE.9 surface area/volume calculations.
+- Prior-year rounding, significant figures and percentage-error skills where available.
+FULL-CODE IXL STATUS: SOURCE-NOT-MAPPED.
+This gap must not be hidden by treating ordinary area/volume calculation as error analysis.
+
+IXL LEARN-WITH-AN-EXAMPLE TRANSFER
+EE composite/standard-solid examples establish accurate formula substitution and correct squared/cubed units. They do not investigate error. Authoring must deliberately vary measured dimensions, calculate resulting measures and compare with accepted/bounded results.
+
+KHAN ACADEMY EVIDENCE
+No single Khan lesson was identified as a full AC9M10M04 match. Khan supports component knowledge:
+- area/volume formula application;
+- rounding and percent error;
+- exact-versus-decimal checking in algebraic examples.
+FULL-CODE KHAN STATUS: SOURCE-NOT-MAPPED.
+The research therefore uses curriculum-led investigations and metrology principles rather than claiming a false provider match.
+
+OTHER TRUSTED SOURCE USE
+- Australian Curriculum v9.0: descriptor boundary.
+- National Measurement Institute / accepted metrology principles: distinguish result, unit, resolution, error and uncertainty.
+- NIST measurement guidance: accuracy describes closeness to a reference; precision/repeatability does not guarantee accuracy.
+- Spreadsheet/GeoGebra: vary dimensions through lower/upper plausible values and graph resulting area/volume.
+
+TWELVE MATERIALLY DIFFERENT EVIDENCE / QUESTION FAMILIES
+1. Instrument resolution and reasonable reading.
+2. Absolute measurement error.
+3. Percentage measurement error.
+4. Rounded length interval/lower-upper bounds.
+5. Rectangle area from bounded dimensions.
+6. Circle area sensitivity to radius error.
+7. Prism volume from dimension error.
+8. Cylinder/sphere volume sensitivity.
+9. Compare same absolute error on small/large objects.
+10. Random error and repeated measurements/mean.
+11. Systematic zero error and bias.
+12. Design/investigation: choose instrument/precision for required output accuracy.
+
+PROGRESSION
+A. Distinguish accuracy, precision, resolution and error.
+B. Express plausible measurement intervals.
+C. Compute area/volume from measured dimensions.
+D. Compare true/accepted and calculated results.
+E. Explore lower/upper outcomes and relative error.
+F. Evaluate method/instrument and recommend improvements.
+
+COMMON MISCONCEPTIONS / DISTRACTOR LOGIC
+- Treating resolution as zero uncertainty.
+- Confusing precision with accuracy.
+- Assuming repeated measurements remove systematic bias.
+- Adding percentage errors mechanically without examining the formula/context.
+- Applying a length conversion factor to area/volume without squaring/cubing.
+- Reporting more digits than the measurements justify.
+- Believing a small absolute error is always insignificant.
+- Using full instrument interval as ± error instead of half the rounding unit where appropriate.
+- Rounding inputs before investigating bounds.
+- Calling a calculated bound the exact value.
+
+TOPIC PAGE / CLASSROOM VIEW NEEDS
+- Accuracy/precision/resolution/error comparison.
+- Lower-bound and upper-bound diagrams.
+- Side-by-side length, area and volume error tables.
+- Spreadsheet sensitivity investigation.
+- Random-versus-systematic error examples.
+- Reporting checklist: value, unit, justified precision, error/uncertainty statement.
+
+AUTHORING COVERAGE PLAN
+48 practice: 8 terminology/resolution; 8 absolute/percentage error; 10 intervals/bounds; 10 area error; 8 volume error; 4 investigation/design evaluation.
+16 test: 4 measurement interpretation; 4 bounds; 4 propagated area/volume error; 4 investigation/evaluation. Independent data and contexts.
+
+===============================================================================
+BATCH 2 STRICT QA
+- Five-code sequence verified: AC9M10A05, AC9M10M01, AC9M10M02, AC9M10M03, AC9M10M04.
+- Exact code scope captured; next pointer advanced to AC9M10M05.
+- Authenticated IXL Year 10 catalogue mappings checked sequentially.
+- IXL Learn panels inspected for F.5, EE.7, L.2 and trigonometric word problems.
+- Extractable worked details recorded only for F.5 and EE.7; image-only panels labelled.
+- Authenticated Khan transcripts inspected for composite solids, logarithms and heights/distances.
+- Direct-map gaps retained for A05 inquiry/bisection, M02 applied log scales, M03 bearings and M04 measurement-error propagation.
+- Twelve materially different evidence families, progression, misconceptions, displays and 48/16 blueprints recorded for every code.
+- All five are AUTHORING-READY for original SkillrHub content.
+- Later authoring must still pass answer validation, diagram/accessibility QA, duplicate detection and independent final review.
