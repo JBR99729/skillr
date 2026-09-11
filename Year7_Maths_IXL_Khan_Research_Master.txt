@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M7A01
-LAST_COMPLETED_CODE: AC9M7N09
-NEXT_CODE: AC9M7A01
+CURRENT_CODE: AC9M7A06
+LAST_COMPLETED_CODE: AC9M7A05
+NEXT_CODE: AC9M7A06
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 2 COMPLETE (LATEST: AC9M7N05–AC9M7N09)
+BATCH: 3 COMPLETE (LATEST: AC9M7A01–AC9M7A05)
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -398,5 +398,180 @@ BATCH 2 QA CHECK
 - Every code includes curriculum boundary, misconceptions, Topic/Classroom/Homework transfer, 48-Practice coverage and an independent 16-Test coverage plan.
 - AC9M7N05–AC9M7N09 are AUTHORING-READY.
 
+
+==============================================================================
+AC9M7A01 — VARIABLES, FORMULAS AND SUBSTITUTION
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Recognise and use variables to represent everyday formulas algebraically and substitute values into formulas to determine an unknown.
+
+CURRICULUM BOUNDARY
+Connect each variable to a measurable attribute, distinguish formula/expression/equation, substitute given values accurately and interpret the resulting unit. Include familiar formulas such as rectangle area/perimeter, distance-rate-time and simple real-source formulas. Rearranging multi-step formulas is beyond this descriptor unless used as an optional extension.
+
+IXL MAPPING AND LIVE EVIDENCE
+Mappings: R.4 “Evaluate linear expressions”; R.5 “Evaluate multi-variable expressions”; R.6 “Evaluate nonlinear expressions”, supported by numerical-expression skills.
+Live IXL question observed: evaluate 12p for p=0. Learn-with-an-example: evaluate 2m for m=4; IXL replaces m with 4, writes 2(4), then multiplies to get 8. A multi-variable example evaluates bc for b=2 and c=4 by substituting both values before simplifying to 8.
+Direct URLs: https://au.ixl.com/maths/year-7/evaluate-linear-expressions ; https://au.ixl.com/maths/year-7/evaluate-multi-variable-expressions
+Method evidence: write the original expression → replace each variable with its bracketed value → preserve operations → calculate using order of operations → state units/meaning.
+Misconceptions: treating 2m as 2+m; concatenating digits; substituting for only one variable; dropping brackets around negative values; confusing the variable symbol with a unit; giving a unitless answer to a measured formula.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Variables, expressions, & equations” distinguishes quantities represented by variables and the structural roles of expressions/equations: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-equations-and-inequalities/cc-6th-intro-equations/v/variables-expressions-and-equations
+Australian Curriculum v9 and QCAA Year 7 alignment provide the controlling scope. Khan is supporting rather than code-specific.
+
+AUTHORING TRANSFER
+Topic Page: begin with a labelled rectangle so l and w have meaning; translate A=l×w; use a substitution box and unit check; contrast a variable, expression, equation and formula; include formulas read from a table/source.
+Classroom View: identify variables/units, substitute into two one-variable and two multi-variable formulas, compare sensible/insensible results, exit ticket requires interpretation.
+Homework: variable identification, formula matching, substitution tables, everyday formulas, source interpretation and error correction.
+Feedback: point to the variable-value match, show replacement in brackets, follow operation order and finish with a sentence/unit.
+
+48-PRACTICE BLUEPRINT
+P01–P08 vocabulary and variable meaning; P09–P16 one-variable substitution; P17–P24 multi-variable substitution; P25–P32 everyday geometry/time/cost formulas; P33–P40 interpret formulas from sources/tables; P41–P48 missing-input, unit and error-analysis tasks.
+16-TEST BLUEPRINT
+T01–T04 concepts; T05–T08 substitution; T09–T12 authentic formulas; T13–T16 independent reasoning/verification. No Practice clones.
+
+==============================================================================
+AC9M7A02 — FORMULATING ALGEBRAIC EXPRESSIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Formulate algebraic expressions using constants, variables, operations and brackets.
+
+CURRICULUM BOUNDARY
+Translate relationships and ordered instructions into expressions; include implied multiplication, coefficients, constants, multiple variables and brackets. Do not convert an expression into an equation unless the wording contains an equality relationship.
+
+IXL MAPPING AND LIVE EVIDENCE
+Mappings: R.1 “Write variable expressions: one operation”; R.2 “Write variable expressions: two or three operations”; R.3 “Write variable expressions: word problems”.
+Learn-with-an-example captured: “multiply n by m, then multiply 8 by the result.” IXL highlights operation keywords, builds n×m first, then preserves “the result” with brackets as 8×(n×m). This provides strong evidence for translating one operation at a time and using brackets to preserve sequence.
+Direct URL: https://au.ixl.com/maths/year-7/write-variable-expressions-two-or-three-operations
+Question patterns: phrase-to-symbol, ordered operation chains, repeated groups, perimeter/cost expressions, “more/less than” order traps, and choosing between bracketed alternatives.
+Misconceptions: reversing subtraction/division; writing 5+n for “5 less than n”; confusing 3n with n³; omitting brackets after “the sum/difference/result”; inserting an equals sign; treating a constant as a variable.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Translating expressions with parentheses” shows that brackets preserve grouped operations and that grouped work is evaluated first: https://www.khanacademy.org/math/cc-fifth-grade-math/imp-algebraic-thinking/imp-writing-expressions/v/translating-expressions-with-parentheses
+Supporting Khan “Constructing numerical expressions” models extracting operations from words before generalising to variables.
+AC v9/QCAA control the expected Year 7 depth.
+
+AUTHORING TRANSFER
+Topic Page: colour-code nouns/quantities, operation phrases and grouping words; build a phrase-to-symbol table; explicitly teach non-commutative wording; show equivalent notation 3×x=3x.
+Classroom View: progressively translate one-, two- and three-step instructions; use “the result” cards to decide brackets; compare two plausible wrong expressions.
+Homework: direct translations, match/justify, diagram/perimeter expressions, word problems, bracket placement and reverse translation.
+Feedback: restate operation order in plain language, build inner group first, then compare the final expression back to the sentence.
+
+48-PRACTICE BLUEPRINT
+P01–P08 identify components; P09–P16 one-operation translations; P17–P24 two/three operations; P25–P32 brackets and order; P33–P40 authentic geometry/cost/pattern expressions; P41–P48 ambiguity, error analysis and reverse translation.
+16-TEST BLUEPRINT
+T01–T04 vocabulary/basic translation; T05–T08 multi-step/brackets; T09–T12 applications; T13–T16 independent traps and justification.
+
+==============================================================================
+AC9M7A03 — SOLVE AND VERIFY LINEAR EQUATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Solve one-variable linear equations with natural number solutions; verify the solution by substitution.
+
+CURRICULUM BOUNDARY
+Natural-number solutions are compulsory. Use equality/balance, inverse operations, algebra tiles/backtracking and substitution checks. Include unknowns on one side and one-/two-step equations suitable for Year 7; do not drift into fractional/negative solutions or variables on both sides as core content.
+
+IXL MAPPING AND LIVE EVIDENCE
+Mappings: S.1 “Which x satisfies an equation?”; S.2 “Write an equation from words”; S.3 algebra tiles; S.4 diagram equations; S.5 one-step equations; S.6 two-step equations; S.7 complete the solution; S.8 equation word problems.
+Learn-with-an-example captured for 6+2r=8. IXL states that inverse operations undo operations and the same operation must be applied to both sides. It subtracts 6 from both sides, simplifies to 2r=2, divides both sides by 2 and obtains r=1.
+Direct URL: https://au.ixl.com/maths/year-7/solve-two-step-equations
+Verification requirement: substitute r=1 into the original equation, compare left and right values, and state that equality is true. This must appear across Topic, Classroom, feedback and assessment.
+Misconceptions: operating on one side only; undoing operations in the wrong order; changing signs without an operation; dividing only one term; checking against a transformed rather than original equation; accepting non-natural solutions despite scope.
+
+KHAN / TRUSTED EVIDENCE
+Khan’s same-operation-on-both-sides lesson and two-step equation materials reinforce the balance principle; public route: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-variables-expressions/cc-7th-2-step-equations-intro
+Australian Curriculum/QCAA establish natural-number solutions and substitution verification as non-negotiable.
+
+AUTHORING TRANSFER
+Topic Page: physical balance → algebra tiles → inverse-operation flow → symbolic two-step solution → substitution check. Define solution as a value making the original equation true.
+Classroom View: balance demonstration, worked 6+2r=8, deliberate one-sided-operation error, word problem and exit ticket with verification.
+Homework: solution testing, one-step/two-step equations, missing steps, diagram/word equations and substitution proofs.
+Feedback: name the inverse, show it on both sides, simplify line by line, then substitute into the original equation.
+
+48-PRACTICE BLUEPRINT
+P01–P08 identify/test solutions; P09–P16 one-step additive/multiplicative; P17–P28 two-step equations; P29–P36 tiles/diagrams and missing steps; P37–P44 word problems; P45–P48 verification/error analysis.
+16-TEST BLUEPRINT
+T01–T04 solution meaning/testing; T05–T08 one/two-step equations; T09–T12 independent word/diagram equations; T13–T16 proof, missing-step and error diagnosis.
+
+==============================================================================
+AC9M7A04 — RELATIONSHIPS IN AUTHENTIC GRAPHS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Describe relationships between variables represented in graphs of functions from authentic data.
+
+CURRICULUM BOUNDARY
+Interpret rather than merely plot: identify variables/units, dependent and independent quantities, intervals, direction/rate of change, stationary sections, maxima/minima and contextual meaning. Avoid unsupported causation and avoid treating every authentic graph as linear.
+
+IXL MAPPING AND LIVE EVIDENCE
+Primary mappings: T.6 “Interpret a graph: word problems”; T.7 “Identify graphs: word problems”; T.8/T.9 constant rate in tables/graphs; supporting line-graph interpretation.
+Learn-with-an-example captured: an authentic graph relates total essay pages to writing hours. To find hours for 30 pages, IXL locates 30 on the y-axis, moves horizontally to the graph, then vertically to the x-axis. This explicitly connects question quantity → relevant axis → graph intersection → answer with unit.
+Direct URL: https://au.ixl.com/maths/year-7/interpret-a-graph-word-problems
+Question patterns: read x from y/read y from x, select a graph matching a story, compare intervals/rates, explain flat/rising/falling segments, identify turning points and make bounded interpolation.
+Misconceptions: swapping axes; ignoring units/scales; reading a point from only one coordinate; calling correlation causation; interpreting steepness without axis scale; extrapolating far outside data.
+
+KHAN / TRUSTED EVIDENCE
+Khan coordinate-plane and graph interpretation foundations support ordered variables and axis reading: https://www.khanacademy.org/math/cc-fifth-grade-math/imp-geometry-3/imp-intro-to-the-coordinate-plane/v/introduction-to-the-coordinate-plane
+No single Khan lesson exactly matches the AC v9 “authentic data functions” wording: SOURCE-NOT-MAPPED at exact-code level.
+Australian Curriculum/QCAA remain authoritative; use real public datasets where licensing permits, or create original plausible datasets.
+
+AUTHORING TRANSFER
+Topic Page: a graph-reading routine—context/title, axes/units/scales, overall story, important intervals/points, justified conclusion. Include travel, temperature, energy-use and stock-value style graphs with careful non-causal language.
+Classroom View: narrate a travel graph segment by segment; compare two energy traces; expose a misleading scale; require evidence coordinates in responses.
+Homework: axis reading, interval descriptions, graph-story matching, comparison and evidence-based claims.
+Feedback: cite the exact interval/point and units, describe what changes, then translate it into context.
+
+48-PRACTICE BLUEPRINT
+P01–P08 axes/scales/coordinates; P09–P16 read one variable from another; P17–P24 describe rising/falling/constant intervals; P25–P32 compare rates and turning points; P33–P40 match graph/story; P41–P48 authentic-data claims, misleading scales and interpolation.
+16-TEST BLUEPRINT
+T01–T04 reading; T05–T08 interval/rate description; T09–T12 independent authentic contexts; T13–T16 evidence, uncertainty and critique.
+
+==============================================================================
+AC9M7A05 — GROWING PATTERNS, TABLES AND CARTESIAN GRAPHS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Generate tables of values from visually growing patterns or the rule of a function; describe and plot these relationships on the Cartesian plane.
+
+CURRICULUM BOUNDARY
+Move fluently among visual pattern, verbal rule, expression/function rule, table, ordered pairs and graph. Include simple linear growth and explain constant change. Do not require formal slope-intercept terminology or advanced sequence formulas as the central outcome.
+
+IXL MAPPING AND LIVE EVIDENCE
+Mappings: Q.6 “Evaluate variable expressions for number sequences”; Q.7 “Write variable expressions for arithmetic sequences”; T.3 two-variable tables; P.2 graph points from a table; supporting coordinate-plane review and constant-rate tables/graphs.
+Learn-with-an-example evidence:
+- Graph a table for silent reading: time 1,2,3,4 hours and chapters left 10,7,4,1. IXL converts corresponding entries to ordered pairs (1,10),(2,7),(3,4),(4,1), identifies x as horizontal/time and y as vertical/chapters, then plots.
+- For sequence −4,−8,−12,−16,… IXL recognises each position n is multiplied by −4, proposes −4n and verifies n=1,2,3,4 by substitution.
+Direct URLs: https://au.ixl.com/maths/year-7/graph-points-from-a-table ; https://au.ixl.com/maths/year-7/write-variable-expressions-for-arithmetic-sequences
+Question patterns: extend/draw stage; count components; identify fixed and growing parts; complete table; write ordered pairs; plot; describe line/constant change; use rule for distant stage.
+Misconceptions: using term value as x; swapping coordinates; counting dots rather than intervals; assuming every rule is y=kn and omitting an initial constant; joining discrete pattern points as though all intermediate inputs are meaningful; rule fitting later terms but not stage 1.
+
+KHAN / TRUSTED EVIDENCE
+Khan “Intro to arithmetic sequences” identifies initial term/common difference and builds nth-term reasoning: https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Asequences/x2f8bb11595b61c86%3Aintroduction-to-arithmetic-sequences/v/arithmetic-sequences
+Khan coordinate-plane introduction reinforces ordered-pair conventions. Use only age-appropriate components; the AC descriptor prioritises visual patterns/function tables/plotting.
+Australian Curriculum/QCAA control scope.
+
+AUTHORING TRANSFER
+Topic Page: one growing tile pattern represented six ways—image, words, expression, table, ordered pairs and graph. Separate fixed component from “growth per stage”; verify rule against multiple stages.
+Classroom View: students construct stages, annotate growth, complete table, graph points, debate whether points should be connected, and use the rule for stage 20.
+Homework: visual counts, rule/table completion, coordinate plotting, representation matching and error analysis.
+Feedback: identify stage number as input, compute output from the rule, preserve ordered-pair order, plot using labelled scales and verify against the visual pattern.
+
+48-PRACTICE BLUEPRINT
+P01–P08 extend/count visual patterns; P09–P16 describe recursive/functional change; P17–P24 generate rules; P25–P32 complete tables and ordered pairs; P33–P40 plot/interpret graphs; P41–P48 distant-stage prediction, discrete-vs-continuous reasoning and representation critique.
+16-TEST BLUEPRINT
+T01–T04 pattern/table; T05–T08 rule and prediction; T09–T12 independent plotting/description; T13–T16 full representation chain and error analysis.
+
+==============================================================================
+BATCH 3 QA CHECK
+- Five codes researched: AC9M7A01–AC9M7A05.
+- Exact AC v9 descriptors cross-checked against SkillrHub curriculum pages and QCAA.
+- One IXL Australia tab used sequentially; thirteen mapped algebra/graph skills inspected and worked examples opened/captured where readable.
+- One Khan tab used sequentially; direct public mappings and exact-code gaps recorded without inventing evidence.
+- Every code has scope boundary, misconceptions, Topic Page, HTML Classroom View, Homework transfer, 48-Practice blueprint and independent 16-Test blueprint.
+- AC9M7A01–AC9M7A05 are AUTHORING-READY.
+
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M7A01. Do not repeat AC9M7N01–AC9M7N09 unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M7A06. Do not repeat completed research unless the curriculum or source materially changes.
