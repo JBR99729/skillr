@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S6U01
-LAST_COMPLETED_CODE: NONE
-NEXT_CODE: AC9S6U02
+CURRENT_CODE: AC9S6H01
+LAST_COMPLETED_CODE: AC9S6U04
+NEXT_CODE: AC9S6H02
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 OF 4 (AC9S6U01–AC9S6U04)
+BATCH: 1 OF 4 COMPLETED (AC9S6U01–AC9S6U04)
 
 Research protocol
 - Primary curriculum authority: Australian Curriculum v9 (ACARA).
@@ -25,3 +25,106 @@ Batch register
 3. AC9S6U03 — investigate the transfer and transformation of energy in electrical circuits, including the role of circuit components, insulators and conductors.
 4. AC9S6U04 — compare reversible changes, including dissolving and changes of state, and irreversible changes, including cooking and rusting that produce new substances.
 
+================================================================
+AC9S6U01 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Investigate habitat physical conditions and analyse how changing conditions affect growth and survival.
+- Required boundary: the causal link is physical condition -> organism response/survival. Do not replace this with a generic “name an ecosystem” unit.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed in the current curriculum and existing curriculum index.
+- IXL Australia, authenticated interactive sampling:
+  - L.3 “Describe ecosystems” presents a short habitat passage and multiple-select claims. The sampled Tallgrass Prairie item asked students to infer accurate ecosystem conditions from the text; only the nutrient-rich soil claim was supported.
+  - Closest IXL supports: L.1 populations/communities/ecosystems; L.2 identify ecosystems; L.3 describe ecosystems; B.5 plant-growth protocol; B.2 independent/dependent variables.
+  - IXL is partial rather than exact: use its evidence-reading and environment-feature formats, but add the ACARA-required changed-condition investigation.
+- Khan Academy: ecology/community-structure resource coverage supports biodiversity, ecosystem interactions and disturbance effects; no direct AC9 code mapping.
+- Additional trusted-source scan: ABC Education did not return a directly indexable, code-specific Year 6 lesson in its current public search results. NASA/CSIRO-style environmental evidence must be used only as contextual reading, not as a replacement for an age-appropriate fair investigation.
+
+Concept and authoring blueprint
+- Teach “physical conditions” explicitly: light, temperature, water/moisture, salinity, soil/substrate, oxygen and shelter. Separate these from living factors such as predators or food.
+- Use a controlled comparison: same seeds/soil/pot/period, deliberately vary one condition (for example light or salinity), record a measurable outcome, then make a qualified evidence claim.
+- Practice coverage: identify physical versus living condition; read an observation table; choose a fair-test variable; predict a likely effect; select evidence; explain survival/growth using a condition.
+- Test coverage: novel aquatic and terrestrial contexts, a graph/table/image, and at least one item where more than one factor changed so students must reject an unsupported causal conclusion.
+- Misconceptions to target: “any environmental change is automatically harmful”; confusing weather event with a measured condition; treating correlation as proof; claiming an organism can survive anywhere if it has food.
+- Feedback must name the evidence gap: “This condition changed too, so the test cannot show that light alone caused the difference.”
+Status: AUTHORING-READY.
+
+================================================================
+AC9S6U02 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Describe movement of Earth and other planets relative to the Sun and model the connections among Earth’s tilt, axial rotation, revolution and cyclic observable phenomena.
+- Required boundary: distinguish three different movements/causes rather than delivering a generic solar-system recall lesson.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - P.1 “Analyse models of the Earth-Sun-Moon system” explicitly introduces models as physical objects, graphs, diagrams or simulations and asks students to interpret relative size. The sampled item required estimating that the Sun’s diameter is about 100 times Earth’s from a model.
+  - Closest IXL supports: P.1 model analysis; P.2 day and night; P.3 changing night sky; P.4 planets; P.5 planet-property data.
+  - IXL gives usable diagram/model and data-reading patterns but does not itself establish the full tilt/revolution causal chain.
+- Khan Academy: available search/course coverage is supplementary; the current search interface returned no direct Australian Year 6 mapped exercise. Use its space-science explanations only for background sequencing, not as curriculum authority.
+- Additional trusted-source scan: NASA education resources are an appropriate authority for diagrams/simulations of rotation, revolution, axial tilt, day/night and seasons. ABC Education search had no reliably indexed code-specific item; record as SOURCE-NOT-MAPPED, not a research failure.
+
+Concept and authoring blueprint
+- Non-negotiable relationship map: rotation ≈ one day -> day/night; revolution ≈ one year; tilted axis + revolution -> changing angle/duration of sunlight and seasons. Earth’s distance from the Sun is not the cause of seasons.
+- Include a physical or diagram model with a fixed tilted axis; require students to explain what the model represents and what it cannot show to scale.
+- Practice coverage: label direction of rotation/revolution; match phenomenon to mechanism; sequence day/night; use two seasonal Earth positions; interpret a simplified model; compare planet paths/properties.
+- Test coverage: new diagrams with different orientation, southern-hemisphere season context, identify a misleading model claim, and explain why a single still image cannot show an orbit.
+- Misconceptions to target: rotation causes seasons; Earth is “closer to the Sun in summer”; tilt changes month to month; the Sun goes around Earth each day.
+- Feedback needs causal language (“because the hemisphere is tilted toward/away from the Sun while Earth revolves”), not merely labels.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S6U03 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Investigate energy transfer and transformation in electrical circuits, including circuit components, conductors and insulators.
+- Required boundary: students must reason about a complete working circuit and energy transformation, not only recall component names.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - H.1 “Electric circuits” uses everyday devices and asks for the best energy transformation. Sampled prompt: choose the device converting electrical energy to light; a lamp was the intended response rather than an alarm (sound) or toaster (thermal).
+  - Closest IXL supports: H.1 electric circuits; H.2 conductors and insulators; G.1 energy transformation; G.4/G.5 energy-transfer exploration.
+  - IXL’s accessible contexts support item stems using appliances, labelled components and purpose-based classifications.
+- Khan Academy: current authenticated search interface did not surface a direct Year 6 Australian-curriculum item. Treat any general electricity lesson as supplementary concept support only.
+- Additional trusted-source scan: use a recognised science authority/ABC Education circuit visual where available during authoring QA; the public ABC search did not yield a code-specific indexed resource. Do not claim an ABC code mapping.
+
+Concept and authoring blueprint
+- Teach a circuit as an unbroken conducting path. Battery/cell supplies energy; wires connect; switch opens/closes the path; load (lamp/buzzer/motor) transfers electrical energy to light/sound/motion/heat.
+- Teach materials by circuit role: conductor permits current in the model; insulator is used for safe covering/separation. Avoid the inaccurate shortcut that an insulator “stops all electricity everywhere.”
+- Practice coverage: complete/open circuit diagrams; component function; choose suitable material; trace energy transformations; diagnose one changed variable (gap, flat cell, broken conductor); compare two simple circuits.
+- Test coverage: unseen diagrams and household contexts; a safe-design choice involving insulated wire; multi-step energy chain; evidence observation (lamp off) with competing explanations.
+- Misconceptions to target: current is “used up” by the lamp; battery contains current rather than providing energy; a switch creates electricity; plastic is always an insulator without context.
+- Feedback needs distinguish energy transfer/transformation from current flow and name why path continuity matters.
+Status: AUTHORING-READY.
+
+================================================================
+AC9S6U04 — AUTHORING-READY
+================================================================
+Curriculum focus
+- Compare reversible changes (including dissolving and changes of state) with irreversible changes (including cooking and rusting) that produce new substances.
+- Required boundary: decide from observable/chemical evidence whether a new substance has formed; do not classify solely by whether the original material is easy to recover.
+
+Evidence collected
+- ACARA official Year 6 Science curriculum: exact content description confirmed.
+- IXL Australia, authenticated interactive sampling:
+  - D.4 “Heating, cooling and changes of state” gives visual change-of-state diagrams and asks which change is caused by cooling; sampled answer pattern distinguishes freezing from melting.
+  - Closest IXL supports: D.1 solids/liquids/gases; D.2–D.4 changes of state/heating/cooling; E.1 mixtures. IXL is strong for physical state-change vocabulary but does not fully cover new-substance reasoning or rusting/cooking.
+- Khan Academy: current authenticated search interface was checked for “states of matter”; it exposed the search interface but no direct Australian Year 6 map. Record supplementary/non-mapped rather than inventing a linkage.
+- Additional trusted-source scan: authoritative chemistry education should supply particulate/observable diagrams for dissolving, melting/freezing and rusting. ABC Education search currently lacks a reliable code-specific index result.
+
+Concept and authoring blueprint
+- Reversible examples: melting/freezing, evaporating/condensing, dissolving where recovery method is possible. Irreversible examples: cooking and rusting, where a new substance forms.
+- Use observation language: state change, colour/texture/gas/odour changes, residue, and whether the process can be reversed by simple physical means. Do not imply every visible change proves a new substance.
+- Practice coverage: classify examples with reasons; complete a heating/cooling state-change arrow; choose recovery method for dissolved salt; compare rusting with melting; read a short before/after investigation.
+- Test coverage: unfamiliar scenarios (e.g. wax, ice, sugar solution, baked batter, tarnish/rust), diagrams requiring process labels, and one “insufficient evidence” item.
+- Misconceptions to target: dissolving means disappearing; all heating is irreversible; an irreversible process is merely hard to undo; melted metal and rusted metal are the same type of change.
+- Feedback must use the distinction “no new substance / new substance formed”, then connect that to the example evidence.
+Status: AUTHORING-READY.
+
+BATCH 1 CHECKPOINT
+- All four Science-understanding descriptors are research-complete and AUTHORING-READY.
+- No content has been re-authored in this research phase.
+- Next batch begins with Science as a human endeavour: AC9S6H01, then AC9S6H02, AC9S6I01 and AC9S6I02.
