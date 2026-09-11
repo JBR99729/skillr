@@ -2,15 +2,15 @@ YEAR 8 SCIENCE — CURRICULUM RESEARCH MASTER
 Australian Curriculum v9 | SkillrHub
 Last updated: 2026-09-11
 
-PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9S8I06
-LAST_COMPLETED_CODE: AC9S8I05
-NEXT_CODE: AC9S8I07
+PROJECT_STATUS: RESEARCH_COMPLETE
+CURRENT_PHASE: RESEARCH_COMPLETE
+CURRENT_CODE: NONE
+LAST_COMPLETED_CODE: AC9S8I08
+NEXT_CODE: NONE
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 4 COMPLETED (LATEST: AC9S8H04–AC9S8I05)
+BATCH: 5 COMPLETED (FINAL: AC9S8I06–AC9S8I08)
 
 RESEARCH METHOD
 Each code is checked against the Australian Curriculum v9 wording and boundary, authenticated IXL Australia Year 8 practice, relevant Khan Academy lessons/exercises, and at least two reputable public sources where available. IXL and Khan mappings are evidence for task design and progression, not substitutes for the Australian Curriculum. Source gaps are recorded rather than inferred.
@@ -680,3 +680,129 @@ BATCH 4 CHECKPOINT
 Completed: AC9S8H04, AC9S8I03, AC9S8I04, AC9S8I05
 All four codes now have exact curriculum boundaries, live single-tab IXL evidence or explicit mapping status, authenticated single-tab Khan evidence or explicit mapping status, ABC Education and authoritative public-source comparison, misconception controls and authoring blueprints.
 Next unfinished code: AC9S8I06
+
+
+==================================================
+AC9S8I06
+CURRICULUM DESCRIPTION
+Analyse methods, conclusions and claims for assumptions, possible sources of error, conflicting evidence and unanswered questions.
+
+CURRICULUM BOUNDARY
+Students evaluate the whole evidence chain: what the method assumes, how a limitation could affect data, whether the conclusion matches the results, how conflicting evidence should be treated, and what remains unknown. “Human error” without a named mechanism is inadequate. Advanced statistical hypothesis testing and formal uncertainty propagation are outside the Year 8 requirement.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Elaborations require identifying assumptions, deciding whether further variable controls are needed, identifying procedural or measurement errors, and explaining how these affect data and conclusions.
+2. IXL Australia, authenticated Year 8 Science, partial mappings: B.5–B.7 experimental protocols; C.2 Evaluate tests of engineering-design solutions; C.3 Use data from tests to compare engineering-design solutions; and X.1 Evaluate claims about natural resource use: fossil fuels. Live C.2 begins a two-stage sequence requiring 3 correct in a row and explicitly links evaluation to the engineering-design process. Live X.1 presents a sourced global-energy graph from 1965–2015 and asks which statement is supported, with a distractor claiming energy stayed about the same. IXL supports evidence-method checking but does not fully cover conflicting evidence and unanswered questions.
+3. Khan Academy, authenticated “Controlled experiments”: a bean-seed example distinguishes control/experimental groups, variables and measured outcomes; it explains that unexplained biological variation requires larger samples and repetition to reduce the chance of a wrong conclusion. It also distinguishes controlled tests from observational tests required by practical or ethical limits. These features directly support analysis of assumptions, alternative explanations and scope.
+4. Australian Code for the Responsible Conduct of Research (NHMRC/ARC/Universities Australia) provides an authoritative Australian standard for honest, transparent, rigorous and accountable research practice, including accurate reporting and responsible treatment of evidence.
+5. ABC Education “Why does a grapefruit float?” offers an accessible critique context: an initial rule that hollow objects float is contradicted by tests; learners can compare predictions, method, table/report evidence and the overextended “lifecitrus” claim.
+6. ABC Education “Media Explained — Misinformation” and its ESCAPE source-checking strategy support source, purpose, evidence and corroboration checks when evaluating published claims.
+
+AUTHORING-READY KNOWLEDGE
+- Assumption: something treated as true without direct testing; identify it and explain why it matters.
+- Random error produces scatter and may be reduced/estimated with repeats; systematic error shifts results consistently and is not fixed by averaging.
+- Name the mechanism: parallax, zero/calibration error, changing temperature, inconsistent timing, selection bias, unrepresentative sample, transcription or unit error.
+- Link flaw → affected variable/data → likely direction or uncertainty → impact on conclusion → targeted improvement.
+- A conclusion must answer the question, use the actual evidence, preserve uncertainty and remain within tested conditions.
+- Conflicting evidence is compared for method quality, sample, precision, context and source; it is not ignored or averaged automatically.
+- Unanswered questions and limitations are scientifically useful because they set the next investigation.
+- Unsupported precision, cherry-picking and universal claims from narrow tests are warning signs.
+
+CONTENT BLUEPRINT
+Topic Page: evidence-chain model; assumptions; random/systematic error; conclusion-scope test; conflicting-evidence comparison; unanswered-question generator.
+Classroom View: flaw-to-effect card sort, repair a method, compare two conflicting studies and narrow an overclaim.
+Homework: annotate methods, classify error, evaluate conclusions, reconcile evidence and propose follow-up questions.
+Practice 48: 8 assumptions; 12 method/error mechanisms; 8 conclusion-data fit; 8 conflicting evidence; 6 unanswered questions; 6 targeted improvements.
+Test 16: independent investigations and claims, including at least 6 linked flaw-effect-improvement decisions.
+
+MISCONCEPTIONS
+All error is “human error”; repeats remove systematic bias; a hypothesis not supported means the investigation failed; conflicting results mean both are useless; a large sample fixes a biased method; any limitation invalidates everything. Feedback must name the specific limitation, its consequence and a proportionate revision.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8I07
+CURRICULUM DESCRIPTION
+Construct evidence-based arguments to support conclusions or evaluate claims and consider any ethical issues and cultural protocols associated with using or citing secondary data or information.
+
+CURRICULUM BOUNDARY
+Students must build or evaluate an argument using relevant evidence and reasoning, while checking the credibility and scope of secondary information. Ethical issues and cultural protocols are integral when data or knowledge concern people, communities, Country/Place or Indigenous Cultural and Intellectual Property. The code is not generic persuasive writing and does not authorise unrestricted reuse merely because material is online.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. The curriculum explicitly joins claim-evidence-reasoning with ethics and cultural protocols for secondary data/information.
+2. IXL Australia, authenticated Year 8 Science, X.1 is the strongest partial mapping. Its live sourced global-energy graph asks learners to select the statement supported by the data rather than an absolute or contradicted alternative. W.1–W.2 coral-reef biodiversity problem/solution skills and science-literacy items add evidence comparison. IXL does not directly teach Indigenous data protocols; this component is SOURCE-NOT-MAPPED and requires original Australian authoring.
+3. Khan Academy, authenticated “Controlled experiments” shows how controlled, observational and model-based evidence support claims with different strengths. Its coral-bleaching examples distinguish a small controlled test from broader real-world evidence and explicitly recognise ethical/practical limits. Khan has no direct Australian cultural-protocol mapping.
+4. AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research is the preferred authority. Its principles include Indigenous self-determination, Indigenous leadership, impact and value, and sustainability and accountability. Classroom use should translate these into permission, attribution, consultation, context, access restrictions and respect for community authority.
+5. Australian Code for the Responsible Conduct of Research supports accurate attribution, transparency, responsible data use and acknowledgement of contributions.
+6. ABC Education “Media Explained — Misinformation” distinguishes misinformation from disinformation; the ESCAPE strategy checks evidence, source, context, audience, purpose and execution. This is useful for evaluating secondary claims but must be paired with scientific-method and cultural-protocol reasoning.
+
+AUTHORING-READY KNOWLEDGE
+- Argument structure: precise claim + relevant evidence + reasoning that explains why the evidence supports the claim + limitation/qualification.
+- Evidence strength depends on relevance, method, sample, precision, corroboration, recency and source expertise—not popularity or confident tone.
+- Match claim scope to the tested population, conditions and timeframe; avoid universal language when evidence is narrow.
+- Separate primary research from secondary reporting and trace secondary claims back to original data where possible.
+- Cite creator/organisation, title, date and stable source details consistently; distinguish quotation, paraphrase and your own inference.
+- Check conflicts of interest, selective reporting, missing context and whether contrary evidence is addressed.
+- Ethical reuse includes privacy, consent, de-identification, harm minimisation and fair representation.
+- Indigenous knowledge/data may carry permissions, access conditions, community ownership and culturally appropriate attribution beyond standard citation. Seek guidance rather than assuming open access.
+- Acknowledging uncertainty strengthens an argument when it accurately reflects evidence.
+
+CONTENT BLUEPRINT
+Topic Page: claim-evidence-reasoning-limitation model; source-quality ladder; scope test; secondary-source tracing; ethics checklist; AIATSIS-informed cultural-protocol scenarios.
+Classroom View: evidence ranking, build/rebut arguments, trace a news claim, and work through a Country/Place data-permission scenario.
+Homework: CER paragraphs, source comparisons, citation repair, ethical/cultural decisions and a balanced claim evaluation.
+Practice 48: 10 argument construction; 10 claim/evidence fit; 8 source credibility; 6 conflicting evidence; 8 ethics; 6 cultural protocols/citation.
+Test 16: novel secondary-source packs, with at least 4 ethics/cultural-protocol items and no recycled practice stems.
+
+MISCONCEPTIONS
+One source is proof; correlation proves cause; citing a link gives permission; public online material is culturally unrestricted; Indigenous knowledge can be anonymised without consultation; “both sides” are equally supported; uncertainty makes an argument weak. Feedback must identify the evidence gap or protocol breach and provide a scoped, respectful correction.
+
+STATUS: AUTHORING-READY
+
+==================================================
+AC9S8I08
+CURRICULUM DESCRIPTION
+Write and create texts to communicate ideas, findings and arguments for specific purposes and audiences, including selection of appropriate language and text features, using digital tools as appropriate.
+
+CURRICULUM BOUNDARY
+Students create scientifically accurate texts whose structure, language, representations and level of detail suit purpose and audience. Forms may include investigation reports, explanations, arguments, posters, presentations or digital media. Adaptation must not change results, units, evidence strength or uncertainty. Digital polish is not a substitute for scientific integrity or accessibility.
+
+SOURCE EVIDENCE
+1. Australian Curriculum v9: exact description above. Elaborations include active/passive voice in scientific writing, analysing language features in contemporary journal articles, and writing investigation reports with appropriate conventions and representations.
+2. IXL Australia, authenticated Year 8 Science: no direct skill covers creation of a complete scientific text for a specified audience; SOURCE-NOT-MAPPED. Q.6 science literacy, X.1 claim evaluation, protocol tasks and graph skills provide only component reading/interpretation practice.
+3. Khan Academy, authenticated: no direct Year 8 scientific-writing/audience product maps to the complete code; SOURCE-NOT-MAPPED. “Controlled experiments” models clear headings, definitions, diagrams, case studies, evidence-qualified conclusions and attribution, providing a useful mentor-text structure.
+4. ABC Education “Why does a grapefruit float?” explicitly asks learners to communicate the investigation through labelled diagrams, a table or a scientific report and to explain the mechanism. It demonstrates that different text forms can preserve the same evidence.
+5. ABC Education “Catalyst: Nautical Robots” combines narration, sensor diagrams, quantities, rates and scientific interviews for a Year 7–8 audience, providing a mentor text for translating technical evidence without removing uncertainty.
+6. Australian Government Style Manual supports clear, concise, inclusive, accessible digital communication, meaningful headings, plain language and audience-focused structure.
+7. Australian Code for the Responsible Conduct of Research supports accurate reporting, attribution, transparency and separation of evidence from interpretation.
+
+AUTHORING-READY KNOWLEDGE
+- Begin with purpose, audience and required action/decision; then select genre, structure and detail.
+- Investigation report core: question/aim, hypothesis where relevant, variables, materials/method, results with tables/graphs, analysis, conclusion, limitations and references.
+- Results report observations without interpretation; discussion explains patterns, anomalies, reliability, limitations and scientific meaning.
+- Use precise scientific vocabulary, SI units, defined terms, calibrated verbs and causal language only where justified.
+- Active voice can clarify responsibility (“we measured”); passive voice can emphasise process (“temperature was measured”). Choose deliberately rather than enforcing one form.
+- Tables/figures require number/title, labelled axes or headings, units, readable scale/key and explicit reference in the text.
+- Audience adaptation changes vocabulary, scaffolding, examples and format, not the underlying evidence or conclusion.
+- Digital tools support drafting, graphing, layout, captions and accessibility; verify formulas, generated text, links and data.
+- Cite sources and images; use alt text, captions, contrast and logical headings for accessibility.
+- Revise for accuracy, coherence, evidence alignment and purpose before surface editing.
+
+CONTENT BLUEPRINT
+Topic Page: purpose-audience-form decision matrix; report anatomy; results-versus-discussion; language/voice; figure conventions; digital/accessibility checklist; paired technical/public examples.
+Classroom View: audience rewrite, report-section sort, graph-caption critique and peer review using an accuracy/evidence rubric.
+Homework: complete missing report sections, transform one dataset into two audience texts, edit overclaims and add references/captions.
+Practice 48: 8 purpose/audience; 10 text structure; 8 scientific language/voice; 8 tables/figures; 8 evidence/conclusions; 6 digital/accessibility/citation.
+Test 16: independent communication tasks across report, explanation and argument contexts; at least 4 require choosing or revising text features for audience.
+
+MISCONCEPTIONS
+Passive voice is always scientific; simplifying means deleting evidence; results and discussion are interchangeable; a graph needs no prose; colourful design proves quality; digital output is automatically accurate; citations are optional for images/data. Feedback must preserve the science while correcting structure, language, representation or attribution.
+
+STATUS: AUTHORING-READY
+
+==================================================
+BATCH 5 — FINAL RESEARCH CHECKPOINT
+Completed: AC9S8I06, AC9S8I07, AC9S8I08
+Only three unfinished Year 8 Science codes remained; there is no AC9S8I09 in Australian Curriculum v9. All Year 8 Science codes are now AUTHORING-READY.
+IXL and Khan evidence was collected through one sequential authenticated tab per platform; direct mapping gaps are explicitly recorded. ABC Education and authoritative Australian public sources complete the evidence base.
+Next unfinished research code: NONE
