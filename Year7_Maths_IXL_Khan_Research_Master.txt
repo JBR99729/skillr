@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M7N05
-LAST_COMPLETED_CODE: AC9M7N04
-NEXT_CODE: AC9M7N05
+CURRENT_CODE: AC9M7A01
+LAST_COMPLETED_CODE: AC9M7N09
+NEXT_CODE: AC9M7A01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 1 COMPLETE (AC9M7N01–AC9M7N04)
+BATCH: 2 COMPLETE (LATEST: AC9M7N05–AC9M7N09)
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -212,5 +212,191 @@ BATCH 1 QA CHECK
 - All four codes are AUTHORING-READY.
 - Existing authored assets are not treated as verified by this research; later authoring/QA must compare and rebuild as necessary.
 
+
+==============================================================================
+AC9M7N05 — ROUNDING, ACCURACY AND REASONABLENESS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Round decimals to a given accuracy appropriate to the context and use appropriate rounding and estimation to check the reasonableness of solutions.
+
+CURRICULUM BOUNDARY
+Students must round to specified decimal places or context-appropriate units, estimate results of all four operations, and decide whether an exact answer is plausible. Accuracy is a decision tied to context: money commonly uses cents, people/items may require whole numbers, and measurements depend on the instrument or purpose. Do not turn the unit into mechanical rounding only.
+
+IXL MAPPING AND LIVE EVIDENCE
+Primary mappings: D.4 “Round decimals”; E.3 “Estimate sums and differences of decimals”; E.8 “Estimate products of decimals”; E.12 “Estimate quotients of decimals”.
+IXL Learn-with-an-example evidence:
+- Round 41.4 to the nearest whole number. IXL identifies the ones digit, inspects the digit one place right, applies “less than 5 down; 5 or higher up”, and removes digits to the right: 41.4 → 41.
+- Estimate 8.9 + 4.51 by rounding each addend to a whole number: 9 + 5 = 14.
+- Estimate 2.7 × 6.8 by rounding each factor to a whole number: 3 × 7 = 21.
+Direct URLs: https://au.ixl.com/maths/year-7/round-decimals ; https://au.ixl.com/maths/year-7/estimate-sums-and-differences-of-decimals ; https://au.ixl.com/maths/year-7/estimate-products-of-decimals
+Question progression: identify rounding place → inspect deciding digit → calculate rounded value → estimate a result → compare estimate and exact value → judge a contextual claim.
+Misconceptions: rounding every digit independently; looking left instead of right; changing unaffected digits; always rounding to whole numbers; confusing truncation with rounding; accepting calculator output without a magnitude check.
+
+KHAN / PUBLIC EVIDENCE
+Khan mapped support: estimating multi-digit division by choosing compatible rounded numbers, https://www.khanacademy.org/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/multi-digit-division-estimation/v/approximating-multi-digit-division
+The exact Year 7 AC v9 combination of decimal accuracy plus reasonableness has no single Khan lesson: use Khan as method support and retain the Australian Curriculum/QCAA descriptor as scope authority.
+Trusted cross-checks: Australian Curriculum v9 Mathematics and QCAA Year 7 alignment listed in the source register.
+
+AUTHORING TRANSFER
+Topic Page: teach a place-value “target digit / deciding digit” routine, a number-line midpoint model, then distinguish stated accuracy from context-selected accuracy. Add front-end rounding and compatible-number estimation; close with estimate–calculate–compare.
+Classroom View: model 6.475 to 2 decimal places, discuss the midpoint; estimate a shopping total; reveal an implausible calculator answer and diagnose decimal-place error. Include language: approximately, nearest, decimal place, significant context, upper/lower neighbour, reasonableness.
+Homework: direct rounding, interval/midpoint items, context-choice items, all-four-operation estimates, exact-versus-estimate comparisons and written justification.
+Feedback: name the target place, underline the deciding digit, state the rounding decision, preserve other place values, then compare the result with nearby benchmarks.
+
+48-PRACTICE BLUEPRINT
+P01–P08 round to whole numbers/tenths; P09–P16 hundredths/thousandths and midpoint cases; P17–P24 choose sensible contextual accuracy; P25–P32 estimate sums/differences; P33–P40 estimate products/quotients with compatible numbers; P41–P48 calculator reasonableness, bounds, error analysis and multi-step contexts.
+16-TEST BLUEPRINT
+T01–T04 direct accuracy; T05–T08 context selection; T09–T12 independent estimation; T13–T16 reasonableness/error diagnosis. Use original numbers and contexts, with no Practice clones.
+
+==============================================================================
+AC9M7N06 — OPERATIONS WITH POSITIVE RATIONAL NUMBERS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Apply the four operations to solve problems involving positive rational numbers, including fractions, decimals and percentages, and use efficient calculation strategies.
+
+CURRICULUM BOUNDARY
+Positive rational numbers only for this code. Include fractions, mixed numbers, decimals and percentages; select a convenient representation and operation; simplify and interpret results. Negative-integer addition/subtraction belongs to AC9M7N07. Percentage modelling in practical/financial contexts is extended in AC9M7N09.
+
+IXL MAPPING AND LIVE EVIDENCE
+Mapped IXL families:
+- Fractions: G.1–G.11 add/subtract; H.1–H.24 multiply/divide; “Evaluate numerical expressions involving fractions”.
+- Decimals: E.1–E.17 covering four operations, estimation and word problems.
+- Rational-number integration: “Convert between decimals and fractions or mixed numbers”; “Add and subtract rational numbers”; “Multiply and divide rational numbers”.
+- Percentages: conversion and percent-of-number skills.
+Worked example captured for 1/3 + 1/6 using fraction bars. IXL renames 1/3 as 2/6, combines 2/6 + 1/6 = 3/6, then expects simplification. This is strong evidence for a model-before-algorithm sequence.
+Several multiplication/division examples were visually rendered but their mathematical text was not exposed in the accessibility snapshot; mappings were recorded without inventing example details.
+High-value methods: common denominators for addition/subtraction; simplify before/after multiplication; division as multiplying by the reciprocal, supported by measurement/grouping interpretations; align decimal places; convert percentages to fraction/decimal form when efficient.
+Misconceptions: adding denominators; reciprocal of the first instead of second fraction; treating a percentage as a whole number; losing decimal place; failing to simplify or attach units; using one representation when another is much easier.
+
+KHAN / PUBLIC EVIDENCE
+Khan mapped resource: “Adding fractions, decimals and percentages” uses a mixed expression such as 0.79 − 4/3 − 1/2 + 150%, showing the need to convert to compatible forms: https://www.khanacademy.org/math/cc-seventh-grade-math-essentials/x220f497c584d1b35%3Arational-numbers-addition-and-subtraction/x220f497c584d1b35%3Aadding-subtracting-rational-numbers/v/adding-fractions-decimals-and-percentages
+Use Khan’s representation-conversion reasoning, not its negative-number extension, for this positive-only descriptor.
+Trusted scope cross-checks: Australian Curriculum v9 and QCAA Year 7 alignment.
+
+AUTHORING TRANSFER
+Topic Page: a decision tree—identify operation, inspect forms, choose common form, calculate, simplify, interpret/check. Provide visual fraction addition, decimal area/grid multiplication, fraction division as “how many groups?”, and percent benchmarks 10%, 25%, 50%, 75%.
+Classroom View: compare two valid strategies for the same problem and ask which is more efficient; include a worked recipe, length, and percentage-allocation example.
+Homework: separated fluency sections followed by mixed-representation and contextual problems; require strategy labels and estimates for selected items.
+Feedback: diagnose representation or operation first, then show the shortest correction and an estimate/check.
+
+48-PRACTICE BLUEPRINT
+P01–P08 fraction addition/subtraction; P09–P16 fraction multiplication/division; P17–P24 decimal operations; P25–P32 percentage operations and conversion; P33–P40 mixed-representation choice; P41–P48 original multi-step recipe, measurement, allocation and error-analysis problems.
+16-TEST BLUEPRINT
+T01–T04 fraction operations; T05–T08 decimal/percentage operations; T09–T12 efficient representation choice; T13–T16 independent multi-step reasoning. Separate stems, numbers and contexts from Practice.
+
+==============================================================================
+AC9M7N07 — COMPARE, ORDER, ADD AND SUBTRACT INTEGERS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Compare, order and solve problems involving addition and subtraction of integers.
+
+CURRICULUM BOUNDARY
+Include integer meaning, horizontal/vertical number lines, < > =, magnitude/absolute distance, addition and subtraction, missing values and authentic contexts. Multiplication and division of integers are not required by this descriptor.
+
+IXL MAPPING AND LIVE EVIDENCE
+Mappings: B.1–B.5 understanding, graphing, comparing and ordering integers; C.1–C.13 integer addition/subtraction with rules, counters, number lines, equations and word problems.
+Learn-with-an-example evidence:
+- Compare −2 and −6: IXL places both on a −10 to 10 number line; −2 lies to the right, so −2 > −6.
+- Model −2 − 7 with counters: start with two negative counters; add seven zero pairs to create enough positive counters to remove; after removing seven positives, nine negatives remain, so −2 − 7 = −9.
+- Word problem: a score of 700 followed by a loss of 400 gives 300, explicitly interpreting the integer in context.
+Direct examples: https://au.ixl.com/maths/year-7/compare-integers ; https://au.ixl.com/maths/year-7/subtract-integers-using-counters ; https://au.ixl.com/maths/year-7/add-and-subtract-integers-word-problems
+Misconceptions: “larger absolute value means greater”; reversing < and > for negatives; treating subtraction as always making smaller; dropping a negative sign; confusing −(−a) with −a; counting tick marks rather than intervals.
+
+KHAN / PUBLIC EVIDENCE
+Khan “Adding the opposite with number lines” teaches: adding positive moves right, subtracting positive moves left, and subtraction can be rewritten as adding the opposite: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-negative-numbers-add-and-subtract/x6b17ba59%3Asubtracting-negative-numbers-fluently/v/adding-the-opposite-with-number-lines
+Supporting Khan examples cover 2−3, −2−3, −2+3 and 2−(−3), reinforcing direction and sign distinctions.
+Trusted scope cross-checks: Australian Curriculum v9 and QCAA.
+
+AUTHORING TRANSFER
+Topic Page: ground integers in temperature, elevation, credit/debt and score change; use horizontal and vertical number lines; teach “right/up is greater”; connect counters and zero pairs to addition/subtraction; only then introduce add-the-opposite notation.
+Classroom View: human number-line activity; compare −2/−6; counter model of −2−7; context translation where direction words determine signed change; exit ticket includes explanation.
+Homework: placement/comparison/order, counter drawings, number-line moves, symbolic calculations, missing-number sentences and multi-step contexts.
+Feedback: translate each sign into starting value, operation and direction; show a model; then verify with the inverse operation.
+
+48-PRACTICE BLUEPRINT
+P01–P08 identify/locate integers; P09–P16 compare/order; P17–P24 add using number lines/counters; P25–P32 subtract including zero-pair cases; P33–P40 mixed addition/subtraction and missing values; P41–P48 temperature, elevation, finance, scoring and error analysis.
+16-TEST BLUEPRINT
+T01–T04 compare/order; T05–T08 addition/subtraction fluency; T09–T12 independent contexts; T13–T16 missing values, multi-step reasoning and misconception diagnosis.
+
+==============================================================================
+AC9M7N08 — RATIOS AND EQUIVALENT RELATIONSHIPS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Recognise, represent and solve problems involving ratios.
+
+CURRICULUM BOUNDARY
+Include part-to-part and part-to-whole interpretations, order-sensitive notation, equivalent ratios, scaling, tables/double number lines and division of a quantity in a ratio. Keep ratio distinct from a fraction while explaining their connection. Formal linear proportional equations are supportive, not the sole representation.
+
+IXL MAPPING AND LIVE EVIDENCE
+Primary mappings: “Write a ratio”; “Write a ratio: word problems”; “Identify equivalent ratios”; “Write an equivalent ratio”; “Equivalent ratios: word problems”, plus ratio-table/unit-rate supports.
+Learn-with-an-example evidence:
+- For a display with 1 rectangle and 4 hexagons, IXL counts in the requested order and writes rectangle:hexagon as 1:4. This highlights that ratio order follows the nouns.
+- Determine whether 1:2 and 10:16 are equivalent. IXL writes each as a fraction, changes 1/2 to 8/16, and compares 8/16 with 10/16; they are not equivalent.
+Direct examples: https://au.ixl.com/maths/year-7/write-a-ratio ; https://au.ixl.com/maths/year-7/identify-equivalent-ratios
+Misconceptions: reversing order; confusing part:part with part:whole; adding the same amount to both terms instead of multiplying; simplifying across unlike quantities without units; assuming visually similar mixtures are equivalent; solving only one side of a scale factor.
+
+KHAN / PUBLIC EVIDENCE
+Khan “Introduction to proportional relationships” defines a proportional relationship through equivalent ratios/direct variation: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-ratio-proportion/7th-constant-of-proportionality/v/introduction-proportional-relationships
+Supporting Khan worked proportions use equal-ratio equations and scaling in recipe/production contexts. Use these after concrete diagrams and tables.
+Trusted scope cross-checks: Australian Curriculum v9 and QCAA.
+
+AUTHORING TRANSFER
+Topic Page: start with coloured counters and label ratio order; show the same collection as part:part and part:whole; generate equivalent ratios by scaling; use tables, double number lines and bar models; finish with sharing a total in a given ratio.
+Classroom View: build a drink mixture physically/visually, scale it for more servings, compare two recipes, then solve a sharing problem. Require sentences naming what each ratio term represents.
+Homework: read diagrams, write ratios in three forms, simplify/generate equivalents, missing-value tables, recipe/map/model contexts and divide quantities in ratios.
+Feedback: label both quantities and units, preserve order, identify multiplicative scale factor, apply it to every term and check the relationship.
+
+48-PRACTICE BLUEPRINT
+P01–P08 read/write ratios; P09–P16 part-part versus part-whole; P17–P24 simplify/generate equivalent ratios; P25–P32 missing values using tables/double lines; P33–P40 compare mixtures and scale recipes/models; P41–P48 divide quantities and justify contextual solutions.
+16-TEST BLUEPRINT
+T01–T04 representation/order; T05–T08 equivalence; T09–T12 scaling and sharing; T13–T16 independent multi-step contexts and error analysis.
+
+==============================================================================
+AC9M7N09 — MATHEMATICAL MODELLING WITH RATIONAL NUMBERS AND PERCENTAGES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Use mathematical modelling to solve practical problems involving rational numbers and percentages, including financial contexts; formulate problems, choosing representations and efficient calculation strategies, using digital tools as appropriate; interpret and communicate solutions in terms of the situation, justifying choices made about the representation.
+
+CURRICULUM BOUNDARY
+This is a modelling-cycle code, not merely “calculate a percentage”. Every substantial task must include some of: formulate assumptions/questions, choose variables/representations, calculate, use a digital tool appropriately, interpret, validate, revise and communicate. Include financial contexts without presenting financial advice.
+
+IXL MAPPING AND LIVE EVIDENCE
+Mapped families: percent grid/strip models; percent of numbers/money; percent equations; GST, discount and mark-up; original/sale price; unit prices; price lists; money four-operation problems; multi-step percentage problems.
+Learn-with-an-example captured from “Multi-step problems with percents”: salesperson receives $79 base pay plus 4% commission on $75 sales. IXL converts 4% to 0.04, calculates commission = 0.04×75 = $3, then total pay = 79+3 = $82. The example clearly separates intermediate quantity from final requested quantity.
+Direct URL: https://au.ixl.com/maths/year-7/multi-step-problems-with-percents
+Other inspected worked-example panels used visual content not exposed as readable mathematical text; mappings retained without fabricated detail.
+Misconceptions: applying discount percentage as final-price percentage; adding GST/discount in the wrong direction; confusing amount of change with final amount; comparing package prices without common units; reporting a calculator number without units/rounding; ignoring whether an answer is feasible.
+
+KHAN / PUBLIC EVIDENCE
+Khan “Percent word problems: tax and discount” distinguishes percent off from percent remaining and includes reverse original-price reasoning: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-percent-word-problems/v/tax-discount-and-tip-examples
+Khan “Solving percent problems” translates “of” to multiplication and “is” to equality, while multiple representations should still be taught: https://www.khanacademy.org/math/cc-seventh-grade-math/cc-7th-fractions-decimals/cc-7th-percent-word-problems/v/solving-percent-problems
+Trusted scope cross-checks: Australian Curriculum v9 and QCAA. AC v9’s modelling verbs control task design.
+
+AUTHORING TRANSFER
+Topic Page: explicitly teach the modelling cycle—understand/formulate; choose representation and assumptions; calculate (mental, written, spreadsheet/calculator); check sensitivity/reasonableness; interpret and communicate. Provide worked models for best-buy unit price, GST, discount, commission, budget allocation and positive/negative changes.
+Classroom View: compare two mobile/data or grocery plans; students state assumptions, build a table/spreadsheet, calculate, test a changed condition and defend a recommendation. Include a worked commission example but use original numbers.
+Homework: short percentage foundations followed by complete modelling tasks with tables, assumptions, calculations, interpretation and a written justification.
+Feedback: separate original amount, rate, change and final amount; show a labelled equation/table; round only at the appropriate stage; evaluate the result against the situation.
+
+48-PRACTICE BLUEPRINT
+P01–P08 percentage/decimal/fraction conversions as tools; P09–P16 percent-of-amount and reverse percent; P17–P24 GST/discount/mark-up/commission; P25–P32 unit price and best buy; P33–P40 budgets, proportions and signed changes; P41–P48 full modelling cycle with assumptions, digital-tool outputs, sensitivity and communication.
+16-TEST BLUEPRINT
+T01–T04 financial percent fluency; T05–T08 unit-price/reverse-percent problems; T09–T12 independent modelling decisions; T13–T16 multi-step scenarios requiring assumptions, validation and justified communication. Test must not clone Practice contexts.
+
+==============================================================================
+BATCH 2 QA CHECK
+- Five codes researched: AC9M7N05–AC9M7N09.
+- Exact descriptors cross-checked against SkillrHub’s AC v9 pages and QCAA alignment.
+- One authenticated IXL Australia tab was used sequentially. Sixteen mapped skill pages were inspected and Learn with an example was opened on each; readable worked-example evidence was captured where exposed.
+- One Khan tab was used sequentially; direct mappings and source gaps were recorded honestly.
+- Australian Curriculum v9 and QCAA supplied authoritative scope; Khan and IXL supplied teaching/question patterns.
+- Every code includes curriculum boundary, misconceptions, Topic/Classroom/Homework transfer, 48-Practice coverage and an independent 16-Test coverage plan.
+- AC9M7N05–AC9M7N09 are AUTHORING-READY.
+
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M7N05. Do not repeat AC9M7N01–AC9M7N04 research unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M7A01. Do not repeat AC9M7N01–AC9M7N09 unless a source or curriculum descriptor materially changes.
