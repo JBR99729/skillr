@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://skillrhub.com/about.html</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-11</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/ai-citation-guide.html</loc>
@@ -11,6 +11,10 @@
   <url>
     <loc>https://skillrhub.com/ai-crawler-policy.html</loc>
     <lastmod>2026-09-07</lastmod>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/amazon-resources/</loc>
+    <lastmod>2026-09-12</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/assessment-tasks/year-2/ac9m2m03/</loc>
@@ -189,8 +193,12 @@
     <lastmod>2026-09-07</lastmod>
   </url>
   <url>
+    <loc>https://skillrhub.com/blogs/how-skillrhub-homeschooling-materials-are-different.html</loc>
+    <lastmod>2026-09-11</lastmod>
+  </url>
+  <url>
     <loc>https://skillrhub.com/blogs/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-11</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/blogs/paper-maths-worksheets-year-3-focused-practice.html</loc>
@@ -334,7 +342,7 @@
   </url>
   <url>
     <loc>https://skillrhub.com/editorial-standards.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-09-11</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/faq.html</loc>
@@ -378,7 +386,7 @@
   </url>
   <url>
     <loc>https://skillrhub.com/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-12</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/learn/foundation/</loc>
@@ -410,7 +418,7 @@
   </url>
   <url>
     <loc>https://skillrhub.com/learn/year-5/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/learn/year-6/</loc>
@@ -462,11 +470,11 @@
   </url>
   <url>
     <loc>https://skillrhub.com/privacy-policy.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-09-09</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/products/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-12</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/products/year-1-biological-sciences-free/</loc>
@@ -565,12 +573,28 @@
     <lastmod>2026-09-09</lastmod>
   </url>
   <url>
+    <loc>https://skillrhub.com/resources/year-5-english-curriculum-code-guide.html</loc>
+    <lastmod>2026-09-10</lastmod>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/resources/year-5-english-free-resources.html</loc>
+    <lastmod>2026-09-10</lastmod>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/resources/year-5-reading-comprehension-resources.html</loc>
+    <lastmod>2026-09-10</lastmod>
+  </url>
+  <url>
+    <loc>https://skillrhub.com/resources/year-5-writing-grammar-resources.html</loc>
+    <lastmod>2026-09-10</lastmod>
+  </url>
+  <url>
     <loc>https://skillrhub.com/sitemap.html</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/support-skillrhub.html</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-10</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/teach/foundation/</loc>
@@ -634,11 +658,11 @@
   </url>
   <url>
     <loc>https://skillrhub.com/teach-and-explain.html</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-09-10</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/updates.html</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-11</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/victoria/mathematics/</loc>
@@ -690,7 +714,7 @@
   </url>
   <url>
     <loc>https://skillrhub.com/year-3-maths/analog-time-worksheets/</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-11</lastmod>
   </url>
   <url>
     <loc>https://skillrhub.com/year-3-maths/chance-and-probability-worksheets/</loc>
@@ -751,9 +775,5 @@
   <url>
     <loc>https://skillrhub.com/year-6-maths/fractions-decimals-percentages-worksheets/</loc>
     <lastmod>2026-09-07</lastmod>
-  </url>
-  <url>
-    <loc>https://skillrhub.com/blogs/how-skillrhub-homeschooling-materials-are-different.html</loc>
-    <lastmod>2026-09-10</lastmod>
   </url>
 </urlset>
