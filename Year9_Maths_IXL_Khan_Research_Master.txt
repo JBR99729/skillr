@@ -1,0 +1,215 @@
+YEAR 9 MATHEMATICS — IXL / KHAN CURRICULUM RESEARCH MASTER
+Australian Curriculum Version 9.0 | SkillrHub
+Last updated: 2026-09-11
+
+PROJECT_STATUS: IN_PROGRESS
+CURRENT_PHASE: RESEARCH
+CURRENT_CODE: AC9M9A05
+LAST_COMPLETED_CODE: AC9M9A04
+NEXT_CODE: AC9M9A05
+AUTHORING_STARTED: NO
+CONTENT_VERIFIED_COUNT: 0
+BLOCKER: NONE
+BATCH: 1 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M9N01, AC9M9A01–AC9M9A04)
+
+PURPOSE AND AUTHORING STANDARD
+This ledger supports later re-authoring of every Year 9 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Australian Curriculum v9/QCAA sets scope. IXL and Khan examples inform pedagogy only; all SkillrHub content must be original.
+
+FULL CODE INVENTORY (23)
+Number: AC9M9N01
+Algebra: AC9M9A01, AC9M9A02, AC9M9A03, AC9M9A04, AC9M9A05, AC9M9A06
+Measurement: AC9M9M01, AC9M9M02, AC9M9M03, AC9M9M04, AC9M9M05
+Space: AC9M9SP01, AC9M9SP02, AC9M9SP03
+Statistics: AC9M9ST01, AC9M9ST02, AC9M9ST03, AC9M9ST04, AC9M9ST05
+Probability: AC9M9P01, AC9M9P02, AC9M9P03
+
+SOURCE REGISTER
+1. Australian Curriculum v9 Mathematics: https://www.australiancurriculum.edu.au/curriculum-information/understand-this-learning-area/mathematics
+2. QCAA Year 9 Mathematics alignment: https://www.qcaa.qld.edu.au/downloads/aciqv9/mathematics/curriculum/ac9_maths_yr9_as_cd_alignment.pdf
+3. IXL Australia Year 9 Mathematics: https://au.ixl.com/maths/year-9
+4. Khan Academy Mathematics: https://www.khanacademy.org/math
+5. Desmos Graphing Calculator: https://www.desmos.com/calculator
+6. GeoGebra: https://www.geogebra.org/
+7. NRICH Mathematics: https://nrich.maths.org/
+
+==============================================================================
+AC9M9N01 — REAL NUMBERS AND DIGITAL TOOLS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Recognise that the real number system includes the rational numbers and the irrational numbers, and solve problems involving real numbers using digital tools.
+
+CURRICULUM BOUNDARY
+Connect natural, whole, integer, rational and irrational subsets within the real numbers. Classify terminating/repeating decimals, non-perfect roots and π; compare/order exact and approximate values; locate irrational numbers; solve mixed real-number problems with calculators/spreadsheets while interpreting rounding and display limits. Complex numbers and formal irrationality proofs are outside the required Year 9 endpoint.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: A.1 classify numbers; A.2–A.4 compare/order/convert rational numbers; A.5 square roots; A.6 cube roots; A.7 irrational numbers on number lines; B.1–B.7 real-number operations.
+A.7 example actually opened: locate √95. IXL lists perfect squares 1 through 100, brackets 81<95<100, takes roots to obtain 9<√95<10, and selects the only point between 9 and 10. This models exact bracketing before decimal approximation.
+Progression: subset hierarchy → decimal behaviour → perfect/non-perfect roots → exact versus approximate forms → ordering/number-line placement → operations and contextual/digital problem solving.
+Misconceptions: irrational means “not real”; all roots are irrational; all non-terminating decimals are irrational; π=3.14 exactly; calculator display is the complete value; √95 lies halfway between 9 and 10; rounding early preserves exact comparisons; division by zero is a real number.
+
+KHAN / TRUSTED CROSS-CHECK
+The authenticated Khan “Introduction to rational and irrational numbers” route was opened; Khan distinguishes numbers expressible as integer ratios from irrational examples. Its official √2 lesson is a useful extension, but proof is not required for this code.
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Airrational-numbers/x2f8bb11595b61c86%3Airrational-numbers-intro/v/introduction-to-rational-and-irrational-numbers
+Desmos supports comparing exact expressions and decimal approximations: https://www.desmos.com/calculator
+NRICH supports real-number reasoning and estimation: https://nrich.maths.org/numbers
+
+AUTHORING TRANSFER
+Topic Page: real-number hierarchy; decimal/radical classification flow; bracket-and-estimate method; exact/approximate notation; digital-tool workflow and display-limit warning.
+Classroom View: number-card hierarchy, construct/locate √2 or √5, calculator comparison, exact-versus-rounded challenge and error clinic.
+Homework: classify, order, estimate roots, compare exact/decimal forms, solve applied calculations and critique calculator claims.
+Feedback: identify the representation, test rationality, bracket roots with perfect powers, retain exact form until required and verify the digital output’s precision.
+
+48-PRACTICE BLUEPRINT
+P01–P08 subsets/definitions; P09–P16 classify representations; P17–P24 roots and exact values; P25–P32 order/number lines; P33–P40 operations/applied contexts; P41–P48 digital precision and error analysis.
+16-TEST BLUEPRINT
+T01–T04 classification; T05–T08 estimation/order; T09–T12 independent applied/digital problems; T13–T16 justification and misconception diagnosis.
+
+==============================================================================
+AC9M9A01 — EXPONENT LAWS WITH INTEGER EXPONENTS AND VARIABLES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Apply the exponent laws to numerical expressions with integer exponents and extend to variables.
+
+CURRICULUM BOUNDARY
+Apply same-base product/quotient, power of a power, power of a product/quotient, zero and negative exponent laws to numerical and variable expressions. State non-zero-base/denominator conditions, write answers with requested positive exponents, and distinguish coefficients from variable powers. Fractional exponents are outside this descriptor.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: R.1–R.13 powers and exponent laws through integer exponents/equivalence; T.2–T.5 monomial operations and powers.
+- R.10 example actually opened: simplify 796⁰×796⁰ using positive exponents. IXL adds same-base exponents to get 796⁰, then uses 796⁰=1.
+- T.5 example actually opened: simplify (5p³)². IXL raises each factor, evaluates 5²=25 and applies the power rule (p³)²=p⁶, giving 25p⁶.
+Progression: repeated factors → positive laws → zero exponent via quotient → negative exponent as reciprocal → mixed integer exponents → variables/monomials → equivalence/conditions.
+Misconceptions: multiplying bases or exponents in a same-base product; a⁰=0; a⁻ⁿ is negative; (a+b)ⁿ distributes; forgetting to power the coefficient; dividing unlike bases by subtracting exponents; cancelling across addition; allowing zero under a negative exponent; leaving negative exponents when positive form is requested.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan “Multiplying & dividing powers (integer exponents)” was opened. The visible lesson sequence includes products/quotients, powers of products/quotients and challenge practice with integer exponents.
+https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86%3Arational-exponents-radicals/x2f8bb11595b61c86%3Aexponent-properties-review/v/multiplying-and-dividing-powers-with-integer-exponents
+NRICH algebra tasks support deriving rather than memorising laws: https://nrich.maths.org/algebra
+
+AUTHORING TRANSFER
+Topic Page: law table with conditions/non-examples; repeated-factor derivations; zero/negative exponent explanation; coefficient-variable separation; mixed worked examples and substitution checks.
+Classroom View: factor strings, derive a⁰/a⁻ⁿ, law matching, monomial relay and mistake clinic.
+Homework: single/mixed laws, positive-exponent rewriting, evaluate, compare equivalent expressions and explain invalid steps.
+Feedback: identify operation and common base, apply one matching law, keep coefficient rules separate, rewrite negative powers as reciprocals and check excluded zero values.
+
+48-PRACTICE BLUEPRINT
+P01–P08 meaning/positive laws; P09–P16 quotient/zero; P17–P24 negative exponents; P25–P32 powers of products/quotients; P33–P40 variables/monomials; P41–P48 mixed equivalence, conditions and errors.
+16-TEST BLUEPRINT
+T01–T04 foundations; T05–T08 integer-exponent laws; T09–T12 independent variable expressions; T13–T16 conditions, justification and error analysis.
+
+==============================================================================
+AC9M9A02 — ALGEBRAIC EXPRESSIONS, BINOMIAL EXPANSION AND MONIC FACTORISATION
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Simplify algebraic expressions, expand binomial products and factorise monic quadratic expressions.
+
+CURRICULUM BOUNDARY
+Collect like terms, apply distributive law, operate with polynomials, expand two binomials including sign/special cases, factorise by common factor and factorise x²+bx+c with integer factors. Non-monic general quadratic factorisation is beyond the stated endpoint.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: L.2–L.3 simplification/equivalence; U.1–U.13 polynomial vocabulary, operations, binomial products, common factors and monic quadratics.
+- U.8 example actually opened: expand (3h−2)(3h−4). IXL uses distributive/FOIL products 9h², −12h, −6h and 8, then combines middle terms to obtain 9h²−18h+8.
+- U.13 example actually opened: factorise w²+4w+3. IXL seeks integers with product 3 and sum 4, chooses 1 and 3, writes (w+1)(w+3), then expands to check.
+Progression: vocabulary/like terms → polynomial addition/subtraction → monomial distribution → binomial grid/distribution → special products → common factors → monic trinomials → expand-to-check.
+Misconceptions: combining unlike powers; losing negative signs; multiplying only first/last terms; (a+b)²=a²+b²; choosing numbers that sum to c and multiply to b; ignoring sign combinations; factorising only part of an expression; using non-monic shortcuts here without understanding; failing to check by expansion.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan Algebra basics Unit 7 “Quadratics and polynomials” was opened. Its visible sequence covers polynomial operations, monomial-by-polynomial multiplication, binomial products, common factors, factoring quadratics, difference of squares and equations by factoring.
+https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics-and-polynomials
+GeoGebra algebra tiles/graphs can verify equivalence: https://www.geogebra.org/
+NRICH supports structural algebra reasoning: https://nrich.maths.org/algebra
+
+AUTHORING TRANSFER
+Topic Page: like-term checklist; area/grid and distributive binomial models; sign table; product-sum factor pair method; expand↔factorise inverse link; checks.
+Classroom View: algebra-tile simplify/expand, grid multiplication, factor-pair race, error analysis and create-a-trinomial.
+Homework: simplify, polynomial operations, expand binomials, factor common terms/monic quadratics and justify equivalence.
+Feedback: order terms, combine exact like terms, show all four binomial products, use product c/sum b, then expand the factors to verify.
+
+48-PRACTICE BLUEPRINT
+P01–P08 simplify/like terms; P09–P16 polynomial operations; P17–P24 binomial expansion; P25–P32 signs/special cases; P33–P40 common/monic factorisation; P41–P48 mixed inverse reasoning and error analysis.
+16-TEST BLUEPRINT
+T01–T04 simplification; T05–T08 expansion; T09–T12 independent factorisation; T13–T16 multi-step equivalence and misconception diagnosis.
+
+==============================================================================
+AC9M9A03 — GRADIENT, MIDPOINT AND DISTANCE
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Find the gradient of a line segment, the midpoint of the line interval and the distance between 2 distinct points on the Cartesian plane.
+
+CURRICULUM BOUNDARY
+Use ordered coordinates in all quadrants; calculate signed gradient as Δy/Δx, recognise horizontal gradient 0 and undefined vertical gradient; average coordinates for midpoint; derive distance from horizontal/vertical changes and Pythagoras; retain exact radicals or round appropriately. Do not confuse segment length with coordinate differences.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: Q.2–Q.4 gradient; J.2–J.3 midpoint/endpoint; J.4 distance.
+- Q.3 example actually opened: through (10,2) and (3,4), IXL substitutes (4−2)/(3−10)=2/(−7)=−2/7. Consistent point order preserves the sign.
+- J.2 example actually opened: endpoints (4,8) and (8,10). IXL averages x- and y-coordinates separately to obtain midpoint (6,9), then displays it between the endpoints.
+- J.4 example actually opened: distance between (9,6) and (3,−2). IXL builds a right triangle, finds vertical/horizontal changes 8 and 6 using absolute differences, applies 8²+6²=c²=100 and selects positive distance 10.
+Progression: coordinate changes → gradient and special cases → midpoint → distance via Pythagoras → missing endpoint/coordinate → integrated geometry/context problems.
+Misconceptions: rise/run with mismatched point order; using absolute change for gradient; calling vertical slope zero; averaging all four numbers together; subtracting rather than averaging midpoint coordinates; Manhattan distance; forgetting square root; accepting negative distance; rounding radical distances too early.
+
+KHAN / TRUSTED CROSS-CHECK
+Khan’s official midpoint lesson and distance-with-Pythagoras lesson were located/opened; they connect average coordinates and right-triangle distance construction.
+https://www.khanacademy.org/math/uk-math-class-10/xc551e7be9debeb08%3Acoordinate-geometry-ncert-new/xc551e7be9debeb08%3Asection-formula/v/midpoint-formula-indian-accent
+https://www.khanacademy.org/math/8th-engage-ny/engage-8th-module-7/8th-module-7-topic-c/v/example-finding-distance-with-pythagorean-theorem
+Desmos verifies line gradient and coordinates dynamically: https://www.desmos.com/calculator
+
+AUTHORING TRANSFER
+Topic Page: three formula cards with derivations; consistent-subtraction rule; horizontal/vertical cases; exact/rounded distance; integrated worked example and interpretation.
+Classroom View: human coordinate plane, estimate then calculate, midpoint fold/average, distance triangle overlay, Desmos verification and error clinic.
+Homework: gradients, midpoints/endpoints, distances, exact/decimal answers and multi-step coordinate problems.
+Feedback: label points, subtract in one consistent order, average matching coordinates for midpoint, use squared coordinate changes for distance and interpret special cases.
+
+48-PRACTICE BLUEPRINT
+P01–P08 coordinate changes; P09–P16 gradient; P17–P24 midpoint/endpoint; P25–P32 distance; P33–P40 special/exact cases; P41–P48 integrated applications and error analysis.
+16-TEST BLUEPRINT
+T01–T04 gradient; T05–T08 midpoint; T09–T12 independent distance/integrated tasks; T13–T16 special cases and justification.
+
+==============================================================================
+AC9M9A04 — QUADRATIC FUNCTIONS, GRAPHS AND EQUATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Identify and graph quadratic functions, solve quadratic equations graphically and numerically, and solve monic quadratic equations with integer roots algebraically, using graphing software and digital tools as appropriate.
+
+CURRICULUM BOUNDARY
+Recognise quadratics from rules, parabolas and constant second differences; generate tables and graph; identify vertex, axis, intercepts and opening; solve from x-intercepts, numerical trial/table and factorised zero-product form for monic integer-root equations. Quadratic formula, completing the square and general non-monic algebraic solving are outside the stated endpoint.
+
+IXL MAPPING AND ACTUAL EXAMPLE EVIDENCE
+Direct mappings: V.1–V.6 identify/characterise/table/graph quadratics; V.7 square-root equations; V.8 zero-product; V.9 monic factorisation solving; V.10 transformations.
+- V.6 example actually opened: graph y=6x². IXL rewrites as 6(x−0)²+0, identifies vertex (0,0), notes positive a opens upward, finds another point (1/2,3/2) and plots the parabola.
+- V.9 example actually opened: solve z²−6z−7=0. IXL finds factor pair 1 and −7 (product −7, sum −6), writes (z+1)(z−7)=0, applies zero-product property and obtains z=−1 or 7.
+Progression: linear-versus-quadratic/second differences → tables → graph features → software parameter exploration → graphical/numerical roots → factorise monic quadratics → zero-product solving → cross-check representations.
+Misconceptions: constant first difference; plotting only a vertex and one unsymmetrical point without reflecting; assuming all parabolas open upward; confusing y-intercept and root; reading approximate graph roots as exact; factoring without first setting equation to zero; solving only one factor; product zero means both factors zero; using vertex-form transformations without accounting for signs.
+
+KHAN / TRUSTED CROSS-CHECK
+Authenticated Khan Algebra basics Unit 7 was opened; its visible sequence includes factoring quadratics and equations by factoring. IXL supplies direct Year 9 graphing and solving examples.
+https://www.khanacademy.org/math/algebra-basics/alg-basics-quadratics-and-polynomials
+Desmos is the primary free graphing tool for tables, roots, vertex and parameter experiments: https://www.desmos.com/calculator
+GeoGebra provides a second dynamic graph/algebra check: https://www.geogebra.org/graphing
+
+AUTHORING TRANSFER
+Topic Page: recognition across rule/table/graph; second-difference demonstration; graph-feature guide; Desmos workflow; graphical/numerical/algebraic solution comparison; zero-product example.
+Classroom View: classify relations, table-to-parabola, slider investigation, estimate graph roots, factorise and reconcile answers, error clinic.
+Homework: identify quadratics, tables/features, graph/numerical solutions, monic factorisation and digital-output interpretation.
+Feedback: confirm quadratic evidence, generate symmetric points, label approximate versus exact roots, set expression equal to zero, factorise and solve both factors, then verify graphically/substitution.
+
+48-PRACTICE BLUEPRINT
+P01–P08 recognise/second differences; P09–P16 tables/features; P17–P24 graphing; P25–P32 graphical/numerical solving; P33–P40 monic factorisation/zero product; P41–P48 digital comparison and error analysis.
+16-TEST BLUEPRINT
+T01–T04 identify/features; T05–T08 graph/numerical roots; T09–T12 independent algebraic solving; T13–T16 connect representations, justify and diagnose.
+
+==============================================================================
+BATCH 1 INTERACTIVE QA CHECK — 2026-09-11
+- Five codes completed: AC9M9N01 and AC9M9A01–AC9M9A04.
+- One authenticated IXL Australia tab was used sequentially; Learn with an example was actually opened for every code, with multiple complementary examples where a descriptor spans distinct skills.
+- One authenticated Khan Academy tab was used sequentially for real numbers, integer exponent laws, polynomials/factorisation, coordinate geometry and quadratics.
+- Australian Curriculum v9/QCAA set exact scope; Desmos, GeoGebra and NRICH extend trusted public evidence.
+- Every example is used for method/progression evidence, not copied into future banks.
+- Each code is sufficient for Topic Page, HTML Classroom View, Homework, exactly 48 Practice and a separate exactly 16 Test bank.
+- All five codes are genuinely AUTHORING-READY.
+
+RESUME INSTRUCTION
+Read NEXT_CODE and continue with AC9M9A05. Do not repeat completed research unless a source or curriculum descriptor materially changes.
