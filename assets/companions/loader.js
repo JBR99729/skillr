@@ -10,7 +10,7 @@
   config.onload = function () {
     if (!window.SkillrCompanionConfig?.enabled) return;
     const runtime = document.createElement('script');
-    runtime.src = '/assets/companions/companions.js?v=20260909-3';
+    runtime.src = '/assets/companions/companions.js?v=20260911-1';
     document.head.appendChild(runtime);
   };
   document.head.appendChild(config);

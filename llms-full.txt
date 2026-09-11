@@ -27,7 +27,7 @@ Ben is curious and inventive; Vani is thoughtful and observant. They are SkillrH
 
 - Topic Pages: “Guide me” follows the existing written explanations and worked steps. “Show me again” revisits the current step; “Let me try” returns to independent learning.
 - Classroom View: optional companion guidance sits alongside the existing classroom material. Availability of step-through controls depends on the viewer; do not describe every presentation as having guided steps or mascots built into its slide artwork.
-- Practice: companions offer an available authored question hint or a general strategy prompt. During an active Test, they step back and guidance is hidden.
+- Assessment banks: Practice, quiz, Test, retake, review and daily-drill routes are companion-free so students can focus on the questions.
 - About, Updates and other SkillrHub messages: the characters introduce site information and learning tips. Their story is expandable on About.
 - Learners and teachers can hide companions; the visibility preference carries across pages on that browser when storage is available. Written teaching content remains readable without the companion utility. Sensitive topics use restrained text guidance without character portraits.
 

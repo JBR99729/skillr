@@ -26,11 +26,11 @@ resource links remain available without JavaScript. Show me again revisits the
 authored step; it does not claim to create a new explanation. Let me try restores
 the original disclosure state. No timers or forced advancement are introduced.
 
-Practice uses only the active shuffled question's authored `hint` when available.
-Otherwise it gives an explicitly general getting-started prompt. Answers and
-explanations are never used as pre-answer hints. Feedback stays owned by the quiz
-engine. During an active Test the guide is hidden; scoring, attempts, navigation
-and existing banks are untouched. No Content Verified status is changed.
+Practice, Test, retake, review and daily-drill assessment routes do not mount the
+companion interface. This keeps question banks focused and avoids decorative UI
+that does not help students complete the assessment. Scoring, hints, feedback,
+attempts, navigation and existing banks are untouched. No Content Verified status
+is changed.
 
 Year 9 onward uses quieter portraits and copy. AC9S9U02 has an explicit factual
 reproduction note; other clearly titled reproduction/puberty lessons use a neutral
@@ -66,8 +66,8 @@ Use `data-companion="ben"` or `data-companion="vani"` to choose a speaker. Hidin
 companions also hides these badges. Sensitive lessons suppress them.
 
 For subsequent transient announcements, the shared `SkillrCompanions.announce`
-method accepts `{ title, message, speaker }`. It inserts text only, respects hidden
-guidance, and does not display announcements during an active test.
+method accepts `{ title, message, speaker }`. It inserts text only and respects
+hidden guidance. The companion runtime is not mounted on assessment-bank routes.
 
 ## Implementation verification
 

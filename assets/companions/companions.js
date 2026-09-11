@@ -17,6 +17,8 @@
     const ctx = config.context(location.pathname, title);
     // Brand guidance is a learning utility; don't distract on legal/error/admin pages.
     if (/^\/(?:privacy-policy|policy|404|offline|ai-|editorial-standards)/i.test(location.pathname)) return;
+    // Practice, Test, retake, review and daily-drill banks stay assessment-only.
+    if (ctx.activity) return;
     let hidden = false;
     try { hidden = localStorage.getItem(config.storageKey) === 'false'; } catch (_) { /* Storage is optional. */ }
     let guideIndex = -1, running = false, lastQuestion = '', previousTarget = null;
