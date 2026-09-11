@@ -1,1322 +1,2434 @@
 [
   {
-    "id": "ac9s6i03-p-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-001",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "A ruler is marked in millimetres. Which record is reasonable?",
-    "audio_prompt": "A ruler is marked in millimetres. Which record is reasonable?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "equipment",
+    "question": "Which tool is best for measuring the length of a leaf?",
+    "audio_prompt": "Which tool is best for measuring the length of a leaf?",
     "answers": [
       {
-        "text": "83 mm.",
+        "text": "ruler",
         "is_correct": true
       },
       {
-        "text": "83.00000 mm.",
+        "text": "stopwatch",
         "is_correct": false
       },
       {
-        "text": "about somewhere near 80ish.",
+        "text": "balance",
+        "is_correct": false
+      },
+      {
+        "text": "thermometer",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "83 mm.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A ruler measures length; centimetres or millimetres are suitable units.",
+      "hint": "Match the tool to the variable."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-002",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-002",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Why take repeated measurements?",
-    "audio_prompt": "Why take repeated measurements?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "units",
+    "question": "Which unit is most appropriate for recording the mass of an apple?",
+    "audio_prompt": "Which unit is most appropriate for recording the mass of an apple?",
     "answers": [
       {
-        "text": "They make the first reading always correct.",
+        "text": "litres",
         "is_correct": false
       },
       {
-        "text": "They help reveal random variation and improve confidence in the result.",
+        "text": "grams",
         "is_correct": true
       },
       {
-        "text": "They remove the need to record units.",
+        "text": "seconds",
+        "is_correct": false
+      },
+      {
+        "text": "degrees Celsius",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "They help reveal random variation and improve confidence in the result.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Grams are an appropriate metric unit for the relatively small mass of an apple.",
+      "hint": "Mass is not volume."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-003",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "All thermometer readings are 2 degrees C too high. What type of problem is likely?",
-    "audio_prompt": "All thermometer readings are 2 degrees C too high. What type of problem is likely?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "equipment",
+    "question": "Which tool measures 40 mL of water most suitably?",
+    "audio_prompt": "Which tool measures 40 mL of water most suitably?",
     "answers": [
       {
-        "text": "Random variation only.",
+        "text": "metre ruler",
         "is_correct": false
       },
       {
-        "text": "A perfect result.",
+        "text": "spring balance",
         "is_correct": false
       },
       {
-        "text": "Systematic error.",
+        "text": "measuring cylinder",
         "is_correct": true
+      },
+      {
+        "text": "stopwatch",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Systematic error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A measuring cylinder is graduated for liquid volume.",
+      "hint": "Look for a vessel with a volume scale."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-004",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "One timing result is much larger than the others. What should students do?",
-    "audio_prompt": "One timing result is much larger than the others. What should students do?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "units",
+    "question": "Which unit is reasonable for the time a toy car takes to cross a desk?",
+    "audio_prompt": "Which unit is reasonable for the time a toy car takes to cross a desk?",
     "answers": [
       {
-        "text": "Check for a possible error before deciding whether to exclude it.",
-        "is_correct": true
-      },
-      {
-        "text": "Delete it immediately because it is inconvenient.",
+        "text": "kilometres",
         "is_correct": false
       },
       {
-        "text": "Average it without mentioning it.",
+        "text": "grams",
+        "is_correct": false
+      },
+      {
+        "text": "millilitres",
+        "is_correct": false
+      },
+      {
+        "text": "seconds",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Seconds are appropriate for a short duration.",
+      "hint": "Time needs a time unit."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-P-005",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "temperature",
+    "question": "Which instrument measures water temperature?",
+    "audio_prompt": "Which instrument measures water temperature?",
+    "answers": [
+      {
+        "text": "thermometer",
+        "is_correct": true
+      },
+      {
+        "text": "ruler",
+        "is_correct": false
+      },
+      {
+        "text": "balance",
+        "is_correct": false
+      },
+      {
+        "text": "beaker",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check for a possible error before deciding whether to exclude it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A thermometer measures temperature, normally in degrees Celsius in this context.",
+      "hint": "Choose the temperature tool."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-006",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "What is precision about?",
-    "audio_prompt": "What is precision about?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "observation",
+    "question": "Which is a quantitative observation?",
+    "audio_prompt": "Which is a quantitative observation?",
     "answers": [
       {
-        "text": "Whether the prediction was liked.",
+        "text": "the soil feels gritty",
         "is_correct": false
       },
       {
-        "text": "How finely and consistently a measurement is recorded.",
+        "text": "the seedling is 63 mm tall",
         "is_correct": true
       },
       {
-        "text": "How colourful the table is.",
+        "text": "the flower is yellow",
+        "is_correct": false
+      },
+      {
+        "text": "the liquid smells sharp",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "How finely and consistently a measurement is recorded.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "63 mm is a measured numerical observation with a unit.",
+      "hint": "Quantitative data include numbers."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-007",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Which tool suits measuring the mass of powder?",
-    "audio_prompt": "Which tool suits measuring the mass of powder?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "units",
+    "question": "A classroom doorway height is most reasonably recorded in",
+    "audio_prompt": "A classroom doorway height is most reasonably recorded in",
     "answers": [
       {
-        "text": "A stopwatch.",
+        "text": "millilitres",
         "is_correct": false
       },
       {
-        "text": "A metre ruler.",
+        "text": "grams",
         "is_correct": false
       },
       {
-        "text": "A digital balance.",
+        "text": "metres",
         "is_correct": true
+      },
+      {
+        "text": "seconds",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A digital balance.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Metres are a sensible length unit for a doorway.",
+      "hint": "Consider the size and quantity."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-008",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Why should units be recorded in a data table?",
-    "audio_prompt": "Why should units be recorded in a data table?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "recording",
+    "question": "Which record is scientifically complete?",
+    "audio_prompt": "Which record is scientifically complete?",
     "answers": [
       {
-        "text": "They show what was measured and allow fair comparison.",
-        "is_correct": true
-      },
-      {
-        "text": "They decorate the heading.",
+        "text": "plant: 12",
         "is_correct": false
       },
       {
-        "text": "They make all values larger.",
+        "text": "plant: tall",
+        "is_correct": false
+      },
+      {
+        "text": "plant: about twelve things",
+        "is_correct": false
+      },
+      {
+        "text": "plant height: 12 cm",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "It identifies the variable, value and unit.",
+      "hint": "A number needs meaning and a unit."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-P-009",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "scale_reading",
+    "question": "A ruler has marks every 1 mm. A leaf tip is at 54 mm. What should be recorded?",
+    "audio_prompt": "A ruler has marks every 1 mm. A leaf tip is at 54 mm. What should be recorded?",
+    "answers": [
+      {
+        "text": "54 mm",
+        "is_correct": true
+      },
+      {
+        "text": "54.00 mm",
+        "is_correct": false
+      },
+      {
+        "text": "about 5 m",
+        "is_correct": false
+      },
+      {
+        "text": "54 mL",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "They show what was measured and allow fair comparison.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "54 mm matches the scale and quantity without unsupported digits.",
+      "hint": "Use the marked scale."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-010",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Which set of readings suggests random variation?",
-    "audio_prompt": "Which set of readings suggests random variation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "digital_tools",
+    "question": "Which digital tool can automatically record temperature every minute?",
+    "audio_prompt": "Which digital tool can automatically record temperature every minute?",
     "answers": [
       {
-        "text": "All readings exactly 2 units above a known value.",
+        "text": "digital balance",
         "is_correct": false
       },
       {
-        "text": "12.4, 12.6, 12.5 and 12.7 seconds.",
+        "text": "data-logging temperature probe",
         "is_correct": true
       },
       {
-        "text": "A title and no numbers.",
+        "text": "calculator",
+        "is_correct": false
+      },
+      {
+        "text": "camera flash",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "12.4, 12.6, 12.5 and 12.7 seconds.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A logging probe can collect temperature at regular intervals.",
+      "hint": "Choose a sensor for the variable."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-011",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "A ruler is marked in millimetres. Which record is reasonable in a new class investigation?",
-    "audio_prompt": "A ruler is marked in millimetres. Which record is reasonable in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "volume",
+    "question": "To read water in a measuring cylinder, your eye should be",
+    "audio_prompt": "To read water in a measuring cylinder, your eye should be",
     "answers": [
       {
-        "text": "83.00000 mm.",
+        "text": "well above the liquid",
         "is_correct": false
       },
       {
-        "text": "about somewhere near 80ish.",
+        "text": "below the bench",
         "is_correct": false
       },
       {
-        "text": "83 mm.",
+        "text": "level with the meniscus",
         "is_correct": true
+      },
+      {
+        "text": "closed",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "83 mm.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Eye-level viewing reduces parallax error.",
+      "hint": "View the scale straight on."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-012",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Why take repeated measurements in a new class investigation?",
-    "audio_prompt": "Why take repeated measurements in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "precision",
+    "question": "Measurements of 10.2, 10.2 and 10.3 cm are",
+    "audio_prompt": "Measurements of 10.2, 10.2 and 10.3 cm are",
     "answers": [
       {
-        "text": "They help reveal random variation and improve confidence in the result.",
-        "is_correct": true
-      },
-      {
-        "text": "They make the first reading always correct.",
+        "text": "perfectly accurate by definition",
         "is_correct": false
       },
       {
-        "text": "They remove the need to record units.",
+        "text": "low resolution because decimals appear",
+        "is_correct": false
+      },
+      {
+        "text": "not measurements",
+        "is_correct": false
+      },
+      {
+        "text": "closely grouped and therefore precise",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Close repeated readings show good repeat-measurement precision. Accuracy requires a trusted reference.",
+      "hint": "Precision concerns agreement among repeats."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-P-013",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "resolution",
+    "question": "What is the resolution of a ruler whose smallest divisions are 1 mm?",
+    "audio_prompt": "What is the resolution of a ruler whose smallest divisions are 1 mm?",
+    "answers": [
+      {
+        "text": "1 mm",
+        "is_correct": true
+      },
+      {
+        "text": "1 cm",
+        "is_correct": false
+      },
+      {
+        "text": "10 mm",
+        "is_correct": false
+      },
+      {
+        "text": "0.01 mm",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "They help reveal random variation and improve confidence in the result.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Resolution is the smallest marked or displayed increment, here 1 mm.",
+      "hint": "Find the smallest division."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-014",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "All thermometer readings are 2 degrees C too high. What type of problem is likely in a new class investigation?",
-    "audio_prompt": "All thermometer readings are 2 degrees C too high. What type of problem is likely in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "precision",
+    "question": "Which set has the greatest repeat-measurement precision?",
+    "audio_prompt": "Which set has the greatest repeat-measurement precision?",
     "answers": [
       {
-        "text": "Random variation only.",
+        "text": "7, 9, 11 g",
         "is_correct": false
       },
       {
-        "text": "Systematic error.",
+        "text": "8.1, 8.2, 8.1 g",
         "is_correct": true
       },
       {
-        "text": "A perfect result.",
+        "text": "4, 8, 12 g",
+        "is_correct": false
+      },
+      {
+        "text": "2, 7, 14 g",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Systematic error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The readings 8.1, 8.2 and 8.1 g have the smallest spread, so they agree most closely.",
+      "hint": "Compare the spreads."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-015",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "One timing result is much larger than the others. What should students do in a new class investigation?",
-    "audio_prompt": "One timing result is much larger than the others. What should students do in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "resolution_vs_precision",
+    "question": "A probe displays 21.37°C but repeat readings range from 19.80°C to 23.10°C. Which statement is sound?",
+    "audio_prompt": "A probe displays 21.37°C but repeat readings range from 19.80°C to 23.10°C. Which statement is sound?",
     "answers": [
       {
-        "text": "Delete it immediately because it is inconvenient.",
+        "text": "It is accurate because it is digital.",
         "is_correct": false
       },
       {
-        "text": "Average it without mentioning it.",
+        "text": "Its resolution is 1°C.",
         "is_correct": false
       },
       {
-        "text": "Check for a possible error before deciding whether to exclude it.",
+        "text": "Its fine resolution does not make the readings precise.",
         "is_correct": true
+      },
+      {
+        "text": "The range proves the true value.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Check for a possible error before deciding whether to exclude it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The 0.01°C display gives fine resolution, while the wide spread indicates poor repeat precision.",
+      "hint": "Displayed increments and repeat agreement differ."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-016",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "What is precision about in a new class investigation?",
-    "audio_prompt": "What is precision about in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "accuracy",
+    "question": "A balance repeatedly reads 12.0 g for a certified 15.0 g mass. The readings are",
+    "audio_prompt": "A balance repeatedly reads 12.0 g for a certified 15.0 g mass. The readings are",
     "answers": [
       {
-        "text": "How finely and consistently a measurement is recorded.",
-        "is_correct": true
-      },
-      {
-        "text": "Whether the prediction was liked.",
+        "text": "accurate but imprecise",
         "is_correct": false
       },
       {
-        "text": "How colourful the table is.",
+        "text": "both proven valid and accurate",
+        "is_correct": false
+      },
+      {
+        "text": "too large to compare",
+        "is_correct": false
+      },
+      {
+        "text": "precise but inaccurate",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "They agree with one another but are far from the reference, suggesting systematic error.",
+      "hint": "Compare consistency with closeness to a reference."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-P-017",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "parallax",
+    "question": "Which action reduces parallax when reading a thermometer?",
+    "audio_prompt": "Which action reduces parallax when reading a thermometer?",
+    "answers": [
+      {
+        "text": "place the scale at eye level",
+        "is_correct": true
+      },
+      {
+        "text": "read from an angle",
+        "is_correct": false
+      },
+      {
+        "text": "round before looking",
+        "is_correct": false
+      },
+      {
+        "text": "change units each trial",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How finely and consistently a measurement is recorded.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Looking perpendicular to the scale prevents apparent shifts caused by viewing angle.",
+      "hint": "Align your eye with the reading."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-018",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Which tool suits measuring the mass of powder in a new class investigation?",
-    "audio_prompt": "Which tool suits measuring the mass of powder in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "meniscus",
+    "question": "For water in a standard measuring cylinder, volume is commonly read at the",
+    "audio_prompt": "For water in a standard measuring cylinder, volume is commonly read at the",
     "answers": [
       {
-        "text": "A stopwatch.",
+        "text": "top of the cylinder",
         "is_correct": false
       },
       {
-        "text": "A digital balance.",
+        "text": "bottom of the meniscus at eye level",
         "is_correct": true
       },
       {
-        "text": "A metre ruler.",
+        "text": "highest printed number",
+        "is_correct": false
+      },
+      {
+        "text": "rim of the vessel",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A digital balance.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The bottom of water’s curved meniscus is read at eye level.",
+      "hint": "Look at the liquid curve."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-019",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Why should units be recorded in a data table in a new class investigation?",
-    "audio_prompt": "Why should units be recorded in a data table in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "equipment_choice",
+    "question": "Which tool best compares masses of soil samples near 25 g?",
+    "audio_prompt": "Which tool best compares masses of soil samples near 25 g?",
     "answers": [
       {
-        "text": "They decorate the heading.",
+        "text": "30 cm ruler",
         "is_correct": false
       },
       {
-        "text": "They make all values larger.",
+        "text": "100 mL cylinder",
         "is_correct": false
       },
       {
-        "text": "They show what was measured and allow fair comparison.",
+        "text": "digital balance reading to 0.1 g",
         "is_correct": true
+      },
+      {
+        "text": "wall clock",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "They show what was measured and allow fair comparison.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A balance with 0.1 g resolution is suited to this mass comparison.",
+      "hint": "Match both quantity and useful scale."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-020",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Which set of readings suggests random variation in a new class investigation?",
-    "audio_prompt": "Which set of readings suggests random variation in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "reasonable_precision",
+    "question": "A stopwatch displays hundredths of a second, but a student starts it by hand. Which record is most honest for a roughly 8-second event?",
+    "audio_prompt": "A stopwatch displays hundredths of a second, but a student starts it by hand. Which record is most honest for a roughly 8-second event?",
     "answers": [
       {
-        "text": "12.4, 12.6, 12.5 and 12.7 seconds.",
-        "is_correct": true
-      },
-      {
-        "text": "All readings exactly 2 units above a known value.",
+        "text": "8.374829 s",
         "is_correct": false
       },
       {
-        "text": "A title and no numbers.",
+        "text": "exactly 8 s with no uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "8000 kg",
+        "is_correct": false
+      },
+      {
+        "text": "8.37 s as displayed, while noting reaction-time limitation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The displayed value may be recorded, but its last digits are limited by human reaction time and should not be overclaimed.",
+      "hint": "Consider instrument and procedure."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-P-021",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "tables",
+    "question": "Which heading is complete for seedling measurements?",
+    "audio_prompt": "Which heading is complete for seedling measurements?",
+    "answers": [
+      {
+        "text": "Seedling height (mm)",
+        "is_correct": true
+      },
+      {
+        "text": "Height",
+        "is_correct": false
+      },
+      {
+        "text": "Results",
+        "is_correct": false
+      },
+      {
+        "text": "Numbers",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "12.4, 12.6, 12.5 and 12.7 seconds.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The heading gives the variable and unit.",
+      "hint": "A table heading needs quantity and unit."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-017",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-022",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "A ruler is marked in millimetres. Which record is reasonable after students review their evidence?",
-    "audio_prompt": "A ruler is marked in millimetres. Which record is reasonable after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "consistent_recording",
+    "question": "Which column is recorded most consistently?",
+    "audio_prompt": "Which column is recorded most consistently?",
     "answers": [
       {
-        "text": "83.00000 mm.",
+        "text": "8 cm, 82 mm, 0.9 m",
         "is_correct": false
       },
       {
-        "text": "83 mm.",
+        "text": "8.0 cm, 8.2 cm, 8.1 cm",
         "is_correct": true
       },
       {
-        "text": "about somewhere near 80ish.",
+        "text": "eight, 8.2 cm, tall",
+        "is_correct": false
+      },
+      {
+        "text": "8 cm, blank, maybe 9",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "83 mm.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "All values use the same unit and decimal convention, making comparisons straightforward.",
+      "hint": "Look for one unit and format."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 22,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-018",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-023",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Why take repeated measurements after students review their evidence?",
-    "audio_prompt": "Why take repeated measurements after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "sampling",
+    "question": "Soil pH is measured at four sites. What must be recorded with each value?",
+    "audio_prompt": "Soil pH is measured at four sites. What must be recorded with each value?",
     "answers": [
       {
-        "text": "They make the first reading always correct.",
+        "text": "only the student name",
         "is_correct": false
       },
       {
-        "text": "They remove the need to record units.",
+        "text": "a guessed colour",
         "is_correct": false
       },
       {
-        "text": "They help reveal random variation and improve confidence in the result.",
+        "text": "site identifier and pH value",
         "is_correct": true
+      },
+      {
+        "text": "the final conclusion",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "They help reveal random variation and improve confidence in the result.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Linking every measurement to its sampling site preserves its scientific meaning.",
+      "hint": "Data need context."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-019",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-024",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "All thermometer readings are 2 degrees C too high. What type of problem is likely after students review their evidence?",
-    "audio_prompt": "All thermometer readings are 2 degrees C too high. What type of problem is likely after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "digital_tools",
+    "question": "Why use a light sensor rather than describing light as “bright” or “dim”?",
+    "audio_prompt": "Why use a light sensor rather than describing light as “bright” or “dim”?",
     "answers": [
       {
-        "text": "Systematic error.",
-        "is_correct": true
-      },
-      {
-        "text": "Random variation only.",
+        "text": "it guarantees truth",
         "is_correct": false
       },
       {
-        "text": "A perfect result.",
+        "text": "it removes the need for units",
+        "is_correct": false
+      },
+      {
+        "text": "it never requires calibration",
+        "is_correct": false
+      },
+      {
+        "text": "it produces comparable numerical measurements",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Numerical sensor readings allow consistent comparison, although calibration and units still matter.",
+      "hint": "Think measurable comparison."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 24,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-P-025",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "estimation",
+    "question": "Which statement correctly distinguishes an estimate from a measurement?",
+    "audio_prompt": "Which statement correctly distinguishes an estimate from a measurement?",
+    "answers": [
+      {
+        "text": "An estimate is a reasoned approximation; a measurement uses an instrument and unit.",
+        "is_correct": true
+      },
+      {
+        "text": "They always mean exactly the same thing.",
+        "is_correct": false
+      },
+      {
+        "text": "An estimate is always more precise.",
+        "is_correct": false
+      },
+      {
+        "text": "A measurement never has uncertainty.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Systematic error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Estimates approximate; measurements are obtained using defined equipment and units.",
+      "hint": "One uses a measuring process."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-020",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-026",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "One timing result is much larger than the others. What should students do after students review their evidence?",
-    "audio_prompt": "One timing result is much larger than the others. What should students do after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "range",
+    "question": "Repeated masses are 14.1, 14.2, 14.1 and 14.8 g. What should be checked?",
+    "audio_prompt": "Repeated masses are 14.1, 14.2, 14.1 and 14.8 g. What should be checked?",
     "answers": [
       {
-        "text": "Delete it immediately because it is inconvenient.",
+        "text": "whether grams should become litres",
         "is_correct": false
       },
       {
-        "text": "Check for a possible error before deciding whether to exclude it.",
+        "text": "whether 14.8 g arose from a procedural or recording issue",
         "is_correct": true
       },
       {
-        "text": "Average it without mentioning it.",
+        "text": "whether all values can be replaced by 14.1",
+        "is_correct": false
+      },
+      {
+        "text": "whether the balance is a ruler",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check for a possible error before deciding whether to exclude it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The separated reading should be investigated and repeated, not silently changed or discarded.",
+      "hint": "Notice the unusual value."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-021",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-027",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "What is precision about after students review their evidence?",
-    "audio_prompt": "What is precision about after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "equipment_limits",
+    "question": "Why is a 1 L kitchen jug unsuitable for measuring 3 mL accurately?",
+    "audio_prompt": "Why is a 1 L kitchen jug unsuitable for measuring 3 mL accurately?",
     "answers": [
       {
-        "text": "Whether the prediction was liked.",
+        "text": "It is transparent.",
         "is_correct": false
       },
       {
-        "text": "How colourful the table is.",
+        "text": "Litres cannot measure volume.",
         "is_correct": false
       },
       {
-        "text": "How finely and consistently a measurement is recorded.",
+        "text": "Its scale divisions are too coarse for 3 mL.",
         "is_correct": true
+      },
+      {
+        "text": "It is larger than the desk.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "How finely and consistently a measurement is recorded.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The jug lacks the resolution needed for such a small volume.",
+      "hint": "Compare the quantity with the smallest division."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-022",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-028",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Which tool suits measuring the mass of powder after students review their evidence?",
-    "audio_prompt": "Which tool suits measuring the mass of powder after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "units",
+    "question": "Which record is a plausible soil temperature?",
+    "audio_prompt": "Which record is a plausible soil temperature?",
     "answers": [
       {
-        "text": "A digital balance.",
+        "text": "18 mL",
+        "is_correct": false
+      },
+      {
+        "text": "18 g",
+        "is_correct": false
+      },
+      {
+        "text": "18 km",
+        "is_correct": false
+      },
+      {
+        "text": "18°C",
         "is_correct": true
-      },
-      {
-        "text": "A stopwatch.",
-        "is_correct": false
-      },
-      {
-        "text": "A metre ruler.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A digital balance.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Degrees Celsius measure temperature.",
+      "hint": "Match unit to variable."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 28,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-023",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-029",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Why should units be recorded in a data table after students review their evidence?",
-    "audio_prompt": "Why should units be recorded in a data table after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "zero_check",
+    "question": "Before using a digital balance, a student should",
+    "audio_prompt": "Before using a digital balance, a student should",
     "answers": [
       {
-        "text": "They decorate the heading.",
-        "is_correct": false
-      },
-      {
-        "text": "They show what was measured and allow fair comparison.",
+        "text": "tare or zero it with the empty container if needed",
         "is_correct": true
       },
       {
-        "text": "They make all values larger.",
+        "text": "add two random decimals",
+        "is_correct": false
+      },
+      {
+        "text": "hold it sideways",
+        "is_correct": false
+      },
+      {
+        "text": "change grams to seconds",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "They show what was measured and allow fair comparison.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Zeroing removes the container or baseline reading as instructed.",
+      "hint": "Establish the measurement baseline."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 29,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-p-024",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-030",
     "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "measurement precision",
-    "question": "Which set of readings suggests random variation after students review their evidence?",
-    "audio_prompt": "Which set of readings suggests random variation after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "repeat_method",
+    "question": "To compare water temperature over time, measurements should be taken",
+    "audio_prompt": "To compare water temperature over time, measurements should be taken",
     "answers": [
       {
-        "text": "All readings exactly 2 units above a known value.",
+        "text": "at random times with different probes",
         "is_correct": false
       },
       {
-        "text": "A title and no numbers.",
-        "is_correct": false
-      },
-      {
-        "text": "12.4, 12.6, 12.5 and 12.7 seconds.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "12.4, 12.6, 12.5 and 12.7 seconds.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i03-t-001",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A different class checks the same science idea: Which set of readings suggests random variation?",
-    "audio_prompt": "A different class checks the same science idea: Which set of readings suggests random variation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "12.4, 12.6, 12.5 and 12.7 seconds.",
+        "text": "at fixed intervals using the same checked probe position",
         "is_correct": true
       },
       {
-        "text": "All readings exactly 2 units above a known value.",
+        "text": "only when a change looks large",
         "is_correct": false
       },
       {
-        "text": "A title and no numbers.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "12.4, 12.6, 12.5 and 12.7 seconds.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i03-t-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A different class checks the same science idea: Why should units be recorded in a data table?",
-    "audio_prompt": "A different class checks the same science idea: Why should units be recorded in a data table?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "They decorate the heading.",
-        "is_correct": false
-      },
-      {
-        "text": "They show what was measured and allow fair comparison.",
-        "is_correct": true
-      },
-      {
-        "text": "They make all values larger.",
+        "text": "without recording units",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "They show what was measured and allow fair comparison.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Fixed intervals and consistent probe placement improve comparability.",
+      "hint": "Keep the measurement procedure consistent."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 30,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-031",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A different class checks the same science idea: Which tool suits measuring the mass of powder?",
-    "audio_prompt": "A different class checks the same science idea: Which tool suits measuring the mass of powder?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "fieldwork",
+    "question": "Students compare soil compaction at two sites. Which plan gives usable data?",
+    "audio_prompt": "Students compare soil compaction at two sites. Which plan gives usable data?",
     "answers": [
       {
-        "text": "A stopwatch.",
+        "text": "Press by hand and write hard/soft.",
         "is_correct": false
       },
       {
-        "text": "A metre ruler.",
+        "text": "Use a different method at every point.",
         "is_correct": false
       },
       {
-        "text": "A digital balance.",
+        "text": "Use the same approved compaction tool, depth rule and units at several labelled points.",
         "is_correct": true
+      },
+      {
+        "text": "Measure only the wettest-looking spot.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A digital balance.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Consistent equipment, sampling and units produce comparable, more representative records.",
+      "hint": "Standardise how and where measurements are made."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-032",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A different class checks the same science idea: What is precision about?",
-    "audio_prompt": "A different class checks the same science idea: What is precision about?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "scale_reading",
+    "question": "A cylinder has 2 mL divisions. The meniscus lies exactly on 36 mL. Which entry is justified?",
+    "audio_prompt": "A cylinder has 2 mL divisions. The meniscus lies exactly on 36 mL. Which entry is justified?",
     "answers": [
       {
-        "text": "How finely and consistently a measurement is recorded.",
-        "is_correct": true
-      },
-      {
-        "text": "Whether the prediction was liked.",
+        "text": "36.000 mL",
         "is_correct": false
       },
       {
-        "text": "How colourful the table is.",
+        "text": "0.036 g",
+        "is_correct": false
+      },
+      {
+        "text": "about 100 mL",
+        "is_correct": false
+      },
+      {
+        "text": "36 mL",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "36 mL is supported by the marked scale; extra zeros imply unsupported resolution.",
+      "hint": "Do not invent finer detail."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-P-033",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "mixed_units",
+    "question": "Plant heights are 9.5 cm, 102 mm and 0.11 m. What should happen before comparing?",
+    "audio_prompt": "Plant heights are 9.5 cm, 102 mm and 0.11 m. What should happen before comparing?",
+    "answers": [
+      {
+        "text": "Convert all to one common length unit.",
+        "is_correct": true
+      },
+      {
+        "text": "Remove the largest.",
+        "is_correct": false
+      },
+      {
+        "text": "Treat the numbers as already identical units.",
+        "is_correct": false
+      },
+      {
+        "text": "Average 9.5, 102 and 0.11 directly.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "How finely and consistently a measurement is recorded.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Common units are required before numerical comparison or calculation.",
+      "hint": "Convert before calculating."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-034",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A different class checks the same science idea: One timing result is much larger than the others. What should students do?",
-    "audio_prompt": "A different class checks the same science idea: One timing result is much larger than the others. What should students do?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "digital_accuracy",
+    "question": "Which claim about a digital sensor is correct?",
+    "audio_prompt": "Which claim about a digital sensor is correct?",
     "answers": [
       {
-        "text": "Delete it immediately because it is inconvenient.",
+        "text": "Digital readings are always exact.",
         "is_correct": false
       },
       {
-        "text": "Check for a possible error before deciding whether to exclude it.",
+        "text": "It may have fine resolution but still be miscalibrated or poorly positioned.",
         "is_correct": true
       },
       {
-        "text": "Average it without mentioning it.",
+        "text": "More displayed digits guarantee validity.",
+        "is_correct": false
+      },
+      {
+        "text": "It needs no unit.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Check for a possible error before deciding whether to exclude it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Digital format does not eliminate calibration, positioning or sampling errors.",
+      "hint": "A display cannot guarantee correctness."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-035",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A different class checks the same science idea: All thermometer readings are 2 degrees C too high. What type of problem is likely?",
-    "audio_prompt": "A different class checks the same science idea: All thermometer readings are 2 degrees C too high. What type of problem is likely?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "instrument_selection",
+    "question": "Rainfall from a brief shower is expected to be 4–8 mm. Which equipment is suitable?",
+    "audio_prompt": "Rainfall from a brief shower is expected to be 4–8 mm. Which equipment is suitable?",
     "answers": [
       {
-        "text": "Random variation only.",
+        "text": "bathroom scale",
         "is_correct": false
       },
       {
-        "text": "A perfect result.",
+        "text": "kilometre odometer",
         "is_correct": false
       },
       {
-        "text": "Systematic error.",
+        "text": "rain gauge marked in millimetres",
         "is_correct": true
+      },
+      {
+        "text": "one-litre unmarked bucket only",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Systematic error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A millimetre-marked rain gauge directly measures rainfall depth at useful resolution.",
+      "hint": "Match range, resolution and variable."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-036",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A different class checks the same science idea: Why take repeated measurements?",
-    "audio_prompt": "A different class checks the same science idea: Why take repeated measurements?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "recording_zeros",
+    "question": "A balance reading remains 0.0 g after a tiny sample is added. Best interpretation?",
+    "audio_prompt": "A balance reading remains 0.0 g after a tiny sample is added. Best interpretation?",
     "answers": [
       {
-        "text": "They help reveal random variation and improve confidence in the result.",
-        "is_correct": true
-      },
-      {
-        "text": "They make the first reading always correct.",
+        "text": "The sample has no mass.",
         "is_correct": false
       },
       {
-        "text": "They remove the need to record units.",
+        "text": "The sample weighs exactly 1 g.",
+        "is_correct": false
+      },
+      {
+        "text": "Digital tools cannot measure mass.",
+        "is_correct": false
+      },
+      {
+        "text": "The mass may be below the balance’s detectable resolution.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A zero display may mean the change is smaller than the instrument can detect, not that mass is absent.",
+      "hint": "Consider the detection limit."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-P-037",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "precision_improvement",
+    "question": "Repeated hand-timed events vary widely. Which change most directly improves procedural precision?",
+    "audio_prompt": "Repeated hand-timed events vary widely. Which change most directly improves procedural precision?",
+    "answers": [
+      {
+        "text": "Use automatic timing gates if suitable.",
+        "is_correct": true
+      },
+      {
+        "text": "Write more decimal places.",
+        "is_correct": false
+      },
+      {
+        "text": "Change the event each trial.",
+        "is_correct": false
+      },
+      {
+        "text": "Use a coarser unit only.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "They help reveal random variation and improve confidence in the result.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Automatic timing can reduce variation from human reaction time. Extra digits do not improve the measurements themselves.",
+      "hint": "Reduce the source of repeat variation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-038",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A different class checks the same science idea: A ruler is marked in millimetres. Which record is reasonable?",
-    "audio_prompt": "A different class checks the same science idea: A ruler is marked in millimetres. Which record is reasonable?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "table_critique",
+    "question": "A results table lists “cup A: 24; cup B: 31”. What key information is missing?",
+    "audio_prompt": "A results table lists “cup A: 24; cup B: 31”. What key information is missing?",
     "answers": [
       {
-        "text": "83.00000 mm.",
+        "text": "coloured borders",
         "is_correct": false
       },
       {
-        "text": "83 mm.",
+        "text": "measured variable and unit",
         "is_correct": true
       },
       {
-        "text": "about somewhere near 80ish.",
+        "text": "student birthdays",
+        "is_correct": false
+      },
+      {
+        "text": "a prediction in each cell",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "83 mm.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Without the measured quantity and unit, 24 and 31 cannot be interpreted.",
+      "hint": "Numbers require labels."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-039",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A follow-up test asks: Which set of readings suggests random variation?",
-    "audio_prompt": "A follow-up test asks: Which set of readings suggests random variation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "thermometer",
+    "question": "A liquid thermometer reads from −10°C to 110°C in 1°C divisions. Which claim is supported?",
+    "audio_prompt": "A liquid thermometer reads from −10°C to 110°C in 1°C divisions. Which claim is supported?",
     "answers": [
       {
-        "text": "All readings exactly 2 units above a known value.",
+        "text": "It measures mass to 1 g.",
         "is_correct": false
       },
       {
-        "text": "A title and no numbers.",
+        "text": "It is exact to 0.001°C.",
         "is_correct": false
       },
       {
-        "text": "12.4, 12.6, 12.5 and 12.7 seconds.",
+        "text": "Its resolution is 1°C.",
         "is_correct": true
+      },
+      {
+        "text": "Its range begins at 0°C.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "12.4, 12.6, 12.5 and 12.7 seconds.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The smallest division is 1°C and its stated range is −10°C to 110°C.",
+      "hint": "Separate range from resolution."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-040",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A follow-up test asks: Why should units be recorded in a data table?",
-    "audio_prompt": "A follow-up test asks: Why should units be recorded in a data table?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "ph_tools",
+    "question": "Which choice suits a detailed comparison of soil pH at several sites?",
+    "audio_prompt": "Which choice suits a detailed comparison of soil pH at several sites?",
     "answers": [
       {
-        "text": "They show what was measured and allow fair comparison.",
-        "is_correct": true
-      },
-      {
-        "text": "They decorate the heading.",
+        "text": "a ruler in centimetres",
         "is_correct": false
       },
       {
-        "text": "They make all values larger.",
+        "text": "smelling every sample",
+        "is_correct": false
+      },
+      {
+        "text": "guessing from soil colour",
+        "is_correct": false
+      },
+      {
+        "text": "a checked pH meter recorded with site labels",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A checked pH meter provides numerical pH readings tied to sampling locations.",
+      "hint": "Use a tool measuring the target variable."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-P-041",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "photographs",
+    "question": "When can photographs strengthen an observation record?",
+    "audio_prompt": "When can photographs strengthen an observation record?",
+    "answers": [
+      {
+        "text": "when taken from a consistent scale and viewpoint with labels",
+        "is_correct": true
+      },
+      {
+        "text": "when they replace every measurement",
+        "is_correct": false
+      },
+      {
+        "text": "when no sample identity is recorded",
+        "is_correct": false
+      },
+      {
+        "text": "when filters alter the colours",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "They show what was measured and allow fair comparison.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A consistent viewpoint, scale and identifier make images comparable supporting evidence.",
+      "hint": "Standardise and label images."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 41,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-042",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A follow-up test asks: Which tool suits measuring the mass of powder?",
-    "audio_prompt": "A follow-up test asks: Which tool suits measuring the mass of powder?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "data_logger",
+    "question": "A probe logs temperature every 30 seconds. What should the table or file also state?",
+    "audio_prompt": "A probe logs temperature every 30 seconds. What should the table or file also state?",
     "answers": [
       {
-        "text": "A stopwatch.",
+        "text": "only the probe colour",
         "is_correct": false
       },
       {
-        "text": "A digital balance.",
+        "text": "temperature unit and elapsed-time unit",
         "is_correct": true
       },
       {
-        "text": "A metre ruler.",
+        "text": "the preferred conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "no headings",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A digital balance.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Both variables and their units are needed to interpret logged values.",
+      "hint": "Automated data still need metadata."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 42,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-043",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A follow-up test asks: What is precision about?",
-    "audio_prompt": "A follow-up test asks: What is precision about?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "uncertainty",
+    "question": "Two students read 47 mL and 49 mL from the same coarse cylinder. Best response?",
+    "audio_prompt": "Two students read 47 mL and 49 mL from the same coarse cylinder. Best response?",
     "answers": [
       {
-        "text": "Whether the prediction was liked.",
+        "text": "Average them and claim perfect accuracy.",
         "is_correct": false
       },
       {
-        "text": "How colourful the table is.",
+        "text": "Add four decimal places.",
         "is_correct": false
       },
       {
-        "text": "How finely and consistently a measurement is recorded.",
+        "text": "Discuss eye level and meniscus rule, then repeat consistently.",
         "is_correct": true
+      },
+      {
+        "text": "Change millilitres to metres.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "How finely and consistently a measurement is recorded.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Standardising the viewing and meniscus method addresses likely reading variation.",
+      "hint": "Repair the reading procedure."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 43,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-044",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A follow-up test asks: One timing result is much larger than the others. What should students do?",
-    "audio_prompt": "A follow-up test asks: One timing result is much larger than the others. What should students do?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "observation_vs_inference",
+    "question": "Which statement is an observation rather than an inference?",
+    "audio_prompt": "Which statement is an observation rather than an inference?",
     "answers": [
       {
-        "text": "Check for a possible error before deciding whether to exclude it.",
-        "is_correct": true
-      },
-      {
-        "text": "Delete it immediately because it is inconvenient.",
+        "text": "The plant is unhealthy because the soil is poor.",
         "is_correct": false
       },
       {
-        "text": "Average it without mentioning it.",
+        "text": "The insect dislikes sunlight.",
+        "is_correct": false
+      },
+      {
+        "text": "The water must be polluted.",
+        "is_correct": false
+      },
+      {
+        "text": "The leaf has six brown patches, each about 2–4 mm wide.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The patch count and width are directly observable and measurable; the others interpret causes.",
+      "hint": "Choose what was directly detected."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 44,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-P-045",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "reasonable_precision",
+    "question": "A seedling grows about 3 mm per day. Which ruler is most useful?",
+    "audio_prompt": "A seedling grows about 3 mm per day. Which ruler is most useful?",
+    "answers": [
+      {
+        "text": "one with 1 mm divisions",
+        "is_correct": true
+      },
+      {
+        "text": "one marked only every 10 cm",
+        "is_correct": false
+      },
+      {
+        "text": "a kilometre scale",
+        "is_correct": false
+      },
+      {
+        "text": "an unmarked stick",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Check for a possible error before deciding whether to exclude it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Millimetre divisions can detect changes of the expected size.",
+      "hint": "Match resolution to the change."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 45,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-046",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A follow-up test asks: All thermometer readings are 2 degrees C too high. What type of problem is likely?",
-    "audio_prompt": "A follow-up test asks: All thermometer readings are 2 degrees C too high. What type of problem is likely?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "recording",
+    "question": "Which entry provides the clearest and most complete raw-data record?",
+    "audio_prompt": "Which entry provides the clearest and most complete raw-data record?",
     "answers": [
       {
-        "text": "Random variation only.",
+        "text": "warm after a while",
         "is_correct": false
       },
       {
-        "text": "Systematic error.",
+        "text": "Trial 3, water temperature after 5 min: 28.4°C",
         "is_correct": true
       },
       {
-        "text": "A perfect result.",
+        "text": "28.400000 exactly",
+        "is_correct": false
+      },
+      {
+        "text": "good result",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Systematic error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It identifies trial, variable, time condition, value and unit without an unsupported claim of exactness.",
+      "hint": "Include context, value and unit."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-047",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A follow-up test asks: Why take repeated measurements?",
-    "audio_prompt": "A follow-up test asks: Why take repeated measurements?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "precision_vs_resolution",
+    "question": "Instrument A reads to 0.1 g and gives 20.1, 20.1, 20.2 g. Instrument B reads to 0.01 g and gives 19.62, 20.51, 19.88 g. Which is correct?",
+    "audio_prompt": "Instrument A reads to 0.1 g and gives 20.1, 20.1, 20.2 g. Instrument B reads to 0.01 g and gives 19.62, 20.51, 19.88 g. Which is correct?",
     "answers": [
       {
-        "text": "They make the first reading always correct.",
+        "text": "B is necessarily more accurate.",
         "is_correct": false
       },
       {
-        "text": "They remove the need to record units.",
+        "text": "A has finer resolution.",
         "is_correct": false
       },
       {
-        "text": "They help reveal random variation and improve confidence in the result.",
+        "text": "A has coarser resolution but the listed repeats are more precise.",
         "is_correct": true
+      },
+      {
+        "text": "B’s repeats are closer together.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "They help reveal random variation and improve confidence in the result.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A displays larger increments, yet its repeated values have a much smaller spread.",
+      "hint": "Compare increment and spread separately."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i03-t-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I03-P-048",
     "curriculum_code": "AC9S6I03",
-    "bank": "test",
-    "skill": "measurement precision",
-    "question": "A follow-up test asks: A ruler is marked in millimetres. Which record is reasonable?",
-    "audio_prompt": "A follow-up test asks: A ruler is marked in millimetres. Which record is reasonable?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "integrated_measurement",
+    "question": "Which sequence represents strong measurement practice?",
+    "audio_prompt": "Which sequence represents strong measurement practice?",
     "answers": [
       {
-        "text": "83 mm.",
-        "is_correct": true
-      },
-      {
-        "text": "83.00000 mm.",
+        "text": "choose decimals → guess → add a unit later",
         "is_correct": false
       },
       {
-        "text": "about somewhere near 80ish.",
+        "text": "change tools each trial → omit headings",
+        "is_correct": false
+      },
+      {
+        "text": "write conclusion → invent data",
+        "is_correct": false
+      },
+      {
+        "text": "define variable → choose suitable instrument and unit → check/zero → read consistently → record with supported precision",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The sequence links purpose, equipment, checking, correct use and transparent recording.",
+      "hint": "Follow the measurement chain."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-001",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "equipment",
+    "question": "A class must measure how much water evaporates from 50 mL samples. Which paired measurements are strongest?",
+    "audio_prompt": "A class must measure how much water evaporates from 50 mL samples. Which paired measurements are strongest?",
+    "answers": [
+      {
+        "text": "initial and final mass on the same checked balance, in grams",
+        "is_correct": true
+      },
+      {
+        "text": "ruler and seconds",
+        "is_correct": false
+      },
+      {
+        "text": "temperature by touch",
+        "is_correct": false
+      },
+      {
+        "text": "photos without a scale",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "83 mm.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Mass loss measured consistently in grams can quantify evaporation.",
+      "hint": "Choose a measurable change."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-002",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "scale",
+    "question": "A ruler is marked every 5 mm. Which record overclaims its resolution?",
+    "audio_prompt": "A ruler is marked every 5 mm. Which record overclaims its resolution?",
+    "answers": [
+      {
+        "text": "75 mm",
+        "is_correct": false
+      },
+      {
+        "text": "75.000 mm",
+        "is_correct": true
+      },
+      {
+        "text": "7.5 cm",
+        "is_correct": false
+      },
+      {
+        "text": "approximately 75 mm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Thousandths of a millimetre are unsupported by 5 mm divisions.",
+      "hint": "Compare decimals with divisions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-003",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "units",
+    "question": "Which set contains only correctly matched variables and units?",
+    "audio_prompt": "Which set contains only correctly matched variables and units?",
+    "answers": [
+      {
+        "text": "temperature—kg; length—L; mass—°C",
+        "is_correct": false
+      },
+      {
+        "text": "time—mm; volume—s; length—g",
+        "is_correct": false
+      },
+      {
+        "text": "volume—mL; mass—g; time—s",
+        "is_correct": true
+      },
+      {
+        "text": "pH—km; mass—mL; time—°C",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Millilitres, grams and seconds correctly match volume, mass and time.",
+      "hint": "Match each physical quantity."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-004",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "parallax",
+    "question": "Two observers obtain different cylinder readings because one looks down at the scale. What is the best correction?",
+    "audio_prompt": "Two observers obtain different cylinder readings because one looks down at the scale. What is the best correction?",
+    "answers": [
+      {
+        "text": "use different units",
+        "is_correct": false
+      },
+      {
+        "text": "select the larger value",
+        "is_correct": false
+      },
+      {
+        "text": "add decimal places",
+        "is_correct": false
+      },
+      {
+        "text": "both read the correct meniscus at eye level",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A shared eye-level meniscus procedure reduces viewing-angle error.",
+      "hint": "Standardise the viewing position."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-005",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "precision",
+    "question": "Which repeated readings are least precise?",
+    "audio_prompt": "Which repeated readings are least precise?",
+    "answers": [
+      {
+        "text": "8.1, 11.7, 6.4 cm",
+        "is_correct": true
+      },
+      {
+        "text": "5.0, 5.1, 5.0 cm",
+        "is_correct": false
+      },
+      {
+        "text": "12.2, 12.2, 12.3 cm",
+        "is_correct": false
+      },
+      {
+        "text": "20.0, 20.1, 20.0 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The readings 8.1, 11.7 and 6.4 cm have the widest spread and therefore the poorest repeat agreement.",
+      "hint": "Compare ranges."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-006",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "digital_tools",
+    "question": "A logger produces 200 light readings. What remains essential?",
+    "audio_prompt": "A logger produces 200 light readings. What remains essential?",
+    "answers": [
+      {
+        "text": "assume automation guarantees validity",
+        "is_correct": false
+      },
+      {
+        "text": "record sensor unit, interval, position and site",
+        "is_correct": true
+      },
+      {
+        "text": "delete unexpected values automatically",
+        "is_correct": false
+      },
+      {
+        "text": "remove timestamps",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Digital collection still needs units, sampling details and transparent data handling.",
+      "hint": "Automation does not remove method details."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-007",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "accuracy",
+    "question": "A thermometer is 2°C high when checked in two known reference conditions. This suggests",
+    "audio_prompt": "A thermometer is 2°C high when checked in two known reference conditions. This suggests",
+    "answers": [
+      {
+        "text": "perfect accuracy",
+        "is_correct": false
+      },
+      {
+        "text": "a unit conversion only",
+        "is_correct": false
+      },
+      {
+        "text": "a systematic calibration error",
+        "is_correct": true
+      },
+      {
+        "text": "high resolution proves truth",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A consistent offset from references indicates systematic calibration error.",
+      "hint": "Compare against standards."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-008",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "resolution",
+    "question": "A balance changes only in steps of 1 g. What is its display resolution?",
+    "audio_prompt": "A balance changes only in steps of 1 g. What is its display resolution?",
+    "answers": [
+      {
+        "text": "0.01 g",
+        "is_correct": false
+      },
+      {
+        "text": "0.1 g",
+        "is_correct": false
+      },
+      {
+        "text": "10 kg",
+        "is_correct": false
+      },
+      {
+        "text": "1 g",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Its smallest displayed increment is 1 g.",
+      "hint": "Find the smallest change shown."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-009",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "fieldwork",
+    "question": "Which record best supports comparison of soil moisture across sites?",
+    "audio_prompt": "Which record best supports comparison of soil moisture across sites?",
+    "answers": [
+      {
+        "text": "site code, date/time, depth, probe reading and unit for every sample",
+        "is_correct": true
+      },
+      {
+        "text": "wet or dry from memory",
+        "is_correct": false
+      },
+      {
+        "text": "one unlabeled number per day",
+        "is_correct": false
+      },
+      {
+        "text": "different depths chosen after seeing results",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Sampling context and consistent readings allow defensible comparisons.",
+      "hint": "Each value needs location and method context."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-010",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "reasonable_precision",
+    "question": "A 10 mL cylinder has 0.2 mL divisions. Which result is most defensible?",
+    "audio_prompt": "A 10 mL cylinder has 0.2 mL divisions. Which result is most defensible?",
+    "answers": [
+      {
+        "text": "6.437829 mL",
+        "is_correct": false
+      },
+      {
+        "text": "6.4 mL",
+        "is_correct": true
+      },
+      {
+        "text": "exactly 6 mL regardless of scale",
+        "is_correct": false
+      },
+      {
+        "text": "6.4 g",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "6.4 mL matches the marked increments and correct unit.",
+      "hint": "Record what the scale supports."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-011",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "mixed_units",
+    "question": "Lengths are 84 mm, 8.9 cm and 0.091 m. Which is greatest?",
+    "audio_prompt": "Lengths are 84 mm, 8.9 cm and 0.091 m. Which is greatest?",
+    "answers": [
+      {
+        "text": "84 mm",
+        "is_correct": false
+      },
+      {
+        "text": "8.9 cm",
+        "is_correct": false
+      },
+      {
+        "text": "0.091 m",
+        "is_correct": true
+      },
+      {
+        "text": "all are equal",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "They equal 84 mm, 89 mm and 91 mm respectively.",
+      "hint": "Convert all to millimetres."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-012",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "observations",
+    "question": "Which record combines qualitative and quantitative evidence?",
+    "audio_prompt": "Which record combines qualitative and quantitative evidence?",
+    "answers": [
+      {
+        "text": "solution was nice",
+        "is_correct": false
+      },
+      {
+        "text": "32 without a unit",
+        "is_correct": false
+      },
+      {
+        "text": "it probably reacted",
+        "is_correct": false
+      },
+      {
+        "text": "solution was pale blue and measured 32 mL",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Colour is qualitative and 32 mL is quantitative, both directly recorded.",
+      "hint": "Look for description plus measurement."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-013",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "equipment_limits",
+    "question": "A temperature difference is expected to be 0.2°C. Which tool is most appropriate?",
+    "audio_prompt": "A temperature difference is expected to be 0.2°C. Which tool is most appropriate?",
+    "answers": [
+      {
+        "text": "a checked probe resolving 0.1°C",
+        "is_correct": true
+      },
+      {
+        "text": "a thermometer with 5°C divisions",
+        "is_correct": false
+      },
+      {
+        "text": "a ruler",
+        "is_correct": false
+      },
+      {
+        "text": "touch comparison",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A 0.1°C resolution can detect the expected difference; coarse divisions cannot.",
+      "hint": "Resolution must be finer than the expected change."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-014",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "data_table",
+    "question": "Which table design is strongest for cooling water?",
+    "audio_prompt": "Which table design is strongest for cooling water?",
+    "answers": [
+      {
+        "text": "Time | Stuff",
+        "is_correct": false
+      },
+      {
+        "text": "Elapsed time (min) | Temperature Trial 1 (°C) | Trial 2 (°C) | Trial 3 (°C)",
+        "is_correct": true
+      },
+      {
+        "text": "Student | Guess",
+        "is_correct": false
+      },
+      {
+        "text": "Hot | Cold",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It names both variables, units and repeated trials.",
+      "hint": "Choose interpretable headings."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-015",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "precision_vs_accuracy",
+    "question": "Four arrows cluster tightly 8 cm from a target centre. As a measurement analogy, they show",
+    "audio_prompt": "Four arrows cluster tightly 8 cm from a target centre. As a measurement analogy, they show",
+    "answers": [
+      {
+        "text": "high accuracy and low precision",
+        "is_correct": false
+      },
+      {
+        "text": "fine resolution only",
+        "is_correct": false
+      },
+      {
+        "text": "high precision but low accuracy",
+        "is_correct": true
+      },
+      {
+        "text": "no pattern",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The cluster is consistent but not close to the accepted target.",
+      "hint": "Cluster means precision; centre means accuracy."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I03-T-016",
+    "curriculum_code": "AC9S6I03",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "measurement_plan",
+    "question": "Which plan best measures daily plant growth?",
+    "audio_prompt": "Which plan best measures daily plant growth?",
+    "answers": [
+      {
+        "text": "use a different starting point each day",
+        "is_correct": false
+      },
+      {
+        "text": "estimate tall/short at random times",
+        "is_correct": false
+      },
+      {
+        "text": "photograph without labels or scale",
+        "is_correct": false
+      },
+      {
+        "text": "measure from soil line to highest growing point with the same mm ruler at the same time daily and record in a labelled table",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Defined endpoints, equipment, timing, unit and recording make the measurements comparable.",
+      "hint": "Look for a fully standardised method."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
   }
 ]

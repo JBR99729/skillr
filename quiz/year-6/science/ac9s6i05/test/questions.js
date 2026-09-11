@@ -4,449 +4,449 @@ window.skillrTestQuestions = [
     "id": "ac9s6i05-t-001",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "method comparison",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which source of random error fits manual stopwatch timing?",
-    "audioPrompt": "A different class checks the same science idea: Which source of random error fits manual stopwatch timing?",
+    "question": "Nina measures soil temperature at 9 am; Omar measures at 3 pm. Why might means differ?",
+    "audioPrompt": "Nina measures soil temperature at 9 am; Omar measures at 3 pm. Why might means differ?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Different reaction times when starting and stopping the timer.",
-      "A ruler with centimetre marks.",
-      "A graph title."
+      "time of day changes heating conditions",
+      "thermometers cannot work outdoors",
+      "means cause bias",
+      "soil has no temperature"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Different reaction times when starting and stopping the timer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Different measurement times create an environmental method difference that can affect temperature.\nHint: Find the differing condition.",
     "structuredExplanation": {
-      "summary": "Different reaction times when starting and stopping the timer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Different measurement times create an environmental method difference that can affect temperature.",
+      "hint": "Find the differing condition."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-002",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "findings",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: What is a useful question for further investigation?",
-    "audioPrompt": "A different class checks the same science idea: What is a useful question for further investigation?",
+    "question": "Teams obtain 21, 23, 22 cm and 20, 22, 21 cm mean ranges. Best comparison?",
+    "audioPrompt": "Teams obtain 21, 23, 22 cm and 20, 22, 21 cm mean ranges. Best comparison?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Can we ignore the unexpected result?",
-      "Would the same pattern occur with different material thicknesses?",
-      "Which result is easiest to write?"
+      "Combine without checking methods.",
+      "Findings are close and show substantial overlap.",
+      "They contradict completely.",
+      "The first proves a universal effect."
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Would the same pattern occur with different material thicknesses?\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The ranges overlap and their centres are similar.\nHint: Compare size and overlap.",
     "structuredExplanation": {
-      "summary": "Would the same pattern occur with different material thicknesses?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The ranges overlap and their centres are similar.",
+      "hint": "Compare size and overlap."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-003",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "error direction",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why compare findings with others?",
-    "audioPrompt": "A different class checks the same science idea: Why compare findings with others?",
+    "question": "A timer stops two seconds late. Recorded times are likely…",
+    "audioPrompt": "A timer stops two seconds late. Recorded times are likely…",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It proves one group must be dishonest.",
-      "It means your data should be changed.",
-      "It can reveal method differences, errors or stronger patterns."
+      "exact",
+      "unrelated",
+      "too long",
+      "too short"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "It can reveal method differences, errors or stronger patterns.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Late stopping adds time to the measurement.\nHint: Follow the timing error.",
     "structuredExplanation": {
-      "summary": "It can reveal method differences, errors or stronger patterns.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Late stopping adds time to the measurement.",
+      "hint": "Follow the timing error."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-004",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "confounding",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which conclusion is proportionate?",
-    "audioPrompt": "A different class checks the same science idea: Which conclusion is proportionate?",
+    "question": "One detergent is tested with warm water and another with cold. What is the problem?",
+    "audioPrompt": "One detergent is tested with warm water and another with cold. What is the problem?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "The data suggests material A warmed most in this test, but more repeats are needed.",
-      "Material A is always the best in every situation.",
-      "The prediction must be true because we liked it."
+      "water is unnecessary",
+      "detergents cannot differ",
+      "repeats become impossible",
+      "temperature provides another explanation"
     ],
-    "correct": 0,
-    "explanation": "The data suggests material A warmed most in this test, but more repeats are needed.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 4,
+    "correct": 3,
+    "explanation": "Both detergent and temperature vary.\nHint: Find the second changed factor.",
     "structuredExplanation": {
-      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Both detergent and temperature vary.",
+      "hint": "Find the second changed factor."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-005",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "evidence",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Can more repeats fix a thermometer that is always 2 degrees C too high?",
-    "audioPrompt": "A different class checks the same science idea: Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "question": "Which evidence answers whether worms affect yield?",
+    "audioPrompt": "Which evidence answers whether worms affect yield?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Yes, repeats fix every error.",
-      "No, repeats do not remove systematic calibration error.",
-      "Yes, if the table is colourful."
+      "mean tomatoes per plant in matched worm and no-worm groups",
+      "worm drawings",
+      "soil colour only",
+      "a prediction"
     ],
-    "correct": 1,
-    "explanation": "No, repeats do not remove systematic calibration error.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 5,
+    "correct": 0,
+    "explanation": "Matched yield data directly link the changed and measured variables.\nHint: Use comparable quantitative results.",
     "structuredExplanation": {
-      "summary": "No, repeats do not remove systematic calibration error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Matched yield data directly link the changed and measured variables.",
+      "hint": "Use comparable quantitative results."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-006",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "anomaly",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which method difference makes results less comparable?",
-    "audioPrompt": "A different class checks the same science idea: Which method difference makes results less comparable?",
+    "question": "A value is unusual with no known procedural fault. Best action?",
+    "audioPrompt": "A value is unusual with no known procedural fault. Best action?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "All groups used seconds.",
-      "All groups labelled their cups.",
-      "One group used hot water while others used room-temperature water."
+      "hide raw data",
+      "retain it, check and collect more evidence",
+      "delete it automatically",
+      "alter it to the mean"
     ],
-    "correct": 2,
-    "explanation": "One group used hot water while others used room-temperature water.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 6,
+    "correct": 1,
+    "explanation": "Unexpected data remain evidence unless a justified decision is made transparently.\nHint: Do not assume error.",
     "structuredExplanation": {
-      "summary": "One group used hot water while others used room-temperature water.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Unexpected data remain evidence unless a justified decision is made transparently.",
+      "hint": "Do not assume error."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-007",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "conclusion",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: What should happen before excluding an outlier?",
-    "audioPrompt": "A different class checks the same science idea: What should happen before excluding an outlier?",
+    "question": "Means are 8.4 and 8.5 s with wide overlapping results. Best conclusion?",
+    "audioPrompt": "Means are 8.4 and 8.5 s with wide overlapping results. Best conclusion?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Investigate whether a mistake or unusual condition explains it.",
-      "Delete it immediately.",
-      "Keep it secret."
+      "Both are exactly identical forever.",
+      "The hypothesis wins.",
+      "No clear difference was detected with this method.",
+      "Condition B is certainly slower."
     ],
-    "correct": 0,
-    "explanation": "Investigate whether a mistake or unusual condition explains it.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 7,
+    "correct": 2,
+    "explanation": "Tiny mean separation relative to spread provides weak evidence of a difference.\nHint: Consider spread, not means alone.",
     "structuredExplanation": {
-      "summary": "Investigate whether a mistake or unusual condition explains it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Tiny mean separation relative to spread provides weak evidence of a difference.",
+      "hint": "Consider spread, not means alone."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-008",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "limitation",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Two groups get different dissolving times. What should they compare first?",
-    "audioPrompt": "A different class checks the same science idea: Two groups get different dissolving times. What should they compare first?",
+    "question": "All ten samples came from one corner of a pond. Main limitation?",
+    "audioPrompt": "All ten samples came from one corner of a pond. Main limitation?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Who is more confident.",
-      "Their methods, variables and measurement tools.",
-      "Which table looks neater."
+      "ten is always enough",
+      "corners are controls",
+      "pond data need no location",
+      "the sample may not represent the pond"
     ],
-    "correct": 1,
-    "explanation": "Their methods, variables and measurement tools.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 8,
+    "correct": 3,
+    "explanation": "Spatially clustered sampling may miss conditions elsewhere.\nHint: Ask who or what is represented.",
     "structuredExplanation": {
-      "summary": "Their methods, variables and measurement tools.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Spatially clustered sampling may miss conditions elsewhere.",
+      "hint": "Ask who or what is represented."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-009",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "improvement",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which source of random error fits manual stopwatch timing?",
-    "audioPrompt": "A follow-up test asks: Which source of random error fits manual stopwatch timing?",
+    "question": "Students estimate leaf area by eye. Best improvement?",
+    "audioPrompt": "Students estimate leaf area by eye. Best improvement?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A ruler with centimetre marks.",
-      "A graph title.",
-      "Different reaction times when starting and stopping the timer."
+      "use grid paper or calibrated image analysis consistently",
+      "add unsupported decimals",
+      "ask the tallest student",
+      "choose expected values"
     ],
-    "correct": 2,
-    "explanation": "Different reaction times when starting and stopping the timer.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "A standard quantitative method reduces subjective judgement.\nHint: Target measurement quality.",
     "structuredExplanation": {
-      "summary": "Different reaction times when starting and stopping the timer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A standard quantitative method reduces subjective judgement.",
+      "hint": "Target measurement quality."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-010",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "systematic error",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: What is a useful question for further investigation?",
-    "audioPrompt": "A follow-up test asks: What is a useful question for further investigation?",
+    "question": "All rulers have a missing first centimetre and measurements begin at the edge. Repeats will…",
+    "audioPrompt": "All rulers have a missing first centimetre and measurements begin at the edge. Repeats will…",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Would the same pattern occur with different material thicknesses?",
-      "Can we ignore the unexpected result?",
-      "Which result is easiest to write?"
+      "prove validity",
+      "remain biased unless the zero point is corrected",
+      "automatically fix the bias",
+      "remove one centimetre each time"
     ],
-    "correct": 0,
-    "explanation": "Would the same pattern occur with different material thicknesses?\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 10,
+    "correct": 1,
+    "explanation": "The same offset persists across repetitions.\nHint: Repeated bias stays bias.",
     "structuredExplanation": {
-      "summary": "Would the same pattern occur with different material thicknesses?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The same offset persists across repetitions.",
+      "hint": "Repeated bias stays bias."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-011",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "synthesis",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why compare findings with others?",
-    "audioPrompt": "A follow-up test asks: Why compare findings with others?",
+    "question": "Two fair tests show opposite small effects and broad variation. Best response?",
+    "audioPrompt": "Two fair tests show opposite small effects and broad variation. Best response?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It proves one group must be dishonest.",
-      "It can reveal method differences, errors or stronger patterns.",
-      "It means your data should be changed."
+      "claim dishonesty",
+      "average without context",
+      "report disagreement, compare contexts and gather further controlled evidence",
+      "choose the preferred study"
     ],
-    "correct": 1,
-    "explanation": "It can reveal method differences, errors or stronger patterns.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "Conflicting weak patterns require transparent comparison and additional evidence.\nHint: Uncertainty is a valid finding.",
     "structuredExplanation": {
-      "summary": "It can reveal method differences, errors or stronger patterns.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Conflicting weak patterns require transparent comparison and additional evidence.",
+      "hint": "Uncertainty is a valid finding."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-012",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "further question",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which conclusion is proportionate?",
-    "audioPrompt": "A follow-up test asks: Which conclusion is proportionate?",
+    "question": "After finding darker surfaces warmed faster, best extension?",
+    "audioPrompt": "After finding darker surfaces warmed faster, best extension?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Material A is always the best in every situation.",
-      "The prediction must be true because we liked it.",
-      "The data suggests material A warmed most in this test, but more repeats are needed."
+      "Are colours pretty?",
+      "Change colour and material together.",
+      "Does science work?",
+      "How does surface colour affect cooling rate when material, area and starting temperature are controlled?"
     ],
-    "correct": 2,
-    "explanation": "The data suggests material A warmed most in this test, but more repeats are needed.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 12,
+    "correct": 3,
+    "explanation": "It purposefully extends the inquiry with a measurable outcome and controls.\nHint: One purposeful extension.",
     "structuredExplanation": {
-      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "It purposefully extends the inquiry with a measurable outcome and controls.",
+      "hint": "One purposeful extension."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-013",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "claim scope",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Can more repeats fix a thermometer that is always 2 degrees C too high?",
-    "audioPrompt": "A follow-up test asks: Can more repeats fix a thermometer that is always 2 degrees C too high?",
+    "question": "Data came from bean seedlings for 14 days. Which claim overreaches?",
+    "audioPrompt": "Data came from bean seedlings for 14 days. Which claim overreaches?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "No, repeats do not remove systematic calibration error.",
-      "Yes, repeats fix every error.",
-      "Yes, if the table is colourful."
+      "All plant species grow best under this condition throughout life.",
+      "These bean seedlings had greater mean growth over 14 days.",
+      "Longer studies are needed.",
+      "The evidence applies to tested conditions."
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "No, repeats do not remove systematic calibration error.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The universal species-and-lifetime claim far exceeds the sample.\nHint: Match population and duration.",
     "structuredExplanation": {
-      "summary": "No, repeats do not remove systematic calibration error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The universal species-and-lifetime claim far exceeds the sample.",
+      "hint": "Match population and duration."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-014",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "error explanation",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which method difference makes results less comparable?",
-    "audioPrompt": "A follow-up test asks: Which method difference makes results less comparable?",
+    "question": "Why is “someone measured badly” weak evaluation?",
+    "audioPrompt": "Why is “someone measured badly” weak evaluation?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "All groups used seconds.",
-      "One group used hot water while others used room-temperature water.",
-      "All groups labelled their cups."
+      "Methods need no detail.",
+      "It does not identify the measurement action, affected value or direction/variation caused.",
+      "It is too scientific.",
+      "People never make errors."
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "One group used hot water while others used room-temperature water.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "A useful explanation traces a specific mechanism to its likely effect.\nHint: Cause → measurement → consequence.",
     "structuredExplanation": {
-      "summary": "One group used hot water while others used room-temperature water.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A useful explanation traces a specific mechanism to its likely effect.",
+      "hint": "Cause → measurement → consequence."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-015",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "reasoned conclusion",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: What should happen before excluding an outlier?",
-    "audioPrompt": "A follow-up test asks: What should happen before excluding an outlier?",
+    "question": "Which statement is the strongest reasoned conclusion from this investigation?",
+    "audioPrompt": "Which statement is the strongest reasoned conclusion from this investigation?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Delete it immediately.",
-      "Keep it secret.",
-      "Investigate whether a mistake or unusual condition explains it."
+      "We measured cups.",
+      "My prediction was right.",
+      "Across four repeats, covered cups lost 6 mL less on average; covers reduced loss here, although unequal lid gaps may have influenced results.",
+      "Covers work."
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "Investigate whether a mistake or unusual condition explains it.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "It uses evidence, answers the question and acknowledges a relevant limit.\nHint: Evidence + answer + limit.",
     "structuredExplanation": {
-      "summary": "Investigate whether a mistake or unusual condition explains it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "It uses evidence, answers the question and acknowledges a relevant limit.",
+      "hint": "Evidence + answer + limit."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i05-t-016",
     "curriculumCode": "AC9S6I05",
     "bank": "test",
-    "skill": "errors and conclusions",
+    "skill": "evaluation cycle",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Two groups get different dissolving times. What should they compare first?",
-    "audioPrompt": "A follow-up test asks: Two groups get different dissolving times. What should they compare first?",
+    "question": "After drawing a limited conclusion, what is the most scientific next move?",
+    "audioPrompt": "After drawing a limited conclusion, what is the most scientific next move?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Their methods, variables and measurement tools.",
-      "Who is more confident.",
-      "Which table looks neater."
+      "declare the topic finished forever",
+      "remove contradictory evidence",
+      "repeat the conclusion",
+      "pose a focused question that tests an uncertainty or extension"
     ],
-    "correct": 0,
-    "explanation": "Their methods, variables and measurement tools.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 16,
+    "correct": 3,
+    "explanation": "Further questions grow directly from limitations, mechanisms or unexplored conditions.\nHint: Turn uncertainty into a testable question.",
     "structuredExplanation": {
-      "summary": "Their methods, variables and measurement tools.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Further questions grow directly from limitations, mechanisms or unexplored conditions.",
+      "hint": "Turn uncertainty into a testable question."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

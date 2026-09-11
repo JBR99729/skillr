@@ -2,13 +2,13 @@ YEAR 6 SCIENCE — CURRICULUM RESEARCH MASTER
 Australian Curriculum v9 | SkillrHub
 Last updated: 2026-09-11
 
-PROJECT_STATUS: IN_PROGRESS
-CURRENT_PHASE: AUTHORING_BATCH_2_REVIEWED — PUBLICATION_PENDING
-CURRENT_CODE: AC9S6H01–AC9S6I02
+PROJECT_STATUS: COMPLETE
+CURRENT_PHASE: ALL_CONTENT_REVIEWED — PUBLICATION_PENDING
+CURRENT_CODE: AC9S6I03–AC9S6I06
 LAST_COMPLETED_CODE: AC9S6I06
-NEXT_CODE: AC9S6I03
+NEXT_CODE: NONE
 AUTHORING_STARTED: YES
-CONTENT_VERIFIED_COUNT: 8
+CONTENT_VERIFIED_COUNT: 12
 BLOCKER: NONE
 BATCH: 3 OF 3 COMPLETED — ALL 12 CODES AUTHORING-READY
 
@@ -28,6 +28,14 @@ Authoring checkpoint — 2026-09-11 — batch 2
 - Independent review corrected turtle-friendly lighting guidance, an unsafe airborne-particle task, precision-versus-resolution terminology, predictable answer positions and self-referential Classroom View links.
 - The corrected authored artifact at commit 87c837c950d4b2f52a2ce85927dc4e6530457959 was independently rechecked and approved with no remaining blockers.
 - AC9S6H01, AC9S6H02, AC9S6I01 and AC9S6I02 are recorded in the review-aware ledger, bringing Year 6 Science to 8/12 reviewed codes. The badge remains off until all 12 are complete.
+
+Authoring checkpoint — 2026-09-11 — final batch
+- AC9S6I03, AC9S6I04, AC9S6I05 and AC9S6I06 were freshly re-authored from the completed research blueprint.
+- Each code has 48 distinct Practice items, 16 separate unseen Test items, 12 independent written worksheet tasks, a static code-specific Topic Guide and a matching HTML accordion Classroom View.
+- Correct-answer positions are evenly balanced at 12/12/12/12 for Practice and 4/4/4/4 for Test in every code; no Practice/Test stems overlap exactly.
+- Independent review found three stale positional phrases in explanations after answer balancing. These were replaced with the exact readings or audience wording, regenerated and independently rechecked.
+- The corrected authored artifact at commit a6a98f78807c0ba4dc778280447dc1be7ded4bc3 was independently approved with no remaining blockers.
+- All 12 Year 6 Science codes are recorded in the review-aware ledger. The generated Content Verified badge and llms records are active.
 
 Research protocol
 - Primary curriculum authority: Australian Curriculum v9 (ACARA).

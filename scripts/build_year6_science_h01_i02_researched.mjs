@@ -3,12 +3,16 @@ import path from 'node:path';
 import { writeYear6ScienceClassroomView } from './year6_science_html_classroom_view.mjs';
 
 const root = path.resolve(import.meta.dirname, '..');
-const moduleFiles = [
+const defaultModuleFiles = [
   'scripts/year6_science_ac9s6h01.content.mjs',
   'scripts/year6_science_ac9s6h02.content.mjs',
   'scripts/year6_science_ac9s6i01.content.mjs',
   'scripts/year6_science_ac9s6i02.content.mjs'
 ];
+const requestedCodes = process.argv.slice(2).map((code) => code.toLowerCase());
+const moduleFiles = requestedCodes.length
+  ? requestedCodes.map((code) => `scripts/year6_science_${code}.content.mjs`)
+  : defaultModuleFiles;
 
 const clean = (value) => String(value ?? '').replace(/\s+/g, ' ').trim();
 const normalise = (value) => clean(value).toLowerCase().replace(/[^a-z0-9]+/g, ' ');
@@ -25,9 +29,9 @@ function stageValue(rawStage, bank, index) {
   return 'challenge';
 }
 
-function canonicalItem(content, bank, raw, index) {
+function canonicalItem(content, bank, raw, index, preserveAnswerPositions = false) {
   const code = content.code;
-  const shift = index % raw.answers.length;
+  const shift = preserveAnswerPositions ? 0 : index % raw.answers.length;
   const rotatedAnswers = [...raw.answers.slice(shift), ...raw.answers.slice(0, shift)];
   const rotatedCorrect = (raw.correct - shift + raw.answers.length) % raw.answers.length;
   const answers = rotatedAnswers.map((text, answerIndex) => ({ text: clean(text), is_correct: answerIndex === rotatedCorrect }));
@@ -95,7 +99,15 @@ function buildTopic(content) {
 for (const moduleFile of moduleFiles) {
   const content = (await import(path.join(root, moduleFile))).default;
   validateContent(content);
-  const bank = [...content.practice.map((item, index) => canonicalItem(content, 'practice', item, index)), ...content.test.map((item, index) => canonicalItem(content, 'test', item, index))];
+  const positionsAreBalanced = (items) => {
+    const counts = [0, 0, 0, 0];
+    items.forEach((item) => counts[item.correct]++);
+    return Math.max(...counts) - Math.min(...counts) <= 1;
+  };
+  const bank = [
+    ...content.practice.map((item, index) => canonicalItem(content, 'practice', item, index, positionsAreBalanced(content.practice))),
+    ...content.test.map((item, index) => canonicalItem(content, 'test', item, index, positionsAreBalanced(content.test)))
+  ];
   fs.writeFileSync(path.join(root, `assets/assessment-banks/year6/science/${content.code.toLowerCase()}.json`), `${JSON.stringify(bank, null, 2)}\n`);
 
   const directory = topicDirectory(content.code);

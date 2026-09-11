@@ -1,1322 +1,2434 @@
 [
   {
-    "id": "ac9s6i05-p-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-001",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Two groups get different dissolving times. What should they compare first?",
-    "audio_prompt": "Two groups get different dissolving times. What should they compare first?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "evidence",
+    "question": "Question: Does shade affect soil temperature? Which evidence is relevant?",
+    "audio_prompt": "Question: Does shade affect soil temperature? Which evidence is relevant?",
     "answers": [
       {
-        "text": "Their methods, variables and measurement tools.",
+        "text": "temperatures measured in sun and shade",
         "is_correct": true
       },
       {
-        "text": "Who is more confident.",
+        "text": "student preferences",
         "is_correct": false
       },
       {
-        "text": "Which table looks neater.",
+        "text": "tomorrow’s weather forecast",
+        "is_correct": false
+      },
+      {
+        "text": "soil colour names",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Their methods, variables and measurement tools.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Temperatures from the compared light conditions directly address the question.",
+      "hint": "Choose data linked to both variables."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-002",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-002",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "What should happen before excluding an outlier?",
-    "audio_prompt": "What should happen before excluding an outlier?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "conclusions",
+    "question": "Plants with earthworms averaged 14 tomatoes; plants without averaged 9. Which conclusion fits?",
+    "audio_prompt": "Plants with earthworms averaged 14 tomatoes; plants without averaged 9. Which conclusion fits?",
     "answers": [
       {
-        "text": "Delete it immediately.",
+        "text": "Earthworms guarantee 14 tomatoes.",
         "is_correct": false
       },
       {
-        "text": "Investigate whether a mistake or unusual condition explains it.",
+        "text": "In this investigation, plants with earthworms produced more tomatoes on average.",
         "is_correct": true
       },
       {
-        "text": "Keep it secret.",
+        "text": "All plants need earthworms.",
+        "is_correct": false
+      },
+      {
+        "text": "The hypothesis was correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Investigate whether a mistake or unusual condition explains it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It states the observed comparison without extending beyond the investigation.",
+      "hint": "Use the data and limit the claim."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-003",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Which method difference makes results less comparable?",
-    "audio_prompt": "Which method difference makes results less comparable?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "method_comparison",
+    "question": "Mia waters seedlings with 20 mL daily. Arlo uses “some water sometimes”. What key difference matters?",
+    "audio_prompt": "Mia waters seedlings with 20 mL daily. Arlo uses “some water sometimes”. What key difference matters?",
     "answers": [
       {
-        "text": "All groups used seconds.",
+        "text": "table font",
         "is_correct": false
       },
       {
-        "text": "All groups labelled their cups.",
+        "text": "pot colour",
         "is_correct": false
       },
       {
-        "text": "One group used hot water while others used room-temperature water.",
+        "text": "method consistency",
         "is_correct": true
+      },
+      {
+        "text": "student age",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "One group used hot water while others used room-temperature water.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Mia specifies volume and timing, making her procedure more consistent and repeatable.",
+      "hint": "Compare measurement and timing."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-004",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Can more repeats fix a thermometer that is always 2 degrees C too high?",
-    "audio_prompt": "Can more repeats fix a thermometer that is always 2 degrees C too high?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "error",
+    "question": "A ruler starts at a worn edge before the zero mark. What error may occur?",
+    "audio_prompt": "A ruler starts at a worn edge before the zero mark. What error may occur?",
     "answers": [
       {
-        "text": "No, repeats do not remove systematic calibration error.",
-        "is_correct": true
-      },
-      {
-        "text": "Yes, repeats fix every error.",
+        "text": "plants grow faster",
         "is_correct": false
       },
       {
-        "text": "Yes, if the table is colourful.",
+        "text": "results become opinions",
+        "is_correct": false
+      },
+      {
+        "text": "sample size doubles",
+        "is_correct": false
+      },
+      {
+        "text": "lengths may be systematically too large",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Measuring from the edge adds an offset to every reading.",
+      "hint": "Trace how the starting point changes readings."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-P-005",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "anomalies",
+    "question": "Times are 8.1, 8.2, 15.9 and 8.0 s. What should happen first?",
+    "audio_prompt": "Times are 8.1, 8.2, 15.9 and 8.0 s. What should happen first?",
+    "answers": [
+      {
+        "text": "check notes and repeat the trial",
+        "is_correct": true
+      },
+      {
+        "text": "change it to 8.1",
+        "is_correct": false
+      },
+      {
+        "text": "discard all data",
+        "is_correct": false
+      },
+      {
+        "text": "hide 15.9",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "No, repeats do not remove systematic calibration error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The unusual value should be investigated before any decision about exclusion.",
+      "hint": "An anomaly is a prompt to check."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-006",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Which conclusion is proportionate?",
-    "audio_prompt": "Which conclusion is proportionate?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "further_questions",
+    "question": "After testing light on plant growth, which is a focused extension?",
+    "audio_prompt": "After testing light on plant growth, which is a focused extension?",
     "answers": [
       {
-        "text": "Material A is always the best in every situation.",
+        "text": "Why is science interesting?",
         "is_correct": false
       },
       {
-        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
+        "text": "How does red light compared with blue light affect growth when other conditions stay constant?",
         "is_correct": true
       },
       {
-        "text": "The prediction must be true because we liked it.",
+        "text": "Do plants exist?",
+        "is_correct": false
+      },
+      {
+        "text": "Change light, water and soil together.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It changes one purposeful factor and identifies a measurable outcome.",
+      "hint": "Ask a testable question."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-007",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Why compare findings with others?",
-    "audio_prompt": "Why compare findings with others?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "findings",
+    "question": "Two groups report means of 12.4 cm and 12.6 cm using the same method. Best comparison?",
+    "audio_prompt": "Two groups report means of 12.4 cm and 12.6 cm using the same method. Best comparison?",
     "answers": [
       {
-        "text": "It proves one group must be dishonest.",
+        "text": "Both are exactly equal.",
         "is_correct": false
       },
       {
-        "text": "It means your data should be changed.",
+        "text": "The method is perfect.",
         "is_correct": false
       },
       {
-        "text": "It can reveal method differences, errors or stronger patterns.",
+        "text": "Their findings are similar.",
         "is_correct": true
+      },
+      {
+        "text": "One group was dishonest.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It can reveal method differences, errors or stronger patterns.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The means are close, although variation and method quality should still be considered.",
+      "hint": "Describe size and direction of difference."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-008",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "What is a useful question for further investigation?",
-    "audio_prompt": "What is a useful question for further investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "error_mechanisms",
+    "question": "A student reads a liquid scale from above instead of eye level. What is the concern?",
+    "audio_prompt": "A student reads a liquid scale from above instead of eye level. What is the concern?",
     "answers": [
       {
-        "text": "Would the same pattern occur with different material thicknesses?",
-        "is_correct": true
-      },
-      {
-        "text": "Can we ignore the unexpected result?",
+        "text": "the liquid changes identity",
         "is_correct": false
       },
       {
-        "text": "Which result is easiest to write?",
+        "text": "the sample becomes larger",
+        "is_correct": false
+      },
+      {
+        "text": "repeats are impossible",
+        "is_correct": false
+      },
+      {
+        "text": "parallax may shift the reading",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Viewing at an angle can make the level appear aligned with the wrong mark.",
+      "hint": "Name the mechanism, not “human error”."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-P-009",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "evidence",
+    "question": "Which sentence selects evidence rather than opinion?",
+    "audio_prompt": "Which sentence selects evidence rather than opinion?",
+    "answers": [
+      {
+        "text": "Group A’s mean was 6.2 s across five trials; Group B’s was 8.1 s.",
+        "is_correct": true
+      },
+      {
+        "text": "The graph looks nice.",
+        "is_correct": false
+      },
+      {
+        "text": "I expected A to win.",
+        "is_correct": false
+      },
+      {
+        "text": "I liked Group A.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Would the same pattern occur with different material thicknesses?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It cites relevant measured values and repeat count.",
+      "hint": "Look for measured data."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-010",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Which source of random error fits manual stopwatch timing?",
-    "audio_prompt": "Which source of random error fits manual stopwatch timing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "limitations",
+    "question": "Only one seed was tested in each condition. What is the clearest limitation?",
+    "audio_prompt": "Only one seed was tested in each condition. What is the clearest limitation?",
     "answers": [
       {
-        "text": "A ruler with centimetre marks.",
+        "text": "seeds cannot grow",
         "is_correct": false
       },
       {
-        "text": "Different reaction times when starting and stopping the timer.",
+        "text": "natural variation may dominate the comparison",
         "is_correct": true
       },
       {
-        "text": "A graph title.",
+        "text": "the ruler has units",
+        "is_correct": false
+      },
+      {
+        "text": "there are two conditions",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Different reaction times when starting and stopping the timer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "One specimen cannot show whether the finding is typical.",
+      "hint": "Consider sample variation."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-011",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Two groups get different dissolving times. What should they compare first in a new class investigation?",
-    "audio_prompt": "Two groups get different dissolving times. What should they compare first in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "conclusions",
+    "question": "Why is “the hypothesis was correct” insufficient?",
+    "audio_prompt": "Why is “the hypothesis was correct” insufficient?",
     "answers": [
       {
-        "text": "Who is more confident.",
+        "text": "Correct is misspelled.",
         "is_correct": false
       },
       {
-        "text": "Which table looks neater.",
+        "text": "Conclusions must repeat the method.",
         "is_correct": false
       },
       {
-        "text": "Their methods, variables and measurement tools.",
+        "text": "It does not answer with data or acknowledge limits.",
         "is_correct": true
+      },
+      {
+        "text": "Hypotheses are never used.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Their methods, variables and measurement tools.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A conclusion must answer the question using evidence and state an appropriate scope.",
+      "hint": "A conclusion needs evidence and reasoning."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-012",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "What should happen before excluding an outlier in a new class investigation?",
-    "audio_prompt": "What should happen before excluding an outlier in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "method_comparison",
+    "question": "Group A measures plant height from soil to tallest point; Group B measures from pot base. Why might findings differ?",
+    "audio_prompt": "Group A measures plant height from soil to tallest point; Group B measures from pot base. Why might findings differ?",
     "answers": [
       {
-        "text": "Investigate whether a mistake or unusual condition explains it.",
-        "is_correct": true
-      },
-      {
-        "text": "Delete it immediately.",
+        "text": "Plants cannot be measured.",
         "is_correct": false
       },
       {
-        "text": "Keep it secret.",
+        "text": "Averages cause error.",
+        "is_correct": false
+      },
+      {
+        "text": "Repeats erase endpoints.",
+        "is_correct": false
+      },
+      {
+        "text": "They used different measurement endpoints.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Including pot height in one method creates a systematic difference.",
+      "hint": "Compare exactly where measurement begins and ends."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-P-013",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "method_comparison",
+    "question": "One soil survey uses ten equal quadrats; another chooses three unusually green patches. Which is stronger for typical ground cover?",
+    "audio_prompt": "One soil survey uses ten equal quadrats; another chooses three unusually green patches. Which is stronger for typical ground cover?",
+    "answers": [
+      {
+        "text": "the systematic ten-quadrat sample",
+        "is_correct": true
+      },
+      {
+        "text": "both are unbiased",
+        "is_correct": false
+      },
+      {
+        "text": "neither can record plants",
+        "is_correct": false
+      },
+      {
+        "text": "the selected green patches",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Investigate whether a mistake or unusual condition explains it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Broader systematic sampling reduces selection bias and better represents the area.",
+      "hint": "Consider how sites were selected."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-014",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Which method difference makes results less comparable in a new class investigation?",
-    "audio_prompt": "Which method difference makes results less comparable in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "findings",
+    "question": "Both groups find warmer water dissolves sugar faster, but their times differ. What is justified?",
+    "audio_prompt": "Both groups find warmer water dissolves sugar faster, but their times differ. What is justified?",
     "answers": [
       {
-        "text": "All groups used seconds.",
+        "text": "Average all times without checking methods.",
         "is_correct": false
       },
       {
-        "text": "One group used hot water while others used room-temperature water.",
+        "text": "The shared trend agrees, while procedural differences may explain exact times.",
         "is_correct": true
       },
       {
-        "text": "All groups labelled their cups.",
+        "text": "Only identical numbers count as agreement.",
+        "is_correct": false
+      },
+      {
+        "text": "Both conclusions are false.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One group used hot water while others used room-temperature water.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Studies can agree on a pattern despite differences in measured magnitude.",
+      "hint": "Separate trend from exact value."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-015",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Can more repeats fix a thermometer that is always 2 degrees C too high in a new class investigation?",
-    "audio_prompt": "Can more repeats fix a thermometer that is always 2 degrees C too high in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "error_direction",
+    "question": "A stopwatch starts late but stops on time. Recorded duration will usually be…",
+    "audio_prompt": "A stopwatch starts late but stops on time. Recorded duration will usually be…",
     "answers": [
       {
-        "text": "Yes, repeats fix every error.",
+        "text": "unchanged",
         "is_correct": false
       },
       {
-        "text": "Yes, if the table is colourful.",
+        "text": "double",
         "is_correct": false
       },
       {
-        "text": "No, repeats do not remove systematic calibration error.",
+        "text": "too short",
         "is_correct": true
+      },
+      {
+        "text": "too long",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "No, repeats do not remove systematic calibration error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Starting after the event omits part of the true duration.",
+      "hint": "Draw the missing time interval."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-016",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Which conclusion is proportionate in a new class investigation?",
-    "audio_prompt": "Which conclusion is proportionate in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "error_direction",
+    "question": "Some water spills before final mass is measured in an evaporation test. Apparent mass loss will be…",
+    "audio_prompt": "Some water spills before final mass is measured in an evaporation test. Apparent mass loss will be…",
     "answers": [
       {
-        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
-        "is_correct": true
-      },
-      {
-        "text": "Material A is always the best in every situation.",
+        "text": "too small",
         "is_correct": false
       },
       {
-        "text": "The prediction must be true because we liked it.",
+        "text": "always zero",
+        "is_correct": false
+      },
+      {
+        "text": "more precise",
+        "is_correct": false
+      },
+      {
+        "text": "too large",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Spillage is counted as if it evaporated, exaggerating the measured loss.",
+      "hint": "What else removed mass?"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-P-017",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "inconsistent_procedure",
+    "question": "Paper planes are launched with different pushes. What does this introduce?",
+    "audio_prompt": "Paper planes are launched with different pushes. What does this introduce?",
+    "answers": [
+      {
+        "text": "variation in launch force that can affect distance",
+        "is_correct": true
+      },
+      {
+        "text": "a larger sample",
+        "is_correct": false
+      },
+      {
+        "text": "a control group",
+        "is_correct": false
+      },
+      {
+        "text": "better validity",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Changing launch force creates an alternative cause of distance differences.",
+      "hint": "Identify what changed unintentionally."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-018",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Why compare findings with others in a new class investigation?",
-    "audio_prompt": "Why compare findings with others in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "confounding",
+    "question": "Fertiliser plants are placed in sunlight; no-fertiliser plants are placed in shade. Why is the conclusion weak?",
+    "audio_prompt": "Fertiliser plants are placed in sunlight; no-fertiliser plants are placed in shade. Why is the conclusion weak?",
     "answers": [
       {
-        "text": "It proves one group must be dishonest.",
+        "text": "sunlight is evidence",
         "is_correct": false
       },
       {
-        "text": "It can reveal method differences, errors or stronger patterns.",
+        "text": "light changes with fertiliser",
         "is_correct": true
       },
       {
-        "text": "It means your data should be changed.",
+        "text": "there are plants",
+        "is_correct": false
+      },
+      {
+        "text": "growth is measurable",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It can reveal method differences, errors or stronger patterns.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Any growth difference could be caused by light, fertiliser or both.",
+      "hint": "Find the paired change."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-019",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "What is a useful question for further investigation in a new class investigation?",
-    "audio_prompt": "What is a useful question for further investigation in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "measurement",
+    "question": "Thermometers A and B differ by 3°C in the same water. Best next step?",
+    "audio_prompt": "Thermometers A and B differ by 3°C in the same water. Best next step?",
     "answers": [
       {
-        "text": "Can we ignore the unexpected result?",
+        "text": "average forever",
         "is_correct": false
       },
       {
-        "text": "Which result is easiest to write?",
+        "text": "remove units",
         "is_correct": false
       },
       {
-        "text": "Would the same pattern occur with different material thicknesses?",
+        "text": "check calibration against a reference and use consistent equipment",
         "is_correct": true
+      },
+      {
+        "text": "choose the preferred reading",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Would the same pattern occur with different material thicknesses?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A calibration check can identify systematic instrument difference.",
+      "hint": "Investigate the instruments."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-020",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Which source of random error fits manual stopwatch timing in a new class investigation?",
-    "audio_prompt": "Which source of random error fits manual stopwatch timing in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "anomalies",
+    "question": "When may excluding an anomalous value be defensible?",
+    "audio_prompt": "When may excluding an anomalous value be defensible?",
     "answers": [
       {
-        "text": "Different reaction times when starting and stopping the timer.",
-        "is_correct": true
-      },
-      {
-        "text": "A ruler with centimetre marks.",
+        "text": "whenever it spoils the trend",
         "is_correct": false
       },
       {
-        "text": "A graph title.",
+        "text": "whenever it is largest",
+        "is_correct": false
+      },
+      {
+        "text": "without keeping raw data",
+        "is_correct": false
+      },
+      {
+        "text": "when a documented spill or recording fault explains it and the decision is reported",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Exclusion requires a specific evidence-based reason and transparent reporting.",
+      "hint": "Evidence, not convenience."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-P-021",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "sample_size",
+    "question": "Does collecting more biased samples automatically fix selection bias?",
+    "audio_prompt": "Does collecting more biased samples automatically fix selection bias?",
+    "answers": [
+      {
+        "text": "No; more samples selected the same biased way can remain unrepresentative.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes, always.",
+        "is_correct": false
+      },
+      {
+        "text": "Only if graphed.",
+        "is_correct": false
+      },
+      {
+        "text": "Bias is the same as random variation.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Different reaction times when starting and stopping the timer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Quantity cannot repair a systematically unrepresentative selection method.",
+      "hint": "More of the same can preserve bias."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-017",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-022",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Two groups get different dissolving times. What should they compare first after students review their evidence?",
-    "audio_prompt": "Two groups get different dissolving times. What should they compare first after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "conclusions",
+    "question": "Data: 0 g fertiliser mean 11 cm; 2 g mean 16 cm; 4 g mean 15 cm. Best conclusion?",
+    "audio_prompt": "Data: 0 g fertiliser mean 11 cm; 2 g mean 16 cm; 4 g mean 15 cm. Best conclusion?",
     "answers": [
       {
-        "text": "Who is more confident.",
+        "text": "Fertiliser has no effect.",
         "is_correct": false
       },
       {
-        "text": "Their methods, variables and measurement tools.",
+        "text": "In these conditions, 2 g produced the greatest mean growth of the tested amounts.",
         "is_correct": true
       },
       {
-        "text": "Which table looks neater.",
+        "text": "More fertiliser always causes more growth.",
+        "is_correct": false
+      },
+      {
+        "text": "4 g kills every plant.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Their methods, variables and measurement tools.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It identifies the supported optimum only among tested conditions.",
+      "hint": "Avoid extrapolating beyond tested values."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 22,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-018",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-023",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "What should happen before excluding an outlier after students review their evidence?",
-    "audio_prompt": "What should happen before excluding an outlier after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "evidence_limits",
+    "question": "An investigation finds soap moved pepper on water. Can it conclude soap kills germs?",
+    "audio_prompt": "An investigation finds soap moved pepper on water. Can it conclude soap kills germs?",
     "answers": [
       {
-        "text": "Delete it immediately.",
+        "text": "Yes, because pepper moved.",
         "is_correct": false
       },
       {
-        "text": "Keep it secret.",
+        "text": "No conclusion can ever be made.",
         "is_correct": false
       },
       {
-        "text": "Investigate whether a mistake or unusual condition explains it.",
+        "text": "No; germ survival was not measured.",
         "is_correct": true
+      },
+      {
+        "text": "Yes; all soap effects are identical.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Investigate whether a mistake or unusual condition explains it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The evidence supports surface movement, not antimicrobial action.",
+      "hint": "Check what outcome was actually measured."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-019",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-024",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Which method difference makes results less comparable after students review their evidence?",
-    "audio_prompt": "Which method difference makes results less comparable after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "method_improvement",
+    "question": "Reaction time varies when timing a fast event by hand. Best improvement?",
+    "audio_prompt": "Reaction time varies when timing a fast event by hand. Best improvement?",
     "answers": [
       {
-        "text": "One group used hot water while others used room-temperature water.",
-        "is_correct": true
-      },
-      {
-        "text": "All groups used seconds.",
+        "text": "write more decimals",
         "is_correct": false
       },
       {
-        "text": "All groups labelled their cups.",
+        "text": "change two variables",
+        "is_correct": false
+      },
+      {
+        "text": "delete slow trials",
+        "is_correct": false
+      },
+      {
+        "text": "use video or an automatic sensor and repeat trials",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Automated or frame-based timing reduces reaction-time variation; repeats show remaining spread.",
+      "hint": "Target the stated mechanism."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 24,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-P-025",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "method_improvement",
+    "question": "Seedlings begin at different heights. Best way to compare growth?",
+    "audio_prompt": "Seedlings begin at different heights. Best way to compare growth?",
+    "answers": [
+      {
+        "text": "measure change from each initial height",
+        "is_correct": true
+      },
+      {
+        "text": "compare final height only",
+        "is_correct": false
+      },
+      {
+        "text": "choose the tallest",
+        "is_correct": false
+      },
+      {
+        "text": "ignore initial values",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "One group used hot water while others used room-temperature water.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Growth is final minus initial height, controlling for starting differences analytically.",
+      "hint": "Use before-and-after data."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-020",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-026",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Can more repeats fix a thermometer that is always 2 degrees C too high after students review their evidence?",
-    "audio_prompt": "Can more repeats fix a thermometer that is always 2 degrees C too high after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "reasoning",
+    "question": "Why compare methods before combining findings?",
+    "audio_prompt": "Why compare methods before combining findings?",
     "answers": [
       {
-        "text": "Yes, repeats fix every error.",
+        "text": "Graphs require one colour.",
         "is_correct": false
       },
       {
-        "text": "No, repeats do not remove systematic calibration error.",
+        "text": "Different variables, units or procedures may make results non-equivalent.",
         "is_correct": true
       },
       {
-        "text": "Yes, if the table is colourful.",
+        "text": "All numbers can be averaged.",
+        "is_correct": false
+      },
+      {
+        "text": "Methods determine honesty.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "No, repeats do not remove systematic calibration error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Findings must represent comparable quantities and conditions before synthesis.",
+      "hint": "Check whether like is compared with like."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-021",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-027",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Which conclusion is proportionate after students review their evidence?",
-    "audio_prompt": "Which conclusion is proportionate after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "further_questions",
+    "question": "Earthworm pots yielded more tomatoes. Best next question?",
+    "audio_prompt": "Earthworm pots yielded more tomatoes. Best next question?",
     "answers": [
       {
-        "text": "Material A is always the best in every situation.",
+        "text": "Will every crop improve everywhere?",
         "is_correct": false
       },
       {
-        "text": "The prediction must be true because we liked it.",
+        "text": "What if everything changes?",
         "is_correct": false
       },
       {
-        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
+        "text": "How does earthworm number affect mean tomato yield when pot, soil, water and light are controlled?",
         "is_correct": true
+      },
+      {
+        "text": "Are worms nice?",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It is measurable, extends the result and isolates one purposeful factor.",
+      "hint": "Specify changed and measured variables."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-022",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-028",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Why compare findings with others after students review their evidence?",
-    "audio_prompt": "Why compare findings with others after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "random_error",
+    "question": "Wind gusts cause small changes in flight distance. Which response helps?",
+    "audio_prompt": "Wind gusts cause small changes in flight distance. Which response helps?",
     "answers": [
       {
-        "text": "It can reveal method differences, errors or stronger patterns.",
+        "text": "claim “human error”",
+        "is_correct": false
+      },
+      {
+        "text": "change plane designs each trial",
+        "is_correct": false
+      },
+      {
+        "text": "round to whole kilometres",
+        "is_correct": false
+      },
+      {
+        "text": "repeat many launches under sheltered, consistent conditions",
         "is_correct": true
-      },
-      {
-        "text": "It proves one group must be dishonest.",
-        "is_correct": false
-      },
-      {
-        "text": "It means your data should be changed.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "It can reveal method differences, errors or stronger patterns.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Controlling wind where possible and repeating trials reduces its influence on the estimated pattern.",
+      "hint": "Control and repeat."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 28,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-023",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-029",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "What is a useful question for further investigation after students review their evidence?",
-    "audio_prompt": "What is a useful question for further investigation after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "systematic_error",
+    "question": "A balance reads 2 g high every time. More repeats alone will…",
+    "audio_prompt": "A balance reads 2 g high every time. More repeats alone will…",
     "answers": [
       {
-        "text": "Can we ignore the unexpected result?",
-        "is_correct": false
-      },
-      {
-        "text": "Would the same pattern occur with different material thicknesses?",
+        "text": "not remove the 2 g bias",
         "is_correct": true
       },
       {
-        "text": "Which result is easiest to write?",
+        "text": "calibrate it automatically",
+        "is_correct": false
+      },
+      {
+        "text": "make results accurate",
+        "is_correct": false
+      },
+      {
+        "text": "reverse the error",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Would the same pattern occur with different material thicknesses?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Repeats can be consistent around a biased value; calibration is needed.",
+      "hint": "Systematic errors persist."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 29,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-p-024",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-030",
     "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "errors and conclusions",
-    "question": "Which source of random error fits manual stopwatch timing after students review their evidence?",
-    "audio_prompt": "Which source of random error fits manual stopwatch timing after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "comparison",
+    "question": "A tests 5 plants per condition for 3 months; B tests 1 plant for 2 weeks. Both control water and light. Which difference most affects confidence?",
+    "audio_prompt": "A tests 5 plants per condition for 3 months; B tests 1 plant for 2 weeks. Both control water and light. Which difference most affects confidence?",
     "answers": [
       {
-        "text": "A ruler with centimetre marks.",
+        "text": "Time never matters.",
         "is_correct": false
       },
       {
-        "text": "A graph title.",
-        "is_correct": false
-      },
-      {
-        "text": "Different reaction times when starting and stopping the timer.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Different reaction times when starting and stopping the timer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i05-t-001",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A different class checks the same science idea: Which source of random error fits manual stopwatch timing?",
-    "audio_prompt": "A different class checks the same science idea: Which source of random error fits manual stopwatch timing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Different reaction times when starting and stopping the timer.",
+        "text": "A has broader repeated evidence over longer growth.",
         "is_correct": true
       },
       {
-        "text": "A ruler with centimetre marks.",
+        "text": "B uses fewer words.",
         "is_correct": false
       },
       {
-        "text": "A graph title.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Different reaction times when starting and stopping the timer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i05-t-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A different class checks the same science idea: What is a useful question for further investigation?",
-    "audio_prompt": "A different class checks the same science idea: What is a useful question for further investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Can we ignore the unexpected result?",
-        "is_correct": false
-      },
-      {
-        "text": "Would the same pattern occur with different material thicknesses?",
-        "is_correct": true
-      },
-      {
-        "text": "Which result is easiest to write?",
+        "text": "A must be correct.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Would the same pattern occur with different material thicknesses?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "More independent plants and sufficient observation time better represent growth response, though neither guarantees validity.",
+      "hint": "Compare sample and duration."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 30,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-031",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A different class checks the same science idea: Why compare findings with others?",
-    "audio_prompt": "A different class checks the same science idea: Why compare findings with others?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "comparison",
+    "question": "Groups use identical methods. A means: 10, 14, 18; B means: 11, 15, 19 across three temperatures. What can they say?",
+    "audio_prompt": "Groups use identical methods. A means: 10, 14, 18; B means: 11, 15, 19 across three temperatures. What can they say?",
     "answers": [
       {
-        "text": "It proves one group must be dishonest.",
+        "text": "Temperature proves every cause.",
         "is_correct": false
       },
       {
-        "text": "It means your data should be changed.",
+        "text": "B invalidates A.",
         "is_correct": false
       },
       {
-        "text": "It can reveal method differences, errors or stronger patterns.",
+        "text": "Both show a similar increasing trend.",
         "is_correct": true
+      },
+      {
+        "text": "All values are identical.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It can reveal method differences, errors or stronger patterns.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Each dataset rises by the same pattern with a small offset.",
+      "hint": "Compare trend and magnitude separately."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-032",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A different class checks the same science idea: Which conclusion is proportionate?",
-    "audio_prompt": "A different class checks the same science idea: Which conclusion is proportionate?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "conclusion_strength",
+    "question": "Five shaded sites were cooler at midday than five sunny sites on one day. Which claim is too strong?",
+    "audio_prompt": "Five shaded sites were cooler at midday than five sunny sites on one day. Which claim is too strong?",
     "answers": [
       {
-        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
-        "is_correct": true
-      },
-      {
-        "text": "Material A is always the best in every situation.",
+        "text": "The sampled shaded sites were cooler at that time.",
         "is_correct": false
       },
       {
-        "text": "The prediction must be true because we liked it.",
+        "text": "The data support a difference in this sample.",
+        "is_correct": false
+      },
+      {
+        "text": "More days would test consistency.",
+        "is_correct": false
+      },
+      {
+        "text": "Shade always keeps every site cooler in all seasons.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "One small, time-specific sample cannot justify a universal claim.",
+      "hint": "Match claim scope to evidence scope."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-P-033",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "error_effect",
+    "question": "Group B used larger ice cubes than Group A in a salt-melting comparison. Likely effect?",
+    "audio_prompt": "Group B used larger ice cubes than Group A in a salt-melting comparison. Likely effect?",
+    "answers": [
+      {
+        "text": "B cubes may take longer for reasons unrelated to salt",
+        "is_correct": true
+      },
+      {
+        "text": "B must melt faster",
+        "is_correct": false
+      },
+      {
+        "text": "cube size cannot matter",
+        "is_correct": false
+      },
+      {
+        "text": "findings become more precise",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Larger cubes have different mass and surface-area relationships, confounding the comparison.",
+      "hint": "Explain the causal pathway."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-034",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A different class checks the same science idea: Can more repeats fix a thermometer that is always 2 degrees C too high?",
-    "audio_prompt": "A different class checks the same science idea: Can more repeats fix a thermometer that is always 2 degrees C too high?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "error_effect",
+    "question": "Some tomato plants were shaded by a wall only in the earthworm group. What follows?",
+    "audio_prompt": "Some tomato plants were shaded by a wall only in the earthworm group. What follows?",
     "answers": [
       {
-        "text": "Yes, repeats fix every error.",
+        "text": "The conclusion becomes universal.",
         "is_correct": false
       },
       {
-        "text": "No, repeats do not remove systematic calibration error.",
+        "text": "Shade is a confound, so yield differences cannot be attributed solely to earthworms.",
         "is_correct": true
       },
       {
-        "text": "Yes, if the table is colourful.",
+        "text": "Earthworms caused shade.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete every plant.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "No, repeats do not remove systematic calibration error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Unequal light offers an alternative explanation for yield differences.",
+      "hint": "Connect the error to the measured outcome."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-035",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A different class checks the same science idea: Which method difference makes results less comparable?",
-    "audio_prompt": "A different class checks the same science idea: Which method difference makes results less comparable?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "evidence_selection",
+    "question": "Question: Does insulation slow cooling? Which pair best supports a conclusion?",
+    "audio_prompt": "Question: Does insulation slow cooling? Which pair best supports a conclusion?",
     "answers": [
       {
-        "text": "All groups used seconds.",
+        "text": "predictions only",
         "is_correct": false
       },
       {
-        "text": "All groups labelled their cups.",
+        "text": "one room temperature",
         "is_correct": false
       },
       {
-        "text": "One group used hot water while others used room-temperature water.",
+        "text": "starting and final temperatures over equal times for insulated and uninsulated cups",
         "is_correct": true
+      },
+      {
+        "text": "cup colours and student names",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "One group used hot water while others used room-temperature water.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Comparable temperature change under both conditions directly answers the question.",
+      "hint": "Select matched outcome data."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-036",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A different class checks the same science idea: What should happen before excluding an outlier?",
-    "audio_prompt": "A different class checks the same science idea: What should happen before excluding an outlier?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "evaluation",
+    "question": "A conclusion uses only the highest trial instead of the mean of five similar trials. Best critique?",
+    "audio_prompt": "A conclusion uses only the highest trial instead of the mean of five similar trials. Best critique?",
     "answers": [
       {
-        "text": "Investigate whether a mistake or unusual condition explains it.",
-        "is_correct": true
-      },
-      {
-        "text": "Delete it immediately.",
+        "text": "Highest is always best.",
         "is_correct": false
       },
       {
-        "text": "Keep it secret.",
+        "text": "Means cannot be used.",
+        "is_correct": false
+      },
+      {
+        "text": "Five trials are too many.",
+        "is_correct": false
+      },
+      {
+        "text": "It cherry-picks one result rather than representing repeated evidence.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Selecting a convenient trial can distort the overall pattern.",
+      "hint": "Use all relevant evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-P-037",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "evaluation",
+    "question": "Results overlap greatly between two conditions. Best conclusion?",
+    "audio_prompt": "Results overlap greatly between two conditions. Best conclusion?",
+    "answers": [
+      {
+        "text": "The evidence does not show a clear difference under this method.",
+        "is_correct": true
+      },
+      {
+        "text": "The preferred condition wins.",
+        "is_correct": false
+      },
+      {
+        "text": "Overlap proves equality forever.",
+        "is_correct": false
+      },
+      {
+        "text": "Delete overlapping results.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Investigate whether a mistake or unusual condition explains it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Substantial overlap limits confidence in a difference; it does not prove universal equality.",
+      "hint": "Do not force a pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-038",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A different class checks the same science idea: Two groups get different dissolving times. What should they compare first?",
-    "audio_prompt": "A different class checks the same science idea: Two groups get different dissolving times. What should they compare first?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "further_questions",
+    "question": "A surface dries fastest in wind. Which extension keeps a clear purpose?",
+    "audio_prompt": "A surface dries fastest in wind. Which extension keeps a clear purpose?",
     "answers": [
       {
-        "text": "Who is more confident.",
+        "text": "Is drying good?",
         "is_correct": false
       },
       {
-        "text": "Their methods, variables and measurement tools.",
+        "text": "How does fan speed affect drying time at constant temperature, area and water volume?",
         "is_correct": true
       },
       {
-        "text": "Which table looks neater.",
+        "text": "What happens if everything changes?",
+        "is_correct": false
+      },
+      {
+        "text": "Why is wind windy?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Their methods, variables and measurement tools.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It tests the next factor quantitatively while controlling alternatives.",
+      "hint": "One factor, one outcome."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-039",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A follow-up test asks: Which source of random error fits manual stopwatch timing?",
-    "audio_prompt": "A follow-up test asks: Which source of random error fits manual stopwatch timing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "protocol",
+    "question": "A tomato protocol lists gloves but students never handle hazardous material. How should materials be evaluated?",
+    "audio_prompt": "A tomato protocol lists gloves but students never handle hazardous material. How should materials be evaluated?",
     "answers": [
       {
-        "text": "A ruler with centimetre marks.",
+        "text": "Materials do not connect to methods.",
         "is_correct": false
       },
       {
-        "text": "A graph title.",
+        "text": "Add a microscope without use.",
         "is_correct": false
       },
       {
-        "text": "Different reaction times when starting and stopping the timer.",
+        "text": "Include only items required by the actual method or justified safety controls.",
         "is_correct": true
+      },
+      {
+        "text": "Every experiment needs every item.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Different reaction times when starting and stopping the timer.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Each material should have a procedural or safety purpose.",
+      "hint": "Trace each item to a step."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-040",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A follow-up test asks: What is a useful question for further investigation?",
-    "audio_prompt": "A follow-up test asks: What is a useful question for further investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "limitations",
+    "question": "A class cannot randomise pot positions near a window. What should the report do?",
+    "audio_prompt": "A class cannot randomise pot positions near a window. What should the report do?",
     "answers": [
       {
-        "text": "Would the same pattern occur with different material thicknesses?",
-        "is_correct": true
-      },
-      {
-        "text": "Can we ignore the unexpected result?",
+        "text": "hide the window",
         "is_correct": false
       },
       {
-        "text": "Which result is easiest to write?",
+        "text": "say no limitations",
+        "is_correct": false
+      },
+      {
+        "text": "claim repeats remove it",
+        "is_correct": false
+      },
+      {
+        "text": "acknowledge position-related light as a limitation and avoid overclaiming",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Transparent limits help readers judge whether position could explain part of the effect.",
+      "hint": "State what alternative remains."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-P-041",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "synthesis",
+    "question": "A: fertiliser mean growth 7 cm vs control 5 cm. B: 6 cm vs 5.5 cm. Best synthesis?",
+    "audio_prompt": "A: fertiliser mean growth 7 cm vs control 5 cm. B: 6 cm vs 5.5 cm. Best synthesis?",
+    "answers": [
+      {
+        "text": "Both find higher mean growth with fertiliser, but effect size differs and methods should be compared.",
+        "is_correct": true
+      },
+      {
+        "text": "They completely disagree.",
+        "is_correct": false
+      },
+      {
+        "text": "Average all four means immediately.",
+        "is_correct": false
+      },
+      {
+        "text": "Fertiliser always adds 2 cm.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Would the same pattern occur with different material thicknesses?",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Both show the same direction, while magnitude and comparability require cautious evaluation.",
+      "hint": "Compare direction, then method."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 41,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-042",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A follow-up test asks: Why compare findings with others?",
-    "audio_prompt": "A follow-up test asks: Why compare findings with others?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "anomalies",
+    "question": "One low value came from a pot knocked over. Best reporting?",
+    "audio_prompt": "One low value came from a pot knocked over. Best reporting?",
     "answers": [
       {
-        "text": "It proves one group must be dishonest.",
+        "text": "Accuse another group.",
         "is_correct": false
       },
       {
-        "text": "It can reveal method differences, errors or stronger patterns.",
+        "text": "Keep raw value visible, explain the incident, repeat if possible and justify analysis choice.",
         "is_correct": true
       },
       {
-        "text": "It means your data should be changed.",
+        "text": "Erase all evidence.",
+        "is_correct": false
+      },
+      {
+        "text": "Replace it with the expected value.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It can reveal method differences, errors or stronger patterns.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Transparent documentation and repeat evidence support a reasoned treatment.",
+      "hint": "Report, investigate, justify."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 42,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-043",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A follow-up test asks: Which conclusion is proportionate?",
-    "audio_prompt": "A follow-up test asks: Which conclusion is proportionate?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "conclusions",
+    "question": "Which conclusion has evidence, answer and limitation?",
+    "audio_prompt": "Which conclusion has evidence, answer and limitation?",
     "answers": [
       {
-        "text": "Material A is always the best in every situation.",
+        "text": "We wrapped the cups.",
         "is_correct": false
       },
       {
-        "text": "The prediction must be true because we liked it.",
+        "text": "Insulation always works perfectly.",
         "is_correct": false
       },
       {
-        "text": "The data suggests material A warmed most in this test, but more repeats are needed.",
+        "text": "In our six trials, insulated cups cooled 4°C less on average; insulation slowed cooling under these conditions, though lid gaps may have affected loss.",
         "is_correct": true
+      },
+      {
+        "text": "The hypothesis was correct.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The data suggests material A warmed most in this test, but more repeats are needed.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It answers quantitatively, limits scope and identifies a plausible method limitation.",
+      "hint": "Look for all three parts."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 43,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-044",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A follow-up test asks: Can more repeats fix a thermometer that is always 2 degrees C too high?",
-    "audio_prompt": "A follow-up test asks: Can more repeats fix a thermometer that is always 2 degrees C too high?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "error_mechanism",
+    "question": "A measuring cylinder is tilted while volume is read. Why is “human error” inadequate?",
+    "audio_prompt": "A measuring cylinder is tilted while volume is read. Why is “human error” inadequate?",
     "answers": [
       {
-        "text": "No, repeats do not remove systematic calibration error.",
-        "is_correct": true
-      },
-      {
-        "text": "Yes, repeats fix every error.",
+        "text": "Humans cannot measure.",
         "is_correct": false
       },
       {
-        "text": "Yes, if the table is colourful.",
+        "text": "Errors need no explanation.",
+        "is_correct": false
+      },
+      {
+        "text": "Tilt only changes colour.",
+        "is_correct": false
+      },
+      {
+        "text": "It fails to name how tilt changes the meniscus reading and potentially biases volume.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A useful evaluation specifies the action, measurement affected and likely consequence.",
+      "hint": "Name cause → measurement → effect."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-P-045",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "method_comparison",
+    "question": "A counts tomatoes per plant; B records total tomatoes from unequal group sizes. Can totals be compared directly?",
+    "audio_prompt": "A counts tomatoes per plant; B records total tomatoes from unequal group sizes. Can totals be compared directly?",
+    "answers": [
+      {
+        "text": "No; convert to a per-plant measure or use equal group sizes.",
+        "is_correct": true
+      },
+      {
+        "text": "Yes; totals are always fair.",
+        "is_correct": false
+      },
+      {
+        "text": "Only if B is larger.",
+        "is_correct": false
+      },
+      {
+        "text": "Units are irrelevant.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "No, repeats do not remove systematic calibration error.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Unequal sample totals reflect group size as well as productivity.",
+      "hint": "Standardise the comparison."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 45,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-046",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A follow-up test asks: Which method difference makes results less comparable?",
-    "audio_prompt": "A follow-up test asks: Which method difference makes results less comparable?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "further_inquiry",
+    "question": "Which question follows from uncertain results without merely repeating them?",
+    "audio_prompt": "Which question follows from uncertain results without merely repeating them?",
     "answers": [
       {
-        "text": "All groups used seconds.",
+        "text": "Which result looks nicest?",
         "is_correct": false
       },
       {
-        "text": "One group used hot water while others used room-temperature water.",
+        "text": "Does the effect become clearer across three controlled temperatures with ten samples per condition?",
         "is_correct": true
       },
       {
-        "text": "All groups labelled their cups.",
+        "text": "Was my hypothesis right?",
+        "is_correct": false
+      },
+      {
+        "text": "Can I omit controls?",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "One group used hot water while others used room-temperature water.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It purposefully examines whether temperature changes the effect while strengthening sampling.",
+      "hint": "Extend one factor and improve evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-047",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A follow-up test asks: What should happen before excluding an outlier?",
-    "audio_prompt": "A follow-up test asks: What should happen before excluding an outlier?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "evidence",
+    "question": "A graph rises, but no untreated control was used. What conclusion is safest?",
+    "audio_prompt": "A graph rises, but no untreated control was used. What conclusion is safest?",
     "answers": [
       {
-        "text": "Delete it immediately.",
+        "text": "Time caused everything.",
         "is_correct": false
       },
       {
-        "text": "Keep it secret.",
+        "text": "The graph proves universality.",
         "is_correct": false
       },
       {
-        "text": "Investigate whether a mistake or unusual condition explains it.",
+        "text": "The measured outcome rose over time, but the treatment cannot be identified as the cause.",
         "is_correct": true
+      },
+      {
+        "text": "The treatment caused the rise.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Investigate whether a mistake or unusual condition explains it.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The trend is observable, but without comparison an alternative explanation remains.",
+      "hint": "Separate observation from causal attribution."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i05-t-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I05-P-048",
     "curriculum_code": "AC9S6I05",
-    "bank": "test",
-    "skill": "errors and conclusions",
-    "question": "A follow-up test asks: Two groups get different dissolving times. What should they compare first?",
-    "audio_prompt": "A follow-up test asks: Two groups get different dissolving times. What should they compare first?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "integrated_evaluation",
+    "question": "Which sequence provides the strongest complete evaluation of an investigation?",
+    "audio_prompt": "Which sequence provides the strongest complete evaluation of an investigation?",
     "answers": [
       {
-        "text": "Their methods, variables and measurement tools.",
-        "is_correct": true
-      },
-      {
-        "text": "Who is more confident.",
+        "text": "state preference; delete anomalies; declare proof",
         "is_correct": false
       },
       {
-        "text": "Which table looks neater.",
+        "text": "repeat method as conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "average unrelated studies",
+        "is_correct": false
+      },
+      {
+        "text": "compare question/variables/method/sample/repeats; compare findings; identify error and effect; select evidence; conclude; pose next question",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "This sequence connects method quality, results, limitations and future inquiry.",
+      "hint": "Follow the whole evaluation cycle."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-001",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "method_comparison",
+    "question": "Nina measures soil temperature at 9 am; Omar measures at 3 pm. Why might means differ?",
+    "audio_prompt": "Nina measures soil temperature at 9 am; Omar measures at 3 pm. Why might means differ?",
+    "answers": [
+      {
+        "text": "time of day changes heating conditions",
+        "is_correct": true
+      },
+      {
+        "text": "thermometers cannot work outdoors",
+        "is_correct": false
+      },
+      {
+        "text": "means cause bias",
+        "is_correct": false
+      },
+      {
+        "text": "soil has no temperature",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Their methods, variables and measurement tools.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Different measurement times create an environmental method difference that can affect temperature.",
+      "hint": "Find the differing condition."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-002",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "findings",
+    "question": "Teams obtain 21, 23, 22 cm and 20, 22, 21 cm mean ranges. Best comparison?",
+    "audio_prompt": "Teams obtain 21, 23, 22 cm and 20, 22, 21 cm mean ranges. Best comparison?",
+    "answers": [
+      {
+        "text": "Combine without checking methods.",
+        "is_correct": false
+      },
+      {
+        "text": "Findings are close and show substantial overlap.",
+        "is_correct": true
+      },
+      {
+        "text": "They contradict completely.",
+        "is_correct": false
+      },
+      {
+        "text": "The first proves a universal effect.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The ranges overlap and their centres are similar.",
+      "hint": "Compare size and overlap."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-003",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "error_direction",
+    "question": "A timer stops two seconds late. Recorded times are likely…",
+    "audio_prompt": "A timer stops two seconds late. Recorded times are likely…",
+    "answers": [
+      {
+        "text": "exact",
+        "is_correct": false
+      },
+      {
+        "text": "unrelated",
+        "is_correct": false
+      },
+      {
+        "text": "too long",
+        "is_correct": true
+      },
+      {
+        "text": "too short",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Late stopping adds time to the measurement.",
+      "hint": "Follow the timing error."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-004",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "confounding",
+    "question": "One detergent is tested with warm water and another with cold. What is the problem?",
+    "audio_prompt": "One detergent is tested with warm water and another with cold. What is the problem?",
+    "answers": [
+      {
+        "text": "water is unnecessary",
+        "is_correct": false
+      },
+      {
+        "text": "detergents cannot differ",
+        "is_correct": false
+      },
+      {
+        "text": "repeats become impossible",
+        "is_correct": false
+      },
+      {
+        "text": "temperature provides another explanation",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Both detergent and temperature vary.",
+      "hint": "Find the second changed factor."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-005",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "evidence",
+    "question": "Which evidence answers whether worms affect yield?",
+    "audio_prompt": "Which evidence answers whether worms affect yield?",
+    "answers": [
+      {
+        "text": "mean tomatoes per plant in matched worm and no-worm groups",
+        "is_correct": true
+      },
+      {
+        "text": "worm drawings",
+        "is_correct": false
+      },
+      {
+        "text": "soil colour only",
+        "is_correct": false
+      },
+      {
+        "text": "a prediction",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Matched yield data directly link the changed and measured variables.",
+      "hint": "Use comparable quantitative results."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-006",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "anomaly",
+    "question": "A value is unusual with no known procedural fault. Best action?",
+    "audio_prompt": "A value is unusual with no known procedural fault. Best action?",
+    "answers": [
+      {
+        "text": "hide raw data",
+        "is_correct": false
+      },
+      {
+        "text": "retain it, check and collect more evidence",
+        "is_correct": true
+      },
+      {
+        "text": "delete it automatically",
+        "is_correct": false
+      },
+      {
+        "text": "alter it to the mean",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Unexpected data remain evidence unless a justified decision is made transparently.",
+      "hint": "Do not assume error."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-007",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "conclusion",
+    "question": "Means are 8.4 and 8.5 s with wide overlapping results. Best conclusion?",
+    "audio_prompt": "Means are 8.4 and 8.5 s with wide overlapping results. Best conclusion?",
+    "answers": [
+      {
+        "text": "Both are exactly identical forever.",
+        "is_correct": false
+      },
+      {
+        "text": "The hypothesis wins.",
+        "is_correct": false
+      },
+      {
+        "text": "No clear difference was detected with this method.",
+        "is_correct": true
+      },
+      {
+        "text": "Condition B is certainly slower.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Tiny mean separation relative to spread provides weak evidence of a difference.",
+      "hint": "Consider spread, not means alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-008",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "limitation",
+    "question": "All ten samples came from one corner of a pond. Main limitation?",
+    "audio_prompt": "All ten samples came from one corner of a pond. Main limitation?",
+    "answers": [
+      {
+        "text": "ten is always enough",
+        "is_correct": false
+      },
+      {
+        "text": "corners are controls",
+        "is_correct": false
+      },
+      {
+        "text": "pond data need no location",
+        "is_correct": false
+      },
+      {
+        "text": "the sample may not represent the pond",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Spatially clustered sampling may miss conditions elsewhere.",
+      "hint": "Ask who or what is represented."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-009",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "improvement",
+    "question": "Students estimate leaf area by eye. Best improvement?",
+    "audio_prompt": "Students estimate leaf area by eye. Best improvement?",
+    "answers": [
+      {
+        "text": "use grid paper or calibrated image analysis consistently",
+        "is_correct": true
+      },
+      {
+        "text": "add unsupported decimals",
+        "is_correct": false
+      },
+      {
+        "text": "ask the tallest student",
+        "is_correct": false
+      },
+      {
+        "text": "choose expected values",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A standard quantitative method reduces subjective judgement.",
+      "hint": "Target measurement quality."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-010",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "systematic_error",
+    "question": "All rulers have a missing first centimetre and measurements begin at the edge. Repeats will…",
+    "audio_prompt": "All rulers have a missing first centimetre and measurements begin at the edge. Repeats will…",
+    "answers": [
+      {
+        "text": "prove validity",
+        "is_correct": false
+      },
+      {
+        "text": "remain biased unless the zero point is corrected",
+        "is_correct": true
+      },
+      {
+        "text": "automatically fix the bias",
+        "is_correct": false
+      },
+      {
+        "text": "remove one centimetre each time",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The same offset persists across repetitions.",
+      "hint": "Repeated bias stays bias."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-011",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "synthesis",
+    "question": "Two fair tests show opposite small effects and broad variation. Best response?",
+    "audio_prompt": "Two fair tests show opposite small effects and broad variation. Best response?",
+    "answers": [
+      {
+        "text": "claim dishonesty",
+        "is_correct": false
+      },
+      {
+        "text": "average without context",
+        "is_correct": false
+      },
+      {
+        "text": "report disagreement, compare contexts and gather further controlled evidence",
+        "is_correct": true
+      },
+      {
+        "text": "choose the preferred study",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Conflicting weak patterns require transparent comparison and additional evidence.",
+      "hint": "Uncertainty is a valid finding."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-012",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "further_question",
+    "question": "After finding darker surfaces warmed faster, best extension?",
+    "audio_prompt": "After finding darker surfaces warmed faster, best extension?",
+    "answers": [
+      {
+        "text": "Are colours pretty?",
+        "is_correct": false
+      },
+      {
+        "text": "Change colour and material together.",
+        "is_correct": false
+      },
+      {
+        "text": "Does science work?",
+        "is_correct": false
+      },
+      {
+        "text": "How does surface colour affect cooling rate when material, area and starting temperature are controlled?",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "It purposefully extends the inquiry with a measurable outcome and controls.",
+      "hint": "One purposeful extension."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-013",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "claim_scope",
+    "question": "Data came from bean seedlings for 14 days. Which claim overreaches?",
+    "audio_prompt": "Data came from bean seedlings for 14 days. Which claim overreaches?",
+    "answers": [
+      {
+        "text": "All plant species grow best under this condition throughout life.",
+        "is_correct": true
+      },
+      {
+        "text": "These bean seedlings had greater mean growth over 14 days.",
+        "is_correct": false
+      },
+      {
+        "text": "Longer studies are needed.",
+        "is_correct": false
+      },
+      {
+        "text": "The evidence applies to tested conditions.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The universal species-and-lifetime claim far exceeds the sample.",
+      "hint": "Match population and duration."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-014",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "error_explanation",
+    "question": "Why is “someone measured badly” weak evaluation?",
+    "audio_prompt": "Why is “someone measured badly” weak evaluation?",
+    "answers": [
+      {
+        "text": "Methods need no detail.",
+        "is_correct": false
+      },
+      {
+        "text": "It does not identify the measurement action, affected value or direction/variation caused.",
+        "is_correct": true
+      },
+      {
+        "text": "It is too scientific.",
+        "is_correct": false
+      },
+      {
+        "text": "People never make errors.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "A useful explanation traces a specific mechanism to its likely effect.",
+      "hint": "Cause → measurement → consequence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-015",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "reasoned_conclusion",
+    "question": "Which statement is the strongest reasoned conclusion from this investigation?",
+    "audio_prompt": "Which statement is the strongest reasoned conclusion from this investigation?",
+    "answers": [
+      {
+        "text": "We measured cups.",
+        "is_correct": false
+      },
+      {
+        "text": "My prediction was right.",
+        "is_correct": false
+      },
+      {
+        "text": "Across four repeats, covered cups lost 6 mL less on average; covers reduced loss here, although unequal lid gaps may have influenced results.",
+        "is_correct": true
+      },
+      {
+        "text": "Covers work.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It uses evidence, answers the question and acknowledges a relevant limit.",
+      "hint": "Evidence + answer + limit."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I05-T-016",
+    "curriculum_code": "AC9S6I05",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "evaluation_cycle",
+    "question": "After drawing a limited conclusion, what is the most scientific next move?",
+    "audio_prompt": "After drawing a limited conclusion, what is the most scientific next move?",
+    "answers": [
+      {
+        "text": "declare the topic finished forever",
+        "is_correct": false
+      },
+      {
+        "text": "remove contradictory evidence",
+        "is_correct": false
+      },
+      {
+        "text": "repeat the conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "pose a focused question that tests an uncertainty or extension",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Further questions grow directly from limitations, mechanisms or unexplored conditions.",
+      "hint": "Turn uncertainty into a testable question."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
   }
 ]

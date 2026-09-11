@@ -4,449 +4,449 @@ window.skillrTestQuestions = [
     "id": "ac9s6i06-t-001",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "purpose",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which communication choice improves accessibility?",
-    "audioPrompt": "A different class checks the same science idea: Which communication choice improves accessibility?",
+    "question": "A ranger wants visitors to follow a new track rule supported by erosion data. Best text?",
+    "audioPrompt": "A ranger wants visitors to follow a new track rule supported by erosion data. Best text?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Clear contrast, readable text and alt text for important images.",
-      "Low-contrast labels.",
-      "Important information only in tiny images."
+      "a brief sign with the rule, evidence reason and clear action",
+      "a raw notebook only",
+      "an untitled spreadsheet",
+      "a fictional ending"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 1,
     "correct": 0,
-    "explanation": "Clear contrast, readable text and alt text for important images.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "A concise public sign matches immediate decision and action while giving an evidence-based reason.\nHint: Fit purpose and setting.",
     "structuredExplanation": {
-      "summary": "Clear contrast, readable text and alt text for important images.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A concise public sign matches immediate decision and action while giving an evidence-based reason.",
+      "hint": "Fit purpose and setting."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-002",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "audience",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A report includes a graph but no explanation. What should be added?",
-    "audioPrompt": "A different class checks the same science idea: A report includes a graph but no explanation. What should be added?",
+    "question": "Which sentence best explains insulation to Year 3 students?",
+    "audioPrompt": "Which sentence best explains insulation to Year 3 students?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "More decorative borders.",
-      "Text explaining the pattern and what it means.",
-      "A different prediction only."
+      "It is magic wrapping.",
+      "Insulation slows heat transfer, helping warm things stay warm longer.",
+      "Thermal conductivity coefficients mediate flux.",
+      "Insulation creates heat forever."
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 2,
     "correct": 1,
-    "explanation": "Text explaining the pattern and what it means.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "It is accessible and scientifically accurate without unnecessary jargon.\nHint: Simplify accurately.",
     "structuredExplanation": {
-      "summary": "Text explaining the pattern and what it means.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "It is accessible and scientifically accurate without unnecessary jargon.",
+      "hint": "Simplify accurately."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-003",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "structure",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which slide design helps an oral presentation?",
-    "audioPrompt": "A different class checks the same science idea: Which slide design helps an oral presentation?",
+    "question": "Where should a reader find whether results supported the prediction?",
+    "audioPrompt": "Where should a reader find whether results supported the prediction?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Six paragraphs of tiny text.",
-      "Images with no connection to findings.",
-      "Few key words, readable labels and spoken explanation."
+      "title",
+      "reference date",
+      "conclusion",
+      "equipment list"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 3,
     "correct": 2,
-    "explanation": "Few key words, readable labels and spoken explanation.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The conclusion interprets results in relation to the question or prediction.\nHint: Find interpretation.",
     "structuredExplanation": {
-      "summary": "Few key words, readable labels and spoken explanation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The conclusion interprets results in relation to the question or prediction.",
+      "hint": "Find interpretation."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-004",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "method",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why cite or name data sources in a digital report?",
-    "audioPrompt": "A different class checks the same science idea: Why cite or name data sources in a digital report?",
+    "question": "Which method detail is essential for repeating a sound-level test?",
+    "audioPrompt": "Which method detail is essential for repeating a sound-level test?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "So readers can judge and check the evidence.",
-      "So the report looks longer.",
-      "So no explanation is needed."
+      "presenter’s opinion",
+      "poster colour",
+      "conclusion wording",
+      "distance from meter to source"
     ],
-    "correct": 0,
-    "explanation": "So readers can judge and check the evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 4,
+    "correct": 3,
+    "explanation": "Sound level varies with distance, so its measurement setup must be specified.\nHint: Include influential setup details.",
     "structuredExplanation": {
-      "summary": "So readers can judge and check the evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Sound level varies with distance, so its measurement setup must be specified.",
+      "hint": "Include influential setup details."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-005",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "results",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: A conclusion only repeats the prediction. What is missing?",
-    "audioPrompt": "A different class checks the same science idea: A conclusion only repeats the prediction. What is missing?",
+    "question": "Which statement reports rather than explains?",
+    "audioPrompt": "Which statement reports rather than explains?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A brighter background.",
-      "A statement linking results to evidence.",
-      "A new unrelated question."
+      "The shaded cup lost 6 g of water.",
+      "Shade reduced heating, which may have slowed evaporation.",
+      "We recommend shade.",
+      "Our prediction was sensible."
     ],
-    "correct": 1,
-    "explanation": "A statement linking results to evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 5,
+    "correct": 0,
+    "explanation": "It states a measured observation without causal interpretation.\nHint: Results first, explanation later.",
     "structuredExplanation": {
-      "summary": "A statement linking results to evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "It states a measured observation without causal interpretation.",
+      "hint": "Results first, explanation later."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-006",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "conclusion",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Why define technical words for a younger audience?",
-    "audioPrompt": "A different class checks the same science idea: Why define technical words for a younger audience?",
+    "question": "Data are 8.1, 8.0 and 8.2 s for A; 6.0, 6.2 and 6.1 s for B. Best conclusion?",
+    "audioPrompt": "Data are 8.1, 8.0 and 8.2 s for A; 6.0, 6.2 and 6.1 s for B. Best conclusion?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It changes the results.",
-      "It hides the evidence.",
-      "It helps readers understand without changing the science."
+      "Times have no units.",
+      "B had a lower mean time (6.1 s) than A (8.1 s) in these trials.",
+      "B is always fastest everywhere.",
+      "A and B were identical."
     ],
-    "correct": 2,
-    "explanation": "It helps readers understand without changing the science.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 6,
+    "correct": 1,
+    "explanation": "It accurately compares means and scopes the statement to collected evidence.\nHint: Calculate and qualify.",
     "structuredExplanation": {
-      "summary": "It helps readers understand without changing the science.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "It accurately compares means and scopes the statement to collected evidence.",
+      "hint": "Calculate and qualify."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-007",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "graphs",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: Which feature best supports a scientific finding on a poster?",
-    "audioPrompt": "A different class checks the same science idea: Which feature best supports a scientific finding on a poster?",
+    "question": "A report compares counts in five habitats. Best display?",
+    "audioPrompt": "A report compares counts in five habitats. Best display?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A labelled graph with a caption explaining the trend.",
-      "An unrelated decoration.",
-      "A huge title with no data."
+      "pie chart without totals",
+      "decorative map only",
+      "column graph with habitat categories and count axis",
+      "line graph implying continuous habitat order"
     ],
-    "correct": 0,
-    "explanation": "A labelled graph with a caption explaining the trend.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 7,
+    "correct": 2,
+    "explanation": "Columns compare discrete categories without implying continuous change.\nHint: Categories suit columns.",
     "structuredExplanation": {
-      "summary": "A labelled graph with a caption explaining the trend.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Columns compare discrete categories without implying continuous change.",
+      "hint": "Categories suit columns."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-008",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "caption",
     "printable": true,
     "type": "single",
-    "question": "A different class checks the same science idea: What should stay the same when explaining findings to different audiences?",
-    "audioPrompt": "A different class checks the same science idea: What should stay the same when explaining findings to different audiences?",
+    "question": "A figure shows three trials, not means. Which caption is accurate?",
+    "audioPrompt": "A figure shows three trials, not means. Which caption is accurate?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "The exact vocabulary level.",
-      "The accuracy of the evidence and conclusion.",
-      "The font colour."
+      "Figure 2. Proven average fall time.",
+      "Big parachutes always win.",
+      "Results.",
+      "Figure 2. Fall times for each of three trials at each parachute size."
     ],
-    "correct": 1,
-    "explanation": "The accuracy of the evidence and conclusion.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 8,
+    "correct": 3,
+    "explanation": "It accurately identifies what the figure contains without inventing averaging or certainty.\nHint: Describe exactly what is shown.",
     "structuredExplanation": {
-      "summary": "The accuracy of the evidence and conclusion.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "It accurately identifies what the figure contains without inventing averaging or certainty.",
+      "hint": "Describe exactly what is shown."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-009",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "misleading visual",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which communication choice improves accessibility?",
-    "audioPrompt": "A follow-up test asks: Which communication choice improves accessibility?",
+    "question": "A pictograph uses one leaf for 10 plants, but half-leaf symbols are unexplained. Best repair?",
+    "audioPrompt": "A pictograph uses one leaf for 10 plants, but half-leaf symbols are unexplained. Best repair?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Low-contrast labels.",
-      "Important information only in tiny images.",
-      "Clear contrast, readable text and alt text for important images."
+      "add a key including the half-symbol value",
+      "use more colours",
+      "remove all numbers",
+      "enlarge the title"
     ],
-    "correct": 2,
-    "explanation": "Clear contrast, readable text and alt text for important images.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 9,
+    "correct": 0,
+    "explanation": "A complete key lets readers decode quantities accurately.\nHint: Explain every symbol.",
     "structuredExplanation": {
-      "summary": "Clear contrast, readable text and alt text for important images.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "A complete key lets readers decode quantities accurately.",
+      "hint": "Explain every symbol."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-010",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "accessibility",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A report includes a graph but no explanation. What should be added?",
-    "audioPrompt": "A follow-up test asks: A report includes a graph but no explanation. What should be added?",
+    "question": "A heat map relies on red–green colour differences. Best improvement?",
+    "audioPrompt": "A heat map relies on red–green colour differences. Best improvement?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Text explaining the pattern and what it means.",
-      "More decorative borders.",
-      "A different prediction only."
+      "animate faster",
+      "add patterns or values and a clear legend",
+      "make colours paler",
+      "remove labels"
     ],
-    "correct": 0,
-    "explanation": "Text explaining the pattern and what it means.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 10,
+    "correct": 1,
+    "explanation": "Redundant cues make the data readable without colour discrimination.\nHint: Do not encode meaning by colour alone.",
     "structuredExplanation": {
-      "summary": "Text explaining the pattern and what it means.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Redundant cues make the data readable without colour discrimination.",
+      "hint": "Do not encode meaning by colour alone."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-011",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "digital tools",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which slide design helps an oral presentation?",
-    "audioPrompt": "A follow-up test asks: Which slide design helps an oral presentation?",
+    "question": "An app automatically chooses a 3D pie chart. What should the author do?",
+    "audioPrompt": "An app automatically chooses a 3D pie chart. What should the author do?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "Six paragraphs of tiny text.",
-      "Few key words, readable labels and spoken explanation.",
-      "Images with no connection to findings."
+      "hide the underlying data",
+      "increase perspective",
+      "replace it if distortion makes comparison difficult",
+      "accept every default"
     ],
-    "correct": 1,
-    "explanation": "Few key words, readable labels and spoken explanation.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 11,
+    "correct": 2,
+    "explanation": "Tool defaults require human evaluation for accurate, readable representation.\nHint: Digital does not mean clear.",
     "structuredExplanation": {
-      "summary": "Few key words, readable labels and spoken explanation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Tool defaults require human evaluation for accurate, readable representation.",
+      "hint": "Digital does not mean clear."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-012",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "attribution",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why cite or name data sources in a digital report?",
-    "audioPrompt": "A follow-up test asks: Why cite or name data sources in a digital report?",
+    "question": "A student modifies an open-licensed diagram. What should the credit indicate?",
+    "audioPrompt": "A student modifies an open-licensed diagram. What should the credit indicate?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "So the report looks longer.",
-      "So no explanation is needed.",
-      "So readers can judge and check the evidence."
+      "only the student’s name",
+      "no credit after modification",
+      "search engine name",
+      "original creator/source, licence and that it was adapted"
     ],
-    "correct": 2,
-    "explanation": "So readers can judge and check the evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 12,
+    "correct": 3,
+    "explanation": "Adaptation does not erase the original creator or licence conditions.\nHint: Credit origin and changes.",
     "structuredExplanation": {
-      "summary": "So readers can judge and check the evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Adaptation does not erase the original creator or licence conditions.",
+      "hint": "Credit origin and changes."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-013",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "two audiences",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: A conclusion only repeats the prediction. What is missing?",
-    "audioPrompt": "A follow-up test asks: A conclusion only repeats the prediction. What is missing?",
+    "question": "Which pair preserves one finding for two audiences?",
+    "audioPrompt": "Which pair preserves one finding for two audiences?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "A statement linking results to evidence.",
-      "A brighter background.",
-      "A new unrelated question."
+      "Report: “mean decreased 4.6 °C”; announcement: “the average fell by about 5 °C”",
+      "Report: “4.6 °C”; announcement: “it doubled”",
+      "Report gives data; announcement reverses it",
+      "both omit the measured quantity"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 13,
     "correct": 0,
-    "explanation": "A statement linking results to evidence.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "Rounding suits the public announcement while preserving direction and approximate magnitude.\nHint: Adapt precision honestly.",
     "structuredExplanation": {
-      "summary": "A statement linking results to evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Rounding suits the public announcement while preserving direction and approximate magnitude.",
+      "hint": "Adapt precision honestly."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-014",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "limitation",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Why define technical words for a younger audience?",
-    "audioPrompt": "A follow-up test asks: Why define technical words for a younger audience?",
+    "question": "A survey includes only one school. Which limitation is most relevant?",
+    "audioPrompt": "A survey includes only one school. Which limitation is most relevant?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "It changes the results.",
-      "It helps readers understand without changing the science.",
-      "It hides the evidence."
+      "the title was short",
+      "results may not represent students in other schools",
+      "the font was blue",
+      "tables had lines"
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 14,
     "correct": 1,
-    "explanation": "It helps readers understand without changing the science.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "The sampling boundary affects generalisation beyond the studied school.\nHint: Connect limitation to inference.",
     "structuredExplanation": {
-      "summary": "It helps readers understand without changing the science.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "The sampling boundary affects generalisation beyond the studied school.",
+      "hint": "Connect limitation to inference."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-015",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "recommendation",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: Which feature best supports a scientific finding on a poster?",
-    "audioPrompt": "A follow-up test asks: Which feature best supports a scientific finding on a poster?",
+    "question": "Which recommendation appropriately combines science and uncertainty?",
+    "audioPrompt": "Which recommendation appropriately combines science and uncertainty?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "An unrelated decoration.",
-      "A huge title with no data.",
-      "A labelled graph with a caption explaining the trend."
+      "It removes every pollutant forever.",
+      "Uncertainty means no decision is possible.",
+      "Trial the filter because it removed 78% of particles in our test, then monitor performance in real water.",
+      "Buy it because one student likes it."
     ],
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 15,
     "correct": 2,
-    "explanation": "A labelled graph with a caption explaining the trend.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "explanation": "It uses measured evidence for a proportionate next step and addresses transfer uncertainty.\nHint: Evidence can support a monitored action.",
     "structuredExplanation": {
-      "summary": "A labelled graph with a caption explaining the trend.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "It uses measured evidence for a proportionate next step and addresses transfer uncertainty.",
+      "hint": "Evidence can support a monitored action."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   },
   {
     "id": "ac9s6i06-t-016",
     "curriculumCode": "AC9S6I06",
     "bank": "test",
-    "skill": "communicating findings",
+    "skill": "integrated review",
     "printable": true,
     "type": "single",
-    "question": "A follow-up test asks: What should stay the same when explaining findings to different audiences?",
-    "audioPrompt": "A follow-up test asks: What should stay the same when explaining findings to different audiences?",
+    "question": "A family infographic is simple and colourful but omits units, sources and alt text. Best judgement?",
+    "audioPrompt": "A family infographic is simple and colourful but omits units, sources and alt text. Best judgement?",
     "visual": "",
     "visualHtml": "",
-    "visualMeta": {
-      "type": "none",
-      "alt_text": ""
-    },
     "answers": [
-      "The accuracy of the evidence and conclusion.",
-      "The exact vocabulary level.",
-      "The font colour."
+      "it is complete because it is colourful",
+      "units matter only to scientists",
+      "digital texts need no sources",
+      "audience-friendly design does not compensate for missing accuracy, traceability and accessibility"
     ],
-    "correct": 0,
-    "explanation": "The accuracy of the evidence and conclusion.\nHint: Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate.",
+    "difficulty": 3,
+    "difficultyTier": "challenge",
+    "sequencePriority": 16,
+    "correct": 3,
+    "explanation": "Effective adaptation must retain scientific integrity and provide inclusive access.\nHint: Check what must remain constant.",
     "structuredExplanation": {
-      "summary": "The accuracy of the evidence and conclusion.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
+      "summary": "Effective adaptation must retain scientific integrity and provide inclusive access.",
+      "hint": "Check what must remain constant."
     },
-    "qualitySchema": "student-facing-v2"
+    "qualitySchema": "production-v1"
   }
 ];
 window.skillrExamQuestions = window.skillrTestQuestions;

@@ -1,1322 +1,2434 @@
 [
   {
-    "id": "ac9s6i06-p-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-001",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "What should stay the same when explaining findings to different audiences?",
-    "audio_prompt": "What should stay the same when explaining findings to different audiences?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "purpose",
+    "question": "A student wants another class to repeat a seed test. Which text is most suitable?",
+    "audio_prompt": "A student wants another class to repeat a seed test. Which text is most suitable?",
     "answers": [
       {
-        "text": "The accuracy of the evidence and conclusion.",
+        "text": "a procedural report",
         "is_correct": true
       },
       {
-        "text": "The exact vocabulary level.",
+        "text": "a slogan",
         "is_correct": false
       },
       {
-        "text": "The font colour.",
+        "text": "a fictional story",
+        "is_correct": false
+      },
+      {
+        "text": "an unlabelled photo",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The accuracy of the evidence and conclusion.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A procedural report supplies materials and ordered steps needed for repetition.",
+      "hint": "Match the text to repetition."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-002",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-002",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Which feature best supports a scientific finding on a poster?",
-    "audio_prompt": "Which feature best supports a scientific finding on a poster?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "audience",
+    "question": "Which opening best suits a family infographic about saving water?",
+    "audio_prompt": "Which opening best suits a family infographic about saving water?",
     "answers": [
       {
-        "text": "An unrelated decoration.",
+        "text": "Method: Trial 1.",
         "is_correct": false
       },
       {
-        "text": "A labelled graph with a caption explaining the trend.",
+        "text": "Here are three evidence-based ways your family can reduce water use.",
         "is_correct": true
       },
       {
-        "text": "A huge title with no data.",
+        "text": "Evapotranspiration coefficients are imperative.",
+        "is_correct": false
+      },
+      {
+        "text": "Water is cool!!!",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A labelled graph with a caption explaining the trend.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It addresses families directly and states a clear, useful purpose without sacrificing accuracy.",
+      "hint": "Choose accessible, purposeful language."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-003",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Why define technical words for a younger audience?",
-    "audio_prompt": "Why define technical words for a younger audience?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "accuracy",
+    "question": "Which sentence is scientifically accurate?",
+    "audio_prompt": "Which sentence is scientifically accurate?",
     "answers": [
       {
-        "text": "It changes the results.",
+        "text": "The plant loved the lamp.",
         "is_correct": false
       },
       {
-        "text": "It hides the evidence.",
+        "text": "The lamp made it perfect.",
         "is_correct": false
       },
       {
-        "text": "It helps readers understand without changing the science.",
+        "text": "The plant grew 18 mm in seven days.",
         "is_correct": true
+      },
+      {
+        "text": "The plant grew heaps.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It helps readers understand without changing the science.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The sentence reports a measured change with a quantity and unit.",
+      "hint": "Prefer measurable evidence."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-004",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "A conclusion only repeats the prediction. What is missing?",
-    "audio_prompt": "A conclusion only repeats the prediction. What is missing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "units",
+    "question": "Which sentence communicates the measured result completely?",
+    "audio_prompt": "Which sentence communicates the measured result completely?",
     "answers": [
       {
-        "text": "A statement linking results to evidence.",
-        "is_correct": true
-      },
-      {
-        "text": "A brighter background.",
+        "text": "The water cooled by 12.",
         "is_correct": false
       },
       {
-        "text": "A new unrelated question.",
+        "text": "The water cooled lots.",
+        "is_correct": false
+      },
+      {
+        "text": "The water was 12 long.",
+        "is_correct": false
+      },
+      {
+        "text": "The water cooled by 12 °C.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The number needs a temperature unit to communicate its meaning.",
+      "hint": "Numbers need units."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-P-005",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "structure",
+    "question": "Which section tells what equipment and steps were used?",
+    "audio_prompt": "Which section tells what equipment and steps were used?",
+    "answers": [
+      {
+        "text": "method",
+        "is_correct": true
+      },
+      {
+        "text": "conclusion",
+        "is_correct": false
+      },
+      {
+        "text": "title",
+        "is_correct": false
+      },
+      {
+        "text": "references",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A statement linking results to evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The method records materials and procedures.",
+      "hint": "Where could another scientist check what was done?"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-006",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Why cite or name data sources in a digital report?",
-    "audio_prompt": "Why cite or name data sources in a digital report?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "structure",
+    "question": "Where should raw measurements usually appear?",
+    "audio_prompt": "Where should raw measurements usually appear?",
     "answers": [
       {
-        "text": "So the report looks longer.",
+        "text": "audience greeting",
         "is_correct": false
       },
       {
-        "text": "So readers can judge and check the evidence.",
+        "text": "results table",
         "is_correct": true
       },
       {
-        "text": "So no explanation is needed.",
+        "text": "prediction only",
+        "is_correct": false
+      },
+      {
+        "text": "title",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "So readers can judge and check the evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A results table organises observations and measurements transparently.",
+      "hint": "Find the evidence section."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-007",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Which slide design helps an oral presentation?",
-    "audio_prompt": "Which slide design helps an oral presentation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "claim_evidence",
+    "question": "Which conclusion uses evidence?",
+    "audio_prompt": "Which conclusion uses evidence?",
     "answers": [
       {
-        "text": "Six paragraphs of tiny text.",
+        "text": "Green is best.",
         "is_correct": false
       },
       {
-        "text": "Images with no connection to findings.",
+        "text": "The answer is obvious.",
         "is_correct": false
       },
       {
-        "text": "Few key words, readable labels and spoken explanation.",
+        "text": "Plants given 20 mL daily had a mean height of 14 cm, 4 cm taller than the 10 mL group.",
         "is_correct": true
+      },
+      {
+        "text": "I liked the experiment.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Few key words, readable labels and spoken explanation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It states the pattern and supports it with measured comparison.",
+      "hint": "Look for a claim plus data."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-008",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "A report includes a graph but no explanation. What should be added?",
-    "audio_prompt": "A report includes a graph but no explanation. What should be added?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "precision",
+    "question": "Which word should replace “really hot” in a report?",
+    "audio_prompt": "Which word should replace “really hot” in a report?",
     "answers": [
       {
-        "text": "Text explaining the pattern and what it means.",
-        "is_correct": true
-      },
-      {
-        "text": "More decorative borders.",
+        "text": "awesome",
         "is_correct": false
       },
       {
-        "text": "A different prediction only.",
+        "text": "burning-ish",
+        "is_correct": false
+      },
+      {
+        "text": "very",
+        "is_correct": false
+      },
+      {
+        "text": "62 °C",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A measured value and unit are more precise than emotive description.",
+      "hint": "Use measurement."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-P-009",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "graphs",
+    "question": "Which graph best shows temperature measured every minute?",
+    "audio_prompt": "Which graph best shows temperature measured every minute?",
+    "answers": [
+      {
+        "text": "line graph",
+        "is_correct": true
+      },
+      {
+        "text": "pie chart",
+        "is_correct": false
+      },
+      {
+        "text": "decorative icon",
+        "is_correct": false
+      },
+      {
+        "text": "word cloud",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Text explaining the pattern and what it means.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A line graph clearly displays change across ordered time points.",
+      "hint": "Time-series data need ordered points."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-010",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Which communication choice improves accessibility?",
-    "audio_prompt": "Which communication choice improves accessibility?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "captions",
+    "question": "Which caption most clearly explains the scientific result shown?",
+    "audio_prompt": "Which caption most clearly explains the scientific result shown?",
     "answers": [
       {
-        "text": "Low-contrast labels.",
+        "text": "Blue line.",
         "is_correct": false
       },
       {
-        "text": "Clear contrast, readable text and alt text for important images.",
+        "text": "Figure 1. Mean water temperature decreased from 70 °C to 42 °C over 10 minutes.",
         "is_correct": true
       },
       {
-        "text": "Important information only in tiny images.",
+        "text": "Cool graph",
+        "is_correct": false
+      },
+      {
+        "text": "Results!!!",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Clear contrast, readable text and alt text for important images.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It identifies the figure, variables, units and important pattern.",
+      "hint": "A caption should explain what the visual shows."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-011",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "What should stay the same when explaining findings to different audiences in a new class investigation?",
-    "audio_prompt": "What should stay the same when explaining findings to different audiences in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "accessibility",
+    "question": "What helps readers who cannot see a graph?",
+    "audio_prompt": "What helps readers who cannot see a graph?",
     "answers": [
       {
-        "text": "The exact vocabulary level.",
+        "text": "tiny labels",
         "is_correct": false
       },
       {
-        "text": "The font colour.",
+        "text": "an empty caption",
         "is_correct": false
       },
       {
-        "text": "The accuracy of the evidence and conclusion.",
+        "text": "concise alt text describing its variables and main pattern",
         "is_correct": true
+      },
+      {
+        "text": "colour alone",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The accuracy of the evidence and conclusion.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Alt text communicates the essential content of a visual.",
+      "hint": "Provide a text equivalent."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-012",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Which feature best supports a scientific finding on a poster in a new class investigation?",
-    "audio_prompt": "Which feature best supports a scientific finding on a poster in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "attribution",
+    "question": "A student uses a CSIRO diagram. What should they do?",
+    "audio_prompt": "A student uses a CSIRO diagram. What should they do?",
     "answers": [
       {
-        "text": "A labelled graph with a caption explaining the trend.",
-        "is_correct": true
-      },
-      {
-        "text": "An unrelated decoration.",
+        "text": "remove the logo and claim it",
         "is_correct": false
       },
       {
-        "text": "A huge title with no data.",
+        "text": "write found online",
+        "is_correct": false
+      },
+      {
+        "text": "give no source",
+        "is_correct": false
+      },
+      {
+        "text": "name the creator/source and provide a link or reference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Attribution allows readers to identify and check the source and respects its creator.",
+      "hint": "Credit the source."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-P-013",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "purpose",
+    "question": "Which purpose best matches a recommendation to council?",
+    "audio_prompt": "Which purpose best matches a recommendation to council?",
+    "answers": [
+      {
+        "text": "support a decision with evidence and trade-offs",
+        "is_correct": true
+      },
+      {
+        "text": "entertain with invented results",
+        "is_correct": false
+      },
+      {
+        "text": "hide uncertainty",
+        "is_correct": false
+      },
+      {
+        "text": "list steps only",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A labelled graph with a caption explaining the trend.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A recommendation uses evidence to justify a feasible response while recognising limits.",
+      "hint": "Decision texts justify a choice."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-014",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Why define technical words for a younger audience in a new class investigation?",
-    "audio_prompt": "Why define technical words for a younger audience in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "audience_adaptation",
+    "question": "A class report says “the dependent variable”. For younger children, which adaptation is accurate?",
+    "audio_prompt": "A class report says “the dependent variable”. For younger children, which adaptation is accurate?",
     "answers": [
       {
-        "text": "It changes the results.",
+        "text": "the answer we wanted",
         "is_correct": false
       },
       {
-        "text": "It helps readers understand without changing the science.",
+        "text": "the result we measured",
         "is_correct": true
       },
       {
-        "text": "It hides the evidence.",
+        "text": "the thing we guessed",
+        "is_correct": false
+      },
+      {
+        "text": "the equipment we changed",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It helps readers understand without changing the science.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The plain-language phrase preserves the scientific meaning.",
+      "hint": "Simplify wording, not meaning."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-015",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "A conclusion only repeats the prediction. What is missing in a new class investigation?",
-    "audio_prompt": "A conclusion only repeats the prediction. What is missing in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "audience_adaptation",
+    "question": "For scientists, which detail should remain even if a public poster omits procedural minutiae?",
+    "audio_prompt": "For scientists, which detail should remain even if a public poster omits procedural minutiae?",
     "answers": [
       {
-        "text": "A brighter background.",
+        "text": "emoji count",
         "is_correct": false
       },
       {
-        "text": "A new unrelated question.",
+        "text": "favourite colour",
         "is_correct": false
       },
       {
-        "text": "A statement linking results to evidence.",
+        "text": "measurement units and evidence source",
         "is_correct": true
+      },
+      {
+        "text": "decorative border",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A statement linking results to evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Units and sources are essential for interpreting and checking evidence.",
+      "hint": "Integrity stays constant."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-016",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Why cite or name data sources in a digital report in a new class investigation?",
-    "audio_prompt": "Why cite or name data sources in a digital report in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "report_order",
+    "question": "Which order most logically communicates a completed scientific investigation?",
+    "audio_prompt": "Which order most logically communicates a completed scientific investigation?",
     "answers": [
       {
-        "text": "So readers can judge and check the evidence.",
-        "is_correct": true
-      },
-      {
-        "text": "So the report looks longer.",
+        "text": "conclusion → title → invented data → method",
         "is_correct": false
       },
       {
-        "text": "So no explanation is needed.",
+        "text": "results → unrelated story → question",
+        "is_correct": false
+      },
+      {
+        "text": "references → prediction → no evidence",
+        "is_correct": false
+      },
+      {
+        "text": "question → method → results → conclusion",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The sequence shows what was asked, what was done, what was found and what it means.",
+      "hint": "Follow the investigation chain."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-P-017",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "method_clarity",
+    "question": "Which instruction is repeatable?",
+    "audio_prompt": "Which instruction is repeatable?",
+    "answers": [
+      {
+        "text": "Add 20 mL water to each pot at 9 am daily for seven days.",
+        "is_correct": true
+      },
+      {
+        "text": "Add some water often.",
+        "is_correct": false
+      },
+      {
+        "text": "Water carefully.",
+        "is_correct": false
+      },
+      {
+        "text": "Keep plants happy.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "So readers can judge and check the evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It gives quantity, timing, frequency and duration.",
+      "hint": "Replace vague terms."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-018",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Which slide design helps an oral presentation in a new class investigation?",
-    "audio_prompt": "Which slide design helps an oral presentation in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "results_vs_conclusion",
+    "question": "Which sentence belongs in results?",
+    "audio_prompt": "Which sentence belongs in results?",
     "answers": [
       {
-        "text": "Six paragraphs of tiny text.",
+        "text": "Use scissors safely.",
         "is_correct": false
       },
       {
-        "text": "Few key words, readable labels and spoken explanation.",
+        "text": "The mean fall time was 2.8 s.",
         "is_correct": true
       },
       {
-        "text": "Images with no connection to findings.",
+        "text": "Larger parachutes probably fell more slowly because of air resistance.",
+        "is_correct": false
+      },
+      {
+        "text": "We predict 3 s.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Few key words, readable labels and spoken explanation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Results report observations; explanations belong in discussion or conclusion.",
+      "hint": "Separate observation from interpretation."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-019",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "A report includes a graph but no explanation. What should be added in a new class investigation?",
-    "audio_prompt": "A report includes a graph but no explanation. What should be added in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "cautious_language",
+    "question": "Which claim stays within the evidence from one class test?",
+    "audio_prompt": "Which claim stays within the evidence from one class test?",
     "answers": [
       {
-        "text": "More decorative borders.",
+        "text": "The test proves all climates behave identically.",
         "is_correct": false
       },
       {
-        "text": "A different prediction only.",
+        "text": "One result is a universal law.",
         "is_correct": false
       },
       {
-        "text": "Text explaining the pattern and what it means.",
+        "text": "Under our tested conditions, the shaded trays lost less water.",
         "is_correct": true
+      },
+      {
+        "text": "Shade always prevents evaporation everywhere.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Text explaining the pattern and what it means.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The wording limits the claim to the tested conditions.",
+      "hint": "Do not generalise beyond the evidence."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-020",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Which communication choice improves accessibility in a new class investigation?",
-    "audio_prompt": "Which communication choice improves accessibility in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "limitations",
+    "question": "Why should a scientific report include a relevant limitation?",
+    "audio_prompt": "Why should a scientific report include a relevant limitation?",
     "answers": [
       {
-        "text": "Clear contrast, readable text and alt text for important images.",
-        "is_correct": true
-      },
-      {
-        "text": "Low-contrast labels.",
+        "text": "to make the report sound negative",
         "is_correct": false
       },
       {
-        "text": "Important information only in tiny images.",
+        "text": "to replace results",
+        "is_correct": false
+      },
+      {
+        "text": "to excuse invented data",
+        "is_correct": false
+      },
+      {
+        "text": "to explain how a method or evidence constraint affects confidence",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A relevant limitation helps readers judge how strongly the evidence supports the claim.",
+      "hint": "Explain an evidence boundary."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-P-021",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "graph_selection",
+    "question": "Which graph suits mean plant height for four fertiliser amounts?",
+    "audio_prompt": "Which graph suits mean plant height for four fertiliser amounts?",
+    "answers": [
+      {
+        "text": "column graph",
+        "is_correct": true
+      },
+      {
+        "text": "map",
+        "is_correct": false
+      },
+      {
+        "text": "word cloud",
+        "is_correct": false
+      },
+      {
+        "text": "unscaled drawing",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Clear contrast, readable text and alt text for important images.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A column graph compares numerical results across discrete treatment categories.",
+      "hint": "Compare categories."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-017",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-022",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "What should stay the same when explaining findings to different audiences after students review their evidence?",
-    "audio_prompt": "What should stay the same when explaining findings to different audiences after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "graph_labels",
+    "question": "Which y-axis label is complete?",
+    "audio_prompt": "Which y-axis label is complete?",
     "answers": [
       {
-        "text": "The exact vocabulary level.",
+        "text": "Plant result",
         "is_correct": false
       },
       {
-        "text": "The accuracy of the evidence and conclusion.",
+        "text": "Mean plant height (cm)",
         "is_correct": true
       },
       {
-        "text": "The font colour.",
+        "text": "Height",
+        "is_correct": false
+      },
+      {
+        "text": "Numbers",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The accuracy of the evidence and conclusion.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It names the measured quantity, summary and unit.",
+      "hint": "Label quantity and unit."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 22,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-018",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-023",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Which feature best supports a scientific finding on a poster after students review their evidence?",
-    "audio_prompt": "Which feature best supports a scientific finding on a poster after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "caption_integrity",
+    "question": "A graph ranges from 18 to 20 cm. Which caption is least misleading?",
+    "audio_prompt": "A graph ranges from 18 to 20 cm. Which caption is least misleading?",
     "answers": [
       {
-        "text": "An unrelated decoration.",
+        "text": "One group was infinitely taller.",
         "is_correct": false
       },
       {
-        "text": "A huge title with no data.",
+        "text": "The axis proves a huge effect.",
         "is_correct": false
       },
       {
-        "text": "A labelled graph with a caption explaining the trend.",
+        "text": "Groups differed by at most 2 cm; note the y-axis begins at 18 cm.",
         "is_correct": true
+      },
+      {
+        "text": "Growth exploded.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A labelled graph with a caption explaining the trend.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It reports the actual difference and discloses the truncated scale.",
+      "hint": "Describe magnitude and scale honestly."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-019",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-024",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Why define technical words for a younger audience after students review their evidence?",
-    "audio_prompt": "Why define technical words for a younger audience after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "visual_density",
+    "question": "For a family infographic, what is best?",
+    "audio_prompt": "For a family infographic, what is best?",
     "answers": [
       {
-        "text": "It helps readers understand without changing the science.",
-        "is_correct": true
-      },
-      {
-        "text": "It changes the results.",
+        "text": "six dense paragraphs in 8-point type",
         "is_correct": false
       },
       {
-        "text": "It hides the evidence.",
+        "text": "pictures without evidence",
+        "is_correct": false
+      },
+      {
+        "text": "every raw calculation",
+        "is_correct": false
+      },
+      {
+        "text": "a clear heading, short accurate points and one labelled visual",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The design reduces reading load while keeping evidence visible.",
+      "hint": "Select, organise and label."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 24,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-P-025",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "accessibility",
+    "question": "Which graph design is most accessible?",
+    "audio_prompt": "Which graph design is most accessible?",
+    "answers": [
+      {
+        "text": "distinct line styles plus labels and high contrast",
+        "is_correct": true
+      },
+      {
+        "text": "red and green lines distinguished only by colour",
+        "is_correct": false
+      },
+      {
+        "text": "tiny pale text",
+        "is_correct": false
+      },
+      {
+        "text": "no legend",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "It helps readers understand without changing the science.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Multiple visual cues help colour-blind readers and direct labels reduce ambiguity.",
+      "hint": "Do not rely on colour alone."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-020",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-026",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "A conclusion only repeats the prediction. What is missing after students review their evidence?",
-    "audio_prompt": "A conclusion only repeats the prediction. What is missing after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "digital_tools",
+    "question": "What is a valid reason to use a spreadsheet?",
+    "audio_prompt": "What is a valid reason to use a spreadsheet?",
     "answers": [
       {
-        "text": "A brighter background.",
+        "text": "choose the conclusion automatically",
         "is_correct": false
       },
       {
-        "text": "A statement linking results to evidence.",
+        "text": "calculate and graph recorded data while retaining the values",
         "is_correct": true
       },
       {
-        "text": "A new unrelated question.",
+        "text": "make weak evidence true",
+        "is_correct": false
+      },
+      {
+        "text": "remove every uncertainty",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A statement linking results to evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A spreadsheet can organise and display data, but it cannot repair evidence or decide interpretation.",
+      "hint": "Tools support, not guarantee, quality."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-021",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-027",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Why cite or name data sources in a digital report after students review their evidence?",
-    "audio_prompt": "Why cite or name data sources in a digital report after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "digital_integrity",
+    "question": "After creating a graph digitally, what must be checked?",
+    "audio_prompt": "After creating a graph digitally, what must be checked?",
     "answers": [
       {
-        "text": "So the report looks longer.",
+        "text": "number of animations",
         "is_correct": false
       },
       {
-        "text": "So no explanation is needed.",
+        "text": "font novelty",
         "is_correct": false
       },
       {
-        "text": "So readers can judge and check the evidence.",
+        "text": "data range, labels, units and scale",
         "is_correct": true
+      },
+      {
+        "text": "only background colour",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "So readers can judge and check the evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Digital defaults can select wrong data or scales, so scientific and visual checks remain necessary.",
+      "hint": "Verify the output against the data."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-022",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-028",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Which slide design helps an oral presentation after students review their evidence?",
-    "audio_prompt": "Which slide design helps an oral presentation after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "attribution",
+    "question": "Which reference is most useful?",
+    "audio_prompt": "Which reference is most useful?",
     "answers": [
       {
-        "text": "Few key words, readable labels and spoken explanation.",
+        "text": "Internet",
+        "is_correct": false
+      },
+      {
+        "text": "Google",
+        "is_correct": false
+      },
+      {
+        "text": "a website",
+        "is_correct": false
+      },
+      {
+        "text": "CSIRO, “Soil moisture”, 2025, URL, accessed 11 Sep 2026",
         "is_correct": true
-      },
-      {
-        "text": "Six paragraphs of tiny text.",
-        "is_correct": false
-      },
-      {
-        "text": "Images with no connection to findings.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Few key words, readable labels and spoken explanation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Creator, title, date and location make the source identifiable and checkable.",
+      "hint": "Give enough detail to find it."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 28,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-023",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-029",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "A report includes a graph but no explanation. What should be added after students review their evidence?",
-    "audio_prompt": "A report includes a graph but no explanation. What should be added after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "paraphrasing",
+    "question": "What should a student do when restating a source in their own words?",
+    "audio_prompt": "What should a student do when restating a source in their own words?",
     "answers": [
       {
-        "text": "More decorative borders.",
-        "is_correct": false
-      },
-      {
-        "text": "Text explaining the pattern and what it means.",
+        "text": "cite the source because the idea still came from it",
         "is_correct": true
       },
       {
-        "text": "A different prediction only.",
+        "text": "omit citation because words changed",
+        "is_correct": false
+      },
+      {
+        "text": "copy most words without quotation",
+        "is_correct": false
+      },
+      {
+        "text": "change the data",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "Text explaining the pattern and what it means.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Paraphrasing changes expression, not ownership of the underlying idea or evidence.",
+      "hint": "Ideas also require attribution."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 29,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-p-024",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-030",
     "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "communicating findings",
-    "question": "Which communication choice improves accessibility after students review their evidence?",
-    "audio_prompt": "Which communication choice improves accessibility after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "source_evaluation",
+    "question": "Which source is strongest for an Australian rainfall claim?",
+    "audio_prompt": "Which source is strongest for an Australian rainfall claim?",
     "answers": [
       {
-        "text": "Low-contrast labels.",
+        "text": "an advertisement with no data",
         "is_correct": false
       },
       {
-        "text": "Important information only in tiny images.",
-        "is_correct": false
-      },
-      {
-        "text": "Clear contrast, readable text and alt text for important images.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "Clear contrast, readable text and alt text for important images.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i06-t-001",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A different class checks the same science idea: Which communication choice improves accessibility?",
-    "audio_prompt": "A different class checks the same science idea: Which communication choice improves accessibility?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "Clear contrast, readable text and alt text for important images.",
+        "text": "Bureau of Meteorology data",
         "is_correct": true
       },
       {
-        "text": "Low-contrast labels.",
+        "text": "an anonymous meme",
         "is_correct": false
       },
       {
-        "text": "Important information only in tiny images.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "Clear contrast, readable text and alt text for important images.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i06-t-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A different class checks the same science idea: A report includes a graph but no explanation. What should be added?",
-    "audio_prompt": "A different class checks the same science idea: A report includes a graph but no explanation. What should be added?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "More decorative borders.",
-        "is_correct": false
-      },
-      {
-        "text": "Text explaining the pattern and what it means.",
-        "is_correct": true
-      },
-      {
-        "text": "A different prediction only.",
+        "text": "a fictional diary",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Text explaining the pattern and what it means.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "An authoritative agency supplies traceable methods and data relevant to the claim.",
+      "hint": "Choose relevant, accountable evidence."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 30,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-031",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A different class checks the same science idea: Which slide design helps an oral presentation?",
-    "audio_prompt": "A different class checks the same science idea: Which slide design helps an oral presentation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "purpose_and_format",
+    "question": "Students must warn classmates about UV exposure using school measurements. Best product?",
+    "audio_prompt": "Students must warn classmates about UV exposure using school measurements. Best product?",
     "answers": [
       {
-        "text": "Six paragraphs of tiny text.",
+        "text": "an uncaptioned sun photo",
         "is_correct": false
       },
       {
-        "text": "Images with no connection to findings.",
+        "text": "a joke without evidence",
         "is_correct": false
       },
       {
-        "text": "Few key words, readable labels and spoken explanation.",
+        "text": "a concise safety poster with UV data, action advice and source",
         "is_correct": true
+      },
+      {
+        "text": "a full lab notebook on every wall",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Few key words, readable labels and spoken explanation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A poster suits quick action, while data and attribution preserve integrity.",
+      "hint": "Fit format to context and purpose."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-032",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A different class checks the same science idea: Why cite or name data sources in a digital report?",
-    "audio_prompt": "A different class checks the same science idea: Why cite or name data sources in a digital report?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "two_audiences",
+    "question": "Which pair accurately adapts the same result?",
+    "audio_prompt": "Which pair accurately adapts the same result?",
     "answers": [
       {
-        "text": "So readers can judge and check the evidence.",
-        "is_correct": true
-      },
-      {
-        "text": "So the report looks longer.",
+        "text": "Peers: “3.2 °C”; families: “it froze solid”",
         "is_correct": false
       },
       {
-        "text": "So no explanation is needed.",
+        "text": "Peers: exact data; families: invented data",
+        "is_correct": false
+      },
+      {
+        "text": "Both: no units",
+        "is_correct": false
+      },
+      {
+        "text": "Peers: “mean fell 3.2 °C”; families: “it cooled by about 3 °C on average”",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "“Mean fell 3.2 °C” and “cooled by about 3 °C on average” preserve the same finding while adapting detail for each audience.",
+      "hint": "Meaning must remain stable."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-P-033",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "irrelevant_detail",
+    "question": "A two-minute community talk recommends shade trees. Which detail is least necessary?",
+    "audio_prompt": "A two-minute community talk recommends shade trees. Which detail is least necessary?",
+    "answers": [
+      {
+        "text": "the presenter’s favourite tree name",
+        "is_correct": true
+      },
+      {
+        "text": "local temperature evidence",
+        "is_correct": false
+      },
+      {
+        "text": "a feasible recommendation",
+        "is_correct": false
+      },
+      {
+        "text": "one limitation",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "So readers can judge and check the evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Personal preference does not support the scientific recommendation.",
+      "hint": "Keep details that serve purpose and audience."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-034",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A different class checks the same science idea: A conclusion only repeats the prediction. What is missing?",
-    "audio_prompt": "A different class checks the same science idea: A conclusion only repeats the prediction. What is missing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "method_repair",
+    "question": "Repair “We tested evaporation normally.”",
+    "audio_prompt": "Repair “We tested evaporation normally.”",
     "answers": [
       {
-        "text": "A brighter background.",
+        "text": "The method was normal.",
         "is_correct": false
       },
       {
-        "text": "A statement linking results to evidence.",
+        "text": "We placed 50 mL in identical dishes for 30 minutes and measured mass loss in grams.",
         "is_correct": true
       },
       {
-        "text": "A new unrelated question.",
+        "text": "We did it well.",
+        "is_correct": false
+      },
+      {
+        "text": "We observed water somehow.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A statement linking results to evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The repair states quantity, setup, duration, measured outcome and unit.",
+      "hint": "Operationalise actions."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-035",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A different class checks the same science idea: Why define technical words for a younger audience?",
-    "audio_prompt": "A different class checks the same science idea: Why define technical words for a younger audience?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "graph_critique",
+    "question": "A graph of mass loss has no units. What is the main problem?",
+    "audio_prompt": "A graph of mass loss has no units. What is the main problem?",
     "answers": [
       {
-        "text": "It changes the results.",
+        "text": "the title is too scientific",
         "is_correct": false
       },
       {
-        "text": "It hides the evidence.",
+        "text": "the bars are rectangular",
         "is_correct": false
       },
       {
-        "text": "It helps readers understand without changing the science.",
+        "text": "readers cannot interpret the numerical magnitude",
         "is_correct": true
+      },
+      {
+        "text": "the colours are boring",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "It helps readers understand without changing the science.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Without units, values lack defined measurement meaning.",
+      "hint": "Ask what the numbers represent."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-036",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A different class checks the same science idea: Which feature best supports a scientific finding on a poster?",
-    "audio_prompt": "A different class checks the same science idea: Which feature best supports a scientific finding on a poster?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "caption_critique",
+    "question": "Caption: “Plants love blue light.” What is the best revision?",
+    "audio_prompt": "Caption: “Plants love blue light.” What is the best revision?",
     "answers": [
       {
-        "text": "A labelled graph with a caption explaining the trend.",
-        "is_correct": true
-      },
-      {
-        "text": "An unrelated decoration.",
+        "text": "Blue wins!",
         "is_correct": false
       },
       {
-        "text": "A huge title with no data.",
+        "text": "Plants always prefer blue.",
+        "is_correct": false
+      },
+      {
+        "text": "The graph is pretty.",
+        "is_correct": false
+      },
+      {
+        "text": "In this 14-day test, the blue-light group had 6 mm greater mean growth than the red-light group.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The revision replaces anthropomorphism and overclaiming with scoped quantitative evidence.",
+      "hint": "State result, context and magnitude."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-P-037",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "claim_limitation",
+    "question": "Only two temperature readings were collected. Which conclusion is responsible?",
+    "audio_prompt": "Only two temperature readings were collected. Which conclusion is responsible?",
+    "answers": [
+      {
+        "text": "The two readings suggest cooling, but more measurements are needed to describe the pattern.",
+        "is_correct": true
+      },
+      {
+        "text": "Cooling is proven for all objects.",
+        "is_correct": false
+      },
+      {
+        "text": "The missing readings can be guessed.",
+        "is_correct": false
+      },
+      {
+        "text": "Limitations never matter.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A labelled graph with a caption explaining the trend.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It reports the observed direction while acknowledging insufficient detail.",
+      "hint": "Match confidence to evidence."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-038",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A different class checks the same science idea: What should stay the same when explaining findings to different audiences?",
-    "audio_prompt": "A different class checks the same science idea: What should stay the same when explaining findings to different audiences?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "accessibility",
+    "question": "A video explains a circuit. Which addition most improves access?",
+    "audio_prompt": "A video explains a circuit. Which addition most improves access?",
     "answers": [
       {
-        "text": "The exact vocabulary level.",
+        "text": "colour-only instructions",
         "is_correct": false
       },
       {
-        "text": "The accuracy of the evidence and conclusion.",
+        "text": "accurate captions and a transcript",
         "is_correct": true
       },
       {
-        "text": "The font colour.",
+        "text": "faster flashing text",
+        "is_correct": false
+      },
+      {
+        "text": "music over speech",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The accuracy of the evidence and conclusion.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Captions and transcripts support readers with hearing, language or playback constraints.",
+      "hint": "Provide an equivalent form."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-039",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A follow-up test asks: Which communication choice improves accessibility?",
-    "audio_prompt": "A follow-up test asks: Which communication choice improves accessibility?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "alt_text",
+    "question": "Which alt text best describes a graph?",
+    "audio_prompt": "Which alt text best describes a graph?",
     "answers": [
       {
-        "text": "Low-contrast labels.",
+        "text": "blue picture",
         "is_correct": false
       },
       {
-        "text": "Important information only in tiny images.",
+        "text": "see above",
         "is_correct": false
       },
       {
-        "text": "Clear contrast, readable text and alt text for important images.",
+        "text": "Line graph: water temperature falls from 65 °C at 0 min to 41 °C at 10 min.",
         "is_correct": true
+      },
+      {
+        "text": "graph",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Clear contrast, readable text and alt text for important images.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It gives the visual type, variables, units and main pattern concisely.",
+      "hint": "Describe content, not decoration."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-040",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A follow-up test asks: A report includes a graph but no explanation. What should be added?",
-    "audio_prompt": "A follow-up test asks: A report includes a graph but no explanation. What should be added?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "data_ethics",
+    "question": "A spreadsheet result conflicts with raw measurements. What should happen?",
+    "audio_prompt": "A spreadsheet result conflicts with raw measurements. What should happen?",
     "answers": [
       {
-        "text": "Text explaining the pattern and what it means.",
-        "is_correct": true
-      },
-      {
-        "text": "More decorative borders.",
+        "text": "delete the raw data",
         "is_correct": false
       },
       {
-        "text": "A different prediction only.",
+        "text": "choose the nicer answer",
+        "is_correct": false
+      },
+      {
+        "text": "hide the conflict",
+        "is_correct": false
+      },
+      {
+        "text": "check formula, cell range and transcription before reporting",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The digital process must be audited against source evidence.",
+      "hint": "Trace output back to inputs."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-P-041",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "image_attribution",
+    "question": "A licence allows reuse with credit. Which action complies?",
+    "audio_prompt": "A licence allows reuse with credit. Which action complies?",
+    "answers": [
+      {
+        "text": "include creator, title, source and licence",
+        "is_correct": true
+      },
+      {
+        "text": "crop out attribution",
+        "is_correct": false
+      },
+      {
+        "text": "claim authorship",
+        "is_correct": false
+      },
+      {
+        "text": "share without conditions",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Text explaining the pattern and what it means.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Credit and licence details meet the stated reuse condition and help readers trace the work.",
+      "hint": "Follow licence terms."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 41,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-042",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A follow-up test asks: Which slide design helps an oral presentation?",
-    "audio_prompt": "A follow-up test asks: Which slide design helps an oral presentation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "community_recommendation",
+    "question": "Which statement best supports a wetland recommendation?",
+    "audio_prompt": "Which statement best supports a wetland recommendation?",
     "answers": [
       {
-        "text": "Six paragraphs of tiny text.",
+        "text": "No evidence is needed.",
         "is_correct": false
       },
       {
-        "text": "Few key words, readable labels and spoken explanation.",
+        "text": "Monthly counts fell from 42 to 25 frogs; protect breeding edges while acknowledging seasonal counts are limited.",
         "is_correct": true
       },
       {
-        "text": "Images with no connection to findings.",
+        "text": "Frogs are cute, so agree.",
+        "is_correct": false
+      },
+      {
+        "text": "Science guarantees this is the only choice.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Few key words, readable labels and spoken explanation.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It combines evidence, action and an honest limitation.",
+      "hint": "Use data and qualify the recommendation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 42,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-043",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A follow-up test asks: Why cite or name data sources in a digital report?",
-    "audio_prompt": "A follow-up test asks: Why cite or name data sources in a digital report?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "technical_language",
+    "question": "When is a technical term useful?",
+    "audio_prompt": "When is a technical term useful?",
     "answers": [
       {
-        "text": "So the report looks longer.",
+        "text": "when it replaces evidence",
         "is_correct": false
       },
       {
-        "text": "So no explanation is needed.",
+        "text": "only in titles",
         "is_correct": false
       },
       {
-        "text": "So readers can judge and check the evidence.",
+        "text": "when it expresses an idea precisely and is defined for the audience if needed",
         "is_correct": true
+      },
+      {
+        "text": "whenever it sounds advanced",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "So readers can judge and check the evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Terminology serves clarity and precision, not status.",
+      "hint": "Ask whether the term helps meaning."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 43,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-044",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A follow-up test asks: A conclusion only repeats the prediction. What is missing?",
-    "audio_prompt": "A follow-up test asks: A conclusion only repeats the prediction. What is missing?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "misleading_scale",
+    "question": "Bars of 99 and 100 start at 98, making one appear twice as tall. Best response?",
+    "audio_prompt": "Bars of 99 and 100 start at 98, making one appear twice as tall. Best response?",
     "answers": [
       {
-        "text": "A statement linking results to evidence.",
-        "is_correct": true
-      },
-      {
-        "text": "A brighter background.",
+        "text": "keep it because dramatic graphs persuade",
         "is_correct": false
       },
       {
-        "text": "A new unrelated question.",
+        "text": "remove axis numbers",
+        "is_correct": false
+      },
+      {
+        "text": "call it a 100% increase",
+        "is_correct": false
+      },
+      {
+        "text": "show a scale appropriate to the message and state the 1-unit difference",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The display should not visually exaggerate a small absolute difference.",
+      "hint": "Check proportional visual impression."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-P-045",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "integrated_communication",
+    "question": "Which report ending is strongest?",
+    "audio_prompt": "Which report ending is strongest?",
+    "answers": [
+      {
+        "text": "The treated group averaged 12.4 cm versus 10.1 cm; this supports an effect under our conditions, though one-week duration limits generalisation.",
+        "is_correct": true
+      },
+      {
+        "text": "Treatment always works.",
+        "is_correct": false
+      },
+      {
+        "text": "We were correct.",
+        "is_correct": false
+      },
+      {
+        "text": "The graph proves everything.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A statement linking results to evidence.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It provides comparative evidence, a scoped inference and a relevant limitation.",
+      "hint": "Claim + evidence + boundary."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 45,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-046",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A follow-up test asks: Why define technical words for a younger audience?",
-    "audio_prompt": "A follow-up test asks: Why define technical words for a younger audience?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "multimodal_design",
+    "question": "A digital presentation includes narration, graph and text. What avoids unnecessary duplication?",
+    "audio_prompt": "A digital presentation includes narration, graph and text. What avoids unnecessary duplication?",
     "answers": [
       {
-        "text": "It changes the results.",
+        "text": "add unrelated animations",
         "is_correct": false
       },
       {
-        "text": "It helps readers understand without changing the science.",
+        "text": "use narration to explain the clearly labelled graph and keep on-screen text concise",
         "is_correct": true
       },
       {
-        "text": "It hides the evidence.",
+        "text": "read every dense paragraph verbatim",
+        "is_correct": false
+      },
+      {
+        "text": "hide graph labels",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "It helps readers understand without changing the science.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Complementary modes reduce overload while preserving essential evidence on screen.",
+      "hint": "Each mode should have a purpose."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-047",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A follow-up test asks: Which feature best supports a scientific finding on a poster?",
-    "audio_prompt": "A follow-up test asks: Which feature best supports a scientific finding on a poster?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "integrity",
+    "question": "What may change when adapting a scientific report for children?",
+    "audio_prompt": "What may change when adapting a scientific report for children?",
     "answers": [
       {
-        "text": "An unrelated decoration.",
+        "text": "the source of evidence",
         "is_correct": false
       },
       {
-        "text": "A huge title with no data.",
+        "text": "whether uncertainty existed",
         "is_correct": false
       },
       {
-        "text": "A labelled graph with a caption explaining the trend.",
+        "text": "word choice, examples and amount of procedural detail",
         "is_correct": true
+      },
+      {
+        "text": "measured results and units to make a better story",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A labelled graph with a caption explaining the trend.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Communication choices can change, but scientific facts, evidence and attribution must remain accurate.",
+      "hint": "Adapt presentation, not truth."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i06-t-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I06-P-048",
     "curriculum_code": "AC9S6I06",
-    "bank": "test",
-    "skill": "communicating findings",
-    "question": "A follow-up test asks: What should stay the same when explaining findings to different audiences?",
-    "audio_prompt": "A follow-up test asks: What should stay the same when explaining findings to different audiences?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "review",
+    "question": "Before publishing, which checklist is strongest?",
+    "audio_prompt": "Before publishing, which checklist is strongest?",
     "answers": [
       {
-        "text": "The accuracy of the evidence and conclusion.",
-        "is_correct": true
-      },
-      {
-        "text": "The exact vocabulary level.",
+        "text": "bright colours only",
         "is_correct": false
       },
       {
-        "text": "The font colour.",
+        "text": "spellcheck only",
+        "is_correct": false
+      },
+      {
+        "text": "many technical words",
+        "is_correct": false
+      },
+      {
+        "text": "purpose and audience clear; evidence accurate; units, labels, captions, limitations, accessibility and sources checked",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The complete check covers scientific integrity, communication effectiveness and inclusive access.",
+      "hint": "Review both science and design."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-001",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "purpose",
+    "question": "A ranger wants visitors to follow a new track rule supported by erosion data. Best text?",
+    "audio_prompt": "A ranger wants visitors to follow a new track rule supported by erosion data. Best text?",
+    "answers": [
+      {
+        "text": "a brief sign with the rule, evidence reason and clear action",
+        "is_correct": true
+      },
+      {
+        "text": "a raw notebook only",
+        "is_correct": false
+      },
+      {
+        "text": "an untitled spreadsheet",
+        "is_correct": false
+      },
+      {
+        "text": "a fictional ending",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The accuracy of the evidence and conclusion.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A concise public sign matches immediate decision and action while giving an evidence-based reason.",
+      "hint": "Fit purpose and setting."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-002",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "audience",
+    "question": "Which sentence best explains insulation to Year 3 students?",
+    "audio_prompt": "Which sentence best explains insulation to Year 3 students?",
+    "answers": [
+      {
+        "text": "It is magic wrapping.",
+        "is_correct": false
+      },
+      {
+        "text": "Insulation slows heat transfer, helping warm things stay warm longer.",
+        "is_correct": true
+      },
+      {
+        "text": "Thermal conductivity coefficients mediate flux.",
+        "is_correct": false
+      },
+      {
+        "text": "Insulation creates heat forever.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It is accessible and scientifically accurate without unnecessary jargon.",
+      "hint": "Simplify accurately."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-003",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "structure",
+    "question": "Where should a reader find whether results supported the prediction?",
+    "audio_prompt": "Where should a reader find whether results supported the prediction?",
+    "answers": [
+      {
+        "text": "title",
+        "is_correct": false
+      },
+      {
+        "text": "reference date",
+        "is_correct": false
+      },
+      {
+        "text": "conclusion",
+        "is_correct": true
+      },
+      {
+        "text": "equipment list",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The conclusion interprets results in relation to the question or prediction.",
+      "hint": "Find interpretation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-004",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "method",
+    "question": "Which method detail is essential for repeating a sound-level test?",
+    "audio_prompt": "Which method detail is essential for repeating a sound-level test?",
+    "answers": [
+      {
+        "text": "presenter’s opinion",
+        "is_correct": false
+      },
+      {
+        "text": "poster colour",
+        "is_correct": false
+      },
+      {
+        "text": "conclusion wording",
+        "is_correct": false
+      },
+      {
+        "text": "distance from meter to source",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Sound level varies with distance, so its measurement setup must be specified.",
+      "hint": "Include influential setup details."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-005",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "results",
+    "question": "Which statement reports rather than explains?",
+    "audio_prompt": "Which statement reports rather than explains?",
+    "answers": [
+      {
+        "text": "The shaded cup lost 6 g of water.",
+        "is_correct": true
+      },
+      {
+        "text": "Shade reduced heating, which may have slowed evaporation.",
+        "is_correct": false
+      },
+      {
+        "text": "We recommend shade.",
+        "is_correct": false
+      },
+      {
+        "text": "Our prediction was sensible.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "It states a measured observation without causal interpretation.",
+      "hint": "Results first, explanation later."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-006",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "conclusion",
+    "question": "Data are 8.1, 8.0 and 8.2 s for A; 6.0, 6.2 and 6.1 s for B. Best conclusion?",
+    "audio_prompt": "Data are 8.1, 8.0 and 8.2 s for A; 6.0, 6.2 and 6.1 s for B. Best conclusion?",
+    "answers": [
+      {
+        "text": "Times have no units.",
+        "is_correct": false
+      },
+      {
+        "text": "B had a lower mean time (6.1 s) than A (8.1 s) in these trials.",
+        "is_correct": true
+      },
+      {
+        "text": "B is always fastest everywhere.",
+        "is_correct": false
+      },
+      {
+        "text": "A and B were identical.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "It accurately compares means and scopes the statement to collected evidence.",
+      "hint": "Calculate and qualify."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-007",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "graphs",
+    "question": "A report compares counts in five habitats. Best display?",
+    "audio_prompt": "A report compares counts in five habitats. Best display?",
+    "answers": [
+      {
+        "text": "pie chart without totals",
+        "is_correct": false
+      },
+      {
+        "text": "decorative map only",
+        "is_correct": false
+      },
+      {
+        "text": "column graph with habitat categories and count axis",
+        "is_correct": true
+      },
+      {
+        "text": "line graph implying continuous habitat order",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Columns compare discrete categories without implying continuous change.",
+      "hint": "Categories suit columns."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-008",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "caption",
+    "question": "A figure shows three trials, not means. Which caption is accurate?",
+    "audio_prompt": "A figure shows three trials, not means. Which caption is accurate?",
+    "answers": [
+      {
+        "text": "Figure 2. Proven average fall time.",
+        "is_correct": false
+      },
+      {
+        "text": "Big parachutes always win.",
+        "is_correct": false
+      },
+      {
+        "text": "Results.",
+        "is_correct": false
+      },
+      {
+        "text": "Figure 2. Fall times for each of three trials at each parachute size.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "It accurately identifies what the figure contains without inventing averaging or certainty.",
+      "hint": "Describe exactly what is shown."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-009",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "misleading_visual",
+    "question": "A pictograph uses one leaf for 10 plants, but half-leaf symbols are unexplained. Best repair?",
+    "audio_prompt": "A pictograph uses one leaf for 10 plants, but half-leaf symbols are unexplained. Best repair?",
+    "answers": [
+      {
+        "text": "add a key including the half-symbol value",
+        "is_correct": true
+      },
+      {
+        "text": "use more colours",
+        "is_correct": false
+      },
+      {
+        "text": "remove all numbers",
+        "is_correct": false
+      },
+      {
+        "text": "enlarge the title",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "A complete key lets readers decode quantities accurately.",
+      "hint": "Explain every symbol."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-010",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "accessibility",
+    "question": "A heat map relies on red–green colour differences. Best improvement?",
+    "audio_prompt": "A heat map relies on red–green colour differences. Best improvement?",
+    "answers": [
+      {
+        "text": "animate faster",
+        "is_correct": false
+      },
+      {
+        "text": "add patterns or values and a clear legend",
+        "is_correct": true
+      },
+      {
+        "text": "make colours paler",
+        "is_correct": false
+      },
+      {
+        "text": "remove labels",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Redundant cues make the data readable without colour discrimination.",
+      "hint": "Do not encode meaning by colour alone."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-011",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "digital_tools",
+    "question": "An app automatically chooses a 3D pie chart. What should the author do?",
+    "audio_prompt": "An app automatically chooses a 3D pie chart. What should the author do?",
+    "answers": [
+      {
+        "text": "hide the underlying data",
+        "is_correct": false
+      },
+      {
+        "text": "increase perspective",
+        "is_correct": false
+      },
+      {
+        "text": "replace it if distortion makes comparison difficult",
+        "is_correct": true
+      },
+      {
+        "text": "accept every default",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Tool defaults require human evaluation for accurate, readable representation.",
+      "hint": "Digital does not mean clear."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-012",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "attribution",
+    "question": "A student modifies an open-licensed diagram. What should the credit indicate?",
+    "audio_prompt": "A student modifies an open-licensed diagram. What should the credit indicate?",
+    "answers": [
+      {
+        "text": "only the student’s name",
+        "is_correct": false
+      },
+      {
+        "text": "no credit after modification",
+        "is_correct": false
+      },
+      {
+        "text": "search engine name",
+        "is_correct": false
+      },
+      {
+        "text": "original creator/source, licence and that it was adapted",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Adaptation does not erase the original creator or licence conditions.",
+      "hint": "Credit origin and changes."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-013",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "two_audiences",
+    "question": "Which pair preserves one finding for two audiences?",
+    "audio_prompt": "Which pair preserves one finding for two audiences?",
+    "answers": [
+      {
+        "text": "Report: “mean decreased 4.6 °C”; announcement: “the average fell by about 5 °C”",
+        "is_correct": true
+      },
+      {
+        "text": "Report: “4.6 °C”; announcement: “it doubled”",
+        "is_correct": false
+      },
+      {
+        "text": "Report gives data; announcement reverses it",
+        "is_correct": false
+      },
+      {
+        "text": "both omit the measured quantity",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Rounding suits the public announcement while preserving direction and approximate magnitude.",
+      "hint": "Adapt precision honestly."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-014",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "limitation",
+    "question": "A survey includes only one school. Which limitation is most relevant?",
+    "audio_prompt": "A survey includes only one school. Which limitation is most relevant?",
+    "answers": [
+      {
+        "text": "the title was short",
+        "is_correct": false
+      },
+      {
+        "text": "results may not represent students in other schools",
+        "is_correct": true
+      },
+      {
+        "text": "the font was blue",
+        "is_correct": false
+      },
+      {
+        "text": "tables had lines",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "The sampling boundary affects generalisation beyond the studied school.",
+      "hint": "Connect limitation to inference."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-015",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "recommendation",
+    "question": "Which recommendation appropriately combines science and uncertainty?",
+    "audio_prompt": "Which recommendation appropriately combines science and uncertainty?",
+    "answers": [
+      {
+        "text": "It removes every pollutant forever.",
+        "is_correct": false
+      },
+      {
+        "text": "Uncertainty means no decision is possible.",
+        "is_correct": false
+      },
+      {
+        "text": "Trial the filter because it removed 78% of particles in our test, then monitor performance in real water.",
+        "is_correct": true
+      },
+      {
+        "text": "Buy it because one student likes it.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "It uses measured evidence for a proportionate next step and addresses transfer uncertainty.",
+      "hint": "Evidence can support a monitored action."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I06-T-016",
+    "curriculum_code": "AC9S6I06",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "integrated_review",
+    "question": "A family infographic is simple and colourful but omits units, sources and alt text. Best judgement?",
+    "audio_prompt": "A family infographic is simple and colourful but omits units, sources and alt text. Best judgement?",
+    "answers": [
+      {
+        "text": "it is complete because it is colourful",
+        "is_correct": false
+      },
+      {
+        "text": "units matter only to scientists",
+        "is_correct": false
+      },
+      {
+        "text": "digital texts need no sources",
+        "is_correct": false
+      },
+      {
+        "text": "audience-friendly design does not compensate for missing accuracy, traceability and accessibility",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Effective adaptation must retain scientific integrity and provide inclusive access.",
+      "hint": "Check what must remain constant."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
   }
 ]

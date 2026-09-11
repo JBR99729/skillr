@@ -1,1322 +1,2434 @@
 [
   {
-    "id": "ac9s6i04-p-001",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-001",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Which representation best shows temperature change over time?",
-    "audio_prompt": "Which representation best shows temperature change over time?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "representation_choice",
+    "question": "Which representation best preserves the exact temperatures measured at 9 am, noon and 3 pm?",
+    "audio_prompt": "Which representation best preserves the exact temperatures measured at 9 am, noon and 3 pm?",
     "answers": [
       {
-        "text": "A line graph.",
+        "text": "unlabelled sketch",
+        "is_correct": false
+      },
+      {
+        "text": "physical model",
+        "is_correct": false
+      },
+      {
+        "text": "decorative poster",
+        "is_correct": false
+      },
+      {
+        "text": "labelled data table",
         "is_correct": true
-      },
-      {
-        "text": "An unordered pie chart.",
-        "is_correct": false
-      },
-      {
-        "text": "A labelled photo only.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "A line graph.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A table organises exact values so each measurement can be retrieved.",
+      "hint": "Which format keeps every number?"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-002",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-002",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Why should graph axes use even intervals?",
-    "audio_prompt": "Why should graph axes use even intervals?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "representation_choice",
+    "question": "Which graph best compares the number of insects found in four habitat categories?",
+    "audio_prompt": "Which graph best compares the number of insects found in four habitat categories?",
     "answers": [
       {
-        "text": "So the graph looks taller.",
+        "text": "line graph",
         "is_correct": false
       },
       {
-        "text": "So the pattern is not visually distorted.",
+        "text": "column graph",
         "is_correct": true
       },
       {
-        "text": "So labels can be skipped.",
+        "text": "solar-system model",
+        "is_correct": false
+      },
+      {
+        "text": "flow diagram",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "So the pattern is not visually distorted.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A column graph clearly compares amounts across separate categories.",
+      "hint": "The habitats are categories, not continuous time."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-003",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
-    "audio_prompt": "A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "representation_choice",
+    "question": "Which graph best shows water temperature recorded every minute for 12 minutes?",
+    "audio_prompt": "Which graph best shows water temperature recorded every minute for 12 minutes?",
     "answers": [
       {
-        "text": "Which student wrote fastest.",
+        "text": "pie chart",
         "is_correct": false
       },
       {
-        "text": "Whether the lamp has a nice colour.",
+        "text": "column graph of colours",
         "is_correct": false
       },
       {
-        "text": "Whether temperature rise changes as distance changes.",
+        "text": "line graph",
         "is_correct": true
+      },
+      {
+        "text": "labelled anatomy model",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Whether temperature rise changes as distance changes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A line graph shows change across ordered, continuous time.",
+      "hint": "Time progresses continuously."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-004",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "When is a model useful?",
-    "audio_prompt": "When is a model useful?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "models",
+    "question": "Which representation best shows how the Sun, Earth and Moon are positioned relative to one another?",
+    "audio_prompt": "Which representation best shows how the Sun, Earth and Moon are positioned relative to one another?",
     "answers": [
       {
-        "text": "When it simplifies a system so parts and relationships can be examined.",
-        "is_correct": true
-      },
-      {
-        "text": "When it replaces all real evidence.",
+        "text": "list of temperatures",
         "is_correct": false
       },
       {
-        "text": "When it hides limitations.",
+        "text": "column graph",
+        "is_correct": false
+      },
+      {
+        "text": "results table",
+        "is_correct": false
+      },
+      {
+        "text": "labelled visual or physical model",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A labelled model can show spatial relationships among the bodies.",
+      "hint": "Choose a representation of structure and position."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-005",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "tables",
+    "question": "Which table heading is complete?",
+    "audio_prompt": "Which table heading is complete?",
+    "answers": [
+      {
+        "text": "Water temperature (°C)",
+        "is_correct": true
+      },
+      {
+        "text": "Warm water",
+        "is_correct": false
+      },
+      {
+        "text": "Result",
+        "is_correct": false
+      },
+      {
+        "text": "Numbers",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "When it simplifies a system so parts and relationships can be examined.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "It names the measured quantity and includes its unit.",
+      "hint": "A heading should state quantity and unit."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-006",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "What should a conclusion about a trend include?",
-    "audio_prompt": "What should a conclusion about a trend include?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "axes",
+    "question": "A graph shows plant height measured each week. What belongs on the horizontal axis?",
+    "audio_prompt": "A graph shows plant height measured each week. What belongs on the horizontal axis?",
     "answers": [
       {
-        "text": "A claim that the pattern proves everything.",
+        "text": "plant height (cm)",
         "is_correct": false
       },
       {
-        "text": "The pattern plus evidence and any limits.",
+        "text": "time (weeks)",
         "is_correct": true
       },
       {
-        "text": "The prettiest graph colour.",
+        "text": "student name",
+        "is_correct": false
+      },
+      {
+        "text": "graph title",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "The pattern plus evidence and any limits.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Time is the ordered independent variable and belongs on the horizontal axis.",
+      "hint": "What progresses from week to week?"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-007",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Why keep raw data when showing a mean?",
-    "audio_prompt": "Why keep raw data when showing a mean?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "axes",
+    "question": "On that graph, what belongs on the vertical axis?",
+    "audio_prompt": "On that graph, what belongs on the vertical axis?",
     "answers": [
       {
-        "text": "Raw data makes the mean invalid.",
+        "text": "time (weeks)",
         "is_correct": false
       },
       {
-        "text": "Raw data is only decoration.",
+        "text": "pot colour",
         "is_correct": false
       },
       {
-        "text": "Others can check variation and how the mean was made.",
+        "text": "plant height (cm)",
         "is_correct": true
+      },
+      {
+        "text": "week labels only",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Others can check variation and how the mean was made.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Plant height is the measured outcome and belongs on the vertical axis with units.",
+      "hint": "Which value was measured?"
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-008",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Which graph choice best compares categories?",
-    "audio_prompt": "Which graph choice best compares categories?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "titles",
+    "question": "Which is the most descriptive graph title?",
+    "audio_prompt": "Which is the most descriptive graph title?",
     "answers": [
       {
-        "text": "A column graph.",
-        "is_correct": true
-      },
-      {
-        "text": "A line graph with no order.",
+        "text": "Graph",
         "is_correct": false
       },
       {
-        "text": "A paragraph with no numbers.",
+        "text": "Our work",
+        "is_correct": false
+      },
+      {
+        "text": "Science results",
+        "is_correct": false
+      },
+      {
+        "text": "Water temperature during 15 minutes of cooling",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The title states the measured quantity and the investigation period.",
+      "hint": "Name what was measured and when."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-009",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "table_organisation",
+    "question": "Seed germination counts at 10°C, 20°C and 30°C are 3, 8 and 5. Which first row is correct?",
+    "audio_prompt": "Seed germination counts at 10°C, 20°C and 30°C are 3, 8 and 5. Which first row is correct?",
+    "answers": [
+      {
+        "text": "10°C | 3 seeds",
+        "is_correct": true
+      },
+      {
+        "text": "3°C | 10 seeds",
+        "is_correct": false
+      },
+      {
+        "text": "10 seeds | 3°C",
+        "is_correct": false
+      },
+      {
+        "text": "temperature | nice",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A column graph.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The row correctly pairs the 10°C condition with its observed count of 3.",
+      "hint": "Keep each condition beside its result."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-010",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "A physical model of Earth and Sun is used. What should students state?",
-    "audio_prompt": "A physical model of Earth and Sun is used. What should students state?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "scales",
+    "question": "A vertical axis must show values from 0 to 50. Which scale is even?",
+    "audio_prompt": "A vertical axis must show values from 0 to 50. Which scale is even?",
     "answers": [
       {
-        "text": "That the model is the real solar system.",
-        "is_correct": false
-      },
-      {
-        "text": "What the model shows well and what it does not show to scale.",
+        "text": "0, 10, 20, 30, 40, 50",
         "is_correct": true
       },
       {
-        "text": "That models never have limits.",
+        "text": "0, 5, 20, 25, 50",
+        "is_correct": false
+      },
+      {
+        "text": "0, 10, 15, 35, 50",
+        "is_correct": false
+      },
+      {
+        "text": "0, 1, 2, 40, 50",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Equal spaces represent equal increases of 10, so comparisons are not distorted.",
+      "hint": "Check that every interval increases by the same amount."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-011",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "foundation",
+    "skill": "plotting",
+    "question": "A point represents 4 minutes and 28°C. Where should it be plotted?",
+    "audio_prompt": "A point represents 4 minutes and 28°C. Where should it be plotted?",
+    "answers": [
+      {
+        "text": "x = 28, y = 4",
+        "is_correct": false
+      },
+      {
+        "text": "x = 4, y = 28",
+        "is_correct": true
+      },
+      {
+        "text": "x = 32, y = 0",
+        "is_correct": false
+      },
+      {
+        "text": "on the title",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "What the model shows well and what it does not show to scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Time is on the horizontal axis and temperature on the vertical axis, so the coordinate is (4, 28).",
+      "hint": "Read horizontal first, then vertical."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-012",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Which representation best shows temperature change over time in a new class investigation?",
-    "audio_prompt": "Which representation best shows temperature change over time in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "foundation",
+    "skill": "patterns",
+    "question": "Leaf counts over four weeks are 3, 5, 7 and 9. Which description is accurate?",
+    "audio_prompt": "Leaf counts over four weeks are 3, 5, 7 and 9. Which description is accurate?",
     "answers": [
       {
-        "text": "An unordered pie chart.",
+        "text": "They fall by 2 each week.",
         "is_correct": false
       },
       {
-        "text": "A labelled photo only.",
+        "text": "They are random.",
         "is_correct": false
       },
       {
-        "text": "A line graph.",
+        "text": "They increase by 2 each week.",
         "is_correct": true
+      },
+      {
+        "text": "They prove fertiliser caused growth.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A line graph.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The recorded pattern is a regular increase of two leaves per week; no cause is established by the sequence alone.",
+      "hint": "Compare each value with the one before it."
+    },
+    "difficulty": 1,
+    "difficulty_tier": "foundation",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-013",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Why should graph axes use even intervals in a new class investigation?",
-    "audio_prompt": "Why should graph axes use even intervals in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "trends",
+    "question": "Cooling-water temperatures are 72, 61, 53, 47 and 44°C. What is the overall trend?",
+    "audio_prompt": "Cooling-water temperatures are 72, 61, 53, 47 and 44°C. What is the overall trend?",
     "answers": [
       {
-        "text": "So the pattern is not visually distorted.",
-        "is_correct": true
-      },
-      {
-        "text": "So the graph looks taller.",
+        "text": "Temperature increases.",
         "is_correct": false
       },
       {
-        "text": "So labels can be skipped.",
+        "text": "Temperature stays constant.",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature alternates exactly.",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature decreases, with smaller drops later.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The values decrease throughout, and the size of each decrease becomes smaller.",
+      "hint": "Describe direction and any change in rate."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-014",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "relationships",
+    "question": "At speeds of 2, 4 and 6 m/s, a cart has kinetic-energy values of 8, 32 and 72 J. What relationship is visible?",
+    "audio_prompt": "At speeds of 2, 4 and 6 m/s, a cart has kinetic-energy values of 8, 32 and 72 J. What relationship is visible?",
+    "answers": [
+      {
+        "text": "Higher speed is paired with higher kinetic energy.",
+        "is_correct": true
+      },
+      {
+        "text": "Higher speed is paired with lower kinetic energy.",
+        "is_correct": false
+      },
+      {
+        "text": "Energy is unchanged.",
+        "is_correct": false
+      },
+      {
+        "text": "The table proves speed is the only possible cause in every situation.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "So the pattern is not visually distorted.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Within these data, greater speed is associated with greater kinetic energy. The representation alone does not establish all causal conditions.",
+      "hint": "Describe the paired values without overclaiming."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-015",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "A table lists distance from lamp and temperature rise. What relationship could a graph help show in a new class investigation?",
-    "audio_prompt": "A table lists distance from lamp and temperature rise. What relationship could a graph help show in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "comparisons",
+    "question": "Nickel and penny samples travel at the same speed. The nickel has twice the mass and twice the kinetic energy. What does the table show?",
+    "audio_prompt": "Nickel and penny samples travel at the same speed. The nickel has twice the mass and twice the kinetic energy. What does the table show?",
     "answers": [
       {
-        "text": "Which student wrote fastest.",
+        "text": "Speed doubled.",
         "is_correct": false
       },
       {
-        "text": "Whether temperature rise changes as distance changes.",
+        "text": "At equal speed, the greater-mass object has greater kinetic energy.",
         "is_correct": true
       },
       {
-        "text": "Whether the lamp has a nice colour.",
+        "text": "Mass and energy are unrelated.",
+        "is_correct": false
+      },
+      {
+        "text": "The penny has more mass.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Whether temperature rise changes as distance changes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The equal-speed comparison pairs greater mass with greater kinetic energy.",
+      "hint": "Hold the equal quantity in mind."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-016",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "When is a model useful in a new class investigation?",
-    "audio_prompt": "When is a model useful in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "graph_reading",
+    "question": "A line rises from 18°C at 0 minutes to 30°C at 6 minutes. What is the temperature change?",
+    "audio_prompt": "A line rises from 18°C at 0 minutes to 30°C at 6 minutes. What is the temperature change?",
     "answers": [
       {
-        "text": "When it replaces all real evidence.",
+        "text": "6°C",
         "is_correct": false
       },
       {
-        "text": "When it hides limitations.",
+        "text": "18°C",
         "is_correct": false
       },
       {
-        "text": "When it simplifies a system so parts and relationships can be examined.",
+        "text": "12°C",
         "is_correct": true
+      },
+      {
+        "text": "48°C",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "When it simplifies a system so parts and relationships can be examined.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The temperature change is the final value minus the starting value: 30 − 18 = 12°C.",
+      "hint": "Final value minus starting value."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-017",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "What should a conclusion about a trend include in a new class investigation?",
-    "audio_prompt": "What should a conclusion about a trend include in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "graph_reading",
+    "question": "A column graph shows 12 beetles in grass, 7 under logs, 4 on bark and 9 in leaf litter. Which habitat has the most?",
+    "audio_prompt": "A column graph shows 12 beetles in grass, 7 under logs, 4 on bark and 9 in leaf litter. Which habitat has the most?",
     "answers": [
       {
-        "text": "The pattern plus evidence and any limits.",
-        "is_correct": true
-      },
-      {
-        "text": "A claim that the pattern proves everything.",
+        "text": "under logs",
         "is_correct": false
       },
       {
-        "text": "The prettiest graph colour.",
+        "text": "leaf litter",
+        "is_correct": false
+      },
+      {
+        "text": "bark",
+        "is_correct": false
+      },
+      {
+        "text": "grass",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The grass column is highest at 12 beetles.",
+      "hint": "Find the tallest column."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 17,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-018",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "table_construction",
+    "question": "Which table layout best records three trials of bridge strength for each material?",
+    "audio_prompt": "Which table layout best records three trials of bridge strength for each material?",
+    "answers": [
+      {
+        "text": "Material | Trial 1 load (g) | Trial 2 load (g) | Trial 3 load (g) | Mean load (g)",
+        "is_correct": true
+      },
+      {
+        "text": "Trial | Things | Good",
+        "is_correct": false
+      },
+      {
+        "text": "Material | Colour only",
+        "is_correct": false
+      },
+      {
+        "text": "A paragraph with mixed values",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pattern plus evidence and any limits.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "This layout identifies the category, repeated measurements, quantity and unit, and provides a processed mean.",
+      "hint": "Choose labelled columns that keep repeats separate."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 18,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-019",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Why keep raw data when showing a mean in a new class investigation?",
-    "audio_prompt": "Why keep raw data when showing a mean in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "column_graphs",
+    "question": "Why should equal-width columns be separated in a category graph?",
+    "audio_prompt": "Why should equal-width columns be separated in a category graph?",
     "answers": [
       {
-        "text": "Raw data makes the mean invalid.",
+        "text": "To make a curve",
         "is_correct": false
       },
       {
-        "text": "Others can check variation and how the mean was made.",
+        "text": "To show the horizontal values are distinct categories",
         "is_correct": true
       },
       {
-        "text": "Raw data is only decoration.",
+        "text": "To hide low results",
+        "is_correct": false
+      },
+      {
+        "text": "To remove the axis labels",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Others can check variation and how the mean was made.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Gaps help show that the horizontal positions represent separate categories rather than a continuous scale.",
+      "hint": "Are the x-values categories or continuous measurements?"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 19,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-020",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Which graph choice best compares categories in a new class investigation?",
-    "audio_prompt": "Which graph choice best compares categories in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "line_graphs",
+    "question": "Why is joining points reasonable for temperature measured every minute?",
+    "audio_prompt": "Why is joining points reasonable for temperature measured every minute?",
     "answers": [
       {
-        "text": "A line graph with no order.",
+        "text": "The line proves exact values between readings.",
         "is_correct": false
       },
       {
-        "text": "A paragraph with no numbers.",
+        "text": "All graphs require joined points.",
         "is_correct": false
       },
       {
-        "text": "A column graph.",
+        "text": "Time is continuous and the line helps show the changing trend.",
         "is_correct": true
+      },
+      {
+        "text": "It makes categories look larger.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "A column graph.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Because time is continuous, joining points helps display the trend, although intermediate values remain inferred.",
+      "hint": "Think about continuity and inference."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 20,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-021",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "A physical model of Earth and Sun is used. What should students state in a new class investigation?",
-    "audio_prompt": "A physical model of Earth and Sun is used. What should students state in a new class investigation?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "scale_critique",
+    "question": "An axis labels equally spaced marks 0, 10, 20, 80 and 90. What is wrong?",
+    "audio_prompt": "An axis labels equally spaced marks 0, 10, 20, 80 and 90. What is wrong?",
     "answers": [
       {
-        "text": "What the model shows well and what it does not show to scale.",
-        "is_correct": true
-      },
-      {
-        "text": "That the model is the real solar system.",
+        "text": "The title is too long.",
         "is_correct": false
       },
       {
-        "text": "That models never have limits.",
+        "text": "The graph has data.",
+        "is_correct": false
+      },
+      {
+        "text": "The unit is visible.",
+        "is_correct": false
+      },
+      {
+        "text": "Equal distances represent unequal numerical intervals.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The jump from 20 to 80 is drawn like the 10-unit intervals, which distorts the data.",
+      "hint": "Compare the numerical size of each interval."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 21,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-022",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "scale_selection",
+    "question": "Plant heights range from 22 to 47 cm. Which vertical scale is clearest while still showing all values?",
+    "audio_prompt": "Plant heights range from 22 to 47 cm. Which vertical scale is clearest while still showing all values?",
+    "answers": [
+      {
+        "text": "0–50 cm in 5 cm intervals",
+        "is_correct": true
+      },
+      {
+        "text": "0–500 cm in 100 cm intervals",
+        "is_correct": false
+      },
+      {
+        "text": "22, 23, 40, 47 at equal spaces",
+        "is_correct": false
+      },
+      {
+        "text": "no scale",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "What the model shows well and what it does not show to scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A 0–50 cm scale with equal 5 cm intervals contains all values and permits useful comparison.",
+      "hint": "Use an even range close to the data."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 22,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-017",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-023",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Which representation best shows temperature change over time after students review their evidence?",
-    "audio_prompt": "Which representation best shows temperature change over time after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "units",
+    "question": "A student labels an axis “Time” for readings taken in seconds. What improvement is needed?",
+    "audio_prompt": "A student labels an axis “Time” for readings taken in seconds. What improvement is needed?",
     "answers": [
       {
-        "text": "An unordered pie chart.",
+        "text": "Remove the axis.",
         "is_correct": false
       },
       {
-        "text": "A line graph.",
+        "text": "Write “Time (s)”.",
         "is_correct": true
       },
       {
-        "text": "A labelled photo only.",
+        "text": "Change seconds to grams.",
+        "is_correct": false
+      },
+      {
+        "text": "Use colours instead of units.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A line graph.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The quantity and unit are both needed for unambiguous interpretation.",
+      "hint": "Put the unit in brackets."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 23,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-018",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-024",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Why should graph axes use even intervals after students review their evidence?",
-    "audio_prompt": "Why should graph axes use even intervals after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "keys",
+    "question": "A graph has blue columns for shaded sites and orange columns for sunny sites. What is required?",
+    "audio_prompt": "A graph has blue columns for shaded sites and orange columns for sunny sites. What is required?",
     "answers": [
       {
-        "text": "So the graph looks taller.",
+        "text": "a second title",
         "is_correct": false
       },
       {
-        "text": "So labels can be skipped.",
+        "text": "a model Sun",
         "is_correct": false
       },
       {
-        "text": "So the pattern is not visually distorted.",
+        "text": "a key identifying the colours",
         "is_correct": true
+      },
+      {
+        "text": "random column widths",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "So the pattern is not visually distorted.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A key tells readers which condition each colour represents.",
+      "hint": "How will a reader decode the colours?"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 24,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-019",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-025",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "A table lists distance from lamp and temperature rise. What relationship could a graph help show after students review their evidence?",
-    "audio_prompt": "A table lists distance from lamp and temperature rise. What relationship could a graph help show after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "data_processing",
+    "question": "Trials for one ramp height are 42, 45 and 48 cm. What mean should be entered in the summary table?",
+    "audio_prompt": "Trials for one ramp height are 42, 45 and 48 cm. What mean should be entered in the summary table?",
     "answers": [
       {
-        "text": "Whether temperature rise changes as distance changes.",
-        "is_correct": true
-      },
-      {
-        "text": "Which student wrote fastest.",
+        "text": "42 cm",
         "is_correct": false
       },
       {
-        "text": "Whether the lamp has a nice colour.",
+        "text": "48 cm",
+        "is_correct": false
+      },
+      {
+        "text": "135 cm",
+        "is_correct": false
+      },
+      {
+        "text": "45 cm",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The sum is 135 cm; dividing by three gives 45 cm.",
+      "hint": "Add, then divide by the number of trials."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 25,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-026",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "core",
+    "skill": "anomalies",
+    "question": "Four readings are 21, 22, 79 and 20°C. How should a graph maker respond?",
+    "audio_prompt": "Four readings are 21, 22, 79 and 20°C. How should a graph maker respond?",
+    "answers": [
+      {
+        "text": "Check the 79°C reading and retain the raw value unless there is evidence to correct or exclude it.",
+        "is_correct": true
+      },
+      {
+        "text": "Silently change 79 to 19.",
+        "is_correct": false
+      },
+      {
+        "text": "Always omit the largest value.",
+        "is_correct": false
+      },
+      {
+        "text": "Move the point onto the trend line.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "Whether temperature rise changes as distance changes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "An unusual value should be checked and transparently handled, not altered to make a neat graph.",
+      "hint": "Represent evidence honestly."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 26,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-020",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-027",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "When is a model useful after students review their evidence?",
-    "audio_prompt": "When is a model useful after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "patterns",
+    "question": "A table shows pillbug counts of 14, 13 and 15 at three damp sites and 3, 4 and 2 at three dry sites. What pattern is supported?",
+    "audio_prompt": "A table shows pillbug counts of 14, 13 and 15 at three damp sites and 3, 4 and 2 at three dry sites. What pattern is supported?",
     "answers": [
       {
-        "text": "When it replaces all real evidence.",
+        "text": "Every damp site has exactly 14 pillbugs.",
         "is_correct": false
       },
       {
-        "text": "When it simplifies a system so parts and relationships can be examined.",
+        "text": "More pillbugs were counted at damp sites than dry sites in this sample.",
         "is_correct": true
       },
       {
-        "text": "When it hides limitations.",
+        "text": "Dampness causes all pillbugs to exist.",
+        "is_correct": false
+      },
+      {
+        "text": "The sites are identical.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "When it simplifies a system so parts and relationships can be examined.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "All sampled damp-site counts exceed all sampled dry-site counts; the claim stays within the evidence.",
+      "hint": "Compare the two groups and qualify the sample."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 27,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-021",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-028",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "What should a conclusion about a trend include after students review their evidence?",
-    "audio_prompt": "What should a conclusion about a trend include after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "causation",
+    "question": "Ice-cream sales and sunburn reports both rise on hotter days. What can the graph alone establish?",
+    "audio_prompt": "Ice-cream sales and sunburn reports both rise on hotter days. What can the graph alone establish?",
     "answers": [
       {
-        "text": "A claim that the pattern proves everything.",
+        "text": "Ice cream causes sunburn.",
         "is_correct": false
       },
       {
-        "text": "The prettiest graph colour.",
+        "text": "Sunburn causes ice-cream sales.",
         "is_correct": false
       },
       {
-        "text": "The pattern plus evidence and any limits.",
+        "text": "The two measures increase together in these data, but heat may influence both.",
         "is_correct": true
+      },
+      {
+        "text": "No relationship is visible.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The pattern plus evidence and any limits.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The graph shows association, not causation; temperature is a plausible third factor.",
+      "hint": "A shared pattern may have another explanation."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 28,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-022",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-029",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Why keep raw data when showing a mean after students review their evidence?",
-    "audio_prompt": "Why keep raw data when showing a mean after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "model_scale",
+    "question": "In a scale model where 1 cm represents 10 million km, what distance represents 40 million km?",
+    "audio_prompt": "In a scale model where 1 cm represents 10 million km, what distance represents 40 million km?",
     "answers": [
       {
-        "text": "Others can check variation and how the mean was made.",
+        "text": "0.4 cm",
+        "is_correct": false
+      },
+      {
+        "text": "40 cm",
+        "is_correct": false
+      },
+      {
+        "text": "400 cm",
+        "is_correct": false
+      },
+      {
+        "text": "4 cm",
         "is_correct": true
-      },
-      {
-        "text": "Raw data makes the mean invalid.",
-        "is_correct": false
-      },
-      {
-        "text": "Raw data is only decoration.",
-        "is_correct": false
       }
     ],
-    "correct_index": 0,
+    "correct_index": 3,
     "explanation": {
-      "summary": "Others can check variation and how the mean was made.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Forty million kilometres is four groups of ten million, so it is represented by 4 cm.",
+      "hint": "Divide the real distance by the scale value."
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 29,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-023",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-030",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "Which graph choice best compares categories after students review their evidence?",
-    "audio_prompt": "Which graph choice best compares categories after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "core",
+    "skill": "model_purpose",
+    "question": "Why might a class use balls and string to model the solar system?",
+    "audio_prompt": "Why might a class use balls and string to model the solar system?",
     "answers": [
       {
-        "text": "A line graph with no order.",
-        "is_correct": false
-      },
-      {
-        "text": "A column graph.",
+        "text": "To show relative positions and a chosen distance scale more clearly than a list",
         "is_correct": true
       },
       {
-        "text": "A paragraph with no numbers.",
+        "text": "To reproduce every real size and distance perfectly",
+        "is_correct": false
+      },
+      {
+        "text": "To prove planets are made of plastic",
+        "is_correct": false
+      },
+      {
+        "text": "To replace all observations",
         "is_correct": false
       }
     ],
-    "correct_index": 1,
+    "correct_index": 0,
     "explanation": {
-      "summary": "A column graph.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A physical model makes selected spatial relationships visible, but it necessarily simplifies the real system.",
+      "hint": "What relationship does the model make easier to see?"
+    },
+    "difficulty": 2,
+    "difficulty_tier": "core",
+    "sequence_priority": 30,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-p-024",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-031",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "practice",
-    "skill": "representing evidence",
-    "question": "A physical model of Earth and Sun is used. What should students state after students review their evidence?",
-    "audio_prompt": "A physical model of Earth and Sun is used. What should students state after students review their evidence?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "application",
+    "skill": "model_limitations",
+    "question": "A model uses same-sized balls for every planet. What is its main limitation?",
+    "audio_prompt": "A model uses same-sized balls for every planet. What is its main limitation?",
     "answers": [
       {
-        "text": "That the model is the real solar system.",
+        "text": "It cannot have labels.",
         "is_correct": false
       },
       {
-        "text": "That models never have limits.",
-        "is_correct": false
-      },
-      {
-        "text": "What the model shows well and what it does not show to scale.",
-        "is_correct": true
-      }
-    ],
-    "correct_index": 2,
-    "explanation": {
-      "summary": "What the model shows well and what it does not show to scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i04-t-001",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A different class checks the same science idea: A physical model of Earth and Sun is used. What should students state?",
-    "audio_prompt": "A different class checks the same science idea: A physical model of Earth and Sun is used. What should students state?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "What the model shows well and what it does not show to scale.",
+        "text": "It misrepresents relative planet sizes.",
         "is_correct": true
       },
       {
-        "text": "That the model is the real solar system.",
+        "text": "It cannot show positions.",
         "is_correct": false
       },
       {
-        "text": "That models never have limits.",
-        "is_correct": false
-      }
-    ],
-    "correct_index": 0,
-    "explanation": {
-      "summary": "What the model shows well and what it does not show to scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
-  },
-  {
-    "id": "ac9s6i04-t-002",
-    "subject": "science",
-    "year_level": "Year 6",
-    "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A different class checks the same science idea: Which graph choice best compares categories?",
-    "audio_prompt": "A different class checks the same science idea: Which graph choice best compares categories?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
-    "answers": [
-      {
-        "text": "A line graph with no order.",
-        "is_correct": false
-      },
-      {
-        "text": "A column graph.",
-        "is_correct": true
-      },
-      {
-        "text": "A paragraph with no numbers.",
+        "text": "It proves the planets are equal.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A column graph.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Using equal balls prevents the model from representing the large differences in planetary diameter.",
+      "hint": "Which real feature was simplified inaccurately?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 31,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-003",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-032",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A different class checks the same science idea: Why keep raw data when showing a mean?",
-    "audio_prompt": "A different class checks the same science idea: Why keep raw data when showing a mean?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "model_strengths",
+    "question": "A transparent bottle model shows layers of soil clearly. What is a strength of the model?",
+    "audio_prompt": "A transparent bottle model shows layers of soil clearly. What is a strength of the model?",
     "answers": [
       {
-        "text": "Raw data makes the mean invalid.",
+        "text": "It shows every organism at life size.",
         "is_correct": false
       },
       {
-        "text": "Raw data is only decoration.",
+        "text": "It predicts all soil changes.",
         "is_correct": false
       },
       {
-        "text": "Others can check variation and how the mean was made.",
+        "text": "It makes the arrangement of layers easy to observe.",
         "is_correct": true
+      },
+      {
+        "text": "It has no limitations.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Others can check variation and how the mean was made.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The model reveals the spatial arrangement of layers that may be difficult to inspect directly.",
+      "hint": "Name what becomes visible."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 32,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-004",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-033",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A different class checks the same science idea: What should a conclusion about a trend include?",
-    "audio_prompt": "A different class checks the same science idea: What should a conclusion about a trend include?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "model_evaluation",
+    "question": "A food-web diagram omits decomposers. Which evaluation is strongest?",
+    "audio_prompt": "A food-web diagram omits decomposers. Which evaluation is strongest?",
     "answers": [
       {
-        "text": "The pattern plus evidence and any limits.",
-        "is_correct": true
-      },
-      {
-        "text": "A claim that the pattern proves everything.",
+        "text": "The colours are unattractive.",
         "is_correct": false
       },
       {
-        "text": "The prettiest graph colour.",
+        "text": "It must be completely useless.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves decomposers do not exist.",
+        "is_correct": false
+      },
+      {
+        "text": "It helps show some feeding links but gives an incomplete account of matter flow.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The diagram has a useful purpose while its omission limits the relationships it represents.",
+      "hint": "State both usefulness and limitation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 33,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-034",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "representation_comparison",
+    "question": "Why might a table and line graph both be used for the same cooling data?",
+    "audio_prompt": "Why might a table and line graph both be used for the same cooling data?",
+    "answers": [
+      {
+        "text": "The table gives exact values while the graph makes the trend easier to see.",
+        "is_correct": true
+      },
+      {
+        "text": "They always communicate identical features equally well.",
+        "is_correct": false
+      },
+      {
+        "text": "The graph stores more exact digits than the table.",
+        "is_correct": false
+      },
+      {
+        "text": "Using two forms proves the explanation.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "The pattern plus evidence and any limits.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Different representations highlight different aspects: exact records and visual trend.",
+      "hint": "What does each form do particularly well?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 34,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-005",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-035",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A different class checks the same science idea: When is a model useful?",
-    "audio_prompt": "A different class checks the same science idea: When is a model useful?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "representation_choice",
+    "question": "Students record percentages of cloud cover at noon for 14 consecutive days. Which representation best reveals day-to-day change?",
+    "audio_prompt": "Students record percentages of cloud cover at noon for 14 consecutive days. Which representation best reveals day-to-day change?",
     "answers": [
       {
-        "text": "When it replaces all real evidence.",
+        "text": "physical cloud model",
         "is_correct": false
       },
       {
-        "text": "When it simplifies a system so parts and relationships can be examined.",
+        "text": "line graph with day on the horizontal axis",
         "is_correct": true
       },
       {
-        "text": "When it hides limitations.",
+        "text": "unordered list",
+        "is_correct": false
+      },
+      {
+        "text": "column graph with no labels",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "When it simplifies a system so parts and relationships can be examined.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The ordered daily measurements form a time sequence suited to a line graph.",
+      "hint": "Use a graph that preserves temporal order."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 35,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-006",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-036",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A different class checks the same science idea: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
-    "audio_prompt": "A different class checks the same science idea: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "construction_errors",
+    "question": "A column graph starts its vertical axis at 95 and shows values 96 and 98 without marking the break. Why is this misleading?",
+    "audio_prompt": "A column graph starts its vertical axis at 95 and shows values 96 and 98 without marking the break. Why is this misleading?",
     "answers": [
       {
-        "text": "Which student wrote fastest.",
+        "text": "It uses numbers.",
         "is_correct": false
       },
       {
-        "text": "Whether the lamp has a nice colour.",
+        "text": "The columns have labels.",
         "is_correct": false
       },
       {
-        "text": "Whether temperature rise changes as distance changes.",
+        "text": "The small difference appears much larger than it is.",
         "is_correct": true
+      },
+      {
+        "text": "All axes must end at 1000.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "Whether temperature rise changes as distance changes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "An unmarked truncated scale visually exaggerates the two-unit difference.",
+      "hint": "Compare visual height with numerical difference."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 36,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-007",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-037",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A different class checks the same science idea: Why should graph axes use even intervals?",
-    "audio_prompt": "A different class checks the same science idea: Why should graph axes use even intervals?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "construction_errors",
+    "question": "A student plots (2 min, 35°C) at x = 35 and y = 2. What error occurred?",
+    "audio_prompt": "A student plots (2 min, 35°C) at x = 35 and y = 2. What error occurred?",
     "answers": [
       {
-        "text": "So the pattern is not visually distorted.",
-        "is_correct": true
-      },
-      {
-        "text": "So the graph looks taller.",
+        "text": "The title is missing.",
         "is_correct": false
       },
       {
-        "text": "So labels can be skipped.",
+        "text": "The point is too small.",
+        "is_correct": false
+      },
+      {
+        "text": "The data are qualitative.",
+        "is_correct": false
+      },
+      {
+        "text": "The variables were placed on the wrong axes.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "The student reversed the coordinates; time belongs on x and temperature on y.",
+      "hint": "Read the axis labels before plotting."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 37,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-038",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "relationship_language",
+    "question": "Which sentence best describes a scatter of points that generally rises from left to right?",
+    "audio_prompt": "Which sentence best describes a scatter of points that generally rises from left to right?",
+    "answers": [
+      {
+        "text": "As x increases, y tends to increase in these data.",
+        "is_correct": true
+      },
+      {
+        "text": "Increasing x definitely causes y in all cases.",
+        "is_correct": false
+      },
+      {
+        "text": "Every point is identical.",
+        "is_correct": false
+      },
+      {
+        "text": "There is no observable relationship.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "So the pattern is not visually distorted.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "“Tends to” accurately describes a positive association without claiming causal certainty.",
+      "hint": "Use cautious relationship language."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 38,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-008",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-039",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A different class checks the same science idea: Which representation best shows temperature change over time?",
-    "audio_prompt": "A different class checks the same science idea: Which representation best shows temperature change over time?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "trend_evidence",
+    "question": "A population graph rises from 120 to 180, stays near 180, then falls to 150. Which description uses all three sections?",
+    "audio_prompt": "A population graph rises from 120 to 180, stays near 180, then falls to 150. Which description uses all three sections?",
     "answers": [
       {
-        "text": "An unordered pie chart.",
+        "text": "It only increases.",
         "is_correct": false
       },
       {
-        "text": "A line graph.",
+        "text": "It increases, levels off, then decreases.",
         "is_correct": true
       },
       {
-        "text": "A labelled photo only.",
+        "text": "It is constant throughout.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves a predator caused the fall.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "A line graph.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The description accounts for the rise, plateau and decline without inventing a cause.",
+      "hint": "Trace the graph from left to right."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 39,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-009",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-040",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A follow-up test asks: A physical model of Earth and Sun is used. What should students state?",
-    "audio_prompt": "A follow-up test asks: A physical model of Earth and Sun is used. What should students state?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "graph_interpolation",
+    "question": "A line joins measured temperatures at 4 and 6 minutes. What does a value read at 5 minutes represent?",
+    "audio_prompt": "A line joins measured temperatures at 4 and 6 minutes. What does a value read at 5 minutes represent?",
     "answers": [
       {
-        "text": "That the model is the real solar system.",
+        "text": "a directly measured value in every case",
         "is_correct": false
       },
       {
-        "text": "That models never have limits.",
+        "text": "a cause",
         "is_correct": false
       },
       {
-        "text": "What the model shows well and what it does not show to scale.",
+        "text": "an estimate between measured points",
         "is_correct": true
+      },
+      {
+        "text": "an impossible value",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "What the model shows well and what it does not show to scale.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Unless 5 minutes was measured, the line provides an interpolated estimate rather than a direct observation.",
+      "hint": "Was there an actual reading at that time?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 40,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-010",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-041",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A follow-up test asks: Which graph choice best compares categories?",
-    "audio_prompt": "A follow-up test asks: Which graph choice best compares categories?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "graph_extrapolation",
+    "question": "A plant graph covers weeks 1–4. What is a prediction for week 10 based only on extending the line?",
+    "audio_prompt": "A plant graph covers weeks 1–4. What is a prediction for week 10 based only on extending the line?",
     "answers": [
       {
-        "text": "A column graph.",
-        "is_correct": true
-      },
-      {
-        "text": "A line graph with no order.",
+        "text": "certain measured evidence",
         "is_correct": false
       },
       {
-        "text": "A paragraph with no numbers.",
+        "text": "proof of future conditions",
+        "is_correct": false
+      },
+      {
+        "text": "always more accurate than observation",
+        "is_correct": false
+      },
+      {
+        "text": "an extrapolation with increased uncertainty",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Week 10 lies outside the observed range, so the extension is uncertain extrapolation.",
+      "hint": "Inside or outside the collected range?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 41,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-042",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "category_comparison",
+    "question": "A graph shows mean seedling heights: clay 8 cm, sand 11 cm, loam 17 cm. What statement is supported?",
+    "audio_prompt": "A graph shows mean seedling heights: clay 8 cm, sand 11 cm, loam 17 cm. What statement is supported?",
+    "answers": [
+      {
+        "text": "Loam had the greatest mean height in this investigation.",
+        "is_correct": true
+      },
+      {
+        "text": "Loam always causes every plant to be tallest.",
+        "is_correct": false
+      },
+      {
+        "text": "Clay and sand were equal.",
+        "is_correct": false
+      },
+      {
+        "text": "The graph reveals no comparison.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A column graph.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The statement accurately reports the sample result without extending it to every plant or situation.",
+      "hint": "Stay within this investigation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 42,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-011",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-043",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A follow-up test asks: Why keep raw data when showing a mean?",
-    "audio_prompt": "A follow-up test asks: Why keep raw data when showing a mean?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "application",
+    "skill": "multi-series_graphs",
+    "question": "Two lines show indoor and outdoor temperature. What feature is essential for distinguishing them?",
+    "audio_prompt": "Two lines show indoor and outdoor temperature. What feature is essential for distinguishing them?",
     "answers": [
       {
-        "text": "Raw data makes the mean invalid.",
+        "text": "a picture of a house",
         "is_correct": false
       },
       {
-        "text": "Others can check variation and how the mean was made.",
+        "text": "a key or direct labels",
         "is_correct": true
       },
       {
-        "text": "Raw data is only decoration.",
+        "text": "different time units for each line",
+        "is_correct": false
+      },
+      {
+        "text": "uneven scales",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Others can check variation and how the mean was made.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A key or direct labels identify which data series each line represents.",
+      "hint": "Readers must know which line is which."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "application",
+    "sequence_priority": 43,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-012",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-044",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A follow-up test asks: What should a conclusion about a trend include?",
-    "audio_prompt": "A follow-up test asks: What should a conclusion about a trend include?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "models_and_evidence",
+    "question": "Students enlarge a flower diagram to show tiny reproductive parts. Why is larger not automatically more accurate?",
+    "audio_prompt": "Students enlarge a flower diagram to show tiny reproductive parts. Why is larger not automatically more accurate?",
     "answers": [
       {
-        "text": "A claim that the pattern proves everything.",
+        "text": "Large drawings cannot be labelled.",
         "is_correct": false
       },
       {
-        "text": "The prettiest graph colour.",
+        "text": "Size is the only feature models represent.",
         "is_correct": false
       },
       {
-        "text": "The pattern plus evidence and any limits.",
+        "text": "Enlargement improves visibility but accuracy depends on correct proportions, structures and labels.",
         "is_correct": true
+      },
+      {
+        "text": "All small diagrams are accurate.",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "The pattern plus evidence and any limits.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A model can enlarge details while still distorting proportions or omitting structures.",
+      "hint": "Judge represented features, not picture size."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 44,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-013",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-045",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A follow-up test asks: When is a model useful?",
-    "audio_prompt": "A follow-up test asks: When is a model useful?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "construct_and_interpret",
+    "question": "Which response fulfils the whole descriptor for a dissolving investigation?",
+    "audio_prompt": "Which response fulfils the whole descriptor for a dissolving investigation?",
     "answers": [
       {
-        "text": "When it simplifies a system so parts and relationships can be examined.",
-        "is_correct": true
-      },
-      {
-        "text": "When it replaces all real evidence.",
+        "text": "Read one value from a supplied graph.",
         "is_correct": false
       },
       {
-        "text": "When it hides limitations.",
+        "text": "Copy numbers without headings.",
+        "is_correct": false
+      },
+      {
+        "text": "Draw an attractive beaker.",
+        "is_correct": false
+      },
+      {
+        "text": "Construct a labelled time-versus-temperature graph and describe its trend.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "It both constructs an appropriate representation and interprets the resulting pattern.",
+      "hint": "Look for making and using the representation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 45,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-P-046",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "data_integrity",
+    "question": "Why should plotted values match the source table?",
+    "audio_prompt": "Why should plotted values match the source table?",
+    "answers": [
+      {
+        "text": "Changing points to fit a prediction misrepresents the evidence.",
+        "is_correct": true
+      },
+      {
+        "text": "Neater trends are always more scientific.",
+        "is_correct": false
+      },
+      {
+        "text": "Graphs do not need source data.",
+        "is_correct": false
+      },
+      {
+        "text": "Only the title matters.",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "When it simplifies a system so parts and relationships can be examined.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Accurate plotting preserves the collected evidence, including natural variation and anomalies.",
+      "hint": "A graph must faithfully represent its data."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 46,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-014",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-047",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A follow-up test asks: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
-    "audio_prompt": "A follow-up test asks: A table lists distance from lamp and temperature rise. What relationship could a graph help show?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "relationship_limits",
+    "question": "A graph shows that students who sleep longer often score higher on a quiz. Which conclusion is justified?",
+    "audio_prompt": "A graph shows that students who sleep longer often score higher on a quiz. Which conclusion is justified?",
     "answers": [
       {
-        "text": "Which student wrote fastest.",
+        "text": "Extra sleep certainly caused each score.",
         "is_correct": false
       },
       {
-        "text": "Whether temperature rise changes as distance changes.",
+        "text": "Longer sleep is associated with higher scores in this sample; other factors may contribute.",
         "is_correct": true
       },
       {
-        "text": "Whether the lamp has a nice colour.",
+        "text": "Quiz scores determine past sleep.",
+        "is_correct": false
+      },
+      {
+        "text": "The graph proves no variables are related.",
         "is_correct": false
       }
     ],
     "correct_index": 1,
     "explanation": {
-      "summary": "Whether temperature rise changes as distance changes.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "The graph supports an association only; study habits, health and other variables may affect both measures.",
+      "hint": "Do not turn association into cause."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 47,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-015",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-P-048",
     "curriculum_code": "AC9S6I04",
-    "bank": "test",
-    "skill": "representing evidence",
-    "question": "A follow-up test asks: Why should graph axes use even intervals?",
-    "audio_prompt": "A follow-up test asks: Why should graph axes use even intervals?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "practice",
+    "stage": "challenge",
+    "skill": "integrated_critique",
+    "question": "A graph has a clear title and accurate points but no axis units and an uneven vertical scale. What should be fixed?",
+    "audio_prompt": "A graph has a clear title and accurate points but no axis units and an uneven vertical scale. What should be fixed?",
     "answers": [
       {
-        "text": "So the graph looks taller.",
+        "text": "Only the point colours",
         "is_correct": false
       },
       {
-        "text": "So labels can be skipped.",
+        "text": "Only the title",
         "is_correct": false
       },
       {
-        "text": "So the pattern is not visually distorted.",
+        "text": "Add units and replace the vertical scale with equal numerical intervals",
         "is_correct": true
+      },
+      {
+        "text": "Convert every value to a picture",
+        "is_correct": false
       }
     ],
     "correct_index": 2,
     "explanation": {
-      "summary": "So the pattern is not visually distorted.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "Units give meaning to values and even intervals prevent visual distortion.",
+      "hint": "Identify both construction defects."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 48,
+    "quality_schema": "independently-reviewed-original-v3"
   },
   {
-    "id": "ac9s6i04-t-016",
-    "subject": "science",
-    "year_level": "Year 6",
+    "id": "AC9S6I04-T-001",
     "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
     "bank": "test",
-    "skill": "representing evidence",
-    "question": "A follow-up test asks: Which representation best shows temperature change over time?",
-    "audio_prompt": "A follow-up test asks: Which representation best shows temperature change over time?",
-    "visual": {
-      "type": "none",
-      "alt_text": ""
-    },
+    "stage": "challenge",
+    "skill": "representation_choice",
+    "question": "A survey records the mean shell length for four separate beach zones. Which display is most appropriate for comparing the zones?",
+    "audio_prompt": "A survey records the mean shell length for four separate beach zones. Which display is most appropriate for comparing the zones?",
     "answers": [
       {
-        "text": "A line graph.",
+        "text": "column graph with zone categories and mean length (mm)",
         "is_correct": true
       },
       {
-        "text": "An unordered pie chart.",
+        "text": "line graph joining zones as continuous time",
         "is_correct": false
       },
       {
-        "text": "A labelled photo only.",
+        "text": "unscaled shell drawing",
+        "is_correct": false
+      },
+      {
+        "text": "table with no headings",
         "is_correct": false
       }
     ],
     "correct_index": 0,
     "explanation": {
-      "summary": "A line graph.",
-      "hint": "Use the evidence in the situation, then reject answers that are too broad, too vague or scientifically inaccurate."
-    }
+      "summary": "A labelled column graph compares a measured value across distinct categories.",
+      "hint": "The zones are categories."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 1,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-002",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "axes",
+    "question": "A class tests how lamp distance affects solar-cell voltage. Which axes are correct?",
+    "audio_prompt": "A class tests how lamp distance affects solar-cell voltage. Which axes are correct?",
+    "answers": [
+      {
+        "text": "x: voltage, y: distance",
+        "is_correct": false
+      },
+      {
+        "text": "x: lamp distance (cm), y: voltage (V)",
+        "is_correct": true
+      },
+      {
+        "text": "x: trial name, y: lamp colour",
+        "is_correct": false
+      },
+      {
+        "text": "x: title, y: conclusion",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Lamp distance is the changed variable on the horizontal axis; voltage is measured on the vertical axis.",
+      "hint": "Changed variable on x; measured outcome on y."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 2,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-003",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "patterns",
+    "question": "A graph of oxygen bubbles per minute reads 4, 9, 15 and 16 as light level rises. Which description is best?",
+    "audio_prompt": "A graph of oxygen bubbles per minute reads 4, 9, 15 and 16 as light level rises. Which description is best?",
+    "answers": [
+      {
+        "text": "The count decreases steadily.",
+        "is_correct": false
+      },
+      {
+        "text": "The count is constant.",
+        "is_correct": false
+      },
+      {
+        "text": "Bubble count rises, but the increase becomes much smaller at the highest light level.",
+        "is_correct": true
+      },
+      {
+        "text": "Light certainly causes every observed difference.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "The description captures the overall rise and later levelling without overstating cause.",
+      "hint": "Describe shape, not an unsupported mechanism."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 3,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-004",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "model_limitation",
+    "question": "A classroom solar-system model has scaled planet diameters but equal 30 cm gaps between planets. What limitation must be stated?",
+    "audio_prompt": "A classroom solar-system model has scaled planet diameters but equal 30 cm gaps between planets. What limitation must be stated?",
+    "answers": [
+      {
+        "text": "Planet sizes are all wrong.",
+        "is_correct": false
+      },
+      {
+        "text": "The model has no scientific use.",
+        "is_correct": false
+      },
+      {
+        "text": "Labels make it inaccurate.",
+        "is_correct": false
+      },
+      {
+        "text": "The spacing does not represent relative orbital distances.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Equal gaps distort the very unequal real distances even though the size scale may be useful.",
+      "hint": "Which scale was not preserved?"
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 4,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-005",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "table_processing",
+    "question": "Temperatures for three trials are 31, 29 and 30°C. Which summary entry is correct?",
+    "audio_prompt": "Temperatures for three trials are 31, 29 and 30°C. Which summary entry is correct?",
+    "answers": [
+      {
+        "text": "Mean temperature: 30°C",
+        "is_correct": true
+      },
+      {
+        "text": "Mean temperature: 90°C",
+        "is_correct": false
+      },
+      {
+        "text": "Range: 30°C",
+        "is_correct": false
+      },
+      {
+        "text": "Mean time: 30 s",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The mean is (31 + 29 + 30) ÷ 3 = 30°C, with the correct quantity and unit.",
+      "hint": "Calculate and retain the unit."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 5,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-006",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "misleading_graphs",
+    "question": "Two values are 48 and 50 cm, but an unmarked axis begins at 47 cm. What is the main effect?",
+    "audio_prompt": "Two values are 48 and 50 cm, but an unmarked axis begins at 47 cm. What is the main effect?",
+    "answers": [
+      {
+        "text": "It removes the values.",
+        "is_correct": false
+      },
+      {
+        "text": "It exaggerates the visual difference.",
+        "is_correct": true
+      },
+      {
+        "text": "It proves the results are invalid.",
+        "is_correct": false
+      },
+      {
+        "text": "It changes centimetres to metres.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Truncating the axis without a marked break makes a small difference occupy most of the graph height.",
+      "hint": "Compare the real difference with its visual size."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 6,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-007",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "relationships",
+    "question": "At sites with more canopy cover, soil moisture also tends to be higher. What can the field graph support?",
+    "audio_prompt": "At sites with more canopy cover, soil moisture also tends to be higher. What can the field graph support?",
+    "answers": [
+      {
+        "text": "Canopy is the only cause of moisture.",
+        "is_correct": false
+      },
+      {
+        "text": "Moisture causes every tree.",
+        "is_correct": false
+      },
+      {
+        "text": "An association exists in the sampled sites, but other site factors may contribute.",
+        "is_correct": true
+      },
+      {
+        "text": "There is no pattern.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Observational data support a relationship, not an isolated causal explanation.",
+      "hint": "Field associations can have confounding factors."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 7,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-008",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "constructing_graphs",
+    "question": "What is the final essential check after plotting a time-series graph?",
+    "audio_prompt": "What is the final essential check after plotting a time-series graph?",
+    "answers": [
+      {
+        "text": "Replace values that disrupt the trend.",
+        "is_correct": false
+      },
+      {
+        "text": "Add pictures over points.",
+        "is_correct": false
+      },
+      {
+        "text": "Join every category graph.",
+        "is_correct": false
+      },
+      {
+        "text": "Confirm title, axis labels, units, even scale and points against the table.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "This check verifies meaning, honest scale and plotting accuracy.",
+      "hint": "Audit both labels and data."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 8,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-009",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "representation_comparison",
+    "question": "A table and graph show the same kinetic-energy results. Which claim is correct?",
+    "audio_prompt": "A table and graph show the same kinetic-energy results. Which claim is correct?",
+    "answers": [
+      {
+        "text": "The table supports exact lookup; the graph can make the pattern easier to recognise.",
+        "is_correct": true
+      },
+      {
+        "text": "The graph automatically proves causation.",
+        "is_correct": false
+      },
+      {
+        "text": "The table is useless once graphed.",
+        "is_correct": false
+      },
+      {
+        "text": "Both must hide anomalies.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "Each representation serves a different purpose while using the same evidence.",
+      "hint": "Exact values versus visible pattern."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 9,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-010",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "scale_model",
+    "question": "A model uses 2 cm for every 1 m of real length. A 3.5 m object should be shown as what length?",
+    "audio_prompt": "A model uses 2 cm for every 1 m of real length. A 3.5 m object should be shown as what length?",
+    "answers": [
+      {
+        "text": "1.75 cm",
+        "is_correct": false
+      },
+      {
+        "text": "7 cm",
+        "is_correct": true
+      },
+      {
+        "text": "17.5 cm",
+        "is_correct": false
+      },
+      {
+        "text": "70 cm",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Multiplying 3.5 by 2 cm per metre gives 7 cm.",
+      "hint": "Apply the model scale."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 10,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-011",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "graph_interpretation",
+    "question": "A cooling curve drops steeply for five minutes and then becomes flatter. What does the flatter section show?",
+    "audio_prompt": "A cooling curve drops steeply for five minutes and then becomes flatter. What does the flatter section show?",
+    "answers": [
+      {
+        "text": "The water is heating.",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature is unmeasurable.",
+        "is_correct": false
+      },
+      {
+        "text": "Temperature is still decreasing, but more slowly.",
+        "is_correct": true
+      },
+      {
+        "text": "The graph proves room temperature caused every change.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "A downward but flatter line represents a smaller temperature decrease per minute.",
+      "hint": "Slope indicates the rate of change."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 11,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-012",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "model_evaluation",
+    "question": "Which evaluation of a lung-bottle model is balanced?",
+    "audio_prompt": "Which evaluation of a lung-bottle model is balanced?",
+    "answers": [
+      {
+        "text": "It is identical to real lungs.",
+        "is_correct": false
+      },
+      {
+        "text": "It is useless because it is plastic.",
+        "is_correct": false
+      },
+      {
+        "text": "It proves breathing needs no muscles.",
+        "is_correct": false
+      },
+      {
+        "text": "It shows pressure-related movement but simplifies anatomy and muscle action.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "A sound evaluation names both the represented relationship and a meaningful simplification.",
+      "hint": "State one strength and one limitation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 12,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-013",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "data_transformation",
+    "question": "Daily evaporation loss is 2, 3, 5, 6 and 8 mL from Monday to Friday. What is the strongest display-and-description pair?",
+    "audio_prompt": "Daily evaporation loss is 2, 3, 5, 6 and 8 mL from Monday to Friday. What is the strongest display-and-description pair?",
+    "answers": [
+      {
+        "text": "Line graph by day; loss generally increases across the week.",
+        "is_correct": true
+      },
+      {
+        "text": "Pie chart; evaporation definitely causes weekdays.",
+        "is_correct": false
+      },
+      {
+        "text": "Physical model; every rise is equal.",
+        "is_correct": false
+      },
+      {
+        "text": "Unordered list; no pattern exists.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 0,
+    "explanation": {
+      "summary": "The ordered daily values suit a line graph and support a cautious increasing trend.",
+      "hint": "Preserve time order."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 13,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-014",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "causal_claims",
+    "question": "A graph shows taller seedlings received more water, but pot size also increased with water amount. Which statement is best?",
+    "audio_prompt": "A graph shows taller seedlings received more water, but pot size also increased with water amount. Which statement is best?",
+    "answers": [
+      {
+        "text": "Water alone caused the height difference.",
+        "is_correct": false
+      },
+      {
+        "text": "The variables are associated, but changing pot size prevents a clear causal conclusion about water.",
+        "is_correct": true
+      },
+      {
+        "text": "Pot size cannot affect plants.",
+        "is_correct": false
+      },
+      {
+        "text": "A graph removes confounding.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 1,
+    "explanation": {
+      "summary": "Because water and pot size changed together, the graph cannot isolate the effect of water.",
+      "hint": "Look for a second changing factor."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 14,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-015",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "integrated_representation",
+    "question": "Which student has constructed the strongest results display?",
+    "audio_prompt": "Which student has constructed the strongest results display?",
+    "answers": [
+      {
+        "text": "Ava copied values into an unlabelled grid.",
+        "is_correct": false
+      },
+      {
+        "text": "Bo drew a colourful picture unrelated to the measurements.",
+        "is_correct": false
+      },
+      {
+        "text": "Chen made a titled graph with labelled axes, units, even scale, accurate points and a statement of trend.",
+        "is_correct": true
+      },
+      {
+        "text": "Di changed an anomalous point to fit the line.",
+        "is_correct": false
+      }
+    ],
+    "correct_index": 2,
+    "explanation": {
+      "summary": "Chen meets construction and interpretation requirements while representing evidence honestly.",
+      "hint": "Check title, labels, scale, plotting and interpretation."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 15,
+    "quality_schema": "independently-reviewed-original-v3"
+  },
+  {
+    "id": "AC9S6I04-T-016",
+    "curriculum_code": "AC9S6I04",
+    "year_level": "Year 6",
+    "subject": "science",
+    "bank": "test",
+    "stage": "challenge",
+    "skill": "evidence_limits",
+    "question": "A physical model shows Earth and Moon positions at one moment. Which conclusion is reasonable?",
+    "audio_prompt": "A physical model shows Earth and Moon positions at one moment. Which conclusion is reasonable?",
+    "answers": [
+      {
+        "text": "It proves all future positions.",
+        "is_correct": false
+      },
+      {
+        "text": "It gives exact surface materials.",
+        "is_correct": false
+      },
+      {
+        "text": "It contains every feature of the real system.",
+        "is_correct": false
+      },
+      {
+        "text": "It can communicate selected spatial relationships, but not all motion, size and distance information unless those are explicitly scaled.",
+        "is_correct": true
+      }
+    ],
+    "correct_index": 3,
+    "explanation": {
+      "summary": "Models are purpose-built representations and must be interpreted within the features and scales they include.",
+      "hint": "A model always selects and simplifies."
+    },
+    "difficulty": 3,
+    "difficulty_tier": "challenge",
+    "sequence_priority": 16,
+    "quality_schema": "independently-reviewed-original-v3"
   }
 ]
