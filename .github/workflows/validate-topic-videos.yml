@@ -6,8 +6,6 @@ on:
       - 'scripts/build_topic_video_sections.py'
       - 'scripts/tests/test_topic_video_sections.py'
       - 'assets/css/topic-videos.css'
-      - '**/ac9*/index.html'
-      - '.github/workflows/validate-topic-videos.yml'
   push:
     branches: [main]
     paths:
@@ -15,8 +13,7 @@ on:
       - 'scripts/build_topic_video_sections.py'
       - 'scripts/tests/test_topic_video_sections.py'
       - 'assets/css/topic-videos.css'
-      - '**/ac9*/index.html'
-      - '.github/workflows/validate-topic-videos.yml'
+  workflow_dispatch:
 permissions:
   contents: read
 jobs:
