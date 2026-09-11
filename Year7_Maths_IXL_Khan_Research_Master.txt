@@ -10,7 +10,7 @@ NEXT_CODE: AUTHORING_AC9M7N01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 7 COMPLETE (LATEST: AC9M7P02; ALL 30 CODES AUTHORING-READY)
+BATCH: TARGETED KHAN EVIDENCE RERUN IN PROGRESS — N02–N06 VERIFIED
 
 PURPOSE AND AUTHORING STANDARD
 This is the evidence ledger for re-authoring Year 7 Mathematics. Every code must be researched before authoring. Research must transfer into the Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. IXL was inspected through one authenticated Australia browser tab, sequentially, including live skill pages and Learn with an example. Khan Academy was inspected through one authenticated browser tab, sequentially. Source language and examples are evidence only: SkillrHub output must be original.
@@ -88,9 +88,10 @@ IXL design evidence: directions explicitly constrain canonical answer form; answ
 Common traps: stopping at a composite factor (for example 4 × 6); writing 2 × 6; using 2 × 3² for 12; exponent counts the repeated factors, not their sum; treating 1 as prime.
 
 KHAN ACADEMY EVIDENCE
-Mapped Khan resource: “Prime factorization”, which teaches factor trees/repeated decomposition and writing repeated prime factors with exponent notation: https://www.khanacademy.org/math/class-6-tg/x47164056520f4c0a%3Aplaying-with-numbers/x47164056520f4c0a%3Aprime-factorisation/v/prime-factorization-indian-accent
-Supporting Khan concept: “Exponent example 2” explains that an exponent gives the number of repeated factors, not a multiplier.
-Khan page access was checked in the single authenticated tab. Public metadata confirms prime definition and exponential-notation endpoint.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Prime factorization” transcript was inspected. It first distinguishes prime from composite numbers, explicitly warning that prime is not the same as odd (9 is odd but divisible by 3). For 75, it tests divisibility by 2, then 3, decomposes 75=3×25 and 25=5×5, stops only when every leaf is prime, and writes 75=3×5×5=3×5². This supports the full method: choose a prime divisor, continue decomposition, check every terminal factor is prime, and compress repeated factors using exponents.
+https://www.khanacademy.org/math/pre-algebra/pre-algebra-factors-multiples/pre-algebra-prime-factorization-prealg/v/prime-factorization
+Authoring implications: include different valid factor-tree routes that converge to the same prime factorisation; require canonical exponent notation; target stopping at composite leaves, confusing odd with prime, and treating an exponent as multiplication.
 
 AUTHORING TRANSFER
 Topic Page: define prime/composite; show divisibility checks; model both a factor tree and repeated division; circle prime leaves; regroup equal primes into powers; verify by expanding and multiplying.
@@ -130,9 +131,10 @@ This shortcut must be taught after the repeated-factor meaning, not as an unexpl
 Question families required beyond the observed missing exponent: value ↔ exponent matching; digit value; full expanded form; missing place; standard-form reconstruction; zero internal digits.
 
 KHAN ACADEMY EVIDENCE
-Authenticated Khan search for “powers of 10 expanded form” did not yield a clean age-matched lesson in its first results: SOURCE-NOT-MAPPED for a single exact Year 7 lesson.
-Relevant Khan foundation remains exponent meaning (“Exponent example 2”) and place-value/expanded-form material in elementary arithmetic. Use it only for conceptual cross-checking; IXL and AC v9/QCAA provide the direct mapping.
-Public Khan evidence reinforces: b^n means n factors of b. Therefore 10⁵ means five factors of 10 and has place value one hundred thousand.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Introduction to powers of 10” transcript was inspected. It builds 10×10=100 and 10×10×10=1000 before introducing base and exponent notation: 10² means two factors of 10 and 10³ means three. It then converts ten factors of 10 to 10¹⁰=10,000,000,000 and works backwards from 10⁵ to five factors of 10=100,000. The teaching sequence is repeated multiplication → base/exponent vocabulary → exponential form → standard form, not a zero-count shortcut alone.
+https://www.khanacademy.org/math/cc-fifth-grade-math/powers-of-ten/imp-powers-of-10/v/introduction-to-powers-of-10
+Authoring implications: ask learners to move both ways among factor strings, powers and place-value numerals; use the zero pattern only after meaning is established; target confusing 10⁵ with 10×5 or five zeros without the leading 1.
 
 AUTHORING TRANSFER
 Topic Page: place-value chart from ones to millions; align each column with 10⁰, 10¹, …; demonstrate 604 032 = 6×10⁵ + 0×10⁴ + 4×10³ + 0×10² + 3×10¹ + 2×10⁰, then show the conventional omission of zero terms.
@@ -177,10 +179,10 @@ Critical authoring rule: representational equivalence must be justified by scali
 Common traps: changing only numerator or denominator; counting marks rather than equal intervals; assuming larger denominator means larger fraction; plotting negative rationals in the wrong direction; mistaking simplest form for a decimal approximation.
 
 KHAN ACADEMY EVIDENCE
-Mapped resource: “Creating equivalent fractions”, https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/x18ca194a%3Aequivalent-fractions/v/generating-equivalent-fractions
-Public metadata states the lesson uses 2/3, 4/6 and 6/9 and represents equivalence on a number line.
-Supporting Khan resource: “Equivalent fractions with models”, which uses area/tape models; authenticated page access was checked in the single Khan tab.
-Khan’s useful teaching move is to connect visual subdivision to multiplying numerator and denominator by the same factor, rather than presenting a rule alone.
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Creating equivalent fractions” transcript was inspected. Starting from 2/3, it divides each third into two equal parts to show the same shaded quantity as 4/6, then divides each third into three to obtain 6/9. A number-line model places 2/3, 4/6 and 6/9 at the identical point. The explanation connects multiplying numerator and denominator by the same factor with equivalent subdivision, rather than presenting a rule without meaning.
+https://www.khanacademy.org/math/arithmetic/fraction-arithmetic/x18ca194a%3Aequivalent-fractions/v/generating-equivalent-fractions
+Authoring implications: pair symbolic equivalence with area and number-line evidence; include generate, simplify and missing-value directions; target changing only one part, using unequal wholes and assuming larger numerator/denominator means larger value.
 
 AUTHORING TRANSFER
 Topic Page: open with one point represented as 1/2, 2/4, 0.5 and 50%; show fraction strips and aligned number lines; formalise k·a/k·b = a/b for non-zero k; simplify via greatest common divisor; extend the number line left of zero and beyond one.
@@ -233,10 +235,11 @@ Direct URLs: https://au.ixl.com/maths/year-7/round-decimals ; https://au.ixl.com
 Question progression: identify rounding place → inspect deciding digit → calculate rounded value → estimate a result → compare estimate and exact value → judge a contextual claim.
 Misconceptions: rounding every digit independently; looking left instead of right; changing unaffected digits; always rounding to whole numbers; confusing truncation with rounding; accepting calculator output without a magnitude check.
 
-KHAN / PUBLIC EVIDENCE
-Khan mapped support: estimating multi-digit division by choosing compatible rounded numbers, https://www.khanacademy.org/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/multi-digit-division-estimation/v/approximating-multi-digit-division
-The exact Year 7 AC v9 combination of decimal accuracy plus reasonableness has no single Khan lesson: use Khan as method support and retain the Australian Curriculum/QCAA descriptor as scope authority.
-Trusted cross-checks: Australian Curriculum v9 Mathematics and QCAA Year 7 alignment listed in the source register.
+KHAN ACADEMY EVIDENCE
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Estimating multi-digit division” transcript was inspected. For 794÷18 it selects compatible nearby numbers 800÷20=40, simplifying mentally as 80÷2 after removing a factor of 10, and explicitly labels 40 approximate rather than exact. For 722÷68 it uses 700÷70=10. The method chooses nearby numbers that make the operation tractable and then selects/checks the reasonable magnitude, rather than rounding mechanically without regard to divisibility.
+https://www.khanacademy.org/math/cc-fifth-grade-math/multi-digit-multiplication-and-division/multi-digit-division-estimation/v/approximating-multi-digit-division
+Authoring implications: require learners to justify compatible-number choices, distinguish exact from approximate notation, compare alternatives and use estimates to detect unreasonable calculator or written answers. The Australian Curriculum/QCAA descriptor remains the authority for decimal accuracy.
 
 AUTHORING TRANSFER
 Topic Page: teach a place-value “target digit / deciding digit” routine, a number-line midpoint model, then distinguish stated accuracy from context-selected accuracy. Add front-end rounding and compatible-number estimation; close with estimate–calculate–compare.
@@ -270,10 +273,11 @@ Several multiplication/division examples were visually rendered but their mathem
 High-value methods: common denominators for addition/subtraction; simplify before/after multiplication; division as multiplying by the reciprocal, supported by measurement/grouping interpretations; align decimal places; convert percentages to fraction/decimal form when efficient.
 Misconceptions: adding denominators; reciprocal of the first instead of second fraction; treating a percentage as a whole number; losing decimal place; failing to simplify or attach units; using one representation when another is much easier.
 
-KHAN / PUBLIC EVIDENCE
-Khan mapped resource: “Adding fractions, decimals and percentages” uses a mixed expression such as 0.79 − 4/3 − 1/2 + 150%, showing the need to convert to compatible forms: https://www.khanacademy.org/math/cc-seventh-grade-math-essentials/x220f497c584d1b35%3Arational-numbers-addition-and-subtraction/x220f497c584d1b35%3Aadding-subtracting-rational-numbers/v/adding-fractions-decimals-and-percentages
-Use Khan’s representation-conversion reasoning, not its negative-number extension, for this positive-only descriptor.
-Trusted scope cross-checks: Australian Curriculum v9 and QCAA Year 7 alignment.
+KHAN ACADEMY EVIDENCE
+EVIDENCE LEVEL: AUTHENTICATED WORKED TRANSCRIPT VERIFIED — 2026-09-11.
+Khan’s “Adding fractions, decimals and percentages” transcript was inspected. It evaluates 0.79−4/3−1/2+150% by choosing fractions because 4/3 would repeat as a decimal, converting 0.79=79/100 and 150%=150/100, then using common denominator 300: 237/300−400/300−150/300+450/300=137/300. The lesson models choosing a representation strategically, maintaining operation signs and simplifying only after a common form is established.
+https://www.khanacademy.org/math/cc-seventh-grade-math/x6b17ba59%3Arational-numbers-addition-and-subtraction/cc-7th-add-sub-rational-numbers/v/adding-fractions-decimals-and-percentages
+Authoring implications: include mixed fraction-decimal-percentage expressions, ask why one form is efficient, preserve Year 7 scope where required, and target percent-as-whole-number, denominator-only conversion and sign-loss errors.
 
 AUTHORING TRANSFER
 Topic Page: a decision tree—identify operation, inspect forms, choose common form, calculate, simplify, interpret/check. Provide visual fraction addition, decimal area/grid multiplication, fraction division as “how many groups?”, and percent benchmarks 10%, 25%, 50%, 75%.
@@ -1209,6 +1213,13 @@ BATCH 7 / YEAR 7 MATHEMATICS RESEARCH QA CHECK
 - Topic Page, HTML Classroom View, Homework, exactly-48 Practice and independent exactly-16 Test authoring coverage is fully specified.
 - Inventory reconciliation: 30 of 30 Year 7 Mathematics codes are AUTHORING-READY.
 - Research phase is complete; no curriculum code remains unfinished.
+
+TARGETED EVIDENCE RERUN CHECKPOINT — 2026-09-11
+- AC9M7N02–AC9M7N06 were rechecked sequentially in one authenticated Khan Academy tab.
+- Full worked transcripts now replace catalogue, metadata-only or link-only evidence.
+- Existing valid IXL Learn-with-an-example observations were preserved without alteration.
+- The five records now document method, progression, traps and direct authoring implications.
+- Remaining deficient Year 7 records begin at AC9M7N07.
 
 AUTHORING HANDOFF
 NEXT_CODE: AC9M7N01
