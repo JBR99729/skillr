@@ -4,13 +4,13 @@ Last updated: 2026-09-11
 
 PROJECT_STATUS: IN_PROGRESS
 CURRENT_PHASE: RESEARCH
-CURRENT_CODE: AC9M9ST01
-LAST_COMPLETED_CODE: AC9M9SP03
-NEXT_CODE: AC9M9ST01
+CURRENT_CODE: AC9M9P01
+LAST_COMPLETED_CODE: AC9M9ST05
+NEXT_CODE: AC9M9P01
 AUTHORING_STARTED: NO
 CONTENT_VERIFIED_COUNT: 0
 BLOCKER: NONE
-BATCH: 3 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M9M04–AC9M9M05, AC9M9SP01–AC9M9SP03)
+BATCH: 4 COMPLETE — INTERACTIVELY VERIFIED (LATEST: AC9M9ST01–AC9M9ST05)
 
 PURPOSE AND AUTHORING STANDARD
 This ledger supports later re-authoring of every Year 9 Mathematics Topic Page, HTML Classroom View, Homework/Worksheet, exactly 48 Practice questions and exactly 16 independent Test questions. Australian Curriculum v9/QCAA sets scope. IXL and Khan examples inform pedagogy only; all SkillrHub content must be original.
@@ -588,6 +588,181 @@ P01–P08 sequence/vocabulary; P09–P16 follow/trace; P17–P24 flowchart/pseud
 16-TEST BLUEPRINT
 T01–T04 trace/represent; T05–T08 design; T09–T12 independent test/refine; T13–T16 evaluation, justification and edge cases.
 
+
+==============================================================================
+AC9M9ST01 — ANALYSING SURVEY REPORTS AND POPULATION ESTIMATES
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Analyse reports of surveys in digital media and elsewhere for information on how data was obtained to estimate population means and medians.
+
+CURRICULUM BOUNDARY
+Identify population, sample, sampling frame, variable and sample statistic; trace how a report obtained its data; distinguish sample mean/median from a population estimate; check sample size, representativeness, non-response, wording, timing and uncertainty; decide whether a headline is supported. Formal confidence-interval calculations are not required.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Direct components: Z.5 Identify biased samples; Z.1–Z.3 mean, median, mode and range. No single IXL Year 9 skill critiques a complete media report or estimates a population mean/median: COMPOSITE/PARTIAL.
+Z.5 example actually opened: Gabriel observes 2 flowers from every block, with equal flower counts per block. IXL defines bias as unequal selection chances and judges this equal-per-block design representative. Selection mechanism—not sample size alone—is decisive.
+Progression: population/sample → source audit → sample summary → representativeness → estimate/claim → cautious verdict.
+Misconceptions: large means representative; a percentage proves reliability; sample and population means are identical; random means convenient; non-response means “no”; correlation proves cause.
+
+KHAN / TRUSTED CROSS-CHECK
+AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11. Khan Statistics and probability Unit 6, Lesson 2 “Reasonable samples” transcript rejects neighbours and one retirement community for district-wide opinions, accepts 200 residents selected randomly, and contrasts a census with genuine random draws. It ties validity to target population, selection and cautious inference.
+https://www.khanacademy.org/math/statistics-probability/designing-studies/sampling-and-surveys/v/reasonable-samples
+ABS statistical concepts/classroom resources: https://www.abs.gov.au/statistics/understanding-statistics
+Maths Is Fun survey/sampling/display/misleading-statistics hub: https://www.mathsisfun.com/data/index.html
+
+AUTHORING TRANSFER
+Topic Page: report-audit checklist; population/sample/statistic distinctions; mean-versus-median estimate; bias/uncertainty; headline evaluation.
+Classroom View: compare headlines from one data set, recover missing methodology, redesign a sample, calibrate conclusions.
+Homework: identify population/sample, verify summaries, evaluate methods/claims, rewrite overclaims.
+Feedback: name population, reconstruct selection, check exclusions/non-response, verify summary, match claim strength to evidence.
+
+48-PRACTICE BLUEPRINT
+P01–P08 vocabulary/source; P09–P16 summaries; P17–P24 representativeness; P25–P32 report/display audit; P33–P40 estimate reasoning; P41–P48 uncertainty/claims/errors.
+16-TEST BLUEPRINT
+T01–T04 evidence; T05–T08 estimates; T09–T12 independent critiques; T13–T16 verdicts and repaired claims.
+
+==============================================================================
+AC9M9ST02 — SAMPLING METHODS, REPRESENTATIONS AND POINT OF VIEW
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Analyse how different sampling methods can affect survey results and how choice of representation can support a particular point of view.
+
+CURRICULUM BOUNDARY
+Compare census, simple random, systematic, stratified, convenience and voluntary-response approaches; identify coverage, selection, response and wording bias; predict distortion; analyse scale, intervals, category order, pictorial area, omitted values and chart choice. Connect design decisions to the viewpoint supported.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Direct sampling component: Z.5 Identify biased samples. Histogram, stem-and-leaf and chart skills support displays, but no integrated viewpoint task exists: COMPOSITE/PARTIAL.
+Z.5 actual example: equal numbers selected from equal-sized blocks are representative because selection opportunity is balanced. Authoring contrasts must add convenience, voluntary response, undercoverage and disproportional strata.
+Progression: identify method → inclusion chances → bias source/direction → alternative displays → viewpoint → redesign.
+Misconceptions: every sample is biased; random means haphazard; systematic is always fair; online polls represent everyone; truncated axes are always invalid; a display changes data; chart choice ignores purpose.
+
+KHAN / TRUSTED CROSS-CHECK
+AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11. The “Reasonable samples” transcript demonstrates geographic/demographic undercoverage, candidate-affiliated convenience samples, census and two random procedures. It warns that valid election evidence supports “in the lead,” not certainty. Lesson sequence also exposes bias, undercoverage, sampling methods and valid claims.
+https://www.khanacademy.org/math/statistics-probability/designing-studies/sampling-and-surveys/v/reasonable-samples
+Maths Is Fun sampling, survey questions, results and misleading graphs: https://www.mathsisfun.com/data/index.html
+ABS authentic Australian statistical-report contexts: https://www.abs.gov.au/statistics/understanding-statistics
+
+AUTHORING TRANSFER
+Topic Page: method table; bias-source/direction framework; honest/persuasive display pairs; axis/area checks.
+Classroom View: competing classroom samples, graph same data two ways, identify beneficiaries, repair infographic.
+Homework: classify, predict bias, critique charts, propose and justify fairer design.
+Feedback: locate who can enter, find unequal inclusion/response, compare raw values/scales, state perceptual effect.
+
+48-PRACTICE BLUEPRINT
+P01–P08 methods; P09–P16 bias sources; P17–P24 direction; P25–P32 visual choices; P33–P40 viewpoints; P41–P48 redesign.
+16-TEST BLUEPRINT
+T01–T04 methods; T05–T08 bias; T09–T12 visual critiques; T13–T16 integrated evaluation.
+
+==============================================================================
+AC9M9ST03 — COMPARING MULTIPLE NUMERICAL DISTRIBUTIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Represent the distribution of multiple data sets for numerical variables using comparative representations; compare distributions considering centre, spread and shape.
+
+CURRICULUM BOUNDARY
+Construct/read aligned dot plots, histograms, stem-and-leaf/back-to-back stem plots and box plots; keep scales/class intervals comparable; use mean/median, range/IQR, and shape terms symmetric, positive/negative skew, unimodal/bimodal, clusters, gaps and outliers. Compare in context with units and evidence.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Components: interpret/create histograms; interpret/create stem-and-leaf; Z.1–Z.4 summaries/quartiles. No one task combines multiple aligned displays with centre–spread–shape prose: COMPOSITE.
+Stem example actually opened: article counts 1|0 1 6, 2|0, 3|4 5 6, 4|7. IXL combines lowest stem 1 and leaf 0 to get 10.
+Z.1 example actually opened: for −9, −6, −4, −6, −7, −7, −7, −4, −9, IXL orders negatives, counts frequency and identifies mode −7.
+Progression: values → display → centre/spread → shape/outliers → aligned comparison → contextual claim.
+Misconceptions: unordered leaves; missing key; stems are categories; compare unequal scales; higher centre means every value higher; range is typical spread; skew points toward peak; one outlier invalidates all data.
+
+KHAN / TRUSTED CROSS-CHECK
+AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11. “Example: Comparing distributions” transcript compares Portland/Minneapolis January histograms: Portland has higher centre, Minneapolis wider spread on common axes. Olympic backstroke dot plots are compared by medians/ranges, with warning that larger range need not mean larger standard deviation. Surrounding lesson covers shape, clusters, gaps, peaks and outliers.
+https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/comparing-distributions
+Maths Is Fun histograms, dot plots, stem plots, quartiles/IQR, box plots and skew: https://www.mathsisfun.com/data/index.html
+
+AUTHORING TRANSFER
+Topic Page: aligned-display rules; centre/spread/shape frame; skew-tail model; outlier effects; full comparison.
+Classroom View: human dot plots, back-to-back stems, same-scale gallery, evidence cards.
+Homework: construct/read, calculate summaries, compare and diagnose misleading comparisons.
+Feedback: verify scale/key, describe each set, compare centre/spread/shape, cite values/features.
+
+48-PRACTICE BLUEPRINT
+P01–P08 read; P09–P16 construct; P17–P24 centre; P25–P32 spread; P33–P40 shape/outliers; P41–P48 integrated comparisons.
+16-TEST BLUEPRINT
+T01–T04 represent; T05–T08 summaries; T09–T12 comparisons; T13–T16 shape/outliers/justification.
+
+==============================================================================
+AC9M9ST04 — CHOOSING AND INTERPRETING DATA DISPLAYS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Choose appropriate forms of display or visualisation for a given type of data; justify selections and interpret displays for a given context.
+
+CURRICULUM BOUNDARY
+Match nominal/ordinal categorical and discrete/continuous numerical data to tables, bar graphs, dot plots, stem plots, histograms, box plots, time-series graphs and scatterplots where relevant. Judge whether exact values, frequencies, centre, spread, shape, trend or association are preserved; justify from data type, purpose, audience and context.
+
+IXL MAPPING AND ACTUAL LEARN-WITH-EXAMPLE EVIDENCE
+Components: interpret/create histograms; interpret/create stem-and-leaf; interpret charts for summaries. No single IXL skill requires cross-display justification: COMPOSITE/PARTIAL.
+The histogram Learn-with-an-example panel was opened; its graph prompt is image-rendered and exposes no readable numbers, so none are invented. Catalogue confirms separate interpret/create histogram skills. The readable stem example preserves exact values (minimum 10), which is central to display-choice contrasts.
+Progression: variable/type → purpose → candidate displays → accurate construction → information retained/lost → justify/critique.
+Misconceptions: bar/histogram interchangeable; reorder histogram bins; histogram preserves exact values; box length is frequency; line graph for unordered categories; numerical always means histogram; prettiest is best.
+
+KHAN / TRUSTED CROSS-CHECK
+AUTHENTICATED KHAN INTERACTION VERIFIED — 2026-09-11. “Comparing dot plots, histograms, and box plots” transcript uses 14 Pixar film lengths: dot plot can reconstruct values/median, histogram bins cannot, box plot states median. For car odometers, histogram reveals five vehicles above 200,000 km; box plot cannot give count but directly shows median near 140,000 km. Choice follows the question.
+https://www.khanacademy.org/math/statistics-probability/displaying-describing-data/comparing-features-distributions/v/comparing-dot-plots-histograms-and-box-plots
+Maths Is Fun confirms histograms group continuous ranges with ordered touching intervals; bar graphs show categories: https://www.mathsisfun.com/data/histograms.html
+ABS classroom data literacy: https://www.abs.gov.au/statistics/understanding-statistics
+
+AUTHORING TRANSFER
+Topic Page: type/purpose matrix; preservation/loss table; bar-versus-histogram; digital checklist; justification model.
+Classroom View: display sort, answerable-question test, redesign for audience, critique.
+Homework: classify, choose/construct, interpret, explain limits and alternatives.
+Feedback: identify type/question, state what is exact, name what is hidden, justify trade-off.
+
+48-PRACTICE BLUEPRINT
+P01–P08 types; P09–P16 features; P17–P24 purpose; P25–P32 read/construct; P33–P40 information loss; P41–P48 justify/critique.
+16-TEST BLUEPRINT
+T01–T04 choose; T05–T08 interpret; T09–T12 contextual selection; T13–T16 justification/diagnosis.
+
+==============================================================================
+AC9M9ST05 — PLAN, CONDUCT AND REPORT STATISTICAL INVESTIGATIONS
+STATUS: AUTHORING-READY
+
+CURRICULUM DESCRIPTION
+Plan and conduct statistical investigations involving collection and analysis of different kinds of data; report findings and discuss strength of evidence supporting conclusions.
+
+CURRICULUM BOUNDARY
+Pose a statistical question; define population, variables and measures; choose primary/credible secondary data; plan fair ethical collection/sampling; clean/organise; select summaries/displays; analyse centre, spread, shape or association; conclude in context; evaluate bias, size, variability, confounding and limits. Causal claims require more than observational association.
+
+IXL MAPPING AND ACTUAL EVIDENCE
+Full investigation mapping: SOURCE-NOT-MAPPED. IXL components are biased samples, summaries, quartiles, histograms and stem plots, not the entire question–plan–collect–analyse–report–evaluate cycle.
+Verified components: equal-per-block flowers model representative selection; negative-number mode models ordering/summary; magazine stem plot models faithful representation. They must be embedded in an investigation.
+Progression: question → variables/population → design/ethics → collect/import/clean → represent/summarise → interpret → evidence evaluation → report/refine.
+Misconceptions: any question is statistical; more data fixes bias; secondary data is automatically reliable; deleting inconvenient values is cleaning; association proves cause; generalise beyond sampled population; polished graphs repair weak methods.
+
+KHAN / TRUSTED CROSS-CHECK
+AUTHENTICATED KHAN CHECK — COMPOSITE/PARTIAL. Unit 6 sequences valid claims, random-sample inference, population/sample, bias, undercoverage, correlation/causality and sampling methods. “Reasonable samples” provides design/validity reasoning, but Khan does not package the full Australian Year 9 investigation/reporting cycle as one task.
+https://www.khanacademy.org/math/statistics-probability/designing-studies
+ABS provides statistical concepts, classroom resources and authentic Australian data: https://www.abs.gov.au/statistics/understanding-statistics
+Maths Is Fun links survey planning, sampling, displays, centre/spread and misleading-statistics checks: https://www.mathsisfun.com/data/index.html
+
+AUTHORING TRANSFER
+Topic Page: PPDAC-style cycle; question tests; variable/source plan; cleaning log; analysis choice; evidence ladder; report model.
+Classroom View: improve questions, sampling simulation, ABS mini-investigation, analysis stations, peer audit.
+Homework: plan, analyse supplied primary/secondary data, report, limit and refine.
+Feedback: connect choices to question, preserve audit trail, separate observation/inference, restrict generalisation, calibrate conclusion.
+
+48-PRACTICE BLUEPRINT
+P01–P08 questions/variables; P09–P16 populations/sampling; P17–P24 collection/cleaning/ethics; P25–P32 summaries/displays; P33–P40 report; P41–P48 evidence/limitations/refinement.
+16-TEST BLUEPRINT
+T01–T04 plan; T05–T08 analyse; T09–T12 investigation decisions; T13–T16 report/evaluate/refine.
+
+==============================================================================
+BATCH 4 INTERACTIVE QA CHECK — 2026-09-11
+- Five codes completed: AC9M9ST01–AC9M9ST05.
+- One authenticated IXL Australia tab was used sequentially; Learn with an example was opened for bias, centre, stem-and-leaf and histogram components. Gaps are labelled COMPOSITE/PARTIAL or SOURCE-NOT-MAPPED.
+- One authenticated Khan tab was used sequentially; actual lesson placement and transcripts were inspected for sampling, distribution comparison and display selection. The full investigation-cycle gap is not overstated.
+- Australian Curriculum v9/QCAA sets scope; ABS and Maths Is Fun independently deepen public-data and display pedagogy.
+- Every code includes boundaries, progression, misconceptions, authoring transfer and distinct 48 Practice/16 Test plans.
+- All five codes are AUTHORING-READY.
+
 ==============================================================================
 BATCH 3 INTERACTIVE QA CHECK — 2026-09-11
 - Five codes completed: AC9M9M04, AC9M9M05 and AC9M9SP01–AC9M9SP03.
@@ -628,4 +803,4 @@ BATCH 1 INTERACTIVE QA CHECK — 2026-09-11
 - All five codes are genuinely AUTHORING-READY.
 
 RESUME INSTRUCTION
-Read NEXT_CODE and continue with AC9M9ST01. Do not repeat completed research unless a source or curriculum descriptor materially changes.
+Read NEXT_CODE and continue with AC9M9P01. Do not repeat completed research unless a source or curriculum descriptor materially changes.
