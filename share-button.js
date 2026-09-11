@@ -177,7 +177,7 @@
 
     var highlight = document.createElement("aside");
     highlight.id = "free-first-highlight";
-    highlight.setAttribute("aria-label", "Teaching and print resources");
+    highlight.setAttribute("aria-label", "Teaching and learning resources");
     highlight.style.margin = "clamp(14px, 2vw, 22px) 0";
     highlight.style.padding = "clamp(16px, 2.5vw, 24px)";
     highlight.style.border = "1px solid #d9e2ff";
@@ -186,70 +186,60 @@
     highlight.style.boxShadow = "0 6px 18px rgba(36, 87, 214, 0.06)";
 
     var heading = document.createElement("h2");
-    heading.textContent = "Teachers and parents: need professional, ready-to-display 16:9 teaching slides and matching worksheets?";
-    heading.style.margin = "0";
+    heading.textContent = "Teaching & Learning Resources";
+    heading.style.margin = "0 0 14px";
     heading.style.fontSize = "clamp(1.15rem, 2.4vw, 1.55rem)";
     heading.style.lineHeight = "1.3";
-
-    var supporting = document.createElement("p");
-    supporting.textContent = "Explore classroom-ready teaching slides and matching worksheets. Product previews and purchases are available securely through our TPT store.";
-    supporting.style.margin = "8px 0 0";
-
-    var link = document.createElement("a");
-    link.href = "/teach-and-explain.html";
-    link.textContent = "Explore Teach & Explain →";
-    link.style.display = "inline-block";
-    link.style.marginTop = "10px";
-    link.style.fontWeight = "700";
-
-    var books = document.createElement("a");
-    books.href = "/amazon-resources/";
-    books.textContent = "Physical Books →";
-    books.style.display = "inline-block";
-    books.style.margin = "10px 0 0 18px";
-    books.style.fontWeight = "700";
-
     highlight.appendChild(heading);
-    highlight.appendChild(supporting);
-    highlight.appendChild(link);
-    highlight.appendChild(books);
+
+    var grid = document.createElement("div");
+    grid.style.display = "grid";
+    grid.style.gridTemplateColumns = "repeat(auto-fit, minmax(210px, 1fr))";
+    grid.style.gap = "12px";
+
+    [
+      ["Teach & Explain", "Classroom teaching slides and clear explanations.", "/teach-and-explain.html"],
+      ["Print & Go", "Ready-to-print worksheets and practice packs.", "/print-and-go.html"],
+      ["Physical Books", "SkillrHub workbooks and educational books on Amazon.", "/amazon-resources/"]
+    ].forEach(function (item) {
+      var card = document.createElement("a");
+      card.href = item[2];
+      card.style.display = "block";
+      card.style.padding = "16px";
+      card.style.border = "1px solid #d9e2ff";
+      card.style.borderRadius = "12px";
+      card.style.background = "#fff";
+      card.style.textDecoration = "none";
+      card.style.color = "inherit";
+
+      var title = document.createElement("strong");
+      title.textContent = item[0];
+      title.style.display = "block";
+      title.style.fontSize = "1.05rem";
+      title.style.color = "#2457d6";
+
+      var text = document.createElement("span");
+      text.textContent = item[1];
+      text.style.display = "block";
+      text.style.marginTop = "6px";
+      text.style.color = "#52657a";
+      text.style.fontWeight = "400";
+
+      var cta = document.createElement("span");
+      cta.textContent = "Explore →";
+      cta.style.display = "block";
+      cta.style.marginTop = "10px";
+      cta.style.fontWeight = "700";
+      cta.style.color = "#5b21b6";
+
+      card.appendChild(title);
+      card.appendChild(text);
+      card.appendChild(cta);
+      grid.appendChild(card);
+    });
+
+    highlight.appendChild(grid);
     hero.insertAdjacentElement("afterend", highlight);
-  }
-
-  function addHomepagePhysicalBooksLink() {
-    if (window.location.pathname !== "/" && window.location.pathname !== "/index.html") return;
-    if (document.getElementById("skillr-physical-books-home")) return;
-
-    var target = document.querySelector(".ux-utility-grid") || document.querySelector(".ux-start") || document.querySelector("main");
-    if (!target) return;
-
-    var panel = document.createElement("section");
-    panel.id = "skillr-physical-books-home";
-    panel.className = "ux-panel";
-    panel.setAttribute("aria-label", "SkillrHub physical books");
-    panel.style.margin = "clamp(14px, 2vw, 22px) 0";
-
-    var link = document.createElement("a");
-    link.href = "/amazon-resources/";
-    link.style.display = "block";
-    link.style.textDecoration = "none";
-
-    var heading = document.createElement("h2");
-    heading.textContent = "Physical Books";
-    heading.style.marginBottom = "6px";
-
-    var text = document.createElement("p");
-    text.textContent = "SkillrHub workbooks and educational books available on Amazon.";
-    text.style.margin = "0 0 8px";
-
-    var cta = document.createElement("strong");
-    cta.textContent = "Browse physical books →";
-
-    link.appendChild(heading);
-    link.appendChild(text);
-    link.appendChild(cta);
-    panel.appendChild(link);
-    target.insertAdjacentElement("afterend", panel);
   }
 
   function addHomepagePhysicalBooksNav() {
@@ -284,7 +274,6 @@
     initSharePrompts();
     initCommercialTracking();
     addFreeFirstHomepageHighlight();
-    addHomepagePhysicalBooksLink();
     addHomepagePhysicalBooksNav();
     loadFirstVisitOnboarding();
   }
